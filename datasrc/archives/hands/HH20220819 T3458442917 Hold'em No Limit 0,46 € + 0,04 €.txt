@@ -1,0 +1,792 @@
+﻿Main PokerStars n°238080695219 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 19/08/2022 10:18:17 CET [19/08/2022 4:18:17 ET]
+Table '3458442917 1' 4-max Siège #1 est au bouton.
+Place 1: Zirayita (5000 en jetons) 
+Place 2: occhy2005 (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: oXy9576 (5000 en jetons) 
+Zirayita : met l'ante. 10
+occhy2005 : met l'ante. 10
+psychoman59 : met l'ante. 10
+oXy9576 : met l'ante. 10
+occhy2005 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Ad]
+oXy9576 : passe. 
+Zirayita : passe. 
+occhy2005 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [6s 8h Kd]
+occhy2005 : parole 
+psychoman59 : mise. 240
+occhy2005 : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6s 8h Kd]
+Siège 1 : Zirayita (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : occhy2005 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (240)
+Siège 4 : oXy9576 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238080700516 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 19/08/2022 10:18:58 CET [19/08/2022 4:18:58 ET]
+Table '3458442917 1' 4-max Siège #2 est au bouton.
+Place 1: Zirayita (4990 en jetons) 
+Place 2: occhy2005 (4890 en jetons) 
+Place 3: psychoman59 (5130 en jetons) 
+Place 4: oXy9576 (4990 en jetons) 
+Zirayita : met l'ante. 10
+occhy2005 : met l'ante. 10
+psychoman59 : met l'ante. 10
+oXy9576 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+oXy9576 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Kc]
+Zirayita : relance. 100 à 200
+occhy2005 : relance. 100 à 300
+psychoman59 : passe. 
+oXy9576 : passe. 
+Zirayita : suit. 100
+*** FLOP *** [3c 9s 5d]
+Zirayita : parole 
+occhy2005 : mise. 500
+Zirayita : suit. 500
+*** TOURNANT *** [3c 9s 5d] [Js]
+Zirayita : parole 
+occhy2005 : mise. 4080 et est all-in.
+Zirayita : passe. 
+Personne n'a suivi. (4080) sont retournés à occhy2005.
+occhy2005 a remporté 1790  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1790 | Commission 0 
+Tableau [3c 9s 5d Js]
+Siège 1 : Zirayita s'est couché. sur le Tournant
+Siège 2 : occhy2005 (bouton) a remporté (1790)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : oXy9576 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238080705248 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 19/08/2022 10:19:34 CET [19/08/2022 4:19:34 ET]
+Table '3458442917 1' 4-max Siège #3 est au bouton.
+Place 1: Zirayita (4180 en jetons) 
+Place 2: occhy2005 (5870 en jetons) 
+Place 3: psychoman59 (5070 en jetons) 
+Place 4: oXy9576 (4880 en jetons) 
+Zirayita : met l'ante. 10
+occhy2005 : met l'ante. 10
+psychoman59 : met l'ante. 10
+oXy9576 : met l'ante. 10
+oXy9576 : met la petite blind. 50
+Zirayita : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Ac]
+occhy2005 : suit. 100
+psychoman59 : relance. 390 à 490
+oXy9576 : passe. 
+Zirayita : suit. 390
+occhy2005 : suit. 390
+*** FLOP *** [6s 5s 6d]
+Zirayita : parole 
+occhy2005 : parole 
+psychoman59 : mise. 780
+Zirayita : passe. 
+occhy2005 : suit. 780
+*** TOURNANT *** [6s 5s 6d] [7d]
+occhy2005 : parole 
+psychoman59 : mise. 3120
+occhy2005 : relance. 1470 à 4590 et est all-in.
+psychoman59 : suit. 670 et est all-in.
+Personne n'a suivi. (800) sont retournés à occhy2005.
+*** RIVIÈRE *** [6s 5s 6d 7d] [8c]
+*** ABATTAGE ***
+occhy2005 : montre [7s Js] (double paire, Sept et Six)
+psychoman59 : montre [Ad Ac] (double paire, As et Six)
+psychoman59 a remporté 10700  lors du pot .
+*** SYNTHÈSE ***
+Pot total 10700 | Commission 0 
+Tableau [6s 5s 6d 7d 8c]
+Siège 1 : Zirayita (grosse blind) s'est couché. sur le Flop
+Siège 2 : occhy2005 a montré [7s Js] et a perdu avec double paire, Sept et Six
+Siège 3 : psychoman59 (bouton) a montré [Ad Ac] et a gagné (10700) avec double paire, As et Six
+Siège 4 : oXy9576 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238080712580 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 19/08/2022 10:20:30 CET [19/08/2022 4:20:30 ET]
+Table '3458442917 1' 4-max Siège #4 est au bouton.
+Place 1: Zirayita (3680 en jetons) 
+Place 2: occhy2005 (800 en jetons) 
+Place 3: psychoman59 (10700 en jetons) 
+Place 4: oXy9576 (4820 en jetons) 
+Zirayita : met l'ante. 10
+occhy2005 : met l'ante. 10
+psychoman59 : met l'ante. 10
+oXy9576 : met l'ante. 10
+Zirayita : met la petite blind. 50
+occhy2005 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Qs]
+psychoman59 : relance. 100 à 200
+oXy9576 : passe. 
+Zirayita : relance. 540 à 740
+occhy2005 : passe. 
+psychoman59 : suit. 540
+*** FLOP *** [Ts 5d 8s]
+Zirayita : mise. 2930 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (2930) sont retournés à Zirayita.
+Zirayita a remporté 1620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1620 | Commission 0 
+Tableau [Ts 5d 8s]
+Siège 1 : Zirayita (petite blind) a remporté (1620)
+Siège 2 : occhy2005 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 s'est couché. sur le Flop
+Siège 4 : oXy9576 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238080716144 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 19/08/2022 10:20:57 CET [19/08/2022 4:20:57 ET]
+Table '3458442917 1' 4-max Siège #1 est au bouton.
+Place 1: Zirayita (4550 en jetons) 
+Place 2: occhy2005 (690 en jetons) 
+Place 3: psychoman59 (9950 en jetons) 
+Place 4: oXy9576 (4810 en jetons) 
+Zirayita : met l'ante. 10
+occhy2005 : met l'ante. 10
+psychoman59 : met l'ante. 10
+oXy9576 : met l'ante. 10
+occhy2005 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 5s]
+oXy9576 : passe. 
+Zirayita : passe. 
+occhy2005 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 140  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Siège 1 : Zirayita (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : occhy2005 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (140)
+Siège 4 : oXy9576 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238080718214 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 19/08/2022 10:21:13 CET [19/08/2022 4:21:13 ET]
+Table '3458442917 1' 4-max Siège #2 est au bouton.
+Place 1: Zirayita (4540 en jetons) 
+Place 2: occhy2005 (630 en jetons) 
+Place 3: psychoman59 (10030 en jetons) 
+Place 4: oXy9576 (4800 en jetons) 
+Zirayita : met l'ante. 10
+occhy2005 : met l'ante. 10
+psychoman59 : met l'ante. 10
+oXy9576 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+oXy9576 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 5d]
+Zirayita : passe. 
+occhy2005 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à oXy9576.
+oXy9576 a remporté 140  lors du pot .
+oXy9576 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Siège 1 : Zirayita s'est couché. avant Flop (n'a pas misé)
+Siège 2 : occhy2005 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : oXy9576 (grosse blind) a remporté (140)
+
+
+
+Main PokerStars n°238080720677 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 19/08/2022 10:21:31 CET [19/08/2022 4:21:31 ET]
+Table '3458442917 1' 4-max Siège #3 est au bouton.
+Place 1: Zirayita (4530 en jetons) 
+Place 2: occhy2005 (620 en jetons) 
+Place 3: psychoman59 (9970 en jetons) 
+Place 4: oXy9576 (4880 en jetons) 
+Zirayita : met l'ante. 15
+occhy2005 : met l'ante. 15
+psychoman59 : met l'ante. 15
+oXy9576 : met l'ante. 15
+oXy9576 : met la petite blind. 60
+Zirayita : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 2c]
+occhy2005 : relance. 485 à 605 et est all-in.
+psychoman59 : passe. 
+oXy9576 : passe. 
+Zirayita : suit. 485
+*** FLOP *** [Jc 7s 2s]
+*** TOURNANT *** [Jc 7s 2s] [3h]
+*** RIVIÈRE *** [Jc 7s 2s 3h] [Jd]
+*** ABATTAGE ***
+Zirayita : montre [5c Kh] (une paire de Valets)
+occhy2005 : montre [4d Qd] (une paire de Valets - plus basse kicker)
+Zirayita a remporté 1330  lors du pot .
+occhy2005 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 1330 | Commission 0 
+Tableau [Jc 7s 2s 3h Jd]
+Siège 1 : Zirayita (grosse blind) a montré [5c Kh] et a gagné (1330) avec une paire de Valets
+Siège 2 : occhy2005 a montré [4d Qd] et a perdu avec une paire de Valets
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : oXy9576 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238080723409 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 19/08/2022 10:21:52 CET [19/08/2022 4:21:52 ET]
+Table '3458442917 1' 4-max Siège #4 est au bouton.
+Place 1: Zirayita (5240 en jetons) 
+Place 3: psychoman59 (9955 en jetons) 
+Place 4: oXy9576 (4805 en jetons) 
+Zirayita : met l'ante. 15
+psychoman59 : met l'ante. 15
+oXy9576 : met l'ante. 15
+Zirayita : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 7h]
+oXy9576 : passe. 
+Zirayita : relance. 120 à 240
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à Zirayita.
+Zirayita a remporté 285  lors du pot .
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Siège 1 : Zirayita (petite blind) a remporté (285)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : oXy9576 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238080725077 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 19/08/2022 10:22:05 CET [19/08/2022 4:22:05 ET]
+Table '3458442917 1' 4-max Siège #1 est au bouton.
+Place 1: Zirayita (5390 en jetons) 
+Place 3: psychoman59 (9820 en jetons) 
+Place 4: oXy9576 (4790 en jetons) 
+Zirayita : met l'ante. 15
+psychoman59 : met l'ante. 15
+oXy9576 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+oXy9576 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 5c]
+Zirayita : relance. 120 à 240
+psychoman59 : suit. 180
+oXy9576 : suit. 120
+*** FLOP *** [8c Tc 8h]
+psychoman59 : parole 
+oXy9576 : parole 
+Zirayita : mise. 240
+psychoman59 : suit. 240
+oXy9576 : relance. 1485 à 1725
+Zirayita : passe. 
+psychoman59 : suit. 1485
+*** TOURNANT *** [8c Tc 8h] [Ad]
+psychoman59 : parole 
+oXy9576 : parole 
+*** RIVIÈRE *** [8c Tc 8h Ad] [5d]
+psychoman59 : mise. 2227
+oXy9576 : relance. 583 à 2810 et est all-in.
+psychoman59 : suit. 583
+*** ABATTAGE ***
+oXy9576 : montre [Qc 8d] (un brelan de Huit)
+psychoman59 : montre [Ac 5c] (double paire, As et Huit)
+oXy9576 a remporté 10075  lors du pot .
+*** SYNTHÈSE ***
+Pot total 10075 | Commission 0 
+Tableau [8c Tc 8h Ad 5d]
+Siège 1 : Zirayita (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) a montré [Ac 5c] et a perdu avec double paire, As et Huit
+Siège 4 : oXy9576 (grosse blind) a montré [Qc 8d] et a gagné (10075) avec un brelan de Huit
+
+
+
+Main PokerStars n°238080731524 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 19/08/2022 10:22:53 CET [19/08/2022 4:22:53 ET]
+Table '3458442917 1' 4-max Siège #3 est au bouton.
+Place 1: Zirayita (4895 en jetons) 
+Place 3: psychoman59 (5030 en jetons) 
+Place 4: oXy9576 (10075 en jetons) 
+Zirayita : met l'ante. 15
+psychoman59 : met l'ante. 15
+oXy9576 : met l'ante. 15
+oXy9576 : met la petite blind. 60
+Zirayita : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Jh]
+psychoman59 : passe. 
+oXy9576 : passe. 
+Personne n'a suivi. (60) sont retournés à Zirayita.
+Zirayita a remporté 165  lors du pot .
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : Zirayita (grosse blind) a remporté (165)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : oXy9576 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238080732702 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 19/08/2022 10:23:02 CET [19/08/2022 4:23:02 ET]
+Table '3458442917 1' 4-max Siège #4 est au bouton.
+Place 1: Zirayita (4985 en jetons) 
+Place 3: psychoman59 (5015 en jetons) 
+Place 4: oXy9576 (10000 en jetons) 
+Zirayita : met l'ante. 15
+psychoman59 : met l'ante. 15
+oXy9576 : met l'ante. 15
+Zirayita : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Td]
+oXy9576 : passe. 
+Zirayita : relance. 120 à 240
+psychoman59 : relance. 4760 à 5000 et est all-in.
+Zirayita : suit. 4730 et est all-in.
+Personne n'a suivi. (30) sont retournés à psychoman59.
+*** FLOP *** [Jh 9h Kd]
+*** TOURNANT *** [Jh 9h Kd] [4h]
+*** RIVIÈRE *** [Jh 9h Kd 4h] [Jd]
+*** ABATTAGE ***
+Zirayita : montre [As 5s] (une paire de Valets)
+psychoman59 : montre [Ts Td] (double paire, Valets et Dix)
+psychoman59 a remporté 9985  lors du pot .
+Zirayita a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 9985 | Commission 0 
+Tableau [Jh 9h Kd 4h Jd]
+Siège 1 : Zirayita (petite blind) a montré [As 5s] et a perdu avec une paire de Valets
+Siège 3 : psychoman59 (grosse blind) a montré [Ts Td] et a gagné (9985) avec double paire, Valets et Dix
+Siège 4 : oXy9576 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238080735836 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 19/08/2022 10:23:26 CET [19/08/2022 4:23:26 ET]
+Table '3458442917 1' 4-max Siège #3 est au bouton.
+Place 3: psychoman59 (10015 en jetons) 
+Place 4: oXy9576 (9985 en jetons) 
+psychoman59 : met l'ante. 15
+oXy9576 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+oXy9576 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 2c]
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à oXy9576.
+oXy9576 a remporté 150  lors du pot .
+oXy9576 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : oXy9576 (grosse blind) a remporté (150)
+
+
+
+Main PokerStars n°238080737055 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 19/08/2022 10:23:35 CET [19/08/2022 4:23:35 ET]
+Table '3458442917 1' 4-max Siège #4 est au bouton.
+Place 3: psychoman59 (9940 en jetons) 
+Place 4: oXy9576 (10060 en jetons) 
+psychoman59 : met l'ante. 15
+oXy9576 : met l'ante. 15
+oXy9576 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Jd]
+oXy9576 : relance. 120 à 240
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à oXy9576.
+oXy9576 a remporté 270  lors du pot .
+oXy9576 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : oXy9576 (bouton) (petite blind) a remporté (270)
+
+
+
+Main PokerStars n°238080738444 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 19/08/2022 10:23:45 CET [19/08/2022 4:23:45 ET]
+Table '3458442917 1' 4-max Siège #3 est au bouton.
+Place 3: psychoman59 (9805 en jetons) 
+Place 4: oXy9576 (10195 en jetons) 
+psychoman59 : met l'ante. 15
+oXy9576 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+oXy9576 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Qd]
+psychoman59 : relance. 120 à 240
+oXy9576 : relance. 510 à 750
+psychoman59 : passe. 
+Personne n'a suivi. (510) sont retournés à oXy9576.
+oXy9576 a remporté 510  lors du pot .
+oXy9576 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 510 | Commission 0 
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : oXy9576 (grosse blind) a remporté (510)
+
+
+
+Main PokerStars n°238080741411 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 19/08/2022 10:24:07 CET [19/08/2022 4:24:07 ET]
+Table '3458442917 1' 4-max Siège #4 est au bouton.
+Place 3: psychoman59 (9550 en jetons) 
+Place 4: oXy9576 (10450 en jetons) 
+psychoman59 : met l'ante. 15
+oXy9576 : met l'ante. 15
+oXy9576 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c As]
+oXy9576 : relance. 120 à 240
+psychoman59 : relance. 9295 à 9535 et est all-in.
+oXy9576 : passe. 
+Personne n'a suivi. (9295) sont retournés à psychoman59.
+psychoman59 a remporté 510  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 510 | Commission 0 
+Siège 3 : psychoman59 (grosse blind) a remporté (510)
+Siège 4 : oXy9576 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238080743526 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 19/08/2022 10:24:23 CET [19/08/2022 4:24:23 ET]
+Table '3458442917 1' 4-max Siège #3 est au bouton.
+Place 3: psychoman59 (9805 en jetons) 
+Place 4: oXy9576 (10195 en jetons) 
+psychoman59 : met l'ante. 20
+oXy9576 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+oXy9576 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à oXy9576.
+oXy9576 a remporté 190  lors du pot .
+oXy9576 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : oXy9576 (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°238080744567 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 19/08/2022 10:24:31 CET [19/08/2022 4:24:31 ET]
+Table '3458442917 1' 4-max Siège #4 est au bouton.
+Place 3: psychoman59 (9710 en jetons) 
+Place 4: oXy9576 (10290 en jetons) 
+psychoman59 : met l'ante. 20
+oXy9576 : met l'ante. 20
+oXy9576 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 5c]
+oXy9576 : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 190  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 3 : psychoman59 (grosse blind) a remporté (190)
+Siège 4 : oXy9576 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238080745560 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 19/08/2022 10:24:39 CET [19/08/2022 4:24:39 ET]
+Table '3458442917 1' 4-max Siège #3 est au bouton.
+Place 3: psychoman59 (9805 en jetons) 
+Place 4: oXy9576 (10195 en jetons) 
+psychoman59 : met l'ante. 20
+oXy9576 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+oXy9576 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Td]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à oXy9576.
+oXy9576 a remporté 190  lors du pot .
+oXy9576 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : oXy9576 (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°238080746510 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 19/08/2022 10:24:46 CET [19/08/2022 4:24:46 ET]
+Table '3458442917 1' 4-max Siège #4 est au bouton.
+Place 3: psychoman59 (9710 en jetons) 
+Place 4: oXy9576 (10290 en jetons) 
+psychoman59 : met l'ante. 20
+oXy9576 : met l'ante. 20
+oXy9576 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Kd]
+oXy9576 : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 190  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 3 : psychoman59 (grosse blind) a remporté (190)
+Siège 4 : oXy9576 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238080747485 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 19/08/2022 10:24:53 CET [19/08/2022 4:24:53 ET]
+Table '3458442917 1' 4-max Siège #3 est au bouton.
+Place 3: psychoman59 (9805 en jetons) 
+Place 4: oXy9576 (10195 en jetons) 
+psychoman59 : met l'ante. 20
+oXy9576 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+oXy9576 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h As]
+psychoman59 : relance. 150 à 300
+oXy9576 : suit. 150
+*** FLOP *** [9s Ad 8d]
+oXy9576 : parole 
+psychoman59 : mise. 640
+oXy9576 : passe. 
+Personne n'a suivi. (640) sont retournés à psychoman59.
+psychoman59 a remporté 640  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [9s Ad 8d]
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (640)
+Siège 4 : oXy9576 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238080750637 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 19/08/2022 10:25:18 CET [19/08/2022 4:25:18 ET]
+Table '3458442917 1' 4-max Siège #4 est au bouton.
+Place 3: psychoman59 (10125 en jetons) 
+Place 4: oXy9576 (9875 en jetons) 
+psychoman59 : met l'ante. 20
+oXy9576 : met l'ante. 20
+oXy9576 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Qs]
+oXy9576 : relance. 150 à 300
+psychoman59 : suit. 150
+*** FLOP *** [2c 5d 4s]
+psychoman59 : parole 
+oXy9576 : mise. 320
+psychoman59 : passe. 
+Personne n'a suivi. (320) sont retournés à oXy9576.
+oXy9576 a remporté 640  lors du pot .
+oXy9576 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [2c 5d 4s]
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 4 : oXy9576 (bouton) (petite blind) a remporté (640)
+
+
+
+Main PokerStars n°238080753101 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 19/08/2022 10:25:37 CET [19/08/2022 4:25:37 ET]
+Table '3458442917 1' 4-max Siège #3 est au bouton.
+Place 3: psychoman59 (9805 en jetons) 
+Place 4: oXy9576 (10195 en jetons) 
+psychoman59 : met l'ante. 20
+oXy9576 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+oXy9576 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s As]
+psychoman59 : relance. 340 à 490
+oXy9576 : passe. 
+Personne n'a suivi. (340) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (340)
+Siège 4 : oXy9576 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238080754517 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 19/08/2022 10:25:48 CET [19/08/2022 4:25:48 ET]
+Table '3458442917 1' 4-max Siège #4 est au bouton.
+Place 3: psychoman59 (9975 en jetons) 
+Place 4: oXy9576 (10025 en jetons) 
+psychoman59 : met l'ante. 20
+oXy9576 : met l'ante. 20
+oXy9576 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 8h]
+oXy9576 : relance. 150 à 300
+psychoman59 : relance. 9655 à 9955 et est all-in.
+oXy9576 : passe. 
+Personne n'a suivi. (9655) sont retournés à psychoman59.
+psychoman59 a remporté 640  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Siège 3 : psychoman59 (grosse blind) a remporté (640)
+Siège 4 : oXy9576 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238080756387 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 19/08/2022 10:26:01 CET [19/08/2022 4:26:01 ET]
+Table '3458442917 1' 4-max Siège #3 est au bouton.
+Place 3: psychoman59 (10295 en jetons) 
+Place 4: oXy9576 (9705 en jetons) 
+psychoman59 : met l'ante. 20
+oXy9576 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+oXy9576 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Qh]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à oXy9576.
+oXy9576 a remporté 190  lors du pot .
+oXy9576 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : oXy9576 (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°238080757398 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 19/08/2022 10:26:09 CET [19/08/2022 4:26:09 ET]
+Table '3458442917 1' 4-max Siège #4 est au bouton.
+Place 3: psychoman59 (10200 en jetons) 
+Place 4: oXy9576 (9800 en jetons) 
+psychoman59 : met l'ante. 20
+oXy9576 : met l'ante. 20
+oXy9576 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 4s]
+oXy9576 : relance. 150 à 300
+psychoman59 : suit. 150
+*** FLOP *** [3s 7h 5d]
+psychoman59 : parole 
+oXy9576 : parole 
+*** TOURNANT *** [3s 7h 5d] [4h]
+psychoman59 : mise. 640
+oXy9576 : passe. 
+Personne n'a suivi. (640) sont retournés à psychoman59.
+psychoman59 a remporté 640  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [3s 7h 5d 4h]
+Siège 3 : psychoman59 (grosse blind) a remporté (640)
+Siège 4 : oXy9576 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238080760692 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 19/08/2022 10:26:34 CET [19/08/2022 4:26:34 ET]
+Table '3458442917 1' 4-max Siège #3 est au bouton.
+Place 3: psychoman59 (10520 en jetons) 
+Place 4: oXy9576 (9480 en jetons) 
+psychoman59 : met l'ante. 20
+oXy9576 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+oXy9576 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 9c]
+psychoman59 : suit. 75
+oXy9576 : parole 
+*** FLOP *** [8c 7d 9d]
+oXy9576 : parole 
+psychoman59 : mise. 150
+oXy9576 : relance. 320 à 470
+psychoman59 : relance. 9880 à 10350 et est all-in.
+oXy9576 : passe. 
+Personne n'a suivi. (9880) sont retournés à psychoman59.
+psychoman59 a remporté 1280  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1280 | Commission 0 
+Tableau [8c 7d 9d]
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (1280)
+Siège 4 : oXy9576 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238080764923 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 19/08/2022 10:27:05 CET [19/08/2022 4:27:05 ET]
+Table '3458442917 1' 4-max Siège #4 est au bouton.
+Place 3: psychoman59 (11160 en jetons) 
+Place 4: oXy9576 (8840 en jetons) 
+psychoman59 : met l'ante. 20
+oXy9576 : met l'ante. 20
+oXy9576 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Td]
+oXy9576 : relance. 150 à 300
+psychoman59 : suit. 150
+*** FLOP *** [Qs 9h 3c]
+psychoman59 : parole 
+oXy9576 : mise. 320
+psychoman59 : suit. 320
+*** TOURNANT *** [Qs 9h 3c] [Js]
+psychoman59 : parole 
+oXy9576 : parole 
+*** RIVIÈRE *** [Qs 9h 3c Js] [7c]
+psychoman59 : mise. 640
+oXy9576 : suit. 640
+*** ABATTAGE ***
+psychoman59 : montre [Jd Td] (une paire de Valets)
+oXy9576 : cache la main perdante. 
+psychoman59 a remporté 2560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2560 | Commission 0 
+Tableau [Qs 9h 3c Js 7c]
+Siège 3 : psychoman59 (grosse blind) a montré [Jd Td] et a gagné (2560) avec une paire de Valets
+Siège 4 : oXy9576 (bouton) (petite blind) a caché la main perdante. [Ad 7s]
+
+
+
+Main PokerStars n°238080769021 : Tournoi #3458442917, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 19/08/2022 10:27:37 CET [19/08/2022 4:27:37 ET]
+Table '3458442917 1' 4-max Siège #3 est au bouton.
+Place 3: psychoman59 (12440 en jetons) 
+Place 4: oXy9576 (7560 en jetons) 
+psychoman59 : met l'ante. 25
+oXy9576 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+oXy9576 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Jc]
+psychoman59 : relance. 200 à 400
+oXy9576 : relance. 850 à 1250
+psychoman59 : relance. 11165 à 12415 et est all-in.
+oXy9576 : suit. 6285 et est all-in.
+Personne n'a suivi. (4880) sont retournés à psychoman59.
+*** FLOP *** [4h 6c 9h]
+*** TOURNANT *** [4h 6c 9h] [5d]
+*** RIVIÈRE *** [4h 6c 9h 5d] [5s]
+*** ABATTAGE ***
+oXy9576 : montre [9s Kd] (double paire, Neuf et Cinq)
+psychoman59 : montre [Jh Jc] (double paire, Valets et Cinq)
+psychoman59 a remporté 15120  lors du pot .
+oXy9576 a fini le tournoi à la 2e place et a reçu 0.34 €.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 15120 | Commission 0 
+Tableau [4h 6c 9h 5d 5s]
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Jh Jc] et a gagné (15120) avec double paire, Valets et Cinq
+Siège 4 : oXy9576 (grosse blind) a montré [9s Kd] et a perdu avec double paire, Neuf et Cinq
+
+
+

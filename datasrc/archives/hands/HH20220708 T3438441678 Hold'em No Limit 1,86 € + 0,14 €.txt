@@ -1,0 +1,333 @@
+﻿Main PokerStars n°237230148116 : Tournoi #3438441678, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 11:06:36 CET [08/07/2022 5:06:36 ET]
+Table '3438441678 1' 3-max Siège #1 est au bouton.
+Place 1: Marce-ribe (300 en jetons) 
+Place 2: heidelll (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+heidelll : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Ts]
+Marce-ribe : suit. 20
+heidelll : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6s As 4d]
+heidelll : parole 
+psychoman59 : parole 
+Marce-ribe : mise. 40
+heidelll : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Marce-ribe.
+Marce-ribe a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6s As 4d]
+Siège 1 : Marce-ribe (bouton) a remporté (60)
+Siège 2 : heidelll (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237230152329 : Tournoi #3438441678, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 11:07:06 CET [08/07/2022 5:07:06 ET]
+Table '3438441678 1' 3-max Siège #2 est au bouton.
+Place 1: Marce-ribe (340 en jetons) 
+Place 2: heidelll (280 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+Marce-ribe : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 7c]
+heidelll : relance. 260 à 280 et est all-in.
+psychoman59 : passe. 
+Marce-ribe : suit. 260
+*** FLOP *** [4s 9h 9c]
+*** TOURNANT *** [4s 9h 9c] [4c]
+*** RIVIÈRE *** [4s 9h 9c 4c] [8h]
+*** ABATTAGE ***
+Marce-ribe : montre [Tc Jh] (double paire, Neuf et Quatre)
+heidelll : montre [Ks Ac] (double paire, Neuf et Quatre - As kicker)
+heidelll a remporté 570  lors du pot .
+*** SYNTHÈSE ***
+Pot total 570 | Commission 0 
+Tableau [4s 9h 9c 4c 8h]
+Siège 1 : Marce-ribe (grosse blind) a montré [Tc Jh] et a perdu avec double paire, Neuf et Quatre
+Siège 2 : heidelll (bouton) a montré [Ks Ac] et a gagné (570) avec double paire, Neuf et Quatre
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237230155223 : Tournoi #3438441678, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 11:07:26 CET [08/07/2022 5:07:26 ET]
+Table '3438441678 1' 3-max Siège #3 est au bouton.
+Place 1: Marce-ribe (60 en jetons) 
+Place 2: heidelll (570 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+Marce-ribe : met la petite blind. 10
+heidelll : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 8s]
+psychoman59 : relance. 250 à 270 et est all-in.
+Marce-ribe : suit. 50 et est all-in.
+heidelll : passe. 
+Personne n'a suivi. (210) sont retournés à psychoman59.
+*** FLOP *** [3d 2d Qc]
+*** TOURNANT *** [3d 2d Qc] [Qh]
+*** RIVIÈRE *** [3d 2d Qc Qh] [Kd]
+*** ABATTAGE ***
+Marce-ribe : montre [As Ac] (double paire, As et Dames)
+psychoman59 : montre [8h 8s] (double paire, Dames et Huit)
+Marce-ribe a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [3d 2d Qc Qh Kd]
+Siège 1 : Marce-ribe (petite blind) a montré [As Ac] et a gagné (140) avec double paire, As et Dames
+Siège 2 : heidelll (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [8h 8s] et a perdu avec double paire, Dames et Huit
+
+
+
+Main PokerStars n°237230159236 : Tournoi #3438441678, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2022 11:07:55 CET [08/07/2022 5:07:55 ET]
+Table '3438441678 1' 3-max Siège #1 est au bouton.
+Place 1: Marce-ribe (140 en jetons) 
+Place 2: heidelll (550 en jetons) 
+Place 3: psychoman59 (210 en jetons) 
+heidelll : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 5s]
+Marce-ribe : suit. 30
+heidelll : passe. 
+psychoman59 : parole 
+*** FLOP *** [3c 4h 6c]
+psychoman59 : mise. 180 et est all-in.
+Marce-ribe : suit. 110 et est all-in.
+Personne n'a suivi. (70) sont retournés à psychoman59.
+*** TOURNANT *** [3c 4h 6c] [Ts]
+*** RIVIÈRE *** [3c 4h 6c Ts] [5h]
+*** ABATTAGE ***
+psychoman59 : montre [3s 5s] (double paire, Cinq et Trois)
+Marce-ribe : montre [6d 2d] (une suite, Deux à Six)
+Marce-ribe a remporté 295  lors du pot .
+*** SYNTHÈSE ***
+Pot total 295 | Commission 0 
+Tableau [3c 4h 6c Ts 5h]
+Siège 1 : Marce-ribe (bouton) a montré [6d 2d] et a gagné (295) avec une suite, Deux à Six
+Siège 2 : heidelll (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [3s 5s] et a perdu avec double paire, Cinq et Trois
+
+
+
+Main PokerStars n°237230163258 : Tournoi #3438441678, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2022 11:08:23 CET [08/07/2022 5:08:23 ET]
+Table '3438441678 1' 3-max Siège #2 est au bouton.
+Place 1: Marce-ribe (295 en jetons) 
+Place 2: heidelll (535 en jetons) 
+Place 3: psychoman59 (70 en jetons) 
+psychoman59 : met la petite blind. 15
+Marce-ribe : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 3d]
+heidelll : relance. 505 à 535 et est all-in.
+psychoman59 : passe. 
+Marce-ribe : passe. 
+Personne n'a suivi. (505) sont retournés à heidelll.
+heidelll a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : Marce-ribe (grosse blind) s'est couché. avant Flop
+Siège 2 : heidelll (bouton) a remporté (75)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237230165804 : Tournoi #3438441678, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 11:08:41 CET [08/07/2022 5:08:41 ET]
+Table '3438441678 1' 3-max Siège #3 est au bouton.
+Place 1: Marce-ribe (265 en jetons) 
+Place 2: heidelll (580 en jetons) 
+Place 3: psychoman59 (55 en jetons) 
+Marce-ribe : met la petite blind. 20
+heidelll : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 5h]
+psychoman59 : relance. 15 à 55 et est all-in.
+Marce-ribe : suit. 35
+heidelll : passe. 
+*** FLOP *** [3d 2c 2d]
+*** TOURNANT *** [3d 2c 2d] [Kh]
+*** RIVIÈRE *** [3d 2c 2d Kh] [6h]
+*** ABATTAGE ***
+Marce-ribe : montre [6c 4h] (double paire, Six et Deux)
+psychoman59 : montre [Kc 5h] (double paire, Rois et Deux)
+psychoman59 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [3d 2c 2d Kh 6h]
+Siège 1 : Marce-ribe (petite blind) a montré [6c 4h] et a perdu avec double paire, Six et Deux
+Siège 2 : heidelll (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [Kc 5h] et a gagné (150) avec double paire, Rois et Deux
+
+
+
+Main PokerStars n°237230167999 : Tournoi #3438441678, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 11:08:56 CET [08/07/2022 5:08:56 ET]
+Table '3438441678 1' 3-max Siège #1 est au bouton.
+Place 1: Marce-ribe (210 en jetons) 
+Place 2: heidelll (540 en jetons) 
+Place 3: psychoman59 (150 en jetons) 
+heidelll : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 4h]
+Marce-ribe : passe. 
+heidelll : relance. 500 à 540 et est all-in.
+psychoman59 : suit. 110 et est all-in.
+Personne n'a suivi. (390) sont retournés à heidelll.
+*** FLOP *** [2h 9d 6h]
+*** TOURNANT *** [2h 9d 6h] [9h]
+*** RIVIÈRE *** [2h 9d 6h 9h] [2s]
+*** ABATTAGE ***
+heidelll : montre [Js Tc] (double paire, Neuf et Deux)
+psychoman59 : montre [Ac 4h] (double paire, Neuf et Deux - As kicker)
+psychoman59 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [2h 9d 6h 9h 2s]
+Siège 1 : Marce-ribe (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : heidelll (petite blind) a montré [Js Tc] et a perdu avec double paire, Neuf et Deux
+Siège 3 : psychoman59 (grosse blind) a montré [Ac 4h] et a gagné (300) avec double paire, Neuf et Deux
+
+
+
+Main PokerStars n°237230171541 : Tournoi #3438441678, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 11:09:21 CET [08/07/2022 5:09:21 ET]
+Table '3438441678 1' 3-max Siège #2 est au bouton.
+Place 1: Marce-ribe (210 en jetons) 
+Place 2: heidelll (390 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+psychoman59 : met la petite blind. 20
+Marce-ribe : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 7d]
+heidelll : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Marce-ribe.
+Marce-ribe a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Marce-ribe (grosse blind) a remporté (40)
+Siège 2 : heidelll (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237230173052 : Tournoi #3438441678, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 11:09:32 CET [08/07/2022 5:09:32 ET]
+Table '3438441678 1' 3-max Siège #3 est au bouton.
+Place 1: Marce-ribe (230 en jetons) 
+Place 2: heidelll (390 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+Marce-ribe : met la petite blind. 20
+heidelll : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 8d]
+psychoman59 : passe. 
+Marce-ribe : suit. 20
+heidelll : relance. 350 à 390 et est all-in.
+Marce-ribe : passe. 
+Personne n'a suivi. (350) sont retournés à heidelll.
+heidelll a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Marce-ribe (petite blind) s'est couché. avant Flop
+Siège 2 : heidelll (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237230175301 : Tournoi #3438441678, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/07/2022 11:09:48 CET [08/07/2022 5:09:48 ET]
+Table '3438441678 1' 3-max Siège #1 est au bouton.
+Place 1: Marce-ribe (190 en jetons) 
+Place 2: heidelll (430 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+heidelll : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 6d]
+Marce-ribe : passe. 
+heidelll : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Marce-ribe (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : heidelll (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237230176267 : Tournoi #3438441678, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/07/2022 11:09:55 CET [08/07/2022 5:09:55 ET]
+Table '3438441678 1' 3-max Siège #2 est au bouton.
+Place 1: Marce-ribe (190 en jetons) 
+Place 2: heidelll (400 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 30
+Marce-ribe : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 9d]
+heidelll : passe. 
+psychoman59 : relance. 250 à 310 et est all-in.
+Marce-ribe : suit. 130 et est all-in.
+Personne n'a suivi. (120) sont retournés à psychoman59.
+*** FLOP *** [Ah 4d Jd]
+*** TOURNANT *** [Ah 4d Jd] [Tc]
+*** RIVIÈRE *** [Ah 4d Jd Tc] [8h]
+*** ABATTAGE ***
+psychoman59 : montre [Ad 9d] (une paire de As)
+Marce-ribe : montre [3d Ks] (Hauteur As)
+psychoman59 a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [Ah 4d Jd Tc 8h]
+Siège 1 : Marce-ribe (grosse blind) a montré [3d Ks] et a perdu avec Hauteur As
+Siège 2 : heidelll (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Ad 9d] et a gagné (380) avec une paire de As
+
+
+
+Main PokerStars n°237230179826 : Tournoi #3438441678, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/07/2022 11:10:20 CET [08/07/2022 5:10:20 ET]
+Table '3438441678 1' 3-max Siège #3 est au bouton.
+Place 2: heidelll (400 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+psychoman59 : met la petite blind. 30
+heidelll : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à heidelll.
+heidelll a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : heidelll (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237230180512 : Tournoi #3438441678, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/07/2022 11:10:25 CET [08/07/2022 5:10:25 ET]
+Table '3438441678 1' 3-max Siège #2 est au bouton.
+Place 2: heidelll (430 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+heidelll : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Kh]
+heidelll : relance. 370 à 430 et est all-in.
+psychoman59 : suit. 370
+*** FLOP *** [3d Ts Qh]
+*** TOURNANT *** [3d Ts Qh] [2s]
+*** RIVIÈRE *** [3d Ts Qh 2s] [2c]
+*** ABATTAGE ***
+psychoman59 : montre [2d Kh] (un brelan de Deux)
+heidelll : montre [Tc Jd] (double paire, Dix et Deux)
+psychoman59 a remporté 860  lors du pot .
+*** SYNTHÈSE ***
+Pot total 860 | Commission 0 
+Tableau [3d Ts Qh 2s 2c]
+Siège 2 : heidelll (bouton) (petite blind) a montré [Tc Jd] et a perdu avec double paire, Dix et Deux
+Siège 3 : psychoman59 (grosse blind) a montré [2d Kh] et a gagné (860) avec un brelan de Deux
+
+
+

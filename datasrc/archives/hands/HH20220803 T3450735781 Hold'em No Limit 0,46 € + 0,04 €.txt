@@ -1,0 +1,606 @@
+﻿Main PokerStars n°237758776603 : Tournoi #3450735781, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 03/08/2022 10:12:31 CET [03/08/2022 4:12:31 ET]
+Table '3450735781 1' 4-max Siège #1 est au bouton.
+Place 1: jimmeuge (5000 en jetons) 
+Place 2: crasseux42 (5000 en jetons) 
+Place 3: Faz7638 (5000 en jetons) 
+Place 4: psychoman59 (5000 en jetons) 
+jimmeuge : met l'ante. 10
+crasseux42 : met l'ante. 10
+Faz7638 : met l'ante. 10
+psychoman59 : met l'ante. 10
+crasseux42 : met la petite blind. 50
+Faz7638 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 4c]
+psychoman59 : passe. 
+jimmeuge : passe. 
+crasseux42 : suit. 50
+Faz7638 : parole 
+*** FLOP *** [Kd Qc 5c]
+crasseux42 : parole 
+Faz7638 : mise. 100
+crasseux42 : suit. 100
+*** TOURNANT *** [Kd Qc 5c] [3c]
+crasseux42 : parole 
+Faz7638 : mise. 400
+crasseux42 : passe. 
+Personne n'a suivi. (400) sont retournés à Faz7638.
+Faz7638 a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [Kd Qc 5c 3c]
+Siège 1 : jimmeuge (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : crasseux42 (petite blind) s'est couché. sur le Tournant
+Siège 3 : Faz7638 (grosse blind) a remporté (440)
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237758783198 : Tournoi #3450735781, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 03/08/2022 10:13:25 CET [03/08/2022 4:13:25 ET]
+Table '3450735781 1' 4-max Siège #2 est au bouton.
+Place 1: jimmeuge (4990 en jetons) 
+Place 2: crasseux42 (4790 en jetons) 
+Place 3: Faz7638 (5230 en jetons) 
+Place 4: psychoman59 (4990 en jetons) 
+jimmeuge : met l'ante. 10
+crasseux42 : met l'ante. 10
+Faz7638 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Faz7638 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Kc]
+jimmeuge : relance. 4880 à 4980 et est all-in.
+crasseux42 : passe. 
+Faz7638 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (4880) sont retournés à jimmeuge.
+jimmeuge a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : jimmeuge a remporté (290)
+Siège 2 : crasseux42 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Faz7638 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237758785573 : Tournoi #3450735781, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 03/08/2022 10:13:44 CET [03/08/2022 4:13:44 ET]
+Table '3450735781 1' 4-max Siège #3 est au bouton.
+Place 1: jimmeuge (5170 en jetons) 
+Place 2: crasseux42 (4780 en jetons) 
+Place 3: Faz7638 (5170 en jetons) 
+Place 4: psychoman59 (4880 en jetons) 
+jimmeuge : met l'ante. 10
+crasseux42 : met l'ante. 10
+Faz7638 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+jimmeuge : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 7h]
+crasseux42 : suit. 100
+Faz7638 : suit. 100
+psychoman59 : suit. 50
+jimmeuge : parole 
+*** FLOP *** [8c 5s 2d]
+psychoman59 : parole 
+jimmeuge : mise. 5060 et est all-in.
+crasseux42 : suit. 4670 et est all-in.
+Faz7638 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (390) sont retournés à jimmeuge.
+*** TOURNANT *** [8c 5s 2d] [7c]
+*** RIVIÈRE *** [8c 5s 2d 7c] [5d]
+*** ABATTAGE ***
+jimmeuge : montre [6c 8d] (double paire, Huit et Cinq)
+crasseux42 : montre [8s 9c] (double paire, Huit et Cinq - Neuf kicker)
+crasseux42 a remporté 9780  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9780 | Commission 0 
+Tableau [8c 5s 2d 7c 5d]
+Siège 1 : jimmeuge (grosse blind) a montré [6c 8d] et a perdu avec double paire, Huit et Cinq
+Siège 2 : crasseux42 a montré [8s 9c] et a gagné (9780) avec double paire, Huit et Cinq
+Siège 3 : Faz7638 (bouton) s'est couché. sur le Flop
+Siège 4 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237758791876 : Tournoi #3450735781, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 03/08/2022 10:14:35 CET [03/08/2022 4:14:35 ET]
+Table '3450735781 1' 4-max Siège #4 est au bouton.
+Place 1: jimmeuge (390 en jetons) 
+Place 2: crasseux42 (9780 en jetons) 
+Place 3: Faz7638 (5060 en jetons) 
+Place 4: psychoman59 (4770 en jetons) 
+jimmeuge : met l'ante. 10
+crasseux42 : met l'ante. 10
+Faz7638 : met l'ante. 10
+psychoman59 : met l'ante. 10
+jimmeuge : met la petite blind. 50
+crasseux42 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 9s]
+Faz7638 : suit. 100
+psychoman59 : passe. 
+jimmeuge : relance. 280 à 380 et est all-in.
+crasseux42 : passe. 
+Faz7638 : suit. 280
+*** FLOP *** [Kh Ts 5h]
+*** TOURNANT *** [Kh Ts 5h] [Qh]
+*** RIVIÈRE *** [Kh Ts 5h Qh] [8d]
+*** ABATTAGE ***
+jimmeuge : montre [4h 7s] (Hauteur Roi)
+Faz7638 : montre [As 5c] (une paire de Cinq)
+Faz7638 a remporté 900  lors du pot .
+jimmeuge a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [Kh Ts 5h Qh 8d]
+Siège 1 : jimmeuge (petite blind) a montré [4h 7s] et a perdu avec Hauteur Roi
+Siège 2 : crasseux42 (grosse blind) s'est couché. avant Flop
+Siège 3 : Faz7638 a montré [As 5c] et a gagné (900) avec une paire de Cinq
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237758795409 : Tournoi #3450735781, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 03/08/2022 10:15:03 CET [03/08/2022 4:15:03 ET]
+Table '3450735781 1' 4-max Siège #2 est au bouton.
+Place 2: crasseux42 (9670 en jetons) 
+Place 3: Faz7638 (5570 en jetons) 
+Place 4: psychoman59 (4760 en jetons) 
+crasseux42 : met l'ante. 10
+Faz7638 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Faz7638 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc As]
+crasseux42 : passe. 
+Faz7638 : suit. 50
+psychoman59 : relance. 230 à 330
+Faz7638 : suit. 230
+*** FLOP *** [9h Kh 7h]
+Faz7638 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9h Kh 7h] [3c]
+Faz7638 : mise. 200
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à Faz7638.
+Faz7638 a remporté 690  lors du pot .
+*** SYNTHÈSE ***
+Pot total 690 | Commission 0 
+Tableau [9h Kh 7h 3c]
+Siège 2 : crasseux42 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Faz7638 (petite blind) a remporté (690)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237758800365 : Tournoi #3450735781, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 03/08/2022 10:15:43 CET [03/08/2022 4:15:43 ET]
+Table '3450735781 1' 4-max Siège #3 est au bouton.
+Place 2: crasseux42 (9660 en jetons) 
+Place 3: Faz7638 (5920 en jetons) 
+Place 4: psychoman59 (4420 en jetons) 
+crasseux42 : met l'ante. 15
+Faz7638 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+crasseux42 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 4c]
+Faz7638 : suit. 120
+psychoman59 : suit. 60
+crasseux42 : parole 
+*** FLOP *** [6c Jd Td]
+psychoman59 : parole 
+crasseux42 : mise. 120
+Faz7638 : suit. 120
+psychoman59 : suit. 120
+*** TOURNANT *** [6c Jd Td] [4d]
+psychoman59 : parole 
+crasseux42 : mise. 765
+Faz7638 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (765) sont retournés à crasseux42.
+crasseux42 a remporté 765  lors du pot .
+*** SYNTHÈSE ***
+Pot total 765 | Commission 0 
+Tableau [6c Jd Td 4d]
+Siège 2 : crasseux42 (grosse blind) a remporté (765)
+Siège 3 : Faz7638 (bouton) s'est couché. sur le Tournant
+Siège 4 : psychoman59 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237758805374 : Tournoi #3450735781, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 03/08/2022 10:16:23 CET [03/08/2022 4:16:23 ET]
+Table '3450735781 1' 4-max Siège #4 est au bouton.
+Place 2: crasseux42 (10170 en jetons) 
+Place 3: Faz7638 (5665 en jetons) 
+Place 4: psychoman59 (4165 en jetons) 
+crasseux42 : met l'ante. 15
+Faz7638 : met l'ante. 15
+psychoman59 : met l'ante. 15
+crasseux42 : met la petite blind. 60
+Faz7638 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Kc]
+psychoman59 : suit. 120
+crasseux42 : suit. 60
+Faz7638 : parole 
+*** FLOP *** [Jc 7s Tc]
+crasseux42 : mise. 120
+Faz7638 : suit. 120
+psychoman59 : relance. 383 à 503
+crasseux42 : relance. 9532 à 10035 et est all-in.
+Faz7638 : passe. 
+psychoman59 : suit. 3527 et est all-in.
+Personne n'a suivi. (6005) sont retournés à crasseux42.
+*** TOURNANT *** [Jc 7s Tc] [6s]
+*** RIVIÈRE *** [Jc 7s Tc 6s] [2s]
+*** ABATTAGE ***
+crasseux42 : montre [8d Js] (une paire de Valets)
+psychoman59 : montre [Jh Kc] (une paire de Valets - Roi kicker)
+psychoman59 a remporté 8585  lors du pot .
+*** SYNTHÈSE ***
+Pot total 8585 | Commission 0 
+Tableau [Jc 7s Tc 6s 2s]
+Siège 2 : crasseux42 (petite blind) a montré [8d Js] et a perdu avec une paire de Valets
+Siège 3 : Faz7638 (grosse blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 (bouton) a montré [Jh Kc] et a gagné (8585) avec une paire de Valets
+
+
+
+Main PokerStars n°237758809690 : Tournoi #3450735781, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 03/08/2022 10:16:57 CET [03/08/2022 4:16:57 ET]
+Table '3450735781 1' 4-max Siège #2 est au bouton.
+Place 2: crasseux42 (6005 en jetons) 
+Place 3: Faz7638 (5410 en jetons) 
+Place 4: psychoman59 (8585 en jetons) 
+crasseux42 : met l'ante. 15
+Faz7638 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Faz7638 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 8h]
+crasseux42 : suit. 120
+Faz7638 : passe. 
+psychoman59 : parole 
+*** FLOP *** [7d Tc 3s]
+psychoman59 : parole 
+crasseux42 : parole 
+*** TOURNANT *** [7d Tc 3s] [3h]
+psychoman59 : parole 
+crasseux42 : parole 
+*** RIVIÈRE *** [7d Tc 3s 3h] [5c]
+psychoman59 : parole 
+crasseux42 : mise. 345
+psychoman59 : suit. 345
+*** ABATTAGE ***
+crasseux42 : montre [4h 5s] (double paire, Cinq et Trois)
+psychoman59 : montre [5h 8h] (double paire, Cinq et Trois)
+psychoman59 a remporté 518  lors du pot .
+crasseux42 a remporté 517  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1035 | Commission 0 
+Tableau [7d Tc 3s 3h 5c]
+Siège 2 : crasseux42 (bouton) a montré [4h 5s] et a gagné (517) avec double paire, Cinq et Trois
+Siège 3 : Faz7638 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a montré [5h 8h] et a gagné (518) avec double paire, Cinq et Trois
+
+
+
+Main PokerStars n°237758813521 : Tournoi #3450735781, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 03/08/2022 10:17:28 CET [03/08/2022 4:17:28 ET]
+Table '3450735781 1' 4-max Siège #3 est au bouton.
+Place 2: crasseux42 (6042 en jetons) 
+Place 3: Faz7638 (5335 en jetons) 
+Place 4: psychoman59 (8623 en jetons) 
+crasseux42 : met l'ante. 15
+Faz7638 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+crasseux42 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 7s]
+Faz7638 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à crasseux42.
+crasseux42 a remporté 165  lors du pot .
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 2 : crasseux42 (grosse blind) a remporté (165)
+Siège 3 : Faz7638 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237758815166 : Tournoi #3450735781, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 03/08/2022 10:17:42 CET [03/08/2022 4:17:42 ET]
+Table '3450735781 1' 4-max Siège #4 est au bouton.
+Place 2: crasseux42 (6132 en jetons) 
+Place 3: Faz7638 (5320 en jetons) 
+Place 4: psychoman59 (8548 en jetons) 
+crasseux42 : met l'ante. 15
+Faz7638 : met l'ante. 15
+psychoman59 : met l'ante. 15
+crasseux42 : met la petite blind. 60
+Faz7638 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 2d]
+psychoman59 : passe. 
+crasseux42 : suit. 60
+Faz7638 : relance. 360 à 480
+crasseux42 : suit. 360
+*** FLOP *** [4c Ks 7c]
+crasseux42 : mise. 5637 et est all-in.
+Faz7638 : suit. 4825 et est all-in.
+Personne n'a suivi. (812) sont retournés à crasseux42.
+*** TOURNANT *** [4c Ks 7c] [As]
+*** RIVIÈRE *** [4c Ks 7c As] [Jd]
+*** ABATTAGE ***
+crasseux42 : montre [Kc 8d] (une paire de Rois)
+Faz7638 : montre [9s 9h] (une paire de Neuf)
+crasseux42 a remporté 10655  lors du pot .
+Faz7638 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 10655 | Commission 0 
+Tableau [4c Ks 7c As Jd]
+Siège 2 : crasseux42 (petite blind) a montré [Kc 8d] et a gagné (10655) avec une paire de Rois
+Siège 3 : Faz7638 (grosse blind) a montré [9s 9h] et a perdu avec une paire de Neuf
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237758819253 : Tournoi #3450735781, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 03/08/2022 10:18:16 CET [03/08/2022 4:18:16 ET]
+Table '3450735781 1' 4-max Siège #2 est au bouton.
+Place 2: crasseux42 (11467 en jetons) 
+Place 4: psychoman59 (8533 en jetons) 
+crasseux42 : met l'ante. 15
+psychoman59 : met l'ante. 15
+crasseux42 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Ah]
+crasseux42 : suit. 60
+psychoman59 : relance. 8398 à 8518 et est all-in.
+crasseux42 : passe. 
+Personne n'a suivi. (8398) sont retournés à psychoman59.
+psychoman59 a remporté 270  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Siège 2 : crasseux42 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (270)
+
+
+
+Main PokerStars n°237758820823 : Tournoi #3450735781, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 03/08/2022 10:18:29 CET [03/08/2022 4:18:29 ET]
+Table '3450735781 1' 4-max Siège #4 est au bouton.
+Place 2: crasseux42 (11332 en jetons) 
+Place 4: psychoman59 (8668 en jetons) 
+crasseux42 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+crasseux42 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 6h]
+psychoman59 : relance. 270 à 390
+crasseux42 : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 270  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Siège 2 : crasseux42 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (270)
+
+
+
+Main PokerStars n°237758822378 : Tournoi #3450735781, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 03/08/2022 10:18:41 CET [03/08/2022 4:18:41 ET]
+Table '3450735781 1' 4-max Siège #2 est au bouton.
+Place 2: crasseux42 (11197 en jetons) 
+Place 4: psychoman59 (8803 en jetons) 
+crasseux42 : met l'ante. 20
+psychoman59 : met l'ante. 20
+crasseux42 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 4d]
+crasseux42 : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 190  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 2 : crasseux42 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°237758823544 : Tournoi #3450735781, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 03/08/2022 10:18:51 CET [03/08/2022 4:18:51 ET]
+Table '3450735781 1' 4-max Siège #4 est au bouton.
+Place 2: crasseux42 (11102 en jetons) 
+Place 4: psychoman59 (8898 en jetons) 
+crasseux42 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+crasseux42 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à crasseux42.
+crasseux42 a remporté 190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 2 : crasseux42 (grosse blind) a remporté (190)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237758824565 : Tournoi #3450735781, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 03/08/2022 10:18:59 CET [03/08/2022 4:18:59 ET]
+Table '3450735781 1' 4-max Siège #2 est au bouton.
+Place 2: crasseux42 (11197 en jetons) 
+Place 4: psychoman59 (8803 en jetons) 
+crasseux42 : met l'ante. 20
+psychoman59 : met l'ante. 20
+crasseux42 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 2h]
+crasseux42 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [8d 5s Kc]
+psychoman59 : parole 
+crasseux42 : mise. 150
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à crasseux42.
+crasseux42 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [8d 5s Kc]
+Siège 2 : crasseux42 (bouton) (petite blind) a remporté (340)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237758826437 : Tournoi #3450735781, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 03/08/2022 10:19:15 CET [03/08/2022 4:19:15 ET]
+Table '3450735781 1' 4-max Siège #4 est au bouton.
+Place 2: crasseux42 (11367 en jetons) 
+Place 4: psychoman59 (8633 en jetons) 
+crasseux42 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+crasseux42 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Kh]
+psychoman59 : suit. 75
+crasseux42 : parole 
+*** FLOP *** [Ts 4h 7h]
+crasseux42 : mise. 150
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à crasseux42.
+crasseux42 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [Ts 4h 7h]
+Siège 2 : crasseux42 (grosse blind) a remporté (340)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237758828312 : Tournoi #3450735781, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 03/08/2022 10:19:29 CET [03/08/2022 4:19:29 ET]
+Table '3450735781 1' 4-max Siège #2 est au bouton.
+Place 2: crasseux42 (11537 en jetons) 
+Place 4: psychoman59 (8463 en jetons) 
+crasseux42 : met l'ante. 20
+psychoman59 : met l'ante. 20
+crasseux42 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 9h]
+crasseux42 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [Qc Ah 8c]
+psychoman59 : parole 
+crasseux42 : parole 
+*** TOURNANT *** [Qc Ah 8c] [4h]
+psychoman59 : parole 
+crasseux42 : mise. 150
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à crasseux42.
+crasseux42 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [Qc Ah 8c 4h]
+Siège 2 : crasseux42 (bouton) (petite blind) a remporté (340)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237758830747 : Tournoi #3450735781, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 03/08/2022 10:19:49 CET [03/08/2022 4:19:49 ET]
+Table '3450735781 1' 4-max Siège #4 est au bouton.
+Place 2: crasseux42 (11707 en jetons) 
+Place 4: psychoman59 (8293 en jetons) 
+crasseux42 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+crasseux42 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à crasseux42.
+crasseux42 a remporté 190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 2 : crasseux42 (grosse blind) a remporté (190)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237758831784 : Tournoi #3450735781, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 03/08/2022 10:19:57 CET [03/08/2022 4:19:57 ET]
+Table '3450735781 1' 4-max Siège #2 est au bouton.
+Place 2: crasseux42 (11802 en jetons) 
+Place 4: psychoman59 (8198 en jetons) 
+crasseux42 : met l'ante. 20
+psychoman59 : met l'ante. 20
+crasseux42 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Kd]
+crasseux42 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [9c Ad Ah]
+psychoman59 : parole 
+crasseux42 : parole 
+*** TOURNANT *** [9c Ad Ah] [2s]
+psychoman59 : parole 
+crasseux42 : parole 
+*** RIVIÈRE *** [9c Ad Ah 2s] [3h]
+psychoman59 : parole 
+crasseux42 : mise. 150
+psychoman59 : suit. 150
+*** ABATTAGE ***
+crasseux42 : montre [8d Jc] (une paire de As)
+psychoman59 : montre [4s Kd] (une paire de As - Roi kicker)
+psychoman59 a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [9c Ad Ah 2s 3h]
+Siège 2 : crasseux42 (bouton) (petite blind) a montré [8d Jc] et a perdu avec une paire de As
+Siège 4 : psychoman59 (grosse blind) a montré [4s Kd] et a gagné (640) avec une paire de As
+
+
+
+Main PokerStars n°237758834318 : Tournoi #3450735781, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 03/08/2022 10:20:18 CET [03/08/2022 4:20:18 ET]
+Table '3450735781 1' 4-max Siège #4 est au bouton.
+Place 2: crasseux42 (11482 en jetons) 
+Place 4: psychoman59 (8518 en jetons) 
+crasseux42 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+crasseux42 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 4s]
+psychoman59 : suit. 75
+crasseux42 : parole 
+*** FLOP *** [8s Qh Jh]
+crasseux42 : parole 
+psychoman59 : mise. 150
+crasseux42 : relance. 11162 à 11312 et est all-in.
+psychoman59 : suit. 8198 et est all-in.
+Personne n'a suivi. (2964) sont retournés à crasseux42.
+*** TOURNANT *** [8s Qh Jh] [5h]
+*** RIVIÈRE *** [8s Qh Jh 5h] [6h]
+*** ABATTAGE ***
+crasseux42 : montre [Kh 7h] (une couleur, hauteur Roi)
+psychoman59 : montre [Qd 4s] (une paire de Dames)
+crasseux42 a remporté 17036  lors du pot .
+psychoman59 a fini le tournoi à la 2e place et a reçu 0.34 €.
+crasseux42 gagne le tournoi - félicitations !
+crasseux42 gagne un ticket " €1.50 PSPC Mega Path Ticket "
+*** SYNTHÈSE ***
+Pot total 17036 | Commission 0 
+Tableau [8s Qh Jh 5h 6h]
+Siège 2 : crasseux42 (grosse blind) a montré [Kh 7h] et a gagné (17036) avec une couleur, hauteur Roi
+Siège 4 : psychoman59 (bouton) (petite blind) a montré [Qd 4s] et a perdu avec une paire de Dames
+
+
+

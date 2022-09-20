@@ -1,0 +1,114 @@
+﻿Main PokerStars n°237456024492 : Tournoi #3443728397, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 17:31:07 CET [19/07/2022 11:31:07 ET]
+Table '3443728397 1' 3-max Siège #1 est au bouton.
+Place 1: denis10450 (300 en jetons) 
+Place 2: Y-KELAWIN (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Y-KELAWIN : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 8s]
+denis10450 : passe. 
+Y-KELAWIN : suit. 10
+psychoman59 : parole 
+*** FLOP *** [5c As 8h]
+Y-KELAWIN : parole 
+psychoman59 : mise. 40
+Y-KELAWIN : suit. 40
+*** TOURNANT *** [5c As 8h] [Td]
+Y-KELAWIN : parole 
+psychoman59 : mise. 40
+Y-KELAWIN : relance. 40 à 80
+psychoman59 : suit. 40
+*** RIVIÈRE *** [5c As 8h Td] [2c]
+Y-KELAWIN : mise. 160 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à Y-KELAWIN.
+Y-KELAWIN a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [5c As 8h Td 2c]
+Siège 1 : denis10450 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Y-KELAWIN (petite blind) a remporté (280)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237456038933 : Tournoi #3443728397, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 17:31:57 CET [19/07/2022 11:31:57 ET]
+Table '3443728397 1' 3-max Siège #2 est au bouton.
+Place 1: denis10450 (300 en jetons) 
+Place 2: Y-KELAWIN (440 en jetons) 
+Place 3: psychoman59 (160 en jetons) 
+psychoman59 : met la petite blind. 10
+denis10450 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Qs]
+Y-KELAWIN : passe. 
+psychoman59 : suit. 10
+denis10450 : parole 
+*** FLOP *** [5h 8c 3s]
+psychoman59 : parole 
+denis10450 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à denis10450.
+denis10450 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5h 8c 3s]
+Siège 1 : denis10450 (grosse blind) a remporté (40)
+Siège 2 : Y-KELAWIN (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237456046375 : Tournoi #3443728397, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 17:32:23 CET [19/07/2022 11:32:23 ET]
+Table '3443728397 1' 3-max Siège #3 est au bouton.
+Place 1: denis10450 (320 en jetons) 
+Place 2: Y-KELAWIN (440 en jetons) 
+Place 3: psychoman59 (140 en jetons) 
+denis10450 : met la petite blind. 15
+Y-KELAWIN : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 9c]
+psychoman59 : passe. 
+denis10450 : passe. 
+Personne n'a suivi. (15) sont retournés à Y-KELAWIN.
+Y-KELAWIN a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : denis10450 (petite blind) s'est couché. avant Flop
+Siège 2 : Y-KELAWIN (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237456048306 : Tournoi #3443728397, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 17:32:29 CET [19/07/2022 11:32:29 ET]
+Table '3443728397 1' 3-max Siège #1 est au bouton.
+Place 1: denis10450 (305 en jetons) 
+Place 2: Y-KELAWIN (455 en jetons) 
+Place 3: psychoman59 (140 en jetons) 
+Y-KELAWIN : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Tc]
+denis10450 : passe. 
+Y-KELAWIN : suit. 15
+psychoman59 : parole 
+*** FLOP *** [8h 2c 9c]
+Y-KELAWIN : mise. 30
+psychoman59 : relance. 80 à 110 et est all-in.
+Y-KELAWIN : suit. 80
+*** TOURNANT *** [8h 2c 9c] [Jh]
+*** RIVIÈRE *** [8h 2c 9c Jh] [3d]
+*** ABATTAGE ***
+Y-KELAWIN : montre [8d Jd] (double paire, Valets et Huit)
+psychoman59 : montre [8s Tc] (une paire de Huit)
+Y-KELAWIN a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [8h 2c 9c Jh 3d]
+Siège 1 : denis10450 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Y-KELAWIN (petite blind) a montré [8d Jd] et a gagné (280) avec double paire, Valets et Huit
+Siège 3 : psychoman59 (grosse blind) a montré [8s Tc] et a perdu avec une paire de Huit
+
+
+

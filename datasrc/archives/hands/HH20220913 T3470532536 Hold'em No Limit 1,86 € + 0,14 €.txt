@@ -1,0 +1,309 @@
+﻿Main PokerStars n°238596670932 : Tournoi #3470532536, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 11:27:30 CET [13/09/2022 5:27:30 ET]
+Table '3470532536 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Dragonslayer78 (300 en jetons) 
+Place 3: nioute (300 en jetons) 
+Dragonslayer78 : met la petite blind. 10
+nioute : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 6d]
+psychoman59 : passe. 
+Dragonslayer78 : relance. 20 à 40
+nioute : suit. 20
+*** FLOP *** [7s 7d Ac]
+Dragonslayer78 : parole 
+nioute : parole 
+*** TOURNANT *** [7s 7d Ac] [Qh]
+Dragonslayer78 : parole 
+nioute : parole 
+*** RIVIÈRE *** [7s 7d Ac Qh] [7c]
+Dragonslayer78 : parole 
+nioute : mise. 80
+Dragonslayer78 : passe. 
+Personne n'a suivi. (80) sont retournés à nioute.
+nioute a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [7s 7d Ac Qh 7c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Dragonslayer78 (petite blind) s'est couché. sur le Rivière
+Siège 3 : nioute (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°238596679834 : Tournoi #3470532536, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 11:28:30 CET [13/09/2022 5:28:30 ET]
+Table '3470532536 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Dragonslayer78 (260 en jetons) 
+Place 3: nioute (340 en jetons) 
+nioute : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 8d]
+Dragonslayer78 : relance. 20 à 40
+nioute : suit. 30
+psychoman59 : passe. 
+*** FLOP *** [8h 2c Th]
+nioute : mise. 60
+Dragonslayer78 : passe. 
+Personne n'a suivi. (60) sont retournés à nioute.
+nioute a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [8h 2c Th]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Dragonslayer78 (bouton) s'est couché. sur le Flop
+Siège 3 : nioute (petite blind) a remporté (100)
+
+
+
+Main PokerStars n°238596684004 : Tournoi #3470532536, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 11:28:58 CET [13/09/2022 5:28:58 ET]
+Table '3470532536 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: Dragonslayer78 (220 en jetons) 
+Place 3: nioute (400 en jetons) 
+psychoman59 : met la petite blind. 15
+Dragonslayer78 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 9h]
+nioute : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Dragonslayer78.
+Dragonslayer78 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Dragonslayer78 (grosse blind) a remporté (30)
+Siège 3 : nioute (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238596685126 : Tournoi #3470532536, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 11:29:06 CET [13/09/2022 5:29:06 ET]
+Table '3470532536 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (265 en jetons) 
+Place 2: Dragonslayer78 (235 en jetons) 
+Place 3: nioute (400 en jetons) 
+Dragonslayer78 : met la petite blind. 15
+nioute : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 7s]
+psychoman59 : passe. 
+Dragonslayer78 : relance. 205 à 235 et est all-in.
+nioute : suit. 205
+*** FLOP *** [9h 4d Qd]
+*** TOURNANT *** [9h 4d Qd] [4h]
+*** RIVIÈRE *** [9h 4d Qd 4h] [3d]
+*** ABATTAGE ***
+Dragonslayer78 : montre [8h Qh] (double paire, Dames et Quatre)
+nioute : montre [Jh 2d] (une paire de Quatre)
+Dragonslayer78 a remporté 470  lors du pot .
+*** SYNTHÈSE ***
+Pot total 470 | Commission 0 
+Tableau [9h 4d Qd 4h 3d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Dragonslayer78 (petite blind) a montré [8h Qh] et a gagné (470) avec double paire, Dames et Quatre
+Siège 3 : nioute (grosse blind) a montré [Jh 2d] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°238596687816 : Tournoi #3470532536, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 11:29:24 CET [13/09/2022 5:29:24 ET]
+Table '3470532536 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (265 en jetons) 
+Place 2: Dragonslayer78 (470 en jetons) 
+Place 3: nioute (165 en jetons) 
+nioute : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 8c]
+Dragonslayer78 : relance. 440 à 470 et est all-in.
+nioute : suit. 150 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (305) sont retournés à Dragonslayer78.
+*** FLOP *** [Qc 3d 6d]
+*** TOURNANT *** [Qc 3d 6d] [Kc]
+*** RIVIÈRE *** [Qc 3d 6d Kc] [Jh]
+*** ABATTAGE ***
+nioute : montre [9d 6s] (une paire de Six)
+Dragonslayer78 : montre [As 7s] (Hauteur As)
+nioute a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Qc 3d 6d Kc Jh]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Dragonslayer78 (bouton) a montré [As 7s] et a perdu avec Hauteur As
+Siège 3 : nioute (petite blind) a montré [9d 6s] et a gagné (360) avec une paire de Six
+
+
+
+Main PokerStars n°238596691275 : Tournoi #3470532536, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 11:29:48 CET [13/09/2022 5:29:48 ET]
+Table '3470532536 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (235 en jetons) 
+Place 2: Dragonslayer78 (305 en jetons) 
+Place 3: nioute (360 en jetons) 
+psychoman59 : met la petite blind. 20
+Dragonslayer78 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 3c]
+nioute : relance. 320 à 360 et est all-in.
+psychoman59 : passe. 
+Dragonslayer78 : passe. 
+Personne n'a suivi. (320) sont retournés à nioute.
+nioute a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Dragonslayer78 (grosse blind) s'est couché. avant Flop
+Siège 3 : nioute (bouton) a remporté (100)
+
+
+
+Main PokerStars n°238596693466 : Tournoi #3470532536, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 11:30:03 CET [13/09/2022 5:30:03 ET]
+Table '3470532536 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (215 en jetons) 
+Place 2: Dragonslayer78 (265 en jetons) 
+Place 3: nioute (420 en jetons) 
+Dragonslayer78 : met la petite blind. 20
+nioute : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 9d]
+psychoman59 : passe. 
+Dragonslayer78 : passe. 
+Personne n'a suivi. (20) sont retournés à nioute.
+nioute a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Dragonslayer78 (petite blind) s'est couché. avant Flop
+Siège 3 : nioute (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238596695012 : Tournoi #3470532536, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 11:30:13 CET [13/09/2022 5:30:13 ET]
+Table '3470532536 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (215 en jetons) 
+Place 2: Dragonslayer78 (245 en jetons) 
+Place 3: nioute (440 en jetons) 
+nioute : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Js]
+Dragonslayer78 : passe. 
+nioute : relance. 400 à 440 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à nioute.
+nioute a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Dragonslayer78 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : nioute (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°238596697271 : Tournoi #3470532536, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 11:30:28 CET [13/09/2022 5:30:28 ET]
+Table '3470532536 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (175 en jetons) 
+Place 2: Dragonslayer78 (245 en jetons) 
+Place 3: nioute (480 en jetons) 
+psychoman59 : met la petite blind. 20
+Dragonslayer78 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Td]
+nioute : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Dragonslayer78.
+Dragonslayer78 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Dragonslayer78 (grosse blind) a remporté (40)
+Siège 3 : nioute (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238596698671 : Tournoi #3470532536, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/09/2022 11:30:37 CET [13/09/2022 5:30:37 ET]
+Table '3470532536 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (155 en jetons) 
+Place 2: Dragonslayer78 (265 en jetons) 
+Place 3: nioute (480 en jetons) 
+Dragonslayer78 : met la petite blind. 30
+nioute : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 9c]
+psychoman59 : passe. 
+Dragonslayer78 : relance. 205 à 265 et est all-in.
+nioute : suit. 205
+*** FLOP *** [8s 3c 6d]
+*** TOURNANT *** [8s 3c 6d] [Kh]
+*** RIVIÈRE *** [8s 3c 6d Kh] [Kd]
+*** ABATTAGE ***
+Dragonslayer78 : montre [Qs 6s] (double paire, Rois et Six)
+nioute : montre [Js 9d] (une paire de Rois)
+Dragonslayer78 a remporté 530  lors du pot .
+*** SYNTHÈSE ***
+Pot total 530 | Commission 0 
+Tableau [8s 3c 6d Kh Kd]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Dragonslayer78 (petite blind) a montré [Qs 6s] et a gagné (530) avec double paire, Rois et Six
+Siège 3 : nioute (grosse blind) a montré [Js 9d] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°238596701371 : Tournoi #3470532536, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/09/2022 11:30:55 CET [13/09/2022 5:30:55 ET]
+Table '3470532536 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (155 en jetons) 
+Place 2: Dragonslayer78 (530 en jetons) 
+Place 3: nioute (215 en jetons) 
+nioute : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Qs]
+Dragonslayer78 : relance. 470 à 530 et est all-in.
+nioute : suit. 185 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (315) sont retournés à Dragonslayer78.
+*** FLOP *** [3d Js Ac]
+*** TOURNANT *** [3d Js Ac] [Tc]
+*** RIVIÈRE *** [3d Js Ac Tc] [Ah]
+*** ABATTAGE ***
+nioute : montre [Ad 6d] (un brelan de As)
+Dragonslayer78 : montre [7c Qh] (une paire de As)
+nioute a remporté 490  lors du pot .
+*** SYNTHÈSE ***
+Pot total 490 | Commission 0 
+Tableau [3d Js Ac Tc Ah]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Dragonslayer78 (bouton) a montré [7c Qh] et a perdu avec une paire de As
+Siège 3 : nioute (petite blind) a montré [Ad 6d] et a gagné (490) avec un brelan de As
+
+
+
+Main PokerStars n°238596703925 : Tournoi #3470532536, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/09/2022 11:31:13 CET [13/09/2022 5:31:13 ET]
+Table '3470532536 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (95 en jetons) 
+Place 2: Dragonslayer78 (315 en jetons) 
+Place 3: nioute (490 en jetons) 
+psychoman59 : met la petite blind. 30
+Dragonslayer78 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 7h]
+nioute : passe. 
+psychoman59 : relance. 35 à 95 et est all-in.
+Dragonslayer78 : suit. 35
+*** FLOP *** [Jh Th 9d]
+*** TOURNANT *** [Jh Th 9d] [9h]
+*** RIVIÈRE *** [Jh Th 9d 9h] [6d]
+*** ABATTAGE ***
+psychoman59 : montre [Qs 7h] (une paire de Neuf)
+Dragonslayer78 : montre [6s 8d] (double paire, Neuf et Six)
+Dragonslayer78 a remporté 190  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Tableau [Jh Th 9d 9h 6d]
+Siège 1 : psychoman59 (petite blind) a montré [Qs 7h] et a perdu avec une paire de Neuf
+Siège 2 : Dragonslayer78 (grosse blind) a montré [6s 8d] et a gagné (190) avec double paire, Neuf et Six
+Siège 3 : nioute (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+

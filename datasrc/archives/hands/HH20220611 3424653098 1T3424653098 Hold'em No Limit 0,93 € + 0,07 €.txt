@@ -1,0 +1,401 @@
+﻿Main PokerStars n°236690745217 : Tournoi #3424653098, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2022 7:51:08 CET [11/06/2022 1:51:08 ET]
+Table '3424653098 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Agh4theZb0us3 (300 en jetons) 
+Place 3: chinoiiis12 (300 en jetons) 
+Agh4theZb0us3 : met la petite blind. 10
+chinoiiis12 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Jh]
+psychoman59 : passe. 
+Agh4theZb0us3 : passe. 
+Personne n'a suivi. (10) sont retournés à chinoiiis12.
+chinoiiis12 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Agh4theZb0us3 (petite blind) s'est couché. avant Flop
+Siège 3 : chinoiiis12 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°236690747133 : Tournoi #3424653098, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2022 7:51:24 CET [11/06/2022 1:51:24 ET]
+Table '3424653098 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Agh4theZb0us3 (290 en jetons) 
+Place 3: chinoiiis12 (310 en jetons) 
+chinoiiis12 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Js]
+Agh4theZb0us3 : relance. 20 à 40
+chinoiiis12 : suit. 30
+psychoman59 : passe. 
+*** FLOP *** [Ks 4h Jd]
+chinoiiis12 : parole 
+Agh4theZb0us3 : mise. 30
+chinoiiis12 : passe. 
+Personne n'a suivi. (30) sont retournés à Agh4theZb0us3.
+Agh4theZb0us3 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [Ks 4h Jd]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Agh4theZb0us3 (bouton) a remporté (100)
+Siège 3 : chinoiiis12 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°236690750478 : Tournoi #3424653098, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2022 7:51:52 CET [11/06/2022 1:51:52 ET]
+Table '3424653098 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: Agh4theZb0us3 (350 en jetons) 
+Place 3: chinoiiis12 (270 en jetons) 
+psychoman59 : met la petite blind. 10
+Agh4theZb0us3 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 6d]
+chinoiiis12 : suit. 20
+psychoman59 : suit. 10
+Agh4theZb0us3 : parole 
+*** FLOP *** [6s 8d 7s]
+psychoman59 : parole 
+Agh4theZb0us3 : parole 
+chinoiiis12 : parole 
+*** TOURNANT *** [6s 8d 7s] [8s]
+psychoman59 : parole 
+Agh4theZb0us3 : mise. 36
+chinoiiis12 : suit. 36
+psychoman59 : suit. 36
+*** RIVIÈRE *** [6s 8d 7s 8s] [Ac]
+psychoman59 : parole 
+Agh4theZb0us3 : mise. 101
+chinoiiis12 : suit. 101
+psychoman59 : suit. 101
+*** ABATTAGE ***
+Agh4theZb0us3 : montre [5c 9d] (une suite, Cinq à Neuf)
+chinoiiis12 : cache la main perdante. 
+psychoman59 : cache la main perdante. 
+Agh4theZb0us3 a remporté 471  lors du pot .
+*** SYNTHÈSE ***
+Pot total 471 | Commission 0 
+Tableau [6s 8d 7s 8s Ac]
+Siège 1 : psychoman59 (petite blind) a caché la main perdante. [Ad 6d]
+Siège 2 : Agh4theZb0us3 (grosse blind) a montré [5c 9d] et a gagné (471) avec une suite, Cinq à Neuf
+Siège 3 : chinoiiis12 (bouton) a caché la main perdante. [Js Ah]
+
+
+
+Main PokerStars n°236690758035 : Tournoi #3424653098, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/06/2022 7:52:54 CET [11/06/2022 1:52:54 ET]
+Table '3424653098 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (123 en jetons) 
+Place 2: Agh4theZb0us3 (664 en jetons) 
+Place 3: chinoiiis12 (113 en jetons) 
+Agh4theZb0us3 : met la petite blind. 15
+chinoiiis12 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 8d]
+psychoman59 : relance. 93 à 123 et est all-in.
+Agh4theZb0us3 : passe. 
+chinoiiis12 : passe. 
+Personne n'a suivi. (93) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (75)
+Siège 2 : Agh4theZb0us3 (petite blind) s'est couché. avant Flop
+Siège 3 : chinoiiis12 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236690759128 : Tournoi #3424653098, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/06/2022 7:53:03 CET [11/06/2022 1:53:03 ET]
+Table '3424653098 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (168 en jetons) 
+Place 2: Agh4theZb0us3 (649 en jetons) 
+Place 3: chinoiiis12 (83 en jetons) 
+chinoiiis12 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Kc]
+Agh4theZb0us3 : passe. 
+chinoiiis12 : relance. 53 à 83 et est all-in.
+psychoman59 : suit. 53
+*** FLOP *** [Js 5c 4c]
+*** TOURNANT *** [Js 5c 4c] [3c]
+*** RIVIÈRE *** [Js 5c 4c 3c] [3d]
+*** ABATTAGE ***
+chinoiiis12 : montre [Ks Jd] (double paire, Valets et Trois)
+psychoman59 : montre [9c Kc] (une couleur, hauteur Roi)
+psychoman59 a remporté 166  lors du pot .
+*** SYNTHÈSE ***
+Pot total 166 | Commission 0 
+Tableau [Js 5c 4c 3c 3d]
+Siège 1 : psychoman59 (grosse blind) a montré [9c Kc] et a gagné (166) avec une couleur, hauteur Roi
+Siège 2 : Agh4theZb0us3 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : chinoiiis12 (petite blind) a montré [Ks Jd] et a perdu avec double paire, Valets et Trois
+
+
+
+Main PokerStars n°236690762046 : Tournoi #3424653098, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/06/2022 7:53:27 CET [11/06/2022 1:53:27 ET]
+Table '3424653098 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (251 en jetons) 
+Place 2: Agh4theZb0us3 (649 en jetons) 
+psychoman59 : met la petite blind. 20
+Agh4theZb0us3 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Ad]
+psychoman59 : relance. 211 à 251 et est all-in.
+Agh4theZb0us3 : passe. 
+Personne n'a suivi. (211) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : Agh4theZb0us3 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236690763428 : Tournoi #3424653098, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/06/2022 7:53:38 CET [11/06/2022 1:53:38 ET]
+Table '3424653098 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (291 en jetons) 
+Place 2: Agh4theZb0us3 (609 en jetons) 
+Agh4theZb0us3 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Tc]
+Agh4theZb0us3 : suit. 20
+psychoman59 : relance. 251 à 291 et est all-in.
+Agh4theZb0us3 : passe. 
+Personne n'a suivi. (251) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : Agh4theZb0us3 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236690764782 : Tournoi #3424653098, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/06/2022 7:53:49 CET [11/06/2022 1:53:49 ET]
+Table '3424653098 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (331 en jetons) 
+Place 2: Agh4theZb0us3 (569 en jetons) 
+psychoman59 : met la petite blind. 20
+Agh4theZb0us3 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 4h]
+psychoman59 : relance. 40 à 80
+Agh4theZb0us3 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : Agh4theZb0us3 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236690765999 : Tournoi #3424653098, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/06/2022 7:53:59 CET [11/06/2022 1:53:59 ET]
+Table '3424653098 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (371 en jetons) 
+Place 2: Agh4theZb0us3 (529 en jetons) 
+Agh4theZb0us3 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Jh]
+Agh4theZb0us3 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Qs 7s 7d]
+psychoman59 : parole 
+Agh4theZb0us3 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Agh4theZb0us3.
+Agh4theZb0us3 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Qs 7s 7d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Agh4theZb0us3 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°236690770019 : Tournoi #3424653098, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/06/2022 7:54:18 CET [11/06/2022 1:54:18 ET]
+Table '3424653098 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (331 en jetons) 
+Place 2: Agh4theZb0us3 (569 en jetons) 
+psychoman59 : met la petite blind. 30
+Agh4theZb0us3 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ac]
+psychoman59 : relance. 271 à 331 et est all-in.
+Agh4theZb0us3 : passe. 
+Personne n'a suivi. (271) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 2 : Agh4theZb0us3 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236690771342 : Tournoi #3424653098, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/06/2022 7:54:29 CET [11/06/2022 1:54:29 ET]
+Table '3424653098 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (391 en jetons) 
+Place 2: Agh4theZb0us3 (509 en jetons) 
+Agh4theZb0us3 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Td]
+Agh4theZb0us3 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [6c 2s Ad]
+psychoman59 : parole 
+Agh4theZb0us3 : parole 
+*** TOURNANT *** [6c 2s Ad] [9s]
+psychoman59 : parole 
+Agh4theZb0us3 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Agh4theZb0us3.
+Agh4theZb0us3 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6c 2s Ad 9s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : Agh4theZb0us3 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°236690776015 : Tournoi #3424653098, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/06/2022 7:55:07 CET [11/06/2022 1:55:07 ET]
+Table '3424653098 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (331 en jetons) 
+Place 2: Agh4theZb0us3 (569 en jetons) 
+psychoman59 : met la petite blind. 30
+Agh4theZb0us3 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ah]
+psychoman59 : relance. 271 à 331 et est all-in.
+Agh4theZb0us3 : passe. 
+Personne n'a suivi. (271) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 2 : Agh4theZb0us3 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236690777967 : Tournoi #3424653098, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/06/2022 7:55:24 CET [11/06/2022 1:55:24 ET]
+Table '3424653098 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (391 en jetons) 
+Place 2: Agh4theZb0us3 (509 en jetons) 
+Agh4theZb0us3 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 6d]
+Agh4theZb0us3 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : Agh4theZb0us3 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236690778435 : Tournoi #3424653098, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/06/2022 7:55:28 CET [11/06/2022 1:55:28 ET]
+Table '3424653098 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (431 en jetons) 
+Place 2: Agh4theZb0us3 (469 en jetons) 
+psychoman59 : met la petite blind. 40
+Agh4theZb0us3 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Qc]
+psychoman59 : suit. 40
+Agh4theZb0us3 : parole 
+*** FLOP *** [Qh Qd 2c]
+Agh4theZb0us3 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qh Qd 2c] [Ad]
+Agh4theZb0us3 a dépassé le temps imparti.
+Agh4theZb0us3 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qh Qd 2c Ad] [8c]
+Agh4theZb0us3 : parole 
+psychoman59 : mise. 80
+Agh4theZb0us3 : suit. 80
+*** ABATTAGE ***
+psychoman59 : montre [5h Qc] (un brelan de Dames)
+Agh4theZb0us3 : cache la main perdante. 
+psychoman59 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Qh Qd 2c Ad 8c]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [5h Qc] et a gagné (320) avec un brelan de Dames
+Siège 2 : Agh4theZb0us3 (grosse blind) a caché la main perdante. [9c Jd]
+
+
+
+Main PokerStars n°236690785373 : Tournoi #3424653098, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 11/06/2022 7:56:34 CET [11/06/2022 1:56:34 ET]
+Table '3424653098 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (591 en jetons) 
+Place 2: Agh4theZb0us3 (309 en jetons) 
+Agh4theZb0us3 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah As]
+Agh4theZb0us3 a dépassé le temps imparti.
+Agh4theZb0us3 : passe. 
+Agh4theZb0us3 ne joue pas.
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (100)
+Siège 2 : Agh4theZb0us3 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236690787004 : Tournoi #3424653098, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 11/06/2022 7:56:49 CET [11/06/2022 1:56:49 ET]
+Table '3424653098 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (641 en jetons) 
+Place 2: Agh4theZb0us3 (259 en jetons) ne joue pas.
+psychoman59 : met la petite blind. 50
+Agh4theZb0us3 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Jc]
+Agh4theZb0us3 est revenu.
+psychoman59 : relance. 200 à 300
+Agh4theZb0us3 : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (200)
+Siège 2 : Agh4theZb0us3 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236690788327 : Tournoi #3424653098, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 11/06/2022 7:57:01 CET [11/06/2022 1:57:01 ET]
+Table '3424653098 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (741 en jetons) 
+Place 2: Agh4theZb0us3 (159 en jetons) 
+Agh4theZb0us3 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Qh]
+Agh4theZb0us3 : relance. 59 à 159 et est all-in.
+psychoman59 : suit. 59
+*** FLOP *** [6c Ad 5c]
+*** TOURNANT *** [6c Ad 5c] [Ah]
+*** RIVIÈRE *** [6c Ad 5c Ah] [6d]
+*** ABATTAGE ***
+psychoman59 : montre [2d Qh] (double paire, As et Six)
+Agh4theZb0us3 : montre [7h Js] (double paire, As et Six - plus basse kicker)
+psychoman59 a remporté 318  lors du pot .
+*** SYNTHÈSE ***
+Pot total 318 | Commission 0 
+Tableau [6c Ad 5c Ah 6d]
+Siège 1 : psychoman59 (grosse blind) a montré [2d Qh] et a gagné (318) avec double paire, As et Six
+Siège 2 : Agh4theZb0us3 (bouton) (petite blind) a montré [7h Js] et a perdu avec double paire, As et Six
+
+
+

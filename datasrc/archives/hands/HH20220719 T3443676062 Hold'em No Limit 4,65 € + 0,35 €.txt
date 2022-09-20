@@ -1,0 +1,260 @@
+﻿Main PokerStars n°237453789514 : Tournoi #3443676062, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 15:04:43 CET [19/07/2022 9:04:43 ET]
+Table '3443676062 1' 3-max Siège #1 est au bouton.
+Place 1: regresso2 (300 en jetons) 
+Place 2: velaskof954 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+velaskof954 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 5h]
+regresso2 : suit. 20
+velaskof954 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9c 4c Qc]
+velaskof954 : mise. 20
+psychoman59 : suit. 20
+regresso2 : passe. 
+*** TOURNANT *** [9c 4c Qc] [Jc]
+velaskof954 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [9c 4c Qc Jc] [6d]
+velaskof954 : mise. 20
+psychoman59 : relance. 90 à 110
+velaskof954 : suit. 90
+*** ABATTAGE ***
+psychoman59 : montre [Kc 5h] (une couleur, hauteur Roi)
+velaskof954 : cache la main perdante. 
+psychoman59 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [9c 4c Qc Jc 6d]
+Siège 1 : regresso2 (bouton) s'est couché. sur le Flop
+Siège 2 : velaskof954 (petite blind) a caché la main perdante. [4d 9s]
+Siège 3 : psychoman59 (grosse blind) a montré [Kc 5h] et a gagné (360) avec une couleur, hauteur Roi
+
+
+
+Main PokerStars n°237453795800 : Tournoi #3443676062, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 15:05:11 CET [19/07/2022 9:05:11 ET]
+Table '3443676062 1' 3-max Siège #2 est au bouton.
+Place 1: regresso2 (280 en jetons) 
+Place 2: velaskof954 (130 en jetons) 
+Place 3: psychoman59 (490 en jetons) 
+psychoman59 : met la petite blind. 10
+regresso2 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 9d]
+velaskof954 : relance. 110 à 130 et est all-in.
+psychoman59 : suit. 120
+regresso2 : passe. 
+*** FLOP *** [9h 8h 4h]
+*** TOURNANT *** [9h 8h 4h] [2c]
+*** RIVIÈRE *** [9h 8h 4h 2c] [Jc]
+*** ABATTAGE ***
+psychoman59 : montre [9s 9d] (un brelan de Neuf)
+velaskof954 : montre [Qs 8s] (une paire de Huit)
+psychoman59 a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [9h 8h 4h 2c Jc]
+Siège 1 : regresso2 (grosse blind) s'est couché. avant Flop
+Siège 2 : velaskof954 (bouton) a montré [Qs 8s] et a perdu avec une paire de Huit
+Siège 3 : psychoman59 (petite blind) a montré [9s 9d] et a gagné (280) avec un brelan de Neuf
+
+
+
+Main PokerStars n°237453799978 : Tournoi #3443676062, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 15:05:30 CET [19/07/2022 9:05:30 ET]
+Table '3443676062 1' 3-max Siège #1 est au bouton.
+Place 1: regresso2 (260 en jetons) 
+Place 3: psychoman59 (640 en jetons) 
+regresso2 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 2h]
+regresso2 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9h Qs 7h]
+psychoman59 : parole 
+regresso2 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à regresso2.
+regresso2 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9h Qs 7h]
+Siège 1 : regresso2 (bouton) (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237453803132 : Tournoi #3443676062, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 15:05:44 CET [19/07/2022 9:05:44 ET]
+Table '3443676062 1' 3-max Siège #3 est au bouton.
+Place 1: regresso2 (280 en jetons) 
+Place 3: psychoman59 (620 en jetons) 
+psychoman59 : met la petite blind. 10
+regresso2 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Kd]
+psychoman59 : relance. 20 à 40
+regresso2 : suit. 20
+*** FLOP *** [7s Tc 5s]
+regresso2 : parole 
+psychoman59 : mise. 40
+regresso2 : suit. 40
+*** TOURNANT *** [7s Tc 5s] [4s]
+regresso2 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7s Tc 5s 4s] [2d]
+regresso2 : mise. 160
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à regresso2.
+regresso2 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [7s Tc 5s 4s 2d]
+Siège 1 : regresso2 (grosse blind) a remporté (160)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237453810484 : Tournoi #3443676062, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 15:06:17 CET [19/07/2022 9:06:17 ET]
+Table '3443676062 1' 3-max Siège #1 est au bouton.
+Place 1: regresso2 (360 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+regresso2 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 9h]
+regresso2 : relance. 330 à 360 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (330) sont retournés à regresso2.
+regresso2 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : regresso2 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237453811898 : Tournoi #3443676062, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 15:06:24 CET [19/07/2022 9:06:24 ET]
+Table '3443676062 1' 3-max Siège #3 est au bouton.
+Place 1: regresso2 (390 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 15
+regresso2 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 2c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à regresso2.
+regresso2 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : regresso2 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237453813414 : Tournoi #3443676062, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 15:06:30 CET [19/07/2022 9:06:30 ET]
+Table '3443676062 1' 3-max Siège #1 est au bouton.
+Place 1: regresso2 (405 en jetons) 
+Place 3: psychoman59 (495 en jetons) 
+regresso2 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Qd]
+regresso2 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5d Qh 4d]
+psychoman59 : parole 
+regresso2 : mise. 60
+psychoman59 : relance. 405 à 465 et est all-in.
+regresso2 : passe. 
+Personne n'a suivi. (405) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [5d Qh 4d]
+Siège 1 : regresso2 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (180)
+
+
+
+Main PokerStars n°237453817850 : Tournoi #3443676062, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 15:06:50 CET [19/07/2022 9:06:50 ET]
+Table '3443676062 1' 3-max Siège #3 est au bouton.
+Place 1: regresso2 (315 en jetons) 
+Place 3: psychoman59 (585 en jetons) 
+psychoman59 : met la petite blind. 20
+regresso2 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à regresso2.
+regresso2 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : regresso2 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237453819309 : Tournoi #3443676062, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 15:06:57 CET [19/07/2022 9:06:57 ET]
+Table '3443676062 1' 3-max Siège #1 est au bouton.
+Place 1: regresso2 (335 en jetons) 
+Place 3: psychoman59 (565 en jetons) 
+regresso2 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 2d]
+regresso2 : relance. 295 à 335 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (295) sont retournés à regresso2.
+regresso2 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : regresso2 (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237453821087 : Tournoi #3443676062, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 15:07:04 CET [19/07/2022 9:07:04 ET]
+Table '3443676062 1' 3-max Siège #3 est au bouton.
+Place 1: regresso2 (375 en jetons) 
+Place 3: psychoman59 (525 en jetons) 
+psychoman59 : met la petite blind. 20
+regresso2 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à regresso2.
+regresso2 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : regresso2 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237453822262 : Tournoi #3443676062, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 15:07:10 CET [19/07/2022 9:07:10 ET]
+Table '3443676062 1' 3-max Siège #1 est au bouton.
+Place 1: regresso2 (395 en jetons) 
+Place 3: psychoman59 (505 en jetons) 
+regresso2 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Kh]
+regresso2 : relance. 355 à 395 et est all-in.
+psychoman59 : suit. 355
+*** FLOP *** [Qc 2c Ks]
+*** TOURNANT *** [Qc 2c Ks] [8c]
+*** RIVIÈRE *** [Qc 2c Ks 8c] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [4d Kh] (double paire, Rois et Deux)
+regresso2 : montre [Ts Tc] (double paire, Dix et Deux)
+psychoman59 a remporté 790  lors du pot .
+*** SYNTHÈSE ***
+Pot total 790 | Commission 0 
+Tableau [Qc 2c Ks 8c 2h]
+Siège 1 : regresso2 (bouton) (petite blind) a montré [Ts Tc] et a perdu avec double paire, Dix et Deux
+Siège 3 : psychoman59 (grosse blind) a montré [4d Kh] et a gagné (790) avec double paire, Rois et Deux
+
+
+

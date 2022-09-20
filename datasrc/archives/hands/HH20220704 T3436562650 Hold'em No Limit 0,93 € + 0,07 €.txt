@@ -1,0 +1,271 @@
+﻿Main PokerStars n°237151794000 : Tournoi #3436562650, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2022 11:54:34 CET [04/07/2022 5:54:34 ET]
+Table '3436562650 1' 3-max Siège #1 est au bouton.
+Place 1: arachtout18 (300 en jetons) 
+Place 2: daniel07959 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+daniel07959 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 7c]
+arachtout18 : passe. 
+daniel07959 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9d 3c 5d]
+daniel07959 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9d 3c 5d] [3h]
+daniel07959 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9d 3c 5d 3h] [Tc]
+daniel07959 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+daniel07959 : montre [Qs 2h] (une paire de Trois)
+psychoman59 : cache la main perdante. 
+daniel07959 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9d 3c 5d 3h Tc]
+Siège 1 : arachtout18 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : daniel07959 (petite blind) a montré [Qs 2h] et a gagné (40) avec une paire de Trois
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [4c 7c]
+
+
+
+Main PokerStars n°237151796674 : Tournoi #3436562650, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2022 11:54:52 CET [04/07/2022 5:54:52 ET]
+Table '3436562650 1' 3-max Siège #2 est au bouton.
+Place 1: arachtout18 (300 en jetons) 
+Place 2: daniel07959 (320 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+arachtout18 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 6h]
+daniel07959 : suit. 20
+psychoman59 : suit. 10
+arachtout18 : parole 
+*** FLOP *** [9h 7c 3c]
+psychoman59 : parole 
+arachtout18 : parole 
+daniel07959 : parole 
+*** TOURNANT *** [9h 7c 3c] [6d]
+psychoman59 : mise. 30
+arachtout18 : passe. 
+daniel07959 : suit. 30
+*** RIVIÈRE *** [9h 7c 3c 6d] [3d]
+psychoman59 : mise. 60
+daniel07959 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9h 7c 3c 6d 3d]
+Siège 1 : arachtout18 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : daniel07959 (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237151801484 : Tournoi #3436562650, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2022 11:55:28 CET [04/07/2022 5:55:28 ET]
+Table '3436562650 1' 3-max Siège #3 est au bouton.
+Place 1: arachtout18 (280 en jetons) 
+Place 2: daniel07959 (270 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+arachtout18 : met la petite blind. 10
+daniel07959 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 5c]
+psychoman59 : passe. 
+arachtout18 : suit. 10
+daniel07959 : relance. 20 à 40
+arachtout18 : suit. 20
+*** FLOP *** [Jc 2h Td]
+arachtout18 : mise. 20
+daniel07959 : relance. 20 à 40
+arachtout18 : suit. 20
+*** TOURNANT *** [Jc 2h Td] [5s]
+arachtout18 : mise. 20
+daniel07959 : relance. 20 à 40
+arachtout18 : suit. 20
+*** RIVIÈRE *** [Jc 2h Td 5s] [5h]
+arachtout18 : mise. 20
+daniel07959 : relance. 130 à 150 et est all-in.
+arachtout18 : suit. 130
+*** ABATTAGE ***
+daniel07959 : montre [Jd Tc] (double paire, Valets et Dix)
+arachtout18 : montre [Ad Th] (double paire, Dix et Cinq)
+daniel07959 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [Jc 2h Td 5s 5h]
+Siège 1 : arachtout18 (petite blind) a montré [Ad Th] et a perdu avec double paire, Dix et Cinq
+Siège 2 : daniel07959 (grosse blind) a montré [Jd Tc] et a gagné (540) avec double paire, Valets et Dix
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237151804770 : Tournoi #3436562650, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/07/2022 11:55:54 CET [04/07/2022 5:55:54 ET]
+Table '3436562650 1' 3-max Siège #1 est au bouton.
+Place 1: arachtout18 (10 en jetons) 
+Place 2: daniel07959 (540 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+daniel07959 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 7h]
+arachtout18 : suit. 10 et est all-in.
+daniel07959 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9c Ts Qc]
+daniel07959 : parole 
+psychoman59 : mise. 70
+daniel07959 : suit. 70
+*** TOURNANT *** [9c Ts Qc] [3c]
+daniel07959 : parole 
+psychoman59 : mise. 60
+daniel07959 : suit. 60
+*** RIVIÈRE *** [9c Ts Qc 3c] [4h]
+daniel07959 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+daniel07959 : montre [7s Td] (une paire de Dix)
+psychoman59 : montre [Qs 7h] (une paire de Dames)
+psychoman59 a remporté 300  parallèle lors du pot .
+arachtout18 : montre [Kc Qd] (une paire de Dames - Roi kicker)
+arachtout18 a remporté 30  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 330 Principal pot 30. Parallèle pot 300. | Commission 0 
+Tableau [9c Ts Qc 3c 4h]
+Siège 1 : arachtout18 (bouton) a montré [Kc Qd] et a gagné (30) avec une paire de Dames
+Siège 2 : daniel07959 (petite blind) a montré [7s Td] et a perdu avec une paire de Dix
+Siège 3 : psychoman59 (grosse blind) a montré [Qs 7h] et a gagné (300) avec une paire de Dames
+
+
+
+Main PokerStars n°237151808001 : Tournoi #3436562650, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/07/2022 11:56:19 CET [04/07/2022 5:56:19 ET]
+Table '3436562650 1' 3-max Siège #2 est au bouton.
+Place 1: arachtout18 (30 en jetons) 
+Place 2: daniel07959 (380 en jetons) 
+Place 3: psychoman59 (490 en jetons) 
+psychoman59 : met la petite blind. 15
+arachtout18 : met la grosse blind. 30 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Ah]
+daniel07959 : passe. 
+psychoman59 : suit. 15
+*** FLOP *** [4c 2c 2s]
+*** TOURNANT *** [4c 2c 2s] [Kc]
+*** RIVIÈRE *** [4c 2c 2s Kc] [Th]
+*** ABATTAGE ***
+psychoman59 : montre [6h Ah] (une paire de Deux)
+arachtout18 : montre [9c 8h] (une paire de Deux - plus basse kicker)
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4c 2c 2s Kc Th]
+Siège 1 : arachtout18 (grosse blind) a montré [9c 8h] et a perdu avec une paire de Deux
+Siège 2 : daniel07959 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [6h Ah] et a gagné (60) avec une paire de Deux
+
+
+
+Main PokerStars n°237151810252 : Tournoi #3436562650, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/07/2022 11:56:36 CET [04/07/2022 5:56:36 ET]
+Table '3436562650 1' 3-max Siège #3 est au bouton.
+Place 2: daniel07959 (380 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+psychoman59 : met la petite blind. 15
+daniel07959 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à daniel07959.
+daniel07959 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : daniel07959 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237151811250 : Tournoi #3436562650, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2022 11:56:44 CET [04/07/2022 5:56:44 ET]
+Table '3436562650 1' 3-max Siège #2 est au bouton.
+Place 2: daniel07959 (395 en jetons) 
+Place 3: psychoman59 (505 en jetons) 
+daniel07959 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ad]
+daniel07959 : suit. 20
+psychoman59 : relance. 465 à 505 et est all-in.
+daniel07959 : passe. 
+Personne n'a suivi. (465) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : daniel07959 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237151812891 : Tournoi #3436562650, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2022 11:56:57 CET [04/07/2022 5:56:57 ET]
+Table '3436562650 1' 3-max Siège #3 est au bouton.
+Place 2: daniel07959 (355 en jetons) 
+Place 3: psychoman59 (545 en jetons) 
+psychoman59 : met la petite blind. 20
+daniel07959 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à daniel07959.
+daniel07959 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : daniel07959 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237151813518 : Tournoi #3436562650, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2022 11:57:02 CET [04/07/2022 5:57:02 ET]
+Table '3436562650 1' 3-max Siège #2 est au bouton.
+Place 2: daniel07959 (375 en jetons) 
+Place 3: psychoman59 (525 en jetons) 
+daniel07959 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Kc]
+daniel07959 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : daniel07959 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237151814693 : Tournoi #3436562650, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2022 11:57:11 CET [04/07/2022 5:57:11 ET]
+Table '3436562650 1' 3-max Siège #3 est au bouton.
+Place 2: daniel07959 (355 en jetons) 
+Place 3: psychoman59 (545 en jetons) 
+psychoman59 : met la petite blind. 20
+daniel07959 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 5d]
+psychoman59 : relance. 505 à 545 et est all-in.
+daniel07959 : suit. 315 et est all-in.
+Personne n'a suivi. (190) sont retournés à psychoman59.
+*** FLOP *** [3d 7h Jh]
+*** TOURNANT *** [3d 7h Jh] [Js]
+*** RIVIÈRE *** [3d 7h Jh Js] [Ac]
+*** ABATTAGE ***
+daniel07959 : montre [Kc 6s] (une paire de Valets)
+psychoman59 : montre [Ad 5d] (double paire, As et Valets)
+psychoman59 a remporté 710  lors du pot .
+*** SYNTHÈSE ***
+Pot total 710 | Commission 0 
+Tableau [3d 7h Jh Js Ac]
+Siège 2 : daniel07959 (grosse blind) a montré [Kc 6s] et a perdu avec une paire de Valets
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ad 5d] et a gagné (710) avec double paire, As et Valets
+
+
+

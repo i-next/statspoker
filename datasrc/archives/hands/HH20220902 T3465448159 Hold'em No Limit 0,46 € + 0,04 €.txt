@@ -1,0 +1,36 @@
+﻿Main PokerStars n°238376033897 : Tournoi #3465448159, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/09/2022 23:06:50 CET [02/09/2022 17:06:50 ET]
+Table '3465448159 1' 4-max Siège #1 est au bouton.
+Place 1: moxanix (5000 en jetons) 
+Place 2: befaletos (5000 en jetons) 
+Place 3: asticot24000 (5000 en jetons) 
+Place 4: psychoman59 (5000 en jetons) 
+moxanix : met l'ante. 10
+befaletos : met l'ante. 10
+asticot24000 : met l'ante. 10
+psychoman59 : met l'ante. 10
+befaletos : met la petite blind. 50
+asticot24000 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Js]
+psychoman59 : relance. 4890 à 4990 et est all-in.
+moxanix : passe. 
+befaletos : passe. 
+asticot24000 : suit. 4890 et est all-in.
+*** FLOP *** [5s Qc 3s]
+*** TOURNANT *** [5s Qc 3s] [9d]
+*** RIVIÈRE *** [5s Qc 3s 9d] [9c]
+*** ABATTAGE ***
+asticot24000 : montre [2d 9h] (un brelan de Neuf)
+psychoman59 : montre [Ac Js] (une paire de Neuf)
+asticot24000 a remporté 10070  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10070 | Commission 0 
+Tableau [5s Qc 3s 9d 9c]
+Siège 1 : moxanix (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : befaletos (petite blind) s'est couché. avant Flop
+Siège 3 : asticot24000 (grosse blind) a montré [2d 9h] et a gagné (10070) avec un brelan de Neuf
+Siège 4 : psychoman59 a montré [Ac Js] et a perdu avec une paire de Neuf
+
+
+

@@ -1,0 +1,769 @@
+﻿Main PokerStars n°237943504020 : Tournoi #3455182092, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 15:17:10 CET [12/08/2022 9:17:10 ET]
+Table '3455182092 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 2: ELTIGROS1 (5000 en jetons) 
+Place 3: JmsdLJ (5000 en jetons) 
+Place 4: agmom1985 (5000 en jetons) 
+psychoman59 : met l'ante. 10
+ELTIGROS1 : met l'ante. 10
+JmsdLJ : met l'ante. 10
+agmom1985 : met l'ante. 10
+ELTIGROS1 : met la petite blind. 50
+JmsdLJ : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Kc]
+agmom1985 : passe. 
+psychoman59 : relance. 100 à 200
+ELTIGROS1 : suit. 150
+JmsdLJ : suit. 100
+*** FLOP *** [Js 5h Ac]
+ELTIGROS1 : parole 
+JmsdLJ : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Js 5h Ac] [7s]
+ELTIGROS1 : parole 
+JmsdLJ : mise. 100
+psychoman59 : suit. 100
+ELTIGROS1 : suit. 100
+*** RIVIÈRE *** [Js 5h Ac 7s] [5c]
+ELTIGROS1 : parole 
+JmsdLJ : mise. 100
+psychoman59 : suit. 100
+ELTIGROS1 : suit. 100
+*** ABATTAGE ***
+JmsdLJ : montre [Ah 2c] (double paire, As et Cinq)
+psychoman59 : cache la main perdante. 
+ELTIGROS1 : montre [4c Ad] (double paire, As et Cinq)
+ELTIGROS1 a remporté 620  lors du pot .
+JmsdLJ a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1240 | Commission 0 
+Tableau [Js 5h Ac 7s 5c]
+Siège 1 : psychoman59 (bouton) a caché la main perdante. [Qc Kc]
+Siège 2 : ELTIGROS1 (petite blind) a montré [4c Ad] et a gagné (620) avec double paire, As et Cinq
+Siège 3 : JmsdLJ (grosse blind) a montré [Ah 2c] et a gagné (620) avec double paire, As et Cinq
+Siège 4 : agmom1985 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237943516718 : Tournoi #3455182092, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 15:18:05 CET [12/08/2022 9:18:05 ET]
+Table '3455182092 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4590 en jetons) 
+Place 2: ELTIGROS1 (5210 en jetons) 
+Place 3: JmsdLJ (5210 en jetons) 
+Place 4: agmom1985 (4990 en jetons) 
+psychoman59 : met l'ante. 10
+ELTIGROS1 : met l'ante. 10
+JmsdLJ : met l'ante. 10
+agmom1985 : met l'ante. 10
+JmsdLJ : met la petite blind. 50
+agmom1985 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Kc]
+psychoman59 : passe. 
+ELTIGROS1 : passe. 
+JmsdLJ : passe. 
+Personne n'a suivi. (50) sont retournés à agmom1985.
+agmom1985 a remporté 140  lors du pot .
+agmom1985 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ELTIGROS1 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : JmsdLJ (petite blind) s'est couché. avant Flop
+Siège 4 : agmom1985 (grosse blind) a remporté (140)
+
+
+
+Main PokerStars n°237943520123 : Tournoi #3455182092, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 15:18:20 CET [12/08/2022 9:18:20 ET]
+Table '3455182092 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4580 en jetons) 
+Place 2: ELTIGROS1 (5200 en jetons) 
+Place 3: JmsdLJ (5150 en jetons) 
+Place 4: agmom1985 (5070 en jetons) 
+psychoman59 : met l'ante. 10
+ELTIGROS1 : met l'ante. 10
+JmsdLJ : met l'ante. 10
+agmom1985 : met l'ante. 10
+agmom1985 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c As]
+ELTIGROS1 : passe. 
+JmsdLJ : passe. 
+agmom1985 : suit. 50
+psychoman59 : relance. 4470 à 4570 et est all-in.
+agmom1985 : passe. 
+Personne n'a suivi. (4470) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (240)
+Siège 2 : ELTIGROS1 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : JmsdLJ (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : agmom1985 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237943528269 : Tournoi #3455182092, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 15:18:55 CET [12/08/2022 9:18:55 ET]
+Table '3455182092 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4710 en jetons) 
+Place 2: ELTIGROS1 (5190 en jetons) 
+Place 3: JmsdLJ (5140 en jetons) 
+Place 4: agmom1985 (4960 en jetons) 
+psychoman59 : met l'ante. 10
+ELTIGROS1 : met l'ante. 10
+JmsdLJ : met l'ante. 10
+agmom1985 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+ELTIGROS1 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 8h]
+JmsdLJ : suit. 100
+agmom1985 : suit. 100
+psychoman59 : suit. 50
+ELTIGROS1 : parole 
+*** FLOP *** [Kd 7d 2s]
+psychoman59 : parole 
+ELTIGROS1 : parole 
+JmsdLJ : parole 
+agmom1985 : parole 
+*** TOURNANT *** [Kd 7d 2s] [Qh]
+psychoman59 : parole 
+ELTIGROS1 : parole 
+JmsdLJ : parole 
+agmom1985 : parole 
+*** RIVIÈRE *** [Kd 7d 2s Qh] [7s]
+psychoman59 : parole 
+ELTIGROS1 : parole 
+JmsdLJ : mise. 440
+agmom1985 : passe. 
+psychoman59 : passe. 
+ELTIGROS1 : passe. 
+Personne n'a suivi. (440) sont retournés à JmsdLJ.
+JmsdLJ a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [Kd 7d 2s Qh 7s]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 2 : ELTIGROS1 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : JmsdLJ a remporté (440)
+Siège 4 : agmom1985 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237943549818 : Tournoi #3455182092, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 15:20:27 CET [12/08/2022 9:20:27 ET]
+Table '3455182092 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4600 en jetons) 
+Place 2: ELTIGROS1 (5080 en jetons) 
+Place 3: JmsdLJ (5470 en jetons) 
+Place 4: agmom1985 (4850 en jetons) 
+psychoman59 : met l'ante. 15
+ELTIGROS1 : met l'ante. 15
+JmsdLJ : met l'ante. 15
+agmom1985 : met l'ante. 15
+ELTIGROS1 : met la petite blind. 60
+JmsdLJ : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 8c]
+agmom1985 : suit. 120
+psychoman59 : passe. 
+ELTIGROS1 : suit. 60
+JmsdLJ : parole 
+*** FLOP *** [9h 7h Js]
+ELTIGROS1 : mise. 420
+JmsdLJ : passe. 
+agmom1985 : suit. 420
+*** TOURNANT *** [9h 7h Js] [5d]
+ELTIGROS1 : parole 
+agmom1985 : parole 
+*** RIVIÈRE *** [9h 7h Js 5d] [5s]
+ELTIGROS1 : mise. 630
+agmom1985 : suit. 630
+*** ABATTAGE ***
+ELTIGROS1 : montre [Qd 7d] (double paire, Sept et Cinq)
+agmom1985 : montre [Jh 6s] (double paire, Valets et Cinq)
+agmom1985 a remporté 2520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2520 | Commission 0 
+Tableau [9h 7h Js 5d 5s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ELTIGROS1 (petite blind) a montré [Qd 7d] et a perdu avec double paire, Sept et Cinq
+Siège 3 : JmsdLJ (grosse blind) s'est couché. sur le Flop
+Siège 4 : agmom1985 a montré [Jh 6s] et a gagné (2520) avec double paire, Valets et Cinq
+
+
+
+Main PokerStars n°237943560097 : Tournoi #3455182092, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 15:21:11 CET [12/08/2022 9:21:11 ET]
+Table '3455182092 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4585 en jetons) 
+Place 2: ELTIGROS1 (3895 en jetons) 
+Place 3: JmsdLJ (5335 en jetons) 
+Place 4: agmom1985 (6185 en jetons) 
+psychoman59 : met l'ante. 15
+ELTIGROS1 : met l'ante. 15
+JmsdLJ : met l'ante. 15
+agmom1985 : met l'ante. 15
+JmsdLJ : met la petite blind. 60
+agmom1985 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 2h]
+psychoman59 : passe. 
+ELTIGROS1 : relance. 240 à 360
+JmsdLJ : passe. 
+agmom1985 : passe. 
+Personne n'a suivi. (240) sont retournés à ELTIGROS1.
+ELTIGROS1 a remporté 360  lors du pot .
+ELTIGROS1 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ELTIGROS1 (bouton) a remporté (360)
+Siège 3 : JmsdLJ (petite blind) s'est couché. avant Flop
+Siège 4 : agmom1985 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237943566630 : Tournoi #3455182092, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 15:21:39 CET [12/08/2022 9:21:39 ET]
+Table '3455182092 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4570 en jetons) 
+Place 2: ELTIGROS1 (4120 en jetons) 
+Place 3: JmsdLJ (5260 en jetons) 
+Place 4: agmom1985 (6050 en jetons) 
+psychoman59 : met l'ante. 15
+ELTIGROS1 : met l'ante. 15
+JmsdLJ : met l'ante. 15
+agmom1985 : met l'ante. 15
+agmom1985 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 9h]
+ELTIGROS1 : passe. 
+JmsdLJ : passe. 
+agmom1985 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [5h Qh Qs]
+agmom1985 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5h Qh Qs] [3c]
+agmom1985 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5h Qh Qs 3c] [2c]
+agmom1985 : mise. 600
+psychoman59 : passe. 
+Personne n'a suivi. (600) sont retournés à agmom1985.
+agmom1985 a remporté 300  lors du pot .
+agmom1985 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [5h Qh Qs 3c 2c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : ELTIGROS1 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : JmsdLJ (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : agmom1985 (petite blind) a remporté (300)
+
+
+
+Main PokerStars n°237943582529 : Tournoi #3455182092, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 15:22:47 CET [12/08/2022 9:22:47 ET]
+Table '3455182092 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4435 en jetons) 
+Place 2: ELTIGROS1 (4105 en jetons) 
+Place 3: JmsdLJ (5245 en jetons) 
+Place 4: agmom1985 (6215 en jetons) 
+psychoman59 : met l'ante. 15
+ELTIGROS1 : met l'ante. 15
+JmsdLJ : met l'ante. 15
+agmom1985 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+ELTIGROS1 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 8d]
+JmsdLJ : suit. 120
+agmom1985 : passe. 
+psychoman59 : suit. 60
+ELTIGROS1 : parole 
+*** FLOP *** [2c 6d Tc]
+psychoman59 : parole 
+ELTIGROS1 : parole 
+JmsdLJ : mise. 420
+psychoman59 : suit. 420
+ELTIGROS1 : passe. 
+*** TOURNANT *** [2c 6d Tc] [6h]
+psychoman59 : parole 
+JmsdLJ : mise. 240
+psychoman59 : passe. 
+Personne n'a suivi. (240) sont retournés à JmsdLJ.
+JmsdLJ a remporté 1260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1260 | Commission 0 
+Tableau [2c 6d Tc 6h]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 2 : ELTIGROS1 (grosse blind) s'est couché. sur le Flop
+Siège 3 : JmsdLJ a remporté (1260)
+Siège 4 : agmom1985 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237943597075 : Tournoi #3455182092, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 15:23:50 CET [12/08/2022 9:23:50 ET]
+Table '3455182092 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (3880 en jetons) 
+Place 2: ELTIGROS1 (3970 en jetons) 
+Place 3: JmsdLJ (5950 en jetons) 
+Place 4: agmom1985 (6200 en jetons) 
+psychoman59 : met l'ante. 20
+ELTIGROS1 : met l'ante. 20
+JmsdLJ : met l'ante. 20
+agmom1985 : met l'ante. 20
+ELTIGROS1 : met la petite blind. 75
+JmsdLJ : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 5c]
+agmom1985 : passe. 
+psychoman59 : passe. 
+ELTIGROS1 : relance. 300 à 450
+JmsdLJ : passe. 
+Personne n'a suivi. (300) sont retournés à ELTIGROS1.
+ELTIGROS1 a remporté 380  lors du pot .
+ELTIGROS1 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ELTIGROS1 (petite blind) a remporté (380)
+Siège 3 : JmsdLJ (grosse blind) s'est couché. avant Flop
+Siège 4 : agmom1985 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237943601099 : Tournoi #3455182092, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 15:24:07 CET [12/08/2022 9:24:07 ET]
+Table '3455182092 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (3860 en jetons) 
+Place 2: ELTIGROS1 (4180 en jetons) 
+Place 3: JmsdLJ (5780 en jetons) 
+Place 4: agmom1985 (6180 en jetons) 
+psychoman59 : met l'ante. 20
+ELTIGROS1 : met l'ante. 20
+JmsdLJ : met l'ante. 20
+agmom1985 : met l'ante. 20
+JmsdLJ : met la petite blind. 75
+agmom1985 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Kc]
+psychoman59 : suit. 150
+ELTIGROS1 : passe. 
+JmsdLJ : suit. 75
+agmom1985 : parole 
+*** FLOP *** [7h 5s 8s]
+JmsdLJ : mise. 530
+agmom1985 : passe. 
+psychoman59 : suit. 530
+*** TOURNANT *** [7h 5s 8s] [7c]
+JmsdLJ : parole 
+psychoman59 : mise. 1590
+JmsdLJ : suit. 1590
+*** RIVIÈRE *** [7h 5s 8s 7c] [Ks]
+JmsdLJ : mise. 3490 et est all-in.
+psychoman59 : suit. 1570 et est all-in.
+Personne n'a suivi. (1920) sont retournés à JmsdLJ.
+*** ABATTAGE ***
+JmsdLJ : montre [Ts Tc] (double paire, Dix et Sept)
+psychoman59 : montre [6c Kc] (double paire, Rois et Sept)
+psychoman59 a remporté 7910  lors du pot .
+*** SYNTHÈSE ***
+Pot total 7910 | Commission 0 
+Tableau [7h 5s 8s 7c Ks]
+Siège 1 : psychoman59 a montré [6c Kc] et a gagné (7910) avec double paire, Rois et Sept
+Siège 2 : ELTIGROS1 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : JmsdLJ (petite blind) a montré [Ts Tc] et a perdu avec double paire, Dix et Sept
+Siège 4 : agmom1985 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237943614482 : Tournoi #3455182092, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 15:25:04 CET [12/08/2022 9:25:04 ET]
+Table '3455182092 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (7910 en jetons) 
+Place 2: ELTIGROS1 (4160 en jetons) 
+Place 3: JmsdLJ (1920 en jetons) 
+Place 4: agmom1985 (6010 en jetons) 
+psychoman59 : met l'ante. 20
+ELTIGROS1 : met l'ante. 20
+JmsdLJ : met l'ante. 20
+agmom1985 : met l'ante. 20
+agmom1985 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 6h]
+ELTIGROS1 : relance. 3990 à 4140 et est all-in.
+JmsdLJ : suit. 1900 et est all-in.
+agmom1985 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (2240) sont retournés à ELTIGROS1.
+*** FLOP *** [4c 7c 8h]
+*** TOURNANT *** [4c 7c 8h] [4d]
+*** RIVIÈRE *** [4c 7c 8h 4d] [4s]
+*** ABATTAGE ***
+ELTIGROS1 : montre [6d As] (un brelan de Quatre)
+JmsdLJ : montre [2c 2h] (un full, full aux Quatre par les Deux)
+JmsdLJ a remporté 4105  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4105 | Commission 0 
+Tableau [4c 7c 8h 4d 4s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : ELTIGROS1 a montré [6d As] et a perdu avec un brelan de Quatre
+Siège 3 : JmsdLJ (bouton) a montré [2c 2h] et a gagné (4105) avec un full, full aux Quatre par les Deux
+Siège 4 : agmom1985 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237943621708 : Tournoi #3455182092, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 15:25:35 CET [12/08/2022 9:25:35 ET]
+Table '3455182092 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (7740 en jetons) 
+Place 2: ELTIGROS1 (2240 en jetons) 
+Place 3: JmsdLJ (4105 en jetons) 
+Place 4: agmom1985 (5915 en jetons) 
+psychoman59 : met l'ante. 20
+ELTIGROS1 : met l'ante. 20
+JmsdLJ : met l'ante. 20
+agmom1985 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+ELTIGROS1 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 9h]
+JmsdLJ : passe. 
+agmom1985 : passe. 
+psychoman59 : relance. 150 à 300
+ELTIGROS1 : relance. 1920 à 2220 et est all-in.
+psychoman59 : suit. 1920
+*** FLOP *** [4c 9c Th]
+*** TOURNANT *** [4c 9c Th] [2s]
+*** RIVIÈRE *** [4c 9c Th 2s] [7d]
+*** ABATTAGE ***
+psychoman59 : montre [As 9h] (une paire de Neuf)
+ELTIGROS1 : montre [Ad Qh] (Hauteur As)
+psychoman59 a remporté 4520  lors du pot .
+ELTIGROS1 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 4520 | Commission 0 
+Tableau [4c 9c Th 2s 7d]
+Siège 1 : psychoman59 (petite blind) a montré [As 9h] et a gagné (4520) avec une paire de Neuf
+Siège 2 : ELTIGROS1 (grosse blind) a montré [Ad Qh] et a perdu avec Hauteur As
+Siège 3 : JmsdLJ s'est couché. avant Flop (n'a pas misé)
+Siège 4 : agmom1985 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237943632398 : Tournoi #3455182092, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 15:26:21 CET [12/08/2022 9:26:21 ET]
+Table '3455182092 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (10020 en jetons) 
+Place 3: JmsdLJ (4085 en jetons) 
+Place 4: agmom1985 (5895 en jetons) 
+psychoman59 : met l'ante. 25
+JmsdLJ : met l'ante. 25
+agmom1985 : met l'ante. 25
+JmsdLJ : met la petite blind. 100
+agmom1985 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 7d]
+psychoman59 : passe. 
+JmsdLJ : suit. 100
+agmom1985 : parole 
+*** FLOP *** [2c Ad 8c]
+JmsdLJ : mise. 200
+agmom1985 : suit. 200
+*** TOURNANT *** [2c Ad 8c] [Qs]
+JmsdLJ : mise. 200
+agmom1985 : suit. 200
+*** RIVIÈRE *** [2c Ad 8c Qs] [5s]
+JmsdLJ : mise. 200
+agmom1985 : suit. 200
+*** ABATTAGE ***
+JmsdLJ : montre [Js 8d] (une paire de Huit)
+agmom1985 : cache la main perdante. 
+JmsdLJ a remporté 1675  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1675 | Commission 0 
+Tableau [2c Ad 8c Qs 5s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : JmsdLJ (petite blind) a montré [Js 8d] et a gagné (1675) avec une paire de Huit
+Siège 4 : agmom1985 (grosse blind) a caché la main perdante. [7c 8h]
+
+
+
+Main PokerStars n°237943639089 : Tournoi #3455182092, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 15:26:49 CET [12/08/2022 9:26:49 ET]
+Table '3455182092 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (9995 en jetons) 
+Place 3: JmsdLJ (4935 en jetons) 
+Place 4: agmom1985 (5070 en jetons) 
+psychoman59 : met l'ante. 25
+JmsdLJ : met l'ante. 25
+agmom1985 : met l'ante. 25
+agmom1985 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ad]
+JmsdLJ : passe. 
+agmom1985 : suit. 100
+psychoman59 : parole 
+*** FLOP *** [8h 3c 9d]
+agmom1985 : mise. 200
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à agmom1985.
+agmom1985 a remporté 475  lors du pot .
+agmom1985 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Tableau [8h 3c 9d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : JmsdLJ (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : agmom1985 (petite blind) a remporté (475)
+
+
+
+Main PokerStars n°237943643177 : Tournoi #3455182092, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 15:27:07 CET [12/08/2022 9:27:07 ET]
+Table '3455182092 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (9770 en jetons) 
+Place 3: JmsdLJ (4910 en jetons) 
+Place 4: agmom1985 (5320 en jetons) 
+psychoman59 : met l'ante. 25
+JmsdLJ : met l'ante. 25
+agmom1985 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+JmsdLJ : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 8c]
+agmom1985 : suit. 200
+psychoman59 : suit. 100
+JmsdLJ : parole 
+*** FLOP *** [Td Ah 3d]
+psychoman59 : parole 
+JmsdLJ : mise. 337
+agmom1985 : suit. 337
+psychoman59 : passe. 
+*** TOURNANT *** [Td Ah 3d] [9s]
+JmsdLJ : parole 
+agmom1985 : parole 
+*** RIVIÈRE *** [Td Ah 3d 9s] [5d]
+JmsdLJ : mise. 200
+agmom1985 : relance. 200 à 400
+JmsdLJ : passe. 
+Personne n'a suivi. (200) sont retournés à agmom1985.
+agmom1985 a remporté 1749  lors du pot .
+agmom1985 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1749 | Commission 0 
+Tableau [Td Ah 3d 9s 5d]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : JmsdLJ (grosse blind) s'est couché. sur le Rivière
+Siège 4 : agmom1985 (bouton) a remporté (1749)
+
+
+
+Main PokerStars n°237943657055 : Tournoi #3455182092, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 15:28:06 CET [12/08/2022 9:28:06 ET]
+Table '3455182092 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (9545 en jetons) 
+Place 3: JmsdLJ (4148 en jetons) 
+Place 4: agmom1985 (6307 en jetons) 
+psychoman59 : met l'ante. 25
+JmsdLJ : met l'ante. 25
+agmom1985 : met l'ante. 25
+JmsdLJ : met la petite blind. 100
+agmom1985 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Kh]
+psychoman59 : passe. 
+JmsdLJ : suit. 100
+agmom1985 : parole 
+*** FLOP *** [Th 8c 9h]
+JmsdLJ : parole 
+agmom1985 : mise. 200
+JmsdLJ : passe. 
+Personne n'a suivi. (200) sont retournés à agmom1985.
+agmom1985 a remporté 475  lors du pot .
+agmom1985 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Tableau [Th 8c 9h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : JmsdLJ (petite blind) s'est couché. sur le Flop
+Siège 4 : agmom1985 (grosse blind) a remporté (475)
+
+
+
+Main PokerStars n°237943665245 : Tournoi #3455182092, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 15:28:41 CET [12/08/2022 9:28:41 ET]
+Table '3455182092 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (9520 en jetons) 
+Place 3: JmsdLJ (3923 en jetons) 
+Place 4: agmom1985 (6557 en jetons) 
+psychoman59 : met l'ante. 25
+JmsdLJ : met l'ante. 25
+agmom1985 : met l'ante. 25
+agmom1985 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Kc]
+JmsdLJ : suit. 200
+agmom1985 : suit. 100
+psychoman59 : relance. 9295 à 9495 et est all-in.
+JmsdLJ : passe. 
+agmom1985 : passe. 
+Personne n'a suivi. (9295) sont retournés à psychoman59.
+psychoman59 a remporté 675  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 675 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (675)
+Siège 3 : JmsdLJ (bouton) s'est couché. avant Flop
+Siège 4 : agmom1985 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237943672208 : Tournoi #3455182092, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 15:29:11 CET [12/08/2022 9:29:11 ET]
+Table '3455182092 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (9970 en jetons) 
+Place 3: JmsdLJ (3698 en jetons) 
+Place 4: agmom1985 (6332 en jetons) 
+psychoman59 : met l'ante. 25
+JmsdLJ : met l'ante. 25
+agmom1985 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+JmsdLJ : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 2d]
+agmom1985 : suit. 200
+psychoman59 : passe. 
+JmsdLJ : parole 
+*** FLOP *** [6d Th Kd]
+JmsdLJ : parole 
+agmom1985 : parole 
+*** TOURNANT *** [6d Th Kd] [3s]
+JmsdLJ : parole 
+agmom1985 : mise. 200
+JmsdLJ : suit. 200
+*** RIVIÈRE *** [6d Th Kd 3s] [3d]
+JmsdLJ : parole 
+agmom1985 : mise. 487
+JmsdLJ : relance. 975 à 1462
+agmom1985 : suit. 975
+*** ABATTAGE ***
+JmsdLJ : montre [9c 6s] (double paire, Six et Trois)
+agmom1985 : montre [8c Kc] (double paire, Rois et Trois)
+agmom1985 a remporté 3899  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3899 | Commission 0 
+Tableau [6d Th Kd 3s 3d]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : JmsdLJ (grosse blind) a montré [9c 6s] et a perdu avec double paire, Six et Trois
+Siège 4 : agmom1985 (bouton) a montré [8c Kc] et a gagné (3899) avec double paire, Rois et Trois
+
+
+
+Main PokerStars n°237943684893 : Tournoi #3455182092, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 15:30:05 CET [12/08/2022 9:30:05 ET]
+Table '3455182092 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (9845 en jetons) 
+Place 3: JmsdLJ (1811 en jetons) 
+Place 4: agmom1985 (8344 en jetons) 
+psychoman59 : met l'ante. 30
+JmsdLJ : met l'ante. 30
+agmom1985 : met l'ante. 30
+JmsdLJ : met la petite blind. 125
+agmom1985 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 6c]
+psychoman59 : passe. 
+JmsdLJ : suit. 125
+agmom1985 : parole 
+*** FLOP *** [6s 7s Jh]
+JmsdLJ : mise. 250
+agmom1985 : suit. 250
+*** TOURNANT *** [6s 7s Jh] [5d]
+JmsdLJ : mise. 250
+agmom1985 : suit. 250
+*** RIVIÈRE *** [6s 7s Jh 5d] [Td]
+JmsdLJ : mise. 795
+agmom1985 : passe. 
+Personne n'a suivi. (795) sont retournés à JmsdLJ.
+JmsdLJ a remporté 1590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1590 | Commission 0 
+Tableau [6s 7s Jh 5d Td]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : JmsdLJ (petite blind) a remporté (1590)
+Siège 4 : agmom1985 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237943694223 : Tournoi #3455182092, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 15:30:45 CET [12/08/2022 9:30:45 ET]
+Table '3455182092 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (9815 en jetons) 
+Place 3: JmsdLJ (2621 en jetons) 
+Place 4: agmom1985 (7564 en jetons) 
+psychoman59 : met l'ante. 30
+JmsdLJ : met l'ante. 30
+agmom1985 : met l'ante. 30
+agmom1985 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Kh]
+JmsdLJ : passe. 
+agmom1985 : suit. 125
+psychoman59 : relance. 9535 à 9785 et est all-in.
+agmom1985 : suit. 7284 et est all-in.
+Personne n'a suivi. (2251) sont retournés à psychoman59.
+*** FLOP *** [5s 2s 3s]
+*** TOURNANT *** [5s 2s 3s] [7c]
+*** RIVIÈRE *** [5s 2s 3s 7c] [9d]
+*** ABATTAGE ***
+agmom1985 : montre [Td Th] (une paire de Dix)
+psychoman59 : montre [Js Kh] (Hauteur Roi)
+agmom1985 a remporté 15158  lors du pot .
+*** SYNTHÈSE ***
+Pot total 15158 | Commission 0 
+Tableau [5s 2s 3s 7c 9d]
+Siège 1 : psychoman59 (grosse blind) a montré [Js Kh] et a perdu avec Hauteur Roi
+Siège 3 : JmsdLJ (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : agmom1985 (petite blind) a montré [Td Th] et a gagné (15158) avec une paire de Dix
+
+
+
+Main PokerStars n°237943699781 : Tournoi #3455182092, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 15:31:08 CET [12/08/2022 9:31:08 ET]
+Table '3455182092 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (2251 en jetons) 
+Place 3: JmsdLJ (2591 en jetons) 
+Place 4: agmom1985 (15158 en jetons) 
+psychoman59 : met l'ante. 30
+JmsdLJ : met l'ante. 30
+agmom1985 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+JmsdLJ : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8d]
+agmom1985 : suit. 250
+psychoman59 : suit. 125
+JmsdLJ : parole 
+*** FLOP *** [8s 9c 9d]
+psychoman59 : mise. 1971 et est all-in.
+JmsdLJ : suit. 1971
+agmom1985 : relance. 1971 à 3942
+JmsdLJ : suit. 340 et est all-in.
+Personne n'a suivi. (1631) sont retournés à agmom1985.
+*** TOURNANT *** [8s 9c 9d] [2d]
+*** RIVIÈRE *** [8s 9c 9d 2d] [3c]
+*** ABATTAGE ***
+JmsdLJ : montre [7d Th] (une paire de Neuf)
+agmom1985 : montre [9h Qh] (un brelan de Neuf)
+agmom1985 a remporté 680  parallèle lors du pot .
+psychoman59 : montre [Qs 8d] (double paire, Neuf et Huit)
+agmom1985 a remporté 6753  principal lors du pot .
+JmsdLJ a fini le tournoi à la 2e place et a reçu 0.34 €.
+psychoman59 a fini le tournoi en 3e position.
+agmom1985 gagne le tournoi - félicitations !
+agmom1985 gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 7433 Principal pot 6753. Parallèle pot 680. | Commission 0 
+Tableau [8s 9c 9d 2d 3c]
+Siège 1 : psychoman59 (petite blind) a montré [Qs 8d] et a perdu avec double paire, Neuf et Huit
+Siège 3 : JmsdLJ (grosse blind) a montré [7d Th] et a perdu avec une paire de Neuf
+Siège 4 : agmom1985 (bouton) a montré [9h Qh] et a gagné (7433) avec un brelan de Neuf
+
+
+

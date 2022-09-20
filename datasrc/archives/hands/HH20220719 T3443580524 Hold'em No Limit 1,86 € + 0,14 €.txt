@@ -1,0 +1,28 @@
+﻿Main PokerStars n°237450297025 : Tournoi #3443580524, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 8:51:56 CET [19/07/2022 2:51:56 ET]
+Table '3443580524 1' 3-max Siège #1 est au bouton.
+Place 1: unforgiven596 (300 en jetons) 
+Place 2: Winarnax (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Winarnax : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ks]
+unforgiven596 : passe. 
+Winarnax : relance. 280 à 300 et est all-in.
+psychoman59 : suit. 280 et est all-in.
+*** FLOP *** [Tc 6c Ts]
+*** TOURNANT *** [Tc 6c Ts] [Qc]
+*** RIVIÈRE *** [Tc 6c Ts Qc] [Js]
+*** ABATTAGE ***
+Winarnax : montre [3s As] (une paire de Dix)
+psychoman59 : montre [8c Ks] (une paire de Dix - plus basse kicker)
+Winarnax a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [Tc 6c Ts Qc Js]
+Siège 1 : unforgiven596 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Winarnax (petite blind) a montré [3s As] et a gagné (600) avec une paire de Dix
+Siège 3 : psychoman59 (grosse blind) a montré [8c Ks] et a perdu avec une paire de Dix
+
+
+

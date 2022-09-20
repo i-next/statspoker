@@ -1,0 +1,206 @@
+﻿Main PokerStars n°237861079268 : Tournoi #3453171419, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 11:31:02 CET [08/08/2022 5:31:02 ET]
+Table '3453171419 1' 4-max Siège #1 est au bouton.
+Place 1: moletripa (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: boubeks (5000 en jetons) 
+Place 4: borrikill (5000 en jetons) 
+moletripa : met l'ante. 10
+psychoman59 : met l'ante. 10
+boubeks : met l'ante. 10
+borrikill : met l'ante. 10
+psychoman59 : met la petite blind. 50
+boubeks : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Jh]
+borrikill : suit. 100
+moletripa : passe. 
+psychoman59 : suit. 50
+boubeks : relance. 200 à 300
+borrikill : passe. 
+psychoman59 : suit. 200
+*** FLOP *** [Tc 4s 2h]
+psychoman59 : parole 
+boubeks : parole 
+*** TOURNANT *** [Tc 4s 2h] [7c]
+psychoman59 : parole 
+boubeks : parole 
+*** RIVIÈRE *** [Tc 4s 2h 7c] [Qd]
+psychoman59 : mise. 740
+boubeks : passe. 
+Personne n'a suivi. (740) sont retournés à psychoman59.
+psychoman59 a remporté 740  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Tableau [Tc 4s 2h 7c Qd]
+Siège 1 : moletripa (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (740)
+Siège 3 : boubeks (grosse blind) s'est couché. sur le Rivière
+Siège 4 : borrikill s'est couché. avant Flop
+
+
+
+Main PokerStars n°237861084823 : Tournoi #3453171419, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 11:31:40 CET [08/08/2022 5:31:40 ET]
+Table '3453171419 1' 4-max Siège #2 est au bouton.
+Place 1: moletripa (4990 en jetons) 
+Place 2: psychoman59 (5430 en jetons) 
+Place 3: boubeks (4690 en jetons) 
+Place 4: borrikill (4890 en jetons) 
+moletripa : met l'ante. 10
+psychoman59 : met l'ante. 10
+boubeks : met l'ante. 10
+borrikill : met l'ante. 10
+boubeks : met la petite blind. 50
+borrikill : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qh]
+moletripa : passe. 
+psychoman59 : suit. 100
+boubeks : suit. 50
+borrikill : relance. 340 à 440
+psychoman59 : suit. 340
+boubeks : suit. 340
+*** FLOP *** [9s 4d 5d]
+boubeks : parole 
+borrikill : mise. 680
+psychoman59 : passe. 
+boubeks : passe. 
+Personne n'a suivi. (680) sont retournés à borrikill.
+borrikill a remporté 1360  lors du pot .
+borrikill : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1360 | Commission 0 
+Tableau [9s 4d 5d]
+Siège 1 : moletripa s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 3 : boubeks (petite blind) s'est couché. sur le Flop
+Siège 4 : borrikill (grosse blind) a remporté (1360)
+
+
+
+Main PokerStars n°237861089414 : Tournoi #3453171419, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 11:32:11 CET [08/08/2022 5:32:11 ET]
+Table '3453171419 1' 4-max Siège #3 est au bouton.
+Place 1: moletripa (4980 en jetons) 
+Place 2: psychoman59 (4980 en jetons) 
+Place 3: boubeks (4240 en jetons) 
+Place 4: borrikill (5800 en jetons) 
+moletripa : met l'ante. 10
+psychoman59 : met l'ante. 10
+boubeks : met l'ante. 10
+borrikill : met l'ante. 10
+borrikill : met la petite blind. 50
+moletripa : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 3c]
+psychoman59 : passe. 
+boubeks : passe. 
+borrikill : suit. 50
+moletripa : parole 
+*** FLOP *** [4s Th 5c]
+borrikill : parole 
+moletripa : parole 
+*** TOURNANT *** [4s Th 5c] [Jh]
+borrikill : parole 
+moletripa : mise. 100
+borrikill : suit. 100
+*** RIVIÈRE *** [4s Th 5c Jh] [9c]
+borrikill : parole 
+moletripa : mise. 100
+borrikill : suit. 100
+*** ABATTAGE ***
+moletripa : montre [3h Jc] (une paire de Valets)
+borrikill : cache la main perdante. 
+moletripa a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [4s Th 5c Jh 9c]
+Siège 1 : moletripa (grosse blind) a montré [3h Jc] et a gagné (640) avec une paire de Valets
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : boubeks (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : borrikill (petite blind) a caché la main perdante. [7h 9d]
+
+
+
+Main PokerStars n°237861094514 : Tournoi #3453171419, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 11:32:45 CET [08/08/2022 5:32:45 ET]
+Table '3453171419 1' 4-max Siège #4 est au bouton.
+Place 1: moletripa (5310 en jetons) 
+Place 2: psychoman59 (4970 en jetons) 
+Place 3: boubeks (4230 en jetons) 
+Place 4: borrikill (5490 en jetons) 
+moletripa : met l'ante. 10
+psychoman59 : met l'ante. 10
+boubeks : met l'ante. 10
+borrikill : met l'ante. 10
+moletripa : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 7d]
+boubeks : suit. 100
+borrikill : suit. 100
+moletripa : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Jd 9h 5d]
+moletripa : parole 
+psychoman59 : parole 
+boubeks : parole 
+borrikill : mise. 220
+moletripa : passe. 
+psychoman59 : suit. 220
+boubeks : passe. 
+*** TOURNANT *** [Jd 9h 5d] [Tc]
+psychoman59 : parole 
+borrikill : parole 
+*** RIVIÈRE *** [Jd 9h 5d Tc] [Js]
+psychoman59 : mise. 880
+borrikill : suit. 880
+*** ABATTAGE ***
+psychoman59 : montre [Qd 7d] (une paire de Valets)
+borrikill : montre [Jc 8c] (un brelan de Valets)
+borrikill a remporté 2640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2640 | Commission 0 
+Tableau [Jd 9h 5d Tc Js]
+Siège 1 : moletripa (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a montré [Qd 7d] et a perdu avec une paire de Valets
+Siège 3 : boubeks s'est couché. sur le Flop
+Siège 4 : borrikill (bouton) a montré [Jc 8c] et a gagné (2640) avec un brelan de Valets
+
+
+
+Main PokerStars n°237861099810 : Tournoi #3453171419, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 11:33:21 CET [08/08/2022 5:33:21 ET]
+Table '3453171419 1' 4-max Siège #1 est au bouton.
+Place 1: moletripa (5200 en jetons) 
+Place 2: psychoman59 (3760 en jetons) 
+Place 3: boubeks (4120 en jetons) 
+Place 4: borrikill (6920 en jetons) 
+moletripa : met l'ante. 10
+psychoman59 : met l'ante. 10
+boubeks : met l'ante. 10
+borrikill : met l'ante. 10
+psychoman59 : met la petite blind. 50
+boubeks : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Ad]
+borrikill : suit. 100
+moletripa : passe. 
+psychoman59 : relance. 3650 à 3750 et est all-in.
+boubeks : passe. 
+borrikill : suit. 3650
+*** FLOP *** [3s 7h 6s]
+*** TOURNANT *** [3s 7h 6s] [4c]
+*** RIVIÈRE *** [3s 7h 6s 4c] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [Ks Ad] (Hauteur As)
+borrikill : montre [Ah 3h] (une paire de Trois)
+borrikill a remporté 7640  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 7640 | Commission 0 
+Tableau [3s 7h 6s 4c 9c]
+Siège 1 : moletripa (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Ks Ad] et a perdu avec Hauteur As
+Siège 3 : boubeks (grosse blind) s'est couché. avant Flop
+Siège 4 : borrikill a montré [Ah 3h] et a gagné (7640) avec une paire de Trois
+
+
+

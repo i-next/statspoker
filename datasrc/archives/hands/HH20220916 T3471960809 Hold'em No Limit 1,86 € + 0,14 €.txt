@@ -1,0 +1,483 @@
+﻿Main PokerStars n°238657628019 : Tournoi #3471960809, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 16/09/2022 9:52:36 CET [16/09/2022 3:52:36 ET]
+Table '3471960809 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Eden62700 (300 en jetons) 
+Place 3: Compintxe_265 (300 en jetons) 
+Eden62700 : met la petite blind. 10
+Compintxe_265 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 5c]
+psychoman59 : passe. 
+Eden62700 : passe. 
+Personne n'a suivi. (10) sont retournés à Compintxe_265.
+Compintxe_265 a remporté 20  lors du pot .
+Compintxe_265 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Eden62700 (petite blind) s'est couché. avant Flop
+Siège 3 : Compintxe_265 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°238657629436 : Tournoi #3471960809, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 16/09/2022 9:52:48 CET [16/09/2022 3:52:48 ET]
+Table '3471960809 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Eden62700 (290 en jetons) 
+Place 3: Compintxe_265 (310 en jetons) 
+Compintxe_265 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 9s]
+Eden62700 : passe. 
+Compintxe_265 : relance. 290 à 310 et est all-in.
+psychoman59 : suit. 280 et est all-in.
+Personne n'a suivi. (10) sont retournés à Compintxe_265.
+*** FLOP *** [2d 3c Kd]
+*** TOURNANT *** [2d 3c Kd] [5h]
+*** RIVIÈRE *** [2d 3c Kd 5h] [4c]
+*** ABATTAGE ***
+Compintxe_265 : montre [8h 8s] (une paire de Huit)
+psychoman59 : montre [Ac 9s] (une suite, As à Cinq)
+psychoman59 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [2d 3c Kd 5h 4c]
+Siège 1 : psychoman59 (grosse blind) a montré [Ac 9s] et a gagné (600) avec une suite, As à Cinq
+Siège 2 : Eden62700 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Compintxe_265 (petite blind) a montré [8h 8s] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°238657631670 : Tournoi #3471960809, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 16/09/2022 9:53:06 CET [16/09/2022 3:53:06 ET]
+Table '3471960809 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: Eden62700 (290 en jetons) 
+Place 3: Compintxe_265 (10 en jetons) 
+psychoman59 : met la petite blind. 10
+Eden62700 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Qs]
+Compintxe_265 : suit. 10 et est all-in.
+psychoman59 : suit. 10
+Eden62700 : parole 
+*** FLOP *** [3d 9s 8c]
+psychoman59 : parole 
+Eden62700 : parole 
+*** TOURNANT *** [3d 9s 8c] [Qc]
+psychoman59 : mise. 50
+Eden62700 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+*** RIVIÈRE *** [3d 9s 8c Qc] [Tc]
+*** ABATTAGE ***
+psychoman59 : montre [6h Qs] (une paire de Dames)
+psychoman59 a remporté 20  parallèle lors du pot .
+Compintxe_265 : montre [8d 8h] (un brelan de Huit)
+Compintxe_265 a remporté 30  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 Principal pot 30. Parallèle pot 20. | Commission 0 
+Tableau [3d 9s 8c Qc Tc]
+Siège 1 : psychoman59 (petite blind) a montré [6h Qs] et a gagné (20) avec une paire de Dames
+Siège 2 : Eden62700 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : Compintxe_265 (bouton) a montré [8d 8h] et a gagné (30) avec un brelan de Huit
+
+
+
+Main PokerStars n°238657634947 : Tournoi #3471960809, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 16/09/2022 9:53:33 CET [16/09/2022 3:53:33 ET]
+Table '3471960809 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: Eden62700 (270 en jetons) 
+Place 3: Compintxe_265 (30 en jetons) 
+Eden62700 : met la petite blind. 10
+Compintxe_265 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 9h]
+psychoman59 : passe. 
+Eden62700 : suit. 10
+Compintxe_265 : relance. 10 à 30 et est all-in.
+Eden62700 : suit. 10
+*** FLOP *** [2h 2s 7s]
+*** TOURNANT *** [2h 2s 7s] [Ac]
+*** RIVIÈRE *** [2h 2s 7s Ac] [Jd]
+*** ABATTAGE ***
+Eden62700 : montre [4c 6c] (une paire de Deux)
+Compintxe_265 : montre [Qh 7c] (double paire, Sept et Deux)
+Compintxe_265 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2h 2s 7s Ac Jd]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Eden62700 (petite blind) a montré [4c 6c] et a perdu avec une paire de Deux
+Siège 3 : Compintxe_265 (grosse blind) a montré [Qh 7c] et a gagné (60) avec double paire, Sept et Deux
+
+
+
+Main PokerStars n°238657637183 : Tournoi #3471960809, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 16/09/2022 9:53:52 CET [16/09/2022 3:53:52 ET]
+Table '3471960809 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: Eden62700 (240 en jetons) 
+Place 3: Compintxe_265 (60 en jetons) 
+Compintxe_265 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 3s]
+Eden62700 : passe. 
+Compintxe_265 : relance. 30 à 60 et est all-in.
+psychoman59 : suit. 30
+*** FLOP *** [2h 3d 7s]
+*** TOURNANT *** [2h 3d 7s] [5h]
+*** RIVIÈRE *** [2h 3d 7s 5h] [2d]
+*** ABATTAGE ***
+Compintxe_265 : montre [Kd Kc] (double paire, Rois et Deux)
+psychoman59 : montre [Qh 3s] (double paire, Trois et Deux)
+Compintxe_265 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2h 3d 7s 5h 2d]
+Siège 1 : psychoman59 (grosse blind) a montré [Qh 3s] et a perdu avec double paire, Trois et Deux
+Siège 2 : Eden62700 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Compintxe_265 (petite blind) a montré [Kd Kc] et a gagné (120) avec double paire, Rois et Deux
+
+
+
+Main PokerStars n°238657639479 : Tournoi #3471960809, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 16/09/2022 9:54:10 CET [16/09/2022 3:54:10 ET]
+Table '3471960809 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (540 en jetons) 
+Place 2: Eden62700 (240 en jetons) 
+Place 3: Compintxe_265 (120 en jetons) 
+psychoman59 : met la petite blind. 15
+Eden62700 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 7d]
+Compintxe_265 : relance. 90 à 120 et est all-in.
+psychoman59 : passe. 
+Eden62700 : passe. 
+Personne n'a suivi. (90) sont retournés à Compintxe_265.
+Compintxe_265 a remporté 75  lors du pot .
+Compintxe_265 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Eden62700 (grosse blind) s'est couché. avant Flop
+Siège 3 : Compintxe_265 (bouton) a remporté (75)
+
+
+
+Main PokerStars n°238657640348 : Tournoi #3471960809, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 16/09/2022 9:54:17 CET [16/09/2022 3:54:17 ET]
+Table '3471960809 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (525 en jetons) 
+Place 2: Eden62700 (210 en jetons) 
+Place 3: Compintxe_265 (165 en jetons) 
+Eden62700 : met la petite blind. 15
+Compintxe_265 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Jh]
+psychoman59 : passe. 
+Eden62700 : passe. 
+Personne n'a suivi. (15) sont retournés à Compintxe_265.
+Compintxe_265 a remporté 30  lors du pot .
+Compintxe_265 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Eden62700 (petite blind) s'est couché. avant Flop
+Siège 3 : Compintxe_265 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°238657641303 : Tournoi #3471960809, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 16/09/2022 9:54:24 CET [16/09/2022 3:54:24 ET]
+Table '3471960809 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (525 en jetons) 
+Place 2: Eden62700 (195 en jetons) 
+Place 3: Compintxe_265 (180 en jetons) 
+Compintxe_265 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Qs]
+Eden62700 : passe. 
+Compintxe_265 : relance. 150 à 180 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à Compintxe_265.
+Compintxe_265 a remporté 60  lors du pot .
+Compintxe_265 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Eden62700 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Compintxe_265 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°238657642422 : Tournoi #3471960809, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 16/09/2022 9:54:34 CET [16/09/2022 3:54:34 ET]
+Table '3471960809 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (495 en jetons) 
+Place 2: Eden62700 (195 en jetons) 
+Place 3: Compintxe_265 (210 en jetons) 
+psychoman59 : met la petite blind. 15
+Eden62700 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Ad]
+Compintxe_265 : passe. 
+psychoman59 : relance. 465 à 495 et est all-in.
+Eden62700 : passe. 
+Personne n'a suivi. (465) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (60)
+Siège 2 : Eden62700 (grosse blind) s'est couché. avant Flop
+Siège 3 : Compintxe_265 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238657643901 : Tournoi #3471960809, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 16/09/2022 9:54:45 CET [16/09/2022 3:54:45 ET]
+Table '3471960809 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (525 en jetons) 
+Place 2: Eden62700 (165 en jetons) 
+Place 3: Compintxe_265 (210 en jetons) 
+Eden62700 : met la petite blind. 20
+Compintxe_265 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Kc]
+psychoman59 : relance. 40 à 80
+Eden62700 : passe. 
+Compintxe_265 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (100)
+Siège 2 : Eden62700 (petite blind) s'est couché. avant Flop
+Siège 3 : Compintxe_265 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238657645039 : Tournoi #3471960809, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 16/09/2022 9:54:54 CET [16/09/2022 3:54:54 ET]
+Table '3471960809 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (585 en jetons) 
+Place 2: Eden62700 (145 en jetons) 
+Place 3: Compintxe_265 (170 en jetons) 
+Compintxe_265 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 6s]
+Eden62700 : passe. 
+Compintxe_265 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : Eden62700 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Compintxe_265 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238657646445 : Tournoi #3471960809, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 16/09/2022 9:55:05 CET [16/09/2022 3:55:05 ET]
+Table '3471960809 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (605 en jetons) 
+Place 2: Eden62700 (145 en jetons) 
+Place 3: Compintxe_265 (150 en jetons) 
+psychoman59 : met la petite blind. 20
+Eden62700 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ad]
+Compintxe_265 : passe. 
+psychoman59 : relance. 40 à 80
+Eden62700 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (80)
+Siège 2 : Eden62700 (grosse blind) s'est couché. avant Flop
+Siège 3 : Compintxe_265 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238657647499 : Tournoi #3471960809, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 16/09/2022 9:55:14 CET [16/09/2022 3:55:14 ET]
+Table '3471960809 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (645 en jetons) 
+Place 2: Eden62700 (105 en jetons) 
+Place 3: Compintxe_265 (150 en jetons) 
+Eden62700 : met la petite blind. 20
+Compintxe_265 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 8d]
+psychoman59 : relance. 40 à 80
+Eden62700 : passe. 
+Compintxe_265 : relance. 70 à 150 et est all-in.
+psychoman59 : suit. 70
+*** FLOP *** [Jd Kh 4h]
+*** TOURNANT *** [Jd Kh 4h] [9s]
+*** RIVIÈRE *** [Jd Kh 4h 9s] [3s]
+*** ABATTAGE ***
+Compintxe_265 : montre [As 2c] (Hauteur As)
+psychoman59 : montre [Ah 8d] (Hauteur As - Roi+Valet+Neuf+Huit kicker)
+psychoman59 a remporté 320  lors du pot .
+Compintxe_265 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Jd Kh 4h 9s 3s]
+Siège 1 : psychoman59 (bouton) a montré [Ah 8d] et a gagné (320) avec Hauteur As
+Siège 2 : Eden62700 (petite blind) s'est couché. avant Flop
+Siège 3 : Compintxe_265 (grosse blind) a montré [As 2c] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°238657649819 : Tournoi #3471960809, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 16/09/2022 9:55:35 CET [16/09/2022 3:55:35 ET]
+Table '3471960809 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (815 en jetons) 
+Place 2: Eden62700 (85 en jetons) 
+Eden62700 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 5s]
+Eden62700 : relance. 45 à 85 et est all-in.
+psychoman59 : suit. 45
+*** FLOP *** [Jd 5h Ad]
+*** TOURNANT *** [Jd 5h Ad] [Ac]
+*** RIVIÈRE *** [Jd 5h Ad Ac] [8d]
+*** ABATTAGE ***
+psychoman59 : montre [Jh 5s] (double paire, As et Valets)
+Eden62700 : montre [Ks Kd] (double paire, As et Rois)
+Eden62700 a remporté 170  lors du pot .
+*** SYNTHÈSE ***
+Pot total 170 | Commission 0 
+Tableau [Jd 5h Ad Ac 8d]
+Siège 1 : psychoman59 (grosse blind) a montré [Jh 5s] et a perdu avec double paire, As et Valets
+Siège 2 : Eden62700 (bouton) (petite blind) a montré [Ks Kd] et a gagné (170) avec double paire, As et Rois
+
+
+
+Main PokerStars n°238657651646 : Tournoi #3471960809, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/09/2022 9:55:52 CET [16/09/2022 3:55:52 ET]
+Table '3471960809 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (730 en jetons) 
+Place 2: Eden62700 (170 en jetons) 
+psychoman59 : met la petite blind. 30
+Eden62700 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Qh]
+psychoman59 : relance. 60 à 120
+Eden62700 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 2 : Eden62700 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238657652429 : Tournoi #3471960809, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/09/2022 9:55:59 CET [16/09/2022 3:55:59 ET]
+Table '3471960809 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (790 en jetons) 
+Place 2: Eden62700 (110 en jetons) 
+Eden62700 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 5h]
+Eden62700 : relance. 50 à 110 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à Eden62700.
+Eden62700 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Eden62700 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°238657653133 : Tournoi #3471960809, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/09/2022 9:56:05 CET [16/09/2022 3:56:05 ET]
+Table '3471960809 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (730 en jetons) 
+Place 2: Eden62700 (170 en jetons) 
+psychoman59 : met la petite blind. 30
+Eden62700 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Eden62700.
+Eden62700 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Eden62700 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°238657653745 : Tournoi #3471960809, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/09/2022 9:56:11 CET [16/09/2022 3:56:11 ET]
+Table '3471960809 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (700 en jetons) 
+Place 2: Eden62700 (200 en jetons) 
+Eden62700 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Ac]
+Eden62700 : relance. 140 à 200 et est all-in.
+psychoman59 : suit. 140
+*** FLOP *** [7s Qs 3h]
+*** TOURNANT *** [7s Qs 3h] [Js]
+*** RIVIÈRE *** [7s Qs 3h Js] [6d]
+*** ABATTAGE ***
+psychoman59 : montre [8s Ac] (Hauteur As)
+Eden62700 : montre [7h Ad] (une paire de Sept)
+Eden62700 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [7s Qs 3h Js 6d]
+Siège 1 : psychoman59 (grosse blind) a montré [8s Ac] et a perdu avec Hauteur As
+Siège 2 : Eden62700 (bouton) (petite blind) a montré [7h Ad] et a gagné (400) avec une paire de Sept
+
+
+
+Main PokerStars n°238657655343 : Tournoi #3471960809, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/09/2022 9:56:25 CET [16/09/2022 3:56:25 ET]
+Table '3471960809 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: Eden62700 (400 en jetons) 
+psychoman59 : met la petite blind. 30
+Eden62700 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Eden62700.
+Eden62700 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Eden62700 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°238657655953 : Tournoi #3471960809, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/09/2022 9:56:31 CET [16/09/2022 3:56:31 ET]
+Table '3471960809 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (470 en jetons) 
+Place 2: Eden62700 (430 en jetons) 
+Eden62700 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ad]
+Eden62700 : relance. 370 à 430 et est all-in.
+psychoman59 : suit. 370
+*** FLOP *** [4s 7s Jc]
+*** TOURNANT *** [4s 7s Jc] [As]
+*** RIVIÈRE *** [4s 7s Jc As] [Ts]
+*** ABATTAGE ***
+psychoman59 : montre [9s Ad] (une couleur, hauteur As)
+Eden62700 : montre [Ah Kc] (une paire de As)
+psychoman59 a remporté 860  lors du pot .
+Eden62700 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 4.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 860 | Commission 0 
+Tableau [4s 7s Jc As Ts]
+Siège 1 : psychoman59 (grosse blind) a montré [9s Ad] et a gagné (860) avec une couleur, hauteur As
+Siège 2 : Eden62700 (bouton) (petite blind) a montré [Ah Kc] et a perdu avec une paire de As
+
+
+

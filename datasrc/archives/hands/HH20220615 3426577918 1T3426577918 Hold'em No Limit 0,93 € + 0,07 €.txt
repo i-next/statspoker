@@ -1,0 +1,525 @@
+﻿Main PokerStars n°236772792090 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2022 11:35:38 CET [15/06/2022 5:35:38 ET]
+Table '3426577918 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: SayLence (300 en jetons) 
+Place 3: zPeQzo44 (300 en jetons) 
+SayLence : met la petite blind. 10
+zPeQzo44 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Js]
+psychoman59 : passe. 
+SayLence : relance. 30 à 50
+zPeQzo44 : suit. 30
+*** FLOP *** [Kd 9d 9h]
+SayLence : mise. 40
+zPeQzo44 : passe. 
+Personne n'a suivi. (40) sont retournés à SayLence.
+SayLence a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [Kd 9d 9h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : SayLence (petite blind) a remporté (100)
+Siège 3 : zPeQzo44 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°236772793954 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2022 11:35:54 CET [15/06/2022 5:35:54 ET]
+Table '3426577918 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: SayLence (350 en jetons) 
+Place 3: zPeQzo44 (250 en jetons) 
+zPeQzo44 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 9h]
+SayLence : passe. 
+zPeQzo44 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Th Ah Ts]
+zPeQzo44 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [Th Ah Ts] [2h]
+zPeQzo44 : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [Th Ah Ts 2h] [Jh]
+zPeQzo44 : mise. 80
+psychoman59 : suit. 80
+*** ABATTAGE ***
+zPeQzo44 : montre [5d 8d] (une paire de Dix)
+psychoman59 : montre [Td 9h] (une couleur, hauteur As)
+psychoman59 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Th Ah Ts 2h Jh]
+Siège 1 : psychoman59 (grosse blind) a montré [Td 9h] et a gagné (320) avec une couleur, hauteur As
+Siège 2 : SayLence (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : zPeQzo44 (petite blind) a montré [5d 8d] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°236772797273 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2022 11:36:21 CET [15/06/2022 5:36:21 ET]
+Table '3426577918 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: SayLence (350 en jetons) 
+Place 3: zPeQzo44 (90 en jetons) 
+psychoman59 : met la petite blind. 10
+SayLence : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ac]
+zPeQzo44 : relance. 70 à 90 et est all-in.
+psychoman59 : suit. 80
+SayLence : passe. 
+*** FLOP *** [5d 5s 9h]
+*** TOURNANT *** [5d 5s 9h] [8d]
+*** RIVIÈRE *** [5d 5s 9h 8d] [Kh]
+*** ABATTAGE ***
+psychoman59 : montre [3c Ac] (une paire de Cinq)
+zPeQzo44 : montre [8s Ah] (double paire, Huit et Cinq)
+zPeQzo44 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [5d 5s 9h 8d Kh]
+Siège 1 : psychoman59 (petite blind) a montré [3c Ac] et a perdu avec une paire de Cinq
+Siège 2 : SayLence (grosse blind) s'est couché. avant Flop
+Siège 3 : zPeQzo44 (bouton) a montré [8s Ah] et a gagné (200) avec double paire, Huit et Cinq
+
+
+
+Main PokerStars n°236772799018 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2022 11:36:36 CET [15/06/2022 5:36:36 ET]
+Table '3426577918 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 2: SayLence (330 en jetons) 
+Place 3: zPeQzo44 (200 en jetons) 
+SayLence : met la petite blind. 10
+zPeQzo44 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ts]
+psychoman59 : relance. 50 à 70
+SayLence : passe. 
+zPeQzo44 : suit. 50
+*** FLOP *** [8h 2s Js]
+zPeQzo44 : mise. 130 et est all-in.
+psychoman59 : suit. 130
+*** TOURNANT *** [8h 2s Js] [7s]
+*** RIVIÈRE *** [8h 2s Js 7s] [9d]
+*** ABATTAGE ***
+zPeQzo44 : montre [6c 6d] (une paire de Six)
+psychoman59 : montre [Tc Ts] (une suite, Sept à Valet)
+psychoman59 a remporté 410  lors du pot .
+*** SYNTHÈSE ***
+Pot total 410 | Commission 0 
+Tableau [8h 2s Js 7s 9d]
+Siège 1 : psychoman59 (bouton) a montré [Tc Ts] et a gagné (410) avec une suite, Sept à Valet
+Siège 2 : SayLence (petite blind) s'est couché. avant Flop
+Siège 3 : zPeQzo44 (grosse blind) a montré [6c 6d] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°236772802269 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2022 11:37:04 CET [15/06/2022 5:37:04 ET]
+Table '3426577918 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 2: SayLence (320 en jetons) 
+SayLence : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Jc]
+SayLence : relance. 290 à 320 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (290) sont retournés à SayLence.
+SayLence a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : SayLence (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°236772803257 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2022 11:37:12 CET [15/06/2022 5:37:12 ET]
+Table '3426577918 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (550 en jetons) 
+Place 2: SayLence (350 en jetons) 
+psychoman59 : met la petite blind. 15
+SayLence : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à SayLence.
+SayLence a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : SayLence (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°236772803842 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2022 11:37:17 CET [15/06/2022 5:37:17 ET]
+Table '3426577918 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (535 en jetons) 
+Place 2: SayLence (365 en jetons) 
+SayLence : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 9h]
+SayLence : relance. 335 à 365 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (335) sont retournés à SayLence.
+SayLence a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : SayLence (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°236772804558 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2022 11:37:23 CET [15/06/2022 5:37:23 ET]
+Table '3426577918 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (505 en jetons) 
+Place 2: SayLence (395 en jetons) 
+psychoman59 : met la petite blind. 15
+SayLence : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à SayLence.
+SayLence a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : SayLence (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°236772805003 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2022 11:37:27 CET [15/06/2022 5:37:27 ET]
+Table '3426577918 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (490 en jetons) 
+Place 2: SayLence (410 en jetons) 
+SayLence : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Qd]
+SayLence : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : SayLence (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236772805902 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2022 11:37:35 CET [15/06/2022 5:37:35 ET]
+Table '3426577918 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (505 en jetons) 
+Place 2: SayLence (395 en jetons) 
+psychoman59 : met la petite blind. 15
+SayLence : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 8h]
+psychoman59 : relance. 475 à 505 et est all-in.
+SayLence : suit. 365 et est all-in.
+Personne n'a suivi. (110) sont retournés à psychoman59.
+*** FLOP *** [2d Qs 6h]
+*** TOURNANT *** [2d Qs 6h] [5d]
+*** RIVIÈRE *** [2d Qs 6h 5d] [9s]
+*** ABATTAGE ***
+SayLence : montre [4c Ah] (Hauteur As)
+psychoman59 : montre [Kh 8h] (Hauteur Roi)
+SayLence a remporté 790  lors du pot .
+*** SYNTHÈSE ***
+Pot total 790 | Commission 0 
+Tableau [2d Qs 6h 5d 9s]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Kh 8h] et a perdu avec Hauteur Roi
+Siège 2 : SayLence (grosse blind) a montré [4c Ah] et a gagné (790) avec Hauteur As
+
+
+
+Main PokerStars n°236772808060 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 11:37:52 CET [15/06/2022 5:37:52 ET]
+Table '3426577918 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (110 en jetons) 
+Place 2: SayLence (790 en jetons) 
+SayLence : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Qd]
+SayLence : relance. 40 à 80
+psychoman59 : relance. 30 à 110 et est all-in.
+SayLence : suit. 30
+*** FLOP *** [Qs Ah 4d]
+*** TOURNANT *** [Qs Ah 4d] [8d]
+*** RIVIÈRE *** [Qs Ah 4d 8d] [3h]
+*** ABATTAGE ***
+psychoman59 : montre [7h Qd] (une paire de Dames)
+SayLence : montre [Jd 2d] (Hauteur As)
+psychoman59 a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [Qs Ah 4d 8d 3h]
+Siège 1 : psychoman59 (grosse blind) a montré [7h Qd] et a gagné (220) avec une paire de Dames
+Siège 2 : SayLence (bouton) (petite blind) a montré [Jd 2d] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°236772809709 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 11:38:06 CET [15/06/2022 5:38:06 ET]
+Table '3426577918 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (220 en jetons) 
+Place 2: SayLence (680 en jetons) 
+psychoman59 : met la petite blind. 20
+SayLence : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à SayLence.
+SayLence a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : SayLence (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°236772810615 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 11:38:13 CET [15/06/2022 5:38:13 ET]
+Table '3426577918 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (200 en jetons) 
+Place 2: SayLence (700 en jetons) 
+SayLence : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 6c]
+SayLence : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : SayLence (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236772811495 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 11:38:21 CET [15/06/2022 5:38:21 ET]
+Table '3426577918 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (220 en jetons) 
+Place 2: SayLence (680 en jetons) 
+psychoman59 : met la petite blind. 20
+SayLence : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à SayLence.
+SayLence a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : SayLence (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°236772812029 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 11:38:25 CET [15/06/2022 5:38:25 ET]
+Table '3426577918 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (200 en jetons) 
+Place 2: SayLence (700 en jetons) 
+SayLence : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 4s]
+SayLence : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : SayLence (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236772813338 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 11:38:36 CET [15/06/2022 5:38:36 ET]
+Table '3426577918 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (220 en jetons) 
+Place 2: SayLence (680 en jetons) 
+psychoman59 : met la petite blind. 20
+SayLence : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 2d]
+psychoman59 : relance. 180 à 220 et est all-in.
+SayLence : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : SayLence (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236772814632 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 11:38:46 CET [15/06/2022 5:38:46 ET]
+Table '3426577918 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: SayLence (640 en jetons) 
+SayLence : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 6c]
+SayLence : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : SayLence (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236772815199 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 11:38:51 CET [15/06/2022 5:38:51 ET]
+Table '3426577918 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 2: SayLence (610 en jetons) 
+psychoman59 : met la petite blind. 30
+SayLence : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Kd]
+psychoman59 : relance. 230 à 290 et est all-in.
+SayLence : passe. 
+Personne n'a suivi. (230) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 2 : SayLence (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236772816308 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 11:39:00 CET [15/06/2022 5:39:00 ET]
+Table '3426577918 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (350 en jetons) 
+Place 2: SayLence (550 en jetons) 
+SayLence : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 8c]
+SayLence : relance. 490 à 550 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (490) sont retournés à SayLence.
+SayLence a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : SayLence (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°236772817110 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 11:39:06 CET [15/06/2022 5:39:06 ET]
+Table '3426577918 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 2: SayLence (610 en jetons) 
+psychoman59 : met la petite blind. 30
+SayLence : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à SayLence.
+SayLence a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : SayLence (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°236772817767 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 11:39:11 CET [15/06/2022 5:39:11 ET]
+Table '3426577918 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: SayLence (640 en jetons) 
+SayLence : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 8s]
+SayLence : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : SayLence (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236772818335 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 11:39:16 CET [15/06/2022 5:39:16 ET]
+Table '3426577918 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 2: SayLence (610 en jetons) 
+psychoman59 : met la petite blind. 30
+SayLence : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à SayLence.
+SayLence a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : SayLence (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°236772818889 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 11:39:20 CET [15/06/2022 5:39:20 ET]
+Table '3426577918 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: SayLence (640 en jetons) 
+SayLence : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 9c]
+SayLence : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : SayLence (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236772819975 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 11:39:30 CET [15/06/2022 5:39:30 ET]
+Table '3426577918 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 2: SayLence (610 en jetons) 
+psychoman59 : met la petite blind. 30
+SayLence : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à SayLence.
+SayLence a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : SayLence (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°236772820560 : Tournoi #3426577918, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 11:39:35 CET [15/06/2022 5:39:35 ET]
+Table '3426577918 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: SayLence (640 en jetons) 
+SayLence : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Qh]
+SayLence : relance. 300 à 360
+psychoman59 : suit. 200 et est all-in.
+Personne n'a suivi. (100) sont retournés à SayLence.
+*** FLOP *** [Ts Qd 9c]
+*** TOURNANT *** [Ts Qd 9c] [2h]
+*** RIVIÈRE *** [Ts Qd 9c 2h] [2c]
+*** ABATTAGE ***
+psychoman59 : montre [7h Qh] (double paire, Dames et Deux)
+SayLence : montre [2s Ah] (un brelan de Deux)
+SayLence a remporté 520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [Ts Qd 9c 2h 2c]
+Siège 1 : psychoman59 (grosse blind) a montré [7h Qh] et a perdu avec double paire, Dames et Deux
+Siège 2 : SayLence (bouton) (petite blind) a montré [2s Ah] et a gagné (520) avec un brelan de Deux
+
+
+

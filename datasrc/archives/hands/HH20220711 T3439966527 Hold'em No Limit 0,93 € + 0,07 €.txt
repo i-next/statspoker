@@ -1,0 +1,374 @@
+﻿Main PokerStars n°237295214689 : Tournoi #3439966527, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 17:32:04 CET [11/07/2022 11:32:04 ET]
+Table '3439966527 1' 3-max Siège #1 est au bouton.
+Place 1: nanox72100 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Lawatel (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Lawatel : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ah]
+nanox72100 : suit. 20
+psychoman59 : suit. 10
+Lawatel : parole 
+*** FLOP *** [Qc Jd 8s]
+psychoman59 : parole 
+Lawatel : parole 
+nanox72100 : parole 
+*** TOURNANT *** [Qc Jd 8s] [7c]
+psychoman59 : parole 
+Lawatel : parole 
+nanox72100 : mise. 20
+psychoman59 : suit. 20
+Lawatel : suit. 20
+*** RIVIÈRE *** [Qc Jd 8s 7c] [Ad]
+psychoman59 : parole 
+Lawatel : parole 
+nanox72100 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9d Ah] (une paire de As)
+Lawatel : cache la main perdante. 
+nanox72100 : cache la main perdante. 
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qc Jd 8s 7c Ad]
+Siège 1 : nanox72100 (bouton) a caché la main perdante. [4h Qh]
+Siège 2 : psychoman59 (petite blind) a montré [9d Ah] et a gagné (120) avec une paire de As
+Siège 3 : Lawatel (grosse blind) a caché la main perdante. [4c 8d]
+
+
+
+Main PokerStars n°237295222487 : Tournoi #3439966527, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 17:32:32 CET [11/07/2022 11:32:32 ET]
+Table '3439966527 1' 3-max Siège #2 est au bouton.
+Place 1: nanox72100 (260 en jetons) 
+Place 2: psychoman59 (380 en jetons) 
+Place 3: Lawatel (260 en jetons) 
+Lawatel : met la petite blind. 10
+nanox72100 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 6h]
+psychoman59 : passe. 
+Lawatel : relance. 240 à 260 et est all-in.
+nanox72100 : passe. 
+Personne n'a suivi. (240) sont retournés à Lawatel.
+Lawatel a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : nanox72100 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Lawatel (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°237295224739 : Tournoi #3439966527, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 17:32:40 CET [11/07/2022 11:32:40 ET]
+Table '3439966527 1' 3-max Siège #3 est au bouton.
+Place 1: nanox72100 (240 en jetons) 
+Place 2: psychoman59 (380 en jetons) 
+Place 3: Lawatel (280 en jetons) 
+nanox72100 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 9s]
+Lawatel : relance. 260 à 280 et est all-in.
+nanox72100 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (260) sont retournés à Lawatel.
+Lawatel a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : nanox72100 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Lawatel (bouton) a remporté (50)
+
+
+
+Main PokerStars n°237295227837 : Tournoi #3439966527, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 17:32:51 CET [11/07/2022 11:32:51 ET]
+Table '3439966527 1' 3-max Siège #1 est au bouton.
+Place 1: nanox72100 (230 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+Place 3: Lawatel (310 en jetons) 
+psychoman59 : met la petite blind. 10
+Lawatel : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 5d]
+nanox72100 : suit. 20
+psychoman59 : suit. 10
+Lawatel : parole 
+*** FLOP *** [4s Js 8s]
+psychoman59 : parole 
+Lawatel : mise. 20
+nanox72100 : suit. 20
+psychoman59 : passe. 
+*** TOURNANT *** [4s Js 8s] [8c]
+Lawatel : parole 
+nanox72100 : parole 
+*** RIVIÈRE *** [4s Js 8s 8c] [2d]
+Lawatel : parole 
+nanox72100 : parole 
+*** ABATTAGE ***
+Lawatel : montre [Jc Qs] (double paire, Valets et Huit)
+nanox72100 : cache la main perdante. 
+Lawatel a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [4s Js 8s 8c 2d]
+Siège 1 : nanox72100 (bouton) a caché la main perdante. [3s Ah]
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : Lawatel (grosse blind) a montré [Jc Qs] et a gagné (100) avec double paire, Valets et Huit
+
+
+
+Main PokerStars n°237295236143 : Tournoi #3439966527, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 17:33:22 CET [11/07/2022 11:33:22 ET]
+Table '3439966527 1' 3-max Siège #2 est au bouton.
+Place 1: nanox72100 (190 en jetons) 
+Place 2: psychoman59 (340 en jetons) 
+Place 3: Lawatel (370 en jetons) 
+Lawatel : met la petite blind. 15
+nanox72100 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 4h]
+psychoman59 : passe. 
+Lawatel : passe. 
+Personne n'a suivi. (15) sont retournés à nanox72100.
+nanox72100 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : nanox72100 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Lawatel (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237295237821 : Tournoi #3439966527, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 17:33:28 CET [11/07/2022 11:33:28 ET]
+Table '3439966527 1' 3-max Siège #3 est au bouton.
+Place 1: nanox72100 (205 en jetons) 
+Place 2: psychoman59 (340 en jetons) 
+Place 3: Lawatel (355 en jetons) 
+nanox72100 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ac]
+Lawatel : suit. 30
+nanox72100 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Jh 4h Jc]
+nanox72100 : parole 
+psychoman59 : parole 
+Lawatel : parole 
+*** TOURNANT *** [Jh 4h Jc] [9h]
+nanox72100 : mise. 30
+psychoman59 : passe. 
+Lawatel : suit. 30
+*** RIVIÈRE *** [Jh 4h Jc 9h] [3d]
+nanox72100 : parole 
+Lawatel : parole 
+*** ABATTAGE ***
+nanox72100 : montre [Tc Kd] (une paire de Valets)
+Lawatel : montre [Qd 9d] (double paire, Valets et Neuf)
+Lawatel a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [Jh 4h Jc 9h 3d]
+Siège 1 : nanox72100 (petite blind) a montré [Tc Kd] et a perdu avec une paire de Valets
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : Lawatel (bouton) a montré [Qd 9d] et a gagné (150) avec double paire, Valets et Neuf
+
+
+
+Main PokerStars n°237295244198 : Tournoi #3439966527, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 17:33:50 CET [11/07/2022 11:33:50 ET]
+Table '3439966527 1' 3-max Siège #1 est au bouton.
+Place 1: nanox72100 (145 en jetons) 
+Place 2: psychoman59 (310 en jetons) 
+Place 3: Lawatel (445 en jetons) 
+psychoman59 : met la petite blind. 15
+Lawatel : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 7h]
+nanox72100 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Lawatel.
+Lawatel a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : nanox72100 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Lawatel (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237295245569 : Tournoi #3439966527, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 17:33:55 CET [11/07/2022 11:33:55 ET]
+Table '3439966527 1' 3-max Siège #2 est au bouton.
+Place 1: nanox72100 (145 en jetons) 
+Place 2: psychoman59 (295 en jetons) 
+Place 3: Lawatel (460 en jetons) 
+Lawatel : met la petite blind. 15
+nanox72100 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Jc]
+psychoman59 : suit. 30
+Lawatel : passe. 
+nanox72100 : parole 
+*** FLOP *** [7h Ad 8s]
+nanox72100 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [7h Ad 8s] [3s]
+nanox72100 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [7h Ad 8s 3s] [3d]
+nanox72100 : mise. 30
+psychoman59 : suit. 30
+*** ABATTAGE ***
+nanox72100 : montre [5c As] (double paire, As et Trois)
+psychoman59 : cache la main perdante. 
+nanox72100 a remporté 255  lors du pot .
+*** SYNTHÈSE ***
+Pot total 255 | Commission 0 
+Tableau [7h Ad 8s 3s 3d]
+Siège 1 : nanox72100 (grosse blind) a montré [5c As] et a gagné (255) avec double paire, As et Trois
+Siège 2 : psychoman59 (bouton) a caché la main perdante. [Qd Jc]
+Siège 3 : Lawatel (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237295252110 : Tournoi #3439966527, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 17:34:19 CET [11/07/2022 11:34:19 ET]
+Table '3439966527 1' 3-max Siège #3 est au bouton.
+Place 1: nanox72100 (280 en jetons) 
+Place 2: psychoman59 (175 en jetons) 
+Place 3: Lawatel (445 en jetons) 
+nanox72100 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 2h]
+Lawatel : relance. 405 à 445 et est all-in.
+nanox72100 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (405) sont retournés à Lawatel.
+Lawatel a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : nanox72100 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Lawatel (bouton) a remporté (100)
+
+
+
+Main PokerStars n°237295255805 : Tournoi #3439966527, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 17:34:32 CET [11/07/2022 11:34:32 ET]
+Table '3439966527 1' 3-max Siège #1 est au bouton.
+Place 1: nanox72100 (260 en jetons) 
+Place 2: psychoman59 (135 en jetons) 
+Place 3: Lawatel (505 en jetons) 
+psychoman59 : met la petite blind. 20
+Lawatel : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Ts]
+nanox72100 : suit. 40
+psychoman59 : passe. 
+Lawatel : parole 
+*** FLOP *** [Ad 3h 7s]
+Lawatel : parole 
+nanox72100 : parole 
+*** TOURNANT *** [Ad 3h 7s] [6s]
+Lawatel : parole 
+nanox72100 : mise. 40
+Lawatel : suit. 40
+*** RIVIÈRE *** [Ad 3h 7s 6s] [5d]
+Lawatel : mise. 180
+nanox72100 : passe. 
+Personne n'a suivi. (180) sont retournés à Lawatel.
+Lawatel a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Ad 3h 7s 6s 5d]
+Siège 1 : nanox72100 (bouton) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Lawatel (grosse blind) a remporté (180)
+
+
+
+Main PokerStars n°237295260697 : Tournoi #3439966527, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 17:34:49 CET [11/07/2022 11:34:49 ET]
+Table '3439966527 1' 3-max Siège #2 est au bouton.
+Place 1: nanox72100 (180 en jetons) 
+Place 2: psychoman59 (115 en jetons) 
+Place 3: Lawatel (605 en jetons) 
+Lawatel : met la petite blind. 20
+nanox72100 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Jh]
+psychoman59 : relance. 75 à 115 et est all-in.
+Lawatel : passe. 
+nanox72100 : suit. 75
+*** FLOP *** [Td Ks 3h]
+*** TOURNANT *** [Td Ks 3h] [5h]
+*** RIVIÈRE *** [Td Ks 3h 5h] [9c]
+*** ABATTAGE ***
+nanox72100 : montre [Ah 6d] (Hauteur As)
+psychoman59 : montre [Tc Jh] (une paire de Dix)
+psychoman59 a remporté 250  lors du pot .
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Tableau [Td Ks 3h 5h 9c]
+Siège 1 : nanox72100 (grosse blind) a montré [Ah 6d] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (bouton) a montré [Tc Jh] et a gagné (250) avec une paire de Dix
+Siège 3 : Lawatel (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237295268625 : Tournoi #3439966527, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 17:35:18 CET [11/07/2022 11:35:18 ET]
+Table '3439966527 1' 3-max Siège #3 est au bouton.
+Place 1: nanox72100 (65 en jetons) 
+Place 2: psychoman59 (250 en jetons) 
+Place 3: Lawatel (585 en jetons) 
+nanox72100 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 9d]
+Lawatel : relance. 525 à 585 et est all-in.
+nanox72100 : suit. 35 et est all-in.
+psychoman59 : suit. 190 et est all-in.
+Personne n'a suivi. (335) sont retournés à Lawatel.
+*** FLOP *** [Jh Qh Jc]
+*** TOURNANT *** [Jh Qh Jc] [3d]
+*** RIVIÈRE *** [Jh Qh Jc 3d] [4d]
+*** ABATTAGE ***
+psychoman59 : montre [Jd 9d] (un brelan de Valets)
+Lawatel : montre [Ad 2d] (une paire de Valets)
+psychoman59 a remporté 370  parallèle lors du pot .
+nanox72100 : montre [7h Ks] (une paire de Valets)
+psychoman59 a remporté 195  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 565 Principal pot 195. Parallèle pot 370. | Commission 0 
+Tableau [Jh Qh Jc 3d 4d]
+Siège 1 : nanox72100 (petite blind) a montré [7h Ks] et a perdu avec une paire de Valets
+Siège 2 : psychoman59 (grosse blind) a montré [Jd 9d] et a gagné (565) avec un brelan de Valets
+Siège 3 : Lawatel (bouton) a montré [Ad 2d] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°237295274006 : Tournoi #3439966527, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 17:35:37 CET [11/07/2022 11:35:37 ET]
+Table '3439966527 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (565 en jetons) 
+Place 3: Lawatel (335 en jetons) 
+psychoman59 : met la petite blind. 30
+Lawatel : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7c]
+psychoman59 : relance. 120 à 180
+Lawatel : relance. 120 à 300
+psychoman59 : suit. 120
+*** FLOP *** [Ah 2c 6h]
+Lawatel : mise. 35 et est all-in.
+psychoman59 : suit. 35
+*** TOURNANT *** [Ah 2c 6h] [Qc]
+*** RIVIÈRE *** [Ah 2c 6h Qc] [Ac]
+*** ABATTAGE ***
+Lawatel : montre [Ks As] (un brelan de As)
+psychoman59 : montre [Kc 7c] (une couleur, hauteur As)
+psychoman59 a remporté 670  lors du pot .
+*** SYNTHÈSE ***
+Pot total 670 | Commission 0 
+Tableau [Ah 2c 6h Qc Ac]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Kc 7c] et a gagné (670) avec une couleur, hauteur As
+Siège 3 : Lawatel (grosse blind) a montré [Ks As] et a perdu avec un brelan de As
+
+
+

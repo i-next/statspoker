@@ -1,0 +1,256 @@
+﻿Main PokerStars n°237656979058 : Tournoi #3448388095, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 13:33:51 CET [29/07/2022 7:33:51 ET]
+Table '3448388095 1' 4-max Siège #1 est au bouton.
+Place 1: orin57 (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: thiberde (5000 en jetons) 
+Place 4: chipie1962 (5000 en jetons) 
+orin57 : met l'ante. 10
+psychoman59 : met l'ante. 10
+thiberde : met l'ante. 10
+chipie1962 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+thiberde : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 2s]
+chipie1962 : passe. 
+orin57 : suit. 100
+psychoman59 : passe. 
+thiberde : parole 
+*** FLOP *** [Ah Ts 8d]
+thiberde : parole 
+orin57 : mise. 200
+thiberde : passe. 
+Personne n'a suivi. (200) sont retournés à orin57.
+orin57 a remporté 290  lors du pot .
+orin57 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Tableau [Ah Ts 8d]
+Siège 1 : orin57 (bouton) a remporté (290)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : thiberde (grosse blind) s'est couché. sur le Flop
+Siège 4 : chipie1962 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237656984992 : Tournoi #3448388095, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 13:34:25 CET [29/07/2022 7:34:25 ET]
+Table '3448388095 1' 4-max Siège #2 est au bouton.
+Place 1: orin57 (5180 en jetons) 
+Place 2: psychoman59 (4940 en jetons) 
+Place 3: thiberde (4890 en jetons) 
+Place 4: chipie1962 (4990 en jetons) 
+orin57 : met l'ante. 10
+psychoman59 : met l'ante. 10
+thiberde : met l'ante. 10
+chipie1962 : met l'ante. 10
+thiberde : met la petite blind. 50
+chipie1962 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 7s]
+orin57 : suit. 100
+psychoman59 : suit. 100
+thiberde : suit. 50
+chipie1962 : parole 
+*** FLOP *** [6d Jh 3h]
+thiberde : parole 
+chipie1962 : parole 
+orin57 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6d Jh 3h] [9h]
+thiberde : parole 
+chipie1962 : parole 
+orin57 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6d Jh 3h 9h] [3d]
+thiberde : parole 
+chipie1962 : parole 
+orin57 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+thiberde : montre [Kc 7h] (une paire de Trois)
+chipie1962 : montre [4d Ad] (une paire de Trois - As kicker)
+orin57 : cache la main perdante. 
+psychoman59 : montre [Ah 7s] (une paire de Trois)
+chipie1962 a remporté 220  lors du pot .
+psychoman59 a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [6d Jh 3h 9h 3d]
+Siège 1 : orin57 a caché la main perdante. [Ks Tc]
+Siège 2 : psychoman59 (bouton) a montré [Ah 7s] et a gagné (220) avec une paire de Trois
+Siège 3 : thiberde (petite blind) a montré [Kc 7h] et a perdu avec une paire de Trois
+Siège 4 : chipie1962 (grosse blind) a montré [4d Ad] et a gagné (220) avec une paire de Trois
+
+
+
+Main PokerStars n°237657001481 : Tournoi #3448388095, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 13:35:59 CET [29/07/2022 7:35:59 ET]
+Table '3448388095 1' 4-max Siège #3 est au bouton.
+Place 1: orin57 (5070 en jetons) 
+Place 2: psychoman59 (5050 en jetons) 
+Place 3: thiberde (4780 en jetons) 
+Place 4: chipie1962 (5100 en jetons) 
+orin57 : met l'ante. 10
+psychoman59 : met l'ante. 10
+thiberde : met l'ante. 10
+chipie1962 : met l'ante. 10
+chipie1962 : met la petite blind. 50
+orin57 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Kd]
+psychoman59 : passe. 
+thiberde : passe. 
+chipie1962 : suit. 50
+orin57 : parole 
+*** FLOP *** [9h 8c Ac]
+chipie1962 : parole 
+orin57 : parole 
+*** TOURNANT *** [9h 8c Ac] [7d]
+chipie1962 : parole 
+orin57 : mise. 100
+chipie1962 : suit. 100
+*** RIVIÈRE *** [9h 8c Ac 7d] [Ts]
+chipie1962 : mise. 100
+orin57 : passe. 
+Personne n'a suivi. (100) sont retournés à chipie1962.
+chipie1962 a remporté 440  lors du pot .
+chipie1962 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [9h 8c Ac 7d Ts]
+Siège 1 : orin57 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : thiberde (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : chipie1962 (petite blind) a remporté (440)
+
+
+
+Main PokerStars n°237657014977 : Tournoi #3448388095, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/07/2022 13:37:16 CET [29/07/2022 7:37:16 ET]
+Table '3448388095 1' 4-max Siège #4 est au bouton.
+Place 1: orin57 (4860 en jetons) 
+Place 2: psychoman59 (5040 en jetons) 
+Place 3: thiberde (4770 en jetons) 
+Place 4: chipie1962 (5330 en jetons) 
+orin57 : met l'ante. 15
+psychoman59 : met l'ante. 15
+thiberde : met l'ante. 15
+chipie1962 : met l'ante. 15
+orin57 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Ts]
+thiberde : suit. 120
+chipie1962 : suit. 120
+orin57 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [8c Ks 4c]
+orin57 : mise. 120
+psychoman59 : passe. 
+thiberde : passe. 
+chipie1962 : suit. 120
+*** TOURNANT *** [8c Ks 4c] [Th]
+orin57 : parole 
+chipie1962 : parole 
+*** RIVIÈRE *** [8c Ks 4c Th] [Jh]
+orin57 : parole 
+chipie1962 : parole 
+*** ABATTAGE ***
+orin57 : montre [9c 8d] (une paire de Huit)
+chipie1962 : montre [As Tc] (une paire de Dix)
+chipie1962 a remporté 780  lors du pot .
+*** SYNTHÈSE ***
+Pot total 780 | Commission 0 
+Tableau [8c Ks 4c Th Jh]
+Siège 1 : orin57 (petite blind) a montré [9c 8d] et a perdu avec une paire de Huit
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : thiberde s'est couché. sur le Flop
+Siège 4 : chipie1962 (bouton) a montré [As Tc] et a gagné (780) avec une paire de Dix
+
+
+
+Main PokerStars n°237657021467 : Tournoi #3448388095, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/07/2022 13:37:53 CET [29/07/2022 7:37:53 ET]
+Table '3448388095 1' 4-max Siège #1 est au bouton.
+Place 1: orin57 (4605 en jetons) 
+Place 2: psychoman59 (4905 en jetons) 
+Place 3: thiberde (4635 en jetons) 
+Place 4: chipie1962 (5855 en jetons) 
+orin57 : met l'ante. 15
+psychoman59 : met l'ante. 15
+thiberde : met l'ante. 15
+chipie1962 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+thiberde : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9c]
+chipie1962 : suit. 120
+orin57 : passe. 
+psychoman59 : suit. 60
+thiberde : parole 
+*** FLOP *** [6h 4c Kc]
+psychoman59 : parole 
+thiberde : mise. 420
+chipie1962 : suit. 420
+psychoman59 : passe. 
+*** TOURNANT *** [6h 4c Kc] [4s]
+thiberde : parole 
+chipie1962 : parole 
+*** RIVIÈRE *** [6h 4c Kc 4s] [3d]
+thiberde : parole 
+chipie1962 : parole 
+*** ABATTAGE ***
+thiberde : montre [Ts Kh] (double paire, Rois et Quatre)
+chipie1962 : cache la main perdante. 
+thiberde a remporté 1260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1260 | Commission 0 
+Tableau [6h 4c Kc 4s 3d]
+Siège 1 : orin57 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : thiberde (grosse blind) a montré [Ts Kh] et a gagné (1260) avec double paire, Rois et Quatre
+Siège 4 : chipie1962 a caché la main perdante. [Qd Jc]
+
+
+
+Main PokerStars n°237657027719 : Tournoi #3448388095, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/07/2022 13:38:28 CET [29/07/2022 7:38:28 ET]
+Table '3448388095 1' 4-max Siège #2 est au bouton.
+Place 1: orin57 (4590 en jetons) 
+Place 2: psychoman59 (4770 en jetons) 
+Place 3: thiberde (5340 en jetons) 
+Place 4: chipie1962 (5300 en jetons) 
+orin57 : met l'ante. 15
+psychoman59 : met l'ante. 15
+thiberde : met l'ante. 15
+chipie1962 : met l'ante. 15
+thiberde : met la petite blind. 60
+chipie1962 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Js]
+orin57 : passe. 
+psychoman59 : relance. 360 à 480
+thiberde : suit. 420
+chipie1962 : suit. 360
+*** FLOP *** [5s Qc 8h]
+thiberde : mise. 360
+chipie1962 : passe. 
+psychoman59 : suit. 360
+*** TOURNANT *** [5s Qc 8h] [Qd]
+thiberde : parole 
+psychoman59 : mise. 1110
+thiberde : relance. 3375 à 4485 et est all-in.
+psychoman59 : suit. 2805 et est all-in.
+Personne n'a suivi. (570) sont retournés à thiberde.
+*** RIVIÈRE *** [5s Qc 8h Qd] [9c]
+*** ABATTAGE ***
+thiberde : montre [6s Qs] (un brelan de Dames)
+psychoman59 : montre [Jh Js] (double paire, Dames et Valets)
+thiberde a remporté 10050  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10050 | Commission 0 
+Tableau [5s Qc 8h Qd 9c]
+Siège 1 : orin57 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (bouton) a montré [Jh Js] et a perdu avec double paire, Dames et Valets
+Siège 3 : thiberde (petite blind) a montré [6s Qs] et a gagné (10050) avec un brelan de Dames
+Siège 4 : chipie1962 (grosse blind) s'est couché. sur le Flop
+
+
+

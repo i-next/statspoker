@@ -1,0 +1,110 @@
+﻿Main PokerStars n°238020765323 : Tournoi #3456992964, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 16/08/2022 11:15:40 CET [16/08/2022 5:15:40 ET]
+Table '3456992964 1' 4-max Siège #1 est au bouton.
+Place 1: TIGERSHARK02 (5000 en jetons) 
+Place 2: cAllmoiAp (5000 en jetons) 
+Place 3: velillarc (5000 en jetons) 
+Place 4: psychoman59 (5000 en jetons) 
+TIGERSHARK02 : met l'ante. 10
+cAllmoiAp : met l'ante. 10
+velillarc : met l'ante. 10
+psychoman59 : met l'ante. 10
+cAllmoiAp : met la petite blind. 50
+velillarc : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 9s]
+psychoman59 : relance. 4890 à 4990 et est all-in.
+TIGERSHARK02 : passe. 
+cAllmoiAp : passe. 
+velillarc : passe. 
+Personne n'a suivi. (4890) sont retournés à psychoman59.
+psychoman59 a remporté 290  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : TIGERSHARK02 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : cAllmoiAp (petite blind) s'est couché. avant Flop
+Siège 3 : velillarc (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 a remporté (290)
+
+
+
+Main PokerStars n°238020768047 : Tournoi #3456992964, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 16/08/2022 11:15:59 CET [16/08/2022 5:15:59 ET]
+Table '3456992964 1' 4-max Siège #2 est au bouton.
+Place 1: TIGERSHARK02 (4990 en jetons) 
+Place 2: cAllmoiAp (4940 en jetons) 
+Place 3: velillarc (4890 en jetons) 
+Place 4: psychoman59 (5180 en jetons) 
+TIGERSHARK02 : met l'ante. 10
+cAllmoiAp : met l'ante. 10
+velillarc : met l'ante. 10
+psychoman59 : met l'ante. 10
+velillarc : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Ah]
+TIGERSHARK02 : relance. 100 à 200
+cAllmoiAp : suit. 200
+velillarc : passe. 
+psychoman59 : relance. 4970 à 5170 et est all-in.
+TIGERSHARK02 : passe. 
+cAllmoiAp : suit. 4730 et est all-in.
+Personne n'a suivi. (240) sont retournés à psychoman59.
+*** FLOP *** [Kc 5c 6s]
+*** TOURNANT *** [Kc 5c 6s] [8c]
+*** RIVIÈRE *** [Kc 5c 6s 8c] [7c]
+*** ABATTAGE ***
+psychoman59 : montre [Ks Ah] (une paire de Rois)
+cAllmoiAp : montre [7d 4d] (une suite, Quatre à Huit)
+cAllmoiAp a remporté 10150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 10150 | Commission 0 
+Tableau [Kc 5c 6s 8c 7c]
+Siège 1 : TIGERSHARK02 s'est couché. avant Flop
+Siège 2 : cAllmoiAp (bouton) a montré [7d 4d] et a gagné (10150) avec une suite, Quatre à Huit
+Siège 3 : velillarc (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a montré [Ks Ah] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°238020772801 : Tournoi #3456992964, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 16/08/2022 11:16:31 CET [16/08/2022 5:16:31 ET]
+Table '3456992964 1' 4-max Siège #3 est au bouton.
+Place 1: TIGERSHARK02 (4780 en jetons) 
+Place 2: cAllmoiAp (10150 en jetons) 
+Place 3: velillarc (4830 en jetons) 
+Place 4: psychoman59 (240 en jetons) 
+TIGERSHARK02 : met l'ante. 10
+cAllmoiAp : met l'ante. 10
+velillarc : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+TIGERSHARK02 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Qd]
+cAllmoiAp : passe. 
+velillarc : relance. 100 à 200
+psychoman59 : suit. 150
+TIGERSHARK02 : suit. 100
+*** FLOP *** [Ac 8s Js]
+psychoman59 : mise. 30 et est all-in.
+TIGERSHARK02 : suit. 30
+velillarc : suit. 30
+*** TOURNANT *** [Ac 8s Js] [3c]
+TIGERSHARK02 : mise. 730
+velillarc : passe. 
+Personne n'a suivi. (730) sont retournés à TIGERSHARK02.
+*** RIVIÈRE *** [Ac 8s Js 3c] [6d]
+*** ABATTAGE ***
+psychoman59 : montre [8c Qd] (une paire de Huit)
+TIGERSHARK02 : montre [3d 8d] (double paire, Huit et Trois)
+TIGERSHARK02 a remporté 730  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 730 | Commission 0 
+Tableau [Ac 8s Js 3c 6d]
+Siège 1 : TIGERSHARK02 (grosse blind) a montré [3d 8d] et a gagné (730) avec double paire, Huit et Trois
+Siège 2 : cAllmoiAp s'est couché. avant Flop (n'a pas misé)
+Siège 3 : velillarc (bouton) s'est couché. sur le Tournant
+Siège 4 : psychoman59 (petite blind) a montré [8c Qd] et a perdu avec une paire de Huit
+
+
+

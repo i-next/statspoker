@@ -1,0 +1,610 @@
+﻿Main PokerStars n°237730055224 : Tournoi #3450038560, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 01/08/2022 22:53:12 CET [01/08/2022 16:53:12 ET]
+Table '3450038560 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 2: djnalberto (5000 en jetons) 
+Place 3: bomba012 (5000 en jetons) 
+Place 4: TLvlPalAmiGr (5000 en jetons) 
+psychoman59 : met l'ante. 10
+djnalberto : met l'ante. 10
+bomba012 : met l'ante. 10
+TLvlPalAmiGr : met l'ante. 10
+djnalberto : met la petite blind. 50
+bomba012 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 4h]
+TLvlPalAmiGr : passe. 
+psychoman59 : suit. 100
+djnalberto : suit. 50
+bomba012 : relance. 100 à 200
+psychoman59 : suit. 100
+djnalberto : suit. 100
+*** FLOP *** [5h Ah Kd]
+djnalberto : parole 
+bomba012 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5h Ah Kd] [3c]
+djnalberto : parole 
+bomba012 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5h Ah Kd 3c] [8c]
+djnalberto : parole 
+bomba012 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+djnalberto : montre [7d 9h] (Hauteur As)
+bomba012 : montre [Jd Qh] (Hauteur As - Roi+Dame kicker)
+psychoman59 : montre [4s 4h] (une paire de Quatre)
+psychoman59 a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [5h Ah Kd 3c 8c]
+Siège 1 : psychoman59 (bouton) a montré [4s 4h] et a gagné (640) avec une paire de Quatre
+Siège 2 : djnalberto (petite blind) a montré [7d 9h] et a perdu avec Hauteur As
+Siège 3 : bomba012 (grosse blind) a montré [Jd Qh] et a perdu avec Hauteur As
+Siège 4 : TLvlPalAmiGr s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237730072061 : Tournoi #3450038560, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 01/08/2022 22:53:55 CET [01/08/2022 16:53:55 ET]
+Table '3450038560 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (5430 en jetons) 
+Place 2: djnalberto (4790 en jetons) 
+Place 3: bomba012 (4790 en jetons) 
+Place 4: TLvlPalAmiGr (4990 en jetons) 
+psychoman59 : met l'ante. 10
+djnalberto : met l'ante. 10
+bomba012 : met l'ante. 10
+TLvlPalAmiGr : met l'ante. 10
+bomba012 : met la petite blind. 50
+TLvlPalAmiGr : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Ad]
+psychoman59 : passe. 
+djnalberto : relance. 200 à 300
+bomba012 : suit. 250
+TLvlPalAmiGr : suit. 200
+*** FLOP *** [8d 7d 7h]
+bomba012 : parole 
+TLvlPalAmiGr : parole 
+djnalberto : mise. 300
+bomba012 : passe. 
+TLvlPalAmiGr : passe. 
+Personne n'a suivi. (300) sont retournés à djnalberto.
+djnalberto a remporté 940  lors du pot .
+djnalberto : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 940 | Commission 0 
+Tableau [8d 7d 7h]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : djnalberto (bouton) a remporté (940)
+Siège 3 : bomba012 (petite blind) s'est couché. sur le Flop
+Siège 4 : TLvlPalAmiGr (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237730083875 : Tournoi #3450038560, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 01/08/2022 22:54:25 CET [01/08/2022 16:54:25 ET]
+Table '3450038560 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (5420 en jetons) 
+Place 2: djnalberto (5420 en jetons) 
+Place 3: bomba012 (4480 en jetons) 
+Place 4: TLvlPalAmiGr (4680 en jetons) 
+psychoman59 : met l'ante. 10
+djnalberto : met l'ante. 10
+bomba012 : met l'ante. 10
+TLvlPalAmiGr : met l'ante. 10
+TLvlPalAmiGr : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 8s]
+djnalberto : passe. 
+bomba012 : suit. 100
+TLvlPalAmiGr : relance. 200 à 300
+psychoman59 : passe. 
+bomba012 : suit. 200
+*** FLOP *** [9d 6s Kd]
+TLvlPalAmiGr : parole 
+bomba012 : parole 
+*** TOURNANT *** [9d 6s Kd] [Qc]
+TLvlPalAmiGr : mise. 370
+bomba012 : suit. 370
+*** RIVIÈRE *** [9d 6s Kd Qc] [Jd]
+TLvlPalAmiGr : parole 
+bomba012 : parole 
+*** ABATTAGE ***
+TLvlPalAmiGr : montre [7h Ks] (une paire de Rois)
+bomba012 : cache la main perdante. 
+TLvlPalAmiGr a remporté 1480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1480 | Commission 0 
+Tableau [9d 6s Kd Qc Jd]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : djnalberto s'est couché. avant Flop (n'a pas misé)
+Siège 3 : bomba012 (bouton) a caché la main perdante. [7s Ac]
+Siège 4 : TLvlPalAmiGr (petite blind) a montré [7h Ks] et a gagné (1480) avec une paire de Rois
+
+
+
+Main PokerStars n°237730096867 : Tournoi #3450038560, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 01/08/2022 22:54:59 CET [01/08/2022 16:54:59 ET]
+Table '3450038560 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (5310 en jetons) 
+Place 2: djnalberto (5410 en jetons) 
+Place 3: bomba012 (3800 en jetons) 
+Place 4: TLvlPalAmiGr (5480 en jetons) 
+psychoman59 : met l'ante. 10
+djnalberto : met l'ante. 10
+bomba012 : met l'ante. 10
+TLvlPalAmiGr : met l'ante. 10
+psychoman59 : met la petite blind. 50
+djnalberto : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Jd]
+bomba012 : suit. 100
+TLvlPalAmiGr : relance. 200 à 300
+psychoman59 : passe. 
+djnalberto : passe. 
+bomba012 : passe. 
+Personne n'a suivi. (200) sont retournés à TLvlPalAmiGr.
+TLvlPalAmiGr a remporté 390  lors du pot .
+TLvlPalAmiGr : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 390 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : djnalberto (grosse blind) s'est couché. avant Flop
+Siège 3 : bomba012 s'est couché. avant Flop
+Siège 4 : TLvlPalAmiGr (bouton) a remporté (390)
+
+
+
+Main PokerStars n°237730102594 : Tournoi #3450038560, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 01/08/2022 22:55:17 CET [01/08/2022 16:55:17 ET]
+Table '3450038560 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5250 en jetons) 
+Place 2: djnalberto (5300 en jetons) 
+Place 3: bomba012 (3690 en jetons) 
+Place 4: TLvlPalAmiGr (5760 en jetons) 
+psychoman59 : met l'ante. 10
+djnalberto : met l'ante. 10
+bomba012 : met l'ante. 10
+TLvlPalAmiGr : met l'ante. 10
+djnalberto : met la petite blind. 50
+bomba012 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 7c]
+TLvlPalAmiGr : relance. 100 à 200
+psychoman59 : passe. 
+djnalberto : suit. 150
+bomba012 : suit. 100
+*** FLOP *** [3h Tc Js]
+djnalberto : parole 
+bomba012 : parole 
+TLvlPalAmiGr : mise. 220
+djnalberto : passe. 
+bomba012 : passe. 
+Personne n'a suivi. (220) sont retournés à TLvlPalAmiGr.
+TLvlPalAmiGr a remporté 640  lors du pot .
+TLvlPalAmiGr : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [3h Tc Js]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : djnalberto (petite blind) s'est couché. sur le Flop
+Siège 3 : bomba012 (grosse blind) s'est couché. sur le Flop
+Siège 4 : TLvlPalAmiGr a remporté (640)
+
+
+
+Main PokerStars n°237730111373 : Tournoi #3450038560, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 01/08/2022 22:55:46 CET [01/08/2022 16:55:46 ET]
+Table '3450038560 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (5240 en jetons) 
+Place 2: djnalberto (5090 en jetons) 
+Place 3: bomba012 (3480 en jetons) 
+Place 4: TLvlPalAmiGr (6190 en jetons) 
+psychoman59 : met l'ante. 10
+djnalberto : met l'ante. 10
+bomba012 : met l'ante. 10
+TLvlPalAmiGr : met l'ante. 10
+bomba012 : met la petite blind. 50
+TLvlPalAmiGr : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Kc]
+psychoman59 : suit. 100
+djnalberto : passe. 
+bomba012 : suit. 50
+TLvlPalAmiGr : relance. 300 à 400
+psychoman59 : passe. 
+bomba012 : suit. 300
+*** FLOP *** [5c 5s 5d]
+bomba012 : parole 
+TLvlPalAmiGr : parole 
+*** TOURNANT *** [5c 5s 5d] [3c]
+bomba012 : parole 
+TLvlPalAmiGr : parole 
+*** RIVIÈRE *** [5c 5s 5d 3c] [Jh]
+bomba012 : parole 
+TLvlPalAmiGr : parole 
+*** ABATTAGE ***
+bomba012 : montre [Td Qd] (un brelan de Cinq)
+TLvlPalAmiGr : montre [Ac Ks] (un brelan de Cinq - As kicker)
+TLvlPalAmiGr a remporté 940  lors du pot .
+*** SYNTHÈSE ***
+Pot total 940 | Commission 0 
+Tableau [5c 5s 5d 3c Jh]
+Siège 1 : psychoman59 s'est couché. avant Flop
+Siège 2 : djnalberto (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : bomba012 (petite blind) a montré [Td Qd] et a perdu avec un brelan de Cinq
+Siège 4 : TLvlPalAmiGr (grosse blind) a montré [Ac Ks] et a gagné (940) avec un brelan de Cinq
+
+
+
+Main PokerStars n°237730120859 : Tournoi #3450038560, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 01/08/2022 22:56:18 CET [01/08/2022 16:56:18 ET]
+Table '3450038560 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (5130 en jetons) 
+Place 2: djnalberto (5080 en jetons) 
+Place 3: bomba012 (3070 en jetons) 
+Place 4: TLvlPalAmiGr (6720 en jetons) 
+psychoman59 : met l'ante. 15
+djnalberto : met l'ante. 15
+bomba012 : met l'ante. 15
+TLvlPalAmiGr : met l'ante. 15
+TLvlPalAmiGr : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Qs]
+djnalberto : relance. 240 à 360
+bomba012 : passe. 
+TLvlPalAmiGr : passe. 
+psychoman59 : suit. 240
+*** FLOP *** [6h 8s 7d]
+psychoman59 : parole 
+djnalberto : parole 
+*** TOURNANT *** [6h 8s 7d] [7s]
+psychoman59 : parole 
+djnalberto : parole 
+*** RIVIÈRE *** [6h 8s 7d 7s] [6s]
+psychoman59 : parole 
+djnalberto : mise. 360
+psychoman59 : suit. 360
+*** ABATTAGE ***
+djnalberto : montre [3s Ad] (double paire, Sept et Six)
+psychoman59 : cache la main perdante. 
+djnalberto a remporté 1560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1560 | Commission 0 
+Tableau [6h 8s 7d 7s 6s]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [Kd Qs]
+Siège 2 : djnalberto a montré [3s Ad] et a gagné (1560) avec double paire, Sept et Six
+Siège 3 : bomba012 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : TLvlPalAmiGr (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237730130654 : Tournoi #3450038560, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 01/08/2022 22:56:50 CET [01/08/2022 16:56:50 ET]
+Table '3450038560 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4395 en jetons) 
+Place 2: djnalberto (5905 en jetons) 
+Place 3: bomba012 (3055 en jetons) 
+Place 4: TLvlPalAmiGr (6645 en jetons) 
+psychoman59 : met l'ante. 15
+djnalberto : met l'ante. 15
+bomba012 : met l'ante. 15
+TLvlPalAmiGr : met l'ante. 15
+psychoman59 : met la petite blind. 60
+djnalberto : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ks]
+bomba012 : suit. 120
+TLvlPalAmiGr : relance. 120 à 240
+psychoman59 : suit. 180
+djnalberto : suit. 120
+bomba012 : suit. 120
+*** FLOP *** [Ad 8d 8h]
+psychoman59 : parole 
+djnalberto : parole 
+bomba012 : parole 
+TLvlPalAmiGr : mise. 390
+psychoman59 : passe. 
+djnalberto : passe. 
+bomba012 : passe. 
+Personne n'a suivi. (390) sont retournés à TLvlPalAmiGr.
+TLvlPalAmiGr a remporté 1020  lors du pot .
+TLvlPalAmiGr : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [Ad 8d 8h]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 2 : djnalberto (grosse blind) s'est couché. sur le Flop
+Siège 3 : bomba012 s'est couché. sur le Flop
+Siège 4 : TLvlPalAmiGr (bouton) a remporté (1020)
+
+
+
+Main PokerStars n°237730144053 : Tournoi #3450038560, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 01/08/2022 22:57:35 CET [01/08/2022 16:57:35 ET]
+Table '3450038560 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4140 en jetons) 
+Place 2: djnalberto (5650 en jetons) 
+Place 3: bomba012 (2800 en jetons) 
+Place 4: TLvlPalAmiGr (7410 en jetons) 
+psychoman59 : met l'ante. 15
+djnalberto : met l'ante. 15
+bomba012 : met l'ante. 15
+TLvlPalAmiGr : met l'ante. 15
+djnalberto : met la petite blind. 60
+bomba012 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ts]
+TLvlPalAmiGr : passe. 
+psychoman59 : passe. 
+djnalberto : passe. 
+Personne n'a suivi. (60) sont retournés à bomba012.
+bomba012 a remporté 180  lors du pot .
+bomba012 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : djnalberto (petite blind) s'est couché. avant Flop
+Siège 3 : bomba012 (grosse blind) a remporté (180)
+Siège 4 : TLvlPalAmiGr s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237730146743 : Tournoi #3450038560, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 01/08/2022 22:57:44 CET [01/08/2022 16:57:44 ET]
+Table '3450038560 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4125 en jetons) 
+Place 2: djnalberto (5575 en jetons) 
+Place 3: bomba012 (2905 en jetons) 
+Place 4: TLvlPalAmiGr (7395 en jetons) 
+psychoman59 : met l'ante. 15
+djnalberto : met l'ante. 15
+bomba012 : met l'ante. 15
+TLvlPalAmiGr : met l'ante. 15
+bomba012 : met la petite blind. 60
+TLvlPalAmiGr : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 3s]
+psychoman59 : passe. 
+djnalberto : passe. 
+bomba012 : suit. 60
+TLvlPalAmiGr : parole 
+*** FLOP *** [2d Jh 4c]
+bomba012 : parole 
+TLvlPalAmiGr : parole 
+*** TOURNANT *** [2d Jh 4c] [Th]
+bomba012 : parole 
+TLvlPalAmiGr : parole 
+*** RIVIÈRE *** [2d Jh 4c Th] [5s]
+bomba012 : parole 
+TLvlPalAmiGr : parole 
+*** ABATTAGE ***
+bomba012 : montre [8d 6c] (Hauteur Valet)
+TLvlPalAmiGr : montre [6d Qh] (Hauteur Dame)
+TLvlPalAmiGr a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [2d Jh 4c Th 5s]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : djnalberto (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : bomba012 (petite blind) a montré [8d 6c] et a perdu avec Hauteur Valet
+Siège 4 : TLvlPalAmiGr (grosse blind) a montré [6d Qh] et a gagné (300) avec Hauteur Dame
+
+
+
+Main PokerStars n°237730155005 : Tournoi #3450038560, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 01/08/2022 22:58:11 CET [01/08/2022 16:58:11 ET]
+Table '3450038560 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4110 en jetons) 
+Place 2: djnalberto (5560 en jetons) 
+Place 3: bomba012 (2770 en jetons) 
+Place 4: TLvlPalAmiGr (7560 en jetons) 
+psychoman59 : met l'ante. 15
+djnalberto : met l'ante. 15
+bomba012 : met l'ante. 15
+TLvlPalAmiGr : met l'ante. 15
+TLvlPalAmiGr : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Ah]
+djnalberto : relance. 240 à 360
+bomba012 : passe. 
+TLvlPalAmiGr : passe. 
+psychoman59 : relance. 360 à 720
+djnalberto : suit. 360
+*** FLOP *** [Qs 7d Ad]
+psychoman59 : parole 
+djnalberto : mise. 480
+psychoman59 : suit. 480
+*** TOURNANT *** [Qs 7d Ad] [5h]
+psychoman59 : parole 
+djnalberto : mise. 480
+psychoman59 : suit. 480
+*** RIVIÈRE *** [Qs 7d Ad 5h] [2d]
+psychoman59 : parole 
+djnalberto : mise. 600
+psychoman59 : suit. 600
+*** ABATTAGE ***
+djnalberto : montre [4d 6d] (une couleur, hauteur As)
+psychoman59 : cache la main perdante. 
+djnalberto a remporté 4680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4680 | Commission 0 
+Tableau [Qs 7d Ad 5h 2d]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [As Ah]
+Siège 2 : djnalberto a montré [4d 6d] et a gagné (4680) avec une couleur, hauteur As
+Siège 3 : bomba012 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : TLvlPalAmiGr (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237730170803 : Tournoi #3450038560, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 01/08/2022 22:59:03 CET [01/08/2022 16:59:03 ET]
+Table '3450038560 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (1815 en jetons) 
+Place 2: djnalberto (7945 en jetons) 
+Place 3: bomba012 (2755 en jetons) 
+Place 4: TLvlPalAmiGr (7485 en jetons) 
+psychoman59 : met l'ante. 15
+djnalberto : met l'ante. 15
+bomba012 : met l'ante. 15
+TLvlPalAmiGr : met l'ante. 15
+psychoman59 : met la petite blind. 60
+djnalberto : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Qs]
+bomba012 : passe. 
+TLvlPalAmiGr : relance. 120 à 240
+psychoman59 : suit. 180
+djnalberto : suit. 120
+*** FLOP *** [Jc 5h 4d]
+psychoman59 : parole 
+djnalberto : parole 
+TLvlPalAmiGr : parole 
+*** TOURNANT *** [Jc 5h 4d] [Ac]
+psychoman59 : parole 
+djnalberto : parole 
+TLvlPalAmiGr : mise. 390
+psychoman59 : suit. 390
+djnalberto : passe. 
+*** RIVIÈRE *** [Jc 5h 4d Ac] [4h]
+psychoman59 : parole 
+TLvlPalAmiGr : parole 
+*** ABATTAGE ***
+psychoman59 : montre [2d Qs] (une paire de Quatre)
+TLvlPalAmiGr : montre [Kc 3d] (une paire de Quatre - As+Roi kicker)
+TLvlPalAmiGr a remporté 1560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1560 | Commission 0 
+Tableau [Jc 5h 4d Ac 4h]
+Siège 1 : psychoman59 (petite blind) a montré [2d Qs] et a perdu avec une paire de Quatre
+Siège 2 : djnalberto (grosse blind) s'est couché. sur le Tournant
+Siège 3 : bomba012 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : TLvlPalAmiGr (bouton) a montré [Kc 3d] et a gagné (1560) avec une paire de Quatre
+
+
+
+Main PokerStars n°237730183356 : Tournoi #3450038560, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 01/08/2022 22:59:36 CET [01/08/2022 16:59:36 ET]
+Table '3450038560 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (1170 en jetons) 
+Place 2: djnalberto (7690 en jetons) 
+Place 3: bomba012 (2740 en jetons) 
+Place 4: TLvlPalAmiGr (8400 en jetons) 
+psychoman59 : met l'ante. 20
+djnalberto : met l'ante. 20
+bomba012 : met l'ante. 20
+TLvlPalAmiGr : met l'ante. 20
+djnalberto : met la petite blind. 75
+bomba012 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Jh]
+TLvlPalAmiGr : suit. 150
+psychoman59 : passe. 
+djnalberto : relance. 450 à 600
+bomba012 : passe. 
+TLvlPalAmiGr : suit. 450
+*** FLOP *** [8s Qd Jd]
+djnalberto : mise. 300
+TLvlPalAmiGr : passe. 
+Personne n'a suivi. (300) sont retournés à djnalberto.
+djnalberto a remporté 1430  lors du pot .
+djnalberto : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1430 | Commission 0 
+Tableau [8s Qd Jd]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : djnalberto (petite blind) a remporté (1430)
+Siège 3 : bomba012 (grosse blind) s'est couché. avant Flop
+Siège 4 : TLvlPalAmiGr s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237730189925 : Tournoi #3450038560, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 01/08/2022 22:59:58 CET [01/08/2022 16:59:58 ET]
+Table '3450038560 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (1150 en jetons) 
+Place 2: djnalberto (8500 en jetons) 
+Place 3: bomba012 (2570 en jetons) 
+Place 4: TLvlPalAmiGr (7780 en jetons) 
+psychoman59 : met l'ante. 20
+djnalberto : met l'ante. 20
+bomba012 : met l'ante. 20
+TLvlPalAmiGr : met l'ante. 20
+bomba012 : met la petite blind. 75
+TLvlPalAmiGr : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 4c]
+psychoman59 : passe. 
+djnalberto : relance. 150 à 300
+bomba012 : suit. 225
+TLvlPalAmiGr : relance. 7460 à 7760 et est all-in.
+djnalberto : passe. 
+bomba012 : suit. 2250 et est all-in.
+Personne n'a suivi. (5210) sont retournés à TLvlPalAmiGr.
+*** FLOP *** [7s Qs 9s]
+*** TOURNANT *** [7s Qs 9s] [4h]
+*** RIVIÈRE *** [7s Qs 9s 4h] [6s]
+*** ABATTAGE ***
+bomba012 : montre [8c Ah] (Hauteur As)
+TLvlPalAmiGr : montre [As Qd] (une couleur, hauteur As)
+TLvlPalAmiGr a remporté 5480  lors du pot .
+bomba012 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 5480 | Commission 0 
+Tableau [7s Qs 9s 4h 6s]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : djnalberto (bouton) s'est couché. avant Flop
+Siège 3 : bomba012 (petite blind) a montré [8c Ah] et a perdu avec Hauteur As
+Siège 4 : TLvlPalAmiGr (grosse blind) a montré [As Qd] et a gagné (5480) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°237730198877 : Tournoi #3450038560, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 01/08/2022 23:00:26 CET [01/08/2022 17:00:26 ET]
+Table '3450038560 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (1130 en jetons) 
+Place 2: djnalberto (8180 en jetons) 
+Place 4: TLvlPalAmiGr (10690 en jetons) 
+psychoman59 : met l'ante. 20
+djnalberto : met l'ante. 20
+TLvlPalAmiGr : met l'ante. 20
+psychoman59 : met la petite blind. 75
+djnalberto : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 9h]
+TLvlPalAmiGr : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à djnalberto.
+djnalberto a remporté 210  lors du pot .
+djnalberto : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : djnalberto (grosse blind) a remporté (210)
+Siège 4 : TLvlPalAmiGr (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237730201634 : Tournoi #3450038560, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 01/08/2022 23:00:34 CET [01/08/2022 17:00:34 ET]
+Table '3450038560 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (1035 en jetons) 
+Place 2: djnalberto (8295 en jetons) 
+Place 4: TLvlPalAmiGr (10670 en jetons) 
+psychoman59 : met l'ante. 20
+djnalberto : met l'ante. 20
+TLvlPalAmiGr : met l'ante. 20
+djnalberto : met la petite blind. 75
+TLvlPalAmiGr : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 8d]
+psychoman59 : relance. 865 à 1015 et est all-in.
+djnalberto : suit. 940
+TLvlPalAmiGr : passe. 
+*** FLOP *** [2s Tc 9h]
+*** TOURNANT *** [2s Tc 9h] [6d]
+*** RIVIÈRE *** [2s Tc 9h 6d] [Kc]
+*** ABATTAGE ***
+djnalberto : montre [Kh 4h] (une paire de Rois)
+psychoman59 : montre [4d 8d] (Hauteur Roi)
+djnalberto a remporté 2240  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 2240 | Commission 0 
+Tableau [2s Tc 9h 6d Kc]
+Siège 1 : psychoman59 (bouton) a montré [4d 8d] et a perdu avec Hauteur Roi
+Siège 2 : djnalberto (petite blind) a montré [Kh 4h] et a gagné (2240) avec une paire de Rois
+Siège 4 : TLvlPalAmiGr (grosse blind) s'est couché. avant Flop
+
+
+

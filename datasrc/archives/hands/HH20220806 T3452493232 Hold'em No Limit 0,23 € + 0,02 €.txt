@@ -1,0 +1,275 @@
+﻿Main PokerStars n°237831523920 : Tournoi #3452493232, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 06/08/2022 23:34:59 CET [06/08/2022 17:34:59 ET]
+Table '3452493232 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: tenazas1984 (300 en jetons) 
+Place 3: marseillai45 (300 en jetons) 
+tenazas1984 : met la petite blind. 10
+marseillai45 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 7h]
+psychoman59 : passe. 
+tenazas1984 : passe. 
+Personne n'a suivi. (10) sont retournés à marseillai45.
+marseillai45 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : tenazas1984 (petite blind) s'est couché. avant Flop
+Siège 3 : marseillai45 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237831526534 : Tournoi #3452493232, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 06/08/2022 23:35:07 CET [06/08/2022 17:35:07 ET]
+Table '3452493232 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: tenazas1984 (290 en jetons) 
+Place 3: marseillai45 (310 en jetons) 
+marseillai45 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 5s]
+tenazas1984 : passe. 
+marseillai45 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4h 6s 7s]
+marseillai45 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [4h 6s 7s] [4s]
+marseillai45 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [4h 6s 7s 4s] [8c]
+marseillai45 : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+marseillai45 : montre [Jc 8s] (double paire, Huit et Quatre)
+psychoman59 : montre [9d 5s] (une suite, Cinq à Neuf)
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [4h 6s 7s 4s 8c]
+Siège 1 : psychoman59 (grosse blind) a montré [9d 5s] et a gagné (160) avec une suite, Cinq à Neuf
+Siège 2 : tenazas1984 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : marseillai45 (petite blind) a montré [Jc 8s] et a perdu avec double paire, Huit et Quatre
+
+
+
+Main PokerStars n°237831536032 : Tournoi #3452493232, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 06/08/2022 23:35:35 CET [06/08/2022 17:35:35 ET]
+Table '3452493232 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 2: tenazas1984 (290 en jetons) 
+Place 3: marseillai45 (230 en jetons) 
+psychoman59 : met la petite blind. 10
+tenazas1984 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 6d]
+marseillai45 : relance. 20 à 40
+psychoman59 : suit. 30
+tenazas1984 : suit. 20
+*** FLOP *** [Jc Tc As]
+psychoman59 : parole 
+tenazas1984 : parole 
+marseillai45 : mise. 60
+psychoman59 : passe. 
+tenazas1984 : passe. 
+Personne n'a suivi. (60) sont retournés à marseillai45.
+marseillai45 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jc Tc As]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 2 : tenazas1984 (grosse blind) s'est couché. sur le Flop
+Siège 3 : marseillai45 (bouton) a remporté (120)
+
+
+
+Main PokerStars n°237831543721 : Tournoi #3452493232, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 06/08/2022 23:35:57 CET [06/08/2022 17:35:57 ET]
+Table '3452493232 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: tenazas1984 (250 en jetons) 
+Place 3: marseillai45 (310 en jetons) 
+tenazas1984 : met la petite blind. 10
+marseillai45 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Ks]
+psychoman59 : suit. 20
+tenazas1984 : passe. 
+marseillai45 : parole 
+*** FLOP *** [9s 3c Jc]
+marseillai45 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [9s 3c Jc] [4d]
+marseillai45 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à marseillai45.
+marseillai45 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [9s 3c Jc 4d]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Tournant
+Siège 2 : tenazas1984 (petite blind) s'est couché. avant Flop
+Siège 3 : marseillai45 (grosse blind) a remporté (90)
+
+
+
+Main PokerStars n°237831551298 : Tournoi #3452493232, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 06/08/2022 23:36:19 CET [06/08/2022 17:36:19 ET]
+Table '3452493232 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: tenazas1984 (240 en jetons) 
+Place 3: marseillai45 (360 en jetons) 
+marseillai45 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 7c]
+tenazas1984 : passe. 
+marseillai45 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ts 3h 8h]
+marseillai45 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à marseillai45.
+marseillai45 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ts 3h 8h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : tenazas1984 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : marseillai45 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237831556970 : Tournoi #3452493232, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 06/08/2022 23:36:36 CET [06/08/2022 17:36:36 ET]
+Table '3452493232 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: tenazas1984 (240 en jetons) 
+Place 3: marseillai45 (390 en jetons) 
+psychoman59 : met la petite blind. 15
+tenazas1984 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Js]
+marseillai45 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à tenazas1984.
+tenazas1984 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : tenazas1984 (grosse blind) a remporté (30)
+Siège 3 : marseillai45 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237831558928 : Tournoi #3452493232, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 06/08/2022 23:36:42 CET [06/08/2022 17:36:42 ET]
+Table '3452493232 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (255 en jetons) 
+Place 2: tenazas1984 (255 en jetons) 
+Place 3: marseillai45 (390 en jetons) 
+tenazas1984 : met la petite blind. 15
+marseillai45 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Qd]
+psychoman59 : relance. 30 à 60
+tenazas1984 : suit. 45
+marseillai45 : suit. 30
+*** FLOP *** [As Jh 8s]
+tenazas1984 : parole 
+marseillai45 : mise. 30
+psychoman59 : suit. 30
+tenazas1984 : suit. 30
+*** TOURNANT *** [As Jh 8s] [Kc]
+tenazas1984 : parole 
+marseillai45 : mise. 135
+psychoman59 : suit. 135
+tenazas1984 : passe. 
+*** RIVIÈRE *** [As Jh 8s Kc] [7h]
+marseillai45 : mise. 165 et est all-in.
+psychoman59 : suit. 30 et est all-in.
+Personne n'a suivi. (135) sont retournés à marseillai45.
+*** ABATTAGE ***
+marseillai45 : montre [7d 9c] (une paire de Sept)
+psychoman59 : montre [Ah Qd] (une paire de As)
+psychoman59 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [As Jh 8s Kc 7h]
+Siège 1 : psychoman59 (bouton) a montré [Ah Qd] et a gagné (600) avec une paire de As
+Siège 2 : tenazas1984 (petite blind) s'est couché. sur le Tournant
+Siège 3 : marseillai45 (grosse blind) a montré [7d 9c] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°237831576140 : Tournoi #3452493232, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 06/08/2022 23:37:33 CET [06/08/2022 17:37:33 ET]
+Table '3452493232 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: tenazas1984 (165 en jetons) 
+Place 3: marseillai45 (135 en jetons) 
+marseillai45 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Kc]
+tenazas1984 : passe. 
+marseillai45 : relance. 95 à 135 et est all-in.
+psychoman59 : suit. 95
+*** FLOP *** [Kd 3s 2c]
+*** TOURNANT *** [Kd 3s 2c] [3d]
+*** RIVIÈRE *** [Kd 3s 2c 3d] [Tc]
+*** ABATTAGE ***
+marseillai45 : montre [Qs 5s] (une paire de Trois)
+psychoman59 : montre [2h Kc] (double paire, Rois et Trois)
+psychoman59 a remporté 270  lors du pot .
+marseillai45 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [Kd 3s 2c 3d Tc]
+Siège 1 : psychoman59 (grosse blind) a montré [2h Kc] et a gagné (270) avec double paire, Rois et Trois
+Siège 2 : tenazas1984 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : marseillai45 (petite blind) a montré [Qs 5s] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°237831582559 : Tournoi #3452493232, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 06/08/2022 23:37:52 CET [06/08/2022 17:37:52 ET]
+Table '3452493232 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (735 en jetons) 
+Place 2: tenazas1984 (165 en jetons) 
+psychoman59 : met la petite blind. 20
+tenazas1984 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Kc]
+psychoman59 : relance. 80 à 120
+tenazas1984 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : tenazas1984 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237831587169 : Tournoi #3452493232, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/08/2022 23:38:05 CET [06/08/2022 17:38:05 ET]
+Table '3452493232 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (775 en jetons) 
+Place 2: tenazas1984 (125 en jetons) 
+tenazas1984 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Kh]
+tenazas1984 : relance. 65 à 125 et est all-in.
+psychoman59 : suit. 65
+*** FLOP *** [Js 3c 6s]
+*** TOURNANT *** [Js 3c 6s] [9c]
+*** RIVIÈRE *** [Js 3c 6s 9c] [Td]
+*** ABATTAGE ***
+psychoman59 : montre [2d Kh] (Hauteur Roi)
+tenazas1984 : montre [Qh 4c] (Hauteur Dame)
+psychoman59 a remporté 250  lors du pot .
+tenazas1984 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 0.75 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Tableau [Js 3c 6s 9c Td]
+Siège 1 : psychoman59 (grosse blind) a montré [2d Kh] et a gagné (250) avec Hauteur Roi
+Siège 2 : tenazas1984 (bouton) (petite blind) a montré [Qh 4c] et a perdu avec Hauteur Dame
+
+
+

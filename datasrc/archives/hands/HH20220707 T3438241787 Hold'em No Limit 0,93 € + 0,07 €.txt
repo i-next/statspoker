@@ -1,0 +1,326 @@
+﻿Main PokerStars n°237221865485 : Tournoi #3438241787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2022 23:11:30 CET [07/07/2022 17:11:30 ET]
+Table '3438241787 1' 3-max Siège #1 est au bouton.
+Place 1: Badbeat-KK19 (300 en jetons) 
+Place 2: 60nandoo (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+60nandoo : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 2h]
+Badbeat-KK19 : passe. 
+60nandoo : suit. 10
+psychoman59 : parole 
+*** FLOP *** [5h Js 3h]
+60nandoo : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à 60nandoo.
+60nandoo a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5h Js 3h]
+Siège 1 : Badbeat-KK19 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 60nandoo (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237221878849 : Tournoi #3438241787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2022 23:12:06 CET [07/07/2022 17:12:06 ET]
+Table '3438241787 1' 3-max Siège #2 est au bouton.
+Place 1: Badbeat-KK19 (300 en jetons) 
+Place 2: 60nandoo (320 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+Badbeat-KK19 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 2h]
+60nandoo : suit. 20
+psychoman59 : passe. 
+Badbeat-KK19 : relance. 50 à 70
+60nandoo : suit. 50
+*** FLOP *** [7h 8h 4d]
+Badbeat-KK19 : mise. 75
+60nandoo : suit. 75
+*** TOURNANT *** [7h 8h 4d] [Js]
+Badbeat-KK19 : mise. 155 et est all-in.
+60nandoo : suit. 155
+*** RIVIÈRE *** [7h 8h 4d Js] [As]
+*** ABATTAGE ***
+Badbeat-KK19 : montre [Td 8d] (une paire de Huit)
+60nandoo : montre [Kc 4c] (une paire de Quatre)
+Badbeat-KK19 a remporté 610  lors du pot .
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [7h 8h 4d Js As]
+Siège 1 : Badbeat-KK19 (grosse blind) a montré [Td 8d] et a gagné (610) avec une paire de Huit
+Siège 2 : 60nandoo (bouton) a montré [Kc 4c] et a perdu avec une paire de Quatre
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237221900774 : Tournoi #3438241787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2022 23:12:43 CET [07/07/2022 17:12:43 ET]
+Table '3438241787 1' 3-max Siège #3 est au bouton.
+Place 1: Badbeat-KK19 (610 en jetons) 
+Place 2: 60nandoo (20 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+Badbeat-KK19 : met la petite blind. 15
+60nandoo : met la grosse blind. 20 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ac]
+psychoman59 : relance. 75 à 95
+Badbeat-KK19 : suit. 80
+*** FLOP *** [8s 7s 7h]
+Badbeat-KK19 : parole 
+psychoman59 : mise. 175 et est all-in.
+Badbeat-KK19 : suit. 175
+*** TOURNANT *** [8s 7s 7h] [8d]
+*** RIVIÈRE *** [8s 7s 7h 8d] [4d]
+*** ABATTAGE ***
+Badbeat-KK19 : montre [5s 3s] (double paire, Huit et Sept)
+psychoman59 : montre [9d Ac] (double paire, Huit et Sept - As kicker)
+psychoman59 a remporté 500  parallèle lors du pot .
+60nandoo : montre [Ah Qd] (double paire, Huit et Sept)
+60nandoo a remporté 30  principal lors du pot .
+psychoman59 a remporté 30  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 Principal pot 60. Parallèle pot 500. | Commission 0 
+Tableau [8s 7s 7h 8d 4d]
+Siège 1 : Badbeat-KK19 (petite blind) a montré [5s 3s] et a perdu avec double paire, Huit et Sept
+Siège 2 : 60nandoo (grosse blind) a montré [Ah Qd] et a gagné (30) avec double paire, Huit et Sept
+Siège 3 : psychoman59 (bouton) a montré [9d Ac] et a gagné (530) avec double paire, Huit et Sept
+
+
+
+Main PokerStars n°237221911413 : Tournoi #3438241787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2022 23:13:11 CET [07/07/2022 17:13:11 ET]
+Table '3438241787 1' 3-max Siège #1 est au bouton.
+Place 1: Badbeat-KK19 (340 en jetons) 
+Place 2: 60nandoo (30 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+60nandoo : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 3s]
+Badbeat-KK19 : relance. 60 à 90
+60nandoo : suit. 15 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Badbeat-KK19.
+*** FLOP *** [6d 9s 8d]
+*** TOURNANT *** [6d 9s 8d] [4s]
+*** RIVIÈRE *** [6d 9s 8d 4s] [As]
+*** ABATTAGE ***
+60nandoo : montre [7d 3c] (Hauteur As)
+Badbeat-KK19 : montre [Kd Qs] (Hauteur As - Roi kicker)
+Badbeat-KK19 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [6d 9s 8d 4s As]
+Siège 1 : Badbeat-KK19 (bouton) a montré [Kd Qs] et a gagné (90) avec Hauteur As
+Siège 2 : 60nandoo (petite blind) a montré [7d 3c] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237221920292 : Tournoi #3438241787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/07/2022 23:13:36 CET [07/07/2022 17:13:36 ET]
+Table '3438241787 1' 3-max Siège #3 est au bouton.
+Place 1: Badbeat-KK19 (400 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+psychoman59 : met la petite blind. 20
+Badbeat-KK19 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 3d]
+psychoman59 : relance. 460 à 500 et est all-in.
+Badbeat-KK19 : passe. 
+Personne n'a suivi. (460) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Badbeat-KK19 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237221923423 : Tournoi #3438241787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/07/2022 23:13:44 CET [07/07/2022 17:13:44 ET]
+Table '3438241787 1' 3-max Siège #1 est au bouton.
+Place 1: Badbeat-KK19 (360 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+Badbeat-KK19 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 3c]
+Badbeat-KK19 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Badbeat-KK19 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237221925264 : Tournoi #3438241787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/07/2022 23:13:49 CET [07/07/2022 17:13:49 ET]
+Table '3438241787 1' 3-max Siège #3 est au bouton.
+Place 1: Badbeat-KK19 (340 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+psychoman59 : met la petite blind. 20
+Badbeat-KK19 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Ah]
+psychoman59 : relance. 80 à 120
+Badbeat-KK19 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Badbeat-KK19 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237221929540 : Tournoi #3438241787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/07/2022 23:14:01 CET [07/07/2022 17:14:01 ET]
+Table '3438241787 1' 3-max Siège #1 est au bouton.
+Place 1: Badbeat-KK19 (300 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+Badbeat-KK19 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 5s]
+Badbeat-KK19 : relance. 260 à 300 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (260) sont retournés à Badbeat-KK19.
+Badbeat-KK19 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Badbeat-KK19 (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237221931743 : Tournoi #3438241787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/07/2022 23:14:07 CET [07/07/2022 17:14:07 ET]
+Table '3438241787 1' 3-max Siège #3 est au bouton.
+Place 1: Badbeat-KK19 (340 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+psychoman59 : met la petite blind. 20
+Badbeat-KK19 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Badbeat-KK19.
+Badbeat-KK19 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Badbeat-KK19 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237221933493 : Tournoi #3438241787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/07/2022 23:14:12 CET [07/07/2022 17:14:12 ET]
+Table '3438241787 1' 3-max Siège #1 est au bouton.
+Place 1: Badbeat-KK19 (360 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+Badbeat-KK19 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 6d]
+Badbeat-KK19 : relance. 320 à 360 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (320) sont retournés à Badbeat-KK19.
+Badbeat-KK19 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Badbeat-KK19 (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237221935677 : Tournoi #3438241787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/07/2022 23:14:18 CET [07/07/2022 17:14:18 ET]
+Table '3438241787 1' 3-max Siège #3 est au bouton.
+Place 1: Badbeat-KK19 (400 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+psychoman59 : met la petite blind. 20
+Badbeat-KK19 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Badbeat-KK19.
+Badbeat-KK19 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Badbeat-KK19 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237221937337 : Tournoi #3438241787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/07/2022 23:14:22 CET [07/07/2022 17:14:22 ET]
+Table '3438241787 1' 3-max Siège #1 est au bouton.
+Place 1: Badbeat-KK19 (420 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+Badbeat-KK19 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Ad]
+Badbeat-KK19 : relance. 380 à 420 et est all-in.
+psychoman59 : suit. 380
+*** FLOP *** [8c Ks Tc]
+*** TOURNANT *** [8c Ks Tc] [Qs]
+*** RIVIÈRE *** [8c Ks Tc Qs] [5h]
+*** ABATTAGE ***
+psychoman59 : montre [4d Ad] (Hauteur As)
+Badbeat-KK19 : montre [Kc Td] (double paire, Rois et Dix)
+Badbeat-KK19 a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [8c Ks Tc Qs 5h]
+Siège 1 : Badbeat-KK19 (bouton) (petite blind) a montré [Kc Td] et a gagné (840) avec double paire, Rois et Dix
+Siège 3 : psychoman59 (grosse blind) a montré [4d Ad] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237221943179 : Tournoi #3438241787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 07/07/2022 23:14:38 CET [07/07/2022 17:14:38 ET]
+Table '3438241787 1' 3-max Siège #3 est au bouton.
+Place 1: Badbeat-KK19 (840 en jetons) 
+Place 3: psychoman59 (60 en jetons) 
+psychoman59 : met la petite blind. 30
+Badbeat-KK19 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 8d]
+psychoman59 : suit. 30 et est all-in.
+*** FLOP *** [6c 7h 6h]
+*** TOURNANT *** [6c 7h 6h] [5h]
+*** RIVIÈRE *** [6c 7h 6h 5h] [3s]
+*** ABATTAGE ***
+Badbeat-KK19 : montre [Th Ks] (une paire de Six)
+psychoman59 : montre [8c 8d] (double paire, Huit et Six)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6c 7h 6h 5h 3s]
+Siège 1 : Badbeat-KK19 (grosse blind) a montré [Th Ks] et a perdu avec une paire de Six
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [8c 8d] et a gagné (120) avec double paire, Huit et Six
+
+
+
+Main PokerStars n°237221947805 : Tournoi #3438241787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 07/07/2022 23:14:50 CET [07/07/2022 17:14:50 ET]
+Table '3438241787 1' 3-max Siège #1 est au bouton.
+Place 1: Badbeat-KK19 (780 en jetons) 
+Place 3: psychoman59 (120 en jetons) 
+Badbeat-KK19 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 7c]
+Badbeat-KK19 : relance. 720 à 780 et est all-in.
+psychoman59 : suit. 60 et est all-in.
+Personne n'a suivi. (660) sont retournés à Badbeat-KK19.
+*** FLOP *** [2s 8c Qh]
+*** TOURNANT *** [2s 8c Qh] [8d]
+*** RIVIÈRE *** [2s 8c Qh 8d] [9d]
+*** ABATTAGE ***
+psychoman59 : montre [Js 7c] (une paire de Huit)
+Badbeat-KK19 : montre [2c Td] (double paire, Huit et Deux)
+Badbeat-KK19 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [2s 8c Qh 8d 9d]
+Siège 1 : Badbeat-KK19 (bouton) (petite blind) a montré [2c Td] et a gagné (240) avec double paire, Huit et Deux
+Siège 3 : psychoman59 (grosse blind) a montré [Js 7c] et a perdu avec une paire de Huit
+
+
+

@@ -1,0 +1,646 @@
+﻿Main PokerStars n°237512187589 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 15:31:20 CET [22/07/2022 9:31:20 ET]
+Table '3445046018 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: tatann62110 (300 en jetons) 
+Place 3: martinonux (300 en jetons) 
+tatann62110 : met la petite blind. 10
+martinonux : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 4d]
+psychoman59 : passe. 
+tatann62110 : passe. 
+Personne n'a suivi. (10) sont retournés à martinonux.
+martinonux a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : tatann62110 (petite blind) s'est couché. avant Flop
+Siège 3 : martinonux (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237512189810 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 15:31:30 CET [22/07/2022 9:31:30 ET]
+Table '3445046018 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: tatann62110 (290 en jetons) 
+Place 3: martinonux (310 en jetons) 
+martinonux : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 7s]
+tatann62110 : passe. 
+martinonux : relance. 40 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à martinonux.
+martinonux a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : tatann62110 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : martinonux (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°237512192289 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 15:31:40 CET [22/07/2022 9:31:40 ET]
+Table '3445046018 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: tatann62110 (290 en jetons) 
+Place 3: martinonux (330 en jetons) 
+psychoman59 : met la petite blind. 10
+tatann62110 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 7d]
+martinonux : suit. 20
+psychoman59 : passe. 
+tatann62110 : parole 
+*** FLOP *** [2d 6s 7h]
+tatann62110 : mise. 20
+martinonux : relance. 60 à 80
+tatann62110 : relance. 190 à 270 et est all-in.
+martinonux : suit. 190
+*** TOURNANT *** [2d 6s 7h] [Ah]
+*** RIVIÈRE *** [2d 6s 7h Ah] [5d]
+*** ABATTAGE ***
+tatann62110 : montre [9c 6c] (une paire de Six)
+martinonux : montre [5h 3h] (une paire de Cinq)
+tatann62110 a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [2d 6s 7h Ah 5d]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : tatann62110 (grosse blind) a montré [9c 6c] et a gagné (590) avec une paire de Six
+Siège 3 : martinonux (bouton) a montré [5h 3h] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°237512200189 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 15:32:15 CET [22/07/2022 9:32:15 ET]
+Table '3445046018 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: tatann62110 (590 en jetons) 
+Place 3: martinonux (40 en jetons) 
+tatann62110 : met la petite blind. 10
+martinonux : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 3d]
+psychoman59 : relance. 20 à 40
+tatann62110 : passe. 
+martinonux : suit. 20 et est all-in.
+*** FLOP *** [7h 6s 4c]
+*** TOURNANT *** [7h 6s 4c] [Td]
+*** RIVIÈRE *** [7h 6s 4c Td] [8h]
+*** ABATTAGE ***
+martinonux : montre [8d 5s] (une suite, Quatre à Huit)
+psychoman59 : montre [As 3d] (Hauteur As)
+martinonux a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [7h 6s 4c Td 8h]
+Siège 1 : psychoman59 (bouton) a montré [As 3d] et a perdu avec Hauteur As
+Siège 2 : tatann62110 (petite blind) s'est couché. avant Flop
+Siège 3 : martinonux (grosse blind) a montré [8d 5s] et a gagné (90) avec une suite, Quatre à Huit
+
+
+
+Main PokerStars n°237512204578 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/07/2022 15:32:33 CET [22/07/2022 9:32:33 ET]
+Table '3445046018 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (230 en jetons) 
+Place 2: tatann62110 (580 en jetons) 
+Place 3: martinonux (90 en jetons) 
+martinonux : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 8h]
+tatann62110 : suit. 30
+martinonux : passe. 
+psychoman59 : parole 
+*** FLOP *** [8d 3h 9c]
+psychoman59 : parole 
+tatann62110 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [8d 3h 9c] [2h]
+psychoman59 : parole 
+tatann62110 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [8d 3h 9c 2h] [Qc]
+psychoman59 : parole 
+tatann62110 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Jh 8h] (une paire de Huit)
+tatann62110 : montre [9s Td] (une paire de Neuf)
+tatann62110 a remporté 195  lors du pot .
+*** SYNTHÈSE ***
+Pot total 195 | Commission 0 
+Tableau [8d 3h 9c 2h Qc]
+Siège 1 : psychoman59 (grosse blind) a montré [Jh 8h] et a perdu avec une paire de Huit
+Siège 2 : tatann62110 (bouton) a montré [9s Td] et a gagné (195) avec une paire de Neuf
+Siège 3 : martinonux (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237512210064 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/07/2022 15:32:57 CET [22/07/2022 9:32:57 ET]
+Table '3445046018 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (140 en jetons) 
+Place 2: tatann62110 (685 en jetons) 
+Place 3: martinonux (75 en jetons) 
+psychoman59 : met la petite blind. 15
+tatann62110 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 7d]
+martinonux : relance. 45 à 75 et est all-in.
+psychoman59 : passe. 
+tatann62110 : passe. 
+Personne n'a suivi. (45) sont retournés à martinonux.
+martinonux a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : tatann62110 (grosse blind) s'est couché. avant Flop
+Siège 3 : martinonux (bouton) a remporté (75)
+
+
+
+Main PokerStars n°237512211784 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/07/2022 15:33:05 CET [22/07/2022 9:33:05 ET]
+Table '3445046018 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (125 en jetons) 
+Place 2: tatann62110 (655 en jetons) 
+Place 3: martinonux (120 en jetons) 
+tatann62110 : met la petite blind. 15
+martinonux : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Qs]
+psychoman59 : relance. 95 à 125 et est all-in.
+tatann62110 : relance. 95 à 220
+martinonux : passe. 
+Personne n'a suivi. (95) sont retournés à tatann62110.
+*** FLOP *** [3c Jc Qc]
+*** TOURNANT *** [3c Jc Qc] [Ks]
+*** RIVIÈRE *** [3c Jc Qc Ks] [Ac]
+*** ABATTAGE ***
+tatann62110 : montre [Tc Ts] (une couleur, hauteur As)
+psychoman59 : montre [Kc Qs] (une couleur, hauteur As - Roi plus haute)
+psychoman59 a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [3c Jc Qc Ks Ac]
+Siège 1 : psychoman59 (bouton) a montré [Kc Qs] et a gagné (280) avec une couleur, hauteur As
+Siège 2 : tatann62110 (petite blind) a montré [Tc Ts] et a perdu avec une couleur, hauteur As
+Siège 3 : martinonux (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237512215429 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/07/2022 15:33:21 CET [22/07/2022 9:33:21 ET]
+Table '3445046018 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: tatann62110 (530 en jetons) 
+Place 3: martinonux (90 en jetons) 
+martinonux : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 8s]
+tatann62110 : passe. 
+martinonux : relance. 60 à 90 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à martinonux.
+martinonux a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : tatann62110 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : martinonux (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237512217977 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/07/2022 15:33:32 CET [22/07/2022 9:33:32 ET]
+Table '3445046018 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 2: tatann62110 (530 en jetons) 
+Place 3: martinonux (120 en jetons) 
+psychoman59 : met la petite blind. 20
+tatann62110 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 3h]
+martinonux : relance. 80 à 120 et est all-in.
+psychoman59 : passe. 
+tatann62110 : suit. 80
+*** FLOP *** [Qd Qh As]
+*** TOURNANT *** [Qd Qh As] [4d]
+*** RIVIÈRE *** [Qd Qh As 4d] [3s]
+*** ABATTAGE ***
+tatann62110 : montre [5h 5d] (double paire, Dames et Cinq)
+martinonux : montre [Ah 6c] (double paire, As et Dames)
+martinonux a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [Qd Qh As 4d 3s]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : tatann62110 (grosse blind) a montré [5h 5d] et a perdu avec double paire, Dames et Cinq
+Siège 3 : martinonux (bouton) a montré [Ah 6c] et a gagné (260) avec double paire, As et Dames
+
+
+
+Main PokerStars n°237512221184 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/07/2022 15:33:45 CET [22/07/2022 9:33:45 ET]
+Table '3445046018 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (230 en jetons) 
+Place 2: tatann62110 (410 en jetons) 
+Place 3: martinonux (260 en jetons) 
+tatann62110 : met la petite blind. 20
+martinonux : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 8s]
+psychoman59 : passe. 
+tatann62110 : relance. 370 à 410 et est all-in.
+martinonux : passe. 
+Personne n'a suivi. (370) sont retournés à tatann62110.
+tatann62110 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : tatann62110 (petite blind) a remporté (80)
+Siège 3 : martinonux (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237512223315 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/07/2022 15:33:55 CET [22/07/2022 9:33:55 ET]
+Table '3445046018 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (230 en jetons) 
+Place 2: tatann62110 (450 en jetons) 
+Place 3: martinonux (220 en jetons) 
+martinonux : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Th]
+tatann62110 : passe. 
+martinonux : suit. 20
+psychoman59 : relance. 190 à 230 et est all-in.
+martinonux : passe. 
+Personne n'a suivi. (190) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : tatann62110 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : martinonux (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237512225888 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/07/2022 15:34:06 CET [22/07/2022 9:34:06 ET]
+Table '3445046018 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: tatann62110 (450 en jetons) 
+Place 3: martinonux (180 en jetons) 
+psychoman59 : met la petite blind. 20
+tatann62110 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 7d]
+martinonux : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à tatann62110.
+tatann62110 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : tatann62110 (grosse blind) a remporté (40)
+Siège 3 : martinonux (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237512227072 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/07/2022 15:34:11 CET [22/07/2022 9:34:11 ET]
+Table '3445046018 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 2: tatann62110 (470 en jetons) 
+Place 3: martinonux (180 en jetons) 
+tatann62110 : met la petite blind. 20
+martinonux : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 4c]
+psychoman59 : relance. 40 à 80
+tatann62110 : passe. 
+martinonux : suit. 40
+*** FLOP *** [Ts 3d Js]
+martinonux : mise. 100 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à martinonux.
+martinonux a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Ts 3d Js]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : tatann62110 (petite blind) s'est couché. avant Flop
+Siège 3 : martinonux (grosse blind) a remporté (180)
+
+
+
+Main PokerStars n°237512231914 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/07/2022 15:34:32 CET [22/07/2022 9:34:32 ET]
+Table '3445046018 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (170 en jetons) 
+Place 2: tatann62110 (450 en jetons) 
+Place 3: martinonux (280 en jetons) 
+martinonux : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 3c]
+tatann62110 a dépassé le temps imparti.
+tatann62110 : passe. 
+tatann62110 ne joue pas.
+martinonux : suit. 30
+tatann62110 est revenu.
+psychoman59 : parole 
+*** FLOP *** [4s 5d 4h]
+martinonux : parole 
+psychoman59 : mise. 110 et est all-in.
+martinonux : passe. 
+Personne n'a suivi. (110) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4s 5d 4h]
+Siège 1 : psychoman59 (grosse blind) a remporté (120)
+Siège 2 : tatann62110 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : martinonux (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237512238429 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/07/2022 15:35:00 CET [22/07/2022 9:35:00 ET]
+Table '3445046018 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (230 en jetons) 
+Place 2: tatann62110 (450 en jetons) 
+Place 3: martinonux (220 en jetons) 
+psychoman59 : met la petite blind. 30
+tatann62110 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 6s]
+martinonux : suit. 60
+psychoman59 : relance. 170 à 230 et est all-in.
+tatann62110 : passe. 
+martinonux : passe. 
+Personne n'a suivi. (170) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (180)
+Siège 2 : tatann62110 (grosse blind) s'est couché. avant Flop
+Siège 3 : martinonux (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237512241335 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/07/2022 15:35:13 CET [22/07/2022 9:35:13 ET]
+Table '3445046018 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (350 en jetons) 
+Place 2: tatann62110 (390 en jetons) 
+Place 3: martinonux (160 en jetons) 
+tatann62110 : met la petite blind. 30
+martinonux : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 6s]
+psychoman59 : passe. 
+tatann62110 : passe. 
+Personne n'a suivi. (30) sont retournés à martinonux.
+martinonux a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : tatann62110 (petite blind) s'est couché. avant Flop
+Siège 3 : martinonux (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237512243172 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/07/2022 15:35:20 CET [22/07/2022 9:35:20 ET]
+Table '3445046018 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (350 en jetons) 
+Place 2: tatann62110 (360 en jetons) 
+Place 3: martinonux (190 en jetons) 
+martinonux : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Tc]
+tatann62110 a dépassé le temps imparti.
+tatann62110 : passe. 
+tatann62110 ne joue pas.
+martinonux : suit. 30
+psychoman59 : relance. 290 à 350 et est all-in.
+martinonux : passe. 
+Personne n'a suivi. (290) sont retournés à psychoman59.
+tatann62110 est revenu.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (120)
+Siège 2 : tatann62110 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : martinonux (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237512248478 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 22/07/2022 15:35:43 CET [22/07/2022 9:35:43 ET]
+Table '3445046018 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (410 en jetons) 
+Place 2: tatann62110 (360 en jetons) 
+Place 3: martinonux (130 en jetons) 
+psychoman59 : met la petite blind. 40
+tatann62110 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 9c]
+martinonux : relance. 50 à 130 et est all-in.
+psychoman59 : suit. 90
+tatann62110 : suit. 50
+*** FLOP *** [6d 2d 7h]
+psychoman59 : parole 
+tatann62110 : parole 
+*** TOURNANT *** [6d 2d 7h] [2s]
+psychoman59 : parole 
+tatann62110 : parole 
+*** RIVIÈRE *** [6d 2d 7h 2s] [7c]
+psychoman59 : parole 
+tatann62110 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Kh 9c] (double paire, Sept et Deux)
+tatann62110 : cache la main perdante. 
+martinonux : cache la main perdante. 
+psychoman59 a remporté 390  lors du pot .
+martinonux a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 390 | Commission 0 
+Tableau [6d 2d 7h 2s 7c]
+Siège 1 : psychoman59 (petite blind) a montré [Kh 9c] et a gagné (390) avec double paire, Sept et Deux
+Siège 2 : tatann62110 (grosse blind) a caché la main perdante. [4c 8c]
+Siège 3 : martinonux (bouton) a caché la main perdante. [Qh 8s]
+
+
+
+Main PokerStars n°237512253728 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 22/07/2022 15:36:06 CET [22/07/2022 9:36:06 ET]
+Table '3445046018 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (670 en jetons) 
+Place 2: tatann62110 (230 en jetons) 
+tatann62110 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 8h]
+tatann62110 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [9h Ad 6d]
+psychoman59 : parole 
+tatann62110 : parole 
+*** TOURNANT *** [9h Ad 6d] [9d]
+psychoman59 : parole 
+tatann62110 : parole 
+*** RIVIÈRE *** [9h Ad 6d 9d] [Tc]
+psychoman59 : mise. 160
+tatann62110 : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [9h Ad 6d 9d Tc]
+Siège 1 : psychoman59 (grosse blind) a remporté (160)
+Siège 2 : tatann62110 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237512260187 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 22/07/2022 15:36:34 CET [22/07/2022 9:36:34 ET]
+Table '3445046018 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (750 en jetons) 
+Place 2: tatann62110 (150 en jetons) 
+psychoman59 : met la petite blind. 50
+tatann62110 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Ah]
+psychoman59 : relance. 100 à 200
+tatann62110 : suit. 50 et est all-in.
+Personne n'a suivi. (50) sont retournés à psychoman59.
+*** FLOP *** [7s 2s Td]
+*** TOURNANT *** [7s 2s Td] [5c]
+*** RIVIÈRE *** [7s 2s Td 5c] [9c]
+*** ABATTAGE ***
+tatann62110 : montre [Jc 8d] (une suite, Sept à Valet)
+psychoman59 : montre [4s Ah] (Hauteur As)
+tatann62110 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [7s 2s Td 5c 9c]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [4s Ah] et a perdu avec Hauteur As
+Siège 2 : tatann62110 (grosse blind) a montré [Jc 8d] et a gagné (300) avec une suite, Sept à Valet
+
+
+
+Main PokerStars n°237512263301 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 22/07/2022 15:36:47 CET [22/07/2022 9:36:47 ET]
+Table '3445046018 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: tatann62110 (300 en jetons) 
+tatann62110 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 5d]
+tatann62110 : relance. 200 à 300 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à tatann62110.
+tatann62110 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : tatann62110 (bouton) (petite blind) a remporté (200)
+
+
+
+Main PokerStars n°237512265030 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 22/07/2022 15:36:55 CET [22/07/2022 9:36:55 ET]
+Table '3445046018 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: tatann62110 (400 en jetons) 
+psychoman59 : met la petite blind. 50
+tatann62110 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à tatann62110.
+tatann62110 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : tatann62110 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°237512266050 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 22/07/2022 15:36:59 CET [22/07/2022 9:36:59 ET]
+Table '3445046018 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 2: tatann62110 (450 en jetons) 
+tatann62110 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 2h]
+tatann62110 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (100)
+Siège 2 : tatann62110 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237512267234 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 22/07/2022 15:37:04 CET [22/07/2022 9:37:04 ET]
+Table '3445046018 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: tatann62110 (400 en jetons) 
+psychoman59 : met la petite blind. 50
+tatann62110 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Js]
+psychoman59 : suit. 50
+tatann62110 : parole 
+*** FLOP *** [Jd 4h 8c]
+tatann62110 : parole 
+psychoman59 : mise. 200
+tatann62110 : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Jd 4h 8c]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (200)
+Siège 2 : tatann62110 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237512270860 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 22/07/2022 15:37:20 CET [22/07/2022 9:37:20 ET]
+Table '3445046018 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: tatann62110 (300 en jetons) 
+tatann62110 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 3c]
+tatann62110 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (100)
+Siège 2 : tatann62110 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237512272969 : Tournoi #3445046018, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 22/07/2022 15:37:28 CET [22/07/2022 9:37:28 ET]
+Table '3445046018 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (650 en jetons) 
+Place 2: tatann62110 (250 en jetons) 
+psychoman59 : met la petite blind. 60
+tatann62110 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 4d]
+psychoman59 : relance. 120 à 240
+tatann62110 : relance. 10 à 250 et est all-in.
+psychoman59 : suit. 10
+*** FLOP *** [4c Jd Kd]
+*** TOURNANT *** [4c Jd Kd] [8h]
+*** RIVIÈRE *** [4c Jd Kd 8h] [2s]
+*** ABATTAGE ***
+tatann62110 : montre [Ah Ks] (une paire de Rois)
+psychoman59 : montre [4s 4d] (un brelan de Quatre)
+psychoman59 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [4c Jd Kd 8h 2s]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [4s 4d] et a gagné (500) avec un brelan de Quatre
+Siège 2 : tatann62110 (grosse blind) a montré [Ah Ks] et a perdu avec une paire de Rois
+
+
+

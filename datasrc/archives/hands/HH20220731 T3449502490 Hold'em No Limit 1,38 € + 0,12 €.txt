@@ -1,0 +1,1956 @@
+﻿Main PokerStars n°237705814828 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 31/07/2022 20:38:45 CET [31/07/2022 14:38:45 ET]
+Table '3449502490 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 2: leveinard666 (5000 en jetons) 
+Place 3: trespasom (5000 en jetons) 
+Place 4: carlitros5 (5000 en jetons) 
+psychoman59 : met l'ante. 10
+leveinard666 : met l'ante. 10
+trespasom : met l'ante. 10
+carlitros5 : met l'ante. 10
+leveinard666 : met la petite blind. 50
+trespasom : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 9d]
+carlitros5 : passe. 
+psychoman59 : suit. 100
+leveinard666 : passe. 
+trespasom : relance. 290 à 390
+psychoman59 : passe. 
+Personne n'a suivi. (290) sont retournés à trespasom.
+trespasom a remporté 290  lors du pot .
+trespasom : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : leveinard666 (petite blind) s'est couché. avant Flop
+Siège 3 : trespasom (grosse blind) a remporté (290)
+Siège 4 : carlitros5 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237705824220 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 31/07/2022 20:39:07 CET [31/07/2022 14:39:07 ET]
+Table '3449502490 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4890 en jetons) 
+Place 2: leveinard666 (4940 en jetons) 
+Place 3: trespasom (5180 en jetons) 
+Place 4: carlitros5 (4990 en jetons) 
+psychoman59 : met l'ante. 10
+leveinard666 : met l'ante. 10
+trespasom : met l'ante. 10
+carlitros5 : met l'ante. 10
+trespasom : met la petite blind. 50
+carlitros5 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Jd]
+psychoman59 : suit. 100
+leveinard666 : suit. 100
+trespasom : suit. 50
+carlitros5 : parole 
+*** FLOP *** [5d Qd 4s]
+trespasom : parole 
+carlitros5 : parole 
+psychoman59 : parole 
+leveinard666 : mise. 220
+trespasom : suit. 220
+carlitros5 : suit. 220
+psychoman59 : passe. 
+*** TOURNANT *** [5d Qd 4s] [3d]
+trespasom : parole 
+carlitros5 : parole 
+leveinard666 : parole 
+*** RIVIÈRE *** [5d Qd 4s 3d] [3h]
+trespasom : parole 
+carlitros5 : mise. 726
+leveinard666 : passe. 
+trespasom : passe. 
+Personne n'a suivi. (726) sont retournés à carlitros5.
+carlitros5 a remporté 1100  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1100 | Commission 0 
+Tableau [5d Qd 4s 3d 3h]
+Siège 1 : psychoman59 s'est couché. sur le Flop
+Siège 2 : leveinard666 (bouton) s'est couché. sur le Rivière
+Siège 3 : trespasom (petite blind) s'est couché. sur le Rivière
+Siège 4 : carlitros5 (grosse blind) a remporté (1100)
+
+
+
+Main PokerStars n°237705849446 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 31/07/2022 20:40:04 CET [31/07/2022 14:40:04 ET]
+Table '3449502490 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4780 en jetons) 
+Place 2: leveinard666 (4610 en jetons) 
+Place 3: trespasom (4850 en jetons) 
+Place 4: carlitros5 (5760 en jetons) 
+psychoman59 : met l'ante. 10
+leveinard666 : met l'ante. 10
+trespasom : met l'ante. 10
+carlitros5 : met l'ante. 10
+carlitros5 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Ah]
+leveinard666 : relance. 200 à 300
+trespasom : suit. 300
+carlitros5 : passe. 
+psychoman59 : suit. 200
+*** FLOP *** [Jc 9h 5d]
+psychoman59 : parole 
+leveinard666 : mise. 495
+trespasom : suit. 495
+psychoman59 : passe. 
+*** TOURNANT *** [Jc 9h 5d] [5h]
+leveinard666 : parole 
+trespasom : parole 
+*** RIVIÈRE *** [Jc 9h 5d 5h] [7c]
+leveinard666 : parole 
+trespasom : parole 
+*** ABATTAGE ***
+leveinard666 : montre [9d Ad] (double paire, Neuf et Cinq)
+trespasom : cache la main perdante. 
+leveinard666 a remporté 1980  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1980 | Commission 0 
+Tableau [Jc 9h 5d 5h 7c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : leveinard666 a montré [9d Ad] et a gagné (1980) avec double paire, Neuf et Cinq
+Siège 3 : trespasom (bouton) a caché la main perdante. [9s Ks]
+Siège 4 : carlitros5 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237705864549 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 31/07/2022 20:40:39 CET [31/07/2022 14:40:39 ET]
+Table '3449502490 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4470 en jetons) 
+Place 2: leveinard666 (5785 en jetons) 
+Place 3: trespasom (4045 en jetons) 
+Place 4: carlitros5 (5700 en jetons) 
+psychoman59 : met l'ante. 10
+leveinard666 : met l'ante. 10
+trespasom : met l'ante. 10
+carlitros5 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+leveinard666 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 5h]
+trespasom : suit. 100
+carlitros5 : passe. 
+psychoman59 : passe. 
+leveinard666 : parole 
+*** FLOP *** [6h 7c 4c]
+leveinard666 : parole 
+trespasom : parole 
+*** TOURNANT *** [6h 7c 4c] [Kd]
+leveinard666 : mise. 145
+trespasom : suit. 145
+*** RIVIÈRE *** [6h 7c 4c Kd] [As]
+leveinard666 : mise. 290
+trespasom : passe. 
+Personne n'a suivi. (290) sont retournés à leveinard666.
+leveinard666 a remporté 580  lors du pot .
+leveinard666 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [6h 7c 4c Kd As]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : leveinard666 (grosse blind) a remporté (580)
+Siège 3 : trespasom s'est couché. sur le Rivière
+Siège 4 : carlitros5 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237705875178 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 31/07/2022 20:41:03 CET [31/07/2022 14:41:03 ET]
+Table '3449502490 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4410 en jetons) 
+Place 2: leveinard666 (6110 en jetons) 
+Place 3: trespasom (3790 en jetons) 
+Place 4: carlitros5 (5690 en jetons) 
+psychoman59 : met l'ante. 10
+leveinard666 : met l'ante. 10
+trespasom : met l'ante. 10
+carlitros5 : met l'ante. 10
+leveinard666 : met la petite blind. 50
+trespasom : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Jd]
+carlitros5 : passe. 
+psychoman59 : relance. 290 à 390
+leveinard666 : passe. 
+trespasom : passe. 
+Personne n'a suivi. (290) sont retournés à psychoman59.
+psychoman59 a remporté 290  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (290)
+Siège 2 : leveinard666 (petite blind) s'est couché. avant Flop
+Siège 3 : trespasom (grosse blind) s'est couché. avant Flop
+Siège 4 : carlitros5 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237705881293 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 31/07/2022 20:41:17 CET [31/07/2022 14:41:17 ET]
+Table '3449502490 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4590 en jetons) 
+Place 2: leveinard666 (6050 en jetons) 
+Place 3: trespasom (3680 en jetons) 
+Place 4: carlitros5 (5680 en jetons) 
+psychoman59 : met l'ante. 10
+leveinard666 : met l'ante. 10
+trespasom : met l'ante. 10
+carlitros5 : met l'ante. 10
+trespasom : met la petite blind. 50
+carlitros5 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 7c]
+psychoman59 : passe. 
+leveinard666 : passe. 
+trespasom : suit. 50
+carlitros5 : relance. 200 à 300
+trespasom : suit. 200
+*** FLOP *** [3c 5s 4h]
+trespasom : parole 
+carlitros5 : parole 
+*** TOURNANT *** [3c 5s 4h] [8s]
+trespasom : mise. 3370 et est all-in.
+carlitros5 : passe. 
+Personne n'a suivi. (3370) sont retournés à trespasom.
+trespasom a remporté 640  lors du pot .
+trespasom : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [3c 5s 4h 8s]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : leveinard666 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : trespasom (petite blind) a remporté (640)
+Siège 4 : carlitros5 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237705893365 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 31/07/2022 20:41:44 CET [31/07/2022 14:41:44 ET]
+Table '3449502490 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4580 en jetons) 
+Place 2: leveinard666 (6040 en jetons) 
+Place 3: trespasom (4010 en jetons) 
+Place 4: carlitros5 (5370 en jetons) 
+psychoman59 : met l'ante. 10
+leveinard666 : met l'ante. 10
+trespasom : met l'ante. 10
+carlitros5 : met l'ante. 10
+carlitros5 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 8h]
+leveinard666 : passe. 
+trespasom : passe. 
+carlitros5 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [5c 6h Th]
+carlitros5 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5c 6h Th] [9h]
+carlitros5 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5c 6h Th 9h] [3s]
+carlitros5 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+carlitros5 : montre [8s As] (Hauteur As)
+psychoman59 : cache la main perdante. 
+carlitros5 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [5c 6h Th 9h 3s]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [4s 8h]
+Siège 2 : leveinard666 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : trespasom (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : carlitros5 (petite blind) a montré [8s As] et a gagné (240) avec Hauteur As
+
+
+
+Main PokerStars n°237705907302 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 31/07/2022 20:42:16 CET [31/07/2022 14:42:16 ET]
+Table '3449502490 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4470 en jetons) 
+Place 2: leveinard666 (6030 en jetons) 
+Place 3: trespasom (4000 en jetons) 
+Place 4: carlitros5 (5500 en jetons) 
+psychoman59 : met l'ante. 15
+leveinard666 : met l'ante. 15
+trespasom : met l'ante. 15
+carlitros5 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+leveinard666 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 9c]
+trespasom : passe. 
+carlitros5 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à leveinard666.
+leveinard666 a remporté 180  lors du pot .
+leveinard666 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : leveinard666 (grosse blind) a remporté (180)
+Siège 3 : trespasom s'est couché. avant Flop (n'a pas misé)
+Siège 4 : carlitros5 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237705911207 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 31/07/2022 20:42:24 CET [31/07/2022 14:42:24 ET]
+Table '3449502490 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4395 en jetons) 
+Place 2: leveinard666 (6135 en jetons) 
+Place 3: trespasom (3985 en jetons) 
+Place 4: carlitros5 (5485 en jetons) 
+psychoman59 : met l'ante. 15
+leveinard666 : met l'ante. 15
+trespasom : met l'ante. 15
+carlitros5 : met l'ante. 15
+leveinard666 : met la petite blind. 60
+trespasom : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Th]
+carlitros5 : suit. 120
+psychoman59 : passe. 
+leveinard666 : suit. 60
+trespasom : parole 
+*** FLOP *** [Ks Qd 9d]
+leveinard666 : parole 
+trespasom : mise. 120
+carlitros5 : passe. 
+leveinard666 : suit. 120
+*** TOURNANT *** [Ks Qd 9d] [4h]
+leveinard666 : parole 
+trespasom : mise. 120
+leveinard666 : suit. 120
+*** RIVIÈRE *** [Ks Qd 9d 4h] [Ah]
+leveinard666 : parole 
+trespasom : parole 
+*** ABATTAGE ***
+leveinard666 : montre [9s Js] (une paire de Neuf)
+trespasom : montre [7c Kh] (une paire de Rois)
+trespasom a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [Ks Qd 9d 4h Ah]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : leveinard666 (petite blind) a montré [9s Js] et a perdu avec une paire de Neuf
+Siège 3 : trespasom (grosse blind) a montré [7c Kh] et a gagné (900) avec une paire de Rois
+Siège 4 : carlitros5 s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237705940627 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 31/07/2022 20:42:57 CET [31/07/2022 14:42:57 ET]
+Table '3449502490 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4380 en jetons) 
+Place 2: leveinard666 (5760 en jetons) 
+Place 3: trespasom (4510 en jetons) 
+Place 4: carlitros5 (5350 en jetons) 
+psychoman59 : met l'ante. 15
+leveinard666 : met l'ante. 15
+trespasom : met l'ante. 15
+carlitros5 : met l'ante. 15
+trespasom : met la petite blind. 60
+carlitros5 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 4s]
+psychoman59 : relance. 360 à 480
+leveinard666 : passe. 
+trespasom : passe. 
+carlitros5 : suit. 360
+*** FLOP *** [Qd 4d 8c]
+carlitros5 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qd 4d 8c] [6d]
+carlitros5 : parole 
+psychoman59 : mise. 540
+carlitros5 : suit. 540
+*** RIVIÈRE *** [Qd 4d 8c 6d] [2d]
+carlitros5 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+carlitros5 : montre [Ac Td] (une couleur, hauteur Dame)
+psychoman59 : cache la main perdante. 
+carlitros5 a remporté 2160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2160 | Commission 0 
+Tableau [Qd 4d 8c 6d 2d]
+Siège 1 : psychoman59 a caché la main perdante. [4c 4s]
+Siège 2 : leveinard666 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : trespasom (petite blind) s'est couché. avant Flop
+Siège 4 : carlitros5 (grosse blind) a montré [Ac Td] et a gagné (2160) avec une couleur, hauteur Dame
+
+
+
+Main PokerStars n°237705959945 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 31/07/2022 20:43:41 CET [31/07/2022 14:43:41 ET]
+Table '3449502490 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (3345 en jetons) 
+Place 2: leveinard666 (5745 en jetons) 
+Place 3: trespasom (4435 en jetons) 
+Place 4: carlitros5 (6475 en jetons) 
+psychoman59 : met l'ante. 15
+leveinard666 : met l'ante. 15
+trespasom : met l'ante. 15
+carlitros5 : met l'ante. 15
+carlitros5 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 6s]
+leveinard666 : passe. 
+trespasom : suit. 120
+carlitros5 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [Qh Qd Kd]
+carlitros5 : parole 
+psychoman59 : parole 
+trespasom : mise. 120
+carlitros5 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à trespasom.
+trespasom a remporté 420  lors du pot .
+trespasom : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [Qh Qd Kd]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : leveinard666 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : trespasom (bouton) a remporté (420)
+Siège 4 : carlitros5 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237705981789 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 31/07/2022 20:44:09 CET [31/07/2022 14:44:09 ET]
+Table '3449502490 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (3210 en jetons) 
+Place 2: leveinard666 (5730 en jetons) 
+Place 3: trespasom (4720 en jetons) 
+Place 4: carlitros5 (6340 en jetons) 
+psychoman59 : met l'ante. 15
+leveinard666 : met l'ante. 15
+trespasom : met l'ante. 15
+carlitros5 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+leveinard666 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 5s]
+trespasom : suit. 120
+carlitros5 : passe. 
+psychoman59 : passe. 
+leveinard666 : parole 
+*** FLOP *** [8c Ad 7d]
+leveinard666 : parole 
+trespasom : parole 
+*** TOURNANT *** [8c Ad 7d] [Qs]
+leveinard666 : parole 
+trespasom : mise. 240
+leveinard666 : passe. 
+Personne n'a suivi. (240) sont retournés à trespasom.
+trespasom a remporté 360  lors du pot .
+trespasom : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [8c Ad 7d Qs]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : leveinard666 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : trespasom a remporté (360)
+Siège 4 : carlitros5 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237705992697 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 31/07/2022 20:44:33 CET [31/07/2022 14:44:33 ET]
+Table '3449502490 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (3135 en jetons) 
+Place 2: leveinard666 (5595 en jetons) 
+Place 3: trespasom (4945 en jetons) 
+Place 4: carlitros5 (6325 en jetons) 
+psychoman59 : met l'ante. 15
+leveinard666 : met l'ante. 15
+trespasom : met l'ante. 15
+carlitros5 : met l'ante. 15
+leveinard666 : met la petite blind. 60
+trespasom : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ks]
+carlitros5 : suit. 120
+psychoman59 : passe. 
+leveinard666 : suit. 60
+trespasom : parole 
+*** FLOP *** [8d 9c 8s]
+leveinard666 : parole 
+trespasom : mise. 240
+carlitros5 : suit. 240
+leveinard666 : passe. 
+*** TOURNANT *** [8d 9c 8s] [Qh]
+trespasom : mise. 120
+carlitros5 : suit. 120
+*** RIVIÈRE *** [8d 9c 8s Qh] [7c]
+trespasom : mise. 120
+carlitros5 : suit. 120
+*** ABATTAGE ***
+trespasom : montre [As 9h] (double paire, Neuf et Huit)
+carlitros5 : cache la main perdante. 
+trespasom a remporté 1380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1380 | Commission 0 
+Tableau [8d 9c 8s Qh 7c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : leveinard666 (petite blind) s'est couché. sur le Flop
+Siège 3 : trespasom (grosse blind) a montré [As 9h] et a gagné (1380) avec double paire, Neuf et Huit
+Siège 4 : carlitros5 a caché la main perdante. [Kc Th]
+
+
+
+Main PokerStars n°237706011869 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 31/07/2022 20:45:16 CET [31/07/2022 14:45:16 ET]
+Table '3449502490 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (3120 en jetons) 
+Place 2: leveinard666 (5460 en jetons) 
+Place 3: trespasom (5710 en jetons) 
+Place 4: carlitros5 (5710 en jetons) 
+psychoman59 : met l'ante. 20
+leveinard666 : met l'ante. 20
+trespasom : met l'ante. 20
+carlitros5 : met l'ante. 20
+trespasom : met la petite blind. 75
+carlitros5 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 4h]
+psychoman59 : passe. 
+leveinard666 : passe. 
+trespasom : suit. 75
+carlitros5 : parole 
+*** FLOP *** [7h Js 2s]
+trespasom : parole 
+carlitros5 : parole 
+*** TOURNANT *** [7h Js 2s] [6d]
+trespasom : parole 
+carlitros5 : parole 
+*** RIVIÈRE *** [7h Js 2s 6d] [5h]
+trespasom : parole 
+carlitros5 : parole 
+*** ABATTAGE ***
+trespasom : montre [Qc 2d] (une paire de Deux)
+carlitros5 : cache la main perdante. 
+trespasom a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [7h Js 2s 6d 5h]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : leveinard666 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : trespasom (petite blind) a montré [Qc 2d] et a gagné (380) avec une paire de Deux
+Siège 4 : carlitros5 (grosse blind) a caché la main perdante. [9c 4s]
+
+
+
+Main PokerStars n°237706025388 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 31/07/2022 20:45:47 CET [31/07/2022 14:45:47 ET]
+Table '3449502490 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (3100 en jetons) 
+Place 2: leveinard666 (5440 en jetons) 
+Place 3: trespasom (5920 en jetons) 
+Place 4: carlitros5 (5540 en jetons) 
+psychoman59 : met l'ante. 20
+leveinard666 : met l'ante. 20
+trespasom : met l'ante. 20
+carlitros5 : met l'ante. 20
+carlitros5 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Jd]
+leveinard666 : passe. 
+trespasom : passe. 
+carlitros5 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [Qh 8d 4h]
+carlitros5 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qh 8d 4h] [6h]
+carlitros5 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qh 8d 4h 6h] [7s]
+carlitros5 : mise. 150
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à carlitros5.
+carlitros5 a remporté 380  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [Qh 8d 4h 6h 7s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : leveinard666 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : trespasom (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : carlitros5 (petite blind) a remporté (380)
+
+
+
+Main PokerStars n°237706038539 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 31/07/2022 20:46:16 CET [31/07/2022 14:46:16 ET]
+Table '3449502490 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (2930 en jetons) 
+Place 2: leveinard666 (5420 en jetons) 
+Place 3: trespasom (5900 en jetons) 
+Place 4: carlitros5 (5750 en jetons) 
+psychoman59 : met l'ante. 20
+leveinard666 : met l'ante. 20
+trespasom : met l'ante. 20
+carlitros5 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+leveinard666 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 5d]
+trespasom : passe. 
+carlitros5 : passe. 
+psychoman59 : suit. 75
+leveinard666 : parole 
+*** FLOP *** [Ac 2s 4h]
+psychoman59 : parole 
+leveinard666 : parole 
+*** TOURNANT *** [Ac 2s 4h] [9d]
+psychoman59 : parole 
+leveinard666 : parole 
+*** RIVIÈRE *** [Ac 2s 4h 9d] [3h]
+psychoman59 : mise. 150
+leveinard666 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 380  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [Ac 2s 4h 9d 3h]
+Siège 1 : psychoman59 (petite blind) a remporté (380)
+Siège 2 : leveinard666 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : trespasom s'est couché. avant Flop (n'a pas misé)
+Siège 4 : carlitros5 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237706052734 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 31/07/2022 20:46:47 CET [31/07/2022 14:46:47 ET]
+Table '3449502490 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (3140 en jetons) 
+Place 2: leveinard666 (5250 en jetons) 
+Place 3: trespasom (5880 en jetons) 
+Place 4: carlitros5 (5730 en jetons) 
+psychoman59 : met l'ante. 20
+leveinard666 : met l'ante. 20
+trespasom : met l'ante. 20
+carlitros5 : met l'ante. 20
+leveinard666 : met la petite blind. 75
+trespasom : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Qd]
+carlitros5 : passe. 
+psychoman59 : relance. 455 à 605
+leveinard666 : passe. 
+trespasom : passe. 
+Personne n'a suivi. (455) sont retournés à psychoman59.
+psychoman59 a remporté 455  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 455 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (455)
+Siège 2 : leveinard666 (petite blind) s'est couché. avant Flop
+Siège 3 : trespasom (grosse blind) s'est couché. avant Flop
+Siège 4 : carlitros5 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237706059372 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 31/07/2022 20:47:02 CET [31/07/2022 14:47:02 ET]
+Table '3449502490 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (3425 en jetons) 
+Place 2: leveinard666 (5155 en jetons) 
+Place 3: trespasom (5710 en jetons) 
+Place 4: carlitros5 (5710 en jetons) 
+psychoman59 : met l'ante. 20
+leveinard666 : met l'ante. 20
+trespasom : met l'ante. 20
+carlitros5 : met l'ante. 20
+trespasom : met la petite blind. 75
+carlitros5 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Td]
+psychoman59 : relance. 150 à 300
+leveinard666 : suit. 300
+trespasom : suit. 225
+carlitros5 : suit. 150
+*** FLOP *** [8c Js 7d]
+trespasom : parole 
+carlitros5 : mise. 845
+psychoman59 : passe. 
+leveinard666 : passe. 
+trespasom : passe. 
+Personne n'a suivi. (845) sont retournés à carlitros5.
+carlitros5 a remporté 1280  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1280 | Commission 0 
+Tableau [8c Js 7d]
+Siège 1 : psychoman59 s'est couché. sur le Flop
+Siège 2 : leveinard666 (bouton) s'est couché. sur le Flop
+Siège 3 : trespasom (petite blind) s'est couché. sur le Flop
+Siège 4 : carlitros5 (grosse blind) a remporté (1280)
+
+
+
+Main PokerStars n°237706073036 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 31/07/2022 20:47:33 CET [31/07/2022 14:47:33 ET]
+Table '3449502490 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (3105 en jetons) 
+Place 2: leveinard666 (4835 en jetons) 
+Place 3: trespasom (5390 en jetons) 
+Place 4: carlitros5 (6670 en jetons) 
+psychoman59 : met l'ante. 20
+leveinard666 : met l'ante. 20
+trespasom : met l'ante. 20
+carlitros5 : met l'ante. 20
+carlitros5 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Th]
+leveinard666 : relance. 300 à 450
+trespasom : suit. 450
+carlitros5 : suit. 375
+psychoman59 : relance. 2635 à 3085 et est all-in.
+leveinard666 : passe. 
+trespasom : passe. 
+carlitros5 : passe. 
+Personne n'a suivi. (2635) sont retournés à psychoman59.
+psychoman59 a remporté 1880  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1880 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (1880)
+Siège 2 : leveinard666 s'est couché. avant Flop
+Siège 3 : trespasom (bouton) s'est couché. avant Flop
+Siège 4 : carlitros5 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237706083152 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 31/07/2022 20:47:56 CET [31/07/2022 14:47:56 ET]
+Table '3449502490 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4515 en jetons) 
+Place 2: leveinard666 (4365 en jetons) 
+Place 3: trespasom (4920 en jetons) 
+Place 4: carlitros5 (6200 en jetons) 
+psychoman59 : met l'ante. 25
+leveinard666 : met l'ante. 25
+trespasom : met l'ante. 25
+carlitros5 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+leveinard666 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8d]
+trespasom : passe. 
+carlitros5 : relance. 300 à 500
+psychoman59 : passe. 
+leveinard666 : passe. 
+Personne n'a suivi. (300) sont retournés à carlitros5.
+carlitros5 a remporté 600  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : leveinard666 (grosse blind) s'est couché. avant Flop
+Siège 3 : trespasom s'est couché. avant Flop (n'a pas misé)
+Siège 4 : carlitros5 (bouton) a remporté (600)
+
+
+
+Main PokerStars n°237706089201 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 31/07/2022 20:48:09 CET [31/07/2022 14:48:09 ET]
+Table '3449502490 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4390 en jetons) 
+Place 2: leveinard666 (4140 en jetons) 
+Place 3: trespasom (4895 en jetons) 
+Place 4: carlitros5 (6575 en jetons) 
+psychoman59 : met l'ante. 25
+leveinard666 : met l'ante. 25
+trespasom : met l'ante. 25
+carlitros5 : met l'ante. 25
+leveinard666 : met la petite blind. 100
+trespasom : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 5d]
+carlitros5 : relance. 200 à 400
+psychoman59 : passe. 
+leveinard666 : suit. 300
+trespasom : suit. 200
+*** FLOP *** [Ks Kh Ts]
+leveinard666 : parole 
+trespasom : parole 
+carlitros5 : mise. 858
+leveinard666 : passe. 
+trespasom : passe. 
+Personne n'a suivi. (858) sont retournés à carlitros5.
+carlitros5 a remporté 1300  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1300 | Commission 0 
+Tableau [Ks Kh Ts]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : leveinard666 (petite blind) s'est couché. sur le Flop
+Siège 3 : trespasom (grosse blind) s'est couché. sur le Flop
+Siège 4 : carlitros5 a remporté (1300)
+
+
+
+Main PokerStars n°237706099333 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 31/07/2022 20:48:32 CET [31/07/2022 14:48:32 ET]
+Table '3449502490 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4365 en jetons) 
+Place 2: leveinard666 (3715 en jetons) 
+Place 3: trespasom (4470 en jetons) 
+Place 4: carlitros5 (7450 en jetons) 
+psychoman59 : met l'ante. 25
+leveinard666 : met l'ante. 25
+trespasom : met l'ante. 25
+carlitros5 : met l'ante. 25
+trespasom : met la petite blind. 100
+carlitros5 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 9d]
+psychoman59 : passe. 
+leveinard666 : passe. 
+trespasom : relance. 500 à 700
+carlitros5 : suit. 500
+*** FLOP *** [Kh Th 2h]
+trespasom : mise. 3745 et est all-in.
+carlitros5 : passe. 
+Personne n'a suivi. (3745) sont retournés à trespasom.
+trespasom a remporté 1500  lors du pot .
+trespasom : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1500 | Commission 0 
+Tableau [Kh Th 2h]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : leveinard666 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : trespasom (petite blind) a remporté (1500)
+Siège 4 : carlitros5 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237706112489 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 31/07/2022 20:49:01 CET [31/07/2022 14:49:01 ET]
+Table '3449502490 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4340 en jetons) 
+Place 2: leveinard666 (3690 en jetons) 
+Place 3: trespasom (5245 en jetons) 
+Place 4: carlitros5 (6725 en jetons) 
+psychoman59 : met l'ante. 25
+leveinard666 : met l'ante. 25
+trespasom : met l'ante. 25
+carlitros5 : met l'ante. 25
+carlitros5 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Kc]
+leveinard666 : relance. 400 à 600
+trespasom : passe. 
+carlitros5 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à leveinard666.
+leveinard666 a remporté 600  lors du pot .
+leveinard666 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : leveinard666 a remporté (600)
+Siège 3 : trespasom (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : carlitros5 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237706120267 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 31/07/2022 20:49:19 CET [31/07/2022 14:49:19 ET]
+Table '3449502490 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4115 en jetons) 
+Place 2: leveinard666 (4065 en jetons) 
+Place 3: trespasom (5220 en jetons) 
+Place 4: carlitros5 (6600 en jetons) 
+psychoman59 : met l'ante. 25
+leveinard666 : met l'ante. 25
+trespasom : met l'ante. 25
+carlitros5 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+leveinard666 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 6h]
+trespasom : passe. 
+carlitros5 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à leveinard666.
+leveinard666 a remporté 300  lors du pot .
+leveinard666 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : leveinard666 (grosse blind) a remporté (300)
+Siège 3 : trespasom s'est couché. avant Flop (n'a pas misé)
+Siège 4 : carlitros5 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237706125041 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 31/07/2022 20:49:29 CET [31/07/2022 14:49:29 ET]
+Table '3449502490 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (3990 en jetons) 
+Place 2: leveinard666 (4240 en jetons) 
+Place 3: trespasom (5195 en jetons) 
+Place 4: carlitros5 (6575 en jetons) 
+psychoman59 : met l'ante. 25
+leveinard666 : met l'ante. 25
+trespasom : met l'ante. 25
+carlitros5 : met l'ante. 25
+leveinard666 : met la petite blind. 100
+trespasom : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 2c]
+carlitros5 : passe. 
+psychoman59 : passe. 
+leveinard666 : relance. 200 à 400
+trespasom : suit. 200
+*** FLOP *** [4h 9h Kd]
+leveinard666 : mise. 450
+trespasom : suit. 450
+*** TOURNANT *** [4h 9h Kd] [3s]
+leveinard666 : mise. 900
+trespasom : passe. 
+Personne n'a suivi. (900) sont retournés à leveinard666.
+leveinard666 a remporté 1800  lors du pot .
+leveinard666 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1800 | Commission 0 
+Tableau [4h 9h Kd 3s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : leveinard666 (petite blind) a remporté (1800)
+Siège 3 : trespasom (grosse blind) s'est couché. sur le Tournant
+Siège 4 : carlitros5 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237706138583 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 31/07/2022 20:50:00 CET [31/07/2022 14:50:00 ET]
+Table '3449502490 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (3965 en jetons) 
+Place 2: leveinard666 (5165 en jetons) 
+Place 3: trespasom (4320 en jetons) 
+Place 4: carlitros5 (6550 en jetons) 
+psychoman59 : met l'ante. 25
+leveinard666 : met l'ante. 25
+trespasom : met l'ante. 25
+carlitros5 : met l'ante. 25
+trespasom : met la petite blind. 100
+carlitros5 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 5d]
+psychoman59 : relance. 200 à 400
+leveinard666 : passe. 
+trespasom : suit. 300
+carlitros5 : suit. 200
+*** FLOP *** [2h 9d 6d]
+trespasom : parole 
+carlitros5 : parole 
+psychoman59 : mise. 650
+trespasom : passe. 
+carlitros5 : passe. 
+Personne n'a suivi. (650) sont retournés à psychoman59.
+psychoman59 a remporté 1300  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1300 | Commission 0 
+Tableau [2h 9d 6d]
+Siège 1 : psychoman59 a remporté (1300)
+Siège 2 : leveinard666 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : trespasom (petite blind) s'est couché. sur le Flop
+Siège 4 : carlitros5 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237706151820 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 31/07/2022 20:50:30 CET [31/07/2022 14:50:30 ET]
+Table '3449502490 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4840 en jetons) 
+Place 2: leveinard666 (5140 en jetons) 
+Place 3: trespasom (3895 en jetons) 
+Place 4: carlitros5 (6125 en jetons) 
+psychoman59 : met l'ante. 25
+leveinard666 : met l'ante. 25
+trespasom : met l'ante. 25
+carlitros5 : met l'ante. 25
+carlitros5 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 4d]
+leveinard666 : relance. 400 à 600
+trespasom : passe. 
+carlitros5 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à leveinard666.
+leveinard666 a remporté 600  lors du pot .
+leveinard666 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : leveinard666 a remporté (600)
+Siège 3 : trespasom (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : carlitros5 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237706157684 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 31/07/2022 20:50:43 CET [31/07/2022 14:50:43 ET]
+Table '3449502490 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4615 en jetons) 
+Place 2: leveinard666 (5515 en jetons) 
+Place 3: trespasom (3870 en jetons) 
+Place 4: carlitros5 (6000 en jetons) 
+psychoman59 : met l'ante. 25
+leveinard666 : met l'ante. 25
+trespasom : met l'ante. 25
+carlitros5 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+leveinard666 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 3s]
+trespasom : passe. 
+carlitros5 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à leveinard666.
+leveinard666 a remporté 300  lors du pot .
+leveinard666 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : leveinard666 (grosse blind) a remporté (300)
+Siège 3 : trespasom s'est couché. avant Flop (n'a pas misé)
+Siège 4 : carlitros5 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237706162982 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 31/07/2022 20:50:54 CET [31/07/2022 14:50:54 ET]
+Table '3449502490 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4490 en jetons) 
+Place 2: leveinard666 (5690 en jetons) 
+Place 3: trespasom (3845 en jetons) 
+Place 4: carlitros5 (5975 en jetons) 
+psychoman59 : met l'ante. 30
+leveinard666 : met l'ante. 30
+trespasom : met l'ante. 30
+carlitros5 : met l'ante. 30
+leveinard666 : met la petite blind. 125
+trespasom : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Qc]
+carlitros5 : passe. 
+psychoman59 : relance. 250 à 500
+leveinard666 : passe. 
+trespasom : suit. 250
+*** FLOP *** [Kh As Qd]
+trespasom : parole 
+psychoman59 : mise. 622
+trespasom : passe. 
+Personne n'a suivi. (622) sont retournés à psychoman59.
+psychoman59 a remporté 1245  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1245 | Commission 0 
+Tableau [Kh As Qd]
+Siège 1 : psychoman59 (bouton) a remporté (1245)
+Siège 2 : leveinard666 (petite blind) s'est couché. avant Flop
+Siège 3 : trespasom (grosse blind) s'est couché. sur le Flop
+Siège 4 : carlitros5 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237706173450 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 31/07/2022 20:51:18 CET [31/07/2022 14:51:18 ET]
+Table '3449502490 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (5205 en jetons) 
+Place 2: leveinard666 (5535 en jetons) 
+Place 3: trespasom (3315 en jetons) 
+Place 4: carlitros5 (5945 en jetons) 
+psychoman59 : met l'ante. 30
+leveinard666 : met l'ante. 30
+trespasom : met l'ante. 30
+carlitros5 : met l'ante. 30
+trespasom : met la petite blind. 125
+carlitros5 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Qs]
+psychoman59 : passe. 
+leveinard666 : passe. 
+trespasom : suit. 125
+carlitros5 : parole 
+*** FLOP *** [9c 9s Jh]
+trespasom : parole 
+carlitros5 : mise. 250
+trespasom : passe. 
+Personne n'a suivi. (250) sont retournés à carlitros5.
+carlitros5 a remporté 620  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [9c 9s Jh]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : leveinard666 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : trespasom (petite blind) s'est couché. sur le Flop
+Siège 4 : carlitros5 (grosse blind) a remporté (620)
+
+
+
+Main PokerStars n°237706183669 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 31/07/2022 20:51:41 CET [31/07/2022 14:51:41 ET]
+Table '3449502490 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (5175 en jetons) 
+Place 2: leveinard666 (5505 en jetons) 
+Place 3: trespasom (3035 en jetons) 
+Place 4: carlitros5 (6285 en jetons) 
+psychoman59 : met l'ante. 30
+leveinard666 : met l'ante. 30
+trespasom : met l'ante. 30
+carlitros5 : met l'ante. 30
+carlitros5 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 8s]
+leveinard666 : passe. 
+trespasom : passe. 
+carlitros5 : suit. 125
+psychoman59 : parole 
+*** FLOP *** [Qh 2c 9c]
+carlitros5 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qh 2c 9c] [Kd]
+carlitros5 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qh 2c 9c Kd] [7s]
+carlitros5 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+carlitros5 : montre [5d 5s] (une paire de Cinq)
+psychoman59 : montre [7c 8s] (une paire de Sept)
+psychoman59 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Qh 2c 9c Kd 7s]
+Siège 1 : psychoman59 (grosse blind) a montré [7c 8s] et a gagné (620) avec une paire de Sept
+Siège 2 : leveinard666 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : trespasom (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : carlitros5 (petite blind) a montré [5d 5s] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°237706196858 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 31/07/2022 20:52:10 CET [31/07/2022 14:52:10 ET]
+Table '3449502490 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (5515 en jetons) 
+Place 2: leveinard666 (5475 en jetons) 
+Place 3: trespasom (3005 en jetons) 
+Place 4: carlitros5 (6005 en jetons) 
+psychoman59 : met l'ante. 30
+leveinard666 : met l'ante. 30
+trespasom : met l'ante. 30
+carlitros5 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+leveinard666 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 3d]
+trespasom : relance. 2725 à 2975 et est all-in.
+carlitros5 : passe. 
+psychoman59 : passe. 
+leveinard666 : passe. 
+Personne n'a suivi. (2725) sont retournés à trespasom.
+trespasom a remporté 745  lors du pot .
+trespasom : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 745 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : leveinard666 (grosse blind) s'est couché. avant Flop
+Siège 3 : trespasom a remporté (745)
+Siège 4 : carlitros5 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237706201735 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 31/07/2022 20:52:21 CET [31/07/2022 14:52:21 ET]
+Table '3449502490 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5360 en jetons) 
+Place 2: leveinard666 (5195 en jetons) 
+Place 3: trespasom (3470 en jetons) 
+Place 4: carlitros5 (5975 en jetons) 
+psychoman59 : met l'ante. 30
+leveinard666 : met l'ante. 30
+trespasom : met l'ante. 30
+carlitros5 : met l'ante. 30
+leveinard666 : met la petite blind. 125
+trespasom : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8h]
+carlitros5 : passe. 
+psychoman59 : passe. 
+leveinard666 : relance. 500 à 750
+trespasom : passe. 
+Personne n'a suivi. (500) sont retournés à leveinard666.
+leveinard666 a remporté 620  lors du pot .
+leveinard666 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : leveinard666 (petite blind) a remporté (620)
+Siège 3 : trespasom (grosse blind) s'est couché. avant Flop
+Siège 4 : carlitros5 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237706208298 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 31/07/2022 20:52:36 CET [31/07/2022 14:52:36 ET]
+Table '3449502490 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (5330 en jetons) 
+Place 2: leveinard666 (5535 en jetons) 
+Place 3: trespasom (3190 en jetons) 
+Place 4: carlitros5 (5945 en jetons) 
+psychoman59 : met l'ante. 30
+leveinard666 : met l'ante. 30
+trespasom : met l'ante. 30
+carlitros5 : met l'ante. 30
+trespasom : met la petite blind. 125
+carlitros5 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 3s]
+psychoman59 : passe. 
+leveinard666 : suit. 250
+trespasom : suit. 125
+carlitros5 : parole 
+*** FLOP *** [Td 4s 5s]
+trespasom : parole 
+carlitros5 : parole 
+leveinard666 : parole 
+*** TOURNANT *** [Td 4s 5s] [Jh]
+trespasom : parole 
+carlitros5 : mise. 250
+leveinard666 : suit. 250
+trespasom : suit. 250
+*** RIVIÈRE *** [Td 4s 5s Jh] [2c]
+trespasom : parole 
+carlitros5 : mise. 250
+leveinard666 : passe. 
+trespasom : passe. 
+Personne n'a suivi. (250) sont retournés à carlitros5.
+carlitros5 a remporté 1620  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1620 | Commission 0 
+Tableau [Td 4s 5s Jh 2c]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : leveinard666 (bouton) s'est couché. sur le Rivière
+Siège 3 : trespasom (petite blind) s'est couché. sur le Rivière
+Siège 4 : carlitros5 (grosse blind) a remporté (1620)
+
+
+
+Main PokerStars n°237706223764 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 31/07/2022 20:53:10 CET [31/07/2022 14:53:10 ET]
+Table '3449502490 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (5300 en jetons) 
+Place 2: leveinard666 (5005 en jetons) 
+Place 3: trespasom (2660 en jetons) 
+Place 4: carlitros5 (7035 en jetons) 
+psychoman59 : met l'ante. 30
+leveinard666 : met l'ante. 30
+trespasom : met l'ante. 30
+carlitros5 : met l'ante. 30
+carlitros5 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 6h]
+leveinard666 : passe. 
+trespasom : relance. 2380 à 2630 et est all-in.
+carlitros5 : passe. 
+psychoman59 : suit. 2380
+*** FLOP *** [2h Kc Kh]
+*** TOURNANT *** [2h Kc Kh] [8s]
+*** RIVIÈRE *** [2h Kc Kh 8s] [7h]
+*** ABATTAGE ***
+psychoman59 : montre [6d 6h] (double paire, Rois et Six)
+trespasom : montre [Tc Ah] (une paire de Rois)
+psychoman59 a remporté 5505  lors du pot .
+trespasom a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 5505 | Commission 0 
+Tableau [2h Kc Kh 8s 7h]
+Siège 1 : psychoman59 (grosse blind) a montré [6d 6h] et a gagné (5505) avec double paire, Rois et Six
+Siège 2 : leveinard666 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : trespasom (bouton) a montré [Tc Ah] et a perdu avec une paire de Rois
+Siège 4 : carlitros5 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237706233156 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 31/07/2022 20:53:32 CET [31/07/2022 14:53:32 ET]
+Table '3449502490 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (8145 en jetons) 
+Place 2: leveinard666 (4975 en jetons) 
+Place 4: carlitros5 (6880 en jetons) 
+psychoman59 : met l'ante. 30
+leveinard666 : met l'ante. 30
+carlitros5 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+leveinard666 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 5d]
+carlitros5 : relance. 250 à 500
+psychoman59 : passe. 
+leveinard666 : suit. 250
+*** FLOP *** [9s 3d 3h]
+leveinard666 : parole 
+carlitros5 : mise. 802
+leveinard666 : relance. 3643 à 4445 et est all-in.
+carlitros5 : passe. 
+Personne n'a suivi. (3643) sont retournés à leveinard666.
+leveinard666 a remporté 2819  lors du pot .
+leveinard666 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2819 | Commission 0 
+Tableau [9s 3d 3h]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : leveinard666 (grosse blind) a remporté (2819)
+Siège 4 : carlitros5 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237706245998 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 31/07/2022 20:54:01 CET [31/07/2022 14:54:01 ET]
+Table '3449502490 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (7990 en jetons) 
+Place 2: leveinard666 (6462 en jetons) 
+Place 4: carlitros5 (5548 en jetons) 
+psychoman59 : met l'ante. 40
+leveinard666 : met l'ante. 40
+carlitros5 : met l'ante. 40
+leveinard666 : met la petite blind. 150
+carlitros5 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 6c]
+psychoman59 : passe. 
+leveinard666 : relance. 600 à 900
+carlitros5 : passe. 
+Personne n'a suivi. (600) sont retournés à leveinard666.
+leveinard666 a remporté 720  lors du pot .
+leveinard666 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : leveinard666 (petite blind) a remporté (720)
+Siège 4 : carlitros5 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237706251955 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 31/07/2022 20:54:14 CET [31/07/2022 14:54:14 ET]
+Table '3449502490 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (7950 en jetons) 
+Place 2: leveinard666 (6842 en jetons) 
+Place 4: carlitros5 (5208 en jetons) 
+psychoman59 : met l'ante. 40
+leveinard666 : met l'ante. 40
+carlitros5 : met l'ante. 40
+carlitros5 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Tc]
+leveinard666 : passe. 
+carlitros5 : relance. 4868 à 5168 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (4868) sont retournés à carlitros5.
+carlitros5 a remporté 720  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : leveinard666 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : carlitros5 (petite blind) a remporté (720)
+
+
+
+Main PokerStars n°237706258217 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 31/07/2022 20:54:29 CET [31/07/2022 14:54:29 ET]
+Table '3449502490 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (7610 en jetons) 
+Place 2: leveinard666 (6802 en jetons) 
+Place 4: carlitros5 (5588 en jetons) 
+psychoman59 : met l'ante. 40
+leveinard666 : met l'ante. 40
+carlitros5 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+leveinard666 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 7d]
+carlitros5 : passe. 
+psychoman59 : relance. 720 à 1020
+leveinard666 : suit. 720
+*** FLOP *** [7c Ad 4d]
+psychoman59 : parole 
+leveinard666 : parole 
+*** TOURNANT *** [7c Ad 4d] [9s]
+psychoman59 : mise. 600
+leveinard666 : passe. 
+Personne n'a suivi. (600) sont retournés à psychoman59.
+psychoman59 a remporté 2160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2160 | Commission 0 
+Tableau [7c Ad 4d 9s]
+Siège 1 : psychoman59 (petite blind) a remporté (2160)
+Siège 2 : leveinard666 (grosse blind) s'est couché. sur le Tournant
+Siège 4 : carlitros5 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237706270479 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 31/07/2022 20:54:56 CET [31/07/2022 14:54:56 ET]
+Table '3449502490 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8710 en jetons) 
+Place 2: leveinard666 (5742 en jetons) 
+Place 4: carlitros5 (5548 en jetons) 
+psychoman59 : met l'ante. 40
+leveinard666 : met l'ante. 40
+carlitros5 : met l'ante. 40
+leveinard666 : met la petite blind. 150
+carlitros5 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 5h]
+psychoman59 : passe. 
+leveinard666 : passe. 
+Personne n'a suivi. (150) sont retournés à carlitros5.
+carlitros5 a remporté 420  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : leveinard666 (petite blind) s'est couché. avant Flop
+Siège 4 : carlitros5 (grosse blind) a remporté (420)
+
+
+
+Main PokerStars n°237706275178 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 31/07/2022 20:55:07 CET [31/07/2022 14:55:07 ET]
+Table '3449502490 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (8670 en jetons) 
+Place 2: leveinard666 (5552 en jetons) 
+Place 4: carlitros5 (5778 en jetons) 
+psychoman59 : met l'ante. 40
+leveinard666 : met l'ante. 40
+carlitros5 : met l'ante. 40
+carlitros5 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 3s]
+leveinard666 : relance. 600 à 900
+carlitros5 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (600) sont retournés à leveinard666.
+leveinard666 a remporté 870  lors du pot .
+leveinard666 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : leveinard666 (bouton) a remporté (870)
+Siège 4 : carlitros5 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237706280160 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 31/07/2022 20:55:20 CET [31/07/2022 14:55:20 ET]
+Table '3449502490 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (8330 en jetons) 
+Place 2: leveinard666 (6082 en jetons) 
+Place 4: carlitros5 (5588 en jetons) 
+psychoman59 : met l'ante. 40
+leveinard666 : met l'ante. 40
+carlitros5 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+leveinard666 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 6d]
+carlitros5 : relance. 300 à 600
+psychoman59 : passe. 
+leveinard666 : suit. 300
+*** FLOP *** [7c Qs 6s]
+leveinard666 : parole 
+carlitros5 : mise. 970
+leveinard666 : passe. 
+Personne n'a suivi. (970) sont retournés à carlitros5.
+carlitros5 a remporté 1470  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1470 | Commission 0 
+Tableau [7c Qs 6s]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : leveinard666 (grosse blind) s'est couché. sur le Flop
+Siège 4 : carlitros5 (bouton) a remporté (1470)
+
+
+
+Main PokerStars n°237706286288 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 31/07/2022 20:55:45 CET [31/07/2022 14:55:45 ET]
+Table '3449502490 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8140 en jetons) 
+Place 2: leveinard666 (5442 en jetons) 
+Place 4: carlitros5 (6418 en jetons) 
+psychoman59 : met l'ante. 40
+leveinard666 : met l'ante. 40
+carlitros5 : met l'ante. 40
+leveinard666 : met la petite blind. 150
+carlitros5 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 6h]
+psychoman59 : passe. 
+leveinard666 : relance. 300 à 600
+carlitros5 : passe. 
+Personne n'a suivi. (300) sont retournés à leveinard666.
+leveinard666 a remporté 720  lors du pot .
+leveinard666 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : leveinard666 (petite blind) a remporté (720)
+Siège 4 : carlitros5 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237706288899 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 31/07/2022 20:55:55 CET [31/07/2022 14:55:55 ET]
+Table '3449502490 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (8100 en jetons) 
+Place 2: leveinard666 (5822 en jetons) 
+Place 4: carlitros5 (6078 en jetons) 
+psychoman59 : met l'ante. 40
+leveinard666 : met l'ante. 40
+carlitros5 : met l'ante. 40
+carlitros5 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 6d]
+leveinard666 : relance. 600 à 900
+carlitros5 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (600) sont retournés à leveinard666.
+leveinard666 a remporté 870  lors du pot .
+leveinard666 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : leveinard666 (bouton) a remporté (870)
+Siège 4 : carlitros5 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237706291756 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 31/07/2022 20:56:07 CET [31/07/2022 14:56:07 ET]
+Table '3449502490 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (7760 en jetons) 
+Place 2: leveinard666 (6352 en jetons) 
+Place 4: carlitros5 (5888 en jetons) 
+psychoman59 : met l'ante. 40
+leveinard666 : met l'ante. 40
+carlitros5 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+leveinard666 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 8s]
+carlitros5 : passe. 
+psychoman59 : relance. 7420 à 7720 et est all-in.
+leveinard666 : passe. 
+Personne n'a suivi. (7420) sont retournés à psychoman59.
+psychoman59 a remporté 720  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (720)
+Siège 2 : leveinard666 (grosse blind) s'est couché. avant Flop
+Siège 4 : carlitros5 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237706294663 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 31/07/2022 20:56:19 CET [31/07/2022 14:56:19 ET]
+Table '3449502490 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8140 en jetons) 
+Place 2: leveinard666 (6012 en jetons) 
+Place 4: carlitros5 (5848 en jetons) 
+psychoman59 : met l'ante. 40
+leveinard666 : met l'ante. 40
+carlitros5 : met l'ante. 40
+leveinard666 : met la petite blind. 150
+carlitros5 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Jc]
+psychoman59 : passe. 
+leveinard666 : passe. 
+Personne n'a suivi. (150) sont retournés à carlitros5.
+carlitros5 a remporté 420  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : leveinard666 (petite blind) s'est couché. avant Flop
+Siège 4 : carlitros5 (grosse blind) a remporté (420)
+
+
+
+Main PokerStars n°237706296738 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 31/07/2022 20:56:27 CET [31/07/2022 14:56:27 ET]
+Table '3449502490 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (8100 en jetons) 
+Place 2: leveinard666 (5822 en jetons) 
+Place 4: carlitros5 (6078 en jetons) 
+psychoman59 : met l'ante. 40
+leveinard666 : met l'ante. 40
+carlitros5 : met l'ante. 40
+carlitros5 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 5c]
+leveinard666 : passe. 
+carlitros5 : suit. 150
+psychoman59 : parole 
+*** FLOP *** [6d 3h Ts]
+carlitros5 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6d 3h Ts] [3c]
+carlitros5 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6d 3h Ts 3c] [Jd]
+carlitros5 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+carlitros5 : montre [8c Ac] (une paire de Trois)
+psychoman59 : cache la main perdante. 
+carlitros5 a remporté 720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [6d 3h Ts 3c Jd]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [9d 5c]
+Siège 2 : leveinard666 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : carlitros5 (petite blind) a montré [8c Ac] et a gagné (720) avec une paire de Trois
+
+
+
+Main PokerStars n°237706304402 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 31/07/2022 20:56:57 CET [31/07/2022 14:56:57 ET]
+Table '3449502490 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (7760 en jetons) 
+Place 2: leveinard666 (5782 en jetons) 
+Place 4: carlitros5 (6458 en jetons) 
+psychoman59 : met l'ante. 50
+leveinard666 : met l'ante. 50
+carlitros5 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+leveinard666 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 2d]
+carlitros5 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à leveinard666.
+leveinard666 a remporté 550  lors du pot .
+leveinard666 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 550 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : leveinard666 (grosse blind) a remporté (550)
+Siège 4 : carlitros5 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237706306756 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 31/07/2022 20:57:07 CET [31/07/2022 14:57:07 ET]
+Table '3449502490 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (7510 en jetons) 
+Place 2: leveinard666 (6082 en jetons) 
+Place 4: carlitros5 (6408 en jetons) 
+psychoman59 : met l'ante. 50
+leveinard666 : met l'ante. 50
+carlitros5 : met l'ante. 50
+leveinard666 : met la petite blind. 200
+carlitros5 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Js]
+psychoman59 : passe. 
+leveinard666 : relance. 400 à 800
+carlitros5 : suit. 400
+*** FLOP *** [4c Qd Ad]
+leveinard666 : mise. 875
+carlitros5 : passe. 
+Personne n'a suivi. (875) sont retournés à leveinard666.
+leveinard666 a remporté 1750  lors du pot .
+leveinard666 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1750 | Commission 0 
+Tableau [4c Qd Ad]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : leveinard666 (petite blind) a remporté (1750)
+Siège 4 : carlitros5 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237706311542 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 31/07/2022 20:57:26 CET [31/07/2022 14:57:26 ET]
+Table '3449502490 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (7460 en jetons) 
+Place 2: leveinard666 (6982 en jetons) 
+Place 4: carlitros5 (5558 en jetons) 
+psychoman59 : met l'ante. 50
+leveinard666 : met l'ante. 50
+carlitros5 : met l'ante. 50
+carlitros5 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Qd]
+leveinard666 : passe. 
+carlitros5 : relance. 5108 à 5508 et est all-in.
+psychoman59 : suit. 5108
+*** FLOP *** [Ts Ks Js]
+*** TOURNANT *** [Ts Ks Js] [3s]
+*** RIVIÈRE *** [Ts Ks Js 3s] [5d]
+*** ABATTAGE ***
+carlitros5 : montre [9s 9h] (une couleur, hauteur Roi)
+psychoman59 : montre [Ad Qd] (une suite, Dix à As)
+carlitros5 a remporté 11166  lors du pot .
+*** SYNTHÈSE ***
+Pot total 11166 | Commission 0 
+Tableau [Ts Ks Js 3s 5d]
+Siège 1 : psychoman59 (grosse blind) a montré [Ad Qd] et a perdu avec une suite, Dix à As
+Siège 2 : leveinard666 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : carlitros5 (petite blind) a montré [9s 9h] et a gagné (11166) avec une couleur, hauteur Roi
+
+
+
+Main PokerStars n°237706317015 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 31/07/2022 20:57:48 CET [31/07/2022 14:57:48 ET]
+Table '3449502490 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (1902 en jetons) 
+Place 2: leveinard666 (6932 en jetons) 
+Place 4: carlitros5 (11166 en jetons) 
+psychoman59 : met l'ante. 50
+leveinard666 : met l'ante. 50
+carlitros5 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+leveinard666 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ks]
+carlitros5 : passe. 
+psychoman59 : relance. 1452 à 1852 et est all-in.
+leveinard666 : suit. 1452
+*** FLOP *** [4h 8c 6h]
+*** TOURNANT *** [4h 8c 6h] [2c]
+*** RIVIÈRE *** [4h 8c 6h 2c] [3c]
+*** ABATTAGE ***
+psychoman59 : montre [6s Ks] (une paire de Six)
+leveinard666 : montre [Js 9s] (Hauteur Valet)
+psychoman59 a remporté 3854  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3854 | Commission 0 
+Tableau [4h 8c 6h 2c 3c]
+Siège 1 : psychoman59 (petite blind) a montré [6s Ks] et a gagné (3854) avec une paire de Six
+Siège 2 : leveinard666 (grosse blind) a montré [Js 9s] et a perdu avec Hauteur Valet
+Siège 4 : carlitros5 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237706321602 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 31/07/2022 20:58:06 CET [31/07/2022 14:58:06 ET]
+Table '3449502490 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (3854 en jetons) 
+Place 2: leveinard666 (5030 en jetons) 
+Place 4: carlitros5 (11116 en jetons) 
+psychoman59 : met l'ante. 50
+leveinard666 : met l'ante. 50
+carlitros5 : met l'ante. 50
+leveinard666 : met la petite blind. 200
+carlitros5 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 5s]
+psychoman59 : passe. 
+leveinard666 : passe. 
+Personne n'a suivi. (200) sont retournés à carlitros5.
+carlitros5 a remporté 550  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 550 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : leveinard666 (petite blind) s'est couché. avant Flop
+Siège 4 : carlitros5 (grosse blind) a remporté (550)
+
+
+
+Main PokerStars n°237706324041 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 31/07/2022 20:58:16 CET [31/07/2022 14:58:16 ET]
+Table '3449502490 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (3804 en jetons) 
+Place 2: leveinard666 (4780 en jetons) 
+Place 4: carlitros5 (11416 en jetons) 
+psychoman59 : met l'ante. 50
+leveinard666 : met l'ante. 50
+carlitros5 : met l'ante. 50
+carlitros5 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 7c]
+leveinard666 : passe. 
+carlitros5 : relance. 10966 à 11366 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (10966) sont retournés à carlitros5.
+carlitros5 a remporté 950  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 950 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : leveinard666 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : carlitros5 (petite blind) a remporté (950)
+
+
+
+Main PokerStars n°237706327527 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 31/07/2022 20:58:29 CET [31/07/2022 14:58:29 ET]
+Table '3449502490 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (3354 en jetons) 
+Place 2: leveinard666 (4730 en jetons) 
+Place 4: carlitros5 (11916 en jetons) 
+psychoman59 : met l'ante. 50
+leveinard666 : met l'ante. 50
+carlitros5 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+leveinard666 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Tc]
+carlitros5 : suit. 400
+psychoman59 : passe. 
+leveinard666 : parole 
+*** FLOP *** [Qc 3h Ks]
+leveinard666 : parole 
+carlitros5 : mise. 759
+leveinard666 : suit. 759
+*** TOURNANT *** [Qc 3h Ks] [5d]
+leveinard666 : parole 
+carlitros5 : parole 
+*** RIVIÈRE *** [Qc 3h Ks 5d] [2c]
+leveinard666 : parole 
+carlitros5 : parole 
+*** ABATTAGE ***
+leveinard666 : montre [Td Kh] (une paire de Rois)
+carlitros5 : cache la main perdante. 
+leveinard666 a remporté 2668  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2668 | Commission 0 
+Tableau [Qc 3h Ks 5d 2c]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : leveinard666 (grosse blind) a montré [Td Kh] et a gagné (2668) avec une paire de Rois
+Siège 4 : carlitros5 (bouton) a caché la main perdante. [5c 8c]
+
+
+
+Main PokerStars n°237706336166 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 31/07/2022 20:59:03 CET [31/07/2022 14:59:03 ET]
+Table '3449502490 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (3104 en jetons) 
+Place 2: leveinard666 (6189 en jetons) 
+Place 4: carlitros5 (10707 en jetons) 
+psychoman59 : met l'ante. 50
+leveinard666 : met l'ante. 50
+carlitros5 : met l'ante. 50
+leveinard666 : met la petite blind. 200
+carlitros5 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Kd]
+psychoman59 : relance. 2654 à 3054 et est all-in.
+leveinard666 : passe. 
+carlitros5 : passe. 
+Personne n'a suivi. (2654) sont retournés à psychoman59.
+psychoman59 a remporté 1150  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1150 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (1150)
+Siège 2 : leveinard666 (petite blind) s'est couché. avant Flop
+Siège 4 : carlitros5 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237706339538 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 31/07/2022 20:59:17 CET [31/07/2022 14:59:17 ET]
+Table '3449502490 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (3804 en jetons) 
+Place 2: leveinard666 (5939 en jetons) 
+Place 4: carlitros5 (10257 en jetons) 
+psychoman59 : met l'ante. 50
+leveinard666 : met l'ante. 50
+carlitros5 : met l'ante. 50
+carlitros5 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 6d]
+leveinard666 : passe. 
+carlitros5 : suit. 200
+psychoman59 : parole 
+*** FLOP *** [3h 8s As]
+carlitros5 : mise. 400
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à carlitros5.
+carlitros5 a remporté 950  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 950 | Commission 0 
+Tableau [3h 8s As]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : leveinard666 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : carlitros5 (petite blind) a remporté (950)
+
+
+
+Main PokerStars n°237706344266 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 31/07/2022 20:59:35 CET [31/07/2022 14:59:35 ET]
+Table '3449502490 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (3354 en jetons) 
+Place 2: leveinard666 (5889 en jetons) 
+Place 4: carlitros5 (10757 en jetons) 
+psychoman59 : met l'ante. 50
+leveinard666 : met l'ante. 50
+carlitros5 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+leveinard666 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts As]
+carlitros5 : passe. 
+psychoman59 : relance. 2904 à 3304 et est all-in.
+leveinard666 : passe. 
+Personne n'a suivi. (2904) sont retournés à psychoman59.
+psychoman59 a remporté 950  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 950 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (950)
+Siège 2 : leveinard666 (grosse blind) s'est couché. avant Flop
+Siège 4 : carlitros5 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237706348066 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VIII (250/500) - 31/07/2022 20:59:50 CET [31/07/2022 14:59:50 ET]
+Table '3449502490 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (3854 en jetons) 
+Place 2: leveinard666 (5439 en jetons) 
+Place 4: carlitros5 (10707 en jetons) 
+psychoman59 : met l'ante. 60
+leveinard666 : met l'ante. 60
+carlitros5 : met l'ante. 60
+leveinard666 : met la petite blind. 250
+carlitros5 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Js]
+psychoman59 : relance. 3294 à 3794 et est all-in.
+leveinard666 : passe. 
+carlitros5 : passe. 
+Personne n'a suivi. (3294) sont retournés à psychoman59.
+psychoman59 a remporté 1430  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1430 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (1430)
+Siège 2 : leveinard666 (petite blind) s'est couché. avant Flop
+Siège 4 : carlitros5 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237706351155 : Tournoi #3449502490, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VIII (250/500) - 31/07/2022 21:00:02 CET [31/07/2022 15:00:02 ET]
+Table '3449502490 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4724 en jetons) 
+Place 2: leveinard666 (5129 en jetons) 
+Place 4: carlitros5 (10147 en jetons) 
+psychoman59 : met l'ante. 60
+leveinard666 : met l'ante. 60
+carlitros5 : met l'ante. 60
+carlitros5 : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Kc]
+leveinard666 : passe. 
+carlitros5 : relance. 9587 à 10087 et est all-in.
+psychoman59 : suit. 4164 et est all-in.
+Personne n'a suivi. (5423) sont retournés à carlitros5.
+*** FLOP *** [8c 5s 3s]
+*** TOURNANT *** [8c 5s 3s] [Ts]
+*** RIVIÈRE *** [8c 5s 3s Ts] [Qh]
+*** ABATTAGE ***
+carlitros5 : montre [Ah 3c] (une paire de Trois)
+psychoman59 : montre [9d Kc] (Hauteur Roi)
+carlitros5 a remporté 9508  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 9508 | Commission 0 
+Tableau [8c 5s 3s Ts Qh]
+Siège 1 : psychoman59 (grosse blind) a montré [9d Kc] et a perdu avec Hauteur Roi
+Siège 2 : leveinard666 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : carlitros5 (petite blind) a montré [Ah 3c] et a gagné (9508) avec une paire de Trois
+
+
+

@@ -1,0 +1,618 @@
+﻿Main PokerStars n°238404344767 : Tournoi #3466130992, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 04/09/2022 10:05:31 CET [04/09/2022 4:05:31 ET]
+Table '3466130992 1' 4-max Siège #1 est au bouton.
+Place 1: chipie1962 (5000 en jetons) 
+Place 2: roudoudou3571 (5000 en jetons) 
+Place 3: mahivosges (5000 en jetons) 
+Place 4: psychoman59 (5000 en jetons) 
+chipie1962 : met l'ante. 10
+roudoudou3571 : met l'ante. 10
+mahivosges : met l'ante. 10
+psychoman59 : met l'ante. 10
+roudoudou3571 : met la petite blind. 50
+mahivosges : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Ah]
+psychoman59 : relance. 290 à 390
+chipie1962 : passe. 
+roudoudou3571 : suit. 340
+mahivosges : relance. 4510 à 4900
+psychoman59 : relance. 90 à 4990 et est all-in.
+roudoudou3571 : passe. 
+mahivosges : suit. 90 et est all-in.
+*** FLOP *** [6s 8s Ts]
+*** TOURNANT *** [6s 8s Ts] [2c]
+*** RIVIÈRE *** [6s 8s Ts 2c] [9s]
+*** ABATTAGE ***
+mahivosges : montre [Kc Kh] (une paire de Rois)
+psychoman59 : montre [Ad Ah] (une paire de As)
+psychoman59 a remporté 10410  lors du pot .
+mahivosges a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10410 | Commission 0 
+Tableau [6s 8s Ts 2c 9s]
+Siège 1 : chipie1962 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : roudoudou3571 (petite blind) s'est couché. avant Flop
+Siège 3 : mahivosges (grosse blind) a montré [Kc Kh] et a perdu avec une paire de Rois
+Siège 4 : psychoman59 a montré [Ad Ah] et a gagné (10410) avec une paire de As
+
+
+
+Main PokerStars n°238404348447 : Tournoi #3466130992, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 04/09/2022 10:05:58 CET [04/09/2022 4:05:58 ET]
+Table '3466130992 1' 4-max Siège #2 est au bouton.
+Place 1: chipie1962 (4990 en jetons) 
+Place 2: roudoudou3571 (4600 en jetons) 
+Place 4: psychoman59 (10410 en jetons) 
+chipie1962 : met l'ante. 10
+roudoudou3571 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+chipie1962 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 5d]
+roudoudou3571 : relance. 200 à 300
+psychoman59 : passe. 
+chipie1962 : passe. 
+Personne n'a suivi. (200) sont retournés à roudoudou3571.
+roudoudou3571 a remporté 280  lors du pot .
+roudoudou3571 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Siège 1 : chipie1962 (grosse blind) s'est couché. avant Flop
+Siège 2 : roudoudou3571 (bouton) a remporté (280)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238404350277 : Tournoi #3466130992, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 04/09/2022 10:06:11 CET [04/09/2022 4:06:11 ET]
+Table '3466130992 1' 4-max Siège #4 est au bouton.
+Place 1: chipie1962 (4880 en jetons) 
+Place 2: roudoudou3571 (4770 en jetons) 
+Place 4: psychoman59 (10350 en jetons) 
+chipie1962 : met l'ante. 10
+roudoudou3571 : met l'ante. 10
+psychoman59 : met l'ante. 10
+chipie1962 : met la petite blind. 50
+roudoudou3571 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Qs]
+psychoman59 : relance. 280 à 380
+chipie1962 : passe. 
+roudoudou3571 : suit. 280
+*** FLOP *** [6c Jh 4c]
+roudoudou3571 : parole 
+psychoman59 : mise. 420
+roudoudou3571 : relance. 840 à 1260
+psychoman59 : relance. 8700 à 9960 et est all-in.
+roudoudou3571 : suit. 3120 et est all-in.
+Personne n'a suivi. (5580) sont retournés à psychoman59.
+*** TOURNANT *** [6c Jh 4c] [9s]
+*** RIVIÈRE *** [6c Jh 4c 9s] [9d]
+*** ABATTAGE ***
+roudoudou3571 : montre [7d Js] (double paire, Valets et Neuf)
+psychoman59 : montre [Qd Qs] (double paire, Dames et Neuf)
+psychoman59 a remporté 9600  lors du pot .
+roudoudou3571 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 9600 | Commission 0 
+Tableau [6c Jh 4c 9s 9d]
+Siège 1 : chipie1962 (petite blind) s'est couché. avant Flop
+Siège 2 : roudoudou3571 (grosse blind) a montré [7d Js] et a perdu avec double paire, Valets et Neuf
+Siège 4 : psychoman59 (bouton) a montré [Qd Qs] et a gagné (9600) avec double paire, Dames et Neuf
+
+
+
+Main PokerStars n°238404354957 : Tournoi #3466130992, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 04/09/2022 10:06:44 CET [04/09/2022 4:06:44 ET]
+Table '3466130992 1' 4-max Siège #1 est au bouton.
+Place 1: chipie1962 (4820 en jetons) 
+Place 4: psychoman59 (15180 en jetons) 
+chipie1962 : met l'ante. 10
+psychoman59 : met l'ante. 10
+chipie1962 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Tc]
+chipie1962 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [8s 3c 7c]
+psychoman59 : parole 
+chipie1962 : parole 
+*** TOURNANT *** [8s 3c 7c] [2s]
+psychoman59 : parole 
+chipie1962 : parole 
+*** RIVIÈRE *** [8s 3c 7c 2s] [8h]
+psychoman59 : parole 
+chipie1962 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Js Tc] (une paire de Huit)
+chipie1962 : montre [Ad 2c] (double paire, Huit et Deux)
+chipie1962 a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [8s 3c 7c 2s 8h]
+Siège 1 : chipie1962 (bouton) (petite blind) a montré [Ad 2c] et a gagné (220) avec double paire, Huit et Deux
+Siège 4 : psychoman59 (grosse blind) a montré [Js Tc] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°238404357551 : Tournoi #3466130992, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 04/09/2022 10:07:03 CET [04/09/2022 4:07:03 ET]
+Table '3466130992 1' 4-max Siège #4 est au bouton.
+Place 1: chipie1962 (4930 en jetons) 
+Place 4: psychoman59 (15070 en jetons) 
+chipie1962 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+chipie1962 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Jh]
+psychoman59 : suit. 50
+chipie1962 : parole 
+*** FLOP *** [Ad 5c 2h]
+chipie1962 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ad 5c 2h] [Jc]
+chipie1962 : parole 
+psychoman59 : mise. 220
+chipie1962 : passe. 
+Personne n'a suivi. (220) sont retournés à psychoman59.
+psychoman59 a remporté 220  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [Ad 5c 2h Jc]
+Siège 1 : chipie1962 (grosse blind) s'est couché. sur le Tournant
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (220)
+
+
+
+Main PokerStars n°238404360009 : Tournoi #3466130992, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 04/09/2022 10:07:20 CET [04/09/2022 4:07:20 ET]
+Table '3466130992 1' 4-max Siège #1 est au bouton.
+Place 1: chipie1962 (4820 en jetons) 
+Place 4: psychoman59 (15180 en jetons) 
+chipie1962 : met l'ante. 10
+psychoman59 : met l'ante. 10
+chipie1962 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 8d]
+chipie1962 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Ac 8h 2d]
+psychoman59 : parole 
+chipie1962 : parole 
+*** TOURNANT *** [Ac 8h 2d] [9d]
+psychoman59 : parole 
+chipie1962 : parole 
+*** RIVIÈRE *** [Ac 8h 2d 9d] [9s]
+psychoman59 : parole 
+chipie1962 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qc 8d] (double paire, Neuf et Huit)
+chipie1962 : montre [Th 8s] (double paire, Neuf et Huit)
+psychoman59 a remporté 110  lors du pot .
+chipie1962 a remporté 110  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [Ac 8h 2d 9d 9s]
+Siège 1 : chipie1962 (bouton) (petite blind) a montré [Th 8s] et a gagné (110) avec double paire, Neuf et Huit
+Siège 4 : psychoman59 (grosse blind) a montré [Qc 8d] et a gagné (110) avec double paire, Neuf et Huit
+
+
+
+Main PokerStars n°238404362740 : Tournoi #3466130992, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 04/09/2022 10:07:40 CET [04/09/2022 4:07:40 ET]
+Table '3466130992 1' 4-max Siège #4 est au bouton.
+Place 1: chipie1962 (4820 en jetons) 
+Place 4: psychoman59 (15180 en jetons) 
+chipie1962 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+chipie1962 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 7s]
+psychoman59 : relance. 15070 à 15170 et est all-in.
+chipie1962 : suit. 4710 et est all-in.
+Personne n'a suivi. (10360) sont retournés à psychoman59.
+*** FLOP *** [4h Qh 8c]
+*** TOURNANT *** [4h Qh 8c] [Ts]
+*** RIVIÈRE *** [4h Qh 8c Ts] [5d]
+*** ABATTAGE ***
+chipie1962 : montre [Jh Ah] (Hauteur As)
+psychoman59 : montre [Ac 7s] (Hauteur As - plus basse kicker)
+chipie1962 a remporté 9640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9640 | Commission 0 
+Tableau [4h Qh 8c Ts 5d]
+Siège 1 : chipie1962 (grosse blind) a montré [Jh Ah] et a gagné (9640) avec Hauteur As
+Siège 4 : psychoman59 (bouton) (petite blind) a montré [Ac 7s] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°238404365077 : Tournoi #3466130992, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 04/09/2022 10:07:56 CET [04/09/2022 4:07:56 ET]
+Table '3466130992 1' 4-max Siège #1 est au bouton.
+Place 1: chipie1962 (9640 en jetons) 
+Place 4: psychoman59 (10360 en jetons) 
+chipie1962 : met l'ante. 10
+psychoman59 : met l'ante. 10
+chipie1962 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 8h]
+chipie1962 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [4s 3s Qc]
+psychoman59 : parole 
+chipie1962 : parole 
+*** TOURNANT *** [4s 3s Qc] [Qd]
+psychoman59 : parole 
+chipie1962 : parole 
+*** RIVIÈRE *** [4s 3s Qc Qd] [2h]
+psychoman59 : parole 
+chipie1962 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9h 8h] (une paire de Dames)
+chipie1962 : montre [5c Jd] (une paire de Dames - Valet kicker)
+chipie1962 a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [4s 3s Qc Qd 2h]
+Siège 1 : chipie1962 (bouton) (petite blind) a montré [5c Jd] et a gagné (220) avec une paire de Dames
+Siège 4 : psychoman59 (grosse blind) a montré [9h 8h] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°238404367462 : Tournoi #3466130992, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 04/09/2022 10:08:14 CET [04/09/2022 4:08:14 ET]
+Table '3466130992 1' 4-max Siège #4 est au bouton.
+Place 1: chipie1962 (9750 en jetons) 
+Place 4: psychoman59 (10250 en jetons) 
+chipie1962 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+chipie1962 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Kc]
+psychoman59 : relance. 220 à 320
+chipie1962 : passe. 
+Personne n'a suivi. (220) sont retournés à psychoman59.
+psychoman59 a remporté 220  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Siège 1 : chipie1962 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (220)
+
+
+
+Main PokerStars n°238404368970 : Tournoi #3466130992, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 04/09/2022 10:08:24 CET [04/09/2022 4:08:24 ET]
+Table '3466130992 1' 4-max Siège #1 est au bouton.
+Place 1: chipie1962 (9640 en jetons) 
+Place 4: psychoman59 (10360 en jetons) 
+chipie1962 : met l'ante. 10
+psychoman59 : met l'ante. 10
+chipie1962 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Qh]
+chipie1962 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [2s Js 4c]
+psychoman59 : parole 
+chipie1962 : parole 
+*** TOURNANT *** [2s Js 4c] [9d]
+psychoman59 : parole 
+chipie1962 : mise. 100
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à chipie1962.
+chipie1962 a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [2s Js 4c 9d]
+Siège 1 : chipie1962 (bouton) (petite blind) a remporté (220)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238404371619 : Tournoi #3466130992, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 04/09/2022 10:08:43 CET [04/09/2022 4:08:43 ET]
+Table '3466130992 1' 4-max Siège #4 est au bouton.
+Place 1: chipie1962 (9750 en jetons) 
+Place 4: psychoman59 (10250 en jetons) 
+chipie1962 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+chipie1962 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 9c]
+psychoman59 : relance. 120 à 240
+chipie1962 : suit. 120
+*** FLOP *** [6d Th 9h]
+chipie1962 : parole 
+psychoman59 : mise. 255
+chipie1962 : suit. 255
+*** TOURNANT *** [6d Th 9h] [Ks]
+chipie1962 : mise. 1020
+psychoman59 : relance. 8720 à 9740 et est all-in.
+chipie1962 : suit. 8220 et est all-in.
+Personne n'a suivi. (500) sont retournés à psychoman59.
+*** RIVIÈRE *** [6d Th 9h Ks] [Ah]
+*** ABATTAGE ***
+chipie1962 : montre [9s Kd] (double paire, Rois et Neuf)
+psychoman59 : montre [Kh 9c] (double paire, Rois et Neuf)
+chipie1962 a remporté 9750  lors du pot .
+psychoman59 a remporté 9750  lors du pot .
+*** SYNTHÈSE ***
+Pot total 19500 | Commission 0 
+Tableau [6d Th 9h Ks Ah]
+Siège 1 : chipie1962 (grosse blind) a montré [9s Kd] et a gagné (9750) avec double paire, Rois et Neuf
+Siège 4 : psychoman59 (bouton) (petite blind) a montré [Kh 9c] et a gagné (9750) avec double paire, Rois et Neuf
+
+
+
+Main PokerStars n°238404375881 : Tournoi #3466130992, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 04/09/2022 10:09:13 CET [04/09/2022 4:09:13 ET]
+Table '3466130992 1' 4-max Siège #1 est au bouton.
+Place 1: chipie1962 (9750 en jetons) 
+Place 4: psychoman59 (10250 en jetons) 
+chipie1962 : met l'ante. 15
+psychoman59 : met l'ante. 15
+chipie1962 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 6s]
+chipie1962 : suit. 60
+psychoman59 : relance. 10115 à 10235 et est all-in.
+chipie1962 : suit. 9615 et est all-in.
+Personne n'a suivi. (500) sont retournés à psychoman59.
+*** FLOP *** [Qh Qs 8h]
+*** TOURNANT *** [Qh Qs 8h] [Kd]
+*** RIVIÈRE *** [Qh Qs 8h Kd] [4h]
+*** ABATTAGE ***
+psychoman59 : montre [Ad 6s] (une paire de Dames)
+chipie1962 : montre [6d As] (une paire de Dames)
+psychoman59 a remporté 9750  lors du pot .
+chipie1962 a remporté 9750  lors du pot .
+*** SYNTHÈSE ***
+Pot total 19500 | Commission 0 
+Tableau [Qh Qs 8h Kd 4h]
+Siège 1 : chipie1962 (bouton) (petite blind) a montré [6d As] et a gagné (9750) avec une paire de Dames
+Siège 4 : psychoman59 (grosse blind) a montré [Ad 6s] et a gagné (9750) avec une paire de Dames
+
+
+
+Main PokerStars n°238404378384 : Tournoi #3466130992, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 04/09/2022 10:09:31 CET [04/09/2022 4:09:31 ET]
+Table '3466130992 1' 4-max Siège #4 est au bouton.
+Place 1: chipie1962 (9750 en jetons) 
+Place 4: psychoman59 (10250 en jetons) 
+chipie1962 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+chipie1962 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ks]
+psychoman59 : suit. 60
+chipie1962 : parole 
+*** FLOP *** [7d As 5c]
+chipie1962 : parole 
+psychoman59 : mise. 270
+chipie1962 : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 270  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [7d As 5c]
+Siège 1 : chipie1962 (grosse blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (270)
+
+
+
+Main PokerStars n°238404380464 : Tournoi #3466130992, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 04/09/2022 10:09:46 CET [04/09/2022 4:09:46 ET]
+Table '3466130992 1' 4-max Siège #1 est au bouton.
+Place 1: chipie1962 (9615 en jetons) 
+Place 4: psychoman59 (10385 en jetons) 
+chipie1962 : met l'ante. 15
+psychoman59 : met l'ante. 15
+chipie1962 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 4h]
+chipie1962 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [2s Qc 9d]
+psychoman59 : parole 
+chipie1962 : parole 
+*** TOURNANT *** [2s Qc 9d] [5s]
+psychoman59 : parole 
+chipie1962 : parole 
+*** RIVIÈRE *** [2s Qc 9d 5s] [2d]
+psychoman59 : parole 
+chipie1962 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Js 4h] (une paire de Deux)
+chipie1962 : montre [Ks Jd] (une paire de Deux - Roi kicker)
+chipie1962 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [2s Qc 9d 5s 2d]
+Siège 1 : chipie1962 (bouton) (petite blind) a montré [Ks Jd] et a gagné (270) avec une paire de Deux
+Siège 4 : psychoman59 (grosse blind) a montré [Js 4h] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°238404383256 : Tournoi #3466130992, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 04/09/2022 10:10:06 CET [04/09/2022 4:10:06 ET]
+Table '3466130992 1' 4-max Siège #4 est au bouton.
+Place 1: chipie1962 (9750 en jetons) 
+Place 4: psychoman59 (10250 en jetons) 
+chipie1962 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+chipie1962 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Js]
+psychoman59 : suit. 60
+chipie1962 : parole 
+*** FLOP *** [6h Ts 3s]
+chipie1962 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6h Ts 3s] [Ac]
+chipie1962 : parole 
+psychoman59 : mise. 270
+chipie1962 : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 270  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [6h Ts 3s Ac]
+Siège 1 : chipie1962 (grosse blind) s'est couché. sur le Tournant
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (270)
+
+
+
+Main PokerStars n°238404385868 : Tournoi #3466130992, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 04/09/2022 10:10:24 CET [04/09/2022 4:10:24 ET]
+Table '3466130992 1' 4-max Siège #1 est au bouton.
+Place 1: chipie1962 (9615 en jetons) 
+Place 4: psychoman59 (10385 en jetons) 
+chipie1962 : met l'ante. 15
+psychoman59 : met l'ante. 15
+chipie1962 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 9h]
+chipie1962 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : chipie1962 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (150)
+
+
+
+Main PokerStars n°238404386819 : Tournoi #3466130992, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 04/09/2022 10:10:31 CET [04/09/2022 4:10:31 ET]
+Table '3466130992 1' 4-max Siège #4 est au bouton.
+Place 1: chipie1962 (9540 en jetons) 
+Place 4: psychoman59 (10460 en jetons) 
+chipie1962 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+chipie1962 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Td]
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à chipie1962.
+chipie1962 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : chipie1962 (grosse blind) a remporté (150)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238404387849 : Tournoi #3466130992, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 04/09/2022 10:10:38 CET [04/09/2022 4:10:38 ET]
+Table '3466130992 1' 4-max Siège #1 est au bouton.
+Place 1: chipie1962 (9615 en jetons) 
+Place 4: psychoman59 (10385 en jetons) 
+chipie1962 : met l'ante. 15
+psychoman59 : met l'ante. 15
+chipie1962 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Js]
+chipie1962 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [7s Kc Ah]
+psychoman59 : parole 
+chipie1962 : mise. 120
+psychoman59 : suit. 120
+*** TOURNANT *** [7s Kc Ah] [8d]
+psychoman59 : parole 
+chipie1962 : mise. 120
+psychoman59 : suit. 120
+*** RIVIÈRE *** [7s Kc Ah 8d] [Qd]
+psychoman59 : parole 
+chipie1962 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Kd Js] (une paire de Rois)
+chipie1962 : montre [Kh Jc] (une paire de Rois)
+psychoman59 a remporté 375  lors du pot .
+chipie1962 a remporté 375  lors du pot .
+*** SYNTHÈSE ***
+Pot total 750 | Commission 0 
+Tableau [7s Kc Ah 8d Qd]
+Siège 1 : chipie1962 (bouton) (petite blind) a montré [Kh Jc] et a gagné (375) avec une paire de Rois
+Siège 4 : psychoman59 (grosse blind) a montré [Kd Js] et a gagné (375) avec une paire de Rois
+
+
+
+Main PokerStars n°238404391058 : Tournoi #3466130992, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 04/09/2022 10:11:00 CET [04/09/2022 4:11:00 ET]
+Table '3466130992 1' 4-max Siège #4 est au bouton.
+Place 1: chipie1962 (9615 en jetons) 
+Place 4: psychoman59 (10385 en jetons) 
+chipie1962 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+chipie1962 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à chipie1962.
+chipie1962 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : chipie1962 (grosse blind) a remporté (150)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238404392214 : Tournoi #3466130992, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 04/09/2022 10:11:08 CET [04/09/2022 4:11:08 ET]
+Table '3466130992 1' 4-max Siège #1 est au bouton.
+Place 1: chipie1962 (9690 en jetons) 
+Place 4: psychoman59 (10310 en jetons) 
+chipie1962 : met l'ante. 15
+psychoman59 : met l'ante. 15
+chipie1962 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Td]
+chipie1962 : suit. 60
+psychoman59 : relance. 10175 à 10295 et est all-in.
+chipie1962 : passe. 
+Personne n'a suivi. (10175) sont retournés à psychoman59.
+psychoman59 a remporté 270  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Siège 1 : chipie1962 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (270)
+
+
+
+Main PokerStars n°238404393935 : Tournoi #3466130992, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 04/09/2022 10:11:21 CET [04/09/2022 4:11:21 ET]
+Table '3466130992 1' 4-max Siège #4 est au bouton.
+Place 1: chipie1962 (9555 en jetons) 
+Place 4: psychoman59 (10445 en jetons) 
+chipie1962 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+chipie1962 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 7c]
+psychoman59 : relance. 10310 à 10430 et est all-in.
+chipie1962 : suit. 9420 et est all-in.
+Personne n'a suivi. (890) sont retournés à psychoman59.
+*** FLOP *** [Jh 5h Ac]
+*** TOURNANT *** [Jh 5h Ac] [3c]
+*** RIVIÈRE *** [Jh 5h Ac 3c] [8s]
+*** ABATTAGE ***
+chipie1962 : montre [Tc Ks] (Hauteur As)
+psychoman59 : montre [Ad 7c] (une paire de As)
+psychoman59 a remporté 19110  lors du pot .
+chipie1962 a fini le tournoi à la 2e place et a reçu 0.34 €.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 19110 | Commission 0 
+Tableau [Jh 5h Ac 3c 8s]
+Siège 1 : chipie1962 (grosse blind) a montré [Tc Ks] et a perdu avec Hauteur As
+Siège 4 : psychoman59 (bouton) (petite blind) a montré [Ad 7c] et a gagné (19110) avec une paire de As
+
+
+

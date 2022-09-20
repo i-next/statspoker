@@ -1,0 +1,858 @@
+﻿Main PokerStars n°237675922836 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 30/07/2022 11:00:08 CET [30/07/2022 5:00:08 ET]
+Table '3448831890 1' 4-max Siège #1 est au bouton.
+Place 1: JcUys (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: rufinet36 (5000 en jetons) 
+Place 4: miguel91896 (5000 en jetons) 
+JcUys : met l'ante. 10
+psychoman59 : met l'ante. 10
+rufinet36 : met l'ante. 10
+miguel91896 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+rufinet36 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 9d]
+miguel91896 : suit. 100
+JcUys : suit. 100
+psychoman59 : suit. 50
+rufinet36 : parole 
+*** FLOP *** [As 9s 6h]
+psychoman59 : parole 
+rufinet36 : mise. 200
+miguel91896 : passe. 
+JcUys : relance. 840 à 1040
+psychoman59 : passe. 
+rufinet36 : suit. 840
+*** TOURNANT *** [As 9s 6h] [7s]
+rufinet36 : parole 
+JcUys : mise. 3850 et est all-in.
+rufinet36 : passe. 
+Personne n'a suivi. (3850) sont retournés à JcUys.
+JcUys a remporté 2520  lors du pot .
+JcUys : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2520 | Commission 0 
+Tableau [As 9s 6h 7s]
+Siège 1 : JcUys (bouton) a remporté (2520)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : rufinet36 (grosse blind) s'est couché. sur le Tournant
+Siège 4 : miguel91896 s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237675931335 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 30/07/2022 11:01:07 CET [30/07/2022 5:01:07 ET]
+Table '3448831890 1' 4-max Siège #2 est au bouton.
+Place 1: JcUys (6370 en jetons) 
+Place 2: psychoman59 (4890 en jetons) 
+Place 3: rufinet36 (3850 en jetons) 
+Place 4: miguel91896 (4890 en jetons) 
+JcUys : met l'ante. 10
+psychoman59 : met l'ante. 10
+rufinet36 : met l'ante. 10
+miguel91896 : met l'ante. 10
+rufinet36 : met la petite blind. 50
+miguel91896 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 8s]
+JcUys : passe. 
+psychoman59 : passe. 
+rufinet36 : suit. 50
+miguel91896 : parole 
+*** FLOP *** [7h Jh As]
+rufinet36 : parole 
+miguel91896 : parole 
+*** TOURNANT *** [7h Jh As] [5s]
+rufinet36 : parole 
+miguel91896 : parole 
+*** RIVIÈRE *** [7h Jh As 5s] [8h]
+rufinet36 : mise. 100
+miguel91896 : suit. 100
+*** ABATTAGE ***
+rufinet36 : montre [6c 4c] (une suite, Quatre à Huit)
+miguel91896 : cache la main perdante. 
+rufinet36 a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [7h Jh As 5s 8h]
+Siège 1 : JcUys s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : rufinet36 (petite blind) a montré [6c 4c] et a gagné (440) avec une suite, Quatre à Huit
+Siège 4 : miguel91896 (grosse blind) a caché la main perdante. [Tc 7d]
+
+
+
+Main PokerStars n°237675936936 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 30/07/2022 11:01:44 CET [30/07/2022 5:01:44 ET]
+Table '3448831890 1' 4-max Siège #3 est au bouton.
+Place 1: JcUys (6360 en jetons) 
+Place 2: psychoman59 (4880 en jetons) 
+Place 3: rufinet36 (4080 en jetons) 
+Place 4: miguel91896 (4680 en jetons) 
+JcUys : met l'ante. 10
+psychoman59 : met l'ante. 10
+rufinet36 : met l'ante. 10
+miguel91896 : met l'ante. 10
+miguel91896 : met la petite blind. 50
+JcUys : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Jd]
+psychoman59 : passe. 
+rufinet36 : relance. 3970 à 4070 et est all-in.
+miguel91896 : suit. 4020
+JcUys : passe. 
+*** FLOP *** [3h 7s 8d]
+*** TOURNANT *** [3h 7s 8d] [2d]
+*** RIVIÈRE *** [3h 7s 8d 2d] [2c]
+*** ABATTAGE ***
+miguel91896 : montre [Jc As] (une paire de Deux)
+rufinet36 : montre [Qc Ah] (une paire de Deux - As+Dame kicker)
+rufinet36 a remporté 8280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 8280 | Commission 0 
+Tableau [3h 7s 8d 2d 2c]
+Siège 1 : JcUys (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : rufinet36 (bouton) a montré [Qc Ah] et a gagné (8280) avec une paire de Deux
+Siège 4 : miguel91896 (petite blind) a montré [Jc As] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°237675941157 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 30/07/2022 11:02:12 CET [30/07/2022 5:02:12 ET]
+Table '3448831890 1' 4-max Siège #4 est au bouton.
+Place 1: JcUys (6250 en jetons) 
+Place 2: psychoman59 (4870 en jetons) 
+Place 3: rufinet36 (8280 en jetons) 
+Place 4: miguel91896 (600 en jetons) 
+JcUys : met l'ante. 10
+psychoman59 : met l'ante. 10
+rufinet36 : met l'ante. 10
+miguel91896 : met l'ante. 10
+JcUys : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 6h]
+rufinet36 : passe. 
+miguel91896 : relance. 490 à 590 et est all-in.
+JcUys : suit. 540
+psychoman59 : passe. 
+*** FLOP *** [Kd 2h As]
+*** TOURNANT *** [Kd 2h As] [6s]
+*** RIVIÈRE *** [Kd 2h As 6s] [Jd]
+*** ABATTAGE ***
+JcUys : montre [Th Qh] (une suite, Dix à As)
+miguel91896 : montre [9d Kc] (une paire de Rois)
+JcUys a remporté 1320  lors du pot .
+miguel91896 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 1320 | Commission 0 
+Tableau [Kd 2h As 6s Jd]
+Siège 1 : JcUys (petite blind) a montré [Th Qh] et a gagné (1320) avec une suite, Dix à As
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : rufinet36 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : miguel91896 (bouton) a montré [9d Kc] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°237675945299 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 30/07/2022 11:02:38 CET [30/07/2022 5:02:38 ET]
+Table '3448831890 1' 4-max Siège #1 est au bouton.
+Place 1: JcUys (6970 en jetons) 
+Place 2: psychoman59 (4760 en jetons) 
+Place 3: rufinet36 (8270 en jetons) 
+JcUys : met l'ante. 10
+psychoman59 : met l'ante. 10
+rufinet36 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+rufinet36 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 6s]
+JcUys : relance. 280 à 380
+psychoman59 : passe. 
+rufinet36 : passe. 
+Personne n'a suivi. (280) sont retournés à JcUys.
+JcUys a remporté 280  lors du pot .
+JcUys : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Siège 1 : JcUys (bouton) a remporté (280)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : rufinet36 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237675947850 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 30/07/2022 11:02:54 CET [30/07/2022 5:02:54 ET]
+Table '3448831890 1' 4-max Siège #2 est au bouton.
+Place 1: JcUys (7140 en jetons) 
+Place 2: psychoman59 (4700 en jetons) 
+Place 3: rufinet36 (8160 en jetons) 
+JcUys : met l'ante. 10
+psychoman59 : met l'ante. 10
+rufinet36 : met l'ante. 10
+rufinet36 : met la petite blind. 50
+JcUys : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 2s]
+psychoman59 : relance. 280 à 380
+rufinet36 : passe. 
+JcUys : suit. 280
+*** FLOP *** [9c 5s As]
+JcUys : mise. 6750 et est all-in.
+psychoman59 : suit. 4310 et est all-in.
+Personne n'a suivi. (2440) sont retournés à JcUys.
+*** TOURNANT *** [9c 5s As] [5d]
+*** RIVIÈRE *** [9c 5s As 5d] [7h]
+*** ABATTAGE ***
+JcUys : montre [9s 4s] (double paire, Neuf et Cinq)
+psychoman59 : montre [Ad 2s] (double paire, As et Cinq)
+psychoman59 a remporté 9460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9460 | Commission 0 
+Tableau [9c 5s As 5d 7h]
+Siège 1 : JcUys (grosse blind) a montré [9s 4s] et a perdu avec double paire, Neuf et Cinq
+Siège 2 : psychoman59 (bouton) a montré [Ad 2s] et a gagné (9460) avec double paire, As et Cinq
+Siège 3 : rufinet36 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237675952069 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 30/07/2022 11:03:22 CET [30/07/2022 5:03:22 ET]
+Table '3448831890 1' 4-max Siège #3 est au bouton.
+Place 1: JcUys (2440 en jetons) 
+Place 2: psychoman59 (9460 en jetons) 
+Place 3: rufinet36 (8100 en jetons) 
+JcUys : met l'ante. 15
+psychoman59 : met l'ante. 15
+rufinet36 : met l'ante. 15
+JcUys : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Jd]
+rufinet36 : passe. 
+JcUys : suit. 60
+psychoman59 : parole 
+*** FLOP *** [9s 2h 2c]
+JcUys : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9s 2h 2c] [Td]
+JcUys : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9s 2h 2c Td] [4s]
+JcUys : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+JcUys : montre [4h 8s] (double paire, Quatre et Deux)
+psychoman59 : cache la main perdante. 
+JcUys a remporté 285  lors du pot .
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Tableau [9s 2h 2c Td 4s]
+Siège 1 : JcUys (petite blind) a montré [4h 8s] et a gagné (285) avec double paire, Quatre et Deux
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [6h Jd]
+Siège 3 : rufinet36 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237675957977 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 30/07/2022 11:04:00 CET [30/07/2022 5:04:00 ET]
+Table '3448831890 1' 4-max Siège #1 est au bouton.
+Place 1: JcUys (2590 en jetons) 
+Place 2: psychoman59 (9325 en jetons) 
+Place 3: rufinet36 (8085 en jetons) 
+JcUys : met l'ante. 15
+psychoman59 : met l'ante. 15
+rufinet36 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+rufinet36 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 5d]
+JcUys : relance. 2455 à 2575 et est all-in.
+psychoman59 : passe. 
+rufinet36 : suit. 2455
+*** FLOP *** [9d 2c 5s]
+*** TOURNANT *** [9d 2c 5s] [6s]
+*** RIVIÈRE *** [9d 2c 5s 6s] [3c]
+*** ABATTAGE ***
+rufinet36 : montre [Jc Kh] (Hauteur Roi)
+JcUys : montre [Ah 9s] (une paire de Neuf)
+JcUys a remporté 5255  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5255 | Commission 0 
+Tableau [9d 2c 5s 6s 3c]
+Siège 1 : JcUys (bouton) a montré [Ah 9s] et a gagné (5255) avec une paire de Neuf
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : rufinet36 (grosse blind) a montré [Jc Kh] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°237675960675 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 30/07/2022 11:04:18 CET [30/07/2022 5:04:18 ET]
+Table '3448831890 1' 4-max Siège #2 est au bouton.
+Place 1: JcUys (5255 en jetons) 
+Place 2: psychoman59 (9250 en jetons) 
+Place 3: rufinet36 (5495 en jetons) 
+JcUys : met l'ante. 15
+psychoman59 : met l'ante. 15
+rufinet36 : met l'ante. 15
+rufinet36 : met la petite blind. 60
+JcUys : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 5s]
+psychoman59 : relance. 345 à 465
+rufinet36 : passe. 
+JcUys : suit. 345
+*** FLOP *** [4s 9s 5h]
+JcUys : mise. 4775 et est all-in.
+psychoman59 : suit. 4775
+*** TOURNANT *** [4s 9s 5h] [Ad]
+*** RIVIÈRE *** [4s 9s 5h Ad] [Js]
+*** ABATTAGE ***
+JcUys : montre [3s 3h] (une paire de Trois)
+psychoman59 : montre [As 5s] (une couleur, hauteur As)
+psychoman59 a remporté 10585  lors du pot .
+JcUys a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 10585 | Commission 0 
+Tableau [4s 9s 5h Ad Js]
+Siège 1 : JcUys (grosse blind) a montré [3s 3h] et a perdu avec une paire de Trois
+Siège 2 : psychoman59 (bouton) a montré [As 5s] et a gagné (10585) avec une couleur, hauteur As
+Siège 3 : rufinet36 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237675964453 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 30/07/2022 11:04:42 CET [30/07/2022 5:04:42 ET]
+Table '3448831890 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (14580 en jetons) 
+Place 3: rufinet36 (5420 en jetons) 
+psychoman59 : met l'ante. 15
+rufinet36 : met l'ante. 15
+rufinet36 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 4s]
+rufinet36 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [8h 7c 8d]
+psychoman59 : parole 
+rufinet36 : parole 
+*** TOURNANT *** [8h 7c 8d] [9s]
+psychoman59 : parole 
+rufinet36 : parole 
+*** RIVIÈRE *** [8h 7c 8d 9s] [Ac]
+psychoman59 : parole 
+rufinet36 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6h 4s] (une paire de Huit)
+rufinet36 : montre [2d Qc] (une paire de Huit - As+Dame kicker)
+rufinet36 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [8h 7c 8d 9s Ac]
+Siège 2 : psychoman59 (grosse blind) a montré [6h 4s] et a perdu avec une paire de Huit
+Siège 3 : rufinet36 (bouton) (petite blind) a montré [2d Qc] et a gagné (270) avec une paire de Huit
+
+
+
+Main PokerStars n°237675967914 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 30/07/2022 11:05:05 CET [30/07/2022 5:05:05 ET]
+Table '3448831890 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (14445 en jetons) 
+Place 3: rufinet36 (5555 en jetons) 
+psychoman59 : met l'ante. 15
+rufinet36 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+rufinet36 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Td]
+psychoman59 : suit. 60
+rufinet36 : parole 
+*** FLOP *** [8d Qd Th]
+rufinet36 : parole 
+psychoman59 : mise. 270
+rufinet36 : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 270  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [8d Qd Th]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (270)
+Siège 3 : rufinet36 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237675970729 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 30/07/2022 11:05:23 CET [30/07/2022 5:05:23 ET]
+Table '3448831890 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (14580 en jetons) 
+Place 3: rufinet36 (5420 en jetons) 
+psychoman59 : met l'ante. 15
+rufinet36 : met l'ante. 15
+rufinet36 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ac]
+rufinet36 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [4s 9d 4d]
+psychoman59 : mise. 270
+rufinet36 : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 270  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [4s 9d 4d]
+Siège 2 : psychoman59 (grosse blind) a remporté (270)
+Siège 3 : rufinet36 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237675973137 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 30/07/2022 11:05:39 CET [30/07/2022 5:05:39 ET]
+Table '3448831890 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (14715 en jetons) 
+Place 3: rufinet36 (5285 en jetons) 
+psychoman59 : met l'ante. 15
+rufinet36 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+rufinet36 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 7h]
+psychoman59 : suit. 60
+rufinet36 : parole 
+*** FLOP *** [Js 4d 9s]
+rufinet36 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Js 4d 9s] [9d]
+rufinet36 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Js 4d 9s 9d] [Ks]
+rufinet36 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+rufinet36 : montre [8h 3c] (une paire de Neuf)
+psychoman59 : montre [Th 7h] (une paire de Neuf - Roi+Valet+Dix kicker)
+psychoman59 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [Js 4d 9s 9d Ks]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Th 7h] et a gagné (270) avec une paire de Neuf
+Siège 3 : rufinet36 (grosse blind) a montré [8h 3c] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°237675976583 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 30/07/2022 11:06:01 CET [30/07/2022 5:06:01 ET]
+Table '3448831890 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (14850 en jetons) 
+Place 3: rufinet36 (5150 en jetons) 
+psychoman59 : met l'ante. 15
+rufinet36 : met l'ante. 15
+rufinet36 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Kd]
+rufinet36 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [8d Ts 4c]
+psychoman59 : parole 
+rufinet36 : parole 
+*** TOURNANT *** [8d Ts 4c] [7d]
+psychoman59 : parole 
+rufinet36 : parole 
+*** RIVIÈRE *** [8d Ts 4c 7d] [6h]
+psychoman59 : parole 
+rufinet36 : mise. 270
+psychoman59 : passe. 
+Personne n'a suivi. (270) sont retournés à rufinet36.
+rufinet36 a remporté 270  lors du pot .
+rufinet36 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [8d Ts 4c 7d 6h]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : rufinet36 (bouton) (petite blind) a remporté (270)
+
+
+
+Main PokerStars n°237675981129 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 30/07/2022 11:06:31 CET [30/07/2022 5:06:31 ET]
+Table '3448831890 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (14715 en jetons) 
+Place 3: rufinet36 (5285 en jetons) 
+psychoman59 : met l'ante. 20
+rufinet36 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+rufinet36 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à rufinet36.
+rufinet36 a remporté 190  lors du pot .
+rufinet36 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : rufinet36 (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°237675982344 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 30/07/2022 11:06:38 CET [30/07/2022 5:06:38 ET]
+Table '3448831890 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (14620 en jetons) 
+Place 3: rufinet36 (5380 en jetons) 
+psychoman59 : met l'ante. 20
+rufinet36 : met l'ante. 20
+rufinet36 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qc]
+rufinet36 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [Ac 3d Ad]
+psychoman59 : parole 
+rufinet36 : mise. 150
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à rufinet36.
+rufinet36 a remporté 340  lors du pot .
+rufinet36 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [Ac 3d Ad]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : rufinet36 (bouton) (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°237675984924 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 30/07/2022 11:06:54 CET [30/07/2022 5:06:54 ET]
+Table '3448831890 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (14450 en jetons) 
+Place 3: rufinet36 (5550 en jetons) 
+psychoman59 : met l'ante. 20
+rufinet36 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+rufinet36 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 2h]
+psychoman59 : suit. 75
+rufinet36 : parole 
+*** FLOP *** [6d 8h 7s]
+rufinet36 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6d 8h 7s] [7d]
+rufinet36 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6d 8h 7s 7d] [Td]
+rufinet36 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+rufinet36 : montre [Tc 2c] (double paire, Dix et Sept)
+psychoman59 : cache la main perdante. 
+rufinet36 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [6d 8h 7s 7d Td]
+Siège 2 : psychoman59 (bouton) (petite blind) a caché la main perdante. [Kh 2h]
+Siège 3 : rufinet36 (grosse blind) a montré [Tc 2c] et a gagné (340) avec double paire, Dix et Sept
+
+
+
+Main PokerStars n°237675988036 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 30/07/2022 11:07:14 CET [30/07/2022 5:07:14 ET]
+Table '3448831890 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (14280 en jetons) 
+Place 3: rufinet36 (5720 en jetons) 
+psychoman59 : met l'ante. 20
+rufinet36 : met l'ante. 20
+rufinet36 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 2s]
+rufinet36 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [4d Ks 4s]
+psychoman59 : parole 
+rufinet36 : parole 
+*** TOURNANT *** [4d Ks 4s] [Kh]
+psychoman59 : parole 
+rufinet36 : parole 
+*** RIVIÈRE *** [4d Ks 4s Kh] [Td]
+psychoman59 : parole 
+rufinet36 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5s 2s] (double paire, Rois et Quatre)
+rufinet36 : montre [3d 7d] (double paire, Rois et Quatre)
+psychoman59 a remporté 170  lors du pot .
+rufinet36 a remporté 170  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [4d Ks 4s Kh Td]
+Siège 2 : psychoman59 (grosse blind) a montré [5s 2s] et a gagné (170) avec double paire, Rois et Quatre
+Siège 3 : rufinet36 (bouton) (petite blind) a montré [3d 7d] et a gagné (170) avec double paire, Rois et Quatre
+
+
+
+Main PokerStars n°237675991654 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 30/07/2022 11:07:38 CET [30/07/2022 5:07:38 ET]
+Table '3448831890 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (14280 en jetons) 
+Place 3: rufinet36 (5720 en jetons) 
+psychoman59 : met l'ante. 20
+rufinet36 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+rufinet36 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à rufinet36.
+rufinet36 a remporté 190  lors du pot .
+rufinet36 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : rufinet36 (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°237675992835 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 30/07/2022 11:07:45 CET [30/07/2022 5:07:45 ET]
+Table '3448831890 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (14185 en jetons) 
+Place 3: rufinet36 (5815 en jetons) 
+psychoman59 : met l'ante. 20
+rufinet36 : met l'ante. 20
+rufinet36 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 2d]
+rufinet36 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [Ts Ad 6s]
+psychoman59 : parole 
+rufinet36 : parole 
+*** TOURNANT *** [Ts Ad 6s] [Jd]
+psychoman59 : parole 
+rufinet36 : parole 
+*** RIVIÈRE *** [Ts Ad 6s Jd] [4c]
+psychoman59 : parole 
+rufinet36 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7c 2d] (Hauteur As)
+rufinet36 : montre [Qc 5h] (Hauteur As - Dame kicker)
+rufinet36 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [Ts Ad 6s Jd 4c]
+Siège 2 : psychoman59 (grosse blind) a montré [7c 2d] et a perdu avec Hauteur As
+Siège 3 : rufinet36 (bouton) (petite blind) a montré [Qc 5h] et a gagné (340) avec Hauteur As
+
+
+
+Main PokerStars n°237675996264 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 30/07/2022 11:08:07 CET [30/07/2022 5:08:07 ET]
+Table '3448831890 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (14015 en jetons) 
+Place 3: rufinet36 (5985 en jetons) 
+psychoman59 : met l'ante. 20
+rufinet36 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+rufinet36 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à rufinet36.
+rufinet36 a remporté 190  lors du pot .
+rufinet36 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : rufinet36 (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°237675997330 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 30/07/2022 11:08:14 CET [30/07/2022 5:08:14 ET]
+Table '3448831890 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (13920 en jetons) 
+Place 3: rufinet36 (6080 en jetons) 
+psychoman59 : met l'ante. 20
+rufinet36 : met l'ante. 20
+rufinet36 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 6c]
+rufinet36 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [Js Kc 6d]
+psychoman59 : parole 
+rufinet36 : parole 
+*** TOURNANT *** [Js Kc 6d] [7s]
+psychoman59 : parole 
+rufinet36 : parole 
+*** RIVIÈRE *** [Js Kc 6d 7s] [9s]
+psychoman59 : parole 
+rufinet36 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3s 6c] (une paire de Six)
+rufinet36 : montre [9c 5h] (une paire de Neuf)
+rufinet36 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [Js Kc 6d 7s 9s]
+Siège 2 : psychoman59 (grosse blind) a montré [3s 6c] et a perdu avec une paire de Six
+Siège 3 : rufinet36 (bouton) (petite blind) a montré [9c 5h] et a gagné (340) avec une paire de Neuf
+
+
+
+Main PokerStars n°237676000666 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 30/07/2022 11:08:35 CET [30/07/2022 5:08:35 ET]
+Table '3448831890 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (13750 en jetons) 
+Place 3: rufinet36 (6250 en jetons) 
+psychoman59 : met l'ante. 20
+rufinet36 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+rufinet36 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 9c]
+psychoman59 : suit. 75
+rufinet36 : parole 
+*** FLOP *** [9d 3s 4h]
+rufinet36 : parole 
+psychoman59 : mise. 340
+rufinet36 : passe. 
+Personne n'a suivi. (340) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [9d 3s 4h]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (340)
+Siège 3 : rufinet36 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237676003163 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 30/07/2022 11:08:52 CET [30/07/2022 5:08:52 ET]
+Table '3448831890 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (13920 en jetons) 
+Place 3: rufinet36 (6080 en jetons) 
+psychoman59 : met l'ante. 20
+rufinet36 : met l'ante. 20
+rufinet36 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 4h]
+rufinet36 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [Ks Tc 8d]
+psychoman59 : parole 
+rufinet36 : mise. 150
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à rufinet36.
+rufinet36 a remporté 340  lors du pot .
+rufinet36 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [Ks Tc 8d]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : rufinet36 (bouton) (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°237676005966 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 30/07/2022 11:09:09 CET [30/07/2022 5:09:09 ET]
+Table '3448831890 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (13750 en jetons) 
+Place 3: rufinet36 (6250 en jetons) 
+psychoman59 : met l'ante. 20
+rufinet36 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+rufinet36 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 9c]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à rufinet36.
+rufinet36 a remporté 190  lors du pot .
+rufinet36 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : rufinet36 (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°237676007363 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 30/07/2022 11:09:18 CET [30/07/2022 5:09:18 ET]
+Table '3448831890 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (13655 en jetons) 
+Place 3: rufinet36 (6345 en jetons) 
+psychoman59 : met l'ante. 25
+rufinet36 : met l'ante. 25
+rufinet36 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 7s]
+rufinet36 : suit. 100
+psychoman59 : parole 
+*** FLOP *** [Qd Ad Tc]
+psychoman59 : parole 
+rufinet36 : parole 
+*** TOURNANT *** [Qd Ad Tc] [Ah]
+psychoman59 : parole 
+rufinet36 : parole 
+*** RIVIÈRE *** [Qd Ad Tc Ah] [6c]
+psychoman59 : parole 
+rufinet36 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [2h 7s] (une paire de As)
+rufinet36 : montre [8s Kd] (une paire de As - Roi kicker)
+rufinet36 a remporté 450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [Qd Ad Tc Ah 6c]
+Siège 2 : psychoman59 (grosse blind) a montré [2h 7s] et a perdu avec une paire de As
+Siège 3 : rufinet36 (bouton) (petite blind) a montré [8s Kd] et a gagné (450) avec une paire de As
+
+
+
+Main PokerStars n°237676010425 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 30/07/2022 11:09:38 CET [30/07/2022 5:09:38 ET]
+Table '3448831890 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (13430 en jetons) 
+Place 3: rufinet36 (6570 en jetons) 
+psychoman59 : met l'ante. 25
+rufinet36 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+rufinet36 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ts]
+psychoman59 : suit. 100
+rufinet36 : parole 
+*** FLOP *** [Jd 2d Qc]
+rufinet36 : parole 
+psychoman59 : mise. 450
+rufinet36 : passe. 
+Personne n'a suivi. (450) sont retournés à psychoman59.
+psychoman59 a remporté 450  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [Jd 2d Qc]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (450)
+Siège 3 : rufinet36 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237676013447 : Tournoi #3448831890, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 30/07/2022 11:09:57 CET [30/07/2022 5:09:57 ET]
+Table '3448831890 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (13655 en jetons) 
+Place 3: rufinet36 (6345 en jetons) 
+psychoman59 : met l'ante. 25
+rufinet36 : met l'ante. 25
+rufinet36 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 2d]
+rufinet36 : suit. 100
+psychoman59 : relance. 13430 à 13630 et est all-in.
+rufinet36 : suit. 6120 et est all-in.
+Personne n'a suivi. (7310) sont retournés à psychoman59.
+*** FLOP *** [9h 3c Jc]
+*** TOURNANT *** [9h 3c Jc] [9d]
+*** RIVIÈRE *** [9h 3c Jc 9d] [6c]
+*** ABATTAGE ***
+psychoman59 : montre [2h 2d] (double paire, Neuf et Deux)
+rufinet36 : montre [Qd As] (une paire de Neuf)
+psychoman59 a remporté 12690  lors du pot .
+rufinet36 a fini le tournoi à la 2e place et a reçu 0.34 €.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " €1.50 PSPC Mega Path Ticket "
+*** SYNTHÈSE ***
+Pot total 12690 | Commission 0 
+Tableau [9h 3c Jc 9d 6c]
+Siège 2 : psychoman59 (grosse blind) a montré [2h 2d] et a gagné (12690) avec double paire, Neuf et Deux
+Siège 3 : rufinet36 (bouton) (petite blind) a montré [Qd As] et a perdu avec une paire de Neuf
+
+
+

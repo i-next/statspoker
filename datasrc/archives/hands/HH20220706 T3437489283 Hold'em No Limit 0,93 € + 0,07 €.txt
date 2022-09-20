@@ -1,0 +1,377 @@
+﻿Main PokerStars n°237190404123 : Tournoi #3437489283, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/07/2022 10:06:04 CET [06/07/2022 4:06:04 ET]
+Table '3437489283 1' 3-max Siège #1 est au bouton.
+Place 1: messi du 45 (300 en jetons) 
+Place 2: ROM28102009 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+ROM28102009 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 3s]
+messi du 45 : suit. 20
+ROM28102009 : relance. 60 à 80
+psychoman59 : passe. 
+messi du 45 : passe. 
+Personne n'a suivi. (60) sont retournés à ROM28102009.
+ROM28102009 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : messi du 45 (bouton) s'est couché. avant Flop
+Siège 2 : ROM28102009 (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237190405966 : Tournoi #3437489283, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/07/2022 10:06:19 CET [06/07/2022 4:06:19 ET]
+Table '3437489283 1' 3-max Siège #2 est au bouton.
+Place 1: messi du 45 (280 en jetons) 
+Place 2: ROM28102009 (340 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+messi du 45 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 5c]
+ROM28102009 : relance. 20 à 40
+psychoman59 : suit. 30
+messi du 45 : suit. 20
+*** FLOP *** [Kh 6c Qd]
+psychoman59 : parole 
+messi du 45 : parole 
+ROM28102009 : mise. 60
+psychoman59 : passe. 
+messi du 45 : passe. 
+Personne n'a suivi. (60) sont retournés à ROM28102009.
+ROM28102009 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Kh 6c Qd]
+Siège 1 : messi du 45 (grosse blind) s'est couché. sur le Flop
+Siège 2 : ROM28102009 (bouton) a remporté (120)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237190410384 : Tournoi #3437489283, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/07/2022 10:06:47 CET [06/07/2022 4:06:47 ET]
+Table '3437489283 1' 3-max Siège #3 est au bouton.
+Place 1: messi du 45 (240 en jetons) 
+Place 2: ROM28102009 (420 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+messi du 45 : met la petite blind. 10
+ROM28102009 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 6s]
+psychoman59 : passe. 
+messi du 45 : suit. 10
+ROM28102009 : parole 
+*** FLOP *** [8h Jd 9s]
+messi du 45 : parole 
+ROM28102009 : mise. 20
+messi du 45 : suit. 20
+*** TOURNANT *** [8h Jd 9s] [Tc]
+messi du 45 : parole 
+ROM28102009 : mise. 80
+messi du 45 : passe. 
+Personne n'a suivi. (80) sont retournés à ROM28102009.
+ROM28102009 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8h Jd 9s Tc]
+Siège 1 : messi du 45 (petite blind) s'est couché. sur le Tournant
+Siège 2 : ROM28102009 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237190414646 : Tournoi #3437489283, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 06/07/2022 10:07:21 CET [06/07/2022 4:07:21 ET]
+Table '3437489283 1' 3-max Siège #1 est au bouton.
+Place 1: messi du 45 (200 en jetons) 
+Place 2: ROM28102009 (460 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+ROM28102009 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Tc]
+messi du 45 : suit. 30
+ROM28102009 : relance. 430 à 460 et est all-in.
+psychoman59 : passe. 
+messi du 45 : suit. 170 et est all-in.
+Personne n'a suivi. (260) sont retournés à ROM28102009.
+*** FLOP *** [4h 3d Ts]
+*** TOURNANT *** [4h 3d Ts] [8h]
+*** RIVIÈRE *** [4h 3d Ts 8h] [2d]
+*** ABATTAGE ***
+ROM28102009 : montre [7h 7d] (une paire de Sept)
+messi du 45 : montre [Qh 8d] (une paire de Huit)
+messi du 45 a remporté 430  lors du pot .
+*** SYNTHÈSE ***
+Pot total 430 | Commission 0 
+Tableau [4h 3d Ts 8h 2d]
+Siège 1 : messi du 45 (bouton) a montré [Qh 8d] et a gagné (430) avec une paire de Huit
+Siège 2 : ROM28102009 (petite blind) a montré [7h 7d] et a perdu avec une paire de Sept
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237190417336 : Tournoi #3437489283, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 06/07/2022 10:07:43 CET [06/07/2022 4:07:43 ET]
+Table '3437489283 1' 3-max Siège #2 est au bouton.
+Place 1: messi du 45 (430 en jetons) 
+Place 2: ROM28102009 (260 en jetons) 
+Place 3: psychoman59 (210 en jetons) 
+psychoman59 : met la petite blind. 15
+messi du 45 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 4c]
+ROM28102009 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à messi du 45.
+messi du 45 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : messi du 45 (grosse blind) a remporté (30)
+Siège 2 : ROM28102009 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237190417979 : Tournoi #3437489283, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 06/07/2022 10:07:48 CET [06/07/2022 4:07:48 ET]
+Table '3437489283 1' 3-max Siège #3 est au bouton.
+Place 1: messi du 45 (445 en jetons) 
+Place 2: ROM28102009 (260 en jetons) 
+Place 3: psychoman59 (195 en jetons) 
+messi du 45 : met la petite blind. 15
+ROM28102009 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Js]
+psychoman59 : relance. 165 à 195 et est all-in.
+messi du 45 : suit. 180
+ROM28102009 : passe. 
+*** FLOP *** [2d 3s Jh]
+*** TOURNANT *** [2d 3s Jh] [3d]
+*** RIVIÈRE *** [2d 3s Jh 3d] [Th]
+*** ABATTAGE ***
+messi du 45 : montre [4h Qh] (une paire de Trois)
+psychoman59 : montre [Kc Js] (double paire, Valets et Trois)
+psychoman59 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [2d 3s Jh 3d Th]
+Siège 1 : messi du 45 (petite blind) a montré [4h Qh] et a perdu avec une paire de Trois
+Siège 2 : ROM28102009 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [Kc Js] et a gagné (420) avec double paire, Valets et Trois
+
+
+
+Main PokerStars n°237190419999 : Tournoi #3437489283, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 06/07/2022 10:08:05 CET [06/07/2022 4:08:05 ET]
+Table '3437489283 1' 3-max Siège #1 est au bouton.
+Place 1: messi du 45 (250 en jetons) 
+Place 2: ROM28102009 (230 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+ROM28102009 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Th]
+messi du 45 : suit. 30
+ROM28102009 : relance. 200 à 230 et est all-in.
+psychoman59 : passe. 
+messi du 45 : passe. 
+Personne n'a suivi. (200) sont retournés à ROM28102009.
+ROM28102009 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Siège 1 : messi du 45 (bouton) s'est couché. avant Flop
+Siège 2 : ROM28102009 (petite blind) a remporté (90)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237190422229 : Tournoi #3437489283, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 06/07/2022 10:08:23 CET [06/07/2022 4:08:23 ET]
+Table '3437489283 1' 3-max Siège #2 est au bouton.
+Place 1: messi du 45 (220 en jetons) 
+Place 2: ROM28102009 (290 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+psychoman59 : met la petite blind. 20
+messi du 45 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ah]
+ROM28102009 : relance. 250 à 290 et est all-in.
+psychoman59 : suit. 270
+messi du 45 : passe. 
+*** FLOP *** [8s Qh 3c]
+*** TOURNANT *** [8s Qh 3c] [Ks]
+*** RIVIÈRE *** [8s Qh 3c Ks] [4h]
+*** ABATTAGE ***
+psychoman59 : montre [5h Ah] (Hauteur As)
+ROM28102009 : montre [Jd 8c] (une paire de Huit)
+ROM28102009 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [8s Qh 3c Ks 4h]
+Siège 1 : messi du 45 (grosse blind) s'est couché. avant Flop
+Siège 2 : ROM28102009 (bouton) a montré [Jd 8c] et a gagné (620) avec une paire de Huit
+Siège 3 : psychoman59 (petite blind) a montré [5h Ah] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237190424420 : Tournoi #3437489283, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 06/07/2022 10:08:41 CET [06/07/2022 4:08:41 ET]
+Table '3437489283 1' 3-max Siège #3 est au bouton.
+Place 1: messi du 45 (180 en jetons) 
+Place 2: ROM28102009 (620 en jetons) 
+Place 3: psychoman59 (100 en jetons) 
+messi du 45 : met la petite blind. 20
+ROM28102009 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Ad]
+psychoman59 : relance. 60 à 100 et est all-in.
+messi du 45 : relance. 60 à 160
+ROM28102009 : passe. 
+Personne n'a suivi. (60) sont retournés à messi du 45.
+*** FLOP *** [Td 2s Qc]
+*** TOURNANT *** [Td 2s Qc] [Qh]
+*** RIVIÈRE *** [Td 2s Qc Qh] [Ts]
+*** ABATTAGE ***
+messi du 45 : montre [6h Kh] (double paire, Dames et Dix)
+psychoman59 : montre [Qd Ad] (un full, full aux Dames par les Dix)
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Td 2s Qc Qh Ts]
+Siège 1 : messi du 45 (petite blind) a montré [6h Kh] et a perdu avec double paire, Dames et Dix
+Siège 2 : ROM28102009 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [Qd Ad] et a gagné (240) avec un full, full aux Dames par les Dix
+
+
+
+Main PokerStars n°237190426594 : Tournoi #3437489283, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 06/07/2022 10:08:58 CET [06/07/2022 4:08:58 ET]
+Table '3437489283 1' 3-max Siège #1 est au bouton.
+Place 1: messi du 45 (80 en jetons) 
+Place 2: ROM28102009 (580 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+ROM28102009 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 5c]
+messi du 45 : relance. 40 à 80 et est all-in.
+ROM28102009 : relance. 500 à 580 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (500) sont retournés à ROM28102009.
+*** FLOP *** [Ks 2h 8c]
+*** TOURNANT *** [Ks 2h 8c] [7s]
+*** RIVIÈRE *** [Ks 2h 8c 7s] [5h]
+*** ABATTAGE ***
+ROM28102009 : montre [9c 7c] (une paire de Sept)
+messi du 45 : montre [Tc 9s] (Hauteur Roi)
+ROM28102009 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Ks 2h 8c 7s 5h]
+Siège 1 : messi du 45 (bouton) a montré [Tc 9s] et a perdu avec Hauteur Roi
+Siège 2 : ROM28102009 (petite blind) a montré [9c 7c] et a gagné (200) avec une paire de Sept
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237190428882 : Tournoi #3437489283, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/07/2022 10:09:18 CET [06/07/2022 4:09:18 ET]
+Table '3437489283 1' 3-max Siège #3 est au bouton.
+Place 2: ROM28102009 (700 en jetons) 
+Place 3: psychoman59 (200 en jetons) 
+psychoman59 : met la petite blind. 30
+ROM28102009 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 2s]
+psychoman59 : relance. 140 à 200 et est all-in.
+ROM28102009 : suit. 140
+*** FLOP *** [9d 4h Qc]
+*** TOURNANT *** [9d 4h Qc] [Kh]
+*** RIVIÈRE *** [9d 4h Qc Kh] [7d]
+*** ABATTAGE ***
+ROM28102009 : montre [Tc 6c] (Hauteur Roi)
+psychoman59 : montre [Ac 2s] (Hauteur As)
+psychoman59 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [9d 4h Qc Kh 7d]
+Siège 2 : ROM28102009 (grosse blind) a montré [Tc 6c] et a perdu avec Hauteur Roi
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ac 2s] et a gagné (400) avec Hauteur As
+
+
+
+Main PokerStars n°237190430570 : Tournoi #3437489283, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/07/2022 10:09:32 CET [06/07/2022 4:09:32 ET]
+Table '3437489283 1' 3-max Siège #2 est au bouton.
+Place 2: ROM28102009 (500 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+ROM28102009 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 6h]
+ROM28102009 : relance. 440 à 500 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (440) sont retournés à ROM28102009.
+ROM28102009 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : ROM28102009 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237190431401 : Tournoi #3437489283, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/07/2022 10:09:38 CET [06/07/2022 4:09:38 ET]
+Table '3437489283 1' 3-max Siège #3 est au bouton.
+Place 2: ROM28102009 (560 en jetons) 
+Place 3: psychoman59 (340 en jetons) 
+psychoman59 : met la petite blind. 30
+ROM28102009 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Ac]
+psychoman59 : relance. 280 à 340 et est all-in.
+ROM28102009 : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : ROM28102009 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237190432527 : Tournoi #3437489283, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/07/2022 10:09:47 CET [06/07/2022 4:09:47 ET]
+Table '3437489283 1' 3-max Siège #2 est au bouton.
+Place 2: ROM28102009 (500 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+ROM28102009 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 2c]
+ROM28102009 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : ROM28102009 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237190433087 : Tournoi #3437489283, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/07/2022 10:09:52 CET [06/07/2022 4:09:52 ET]
+Table '3437489283 1' 3-max Siège #3 est au bouton.
+Place 2: ROM28102009 (470 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 30
+ROM28102009 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ts]
+psychoman59 : relance. 370 à 430 et est all-in.
+ROM28102009 : suit. 370
+*** FLOP *** [2s Kc Kd]
+*** TOURNANT *** [2s Kc Kd] [3s]
+*** RIVIÈRE *** [2s Kc Kd 3s] [Jd]
+*** ABATTAGE ***
+ROM28102009 : montre [Ac Ah] (double paire, As et Rois)
+psychoman59 : montre [Qh Ts] (une paire de Rois)
+ROM28102009 a remporté 860  lors du pot .
+*** SYNTHÈSE ***
+Pot total 860 | Commission 0 
+Tableau [2s Kc Kd 3s Jd]
+Siège 2 : ROM28102009 (grosse blind) a montré [Ac Ah] et a gagné (860) avec double paire, As et Rois
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Qh Ts] et a perdu avec une paire de Rois
+
+
+

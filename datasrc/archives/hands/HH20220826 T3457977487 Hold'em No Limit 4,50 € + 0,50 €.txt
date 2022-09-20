@@ -1,0 +1,1053 @@
+﻿Main PokerStars n°238227194874 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau I (125/250) - 26/08/2022 17:01:24 CET [26/08/2022 11:01:24 ET]
+Table '3457977487 24' 6-max Siège #2 est au bouton.
+Place 1: diegorroms93 (49970 en jetons) 
+Place 2: edu augusto (49345 en jetons) 
+Place 3: elcabo360 (49720 en jetons) 
+Place 5: RS_DD411 (50995 en jetons) 
+Place 6: psychoman59 (50000 en jetons) 
+diegorroms93 : met l'ante. 30
+edu augusto : met l'ante. 30
+elcabo360 : met l'ante. 30
+RS_DD411 : met l'ante. 30
+psychoman59 : met l'ante. 30
+elcabo360 : met la petite blind. 125
+RS_DD411 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c As]
+psychoman59 : suit. 250
+diegorroms93 : suit. 250
+edu augusto : passe. 
+elcabo360 : passe. 
+RainbowS.L est déconnecté 
+RS_DD411 : parole 
+*** FLOP *** [Kh 8h Tc]
+RS_DD411 : parole 
+psychoman59 : parole 
+diegorroms93 : mise. 1025
+RS_DD411 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (1025) sont retournés à diegorroms93.
+diegorroms93 a remporté 1025  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1025 | Commission 0 
+Tableau [Kh 8h Tc]
+Siège 1 : diegorroms93 a remporté (1025)
+Siège 2 : edu augusto (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : elcabo360 (petite blind) s'est couché. avant Flop
+Siège 5 : RS_DD411 (grosse blind) s'est couché. sur le Flop
+Siège 6 : psychoman59 s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238227206109 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau I (125/250) - 26/08/2022 17:02:08 CET [26/08/2022 11:02:08 ET]
+Table '3457977487 24' 6-max Siège #3 est au bouton.
+Place 1: diegorroms93 (50715 en jetons) 
+Place 2: edu augusto (49315 en jetons) 
+Place 3: elcabo360 (49565 en jetons) 
+Place 4: RainbowS.L (50000 en jetons) en dehors de la main (déplacé à la petite blind d'une autre table)
+Place 5: RS_DD411 (50715 en jetons) 
+Place 6: psychoman59 (49720 en jetons) 
+RainbowS.L sera autorisé à jouer après le bouton.
+diegorroms93 : met l'ante. 30
+edu augusto : met l'ante. 30
+elcabo360 : met l'ante. 30
+RS_DD411 : met l'ante. 30
+psychoman59 : met l'ante. 30
+RS_DD411 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Kd]
+diegorroms93 : passe. 
+edu augusto : passe. 
+elcabo360 : passe. 
+RS_DD411 : relance. 500 à 750
+psychoman59 : suit. 500
+*** FLOP *** [2d Qs 8c]
+RS_DD411 : mise. 908
+psychoman59 : passe. 
+Personne n'a suivi. (908) sont retournés à RS_DD411.
+RS_DD411 a remporté 1650  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1650 | Commission 0 
+Tableau [2d Qs 8c]
+Siège 1 : diegorroms93 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : edu augusto s'est couché. avant Flop (n'a pas misé)
+Siège 3 : elcabo360 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : RS_DD411 (petite blind) a remporté (1650)
+Siège 6 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238227215738 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau I (125/250) - 26/08/2022 17:02:45 CET [26/08/2022 11:02:45 ET]
+Table '3457977487 24' 6-max Siège #5 est au bouton.
+Place 1: diegorroms93 (50685 en jetons) 
+Place 2: edu augusto (49285 en jetons) 
+Place 3: elcabo360 (49535 en jetons) 
+Place 4: RainbowS.L (50000 en jetons) 
+Place 5: RS_DD411 (51585 en jetons) 
+Place 6: psychoman59 (48940 en jetons) 
+diegorroms93 : met l'ante. 30
+edu augusto : met l'ante. 30
+elcabo360 : met l'ante. 30
+RainbowS.L : met l'ante. 30
+RS_DD411 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+diegorroms93 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 4s]
+edu augusto : passe. 
+elcabo360 : relance. 375 à 625
+RainbowS.L : passe. 
+RS_DD411 : passe. 
+psychoman59 : passe. 
+diegorroms93 : suit. 375
+*** FLOP *** [3d 6h 2s]
+diegorroms93 : parole 
+elcabo360 : mise. 513
+diegorroms93 : suit. 513
+*** TOURNANT *** [3d 6h 2s] [4c]
+diegorroms93 : mise. 1290
+elcabo360 : passe. 
+Personne n'a suivi. (1290) sont retournés à diegorroms93.
+diegorroms93 a remporté 2581  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2581 | Commission 0 
+Tableau [3d 6h 2s 4c]
+Siège 1 : diegorroms93 (grosse blind) a remporté (2581)
+Siège 2 : edu augusto s'est couché. avant Flop (n'a pas misé)
+Siège 3 : elcabo360 s'est couché. sur le Tournant
+Siège 4 : RainbowS.L s'est couché. avant Flop (n'a pas misé)
+Siège 5 : RS_DD411 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238227228363 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau I (125/250) - 26/08/2022 17:03:32 CET [26/08/2022 11:03:32 ET]
+Table '3457977487 24' 6-max Siège #6 est au bouton.
+Place 1: diegorroms93 (52098 en jetons) 
+Place 2: edu augusto (49255 en jetons) 
+Place 3: elcabo360 (48367 en jetons) 
+Place 4: RainbowS.L (49970 en jetons) 
+Place 5: RS_DD411 (51555 en jetons) 
+Place 6: psychoman59 (48785 en jetons) 
+diegorroms93 : met l'ante. 30
+edu augusto : met l'ante. 30
+elcabo360 : met l'ante. 30
+RainbowS.L : met l'ante. 30
+RS_DD411 : met l'ante. 30
+psychoman59 : met l'ante. 30
+diegorroms93 : met la petite blind. 125
+edu augusto : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 2d]
+elcabo360 : passe. 
+RainbowS.L : passe. 
+RS_DD411 : relance. 375 à 625
+psychoman59 : passe. 
+diegorroms93 : suit. 500
+edu augusto : passe. 
+*** FLOP *** [4c Kd Qh]
+diegorroms93 : parole 
+RS_DD411 : mise. 420
+diegorroms93 : passe. 
+Personne n'a suivi. (420) sont retournés à RS_DD411.
+RS_DD411 a remporté 1680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1680 | Commission 0 
+Tableau [4c Kd Qh]
+Siège 1 : diegorroms93 (petite blind) s'est couché. sur le Flop
+Siège 2 : edu augusto (grosse blind) s'est couché. avant Flop
+Siège 3 : elcabo360 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RainbowS.L s'est couché. avant Flop (n'a pas misé)
+Siège 5 : RS_DD411 a remporté (1680)
+Siège 6 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238227235591 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau I (125/250) - 26/08/2022 17:04:00 CET [26/08/2022 11:04:00 ET]
+Table '3457977487 24' 6-max Siège #1 est au bouton.
+Place 1: diegorroms93 (51443 en jetons) 
+Place 2: edu augusto (48975 en jetons) 
+Place 4: RainbowS.L (49940 en jetons) 
+Place 5: RS_DD411 (52580 en jetons) 
+Place 6: psychoman59 (48755 en jetons) 
+diegorroms93 : met l'ante. 30
+edu augusto : met l'ante. 30
+RainbowS.L : met l'ante. 30
+RS_DD411 : met l'ante. 30
+psychoman59 : met l'ante. 30
+edu augusto : met la petite blind. 125
+RainbowS.L : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 9s]
+RS_DD411 : passe. 
+psychoman59 : passe. 
+diegorroms93 : passe. 
+edu augusto : relance. 500 à 750
+RainbowS.L : passe. 
+Personne n'a suivi. (500) sont retournés à edu augusto.
+edu augusto a remporté 650  lors du pot .
+edu augusto : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 650 | Commission 0 
+Siège 1 : diegorroms93 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : edu augusto (petite blind) a remporté (650)
+Siège 4 : RainbowS.L (grosse blind) s'est couché. avant Flop
+Siège 5 : RS_DD411 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238227239459 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau I (125/250) - 26/08/2022 17:04:14 CET [26/08/2022 11:04:14 ET]
+Table '3457977487 24' 6-max Siège #2 est au bouton.
+Place 1: diegorroms93 (51413 en jetons) 
+Place 2: edu augusto (49345 en jetons) 
+Place 4: RainbowS.L (49660 en jetons) 
+Place 5: RS_DD411 (52550 en jetons) 
+Place 6: psychoman59 (48725 en jetons) 
+diegorroms93 : met l'ante. 30
+edu augusto : met l'ante. 30
+RainbowS.L : met l'ante. 30
+RS_DD411 : met l'ante. 30
+psychoman59 : met l'ante. 30
+RainbowS.L : met la petite blind. 125
+RS_DD411 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 9c]
+psychoman59 : passe. 
+diegorroms93 : passe. 
+edu augusto : relance. 300 à 550
+RainbowS.L : passe. 
+moim77 est déconnecté 
+RS_DD411 : suit. 300
+*** FLOP *** [6h 2s Td]
+RS_DD411 : parole 
+edu augusto : mise. 454
+RS_DD411 : suit. 454
+*** TOURNANT *** [6h 2s Td] [8s]
+RS_DD411 : parole 
+edu augusto : parole 
+*** RIVIÈRE *** [6h 2s Td 8s] [8d]
+RS_DD411 : mise. 1256
+edu augusto : relance. 2494 à 3750
+RS_DD411 : passe. 
+Personne n'a suivi. (2494) sont retournés à edu augusto.
+edu augusto a remporté 4795  lors du pot .
+edu augusto : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 4795 | Commission 0 
+Tableau [6h 2s Td 8s 8d]
+Siège 1 : diegorroms93 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : edu augusto (bouton) a remporté (4795)
+Siège 4 : RainbowS.L (petite blind) s'est couché. avant Flop
+Siège 5 : RS_DD411 (grosse blind) s'est couché. sur le Rivière
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238227267570 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau I (125/250) - 26/08/2022 17:05:56 CET [26/08/2022 11:05:56 ET]
+Table '3457977487 24' 6-max Siège #4 est au bouton.
+Place 1: diegorroms93 (51383 en jetons) 
+Place 2: edu augusto (51850 en jetons) 
+Place 3: moim77 (50000 en jetons) 
+Place 4: RainbowS.L (49505 en jetons) 
+Place 5: RS_DD411 (50260 en jetons) 
+Place 6: psychoman59 (48695 en jetons) 
+diegorroms93 : met l'ante. 30
+edu augusto : met l'ante. 30
+moim77 : met l'ante. 30
+RainbowS.L : met l'ante. 30
+RS_DD411 : met l'ante. 30
+psychoman59 : met l'ante. 30
+RS_DD411 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 4d]
+diegorroms93 : relance. 500 à 750
+edu augusto : passe. 
+moim77 : passe. 
+RainbowS.L : passe. 
+RS_DD411 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (500) sont retournés à diegorroms93.
+diegorroms93 a remporté 805  lors du pot .
+*** SYNTHÈSE ***
+Pot total 805 | Commission 0 
+Siège 1 : diegorroms93 a remporté (805)
+Siège 2 : edu augusto s'est couché. avant Flop (n'a pas misé)
+Siège 3 : moim77 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RainbowS.L (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : RS_DD411 (petite blind) s'est couché. avant Flop
+Siège 6 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238227276162 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau I (125/250) - 26/08/2022 17:06:25 CET [26/08/2022 11:06:25 ET]
+Table '3457977487 24' 6-max Siège #5 est au bouton.
+Place 1: diegorroms93 (51908 en jetons) 
+Place 2: edu augusto (51820 en jetons) 
+Place 3: moim77 (49970 en jetons) 
+Place 4: RainbowS.L (49475 en jetons) 
+Place 5: RS_DD411 (50105 en jetons) 
+Place 6: psychoman59 (48415 en jetons) 
+diegorroms93 : met l'ante. 30
+edu augusto : met l'ante. 30
+moim77 : met l'ante. 30
+RainbowS.L : met l'ante. 30
+RS_DD411 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+diegorroms93 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 4d]
+edu augusto : passe. 
+moim77 : passe. 
+RainbowS.L : passe. 
+RS_DD411 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à diegorroms93.
+diegorroms93 a remporté 430  lors du pot .
+*** SYNTHÈSE ***
+Pot total 430 | Commission 0 
+Siège 1 : diegorroms93 (grosse blind) a remporté (430)
+Siège 2 : edu augusto s'est couché. avant Flop (n'a pas misé)
+Siège 3 : moim77 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RainbowS.L s'est couché. avant Flop (n'a pas misé)
+Siège 5 : RS_DD411 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238227280981 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau I (125/250) - 26/08/2022 17:06:42 CET [26/08/2022 11:06:42 ET]
+Table '3457977487 24' 6-max Siège #6 est au bouton.
+Place 1: diegorroms93 (52183 en jetons) 
+Place 2: edu augusto (51790 en jetons) 
+Place 3: moim77 (49940 en jetons) 
+Place 4: RainbowS.L (49445 en jetons) 
+Place 5: RS_DD411 (50075 en jetons) 
+Place 6: psychoman59 (48260 en jetons) 
+diegorroms93 : met l'ante. 30
+edu augusto : met l'ante. 30
+moim77 : met l'ante. 30
+RainbowS.L : met l'ante. 30
+RS_DD411 : met l'ante. 30
+psychoman59 : met l'ante. 30
+diegorroms93 : met la petite blind. 125
+edu augusto : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 2c]
+moim77 : passe. 
+RainbowS.L : relance. 500 à 750
+RS_DD411 : passe. 
+psychoman59 : passe. 
+diegorroms93 : suit. 625
+edu augusto : suit. 500
+*** FLOP *** [9d Ah 7d]
+diegorroms93 : parole 
+edu augusto : parole 
+RainbowS.L : mise. 1166
+diegorroms93 a dépassé le temps imparti.
+diegorroms93 : passe. 
+diegorroms93 ne joue pas.
+diegorroms93 est revenu.
+edu augusto : passe. 
+Personne n'a suivi. (1166) sont retournés à RainbowS.L.
+RainbowS.L a remporté 2430  lors du pot .
+RainbowS.L : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2430 | Commission 0 
+Tableau [9d Ah 7d]
+Siège 1 : diegorroms93 (petite blind) s'est couché. sur le Flop
+Siège 2 : edu augusto (grosse blind) s'est couché. sur le Flop
+Siège 3 : moim77 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RainbowS.L a remporté (2430)
+Siège 5 : RS_DD411 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238227302664 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau I (125/250) - 26/08/2022 17:07:58 CET [26/08/2022 11:07:58 ET]
+Table '3457977487 24' 6-max Siège #1 est au bouton.
+Place 1: diegorroms93 (51403 en jetons) 
+Place 2: edu augusto (51010 en jetons) 
+Place 3: moim77 (49910 en jetons) 
+Place 4: RainbowS.L (51095 en jetons) 
+Place 5: RS_DD411 (50045 en jetons) 
+Place 6: psychoman59 (48230 en jetons) 
+diegorroms93 : met l'ante. 30
+edu augusto : met l'ante. 30
+moim77 : met l'ante. 30
+RainbowS.L : met l'ante. 30
+RS_DD411 : met l'ante. 30
+psychoman59 : met l'ante. 30
+edu augusto : met la petite blind. 125
+moim77 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 4c]
+RainbowS.L : passe. 
+RS_DD411 : passe. 
+psychoman59 : passe. 
+diegorroms93 : relance. 805 à 1055
+edu augusto : passe. 
+moim77 : suit. 805
+*** FLOP *** [5s 4s Ks]
+moim77 : parole 
+diegorroms93 : mise. 1207
+moim77 : passe. 
+Personne n'a suivi. (1207) sont retournés à diegorroms93.
+diegorroms93 a remporté 2415  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2415 | Commission 0 
+Tableau [5s 4s Ks]
+Siège 1 : diegorroms93 (bouton) a remporté (2415)
+Siège 2 : edu augusto (petite blind) s'est couché. avant Flop
+Siège 3 : moim77 (grosse blind) s'est couché. sur le Flop
+Siège 4 : RainbowS.L s'est couché. avant Flop (n'a pas misé)
+Siège 5 : RS_DD411 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238227316296 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau I (125/250) - 26/08/2022 17:08:45 CET [26/08/2022 11:08:45 ET]
+Table '3457977487 24' 6-max Siège #2 est au bouton.
+Place 1: diegorroms93 (52733 en jetons) 
+Place 2: edu augusto (50855 en jetons) 
+Place 3: moim77 (48825 en jetons) 
+Place 4: RainbowS.L (51065 en jetons) 
+Place 5: RS_DD411 (50015 en jetons) 
+Place 6: psychoman59 (48200 en jetons) 
+diegorroms93 : met l'ante. 30
+edu augusto : met l'ante. 30
+moim77 : met l'ante. 30
+RainbowS.L : met l'ante. 30
+RS_DD411 : met l'ante. 30
+psychoman59 : met l'ante. 30
+moim77 : met la petite blind. 125
+RainbowS.L : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ah]
+RS_DD411 : passe. 
+psychoman59 : passe. 
+diegorroms93 : suit. 250
+edu augusto : relance. 750 à 1000
+moim77 : suit. 875
+RainbowS.L : passe. 
+diegorroms93 : suit. 750
+*** FLOP *** [5s 8h 7d]
+moim77 : parole 
+diegorroms93 : mise. 250
+edu augusto : suit. 250
+moim77 : suit. 250
+*** TOURNANT *** [5s 8h 7d] [Jh]
+moim77 : parole 
+diegorroms93 : mise. 2090
+edu augusto : suit. 2090
+moim77 : passe. 
+*** RIVIÈRE *** [5s 8h 7d Jh] [7s]
+diegorroms93 : parole 
+edu augusto : parole 
+*** ABATTAGE ***
+diegorroms93 : montre [8d Th] (double paire, Huit et Sept)
+edu augusto : montre [9c Jc] (double paire, Valets et Sept)
+edu augusto a remporté 8360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 8360 | Commission 0 
+Tableau [5s 8h 7d Jh 7s]
+Siège 1 : diegorroms93 a montré [8d Th] et a perdu avec double paire, Huit et Sept
+Siège 2 : edu augusto (bouton) a montré [9c Jc] et a gagné (8360) avec double paire, Valets et Sept
+Siège 3 : moim77 (petite blind) s'est couché. sur le Tournant
+Siège 4 : RainbowS.L (grosse blind) s'est couché. avant Flop
+Siège 5 : RS_DD411 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238227333894 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau I (125/250) - 26/08/2022 17:09:47 CET [26/08/2022 11:09:47 ET]
+Table '3457977487 24' 6-max Siège #3 est au bouton.
+Place 1: diegorroms93 (49363 en jetons) 
+Place 2: edu augusto (55845 en jetons) 
+Place 3: moim77 (47545 en jetons) 
+Place 4: RainbowS.L (50785 en jetons) 
+Place 5: RS_DD411 (49985 en jetons) 
+Place 6: psychoman59 (48170 en jetons) 
+diegorroms93 : met l'ante. 30
+edu augusto : met l'ante. 30
+moim77 : met l'ante. 30
+RainbowS.L : met l'ante. 30
+RS_DD411 : met l'ante. 30
+psychoman59 : met l'ante. 30
+RainbowS.L : met la petite blind. 125
+RS_DD411 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 4h]
+psychoman59 : passe. 
+diegorroms93 : relance. 805 à 1055
+edu augusto : passe. 
+moim77 : passe. 
+RainbowS.L : passe. 
+RS_DD411 : passe. 
+Personne n'a suivi. (805) sont retournés à diegorroms93.
+diegorroms93 a remporté 805  lors du pot .
+*** SYNTHÈSE ***
+Pot total 805 | Commission 0 
+Siège 1 : diegorroms93 a remporté (805)
+Siège 2 : edu augusto s'est couché. avant Flop (n'a pas misé)
+Siège 3 : moim77 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RainbowS.L (petite blind) s'est couché. avant Flop
+Siège 5 : RS_DD411 (grosse blind) s'est couché. avant Flop
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238227340265 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau II (150/300) - 26/08/2022 17:10:09 CET [26/08/2022 11:10:09 ET]
+Table '3457977487 24' 6-max Siège #4 est au bouton.
+Place 1: diegorroms93 (49888 en jetons) 
+Place 2: edu augusto (55815 en jetons) 
+Place 3: moim77 (47515 en jetons) 
+Place 4: RainbowS.L (50630 en jetons) 
+Place 5: RS_DD411 (49705 en jetons) 
+Place 6: psychoman59 (48140 en jetons) 
+diegorroms93 : met l'ante. 40
+edu augusto : met l'ante. 40
+moim77 : met l'ante. 40
+RainbowS.L : met l'ante. 40
+RS_DD411 : met l'ante. 40
+psychoman59 : met l'ante. 40
+RS_DD411 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 9c]
+diegorroms93 : suit. 300
+edu augusto : passe. 
+moim77 : suit. 300
+RainbowS.L : relance. 1590 à 1890
+RS_DD411 : passe. 
+psychoman59 : suit. 1590
+diegorroms93 : passe. 
+moim77 : suit. 1590
+*** FLOP *** [7d 7c 4d]
+psychoman59 : parole 
+moim77 : parole 
+RainbowS.L : mise. 3053
+psychoman59 : passe. 
+moim77 : passe. 
+Personne n'a suivi. (3053) sont retournés à RainbowS.L.
+RainbowS.L a remporté 6360  lors du pot .
+RainbowS.L : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 6360 | Commission 0 
+Tableau [7d 7c 4d]
+Siège 1 : diegorroms93 s'est couché. avant Flop
+Siège 2 : edu augusto s'est couché. avant Flop (n'a pas misé)
+Siège 3 : moim77 s'est couché. sur le Flop
+Siège 4 : RainbowS.L (bouton) a remporté (6360)
+Siège 5 : RS_DD411 (petite blind) s'est couché. avant Flop
+Siège 6 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238227363377 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau II (150/300) - 26/08/2022 17:11:29 CET [26/08/2022 11:11:29 ET]
+Table '3457977487 24' 6-max Siège #5 est au bouton.
+Place 1: diegorroms93 (49548 en jetons) 
+Place 2: edu augusto (55775 en jetons) 
+Place 3: moim77 (45585 en jetons) 
+Place 4: RainbowS.L (55060 en jetons) 
+Place 5: RS_DD411 (49515 en jetons) 
+Place 6: psychoman59 (46210 en jetons) 
+diegorroms93 : met l'ante. 40
+edu augusto : met l'ante. 40
+moim77 : met l'ante. 40
+RainbowS.L : met l'ante. 40
+RS_DD411 : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+diegorroms93 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 6s]
+edu augusto : relance. 360 à 660
+moim77 : suit. 660
+RainbowS.L : passe. 
+RS_DD411 : passe. 
+psychoman59 : passe. 
+diegorroms93 : suit. 360
+*** FLOP *** [8c 7s 7c]
+diegorroms93 : parole 
+edu augusto : parole 
+moim77 : parole 
+*** TOURNANT *** [8c 7s 7c] [9c]
+diegorroms93 : parole 
+edu augusto : parole 
+moim77 : parole 
+*** RIVIÈRE *** [8c 7s 7c 9c] [8s]
+diegorroms93 : parole 
+edu augusto : parole 
+moim77 : parole 
+*** ABATTAGE ***
+diegorroms93 : montre [Th 4s] (double paire, Huit et Sept)
+edu augusto : montre [Ts As] (double paire, Huit et Sept - As kicker)
+moim77 : montre [9h Jh] (double paire, Neuf et Huit)
+moim77 a remporté 2370  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2370 | Commission 0 
+Tableau [8c 7s 7c 9c 8s]
+Siège 1 : diegorroms93 (grosse blind) a montré [Th 4s] et a perdu avec double paire, Huit et Sept
+Siège 2 : edu augusto a montré [Ts As] et a perdu avec double paire, Huit et Sept
+Siège 3 : moim77 a montré [9h Jh] et a gagné (2370) avec double paire, Neuf et Huit
+Siège 4 : RainbowS.L s'est couché. avant Flop (n'a pas misé)
+Siège 5 : RS_DD411 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238227381640 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau II (150/300) - 26/08/2022 17:12:32 CET [26/08/2022 11:12:32 ET]
+Table '3457977487 24' 6-max Siège #6 est au bouton.
+Place 1: diegorroms93 (48848 en jetons) 
+Place 2: edu augusto (55075 en jetons) 
+Place 3: moim77 (47255 en jetons) 
+Place 4: RainbowS.L (55020 en jetons) 
+Place 5: RS_DD411 (49475 en jetons) 
+Place 6: psychoman59 (46020 en jetons) 
+diegorroms93 : met l'ante. 40
+edu augusto : met l'ante. 40
+moim77 : met l'ante. 40
+RainbowS.L : met l'ante. 40
+RS_DD411 : met l'ante. 40
+psychoman59 : met l'ante. 40
+diegorroms93 : met la petite blind. 150
+edu augusto : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh As]
+moim77 : passe. 
+RainbowS.L : passe. 
+RS_DD411 : relance. 450 à 750
+psychoman59 : relance. 45230 à 45980 et est all-in.
+diegorroms93 : passe. 
+edu augusto : passe. 
+RS_DD411 : passe. 
+Personne n'a suivi. (45230) sont retournés à psychoman59.
+psychoman59 a remporté 2190  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2190 | Commission 0 
+Siège 1 : diegorroms93 (petite blind) s'est couché. avant Flop
+Siège 2 : edu augusto (grosse blind) s'est couché. avant Flop
+Siège 3 : moim77 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RainbowS.L s'est couché. avant Flop (n'a pas misé)
+Siège 5 : RS_DD411 s'est couché. avant Flop
+Siège 6 : psychoman59 (bouton) a remporté (2190)
+
+
+
+Main PokerStars n°238227396204 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau II (150/300) - 26/08/2022 17:13:22 CET [26/08/2022 11:13:22 ET]
+Table '3457977487 24' 6-max Siège #1 est au bouton.
+Place 1: diegorroms93 (48658 en jetons) 
+Place 2: edu augusto (54735 en jetons) 
+Place 3: moim77 (47215 en jetons) 
+Place 4: RainbowS.L (54980 en jetons) 
+Place 5: RS_DD411 (48685 en jetons) 
+Place 6: psychoman59 (47420 en jetons) 
+diegorroms93 : met l'ante. 40
+edu augusto : met l'ante. 40
+moim77 : met l'ante. 40
+RainbowS.L : met l'ante. 40
+RS_DD411 : met l'ante. 40
+psychoman59 : met l'ante. 40
+edu augusto : met la petite blind. 150
+moim77 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 8d]
+RainbowS.L : passe. 
+RS_DD411 : relance. 450 à 750
+psychoman59 : passe. 
+diegorroms93 : suit. 750
+edu augusto : passe. 
+moim77 : suit. 450
+*** FLOP *** [9s 5c Jd]
+moim77 : parole 
+RS_DD411 : mise. 1200
+diegorroms93 : relance. 5040 à 6240
+moim77 : passe. 
+RS_DD411 : suit. 5040
+*** TOURNANT *** [9s 5c Jd] [3c]
+RS_DD411 : parole 
+diegorroms93 : mise. 15120
+RS_DD411 : passe. 
+Personne n'a suivi. (15120) sont retournés à diegorroms93.
+diegorroms93 a remporté 15120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 15120 | Commission 0 
+Tableau [9s 5c Jd 3c]
+Siège 1 : diegorroms93 (bouton) a remporté (15120)
+Siège 2 : edu augusto (petite blind) s'est couché. avant Flop
+Siège 3 : moim77 (grosse blind) s'est couché. sur le Flop
+Siège 4 : RainbowS.L s'est couché. avant Flop (n'a pas misé)
+Siège 5 : RS_DD411 s'est couché. sur le Tournant
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238227412552 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau II (150/300) - 26/08/2022 17:14:19 CET [26/08/2022 11:14:19 ET]
+Table '3457977487 24' 6-max Siège #2 est au bouton.
+Place 1: diegorroms93 (56748 en jetons) 
+Place 2: edu augusto (54545 en jetons) 
+Place 3: moim77 (46425 en jetons) 
+Place 4: RainbowS.L (54940 en jetons) 
+Place 5: RS_DD411 (41655 en jetons) 
+Place 6: psychoman59 (47380 en jetons) 
+diegorroms93 : met l'ante. 40
+edu augusto : met l'ante. 40
+moim77 : met l'ante. 40
+RainbowS.L : met l'ante. 40
+RS_DD411 : met l'ante. 40
+psychoman59 : met l'ante. 40
+moim77 : met la petite blind. 150
+RainbowS.L : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 8c]
+RS_DD411 : passe. 
+psychoman59 : passe. 
+diegorroms93 : relance. 300 à 600
+edu augusto : passe. 
+moim77 : passe. 
+RainbowS.L : suit. 300
+*** FLOP *** [4d Ad 3d]
+RainbowS.L : parole 
+diegorroms93 : mise. 1590
+RainbowS.L : passe. 
+Personne n'a suivi. (1590) sont retournés à diegorroms93.
+diegorroms93 a remporté 1590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1590 | Commission 0 
+Tableau [4d Ad 3d]
+Siège 1 : diegorroms93 a remporté (1590)
+Siège 2 : edu augusto (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : moim77 (petite blind) s'est couché. avant Flop
+Siège 4 : RainbowS.L (grosse blind) s'est couché. sur le Flop
+Siège 5 : RS_DD411 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238227421132 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau II (150/300) - 26/08/2022 17:14:49 CET [26/08/2022 11:14:49 ET]
+Table '3457977487 24' 6-max Siège #3 est au bouton.
+Place 1: diegorroms93 (57698 en jetons) 
+Place 2: edu augusto (54505 en jetons) 
+Place 3: moim77 (46235 en jetons) 
+Place 4: RainbowS.L (54300 en jetons) 
+Place 5: RS_DD411 (41615 en jetons) 
+Place 6: psychoman59 (47340 en jetons) 
+diegorroms93 : met l'ante. 40
+edu augusto : met l'ante. 40
+moim77 : met l'ante. 40
+RainbowS.L : met l'ante. 40
+RS_DD411 : met l'ante. 40
+psychoman59 : met l'ante. 40
+RainbowS.L : met la petite blind. 150
+RS_DD411 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 4c]
+psychoman59 : passe. 
+diegorroms93 : relance. 990 à 1290
+edu augusto : passe. 
+moim77 : passe. 
+RainbowS.L : passe. 
+RS_DD411 : passe. 
+Personne n'a suivi. (990) sont retournés à diegorroms93.
+diegorroms93 a remporté 990  lors du pot .
+*** SYNTHÈSE ***
+Pot total 990 | Commission 0 
+Siège 1 : diegorroms93 a remporté (990)
+Siège 2 : edu augusto s'est couché. avant Flop (n'a pas misé)
+Siège 3 : moim77 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RainbowS.L (petite blind) s'est couché. avant Flop
+Siège 5 : RS_DD411 (grosse blind) s'est couché. avant Flop
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238227430389 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau II (150/300) - 26/08/2022 17:15:21 CET [26/08/2022 11:15:21 ET]
+Table '3457977487 24' 6-max Siège #4 est au bouton.
+Place 1: diegorroms93 (58348 en jetons) 
+Place 2: edu augusto (54465 en jetons) 
+Place 3: moim77 (46195 en jetons) 
+Place 4: RainbowS.L (54110 en jetons) 
+Place 5: RS_DD411 (41275 en jetons) 
+Place 6: psychoman59 (47300 en jetons) 
+diegorroms93 : met l'ante. 40
+edu augusto : met l'ante. 40
+moim77 : met l'ante. 40
+RainbowS.L : met l'ante. 40
+RS_DD411 : met l'ante. 40
+psychoman59 : met l'ante. 40
+RS_DD411 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Tc]
+diegorroms93 : passe. 
+edu augusto : passe. 
+moim77 : passe. 
+RainbowS.L : relance. 444 à 744
+RS_DD411 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (444) sont retournés à RainbowS.L.
+RainbowS.L a remporté 990  lors du pot .
+RainbowS.L : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 990 | Commission 0 
+Siège 1 : diegorroms93 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : edu augusto s'est couché. avant Flop (n'a pas misé)
+Siège 3 : moim77 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RainbowS.L (bouton) a remporté (990)
+Siège 5 : RS_DD411 (petite blind) s'est couché. avant Flop
+Siège 6 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238227443751 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau II (150/300) - 26/08/2022 17:16:08 CET [26/08/2022 11:16:08 ET]
+Table '3457977487 24' 6-max Siège #5 est au bouton.
+Place 1: diegorroms93 (58308 en jetons) 
+Place 2: edu augusto (54425 en jetons) 
+Place 3: moim77 (46155 en jetons) 
+Place 4: RainbowS.L (54760 en jetons) 
+Place 5: RS_DD411 (41085 en jetons) 
+Place 6: psychoman59 (46960 en jetons) 
+diegorroms93 : met l'ante. 40
+edu augusto : met l'ante. 40
+moim77 : met l'ante. 40
+RainbowS.L : met l'ante. 40
+RS_DD411 : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+diegorroms93 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 5h]
+edu augusto : passe. 
+moim77 : passe. 
+RainbowS.L : passe. 
+RS_DD411 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à diegorroms93.
+diegorroms93 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Siège 1 : diegorroms93 (grosse blind) a remporté (540)
+Siège 2 : edu augusto s'est couché. avant Flop (n'a pas misé)
+Siège 3 : moim77 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RainbowS.L s'est couché. avant Flop (n'a pas misé)
+Siège 5 : RS_DD411 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238227454815 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau II (150/300) - 26/08/2022 17:16:46 CET [26/08/2022 11:16:46 ET]
+Table '3457977487 24' 6-max Siège #6 est au bouton.
+Place 1: diegorroms93 (58658 en jetons) 
+Place 2: edu augusto (54385 en jetons) 
+Place 3: moim77 (46115 en jetons) 
+Place 4: RainbowS.L (54720 en jetons) 
+Place 5: RS_DD411 (41045 en jetons) 
+Place 6: psychoman59 (46770 en jetons) 
+diegorroms93 : met l'ante. 40
+edu augusto : met l'ante. 40
+moim77 : met l'ante. 40
+RainbowS.L : met l'ante. 40
+RS_DD411 : met l'ante. 40
+psychoman59 : met l'ante. 40
+diegorroms93 : met la petite blind. 150
+edu augusto : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 6s]
+moim77 : passe. 
+RainbowS.L : passe. 
+RS_DD411 : relance. 450 à 750
+psychoman59 : passe. 
+diegorroms93 a dépassé le temps imparti.
+diegorroms93 : passe. 
+diegorroms93 ne joue pas.
+diegorroms93 est revenu.
+edu augusto : suit. 450
+*** FLOP *** [5h Ks 8h]
+edu augusto : parole 
+RS_DD411 : mise. 1040
+edu augusto : passe. 
+Personne n'a suivi. (1040) sont retournés à RS_DD411.
+RS_DD411 a remporté 1890  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1890 | Commission 0 
+Tableau [5h Ks 8h]
+Siège 1 : diegorroms93 (petite blind) s'est couché. avant Flop
+Siège 2 : edu augusto (grosse blind) s'est couché. sur le Flop
+Siège 3 : moim77 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RainbowS.L s'est couché. avant Flop (n'a pas misé)
+Siège 5 : RS_DD411 a remporté (1890)
+Siège 6 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238227474514 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau II (150/300) - 26/08/2022 17:17:54 CET [26/08/2022 11:17:54 ET]
+Table '3457977487 24' 6-max Siège #1 est au bouton.
+Place 1: diegorroms93 (58468 en jetons) 
+Place 2: edu augusto (53595 en jetons) 
+Place 3: moim77 (46075 en jetons) 
+Place 4: RainbowS.L (54680 en jetons) 
+Place 5: RS_DD411 (42145 en jetons) 
+Place 6: psychoman59 (46730 en jetons) 
+diegorroms93 : met l'ante. 40
+edu augusto : met l'ante. 40
+moim77 : met l'ante. 40
+RainbowS.L : met l'ante. 40
+RS_DD411 : met l'ante. 40
+psychoman59 : met l'ante. 40
+edu augusto : met la petite blind. 150
+moim77 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 2h]
+RainbowS.L : passe. 
+RS_DD411 : passe. 
+psychoman59 : passe. 
+diegorroms93 : passe. 
+edu augusto : relance. 600 à 900
+moim77 : passe. 
+Personne n'a suivi. (600) sont retournés à edu augusto.
+edu augusto a remporté 840  lors du pot .
+edu augusto : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Siège 1 : diegorroms93 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : edu augusto (petite blind) a remporté (840)
+Siège 3 : moim77 (grosse blind) s'est couché. avant Flop
+Siège 4 : RainbowS.L s'est couché. avant Flop (n'a pas misé)
+Siège 5 : RS_DD411 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238227481178 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau II (150/300) - 26/08/2022 17:18:17 CET [26/08/2022 11:18:17 ET]
+Table '3457977487 24' 6-max Siège #2 est au bouton.
+Place 1: diegorroms93 (58428 en jetons) 
+Place 2: edu augusto (54095 en jetons) 
+Place 3: moim77 (45735 en jetons) 
+Place 4: RainbowS.L (54640 en jetons) 
+Place 5: RS_DD411 (42105 en jetons) 
+Place 6: psychoman59 (46690 en jetons) 
+diegorroms93 : met l'ante. 40
+edu augusto : met l'ante. 40
+moim77 : met l'ante. 40
+RainbowS.L : met l'ante. 40
+RS_DD411 : met l'ante. 40
+psychoman59 : met l'ante. 40
+moim77 : met la petite blind. 150
+RainbowS.L : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Td]
+RS_DD411 : relance. 450 à 750
+psychoman59 : passe. 
+diegorroms93 : suit. 750
+edu augusto : passe. 
+moim77 : passe. 
+RainbowS.L : relance. 2640 à 3390
+RS_DD411 : passe. 
+diegorroms93 : suit. 2640
+*** FLOP *** [6s 5d 9h]
+RainbowS.L : mise. 5465
+diegorroms93 : passe. 
+Personne n'a suivi. (5465) sont retournés à RainbowS.L.
+RainbowS.L a remporté 7920  lors du pot .
+RainbowS.L : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 7920 | Commission 0 
+Tableau [6s 5d 9h]
+Siège 1 : diegorroms93 s'est couché. sur le Flop
+Siège 2 : edu augusto (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : moim77 (petite blind) s'est couché. avant Flop
+Siège 4 : RainbowS.L (grosse blind) a remporté (7920)
+Siège 5 : RS_DD411 s'est couché. avant Flop
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238227496456 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau II (150/300) - 26/08/2022 17:19:10 CET [26/08/2022 11:19:10 ET]
+Table '3457977487 24' 6-max Siège #3 est au bouton.
+Place 1: diegorroms93 (54998 en jetons) 
+Place 2: edu augusto (54055 en jetons) 
+Place 3: moim77 (45545 en jetons) 
+Place 4: RainbowS.L (59130 en jetons) 
+Place 6: psychoman59 (46650 en jetons) 
+diegorroms93 : met l'ante. 40
+edu augusto : met l'ante. 40
+moim77 : met l'ante. 40
+RainbowS.L : met l'ante. 40
+psychoman59 : met l'ante. 40
+RainbowS.L : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Kc]
+diegorroms93 : suit. 300
+edu augusto : passe. 
+AJGRSC est déconnecté 
+moim77 : passe. 
+RainbowS.L : relance. 1200 à 1500
+psychoman59 : passe. 
+diegorroms93 : suit. 1200
+*** FLOP *** [2h Ts 6c]
+RainbowS.L : mise. 1680
+diegorroms93 : relance. 6860 à 8540
+RainbowS.L : passe. 
+Personne n'a suivi. (6860) sont retournés à diegorroms93.
+diegorroms93 a remporté 6860  lors du pot .
+*** SYNTHÈSE ***
+Pot total 6860 | Commission 0 
+Tableau [2h Ts 6c]
+Siège 1 : diegorroms93 a remporté (6860)
+Siège 2 : edu augusto s'est couché. avant Flop (n'a pas misé)
+Siège 3 : moim77 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RainbowS.L (petite blind) s'est couché. sur le Flop
+Siège 6 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238227519757 : Tournoi #3457977487, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau III (200/400) - 26/08/2022 17:20:31 CET [26/08/2022 11:20:31 ET]
+Table '3457977487 24' 6-max Siège #4 est au bouton.
+Place 1: diegorroms93 (58638 en jetons) 
+Place 2: edu augusto (54015 en jetons) 
+Place 3: moim77 (45505 en jetons) 
+Place 4: RainbowS.L (55910 en jetons) 
+Place 5: AJGRSC (50000 en jetons) en dehors de la main (déplacé à la petite blind d'une autre table)
+Place 6: psychoman59 (46310 en jetons) 
+AJGRSC sera autorisé à jouer après le bouton.
+diegorroms93 : met l'ante. 50
+edu augusto : met l'ante. 50
+moim77 : met l'ante. 50
+RainbowS.L : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+diegorroms93 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Tc]
+edu augusto : relance. 480 à 880
+moim77 : passe. 
+RainbowS.L : passe. 
+psychoman59 : relance. 45380 à 46260 et est all-in.
+diegorroms93 : relance. 12328 à 58588 et est all-in.
+edu augusto : passe. [Ac]
+Personne n'a suivi. (12328) sont retournés à diegorroms93.
+*** FLOP *** [Jh Qc 3h]
+*** TOURNANT *** [Jh Qc 3h] [6d]
+*** RIVIÈRE *** [Jh Qc 3h 6d] [9s]
+*** ABATTAGE ***
+psychoman59 : montre [Th Tc] (une paire de Dix)
+diegorroms93 : montre [Js Jc] (un brelan de Valets)
+diegorroms93 a remporté 93650  lors du pot .
+psychoman59 a terminé le tournoi
+*** SYNTHÈSE ***
+Pot total 93650 | Commission 0 
+Tableau [Jh Qc 3h 6d 9s]
+Siège 1 : diegorroms93 (grosse blind) a montré [Js Jc] et a gagné (93650) avec un brelan de Valets
+Siège 2 : edu augusto s'est couché. avant Flop
+Siège 3 : moim77 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RainbowS.L (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 (petite blind) a montré [Th Tc] et a perdu avec une paire de Dix
+
+
+

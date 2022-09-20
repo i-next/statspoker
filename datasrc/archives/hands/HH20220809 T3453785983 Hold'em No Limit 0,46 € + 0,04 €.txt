@@ -1,0 +1,95 @@
+﻿Main PokerStars n°237885971667 : Tournoi #3453785983, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 09/08/2022 17:24:48 CET [09/08/2022 11:24:48 ET]
+Table '3453785983 1' 4-max Siège #1 est au bouton.
+Place 1: PsickB-13 (5000 en jetons) 
+Place 2: BLANCAseis (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: PEPEGOLDE (5000 en jetons) 
+PsickB-13 : met l'ante. 10
+BLANCAseis : met l'ante. 10
+psychoman59 : met l'ante. 10
+PEPEGOLDE : met l'ante. 10
+BLANCAseis : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 4s]
+PEPEGOLDE : passe. 
+PsickB-13 : passe. 
+BLANCAseis : relance. 100 à 200
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à BLANCAseis.
+BLANCAseis a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : PsickB-13 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : BLANCAseis (petite blind) a remporté (240)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : PEPEGOLDE s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237885982064 : Tournoi #3453785983, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 09/08/2022 17:25:16 CET [09/08/2022 11:25:16 ET]
+Table '3453785983 1' 4-max Siège #2 est au bouton.
+Place 1: PsickB-13 (4990 en jetons) 
+Place 2: BLANCAseis (5130 en jetons) 
+Place 3: psychoman59 (4890 en jetons) 
+Place 4: PEPEGOLDE (4990 en jetons) 
+PsickB-13 : met l'ante. 10
+BLANCAseis : met l'ante. 10
+psychoman59 : met l'ante. 10
+PEPEGOLDE : met l'ante. 10
+psychoman59 : met la petite blind. 50
+PEPEGOLDE : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 2d]
+PsickB-13 : passe. 
+BLANCAseis : relance. 300 à 400
+psychoman59 : passe. 
+PEPEGOLDE : passe. 
+Personne n'a suivi. (300) sont retournés à BLANCAseis.
+BLANCAseis a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : PsickB-13 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : BLANCAseis (bouton) a remporté (290)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : PEPEGOLDE (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237885988200 : Tournoi #3453785983, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 09/08/2022 17:25:37 CET [09/08/2022 11:25:37 ET]
+Table '3453785983 1' 4-max Siège #3 est au bouton.
+Place 1: PsickB-13 (4980 en jetons) 
+Place 2: BLANCAseis (5310 en jetons) 
+Place 3: psychoman59 (4830 en jetons) 
+Place 4: PEPEGOLDE (4880 en jetons) 
+PsickB-13 : met l'ante. 10
+BLANCAseis : met l'ante. 10
+psychoman59 : met l'ante. 10
+PEPEGOLDE : met l'ante. 10
+PEPEGOLDE : met la petite blind. 50
+PsickB-13 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ac]
+BLANCAseis : suit. 100
+psychoman59 : relance. 4720 à 4820 et est all-in.
+PEPEGOLDE : passe. 
+PsickB-13 : passe. 
+BLANCAseis : suit. 4720
+*** FLOP *** [Ts Js 8h]
+*** TOURNANT *** [Ts Js 8h] [Kd]
+*** RIVIÈRE *** [Ts Js 8h Kd] [5s]
+*** ABATTAGE ***
+BLANCAseis : montre [4d 4h] (une paire de Quatre)
+psychoman59 : montre [3c Ac] (Hauteur As)
+BLANCAseis a remporté 9830  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 9830 | Commission 0 
+Tableau [Ts Js 8h Kd 5s]
+Siège 1 : PsickB-13 (grosse blind) s'est couché. avant Flop
+Siège 2 : BLANCAseis a montré [4d 4h] et a gagné (9830) avec une paire de Quatre
+Siège 3 : psychoman59 (bouton) a montré [3c Ac] et a perdu avec Hauteur As
+Siège 4 : PEPEGOLDE (petite blind) s'est couché. avant Flop
+
+
+

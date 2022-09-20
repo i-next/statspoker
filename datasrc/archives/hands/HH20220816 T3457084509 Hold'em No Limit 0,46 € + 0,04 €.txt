@@ -1,0 +1,950 @@
+﻿Main PokerStars n°238024083222 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 16/08/2022 16:00:04 CET [16/08/2022 10:00:04 ET]
+Table '3457084509 1' 4-max Siège #1 est au bouton.
+Place 1: agmom1985 (5000 en jetons) 
+Place 2: JCBERNABE (5000 en jetons) 
+Place 3: DIEGOJSTAR (5000 en jetons) 
+Place 4: psychoman59 (5000 en jetons) 
+agmom1985 : met l'ante. 10
+JCBERNABE : met l'ante. 10
+DIEGOJSTAR : met l'ante. 10
+psychoman59 : met l'ante. 10
+JCBERNABE : met la petite blind. 50
+DIEGOJSTAR : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 8c]
+psychoman59 : passe. 
+agmom1985 : suit. 100
+JCBERNABE : relance. 100 à 200
+DIEGOJSTAR : relance. 100 à 300
+agmom1985 : suit. 200
+JCBERNABE : suit. 100
+*** FLOP *** [As Jc Ac]
+JCBERNABE : parole 
+DIEGOJSTAR : parole 
+agmom1985 : parole 
+*** TOURNANT *** [As Jc Ac] [2c]
+JCBERNABE : mise. 300
+DIEGOJSTAR : suit. 300
+agmom1985 : suit. 300
+*** RIVIÈRE *** [As Jc Ac 2c] [6h]
+JCBERNABE : mise. 300
+DIEGOJSTAR : suit. 300
+agmom1985 : suit. 300
+*** ABATTAGE ***
+JCBERNABE : montre [3c 3d] (double paire, As et Trois)
+DIEGOJSTAR : montre [Ah 4d] (un brelan de As)
+agmom1985 : cache la main perdante. 
+DIEGOJSTAR a remporté 2740  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2740 | Commission 0 
+Tableau [As Jc Ac 2c 6h]
+Siège 1 : agmom1985 (bouton) a caché la main perdante. [Js Qh]
+Siège 2 : JCBERNABE (petite blind) a montré [3c 3d] et a perdu avec double paire, As et Trois
+Siège 3 : DIEGOJSTAR (grosse blind) a montré [Ah 4d] et a gagné (2740) avec un brelan de As
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238024094714 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 16/08/2022 16:00:56 CET [16/08/2022 10:00:56 ET]
+Table '3457084509 1' 4-max Siège #2 est au bouton.
+Place 1: agmom1985 (4090 en jetons) 
+Place 2: JCBERNABE (4090 en jetons) 
+Place 3: DIEGOJSTAR (6830 en jetons) 
+Place 4: psychoman59 (4990 en jetons) 
+agmom1985 : met l'ante. 10
+JCBERNABE : met l'ante. 10
+DIEGOJSTAR : met l'ante. 10
+psychoman59 : met l'ante. 10
+DIEGOJSTAR : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 3c]
+agmom1985 : passe. 
+JCBERNABE : relance. 100 à 200
+DIEGOJSTAR : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à JCBERNABE.
+JCBERNABE a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : agmom1985 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : JCBERNABE (bouton) a remporté (290)
+Siège 3 : DIEGOJSTAR (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238024105544 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 16/08/2022 16:01:42 CET [16/08/2022 10:01:42 ET]
+Table '3457084509 1' 4-max Siège #3 est au bouton.
+Place 1: agmom1985 (4080 en jetons) 
+Place 2: JCBERNABE (4270 en jetons) 
+Place 3: DIEGOJSTAR (6770 en jetons) 
+Place 4: psychoman59 (4880 en jetons) 
+agmom1985 : met l'ante. 10
+JCBERNABE : met l'ante. 10
+DIEGOJSTAR : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+agmom1985 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Jd]
+JCBERNABE : suit. 100
+DIEGOJSTAR : suit. 100
+psychoman59 : passe. 
+agmom1985 : parole 
+*** FLOP *** [6c 7c 9c]
+agmom1985 : parole 
+JCBERNABE : mise. 300
+DIEGOJSTAR : suit. 300
+agmom1985 : suit. 300
+*** TOURNANT *** [6c 7c 9c] [3c]
+agmom1985 : parole 
+JCBERNABE : mise. 300
+DIEGOJSTAR : passe. 
+agmom1985 : suit. 300
+*** RIVIÈRE *** [6c 7c 9c 3c] [Th]
+agmom1985 : parole 
+JCBERNABE : mise. 500
+agmom1985 : suit. 500
+*** ABATTAGE ***
+JCBERNABE : montre [7s Qc] (une couleur, hauteur Dame)
+agmom1985 : cache la main perdante. 
+JCBERNABE a remporté 2890  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2890 | Commission 0 
+Tableau [6c 7c 9c 3c Th]
+Siège 1 : agmom1985 (grosse blind) a caché la main perdante. [8c Ad]
+Siège 2 : JCBERNABE a montré [7s Qc] et a gagné (2890) avec une couleur, hauteur Dame
+Siège 3 : DIEGOJSTAR (bouton) s'est couché. sur le Tournant
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238024127110 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 16/08/2022 16:02:51 CET [16/08/2022 10:02:51 ET]
+Table '3457084509 1' 4-max Siège #4 est au bouton.
+Place 1: agmom1985 (2870 en jetons) 
+Place 2: JCBERNABE (5950 en jetons) 
+Place 3: DIEGOJSTAR (6360 en jetons) 
+Place 4: psychoman59 (4820 en jetons) 
+agmom1985 : met l'ante. 10
+JCBERNABE : met l'ante. 10
+DIEGOJSTAR : met l'ante. 10
+psychoman59 : met l'ante. 10
+agmom1985 : met la petite blind. 50
+JCBERNABE : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 6h]
+DIEGOJSTAR : passe. 
+psychoman59 : passe. 
+agmom1985 : relance. 100 à 200
+JCBERNABE : suit. 100
+*** FLOP *** [7h 5c 6s]
+agmom1985 : mise. 100
+JCBERNABE : suit. 100
+*** TOURNANT *** [7h 5c 6s] [2s]
+agmom1985 : mise. 100
+JCBERNABE : suit. 100
+*** RIVIÈRE *** [7h 5c 6s 2s] [Qh]
+agmom1985 : mise. 100
+JCBERNABE : passe. 
+Personne n'a suivi. (100) sont retournés à agmom1985.
+agmom1985 a remporté 840  lors du pot .
+agmom1985 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [7h 5c 6s 2s Qh]
+Siège 1 : agmom1985 (petite blind) a remporté (840)
+Siège 2 : JCBERNABE (grosse blind) s'est couché. sur le Rivière
+Siège 3 : DIEGOJSTAR s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238024136341 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 16/08/2022 16:03:28 CET [16/08/2022 10:03:28 ET]
+Table '3457084509 1' 4-max Siège #1 est au bouton.
+Place 1: agmom1985 (3300 en jetons) 
+Place 2: JCBERNABE (5540 en jetons) 
+Place 3: DIEGOJSTAR (6350 en jetons) 
+Place 4: psychoman59 (4810 en jetons) 
+agmom1985 : met l'ante. 15
+JCBERNABE : met l'ante. 15
+DIEGOJSTAR : met l'ante. 15
+psychoman59 : met l'ante. 15
+JCBERNABE : met la petite blind. 60
+DIEGOJSTAR : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5d]
+psychoman59 : suit. 120
+agmom1985 : suit. 120
+JCBERNABE : relance. 120 à 240
+DIEGOJSTAR : suit. 120
+psychoman59 : suit. 120
+agmom1985 : suit. 120
+*** FLOP *** [9s 3c 2s]
+JCBERNABE : mise. 240
+DIEGOJSTAR : suit. 240
+psychoman59 : suit. 240
+agmom1985 : suit. 240
+*** TOURNANT *** [9s 3c 2s] [Ts]
+JCBERNABE : parole 
+DIEGOJSTAR : parole 
+psychoman59 : parole 
+agmom1985 : parole 
+*** RIVIÈRE *** [9s 3c 2s Ts] [2h]
+JCBERNABE : parole 
+DIEGOJSTAR : mise. 120
+psychoman59 : passe. 
+agmom1985 : suit. 120
+JCBERNABE : suit. 120
+*** ABATTAGE ***
+DIEGOJSTAR : montre [Kh 9h] (double paire, Neuf et Deux)
+agmom1985 : cache la main perdante. 
+JCBERNABE : cache la main perdante. 
+DIEGOJSTAR a remporté 2340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2340 | Commission 0 
+Tableau [9s 3c 2s Ts 2h]
+Siège 1 : agmom1985 (bouton) a caché la main perdante. [3d Ac]
+Siège 2 : JCBERNABE (petite blind) a caché la main perdante. [7h 7d]
+Siège 3 : DIEGOJSTAR (grosse blind) a montré [Kh 9h] et a gagné (2340) avec double paire, Neuf et Deux
+Siège 4 : psychoman59 s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238024157930 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 16/08/2022 16:04:54 CET [16/08/2022 10:04:54 ET]
+Table '3457084509 1' 4-max Siège #2 est au bouton.
+Place 1: agmom1985 (2685 en jetons) 
+Place 2: JCBERNABE (4925 en jetons) 
+Place 3: DIEGOJSTAR (8075 en jetons) 
+Place 4: psychoman59 (4315 en jetons) 
+agmom1985 : met l'ante. 15
+JCBERNABE : met l'ante. 15
+DIEGOJSTAR : met l'ante. 15
+psychoman59 : met l'ante. 15
+DIEGOJSTAR : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Jh]
+agmom1985 : passe. 
+JCBERNABE : suit. 120
+DIEGOJSTAR : suit. 60
+psychoman59 : parole 
+*** FLOP *** [2c Ah 8h]
+DIEGOJSTAR : mise. 120
+psychoman59 : passe. 
+JCBERNABE : suit. 120
+*** TOURNANT *** [2c Ah 8h] [3h]
+DIEGOJSTAR : mise. 120
+JCBERNABE : passe. 
+Personne n'a suivi. (120) sont retournés à DIEGOJSTAR.
+DIEGOJSTAR a remporté 660  lors du pot .
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [2c Ah 8h 3h]
+Siège 1 : agmom1985 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : JCBERNABE (bouton) s'est couché. sur le Tournant
+Siège 3 : DIEGOJSTAR (petite blind) a remporté (660)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238024169278 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 16/08/2022 16:05:38 CET [16/08/2022 10:05:38 ET]
+Table '3457084509 1' 4-max Siège #3 est au bouton.
+Place 1: agmom1985 (2670 en jetons) 
+Place 2: JCBERNABE (4670 en jetons) 
+Place 3: DIEGOJSTAR (8480 en jetons) 
+Place 4: psychoman59 (4180 en jetons) 
+agmom1985 : met l'ante. 15
+JCBERNABE : met l'ante. 15
+DIEGOJSTAR : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+agmom1985 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c As]
+JCBERNABE : passe. 
+DIEGOJSTAR : relance. 120 à 240
+psychoman59 : suit. 180
+agmom1985 : suit. 120
+*** FLOP *** [Ah 4h 3s]
+psychoman59 : parole 
+agmom1985 : parole 
+DIEGOJSTAR : mise. 120
+psychoman59 : suit. 120
+agmom1985 : passe. 
+*** TOURNANT *** [Ah 4h 3s] [Jd]
+psychoman59 : parole 
+DIEGOJSTAR : parole 
+*** RIVIÈRE *** [Ah 4h 3s Jd] [Kd]
+psychoman59 : mise. 510
+DIEGOJSTAR : passe. [Ts 7h]
+Personne n'a suivi. (510) sont retournés à psychoman59.
+psychoman59 a remporté 1020  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [Ah 4h 3s Jd Kd]
+Siège 1 : agmom1985 (grosse blind) s'est couché. sur le Flop
+Siège 2 : JCBERNABE s'est couché. avant Flop (n'a pas misé)
+Siège 3 : DIEGOJSTAR (bouton) s'est couché. sur le Rivière
+Siège 4 : psychoman59 (petite blind) a remporté (1020)
+
+
+
+Main PokerStars n°238024184300 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 16/08/2022 16:06:37 CET [16/08/2022 10:06:37 ET]
+Table '3457084509 1' 4-max Siège #4 est au bouton.
+Place 1: agmom1985 (2415 en jetons) 
+Place 2: JCBERNABE (4655 en jetons) 
+Place 3: DIEGOJSTAR (8105 en jetons) 
+Place 4: psychoman59 (4825 en jetons) 
+agmom1985 : met l'ante. 20
+JCBERNABE : met l'ante. 20
+DIEGOJSTAR : met l'ante. 20
+psychoman59 : met l'ante. 20
+agmom1985 : met la petite blind. 75
+JCBERNABE : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 7d]
+DIEGOJSTAR : relance. 150 à 300
+psychoman59 : passe. 
+agmom1985 : passe. 
+JCBERNABE : suit. 150
+*** FLOP *** [8d 7c 3s]
+JCBERNABE : mise. 300
+DIEGOJSTAR : suit. 300
+*** TOURNANT *** [8d 7c 3s] [Kd]
+JCBERNABE : mise. 300
+DIEGOJSTAR : suit. 300
+*** RIVIÈRE *** [8d 7c 3s Kd] [5s]
+JCBERNABE : parole 
+DIEGOJSTAR : mise. 150
+JCBERNABE : passe. 
+Personne n'a suivi. (150) sont retournés à DIEGOJSTAR.
+DIEGOJSTAR a remporté 1955  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1955 | Commission 0 
+Tableau [8d 7c 3s Kd 5s]
+Siège 1 : agmom1985 (petite blind) s'est couché. avant Flop
+Siège 2 : JCBERNABE (grosse blind) s'est couché. sur le Rivière
+Siège 3 : DIEGOJSTAR a remporté (1955)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238024203653 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 16/08/2022 16:07:53 CET [16/08/2022 10:07:53 ET]
+Table '3457084509 1' 4-max Siège #1 est au bouton.
+Place 1: agmom1985 (2320 en jetons) 
+Place 2: JCBERNABE (3735 en jetons) 
+Place 3: DIEGOJSTAR (9140 en jetons) 
+Place 4: psychoman59 (4805 en jetons) 
+agmom1985 : met l'ante. 20
+JCBERNABE : met l'ante. 20
+DIEGOJSTAR : met l'ante. 20
+psychoman59 : met l'ante. 20
+JCBERNABE : met la petite blind. 75
+DIEGOJSTAR : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 9h]
+psychoman59 : relance. 4635 à 4785 et est all-in.
+agmom1985 a dépassé le temps imparti.
+agmom1985 : passe. 
+agmom1985 ne joue pas.
+JCBERNABE : passe. 
+DIEGOJSTAR : passe. 
+Personne n'a suivi. (4635) sont retournés à psychoman59.
+psychoman59 a remporté 455  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 455 | Commission 0 
+Siège 1 : agmom1985 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : JCBERNABE (petite blind) s'est couché. avant Flop
+Siège 3 : DIEGOJSTAR (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 a remporté (455)
+
+
+
+Main PokerStars n°238024212935 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 16/08/2022 16:08:30 CET [16/08/2022 10:08:30 ET]
+Table '3457084509 1' 4-max Siège #2 est au bouton.
+Place 1: agmom1985 (2300 en jetons) ne joue pas.
+Place 2: JCBERNABE (3640 en jetons) 
+Place 3: DIEGOJSTAR (8970 en jetons) 
+Place 4: psychoman59 (5090 en jetons) 
+agmom1985 : met l'ante. 20
+JCBERNABE : met l'ante. 20
+DIEGOJSTAR : met l'ante. 20
+psychoman59 : met l'ante. 20
+DIEGOJSTAR : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 8s]
+agmom1985 : passe. 
+JCBERNABE : relance. 150 à 300
+agmom1985 est revenu.
+DIEGOJSTAR : suit. 225
+psychoman59 : passe. 
+*** FLOP *** [Qd 6d 7s]
+DIEGOJSTAR : mise. 150
+JCBERNABE : relance. 300 à 450
+DIEGOJSTAR : suit. 300
+*** TOURNANT *** [Qd 6d 7s] [9h]
+DIEGOJSTAR : parole 
+JCBERNABE : mise. 450
+DIEGOJSTAR : passe. 
+Personne n'a suivi. (450) sont retournés à JCBERNABE.
+JCBERNABE a remporté 1730  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1730 | Commission 0 
+Tableau [Qd 6d 7s 9h]
+Siège 1 : agmom1985 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : JCBERNABE (bouton) a remporté (1730)
+Siège 3 : DIEGOJSTAR (petite blind) s'est couché. sur le Tournant
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238024219504 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 16/08/2022 16:08:56 CET [16/08/2022 10:08:56 ET]
+Table '3457084509 1' 4-max Siège #3 est au bouton.
+Place 1: agmom1985 (2280 en jetons) 
+Place 2: JCBERNABE (4600 en jetons) 
+Place 3: DIEGOJSTAR (8200 en jetons) 
+Place 4: psychoman59 (4920 en jetons) 
+agmom1985 : met l'ante. 20
+JCBERNABE : met l'ante. 20
+DIEGOJSTAR : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+agmom1985 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 4d]
+JCBERNABE : suit. 150
+DIEGOJSTAR : suit. 150
+psychoman59 : suit. 75
+agmom1985 : parole 
+*** FLOP *** [Qh 6h 4c]
+psychoman59 : parole 
+agmom1985 a dépassé le temps imparti.
+agmom1985 : parole 
+JCBERNABE : parole 
+DIEGOJSTAR : mise. 150
+psychoman59 : passe. 
+agmom1985 : suit. 150
+JCBERNABE : passe. 
+*** TOURNANT *** [Qh 6h 4c] [8c]
+agmom1985 : parole 
+DIEGOJSTAR : mise. 300
+agmom1985 : suit. 300
+*** RIVIÈRE *** [Qh 6h 4c 8c] [Jh]
+agmom1985 : parole 
+DIEGOJSTAR : parole 
+*** ABATTAGE ***
+agmom1985 : montre [3h Qc] (une paire de Dames)
+DIEGOJSTAR : cache la main perdante. 
+agmom1985 a remporté 1580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1580 | Commission 0 
+Tableau [Qh 6h 4c 8c Jh]
+Siège 1 : agmom1985 (grosse blind) a montré [3h Qc] et a gagné (1580) avec une paire de Dames
+Siège 2 : JCBERNABE s'est couché. sur le Flop
+Siège 3 : DIEGOJSTAR (bouton) a caché la main perdante. [4s Kc]
+Siège 4 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238024243746 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 16/08/2022 16:10:31 CET [16/08/2022 10:10:31 ET]
+Table '3457084509 1' 4-max Siège #4 est au bouton.
+Place 1: agmom1985 (3240 en jetons) 
+Place 2: JCBERNABE (4430 en jetons) 
+Place 3: DIEGOJSTAR (7580 en jetons) 
+Place 4: psychoman59 (4750 en jetons) 
+agmom1985 : met l'ante. 25
+JCBERNABE : met l'ante. 25
+DIEGOJSTAR : met l'ante. 25
+psychoman59 : met l'ante. 25
+agmom1985 : met la petite blind. 100
+JCBERNABE : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 5d]
+DIEGOJSTAR : passe. 
+psychoman59 : passe. 
+agmom1985 : suit. 100
+JCBERNABE : relance. 200 à 400
+agmom1985 : suit. 200
+*** FLOP *** [Kd 5h 4s]
+agmom1985 : parole 
+JCBERNABE : mise. 600
+agmom1985 : passe. 
+Personne n'a suivi. (600) sont retournés à JCBERNABE.
+JCBERNABE a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [Kd 5h 4s]
+Siège 1 : agmom1985 (petite blind) s'est couché. sur le Flop
+Siège 2 : JCBERNABE (grosse blind) a remporté (900)
+Siège 3 : DIEGOJSTAR s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238024257457 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 16/08/2022 16:11:25 CET [16/08/2022 10:11:25 ET]
+Table '3457084509 1' 4-max Siège #1 est au bouton.
+Place 1: agmom1985 (2815 en jetons) 
+Place 2: JCBERNABE (4905 en jetons) 
+Place 3: DIEGOJSTAR (7555 en jetons) 
+Place 4: psychoman59 (4725 en jetons) 
+agmom1985 : met l'ante. 25
+JCBERNABE : met l'ante. 25
+DIEGOJSTAR : met l'ante. 25
+psychoman59 : met l'ante. 25
+JCBERNABE : met la petite blind. 100
+DIEGOJSTAR : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 4s]
+psychoman59 : passe. 
+agmom1985 : passe. 
+JCBERNABE : suit. 100
+DIEGOJSTAR : parole 
+*** FLOP *** [Jd 8c Jh]
+JCBERNABE : parole 
+DIEGOJSTAR : mise. 200
+JCBERNABE : passe. 
+Personne n'a suivi. (200) sont retournés à DIEGOJSTAR.
+DIEGOJSTAR a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [Jd 8c Jh]
+Siège 1 : agmom1985 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : JCBERNABE (petite blind) s'est couché. sur le Flop
+Siège 3 : DIEGOJSTAR (grosse blind) a remporté (500)
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238024265114 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 16/08/2022 16:11:55 CET [16/08/2022 10:11:55 ET]
+Table '3457084509 1' 4-max Siège #2 est au bouton.
+Place 1: agmom1985 (2790 en jetons) 
+Place 2: JCBERNABE (4680 en jetons) 
+Place 3: DIEGOJSTAR (7830 en jetons) 
+Place 4: psychoman59 (4700 en jetons) 
+agmom1985 : met l'ante. 25
+JCBERNABE : met l'ante. 25
+DIEGOJSTAR : met l'ante. 25
+psychoman59 : met l'ante. 25
+DIEGOJSTAR : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 8h]
+agmom1985 : suit. 200
+JCBERNABE : passe. 
+DIEGOJSTAR : suit. 100
+psychoman59 : relance. 4475 à 4675 et est all-in.
+agmom1985 : suit. 2565 et est all-in.
+DIEGOJSTAR : passe. 
+Personne n'a suivi. (1910) sont retournés à psychoman59.
+*** FLOP *** [9h 5h As]
+*** TOURNANT *** [9h 5h As] [5s]
+*** RIVIÈRE *** [9h 5h As 5s] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [Ac 8h] (double paire, As et Cinq)
+agmom1985 : montre [Ad Qh] (double paire, As et Cinq - Dame kicker)
+agmom1985 a remporté 5830  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5830 | Commission 0 
+Tableau [9h 5h As 5s 2h]
+Siège 1 : agmom1985 a montré [Ad Qh] et a gagné (5830) avec double paire, As et Cinq
+Siège 2 : JCBERNABE (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : DIEGOJSTAR (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a montré [Ac 8h] et a perdu avec double paire, As et Cinq
+
+
+
+Main PokerStars n°238024275487 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 16/08/2022 16:12:35 CET [16/08/2022 10:12:35 ET]
+Table '3457084509 1' 4-max Siège #3 est au bouton.
+Place 1: agmom1985 (5830 en jetons) 
+Place 2: JCBERNABE (4655 en jetons) 
+Place 3: DIEGOJSTAR (7605 en jetons) 
+Place 4: psychoman59 (1910 en jetons) 
+agmom1985 : met l'ante. 30
+JCBERNABE : met l'ante. 30
+DIEGOJSTAR : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+agmom1985 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 6c]
+JCBERNABE : passe. 
+DIEGOJSTAR : relance. 500 à 750
+psychoman59 : passe. 
+agmom1985 : passe. 
+Personne n'a suivi. (500) sont retournés à DIEGOJSTAR.
+DIEGOJSTAR a remporté 745  lors du pot .
+*** SYNTHÈSE ***
+Pot total 745 | Commission 0 
+Siège 1 : agmom1985 (grosse blind) s'est couché. avant Flop
+Siège 2 : JCBERNABE s'est couché. avant Flop (n'a pas misé)
+Siège 3 : DIEGOJSTAR (bouton) a remporté (745)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238024281421 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 16/08/2022 16:12:58 CET [16/08/2022 10:12:58 ET]
+Table '3457084509 1' 4-max Siège #4 est au bouton.
+Place 1: agmom1985 (5550 en jetons) 
+Place 2: JCBERNABE (4625 en jetons) 
+Place 3: DIEGOJSTAR (8070 en jetons) 
+Place 4: psychoman59 (1755 en jetons) 
+agmom1985 : met l'ante. 30
+JCBERNABE : met l'ante. 30
+DIEGOJSTAR : met l'ante. 30
+psychoman59 : met l'ante. 30
+agmom1985 : met la petite blind. 125
+JCBERNABE : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Ts]
+DIEGOJSTAR : relance. 500 à 750
+psychoman59 : passe. 
+agmom1985 : passe. 
+JCBERNABE : passe. 
+Personne n'a suivi. (500) sont retournés à DIEGOJSTAR.
+DIEGOJSTAR a remporté 745  lors du pot .
+*** SYNTHÈSE ***
+Pot total 745 | Commission 0 
+Siège 1 : agmom1985 (petite blind) s'est couché. avant Flop
+Siège 2 : JCBERNABE (grosse blind) s'est couché. avant Flop
+Siège 3 : DIEGOJSTAR a remporté (745)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238024290535 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 16/08/2022 16:13:33 CET [16/08/2022 10:13:33 ET]
+Table '3457084509 1' 4-max Siège #1 est au bouton.
+Place 1: agmom1985 (5395 en jetons) 
+Place 2: JCBERNABE (4345 en jetons) 
+Place 3: DIEGOJSTAR (8535 en jetons) 
+Place 4: psychoman59 (1725 en jetons) 
+agmom1985 : met l'ante. 30
+JCBERNABE : met l'ante. 30
+DIEGOJSTAR : met l'ante. 30
+psychoman59 : met l'ante. 30
+JCBERNABE : met la petite blind. 125
+DIEGOJSTAR : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Td]
+psychoman59 : passe. 
+agmom1985 : passe. 
+JCBERNABE : suit. 125
+DIEGOJSTAR : parole 
+*** FLOP *** [Js 7s 4h]
+JCBERNABE : parole 
+DIEGOJSTAR : mise. 250
+JCBERNABE : passe. 
+Personne n'a suivi. (250) sont retournés à DIEGOJSTAR.
+DIEGOJSTAR a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Js 7s 4h]
+Siège 1 : agmom1985 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : JCBERNABE (petite blind) s'est couché. sur le Flop
+Siège 3 : DIEGOJSTAR (grosse blind) a remporté (620)
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238024297268 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 16/08/2022 16:13:59 CET [16/08/2022 10:13:59 ET]
+Table '3457084509 1' 4-max Siège #2 est au bouton.
+Place 1: agmom1985 (5365 en jetons) 
+Place 2: JCBERNABE (4065 en jetons) 
+Place 3: DIEGOJSTAR (8875 en jetons) 
+Place 4: psychoman59 (1695 en jetons) 
+agmom1985 : met l'ante. 30
+JCBERNABE : met l'ante. 30
+DIEGOJSTAR : met l'ante. 30
+psychoman59 : met l'ante. 30
+DIEGOJSTAR : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Jd]
+agmom1985 : passe. 
+JCBERNABE : suit. 250
+DIEGOJSTAR : suit. 125
+psychoman59 : parole 
+*** FLOP *** [8c Kc 6s]
+DIEGOJSTAR : parole 
+psychoman59 : parole 
+JCBERNABE : mise. 250
+DIEGOJSTAR : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à JCBERNABE.
+JCBERNABE a remporté 870  lors du pot .
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Tableau [8c Kc 6s]
+Siège 1 : agmom1985 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : JCBERNABE (bouton) a remporté (870)
+Siège 3 : DIEGOJSTAR (petite blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238024307435 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 16/08/2022 16:14:39 CET [16/08/2022 10:14:39 ET]
+Table '3457084509 1' 4-max Siège #3 est au bouton.
+Place 1: agmom1985 (5335 en jetons) 
+Place 2: JCBERNABE (4655 en jetons) 
+Place 3: DIEGOJSTAR (8595 en jetons) 
+Place 4: psychoman59 (1415 en jetons) 
+agmom1985 : met l'ante. 30
+JCBERNABE : met l'ante. 30
+DIEGOJSTAR : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+agmom1985 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 6h]
+JCBERNABE : relance. 250 à 500
+DIEGOJSTAR : suit. 500
+psychoman59 : passe. 
+agmom1985 : suit. 250
+*** FLOP *** [5c 4h 2c]
+agmom1985 : parole 
+JCBERNABE : parole 
+DIEGOJSTAR : mise. 250
+agmom1985 : suit. 250
+JCBERNABE : passe. 
+*** TOURNANT *** [5c 4h 2c] [3s]
+agmom1985 : parole 
+DIEGOJSTAR : mise. 250
+agmom1985 : suit. 250
+*** RIVIÈRE *** [5c 4h 2c 3s] [8h]
+agmom1985 : parole 
+DIEGOJSTAR : mise. 750
+agmom1985 : passe. 
+Personne n'a suivi. (750) sont retournés à DIEGOJSTAR.
+DIEGOJSTAR a remporté 2745  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2745 | Commission 0 
+Tableau [5c 4h 2c 3s 8h]
+Siège 1 : agmom1985 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : JCBERNABE s'est couché. sur le Flop
+Siège 3 : DIEGOJSTAR (bouton) a remporté (2745)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238024318687 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 16/08/2022 16:15:22 CET [16/08/2022 10:15:22 ET]
+Table '3457084509 1' 4-max Siège #4 est au bouton.
+Place 1: agmom1985 (4305 en jetons) 
+Place 2: JCBERNABE (4125 en jetons) 
+Place 3: DIEGOJSTAR (10310 en jetons) 
+Place 4: psychoman59 (1260 en jetons) 
+agmom1985 : met l'ante. 40
+JCBERNABE : met l'ante. 40
+DIEGOJSTAR : met l'ante. 40
+psychoman59 : met l'ante. 40
+agmom1985 : met la petite blind. 150
+JCBERNABE : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Jc]
+DIEGOJSTAR : passe. 
+psychoman59 : passe. 
+agmom1985 : suit. 150
+JCBERNABE : parole 
+*** FLOP *** [8s As 3c]
+agmom1985 : parole 
+JCBERNABE : mise. 300
+agmom1985 : suit. 300
+*** TOURNANT *** [8s As 3c] [Qh]
+agmom1985 : parole 
+JCBERNABE : mise. 300
+agmom1985 : suit. 300
+*** RIVIÈRE *** [8s As 3c Qh] [2h]
+agmom1985 : parole 
+JCBERNABE : parole 
+*** ABATTAGE ***
+agmom1985 : montre [9s 7s] (Hauteur As)
+JCBERNABE : montre [Ks 8d] (une paire de Huit)
+JCBERNABE a remporté 1960  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1960 | Commission 0 
+Tableau [8s As 3c Qh 2h]
+Siège 1 : agmom1985 (petite blind) a montré [9s 7s] et a perdu avec Hauteur As
+Siège 2 : JCBERNABE (grosse blind) a montré [Ks 8d] et a gagné (1960) avec une paire de Huit
+Siège 3 : DIEGOJSTAR s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238024335823 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 16/08/2022 16:16:27 CET [16/08/2022 10:16:27 ET]
+Table '3457084509 1' 4-max Siège #1 est au bouton.
+Place 1: agmom1985 (3365 en jetons) 
+Place 2: JCBERNABE (5145 en jetons) 
+Place 3: DIEGOJSTAR (10270 en jetons) 
+Place 4: psychoman59 (1220 en jetons) 
+agmom1985 : met l'ante. 40
+JCBERNABE : met l'ante. 40
+DIEGOJSTAR : met l'ante. 40
+psychoman59 : met l'ante. 40
+JCBERNABE : met la petite blind. 150
+DIEGOJSTAR : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 2c]
+psychoman59 : passe. 
+agmom1985 : passe. 
+JCBERNABE : suit. 150
+DIEGOJSTAR : relance. 300 à 600
+JCBERNABE : passe. 
+Personne n'a suivi. (300) sont retournés à DIEGOJSTAR.
+DIEGOJSTAR a remporté 760  lors du pot .
+*** SYNTHÈSE ***
+Pot total 760 | Commission 0 
+Siège 1 : agmom1985 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : JCBERNABE (petite blind) s'est couché. avant Flop
+Siège 3 : DIEGOJSTAR (grosse blind) a remporté (760)
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238024344897 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 16/08/2022 16:17:03 CET [16/08/2022 10:17:03 ET]
+Table '3457084509 1' 4-max Siège #2 est au bouton.
+Place 1: agmom1985 (3325 en jetons) 
+Place 2: JCBERNABE (4805 en jetons) 
+Place 3: DIEGOJSTAR (10690 en jetons) 
+Place 4: psychoman59 (1180 en jetons) 
+agmom1985 : met l'ante. 40
+JCBERNABE : met l'ante. 40
+DIEGOJSTAR : met l'ante. 40
+psychoman59 : met l'ante. 40
+DIEGOJSTAR : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 3d]
+agmom1985 : passe. 
+JCBERNABE : passe. 
+DIEGOJSTAR : suit. 150
+psychoman59 : parole 
+*** FLOP *** [4c 6d Td]
+DIEGOJSTAR : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4c 6d Td] [8h]
+DIEGOJSTAR : mise. 300
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à DIEGOJSTAR.
+DIEGOJSTAR a remporté 760  lors du pot .
+*** SYNTHÈSE ***
+Pot total 760 | Commission 0 
+Tableau [4c 6d Td 8h]
+Siège 1 : agmom1985 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : JCBERNABE (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : DIEGOJSTAR (petite blind) a remporté (760)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238024352369 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 16/08/2022 16:17:31 CET [16/08/2022 10:17:31 ET]
+Table '3457084509 1' 4-max Siège #3 est au bouton.
+Place 1: agmom1985 (3285 en jetons) 
+Place 2: JCBERNABE (4765 en jetons) 
+Place 3: DIEGOJSTAR (11110 en jetons) 
+Place 4: psychoman59 (840 en jetons) 
+agmom1985 : met l'ante. 40
+JCBERNABE : met l'ante. 40
+DIEGOJSTAR : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+agmom1985 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 2c]
+JCBERNABE : relance. 300 à 600
+DIEGOJSTAR : passe. 
+psychoman59 : passe. 
+agmom1985 : suit. 300
+*** FLOP *** [6s Qc Qh]
+agmom1985 : parole 
+JCBERNABE : mise. 300
+agmom1985 : passe. 
+Personne n'a suivi. (300) sont retournés à JCBERNABE.
+JCBERNABE a remporté 1510  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1510 | Commission 0 
+Tableau [6s Qc Qh]
+Siège 1 : agmom1985 (grosse blind) s'est couché. sur le Flop
+Siège 2 : JCBERNABE a remporté (1510)
+Siège 3 : DIEGOJSTAR (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238024357727 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 16/08/2022 16:17:52 CET [16/08/2022 10:17:52 ET]
+Table '3457084509 1' 4-max Siège #4 est au bouton.
+Place 1: agmom1985 (2645 en jetons) 
+Place 2: JCBERNABE (5635 en jetons) 
+Place 3: DIEGOJSTAR (11070 en jetons) 
+Place 4: psychoman59 (650 en jetons) 
+agmom1985 : met l'ante. 40
+JCBERNABE : met l'ante. 40
+DIEGOJSTAR : met l'ante. 40
+psychoman59 : met l'ante. 40
+agmom1985 : met la petite blind. 150
+JCBERNABE : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 3d]
+DIEGOJSTAR : suit. 300
+psychoman59 : passe. 
+agmom1985 : suit. 150
+JCBERNABE : relance. 300 à 600
+DIEGOJSTAR : suit. 300
+agmom1985 : suit. 300
+*** FLOP *** [3s 3h 7h]
+agmom1985 : parole 
+JCBERNABE : mise. 900
+DIEGOJSTAR : passe. 
+agmom1985 : passe. 
+Personne n'a suivi. (900) sont retournés à JCBERNABE.
+JCBERNABE a remporté 1960  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1960 | Commission 0 
+Tableau [3s 3h 7h]
+Siège 1 : agmom1985 (petite blind) s'est couché. sur le Flop
+Siège 2 : JCBERNABE (grosse blind) a remporté (1960)
+Siège 3 : DIEGOJSTAR s'est couché. sur le Flop
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238024365952 : Tournoi #3457084509, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 16/08/2022 16:18:23 CET [16/08/2022 10:18:23 ET]
+Table '3457084509 1' 4-max Siège #1 est au bouton.
+Place 1: agmom1985 (2005 en jetons) 
+Place 2: JCBERNABE (6955 en jetons) 
+Place 3: DIEGOJSTAR (10430 en jetons) 
+Place 4: psychoman59 (610 en jetons) 
+agmom1985 : met l'ante. 50
+JCBERNABE : met l'ante. 50
+DIEGOJSTAR : met l'ante. 50
+psychoman59 : met l'ante. 50
+JCBERNABE : met la petite blind. 200
+DIEGOJSTAR : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 8c]
+psychoman59 : relance. 160 à 560 et est all-in.
+agmom1985 : passe. 
+JCBERNABE : suit. 360
+DIEGOJSTAR : suit. 160
+*** FLOP *** [Kd 9c 2c]
+JCBERNABE : mise. 400
+DIEGOJSTAR : passe. 
+Personne n'a suivi. (400) sont retournés à JCBERNABE.
+*** TOURNANT *** [Kd 9c 2c] [9h]
+*** RIVIÈRE *** [Kd 9c 2c 9h] [6s]
+*** ABATTAGE ***
+JCBERNABE : montre [9s Ts] (un brelan de Neuf)
+psychoman59 : montre [8h 8c] (double paire, Neuf et Huit)
+JCBERNABE a remporté 1880  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 1880 | Commission 0 
+Tableau [Kd 9c 2c 9h 6s]
+Siège 1 : agmom1985 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : JCBERNABE (petite blind) a montré [9s Ts] et a gagné (1880) avec un brelan de Neuf
+Siège 3 : DIEGOJSTAR (grosse blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 a montré [8h 8c] et a perdu avec double paire, Neuf et Huit
+
+
+

@@ -1,0 +1,381 @@
+﻿Main PokerStars n°237667233611 : Tournoi #3448624966, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/07/2022 23:11:19 CET [29/07/2022 17:11:19 ET]
+Table '3448624966 1' 3-max Siège #1 est au bouton.
+Place 1: Foudah5406 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: souzf (300 en jetons) 
+psychoman59 : met la petite blind. 10
+souzf : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Ac]
+Foudah5406 : suit. 20
+psychoman59 : relance. 280 à 300 et est all-in.
+souzf : passe. 
+Foudah5406 : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Foudah5406 (bouton) s'est couché. avant Flop
+Siège 2 : psychoman59 (petite blind) a remporté (60)
+Siège 3 : souzf (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237667238170 : Tournoi #3448624966, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/07/2022 23:11:31 CET [29/07/2022 17:11:31 ET]
+Table '3448624966 1' 3-max Siège #2 est au bouton.
+Place 1: Foudah5406 (280 en jetons) 
+Place 2: psychoman59 (340 en jetons) 
+Place 3: souzf (280 en jetons) 
+souzf : met la petite blind. 10
+Foudah5406 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 7d]
+psychoman59 : passe. 
+souzf : suit. 10
+Foudah5406 : relance. 20 à 40
+souzf : suit. 20
+*** FLOP *** [4h 3h 8h]
+souzf : parole 
+Foudah5406 : mise. 20
+souzf : suit. 20
+*** TOURNANT *** [4h 3h 8h] [6c]
+souzf : parole 
+Foudah5406 : mise. 20
+souzf : suit. 20
+*** RIVIÈRE *** [4h 3h 8h 6c] [2h]
+souzf : mise. 200 et est all-in.
+Foudah5406 : passe. 
+Personne n'a suivi. (200) sont retournés à souzf.
+souzf a remporté 160  lors du pot .
+souzf : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [4h 3h 8h 6c 2h]
+Siège 1 : Foudah5406 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : souzf (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°237667249938 : Tournoi #3448624966, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/07/2022 23:12:03 CET [29/07/2022 17:12:03 ET]
+Table '3448624966 1' 3-max Siège #3 est au bouton.
+Place 1: Foudah5406 (200 en jetons) 
+Place 2: psychoman59 (340 en jetons) 
+Place 3: souzf (360 en jetons) 
+Foudah5406 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 6h]
+souzf : relance. 340 à 360 et est all-in.
+Foudah5406 : suit. 190 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à souzf.
+*** FLOP *** [Kh 7d 3s]
+*** TOURNANT *** [Kh 7d 3s] [2d]
+*** RIVIÈRE *** [Kh 7d 3s 2d] [9h]
+*** ABATTAGE ***
+Foudah5406 : montre [5s 5c] (une paire de Cinq)
+souzf : montre [3d Ah] (une paire de Trois)
+Foudah5406 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [Kh 7d 3s 2d 9h]
+Siège 1 : Foudah5406 (petite blind) a montré [5s 5c] et a gagné (420) avec une paire de Cinq
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : souzf (bouton) a montré [3d Ah] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°237667256391 : Tournoi #3448624966, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/07/2022 23:12:20 CET [29/07/2022 17:12:20 ET]
+Table '3448624966 1' 3-max Siège #1 est au bouton.
+Place 1: Foudah5406 (420 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: souzf (160 en jetons) 
+psychoman59 : met la petite blind. 10
+souzf : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 4s]
+Foudah5406 : suit. 20
+psychoman59 : passe. 
+souzf : parole 
+*** FLOP *** [Kh Th 2s]
+souzf : parole 
+Foudah5406 : mise. 20
+souzf : suit. 20
+*** TOURNANT *** [Kh Th 2s] [2h]
+souzf : parole 
+Foudah5406 : parole 
+*** RIVIÈRE *** [Kh Th 2s 2h] [Ad]
+souzf : parole 
+Foudah5406 : mise. 40
+souzf : passe. 
+Personne n'a suivi. (40) sont retournés à Foudah5406.
+Foudah5406 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Kh Th 2s 2h Ad]
+Siège 1 : Foudah5406 (bouton) a remporté (90)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : souzf (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237667265898 : Tournoi #3448624966, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/07/2022 23:12:46 CET [29/07/2022 17:12:46 ET]
+Table '3448624966 1' 3-max Siège #2 est au bouton.
+Place 1: Foudah5406 (470 en jetons) 
+Place 2: psychoman59 (310 en jetons) 
+Place 3: souzf (120 en jetons) 
+souzf : met la petite blind. 15
+Foudah5406 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 6s]
+psychoman59 : passe. 
+souzf : suit. 15
+Foudah5406 : parole 
+*** FLOP *** [4c 2c 3c]
+souzf : mise. 90 et est all-in.
+Foudah5406 : suit. 90
+*** TOURNANT *** [4c 2c 3c] [8h]
+*** RIVIÈRE *** [4c 2c 3c 8h] [2h]
+*** ABATTAGE ***
+souzf : montre [Jh 4h] (double paire, Quatre et Deux)
+Foudah5406 : montre [3s 6h] (double paire, Trois et Deux)
+souzf a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [4c 2c 3c 8h 2h]
+Siège 1 : Foudah5406 (grosse blind) a montré [3s 6h] et a perdu avec double paire, Trois et Deux
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : souzf (petite blind) a montré [Jh 4h] et a gagné (240) avec double paire, Quatre et Deux
+
+
+
+Main PokerStars n°237667274579 : Tournoi #3448624966, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/07/2022 23:13:09 CET [29/07/2022 17:13:09 ET]
+Table '3448624966 1' 3-max Siège #3 est au bouton.
+Place 1: Foudah5406 (350 en jetons) 
+Place 2: psychoman59 (310 en jetons) 
+Place 3: souzf (240 en jetons) 
+Foudah5406 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h As]
+souzf : relance. 30 à 60
+Foudah5406 : suit. 45
+psychoman59 : suit. 30
+*** FLOP *** [Ad Jd 7s]
+Foudah5406 : parole 
+psychoman59 : parole 
+souzf : mise. 180 et est all-in.
+Foudah5406 : passe. 
+psychoman59 : suit. 180
+*** TOURNANT *** [Ad Jd 7s] [Qd]
+*** RIVIÈRE *** [Ad Jd 7s Qd] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [5h As] (une paire de As)
+souzf : montre [Kd 2s] (Hauteur As)
+psychoman59 a remporté 540  lors du pot .
+souzf a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [Ad Jd 7s Qd 9c]
+Siège 1 : Foudah5406 (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a montré [5h As] et a gagné (540) avec une paire de As
+Siège 3 : souzf (bouton) a montré [Kd 2s] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237667285214 : Tournoi #3448624966, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/07/2022 23:13:38 CET [29/07/2022 17:13:38 ET]
+Table '3448624966 1' 3-max Siège #2 est au bouton.
+Place 1: Foudah5406 (290 en jetons) 
+Place 2: psychoman59 (610 en jetons) 
+psychoman59 : met la petite blind. 20
+Foudah5406 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Qc]
+psychoman59 : relance. 40 à 80
+Foudah5406 : suit. 40
+*** FLOP *** [Ah 3h 2h]
+Foudah5406 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Foudah5406.
+Foudah5406 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Ah 3h 2h]
+Siège 1 : Foudah5406 (grosse blind) a remporté (160)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237667290175 : Tournoi #3448624966, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/07/2022 23:13:51 CET [29/07/2022 17:13:51 ET]
+Table '3448624966 1' 3-max Siège #1 est au bouton.
+Place 1: Foudah5406 (370 en jetons) 
+Place 2: psychoman59 (530 en jetons) 
+Foudah5406 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ts]
+Foudah5406 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Qh 3d 9c]
+psychoman59 : parole 
+Foudah5406 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Foudah5406.
+Foudah5406 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Qh 3d 9c]
+Siège 1 : Foudah5406 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237667295609 : Tournoi #3448624966, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/07/2022 23:14:06 CET [29/07/2022 17:14:06 ET]
+Table '3448624966 1' 3-max Siège #2 est au bouton.
+Place 1: Foudah5406 (410 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+psychoman59 : met la petite blind. 20
+Foudah5406 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 8c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Foudah5406.
+Foudah5406 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Foudah5406 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237667297284 : Tournoi #3448624966, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/07/2022 23:14:10 CET [29/07/2022 17:14:10 ET]
+Table '3448624966 1' 3-max Siège #1 est au bouton.
+Place 1: Foudah5406 (430 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+Foudah5406 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 9s]
+Foudah5406 : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Foudah5406.
+Foudah5406 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Foudah5406 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237667302143 : Tournoi #3448624966, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/07/2022 23:14:17 CET [29/07/2022 17:14:17 ET]
+Table '3448624966 1' 3-max Siège #2 est au bouton.
+Place 1: Foudah5406 (470 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 20
+Foudah5406 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 7c]
+psychoman59 : suit. 20
+Foudah5406 : parole 
+*** FLOP *** [Ks 4c 7s]
+Foudah5406 : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [Ks 4c 7s] [5h]
+Foudah5406 : parole 
+psychoman59 : mise. 40
+Foudah5406 : suit. 40
+*** RIVIÈRE *** [Ks 4c 7s 5h] [8h]
+Foudah5406 : mise. 40
+psychoman59 : suit. 40
+*** ABATTAGE ***
+Foudah5406 : montre [8d Qh] (une paire de Huit)
+psychoman59 : montre [7h 7c] (un brelan de Sept)
+psychoman59 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Ks 4c 7s 5h 8h]
+Siège 1 : Foudah5406 (grosse blind) a montré [8d Qh] et a perdu avec une paire de Huit
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [7h 7c] et a gagné (320) avec un brelan de Sept
+
+
+
+Main PokerStars n°237667310747 : Tournoi #3448624966, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/07/2022 23:14:40 CET [29/07/2022 17:14:40 ET]
+Table '3448624966 1' 3-max Siège #1 est au bouton.
+Place 1: Foudah5406 (310 en jetons) 
+Place 2: psychoman59 (590 en jetons) 
+Foudah5406 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 5s]
+Foudah5406 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [3c 8d 9s]
+psychoman59 : parole 
+Foudah5406 : mise. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [3c 8d 9s] [5d]
+psychoman59 : parole 
+Foudah5406 : parole 
+*** RIVIÈRE *** [3c 8d 9s 5d] [Kd]
+psychoman59 : mise. 240
+Foudah5406 : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [3c 8d 9s 5d Kd]
+Siège 1 : Foudah5406 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) a remporté (240)
+
+
+
+Main PokerStars n°237667318711 : Tournoi #3448624966, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/07/2022 23:15:02 CET [29/07/2022 17:15:02 ET]
+Table '3448624966 1' 3-max Siège #2 est au bouton.
+Place 1: Foudah5406 (190 en jetons) 
+Place 2: psychoman59 (710 en jetons) 
+psychoman59 : met la petite blind. 30
+Foudah5406 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 8c]
+psychoman59 : relance. 120 à 180
+Foudah5406 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : Foudah5406 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237667322028 : Tournoi #3448624966, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/07/2022 23:15:11 CET [29/07/2022 17:15:11 ET]
+Table '3448624966 1' 3-max Siège #1 est au bouton.
+Place 1: Foudah5406 (130 en jetons) 
+Place 2: psychoman59 (770 en jetons) 
+Foudah5406 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Ac]
+Foudah5406 : relance. 70 à 130 et est all-in.
+psychoman59 : suit. 70
+*** FLOP *** [9s 7h 7c]
+*** TOURNANT *** [9s 7h 7c] [3h]
+*** RIVIÈRE *** [9s 7h 7c 3h] [Ts]
+*** ABATTAGE ***
+psychoman59 : montre [Kc Ac] (une paire de Sept)
+Foudah5406 : montre [Jc Ad] (une paire de Sept - plus basse kicker)
+psychoman59 a remporté 260  lors du pot .
+Foudah5406 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [9s 7h 7c 3h Ts]
+Siège 1 : Foudah5406 (bouton) (petite blind) a montré [Jc Ad] et a perdu avec une paire de Sept
+Siège 2 : psychoman59 (grosse blind) a montré [Kc Ac] et a gagné (260) avec une paire de Sept
+
+
+

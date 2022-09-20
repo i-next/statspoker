@@ -1,0 +1,224 @@
+﻿Main PokerStars n°238243585903 : Tournoi #3462314594, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/08/2022 10:45:14 CET [27/08/2022 4:45:14 ET]
+Table '3462314594 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: LaSuperDope (300 en jetons) 
+Place 3: AFS_GOAL (300 en jetons) 
+LaSuperDope : met la petite blind. 10
+AFS_GOAL : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 5s]
+psychoman59 : relance. 20 à 40
+LaSuperDope : suit. 30
+AFS_GOAL : suit. 20
+*** FLOP *** [8s 3c Qh]
+LaSuperDope : parole 
+AFS_GOAL : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8s 3c Qh] [Th]
+LaSuperDope : parole 
+AFS_GOAL : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [8s 3c Qh Th] [3s]
+LaSuperDope : mise. 20
+AFS_GOAL : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à LaSuperDope.
+LaSuperDope a remporté 120  lors du pot .
+LaSuperDope : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8s 3c Qh Th 3s]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Rivière
+Siège 2 : LaSuperDope (petite blind) a remporté (120)
+Siège 3 : AFS_GOAL (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238243592864 : Tournoi #3462314594, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/08/2022 10:46:02 CET [27/08/2022 4:46:02 ET]
+Table '3462314594 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: LaSuperDope (380 en jetons) 
+Place 3: AFS_GOAL (260 en jetons) 
+AFS_GOAL : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 8d]
+LaSuperDope : passe. 
+AFS_GOAL : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Kd 7s Js]
+AFS_GOAL : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Kd 7s Js] [Jh]
+AFS_GOAL : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Kd 7s Js Jh] [8s]
+AFS_GOAL : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+AFS_GOAL : montre [Td 5s] (une paire de Valets)
+psychoman59 : montre [5d 8d] (double paire, Valets et Huit)
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Kd 7s Js Jh 8s]
+Siège 1 : psychoman59 (grosse blind) a montré [5d 8d] et a gagné (40) avec double paire, Valets et Huit
+Siège 2 : LaSuperDope (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : AFS_GOAL (petite blind) a montré [Td 5s] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°238243597463 : Tournoi #3462314594, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/08/2022 10:46:33 CET [27/08/2022 4:46:33 ET]
+Table '3462314594 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: LaSuperDope (380 en jetons) 
+Place 3: AFS_GOAL (240 en jetons) 
+psychoman59 : met la petite blind. 15
+LaSuperDope : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 7d]
+AFS_GOAL : suit. 30
+psychoman59 : passe. 
+LaSuperDope : relance. 30 à 60
+AFS_GOAL : relance. 30 à 90
+LaSuperDope : suit. 30
+*** FLOP *** [6h Kd 5d]
+LaSuperDope : parole 
+AFS_GOAL : parole 
+*** TOURNANT *** [6h Kd 5d] [9d]
+LaSuperDope : mise. 30
+AFS_GOAL : suit. 30
+*** RIVIÈRE *** [6h Kd 5d 9d] [8s]
+LaSuperDope : mise. 260 et est all-in.
+AFS_GOAL : suit. 120 et est all-in.
+Personne n'a suivi. (140) sont retournés à LaSuperDope.
+*** ABATTAGE ***
+LaSuperDope : montre [Kh Qs] (une paire de Rois)
+AFS_GOAL : montre [Qd Js] (Hauteur Roi)
+LaSuperDope a remporté 495  lors du pot .
+AFS_GOAL a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 495 | Commission 0 
+Tableau [6h Kd 5d 9d 8s]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : LaSuperDope (grosse blind) a montré [Kh Qs] et a gagné (495) avec une paire de Rois
+Siège 3 : AFS_GOAL (bouton) a montré [Qd Js] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°238243602580 : Tournoi #3462314594, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/08/2022 10:47:09 CET [27/08/2022 4:47:09 ET]
+Table '3462314594 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (265 en jetons) 
+Place 2: LaSuperDope (635 en jetons) 
+LaSuperDope : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Jd]
+LaSuperDope : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : LaSuperDope (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238243603296 : Tournoi #3462314594, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/08/2022 10:47:13 CET [27/08/2022 4:47:13 ET]
+Table '3462314594 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: LaSuperDope (620 en jetons) 
+psychoman59 : met la petite blind. 15
+LaSuperDope : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Jc]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à LaSuperDope.
+LaSuperDope a remporté 30  lors du pot .
+LaSuperDope : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : LaSuperDope (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°238243604651 : Tournoi #3462314594, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 27/08/2022 10:47:22 CET [27/08/2022 4:47:22 ET]
+Table '3462314594 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (265 en jetons) 
+Place 2: LaSuperDope (635 en jetons) 
+LaSuperDope : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Qh]
+LaSuperDope : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : LaSuperDope (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238243605335 : Tournoi #3462314594, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 27/08/2022 10:47:27 CET [27/08/2022 4:47:27 ET]
+Table '3462314594 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (285 en jetons) 
+Place 2: LaSuperDope (615 en jetons) 
+psychoman59 : met la petite blind. 20
+LaSuperDope : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Qs]
+psychoman59 : relance. 40 à 80
+LaSuperDope : relance. 40 à 120
+psychoman59 : suit. 40
+*** FLOP *** [Js 8d 4d]
+LaSuperDope : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Js 8d 4d] [2s]
+LaSuperDope : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [Js 8d 4d 2s] [5h]
+LaSuperDope : mise. 455 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (455) sont retournés à LaSuperDope.
+LaSuperDope a remporté 320  lors du pot .
+LaSuperDope : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Js 8d 4d 2s 5h]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 2 : LaSuperDope (grosse blind) a remporté (320)
+
+
+
+Main PokerStars n°238243609065 : Tournoi #3462314594, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 27/08/2022 10:47:53 CET [27/08/2022 4:47:53 ET]
+Table '3462314594 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (125 en jetons) 
+Place 2: LaSuperDope (775 en jetons) 
+LaSuperDope : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Qs]
+LaSuperDope : relance. 40 à 80
+psychoman59 : relance. 45 à 125 et est all-in.
+LaSuperDope : suit. 45
+*** FLOP *** [Jh Ks 3d]
+*** TOURNANT *** [Jh Ks 3d] [Tc]
+*** RIVIÈRE *** [Jh Ks 3d Tc] [4h]
+*** ABATTAGE ***
+psychoman59 : montre [7s Qs] (Hauteur Roi)
+LaSuperDope : montre [Ah 5c] (Hauteur As)
+LaSuperDope a remporté 250  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+LaSuperDope remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Tableau [Jh Ks 3d Tc 4h]
+Siège 1 : psychoman59 (grosse blind) a montré [7s Qs] et a perdu avec Hauteur Roi
+Siège 2 : LaSuperDope (bouton) (petite blind) a montré [Ah 5c] et a gagné (250) avec Hauteur As
+
+
+

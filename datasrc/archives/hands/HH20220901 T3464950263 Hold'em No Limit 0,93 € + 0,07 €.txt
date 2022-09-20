@@ -1,0 +1,315 @@
+﻿Main PokerStars n°238355662767 : Tournoi #3464950263, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 01/09/2022 23:06:56 CET [01/09/2022 17:06:56 ET]
+Table '3464950263 1' 3-max Siège #1 est au bouton.
+Place 1: baptiste1348 (300 en jetons) 
+Place 2: chikoblanco (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+chikoblanco : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 7d]
+baptiste1348 : suit. 20
+chikoblanco : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ad 7s 9s]
+chikoblanco : mise. 20
+psychoman59 : passe. 
+baptiste1348 : suit. 20
+*** TOURNANT *** [Ad 7s 9s] [4d]
+chikoblanco : mise. 50
+baptiste1348 : suit. 50
+*** RIVIÈRE *** [Ad 7s 9s 4d] [Ac]
+chikoblanco : parole 
+baptiste1348 : parole 
+*** ABATTAGE ***
+chikoblanco : montre [9c 8d] (double paire, As et Neuf)
+baptiste1348 : cache la main perdante. 
+chikoblanco a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Ad 7s 9s 4d Ac]
+Siège 1 : baptiste1348 (bouton) a caché la main perdante. [2s 3s]
+Siège 2 : chikoblanco (petite blind) a montré [9c 8d] et a gagné (200) avec double paire, As et Neuf
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238355672644 : Tournoi #3464950263, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 01/09/2022 23:07:22 CET [01/09/2022 17:07:22 ET]
+Table '3464950263 1' 3-max Siège #2 est au bouton.
+Place 1: baptiste1348 (210 en jetons) 
+Place 2: chikoblanco (410 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+baptiste1348 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 4c]
+chikoblanco : suit. 20
+psychoman59 : passe. 
+baptiste1348 : parole 
+*** FLOP *** [Ac Qs 3s]
+baptiste1348 : parole 
+chikoblanco : mise. 20
+baptiste1348 : passe. 
+Personne n'a suivi. (20) sont retournés à chikoblanco.
+chikoblanco a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Ac Qs 3s]
+Siège 1 : baptiste1348 (grosse blind) s'est couché. sur le Flop
+Siège 2 : chikoblanco (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238355678982 : Tournoi #3464950263, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 01/09/2022 23:07:38 CET [01/09/2022 17:07:38 ET]
+Table '3464950263 1' 3-max Siège #3 est au bouton.
+Place 1: baptiste1348 (190 en jetons) 
+Place 2: chikoblanco (440 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+baptiste1348 : met la petite blind. 10
+chikoblanco : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 7c]
+psychoman59 : relance. 250 à 270 et est all-in.
+baptiste1348 : passe. 
+chikoblanco : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : baptiste1348 (petite blind) s'est couché. avant Flop
+Siège 2 : chikoblanco (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°238355682953 : Tournoi #3464950263, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 01/09/2022 23:07:48 CET [01/09/2022 17:07:48 ET]
+Table '3464950263 1' 3-max Siège #1 est au bouton.
+Place 1: baptiste1348 (180 en jetons) 
+Place 2: chikoblanco (420 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+chikoblanco : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Qh]
+baptiste1348 : suit. 20
+chikoblanco : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ah As 5c]
+chikoblanco : parole 
+psychoman59 : parole 
+baptiste1348 : parole 
+*** TOURNANT *** [Ah As 5c] [2h]
+chikoblanco : mise. 30
+psychoman59 : suit. 30
+baptiste1348 : suit. 30
+*** RIVIÈRE *** [Ah As 5c 2h] [Td]
+chikoblanco : mise. 370 et est all-in.
+psychoman59 : passe. 
+baptiste1348 : suit. 130 et est all-in.
+Personne n'a suivi. (240) sont retournés à chikoblanco.
+*** ABATTAGE ***
+chikoblanco : montre [5d 5h] (un full, full aux Cinq par les As)
+baptiste1348 : montre [8h 2s] (double paire, As et Deux)
+chikoblanco a remporté 410  lors du pot .
+baptiste1348 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 410 | Commission 0 
+Tableau [Ah As 5c 2h Td]
+Siège 1 : baptiste1348 (bouton) a montré [8h 2s] et a perdu avec double paire, As et Deux
+Siège 2 : chikoblanco (petite blind) a montré [5d 5h] et a gagné (410) avec un full, full aux Cinq par les As
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238355697989 : Tournoi #3464950263, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 01/09/2022 23:08:28 CET [01/09/2022 17:08:28 ET]
+Table '3464950263 1' 3-max Siège #3 est au bouton.
+Place 2: chikoblanco (650 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+psychoman59 : met la petite blind. 15
+chikoblanco : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à chikoblanco.
+chikoblanco a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : chikoblanco (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238355699862 : Tournoi #3464950263, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 01/09/2022 23:08:32 CET [01/09/2022 17:08:32 ET]
+Table '3464950263 1' 3-max Siège #2 est au bouton.
+Place 2: chikoblanco (665 en jetons) 
+Place 3: psychoman59 (235 en jetons) 
+chikoblanco : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 5s]
+chikoblanco : suit. 15
+psychoman59 : relance. 205 à 235 et est all-in.
+chikoblanco : passe. 
+Personne n'a suivi. (205) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : chikoblanco (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°238355704894 : Tournoi #3464950263, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 01/09/2022 23:08:46 CET [01/09/2022 17:08:46 ET]
+Table '3464950263 1' 3-max Siège #3 est au bouton.
+Place 2: chikoblanco (635 en jetons) 
+Place 3: psychoman59 (265 en jetons) 
+psychoman59 : met la petite blind. 15
+chikoblanco : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à chikoblanco.
+chikoblanco a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : chikoblanco (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238355707845 : Tournoi #3464950263, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 01/09/2022 23:08:53 CET [01/09/2022 17:08:53 ET]
+Table '3464950263 1' 3-max Siège #2 est au bouton.
+Place 2: chikoblanco (650 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+chikoblanco : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 3d]
+chikoblanco : suit. 15
+psychoman59 : parole 
+*** FLOP *** [4c Ks 2h]
+psychoman59 : parole 
+chikoblanco : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [4c Ks 2h] [8d]
+psychoman59 : parole 
+chikoblanco : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à chikoblanco.
+chikoblanco a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4c Ks 2h 8d]
+Siège 2 : chikoblanco (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238355717814 : Tournoi #3464950263, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 01/09/2022 23:09:20 CET [01/09/2022 17:09:20 ET]
+Table '3464950263 1' 3-max Siège #3 est au bouton.
+Place 2: chikoblanco (710 en jetons) 
+Place 3: psychoman59 (190 en jetons) 
+psychoman59 : met la petite blind. 20
+chikoblanco : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à chikoblanco.
+chikoblanco a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : chikoblanco (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238355719906 : Tournoi #3464950263, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 01/09/2022 23:09:25 CET [01/09/2022 17:09:25 ET]
+Table '3464950263 1' 3-max Siège #2 est au bouton.
+Place 2: chikoblanco (730 en jetons) 
+Place 3: psychoman59 (170 en jetons) 
+chikoblanco : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 8d]
+chikoblanco : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : chikoblanco (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238355721776 : Tournoi #3464950263, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 01/09/2022 23:09:30 CET [01/09/2022 17:09:30 ET]
+Table '3464950263 1' 3-max Siège #3 est au bouton.
+Place 2: chikoblanco (710 en jetons) 
+Place 3: psychoman59 (190 en jetons) 
+psychoman59 : met la petite blind. 20
+chikoblanco : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Jh]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à chikoblanco.
+chikoblanco a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : chikoblanco (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238355724111 : Tournoi #3464950263, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 01/09/2022 23:09:36 CET [01/09/2022 17:09:36 ET]
+Table '3464950263 1' 3-max Siège #2 est au bouton.
+Place 2: chikoblanco (730 en jetons) 
+Place 3: psychoman59 (170 en jetons) 
+chikoblanco : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 8c]
+chikoblanco : suit. 20
+psychoman59 : parole 
+*** FLOP *** [3d Td Jd]
+psychoman59 : parole 
+chikoblanco : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à chikoblanco.
+chikoblanco a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3d Td Jd]
+Siège 2 : chikoblanco (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238355729668 : Tournoi #3464950263, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 01/09/2022 23:09:51 CET [01/09/2022 17:09:51 ET]
+Table '3464950263 1' 3-max Siège #3 est au bouton.
+Place 2: chikoblanco (770 en jetons) 
+Place 3: psychoman59 (130 en jetons) 
+psychoman59 : met la petite blind. 20
+chikoblanco : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Kc]
+psychoman59 : relance. 90 à 130 et est all-in.
+chikoblanco : suit. 90
+*** FLOP *** [Kd Qd 6c]
+*** TOURNANT *** [Kd Qd 6c] [Tc]
+*** RIVIÈRE *** [Kd Qd 6c Tc] [Jc]
+*** ABATTAGE ***
+chikoblanco : montre [Th 9h] (une suite, Neuf à Roi)
+psychoman59 : montre [4h Kc] (une paire de Rois)
+chikoblanco a remporté 260  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+chikoblanco remporte le tournoi et reçoit 5.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [Kd Qd 6c Tc Jc]
+Siège 2 : chikoblanco (grosse blind) a montré [Th 9h] et a gagné (260) avec une suite, Neuf à Roi
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [4h Kc] et a perdu avec une paire de Rois
+
+
+

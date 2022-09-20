@@ -1,0 +1,462 @@
+﻿Main PokerStars n°237614253503 : Tournoi #3447357367, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/07/2022 9:53:06 CET [27/07/2022 3:53:06 ET]
+Table '3447357367 1' 3-max Siège #1 est au bouton.
+Place 1: Babassou76 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Brainy57 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Brainy57 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Kd]
+Babassou76 : suit. 20
+psychoman59 : suit. 10
+Brainy57 : parole 
+*** FLOP *** [4d Jc 5c]
+psychoman59 : parole 
+Brainy57 : mise. 30
+Babassou76 : suit. 30
+psychoman59 : passe. 
+*** TOURNANT *** [4d Jc 5c] [4c]
+Brainy57 : parole 
+Babassou76 : parole 
+*** RIVIÈRE *** [4d Jc 5c 4c] [9d]
+Brainy57 : parole 
+Babassou76 : parole 
+*** ABATTAGE ***
+Brainy57 : montre [Kc 5d] (double paire, Cinq et Quatre)
+Babassou76 : cache la main perdante. 
+Brainy57 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4d Jc 5c 4c 9d]
+Siège 1 : Babassou76 (bouton) a caché la main perdante. [7d 8d]
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : Brainy57 (grosse blind) a montré [Kc 5d] et a gagné (120) avec double paire, Cinq et Quatre
+
+
+
+Main PokerStars n°237614258857 : Tournoi #3447357367, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/07/2022 9:53:51 CET [27/07/2022 3:53:51 ET]
+Table '3447357367 1' 3-max Siège #2 est au bouton.
+Place 1: Babassou76 (250 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+Place 3: Brainy57 (370 en jetons) 
+Brainy57 : met la petite blind. 10
+Babassou76 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 3d]
+psychoman59 : passe. 
+Brainy57 : suit. 10
+Babassou76 : parole 
+*** FLOP *** [Tc 6s Jd]
+Brainy57 : parole 
+Babassou76 : parole 
+*** TOURNANT *** [Tc 6s Jd] [Kh]
+Brainy57 : parole 
+Babassou76 : mise. 20
+Brainy57 : suit. 20
+*** RIVIÈRE *** [Tc 6s Jd Kh] [Ks]
+Brainy57 : parole 
+Babassou76 : parole 
+*** ABATTAGE ***
+Brainy57 : montre [8s 9s] (une paire de Rois)
+Babassou76 : montre [Qs 2h] (une paire de Rois - Dame kicker)
+Babassou76 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Tc 6s Jd Kh Ks]
+Siège 1 : Babassou76 (grosse blind) a montré [Qs 2h] et a gagné (80) avec une paire de Rois
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Brainy57 (petite blind) a montré [8s 9s] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°237614264139 : Tournoi #3447357367, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/07/2022 9:54:35 CET [27/07/2022 3:54:35 ET]
+Table '3447357367 1' 3-max Siège #3 est au bouton.
+Place 1: Babassou76 (290 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+Place 3: Brainy57 (330 en jetons) 
+Babassou76 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 5d]
+Brainy57 : passe. 
+Babassou76 : suit. 15
+psychoman59 : relance. 250 à 280 et est all-in.
+Babassou76 : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Babassou76 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : Brainy57 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237614265733 : Tournoi #3447357367, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/07/2022 9:54:49 CET [27/07/2022 3:54:49 ET]
+Table '3447357367 1' 3-max Siège #1 est au bouton.
+Place 1: Babassou76 (260 en jetons) 
+Place 2: psychoman59 (310 en jetons) 
+Place 3: Brainy57 (330 en jetons) 
+psychoman59 : met la petite blind. 15
+Brainy57 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 5s]
+Babassou76 : relance. 230 à 260 et est all-in.
+psychoman59 : passe. 
+Brainy57 : passe. 
+Personne n'a suivi. (230) sont retournés à Babassou76.
+Babassou76 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : Babassou76 (bouton) a remporté (75)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Brainy57 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237614267362 : Tournoi #3447357367, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/07/2022 9:55:02 CET [27/07/2022 3:55:02 ET]
+Table '3447357367 1' 3-max Siège #2 est au bouton.
+Place 1: Babassou76 (305 en jetons) 
+Place 2: psychoman59 (295 en jetons) 
+Place 3: Brainy57 (300 en jetons) 
+Brainy57 : met la petite blind. 15
+Babassou76 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 6s]
+psychoman59 : passe. 
+Brainy57 : passe. 
+Personne n'a suivi. (15) sont retournés à Babassou76.
+Babassou76 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Babassou76 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Brainy57 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237614269305 : Tournoi #3447357367, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 27/07/2022 9:55:20 CET [27/07/2022 3:55:20 ET]
+Table '3447357367 1' 3-max Siège #3 est au bouton.
+Place 1: Babassou76 (320 en jetons) 
+Place 2: psychoman59 (295 en jetons) 
+Place 3: Brainy57 (285 en jetons) 
+Babassou76 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Qh]
+Brainy57 : passe. 
+Babassou76 : suit. 20
+psychoman59 : relance. 255 à 295 et est all-in.
+Babassou76 : passe. 
+Personne n'a suivi. (255) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Babassou76 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : Brainy57 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237614270724 : Tournoi #3447357367, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 27/07/2022 9:55:33 CET [27/07/2022 3:55:33 ET]
+Table '3447357367 1' 3-max Siège #1 est au bouton.
+Place 1: Babassou76 (280 en jetons) 
+Place 2: psychoman59 (335 en jetons) 
+Place 3: Brainy57 (285 en jetons) 
+psychoman59 : met la petite blind. 20
+Brainy57 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 6h]
+Babassou76 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Brainy57.
+Brainy57 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Babassou76 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Brainy57 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237614271681 : Tournoi #3447357367, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 27/07/2022 9:55:42 CET [27/07/2022 3:55:42 ET]
+Table '3447357367 1' 3-max Siège #2 est au bouton.
+Place 1: Babassou76 (280 en jetons) 
+Place 2: psychoman59 (315 en jetons) 
+Place 3: Brainy57 (305 en jetons) 
+Brainy57 : met la petite blind. 20
+Babassou76 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Ad]
+psychoman59 : relance. 40 à 80
+Brainy57 a dépassé le temps imparti.
+Brainy57 : passe. 
+Brainy57 ne joue pas.
+Babassou76 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : Babassou76 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (100)
+Siège 3 : Brainy57 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237614275301 : Tournoi #3447357367, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 27/07/2022 9:56:17 CET [27/07/2022 3:56:17 ET]
+Table '3447357367 1' 3-max Siège #3 est au bouton.
+Place 1: Babassou76 (240 en jetons) 
+Place 2: psychoman59 (375 en jetons) 
+Place 3: Brainy57 (285 en jetons) 
+Babassou76 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 3s]
+Brainy57 : relance. 225 à 285 et est all-in.
+Babassou76 : suit. 210 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (45) sont retournés à Brainy57.
+*** FLOP *** [5d 7h 6d]
+*** TOURNANT *** [5d 7h 6d] [Tc]
+*** RIVIÈRE *** [5d 7h 6d Tc] [5s]
+*** ABATTAGE ***
+Babassou76 : montre [Qs Js] (une paire de Cinq)
+Brainy57 : montre [8s Ks] (une paire de Cinq - Roi kicker)
+Brainy57 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [5d 7h 6d Tc 5s]
+Siège 1 : Babassou76 (petite blind) a montré [Qs Js] et a perdu avec une paire de Cinq
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Brainy57 (bouton) a montré [8s Ks] et a gagné (540) avec une paire de Cinq
+
+
+
+Main PokerStars n°237614277404 : Tournoi #3447357367, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 27/07/2022 9:56:36 CET [27/07/2022 3:56:36 ET]
+Table '3447357367 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (315 en jetons) 
+Place 3: Brainy57 (585 en jetons) 
+psychoman59 : met la petite blind. 30
+Brainy57 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8h]
+psychoman59 : suit. 30
+Brainy57 : parole 
+*** FLOP *** [As Kd 6d]
+Brainy57 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [As Kd 6d] [5h]
+Brainy57 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [As Kd 6d 5h] [2d]
+Brainy57 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Brainy57.
+Brainy57 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [As Kd 6d 5h 2d]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : Brainy57 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°237614282326 : Tournoi #3447357367, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 27/07/2022 9:57:22 CET [27/07/2022 3:57:22 ET]
+Table '3447357367 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (255 en jetons) 
+Place 3: Brainy57 (645 en jetons) 
+Brainy57 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Qc]
+Brainy57 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : Brainy57 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237614282819 : Tournoi #3447357367, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 27/07/2022 9:57:27 CET [27/07/2022 3:57:27 ET]
+Table '3447357367 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (295 en jetons) 
+Place 3: Brainy57 (605 en jetons) 
+psychoman59 : met la petite blind. 40
+Brainy57 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Qc]
+psychoman59 : relance. 215 à 295 et est all-in.
+Brainy57 : passe. 
+Personne n'a suivi. (215) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 3 : Brainy57 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237614283956 : Tournoi #3447357367, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 27/07/2022 9:57:37 CET [27/07/2022 3:57:37 ET]
+Table '3447357367 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (375 en jetons) 
+Place 3: Brainy57 (525 en jetons) 
+Brainy57 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Js]
+Brainy57 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : Brainy57 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237614284747 : Tournoi #3447357367, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 27/07/2022 9:57:44 CET [27/07/2022 3:57:44 ET]
+Table '3447357367 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (415 en jetons) 
+Place 3: Brainy57 (485 en jetons) 
+psychoman59 : met la petite blind. 40
+Brainy57 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 9h]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Brainy57.
+Brainy57 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Brainy57 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237614285436 : Tournoi #3447357367, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 27/07/2022 9:57:50 CET [27/07/2022 3:57:50 ET]
+Table '3447357367 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (375 en jetons) 
+Place 3: Brainy57 (525 en jetons) 
+Brainy57 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 5s]
+Brainy57 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : Brainy57 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237614285903 : Tournoi #3447357367, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 27/07/2022 9:57:54 CET [27/07/2022 3:57:54 ET]
+Table '3447357367 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (415 en jetons) 
+Place 3: Brainy57 (485 en jetons) 
+psychoman59 : met la petite blind. 40
+Brainy57 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Tc]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Brainy57.
+Brainy57 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Brainy57 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237614286573 : Tournoi #3447357367, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 27/07/2022 9:58:01 CET [27/07/2022 3:58:01 ET]
+Table '3447357367 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (375 en jetons) 
+Place 3: Brainy57 (525 en jetons) 
+Brainy57 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 3h]
+Brainy57 : relance. 445 à 525 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (445) sont retournés à Brainy57.
+Brainy57 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Brainy57 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°237614287605 : Tournoi #3447357367, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 27/07/2022 9:58:10 CET [27/07/2022 3:58:10 ET]
+Table '3447357367 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (295 en jetons) 
+Place 3: Brainy57 (605 en jetons) 
+psychoman59 : met la petite blind. 50
+Brainy57 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 4h]
+psychoman59 : relance. 100 à 200
+Brainy57 : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (200)
+Siège 3 : Brainy57 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237614288948 : Tournoi #3447357367, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 27/07/2022 9:58:23 CET [27/07/2022 3:58:23 ET]
+Table '3447357367 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (395 en jetons) 
+Place 3: Brainy57 (505 en jetons) 
+Brainy57 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Js]
+Brainy57 : relance. 405 à 505 et est all-in.
+psychoman59 : suit. 295 et est all-in.
+Personne n'a suivi. (110) sont retournés à Brainy57.
+*** FLOP *** [Kd 9c 9s]
+*** TOURNANT *** [Kd 9c 9s] [Th]
+*** RIVIÈRE *** [Kd 9c 9s Th] [3h]
+*** ABATTAGE ***
+psychoman59 : montre [Td Js] (double paire, Dix et Neuf)
+Brainy57 : montre [4s Qs] (une paire de Neuf)
+psychoman59 a remporté 790  lors du pot .
+*** SYNTHÈSE ***
+Pot total 790 | Commission 0 
+Tableau [Kd 9c 9s Th 3h]
+Siège 2 : psychoman59 (grosse blind) a montré [Td Js] et a gagné (790) avec double paire, Dix et Neuf
+Siège 3 : Brainy57 (bouton) (petite blind) a montré [4s Qs] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°237614290352 : Tournoi #3447357367, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 27/07/2022 9:58:36 CET [27/07/2022 3:58:36 ET]
+Table '3447357367 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (790 en jetons) 
+Place 3: Brainy57 (110 en jetons) 
+psychoman59 : met la petite blind. 50
+Brainy57 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 7d]
+psychoman59 : relance. 100 à 200
+Brainy57 : suit. 10 et est all-in.
+Personne n'a suivi. (90) sont retournés à psychoman59.
+*** FLOP *** [2h 9d 8d]
+*** TOURNANT *** [2h 9d 8d] [7h]
+*** RIVIÈRE *** [2h 9d 8d 7h] [2s]
+*** ABATTAGE ***
+Brainy57 : montre [5h 5c] (double paire, Cinq et Deux)
+psychoman59 : montre [Ad 7d] (double paire, Sept et Deux)
+psychoman59 a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [2h 9d 8d 7h 2s]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ad 7d] et a gagné (220) avec double paire, Sept et Deux
+Siège 3 : Brainy57 (grosse blind) a montré [5h 5c] et a perdu avec double paire, Cinq et Deux
+
+
+

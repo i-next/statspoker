@@ -1,0 +1,186 @@
+﻿Main PokerStars n°237660463549 : Tournoi #3448483220, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 17:45:49 CET [29/07/2022 11:45:49 ET]
+Table '3448483220 1' 4-max Siège #1 est au bouton.
+Place 1: kstekan (5000 en jetons) 
+Place 2: JcUys (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: mandoeu (5000 en jetons) 
+kstekan : met l'ante. 10
+JcUys : met l'ante. 10
+psychoman59 : met l'ante. 10
+mandoeu : met l'ante. 10
+JcUys : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 6s]
+mandoeu : relance. 100 à 200
+kstekan : suit. 200
+JcUys : suit. 150
+psychoman59 : passe. 
+*** FLOP *** [4c 9d Kc]
+JcUys : parole 
+mandoeu : parole 
+kstekan : mise. 200
+JcUys : passe. 
+mandoeu : passe. 
+Personne n'a suivi. (200) sont retournés à kstekan.
+kstekan a remporté 740  lors du pot .
+kstekan : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Tableau [4c 9d Kc]
+Siège 1 : kstekan (bouton) a remporté (740)
+Siège 2 : JcUys (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : mandoeu s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237660474311 : Tournoi #3448483220, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 17:46:26 CET [29/07/2022 11:46:26 ET]
+Table '3448483220 1' 4-max Siège #2 est au bouton.
+Place 1: kstekan (5530 en jetons) 
+Place 2: JcUys (4790 en jetons) 
+Place 3: psychoman59 (4890 en jetons) 
+Place 4: mandoeu (4790 en jetons) 
+kstekan : met l'ante. 10
+JcUys : met l'ante. 10
+psychoman59 : met l'ante. 10
+mandoeu : met l'ante. 10
+psychoman59 : met la petite blind. 50
+mandoeu : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 2h]
+kstekan : relance. 100 à 200
+JcUys : passe. 
+psychoman59 : passe. 
+mandoeu : relance. 4580 à 4780 et est all-in.
+kstekan : suit. 4580
+*** FLOP *** [9c Ts Jc]
+*** TOURNANT *** [9c Ts Jc] [6c]
+*** RIVIÈRE *** [9c Ts Jc 6c] [2c]
+*** ABATTAGE ***
+mandoeu : montre [Jh As] (une paire de Valets)
+kstekan : montre [6d Kh] (une paire de Six)
+mandoeu a remporté 9650  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9650 | Commission 0 
+Tableau [9c Ts Jc 6c 2c]
+Siège 1 : kstekan a montré [6d Kh] et a perdu avec une paire de Six
+Siège 2 : JcUys (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : mandoeu (grosse blind) a montré [Jh As] et a gagné (9650) avec une paire de Valets
+
+
+
+Main PokerStars n°237660482838 : Tournoi #3448483220, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 17:46:56 CET [29/07/2022 11:46:56 ET]
+Table '3448483220 1' 4-max Siège #3 est au bouton.
+Place 1: kstekan (740 en jetons) 
+Place 2: JcUys (4780 en jetons) 
+Place 3: psychoman59 (4830 en jetons) 
+Place 4: mandoeu (9650 en jetons) 
+kstekan : met l'ante. 10
+JcUys : met l'ante. 10
+psychoman59 : met l'ante. 10
+mandoeu : met l'ante. 10
+mandoeu : met la petite blind. 50
+kstekan : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 4c]
+JcUys : suit. 100
+psychoman59 : passe. 
+mandoeu : relance. 500 à 600
+kstekan : relance. 130 à 730 et est all-in.
+JcUys : relance. 2100 à 2830
+mandoeu : passe. 
+Personne n'a suivi. (2100) sont retournés à JcUys.
+*** FLOP *** [8d 6h 5h]
+*** TOURNANT *** [8d 6h 5h] [Tc]
+*** RIVIÈRE *** [8d 6h 5h Tc] [7d]
+*** ABATTAGE ***
+kstekan : montre [9d Td] (une suite, Six à Dix)
+JcUys : montre [9c Qs] (une suite, Six à Dix)
+kstekan a remporté 1050  lors du pot .
+JcUys a remporté 1050  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2100 | Commission 0 
+Tableau [8d 6h 5h Tc 7d]
+Siège 1 : kstekan (grosse blind) a montré [9d Td] et a gagné (1050) avec une suite, Six à Dix
+Siège 2 : JcUys a montré [9c Qs] et a gagné (1050) avec une suite, Six à Dix
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : mandoeu (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237660496536 : Tournoi #3448483220, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 17:47:44 CET [29/07/2022 11:47:44 ET]
+Table '3448483220 1' 4-max Siège #4 est au bouton.
+Place 1: kstekan (1050 en jetons) 
+Place 2: JcUys (5090 en jetons) 
+Place 3: psychoman59 (4820 en jetons) 
+Place 4: mandoeu (9040 en jetons) 
+kstekan : met l'ante. 10
+JcUys : met l'ante. 10
+psychoman59 : met l'ante. 10
+mandoeu : met l'ante. 10
+kstekan : met la petite blind. 50
+JcUys : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 6d]
+psychoman59 : suit. 100
+mandoeu : passe. 
+kstekan : suit. 50
+JcUys : parole 
+*** FLOP *** [8c 7d 7h]
+kstekan : parole 
+JcUys : mise. 4980 et est all-in.
+psychoman59 : passe. 
+kstekan : suit. 940 et est all-in.
+Personne n'a suivi. (4040) sont retournés à JcUys.
+*** TOURNANT *** [8c 7d 7h] [8d]
+*** RIVIÈRE *** [8c 7d 7h 8d] [Kh]
+*** ABATTAGE ***
+kstekan : montre [5d 6c] (double paire, Huit et Sept)
+JcUys : montre [7c 2h] (un full, full aux Sept par les Huit)
+JcUys a remporté 2220  lors du pot .
+kstekan a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 2220 | Commission 0 
+Tableau [8c 7d 7h 8d Kh]
+Siège 1 : kstekan (petite blind) a montré [5d 6c] et a perdu avec double paire, Huit et Sept
+Siège 2 : JcUys (grosse blind) a montré [7c 2h] et a gagné (2220) avec un full, full aux Sept par les Huit
+Siège 3 : psychoman59 s'est couché. sur le Flop
+Siège 4 : mandoeu (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237660507364 : Tournoi #3448483220, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 17:48:22 CET [29/07/2022 11:48:22 ET]
+Table '3448483220 1' 4-max Siège #2 est au bouton.
+Place 2: JcUys (6260 en jetons) 
+Place 3: psychoman59 (4710 en jetons) 
+Place 4: mandoeu (9030 en jetons) 
+JcUys : met l'ante. 10
+psychoman59 : met l'ante. 10
+mandoeu : met l'ante. 10
+psychoman59 : met la petite blind. 50
+mandoeu : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Td]
+JcUys : relance. 280 à 380
+psychoman59 : relance. 4320 à 4700 et est all-in.
+mandoeu : passe. 
+JcUys : suit. 4320
+*** FLOP *** [5s 6c Kd]
+*** TOURNANT *** [5s 6c Kd] [9d]
+*** RIVIÈRE *** [5s 6c Kd 9d] [4s]
+*** ABATTAGE ***
+psychoman59 : montre [Th Td] (une paire de Dix)
+JcUys : montre [8h Kh] (une paire de Rois)
+JcUys a remporté 9530  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 9530 | Commission 0 
+Tableau [5s 6c Kd 9d 4s]
+Siège 2 : JcUys (bouton) a montré [8h Kh] et a gagné (9530) avec une paire de Rois
+Siège 3 : psychoman59 (petite blind) a montré [Th Td] et a perdu avec une paire de Dix
+Siège 4 : mandoeu (grosse blind) s'est couché. avant Flop
+
+
+

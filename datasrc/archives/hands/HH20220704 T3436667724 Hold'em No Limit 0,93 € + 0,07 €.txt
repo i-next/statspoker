@@ -1,0 +1,556 @@
+﻿Main PokerStars n°237155859646 : Tournoi #3436667724, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2022 17:24:06 CET [04/07/2022 11:24:06 ET]
+Table '3436667724 1' 3-max Siège #1 est au bouton.
+Place 1: MehdiPokPok (300 en jetons) 
+Place 2: Nooctuurne (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Nooctuurne : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 5h]
+MehdiPokPok : suit. 20
+Nooctuurne : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2c Qh 4s]
+Nooctuurne : parole 
+psychoman59 : parole 
+MehdiPokPok : parole 
+*** TOURNANT *** [2c Qh 4s] [Ks]
+Nooctuurne : parole 
+psychoman59 : parole 
+MehdiPokPok : parole 
+*** RIVIÈRE *** [2c Qh 4s Ks] [5c]
+Nooctuurne : parole 
+psychoman59 : mise. 60
+MehdiPokPok : passe. 
+Nooctuurne : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2c Qh 4s Ks 5c]
+Siège 1 : MehdiPokPok (bouton) s'est couché. sur le Rivière
+Siège 2 : Nooctuurne (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237155873107 : Tournoi #3436667724, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2022 17:24:55 CET [04/07/2022 11:24:55 ET]
+Table '3436667724 1' 3-max Siège #2 est au bouton.
+Place 1: MehdiPokPok (280 en jetons) 
+Place 2: Nooctuurne (280 en jetons) 
+Place 3: psychoman59 (340 en jetons) 
+psychoman59 : met la petite blind. 10
+MehdiPokPok : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 7c]
+Nooctuurne : suit. 20
+psychoman59 : passe. 
+MehdiPokPok : parole 
+*** FLOP *** [5c 5h 6h]
+MehdiPokPok : parole 
+Nooctuurne : mise. 40
+MehdiPokPok : suit. 40
+*** TOURNANT *** [5c 5h 6h] [Ah]
+MehdiPokPok : parole 
+Nooctuurne : mise. 80
+MehdiPokPok : passe. 
+Personne n'a suivi. (80) sont retournés à Nooctuurne.
+Nooctuurne a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [5c 5h 6h Ah]
+Siège 1 : MehdiPokPok (grosse blind) s'est couché. sur le Tournant
+Siège 2 : Nooctuurne (bouton) a remporté (130)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237155890743 : Tournoi #3436667724, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/07/2022 17:25:59 CET [04/07/2022 11:25:59 ET]
+Table '3436667724 1' 3-max Siège #3 est au bouton.
+Place 1: MehdiPokPok (220 en jetons) 
+Place 2: Nooctuurne (350 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+MehdiPokPok : met la petite blind. 15
+Nooctuurne : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 3h]
+psychoman59 : passe. 
+MehdiPokPok : relance. 30 à 60
+Nooctuurne : suit. 30
+*** FLOP *** [Td As Th]
+MehdiPokPok : parole 
+Nooctuurne : parole 
+*** TOURNANT *** [Td As Th] [6h]
+MehdiPokPok : mise. 30
+Nooctuurne : passe. 
+Personne n'a suivi. (30) sont retournés à MehdiPokPok.
+MehdiPokPok a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Td As Th 6h]
+Siège 1 : MehdiPokPok (petite blind) a remporté (120)
+Siège 2 : Nooctuurne (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237155898549 : Tournoi #3436667724, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2022 17:26:27 CET [04/07/2022 11:26:27 ET]
+Table '3436667724 1' 3-max Siège #1 est au bouton.
+Place 1: MehdiPokPok (280 en jetons) 
+Place 2: Nooctuurne (290 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+Nooctuurne : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Th]
+MehdiPokPok : suit. 40
+Nooctuurne : suit. 20
+psychoman59 : parole 
+*** FLOP *** [3h 6c Jh]
+Nooctuurne : mise. 40
+psychoman59 : passe. 
+MehdiPokPok : passe. 
+Personne n'a suivi. (40) sont retournés à Nooctuurne.
+Nooctuurne a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3h 6c Jh]
+Siège 1 : MehdiPokPok (bouton) s'est couché. sur le Flop
+Siège 2 : Nooctuurne (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237155906868 : Tournoi #3436667724, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2022 17:26:57 CET [04/07/2022 11:26:57 ET]
+Table '3436667724 1' 3-max Siège #2 est au bouton.
+Place 1: MehdiPokPok (240 en jetons) 
+Place 2: Nooctuurne (370 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+psychoman59 : met la petite blind. 20
+MehdiPokPok : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 5c]
+Nooctuurne : suit. 40
+psychoman59 : passe. 
+MehdiPokPok : parole 
+*** FLOP *** [6c Kd 8s]
+MehdiPokPok : mise. 40
+Nooctuurne : suit. 40
+*** TOURNANT *** [6c Kd 8s] [6d]
+MehdiPokPok : mise. 40
+Nooctuurne : suit. 40
+*** RIVIÈRE *** [6c Kd 8s 6d] [Kc]
+MehdiPokPok : mise. 80
+Nooctuurne : passe. 
+Personne n'a suivi. (80) sont retournés à MehdiPokPok.
+MehdiPokPok a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [6c Kd 8s 6d Kc]
+Siège 1 : MehdiPokPok (grosse blind) a remporté (260)
+Siège 2 : Nooctuurne (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237155917303 : Tournoi #3436667724, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/07/2022 17:27:34 CET [04/07/2022 11:27:34 ET]
+Table '3436667724 1' 3-max Siège #3 est au bouton.
+Place 1: MehdiPokPok (380 en jetons) 
+Place 2: Nooctuurne (250 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+MehdiPokPok : met la petite blind. 30
+Nooctuurne : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 6d]
+psychoman59 : passe. 
+MehdiPokPok : relance. 60 à 120
+Nooctuurne : passe. 
+Personne n'a suivi. (60) sont retournés à MehdiPokPok.
+MehdiPokPok a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : MehdiPokPok (petite blind) a remporté (120)
+Siège 2 : Nooctuurne (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237155920187 : Tournoi #3436667724, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/07/2022 17:27:44 CET [04/07/2022 11:27:44 ET]
+Table '3436667724 1' 3-max Siège #1 est au bouton.
+Place 1: MehdiPokPok (440 en jetons) 
+Place 2: Nooctuurne (190 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+Nooctuurne : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 7h]
+MehdiPokPok : suit. 60
+Nooctuurne : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Tc Kd Qc]
+Nooctuurne : parole 
+psychoman59 : parole 
+MehdiPokPok : parole 
+*** TOURNANT *** [Tc Kd Qc] [Kc]
+Nooctuurne : parole 
+psychoman59 : parole 
+MehdiPokPok : mise. 60
+Nooctuurne : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à MehdiPokPok.
+MehdiPokPok a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Tc Kd Qc Kc]
+Siège 1 : MehdiPokPok (bouton) a remporté (180)
+Siège 2 : Nooctuurne (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237155932173 : Tournoi #3436667724, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 04/07/2022 17:28:27 CET [04/07/2022 11:28:27 ET]
+Table '3436667724 1' 3-max Siège #2 est au bouton.
+Place 1: MehdiPokPok (560 en jetons) 
+Place 2: Nooctuurne (130 en jetons) 
+Place 3: psychoman59 (210 en jetons) 
+psychoman59 : met la petite blind. 40
+MehdiPokPok : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 8h]
+Nooctuurne : passe. 
+psychoman59 : relance. 130 à 210 et est all-in.
+MehdiPokPok : suit. 130
+*** FLOP *** [Ac 6d 6c]
+*** TOURNANT *** [Ac 6d 6c] [Qh]
+*** RIVIÈRE *** [Ac 6d 6c Qh] [3h]
+*** ABATTAGE ***
+psychoman59 : montre [8s 8h] (double paire, Huit et Six)
+MehdiPokPok : montre [7s Jh] (une paire de Six)
+psychoman59 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [Ac 6d 6c Qh 3h]
+Siège 1 : MehdiPokPok (grosse blind) a montré [7s Jh] et a perdu avec une paire de Six
+Siège 2 : Nooctuurne (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [8s 8h] et a gagné (420) avec double paire, Huit et Six
+
+
+
+Main PokerStars n°237155937662 : Tournoi #3436667724, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 04/07/2022 17:28:47 CET [04/07/2022 11:28:47 ET]
+Table '3436667724 1' 3-max Siège #3 est au bouton.
+Place 1: MehdiPokPok (350 en jetons) 
+Place 2: Nooctuurne (130 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+MehdiPokPok : met la petite blind. 40
+Nooctuurne : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Qc]
+psychoman59 : passe. 
+MehdiPokPok : suit. 40
+Nooctuurne : relance. 50 à 130 et est all-in.
+MehdiPokPok : suit. 50
+*** FLOP *** [7s 5h 4c]
+*** TOURNANT *** [7s 5h 4c] [8c]
+*** RIVIÈRE *** [7s 5h 4c 8c] [4s]
+*** ABATTAGE ***
+MehdiPokPok : montre [7c 9s] (double paire, Sept et Quatre)
+Nooctuurne : montre [5s 5c] (un full, full aux Cinq par les Quatre)
+Nooctuurne a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [7s 5h 4c 8c 4s]
+Siège 1 : MehdiPokPok (petite blind) a montré [7c 9s] et a perdu avec double paire, Sept et Quatre
+Siège 2 : Nooctuurne (grosse blind) a montré [5s 5c] et a gagné (260) avec un full, full aux Cinq par les Quatre
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237155942584 : Tournoi #3436667724, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 04/07/2022 17:29:04 CET [04/07/2022 11:29:04 ET]
+Table '3436667724 1' 3-max Siège #1 est au bouton.
+Place 1: MehdiPokPok (220 en jetons) 
+Place 2: Nooctuurne (260 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+Nooctuurne : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 4c]
+MehdiPokPok : relance. 80 à 160
+Nooctuurne : suit. 120
+psychoman59 : passe. 
+*** FLOP *** [6d Ks 5c]
+Nooctuurne : parole 
+MehdiPokPok : mise. 60 et est all-in.
+Nooctuurne : suit. 60
+*** TOURNANT *** [6d Ks 5c] [6c]
+*** RIVIÈRE *** [6d Ks 5c 6c] [7d]
+*** ABATTAGE ***
+Nooctuurne : montre [Ac Jc] (une paire de Six)
+MehdiPokPok : montre [8d Jd] (une paire de Six - plus basse kicker)
+Nooctuurne a remporté 520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [6d Ks 5c 6c 7d]
+Siège 1 : MehdiPokPok (bouton) a montré [8d Jd] et a perdu avec une paire de Six
+Siège 2 : Nooctuurne (petite blind) a montré [Ac Jc] et a gagné (520) avec une paire de Six
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237155949402 : Tournoi #3436667724, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 04/07/2022 17:29:28 CET [04/07/2022 11:29:28 ET]
+Table '3436667724 1' 3-max Siège #3 est au bouton.
+Place 2: Nooctuurne (560 en jetons) 
+Place 3: psychoman59 (340 en jetons) 
+psychoman59 : met la petite blind. 50
+Nooctuurne : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à Nooctuurne.
+Nooctuurne a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 2 : Nooctuurne (grosse blind) a remporté (100)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237155951116 : Tournoi #3436667724, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 04/07/2022 17:29:35 CET [04/07/2022 11:29:35 ET]
+Table '3436667724 1' 3-max Siège #2 est au bouton.
+Place 2: Nooctuurne (610 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+Nooctuurne : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Kc]
+Nooctuurne : suit. 50
+psychoman59 : relance. 190 à 290 et est all-in.
+Nooctuurne : passe. 
+Personne n'a suivi. (190) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 2 : Nooctuurne (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (200)
+
+
+
+Main PokerStars n°237155954510 : Tournoi #3436667724, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 04/07/2022 17:29:47 CET [04/07/2022 11:29:47 ET]
+Table '3436667724 1' 3-max Siège #3 est au bouton.
+Place 2: Nooctuurne (510 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+psychoman59 : met la petite blind. 50
+Nooctuurne : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à Nooctuurne.
+Nooctuurne a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 2 : Nooctuurne (grosse blind) a remporté (100)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237155956007 : Tournoi #3436667724, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 04/07/2022 17:29:52 CET [04/07/2022 11:29:52 ET]
+Table '3436667724 1' 3-max Siège #2 est au bouton.
+Place 2: Nooctuurne (560 en jetons) 
+Place 3: psychoman59 (340 en jetons) 
+Nooctuurne : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Jd]
+Nooctuurne : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 2 : Nooctuurne (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°237155957803 : Tournoi #3436667724, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 04/07/2022 17:29:59 CET [04/07/2022 11:29:59 ET]
+Table '3436667724 1' 3-max Siège #3 est au bouton.
+Place 2: Nooctuurne (510 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+psychoman59 : met la petite blind. 50
+Nooctuurne : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à Nooctuurne.
+Nooctuurne a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 2 : Nooctuurne (grosse blind) a remporté (100)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237155959288 : Tournoi #3436667724, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 04/07/2022 17:30:04 CET [04/07/2022 11:30:04 ET]
+Table '3436667724 1' 3-max Siège #2 est au bouton.
+Place 2: Nooctuurne (560 en jetons) 
+Place 3: psychoman59 (340 en jetons) 
+Nooctuurne : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 8d]
+Nooctuurne : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 2 : Nooctuurne (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°237155961541 : Tournoi #3436667724, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 04/07/2022 17:30:12 CET [04/07/2022 11:30:12 ET]
+Table '3436667724 1' 3-max Siège #3 est au bouton.
+Place 2: Nooctuurne (510 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+psychoman59 : met la petite blind. 60
+Nooctuurne : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Ts]
+psychoman59 : relance. 270 à 390 et est all-in.
+Nooctuurne : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 2 : Nooctuurne (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°237155963374 : Tournoi #3436667724, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 04/07/2022 17:30:19 CET [04/07/2022 11:30:19 ET]
+Table '3436667724 1' 3-max Siège #2 est au bouton.
+Place 2: Nooctuurne (390 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+Nooctuurne : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 3s]
+Nooctuurne : suit. 60
+psychoman59 : parole 
+*** FLOP *** [6d 6c 5d]
+psychoman59 : parole 
+Nooctuurne : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à Nooctuurne.
+Nooctuurne a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6d 6c 5d]
+Siège 2 : Nooctuurne (bouton) (petite blind) a remporté (240)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237155966976 : Tournoi #3436667724, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 04/07/2022 17:30:32 CET [04/07/2022 11:30:32 ET]
+Table '3436667724 1' 3-max Siège #3 est au bouton.
+Place 2: Nooctuurne (510 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+psychoman59 : met la petite blind. 60
+Nooctuurne : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Nooctuurne.
+Nooctuurne a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : Nooctuurne (grosse blind) a remporté (120)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237155968287 : Tournoi #3436667724, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 04/07/2022 17:30:36 CET [04/07/2022 11:30:36 ET]
+Table '3436667724 1' 3-max Siège #2 est au bouton.
+Place 2: Nooctuurne (570 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+Nooctuurne : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Qs]
+Nooctuurne : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : Nooctuurne (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°237155969648 : Tournoi #3436667724, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 04/07/2022 17:30:41 CET [04/07/2022 11:30:41 ET]
+Table '3436667724 1' 3-max Siège #3 est au bouton.
+Place 2: Nooctuurne (510 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+psychoman59 : met la petite blind. 60
+Nooctuurne : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Nooctuurne.
+Nooctuurne a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : Nooctuurne (grosse blind) a remporté (120)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237155970943 : Tournoi #3436667724, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 04/07/2022 17:30:46 CET [04/07/2022 11:30:46 ET]
+Table '3436667724 1' 3-max Siège #2 est au bouton.
+Place 2: Nooctuurne (570 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+Nooctuurne : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Th]
+Nooctuurne : suit. 60
+psychoman59 : relance. 210 à 330 et est all-in.
+Nooctuurne : suit. 210
+*** FLOP *** [3d 5s 6d]
+*** TOURNANT *** [3d 5s 6d] [Ts]
+*** RIVIÈRE *** [3d 5s 6d Ts] [8c]
+*** ABATTAGE ***
+psychoman59 : montre [Ad Th] (une paire de Dix)
+Nooctuurne : montre [8s Jh] (une paire de Huit)
+psychoman59 a remporté 660  lors du pot .
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [3d 5s 6d Ts 8c]
+Siège 2 : Nooctuurne (bouton) (petite blind) a montré [8s Jh] et a perdu avec une paire de Huit
+Siège 3 : psychoman59 (grosse blind) a montré [Ad Th] et a gagné (660) avec une paire de Dix
+
+
+
+Main PokerStars n°237155975998 : Tournoi #3436667724, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 04/07/2022 17:31:04 CET [04/07/2022 11:31:04 ET]
+Table '3436667724 1' 3-max Siège #3 est au bouton.
+Place 2: Nooctuurne (240 en jetons) 
+Place 3: psychoman59 (660 en jetons) 
+psychoman59 : met la petite blind. 60
+Nooctuurne : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 6d]
+psychoman59 : relance. 120 à 240
+Nooctuurne : suit. 120 et est all-in.
+*** FLOP *** [Kd 4s 2d]
+*** TOURNANT *** [Kd 4s 2d] [9d]
+*** RIVIÈRE *** [Kd 4s 2d 9d] [7d]
+*** ABATTAGE ***
+Nooctuurne : montre [Ks 4d] (une couleur, hauteur Roi)
+psychoman59 : montre [Ts 6d] (une couleur, hauteur Roi - Six plus haute)
+psychoman59 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Kd 4s 2d 9d 7d]
+Siège 2 : Nooctuurne (grosse blind) a montré [Ks 4d] et a perdu avec une couleur, hauteur Roi
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ts 6d] et a gagné (480) avec une couleur, hauteur Roi
+
+
+

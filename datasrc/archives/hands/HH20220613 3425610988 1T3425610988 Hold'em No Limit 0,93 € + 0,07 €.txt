@@ -1,0 +1,33 @@
+﻿Main PokerStars n°236732755859 : Tournoi #3425610988, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/06/2022 10:34:28 CET [13/06/2022 4:34:28 ET]
+Table '3425610988 1' 3-max Siège #1 est au bouton.
+Place 1: luluyois (300 en jetons) 
+Place 2: st00ff19 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+st00ff19 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Ks]
+luluyois : suit. 20
+st00ff19 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Td Ac 4c]
+st00ff19 : parole 
+psychoman59 : parole 
+luluyois : mise. 280 et est all-in.
+st00ff19 : passe. 
+psychoman59 : suit. 280 et est all-in.
+*** TOURNANT *** [Td Ac 4c] [Jd]
+*** RIVIÈRE *** [Td Ac 4c Jd] [Kc]
+*** ABATTAGE ***
+psychoman59 : montre [Ts Ks] (double paire, Rois et Dix)
+luluyois : montre [5h Qc] (une suite, Dix à As)
+luluyois a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Td Ac 4c Jd Kc]
+Siège 1 : luluyois (bouton) a montré [5h Qc] et a gagné (620) avec une suite, Dix à As
+Siège 2 : st00ff19 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Ts Ks] et a perdu avec double paire, Rois et Dix
+
+
+

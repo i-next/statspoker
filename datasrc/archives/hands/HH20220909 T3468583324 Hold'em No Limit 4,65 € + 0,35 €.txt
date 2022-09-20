@@ -1,0 +1,109 @@
+﻿Main PokerStars n°238511036047 : Tournoi #3468583324, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau I (10/20) - 09/09/2022 11:01:00 CET [09/09/2022 5:01:00 ET]
+Table '3468583324 1' 3-max Siège #1 est au bouton.
+Place 1: jpaulogp (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: toñito31 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+toñito31 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Js]
+jpaulogp : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à toñito31.
+toñito31 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : jpaulogp (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : toñito31 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°238511037049 : Tournoi #3468583324, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau I (10/20) - 09/09/2022 11:01:07 CET [09/09/2022 5:01:07 ET]
+Table '3468583324 1' 3-max Siège #2 est au bouton.
+Place 1: jpaulogp (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: toñito31 (310 en jetons) 
+toñito31 : met la petite blind. 10
+jpaulogp : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 8h]
+psychoman59 : passe. 
+toñito31 : suit. 10
+jpaulogp : parole 
+*** FLOP *** [Jh 9d 3c]
+toñito31 : parole 
+jpaulogp : parole 
+*** TOURNANT *** [Jh 9d 3c] [Qs]
+toñito31 : parole 
+jpaulogp : mise. 20
+toñito31 : suit. 20
+*** RIVIÈRE *** [Jh 9d 3c Qs] [9h]
+toñito31 : parole 
+jpaulogp : mise. 60
+toñito31 : suit. 60
+*** ABATTAGE ***
+jpaulogp : montre [5d Qd] (double paire, Dames et Neuf)
+toñito31 : cache la main perdante. 
+jpaulogp a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Jh 9d 3c Qs 9h]
+Siège 1 : jpaulogp (grosse blind) a montré [5d Qd] et a gagné (200) avec double paire, Dames et Neuf
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : toñito31 (petite blind) a caché la main perdante. [Ac 2s]
+
+
+
+Main PokerStars n°238511040572 : Tournoi #3468583324, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau I (10/20) - 09/09/2022 11:01:31 CET [09/09/2022 5:01:31 ET]
+Table '3468583324 1' 3-max Siège #3 est au bouton.
+Place 1: jpaulogp (400 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: toñito31 (210 en jetons) 
+jpaulogp : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 8d]
+toñito31 : relance. 190 à 210 et est all-in.
+jpaulogp : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (190) sont retournés à toñito31.
+toñito31 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : jpaulogp (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : toñito31 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°238511041767 : Tournoi #3468583324, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau I (10/20) - 09/09/2022 11:01:39 CET [09/09/2022 5:01:39 ET]
+Table '3468583324 1' 3-max Siège #1 est au bouton.
+Place 1: jpaulogp (390 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: toñito31 (240 en jetons) 
+psychoman59 : met la petite blind. 10
+toñito31 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Jc]
+jpaulogp : relance. 40 à 60
+psychoman59 : relance. 210 à 270 et est all-in.
+toñito31 : passe. 
+jpaulogp : suit. 210
+*** FLOP *** [Kh 2c 3s]
+*** TOURNANT *** [Kh 2c 3s] [3d]
+*** RIVIÈRE *** [Kh 2c 3s 3d] [5c]
+*** ABATTAGE ***
+psychoman59 : montre [Js Jc] (double paire, Valets et Trois)
+jpaulogp : montre [Ah Kd] (double paire, Rois et Trois)
+jpaulogp a remporté 560  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Kh 2c 3s 3d 5c]
+Siège 1 : jpaulogp (bouton) a montré [Ah Kd] et a gagné (560) avec double paire, Rois et Trois
+Siège 2 : psychoman59 (petite blind) a montré [Js Jc] et a perdu avec double paire, Valets et Trois
+Siège 3 : toñito31 (grosse blind) s'est couché. avant Flop
+
+
+

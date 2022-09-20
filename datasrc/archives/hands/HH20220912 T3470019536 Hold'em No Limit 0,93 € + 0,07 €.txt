@@ -1,0 +1,29 @@
+﻿Main PokerStars n°238574772672 : Tournoi #3470019536, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/09/2022 8:52:42 CET [12/09/2022 2:52:42 ET]
+Table '3470019536 1' 3-max Siège #1 est au bouton.
+Place 1: pbpgpr (300 en jetons) 
+Place 2: goky 187 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+goky 187 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c As]
+pbpgpr : relance. 280 à 300 et est all-in.
+goky 187 : passe. 
+psychoman59 : suit. 280 et est all-in.
+*** FLOP *** [Qs 8c 5d]
+*** TOURNANT *** [Qs 8c 5d] [8d]
+*** RIVIÈRE *** [Qs 8c 5d 8d] [6d]
+*** ABATTAGE ***
+psychoman59 : montre [4c As] (une paire de Huit)
+pbpgpr : montre [Qd Jc] (double paire, Dames et Huit)
+pbpgpr a remporté 610  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [Qs 8c 5d 8d 6d]
+Siège 1 : pbpgpr (bouton) a montré [Qd Jc] et a gagné (610) avec double paire, Dames et Huit
+Siège 2 : goky 187 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [4c As] et a perdu avec une paire de Huit
+
+
+

@@ -1,0 +1,152 @@
+﻿Main PokerStars n°237572054348 : Tournoi #3446372088, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 9:29:59 CET [25/07/2022 3:29:59 ET]
+Table '3446372088 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: mollaletty (300 en jetons) 
+Place 3: coinflip0713 (300 en jetons) 
+mollaletty : met la petite blind. 10
+coinflip0713 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 7h]
+psychoman59 : passe. 
+mollaletty : suit. 10
+coinflip0713 : parole 
+*** FLOP *** [Jd 4d 4c]
+mollaletty : parole 
+coinflip0713 : parole 
+*** TOURNANT *** [Jd 4d 4c] [2c]
+mollaletty : parole 
+coinflip0713 : parole 
+*** RIVIÈRE *** [Jd 4d 4c 2c] [Kc]
+mollaletty : parole 
+coinflip0713 : parole 
+*** ABATTAGE ***
+mollaletty : montre [6d Ah] (une paire de Quatre)
+coinflip0713 : cache la main perdante. 
+mollaletty a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Jd 4d 4c 2c Kc]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : mollaletty (petite blind) a montré [6d Ah] et a gagné (40) avec une paire de Quatre
+Siège 3 : coinflip0713 (grosse blind) a caché la main perdante. [Tc 9s]
+
+
+
+Main PokerStars n°237572058052 : Tournoi #3446372088, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 9:30:33 CET [25/07/2022 3:30:33 ET]
+Table '3446372088 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: mollaletty (320 en jetons) 
+Place 3: coinflip0713 (280 en jetons) 
+coinflip0713 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ac]
+mollaletty : suit. 20
+coinflip0713 : suit. 10
+psychoman59 : relance. 280 à 300 et est all-in.
+mollaletty : relance. 20 à 320 et est all-in.
+coinflip0713 : passe. 
+Personne n'a suivi. (20) sont retournés à mollaletty.
+*** FLOP *** [2h 5d 3s]
+*** TOURNANT *** [2h 5d 3s] [Kh]
+*** RIVIÈRE *** [2h 5d 3s Kh] [Th]
+*** ABATTAGE ***
+psychoman59 : montre [Tc Ac] (une paire de Dix)
+mollaletty : montre [Js 9d] (Hauteur Roi)
+psychoman59 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [2h 5d 3s Kh Th]
+Siège 1 : psychoman59 (grosse blind) a montré [Tc Ac] et a gagné (620) avec une paire de Dix
+Siège 2 : mollaletty (bouton) a montré [Js 9d] et a perdu avec Hauteur Roi
+Siège 3 : coinflip0713 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237572062743 : Tournoi #3446372088, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 9:31:17 CET [25/07/2022 3:31:17 ET]
+Table '3446372088 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (620 en jetons) 
+Place 2: mollaletty (20 en jetons) 
+Place 3: coinflip0713 (260 en jetons) 
+psychoman59 : met la petite blind. 15
+mollaletty : met la grosse blind. 20 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9d]
+coinflip0713 : passe. 
+psychoman59 : suit. 5
+*** FLOP *** [3s 8d Ad]
+*** TOURNANT *** [3s 8d Ad] [8h]
+*** RIVIÈRE *** [3s 8d Ad 8h] [7h]
+*** ABATTAGE ***
+psychoman59 : montre [Kd 9d] (une paire de Huit)
+mollaletty : montre [Kc Kh] (double paire, Rois et Huit)
+mollaletty a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [3s 8d Ad 8h 7h]
+Siège 1 : psychoman59 (petite blind) a montré [Kd 9d] et a perdu avec une paire de Huit
+Siège 2 : mollaletty (grosse blind) a montré [Kc Kh] et a gagné (40) avec double paire, Rois et Huit
+Siège 3 : coinflip0713 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237572064366 : Tournoi #3446372088, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 9:31:31 CET [25/07/2022 3:31:31 ET]
+Table '3446372088 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: mollaletty (40 en jetons) 
+Place 3: coinflip0713 (260 en jetons) 
+mollaletty : met la petite blind. 15
+coinflip0713 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Jh]
+psychoman59 : passe. 
+mollaletty : relance. 10 à 40 et est all-in.
+coinflip0713 : suit. 10
+*** FLOP *** [5c 3c 2c]
+*** TOURNANT *** [5c 3c 2c] [Th]
+*** RIVIÈRE *** [5c 3c 2c Th] [5h]
+*** ABATTAGE ***
+mollaletty : montre [7c 3h] (double paire, Cinq et Trois)
+coinflip0713 : montre [4s Qd] (une paire de Cinq)
+mollaletty a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5c 3c 2c Th 5h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : mollaletty (petite blind) a montré [7c 3h] et a gagné (80) avec double paire, Cinq et Trois
+Siège 3 : coinflip0713 (grosse blind) a montré [4s Qd] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°237572066068 : Tournoi #3446372088, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 9:31:47 CET [25/07/2022 3:31:47 ET]
+Table '3446372088 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: mollaletty (80 en jetons) 
+Place 3: coinflip0713 (220 en jetons) 
+coinflip0713 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 6c]
+mollaletty : relance. 50 à 80 et est all-in.
+coinflip0713 : relance. 140 à 220 et est all-in.
+psychoman59 : suit. 190
+*** FLOP *** [4c 7h 7c]
+*** TOURNANT *** [4c 7h 7c] [3s]
+*** RIVIÈRE *** [4c 7h 7c 3s] [5c]
+*** ABATTAGE ***
+coinflip0713 : montre [Qs 9h] (une paire de Sept)
+psychoman59 : montre [Kc 6c] (une couleur, hauteur Roi)
+psychoman59 a remporté 280  parallèle lors du pot .
+mollaletty : montre [5s 8c] (double paire, Sept et Cinq)
+psychoman59 a remporté 240  principal lors du pot .
+coinflip0713 a fini le tournoi en 2e position.
+mollaletty a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 520 Principal pot 240. Parallèle pot 280. | Commission 0 
+Tableau [4c 7h 7c 3s 5c]
+Siège 1 : psychoman59 (grosse blind) a montré [Kc 6c] et a gagné (520) avec une couleur, hauteur Roi
+Siège 2 : mollaletty (bouton) a montré [5s 8c] et a perdu avec double paire, Sept et Cinq
+Siège 3 : coinflip0713 (petite blind) a montré [Qs 9h] et a perdu avec une paire de Sept
+
+
+

@@ -1,0 +1,393 @@
+﻿Main PokerStars n°236663460689 : Tournoi #3423988233, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/06/2022 23:26:39 CET [09/06/2022 17:26:39 ET]
+Table '3423988233 1' 3-max Siège #1 est au bouton.
+Place 1: niko7302 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: DesertshK (300 en jetons) 
+psychoman59 : met la petite blind. 10
+DesertshK : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 5s]
+niko7302 : relance. 20 à 40
+psychoman59 : passe. 
+DesertshK : passe. 
+Personne n'a suivi. (20) sont retournés à niko7302.
+niko7302 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : niko7302 (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : DesertshK (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236663464984 : Tournoi #3423988233, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/06/2022 23:26:50 CET [09/06/2022 17:26:50 ET]
+Table '3423988233 1' 3-max Siège #2 est au bouton.
+Place 1: niko7302 (330 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: DesertshK (280 en jetons) 
+DesertshK : met la petite blind. 10
+niko7302 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 3c]
+psychoman59 : passe. 
+DesertshK : relance. 30 à 50
+niko7302 : relance. 30 à 80
+DesertshK : suit. 30
+*** FLOP *** [Kc 4h 5c]
+DesertshK : parole 
+niko7302 : mise. 40
+DesertshK : suit. 40
+*** TOURNANT *** [Kc 4h 5c] [3h]
+DesertshK : parole 
+niko7302 : mise. 80
+DesertshK : suit. 80
+*** RIVIÈRE *** [Kc 4h 5c 3h] [Ac]
+DesertshK : mise. 80 et est all-in.
+niko7302 : suit. 80
+*** ABATTAGE ***
+DesertshK : montre [8h Ah] (une paire de As)
+niko7302 : montre [Kh Th] (une paire de Rois)
+DesertshK a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Kc 4h 5c 3h Ac]
+Siège 1 : niko7302 (grosse blind) a montré [Kh Th] et a perdu avec une paire de Rois
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : DesertshK (petite blind) a montré [8h Ah] et a gagné (560) avec une paire de As
+
+
+
+Main PokerStars n°236663481878 : Tournoi #3423988233, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/06/2022 23:27:31 CET [09/06/2022 17:27:31 ET]
+Table '3423988233 1' 3-max Siège #3 est au bouton.
+Place 1: niko7302 (50 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: DesertshK (560 en jetons) 
+niko7302 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 2h]
+DesertshK : passe. 
+niko7302 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8d 5c 6s]
+niko7302 : mise. 30 et est all-in.
+psychoman59 : suit. 30
+*** TOURNANT *** [8d 5c 6s] [Ad]
+*** RIVIÈRE *** [8d 5c 6s Ad] [Jd]
+*** ABATTAGE ***
+niko7302 : montre [5h 4s] (une paire de Cinq)
+psychoman59 : montre [8s 2h] (une paire de Huit)
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [8d 5c 6s Ad Jd]
+Siège 1 : niko7302 (petite blind) a montré [5h 4s] et a perdu avec une paire de Cinq
+Siège 2 : psychoman59 (grosse blind) a montré [8s 2h] et a gagné (100) avec une paire de Huit
+Siège 3 : DesertshK (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°236663491834 : Tournoi #3423988233, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/06/2022 23:27:56 CET [09/06/2022 17:27:56 ET]
+Table '3423988233 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (340 en jetons) 
+Place 3: DesertshK (560 en jetons) 
+psychoman59 : met la petite blind. 15
+DesertshK : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 6s]
+psychoman59 : relance. 310 à 340 et est all-in.
+DesertshK : passe. 
+Personne n'a suivi. (310) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : DesertshK (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236663495471 : Tournoi #3423988233, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/06/2022 23:28:05 CET [09/06/2022 17:28:05 ET]
+Table '3423988233 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (370 en jetons) 
+Place 3: DesertshK (530 en jetons) 
+DesertshK : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Ts]
+DesertshK : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : DesertshK (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236663497338 : Tournoi #3423988233, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/06/2022 23:28:09 CET [09/06/2022 17:28:09 ET]
+Table '3423988233 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (385 en jetons) 
+Place 3: DesertshK (515 en jetons) 
+psychoman59 : met la petite blind. 15
+DesertshK : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Tc]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à DesertshK.
+DesertshK a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : DesertshK (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°236663499551 : Tournoi #3423988233, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/06/2022 23:28:15 CET [09/06/2022 17:28:15 ET]
+Table '3423988233 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (370 en jetons) 
+Place 3: DesertshK (530 en jetons) 
+DesertshK : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 5h]
+DesertshK : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Jh 7s 7d]
+psychoman59 : parole 
+DesertshK : parole 
+*** TOURNANT *** [Jh 7s 7d] [6c]
+psychoman59 : parole 
+DesertshK : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [Jh 7s 7d 6c] [7h]
+psychoman59 : parole 
+DesertshK : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6d 5h] (un full, full aux Sept par les Six)
+DesertshK : cache la main perdante. 
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Jh 7s 7d 6c 7h]
+Siège 2 : psychoman59 (grosse blind) a montré [6d 5h] et a gagné (180) avec un full, full aux Sept par les Six
+Siège 3 : DesertshK (bouton) (petite blind) a caché la main perdante. [9s 8c]
+
+
+
+Main PokerStars n°236663512515 : Tournoi #3423988233, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/06/2022 23:28:47 CET [09/06/2022 17:28:47 ET]
+Table '3423988233 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (460 en jetons) 
+Place 3: DesertshK (440 en jetons) 
+psychoman59 : met la petite blind. 20
+DesertshK : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à DesertshK.
+DesertshK a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : DesertshK (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°236663515588 : Tournoi #3423988233, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/06/2022 23:28:55 CET [09/06/2022 17:28:55 ET]
+Table '3423988233 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (440 en jetons) 
+Place 3: DesertshK (460 en jetons) 
+DesertshK : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 6h]
+DesertshK : relance. 60 à 100
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à DesertshK.
+DesertshK a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : DesertshK (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°236663520039 : Tournoi #3423988233, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/06/2022 23:29:05 CET [09/06/2022 17:29:05 ET]
+Table '3423988233 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (400 en jetons) 
+Place 3: DesertshK (500 en jetons) 
+psychoman59 : met la petite blind. 20
+DesertshK : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Jc]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à DesertshK.
+DesertshK a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : DesertshK (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°236663522122 : Tournoi #3423988233, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/06/2022 23:29:11 CET [09/06/2022 17:29:11 ET]
+Table '3423988233 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (380 en jetons) 
+Place 3: DesertshK (520 en jetons) 
+DesertshK : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 5d]
+DesertshK : relance. 60 à 100
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à DesertshK.
+DesertshK a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : DesertshK (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°236663524902 : Tournoi #3423988233, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/06/2022 23:29:18 CET [09/06/2022 17:29:18 ET]
+Table '3423988233 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (340 en jetons) 
+Place 3: DesertshK (560 en jetons) 
+psychoman59 : met la petite blind. 20
+DesertshK : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 9d]
+psychoman59 : relance. 300 à 340 et est all-in.
+DesertshK : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : DesertshK (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236663528735 : Tournoi #3423988233, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/06/2022 23:29:27 CET [09/06/2022 17:29:27 ET]
+Table '3423988233 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (380 en jetons) 
+Place 3: DesertshK (520 en jetons) 
+DesertshK : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 2c]
+DesertshK : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : DesertshK (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236663531498 : Tournoi #3423988233, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/06/2022 23:29:34 CET [09/06/2022 17:29:34 ET]
+Table '3423988233 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (400 en jetons) 
+Place 3: DesertshK (500 en jetons) 
+psychoman59 : met la petite blind. 20
+DesertshK : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à DesertshK.
+DesertshK a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : DesertshK (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°236663533583 : Tournoi #3423988233, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/06/2022 23:29:39 CET [09/06/2022 17:29:39 ET]
+Table '3423988233 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (380 en jetons) 
+Place 3: DesertshK (520 en jetons) 
+DesertshK : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Qh]
+DesertshK : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : DesertshK (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236663536798 : Tournoi #3423988233, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/06/2022 23:29:47 CET [09/06/2022 17:29:47 ET]
+Table '3423988233 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (400 en jetons) 
+Place 3: DesertshK (500 en jetons) 
+psychoman59 : met la petite blind. 30
+DesertshK : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 6h]
+psychoman59 : relance. 340 à 400 et est all-in.
+DesertshK : passe. 
+Personne n'a suivi. (340) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : DesertshK (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236663540292 : Tournoi #3423988233, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/06/2022 23:29:56 CET [09/06/2022 17:29:56 ET]
+Table '3423988233 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (460 en jetons) 
+Place 3: DesertshK (440 en jetons) 
+DesertshK : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 6s]
+DesertshK : relance. 60 à 120
+psychoman59 : relance. 340 à 460 et est all-in.
+DesertshK : suit. 320 et est all-in.
+Personne n'a suivi. (20) sont retournés à psychoman59.
+*** FLOP *** [8d 6h Ts]
+*** TOURNANT *** [8d 6h Ts] [4h]
+*** RIVIÈRE *** [8d 6h Ts 4h] [4d]
+*** ABATTAGE ***
+psychoman59 : montre [Ad 6s] (double paire, Six et Quatre)
+DesertshK : montre [7s Td] (double paire, Dix et Quatre)
+DesertshK a remporté 880  lors du pot .
+*** SYNTHÈSE ***
+Pot total 880 | Commission 0 
+Tableau [8d 6h Ts 4h 4d]
+Siège 2 : psychoman59 (grosse blind) a montré [Ad 6s] et a perdu avec double paire, Six et Quatre
+Siège 3 : DesertshK (bouton) (petite blind) a montré [7s Td] et a gagné (880) avec double paire, Dix et Quatre
+
+
+
+Main PokerStars n°236663547102 : Tournoi #3423988233, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/06/2022 23:30:12 CET [09/06/2022 17:30:12 ET]
+Table '3423988233 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (20 en jetons) 
+Place 3: DesertshK (880 en jetons) 
+psychoman59 : met la petite blind. 20 et est all-in.
+DesertshK : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 4s]
+Personne n'a suivi. (40) sont retournés à DesertshK.
+*** FLOP *** [5d Tc 7d]
+*** TOURNANT *** [5d Tc 7d] [7c]
+*** RIVIÈRE *** [5d Tc 7d 7c] [Ts]
+*** ABATTAGE ***
+DesertshK : montre [9s 6c] (double paire, Dix et Sept)
+psychoman59 : montre [2s 4s] (double paire, Dix et Sept - plus basse kicker)
+DesertshK a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5d Tc 7d 7c Ts]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [2s 4s] et a perdu avec double paire, Dix et Sept
+Siège 3 : DesertshK (grosse blind) a montré [9s 6c] et a gagné (40) avec double paire, Dix et Sept
+
+
+

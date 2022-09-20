@@ -1,0 +1,79 @@
+﻿Main PokerStars n°237290641747 : Tournoi #3439849162, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 11:04:40 CET [11/07/2022 5:04:40 ET]
+Table '3439849162 1' 3-max Siège #1 est au bouton.
+Place 1: rafaelponzi (300 en jetons) 
+Place 2: Tomasinho2 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Tomasinho2 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 3h]
+rafaelponzi : relance. 280 à 300 et est all-in.
+Tomasinho2 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (280) sont retournés à rafaelponzi.
+rafaelponzi a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : rafaelponzi (bouton) a remporté (50)
+Siège 2 : Tomasinho2 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237290643755 : Tournoi #3439849162, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 11:04:54 CET [11/07/2022 5:04:54 ET]
+Table '3439849162 1' 3-max Siège #2 est au bouton.
+Place 1: rafaelponzi (330 en jetons) 
+Place 2: Tomasinho2 (290 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+rafaelponzi : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 3c]
+Tomasinho2 : relance. 20 à 40
+psychoman59 : passe. 
+rafaelponzi : suit. 20
+*** FLOP *** [As 5s 7h]
+rafaelponzi : parole 
+Tomasinho2 : mise. 40
+rafaelponzi : passe. 
+Personne n'a suivi. (40) sont retournés à Tomasinho2.
+Tomasinho2 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [As 5s 7h]
+Siège 1 : rafaelponzi (grosse blind) s'est couché. sur le Flop
+Siège 2 : Tomasinho2 (bouton) a remporté (90)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237290645988 : Tournoi #3439849162, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 11:05:10 CET [11/07/2022 5:05:10 ET]
+Table '3439849162 1' 3-max Siège #3 est au bouton.
+Place 1: rafaelponzi (290 en jetons) 
+Place 2: Tomasinho2 (340 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+rafaelponzi : met la petite blind. 10
+Tomasinho2 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Kd]
+psychoman59 : suit. 20
+rafaelponzi : relance. 270 à 290 et est all-in.
+Tomasinho2 : passe. 
+psychoman59 : suit. 250 et est all-in.
+Personne n'a suivi. (20) sont retournés à rafaelponzi.
+*** FLOP *** [6c 6h Tc]
+*** TOURNANT *** [6c 6h Tc] [2h]
+*** RIVIÈRE *** [6c 6h Tc 2h] [8s]
+*** ABATTAGE ***
+rafaelponzi : montre [4c 4h] (double paire, Six et Quatre)
+psychoman59 : montre [3d Kd] (une paire de Six)
+rafaelponzi a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [6c 6h Tc 2h 8s]
+Siège 1 : rafaelponzi (petite blind) a montré [4c 4h] et a gagné (560) avec double paire, Six et Quatre
+Siège 2 : Tomasinho2 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [3d Kd] et a perdu avec une paire de Six
+
+
+

@@ -1,0 +1,749 @@
+﻿Main PokerStars n°238362876002 : Tournoi #3465132058, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/09/2022 9:25:32 CET [02/09/2022 3:25:32 ET]
+Table '3465132058 1' 4-max Siège #1 est au bouton.
+Place 1: Numerus399 (5000 en jetons) 
+Place 2: corosole971 (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: Pavesini8 (5000 en jetons) 
+Numerus399 : met l'ante. 10
+corosole971 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Pavesini8 : met l'ante. 10
+corosole971 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 4s]
+corosole971 est déconnecté 
+Pavesini8 : relance. 150 à 250
+Numerus399 : passe. 
+corosole971 est connecté 
+corosole971 est déconnecté 
+corosole971 a dépassé le temps imparti. pendant qu'il était déconnecté
+corosole971 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à Pavesini8.
+Pavesini8 a remporté 290  lors du pot .
+Pavesini8 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : Numerus399 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : corosole971 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : Pavesini8 a remporté (290)
+
+
+
+Main PokerStars n°238362885732 : Tournoi #3465132058, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/09/2022 9:26:55 CET [02/09/2022 3:26:55 ET]
+Table '3465132058 1' 4-max Siège #2 est au bouton.
+Place 1: Numerus399 (4990 en jetons) 
+Place 2: corosole971 (4940 en jetons) 
+Place 3: psychoman59 (4890 en jetons) 
+Place 4: Pavesini8 (5180 en jetons) 
+Numerus399 : met l'ante. 10
+corosole971 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Pavesini8 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+Pavesini8 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 7s]
+corosole971 est déconnecté 
+Numerus399 : passe. 
+corosole971 : passe. 
+psychoman59 : relance. 100 à 200
+Pavesini8 : suit. 100
+*** FLOP *** [Tc Qh 3s]
+psychoman59 : parole 
+Pavesini8 : mise. 220
+psychoman59 : suit. 220
+*** TOURNANT *** [Tc Qh 3s] [Qc]
+psychoman59 : parole 
+Pavesini8 : mise. 440
+psychoman59 : suit. 440
+*** RIVIÈRE *** [Tc Qh 3s Qc] [Ts]
+psychoman59 : parole 
+Pavesini8 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ac 7s] (double paire, Dames et Dix)
+Pavesini8 : montre [2c Td] (un full, full aux Dix par les Dames)
+Pavesini8 a remporté 1760  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1760 | Commission 0 
+Tableau [Tc Qh 3s Qc Ts]
+Siège 1 : Numerus399 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : corosole971 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Ac 7s] et a perdu avec double paire, Dames et Dix
+Siège 4 : Pavesini8 (grosse blind) a montré [2c Td] et a gagné (1760) avec un full, full aux Dix par les Dames
+
+
+
+Main PokerStars n°238362892436 : Tournoi #3465132058, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/09/2022 9:27:51 CET [02/09/2022 3:27:51 ET]
+Table '3465132058 1' 4-max Siège #3 est au bouton.
+Place 1: Numerus399 (4980 en jetons) 
+Place 2: corosole971 (4930 en jetons) 
+Place 3: psychoman59 (4020 en jetons) 
+Place 4: Pavesini8 (6070 en jetons) 
+Numerus399 : met l'ante. 10
+corosole971 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Pavesini8 : met l'ante. 10
+Pavesini8 : met la petite blind. 50
+Numerus399 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Qs]
+corosole971 : passe. 
+psychoman59 : passe. 
+Pavesini8 : relance. 240 à 340
+Numerus399 : passe. 
+Personne n'a suivi. (240) sont retournés à Pavesini8.
+Pavesini8 a remporté 240  lors du pot .
+Pavesini8 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : Numerus399 (grosse blind) s'est couché. avant Flop
+Siège 2 : corosole971 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Pavesini8 (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°238362894679 : Tournoi #3465132058, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/09/2022 9:28:11 CET [02/09/2022 3:28:11 ET]
+Table '3465132058 1' 4-max Siège #4 est au bouton.
+Place 1: Numerus399 (4870 en jetons) 
+Place 2: corosole971 (4920 en jetons) 
+Place 3: psychoman59 (4010 en jetons) 
+Place 4: Pavesini8 (6200 en jetons) 
+Numerus399 : met l'ante. 10
+corosole971 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Pavesini8 : met l'ante. 10
+Numerus399 : met la petite blind. 50
+corosole971 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 6s]
+psychoman59 : relance. 290 à 390
+Pavesini8 : passe. 
+Numerus399 : passe. 
+corosole971 : passe. 
+Personne n'a suivi. (290) sont retournés à psychoman59.
+psychoman59 a remporté 290  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : Numerus399 (petite blind) s'est couché. avant Flop
+Siège 2 : corosole971 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 a remporté (290)
+Siège 4 : Pavesini8 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238362896345 : Tournoi #3465132058, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/09/2022 9:28:26 CET [02/09/2022 3:28:26 ET]
+Table '3465132058 1' 4-max Siège #1 est au bouton.
+Place 1: Numerus399 (4810 en jetons) 
+Place 2: corosole971 (4810 en jetons) 
+Place 3: psychoman59 (4190 en jetons) 
+Place 4: Pavesini8 (6190 en jetons) 
+Numerus399 : met l'ante. 10
+corosole971 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Pavesini8 : met l'ante. 10
+corosole971 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 9d]
+Pavesini8 : relance. 200 à 300
+Numerus399 : passe. 
+corosole971 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à Pavesini8.
+Pavesini8 a remporté 290  lors du pot .
+Pavesini8 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : Numerus399 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : corosole971 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : Pavesini8 a remporté (290)
+
+
+
+Main PokerStars n°238362898029 : Tournoi #3465132058, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/09/2022 9:28:40 CET [02/09/2022 3:28:40 ET]
+Table '3465132058 1' 4-max Siège #2 est au bouton.
+Place 1: Numerus399 (4800 en jetons) 
+Place 2: corosole971 (4750 en jetons) 
+Place 3: psychoman59 (4080 en jetons) 
+Place 4: Pavesini8 (6370 en jetons) 
+Numerus399 : met l'ante. 10
+corosole971 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Pavesini8 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+Pavesini8 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Ts]
+Numerus399 : relance. 100 à 200
+corosole971 : suit. 200
+psychoman59 : passe. 
+Pavesini8 : suit. 100
+*** FLOP *** [2c Jc Qc]
+Pavesini8 : parole 
+Numerus399 : mise. 100
+corosole971 : passe. 
+Pavesini8 : passe. 
+Personne n'a suivi. (100) sont retournés à Numerus399.
+Numerus399 a remporté 690  lors du pot .
+Numerus399 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 690 | Commission 0 
+Tableau [2c Jc Qc]
+Siège 1 : Numerus399 a remporté (690)
+Siège 2 : corosole971 (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : Pavesini8 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238362901949 : Tournoi #3465132058, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 02/09/2022 9:29:15 CET [02/09/2022 3:29:15 ET]
+Table '3465132058 1' 4-max Siège #3 est au bouton.
+Place 1: Numerus399 (5280 en jetons) 
+Place 2: corosole971 (4540 en jetons) 
+Place 3: psychoman59 (4020 en jetons) 
+Place 4: Pavesini8 (6160 en jetons) 
+Numerus399 : met l'ante. 15
+corosole971 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Pavesini8 : met l'ante. 15
+Pavesini8 : met la petite blind. 60
+Numerus399 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 9d]
+corosole971 a dépassé le temps imparti.
+corosole971 : passe. 
+corosole971 ne joue pas.
+psychoman59 : passe. 
+corosole971 est revenu.
+Pavesini8 : suit. 60
+Numerus399 : relance. 240 à 360
+Pavesini8 : passe. 
+Personne n'a suivi. (240) sont retournés à Numerus399.
+Numerus399 a remporté 300  lors du pot .
+Numerus399 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Siège 1 : Numerus399 (grosse blind) a remporté (300)
+Siège 2 : corosole971 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Pavesini8 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238362906507 : Tournoi #3465132058, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 02/09/2022 9:29:54 CET [02/09/2022 3:29:54 ET]
+Table '3465132058 1' 4-max Siège #4 est au bouton.
+Place 1: Numerus399 (5445 en jetons) 
+Place 2: corosole971 (4525 en jetons) 
+Place 3: psychoman59 (4005 en jetons) 
+Place 4: Pavesini8 (6025 en jetons) 
+Numerus399 : met l'ante. 15
+corosole971 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Pavesini8 : met l'ante. 15
+Numerus399 : met la petite blind. 60
+corosole971 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 8h]
+psychoman59 : passe. 
+Pavesini8 : passe. 
+Numerus399 : passe. 
+Personne n'a suivi. (60) sont retournés à corosole971.
+corosole971 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : Numerus399 (petite blind) s'est couché. avant Flop
+Siège 2 : corosole971 (grosse blind) a remporté (180)
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Pavesini8 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238362907757 : Tournoi #3465132058, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 02/09/2022 9:30:04 CET [02/09/2022 3:30:04 ET]
+Table '3465132058 1' 4-max Siège #1 est au bouton.
+Place 1: Numerus399 (5370 en jetons) 
+Place 2: corosole971 (4630 en jetons) 
+Place 3: psychoman59 (3990 en jetons) 
+Place 4: Pavesini8 (6010 en jetons) 
+Numerus399 : met l'ante. 15
+corosole971 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Pavesini8 : met l'ante. 15
+corosole971 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 8c]
+Pavesini8 : passe. 
+Numerus399 : passe. 
+corosole971 : relance. 120 à 240
+psychoman59 : suit. 120
+*** FLOP *** [6c 2s 5c]
+corosole971 : mise. 270
+psychoman59 : suit. 270
+*** TOURNANT *** [6c 2s 5c] [4d]
+corosole971 : parole 
+psychoman59 : mise. 540
+corosole971 : suit. 540
+*** RIVIÈRE *** [6c 2s 5c 4d] [Jc]
+corosole971 : mise. 1080
+psychoman59 : passe. 
+Personne n'a suivi. (1080) sont retournés à corosole971.
+corosole971 a remporté 2160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2160 | Commission 0 
+Tableau [6c 2s 5c 4d Jc]
+Siège 1 : Numerus399 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : corosole971 (petite blind) a remporté (2160)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 4 : Pavesini8 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238362912293 : Tournoi #3465132058, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 02/09/2022 9:30:43 CET [02/09/2022 3:30:43 ET]
+Table '3465132058 1' 4-max Siège #2 est au bouton.
+Place 1: Numerus399 (5355 en jetons) 
+Place 2: corosole971 (5725 en jetons) 
+Place 3: psychoman59 (2925 en jetons) 
+Place 4: Pavesini8 (5995 en jetons) 
+Numerus399 : met l'ante. 15
+corosole971 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Pavesini8 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+Pavesini8 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 9c]
+Numerus399 : relance. 120 à 240
+corosole971 : suit. 240
+psychoman59 : suit. 180
+Pavesini8 : suit. 120
+*** FLOP *** [7s 6c Jd]
+psychoman59 : mise. 1020
+Pavesini8 : passe. 
+Numerus399 : relance. 4080 à 5100 et est all-in.
+corosole971 : passe. 
+psychoman59 : suit. 1650 et est all-in.
+Personne n'a suivi. (2430) sont retournés à Numerus399.
+*** TOURNANT *** [7s 6c Jd] [Jh]
+*** RIVIÈRE *** [7s 6c Jd Jh] [Ac]
+*** ABATTAGE ***
+psychoman59 : montre [Jc 9c] (un brelan de Valets)
+Numerus399 : montre [Qc Qh] (double paire, Dames et Valets)
+psychoman59 a remporté 6360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 6360 | Commission 0 
+Tableau [7s 6c Jd Jh Ac]
+Siège 1 : Numerus399 a montré [Qc Qh] et a perdu avec double paire, Dames et Valets
+Siège 2 : corosole971 (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) a montré [Jc 9c] et a gagné (6360) avec un brelan de Valets
+Siège 4 : Pavesini8 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238362919244 : Tournoi #3465132058, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 02/09/2022 9:31:41 CET [02/09/2022 3:31:41 ET]
+Table '3465132058 1' 4-max Siège #3 est au bouton.
+Place 1: Numerus399 (2430 en jetons) 
+Place 2: corosole971 (5470 en jetons) 
+Place 3: psychoman59 (6360 en jetons) 
+Place 4: Pavesini8 (5740 en jetons) 
+Numerus399 : met l'ante. 15
+corosole971 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Pavesini8 : met l'ante. 15
+Pavesini8 : met la petite blind. 60
+Numerus399 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 3c]
+corosole971 : passe. 
+psychoman59 : passe. 
+Pavesini8 : relance. 240 à 360
+Numerus399 : suit. 240
+*** FLOP *** [Jh Td Ac]
+Pavesini8 : mise. 240
+Numerus399 : passe. 
+Personne n'a suivi. (240) sont retournés à Pavesini8.
+Pavesini8 a remporté 780  lors du pot .
+Pavesini8 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 780 | Commission 0 
+Tableau [Jh Td Ac]
+Siège 1 : Numerus399 (grosse blind) s'est couché. sur le Flop
+Siège 2 : corosole971 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Pavesini8 (petite blind) a remporté (780)
+
+
+
+Main PokerStars n°238362923847 : Tournoi #3465132058, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 02/09/2022 9:32:18 CET [02/09/2022 3:32:18 ET]
+Table '3465132058 1' 4-max Siège #4 est au bouton.
+Place 1: Numerus399 (2055 en jetons) 
+Place 2: corosole971 (5455 en jetons) 
+Place 3: psychoman59 (6345 en jetons) 
+Place 4: Pavesini8 (6145 en jetons) 
+Numerus399 : met l'ante. 20
+corosole971 : met l'ante. 20
+psychoman59 : met l'ante. 20
+Pavesini8 : met l'ante. 20
+Numerus399 : met la petite blind. 75
+corosole971 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ah]
+psychoman59 : relance. 150 à 300
+Pavesini8 : suit. 300
+Numerus399 : relance. 1735 à 2035 et est all-in.
+corosole971 : passe. 
+psychoman59 : passe. 
+Pavesini8 : suit. 1735
+*** FLOP *** [Qs 5c Qh]
+*** TOURNANT *** [Qs 5c Qh] [Tc]
+*** RIVIÈRE *** [Qs 5c Qh Tc] [6c]
+*** ABATTAGE ***
+Numerus399 : montre [Qd Kd] (un brelan de Dames)
+Pavesini8 : montre [Kc Td] (double paire, Dames et Dix)
+Numerus399 a remporté 4600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4600 | Commission 0 
+Tableau [Qs 5c Qh Tc 6c]
+Siège 1 : Numerus399 (petite blind) a montré [Qd Kd] et a gagné (4600) avec un brelan de Dames
+Siège 2 : corosole971 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 s'est couché. avant Flop
+Siège 4 : Pavesini8 (bouton) a montré [Kc Td] et a perdu avec double paire, Dames et Dix
+
+
+
+Main PokerStars n°238362928265 : Tournoi #3465132058, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 02/09/2022 9:32:55 CET [02/09/2022 3:32:55 ET]
+Table '3465132058 1' 4-max Siège #1 est au bouton.
+Place 1: Numerus399 (4600 en jetons) 
+Place 2: corosole971 (5285 en jetons) 
+Place 3: psychoman59 (6025 en jetons) 
+Place 4: Pavesini8 (4090 en jetons) 
+Numerus399 : met l'ante. 20
+corosole971 : met l'ante. 20
+psychoman59 : met l'ante. 20
+Pavesini8 : met l'ante. 20
+corosole971 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 5h]
+Pavesini8 : passe. 
+Numerus399 : suit. 150
+corosole971 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [Qd 7h 2d]
+corosole971 : parole 
+psychoman59 : parole 
+Numerus399 : mise. 150
+corosole971 a dépassé le temps imparti.
+corosole971 : passe. 
+corosole971 ne joue pas.
+psychoman59 : suit. 150
+*** TOURNANT *** [Qd 7h 2d] [3d]
+psychoman59 : parole 
+corosole971 est revenu.
+Numerus399 : mise. 150
+psychoman59 : suit. 150
+*** RIVIÈRE *** [Qd 7h 2d 3d] [Td]
+psychoman59 : parole 
+Numerus399 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7s 5h] (une paire de Sept)
+Numerus399 : montre [7d 5s] (une couleur, hauteur Dame)
+Numerus399 a remporté 1130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1130 | Commission 0 
+Tableau [Qd 7h 2d 3d Td]
+Siège 1 : Numerus399 (bouton) a montré [7d 5s] et a gagné (1130) avec une couleur, hauteur Dame
+Siège 2 : corosole971 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a montré [7s 5h] et a perdu avec une paire de Sept
+Siège 4 : Pavesini8 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238362936356 : Tournoi #3465132058, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 02/09/2022 9:34:01 CET [02/09/2022 3:34:01 ET]
+Table '3465132058 1' 4-max Siège #2 est au bouton.
+Place 1: Numerus399 (5260 en jetons) 
+Place 2: corosole971 (5115 en jetons) 
+Place 3: psychoman59 (5555 en jetons) 
+Place 4: Pavesini8 (4070 en jetons) 
+Numerus399 : met l'ante. 20
+corosole971 : met l'ante. 20
+psychoman59 : met l'ante. 20
+Pavesini8 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Pavesini8 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 8s]
+Numerus399 : suit. 150
+corosole971 : passe. 
+psychoman59 : passe. 
+Pavesini8 : relance. 3900 à 4050 et est all-in.
+Numerus399 : passe. 
+Personne n'a suivi. (3900) sont retournés à Pavesini8.
+Pavesini8 a remporté 455  lors du pot .
+Pavesini8 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 455 | Commission 0 
+Siège 1 : Numerus399 s'est couché. avant Flop
+Siège 2 : corosole971 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : Pavesini8 (grosse blind) a remporté (455)
+
+
+
+Main PokerStars n°238362938085 : Tournoi #3465132058, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 02/09/2022 9:34:14 CET [02/09/2022 3:34:14 ET]
+Table '3465132058 1' 4-max Siège #3 est au bouton.
+Place 1: Numerus399 (5090 en jetons) 
+Place 2: corosole971 (5095 en jetons) 
+Place 3: psychoman59 (5460 en jetons) 
+Place 4: Pavesini8 (4355 en jetons) 
+Numerus399 : met l'ante. 20
+corosole971 : met l'ante. 20
+psychoman59 : met l'ante. 20
+Pavesini8 : met l'ante. 20
+Pavesini8 : met la petite blind. 75
+Numerus399 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 6h]
+corosole971 : relance. 150 à 300
+psychoman59 : passe. 
+Pavesini8 : suit. 225
+Numerus399 : passe. 
+*** FLOP *** [4s Qc Ks]
+Pavesini8 : parole 
+corosole971 : mise. 415
+Pavesini8 : suit. 415
+*** TOURNANT *** [4s Qc Ks] [2c]
+Pavesini8 : parole 
+corosole971 : parole 
+*** RIVIÈRE *** [4s Qc Ks 2c] [3d]
+Pavesini8 : mise. 900
+corosole971 : passe. 
+Personne n'a suivi. (900) sont retournés à Pavesini8.
+Pavesini8 a remporté 1660  lors du pot .
+Pavesini8 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1660 | Commission 0 
+Tableau [4s Qc Ks 2c 3d]
+Siège 1 : Numerus399 (grosse blind) s'est couché. avant Flop
+Siège 2 : corosole971 s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Pavesini8 (petite blind) a remporté (1660)
+
+
+
+Main PokerStars n°238362946353 : Tournoi #3465132058, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 02/09/2022 9:35:23 CET [02/09/2022 3:35:23 ET]
+Table '3465132058 1' 4-max Siège #4 est au bouton.
+Place 1: Numerus399 (4920 en jetons) 
+Place 2: corosole971 (4360 en jetons) 
+Place 3: psychoman59 (5440 en jetons) 
+Place 4: Pavesini8 (5280 en jetons) 
+Numerus399 : met l'ante. 25
+corosole971 : met l'ante. 25
+psychoman59 : met l'ante. 25
+Pavesini8 : met l'ante. 25
+Numerus399 : met la petite blind. 100
+corosole971 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 5c]
+psychoman59 : passe. 
+Pavesini8 : relance. 400 à 600
+Numerus399 : passe. 
+corosole971 : passe. 
+Personne n'a suivi. (400) sont retournés à Pavesini8.
+Pavesini8 a remporté 600  lors du pot .
+Pavesini8 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Siège 1 : Numerus399 (petite blind) s'est couché. avant Flop
+Siège 2 : corosole971 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Pavesini8 (bouton) a remporté (600)
+
+
+
+Main PokerStars n°238362951036 : Tournoi #3465132058, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 02/09/2022 9:36:02 CET [02/09/2022 3:36:02 ET]
+Table '3465132058 1' 4-max Siège #1 est au bouton.
+Place 1: Numerus399 (4795 en jetons) 
+Place 2: corosole971 (4135 en jetons) 
+Place 3: psychoman59 (5415 en jetons) 
+Place 4: Pavesini8 (5655 en jetons) 
+Numerus399 : met l'ante. 25
+corosole971 : met l'ante. 25
+psychoman59 : met l'ante. 25
+Pavesini8 : met l'ante. 25
+corosole971 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Qd]
+Pavesini8 : passe. 
+Numerus399 : passe. 
+corosole971 a dépassé le temps imparti.
+corosole971 : passe. 
+corosole971 ne joue pas.
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 300  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Siège 1 : Numerus399 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : corosole971 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (300)
+Siège 4 : Pavesini8 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238362954372 : Tournoi #3465132058, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 02/09/2022 9:36:29 CET [02/09/2022 3:36:29 ET]
+Table '3465132058 1' 4-max Siège #2 est au bouton.
+Place 1: Numerus399 (4770 en jetons) 
+Place 2: corosole971 (4010 en jetons) ne joue pas.
+Place 3: psychoman59 (5590 en jetons) 
+Place 4: Pavesini8 (5630 en jetons) 
+Numerus399 : met l'ante. 25
+corosole971 : met l'ante. 25
+psychoman59 : met l'ante. 25
+Pavesini8 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+Pavesini8 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Kd]
+Numerus399 : suit. 200
+corosole971 : passe. 
+psychoman59 : suit. 100
+Pavesini8 : parole 
+*** FLOP *** [Jc 9h Jd]
+corosole971 est revenu.
+psychoman59 : parole 
+Pavesini8 : parole 
+Numerus399 : parole 
+*** TOURNANT *** [Jc 9h Jd] [Ks]
+psychoman59 : parole 
+Pavesini8 : mise. 400
+Numerus399 : passe. 
+psychoman59 : suit. 400
+*** RIVIÈRE *** [Jc 9h Jd Ks] [8h]
+psychoman59 : parole 
+Pavesini8 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Th Kd] (double paire, Rois et Valets)
+Pavesini8 : cache la main perdante. 
+psychoman59 a remporté 1500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1500 | Commission 0 
+Tableau [Jc 9h Jd Ks 8h]
+Siège 1 : Numerus399 s'est couché. sur le Tournant
+Siège 2 : corosole971 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Th Kd] et a gagné (1500) avec double paire, Rois et Valets
+Siège 4 : Pavesini8 (grosse blind) a caché la main perdante. [6s 2s]
+
+
+
+Main PokerStars n°238362960047 : Tournoi #3465132058, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 02/09/2022 9:37:16 CET [02/09/2022 3:37:16 ET]
+Table '3465132058 1' 4-max Siège #3 est au bouton.
+Place 1: Numerus399 (4545 en jetons) 
+Place 2: corosole971 (3985 en jetons) 
+Place 3: psychoman59 (6465 en jetons) 
+Place 4: Pavesini8 (5005 en jetons) 
+Numerus399 : met l'ante. 25
+corosole971 : met l'ante. 25
+psychoman59 : met l'ante. 25
+Pavesini8 : met l'ante. 25
+Pavesini8 : met la petite blind. 100
+Numerus399 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Jc]
+corosole971 : suit. 200
+psychoman59 : passe. 
+Pavesini8 : suit. 100
+Numerus399 : parole 
+*** FLOP *** [5d Qd 5s]
+Pavesini8 : mise. 200
+Numerus399 : passe. 
+corosole971 : relance. 550 à 750
+Pavesini8 : relance. 2850 à 3600
+corosole971 : relance. 160 à 3760 et est all-in.
+Pavesini8 : suit. 160
+*** TOURNANT *** [5d Qd 5s] [4c]
+*** RIVIÈRE *** [5d Qd 5s 4c] [Kc]
+*** ABATTAGE ***
+Pavesini8 : montre [5c 6d] (un brelan de Cinq)
+corosole971 : montre [Jd Qh] (double paire, Dames et Cinq)
+Pavesini8 a remporté 8220  lors du pot .
+corosole971 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 8220 | Commission 0 
+Tableau [5d Qd 5s 4c Kc]
+Siège 1 : Numerus399 (grosse blind) s'est couché. sur le Flop
+Siège 2 : corosole971 a montré [Jd Qh] et a perdu avec double paire, Dames et Cinq
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Pavesini8 (petite blind) a montré [5c 6d] et a gagné (8220) avec un brelan de Cinq
+
+
+
+Main PokerStars n°238362964621 : Tournoi #3465132058, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 02/09/2022 9:37:53 CET [02/09/2022 3:37:53 ET]
+Table '3465132058 1' 4-max Siège #4 est au bouton.
+Place 1: Numerus399 (4320 en jetons) 
+Place 3: psychoman59 (6440 en jetons) 
+Place 4: Pavesini8 (9240 en jetons) 
+Numerus399 : met l'ante. 25
+psychoman59 : met l'ante. 25
+Pavesini8 : met l'ante. 25
+Numerus399 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 6s]
+Pavesini8 : relance. 400 à 600
+Numerus399 : suit. 500
+psychoman59 : passe. 
+*** FLOP *** [Kh As 2c]
+Numerus399 : parole 
+Pavesini8 : mise. 600
+Numerus399 : passe. 
+Personne n'a suivi. (600) sont retournés à Pavesini8.
+Pavesini8 a remporté 1475  lors du pot .
+Pavesini8 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1475 | Commission 0 
+Tableau [Kh As 2c]
+Siège 1 : Numerus399 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : Pavesini8 (bouton) a remporté (1475)
+
+
+
+Main PokerStars n°238362968199 : Tournoi #3465132058, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/09/2022 9:38:23 CET [02/09/2022 3:38:23 ET]
+Table '3465132058 1' 4-max Siège #1 est au bouton.
+Place 1: Numerus399 (3695 en jetons) 
+Place 3: psychoman59 (6215 en jetons) 
+Place 4: Pavesini8 (10090 en jetons) 
+Numerus399 : met l'ante. 30
+psychoman59 : met l'ante. 30
+Pavesini8 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+Pavesini8 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Ad]
+Numerus399 : passe. 
+psychoman59 : relance. 5935 à 6185 et est all-in.
+Pavesini8 : suit. 5935
+*** FLOP *** [5h 4c 8s]
+*** TOURNANT *** [5h 4c 8s] [9h]
+*** RIVIÈRE *** [5h 4c 8s 9h] [2c]
+*** ABATTAGE ***
+psychoman59 : montre [Kc Ad] (Hauteur As)
+Pavesini8 : montre [Ac 8h] (une paire de Huit)
+Pavesini8 a remporté 12460  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 12460 | Commission 0 
+Tableau [5h 4c 8s 9h 2c]
+Siège 1 : Numerus399 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Kc Ad] et a perdu avec Hauteur As
+Siège 4 : Pavesini8 (grosse blind) a montré [Ac 8h] et a gagné (12460) avec une paire de Huit
+
+
+

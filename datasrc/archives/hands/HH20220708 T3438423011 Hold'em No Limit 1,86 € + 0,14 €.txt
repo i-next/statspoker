@@ -1,0 +1,99 @@
+﻿Main PokerStars n°237229520135 : Tournoi #3438423011, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 9:44:43 CET [08/07/2022 3:44:43 ET]
+Table '3438423011 1' 3-max Siège #1 est au bouton.
+Place 1: Winarnax (300 en jetons) 
+Place 2: gigi051260 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+gigi051260 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Td]
+Winarnax : passe. 
+gigi051260 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Js Ac Th]
+gigi051260 : parole 
+psychoman59 : mise. 40
+gigi051260 : suit. 40
+*** TOURNANT *** [Js Ac Th] [8c]
+gigi051260 : parole 
+psychoman59 : mise. 60
+gigi051260 : suit. 60
+*** RIVIÈRE *** [Js Ac Th 8c] [Qs]
+gigi051260 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+gigi051260 : montre [Jc 3s] (une paire de Valets)
+psychoman59 : cache la main perdante. 
+gigi051260 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Js Ac Th 8c Qs]
+Siège 1 : Winarnax (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : gigi051260 (petite blind) a montré [Jc 3s] et a gagné (240) avec une paire de Valets
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [5d Td]
+
+
+
+Main PokerStars n°237229523757 : Tournoi #3438423011, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 9:45:13 CET [08/07/2022 3:45:13 ET]
+Table '3438423011 1' 3-max Siège #2 est au bouton.
+Place 1: Winarnax (300 en jetons) 
+Place 2: gigi051260 (420 en jetons) 
+Place 3: psychoman59 (180 en jetons) 
+psychoman59 : met la petite blind. 10
+Winarnax : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3h]
+gigi051260 : relance. 20 à 40
+psychoman59 : suit. 30
+Winarnax : passe. 
+*** FLOP *** [6d 4h Js]
+psychoman59 : parole 
+gigi051260 : parole 
+*** TOURNANT *** [6d 4h Js] [Kd]
+psychoman59 : parole 
+gigi051260 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [6d 4h Js Kd] [4s]
+psychoman59 : parole 
+gigi051260 : mise. 140
+psychoman59 : passe. 
+Personne n'a suivi. (140) sont retournés à gigi051260.
+gigi051260 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [6d 4h Js Kd 4s]
+Siège 1 : Winarnax (grosse blind) s'est couché. avant Flop
+Siège 2 : gigi051260 (bouton) a remporté (140)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237229526973 : Tournoi #3438423011, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 9:45:41 CET [08/07/2022 3:45:41 ET]
+Table '3438423011 1' 3-max Siège #3 est au bouton.
+Place 1: Winarnax (280 en jetons) 
+Place 2: gigi051260 (500 en jetons) 
+Place 3: psychoman59 (120 en jetons) 
+Winarnax : met la petite blind. 10
+gigi051260 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 4s]
+psychoman59 : relance. 100 à 120 et est all-in.
+Winarnax : relance. 160 à 280 et est all-in.
+gigi051260 : passe. 
+Personne n'a suivi. (160) sont retournés à Winarnax.
+*** FLOP *** [7d 6s 2c]
+*** TOURNANT *** [7d 6s 2c] [Th]
+*** RIVIÈRE *** [7d 6s 2c Th] [3s]
+*** ABATTAGE ***
+Winarnax : montre [6h As] (une paire de Six)
+psychoman59 : montre [Kd 4s] (Hauteur Roi)
+Winarnax a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [7d 6s 2c Th 3s]
+Siège 1 : Winarnax (petite blind) a montré [6h As] et a gagné (260) avec une paire de Six
+Siège 2 : gigi051260 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [Kd 4s] et a perdu avec Hauteur Roi
+
+
+

@@ -1,0 +1,2070 @@
+﻿Main PokerStars n°238243940917 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 27/08/2022 11:24:16 CET [27/08/2022 5:24:16 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (5000 en jetons) 
+Place 2: lepiemontais13 (5000 en jetons) 
+Place 3: chuky66650 (5000 en jetons) 
+Place 4: psychoman59 (5000 en jetons) 
+EviL_FeeL : met l'ante. 10
+lepiemontais13 : met l'ante. 10
+chuky66650 : met l'ante. 10
+psychoman59 : met l'ante. 10
+lepiemontais13 : met la petite blind. 50
+chuky66650 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 7c]
+psychoman59 : passe. 
+EviL_FeeL : passe. 
+lepiemontais13 : suit. 50
+chuky66650 : parole 
+*** FLOP *** [2h 6h 8h]
+lepiemontais13 : mise. 100
+chuky66650 : suit. 100
+*** TOURNANT *** [2h 6h 8h] [9c]
+lepiemontais13 : mise. 100
+chuky66650 : relance. 100 à 200
+lepiemontais13 : suit. 100
+*** RIVIÈRE *** [2h 6h 8h 9c] [Ts]
+lepiemontais13 : parole 
+chuky66650 : mise. 500
+lepiemontais13 : suit. 500
+*** ABATTAGE ***
+chuky66650 : montre [8s 9s] (double paire, Neuf et Huit)
+lepiemontais13 : cache la main perdante. 
+chuky66650 a remporté 1840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1840 | Commission 0 
+Tableau [2h 6h 8h 9c Ts]
+Siège 1 : EviL_FeeL (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : lepiemontais13 (petite blind) a caché la main perdante. [4c Tc]
+Siège 3 : chuky66650 (grosse blind) a montré [8s 9s] et a gagné (1840) avec double paire, Neuf et Huit
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238243951705 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 27/08/2022 11:25:22 CET [27/08/2022 5:25:22 ET]
+Table '3462322380 1' 4-max Siège #2 est au bouton.
+Place 1: EviL_FeeL (4990 en jetons) 
+Place 2: lepiemontais13 (4090 en jetons) 
+Place 3: chuky66650 (5930 en jetons) 
+Place 4: psychoman59 (4990 en jetons) 
+EviL_FeeL : met l'ante. 10
+lepiemontais13 : met l'ante. 10
+chuky66650 : met l'ante. 10
+psychoman59 : met l'ante. 10
+chuky66650 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 5s]
+EviL_FeeL : passe. 
+lepiemontais13 : passe. 
+chuky66650 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Qs 6d 9c]
+chuky66650 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qs 6d 9c] [Kh]
+chuky66650 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qs 6d 9c Kh] [Ks]
+chuky66650 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+chuky66650 : montre [Ts 5c] (une paire de Rois)
+psychoman59 : cache la main perdante. 
+chuky66650 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Qs 6d 9c Kh Ks]
+Siège 1 : EviL_FeeL s'est couché. avant Flop (n'a pas misé)
+Siège 2 : lepiemontais13 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : chuky66650 (petite blind) a montré [Ts 5c] et a gagné (240) avec une paire de Rois
+Siège 4 : psychoman59 (grosse blind) a caché la main perdante. [8h 5s]
+
+
+
+Main PokerStars n°238243955227 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 27/08/2022 11:25:43 CET [27/08/2022 5:25:43 ET]
+Table '3462322380 1' 4-max Siège #3 est au bouton.
+Place 1: EviL_FeeL (4980 en jetons) 
+Place 2: lepiemontais13 (4080 en jetons) 
+Place 3: chuky66650 (6060 en jetons) 
+Place 4: psychoman59 (4880 en jetons) 
+EviL_FeeL : met l'ante. 10
+lepiemontais13 : met l'ante. 10
+chuky66650 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+EviL_FeeL : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 6s]
+lepiemontais13 : passe. 
+chuky66650 : relance. 400 à 500
+psychoman59 : passe. 
+EviL_FeeL : passe. 
+Personne n'a suivi. (400) sont retournés à chuky66650.
+chuky66650 a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) s'est couché. avant Flop
+Siège 2 : lepiemontais13 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : chuky66650 (bouton) a remporté (290)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238243957248 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 27/08/2022 11:25:55 CET [27/08/2022 5:25:55 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (4870 en jetons) 
+Place 2: lepiemontais13 (4070 en jetons) 
+Place 3: chuky66650 (6240 en jetons) 
+Place 4: psychoman59 (4820 en jetons) 
+EviL_FeeL : met l'ante. 10
+lepiemontais13 : met l'ante. 10
+chuky66650 : met l'ante. 10
+psychoman59 : met l'ante. 10
+EviL_FeeL : met la petite blind. 50
+lepiemontais13 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 6h]
+chuky66650 : passe. 
+psychoman59 : passe. 
+EviL_FeeL : passe. 
+Personne n'a suivi. (50) sont retournés à lepiemontais13.
+lepiemontais13 a remporté 140  lors du pot .
+lepiemontais13 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Siège 1 : EviL_FeeL (petite blind) s'est couché. avant Flop
+Siège 2 : lepiemontais13 (grosse blind) a remporté (140)
+Siège 3 : chuky66650 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238243958870 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 27/08/2022 11:26:06 CET [27/08/2022 5:26:06 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (4810 en jetons) 
+Place 2: lepiemontais13 (4150 en jetons) 
+Place 3: chuky66650 (6230 en jetons) 
+Place 4: psychoman59 (4810 en jetons) 
+EviL_FeeL : met l'ante. 10
+lepiemontais13 : met l'ante. 10
+chuky66650 : met l'ante. 10
+psychoman59 : met l'ante. 10
+lepiemontais13 : met la petite blind. 50
+chuky66650 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 4d]
+psychoman59 : relance. 100 à 200
+EviL_FeeL : passe. 
+lepiemontais13 : passe. 
+chuky66650 : suit. 100
+*** FLOP *** [8h 6c 8s]
+chuky66650 : parole 
+psychoman59 : mise. 245
+chuky66650 : relance. 845 à 1090
+psychoman59 : passe. 
+Personne n'a suivi. (845) sont retournés à chuky66650.
+chuky66650 a remporté 980  lors du pot .
+chuky66650 : montre [8c 7c] (un brelan de Huit)
+*** SYNTHÈSE ***
+Pot total 980 | Commission 0 
+Tableau [8h 6c 8s]
+Siège 1 : EviL_FeeL (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : lepiemontais13 (petite blind) s'est couché. avant Flop
+Siège 3 : chuky66650 (grosse blind) a remporté (980)
+Siège 4 : psychoman59 s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238243964979 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 27/08/2022 11:26:43 CET [27/08/2022 5:26:43 ET]
+Table '3462322380 1' 4-max Siège #2 est au bouton.
+Place 1: EviL_FeeL (4800 en jetons) 
+Place 2: lepiemontais13 (4090 en jetons) 
+Place 3: chuky66650 (6755 en jetons) 
+Place 4: psychoman59 (4355 en jetons) 
+EviL_FeeL : met l'ante. 10
+lepiemontais13 : met l'ante. 10
+chuky66650 : met l'ante. 10
+psychoman59 : met l'ante. 10
+chuky66650 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 4s]
+EviL_FeeL : passe. 
+lepiemontais13 : suit. 100
+chuky66650 : relance. 500 à 600
+psychoman59 : suit. 500
+lepiemontais13 : suit. 500
+*** FLOP *** [2c Kd 3c]
+chuky66650 : parole 
+psychoman59 : parole 
+lepiemontais13 : parole 
+*** TOURNANT *** [2c Kd 3c] [Jh]
+chuky66650 : mise. 700
+psychoman59 : passe. 
+lepiemontais13 : passe. 
+Personne n'a suivi. (700) sont retournés à chuky66650.
+chuky66650 a remporté 1840  lors du pot .
+chuky66650 : montre [Ad Jd] (une paire de Valets)
+*** SYNTHÈSE ***
+Pot total 1840 | Commission 0 
+Tableau [2c Kd 3c Jh]
+Siège 1 : EviL_FeeL s'est couché. avant Flop (n'a pas misé)
+Siège 2 : lepiemontais13 (bouton) s'est couché. sur le Tournant
+Siège 3 : chuky66650 (petite blind) a remporté (1840)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238243969659 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 27/08/2022 11:27:11 CET [27/08/2022 5:27:11 ET]
+Table '3462322380 1' 4-max Siège #3 est au bouton.
+Place 1: EviL_FeeL (4790 en jetons) 
+Place 2: lepiemontais13 (3480 en jetons) 
+Place 3: chuky66650 (7985 en jetons) 
+Place 4: psychoman59 (3745 en jetons) 
+EviL_FeeL : met l'ante. 10
+lepiemontais13 : met l'ante. 10
+chuky66650 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+EviL_FeeL : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Jc]
+lepiemontais13 : suit. 100
+chuky66650 : passe. 
+psychoman59 : relance. 3635 à 3735 et est all-in.
+EviL_FeeL : passe. 
+lepiemontais13 : passe. 
+Personne n'a suivi. (3635) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) s'est couché. avant Flop
+Siège 2 : lepiemontais13 s'est couché. avant Flop
+Siège 3 : chuky66650 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°238243972755 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 27/08/2022 11:27:30 CET [27/08/2022 5:27:30 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (4680 en jetons) 
+Place 2: lepiemontais13 (3370 en jetons) 
+Place 3: chuky66650 (7975 en jetons) 
+Place 4: psychoman59 (3975 en jetons) 
+EviL_FeeL : met l'ante. 15
+lepiemontais13 : met l'ante. 15
+chuky66650 : met l'ante. 15
+psychoman59 : met l'ante. 15
+EviL_FeeL : met la petite blind. 60
+lepiemontais13 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ac]
+chuky66650 : passe. 
+psychoman59 : suit. 120
+EviL_FeeL : suit. 60
+lepiemontais13 : parole 
+*** FLOP *** [Th Ah 9h]
+EviL_FeeL : parole 
+lepiemontais13 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Th Ah 9h] [Jh]
+EviL_FeeL : parole 
+lepiemontais13 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Th Ah 9h Jh] [Td]
+EviL_FeeL : parole 
+lepiemontais13 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+EviL_FeeL : montre [3d 3s] (double paire, Dix et Trois)
+lepiemontais13 : cache la main perdante. 
+psychoman59 : montre [6d Ac] (double paire, As et Dix)
+psychoman59 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [Th Ah 9h Jh Td]
+Siège 1 : EviL_FeeL (petite blind) a montré [3d 3s] et a perdu avec double paire, Dix et Trois
+Siège 2 : lepiemontais13 (grosse blind) a caché la main perdante. [Qc 6s]
+Siège 3 : chuky66650 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (bouton) a montré [6d Ac] et a gagné (420) avec double paire, As et Dix
+
+
+
+Main PokerStars n°238243979262 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 27/08/2022 11:28:10 CET [27/08/2022 5:28:10 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (4545 en jetons) 
+Place 2: lepiemontais13 (3235 en jetons) 
+Place 3: chuky66650 (7960 en jetons) 
+Place 4: psychoman59 (4260 en jetons) 
+EviL_FeeL : met l'ante. 15
+lepiemontais13 : met l'ante. 15
+chuky66650 : met l'ante. 15
+psychoman59 : met l'ante. 15
+lepiemontais13 : met la petite blind. 60
+chuky66650 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 4s]
+psychoman59 : passe. 
+EviL_FeeL : passe. 
+lepiemontais13 : suit. 60
+chuky66650 : parole 
+*** FLOP *** [5s 5d Th]
+lepiemontais13 : parole 
+chuky66650 : parole 
+*** TOURNANT *** [5s 5d Th] [7h]
+lepiemontais13 : parole 
+chuky66650 : mise. 120
+lepiemontais13 : suit. 120
+*** RIVIÈRE *** [5s 5d Th 7h] [Ad]
+lepiemontais13 : parole 
+chuky66650 : parole 
+*** ABATTAGE ***
+lepiemontais13 : montre [9h Qh] (une paire de Cinq)
+chuky66650 : montre [3c 7s] (double paire, Sept et Cinq)
+chuky66650 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [5s 5d Th 7h Ad]
+Siège 1 : EviL_FeeL (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : lepiemontais13 (petite blind) a montré [9h Qh] et a perdu avec une paire de Cinq
+Siège 3 : chuky66650 (grosse blind) a montré [3c 7s] et a gagné (540) avec double paire, Sept et Cinq
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238243982704 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 27/08/2022 11:28:31 CET [27/08/2022 5:28:31 ET]
+Table '3462322380 1' 4-max Siège #2 est au bouton.
+Place 1: EviL_FeeL (4530 en jetons) 
+Place 2: lepiemontais13 (2980 en jetons) 
+Place 3: chuky66650 (8245 en jetons) 
+Place 4: psychoman59 (4245 en jetons) 
+EviL_FeeL : met l'ante. 15
+lepiemontais13 : met l'ante. 15
+chuky66650 : met l'ante. 15
+psychoman59 : met l'ante. 15
+chuky66650 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 8h]
+EviL_FeeL : passe. 
+lepiemontais13 : suit. 120
+chuky66650 : relance. 900 à 1020
+psychoman59 : passe. 
+lepiemontais13 : relance. 1945 à 2965 et est all-in.
+chuky66650 : suit. 1945
+*** FLOP *** [As 8s 7c]
+*** TOURNANT *** [As 8s 7c] [6h]
+*** RIVIÈRE *** [As 8s 7c 6h] [2s]
+*** ABATTAGE ***
+chuky66650 : montre [Ad Qc] (une paire de As)
+lepiemontais13 : montre [Kc Kd] (une paire de Rois)
+chuky66650 a remporté 6110  lors du pot .
+lepiemontais13 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 6110 | Commission 0 
+Tableau [As 8s 7c 6h 2s]
+Siège 1 : EviL_FeeL s'est couché. avant Flop (n'a pas misé)
+Siège 2 : lepiemontais13 (bouton) a montré [Kc Kd] et a perdu avec une paire de Rois
+Siège 3 : chuky66650 (petite blind) a montré [Ad Qc] et a gagné (6110) avec une paire de As
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238243986784 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 27/08/2022 11:28:57 CET [27/08/2022 5:28:57 ET]
+Table '3462322380 1' 4-max Siège #3 est au bouton.
+Place 1: EviL_FeeL (4515 en jetons) 
+Place 3: chuky66650 (11375 en jetons) 
+Place 4: psychoman59 (4110 en jetons) 
+EviL_FeeL : met l'ante. 15
+chuky66650 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+EviL_FeeL : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Kh]
+chuky66650 : suit. 120
+psychoman59 : suit. 60
+EviL_FeeL : relance. 4380 à 4500 et est all-in.
+chuky66650 : suit. 4380
+psychoman59 : passe. 
+*** FLOP *** [Jd 7s 5d]
+*** TOURNANT *** [Jd 7s 5d] [9c]
+*** RIVIÈRE *** [Jd 7s 5d 9c] [6d]
+*** ABATTAGE ***
+EviL_FeeL : montre [Ad Qs] (Hauteur As)
+chuky66650 : montre [Th Qh] (Hauteur Dame)
+EviL_FeeL a remporté 9165  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9165 | Commission 0 
+Tableau [Jd 7s 5d 9c 6d]
+Siège 1 : EviL_FeeL (grosse blind) a montré [Ad Qs] et a gagné (9165) avec Hauteur As
+Siège 3 : chuky66650 (bouton) a montré [Th Qh] et a perdu avec Hauteur Dame
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238243990455 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 27/08/2022 11:29:20 CET [27/08/2022 5:29:20 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (9165 en jetons) 
+Place 3: chuky66650 (6860 en jetons) 
+Place 4: psychoman59 (3975 en jetons) 
+EviL_FeeL : met l'ante. 15
+chuky66650 : met l'ante. 15
+psychoman59 : met l'ante. 15
+EviL_FeeL : met la petite blind. 60
+chuky66650 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Kd]
+psychoman59 : suit. 120
+EviL_FeeL : passe. 
+chuky66650 : relance. 480 à 600
+psychoman59 : suit. 480
+*** FLOP *** [8c 9h 5h]
+chuky66650 : parole 
+psychoman59 : mise. 3360 et est all-in.
+chuky66650 : suit. 3360
+*** TOURNANT *** [8c 9h 5h] [4d]
+*** RIVIÈRE *** [8c 9h 5h 4d] [2c]
+*** ABATTAGE ***
+chuky66650 : montre [Qc Td] (Hauteur Dame)
+psychoman59 : montre [8h Kd] (une paire de Huit)
+psychoman59 a remporté 8025  lors du pot .
+*** SYNTHÈSE ***
+Pot total 8025 | Commission 0 
+Tableau [8c 9h 5h 4d 2c]
+Siège 1 : EviL_FeeL (petite blind) s'est couché. avant Flop
+Siège 3 : chuky66650 (grosse blind) a montré [Qc Td] et a perdu avec Hauteur Dame
+Siège 4 : psychoman59 (bouton) a montré [8h Kd] et a gagné (8025) avec une paire de Huit
+
+
+
+Main PokerStars n°238243994805 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 27/08/2022 11:29:47 CET [27/08/2022 5:29:47 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (9090 en jetons) 
+Place 3: chuky66650 (2885 en jetons) 
+Place 4: psychoman59 (8025 en jetons) 
+EviL_FeeL : met l'ante. 15
+chuky66650 : met l'ante. 15
+psychoman59 : met l'ante. 15
+chuky66650 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Td]
+EviL_FeeL : passe. 
+chuky66650 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 165  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : chuky66650 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (165)
+
+
+
+Main PokerStars n°238243995907 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 27/08/2022 11:29:53 CET [27/08/2022 5:29:53 ET]
+Table '3462322380 1' 4-max Siège #3 est au bouton.
+Place 1: EviL_FeeL (9075 en jetons) 
+Place 3: chuky66650 (2810 en jetons) 
+Place 4: psychoman59 (8115 en jetons) 
+EviL_FeeL : met l'ante. 15
+chuky66650 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+EviL_FeeL : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Jh]
+chuky66650 : relance. 2675 à 2795 et est all-in.
+psychoman59 : passe. 
+EviL_FeeL : passe. 
+Personne n'a suivi. (2675) sont retournés à chuky66650.
+chuky66650 a remporté 345  lors du pot .
+*** SYNTHÈSE ***
+Pot total 345 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) s'est couché. avant Flop
+Siège 3 : chuky66650 (bouton) a remporté (345)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238243998168 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 27/08/2022 11:30:07 CET [27/08/2022 5:30:07 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (8940 en jetons) 
+Place 3: chuky66650 (3020 en jetons) 
+Place 4: psychoman59 (8040 en jetons) 
+EviL_FeeL : met l'ante. 15
+chuky66650 : met l'ante. 15
+psychoman59 : met l'ante. 15
+EviL_FeeL : met la petite blind. 60
+chuky66650 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 7d]
+psychoman59 : passe. 
+EviL_FeeL : passe. 
+Personne n'a suivi. (60) sont retournés à chuky66650.
+chuky66650 a remporté 165  lors du pot .
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : EviL_FeeL (petite blind) s'est couché. avant Flop
+Siège 3 : chuky66650 (grosse blind) a remporté (165)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238243999649 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 27/08/2022 11:30:17 CET [27/08/2022 5:30:17 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (8865 en jetons) 
+Place 3: chuky66650 (3110 en jetons) 
+Place 4: psychoman59 (8025 en jetons) 
+EviL_FeeL : met l'ante. 15
+chuky66650 : met l'ante. 15
+psychoman59 : met l'ante. 15
+chuky66650 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Qs]
+EviL_FeeL : passe. 
+chuky66650 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [4d Qh Qc]
+chuky66650 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4d Qh Qc] [5c]
+chuky66650 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4d Qh Qc 5c] [9h]
+chuky66650 : parole 
+psychoman59 : mise. 285
+chuky66650 : passe. 
+Personne n'a suivi. (285) sont retournés à psychoman59.
+psychoman59 a remporté 285  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Tableau [4d Qh Qc 5c 9h]
+Siège 1 : EviL_FeeL (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : chuky66650 (petite blind) s'est couché. sur le Rivière
+Siège 4 : psychoman59 (grosse blind) a remporté (285)
+
+
+
+Main PokerStars n°238244003698 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 27/08/2022 11:30:42 CET [27/08/2022 5:30:42 ET]
+Table '3462322380 1' 4-max Siège #3 est au bouton.
+Place 1: EviL_FeeL (8850 en jetons) 
+Place 3: chuky66650 (2975 en jetons) 
+Place 4: psychoman59 (8175 en jetons) 
+EviL_FeeL : met l'ante. 20
+chuky66650 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+EviL_FeeL : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Tc]
+chuky66650 : passe. 
+psychoman59 : suit. 75
+EviL_FeeL : parole 
+*** FLOP *** [7s Js Ks]
+psychoman59 : parole 
+EviL_FeeL : parole 
+*** TOURNANT *** [7s Js Ks] [Jc]
+psychoman59 : mise. 150
+EviL_FeeL : suit. 150
+*** RIVIÈRE *** [7s Js Ks Jc] [5h]
+psychoman59 : mise. 330
+EviL_FeeL : passe. 
+Personne n'a suivi. (330) sont retournés à psychoman59.
+psychoman59 a remporté 660  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [7s Js Ks Jc 5h]
+Siège 1 : EviL_FeeL (grosse blind) s'est couché. sur le Rivière
+Siège 3 : chuky66650 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) a remporté (660)
+
+
+
+Main PokerStars n°238244007609 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 27/08/2022 11:31:07 CET [27/08/2022 5:31:07 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (8530 en jetons) 
+Place 3: chuky66650 (2955 en jetons) 
+Place 4: psychoman59 (8515 en jetons) 
+EviL_FeeL : met l'ante. 20
+chuky66650 : met l'ante. 20
+psychoman59 : met l'ante. 20
+EviL_FeeL : met la petite blind. 75
+chuky66650 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 3d]
+psychoman59 : relance. 150 à 300
+EviL_FeeL : passe. 
+chuky66650 : suit. 150
+*** FLOP *** [8h 3h 6d]
+chuky66650 : parole 
+psychoman59 : mise. 735
+chuky66650 : passe. 
+Personne n'a suivi. (735) sont retournés à psychoman59.
+psychoman59 a remporté 735  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 735 | Commission 0 
+Tableau [8h 3h 6d]
+Siège 1 : EviL_FeeL (petite blind) s'est couché. avant Flop
+Siège 3 : chuky66650 (grosse blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 (bouton) a remporté (735)
+
+
+
+Main PokerStars n°238244010937 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 27/08/2022 11:31:27 CET [27/08/2022 5:31:27 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (8435 en jetons) 
+Place 3: chuky66650 (2635 en jetons) 
+Place 4: psychoman59 (8930 en jetons) 
+EviL_FeeL : met l'ante. 20
+chuky66650 : met l'ante. 20
+psychoman59 : met l'ante. 20
+chuky66650 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Qd]
+EviL_FeeL : passe. 
+chuky66650 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [6c 7s 5c]
+chuky66650 : mise. 2465 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (2465) sont retournés à chuky66650.
+chuky66650 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [6c 7s 5c]
+Siège 1 : EviL_FeeL (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : chuky66650 (petite blind) a remporté (360)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238244013758 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 27/08/2022 11:31:45 CET [27/08/2022 5:31:45 ET]
+Table '3462322380 1' 4-max Siège #3 est au bouton.
+Place 1: EviL_FeeL (8415 en jetons) 
+Place 3: chuky66650 (2825 en jetons) 
+Place 4: psychoman59 (8760 en jetons) 
+EviL_FeeL : met l'ante. 20
+chuky66650 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+EviL_FeeL : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 5d]
+chuky66650 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) a remporté (210)
+Siège 3 : chuky66650 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244015250 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 27/08/2022 11:31:54 CET [27/08/2022 5:31:54 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (8530 en jetons) 
+Place 3: chuky66650 (2805 en jetons) 
+Place 4: psychoman59 (8665 en jetons) 
+EviL_FeeL : met l'ante. 20
+chuky66650 : met l'ante. 20
+psychoman59 : met l'ante. 20
+EviL_FeeL : met la petite blind. 75
+chuky66650 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Jc]
+psychoman59 : passe. 
+EviL_FeeL : passe. 
+Personne n'a suivi. (75) sont retournés à chuky66650.
+chuky66650 a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 1 : EviL_FeeL (petite blind) s'est couché. avant Flop
+Siège 3 : chuky66650 (grosse blind) a remporté (210)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238244016504 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 27/08/2022 11:32:02 CET [27/08/2022 5:32:02 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (8435 en jetons) 
+Place 3: chuky66650 (2920 en jetons) 
+Place 4: psychoman59 (8645 en jetons) 
+EviL_FeeL : met l'ante. 20
+chuky66650 : met l'ante. 20
+psychoman59 : met l'ante. 20
+chuky66650 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Qh]
+EviL_FeeL : passe. 
+chuky66650 : suit. 75
+psychoman59 : relance. 8475 à 8625 et est all-in.
+chuky66650 : suit. 2750 et est all-in.
+Personne n'a suivi. (5725) sont retournés à psychoman59.
+*** FLOP *** [Tc Kd 4h]
+*** TOURNANT *** [Tc Kd 4h] [7d]
+*** RIVIÈRE *** [Tc Kd 4h 7d] [2h]
+*** ABATTAGE ***
+chuky66650 : montre [Jc 9h] (Hauteur Roi)
+psychoman59 : montre [Js Qh] (Hauteur Roi - Dame kicker)
+psychoman59 a remporté 5860  lors du pot .
+chuky66650 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 5860 | Commission 0 
+Tableau [Tc Kd 4h 7d 2h]
+Siège 1 : EviL_FeeL (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : chuky66650 (petite blind) a montré [Jc 9h] et a perdu avec Hauteur Roi
+Siège 4 : psychoman59 (grosse blind) a montré [Js Qh] et a gagné (5860) avec Hauteur Roi
+
+
+
+Main PokerStars n°238244020100 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 27/08/2022 11:32:24 CET [27/08/2022 5:32:24 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (8415 en jetons) 
+Place 4: psychoman59 (11585 en jetons) 
+EviL_FeeL : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+EviL_FeeL : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 190  lors du pot .
+EviL_FeeL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) a remporté (190)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244021409 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 27/08/2022 11:32:33 CET [27/08/2022 5:32:33 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (8510 en jetons) 
+Place 4: psychoman59 (11490 en jetons) 
+EviL_FeeL : met l'ante. 20
+psychoman59 : met l'ante. 20
+EviL_FeeL : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 8c]
+EviL_FeeL : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 190  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°238244022141 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 27/08/2022 11:32:37 CET [27/08/2022 5:32:37 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (8415 en jetons) 
+Place 4: psychoman59 (11585 en jetons) 
+EviL_FeeL : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+EviL_FeeL : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 5h]
+psychoman59 : relance. 11415 à 11565 et est all-in.
+EviL_FeeL : suit. 8245 et est all-in.
+Personne n'a suivi. (3170) sont retournés à psychoman59.
+*** FLOP *** [9h Ad 8h]
+*** TOURNANT *** [9h Ad 8h] [3c]
+*** RIVIÈRE *** [9h Ad 8h 3c] [Ks]
+*** ABATTAGE ***
+EviL_FeeL : montre [Tc Th] (une paire de Dix)
+psychoman59 : montre [5c 5h] (une paire de Cinq)
+EviL_FeeL a remporté 16830  lors du pot .
+*** SYNTHÈSE ***
+Pot total 16830 | Commission 0 
+Tableau [9h Ad 8h 3c Ks]
+Siège 1 : EviL_FeeL (grosse blind) a montré [Tc Th] et a gagné (16830) avec une paire de Dix
+Siège 4 : psychoman59 (bouton) (petite blind) a montré [5c 5h] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°238244025070 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 27/08/2022 11:32:55 CET [27/08/2022 5:32:55 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (16830 en jetons) 
+Place 4: psychoman59 (3170 en jetons) 
+EviL_FeeL : met l'ante. 20
+psychoman59 : met l'ante. 20
+EviL_FeeL : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Kc]
+EviL_FeeL : relance. 16660 à 16810 et est all-in.
+psychoman59 : suit. 3000 et est all-in.
+Personne n'a suivi. (13660) sont retournés à EviL_FeeL.
+*** FLOP *** [Kd 2d 5d]
+*** TOURNANT *** [Kd 2d 5d] [3s]
+*** RIVIÈRE *** [Kd 2d 5d 3s] [5s]
+*** ABATTAGE ***
+psychoman59 : montre [Jh Kc] (double paire, Rois et Cinq)
+EviL_FeeL : montre [Kh Tc] (double paire, Rois et Cinq - plus basse kicker)
+psychoman59 a remporté 6340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 6340 | Commission 0 
+Tableau [Kd 2d 5d 3s 5s]
+Siège 1 : EviL_FeeL (bouton) (petite blind) a montré [Kh Tc] et a perdu avec double paire, Rois et Cinq
+Siège 4 : psychoman59 (grosse blind) a montré [Jh Kc] et a gagné (6340) avec double paire, Rois et Cinq
+
+
+
+Main PokerStars n°238244027437 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 27/08/2022 11:33:10 CET [27/08/2022 5:33:10 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (13660 en jetons) 
+Place 4: psychoman59 (6340 en jetons) 
+EviL_FeeL : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+EviL_FeeL : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 9c]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) a remporté (190)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244030463 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 27/08/2022 11:33:29 CET [27/08/2022 5:33:29 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (13755 en jetons) 
+Place 4: psychoman59 (6245 en jetons) 
+EviL_FeeL : met l'ante. 25
+psychoman59 : met l'ante. 25
+EviL_FeeL : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Kc]
+EviL_FeeL : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 250  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (250)
+
+
+
+Main PokerStars n°238244031294 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 27/08/2022 11:33:34 CET [27/08/2022 5:33:34 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (13630 en jetons) 
+Place 4: psychoman59 (6370 en jetons) 
+EviL_FeeL : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+EviL_FeeL : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Kc]
+psychoman59 : relance. 6145 à 6345 et est all-in.
+EviL_FeeL : passe. 
+Personne n'a suivi. (6145) sont retournés à psychoman59.
+psychoman59 a remporté 450  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (450)
+
+
+
+Main PokerStars n°238244033027 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 27/08/2022 11:33:45 CET [27/08/2022 5:33:45 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (13405 en jetons) 
+Place 4: psychoman59 (6595 en jetons) 
+EviL_FeeL : met l'ante. 25
+psychoman59 : met l'ante. 25
+EviL_FeeL : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Jd]
+EviL_FeeL : relance. 200 à 400
+psychoman59 : relance. 6170 à 6570 et est all-in.
+EviL_FeeL : passe. 
+Personne n'a suivi. (6170) sont retournés à psychoman59.
+psychoman59 a remporté 850  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 850 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (850)
+
+
+
+Main PokerStars n°238244034627 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 27/08/2022 11:33:55 CET [27/08/2022 5:33:55 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (12980 en jetons) 
+Place 4: psychoman59 (7020 en jetons) 
+EviL_FeeL : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+EviL_FeeL : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 6h]
+psychoman59 : suit. 100
+EviL_FeeL : parole 
+*** FLOP *** [8d 4s 2d]
+EviL_FeeL : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8d 4s 2d] [5s]
+EviL_FeeL : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [8d 4s 2d 5s] [9c]
+EviL_FeeL : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+EviL_FeeL : montre [2h Td] (une paire de Deux)
+psychoman59 : cache la main perdante. 
+EviL_FeeL a remporté 450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [8d 4s 2d 5s 9c]
+Siège 1 : EviL_FeeL (grosse blind) a montré [2h Td] et a gagné (450) avec une paire de Deux
+Siège 4 : psychoman59 (bouton) (petite blind) a caché la main perdante. [Qs 6h]
+
+
+
+Main PokerStars n°238244037856 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 27/08/2022 11:34:15 CET [27/08/2022 5:34:15 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (13205 en jetons) 
+Place 4: psychoman59 (6795 en jetons) 
+EviL_FeeL : met l'ante. 25
+psychoman59 : met l'ante. 25
+EviL_FeeL : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 9s]
+EviL_FeeL : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 250  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (250)
+
+
+
+Main PokerStars n°238244038608 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 27/08/2022 11:34:20 CET [27/08/2022 5:34:20 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (13080 en jetons) 
+Place 4: psychoman59 (6920 en jetons) 
+EviL_FeeL : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+EviL_FeeL : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Jh]
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 250  lors du pot .
+EviL_FeeL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) a remporté (250)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244039789 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 27/08/2022 11:34:27 CET [27/08/2022 5:34:27 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (13205 en jetons) 
+Place 4: psychoman59 (6795 en jetons) 
+EviL_FeeL : met l'ante. 25
+psychoman59 : met l'ante. 25
+EviL_FeeL : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 8c]
+EviL_FeeL : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 250  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (250)
+
+
+
+Main PokerStars n°238244040546 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 27/08/2022 11:34:32 CET [27/08/2022 5:34:32 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (13080 en jetons) 
+Place 4: psychoman59 (6920 en jetons) 
+EviL_FeeL : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+EviL_FeeL : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Ts]
+psychoman59 : suit. 100
+EviL_FeeL : parole 
+*** FLOP *** [Jc 6s 9c]
+EviL_FeeL : parole 
+psychoman59 : mise. 200
+EviL_FeeL : suit. 200
+*** TOURNANT *** [Jc 6s 9c] [Ad]
+EviL_FeeL : parole 
+psychoman59 : mise. 200
+EviL_FeeL : suit. 200
+*** RIVIÈRE *** [Jc 6s 9c Ad] [Qd]
+EviL_FeeL : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+EviL_FeeL : montre [8h 6c] (une paire de Six)
+psychoman59 : montre [Jd Ts] (une paire de Valets)
+psychoman59 a remporté 1250  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1250 | Commission 0 
+Tableau [Jc 6s 9c Ad Qd]
+Siège 1 : EviL_FeeL (grosse blind) a montré [8h 6c] et a perdu avec une paire de Six
+Siège 4 : psychoman59 (bouton) (petite blind) a montré [Jd Ts] et a gagné (1250) avec une paire de Valets
+
+
+
+Main PokerStars n°238244044054 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 27/08/2022 11:34:53 CET [27/08/2022 5:34:53 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (12455 en jetons) 
+Place 4: psychoman59 (7545 en jetons) 
+EviL_FeeL : met l'ante. 25
+psychoman59 : met l'ante. 25
+EviL_FeeL : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Js]
+EviL_FeeL : relance. 12230 à 12430 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (12230) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) a remporté (450)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244045287 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 27/08/2022 11:35:01 CET [27/08/2022 5:35:01 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (12680 en jetons) 
+Place 4: psychoman59 (7320 en jetons) 
+EviL_FeeL : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+EviL_FeeL : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 9h]
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 250  lors du pot .
+EviL_FeeL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) a remporté (250)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244046586 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 27/08/2022 11:35:09 CET [27/08/2022 5:35:09 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (12805 en jetons) 
+Place 4: psychoman59 (7195 en jetons) 
+EviL_FeeL : met l'ante. 25
+psychoman59 : met l'ante. 25
+EviL_FeeL : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Qs]
+EviL_FeeL : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 250  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (250)
+
+
+
+Main PokerStars n°238244047278 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 27/08/2022 11:35:13 CET [27/08/2022 5:35:13 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (12680 en jetons) 
+Place 4: psychoman59 (7320 en jetons) 
+EviL_FeeL : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+EviL_FeeL : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Jd]
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 250  lors du pot .
+EviL_FeeL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) a remporté (250)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244048698 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 27/08/2022 11:35:22 CET [27/08/2022 5:35:22 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (12805 en jetons) 
+Place 4: psychoman59 (7195 en jetons) 
+EviL_FeeL : met l'ante. 25
+psychoman59 : met l'ante. 25
+EviL_FeeL : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Qc]
+EviL_FeeL : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 250  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (250)
+
+
+
+Main PokerStars n°238244049559 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 27/08/2022 11:35:27 CET [27/08/2022 5:35:27 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (12680 en jetons) 
+Place 4: psychoman59 (7320 en jetons) 
+EviL_FeeL : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+EviL_FeeL : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 9s]
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 250  lors du pot .
+EviL_FeeL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) a remporté (250)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244050937 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 27/08/2022 11:35:36 CET [27/08/2022 5:35:36 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (12805 en jetons) 
+Place 4: psychoman59 (7195 en jetons) 
+EviL_FeeL : met l'ante. 25
+psychoman59 : met l'ante. 25
+EviL_FeeL : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Qh]
+EviL_FeeL : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 250  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (250)
+
+
+
+Main PokerStars n°238244051728 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 27/08/2022 11:35:40 CET [27/08/2022 5:35:40 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (12680 en jetons) 
+Place 4: psychoman59 (7320 en jetons) 
+EviL_FeeL : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+EviL_FeeL : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 250  lors du pot .
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) a remporté (250)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244053148 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 27/08/2022 11:35:49 CET [27/08/2022 5:35:49 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (12805 en jetons) 
+Place 4: psychoman59 (7195 en jetons) 
+EviL_FeeL : met l'ante. 25
+psychoman59 : met l'ante. 25
+EviL_FeeL : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 4d]
+EviL_FeeL : relance. 400 à 600
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) a remporté (450)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244054608 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 27/08/2022 11:35:58 CET [27/08/2022 5:35:58 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (13030 en jetons) 
+Place 4: psychoman59 (6970 en jetons) 
+EviL_FeeL : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+EviL_FeeL : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 8d]
+psychoman59 : relance. 6745 à 6945 et est all-in.
+EviL_FeeL : passe. 
+Personne n'a suivi. (6745) sont retournés à psychoman59.
+psychoman59 a remporté 450  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (450)
+
+
+
+Main PokerStars n°238244056276 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 27/08/2022 11:36:08 CET [27/08/2022 5:36:08 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (12805 en jetons) 
+Place 4: psychoman59 (7195 en jetons) 
+EviL_FeeL : met l'ante. 25
+psychoman59 : met l'ante. 25
+EviL_FeeL : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 4c]
+EviL_FeeL : relance. 200 à 400
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 450  lors du pot .
+EviL_FeeL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) a remporté (450)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244057782 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 27/08/2022 11:36:18 CET [27/08/2022 5:36:18 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (13030 en jetons) 
+Place 4: psychoman59 (6970 en jetons) 
+EviL_FeeL : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+EviL_FeeL : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 8h]
+psychoman59 : relance. 450 à 650
+EviL_FeeL : suit. 450
+*** FLOP *** [3c Jc 7c]
+EviL_FeeL : parole 
+psychoman59 : mise. 6295 et est all-in.
+EviL_FeeL : suit. 6295
+*** TOURNANT *** [3c Jc 7c] [5c]
+*** RIVIÈRE *** [3c Jc 7c 5c] [5s]
+*** ABATTAGE ***
+EviL_FeeL : montre [Jd Kd] (double paire, Valets et Cinq)
+psychoman59 : montre [Qc 8h] (une couleur, hauteur Dame)
+psychoman59 a remporté 13940  lors du pot .
+*** SYNTHÈSE ***
+Pot total 13940 | Commission 0 
+Tableau [3c Jc 7c 5c 5s]
+Siège 1 : EviL_FeeL (grosse blind) a montré [Jd Kd] et a perdu avec double paire, Valets et Cinq
+Siège 4 : psychoman59 (bouton) (petite blind) a montré [Qc 8h] et a gagné (13940) avec une couleur, hauteur Dame
+
+
+
+Main PokerStars n°238244061447 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 27/08/2022 11:36:40 CET [27/08/2022 5:36:40 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (6060 en jetons) 
+Place 4: psychoman59 (13940 en jetons) 
+EviL_FeeL : met l'ante. 30
+psychoman59 : met l'ante. 30
+EviL_FeeL : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 2h]
+EviL_FeeL : relance. 5780 à 6030 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (5780) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) a remporté (560)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244062748 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 27/08/2022 11:36:48 CET [27/08/2022 5:36:48 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (6340 en jetons) 
+Place 4: psychoman59 (13660 en jetons) 
+EviL_FeeL : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+EviL_FeeL : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 310  lors du pot .
+EviL_FeeL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) a remporté (310)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244063993 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 27/08/2022 11:36:56 CET [27/08/2022 5:36:56 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (6495 en jetons) 
+Place 4: psychoman59 (13505 en jetons) 
+EviL_FeeL : met l'ante. 30
+psychoman59 : met l'ante. 30
+EviL_FeeL : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 8s]
+EviL_FeeL : relance. 6215 à 6465 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (6215) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 560  lors du pot .
+EviL_FeeL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) a remporté (560)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244065090 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 27/08/2022 11:37:03 CET [27/08/2022 5:37:03 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (6775 en jetons) 
+Place 4: psychoman59 (13225 en jetons) 
+EviL_FeeL : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+EviL_FeeL : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Kd]
+psychoman59 : suit. 125
+EviL_FeeL : parole 
+*** FLOP *** [2d Jh Jd]
+EviL_FeeL : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2d Jh Jd] [Qc]
+EviL_FeeL : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [2d Jh Jd Qc] [2c]
+EviL_FeeL : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+EviL_FeeL : montre [4c 6d] (double paire, Valets et Deux)
+psychoman59 : montre [9c Kd] (double paire, Valets et Deux - Roi kicker)
+psychoman59 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [2d Jh Jd Qc 2c]
+Siège 1 : EviL_FeeL (grosse blind) a montré [4c 6d] et a perdu avec double paire, Valets et Deux
+Siège 4 : psychoman59 (bouton) (petite blind) a montré [9c Kd] et a gagné (560) avec double paire, Valets et Deux
+
+
+
+Main PokerStars n°238244067661 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 27/08/2022 11:37:19 CET [27/08/2022 5:37:19 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (6495 en jetons) 
+Place 4: psychoman59 (13505 en jetons) 
+EviL_FeeL : met l'ante. 30
+psychoman59 : met l'ante. 30
+EviL_FeeL : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 7c]
+EviL_FeeL : relance. 6215 à 6465 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (6215) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) a remporté (560)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244068847 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 27/08/2022 11:37:26 CET [27/08/2022 5:37:26 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (6775 en jetons) 
+Place 4: psychoman59 (13225 en jetons) 
+EviL_FeeL : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+EviL_FeeL : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 3d]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 310  lors du pot .
+EviL_FeeL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) a remporté (310)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244069987 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 27/08/2022 11:37:33 CET [27/08/2022 5:37:33 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (6930 en jetons) 
+Place 4: psychoman59 (13070 en jetons) 
+EviL_FeeL : met l'ante. 30
+psychoman59 : met l'ante. 30
+EviL_FeeL : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Qd]
+EviL_FeeL : passe. 
+Personne n'a suivi. (125) sont retournés à psychoman59.
+psychoman59 a remporté 310  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (310)
+
+
+
+Main PokerStars n°238244070740 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 27/08/2022 11:37:38 CET [27/08/2022 5:37:38 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (6775 en jetons) 
+Place 4: psychoman59 (13225 en jetons) 
+EviL_FeeL : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+EviL_FeeL : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 310  lors du pot .
+EviL_FeeL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) a remporté (310)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244071840 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 27/08/2022 11:37:45 CET [27/08/2022 5:37:45 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (6930 en jetons) 
+Place 4: psychoman59 (13070 en jetons) 
+EviL_FeeL : met l'ante. 30
+psychoman59 : met l'ante. 30
+EviL_FeeL : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 3d]
+EviL_FeeL : relance. 6650 à 6900 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (6650) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) a remporté (560)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244073004 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 27/08/2022 11:37:52 CET [27/08/2022 5:37:52 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (7210 en jetons) 
+Place 4: psychoman59 (12790 en jetons) 
+EviL_FeeL : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+EviL_FeeL : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 6c]
+psychoman59 : relance. 12510 à 12760 et est all-in.
+EviL_FeeL : passe. 
+Personne n'a suivi. (12510) sont retournés à psychoman59.
+psychoman59 a remporté 560  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°238244074744 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 27/08/2022 11:38:02 CET [27/08/2022 5:38:02 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (6930 en jetons) 
+Place 4: psychoman59 (13070 en jetons) 
+EviL_FeeL : met l'ante. 30
+psychoman59 : met l'ante. 30
+EviL_FeeL : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 7c]
+EviL_FeeL : passe. 
+Personne n'a suivi. (125) sont retournés à psychoman59.
+psychoman59 a remporté 310  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (310)
+
+
+
+Main PokerStars n°238244075570 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 27/08/2022 11:38:07 CET [27/08/2022 5:38:07 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (6775 en jetons) 
+Place 4: psychoman59 (13225 en jetons) 
+EviL_FeeL : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+EviL_FeeL : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 9c]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 310  lors du pot .
+EviL_FeeL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) a remporté (310)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244076745 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 27/08/2022 11:38:14 CET [27/08/2022 5:38:14 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (6930 en jetons) 
+Place 4: psychoman59 (13070 en jetons) 
+EviL_FeeL : met l'ante. 30
+psychoman59 : met l'ante. 30
+EviL_FeeL : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Ac]
+EviL_FeeL : relance. 500 à 750
+psychoman59 : relance. 12290 à 13040 et est all-in.
+EviL_FeeL : suit. 6150 et est all-in.
+Personne n'a suivi. (6140) sont retournés à psychoman59.
+*** FLOP *** [7c Kd 4d]
+*** TOURNANT *** [7c Kd 4d] [Td]
+*** RIVIÈRE *** [7c Kd 4d Td] [5c]
+*** ABATTAGE ***
+psychoman59 : montre [6c Ac] (Hauteur As)
+EviL_FeeL : montre [Kh Kc] (un brelan de Rois)
+EviL_FeeL a remporté 13860  lors du pot .
+*** SYNTHÈSE ***
+Pot total 13860 | Commission 0 
+Tableau [7c Kd 4d Td 5c]
+Siège 1 : EviL_FeeL (bouton) (petite blind) a montré [Kh Kc] et a gagné (13860) avec un brelan de Rois
+Siège 4 : psychoman59 (grosse blind) a montré [6c Ac] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°238244079914 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 27/08/2022 11:38:34 CET [27/08/2022 5:38:34 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (13860 en jetons) 
+Place 4: psychoman59 (6140 en jetons) 
+EviL_FeeL : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+EviL_FeeL : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 310  lors du pot .
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) a remporté (310)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244081255 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 27/08/2022 11:38:42 CET [27/08/2022 5:38:42 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (14015 en jetons) 
+Place 4: psychoman59 (5985 en jetons) 
+EviL_FeeL : met l'ante. 30
+psychoman59 : met l'ante. 30
+EviL_FeeL : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Ts]
+EviL_FeeL : relance. 13735 à 13985 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (13735) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 560  lors du pot .
+EviL_FeeL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) a remporté (560)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244082504 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 27/08/2022 11:38:49 CET [27/08/2022 5:38:49 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (14295 en jetons) 
+Place 4: psychoman59 (5705 en jetons) 
+EviL_FeeL : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+EviL_FeeL : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Qh]
+psychoman59 : relance. 5425 à 5675 et est all-in.
+EviL_FeeL : passe. 
+Personne n'a suivi. (5425) sont retournés à psychoman59.
+psychoman59 a remporté 560  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°238244084100 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 27/08/2022 11:38:59 CET [27/08/2022 5:38:59 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (14015 en jetons) 
+Place 4: psychoman59 (5985 en jetons) 
+EviL_FeeL : met l'ante. 30
+psychoman59 : met l'ante. 30
+EviL_FeeL : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 3h]
+EviL_FeeL : relance. 13735 à 13985 et est all-in.
+psychoman59 : suit. 5705 et est all-in.
+Personne n'a suivi. (8030) sont retournés à EviL_FeeL.
+*** FLOP *** [9d 2c Ts]
+*** TOURNANT *** [9d 2c Ts] [Qc]
+*** RIVIÈRE *** [9d 2c Ts Qc] [5d]
+*** ABATTAGE ***
+psychoman59 : montre [Qh 3h] (une paire de Dames)
+EviL_FeeL : montre [Ad 7s] (Hauteur As)
+psychoman59 a remporté 11970  lors du pot .
+*** SYNTHÈSE ***
+Pot total 11970 | Commission 0 
+Tableau [9d 2c Ts Qc 5d]
+Siège 1 : EviL_FeeL (bouton) (petite blind) a montré [Ad 7s] et a perdu avec Hauteur As
+Siège 4 : psychoman59 (grosse blind) a montré [Qh 3h] et a gagné (11970) avec une paire de Dames
+
+
+
+Main PokerStars n°238244086316 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 27/08/2022 11:39:13 CET [27/08/2022 5:39:13 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (8030 en jetons) 
+Place 4: psychoman59 (11970 en jetons) 
+EviL_FeeL : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+EviL_FeeL : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 8d]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 310  lors du pot .
+EviL_FeeL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) a remporté (310)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244087914 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 27/08/2022 11:39:22 CET [27/08/2022 5:39:22 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (8185 en jetons) 
+Place 4: psychoman59 (11815 en jetons) 
+EviL_FeeL : met l'ante. 40
+psychoman59 : met l'ante. 40
+EviL_FeeL : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 9s]
+EviL_FeeL : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 380  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°238244088704 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 27/08/2022 11:39:27 CET [27/08/2022 5:39:27 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (7995 en jetons) 
+Place 4: psychoman59 (12005 en jetons) 
+EviL_FeeL : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+EviL_FeeL : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 380  lors du pot .
+EviL_FeeL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) a remporté (380)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244089910 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 27/08/2022 11:39:34 CET [27/08/2022 5:39:34 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (8185 en jetons) 
+Place 4: psychoman59 (11815 en jetons) 
+EviL_FeeL : met l'ante. 40
+psychoman59 : met l'ante. 40
+EviL_FeeL : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 9h]
+EviL_FeeL : relance. 7845 à 8145 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (7845) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) a remporté (680)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244091137 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 27/08/2022 11:39:42 CET [27/08/2022 5:39:42 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (8525 en jetons) 
+Place 4: psychoman59 (11475 en jetons) 
+EviL_FeeL : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+EviL_FeeL : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 3c]
+psychoman59 : relance. 11135 à 11435 et est all-in.
+EviL_FeeL : passe. 
+Personne n'a suivi. (11135) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (680)
+
+
+
+Main PokerStars n°238244092637 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 27/08/2022 11:39:51 CET [27/08/2022 5:39:51 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (8185 en jetons) 
+Place 4: psychoman59 (11815 en jetons) 
+EviL_FeeL : met l'ante. 40
+psychoman59 : met l'ante. 40
+EviL_FeeL : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 5c]
+EviL_FeeL : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 380  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°238244093402 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 27/08/2022 11:39:55 CET [27/08/2022 5:39:55 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (7995 en jetons) 
+Place 4: psychoman59 (12005 en jetons) 
+EviL_FeeL : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+EviL_FeeL : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 380  lors du pot .
+EviL_FeeL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) a remporté (380)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244094614 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 27/08/2022 11:40:03 CET [27/08/2022 5:40:03 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (8185 en jetons) 
+Place 4: psychoman59 (11815 en jetons) 
+EviL_FeeL : met l'ante. 40
+psychoman59 : met l'ante. 40
+EviL_FeeL : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c As]
+EviL_FeeL : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 380  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°238244095344 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 27/08/2022 11:40:07 CET [27/08/2022 5:40:07 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (7995 en jetons) 
+Place 4: psychoman59 (12005 en jetons) 
+EviL_FeeL : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+EviL_FeeL : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 380  lors du pot .
+EviL_FeeL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) a remporté (380)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244096537 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 27/08/2022 11:40:14 CET [27/08/2022 5:40:14 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (8185 en jetons) 
+Place 4: psychoman59 (11815 en jetons) 
+EviL_FeeL : met l'ante. 40
+psychoman59 : met l'ante. 40
+EviL_FeeL : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Jh]
+EviL_FeeL : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 380  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°238244097259 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 27/08/2022 11:40:18 CET [27/08/2022 5:40:18 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (7995 en jetons) 
+Place 4: psychoman59 (12005 en jetons) 
+EviL_FeeL : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+EviL_FeeL : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 2c]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 380  lors du pot .
+EviL_FeeL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) a remporté (380)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244098413 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 27/08/2022 11:40:25 CET [27/08/2022 5:40:25 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (8185 en jetons) 
+Place 4: psychoman59 (11815 en jetons) 
+EviL_FeeL : met l'ante. 40
+psychoman59 : met l'ante. 40
+EviL_FeeL : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 9d]
+EviL_FeeL : relance. 300 à 600
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 680  lors du pot .
+EviL_FeeL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) a remporté (680)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244099793 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 27/08/2022 11:40:34 CET [27/08/2022 5:40:34 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (8525 en jetons) 
+Place 4: psychoman59 (11475 en jetons) 
+EviL_FeeL : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+EviL_FeeL : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 380  lors du pot .
+EviL_FeeL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) a remporté (380)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244100968 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 27/08/2022 11:40:41 CET [27/08/2022 5:40:41 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (8715 en jetons) 
+Place 4: psychoman59 (11285 en jetons) 
+EviL_FeeL : met l'ante. 40
+psychoman59 : met l'ante. 40
+EviL_FeeL : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 5s]
+EviL_FeeL : relance. 300 à 600
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) (petite blind) a remporté (680)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238244102175 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 27/08/2022 11:40:48 CET [27/08/2022 5:40:48 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (9055 en jetons) 
+Place 4: psychoman59 (10945 en jetons) 
+EviL_FeeL : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+EviL_FeeL : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 9d]
+psychoman59 : relance. 10605 à 10905 et est all-in.
+EviL_FeeL : passe. 
+Personne n'a suivi. (10605) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 1 : EviL_FeeL (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (680)
+
+
+
+Main PokerStars n°238244103683 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 27/08/2022 11:40:57 CET [27/08/2022 5:40:57 ET]
+Table '3462322380 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (8715 en jetons) 
+Place 4: psychoman59 (11285 en jetons) 
+EviL_FeeL : met l'ante. 40
+psychoman59 : met l'ante. 40
+EviL_FeeL : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Ad]
+EviL_FeeL : relance. 8375 à 8675 et est all-in.
+psychoman59 : suit. 8375
+*** FLOP *** [Jc 4c 6c]
+*** TOURNANT *** [Jc 4c 6c] [5s]
+*** RIVIÈRE *** [Jc 4c 6c 5s] [4s]
+*** ABATTAGE ***
+psychoman59 : montre [8d Ad] (une paire de Quatre)
+EviL_FeeL : montre [3s 3c] (double paire, Quatre et Trois)
+EviL_FeeL a remporté 17430  lors du pot .
+*** SYNTHÈSE ***
+Pot total 17430 | Commission 0 
+Tableau [Jc 4c 6c 5s 4s]
+Siège 1 : EviL_FeeL (bouton) (petite blind) a montré [3s 3c] et a gagné (17430) avec double paire, Quatre et Trois
+Siège 4 : psychoman59 (grosse blind) a montré [8d Ad] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°238244106094 : Tournoi #3462322380, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 27/08/2022 11:41:12 CET [27/08/2022 5:41:12 ET]
+Table '3462322380 1' 4-max Siège #4 est au bouton.
+Place 1: EviL_FeeL (17430 en jetons) 
+Place 4: psychoman59 (2570 en jetons) 
+EviL_FeeL : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+EviL_FeeL : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 6h]
+psychoman59 : relance. 2230 à 2530 et est all-in.
+EviL_FeeL : suit. 2230
+*** FLOP *** [4h Td Js]
+*** TOURNANT *** [4h Td Js] [Qc]
+*** RIVIÈRE *** [4h Td Js Qc] [3d]
+*** ABATTAGE ***
+EviL_FeeL : montre [Qh Ac] (une paire de Dames)
+psychoman59 : montre [Ad 6h] (Hauteur As)
+EviL_FeeL a remporté 5140  lors du pot .
+psychoman59 a fini le tournoi à la 2e place et a reçu 0.34 €.
+EviL_FeeL gagne le tournoi - félicitations !
+EviL_FeeL gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 5140 | Commission 0 
+Tableau [4h Td Js Qc 3d]
+Siège 1 : EviL_FeeL (grosse blind) a montré [Qh Ac] et a gagné (5140) avec une paire de Dames
+Siège 4 : psychoman59 (bouton) (petite blind) a montré [Ad 6h] et a perdu avec Hauteur As
+
+
+

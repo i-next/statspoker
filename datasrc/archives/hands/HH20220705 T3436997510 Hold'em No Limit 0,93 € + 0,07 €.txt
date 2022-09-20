@@ -1,0 +1,180 @@
+﻿Main PokerStars n°237170137320 : Tournoi #3436997510, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/07/2022 8:35:45 CET [05/07/2022 2:35:45 ET]
+Table '3436997510 1' 3-max Siège #1 est au bouton.
+Place 1: ming6383 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: amarandei ion (300 en jetons) 
+psychoman59 : met la petite blind. 10
+amarandei ion : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 3s]
+ming6383 : relance. 20 à 40
+psychoman59 : passe. 
+amarandei ion : suit. 20
+*** FLOP *** [3c 6s Js]
+amarandei ion : parole 
+ming6383 : mise. 45
+amarandei ion : suit. 45
+*** TOURNANT *** [3c 6s Js] [Kh]
+amarandei ion : parole 
+ming6383 : mise. 215 et est all-in.
+amarandei ion : passe. 
+Personne n'a suivi. (215) sont retournés à ming6383.
+ming6383 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [3c 6s Js Kh]
+Siège 1 : ming6383 (bouton) a remporté (180)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : amarandei ion (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237170140505 : Tournoi #3436997510, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/07/2022 8:36:17 CET [05/07/2022 2:36:17 ET]
+Table '3436997510 1' 3-max Siège #2 est au bouton.
+Place 1: ming6383 (395 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: amarandei ion (215 en jetons) 
+amarandei ion : met la petite blind. 10
+ming6383 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 6h]
+psychoman59 : passe. 
+amarandei ion : suit. 10
+ming6383 : parole 
+*** FLOP *** [Js 4h 3s]
+amarandei ion : parole 
+ming6383 : parole 
+*** TOURNANT *** [Js 4h 3s] [6c]
+amarandei ion : parole 
+ming6383 : parole 
+*** RIVIÈRE *** [Js 4h 3s 6c] [6s]
+amarandei ion : parole 
+ming6383 : parole 
+*** ABATTAGE ***
+amarandei ion : montre [Th Qc] (une paire de Six)
+ming6383 : montre [Ah 8d] (une paire de Six - As kicker)
+ming6383 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Js 4h 3s 6c 6s]
+Siège 1 : ming6383 (grosse blind) a montré [Ah 8d] et a gagné (40) avec une paire de Six
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : amarandei ion (petite blind) a montré [Th Qc] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°237170143198 : Tournoi #3436997510, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/07/2022 8:36:44 CET [05/07/2022 2:36:44 ET]
+Table '3436997510 1' 3-max Siège #3 est au bouton.
+Place 1: ming6383 (415 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: amarandei ion (195 en jetons) 
+ming6383 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Kc]
+amarandei ion : suit. 20
+ming6383 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Kd 3h 8c]
+ming6383 : parole 
+psychoman59 : parole 
+amarandei ion : mise. 175 et est all-in.
+ming6383 : passe. 
+psychoman59 : suit. 175
+*** TOURNANT *** [Kd 3h 8c] [Qd]
+*** RIVIÈRE *** [Kd 3h 8c Qd] [5h]
+*** ABATTAGE ***
+psychoman59 : montre [6c Kc] (une paire de Rois)
+amarandei ion : montre [8h 6d] (une paire de Huit)
+psychoman59 a remporté 410  lors du pot .
+*** SYNTHÈSE ***
+Pot total 410 | Commission 0 
+Tableau [Kd 3h 8c Qd 5h]
+Siège 1 : ming6383 (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a montré [6c Kc] et a gagné (410) avec une paire de Rois
+Siège 3 : amarandei ion (bouton) a montré [8h 6d] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°237170147240 : Tournoi #3436997510, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/07/2022 8:37:23 CET [05/07/2022 2:37:23 ET]
+Table '3436997510 1' 3-max Siège #2 est au bouton.
+Place 1: ming6383 (395 en jetons) 
+Place 2: psychoman59 (505 en jetons) 
+psychoman59 : met la petite blind. 15
+ming6383 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Qd]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à ming6383.
+ming6383 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : ming6383 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237170147950 : Tournoi #3436997510, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/07/2022 8:37:30 CET [05/07/2022 2:37:30 ET]
+Table '3436997510 1' 3-max Siège #1 est au bouton.
+Place 1: ming6383 (410 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+ming6383 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 6s]
+ming6383 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : ming6383 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237170148494 : Tournoi #3436997510, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/07/2022 8:37:36 CET [05/07/2022 2:37:36 ET]
+Table '3436997510 1' 3-max Siège #2 est au bouton.
+Place 1: ming6383 (395 en jetons) 
+Place 2: psychoman59 (505 en jetons) 
+psychoman59 : met la petite blind. 15
+ming6383 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Ah]
+psychoman59 : relance. 475 à 505 et est all-in.
+ming6383 : passe. 
+Personne n'a suivi. (475) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : ming6383 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237170150147 : Tournoi #3436997510, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/07/2022 8:37:52 CET [05/07/2022 2:37:52 ET]
+Table '3436997510 1' 3-max Siège #1 est au bouton.
+Place 1: ming6383 (365 en jetons) 
+Place 2: psychoman59 (535 en jetons) 
+ming6383 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Jh]
+ming6383 : relance. 40 à 80
+psychoman59 : relance. 455 à 535 et est all-in.
+ming6383 : suit. 285 et est all-in.
+Personne n'a suivi. (170) sont retournés à psychoman59.
+*** FLOP *** [6d Ad 3h]
+*** TOURNANT *** [6d Ad 3h] [Js]
+*** RIVIÈRE *** [6d Ad 3h Js] [2d]
+*** ABATTAGE ***
+psychoman59 : montre [Ah Jh] (double paire, As et Valets)
+ming6383 : montre [Ac Qh] (une paire de As)
+psychoman59 a remporté 730  lors du pot .
+*** SYNTHÈSE ***
+Pot total 730 | Commission 0 
+Tableau [6d Ad 3h Js 2d]
+Siège 1 : ming6383 (bouton) (petite blind) a montré [Ac Qh] et a perdu avec une paire de As
+Siège 2 : psychoman59 (grosse blind) a montré [Ah Jh] et a gagné (730) avec double paire, As et Valets
+
+
+

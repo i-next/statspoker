@@ -1,0 +1,79 @@
+﻿Main PokerStars n°237150116800 : Tournoi #3436516823, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2022 7:53:21 CET [04/07/2022 1:53:21 ET]
+Table '3436516823 1' 3-max Siège #1 est au bouton.
+Place 1: Mimo47240 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: jumbo33700 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+jumbo33700 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d As]
+Mimo47240 : passe. 
+psychoman59 : relance. 40 à 60
+jumbo33700 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Mimo47240 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : jumbo33700 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237150117899 : Tournoi #3436516823, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2022 7:53:32 CET [04/07/2022 1:53:32 ET]
+Table '3436516823 1' 3-max Siège #2 est au bouton.
+Place 1: Mimo47240 (300 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: jumbo33700 (280 en jetons) 
+jumbo33700 : met la petite blind. 10
+Mimo47240 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 7s]
+psychoman59 : relance. 40 à 60
+jumbo33700 : relance. 220 à 280 et est all-in.
+Mimo47240 : passe. 
+psychoman59 : suit. 220
+*** FLOP *** [9s Ac Kd]
+*** TOURNANT *** [9s Ac Kd] [Ts]
+*** RIVIÈRE *** [9s Ac Kd Ts] [As]
+*** ABATTAGE ***
+jumbo33700 : montre [Kc Ad] (un full, full aux As par les Rois)
+psychoman59 : montre [7c 7s] (double paire, As et Sept)
+jumbo33700 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [9s Ac Kd Ts As]
+Siège 1 : Mimo47240 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a montré [7c 7s] et a perdu avec double paire, As et Sept
+Siège 3 : jumbo33700 (petite blind) a montré [Kc Ad] et a gagné (580) avec un full, full aux As par les Rois
+
+
+
+Main PokerStars n°237150119560 : Tournoi #3436516823, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2022 7:53:49 CET [04/07/2022 1:53:49 ET]
+Table '3436516823 1' 3-max Siège #3 est au bouton.
+Place 1: Mimo47240 (280 en jetons) 
+Place 2: psychoman59 (40 en jetons) 
+Place 3: jumbo33700 (580 en jetons) 
+Mimo47240 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 4c]
+jumbo33700 : passe. 
+Mimo47240 : relance. 20 à 40
+psychoman59 : suit. 20 et est all-in.
+*** FLOP *** [Ad 2s Qs]
+*** TOURNANT *** [Ad 2s Qs] [6s]
+*** RIVIÈRE *** [Ad 2s Qs 6s] [Td]
+*** ABATTAGE ***
+Mimo47240 : montre [7s Qd] (une paire de Dames)
+psychoman59 : montre [Js 4c] (Hauteur As)
+Mimo47240 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ad 2s Qs 6s Td]
+Siège 1 : Mimo47240 (petite blind) a montré [7s Qd] et a gagné (80) avec une paire de Dames
+Siège 2 : psychoman59 (grosse blind) a montré [Js 4c] et a perdu avec Hauteur As
+Siège 3 : jumbo33700 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+

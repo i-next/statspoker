@@ -1,0 +1,1106 @@
+﻿Main PokerStars n°237758637498 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 03/08/2022 9:53:44 CET [03/08/2022 3:53:44 ET]
+Table '3450730245 1' 4-max Siège #1 est au bouton.
+Place 1: ruteky (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: chipie1962 (5000 en jetons) 
+Place 4: LeBenHK (5000 en jetons) 
+ruteky : met l'ante. 10
+psychoman59 : met l'ante. 10
+chipie1962 : met l'ante. 10
+LeBenHK : met l'ante. 10
+psychoman59 : met la petite blind. 50
+chipie1962 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 9s]
+LeBenHK : passe. 
+ruteky : relance. 100 à 200
+psychoman59 : suit. 150
+chipie1962 : passe. 
+*** FLOP *** [Qd 5c 3c]
+psychoman59 : parole 
+ruteky : mise. 162
+psychoman59 : passe. 
+Personne n'a suivi. (162) sont retournés à ruteky.
+ruteky a remporté 540  lors du pot .
+ruteky : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [Qd 5c 3c]
+Siège 1 : ruteky (bouton) a remporté (540)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : chipie1962 (grosse blind) s'est couché. avant Flop
+Siège 4 : LeBenHK s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237758641052 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 03/08/2022 9:54:13 CET [03/08/2022 3:54:13 ET]
+Table '3450730245 1' 4-max Siège #2 est au bouton.
+Place 1: ruteky (5330 en jetons) 
+Place 2: psychoman59 (4790 en jetons) 
+Place 3: chipie1962 (4890 en jetons) 
+Place 4: LeBenHK (4990 en jetons) 
+ruteky : met l'ante. 10
+psychoman59 : met l'ante. 10
+chipie1962 : met l'ante. 10
+LeBenHK : met l'ante. 10
+chipie1962 : met la petite blind. 50
+LeBenHK : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Qc]
+ruteky : passe. 
+psychoman59 : passe. 
+chipie1962 : suit. 50
+LeBenHK : parole 
+*** FLOP *** [4h 7s As]
+chipie1962 : parole 
+LeBenHK : parole 
+*** TOURNANT *** [4h 7s As] [Ad]
+chipie1962 : parole 
+LeBenHK : parole 
+*** RIVIÈRE *** [4h 7s As Ad] [7h]
+chipie1962 : parole 
+LeBenHK : parole 
+*** ABATTAGE ***
+chipie1962 : montre [Kh Td] (double paire, As et Sept)
+LeBenHK : montre [Th Kd] (double paire, As et Sept)
+chipie1962 a remporté 120  lors du pot .
+LeBenHK a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [4h 7s As Ad 7h]
+Siège 1 : ruteky s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : chipie1962 (petite blind) a montré [Kh Td] et a gagné (120) avec double paire, As et Sept
+Siège 4 : LeBenHK (grosse blind) a montré [Th Kd] et a gagné (120) avec double paire, As et Sept
+
+
+
+Main PokerStars n°237758644347 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 03/08/2022 9:54:42 CET [03/08/2022 3:54:42 ET]
+Table '3450730245 1' 4-max Siège #3 est au bouton.
+Place 1: ruteky (5320 en jetons) 
+Place 2: psychoman59 (4780 en jetons) 
+Place 3: chipie1962 (4900 en jetons) 
+Place 4: LeBenHK (5000 en jetons) 
+ruteky : met l'ante. 10
+psychoman59 : met l'ante. 10
+chipie1962 : met l'ante. 10
+LeBenHK : met l'ante. 10
+LeBenHK : met la petite blind. 50
+ruteky : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Kc]
+psychoman59 : passe. 
+chipie1962 : passe. 
+LeBenHK : suit. 50
+ruteky : parole 
+*** FLOP *** [4c 6c 7d]
+LeBenHK : parole 
+ruteky : parole 
+*** TOURNANT *** [4c 6c 7d] [2s]
+LeBenHK : parole 
+ruteky : mise. 120
+LeBenHK : suit. 120
+*** RIVIÈRE *** [4c 6c 7d 2s] [4s]
+LeBenHK : parole 
+ruteky : parole 
+*** ABATTAGE ***
+LeBenHK : montre [2c 5c] (double paire, Quatre et Deux)
+ruteky : cache la main perdante. 
+LeBenHK a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [4c 6c 7d 2s 4s]
+Siège 1 : ruteky (grosse blind) a caché la main perdante. [5s Tc]
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : chipie1962 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : LeBenHK (petite blind) a montré [2c 5c] et a gagné (480) avec double paire, Quatre et Deux
+
+
+
+Main PokerStars n°237758648786 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 03/08/2022 9:55:20 CET [03/08/2022 3:55:20 ET]
+Table '3450730245 1' 4-max Siège #4 est au bouton.
+Place 1: ruteky (5090 en jetons) 
+Place 2: psychoman59 (4770 en jetons) 
+Place 3: chipie1962 (4890 en jetons) 
+Place 4: LeBenHK (5250 en jetons) 
+ruteky : met l'ante. 10
+psychoman59 : met l'ante. 10
+chipie1962 : met l'ante. 10
+LeBenHK : met l'ante. 10
+ruteky : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 3d]
+chipie1962 : suit. 100
+LeBenHK : suit. 100
+ruteky : relance. 400 à 500
+psychoman59 : passe. 
+chipie1962 : suit. 400
+LeBenHK : suit. 400
+*** FLOP *** [2c Kd 3c]
+ruteky : parole 
+chipie1962 : parole 
+LeBenHK : parole 
+*** TOURNANT *** [2c Kd 3c] [2h]
+ruteky : mise. 820
+chipie1962 : passe. 
+LeBenHK : passe. 
+Personne n'a suivi. (820) sont retournés à ruteky.
+ruteky a remporté 1640  lors du pot .
+ruteky : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1640 | Commission 0 
+Tableau [2c Kd 3c 2h]
+Siège 1 : ruteky (petite blind) a remporté (1640)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : chipie1962 s'est couché. sur le Tournant
+Siège 4 : LeBenHK (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237758652840 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 03/08/2022 9:55:59 CET [03/08/2022 3:55:59 ET]
+Table '3450730245 1' 4-max Siège #1 est au bouton.
+Place 1: ruteky (6220 en jetons) 
+Place 2: psychoman59 (4660 en jetons) 
+Place 3: chipie1962 (4380 en jetons) 
+Place 4: LeBenHK (4740 en jetons) 
+ruteky : met l'ante. 10
+psychoman59 : met l'ante. 10
+chipie1962 : met l'ante. 10
+LeBenHK : met l'ante. 10
+psychoman59 : met la petite blind. 50
+chipie1962 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 8d]
+LeBenHK : passe. 
+ruteky : relance. 100 à 200
+psychoman59 : suit. 150
+chipie1962 : passe. 
+*** FLOP *** [5s Js 2s]
+psychoman59 : parole 
+ruteky : mise. 162
+psychoman59 : passe. 
+Personne n'a suivi. (162) sont retournés à ruteky.
+ruteky a remporté 540  lors du pot .
+ruteky : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [5s Js 2s]
+Siège 1 : ruteky (bouton) a remporté (540)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : chipie1962 (grosse blind) s'est couché. avant Flop
+Siège 4 : LeBenHK s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237758654999 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 03/08/2022 9:56:20 CET [03/08/2022 3:56:20 ET]
+Table '3450730245 1' 4-max Siège #2 est au bouton.
+Place 1: ruteky (6550 en jetons) 
+Place 2: psychoman59 (4450 en jetons) 
+Place 3: chipie1962 (4270 en jetons) 
+Place 4: LeBenHK (4730 en jetons) 
+ruteky : met l'ante. 10
+psychoman59 : met l'ante. 10
+chipie1962 : met l'ante. 10
+LeBenHK : met l'ante. 10
+chipie1962 : met la petite blind. 50
+LeBenHK : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 8h]
+ruteky : passe. 
+psychoman59 : suit. 100
+chipie1962 : suit. 50
+LeBenHK : relance. 340 à 440
+psychoman59 : passe. 
+chipie1962 : suit. 340
+*** FLOP *** [Th 6d 3c]
+chipie1962 : parole 
+LeBenHK : parole 
+*** TOURNANT *** [Th 6d 3c] [8c]
+chipie1962 : parole 
+LeBenHK : parole 
+*** RIVIÈRE *** [Th 6d 3c 8c] [9d]
+chipie1962 : parole 
+LeBenHK : parole 
+*** ABATTAGE ***
+chipie1962 : montre [5s Qs] (Hauteur Dame)
+LeBenHK : montre [4h 4d] (une paire de Quatre)
+LeBenHK a remporté 1020  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [Th 6d 3c 8c 9d]
+Siège 1 : ruteky s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 3 : chipie1962 (petite blind) a montré [5s Qs] et a perdu avec Hauteur Dame
+Siège 4 : LeBenHK (grosse blind) a montré [4h 4d] et a gagné (1020) avec une paire de Quatre
+
+
+
+Main PokerStars n°237758659300 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 03/08/2022 9:57:01 CET [03/08/2022 3:57:01 ET]
+Table '3450730245 1' 4-max Siège #3 est au bouton.
+Place 1: ruteky (6540 en jetons) 
+Place 2: psychoman59 (4340 en jetons) 
+Place 3: chipie1962 (3820 en jetons) 
+Place 4: LeBenHK (5300 en jetons) 
+ruteky : met l'ante. 15
+psychoman59 : met l'ante. 15
+chipie1962 : met l'ante. 15
+LeBenHK : met l'ante. 15
+LeBenHK : met la petite blind. 60
+ruteky : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s As]
+psychoman59 : relance. 240 à 360
+chipie1962 : suit. 360
+LeBenHK : suit. 300
+ruteky : passe. 
+*** FLOP *** [2c 7s 7d]
+LeBenHK : parole 
+psychoman59 : parole 
+chipie1962 : parole 
+*** TOURNANT *** [2c 7s 7d] [2d]
+LeBenHK : parole 
+psychoman59 : mise. 630
+chipie1962 : passe. 
+LeBenHK : passe. 
+Personne n'a suivi. (630) sont retournés à psychoman59.
+psychoman59 a remporté 1260  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1260 | Commission 0 
+Tableau [2c 7s 7d 2d]
+Siège 1 : ruteky (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 a remporté (1260)
+Siège 3 : chipie1962 (bouton) s'est couché. sur le Tournant
+Siège 4 : LeBenHK (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237758667614 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 03/08/2022 9:58:21 CET [03/08/2022 3:58:21 ET]
+Table '3450730245 1' 4-max Siège #4 est au bouton.
+Place 1: ruteky (6405 en jetons) 
+Place 2: psychoman59 (5225 en jetons) 
+Place 3: chipie1962 (3445 en jetons) 
+Place 4: LeBenHK (4925 en jetons) 
+ruteky : met l'ante. 15
+psychoman59 : met l'ante. 15
+chipie1962 : met l'ante. 15
+LeBenHK : met l'ante. 15
+ruteky : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Jh]
+chipie1962 : passe. 
+LeBenHK : passe. 
+ruteky : suit. 60
+psychoman59 : parole 
+*** FLOP *** [Jc 6s 4d]
+ruteky : parole 
+psychoman59 : mise. 300
+ruteky : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 300  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Jc 6s 4d]
+Siège 1 : ruteky (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (300)
+Siège 3 : chipie1962 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : LeBenHK (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237758670056 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 03/08/2022 9:58:44 CET [03/08/2022 3:58:44 ET]
+Table '3450730245 1' 4-max Siège #1 est au bouton.
+Place 1: ruteky (6270 en jetons) 
+Place 2: psychoman59 (5390 en jetons) 
+Place 3: chipie1962 (3430 en jetons) 
+Place 4: LeBenHK (4910 en jetons) 
+ruteky : met l'ante. 15
+psychoman59 : met l'ante. 15
+chipie1962 : met l'ante. 15
+LeBenHK : met l'ante. 15
+psychoman59 : met la petite blind. 60
+chipie1962 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 8h]
+LeBenHK : passe. 
+ruteky : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à chipie1962.
+chipie1962 a remporté 180  lors du pot .
+chipie1962 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : ruteky (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : chipie1962 (grosse blind) a remporté (180)
+Siège 4 : LeBenHK s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237758671439 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 03/08/2022 9:58:58 CET [03/08/2022 3:58:58 ET]
+Table '3450730245 1' 4-max Siège #2 est au bouton.
+Place 1: ruteky (6255 en jetons) 
+Place 2: psychoman59 (5315 en jetons) 
+Place 3: chipie1962 (3535 en jetons) 
+Place 4: LeBenHK (4895 en jetons) 
+ruteky : met l'ante. 15
+psychoman59 : met l'ante. 15
+chipie1962 : met l'ante. 15
+LeBenHK : met l'ante. 15
+chipie1962 : met la petite blind. 60
+LeBenHK : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 9h]
+ruteky : passe. 
+psychoman59 : passe. 
+chipie1962 : passe. 
+Personne n'a suivi. (60) sont retournés à LeBenHK.
+LeBenHK a remporté 180  lors du pot .
+LeBenHK : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : ruteky s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : chipie1962 (petite blind) s'est couché. avant Flop
+Siège 4 : LeBenHK (grosse blind) a remporté (180)
+
+
+
+Main PokerStars n°237758672301 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 03/08/2022 9:59:06 CET [03/08/2022 3:59:06 ET]
+Table '3450730245 1' 4-max Siège #3 est au bouton.
+Place 1: ruteky (6240 en jetons) 
+Place 2: psychoman59 (5300 en jetons) 
+Place 3: chipie1962 (3460 en jetons) 
+Place 4: LeBenHK (5000 en jetons) 
+ruteky : met l'ante. 15
+psychoman59 : met l'ante. 15
+chipie1962 : met l'ante. 15
+LeBenHK : met l'ante. 15
+LeBenHK : met la petite blind. 60
+ruteky : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ac]
+psychoman59 : relance. 120 à 240
+chipie1962 : passe. 
+LeBenHK : suit. 180
+ruteky : suit. 120
+*** FLOP *** [3c 2h 2s]
+LeBenHK : parole 
+ruteky : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3c 2h 2s] [9h]
+LeBenHK : parole 
+ruteky : parole 
+psychoman59 : mise. 780
+LeBenHK : passe. 
+ruteky : passe. 
+Personne n'a suivi. (780) sont retournés à psychoman59.
+psychoman59 a remporté 780  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 780 | Commission 0 
+Tableau [3c 2h 2s 9h]
+Siège 1 : ruteky (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 a remporté (780)
+Siège 3 : chipie1962 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : LeBenHK (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237758679378 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 03/08/2022 10:00:13 CET [03/08/2022 4:00:13 ET]
+Table '3450730245 1' 4-max Siège #4 est au bouton.
+Place 1: ruteky (5985 en jetons) 
+Place 2: psychoman59 (5825 en jetons) 
+Place 3: chipie1962 (3445 en jetons) 
+Place 4: LeBenHK (4745 en jetons) 
+ruteky : met l'ante. 20
+psychoman59 : met l'ante. 20
+chipie1962 : met l'ante. 20
+LeBenHK : met l'ante. 20
+ruteky : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 3h]
+chipie1962 : passe. 
+LeBenHK : passe. 
+ruteky : suit. 75
+psychoman59 : parole 
+*** FLOP *** [Jc 7d Td]
+ruteky : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jc 7d Td] [4h]
+ruteky : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Jc 7d Td 4h] [2h]
+ruteky : mise. 150
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à ruteky.
+ruteky a remporté 380  lors du pot .
+ruteky : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [Jc 7d Td 4h 2h]
+Siège 1 : ruteky (petite blind) a remporté (380)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : chipie1962 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : LeBenHK (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237758682753 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 03/08/2022 10:00:44 CET [03/08/2022 4:00:44 ET]
+Table '3450730245 1' 4-max Siège #1 est au bouton.
+Place 1: ruteky (6195 en jetons) 
+Place 2: psychoman59 (5655 en jetons) 
+Place 3: chipie1962 (3425 en jetons) 
+Place 4: LeBenHK (4725 en jetons) 
+ruteky : met l'ante. 20
+psychoman59 : met l'ante. 20
+chipie1962 : met l'ante. 20
+LeBenHK : met l'ante. 20
+psychoman59 : met la petite blind. 75
+chipie1962 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Kh]
+LeBenHK : passe. 
+ruteky : relance. 150 à 300
+psychoman59 : passe. 
+chipie1962 : suit. 150
+*** FLOP *** [4h 2h 5c]
+chipie1962 : parole 
+ruteky : mise. 566
+chipie1962 : suit. 566
+*** TOURNANT *** [4h 2h 5c] [Ac]
+chipie1962 : parole 
+ruteky : parole 
+*** RIVIÈRE *** [4h 2h 5c Ac] [9s]
+chipie1962 : parole 
+ruteky : mise. 566
+chipie1962 : passe. 
+Personne n'a suivi. (566) sont retournés à ruteky.
+ruteky a remporté 1887  lors du pot .
+ruteky : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1887 | Commission 0 
+Tableau [4h 2h 5c Ac 9s]
+Siège 1 : ruteky (bouton) a remporté (1887)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : chipie1962 (grosse blind) s'est couché. sur le Rivière
+Siège 4 : LeBenHK s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237758692165 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 03/08/2022 10:02:04 CET [03/08/2022 4:02:04 ET]
+Table '3450730245 1' 4-max Siège #2 est au bouton.
+Place 1: ruteky (7196 en jetons) 
+Place 2: psychoman59 (5560 en jetons) 
+Place 3: chipie1962 (2539 en jetons) 
+Place 4: LeBenHK (4705 en jetons) 
+ruteky : met l'ante. 20
+psychoman59 : met l'ante. 20
+chipie1962 : met l'ante. 20
+LeBenHK : met l'ante. 20
+chipie1962 : met la petite blind. 75
+LeBenHK : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 2h]
+ruteky : passe. 
+psychoman59 : suit. 150
+chipie1962 : suit. 75
+LeBenHK : parole 
+*** FLOP *** [5c Qs Ts]
+chipie1962 : parole 
+LeBenHK : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5c Qs Ts] [6d]
+chipie1962 a dépassé le temps imparti.
+chipie1962 : parole 
+LeBenHK : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5c Qs Ts 6d] [8d]
+chipie1962 : parole 
+LeBenHK : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+chipie1962 : montre [Kc 6h] (une paire de Six)
+LeBenHK : montre [7h 4c] (une suite, Quatre à Huit)
+psychoman59 : cache la main perdante. 
+LeBenHK a remporté 530  lors du pot .
+*** SYNTHÈSE ***
+Pot total 530 | Commission 0 
+Tableau [5c Qs Ts 6d 8d]
+Siège 1 : ruteky s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (bouton) a caché la main perdante. [As 2h]
+Siège 3 : chipie1962 (petite blind) a montré [Kc 6h] et a perdu avec une paire de Six
+Siège 4 : LeBenHK (grosse blind) a montré [7h 4c] et a gagné (530) avec une suite, Quatre à Huit
+
+
+
+Main PokerStars n°237758702971 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 03/08/2022 10:03:35 CET [03/08/2022 4:03:35 ET]
+Table '3450730245 1' 4-max Siège #3 est au bouton.
+Place 1: ruteky (7176 en jetons) 
+Place 2: psychoman59 (5390 en jetons) 
+Place 3: chipie1962 (2369 en jetons) 
+Place 4: LeBenHK (5065 en jetons) 
+ruteky : met l'ante. 25
+psychoman59 : met l'ante. 25
+chipie1962 : met l'ante. 25
+LeBenHK : met l'ante. 25
+LeBenHK : met la petite blind. 100
+ruteky : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Jh]
+psychoman59 : relance. 600 à 800
+chipie1962 a dépassé le temps imparti.
+chipie1962 : passe. 
+chipie1962 ne joue pas.
+LeBenHK : passe. 
+ruteky : passe. 
+Personne n'a suivi. (600) sont retournés à psychoman59.
+psychoman59 a remporté 600  lors du pot .
+psychoman59 : ne montre pas sa main. 
+chipie1962 est revenu.
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Siège 1 : ruteky (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 a remporté (600)
+Siège 3 : chipie1962 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : LeBenHK (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237758706620 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 03/08/2022 10:04:05 CET [03/08/2022 4:04:05 ET]
+Table '3450730245 1' 4-max Siège #4 est au bouton.
+Place 1: ruteky (6951 en jetons) 
+Place 2: psychoman59 (5765 en jetons) 
+Place 3: chipie1962 (2344 en jetons) 
+Place 4: LeBenHK (4940 en jetons) 
+ruteky : met l'ante. 25
+psychoman59 : met l'ante. 25
+chipie1962 : met l'ante. 25
+LeBenHK : met l'ante. 25
+ruteky : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Tc]
+chipie1962 : suit. 200
+LeBenHK : suit. 200
+ruteky : relance. 6726 à 6926 et est all-in.
+psychoman59 : passe. 
+chipie1962 : suit. 2119 et est all-in.
+LeBenHK : passe. 
+Personne n'a suivi. (4607) sont retournés à ruteky.
+*** FLOP *** [9d 3c Ks]
+*** TOURNANT *** [9d 3c Ks] [5c]
+*** RIVIÈRE *** [9d 3c Ks 5c] [Jc]
+*** ABATTAGE ***
+ruteky : montre [Ad Jh] (une paire de Valets)
+chipie1962 : montre [6h Ah] (Hauteur As)
+ruteky a remporté 5138  lors du pot .
+chipie1962 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 5138 | Commission 0 
+Tableau [9d 3c Ks 5c Jc]
+Siège 1 : ruteky (petite blind) a montré [Ad Jh] et a gagné (5138) avec une paire de Valets
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : chipie1962 a montré [6h Ah] et a perdu avec Hauteur As
+Siège 4 : LeBenHK (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237758720375 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 03/08/2022 10:04:48 CET [03/08/2022 4:04:48 ET]
+Table '3450730245 1' 4-max Siège #1 est au bouton.
+Place 1: ruteky (9745 en jetons) 
+Place 2: psychoman59 (5540 en jetons) 
+Place 4: LeBenHK (4715 en jetons) 
+ruteky : met l'ante. 25
+psychoman59 : met l'ante. 25
+LeBenHK : met l'ante. 25
+psychoman59 : met la petite blind. 100
+LeBenHK : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 8h]
+ruteky : relance. 200 à 400
+psychoman59 : passe. 
+LeBenHK : suit. 200
+*** FLOP *** [7d 9c 5h]
+LeBenHK : parole 
+ruteky : parole 
+*** TOURNANT *** [7d 9c 5h] [9h]
+LeBenHK : parole 
+ruteky : parole 
+*** RIVIÈRE *** [7d 9c 5h 9h] [Qd]
+LeBenHK : parole 
+ruteky : mise. 731
+LeBenHK : passe. 
+Personne n'a suivi. (731) sont retournés à ruteky.
+ruteky a remporté 975  lors du pot .
+ruteky : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 975 | Commission 0 
+Tableau [7d 9c 5h 9h Qd]
+Siège 1 : ruteky (bouton) a remporté (975)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : LeBenHK (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237758725704 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 03/08/2022 10:05:33 CET [03/08/2022 4:05:33 ET]
+Table '3450730245 1' 4-max Siège #2 est au bouton.
+Place 1: ruteky (10295 en jetons) 
+Place 2: psychoman59 (5415 en jetons) 
+Place 4: LeBenHK (4290 en jetons) 
+ruteky : met l'ante. 25
+psychoman59 : met l'ante. 25
+LeBenHK : met l'ante. 25
+LeBenHK : met la petite blind. 100
+ruteky : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 7c]
+psychoman59 : passe. 
+LeBenHK : passe. 
+Personne n'a suivi. (100) sont retournés à ruteky.
+ruteky a remporté 275  lors du pot .
+ruteky : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 275 | Commission 0 
+Siège 1 : ruteky (grosse blind) a remporté (275)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : LeBenHK (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237758727989 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 03/08/2022 10:05:52 CET [03/08/2022 4:05:52 ET]
+Table '3450730245 1' 4-max Siège #4 est au bouton.
+Place 1: ruteky (10445 en jetons) 
+Place 2: psychoman59 (5390 en jetons) 
+Place 4: LeBenHK (4165 en jetons) 
+ruteky : met l'ante. 30
+psychoman59 : met l'ante. 30
+LeBenHK : met l'ante. 30
+ruteky : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 8d]
+LeBenHK : passe. 
+ruteky : suit. 125
+psychoman59 : relance. 5110 à 5360 et est all-in.
+ruteky : passe. 
+Personne n'a suivi. (5110) sont retournés à psychoman59.
+psychoman59 a remporté 590  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Siège 1 : ruteky (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (590)
+Siège 4 : LeBenHK (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237758729492 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 03/08/2022 10:06:05 CET [03/08/2022 4:06:05 ET]
+Table '3450730245 1' 4-max Siège #1 est au bouton.
+Place 1: ruteky (10165 en jetons) 
+Place 2: psychoman59 (5700 en jetons) 
+Place 4: LeBenHK (4135 en jetons) 
+ruteky : met l'ante. 30
+psychoman59 : met l'ante. 30
+LeBenHK : met l'ante. 30
+psychoman59 : met la petite blind. 125
+LeBenHK : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Qd]
+ruteky : relance. 250 à 500
+psychoman59 : passe. 
+LeBenHK : relance. 1215 à 1715
+ruteky : passe. 
+Personne n'a suivi. (1215) sont retournés à LeBenHK.
+LeBenHK a remporté 1215  lors du pot .
+LeBenHK : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1215 | Commission 0 
+Siège 1 : ruteky (bouton) s'est couché. avant Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : LeBenHK (grosse blind) a remporté (1215)
+
+
+
+Main PokerStars n°237758732571 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 03/08/2022 10:06:31 CET [03/08/2022 4:06:31 ET]
+Table '3450730245 1' 4-max Siège #2 est au bouton.
+Place 1: ruteky (9635 en jetons) 
+Place 2: psychoman59 (5545 en jetons) 
+Place 4: LeBenHK (4820 en jetons) 
+ruteky : met l'ante. 30
+psychoman59 : met l'ante. 30
+LeBenHK : met l'ante. 30
+LeBenHK : met la petite blind. 125
+ruteky : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ks]
+psychoman59 : passe. 
+LeBenHK : suit. 125
+ruteky : parole 
+*** FLOP *** [6h Qs Ac]
+LeBenHK : parole 
+ruteky : parole 
+*** TOURNANT *** [6h Qs Ac] [5s]
+LeBenHK : parole 
+ruteky : parole 
+*** RIVIÈRE *** [6h Qs Ac 5s] [5d]
+LeBenHK : parole 
+ruteky : mise. 750
+LeBenHK : passe. 
+Personne n'a suivi. (750) sont retournés à ruteky.
+ruteky a remporté 590  lors du pot .
+ruteky : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [6h Qs Ac 5s 5d]
+Siège 1 : ruteky (grosse blind) a remporté (590)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : LeBenHK (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237758736548 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 03/08/2022 10:07:04 CET [03/08/2022 4:07:04 ET]
+Table '3450730245 1' 4-max Siège #4 est au bouton.
+Place 1: ruteky (9945 en jetons) 
+Place 2: psychoman59 (5515 en jetons) 
+Place 4: LeBenHK (4540 en jetons) 
+ruteky : met l'ante. 30
+psychoman59 : met l'ante. 30
+LeBenHK : met l'ante. 30
+ruteky : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Js]
+LeBenHK : passe. 
+ruteky : suit. 125
+psychoman59 : parole 
+*** FLOP *** [3h Ah 8c]
+ruteky : mise. 250
+psychoman59 : suit. 250
+*** TOURNANT *** [3h Ah 8c] [Jh]
+ruteky : mise. 818
+psychoman59 : suit. 818
+*** RIVIÈRE *** [3h Ah 8c Jh] [Qc]
+ruteky : mise. 1363
+psychoman59 : suit. 1363
+*** ABATTAGE ***
+ruteky : montre [9h Qs] (une paire de Dames)
+psychoman59 : montre [3c Js] (double paire, Valets et Trois)
+psychoman59 a remporté 5452  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5452 | Commission 0 
+Tableau [3h Ah 8c Jh Qc]
+Siège 1 : ruteky (petite blind) a montré [9h Qs] et a perdu avec une paire de Dames
+Siège 2 : psychoman59 (grosse blind) a montré [3c Js] et a gagné (5452) avec double paire, Valets et Trois
+Siège 4 : LeBenHK (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237758740064 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 03/08/2022 10:07:34 CET [03/08/2022 4:07:34 ET]
+Table '3450730245 1' 4-max Siège #1 est au bouton.
+Place 1: ruteky (7234 en jetons) 
+Place 2: psychoman59 (8256 en jetons) 
+Place 4: LeBenHK (4510 en jetons) 
+ruteky : met l'ante. 30
+psychoman59 : met l'ante. 30
+LeBenHK : met l'ante. 30
+psychoman59 : met la petite blind. 125
+LeBenHK : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Jc]
+ruteky : relance. 250 à 500
+psychoman59 : passe. 
+LeBenHK : suit. 250
+*** FLOP *** [Ac Jd 2s]
+LeBenHK : parole 
+ruteky : mise. 365
+LeBenHK : suit. 365
+*** TOURNANT *** [Ac Jd 2s] [9s]
+LeBenHK : parole 
+ruteky : mise. 584
+LeBenHK : passe. 
+Personne n'a suivi. (584) sont retournés à ruteky.
+ruteky a remporté 1945  lors du pot .
+ruteky : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1945 | Commission 0 
+Tableau [Ac Jd 2s 9s]
+Siège 1 : ruteky (bouton) a remporté (1945)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : LeBenHK (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237758743936 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 03/08/2022 10:08:06 CET [03/08/2022 4:08:06 ET]
+Table '3450730245 1' 4-max Siège #2 est au bouton.
+Place 1: ruteky (8284 en jetons) 
+Place 2: psychoman59 (8101 en jetons) 
+Place 4: LeBenHK (3615 en jetons) 
+ruteky : met l'ante. 30
+psychoman59 : met l'ante. 30
+LeBenHK : met l'ante. 30
+LeBenHK : met la petite blind. 125
+ruteky : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 3d]
+psychoman59 : passe. 
+LeBenHK : passe. 
+Personne n'a suivi. (125) sont retournés à ruteky.
+ruteky a remporté 340  lors du pot .
+ruteky : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : ruteky (grosse blind) a remporté (340)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : LeBenHK (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237758745100 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 03/08/2022 10:08:15 CET [03/08/2022 4:08:15 ET]
+Table '3450730245 1' 4-max Siège #4 est au bouton.
+Place 1: ruteky (8469 en jetons) 
+Place 2: psychoman59 (8071 en jetons) 
+Place 4: LeBenHK (3460 en jetons) 
+ruteky : met l'ante. 30
+psychoman59 : met l'ante. 30
+LeBenHK : met l'ante. 30
+ruteky : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 3c]
+LeBenHK : suit. 250
+ruteky : suit. 125
+psychoman59 : parole 
+*** FLOP *** [Ks Ah 7s]
+ruteky : parole 
+psychoman59 : parole 
+LeBenHK : parole 
+*** TOURNANT *** [Ks Ah 7s] [5d]
+ruteky : parole 
+psychoman59 : mise. 250
+LeBenHK : suit. 250
+ruteky : passe. 
+*** RIVIÈRE *** [Ks Ah 7s 5d] [4h]
+psychoman59 : mise. 670
+LeBenHK : passe. 
+Personne n'a suivi. (670) sont retournés à psychoman59.
+psychoman59 a remporté 1340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1340 | Commission 0 
+Tableau [Ks Ah 7s 5d 4h]
+Siège 1 : ruteky (petite blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (grosse blind) a remporté (1340)
+Siège 4 : LeBenHK (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237758751272 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 03/08/2022 10:09:06 CET [03/08/2022 4:09:06 ET]
+Table '3450730245 1' 4-max Siège #1 est au bouton.
+Place 1: ruteky (8189 en jetons) 
+Place 2: psychoman59 (8881 en jetons) 
+Place 4: LeBenHK (2930 en jetons) 
+ruteky : met l'ante. 40
+psychoman59 : met l'ante. 40
+LeBenHK : met l'ante. 40
+psychoman59 : met la petite blind. 150
+LeBenHK : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 8h]
+ruteky : relance. 300 à 600
+psychoman59 : passe. 
+LeBenHK : suit. 300
+*** FLOP *** [Qd 3s Ah]
+LeBenHK : parole 
+ruteky : mise. 441
+LeBenHK : passe. 
+Personne n'a suivi. (441) sont retournés à ruteky.
+ruteky a remporté 1470  lors du pot .
+ruteky : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1470 | Commission 0 
+Tableau [Qd 3s Ah]
+Siège 1 : ruteky (bouton) a remporté (1470)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : LeBenHK (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237758754885 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 03/08/2022 10:09:35 CET [03/08/2022 4:09:35 ET]
+Table '3450730245 1' 4-max Siège #2 est au bouton.
+Place 1: ruteky (9019 en jetons) 
+Place 2: psychoman59 (8691 en jetons) 
+Place 4: LeBenHK (2290 en jetons) 
+ruteky : met l'ante. 40
+psychoman59 : met l'ante. 40
+LeBenHK : met l'ante. 40
+LeBenHK : met la petite blind. 150
+ruteky : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ah]
+psychoman59 : relance. 300 à 600
+LeBenHK : passe. 
+ruteky : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 870  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Siège 1 : ruteky (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (870)
+Siège 4 : LeBenHK (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237758756418 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 03/08/2022 10:09:47 CET [03/08/2022 4:09:47 ET]
+Table '3450730245 1' 4-max Siège #4 est au bouton.
+Place 1: ruteky (8679 en jetons) 
+Place 2: psychoman59 (9221 en jetons) 
+Place 4: LeBenHK (2100 en jetons) 
+ruteky : met l'ante. 40
+psychoman59 : met l'ante. 40
+LeBenHK : met l'ante. 40
+ruteky : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Kd]
+LeBenHK : passe. 
+ruteky : suit. 150
+psychoman59 : relance. 720 à 1020
+ruteky : passe. 
+Personne n'a suivi. (720) sont retournés à psychoman59.
+psychoman59 a remporté 720  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Siège 1 : ruteky (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (720)
+Siège 4 : LeBenHK (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237758758717 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 03/08/2022 10:10:06 CET [03/08/2022 4:10:06 ET]
+Table '3450730245 1' 4-max Siège #1 est au bouton.
+Place 1: ruteky (8339 en jetons) 
+Place 2: psychoman59 (9601 en jetons) 
+Place 4: LeBenHK (2060 en jetons) 
+ruteky : met l'ante. 40
+psychoman59 : met l'ante. 40
+LeBenHK : met l'ante. 40
+psychoman59 : met la petite blind. 150
+LeBenHK : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 8c]
+ruteky : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à LeBenHK.
+LeBenHK a remporté 420  lors du pot .
+LeBenHK : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Siège 1 : ruteky (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : LeBenHK (grosse blind) a remporté (420)
+
+
+
+Main PokerStars n°237758759765 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 03/08/2022 10:10:15 CET [03/08/2022 4:10:15 ET]
+Table '3450730245 1' 4-max Siège #2 est au bouton.
+Place 1: ruteky (8299 en jetons) 
+Place 2: psychoman59 (9411 en jetons) 
+Place 4: LeBenHK (2290 en jetons) 
+ruteky : met l'ante. 40
+psychoman59 : met l'ante. 40
+LeBenHK : met l'ante. 40
+LeBenHK : met la petite blind. 150
+ruteky : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Jd]
+psychoman59 : relance. 870 à 1170
+LeBenHK : passe. 
+ruteky : suit. 870
+*** FLOP *** [Jh 4c Qd]
+ruteky : parole 
+psychoman59 : mise. 2610
+ruteky : suit. 2610
+*** TOURNANT *** [Jh 4c Qd] [8c]
+ruteky : parole 
+psychoman59 : mise. 5591 et est all-in.
+ruteky : suit. 4479 et est all-in.
+Personne n'a suivi. (1112) sont retournés à psychoman59.
+*** RIVIÈRE *** [Jh 4c Qd 8c] [8d]
+*** ABATTAGE ***
+ruteky : montre [Ad As] (double paire, As et Huit)
+psychoman59 : montre [Ac Jd] (double paire, Valets et Huit)
+ruteky a remporté 16788  lors du pot .
+*** SYNTHÈSE ***
+Pot total 16788 | Commission 0 
+Tableau [Jh 4c Qd 8c 8d]
+Siège 1 : ruteky (grosse blind) a montré [Ad As] et a gagné (16788) avec double paire, As et Huit
+Siège 2 : psychoman59 (bouton) a montré [Ac Jd] et a perdu avec double paire, Valets et Huit
+Siège 4 : LeBenHK (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237758763926 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 03/08/2022 10:10:48 CET [03/08/2022 4:10:48 ET]
+Table '3450730245 1' 4-max Siège #4 est au bouton.
+Place 1: ruteky (16788 en jetons) 
+Place 2: psychoman59 (1112 en jetons) 
+Place 4: LeBenHK (2100 en jetons) 
+ruteky : met l'ante. 40
+psychoman59 : met l'ante. 40
+LeBenHK : met l'ante. 40
+ruteky : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 7s]
+LeBenHK : relance. 870 à 1170
+ruteky : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (870) sont retournés à LeBenHK.
+LeBenHK a remporté 870  lors du pot .
+LeBenHK : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Siège 1 : ruteky (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : LeBenHK (bouton) a remporté (870)
+
+
+
+Main PokerStars n°237758765761 : Tournoi #3450730245, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 03/08/2022 10:11:03 CET [03/08/2022 4:11:03 ET]
+Table '3450730245 1' 4-max Siège #1 est au bouton.
+Place 1: ruteky (16598 en jetons) 
+Place 2: psychoman59 (772 en jetons) 
+Place 4: LeBenHK (2630 en jetons) 
+ruteky : met l'ante. 40
+psychoman59 : met l'ante. 40
+LeBenHK : met l'ante. 40
+psychoman59 : met la petite blind. 150
+LeBenHK : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 5d]
+ruteky : passe. 
+psychoman59 : relance. 432 à 732 et est all-in.
+LeBenHK : suit. 432
+*** FLOP *** [8h 5s Qc]
+*** TOURNANT *** [8h 5s Qc] [Ac]
+*** RIVIÈRE *** [8h 5s Qc Ac] [Kd]
+*** ABATTAGE ***
+psychoman59 : montre [Ad 5d] (double paire, As et Cinq)
+LeBenHK : montre [Ah 8d] (double paire, As et Huit)
+LeBenHK a remporté 1584  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1584 | Commission 0 
+Tableau [8h 5s Qc Ac Kd]
+Siège 1 : ruteky (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Ad 5d] et a perdu avec double paire, As et Cinq
+Siège 4 : LeBenHK (grosse blind) a montré [Ah 8d] et a gagné (1584) avec double paire, As et Huit
+
+
+

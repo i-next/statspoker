@@ -1,0 +1,431 @@
+﻿Main PokerStars n°237293490228 : Tournoi #3439923560, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 15:37:09 CET [11/07/2022 9:37:09 ET]
+Table '3439923560 1' 3-max Siège #1 est au bouton.
+Place 1: chivac123 (300 en jetons) 
+Place 2: Optorium (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Optorium : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 3s]
+chivac123 : suit. 20
+Optorium : relance. 40 à 60
+psychoman59 : passe. 
+chivac123 : suit. 40
+*** FLOP *** [Qh 2c 9c]
+Optorium : mise. 70
+chivac123 : passe. 
+Personne n'a suivi. (70) sont retournés à Optorium.
+Optorium a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [Qh 2c 9c]
+Siège 1 : chivac123 (bouton) s'est couché. sur le Flop
+Siège 2 : Optorium (petite blind) a remporté (140)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237293494431 : Tournoi #3439923560, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 15:37:28 CET [11/07/2022 9:37:28 ET]
+Table '3439923560 1' 3-max Siège #2 est au bouton.
+Place 1: chivac123 (240 en jetons) 
+Place 2: Optorium (380 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+chivac123 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 4s]
+Optorium : suit. 20
+psychoman59 : passe. 
+chivac123 : parole 
+*** FLOP *** [Kc 3d 2d]
+chivac123 : parole 
+Optorium : mise. 25
+chivac123 : suit. 25
+*** TOURNANT *** [Kc 3d 2d] [5h]
+chivac123 : parole 
+Optorium : mise. 50
+chivac123 : suit. 50
+*** RIVIÈRE *** [Kc 3d 2d 5h] [Ad]
+chivac123 : parole 
+Optorium : parole 
+*** ABATTAGE ***
+chivac123 : montre [Qd Qh] (une paire de Dames)
+Optorium : montre [2c 2h] (un brelan de Deux)
+Optorium a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Kc 3d 2d 5h Ad]
+Siège 1 : chivac123 (grosse blind) a montré [Qd Qh] et a perdu avec une paire de Dames
+Siège 2 : Optorium (bouton) a montré [2c 2h] et a gagné (200) avec un brelan de Deux
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237293501303 : Tournoi #3439923560, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 15:37:57 CET [11/07/2022 9:37:57 ET]
+Table '3439923560 1' 3-max Siège #3 est au bouton.
+Place 1: chivac123 (145 en jetons) 
+Place 2: Optorium (485 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+chivac123 : met la petite blind. 10
+Optorium : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 5c]
+psychoman59 : passe. 
+chivac123 : suit. 10
+Optorium : parole 
+*** FLOP *** [8d 6s 4s]
+chivac123 : parole 
+Optorium : mise. 40
+chivac123 : suit. 40
+*** TOURNANT *** [8d 6s 4s] [5h]
+chivac123 : parole 
+Optorium : parole 
+*** RIVIÈRE *** [8d 6s 4s 5h] [9h]
+chivac123 : parole 
+Optorium : parole 
+*** ABATTAGE ***
+chivac123 : montre [7c As] (une suite, Cinq à Neuf)
+Optorium : cache la main perdante. 
+chivac123 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8d 6s 4s 5h 9h]
+Siège 1 : chivac123 (petite blind) a montré [7c As] et a gagné (120) avec une suite, Cinq à Neuf
+Siège 2 : Optorium (grosse blind) a caché la main perdante. [5d 6c]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237293508831 : Tournoi #3439923560, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 15:38:31 CET [11/07/2022 9:38:31 ET]
+Table '3439923560 1' 3-max Siège #1 est au bouton.
+Place 1: chivac123 (205 en jetons) 
+Place 2: Optorium (425 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+Optorium : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 5h]
+chivac123 : suit. 30
+Optorium : relance. 395 à 425 et est all-in.
+psychoman59 : passe. 
+chivac123 : suit. 175 et est all-in.
+Personne n'a suivi. (220) sont retournés à Optorium.
+*** FLOP *** [Tc Qd 5c]
+*** TOURNANT *** [Tc Qd 5c] [4c]
+*** RIVIÈRE *** [Tc Qd 5c 4c] [6c]
+*** ABATTAGE ***
+Optorium : montre [Ad 8d] (Hauteur As)
+chivac123 : montre [6h Th] (double paire, Dix et Six)
+chivac123 a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [Tc Qd 5c 4c 6c]
+Siège 1 : chivac123 (bouton) a montré [6h Th] et a gagné (440) avec double paire, Dix et Six
+Siège 2 : Optorium (petite blind) a montré [Ad 8d] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237293512979 : Tournoi #3439923560, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 15:38:49 CET [11/07/2022 9:38:49 ET]
+Table '3439923560 1' 3-max Siège #2 est au bouton.
+Place 1: chivac123 (440 en jetons) 
+Place 2: Optorium (220 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+psychoman59 : met la petite blind. 15
+chivac123 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 3h]
+Optorium : relance. 190 à 220 et est all-in.
+psychoman59 : passe. 
+chivac123 : passe. 
+Personne n'a suivi. (190) sont retournés à Optorium.
+Optorium a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : chivac123 (grosse blind) s'est couché. avant Flop
+Siège 2 : Optorium (bouton) a remporté (75)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237293515602 : Tournoi #3439923560, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 15:39:01 CET [11/07/2022 9:39:01 ET]
+Table '3439923560 1' 3-max Siège #3 est au bouton.
+Place 1: chivac123 (410 en jetons) 
+Place 2: Optorium (265 en jetons) 
+Place 3: psychoman59 (225 en jetons) 
+chivac123 : met la petite blind. 15
+Optorium : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 7c]
+psychoman59 : relance. 195 à 225 et est all-in.
+chivac123 : passe. 
+Optorium : passe. 
+Personne n'a suivi. (195) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : chivac123 (petite blind) s'est couché. avant Flop
+Siège 2 : Optorium (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (75)
+
+
+
+Main PokerStars n°237293517342 : Tournoi #3439923560, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 15:39:08 CET [11/07/2022 9:39:08 ET]
+Table '3439923560 1' 3-max Siège #1 est au bouton.
+Place 1: chivac123 (395 en jetons) 
+Place 2: Optorium (235 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+Optorium : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 7c]
+chivac123 : suit. 30
+Optorium : passe. 
+psychoman59 : parole 
+*** FLOP *** [3c 6h 3d]
+psychoman59 : parole 
+chivac123 : parole 
+*** TOURNANT *** [3c 6h 3d] [Kd]
+psychoman59 : parole 
+chivac123 : parole 
+*** RIVIÈRE *** [3c 6h 3d Kd] [9h]
+psychoman59 : mise. 75
+chivac123 : suit. 75
+*** ABATTAGE ***
+psychoman59 : montre [Ks 7c] (double paire, Rois et Trois)
+chivac123 : cache la main perdante. 
+psychoman59 a remporté 225  lors du pot .
+*** SYNTHÈSE ***
+Pot total 225 | Commission 0 
+Tableau [3c 6h 3d Kd 9h]
+Siège 1 : chivac123 (bouton) a caché la main perdante. [Qc Td]
+Siège 2 : Optorium (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Ks 7c] et a gagné (225) avec double paire, Rois et Trois
+
+
+
+Main PokerStars n°237293523783 : Tournoi #3439923560, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 15:39:37 CET [11/07/2022 9:39:37 ET]
+Table '3439923560 1' 3-max Siège #2 est au bouton.
+Place 1: chivac123 (290 en jetons) 
+Place 2: Optorium (220 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+psychoman59 : met la petite blind. 20
+chivac123 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 7s]
+Optorium : passe. 
+psychoman59 : relance. 40 à 80
+chivac123 : suit. 40
+*** FLOP *** [6h 3h 5s]
+psychoman59 : parole 
+chivac123 : parole 
+*** TOURNANT *** [6h 3h 5s] [Th]
+psychoman59 : parole 
+chivac123 : parole 
+*** RIVIÈRE *** [6h 3h 5s Th] [7c]
+psychoman59 : parole 
+chivac123 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ac 7s] (une paire de Sept)
+chivac123 : cache la main perdante. 
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [6h 3h 5s Th 7c]
+Siège 1 : chivac123 (grosse blind) a caché la main perdante. [Kd Qc]
+Siège 2 : Optorium (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Ac 7s] et a gagné (160) avec une paire de Sept
+
+
+
+Main PokerStars n°237293527849 : Tournoi #3439923560, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 15:39:56 CET [11/07/2022 9:39:56 ET]
+Table '3439923560 1' 3-max Siège #3 est au bouton.
+Place 1: chivac123 (210 en jetons) 
+Place 2: Optorium (220 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+chivac123 : met la petite blind. 20
+Optorium : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Tc]
+psychoman59 : relance. 100 à 140
+chivac123 : suit. 120
+Optorium : passe. 
+*** FLOP *** [Ks Jh 9c]
+chivac123 : mise. 70 et est all-in.
+psychoman59 : suit. 70
+*** TOURNANT *** [Ks Jh 9c] [9h]
+*** RIVIÈRE *** [Ks Jh 9c 9h] [4d]
+*** ABATTAGE ***
+chivac123 : montre [Kd 2h] (double paire, Rois et Neuf)
+psychoman59 : montre [Ts Tc] (double paire, Dix et Neuf)
+chivac123 a remporté 460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [Ks Jh 9c 9h 4d]
+Siège 1 : chivac123 (petite blind) a montré [Kd 2h] et a gagné (460) avec double paire, Rois et Neuf
+Siège 2 : Optorium (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [Ts Tc] et a perdu avec double paire, Dix et Neuf
+
+
+
+Main PokerStars n°237293534705 : Tournoi #3439923560, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 15:40:21 CET [11/07/2022 9:40:21 ET]
+Table '3439923560 1' 3-max Siège #1 est au bouton.
+Place 1: chivac123 (460 en jetons) 
+Place 2: Optorium (180 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+Optorium : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 2d]
+chivac123 : suit. 60
+Optorium : relance. 120 à 180 et est all-in.
+psychoman59 : passe. 
+chivac123 : suit. 120
+*** FLOP *** [2c 9c 7d]
+*** TOURNANT *** [2c 9c 7d] [Qd]
+*** RIVIÈRE *** [2c 9c 7d Qd] [5s]
+*** ABATTAGE ***
+Optorium : montre [Kc 5d] (une paire de Cinq)
+chivac123 : montre [3h As] (Hauteur As)
+Optorium a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [2c 9c 7d Qd 5s]
+Siège 1 : chivac123 (bouton) a montré [3h As] et a perdu avec Hauteur As
+Siège 2 : Optorium (petite blind) a montré [Kc 5d] et a gagné (420) avec une paire de Cinq
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237293540131 : Tournoi #3439923560, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 15:40:45 CET [11/07/2022 9:40:45 ET]
+Table '3439923560 1' 3-max Siège #2 est au bouton.
+Place 1: chivac123 (280 en jetons) 
+Place 2: Optorium (420 en jetons) 
+Place 3: psychoman59 (200 en jetons) 
+psychoman59 : met la petite blind. 30
+chivac123 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Jc]
+Optorium : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à chivac123.
+chivac123 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : chivac123 (grosse blind) a remporté (60)
+Siège 2 : Optorium (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237293541382 : Tournoi #3439923560, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 15:40:51 CET [11/07/2022 9:40:51 ET]
+Table '3439923560 1' 3-max Siège #3 est au bouton.
+Place 1: chivac123 (310 en jetons) 
+Place 2: Optorium (420 en jetons) 
+Place 3: psychoman59 (170 en jetons) 
+chivac123 : met la petite blind. 30
+Optorium : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Jc]
+psychoman59 : passe. 
+chivac123 : suit. 30
+Optorium : relance. 360 à 420 et est all-in.
+chivac123 : suit. 250 et est all-in.
+Personne n'a suivi. (110) sont retournés à Optorium.
+*** FLOP *** [4c Tc Th]
+*** TOURNANT *** [4c Tc Th] [9h]
+*** RIVIÈRE *** [4c Tc Th 9h] [6d]
+*** ABATTAGE ***
+chivac123 : montre [Ts Kc] (un brelan de Dix)
+Optorium : montre [Qd Qh] (double paire, Dames et Dix)
+chivac123 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [4c Tc Th 9h 6d]
+Siège 1 : chivac123 (petite blind) a montré [Ts Kc] et a gagné (620) avec un brelan de Dix
+Siège 2 : Optorium (grosse blind) a montré [Qd Qh] et a perdu avec double paire, Dames et Dix
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237293545298 : Tournoi #3439923560, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 15:41:09 CET [11/07/2022 9:41:09 ET]
+Table '3439923560 1' 3-max Siège #1 est au bouton.
+Place 1: chivac123 (620 en jetons) 
+Place 2: Optorium (110 en jetons) 
+Place 3: psychoman59 (170 en jetons) 
+Optorium : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 6s]
+chivac123 : suit. 60
+Optorium : relance. 50 à 110 et est all-in.
+psychoman59 : passe. 
+chivac123 : suit. 50
+*** FLOP *** [9c Jd 6h]
+*** TOURNANT *** [9c Jd 6h] [8s]
+*** RIVIÈRE *** [9c Jd 6h 8s] [3h]
+*** ABATTAGE ***
+Optorium : montre [As Kh] (Hauteur As)
+chivac123 : montre [Qh 5c] (Hauteur Dame)
+Optorium a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [9c Jd 6h 8s 3h]
+Siège 1 : chivac123 (bouton) a montré [Qh 5c] et a perdu avec Hauteur Dame
+Siège 2 : Optorium (petite blind) a montré [As Kh] et a gagné (280) avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237293549618 : Tournoi #3439923560, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/07/2022 15:41:28 CET [11/07/2022 9:41:28 ET]
+Table '3439923560 1' 3-max Siège #2 est au bouton.
+Place 1: chivac123 (510 en jetons) 
+Place 2: Optorium (280 en jetons) 
+Place 3: psychoman59 (110 en jetons) 
+psychoman59 : met la petite blind. 40
+chivac123 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Tc]
+Optorium : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à chivac123.
+chivac123 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : chivac123 (grosse blind) a remporté (80)
+Siège 2 : Optorium (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237293551122 : Tournoi #3439923560, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/07/2022 15:41:35 CET [11/07/2022 9:41:35 ET]
+Table '3439923560 1' 3-max Siège #3 est au bouton.
+Place 1: chivac123 (550 en jetons) 
+Place 2: Optorium (280 en jetons) 
+Place 3: psychoman59 (70 en jetons) 
+chivac123 : met la petite blind. 40
+Optorium : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 4h]
+psychoman59 : suit. 70 et est all-in.
+chivac123 : suit. 40
+Optorium : relance. 200 à 280 et est all-in.
+chivac123 : passe. 
+Personne n'a suivi. (200) sont retournés à Optorium.
+*** FLOP *** [9d 2c Kc]
+*** TOURNANT *** [9d 2c Kc] [4c]
+*** RIVIÈRE *** [9d 2c Kc 4c] [Qh]
+*** ABATTAGE ***
+Optorium : montre [Qd Kh] (double paire, Rois et Dames)
+Optorium a remporté 20  parallèle lors du pot .
+psychoman59 : montre [Qs 4h] (double paire, Dames et Quatre)
+Optorium a remporté 210  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 230 Principal pot 210. Parallèle pot 20. | Commission 0 
+Tableau [9d 2c Kc 4c Qh]
+Siège 1 : chivac123 (petite blind) s'est couché. avant Flop
+Siège 2 : Optorium (grosse blind) a montré [Qd Kh] et a gagné (230) avec double paire, Rois et Dames
+Siège 3 : psychoman59 (bouton) a montré [Qs 4h] et a perdu avec double paire, Dames et Quatre
+
+
+

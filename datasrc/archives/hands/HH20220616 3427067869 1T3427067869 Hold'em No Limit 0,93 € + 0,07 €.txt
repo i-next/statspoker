@@ -1,0 +1,458 @@
+﻿Main PokerStars n°236792848388 : Tournoi #3427067869, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/06/2022 15:37:35 CET [16/06/2022 9:37:35 ET]
+Table '3427067869 1' 3-max Siège #1 est au bouton.
+Place 1: zebrou63 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: biloutes83 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+biloutes83 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 6h]
+zebrou63 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à biloutes83.
+biloutes83 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : zebrou63 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : biloutes83 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°236792850240 : Tournoi #3427067869, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/06/2022 15:37:43 CET [16/06/2022 9:37:43 ET]
+Table '3427067869 1' 3-max Siège #2 est au bouton.
+Place 1: zebrou63 (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: biloutes83 (310 en jetons) 
+biloutes83 : met la petite blind. 10
+zebrou63 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 6h]
+psychoman59 : passe. 
+biloutes83 : suit. 10
+zebrou63 : parole 
+*** FLOP *** [5s 5d 6d]
+biloutes83 : parole 
+zebrou63 : mise. 20
+biloutes83 : passe. 
+Personne n'a suivi. (20) sont retournés à zebrou63.
+zebrou63 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5s 5d 6d]
+Siège 1 : zebrou63 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : biloutes83 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°236792854932 : Tournoi #3427067869, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/06/2022 15:38:03 CET [16/06/2022 9:38:03 ET]
+Table '3427067869 1' 3-max Siège #3 est au bouton.
+Place 1: zebrou63 (320 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: biloutes83 (290 en jetons) 
+zebrou63 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 9c]
+biloutes83 : suit. 20
+zebrou63 : passe. 
+psychoman59 : parole 
+*** FLOP *** [7c 6c Kh]
+psychoman59 : parole 
+biloutes83 : parole 
+*** TOURNANT *** [7c 6c Kh] [Ks]
+psychoman59 : parole 
+biloutes83 : parole 
+*** RIVIÈRE *** [7c 6c Kh Ks] [3h]
+psychoman59 : parole 
+biloutes83 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Jc 9c] (une paire de Rois)
+biloutes83 : montre [Qh 4h] (une paire de Rois - Dame kicker)
+biloutes83 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [7c 6c Kh Ks 3h]
+Siège 1 : zebrou63 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [Jc 9c] et a perdu avec une paire de Rois
+Siège 3 : biloutes83 (bouton) a montré [Qh 4h] et a gagné (50) avec une paire de Rois
+
+
+
+Main PokerStars n°236792860932 : Tournoi #3427067869, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/06/2022 15:38:29 CET [16/06/2022 9:38:29 ET]
+Table '3427067869 1' 3-max Siège #1 est au bouton.
+Place 1: zebrou63 (310 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: biloutes83 (320 en jetons) 
+psychoman59 : met la petite blind. 10
+biloutes83 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Qs]
+zebrou63 : relance. 20 à 40
+psychoman59 : relance. 40 à 80
+biloutes83 : passe. 
+zebrou63 : suit. 40
+*** FLOP *** [3s 3c 9c]
+psychoman59 : mise. 80
+zebrou63 : suit. 80
+*** TOURNANT *** [3s 3c 9c] [6s]
+psychoman59 : mise. 110 et est all-in.
+zebrou63 : passe. 
+Personne n'a suivi. (110) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [3s 3c 9c 6s]
+Siège 1 : zebrou63 (bouton) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (petite blind) a remporté (340)
+Siège 3 : biloutes83 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236792868822 : Tournoi #3427067869, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/06/2022 15:39:04 CET [16/06/2022 9:39:04 ET]
+Table '3427067869 1' 3-max Siège #2 est au bouton.
+Place 1: zebrou63 (150 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+Place 3: biloutes83 (300 en jetons) 
+biloutes83 : met la petite blind. 15
+zebrou63 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 2h]
+psychoman59 : passe. 
+biloutes83 : passe. 
+Personne n'a suivi. (15) sont retournés à zebrou63.
+zebrou63 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : zebrou63 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : biloutes83 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236792871742 : Tournoi #3427067869, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/06/2022 15:39:17 CET [16/06/2022 9:39:17 ET]
+Table '3427067869 1' 3-max Siège #3 est au bouton.
+Place 1: zebrou63 (165 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+Place 3: biloutes83 (285 en jetons) 
+zebrou63 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ks]
+biloutes83 : passe. 
+zebrou63 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : zebrou63 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : biloutes83 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°236792873273 : Tournoi #3427067869, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/06/2022 15:39:23 CET [16/06/2022 9:39:23 ET]
+Table '3427067869 1' 3-max Siège #1 est au bouton.
+Place 1: zebrou63 (150 en jetons) 
+Place 2: psychoman59 (465 en jetons) 
+Place 3: biloutes83 (285 en jetons) 
+psychoman59 : met la petite blind. 15
+biloutes83 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 8h]
+zebrou63 : relance. 60 à 90
+psychoman59 : passe. 
+biloutes83 : suit. 60
+*** FLOP *** [7c 6h 3c]
+biloutes83 : mise. 60
+zebrou63 : suit. 60 et est all-in.
+*** TOURNANT *** [7c 6h 3c] [9s]
+*** RIVIÈRE *** [7c 6h 3c 9s] [4d]
+*** ABATTAGE ***
+biloutes83 : montre [6d Qd] (une paire de Six)
+zebrou63 : montre [Td 8c] (une suite, Six à Dix)
+zebrou63 a remporté 315  lors du pot .
+*** SYNTHÈSE ***
+Pot total 315 | Commission 0 
+Tableau [7c 6h 3c 9s 4d]
+Siège 1 : zebrou63 (bouton) a montré [Td 8c] et a gagné (315) avec une suite, Six à Dix
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : biloutes83 (grosse blind) a montré [6d Qd] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°236792878794 : Tournoi #3427067869, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/06/2022 15:39:47 CET [16/06/2022 9:39:47 ET]
+Table '3427067869 1' 3-max Siège #2 est au bouton.
+Place 1: zebrou63 (315 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+Place 3: biloutes83 (135 en jetons) 
+biloutes83 : met la petite blind. 20
+zebrou63 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 6d]
+psychoman59 : passe. 
+biloutes83 : relance. 95 à 135 et est all-in.
+zebrou63 : suit. 95
+*** FLOP *** [6c 8d 8h]
+*** TOURNANT *** [6c 8d 8h] [3d]
+*** RIVIÈRE *** [6c 8d 8h 3d] [Js]
+*** ABATTAGE ***
+biloutes83 : montre [Ks 8c] (un brelan de Huit)
+zebrou63 : montre [Ts Jc] (double paire, Valets et Huit)
+biloutes83 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [6c 8d 8h 3d Js]
+Siège 1 : zebrou63 (grosse blind) a montré [Ts Jc] et a perdu avec double paire, Valets et Huit
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : biloutes83 (petite blind) a montré [Ks 8c] et a gagné (270) avec un brelan de Huit
+
+
+
+Main PokerStars n°236792883572 : Tournoi #3427067869, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/06/2022 15:40:08 CET [16/06/2022 9:40:08 ET]
+Table '3427067869 1' 3-max Siège #3 est au bouton.
+Place 1: zebrou63 (180 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+Place 3: biloutes83 (270 en jetons) 
+zebrou63 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 8c]
+biloutes83 : suit. 40
+zebrou63 : passe. 
+psychoman59 : parole 
+*** FLOP *** [9d Ah 7c]
+psychoman59 : parole 
+biloutes83 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à biloutes83.
+biloutes83 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [9d Ah 7c]
+Siège 1 : zebrou63 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : biloutes83 (bouton) a remporté (100)
+
+
+
+Main PokerStars n°236792887994 : Tournoi #3427067869, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/06/2022 15:40:27 CET [16/06/2022 9:40:27 ET]
+Table '3427067869 1' 3-max Siège #1 est au bouton.
+Place 1: zebrou63 (160 en jetons) 
+Place 2: psychoman59 (410 en jetons) 
+Place 3: biloutes83 (330 en jetons) 
+psychoman59 : met la petite blind. 20
+biloutes83 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 9s]
+zebrou63 : relance. 40 à 80
+psychoman59 : passe. 
+biloutes83 : passe. 
+Personne n'a suivi. (40) sont retournés à zebrou63.
+zebrou63 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : zebrou63 (bouton) a remporté (100)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : biloutes83 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236792890679 : Tournoi #3427067869, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/06/2022 15:40:39 CET [16/06/2022 9:40:39 ET]
+Table '3427067869 1' 3-max Siège #2 est au bouton.
+Place 1: zebrou63 (220 en jetons) 
+Place 2: psychoman59 (390 en jetons) 
+Place 3: biloutes83 (290 en jetons) 
+biloutes83 : met la petite blind. 30
+zebrou63 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 6h]
+psychoman59 : passe. 
+biloutes83 : passe. 
+Personne n'a suivi. (30) sont retournés à zebrou63.
+zebrou63 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : zebrou63 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : biloutes83 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236792892124 : Tournoi #3427067869, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/06/2022 15:40:46 CET [16/06/2022 9:40:46 ET]
+Table '3427067869 1' 3-max Siège #3 est au bouton.
+Place 1: zebrou63 (250 en jetons) 
+Place 2: psychoman59 (390 en jetons) 
+Place 3: biloutes83 (260 en jetons) 
+zebrou63 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 6c]
+biloutes83 : passe. 
+zebrou63 : relance. 120 à 180
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à zebrou63.
+zebrou63 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : zebrou63 (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : biloutes83 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°236792896852 : Tournoi #3427067869, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/06/2022 15:41:06 CET [16/06/2022 9:41:06 ET]
+Table '3427067869 1' 3-max Siège #1 est au bouton.
+Place 1: zebrou63 (310 en jetons) 
+Place 2: psychoman59 (330 en jetons) 
+Place 3: biloutes83 (260 en jetons) 
+psychoman59 : met la petite blind. 30
+biloutes83 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 6h]
+zebrou63 : relance. 150 à 210
+psychoman59 : passe. 
+biloutes83 : passe. 
+Personne n'a suivi. (150) sont retournés à zebrou63.
+zebrou63 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : zebrou63 (bouton) a remporté (150)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : biloutes83 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236792899949 : Tournoi #3427067869, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/06/2022 15:41:20 CET [16/06/2022 9:41:20 ET]
+Table '3427067869 1' 3-max Siège #2 est au bouton.
+Place 1: zebrou63 (400 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: biloutes83 (200 en jetons) 
+biloutes83 : met la petite blind. 30
+zebrou63 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Ts]
+psychoman59 : passe. 
+biloutes83 : passe. 
+Personne n'a suivi. (30) sont retournés à zebrou63.
+zebrou63 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : zebrou63 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : biloutes83 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236792901214 : Tournoi #3427067869, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/06/2022 15:41:25 CET [16/06/2022 9:41:25 ET]
+Table '3427067869 1' 3-max Siège #3 est au bouton.
+Place 1: zebrou63 (430 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: biloutes83 (170 en jetons) 
+zebrou63 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 5d]
+biloutes83 : passe. 
+zebrou63 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : zebrou63 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : biloutes83 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°236792902510 : Tournoi #3427067869, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/06/2022 15:41:31 CET [16/06/2022 9:41:31 ET]
+Table '3427067869 1' 3-max Siège #1 est au bouton.
+Place 1: zebrou63 (400 en jetons) 
+Place 2: psychoman59 (330 en jetons) 
+Place 3: biloutes83 (170 en jetons) 
+psychoman59 : met la petite blind. 30
+biloutes83 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 9s]
+zebrou63 : suit. 60
+psychoman59 : passe. 
+biloutes83 : relance. 110 à 170 et est all-in.
+zebrou63 : suit. 110
+*** FLOP *** [8c 4h Qs]
+*** TOURNANT *** [8c 4h Qs] [Tc]
+*** RIVIÈRE *** [8c 4h Qs Tc] [Kh]
+*** ABATTAGE ***
+biloutes83 : montre [Ad Ks] (une paire de Rois)
+zebrou63 : montre [Kc 4d] (double paire, Rois et Quatre)
+zebrou63 a remporté 370  lors du pot .
+*** SYNTHÈSE ***
+Pot total 370 | Commission 0 
+Tableau [8c 4h Qs Tc Kh]
+Siège 1 : zebrou63 (bouton) a montré [Kc 4d] et a gagné (370) avec double paire, Rois et Quatre
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : biloutes83 (grosse blind) a montré [Ad Ks] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°236792906990 : Tournoi #3427067869, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 16/06/2022 15:41:51 CET [16/06/2022 9:41:51 ET]
+Table '3427067869 1' 3-max Siège #2 est au bouton.
+Place 1: zebrou63 (600 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+psychoman59 : met la petite blind. 40
+zebrou63 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Qd]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à zebrou63.
+zebrou63 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : zebrou63 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236792908588 : Tournoi #3427067869, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 16/06/2022 15:41:58 CET [16/06/2022 9:41:58 ET]
+Table '3427067869 1' 3-max Siège #1 est au bouton.
+Place 1: zebrou63 (640 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+zebrou63 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 9h]
+zebrou63 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : zebrou63 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°236792909624 : Tournoi #3427067869, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 16/06/2022 15:42:02 CET [16/06/2022 9:42:02 ET]
+Table '3427067869 1' 3-max Siège #2 est au bouton.
+Place 1: zebrou63 (600 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+psychoman59 : met la petite blind. 40
+zebrou63 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 6s]
+psychoman59 : relance. 220 à 300 et est all-in.
+zebrou63 : suit. 220
+*** FLOP *** [7d 5h 8d]
+*** TOURNANT *** [7d 5h 8d] [8h]
+*** RIVIÈRE *** [7d 5h 8d 8h] [8c]
+*** ABATTAGE ***
+zebrou63 : montre [Ac Qd] (un brelan de Huit)
+psychoman59 : montre [Ks 6s] (un brelan de Huit - plus basse kicker)
+zebrou63 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [7d 5h 8d 8h 8c]
+Siège 1 : zebrou63 (grosse blind) a montré [Ac Qd] et a gagné (600) avec un brelan de Huit
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ks 6s] et a perdu avec un brelan de Huit
+
+
+

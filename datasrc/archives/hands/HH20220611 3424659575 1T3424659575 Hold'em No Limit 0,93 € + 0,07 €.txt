@@ -1,0 +1,305 @@
+﻿Main PokerStars n°236690980154 : Tournoi #3424659575, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2022 8:23:06 CET [11/06/2022 2:23:06 ET]
+Table '3424659575 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: jaenmouloude (300 en jetons) 
+Place 3: darksidi (300 en jetons) 
+jaenmouloude : met la petite blind. 10
+darksidi : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 7d]
+psychoman59 : passe. 
+jaenmouloude : passe. 
+Personne n'a suivi. (10) sont retournés à darksidi.
+darksidi a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jaenmouloude (petite blind) s'est couché. avant Flop
+Siège 3 : darksidi (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°236690981083 : Tournoi #3424659575, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2022 8:23:14 CET [11/06/2022 2:23:14 ET]
+Table '3424659575 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: jaenmouloude (290 en jetons) 
+Place 3: darksidi (310 en jetons) 
+darksidi : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Kc]
+jaenmouloude : suit. 20
+darksidi : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7d Tc 2c]
+darksidi : parole 
+psychoman59 : parole 
+jaenmouloude : mise. 60
+darksidi : suit. 60
+psychoman59 : passe. 
+*** TOURNANT *** [7d Tc 2c] [6c]
+darksidi : parole 
+jaenmouloude : parole 
+*** RIVIÈRE *** [7d Tc 2c 6c] [3c]
+darksidi : mise. 40
+jaenmouloude : passe. 
+Personne n'a suivi. (40) sont retournés à darksidi.
+darksidi a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [7d Tc 2c 6c 3c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : jaenmouloude (bouton) s'est couché. sur le Rivière
+Siège 3 : darksidi (petite blind) a remporté (180)
+
+
+
+Main PokerStars n°236690987828 : Tournoi #3424659575, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/06/2022 8:24:15 CET [11/06/2022 2:24:15 ET]
+Table '3424659575 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: jaenmouloude (210 en jetons) 
+Place 3: darksidi (410 en jetons) 
+psychoman59 : met la petite blind. 15
+jaenmouloude : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Qd]
+darksidi : suit. 30
+psychoman59 : passe. 
+jaenmouloude : relance. 180 à 210 et est all-in.
+darksidi : passe. 
+Personne n'a suivi. (180) sont retournés à jaenmouloude.
+jaenmouloude a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : jaenmouloude (grosse blind) a remporté (75)
+Siège 3 : darksidi (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236690989841 : Tournoi #3424659575, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/06/2022 8:24:31 CET [11/06/2022 2:24:31 ET]
+Table '3424659575 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (265 en jetons) 
+Place 2: jaenmouloude (255 en jetons) 
+Place 3: darksidi (380 en jetons) 
+jaenmouloude : met la petite blind. 15
+darksidi : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Ac]
+psychoman59 : relance. 60 à 90
+jaenmouloude : relance. 165 à 255 et est all-in.
+darksidi : passe. 
+psychoman59 : suit. 165
+*** FLOP *** [8c 7s 8d]
+*** TOURNANT *** [8c 7s 8d] [2s]
+*** RIVIÈRE *** [8c 7s 8d 2s] [9h]
+*** ABATTAGE ***
+jaenmouloude : montre [4c 4s] (double paire, Huit et Quatre)
+psychoman59 : montre [Ah Ac] (double paire, As et Huit)
+psychoman59 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [8c 7s 8d 2s 9h]
+Siège 1 : psychoman59 (bouton) a montré [Ah Ac] et a gagné (540) avec double paire, As et Huit
+Siège 2 : jaenmouloude (petite blind) a montré [4c 4s] et a perdu avec double paire, Huit et Quatre
+Siège 3 : darksidi (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236690994002 : Tournoi #3424659575, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/06/2022 8:25:06 CET [11/06/2022 2:25:06 ET]
+Table '3424659575 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (550 en jetons) 
+Place 3: darksidi (350 en jetons) 
+darksidi : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 7c]
+darksidi : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6d 7h Qd]
+psychoman59 : parole 
+darksidi : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [6d 7h Qd] [Ks]
+psychoman59 : parole 
+darksidi : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [6d 7h Qd Ks] [2s]
+psychoman59 : parole 
+darksidi : mise. 30
+psychoman59 : suit. 30
+*** ABATTAGE ***
+darksidi : montre [8h 8c] (une paire de Huit)
+psychoman59 : cache la main perdante. 
+darksidi a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6d 7h Qd Ks 2s]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [4h 7c]
+Siège 3 : darksidi (bouton) (petite blind) a montré [8h 8c] et a gagné (240) avec une paire de Huit
+
+
+
+Main PokerStars n°236690997111 : Tournoi #3424659575, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/06/2022 8:25:33 CET [11/06/2022 2:25:33 ET]
+Table '3424659575 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 3: darksidi (470 en jetons) 
+psychoman59 : met la petite blind. 20
+darksidi : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Ah]
+psychoman59 : relance. 390 à 430 et est all-in.
+darksidi : passe. 
+Personne n'a suivi. (390) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : darksidi (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236690998010 : Tournoi #3424659575, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/06/2022 8:25:40 CET [11/06/2022 2:25:40 ET]
+Table '3424659575 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (470 en jetons) 
+Place 3: darksidi (430 en jetons) 
+darksidi : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 9h]
+darksidi : suit. 20
+psychoman59 : parole 
+*** FLOP *** [2s Kh 3d]
+psychoman59 : parole 
+darksidi : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à darksidi.
+darksidi a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2s Kh 3d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : darksidi (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°236691000251 : Tournoi #3424659575, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/06/2022 8:25:59 CET [11/06/2022 2:25:59 ET]
+Table '3424659575 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 3: darksidi (470 en jetons) 
+psychoman59 : met la petite blind. 20
+darksidi : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à darksidi.
+darksidi a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : darksidi (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°236691000714 : Tournoi #3424659575, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/06/2022 8:26:03 CET [11/06/2022 2:26:03 ET]
+Table '3424659575 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (410 en jetons) 
+Place 3: darksidi (490 en jetons) 
+darksidi : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Th]
+darksidi : suit. 20
+psychoman59 : relance. 370 à 410 et est all-in.
+darksidi : passe. 
+Personne n'a suivi. (370) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : darksidi (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236691002567 : Tournoi #3424659575, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/06/2022 8:26:18 CET [11/06/2022 2:26:18 ET]
+Table '3424659575 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 3: darksidi (450 en jetons) 
+psychoman59 : met la petite blind. 30
+darksidi : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à darksidi.
+darksidi a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : darksidi (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°236691003207 : Tournoi #3424659575, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/06/2022 8:26:24 CET [11/06/2022 2:26:24 ET]
+Table '3424659575 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 3: darksidi (480 en jetons) 
+darksidi : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Ks]
+darksidi : suit. 30
+psychoman59 : relance. 360 à 420 et est all-in.
+darksidi : passe. 
+Personne n'a suivi. (360) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : darksidi (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236691005018 : Tournoi #3424659575, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/06/2022 8:26:40 CET [11/06/2022 2:26:40 ET]
+Table '3424659575 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 3: darksidi (420 en jetons) 
+psychoman59 : met la petite blind. 30
+darksidi : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Qc]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à darksidi.
+darksidi a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : darksidi (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°236691006246 : Tournoi #3424659575, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/06/2022 8:26:50 CET [11/06/2022 2:26:50 ET]
+Table '3424659575 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 3: darksidi (450 en jetons) 
+darksidi : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ah]
+darksidi : suit. 30
+psychoman59 : relance. 390 à 450 et est all-in.
+darksidi : suit. 390 et est all-in.
+*** FLOP *** [6h 2h 2c]
+*** TOURNANT *** [6h 2h 2c] [Kd]
+*** RIVIÈRE *** [6h 2h 2c Kd] [4c]
+*** ABATTAGE ***
+psychoman59 : montre [7d Ah] (une paire de Deux)
+darksidi : montre [9c 8c] (une paire de Deux - plus basse kicker)
+psychoman59 a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [6h 2h 2c Kd 4c]
+Siège 1 : psychoman59 (grosse blind) a montré [7d Ah] et a gagné (900) avec une paire de Deux
+Siège 3 : darksidi (bouton) (petite blind) a montré [9c 8c] et a perdu avec une paire de Deux
+
+
+

@@ -1,0 +1,306 @@
+﻿Main PokerStars n°237451174776 : Tournoi #3443603654, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 10:54:45 CET [19/07/2022 4:54:45 ET]
+Table '3443603654 1' 3-max Siège #1 est au bouton.
+Place 1: OMG_PIPO (300 en jetons) 
+Place 2: Bonomou (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Bonomou : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ad]
+OMG_PIPO : passe. 
+Bonomou : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : OMG_PIPO (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Bonomou (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237451175471 : Tournoi #3443603654, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 10:54:51 CET [19/07/2022 4:54:51 ET]
+Table '3443603654 1' 3-max Siège #2 est au bouton.
+Place 1: OMG_PIPO (300 en jetons) 
+Place 2: Bonomou (290 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 10
+OMG_PIPO : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 6c]
+Bonomou : passe. 
+psychoman59 : suit. 10
+OMG_PIPO : parole 
+*** FLOP *** [Td 4d Ad]
+psychoman59 : parole 
+OMG_PIPO : parole 
+*** TOURNANT *** [Td 4d Ad] [Qd]
+psychoman59 : parole 
+OMG_PIPO : parole 
+*** RIVIÈRE *** [Td 4d Ad Qd] [3s]
+psychoman59 : parole 
+OMG_PIPO : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Jc 6c] (Hauteur As)
+OMG_PIPO : montre [4s Js] (une paire de Quatre)
+OMG_PIPO a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Td 4d Ad Qd 3s]
+Siège 1 : OMG_PIPO (grosse blind) a montré [4s Js] et a gagné (40) avec une paire de Quatre
+Siège 2 : Bonomou (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Jc 6c] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237451179591 : Tournoi #3443603654, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 10:55:23 CET [19/07/2022 4:55:23 ET]
+Table '3443603654 1' 3-max Siège #3 est au bouton.
+Place 1: OMG_PIPO (320 en jetons) 
+Place 2: Bonomou (290 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+OMG_PIPO : met la petite blind. 10
+Bonomou : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 8h]
+psychoman59 : passe. 
+OMG_PIPO : relance. 300 à 320 et est all-in.
+Bonomou : suit. 270 et est all-in.
+Personne n'a suivi. (30) sont retournés à OMG_PIPO.
+*** FLOP *** [3d 9c 8d]
+*** TOURNANT *** [3d 9c 8d] [3h]
+*** RIVIÈRE *** [3d 9c 8d 3h] [2d]
+*** ABATTAGE ***
+OMG_PIPO : montre [Js Qc] (une paire de Trois)
+Bonomou : montre [7d 7h] (double paire, Sept et Trois)
+Bonomou a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [3d 9c 8d 3h 2d]
+Siège 1 : OMG_PIPO (petite blind) a montré [Js Qc] et a perdu avec une paire de Trois
+Siège 2 : Bonomou (grosse blind) a montré [7d 7h] et a gagné (580) avec double paire, Sept et Trois
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237451181626 : Tournoi #3443603654, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 10:55:40 CET [19/07/2022 4:55:40 ET]
+Table '3443603654 1' 3-max Siège #1 est au bouton.
+Place 1: OMG_PIPO (30 en jetons) 
+Place 2: Bonomou (580 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+Bonomou : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 5d]
+OMG_PIPO : relance. 10 à 30 et est all-in.
+Bonomou : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à OMG_PIPO.
+OMG_PIPO a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : OMG_PIPO (bouton) a remporté (50)
+Siège 2 : Bonomou (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237451183504 : Tournoi #3443603654, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 10:55:56 CET [19/07/2022 4:55:56 ET]
+Table '3443603654 1' 3-max Siège #2 est au bouton.
+Place 1: OMG_PIPO (60 en jetons) 
+Place 2: Bonomou (570 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+psychoman59 : met la petite blind. 15
+OMG_PIPO : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 5s]
+Bonomou : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à OMG_PIPO.
+OMG_PIPO a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : OMG_PIPO (grosse blind) a remporté (30)
+Siège 2 : Bonomou (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237451184296 : Tournoi #3443603654, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 10:56:03 CET [19/07/2022 4:56:03 ET]
+Table '3443603654 1' 3-max Siège #3 est au bouton.
+Place 1: OMG_PIPO (75 en jetons) 
+Place 2: Bonomou (570 en jetons) 
+Place 3: psychoman59 (255 en jetons) 
+OMG_PIPO : met la petite blind. 15
+Bonomou : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ac]
+psychoman59 : relance. 75 à 105
+OMG_PIPO : suit. 60 et est all-in.
+Bonomou : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+*** FLOP *** [Kd Ad Ks]
+*** TOURNANT *** [Kd Ad Ks] [As]
+*** RIVIÈRE *** [Kd Ad Ks As] [8s]
+*** ABATTAGE ***
+OMG_PIPO : montre [Qh Kh] (un full, full aux Rois par les As)
+psychoman59 : montre [9s Ac] (un full, full aux As par les Rois)
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Kd Ad Ks As 8s]
+Siège 1 : OMG_PIPO (petite blind) a montré [Qh Kh] et a perdu avec un full, full aux Rois par les As
+Siège 2 : Bonomou (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [9s Ac] et a gagné (180) avec un full, full aux As par les Rois
+
+
+
+Main PokerStars n°237451186726 : Tournoi #3443603654, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 10:56:23 CET [19/07/2022 4:56:23 ET]
+Table '3443603654 1' 3-max Siège #2 est au bouton.
+Place 2: Bonomou (540 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+Bonomou : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Ad]
+Bonomou : suit. 15
+psychoman59 : relance. 330 à 360 et est all-in.
+Bonomou : passe. 
+Personne n'a suivi. (330) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : Bonomou (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237451188377 : Tournoi #3443603654, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 10:56:36 CET [19/07/2022 4:56:36 ET]
+Table '3443603654 1' 3-max Siège #3 est au bouton.
+Place 2: Bonomou (510 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+psychoman59 : met la petite blind. 15
+Bonomou : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 9s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Bonomou.
+Bonomou a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : Bonomou (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237451189170 : Tournoi #3443603654, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 10:56:43 CET [19/07/2022 4:56:43 ET]
+Table '3443603654 1' 3-max Siège #2 est au bouton.
+Place 2: Bonomou (525 en jetons) 
+Place 3: psychoman59 (375 en jetons) 
+Bonomou : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 6d]
+Bonomou : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Js Kh 3d]
+psychoman59 : parole 
+Bonomou : parole 
+*** TOURNANT *** [Js Kh 3d] [2d]
+psychoman59 : parole 
+Bonomou : parole 
+*** RIVIÈRE *** [Js Kh 3d 2d] [Kc]
+psychoman59 : parole 
+Bonomou : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4h 6d] (une paire de Rois)
+Bonomou : montre [Th 3h] (double paire, Rois et Trois)
+Bonomou a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Js Kh 3d 2d Kc]
+Siège 2 : Bonomou (bouton) (petite blind) a montré [Th 3h] et a gagné (60) avec double paire, Rois et Trois
+Siège 3 : psychoman59 (grosse blind) a montré [4h 6d] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°237451193801 : Tournoi #3443603654, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 10:57:21 CET [19/07/2022 4:57:21 ET]
+Table '3443603654 1' 3-max Siège #3 est au bouton.
+Place 2: Bonomou (555 en jetons) 
+Place 3: psychoman59 (345 en jetons) 
+psychoman59 : met la petite blind. 20
+Bonomou : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 3d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Bonomou.
+Bonomou a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : Bonomou (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237451194395 : Tournoi #3443603654, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 10:57:26 CET [19/07/2022 4:57:26 ET]
+Table '3443603654 1' 3-max Siège #2 est au bouton.
+Place 2: Bonomou (575 en jetons) 
+Place 3: psychoman59 (325 en jetons) 
+Bonomou : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 5s]
+Bonomou : relance. 535 à 575 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (535) sont retournés à Bonomou.
+Bonomou a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : Bonomou (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237451195042 : Tournoi #3443603654, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 10:57:31 CET [19/07/2022 4:57:31 ET]
+Table '3443603654 1' 3-max Siège #3 est au bouton.
+Place 2: Bonomou (615 en jetons) 
+Place 3: psychoman59 (285 en jetons) 
+psychoman59 : met la petite blind. 20
+Bonomou : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Jc]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Bonomou.
+Bonomou a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : Bonomou (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237451195577 : Tournoi #3443603654, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 10:57:36 CET [19/07/2022 4:57:36 ET]
+Table '3443603654 1' 3-max Siège #2 est au bouton.
+Place 2: Bonomou (635 en jetons) 
+Place 3: psychoman59 (265 en jetons) 
+Bonomou : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 3d]
+Bonomou : relance. 595 à 635 et est all-in.
+psychoman59 : suit. 225 et est all-in.
+Personne n'a suivi. (370) sont retournés à Bonomou.
+*** FLOP *** [Ad Js 7s]
+*** TOURNANT *** [Ad Js 7s] [Ac]
+*** RIVIÈRE *** [Ad Js 7s Ac] [3s]
+*** ABATTAGE ***
+psychoman59 : montre [Qc 3d] (double paire, As et Trois)
+Bonomou : montre [8d 7d] (double paire, As et Sept)
+Bonomou a remporté 530  lors du pot .
+*** SYNTHÈSE ***
+Pot total 530 | Commission 0 
+Tableau [Ad Js 7s Ac 3s]
+Siège 2 : Bonomou (bouton) (petite blind) a montré [8d 7d] et a gagné (530) avec double paire, As et Sept
+Siège 3 : psychoman59 (grosse blind) a montré [Qc 3d] et a perdu avec double paire, As et Trois
+
+
+

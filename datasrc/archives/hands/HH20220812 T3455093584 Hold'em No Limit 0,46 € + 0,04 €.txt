@@ -1,0 +1,298 @@
+﻿Main PokerStars n°237940632222 : Tournoi #3455093584, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 10:54:12 CET [12/08/2022 4:54:12 ET]
+Table '3455093584 1' 4-max Siège #1 est au bouton.
+Place 1: albertopdc (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: Lingotdor63 (5000 en jetons) 
+Place 4: bernis54 (5000 en jetons) 
+albertopdc : met l'ante. 10
+psychoman59 : met l'ante. 10
+Lingotdor63 : met l'ante. 10
+bernis54 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+Lingotdor63 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Ts]
+bernis54 : suit. 100
+albertopdc : passe. 
+psychoman59 : suit. 50
+Lingotdor63 : relance. 200 à 300
+bernis54 : suit. 200
+psychoman59 : suit. 200
+*** FLOP *** [3d 9h Td]
+psychoman59 : parole 
+Lingotdor63 : mise. 470
+bernis54 : suit. 470
+psychoman59 : passe. 
+*** TOURNANT *** [3d 9h Td] [3c]
+Lingotdor63 : parole 
+bernis54 : mise. 700
+Lingotdor63 : suit. 700
+*** RIVIÈRE *** [3d 9h Td 3c] [Tc]
+Lingotdor63 : mise. 3520 et est all-in.
+bernis54 : passe. 
+Personne n'a suivi. (3520) sont retournés à Lingotdor63.
+Lingotdor63 a remporté 3280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3280 | Commission 0 
+Tableau [3d 9h Td 3c Tc]
+Siège 1 : albertopdc (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : Lingotdor63 (grosse blind) a remporté (3280)
+Siège 4 : bernis54 s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237940643729 : Tournoi #3455093584, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 10:55:40 CET [12/08/2022 4:55:40 ET]
+Table '3455093584 1' 4-max Siège #2 est au bouton.
+Place 1: albertopdc (4990 en jetons) 
+Place 2: psychoman59 (4690 en jetons) 
+Place 3: Lingotdor63 (6800 en jetons) 
+Place 4: bernis54 (3520 en jetons) 
+albertopdc : met l'ante. 10
+psychoman59 : met l'ante. 10
+Lingotdor63 : met l'ante. 10
+bernis54 : met l'ante. 10
+Lingotdor63 : met la petite blind. 50
+bernis54 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 2s]
+albertopdc : relance. 100 à 200
+psychoman59 : passe. 
+Lingotdor63 : relance. 100 à 300
+bernis54 : suit. 200
+albertopdc : suit. 100
+*** FLOP *** [Qc 2h As]
+Lingotdor63 : mise. 470
+bernis54 : passe. 
+albertopdc : suit. 470
+*** TOURNANT *** [Qc 2h As] [Kc]
+Lingotdor63 : mise. 940
+albertopdc : suit. 940
+*** RIVIÈRE *** [Qc 2h As Kc] [9d]
+Lingotdor63 : parole 
+albertopdc : mise. 1880
+Lingotdor63 : suit. 1880
+*** ABATTAGE ***
+albertopdc : montre [Ad 4c] (une paire de As)
+Lingotdor63 : cache la main perdante. 
+albertopdc a remporté 7520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 7520 | Commission 0 
+Tableau [Qc 2h As Kc 9d]
+Siège 1 : albertopdc a montré [Ad 4c] et a gagné (7520) avec une paire de As
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Lingotdor63 (petite blind) a caché la main perdante. [7c Qs]
+Siège 4 : bernis54 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237940652148 : Tournoi #3455093584, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 10:56:49 CET [12/08/2022 4:56:49 ET]
+Table '3455093584 1' 4-max Siège #3 est au bouton.
+Place 1: albertopdc (8910 en jetons) 
+Place 2: psychoman59 (4680 en jetons) 
+Place 3: Lingotdor63 (3200 en jetons) 
+Place 4: bernis54 (3210 en jetons) 
+albertopdc : met l'ante. 10
+psychoman59 : met l'ante. 10
+Lingotdor63 : met l'ante. 10
+bernis54 : met l'ante. 10
+bernis54 : met la petite blind. 50
+albertopdc : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Kc]
+psychoman59 : suit. 100
+Lingotdor63 : relance. 200 à 300
+bernis54 : relance. 2900 à 3200 et est all-in.
+albertopdc : passe. 
+psychoman59 : passe. 
+Lingotdor63 : suit. 2890 et est all-in.
+Personne n'a suivi. (10) sont retournés à bernis54.
+*** FLOP *** [3h 2c 4s]
+*** TOURNANT *** [3h 2c 4s] [5h]
+*** RIVIÈRE *** [3h 2c 4s 5h] [4h]
+*** ABATTAGE ***
+bernis54 : montre [Qc Jh] (une paire de Quatre)
+Lingotdor63 : montre [Qh 9h] (une couleur, hauteur Dame)
+Lingotdor63 a remporté 6620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 6620 | Commission 0 
+Tableau [3h 2c 4s 5h 4h]
+Siège 1 : albertopdc (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 s'est couché. avant Flop
+Siège 3 : Lingotdor63 (bouton) a montré [Qh 9h] et a gagné (6620) avec une couleur, hauteur Dame
+Siège 4 : bernis54 (petite blind) a montré [Qc Jh] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°237940656982 : Tournoi #3455093584, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 10:57:29 CET [12/08/2022 4:57:29 ET]
+Table '3455093584 1' 4-max Siège #4 est au bouton.
+Place 1: albertopdc (8800 en jetons) 
+Place 2: psychoman59 (4570 en jetons) 
+Place 3: Lingotdor63 (6620 en jetons) 
+Place 4: bernis54 (10 en jetons) 
+albertopdc : met l'ante. 15
+psychoman59 : met l'ante. 15
+Lingotdor63 : met l'ante. 15
+bernis54 : met l'ante. 10 et est all-in.
+albertopdc : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 8c]
+Lingotdor63 : relance. 120 à 240
+albertopdc : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à Lingotdor63.
+*** FLOP *** [Qh Qs Ks]
+*** TOURNANT *** [Qh Qs Ks] [Ad]
+*** RIVIÈRE *** [Qh Qs Ks Ad] [Th]
+*** ABATTAGE ***
+Lingotdor63 : montre [4d 5s] (une paire de Dames)
+Lingotdor63 a remporté 315  parallèle lors du pot .
+bernis54 : montre [Ah 3s] (double paire, As et Dames)
+bernis54 a remporté 40  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 355 Principal pot 40. Parallèle pot 315. | Commission 0 
+Tableau [Qh Qs Ks Ad Th]
+Siège 1 : albertopdc (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Lingotdor63 a montré [4d 5s] et a gagné (315) avec une paire de Dames
+Siège 4 : bernis54 (bouton) a montré [Ah 3s] et a gagné (40) avec double paire, As et Dames
+
+
+
+Main PokerStars n°237940660048 : Tournoi #3455093584, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 10:57:55 CET [12/08/2022 4:57:55 ET]
+Table '3455093584 1' 4-max Siège #1 est au bouton.
+Place 1: albertopdc (8725 en jetons) 
+Place 2: psychoman59 (4435 en jetons) 
+Place 3: Lingotdor63 (6800 en jetons) 
+Place 4: bernis54 (40 en jetons) 
+albertopdc : met l'ante. 15
+psychoman59 : met l'ante. 15
+Lingotdor63 : met l'ante. 15
+bernis54 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+Lingotdor63 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 8c]
+bernis54 : suit. 25 et est all-in.
+albertopdc : suit. 120
+psychoman59 : suit. 60
+Lingotdor63 : relance. 240 à 360
+albertopdc : suit. 240
+psychoman59 : passe. 
+*** FLOP *** [9s 6s 2h]
+Lingotdor63 : parole 
+albertopdc : parole 
+*** TOURNANT *** [9s 6s 2h] [8s]
+Lingotdor63 : mise. 462
+albertopdc : relance. 462 à 924
+Lingotdor63 : suit. 462
+*** RIVIÈRE *** [9s 6s 2h 8s] [6c]
+Lingotdor63 : parole 
+albertopdc : mise. 1386
+Lingotdor63 : suit. 1386
+*** ABATTAGE ***
+albertopdc : montre [8h 9c] (double paire, Neuf et Huit)
+Lingotdor63 : cache la main perdante. 
+albertopdc a remporté 5385  parallèle lors du pot .
+bernis54 : cache la main perdante. 
+albertopdc a remporté 160  principal lors du pot .
+bernis54 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 5545 Principal pot 160. Parallèle pot 5385. | Commission 0 
+Tableau [9s 6s 2h 8s 6c]
+Siège 1 : albertopdc (bouton) a montré [8h 9c] et a gagné (5545) avec double paire, Neuf et Huit
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Lingotdor63 (grosse blind) a caché la main perdante. [4c 4s]
+Siège 4 : bernis54 a caché la main perdante. [Kd Td]
+
+
+
+Main PokerStars n°237940671722 : Tournoi #3455093584, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 10:59:31 CET [12/08/2022 4:59:31 ET]
+Table '3455093584 1' 4-max Siège #2 est au bouton.
+Place 1: albertopdc (11585 en jetons) 
+Place 2: psychoman59 (4300 en jetons) 
+Place 3: Lingotdor63 (4115 en jetons) 
+albertopdc : met l'ante. 15
+psychoman59 : met l'ante. 15
+Lingotdor63 : met l'ante. 15
+Lingotdor63 : met la petite blind. 60
+albertopdc : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Qc]
+psychoman59 : relance. 120 à 240
+Lingotdor63 : relance. 645 à 885
+albertopdc : passe. 
+psychoman59 : suit. 645
+*** FLOP *** [Qh Td 2s]
+Lingotdor63 : mise. 967
+psychoman59 : relance. 2433 à 3400 et est all-in.
+Lingotdor63 : suit. 2248 et est all-in.
+Personne n'a suivi. (185) sont retournés à psychoman59.
+*** TOURNANT *** [Qh Td 2s] [Th]
+*** RIVIÈRE *** [Qh Td 2s Th] [Qs]
+*** ABATTAGE ***
+Lingotdor63 : montre [8s Kc] (double paire, Dames et Dix)
+psychoman59 : montre [Jc Qc] (un full, full aux Dames par les Dix)
+psychoman59 a remporté 8365  lors du pot .
+Lingotdor63 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 8365 | Commission 0 
+Tableau [Qh Td 2s Th Qs]
+Siège 1 : albertopdc (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a montré [Jc Qc] et a gagné (8365) avec un full, full aux Dames par les Dix
+Siège 3 : Lingotdor63 (petite blind) a montré [8s Kc] et a perdu avec double paire, Dames et Dix
+
+
+
+Main PokerStars n°237940676133 : Tournoi #3455093584, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 11:00:07 CET [12/08/2022 5:00:07 ET]
+Table '3455093584 1' 4-max Siège #1 est au bouton.
+Place 1: albertopdc (11450 en jetons) 
+Place 2: psychoman59 (8550 en jetons) 
+albertopdc : met l'ante. 15
+psychoman59 : met l'ante. 15
+albertopdc : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Qh]
+albertopdc : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : albertopdc (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (150)
+
+
+
+Main PokerStars n°237940678520 : Tournoi #3455093584, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 11:00:26 CET [12/08/2022 5:00:26 ET]
+Table '3455093584 1' 4-max Siège #2 est au bouton.
+Place 1: albertopdc (11375 en jetons) 
+Place 2: psychoman59 (8625 en jetons) 
+albertopdc : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+albertopdc : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Jh]
+psychoman59 : relance. 8455 à 8605 et est all-in.
+albertopdc : suit. 8455
+*** FLOP *** [8h 3s 7c]
+*** TOURNANT *** [8h 3s 7c] [Tc]
+*** RIVIÈRE *** [8h 3s 7c Tc] [Td]
+*** ABATTAGE ***
+albertopdc : montre [9h 7h] (double paire, Dix et Sept)
+psychoman59 : montre [As Jh] (une paire de Dix)
+albertopdc a remporté 17250  lors du pot .
+psychoman59 a fini le tournoi à la 2e place et a reçu 0.34 €.
+albertopdc gagne le tournoi - félicitations !
+albertopdc gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 17250 | Commission 0 
+Tableau [8h 3s 7c Tc Td]
+Siège 1 : albertopdc (grosse blind) a montré [9h 7h] et a gagné (17250) avec double paire, Dix et Sept
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [As Jh] et a perdu avec une paire de Dix
+
+
+

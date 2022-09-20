@@ -1,0 +1,1073 @@
+﻿Main PokerStars n°237886401446 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 09/08/2022 17:48:32 CET [09/08/2022 11:48:32 ET]
+Table '3453796125 1' 4-max Siège #1 est au bouton.
+Place 1: **Osperamo** (5000 en jetons) 
+Place 2: marioda19 (5000 en jetons) 
+Place 3: MAINY44 (5000 en jetons) 
+Place 4: psychoman59 (5000 en jetons) 
+**Osperamo** : met l'ante. 10
+marioda19 : met l'ante. 10
+MAINY44 : met l'ante. 10
+psychoman59 : met l'ante. 10
+marioda19 : met la petite blind. 50
+MAINY44 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Ts]
+psychoman59 : passe. 
+**Osperamo** : suit. 100
+marioda19 : relance. 340 à 440
+MAINY44 : passe. 
+**Osperamo** : suit. 340
+*** FLOP *** [2s 5s Kh]
+marioda19 : mise. 310
+**Osperamo** : suit. 310
+*** TOURNANT *** [2s 5s Kh] [8h]
+marioda19 : mise. 820
+**Osperamo** : suit. 820
+*** RIVIÈRE *** [2s 5s Kh 8h] [Ah]
+marioda19 : mise. 3420 et est all-in.
+**Osperamo** : suit. 3420 et est all-in.
+*** ABATTAGE ***
+marioda19 : montre [2h Ac] (double paire, As et Deux)
+**Osperamo** : montre [8d Kd] (double paire, Rois et Huit)
+marioda19 a remporté 10120  lors du pot .
+**Osperamo** a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10120 | Commission 0 
+Tableau [2s 5s Kh 8h Ah]
+Siège 1 : **Osperamo** (bouton) a montré [8d Kd] et a perdu avec double paire, Rois et Huit
+Siège 2 : marioda19 (petite blind) a montré [2h Ac] et a gagné (10120) avec double paire, As et Deux
+Siège 3 : MAINY44 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237886417256 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 09/08/2022 17:49:26 CET [09/08/2022 11:49:26 ET]
+Table '3453796125 1' 4-max Siège #2 est au bouton.
+Place 2: marioda19 (10120 en jetons) 
+Place 3: MAINY44 (4890 en jetons) 
+Place 4: psychoman59 (4990 en jetons) 
+marioda19 : met l'ante. 10
+MAINY44 : met l'ante. 10
+psychoman59 : met l'ante. 10
+MAINY44 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 6h]
+marioda19 : passe. 
+MAINY44 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Qd 6d 4s]
+MAINY44 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qd 6d 4s] [7s]
+MAINY44 : parole 
+psychoman59 : mise. 230
+MAINY44 : suit. 230
+*** RIVIÈRE *** [Qd 6d 4s 7s] [6s]
+MAINY44 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+MAINY44 : montre [5c 4c] (double paire, Six et Quatre)
+psychoman59 : montre [Qc 6h] (un full, full aux Six par les Dames)
+psychoman59 a remporté 690  lors du pot .
+*** SYNTHÈSE ***
+Pot total 690 | Commission 0 
+Tableau [Qd 6d 4s 7s 6s]
+Siège 2 : marioda19 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : MAINY44 (petite blind) a montré [5c 4c] et a perdu avec double paire, Six et Quatre
+Siège 4 : psychoman59 (grosse blind) a montré [Qc 6h] et a gagné (690) avec un full, full aux Six par les Dames
+
+
+
+Main PokerStars n°237886427992 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 09/08/2022 17:50:04 CET [09/08/2022 11:50:04 ET]
+Table '3453796125 1' 4-max Siège #3 est au bouton.
+Place 2: marioda19 (10110 en jetons) 
+Place 3: MAINY44 (4550 en jetons) 
+Place 4: psychoman59 (5340 en jetons) 
+marioda19 : met l'ante. 10
+MAINY44 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+marioda19 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 7c]
+MAINY44 : passe. 
+psychoman59 : suit. 50
+marioda19 : parole 
+*** FLOP *** [Qc 8c 7d]
+psychoman59 : parole 
+marioda19 : parole 
+*** TOURNANT *** [Qc 8c 7d] [Qh]
+psychoman59 : parole 
+marioda19 : mise. 100
+psychoman59 : suit. 100
+*** RIVIÈRE *** [Qc 8c 7d Qh] [Td]
+psychoman59 : mise. 430
+marioda19 : suit. 430
+*** ABATTAGE ***
+psychoman59 : montre [Qd 7c] (un full, full aux Dames par les Sept)
+marioda19 : cache la main perdante. 
+psychoman59 a remporté 1290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1290 | Commission 0 
+Tableau [Qc 8c 7d Qh Td]
+Siège 2 : marioda19 (grosse blind) a caché la main perdante. [5h 7h]
+Siège 3 : MAINY44 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) a montré [Qd 7c] et a gagné (1290) avec un full, full aux Dames par les Sept
+
+
+
+Main PokerStars n°237886445868 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 09/08/2022 17:51:05 CET [09/08/2022 11:51:05 ET]
+Table '3453796125 1' 4-max Siège #4 est au bouton.
+Place 2: marioda19 (9470 en jetons) 
+Place 3: MAINY44 (4540 en jetons) 
+Place 4: psychoman59 (5990 en jetons) 
+marioda19 : met l'ante. 10
+MAINY44 : met l'ante. 10
+psychoman59 : met l'ante. 10
+marioda19 : met la petite blind. 50
+MAINY44 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Jd]
+psychoman59 : relance. 100 à 200
+marioda19 : relance. 530 à 730
+MAINY44 : passe. 
+psychoman59 : suit. 530
+*** FLOP *** [4d 8c 7d]
+marioda19 : mise. 395
+psychoman59 : suit. 395
+*** TOURNANT *** [4d 8c 7d] [5d]
+marioda19 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4d 8c 7d 5d] [8h]
+marioda19 : parole 
+psychoman59 : mise. 1190
+marioda19 : passe. 
+Personne n'a suivi. (1190) sont retournés à psychoman59.
+psychoman59 a remporté 2380  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2380 | Commission 0 
+Tableau [4d 8c 7d 5d 8h]
+Siège 2 : marioda19 (petite blind) s'est couché. sur le Rivière
+Siège 3 : MAINY44 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) a remporté (2380)
+
+
+
+Main PokerStars n°237886469811 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 09/08/2022 17:52:27 CET [09/08/2022 11:52:27 ET]
+Table '3453796125 1' 4-max Siège #2 est au bouton.
+Place 2: marioda19 (8335 en jetons) 
+Place 3: MAINY44 (4430 en jetons) 
+Place 4: psychoman59 (7235 en jetons) 
+marioda19 : met l'ante. 15
+MAINY44 : met l'ante. 15
+psychoman59 : met l'ante. 15
+MAINY44 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Jc]
+marioda19 : passe. 
+MAINY44 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 165  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 2 : marioda19 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : MAINY44 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (165)
+
+
+
+Main PokerStars n°237886474804 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 09/08/2022 17:52:44 CET [09/08/2022 11:52:44 ET]
+Table '3453796125 1' 4-max Siège #3 est au bouton.
+Place 2: marioda19 (8320 en jetons) 
+Place 3: MAINY44 (4355 en jetons) 
+Place 4: psychoman59 (7325 en jetons) 
+marioda19 : met l'ante. 15
+MAINY44 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+marioda19 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 8c]
+MAINY44 : passe. 
+psychoman59 : suit. 60
+marioda19 : relance. 285 à 405
+psychoman59 : passe. 
+Personne n'a suivi. (285) sont retournés à marioda19.
+marioda19 a remporté 285  lors du pot .
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Siège 2 : marioda19 (grosse blind) a remporté (285)
+Siège 3 : MAINY44 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886481321 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 09/08/2022 17:53:07 CET [09/08/2022 11:53:07 ET]
+Table '3453796125 1' 4-max Siège #4 est au bouton.
+Place 2: marioda19 (8470 en jetons) 
+Place 3: MAINY44 (4340 en jetons) 
+Place 4: psychoman59 (7190 en jetons) 
+marioda19 : met l'ante. 15
+MAINY44 : met l'ante. 15
+psychoman59 : met l'ante. 15
+marioda19 : met la petite blind. 60
+MAINY44 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 5s]
+psychoman59 : passe. 
+marioda19 : passe. 
+Personne n'a suivi. (60) sont retournés à MAINY44.
+MAINY44 a remporté 165  lors du pot .
+MAINY44 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 2 : marioda19 (petite blind) s'est couché. avant Flop
+Siège 3 : MAINY44 (grosse blind) a remporté (165)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237886483795 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 09/08/2022 17:53:15 CET [09/08/2022 11:53:15 ET]
+Table '3453796125 1' 4-max Siège #2 est au bouton.
+Place 2: marioda19 (8395 en jetons) 
+Place 3: MAINY44 (4430 en jetons) 
+Place 4: psychoman59 (7175 en jetons) 
+marioda19 : met l'ante. 15
+MAINY44 : met l'ante. 15
+psychoman59 : met l'ante. 15
+MAINY44 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 7s]
+marioda19 : relance. 345 à 465
+MAINY44 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (345) sont retournés à marioda19.
+marioda19 a remporté 345  lors du pot .
+*** SYNTHÈSE ***
+Pot total 345 | Commission 0 
+Siège 2 : marioda19 (bouton) a remporté (345)
+Siège 3 : MAINY44 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886488135 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 09/08/2022 17:53:30 CET [09/08/2022 11:53:30 ET]
+Table '3453796125 1' 4-max Siège #3 est au bouton.
+Place 2: marioda19 (8605 en jetons) 
+Place 3: MAINY44 (4355 en jetons) 
+Place 4: psychoman59 (7040 en jetons) 
+marioda19 : met l'ante. 15
+MAINY44 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+marioda19 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Td]
+MAINY44 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à marioda19.
+marioda19 a remporté 165  lors du pot .
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 2 : marioda19 (grosse blind) a remporté (165)
+Siège 3 : MAINY44 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886490661 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 09/08/2022 17:53:39 CET [09/08/2022 11:53:39 ET]
+Table '3453796125 1' 4-max Siège #4 est au bouton.
+Place 2: marioda19 (8695 en jetons) 
+Place 3: MAINY44 (4340 en jetons) 
+Place 4: psychoman59 (6965 en jetons) 
+marioda19 : met l'ante. 15
+MAINY44 : met l'ante. 15
+psychoman59 : met l'ante. 15
+marioda19 : met la petite blind. 60
+MAINY44 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 8s]
+psychoman59 : passe. 
+marioda19 : relance. 285 à 405
+MAINY44 : suit. 285
+*** FLOP *** [Kh 9d Jd]
+marioda19 : mise. 427
+MAINY44 : suit. 427
+*** TOURNANT *** [Kh 9d Jd] [5h]
+marioda19 : mise. 1349
+MAINY44 : suit. 1349
+*** RIVIÈRE *** [Kh 9d Jd 5h] [3d]
+marioda19 : parole 
+MAINY44 : mise. 2144 et est all-in.
+marioda19 : suit. 2144
+*** ABATTAGE ***
+MAINY44 : montre [Ks 3h] (double paire, Rois et Trois)
+marioda19 : montre [Jc Kc] (double paire, Rois et Valets)
+marioda19 a remporté 8695  lors du pot .
+MAINY44 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 8695 | Commission 0 
+Tableau [Kh 9d Jd 5h 3d]
+Siège 2 : marioda19 (petite blind) a montré [Jc Kc] et a gagné (8695) avec double paire, Rois et Valets
+Siège 3 : MAINY44 (grosse blind) a montré [Ks 3h] et a perdu avec double paire, Rois et Trois
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237886503652 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 09/08/2022 17:54:24 CET [09/08/2022 11:54:24 ET]
+Table '3453796125 1' 4-max Siège #2 est au bouton.
+Place 2: marioda19 (13050 en jetons) 
+Place 4: psychoman59 (6950 en jetons) 
+marioda19 : met l'ante. 15
+psychoman59 : met l'ante. 15
+marioda19 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Td]
+marioda19 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 2 : marioda19 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (150)
+
+
+
+Main PokerStars n°237886507639 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 09/08/2022 17:54:38 CET [09/08/2022 11:54:38 ET]
+Table '3453796125 1' 4-max Siège #4 est au bouton.
+Place 2: marioda19 (12975 en jetons) 
+Place 4: psychoman59 (7025 en jetons) 
+marioda19 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+marioda19 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à marioda19.
+marioda19 a remporté 190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 2 : marioda19 (grosse blind) a remporté (190)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886510363 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 09/08/2022 17:54:48 CET [09/08/2022 11:54:48 ET]
+Table '3453796125 1' 4-max Siège #2 est au bouton.
+Place 2: marioda19 (13070 en jetons) 
+Place 4: psychoman59 (6930 en jetons) 
+marioda19 : met l'ante. 20
+psychoman59 : met l'ante. 20
+marioda19 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 8c]
+marioda19 : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 190  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 2 : marioda19 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°237886513111 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 09/08/2022 17:54:57 CET [09/08/2022 11:54:57 ET]
+Table '3453796125 1' 4-max Siège #4 est au bouton.
+Place 2: marioda19 (12975 en jetons) 
+Place 4: psychoman59 (7025 en jetons) 
+marioda19 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+marioda19 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 8c]
+psychoman59 : suit. 75
+marioda19 : parole 
+*** FLOP *** [9s 5c Ac]
+marioda19 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9s 5c Ac] [2h]
+marioda19 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9s 5c Ac 2h] [Jh]
+marioda19 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+marioda19 : montre [7s 9d] (une paire de Neuf)
+psychoman59 : cache la main perdante. 
+marioda19 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [9s 5c Ac 2h Jh]
+Siège 2 : marioda19 (grosse blind) a montré [7s 9d] et a gagné (340) avec une paire de Neuf
+Siège 4 : psychoman59 (bouton) (petite blind) a caché la main perdante. [Tc 8c]
+
+
+
+Main PokerStars n°237886521238 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 09/08/2022 17:55:32 CET [09/08/2022 11:55:32 ET]
+Table '3453796125 1' 4-max Siège #2 est au bouton.
+Place 2: marioda19 (13145 en jetons) 
+Place 4: psychoman59 (6855 en jetons) 
+marioda19 : met l'ante. 20
+psychoman59 : met l'ante. 20
+marioda19 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 4h]
+marioda19 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [As Td Jh]
+psychoman59 : parole 
+marioda19 : parole 
+*** TOURNANT *** [As Td Jh] [4c]
+psychoman59 : parole 
+marioda19 : parole 
+*** RIVIÈRE *** [As Td Jh 4c] [Kh]
+psychoman59 : parole 
+marioda19 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9d 4h] (une paire de Quatre)
+marioda19 : cache la main perdante. 
+psychoman59 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [As Td Jh 4c Kh]
+Siège 2 : marioda19 (bouton) (petite blind) a caché la main perdante. [6s 5d]
+Siège 4 : psychoman59 (grosse blind) a montré [9d 4h] et a gagné (340) avec une paire de Quatre
+
+
+
+Main PokerStars n°237886528152 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 09/08/2022 17:56:02 CET [09/08/2022 11:56:02 ET]
+Table '3453796125 1' 4-max Siège #4 est au bouton.
+Place 2: marioda19 (12975 en jetons) 
+Place 4: psychoman59 (7025 en jetons) 
+marioda19 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+marioda19 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Jd]
+psychoman59 : relance. 6855 à 7005 et est all-in.
+marioda19 : passe. 
+Personne n'a suivi. (6855) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 2 : marioda19 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°237886531193 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 09/08/2022 17:56:15 CET [09/08/2022 11:56:15 ET]
+Table '3453796125 1' 4-max Siège #2 est au bouton.
+Place 2: marioda19 (12805 en jetons) 
+Place 4: psychoman59 (7195 en jetons) 
+marioda19 : met l'ante. 20
+psychoman59 : met l'ante. 20
+marioda19 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Ac]
+marioda19 : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 190  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 2 : marioda19 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°237886534566 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 09/08/2022 17:56:29 CET [09/08/2022 11:56:29 ET]
+Table '3453796125 1' 4-max Siège #4 est au bouton.
+Place 2: marioda19 (12710 en jetons) 
+Place 4: psychoman59 (7290 en jetons) 
+marioda19 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+marioda19 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à marioda19.
+marioda19 a remporté 190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 2 : marioda19 (grosse blind) a remporté (190)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886536389 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 09/08/2022 17:56:37 CET [09/08/2022 11:56:37 ET]
+Table '3453796125 1' 4-max Siège #2 est au bouton.
+Place 2: marioda19 (12805 en jetons) 
+Place 4: psychoman59 (7195 en jetons) 
+marioda19 : met l'ante. 20
+psychoman59 : met l'ante. 20
+marioda19 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 4c]
+marioda19 : relance. 300 à 450
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à marioda19.
+marioda19 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 2 : marioda19 (bouton) (petite blind) a remporté (340)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886539026 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 09/08/2022 17:56:49 CET [09/08/2022 11:56:49 ET]
+Table '3453796125 1' 4-max Siège #4 est au bouton.
+Place 2: marioda19 (12975 en jetons) 
+Place 4: psychoman59 (7025 en jetons) 
+marioda19 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+marioda19 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 5c]
+psychoman59 : suit. 75
+marioda19 : parole 
+*** FLOP *** [2h 4d 4s]
+marioda19 : parole 
+psychoman59 : mise. 6855 et est all-in.
+marioda19 : passe. 
+Personne n'a suivi. (6855) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [2h 4d 4s]
+Siège 2 : marioda19 (grosse blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°237886545508 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 09/08/2022 17:57:17 CET [09/08/2022 11:57:17 ET]
+Table '3453796125 1' 4-max Siège #2 est au bouton.
+Place 2: marioda19 (12805 en jetons) 
+Place 4: psychoman59 (7195 en jetons) 
+marioda19 : met l'ante. 20
+psychoman59 : met l'ante. 20
+marioda19 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 2d]
+marioda19 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [Ts Th Qc]
+psychoman59 : parole 
+marioda19 : parole 
+*** TOURNANT *** [Ts Th Qc] [9c]
+psychoman59 : parole 
+marioda19 : parole 
+*** RIVIÈRE *** [Ts Th Qc 9c] [7h]
+psychoman59 : parole 
+marioda19 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4d 2d] (une paire de Dix)
+marioda19 : montre [8c 7s] (double paire, Dix et Sept)
+marioda19 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [Ts Th Qc 9c 7h]
+Siège 2 : marioda19 (bouton) (petite blind) a montré [8c 7s] et a gagné (340) avec double paire, Dix et Sept
+Siège 4 : psychoman59 (grosse blind) a montré [4d 2d] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°237886552217 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 09/08/2022 17:57:46 CET [09/08/2022 11:57:46 ET]
+Table '3453796125 1' 4-max Siège #4 est au bouton.
+Place 2: marioda19 (12975 en jetons) 
+Place 4: psychoman59 (7025 en jetons) 
+marioda19 : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+marioda19 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Js]
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à marioda19.
+marioda19 a remporté 250  lors du pot .
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 2 : marioda19 (grosse blind) a remporté (250)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886554012 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 09/08/2022 17:57:54 CET [09/08/2022 11:57:54 ET]
+Table '3453796125 1' 4-max Siège #2 est au bouton.
+Place 2: marioda19 (13100 en jetons) 
+Place 4: psychoman59 (6900 en jetons) 
+marioda19 : met l'ante. 25
+psychoman59 : met l'ante. 25
+marioda19 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 7s]
+marioda19 : suit. 100
+psychoman59 : parole 
+*** FLOP *** [Th 4h 4c]
+psychoman59 : parole 
+marioda19 : parole 
+*** TOURNANT *** [Th 4h 4c] [As]
+psychoman59 : parole 
+marioda19 : parole 
+*** RIVIÈRE *** [Th 4h 4c As] [Ac]
+psychoman59 : parole 
+marioda19 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5h 7s] (double paire, As et Quatre)
+marioda19 : montre [9h 3h] (double paire, As et Quatre)
+psychoman59 a remporté 225  lors du pot .
+marioda19 a remporté 225  lors du pot .
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [Th 4h 4c As Ac]
+Siège 2 : marioda19 (bouton) (petite blind) a montré [9h 3h] et a gagné (225) avec double paire, As et Quatre
+Siège 4 : psychoman59 (grosse blind) a montré [5h 7s] et a gagné (225) avec double paire, As et Quatre
+
+
+
+Main PokerStars n°237886564901 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 09/08/2022 17:58:41 CET [09/08/2022 11:58:41 ET]
+Table '3453796125 1' 4-max Siège #4 est au bouton.
+Place 2: marioda19 (13100 en jetons) 
+Place 4: psychoman59 (6900 en jetons) 
+marioda19 : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+marioda19 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à marioda19.
+marioda19 a remporté 250  lors du pot .
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 2 : marioda19 (grosse blind) a remporté (250)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886566619 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 09/08/2022 17:58:48 CET [09/08/2022 11:58:48 ET]
+Table '3453796125 1' 4-max Siège #2 est au bouton.
+Place 2: marioda19 (13225 en jetons) 
+Place 4: psychoman59 (6775 en jetons) 
+marioda19 : met l'ante. 25
+psychoman59 : met l'ante. 25
+marioda19 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Jd]
+marioda19 : suit. 100
+psychoman59 : parole 
+*** FLOP *** [7c Ts Th]
+psychoman59 : parole 
+marioda19 : parole 
+*** TOURNANT *** [7c Ts Th] [3s]
+psychoman59 : parole 
+marioda19 : parole 
+*** RIVIÈRE *** [7c Ts Th 3s] [Qc]
+psychoman59 : parole 
+marioda19 : mise. 200
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à marioda19.
+marioda19 a remporté 450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [7c Ts Th 3s Qc]
+Siège 2 : marioda19 (bouton) (petite blind) a remporté (450)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237886574717 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 09/08/2022 17:59:23 CET [09/08/2022 11:59:23 ET]
+Table '3453796125 1' 4-max Siège #4 est au bouton.
+Place 2: marioda19 (13450 en jetons) 
+Place 4: psychoman59 (6550 en jetons) 
+marioda19 : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+marioda19 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à marioda19.
+marioda19 a remporté 250  lors du pot .
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 2 : marioda19 (grosse blind) a remporté (250)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886576426 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 09/08/2022 17:59:30 CET [09/08/2022 11:59:30 ET]
+Table '3453796125 1' 4-max Siège #2 est au bouton.
+Place 2: marioda19 (13575 en jetons) 
+Place 4: psychoman59 (6425 en jetons) 
+marioda19 : met l'ante. 25
+psychoman59 : met l'ante. 25
+marioda19 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Td]
+marioda19 : relance. 200 à 400
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à marioda19.
+marioda19 a remporté 450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Siège 2 : marioda19 (bouton) (petite blind) a remporté (450)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886579572 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 09/08/2022 17:59:44 CET [09/08/2022 11:59:44 ET]
+Table '3453796125 1' 4-max Siège #4 est au bouton.
+Place 2: marioda19 (13800 en jetons) 
+Place 4: psychoman59 (6200 en jetons) 
+marioda19 : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+marioda19 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc As]
+psychoman59 : relance. 400 à 600
+marioda19 : passe. 
+Personne n'a suivi. (400) sont retournés à psychoman59.
+psychoman59 a remporté 450  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Siège 2 : marioda19 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (450)
+
+
+
+Main PokerStars n°237886582155 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 09/08/2022 17:59:55 CET [09/08/2022 11:59:55 ET]
+Table '3453796125 1' 4-max Siège #2 est au bouton.
+Place 2: marioda19 (13575 en jetons) 
+Place 4: psychoman59 (6425 en jetons) 
+marioda19 : met l'ante. 25
+psychoman59 : met l'ante. 25
+marioda19 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 6h]
+marioda19 : suit. 100
+psychoman59 : parole 
+*** FLOP *** [2c 7s 3h]
+psychoman59 : parole 
+marioda19 : parole 
+*** TOURNANT *** [2c 7s 3h] [Ac]
+psychoman59 : parole 
+marioda19 : parole 
+*** RIVIÈRE *** [2c 7s 3h Ac] [Ts]
+psychoman59 : parole 
+marioda19 : mise. 425
+psychoman59 : passe. 
+Personne n'a suivi. (425) sont retournés à marioda19.
+marioda19 a remporté 450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [2c 7s 3h Ac Ts]
+Siège 2 : marioda19 (bouton) (petite blind) a remporté (450)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237886596053 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 09/08/2022 18:00:48 CET [09/08/2022 12:00:48 ET]
+Table '3453796125 1' 4-max Siège #4 est au bouton.
+Place 2: marioda19 (13800 en jetons) 
+Place 4: psychoman59 (6200 en jetons) 
+marioda19 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+marioda19 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 6c]
+psychoman59 : relance. 5920 à 6170 et est all-in.
+marioda19 : passe. 
+Personne n'a suivi. (5920) sont retournés à psychoman59.
+psychoman59 a remporté 560  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 2 : marioda19 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°237886599703 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 09/08/2022 18:01:02 CET [09/08/2022 12:01:02 ET]
+Table '3453796125 1' 4-max Siège #2 est au bouton.
+Place 2: marioda19 (13520 en jetons) 
+Place 4: psychoman59 (6480 en jetons) 
+marioda19 : met l'ante. 30
+psychoman59 : met l'ante. 30
+marioda19 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 4c]
+marioda19 : suit. 125
+psychoman59 : parole 
+*** FLOP *** [7h 8c 4d]
+psychoman59 : mise. 560
+marioda19 : suit. 560
+*** TOURNANT *** [7h 8c 4d] [6s]
+psychoman59 : mise. 840
+marioda19 : relance. 1680 à 2520
+psychoman59 : passe. 
+Personne n'a suivi. (1680) sont retournés à marioda19.
+marioda19 a remporté 3360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3360 | Commission 0 
+Tableau [7h 8c 4d 6s]
+Siège 2 : marioda19 (bouton) (petite blind) a remporté (3360)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237886611097 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 09/08/2022 18:01:43 CET [09/08/2022 12:01:43 ET]
+Table '3453796125 1' 4-max Siège #4 est au bouton.
+Place 2: marioda19 (15200 en jetons) 
+Place 4: psychoman59 (4800 en jetons) 
+marioda19 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+marioda19 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Qd]
+psychoman59 : relance. 4520 à 4770 et est all-in.
+marioda19 : suit. 4520
+*** FLOP *** [5s 3h 3c]
+*** TOURNANT *** [5s 3h 3c] [9d]
+*** RIVIÈRE *** [5s 3h 3c 9d] [Td]
+*** ABATTAGE ***
+marioda19 : montre [As Qs] (une paire de Trois)
+psychoman59 : montre [5c Qd] (double paire, Cinq et Trois)
+psychoman59 a remporté 9600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9600 | Commission 0 
+Tableau [5s 3h 3c 9d Td]
+Siège 2 : marioda19 (grosse blind) a montré [As Qs] et a perdu avec une paire de Trois
+Siège 4 : psychoman59 (bouton) (petite blind) a montré [5c Qd] et a gagné (9600) avec double paire, Cinq et Trois
+
+
+
+Main PokerStars n°237886617389 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 09/08/2022 18:02:06 CET [09/08/2022 12:02:06 ET]
+Table '3453796125 1' 4-max Siège #2 est au bouton.
+Place 2: marioda19 (10400 en jetons) 
+Place 4: psychoman59 (9600 en jetons) 
+marioda19 : met l'ante. 30
+psychoman59 : met l'ante. 30
+marioda19 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 4d]
+marioda19 : relance. 560 à 810
+psychoman59 : passe. 
+Personne n'a suivi. (560) sont retournés à marioda19.
+marioda19 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 2 : marioda19 (bouton) (petite blind) a remporté (560)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886620527 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 09/08/2022 18:02:16 CET [09/08/2022 12:02:16 ET]
+Table '3453796125 1' 4-max Siège #4 est au bouton.
+Place 2: marioda19 (10680 en jetons) 
+Place 4: psychoman59 (9320 en jetons) 
+marioda19 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+marioda19 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 3h]
+psychoman59 : relance. 9040 à 9290 et est all-in.
+marioda19 : passe. 
+Personne n'a suivi. (9040) sont retournés à psychoman59.
+psychoman59 a remporté 560  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 2 : marioda19 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°237886623597 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 09/08/2022 18:02:27 CET [09/08/2022 12:02:27 ET]
+Table '3453796125 1' 4-max Siège #2 est au bouton.
+Place 2: marioda19 (10400 en jetons) 
+Place 4: psychoman59 (9600 en jetons) 
+marioda19 : met l'ante. 30
+psychoman59 : met l'ante. 30
+marioda19 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 7c]
+marioda19 : relance. 560 à 810
+psychoman59 : passe. 
+Personne n'a suivi. (560) sont retournés à marioda19.
+marioda19 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 2 : marioda19 (bouton) (petite blind) a remporté (560)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886629140 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 09/08/2022 18:02:47 CET [09/08/2022 12:02:47 ET]
+Table '3453796125 1' 4-max Siège #4 est au bouton.
+Place 2: marioda19 (10680 en jetons) 
+Place 4: psychoman59 (9320 en jetons) 
+marioda19 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+marioda19 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Th]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à marioda19.
+marioda19 a remporté 310  lors du pot .
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 2 : marioda19 (grosse blind) a remporté (310)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886631272 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 09/08/2022 18:02:54 CET [09/08/2022 12:02:54 ET]
+Table '3453796125 1' 4-max Siège #2 est au bouton.
+Place 2: marioda19 (10835 en jetons) 
+Place 4: psychoman59 (9165 en jetons) 
+marioda19 : met l'ante. 30
+psychoman59 : met l'ante. 30
+marioda19 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 9s]
+marioda19 : passe. 
+Personne n'a suivi. (125) sont retournés à psychoman59.
+psychoman59 a remporté 310  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 2 : marioda19 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (310)
+
+
+
+Main PokerStars n°237886633581 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 09/08/2022 18:03:02 CET [09/08/2022 12:03:02 ET]
+Table '3453796125 1' 4-max Siège #4 est au bouton.
+Place 2: marioda19 (10680 en jetons) 
+Place 4: psychoman59 (9320 en jetons) 
+marioda19 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+marioda19 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 3s]
+psychoman59 : relance. 250 à 500
+marioda19 : suit. 250
+*** FLOP *** [4d 2s Tc]
+marioda19 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4d 2s Tc] [8s]
+marioda19 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4d 2s Tc 8s] [2d]
+marioda19 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+marioda19 : montre [Kh 4c] (double paire, Quatre et Deux)
+psychoman59 : cache la main perdante. 
+marioda19 a remporté 1060  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1060 | Commission 0 
+Tableau [4d 2s Tc 8s 2d]
+Siège 2 : marioda19 (grosse blind) a montré [Kh 4c] et a gagné (1060) avec double paire, Quatre et Deux
+Siège 4 : psychoman59 (bouton) (petite blind) a caché la main perdante. [Kc 3s]
+
+
+
+Main PokerStars n°237886643760 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 09/08/2022 18:03:37 CET [09/08/2022 12:03:37 ET]
+Table '3453796125 1' 4-max Siège #2 est au bouton.
+Place 2: marioda19 (11210 en jetons) 
+Place 4: psychoman59 (8790 en jetons) 
+marioda19 : met l'ante. 40
+psychoman59 : met l'ante. 40
+marioda19 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 7d]
+marioda19 : suit. 150
+psychoman59 : parole 
+*** FLOP *** [6c 5d Qs]
+psychoman59 : parole 
+marioda19 : parole 
+*** TOURNANT *** [6c 5d Qs] [Jh]
+psychoman59 : parole 
+marioda19 : parole 
+*** RIVIÈRE *** [6c 5d Qs Jh] [Jd]
+psychoman59 : parole 
+marioda19 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4h 7d] (une paire de Valets)
+marioda19 : montre [8s 2s] (une paire de Valets - Dame+Huit kicker)
+marioda19 a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [6c 5d Qs Jh Jd]
+Siège 2 : marioda19 (bouton) (petite blind) a montré [8s 2s] et a gagné (680) avec une paire de Valets
+Siège 4 : psychoman59 (grosse blind) a montré [4h 7d] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°237886653236 : Tournoi #3453796125, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 09/08/2022 18:04:10 CET [09/08/2022 12:04:10 ET]
+Table '3453796125 1' 4-max Siège #4 est au bouton.
+Place 2: marioda19 (11550 en jetons) 
+Place 4: psychoman59 (8450 en jetons) 
+marioda19 : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+marioda19 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7c]
+psychoman59 : relance. 8110 à 8410 et est all-in.
+marioda19 : suit. 8110
+*** FLOP *** [3s Qd 5d]
+*** TOURNANT *** [3s Qd 5d] [As]
+*** RIVIÈRE *** [3s Qd 5d As] [3d]
+*** ABATTAGE ***
+marioda19 : montre [4h 4c] (double paire, Quatre et Trois)
+psychoman59 : montre [Kc 7c] (une paire de Trois)
+marioda19 a remporté 16900  lors du pot .
+psychoman59 a fini le tournoi à la 2e place et a reçu 0.52 €.
+marioda19 gagne le tournoi - félicitations !
+marioda19 gagne les frais d'entrée pour le tournoi #3450746322
+*** SYNTHÈSE ***
+Pot total 16900 | Commission 0 
+Tableau [3s Qd 5d As 3d]
+Siège 2 : marioda19 (grosse blind) a montré [4h 4c] et a gagné (16900) avec double paire, Quatre et Trois
+Siège 4 : psychoman59 (bouton) (petite blind) a montré [Kc 7c] et a perdu avec une paire de Trois
+
+
+

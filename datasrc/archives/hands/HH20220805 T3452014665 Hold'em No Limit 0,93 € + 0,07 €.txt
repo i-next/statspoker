@@ -1,0 +1,315 @@
+﻿Main PokerStars n°237811444074 : Tournoi #3452014665, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/08/2022 23:48:26 CET [05/08/2022 17:48:26 ET]
+Table '3452014665 1' 3-max Siège #1 est au bouton.
+Place 1: habonx (300 en jetons) 
+Place 2: Carlosalaplaya (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Carlosalaplaya : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 6d]
+habonx : passe. 
+Carlosalaplaya : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : habonx (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Carlosalaplaya (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237811446825 : Tournoi #3452014665, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/08/2022 23:48:33 CET [05/08/2022 17:48:33 ET]
+Table '3452014665 1' 3-max Siège #2 est au bouton.
+Place 1: habonx (300 en jetons) 
+Place 2: Carlosalaplaya (290 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 10
+habonx : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 7d]
+Carlosalaplaya : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à habonx.
+habonx a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : habonx (grosse blind) a remporté (20)
+Siège 2 : Carlosalaplaya (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237811449805 : Tournoi #3452014665, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/08/2022 23:48:42 CET [05/08/2022 17:48:42 ET]
+Table '3452014665 1' 3-max Siège #3 est au bouton.
+Place 1: habonx (310 en jetons) 
+Place 2: Carlosalaplaya (290 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+habonx : met la petite blind. 10
+Carlosalaplaya : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Jc]
+psychoman59 : passe. 
+habonx : suit. 10
+Carlosalaplaya : parole 
+*** FLOP *** [Qc 6h Jh]
+habonx : parole 
+Carlosalaplaya : parole 
+*** TOURNANT *** [Qc 6h Jh] [Jd]
+habonx : parole 
+Carlosalaplaya : parole 
+*** RIVIÈRE *** [Qc 6h Jh Jd] [Ks]
+habonx : parole 
+Carlosalaplaya : mise. 40
+habonx : passe. 
+Personne n'a suivi. (40) sont retournés à Carlosalaplaya.
+Carlosalaplaya a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qc 6h Jh Jd Ks]
+Siège 1 : habonx (petite blind) s'est couché. sur le Rivière
+Siège 2 : Carlosalaplaya (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237811460573 : Tournoi #3452014665, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/08/2022 23:49:13 CET [05/08/2022 17:49:13 ET]
+Table '3452014665 1' 3-max Siège #1 est au bouton.
+Place 1: habonx (290 en jetons) 
+Place 2: Carlosalaplaya (310 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Carlosalaplaya : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 9c]
+habonx : relance. 20 à 40
+Carlosalaplaya : suit. 30
+psychoman59 : suit. 20
+*** FLOP *** [Qh 5h Td]
+Carlosalaplaya : parole 
+psychoman59 : parole 
+habonx : mise. 20
+Carlosalaplaya : passe. 
+psychoman59 : suit. 20
+*** TOURNANT *** [Qh 5h Td] [Kh]
+psychoman59 : parole 
+habonx : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [Qh 5h Td Kh] [9s]
+psychoman59 : parole 
+habonx : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Kc 9c] (double paire, Rois et Neuf)
+habonx : montre [Tc Kd] (double paire, Rois et Dix)
+habonx a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [Qh 5h Td Kh 9s]
+Siège 1 : habonx (bouton) a montré [Tc Kd] et a gagné (280) avec double paire, Rois et Dix
+Siège 2 : Carlosalaplaya (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Kc 9c] et a perdu avec double paire, Rois et Neuf
+
+
+
+Main PokerStars n°237811476880 : Tournoi #3452014665, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/08/2022 23:50:00 CET [05/08/2022 17:50:00 ET]
+Table '3452014665 1' 3-max Siège #2 est au bouton.
+Place 1: habonx (450 en jetons) 
+Place 2: Carlosalaplaya (270 en jetons) 
+Place 3: psychoman59 (180 en jetons) 
+psychoman59 : met la petite blind. 15
+habonx : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Jd]
+Carlosalaplaya : suit. 30
+psychoman59 : suit. 15
+habonx : parole 
+*** FLOP *** [6c 2s 5h]
+psychoman59 : parole 
+habonx : mise. 30
+Carlosalaplaya : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à habonx.
+habonx a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [6c 2s 5h]
+Siège 1 : habonx (grosse blind) a remporté (90)
+Siège 2 : Carlosalaplaya (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237811484390 : Tournoi #3452014665, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/08/2022 23:50:22 CET [05/08/2022 17:50:22 ET]
+Table '3452014665 1' 3-max Siège #3 est au bouton.
+Place 1: habonx (510 en jetons) 
+Place 2: Carlosalaplaya (240 en jetons) 
+Place 3: psychoman59 (150 en jetons) 
+habonx : met la petite blind. 15
+Carlosalaplaya : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Td]
+psychoman59 : passe. 
+habonx : relance. 30 à 60
+Carlosalaplaya : relance. 180 à 240 et est all-in.
+habonx : suit. 180
+*** FLOP *** [8s 5d 4s]
+*** TOURNANT *** [8s 5d 4s] [9s]
+*** RIVIÈRE *** [8s 5d 4s 9s] [Qs]
+*** ABATTAGE ***
+habonx : montre [9c 9h] (un brelan de Neuf)
+Carlosalaplaya : montre [Kd As] (une couleur, hauteur As)
+Carlosalaplaya a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [8s 5d 4s 9s Qs]
+Siège 1 : habonx (petite blind) a montré [9c 9h] et a perdu avec un brelan de Neuf
+Siège 2 : Carlosalaplaya (grosse blind) a montré [Kd As] et a gagné (480) avec une couleur, hauteur As
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237811500253 : Tournoi #3452014665, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/08/2022 23:50:52 CET [05/08/2022 17:50:52 ET]
+Table '3452014665 1' 3-max Siège #1 est au bouton.
+Place 1: habonx (270 en jetons) 
+Place 2: Carlosalaplaya (480 en jetons) 
+Place 3: psychoman59 (150 en jetons) 
+Carlosalaplaya : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 9h]
+habonx : passe. 
+Carlosalaplaya : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : habonx (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Carlosalaplaya (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237811503181 : Tournoi #3452014665, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/08/2022 23:51:01 CET [05/08/2022 17:51:01 ET]
+Table '3452014665 1' 3-max Siège #2 est au bouton.
+Place 1: habonx (270 en jetons) 
+Place 2: Carlosalaplaya (460 en jetons) 
+Place 3: psychoman59 (170 en jetons) 
+psychoman59 : met la petite blind. 20
+habonx : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 8d]
+Carlosalaplaya : relance. 40 à 80
+psychoman59 : passe. 
+habonx : passe. 
+Personne n'a suivi. (40) sont retournés à Carlosalaplaya.
+Carlosalaplaya a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : habonx (grosse blind) s'est couché. avant Flop
+Siège 2 : Carlosalaplaya (bouton) a remporté (100)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237811505977 : Tournoi #3452014665, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/08/2022 23:51:09 CET [05/08/2022 17:51:09 ET]
+Table '3452014665 1' 3-max Siège #3 est au bouton.
+Place 1: habonx (230 en jetons) 
+Place 2: Carlosalaplaya (520 en jetons) 
+Place 3: psychoman59 (150 en jetons) 
+habonx : met la petite blind. 20
+Carlosalaplaya : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 3s]
+psychoman59 : passe. 
+habonx : passe. 
+Personne n'a suivi. (20) sont retournés à Carlosalaplaya.
+Carlosalaplaya a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : habonx (petite blind) s'est couché. avant Flop
+Siège 2 : Carlosalaplaya (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237811508183 : Tournoi #3452014665, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/08/2022 23:51:15 CET [05/08/2022 17:51:15 ET]
+Table '3452014665 1' 3-max Siège #1 est au bouton.
+Place 1: habonx (210 en jetons) 
+Place 2: Carlosalaplaya (540 en jetons) 
+Place 3: psychoman59 (150 en jetons) 
+Carlosalaplaya : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 8h]
+habonx : suit. 40
+Carlosalaplaya : suit. 20
+psychoman59 : parole 
+*** FLOP *** [8s 7h Tc]
+Carlosalaplaya : parole 
+psychoman59 : mise. 110 et est all-in.
+habonx : passe. 
+Carlosalaplaya : passe. 
+Personne n'a suivi. (110) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8s 7h Tc]
+Siège 1 : habonx (bouton) s'est couché. sur le Flop
+Siège 2 : Carlosalaplaya (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°237811516999 : Tournoi #3452014665, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 05/08/2022 23:51:41 CET [05/08/2022 17:51:41 ET]
+Table '3452014665 1' 3-max Siège #2 est au bouton.
+Place 1: habonx (170 en jetons) 
+Place 2: Carlosalaplaya (500 en jetons) 
+Place 3: psychoman59 (230 en jetons) 
+psychoman59 : met la petite blind. 30
+habonx : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ts]
+Carlosalaplaya : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à habonx.
+habonx a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : habonx (grosse blind) a remporté (60)
+Siège 2 : Carlosalaplaya (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237811519686 : Tournoi #3452014665, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 05/08/2022 23:51:48 CET [05/08/2022 17:51:48 ET]
+Table '3452014665 1' 3-max Siège #3 est au bouton.
+Place 1: habonx (200 en jetons) 
+Place 2: Carlosalaplaya (500 en jetons) 
+Place 3: psychoman59 (200 en jetons) 
+habonx : met la petite blind. 30
+Carlosalaplaya : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Ah]
+psychoman59 : relance. 140 à 200 et est all-in.
+habonx : suit. 170 et est all-in.
+Carlosalaplaya : passe. 
+*** FLOP *** [Kc Ac 8s]
+*** TOURNANT *** [Kc Ac 8s] [3d]
+*** RIVIÈRE *** [Kc Ac 8s 3d] [Jh]
+*** ABATTAGE ***
+habonx : montre [8h Ad] (double paire, As et Huit)
+psychoman59 : montre [2d Ah] (une paire de As)
+habonx a remporté 460  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [Kc Ac 8s 3d Jh]
+Siège 1 : habonx (petite blind) a montré [8h Ad] et a gagné (460) avec double paire, As et Huit
+Siège 2 : Carlosalaplaya (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [2d Ah] et a perdu avec une paire de As
+
+
+

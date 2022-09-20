@@ -1,0 +1,121 @@
+﻿Main PokerStars n°237674955245 : Tournoi #3448807966, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/07/2022 8:59:52 CET [30/07/2022 2:59:52 ET]
+Table '3448807966 1' 3-max Siège #1 est au bouton.
+Place 1: Orctika (300 en jetons) 
+Place 2: FAKEOFFJames (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+FAKEOFFJames : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 9h]
+Orctika : passe. 
+FAKEOFFJames : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7d 5s 7c]
+FAKEOFFJames : parole 
+psychoman59 : mise. 280 et est all-in.
+FAKEOFFJames : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7d 5s 7c]
+Siège 1 : Orctika (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : FAKEOFFJames (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237674957072 : Tournoi #3448807966, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/07/2022 9:00:08 CET [30/07/2022 3:00:08 ET]
+Table '3448807966 1' 3-max Siège #2 est au bouton.
+Place 1: Orctika (300 en jetons) 
+Place 2: FAKEOFFJames (280 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 10
+Orctika : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 7h]
+FAKEOFFJames : suit. 20
+psychoman59 : suit. 10
+Orctika : relance. 20 à 40
+FAKEOFFJames : suit. 20
+psychoman59 : suit. 20
+*** FLOP *** [7s Tc Ad]
+psychoman59 : parole 
+Orctika : mise. 120
+FAKEOFFJames : suit. 120
+psychoman59 : passe. 
+*** TOURNANT *** [7s Tc Ad] [Jc]
+Orctika : mise. 140 et est all-in.
+FAKEOFFJames : suit. 120 et est all-in.
+Personne n'a suivi. (20) sont retournés à Orctika.
+*** RIVIÈRE *** [7s Tc Ad Jc] [Qc]
+*** ABATTAGE ***
+Orctika : montre [Ks 4s] (une suite, Dix à As)
+FAKEOFFJames : montre [9d As] (une paire de As)
+Orctika a remporté 600  lors du pot .
+FAKEOFFJames a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [7s Tc Ad Jc Qc]
+Siège 1 : Orctika (grosse blind) a montré [Ks 4s] et a gagné (600) avec une suite, Dix à As
+Siège 2 : FAKEOFFJames (bouton) a montré [9d As] et a perdu avec une paire de As
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237674960244 : Tournoi #3448807966, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/07/2022 9:00:36 CET [30/07/2022 3:00:36 ET]
+Table '3448807966 1' 3-max Siège #1 est au bouton.
+Place 1: Orctika (620 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+Orctika : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 4s]
+Orctika : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4d 8s Ks]
+psychoman59 : parole 
+Orctika : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Orctika.
+Orctika a remporté 40  lors du pot .
+Orctika : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [4d 8s Ks]
+Siège 1 : Orctika (bouton) (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237674961846 : Tournoi #3448807966, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/07/2022 9:00:50 CET [30/07/2022 3:00:50 ET]
+Table '3448807966 1' 3-max Siège #3 est au bouton.
+Place 1: Orctika (640 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+psychoman59 : met la petite blind. 10
+Orctika : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Ks]
+psychoman59 : suit. 10
+Orctika : parole 
+*** FLOP *** [9d 6h 7c]
+Orctika : parole 
+psychoman59 : mise. 240 et est all-in.
+Orctika : suit. 240
+*** TOURNANT *** [9d 6h 7c] [5c]
+*** RIVIÈRE *** [9d 6h 7c 5c] [Ac]
+*** ABATTAGE ***
+Orctika : montre [6s 9s] (double paire, Neuf et Six)
+psychoman59 : montre [6c Ks] (une paire de Six)
+Orctika a remporté 520  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Orctika remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [9d 6h 7c 5c Ac]
+Siège 1 : Orctika (grosse blind) a montré [6s 9s] et a gagné (520) avec double paire, Neuf et Six
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [6c Ks] et a perdu avec une paire de Six
+
+
+

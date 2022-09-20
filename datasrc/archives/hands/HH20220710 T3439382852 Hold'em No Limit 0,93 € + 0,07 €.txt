@@ -1,0 +1,287 @@
+﻿Main PokerStars n°237269543481 : Tournoi #3439382852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2022 10:49:05 CET [10/07/2022 4:49:05 ET]
+Table '3439382852 1' 3-max Siège #1 est au bouton.
+Place 1: nenette041279 (300 en jetons) 
+Place 2: <3Looser<3 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+<3Looser<3 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Qc]
+nenette041279 : passe. 
+<3Looser<3 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3d 6d Ad]
+<3Looser<3 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3d 6d Ad] [Qd]
+<3Looser<3 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3d 6d Ad Qd] [8h]
+<3Looser<3 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+<3Looser<3 : montre [5s 2d] (une couleur, hauteur As)
+psychoman59 : cache la main perdante. 
+<3Looser<3 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [3d 6d Ad Qd 8h]
+Siège 1 : nenette041279 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : <3Looser<3 (petite blind) a montré [5s 2d] et a gagné (40) avec une couleur, hauteur As
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [9c Qc]
+
+
+
+Main PokerStars n°237269546955 : Tournoi #3439382852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2022 10:49:27 CET [10/07/2022 4:49:27 ET]
+Table '3439382852 1' 3-max Siège #2 est au bouton.
+Place 1: nenette041279 (300 en jetons) 
+Place 2: <3Looser<3 (320 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+nenette041279 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 9s]
+<3Looser<3 : suit. 20
+psychoman59 : passe. 
+nenette041279 : relance. 50 à 70
+<3Looser<3 : relance. 250 à 320 et est all-in.
+nenette041279 : suit. 230 et est all-in.
+Personne n'a suivi. (20) sont retournés à <3Looser<3.
+*** FLOP *** [4c Tc Jh]
+*** TOURNANT *** [4c Tc Jh] [6d]
+*** RIVIÈRE *** [4c Tc Jh 6d] [Ac]
+*** ABATTAGE ***
+nenette041279 : montre [As Js] (double paire, As et Valets)
+<3Looser<3 : montre [Kd Kc] (une paire de Rois)
+nenette041279 a remporté 610  lors du pot .
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [4c Tc Jh 6d Ac]
+Siège 1 : nenette041279 (grosse blind) a montré [As Js] et a gagné (610) avec double paire, As et Valets
+Siège 2 : <3Looser<3 (bouton) a montré [Kd Kc] et a perdu avec une paire de Rois
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237269549538 : Tournoi #3439382852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2022 10:49:44 CET [10/07/2022 4:49:44 ET]
+Table '3439382852 1' 3-max Siège #3 est au bouton.
+Place 1: nenette041279 (610 en jetons) 
+Place 2: <3Looser<3 (20 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+nenette041279 : met la petite blind. 10
+<3Looser<3 : met la grosse blind. 20 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 4h]
+psychoman59 : passe. 
+nenette041279 : suit. 10
+*** FLOP *** [6s 4c Td]
+*** TOURNANT *** [6s 4c Td] [2c]
+*** RIVIÈRE *** [6s 4c Td 2c] [Qs]
+*** ABATTAGE ***
+nenette041279 : montre [Ah 7d] (Hauteur As)
+<3Looser<3 : montre [7c 9h] (Hauteur Dame)
+nenette041279 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [6s 4c Td 2c Qs]
+Siège 1 : nenette041279 (petite blind) a montré [Ah 7d] et a gagné (40) avec Hauteur As
+Siège 2 : <3Looser<3 (grosse blind) a montré [7c 9h] et a perdu avec Hauteur Dame
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237269552488 : Tournoi #3439382852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2022 10:50:03 CET [10/07/2022 4:50:03 ET]
+Table '3439382852 1' 3-max Siège #1 est au bouton.
+Place 1: nenette041279 (630 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+nenette041279 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h As]
+nenette041279 : relance. 20 à 40
+psychoman59 : relance. 230 à 270 et est all-in.
+nenette041279 : suit. 230
+*** FLOP *** [6s 5s Ah]
+*** TOURNANT *** [6s 5s Ah] [5c]
+*** RIVIÈRE *** [6s 5s Ah 5c] [Td]
+*** ABATTAGE ***
+psychoman59 : montre [3h As] (double paire, As et Cinq)
+nenette041279 : montre [6h 8d] (double paire, Six et Cinq)
+psychoman59 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [6s 5s Ah 5c Td]
+Siège 1 : nenette041279 (bouton) (petite blind) a montré [6h 8d] et a perdu avec double paire, Six et Cinq
+Siège 3 : psychoman59 (grosse blind) a montré [3h As] et a gagné (540) avec double paire, As et Cinq
+
+
+
+Main PokerStars n°237269555777 : Tournoi #3439382852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/07/2022 10:50:25 CET [10/07/2022 4:50:25 ET]
+Table '3439382852 1' 3-max Siège #3 est au bouton.
+Place 1: nenette041279 (360 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+psychoman59 : met la petite blind. 15
+nenette041279 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 9c]
+psychoman59 : suit. 15
+nenette041279 : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [Tc 5d 3h]
+nenette041279 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [Tc 5d 3h] [Kh]
+nenette041279 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à nenette041279.
+nenette041279 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Tc 5d 3h Kh]
+Siège 1 : nenette041279 (grosse blind) a remporté (180)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237269558479 : Tournoi #3439382852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/07/2022 10:50:42 CET [10/07/2022 4:50:42 ET]
+Table '3439382852 1' 3-max Siège #1 est au bouton.
+Place 1: nenette041279 (450 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+nenette041279 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 4h]
+nenette041279 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à nenette041279.
+nenette041279 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : nenette041279 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237269559620 : Tournoi #3439382852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/07/2022 10:50:50 CET [10/07/2022 4:50:50 ET]
+Table '3439382852 1' 3-max Siège #3 est au bouton.
+Place 1: nenette041279 (480 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+psychoman59 : met la petite blind. 15
+nenette041279 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 7c]
+psychoman59 : suit. 15
+nenette041279 : parole 
+*** FLOP *** [5d 7h 3c]
+nenette041279 : mise. 30
+psychoman59 : relance. 360 à 390 et est all-in.
+nenette041279 : suit. 360
+*** TOURNANT *** [5d 7h 3c] [Ac]
+*** RIVIÈRE *** [5d 7h 3c Ac] [5c]
+*** ABATTAGE ***
+nenette041279 : montre [4h 2c] (une suite, As à Cinq)
+psychoman59 : montre [8c 7c] (une couleur, hauteur As)
+psychoman59 a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [5d 7h 3c Ac 5c]
+Siège 1 : nenette041279 (grosse blind) a montré [4h 2c] et a perdu avec une suite, As à Cinq
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [8c 7c] et a gagné (840) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°237269563372 : Tournoi #3439382852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/07/2022 10:51:14 CET [10/07/2022 4:51:14 ET]
+Table '3439382852 1' 3-max Siège #1 est au bouton.
+Place 1: nenette041279 (60 en jetons) 
+Place 3: psychoman59 (840 en jetons) 
+nenette041279 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Qd]
+nenette041279 : relance. 20 à 60 et est all-in.
+psychoman59 : suit. 20
+*** FLOP *** [Js 9h Jh]
+*** TOURNANT *** [Js 9h Jh] [2h]
+*** RIVIÈRE *** [Js 9h Jh 2h] [5h]
+*** ABATTAGE ***
+psychoman59 : montre [5s Qd] (double paire, Valets et Cinq)
+nenette041279 : montre [7s 7h] (une couleur, hauteur Valet)
+nenette041279 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Js 9h Jh 2h 5h]
+Siège 1 : nenette041279 (bouton) (petite blind) a montré [7s 7h] et a gagné (120) avec une couleur, hauteur Valet
+Siège 3 : psychoman59 (grosse blind) a montré [5s Qd] et a perdu avec double paire, Valets et Cinq
+
+
+
+Main PokerStars n°237269565620 : Tournoi #3439382852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/07/2022 10:51:28 CET [10/07/2022 4:51:28 ET]
+Table '3439382852 1' 3-max Siège #3 est au bouton.
+Place 1: nenette041279 (120 en jetons) 
+Place 3: psychoman59 (780 en jetons) 
+psychoman59 : met la petite blind. 20
+nenette041279 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 8d]
+psychoman59 : relance. 80 à 120
+nenette041279 : suit. 80 et est all-in.
+*** FLOP *** [4c 4s Qh]
+*** TOURNANT *** [4c 4s Qh] [9d]
+*** RIVIÈRE *** [4c 4s Qh 9d] [3s]
+*** ABATTAGE ***
+nenette041279 : montre [Qs 4h] (un full, full aux Quatre par les Dames)
+psychoman59 : montre [Kd 8d] (une paire de Quatre)
+nenette041279 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [4c 4s Qh 9d 3s]
+Siège 1 : nenette041279 (grosse blind) a montré [Qs 4h] et a gagné (240) avec un full, full aux Quatre par les Dames
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Kd 8d] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°237269568356 : Tournoi #3439382852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/07/2022 10:51:46 CET [10/07/2022 4:51:46 ET]
+Table '3439382852 1' 3-max Siège #1 est au bouton.
+Place 1: nenette041279 (240 en jetons) 
+Place 3: psychoman59 (660 en jetons) 
+nenette041279 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 4d]
+nenette041279 : relance. 200 à 240 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à nenette041279.
+nenette041279 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : nenette041279 (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237269569281 : Tournoi #3439382852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/07/2022 10:51:52 CET [10/07/2022 4:51:52 ET]
+Table '3439382852 1' 3-max Siège #3 est au bouton.
+Place 1: nenette041279 (280 en jetons) 
+Place 3: psychoman59 (620 en jetons) 
+psychoman59 : met la petite blind. 20
+nenette041279 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Qd]
+psychoman59 : relance. 580 à 620 et est all-in.
+nenette041279 : suit. 240 et est all-in.
+Personne n'a suivi. (340) sont retournés à psychoman59.
+*** FLOP *** [Td Ac 8h]
+*** TOURNANT *** [Td Ac 8h] [Jd]
+*** RIVIÈRE *** [Td Ac 8h Jd] [6d]
+*** ABATTAGE ***
+nenette041279 : montre [Kd 6h] (une paire de Six)
+psychoman59 : montre [Jc Qd] (une paire de Valets)
+psychoman59 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Td Ac 8h Jd 6d]
+Siège 1 : nenette041279 (grosse blind) a montré [Kd 6h] et a perdu avec une paire de Six
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Jc Qd] et a gagné (560) avec une paire de Valets
+
+
+

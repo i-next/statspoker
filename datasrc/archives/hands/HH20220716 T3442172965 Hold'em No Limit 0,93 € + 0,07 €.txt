@@ -1,0 +1,351 @@
+﻿Main PokerStars n°237387239930 : Tournoi #3442172965, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2022 7:44:33 CET [16/07/2022 1:44:33 ET]
+Table '3442172965 1' 3-max Siège #1 est au bouton.
+Place 1: baloo59650 (300 en jetons) 
+Place 2: suric@te (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+suric@te : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Js]
+baloo59650 : suit. 20
+suric@te : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jc 4c Qs]
+suric@te : parole 
+psychoman59 : parole 
+baloo59650 : parole 
+*** TOURNANT *** [Jc 4c Qs] [8c]
+suric@te : parole 
+psychoman59 : parole 
+baloo59650 : mise. 20
+suric@te : suit. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Jc 4c Qs 8c] [2d]
+suric@te : parole 
+psychoman59 : parole 
+baloo59650 : parole 
+*** ABATTAGE ***
+suric@te : montre [Ac 3h] (Hauteur As)
+psychoman59 : montre [3d Js] (une paire de Valets)
+baloo59650 : cache la main perdante. 
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jc 4c Qs 8c 2d]
+Siège 1 : baloo59650 (bouton) a caché la main perdante. [8h 9s]
+Siège 2 : suric@te (petite blind) a montré [Ac 3h] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [3d Js] et a gagné (120) avec une paire de Valets
+
+
+
+Main PokerStars n°237387243845 : Tournoi #3442172965, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2022 7:45:05 CET [16/07/2022 1:45:05 ET]
+Table '3442172965 1' 3-max Siège #2 est au bouton.
+Place 1: baloo59650 (260 en jetons) 
+Place 2: suric@te (260 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+psychoman59 : met la petite blind. 10
+baloo59650 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 7c]
+suric@te : relance. 50 à 70
+psychoman59 : passe. 
+baloo59650 : suit. 50
+*** FLOP *** [3d Kh 5c]
+baloo59650 : mise. 150
+suric@te : passe. 
+Personne n'a suivi. (150) sont retournés à baloo59650.
+baloo59650 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [3d Kh 5c]
+Siège 1 : baloo59650 (grosse blind) a remporté (150)
+Siège 2 : suric@te (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237387245466 : Tournoi #3442172965, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2022 7:45:18 CET [16/07/2022 1:45:18 ET]
+Table '3442172965 1' 3-max Siège #3 est au bouton.
+Place 1: baloo59650 (340 en jetons) 
+Place 2: suric@te (190 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+baloo59650 : met la petite blind. 10
+suric@te : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Td]
+psychoman59 : relance. 20 à 40
+baloo59650 : suit. 30
+suric@te : passe. 
+*** FLOP *** [4s Ks 8s]
+baloo59650 : mise. 300 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à baloo59650.
+baloo59650 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [4s Ks 8s]
+Siège 1 : baloo59650 (petite blind) a remporté (100)
+Siège 2 : suric@te (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237387247840 : Tournoi #3442172965, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 7:45:38 CET [16/07/2022 1:45:38 ET]
+Table '3442172965 1' 3-max Siège #1 est au bouton.
+Place 1: baloo59650 (400 en jetons) 
+Place 2: suric@te (170 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+suric@te : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 7h]
+baloo59650 : relance. 30 à 60
+suric@te : relance. 90 à 150
+psychoman59 : passe. 
+baloo59650 : relance. 90 à 240
+suric@te : suit. 20 et est all-in.
+Personne n'a suivi. (70) sont retournés à baloo59650.
+*** FLOP *** [7c 4h 3d]
+*** TOURNANT *** [7c 4h 3d] [Qc]
+*** RIVIÈRE *** [7c 4h 3d Qc] [2c]
+*** ABATTAGE ***
+suric@te : montre [5s 5d] (une paire de Cinq)
+baloo59650 : montre [Ad 4d] (une paire de Quatre)
+suric@te a remporté 370  lors du pot .
+*** SYNTHÈSE ***
+Pot total 370 | Commission 0 
+Tableau [7c 4h 3d Qc 2c]
+Siège 1 : baloo59650 (bouton) a montré [Ad 4d] et a perdu avec une paire de Quatre
+Siège 2 : suric@te (petite blind) a montré [5s 5d] et a gagné (370) avec une paire de Cinq
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237387250617 : Tournoi #3442172965, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 7:46:00 CET [16/07/2022 1:46:00 ET]
+Table '3442172965 1' 3-max Siège #2 est au bouton.
+Place 1: baloo59650 (230 en jetons) 
+Place 2: suric@te (370 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+psychoman59 : met la petite blind. 15
+baloo59650 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 3c]
+suric@te : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à baloo59650.
+baloo59650 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : baloo59650 (grosse blind) a remporté (30)
+Siège 2 : suric@te (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237387251458 : Tournoi #3442172965, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 7:46:07 CET [16/07/2022 1:46:07 ET]
+Table '3442172965 1' 3-max Siège #3 est au bouton.
+Place 1: baloo59650 (245 en jetons) 
+Place 2: suric@te (370 en jetons) 
+Place 3: psychoman59 (285 en jetons) 
+baloo59650 : met la petite blind. 15
+suric@te : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 5d]
+psychoman59 : passe. 
+baloo59650 : passe. 
+Personne n'a suivi. (15) sont retournés à suric@te.
+suric@te a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : baloo59650 (petite blind) s'est couché. avant Flop
+Siège 2 : suric@te (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237387252271 : Tournoi #3442172965, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 7:46:14 CET [16/07/2022 1:46:14 ET]
+Table '3442172965 1' 3-max Siège #1 est au bouton.
+Place 1: baloo59650 (230 en jetons) 
+Place 2: suric@te (385 en jetons) 
+Place 3: psychoman59 (285 en jetons) 
+suric@te : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 9d]
+baloo59650 : passe. 
+suric@te : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5c Tc 2c]
+suric@te : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5c Tc 2c] [8h]
+suric@te : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à suric@te.
+suric@te a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5c Tc 2c 8h]
+Siège 1 : baloo59650 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : suric@te (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237387254542 : Tournoi #3442172965, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 7:46:32 CET [16/07/2022 1:46:32 ET]
+Table '3442172965 1' 3-max Siège #2 est au bouton.
+Place 1: baloo59650 (230 en jetons) 
+Place 2: suric@te (415 en jetons) 
+Place 3: psychoman59 (255 en jetons) 
+psychoman59 : met la petite blind. 15
+baloo59650 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Qs]
+suric@te : passe. 
+psychoman59 : relance. 225 à 255 et est all-in.
+baloo59650 : passe. 
+Personne n'a suivi. (225) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : baloo59650 (grosse blind) s'est couché. avant Flop
+Siège 2 : suric@te (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237387256350 : Tournoi #3442172965, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/07/2022 7:46:47 CET [16/07/2022 1:46:47 ET]
+Table '3442172965 1' 3-max Siège #3 est au bouton.
+Place 1: baloo59650 (200 en jetons) 
+Place 2: suric@te (415 en jetons) 
+Place 3: psychoman59 (285 en jetons) 
+baloo59650 : met la petite blind. 20
+suric@te : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 3h]
+psychoman59 : passe. 
+baloo59650 : passe. 
+Personne n'a suivi. (20) sont retournés à suric@te.
+suric@te a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : baloo59650 (petite blind) s'est couché. avant Flop
+Siège 2 : suric@te (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237387257139 : Tournoi #3442172965, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/07/2022 7:46:53 CET [16/07/2022 1:46:53 ET]
+Table '3442172965 1' 3-max Siège #1 est au bouton.
+Place 1: baloo59650 (180 en jetons) 
+Place 2: suric@te (435 en jetons) 
+Place 3: psychoman59 (285 en jetons) 
+suric@te : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 5h]
+baloo59650 : suit. 40
+suric@te : relance. 120 à 160
+psychoman59 : passe. 
+baloo59650 : suit. 120
+*** FLOP *** [Jh Jd Td]
+suric@te : mise. 80
+baloo59650 : suit. 20 et est all-in.
+Personne n'a suivi. (60) sont retournés à suric@te.
+*** TOURNANT *** [Jh Jd Td] [5c]
+*** RIVIÈRE *** [Jh Jd Td 5c] [8d]
+*** ABATTAGE ***
+suric@te : montre [Th Ts] (un full, full aux Dix par les Valets)
+baloo59650 : montre [6s Kd] (une paire de Valets)
+suric@te a remporté 400  lors du pot .
+baloo59650 ne joue pas.
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [Jh Jd Td 5c 8d]
+Siège 1 : baloo59650 (bouton) a montré [6s Kd] et a perdu avec une paire de Valets
+Siège 2 : suric@te (petite blind) a montré [Th Ts] et a gagné (400) avec un full, full aux Dix par les Valets
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237387260568 : Tournoi #3442172965, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/07/2022 7:47:21 CET [16/07/2022 1:47:21 ET]
+Table '3442172965 1' 3-max Siège #3 est au bouton.
+Place 2: suric@te (655 en jetons) 
+Place 3: psychoman59 (245 en jetons) 
+psychoman59 : met la petite blind. 20
+suric@te : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à suric@te.
+suric@te a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : suric@te (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237387261278 : Tournoi #3442172965, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/07/2022 7:47:27 CET [16/07/2022 1:47:27 ET]
+Table '3442172965 1' 3-max Siège #2 est au bouton.
+Place 2: suric@te (675 en jetons) 
+Place 3: psychoman59 (225 en jetons) 
+suric@te : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 2d]
+suric@te : relance. 80 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à suric@te.
+suric@te a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : suric@te (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237387262159 : Tournoi #3442172965, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/07/2022 7:47:34 CET [16/07/2022 1:47:34 ET]
+Table '3442172965 1' 3-max Siège #3 est au bouton.
+Place 2: suric@te (715 en jetons) 
+Place 3: psychoman59 (185 en jetons) 
+psychoman59 : met la petite blind. 20
+suric@te : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à suric@te.
+suric@te a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : suric@te (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237387263105 : Tournoi #3442172965, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/07/2022 7:47:41 CET [16/07/2022 1:47:41 ET]
+Table '3442172965 1' 3-max Siège #2 est au bouton.
+Place 2: suric@te (735 en jetons) 
+Place 3: psychoman59 (165 en jetons) 
+suric@te : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Tc]
+suric@te : relance. 120 à 180
+psychoman59 : suit. 105 et est all-in.
+Personne n'a suivi. (15) sont retournés à suric@te.
+*** FLOP *** [4h 5d As]
+*** TOURNANT *** [4h 5d As] [Kh]
+*** RIVIÈRE *** [4h 5d As Kh] [9d]
+*** ABATTAGE ***
+psychoman59 : montre [5c Tc] (une paire de Cinq)
+suric@te : montre [Kc 3c] (une paire de Rois)
+suric@te a remporté 330  lors du pot .
+*** SYNTHÈSE ***
+Pot total 330 | Commission 0 
+Tableau [4h 5d As Kh 9d]
+Siège 2 : suric@te (bouton) (petite blind) a montré [Kc 3c] et a gagné (330) avec une paire de Rois
+Siège 3 : psychoman59 (grosse blind) a montré [5c Tc] et a perdu avec une paire de Cinq
+
+
+

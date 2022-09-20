@@ -1,0 +1,89 @@
+﻿Main PokerStars n°236773352868 : Tournoi #3426594939, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2022 16:58:16 CET [15/06/2022 10:58:16 ET]
+Table '3426594939 1' 3-max Siège #1 est au bouton.
+Place 1: chrisvs66 (300 en jetons) 
+Place 2: JuGuy620 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+JuGuy620 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 2h]
+chrisvs66 : relance. 20 à 40
+JuGuy620 : passe. 
+psychoman59 : suit. 20
+*** FLOP *** [9h Tc 8h]
+psychoman59 : parole 
+chrisvs66 : mise. 45
+psychoman59 : suit. 45
+*** TOURNANT *** [9h Tc 8h] [4h]
+psychoman59 : parole 
+chrisvs66 : parole 
+*** RIVIÈRE *** [9h Tc 8h 4h] [6d]
+psychoman59 : parole 
+chrisvs66 : mise. 100
+psychoman59 : relance. 100 à 200
+chrisvs66 : relance. 15 à 215 et est all-in.
+psychoman59 : suit. 15 et est all-in.
+*** ABATTAGE ***
+chrisvs66 : montre [Th 6h] (une couleur, hauteur Dix)
+psychoman59 : montre [Kh 2h] (une couleur, hauteur Roi)
+psychoman59 a remporté 610  lors du pot .
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [9h Tc 8h 4h 6d]
+Siège 1 : chrisvs66 (bouton) a montré [Th 6h] et a perdu avec une couleur, hauteur Dix
+Siège 2 : JuGuy620 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Kh 2h] et a gagné (610) avec une couleur, hauteur Roi
+
+
+
+Main PokerStars n°236773361352 : Tournoi #3426594939, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2022 16:58:53 CET [15/06/2022 10:58:53 ET]
+Table '3426594939 1' 3-max Siège #3 est au bouton.
+Place 2: JuGuy620 (290 en jetons) 
+Place 3: psychoman59 (610 en jetons) 
+psychoman59 : met la petite blind. 10
+JuGuy620 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 8c]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à JuGuy620.
+JuGuy620 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : JuGuy620 (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773362937 : Tournoi #3426594939, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2022 16:59:00 CET [15/06/2022 10:59:00 ET]
+Table '3426594939 1' 3-max Siège #2 est au bouton.
+Place 2: JuGuy620 (300 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+JuGuy620 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 9s]
+JuGuy620 : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [3s Qc 7d]
+psychoman59 : parole 
+JuGuy620 : parole 
+*** TOURNANT *** [3s Qc 7d] [8h]
+psychoman59 : parole 
+JuGuy620 : mise. 80
+psychoman59 : suit. 80
+*** RIVIÈRE *** [3s Qc 7d 8h] [9d]
+psychoman59 : parole 
+JuGuy620 : mise. 180 et est all-in.
+psychoman59 : suit. 180
+*** ABATTAGE ***
+JuGuy620 : montre [8c Kc] (une paire de Huit)
+psychoman59 : montre [Jh 9s] (une paire de Neuf)
+psychoman59 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [3s Qc 7d 8h 9d]
+Siège 2 : JuGuy620 (bouton) (petite blind) a montré [8c Kc] et a perdu avec une paire de Huit
+Siège 3 : psychoman59 (grosse blind) a montré [Jh 9s] et a gagné (600) avec une paire de Neuf
+
+
+

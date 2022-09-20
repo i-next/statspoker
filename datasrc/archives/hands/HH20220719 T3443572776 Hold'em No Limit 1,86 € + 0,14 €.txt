@@ -1,0 +1,91 @@
+﻿Main PokerStars n°237450007263 : Tournoi #3443572776, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 8:04:48 CET [19/07/2022 2:04:48 ET]
+Table '3443572776 1' 3-max Siège #1 est au bouton.
+Place 1: boubi207 (300 en jetons) 
+Place 2: blomed41 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+blomed41 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Kh]
+boubi207 : passe. 
+blomed41 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qh 5d 8h]
+blomed41 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qh 5d 8h] [9c]
+blomed41 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qh 5d 8h 9c] [7d]
+blomed41 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+blomed41 : montre [2s 8s] (une paire de Huit)
+psychoman59 : cache la main perdante. 
+blomed41 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qh 5d 8h 9c 7d]
+Siège 1 : boubi207 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : blomed41 (petite blind) a montré [2s 8s] et a gagné (40) avec une paire de Huit
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [4s Kh]
+
+
+
+Main PokerStars n°237450008931 : Tournoi #3443572776, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 8:05:05 CET [19/07/2022 2:05:05 ET]
+Table '3443572776 1' 3-max Siège #2 est au bouton.
+Place 1: boubi207 (300 en jetons) 
+Place 2: blomed41 (320 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+boubi207 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 6s]
+blomed41 : suit. 20
+psychoman59 : suit. 10
+boubi207 : parole 
+*** FLOP *** [Jc 9h 8d]
+psychoman59 : parole 
+boubi207 : parole 
+blomed41 : mise. 60
+psychoman59 : passe. 
+boubi207 : passe. 
+Personne n'a suivi. (60) sont retournés à blomed41.
+blomed41 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Jc 9h 8d]
+Siège 1 : boubi207 (grosse blind) s'est couché. sur le Flop
+Siège 2 : blomed41 (bouton) a remporté (60)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237450011420 : Tournoi #3443572776, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 8:05:29 CET [19/07/2022 2:05:29 ET]
+Table '3443572776 1' 3-max Siège #3 est au bouton.
+Place 1: boubi207 (280 en jetons) 
+Place 2: blomed41 (360 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+boubi207 : met la petite blind. 10
+blomed41 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 3h]
+psychoman59 : relance. 240 à 260 et est all-in.
+boubi207 : passe. 
+blomed41 : suit. 240
+*** FLOP *** [Kd Jh 6d]
+*** TOURNANT *** [Kd Jh 6d] [2s]
+*** RIVIÈRE *** [Kd Jh 6d 2s] [8d]
+*** ABATTAGE ***
+blomed41 : montre [Ad Jc] (une paire de Valets)
+psychoman59 : montre [3d 3h] (une paire de Trois)
+blomed41 a remporté 530  lors du pot .
+*** SYNTHÈSE ***
+Pot total 530 | Commission 0 
+Tableau [Kd Jh 6d 2s 8d]
+Siège 1 : boubi207 (petite blind) s'est couché. avant Flop
+Siège 2 : blomed41 (grosse blind) a montré [Ad Jc] et a gagné (530) avec une paire de Valets
+Siège 3 : psychoman59 (bouton) a montré [3d 3h] et a perdu avec une paire de Trois
+
+
+

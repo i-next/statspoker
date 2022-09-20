@@ -1,0 +1,329 @@
+﻿Main PokerStars n°237248660450 : Tournoi #3438893250, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2022 8:33:14 CET [09/07/2022 2:33:14 ET]
+Table '3438893250 1' 3-max Siège #1 est au bouton.
+Place 1: Goldfr (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: klakou972 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+klakou972 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ks]
+Goldfr : passe. 
+psychoman59 : suit. 10
+klakou972 : parole 
+*** FLOP *** [4s Qs 8d]
+psychoman59 : parole 
+klakou972 : parole 
+*** TOURNANT *** [4s Qs 8d] [7s]
+psychoman59 : parole 
+klakou972 : parole 
+*** RIVIÈRE *** [4s Qs 8d 7s] [9h]
+psychoman59 : parole 
+klakou972 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3d Ks] (Hauteur Roi)
+klakou972 : cache la main perdante. 
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [4s Qs 8d 7s 9h]
+Siège 1 : Goldfr (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [3d Ks] et a gagné (40) avec Hauteur Roi
+Siège 3 : klakou972 (grosse blind) a caché la main perdante. [2h 5c]
+
+
+
+Main PokerStars n°237248664431 : Tournoi #3438893250, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2022 8:33:48 CET [09/07/2022 2:33:48 ET]
+Table '3438893250 1' 3-max Siège #2 est au bouton.
+Place 1: Goldfr (300 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: klakou972 (280 en jetons) 
+klakou972 : met la petite blind. 10
+Goldfr : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 3d]
+psychoman59 : passe. 
+klakou972 : relance. 20 à 40
+Goldfr : suit. 20
+*** FLOP *** [Jh 4h Tc]
+klakou972 : mise. 20
+Goldfr : suit. 20
+*** TOURNANT *** [Jh 4h Tc] [7h]
+klakou972 : mise. 40
+Goldfr : suit. 40
+*** RIVIÈRE *** [Jh 4h Tc 7h] [Jc]
+klakou972 : mise. 60
+Goldfr : suit. 60
+*** ABATTAGE ***
+klakou972 : montre [Ah 2h] (une couleur, hauteur As)
+Goldfr : cache la main perdante. 
+klakou972 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Jh 4h Tc 7h Jc]
+Siège 1 : Goldfr (grosse blind) a caché la main perdante. [Th Qc]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : klakou972 (petite blind) a montré [Ah 2h] et a gagné (320) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°237248668247 : Tournoi #3438893250, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2022 8:34:21 CET [09/07/2022 2:34:21 ET]
+Table '3438893250 1' 3-max Siège #3 est au bouton.
+Place 1: Goldfr (140 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: klakou972 (440 en jetons) 
+Goldfr : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 4c]
+klakou972 : passe. 
+Goldfr : suit. 15
+psychoman59 : parole 
+*** FLOP *** [2h 9s Ks]
+Goldfr : parole 
+psychoman59 : mise. 60
+Goldfr : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2h 9s Ks]
+Siège 1 : Goldfr (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : klakou972 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237248670297 : Tournoi #3438893250, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2022 8:34:39 CET [09/07/2022 2:34:39 ET]
+Table '3438893250 1' 3-max Siège #1 est au bouton.
+Place 1: Goldfr (110 en jetons) 
+Place 2: psychoman59 (350 en jetons) 
+Place 3: klakou972 (440 en jetons) 
+psychoman59 : met la petite blind. 15
+klakou972 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 4s]
+Goldfr : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à klakou972.
+klakou972 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Goldfr (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : klakou972 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237248670954 : Tournoi #3438893250, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2022 8:34:44 CET [09/07/2022 2:34:44 ET]
+Table '3438893250 1' 3-max Siège #2 est au bouton.
+Place 1: Goldfr (110 en jetons) 
+Place 2: psychoman59 (335 en jetons) 
+Place 3: klakou972 (455 en jetons) 
+klakou972 : met la petite blind. 15
+Goldfr : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Ts]
+psychoman59 : passe. 
+klakou972 : passe. 
+Personne n'a suivi. (15) sont retournés à Goldfr.
+Goldfr a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Goldfr (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : klakou972 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237248672036 : Tournoi #3438893250, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2022 8:34:53 CET [09/07/2022 2:34:53 ET]
+Table '3438893250 1' 3-max Siège #3 est au bouton.
+Place 1: Goldfr (125 en jetons) 
+Place 2: psychoman59 (335 en jetons) 
+Place 3: klakou972 (440 en jetons) 
+Goldfr : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 6c]
+klakou972 : passe. 
+Goldfr : relance. 95 à 125 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (95) sont retournés à Goldfr.
+Goldfr a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Goldfr (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : klakou972 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237248673486 : Tournoi #3438893250, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2022 8:35:05 CET [09/07/2022 2:35:05 ET]
+Table '3438893250 1' 3-max Siège #1 est au bouton.
+Place 1: Goldfr (155 en jetons) 
+Place 2: psychoman59 (305 en jetons) 
+Place 3: klakou972 (440 en jetons) 
+psychoman59 : met la petite blind. 15
+klakou972 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 6d]
+Goldfr : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à klakou972.
+klakou972 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Goldfr (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : klakou972 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237248674207 : Tournoi #3438893250, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2022 8:35:11 CET [09/07/2022 2:35:11 ET]
+Table '3438893250 1' 3-max Siège #2 est au bouton.
+Place 1: Goldfr (155 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: klakou972 (455 en jetons) 
+klakou972 : met la petite blind. 15
+Goldfr : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 3c]
+psychoman59 : relance. 260 à 290 et est all-in.
+klakou972 : passe. 
+Goldfr : suit. 125 et est all-in.
+Personne n'a suivi. (135) sont retournés à psychoman59.
+*** FLOP *** [2h 6c Qc]
+*** TOURNANT *** [2h 6c Qc] [Td]
+*** RIVIÈRE *** [2h 6c Qc Td] [Ad]
+*** ABATTAGE ***
+Goldfr : montre [8h 8c] (une paire de Huit)
+psychoman59 : montre [3d 3c] (une paire de Trois)
+Goldfr a remporté 325  lors du pot .
+*** SYNTHÈSE ***
+Pot total 325 | Commission 0 
+Tableau [2h 6c Qc Td Ad]
+Siège 1 : Goldfr (grosse blind) a montré [8h 8c] et a gagné (325) avec une paire de Huit
+Siège 2 : psychoman59 (bouton) a montré [3d 3c] et a perdu avec une paire de Trois
+Siège 3 : klakou972 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237248676550 : Tournoi #3438893250, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2022 8:35:32 CET [09/07/2022 2:35:32 ET]
+Table '3438893250 1' 3-max Siège #3 est au bouton.
+Place 1: Goldfr (325 en jetons) 
+Place 2: psychoman59 (135 en jetons) 
+Place 3: klakou972 (440 en jetons) 
+Goldfr : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 2h]
+klakou972 : passe. 
+Goldfr : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Goldfr (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : klakou972 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237248677264 : Tournoi #3438893250, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2022 8:35:37 CET [09/07/2022 2:35:37 ET]
+Table '3438893250 1' 3-max Siège #1 est au bouton.
+Place 1: Goldfr (305 en jetons) 
+Place 2: psychoman59 (155 en jetons) 
+Place 3: klakou972 (440 en jetons) 
+psychoman59 : met la petite blind. 20
+klakou972 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Js]
+Goldfr : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à klakou972.
+klakou972 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Goldfr (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : klakou972 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237248678104 : Tournoi #3438893250, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2022 8:35:45 CET [09/07/2022 2:35:45 ET]
+Table '3438893250 1' 3-max Siège #2 est au bouton.
+Place 1: Goldfr (305 en jetons) 
+Place 2: psychoman59 (135 en jetons) 
+Place 3: klakou972 (460 en jetons) 
+klakou972 : met la petite blind. 20
+Goldfr : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 5c]
+psychoman59 : passe. 
+klakou972 : passe. 
+Personne n'a suivi. (20) sont retournés à Goldfr.
+Goldfr a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Goldfr (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : klakou972 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237248679157 : Tournoi #3438893250, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2022 8:35:54 CET [09/07/2022 2:35:54 ET]
+Table '3438893250 1' 3-max Siège #3 est au bouton.
+Place 1: Goldfr (325 en jetons) 
+Place 2: psychoman59 (135 en jetons) 
+Place 3: klakou972 (440 en jetons) 
+Goldfr : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 7d]
+klakou972 : suit. 40
+Goldfr : passe. 
+psychoman59 : parole 
+*** FLOP *** [Js Ac Ah]
+psychoman59 : parole 
+klakou972 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à klakou972.
+klakou972 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [Js Ac Ah]
+Siège 1 : Goldfr (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : klakou972 (bouton) a remporté (100)
+
+
+
+Main PokerStars n°237248682176 : Tournoi #3438893250, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2022 8:36:19 CET [09/07/2022 2:36:19 ET]
+Table '3438893250 1' 3-max Siège #1 est au bouton.
+Place 1: Goldfr (305 en jetons) 
+Place 2: psychoman59 (95 en jetons) 
+Place 3: klakou972 (500 en jetons) 
+psychoman59 : met la petite blind. 30
+klakou972 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Qd]
+Goldfr : relance. 245 à 305 et est all-in.
+psychoman59 : suit. 65 et est all-in.
+klakou972 : suit. 245
+*** FLOP *** [5d Jc As]
+*** TOURNANT *** [5d Jc As] [Ah]
+*** RIVIÈRE *** [5d Jc As Ah] [6h]
+*** ABATTAGE ***
+klakou972 : montre [Th Ts] (double paire, As et Dix)
+Goldfr : montre [9c 9s] (double paire, As et Neuf)
+klakou972 a remporté 420  parallèle lors du pot .
+psychoman59 : montre [2d Qd] (une paire de As)
+klakou972 a remporté 285  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 705 Principal pot 285. Parallèle pot 420. | Commission 0 
+Tableau [5d Jc As Ah 6h]
+Siège 1 : Goldfr (bouton) a montré [9c 9s] et a perdu avec double paire, As et Neuf
+Siège 2 : psychoman59 (petite blind) a montré [2d Qd] et a perdu avec une paire de As
+Siège 3 : klakou972 (grosse blind) a montré [Th Ts] et a gagné (705) avec double paire, As et Dix
+
+
+

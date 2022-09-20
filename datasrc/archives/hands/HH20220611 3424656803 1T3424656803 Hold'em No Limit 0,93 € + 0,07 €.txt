@@ -1,0 +1,334 @@
+﻿Main PokerStars n°236690879465 : Tournoi #3424656803, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2022 8:08:51 CET [11/06/2022 2:08:51 ET]
+Table '3424656803 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: yeti59 (300 en jetons) 
+Place 3: yosoyGumble (300 en jetons) 
+yeti59 : met la petite blind. 10
+yosoyGumble : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Kd]
+psychoman59 : suit. 20
+yeti59 : suit. 10
+yosoyGumble : parole 
+*** FLOP *** [7d 5c 9h]
+yeti59 : parole 
+yosoyGumble : parole 
+psychoman59 : mise. 60
+yeti59 : passe. 
+yosoyGumble : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7d 5c 9h]
+Siège 1 : psychoman59 (bouton) a remporté (60)
+Siège 2 : yeti59 (petite blind) s'est couché. sur le Flop
+Siège 3 : yosoyGumble (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°236690881376 : Tournoi #3424656803, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2022 8:09:07 CET [11/06/2022 2:09:07 ET]
+Table '3424656803 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: yeti59 (280 en jetons) 
+Place 3: yosoyGumble (280 en jetons) 
+yosoyGumble : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 4h]
+yeti59 : relance. 260 à 280 et est all-in.
+yosoyGumble : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (260) sont retournés à yeti59.
+yeti59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : yeti59 (bouton) a remporté (50)
+Siège 3 : yosoyGumble (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236690882507 : Tournoi #3424656803, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2022 8:09:17 CET [11/06/2022 2:09:17 ET]
+Table '3424656803 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: yeti59 (310 en jetons) 
+Place 3: yosoyGumble (270 en jetons) 
+psychoman59 : met la petite blind. 10
+yeti59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Js]
+yosoyGumble : relance. 250 à 270 et est all-in.
+psychoman59 : suit. 260
+yeti59 : passe. 
+*** FLOP *** [Jh Qs 6s]
+*** TOURNANT *** [Jh Qs 6s] [Qc]
+*** RIVIÈRE *** [Jh Qs 6s Qc] [Kh]
+*** ABATTAGE ***
+psychoman59 : montre [Kc Js] (double paire, Rois et Dames)
+yosoyGumble : montre [7d 7c] (double paire, Dames et Sept)
+psychoman59 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Jh Qs 6s Qc Kh]
+Siège 1 : psychoman59 (petite blind) a montré [Kc Js] et a gagné (560) avec double paire, Rois et Dames
+Siège 2 : yeti59 (grosse blind) s'est couché. avant Flop
+Siège 3 : yosoyGumble (bouton) a montré [7d 7c] et a perdu avec double paire, Dames et Sept
+
+
+
+Main PokerStars n°236690885032 : Tournoi #3424656803, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2022 8:09:38 CET [11/06/2022 2:09:38 ET]
+Table '3424656803 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (610 en jetons) 
+Place 2: yeti59 (290 en jetons) 
+yeti59 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 6c]
+yeti59 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8h 3s 8c]
+psychoman59 : parole 
+yeti59 : parole 
+*** TOURNANT *** [8h 3s 8c] [Jc]
+psychoman59 : parole 
+yeti59 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [8h 3s 8c Jc] [6h]
+psychoman59 : parole 
+yeti59 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qd 6c] (double paire, Huit et Six)
+yeti59 : montre [Jh Qs] (double paire, Valets et Huit)
+yeti59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8h 3s 8c Jc 6h]
+Siège 1 : psychoman59 (grosse blind) a montré [Qd 6c] et a perdu avec double paire, Huit et Six
+Siège 2 : yeti59 (bouton) (petite blind) a montré [Jh Qs] et a gagné (80) avec double paire, Valets et Huit
+
+
+
+Main PokerStars n°236690888523 : Tournoi #3424656803, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/06/2022 8:10:07 CET [11/06/2022 2:10:07 ET]
+Table '3424656803 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (570 en jetons) 
+Place 2: yeti59 (330 en jetons) 
+psychoman59 : met la petite blind. 15
+yeti59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Qd]
+psychoman59 : suit. 15
+yeti59 : parole 
+*** FLOP *** [2c 7d 4h]
+yeti59 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2c 7d 4h] [8d]
+yeti59 : parole 
+psychoman59 : mise. 60
+yeti59 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2c 7d 4h 8d]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 2 : yeti59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°236690890646 : Tournoi #3424656803, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/06/2022 8:10:26 CET [11/06/2022 2:10:26 ET]
+Table '3424656803 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: yeti59 (300 en jetons) 
+yeti59 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 7h]
+yeti59 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5d As 5c]
+psychoman59 : parole 
+yeti59 : parole 
+*** TOURNANT *** [5d As 5c] [Tc]
+psychoman59 : parole 
+yeti59 : parole 
+*** RIVIÈRE *** [5d As 5c Tc] [2h]
+psychoman59 : parole 
+yeti59 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [8s 7h] (une paire de Cinq)
+yeti59 : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5d As 5c Tc 2h]
+Siège 1 : psychoman59 (grosse blind) a montré [8s 7h] et a gagné (60) avec une paire de Cinq
+Siège 2 : yeti59 (bouton) (petite blind) a caché la main perdante. [7d 6d]
+
+
+
+Main PokerStars n°236690893703 : Tournoi #3424656803, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/06/2022 8:10:51 CET [11/06/2022 2:10:51 ET]
+Table '3424656803 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (630 en jetons) 
+Place 2: yeti59 (270 en jetons) 
+psychoman59 : met la petite blind. 15
+yeti59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à yeti59.
+yeti59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : yeti59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°236690894693 : Tournoi #3424656803, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/06/2022 8:10:59 CET [11/06/2022 2:10:59 ET]
+Table '3424656803 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (615 en jetons) 
+Place 2: yeti59 (285 en jetons) 
+yeti59 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ts]
+yeti59 : relance. 245 à 285 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (245) sont retournés à yeti59.
+yeti59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : yeti59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°236690895724 : Tournoi #3424656803, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/06/2022 8:11:07 CET [11/06/2022 2:11:07 ET]
+Table '3424656803 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (575 en jetons) 
+Place 2: yeti59 (325 en jetons) 
+psychoman59 : met la petite blind. 20
+yeti59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 9h]
+psychoman59 : relance. 80 à 120
+yeti59 : suit. 80
+*** FLOP *** [Ah Qd 8h]
+yeti59 : parole 
+psychoman59 : mise. 240
+yeti59 : suit. 205 et est all-in.
+Personne n'a suivi. (35) sont retournés à psychoman59.
+*** TOURNANT *** [Ah Qd 8h] [4h]
+*** RIVIÈRE *** [Ah Qd 8h 4h] [Kc]
+*** ABATTAGE ***
+yeti59 : montre [Ad 9s] (une paire de As)
+psychoman59 : montre [Ks 9h] (une paire de Rois)
+yeti59 a remporté 650  lors du pot .
+*** SYNTHÈSE ***
+Pot total 650 | Commission 0 
+Tableau [Ah Qd 8h 4h Kc]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Ks 9h] et a perdu avec une paire de Rois
+Siège 2 : yeti59 (grosse blind) a montré [Ad 9s] et a gagné (650) avec une paire de As
+
+
+
+Main PokerStars n°236690898436 : Tournoi #3424656803, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/06/2022 8:11:30 CET [11/06/2022 2:11:30 ET]
+Table '3424656803 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 2: yeti59 (650 en jetons) 
+yeti59 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 3h]
+yeti59 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [5d 6d 4s]
+psychoman59 : parole 
+yeti59 : parole 
+*** TOURNANT *** [5d 6d 4s] [Th]
+psychoman59 : parole 
+yeti59 : parole 
+*** RIVIÈRE *** [5d 6d 4s Th] [8h]
+psychoman59 : mise. 80
+yeti59 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5d 6d 4s Th 8h]
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : yeti59 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°236690901481 : Tournoi #3424656803, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/06/2022 8:11:56 CET [11/06/2022 2:11:56 ET]
+Table '3424656803 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 2: yeti59 (610 en jetons) 
+psychoman59 : met la petite blind. 30
+yeti59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Qc]
+psychoman59 : relance. 230 à 290 et est all-in.
+yeti59 : suit. 230
+*** FLOP *** [Kd 9c 5s]
+*** TOURNANT *** [Kd 9c 5s] [8h]
+*** RIVIÈRE *** [Kd 9c 5s 8h] [6c]
+*** ABATTAGE ***
+yeti59 : montre [2s 2c] (une paire de Deux)
+psychoman59 : montre [9h Qc] (une paire de Neuf)
+psychoman59 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [Kd 9c 5s 8h 6c]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [9h Qc] et a gagné (580) avec une paire de Neuf
+Siège 2 : yeti59 (grosse blind) a montré [2s 2c] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°236690903100 : Tournoi #3424656803, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/06/2022 8:12:11 CET [11/06/2022 2:12:11 ET]
+Table '3424656803 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 2: yeti59 (320 en jetons) 
+yeti59 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 3d]
+yeti59 : relance. 260 à 320 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (260) sont retournés à yeti59.
+yeti59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : yeti59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°236690903830 : Tournoi #3424656803, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/06/2022 8:12:17 CET [11/06/2022 2:12:17 ET]
+Table '3424656803 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: yeti59 (380 en jetons) 
+psychoman59 : met la petite blind. 30
+yeti59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ac]
+psychoman59 : relance. 460 à 520 et est all-in.
+yeti59 : suit. 320 et est all-in.
+Personne n'a suivi. (140) sont retournés à psychoman59.
+*** FLOP *** [Qs Js 4c]
+*** TOURNANT *** [Qs Js 4c] [7h]
+*** RIVIÈRE *** [Qs Js 4c 7h] [Th]
+*** ABATTAGE ***
+yeti59 : montre [Kd 8d] (Hauteur Roi)
+psychoman59 : montre [5d Ac] (Hauteur As)
+psychoman59 a remporté 760  lors du pot .
+*** SYNTHÈSE ***
+Pot total 760 | Commission 0 
+Tableau [Qs Js 4c 7h Th]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [5d Ac] et a gagné (760) avec Hauteur As
+Siège 2 : yeti59 (grosse blind) a montré [Kd 8d] et a perdu avec Hauteur Roi
+
+
+

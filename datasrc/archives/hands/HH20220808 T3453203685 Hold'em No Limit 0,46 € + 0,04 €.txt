@@ -1,0 +1,366 @@
+﻿Main PokerStars n°237862299036 : Tournoi #3453203685, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 13:35:48 CET [08/08/2022 7:35:48 ET]
+Table '3453203685 1' 4-max Siège #1 est au bouton.
+Place 1: jpatamol (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: quinfoiss (5000 en jetons) 
+Place 4: migcircus (5000 en jetons) 
+jpatamol : met l'ante. 10
+psychoman59 : met l'ante. 10
+quinfoiss : met l'ante. 10
+migcircus : met l'ante. 10
+psychoman59 : met la petite blind. 50
+quinfoiss : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 8d]
+migcircus : suit. 100
+jpatamol : suit. 100
+psychoman59 : relance. 4890 à 4990 et est all-in.
+quinfoiss : passe. 
+migcircus : passe. 
+jpatamol : passe. 
+Personne n'a suivi. (4890) sont retournés à psychoman59.
+psychoman59 a remporté 440  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Siège 1 : jpatamol (bouton) s'est couché. avant Flop
+Siège 2 : psychoman59 (petite blind) a remporté (440)
+Siège 3 : quinfoiss (grosse blind) s'est couché. avant Flop
+Siège 4 : migcircus s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862303276 : Tournoi #3453203685, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 13:36:12 CET [08/08/2022 7:36:12 ET]
+Table '3453203685 1' 4-max Siège #2 est au bouton.
+Place 1: jpatamol (4890 en jetons) 
+Place 2: psychoman59 (5330 en jetons) 
+Place 3: quinfoiss (4890 en jetons) 
+Place 4: migcircus (4890 en jetons) 
+jpatamol : met l'ante. 10
+psychoman59 : met l'ante. 10
+quinfoiss : met l'ante. 10
+migcircus : met l'ante. 10
+quinfoiss : met la petite blind. 50
+migcircus : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 7s]
+jpatamol : passe. 
+psychoman59 : passe. 
+quinfoiss : passe. 
+Personne n'a suivi. (50) sont retournés à migcircus.
+migcircus a remporté 140  lors du pot .
+migcircus : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Siège 1 : jpatamol s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : quinfoiss (petite blind) s'est couché. avant Flop
+Siège 4 : migcircus (grosse blind) a remporté (140)
+
+
+
+Main PokerStars n°237862305324 : Tournoi #3453203685, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 13:36:23 CET [08/08/2022 7:36:23 ET]
+Table '3453203685 1' 4-max Siège #3 est au bouton.
+Place 1: jpatamol (4880 en jetons) 
+Place 2: psychoman59 (5320 en jetons) 
+Place 3: quinfoiss (4830 en jetons) 
+Place 4: migcircus (4970 en jetons) 
+jpatamol : met l'ante. 10
+psychoman59 : met l'ante. 10
+quinfoiss : met l'ante. 10
+migcircus : met l'ante. 10
+migcircus : met la petite blind. 50
+jpatamol : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Tc]
+psychoman59 : suit. 100
+quinfoiss : passe. 
+migcircus : suit. 50
+jpatamol : parole 
+*** FLOP *** [9d 7d 3h]
+migcircus : parole 
+jpatamol : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9d 7d 3h] [Ad]
+migcircus : parole 
+jpatamol : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9d 7d 3h Ad] [Jd]
+migcircus : parole 
+jpatamol : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+migcircus : montre [8s 7c] (une paire de Sept)
+jpatamol : montre [8h 8d] (une couleur, hauteur As)
+psychoman59 : cache la main perdante. 
+jpatamol a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [9d 7d 3h Ad Jd]
+Siège 1 : jpatamol (grosse blind) a montré [8h 8d] et a gagné (340) avec une couleur, hauteur As
+Siège 2 : psychoman59 a caché la main perdante. [Kc Tc]
+Siège 3 : quinfoiss (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : migcircus (petite blind) a montré [8s 7c] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°237862310944 : Tournoi #3453203685, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 13:36:54 CET [08/08/2022 7:36:54 ET]
+Table '3453203685 1' 4-max Siège #4 est au bouton.
+Place 1: jpatamol (5110 en jetons) 
+Place 2: psychoman59 (5210 en jetons) 
+Place 3: quinfoiss (4820 en jetons) 
+Place 4: migcircus (4860 en jetons) 
+jpatamol : met l'ante. 10
+psychoman59 : met l'ante. 10
+quinfoiss : met l'ante. 10
+migcircus : met l'ante. 10
+jpatamol : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 6h]
+quinfoiss : passe. 
+migcircus : suit. 100
+jpatamol : suit. 50
+psychoman59 : parole 
+*** FLOP *** [3h Ks As]
+jpatamol : mise. 100
+psychoman59 : passe. 
+migcircus : suit. 100
+*** TOURNANT *** [3h Ks As] [Jd]
+jpatamol : mise. 100
+migcircus : suit. 100
+*** RIVIÈRE *** [3h Ks As Jd] [Qd]
+jpatamol : mise. 740
+migcircus : suit. 740
+*** ABATTAGE ***
+jpatamol : montre [Td Ad] (une suite, Dix à As)
+migcircus : cache la main perdante. 
+jpatamol a remporté 2220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2220 | Commission 0 
+Tableau [3h Ks As Jd Qd]
+Siège 1 : jpatamol (petite blind) a montré [Td Ad] et a gagné (2220) avec une suite, Dix à As
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : quinfoiss s'est couché. avant Flop (n'a pas misé)
+Siège 4 : migcircus (bouton) a caché la main perdante. [3s Ah]
+
+
+
+Main PokerStars n°237862317392 : Tournoi #3453203685, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 13:37:29 CET [08/08/2022 7:37:29 ET]
+Table '3453203685 1' 4-max Siège #1 est au bouton.
+Place 1: jpatamol (6280 en jetons) 
+Place 2: psychoman59 (5100 en jetons) 
+Place 3: quinfoiss (4810 en jetons) 
+Place 4: migcircus (3810 en jetons) 
+jpatamol : met l'ante. 10
+psychoman59 : met l'ante. 10
+quinfoiss : met l'ante. 10
+migcircus : met l'ante. 10
+psychoman59 : met la petite blind. 50
+quinfoiss : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 6c]
+migcircus : suit. 100
+jpatamol : passe. 
+psychoman59 : passe. 
+quinfoiss : relance. 200 à 300
+migcircus : suit. 200
+*** FLOP *** [7h 5s 5h]
+quinfoiss : mise. 690
+migcircus : passe. 
+Personne n'a suivi. (690) sont retournés à quinfoiss.
+quinfoiss a remporté 690  lors du pot .
+*** SYNTHÈSE ***
+Pot total 690 | Commission 0 
+Tableau [7h 5s 5h]
+Siège 1 : jpatamol (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : quinfoiss (grosse blind) a remporté (690)
+Siège 4 : migcircus s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237862323663 : Tournoi #3453203685, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 13:38:04 CET [08/08/2022 7:38:04 ET]
+Table '3453203685 1' 4-max Siège #2 est au bouton.
+Place 1: jpatamol (6270 en jetons) 
+Place 2: psychoman59 (5040 en jetons) 
+Place 3: quinfoiss (5190 en jetons) 
+Place 4: migcircus (3500 en jetons) 
+jpatamol : met l'ante. 10
+psychoman59 : met l'ante. 10
+quinfoiss : met l'ante. 10
+migcircus : met l'ante. 10
+quinfoiss : met la petite blind. 50
+migcircus : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Jd]
+jpatamol : passe. 
+psychoman59 : passe. 
+quinfoiss : relance. 5080 à 5180 et est all-in.
+migcircus : suit. 3390 et est all-in.
+Personne n'a suivi. (1690) sont retournés à quinfoiss.
+*** FLOP *** [Ad Kc Jh]
+*** TOURNANT *** [Ad Kc Jh] [6h]
+*** RIVIÈRE *** [Ad Kc Jh 6h] [4s]
+*** ABATTAGE ***
+quinfoiss : montre [Th Tc] (une paire de Dix)
+migcircus : montre [Ah 8c] (une paire de As)
+migcircus a remporté 7020  lors du pot .
+*** SYNTHÈSE ***
+Pot total 7020 | Commission 0 
+Tableau [Ad Kc Jh 6h 4s]
+Siège 1 : jpatamol s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : quinfoiss (petite blind) a montré [Th Tc] et a perdu avec une paire de Dix
+Siège 4 : migcircus (grosse blind) a montré [Ah 8c] et a gagné (7020) avec une paire de As
+
+
+
+Main PokerStars n°237862327516 : Tournoi #3453203685, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 13:38:25 CET [08/08/2022 7:38:25 ET]
+Table '3453203685 1' 4-max Siège #3 est au bouton.
+Place 1: jpatamol (6260 en jetons) 
+Place 2: psychoman59 (5030 en jetons) 
+Place 3: quinfoiss (1690 en jetons) 
+Place 4: migcircus (7020 en jetons) 
+jpatamol : met l'ante. 10
+psychoman59 : met l'ante. 10
+quinfoiss : met l'ante. 10
+migcircus : met l'ante. 10
+migcircus : met la petite blind. 50
+jpatamol : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 2c]
+psychoman59 : passe. 
+quinfoiss : relance. 1580 à 1680 et est all-in.
+migcircus : passe. 
+jpatamol : passe. 
+Personne n'a suivi. (1580) sont retournés à quinfoiss.
+quinfoiss a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : jpatamol (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : quinfoiss (bouton) a remporté (290)
+Siège 4 : migcircus (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862331026 : Tournoi #3453203685, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 13:38:44 CET [08/08/2022 7:38:44 ET]
+Table '3453203685 1' 4-max Siège #4 est au bouton.
+Place 1: jpatamol (6150 en jetons) 
+Place 2: psychoman59 (5020 en jetons) 
+Place 3: quinfoiss (1870 en jetons) 
+Place 4: migcircus (6960 en jetons) 
+jpatamol : met l'ante. 10
+psychoman59 : met l'ante. 10
+quinfoiss : met l'ante. 10
+migcircus : met l'ante. 10
+jpatamol : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 3d]
+quinfoiss : passe. 
+migcircus : suit. 100
+jpatamol : suit. 50
+psychoman59 : parole 
+*** FLOP *** [9c Kc 2d]
+jpatamol : mise. 100
+psychoman59 : passe. 
+migcircus : suit. 100
+*** TOURNANT *** [9c Kc 2d] [7s]
+jpatamol : mise. 100
+migcircus : suit. 100
+*** RIVIÈRE *** [9c Kc 2d 7s] [5d]
+jpatamol : mise. 370
+migcircus : relance. 370 à 740
+jpatamol : passe. 
+Personne n'a suivi. (370) sont retournés à migcircus.
+migcircus a remporté 1480  lors du pot .
+migcircus : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1480 | Commission 0 
+Tableau [9c Kc 2d 7s 5d]
+Siège 1 : jpatamol (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : quinfoiss s'est couché. avant Flop (n'a pas misé)
+Siège 4 : migcircus (bouton) a remporté (1480)
+
+
+
+Main PokerStars n°237862340236 : Tournoi #3453203685, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 08/08/2022 13:39:35 CET [08/08/2022 7:39:35 ET]
+Table '3453203685 1' 4-max Siège #1 est au bouton.
+Place 1: jpatamol (5470 en jetons) 
+Place 2: psychoman59 (4910 en jetons) 
+Place 3: quinfoiss (1860 en jetons) 
+Place 4: migcircus (7760 en jetons) 
+jpatamol : met l'ante. 15
+psychoman59 : met l'ante. 15
+quinfoiss : met l'ante. 15
+migcircus : met l'ante. 15
+psychoman59 : met la petite blind. 60
+quinfoiss : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 8c]
+migcircus : suit. 120
+jpatamol : passe. 
+psychoman59 : suit. 60
+quinfoiss : parole 
+*** FLOP *** [Ah 9d 2h]
+psychoman59 : parole 
+quinfoiss : parole 
+migcircus : parole 
+*** TOURNANT *** [Ah 9d 2h] [5s]
+psychoman59 : mise. 210
+quinfoiss : passe. 
+migcircus : passe. 
+Personne n'a suivi. (210) sont retournés à psychoman59.
+psychoman59 a remporté 420  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [Ah 9d 2h 5s]
+Siège 1 : jpatamol (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (420)
+Siège 3 : quinfoiss (grosse blind) s'est couché. sur le Tournant
+Siège 4 : migcircus s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237862350503 : Tournoi #3453203685, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 08/08/2022 13:40:14 CET [08/08/2022 7:40:14 ET]
+Table '3453203685 1' 4-max Siège #2 est au bouton.
+Place 1: jpatamol (5455 en jetons) 
+Place 2: psychoman59 (5195 en jetons) 
+Place 3: quinfoiss (1725 en jetons) 
+Place 4: migcircus (7625 en jetons) 
+jpatamol : met l'ante. 15
+psychoman59 : met l'ante. 15
+quinfoiss : met l'ante. 15
+migcircus : met l'ante. 15
+quinfoiss : met la petite blind. 60
+migcircus : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh As]
+jpatamol : suit. 120
+psychoman59 : relance. 5060 à 5180 et est all-in.
+quinfoiss : passe. 
+migcircus : relance. 2430 à 7610 et est all-in.
+jpatamol : passe. 
+Personne n'a suivi. (2430) sont retournés à migcircus.
+*** FLOP *** [7c 5h Jd]
+*** TOURNANT *** [7c 5h Jd] [Jh]
+*** RIVIÈRE *** [7c 5h Jd Jh] [8s]
+*** ABATTAGE ***
+migcircus : montre [Ah Kh] (une paire de Valets)
+psychoman59 : montre [Qh As] (une paire de Valets - plus basse kicker)
+migcircus a remporté 10600  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10600 | Commission 0 
+Tableau [7c 5h Jd Jh 8s]
+Siège 1 : jpatamol s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a montré [Qh As] et a perdu avec une paire de Valets
+Siège 3 : quinfoiss (petite blind) s'est couché. avant Flop
+Siège 4 : migcircus (grosse blind) a montré [Ah Kh] et a gagné (10600) avec une paire de Valets
+
+
+

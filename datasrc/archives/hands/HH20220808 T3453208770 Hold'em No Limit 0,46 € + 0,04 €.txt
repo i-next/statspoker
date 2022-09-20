@@ -1,0 +1,37 @@
+﻿Main PokerStars n°237862436366 : Tournoi #3453208770, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 13:47:28 CET [08/08/2022 7:47:28 ET]
+Table '3453208770 1' 4-max Siège #1 est au bouton.
+Place 1: musiquelle (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: jeep252 (5000 en jetons) 
+Place 4: borrikill (5000 en jetons) 
+musiquelle : met l'ante. 10
+psychoman59 : met l'ante. 10
+jeep252 : met l'ante. 10
+borrikill : met l'ante. 10
+psychoman59 : met la petite blind. 50
+jeep252 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 6h]
+borrikill : passe. 
+musiquelle : passe. 
+psychoman59 : suit. 50
+jeep252 : relance. 4890 à 4990 et est all-in.
+psychoman59 : suit. 4890 et est all-in.
+*** FLOP *** [Ad Qd 9h]
+*** TOURNANT *** [Ad Qd 9h] [4h]
+*** RIVIÈRE *** [Ad Qd 9h 4h] [Jh]
+*** ABATTAGE ***
+psychoman59 : montre [As 6h] (une paire de As)
+jeep252 : montre [Kc Ts] (une suite, Dix à As)
+jeep252 a remporté 10020  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10020 | Commission 0 
+Tableau [Ad Qd 9h 4h Jh]
+Siège 1 : musiquelle (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [As 6h] et a perdu avec une paire de As
+Siège 3 : jeep252 (grosse blind) a montré [Kc Ts] et a gagné (10020) avec une suite, Dix à As
+Siège 4 : borrikill s'est couché. avant Flop (n'a pas misé)
+
+
+

@@ -1,0 +1,143 @@
+﻿Main PokerStars n°237455786926 : Tournoi #3443723679, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 17:18:19 CET [19/07/2022 11:18:19 ET]
+Table '3443723679 1' 3-max Siège #1 est au bouton.
+Place 1: elpepaeva (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: carinelmr (300 en jetons) 
+psychoman59 : met la petite blind. 10
+carinelmr : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Qs]
+elpepaeva : suit. 20
+psychoman59 : suit. 10
+carinelmr : parole 
+*** FLOP *** [Ts Jh 3h]
+psychoman59 : parole 
+carinelmr : mise. 20
+elpepaeva : suit. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [Ts Jh 3h] [5c]
+psychoman59 : parole 
+carinelmr : mise. 20
+elpepaeva : suit. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Ts Jh 3h 5c] [9s]
+psychoman59 : parole 
+carinelmr : mise. 20
+elpepaeva : relance. 20 à 40
+psychoman59 : suit. 40
+carinelmr : suit. 20
+*** ABATTAGE ***
+elpepaeva : montre [Td 4c] (une paire de Dix)
+psychoman59 : montre [Js Qs] (une paire de Valets)
+carinelmr : cache la main perdante. 
+psychoman59 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Ts Jh 3h 5c 9s]
+Siège 1 : elpepaeva (bouton) a montré [Td 4c] et a perdu avec une paire de Dix
+Siège 2 : psychoman59 (petite blind) a montré [Js Qs] et a gagné (300) avec une paire de Valets
+Siège 3 : carinelmr (grosse blind) a caché la main perdante. [Kc Th]
+
+
+
+Main PokerStars n°237455804959 : Tournoi #3443723679, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 17:18:50 CET [19/07/2022 11:18:50 ET]
+Table '3443723679 1' 3-max Siège #2 est au bouton.
+Place 1: elpepaeva (200 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: carinelmr (200 en jetons) 
+carinelmr : met la petite blind. 10
+elpepaeva : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 8d]
+psychoman59 : relance. 50 à 70
+carinelmr : passe. 
+elpepaeva : suit. 50
+*** FLOP *** [Jc Kh 8c]
+elpepaeva : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [Jc Kh 8c] [7h]
+elpepaeva : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Jc Kh 8c 7h] [2d]
+elpepaeva : mise. 60
+psychoman59 : relance. 60 à 120
+elpepaeva : suit. 30 et est all-in.
+Personne n'a suivi. (30) sont retournés à psychoman59.
+*** ABATTAGE ***
+psychoman59 : montre [8s 8d] (un brelan de Huit)
+elpepaeva : montre [3d As] (Hauteur As)
+psychoman59 a remporté 410  lors du pot .
+*** SYNTHÈSE ***
+Pot total 410 | Commission 0 
+Tableau [Jc Kh 8c 7h 2d]
+Siège 1 : elpepaeva (grosse blind) a montré [3d As] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (bouton) a montré [8s 8d] et a gagné (410) avec un brelan de Huit
+Siège 3 : carinelmr (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237455812329 : Tournoi #3443723679, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 17:19:16 CET [19/07/2022 11:19:16 ET]
+Table '3443723679 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (710 en jetons) 
+Place 3: carinelmr (190 en jetons) 
+carinelmr : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 3d]
+carinelmr : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+Siège 3 : carinelmr (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237455815197 : Tournoi #3443723679, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 17:19:27 CET [19/07/2022 11:19:27 ET]
+Table '3443723679 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (720 en jetons) 
+Place 3: carinelmr (180 en jetons) 
+psychoman59 : met la petite blind. 15
+carinelmr : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à carinelmr.
+carinelmr a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : carinelmr (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237455817021 : Tournoi #3443723679, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 17:19:33 CET [19/07/2022 11:19:33 ET]
+Table '3443723679 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (705 en jetons) 
+Place 3: carinelmr (195 en jetons) 
+carinelmr : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Kc]
+carinelmr : suit. 15
+psychoman59 : relance. 60 à 90
+carinelmr : suit. 60
+*** FLOP *** [8d Js 2s]
+psychoman59 : mise. 90
+carinelmr : relance. 15 à 105 et est all-in.
+psychoman59 : suit. 15
+*** TOURNANT *** [8d Js 2s] [Th]
+*** RIVIÈRE *** [8d Js 2s Th] [Kd]
+*** ABATTAGE ***
+psychoman59 : montre [Jc Kc] (double paire, Rois et Valets)
+carinelmr : montre [Jd Ah] (une paire de Valets)
+psychoman59 a remporté 390  lors du pot .
+*** SYNTHÈSE ***
+Pot total 390 | Commission 0 
+Tableau [8d Js 2s Th Kd]
+Siège 2 : psychoman59 (grosse blind) a montré [Jc Kc] et a gagné (390) avec double paire, Rois et Valets
+Siège 3 : carinelmr (bouton) (petite blind) a montré [Jd Ah] et a perdu avec une paire de Valets
+
+
+

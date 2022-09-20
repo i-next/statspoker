@@ -1,0 +1,261 @@
+﻿Main PokerStars n°236792775128 : Tournoi #3427066191, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/06/2022 15:32:15 CET [16/06/2022 9:32:15 ET]
+Table '3427066191 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: elino35 (300 en jetons) 
+Place 3: THOAUR (300 en jetons) 
+elino35 : met la petite blind. 10
+THOAUR : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Ac]
+psychoman59 : suit. 20
+elino35 : suit. 10
+THOAUR : parole 
+*** FLOP *** [5d 3d 6s]
+elino35 : parole 
+THOAUR : mise. 20
+psychoman59 : suit. 20
+elino35 : suit. 20
+*** TOURNANT *** [5d 3d 6s] [Th]
+elino35 : mise. 20
+THOAUR : suit. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [5d 3d 6s Th] [5s]
+elino35 : mise. 180
+THOAUR : relance. 60 à 240 et est all-in.
+psychoman59 : passe. 
+elino35 : suit. 60 et est all-in.
+*** ABATTAGE ***
+THOAUR : montre [5h 9s] (un brelan de Cinq)
+elino35 : montre [9d 5c] (un brelan de Cinq)
+elino35 a remporté 330  lors du pot .
+THOAUR a remporté 330  lors du pot .
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [5d 3d 6s Th 5s]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Rivière
+Siège 2 : elino35 (petite blind) a montré [9d 5c] et a gagné (330) avec un brelan de Cinq
+Siège 3 : THOAUR (grosse blind) a montré [5h 9s] et a gagné (330) avec un brelan de Cinq
+
+
+
+Main PokerStars n°236792781548 : Tournoi #3427066191, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/06/2022 15:32:43 CET [16/06/2022 9:32:43 ET]
+Table '3427066191 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (240 en jetons) 
+Place 2: elino35 (330 en jetons) 
+Place 3: THOAUR (330 en jetons) 
+THOAUR : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Th]
+elino35 : passe. 
+THOAUR : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (20)
+Siège 2 : elino35 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : THOAUR (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236792782929 : Tournoi #3427066191, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/06/2022 15:32:49 CET [16/06/2022 9:32:49 ET]
+Table '3427066191 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 2: elino35 (330 en jetons) 
+Place 3: THOAUR (320 en jetons) 
+psychoman59 : met la petite blind. 10
+elino35 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Tc]
+THOAUR : suit. 20
+psychoman59 : suit. 10
+elino35 : relance. 60 à 80
+THOAUR : suit. 60
+psychoman59 : suit. 60
+*** FLOP *** [5h 3s Jc]
+psychoman59 : parole 
+elino35 : mise. 240
+THOAUR : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (240) sont retournés à elino35.
+elino35 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [5h 3s Jc]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 2 : elino35 (grosse blind) a remporté (240)
+Siège 3 : THOAUR (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°236792788351 : Tournoi #3427066191, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/06/2022 15:33:13 CET [16/06/2022 9:33:13 ET]
+Table '3427066191 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (170 en jetons) 
+Place 2: elino35 (490 en jetons) 
+Place 3: THOAUR (240 en jetons) 
+elino35 : met la petite blind. 10
+THOAUR : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 5c]
+psychoman59 : passe. 
+elino35 : relance. 40 à 60
+elino35 : met la petite blind. 10
+THOAUR : met la grosse blind. 20
+Distribuées psychoman59 [8c 5c] [8c 5c]
+psychoman59 : passe. 
+elino35 : relance. 4294967286 à 60
+THOAUR : relance. 170 à 240 et est all-in.
+elino35 : suit. 180
+*** FLOP *** [Ks 4s 7h]
+*** TOURNANT *** [Ks 4s 7h] [9s]
+*** RIVIÈRE *** [Ks 4s 7h 9s] [7s]
+*** ABATTAGE ***
+elino35 : montre [Kh 9h] (double paire, Rois et Neuf)
+THOAUR : montre [Qc Td] (une paire de Sept)
+elino35 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Ks 4s 7h 9s 7s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : elino35 (petite blind) a montré [Kh 9h] et a gagné (480) avec double paire, Rois et Neuf
+Siège 3 : THOAUR (grosse blind) a montré [Qc Td] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°236792827897 : Tournoi #3427066191, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/06/2022 15:36:06 CET [16/06/2022 9:36:06 ET]
+Table '3427066191 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (30 en jetons) 
+Place 2: elino35 (870 en jetons) 
+psychoman59 : met la petite blind. 30 et est all-in.
+elino35 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 9d]
+Personne n'a suivi. (30) sont retournés à elino35.
+*** FLOP *** [9h Qc Kc]
+*** TOURNANT *** [9h Qc Kc] [3h]
+*** RIVIÈRE *** [9h Qc Kc 3h] [6c]
+*** ABATTAGE ***
+elino35 : montre [5h 4d] (Hauteur Roi)
+psychoman59 : montre [7d 9d] (une paire de Neuf)
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9h Qc Kc 3h 6c]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [7d 9d] et a gagné (60) avec une paire de Neuf
+Siège 2 : elino35 (grosse blind) a montré [5h 4d] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°236792829846 : Tournoi #3427066191, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/06/2022 15:36:14 CET [16/06/2022 9:36:14 ET]
+Table '3427066191 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (60 en jetons) 
+Place 2: elino35 (840 en jetons) 
+elino35 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Qs]
+elino35 : suit. 30
+*** FLOP *** [7d Ac Qc]
+*** TOURNANT *** [7d Ac Qc] [4c]
+*** RIVIÈRE *** [7d Ac Qc 4c] [Ah]
+*** ABATTAGE ***
+psychoman59 : montre [5d Qs] (double paire, As et Dames)
+elino35 : montre [6h 2d] (une paire de As)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7d Ac Qc 4c Ah]
+Siège 1 : psychoman59 (grosse blind) a montré [5d Qs] et a gagné (120) avec double paire, As et Dames
+Siège 2 : elino35 (bouton) (petite blind) a montré [6h 2d] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°236792832534 : Tournoi #3427066191, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/06/2022 15:36:26 CET [16/06/2022 9:36:26 ET]
+Table '3427066191 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (120 en jetons) 
+Place 2: elino35 (780 en jetons) 
+psychoman59 : met la petite blind. 30
+elino35 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Jd]
+psychoman59 : relance. 60 à 120 et est all-in.
+elino35 : suit. 60
+*** FLOP *** [Jh Qd 8d]
+*** TOURNANT *** [Jh Qd 8d] [Qs]
+*** RIVIÈRE *** [Jh Qd 8d Qs] [Td]
+*** ABATTAGE ***
+elino35 : montre [8h 7s] (double paire, Dames et Huit)
+psychoman59 : montre [2c Jd] (double paire, Dames et Valets)
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Jh Qd 8d Qs Td]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [2c Jd] et a gagné (240) avec double paire, Dames et Valets
+Siège 2 : elino35 (grosse blind) a montré [8h 7s] et a perdu avec double paire, Dames et Huit
+
+
+
+Main PokerStars n°236792835801 : Tournoi #3427066191, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/06/2022 15:36:40 CET [16/06/2022 9:36:40 ET]
+Table '3427066191 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (240 en jetons) 
+Place 2: elino35 (660 en jetons) 
+elino35 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 2d]
+elino35 : relance. 60 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à elino35.
+elino35 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : elino35 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°236792838001 : Tournoi #3427066191, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/06/2022 15:36:50 CET [16/06/2022 9:36:50 ET]
+Table '3427066191 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (180 en jetons) 
+Place 2: elino35 (720 en jetons) 
+psychoman59 : met la petite blind. 30
+elino35 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à elino35.
+elino35 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : elino35 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°236792838927 : Tournoi #3427066191, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/06/2022 15:36:54 CET [16/06/2022 9:36:54 ET]
+Table '3427066191 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (150 en jetons) 
+Place 2: elino35 (750 en jetons) 
+elino35 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qs]
+elino35 : relance. 60 à 120
+psychoman59 : relance. 30 à 150 et est all-in.
+elino35 : suit. 30
+*** FLOP *** [9c 3c Ah]
+*** TOURNANT *** [9c 3c Ah] [Kh]
+*** RIVIÈRE *** [9c 3c Ah Kh] [Ad]
+*** ABATTAGE ***
+psychoman59 : montre [8h Qs] (une paire de As)
+elino35 : montre [7h Kd] (double paire, As et Rois)
+elino35 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [9c 3c Ah Kh Ad]
+Siège 1 : psychoman59 (grosse blind) a montré [8h Qs] et a perdu avec une paire de As
+Siège 2 : elino35 (bouton) (petite blind) a montré [7h Kd] et a gagné (300) avec double paire, As et Rois
+
+
+

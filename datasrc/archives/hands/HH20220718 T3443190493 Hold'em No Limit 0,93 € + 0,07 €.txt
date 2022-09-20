@@ -1,0 +1,266 @@
+﻿Main PokerStars n°237432716125 : Tournoi #3443190493, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 14:39:53 CET [18/07/2022 8:39:53 ET]
+Table '3443190493 1' 3-max Siège #1 est au bouton.
+Place 1: travaux85 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: ConSansGains12 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+ConSansGains12 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Qh]
+travaux85 : relance. 280 à 300 et est all-in.
+psychoman59 : passe. 
+ConSansGains12 : passe. 
+Personne n'a suivi. (280) sont retournés à travaux85.
+travaux85 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : travaux85 (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : ConSansGains12 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237432718479 : Tournoi #3443190493, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 14:40:05 CET [18/07/2022 8:40:05 ET]
+Table '3443190493 1' 3-max Siège #2 est au bouton.
+Place 1: travaux85 (330 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: ConSansGains12 (280 en jetons) 
+ConSansGains12 : met la petite blind. 10
+travaux85 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 2d]
+psychoman59 : passe. 
+ConSansGains12 : suit. 10
+travaux85 : relance. 40 à 60
+ConSansGains12 : relance. 220 à 280 et est all-in.
+travaux85 : suit. 220
+*** FLOP *** [Js Jd Kd]
+*** TOURNANT *** [Js Jd Kd] [Kc]
+*** RIVIÈRE *** [Js Jd Kd Kc] [8s]
+*** ABATTAGE ***
+ConSansGains12 : montre [As 5d] (double paire, Rois et Valets)
+travaux85 : montre [Ac 9c] (double paire, Rois et Valets)
+ConSansGains12 a remporté 280  lors du pot .
+travaux85 a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Js Jd Kd Kc 8s]
+Siège 1 : travaux85 (grosse blind) a montré [Ac 9c] et a gagné (280) avec double paire, Rois et Valets
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ConSansGains12 (petite blind) a montré [As 5d] et a gagné (280) avec double paire, Rois et Valets
+
+
+
+Main PokerStars n°237432722370 : Tournoi #3443190493, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 14:40:24 CET [18/07/2022 8:40:24 ET]
+Table '3443190493 1' 3-max Siège #3 est au bouton.
+Place 1: travaux85 (330 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: ConSansGains12 (280 en jetons) 
+travaux85 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 8s]
+ConSansGains12 : suit. 20
+travaux85 : relance. 310 à 330 et est all-in.
+psychoman59 : passe. 
+ConSansGains12 : suit. 260 et est all-in.
+Personne n'a suivi. (50) sont retournés à travaux85.
+*** FLOP *** [2s Qd 4h]
+*** TOURNANT *** [2s Qd 4h] [8c]
+*** RIVIÈRE *** [2s Qd 4h 8c] [4d]
+*** ABATTAGE ***
+travaux85 : montre [5c Jc] (une paire de Quatre)
+ConSansGains12 : montre [Th Tc] (double paire, Dix et Quatre)
+ConSansGains12 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [2s Qd 4h 8c 4d]
+Siège 1 : travaux85 (petite blind) a montré [5c Jc] et a perdu avec une paire de Quatre
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : ConSansGains12 (bouton) a montré [Th Tc] et a gagné (580) avec double paire, Dix et Quatre
+
+
+
+Main PokerStars n°237432726789 : Tournoi #3443190493, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 14:40:45 CET [18/07/2022 8:40:45 ET]
+Table '3443190493 1' 3-max Siège #1 est au bouton.
+Place 1: travaux85 (50 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: ConSansGains12 (580 en jetons) 
+psychoman59 : met la petite blind. 10
+ConSansGains12 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 3h]
+travaux85 : relance. 30 à 50 et est all-in.
+psychoman59 : passe. 
+ConSansGains12 : suit. 30
+*** FLOP *** [6s 8s 7d]
+*** TOURNANT *** [6s 8s 7d] [4d]
+*** RIVIÈRE *** [6s 8s 7d 4d] [Ad]
+*** ABATTAGE ***
+ConSansGains12 : montre [9d Kh] (Hauteur As)
+travaux85 : montre [3c 2c] (Hauteur As - plus basse kicker)
+ConSansGains12 a remporté 110  lors du pot .
+*** SYNTHÈSE ***
+Pot total 110 | Commission 0 
+Tableau [6s 8s 7d 4d Ad]
+Siège 1 : travaux85 (bouton) a montré [3c 2c] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : ConSansGains12 (grosse blind) a montré [9d Kh] et a gagné (110) avec Hauteur As
+
+
+
+Main PokerStars n°237432730571 : Tournoi #3443190493, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/07/2022 14:41:03 CET [18/07/2022 8:41:03 ET]
+Table '3443190493 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (260 en jetons) 
+Place 3: ConSansGains12 (640 en jetons) 
+ConSansGains12 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 5h]
+ConSansGains12 : suit. 15
+psychoman59 : relance. 230 à 260 et est all-in.
+ConSansGains12 : passe. 
+Personne n'a suivi. (230) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : ConSansGains12 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237432734106 : Tournoi #3443190493, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/07/2022 14:41:21 CET [18/07/2022 8:41:21 ET]
+Table '3443190493 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (290 en jetons) 
+Place 3: ConSansGains12 (610 en jetons) 
+psychoman59 : met la petite blind. 15
+ConSansGains12 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5s]
+psychoman59 : relance. 260 à 290 et est all-in.
+ConSansGains12 : suit. 260
+*** FLOP *** [8h Qc 2h]
+*** TOURNANT *** [8h Qc 2h] [5h]
+*** RIVIÈRE *** [8h Qc 2h 5h] [3s]
+*** ABATTAGE ***
+ConSansGains12 : montre [4d 4c] (une paire de Quatre)
+psychoman59 : montre [Ah 5s] (une paire de Cinq)
+psychoman59 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [8h Qc 2h 5h 3s]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ah 5s] et a gagné (580) avec une paire de Cinq
+Siège 3 : ConSansGains12 (grosse blind) a montré [4d 4c] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°237432737330 : Tournoi #3443190493, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/07/2022 14:41:36 CET [18/07/2022 8:41:36 ET]
+Table '3443190493 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (580 en jetons) 
+Place 3: ConSansGains12 (320 en jetons) 
+ConSansGains12 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Qc]
+ConSansGains12 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qd Qs 7d]
+psychoman59 : parole 
+ConSansGains12 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [Qd Qs 7d] [6s]
+psychoman59 : parole 
+ConSansGains12 : parole 
+*** RIVIÈRE *** [Qd Qs 7d 6s] [8s]
+psychoman59 : mise. 60
+ConSansGains12 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qd Qs 7d 6s 8s]
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : ConSansGains12 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237432742783 : Tournoi #3443190493, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/07/2022 14:42:03 CET [18/07/2022 8:42:03 ET]
+Table '3443190493 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (640 en jetons) 
+Place 3: ConSansGains12 (260 en jetons) 
+psychoman59 : met la petite blind. 20
+ConSansGains12 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à ConSansGains12.
+ConSansGains12 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : ConSansGains12 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237432743871 : Tournoi #3443190493, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/07/2022 14:42:08 CET [18/07/2022 8:42:08 ET]
+Table '3443190493 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (620 en jetons) 
+Place 3: ConSansGains12 (280 en jetons) 
+ConSansGains12 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Ah]
+ConSansGains12 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : ConSansGains12 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237432745420 : Tournoi #3443190493, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/07/2022 14:42:16 CET [18/07/2022 8:42:16 ET]
+Table '3443190493 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (640 en jetons) 
+Place 3: ConSansGains12 (260 en jetons) 
+psychoman59 : met la petite blind. 20
+ConSansGains12 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 6d]
+psychoman59 : relance. 40 à 80
+ConSansGains12 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : ConSansGains12 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237432747173 : Tournoi #3443190493, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/07/2022 14:42:24 CET [18/07/2022 8:42:24 ET]
+Table '3443190493 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (680 en jetons) 
+Place 3: ConSansGains12 (220 en jetons) 
+ConSansGains12 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Ad]
+ConSansGains12 : relance. 180 à 220 et est all-in.
+psychoman59 : suit. 180
+*** FLOP *** [2s 3d 6s]
+*** TOURNANT *** [2s 3d 6s] [4d]
+*** RIVIÈRE *** [2s 3d 6s 4d] [7c]
+*** ABATTAGE ***
+psychoman59 : montre [Jc Ad] (Hauteur As)
+ConSansGains12 : montre [Ks 8s] (Hauteur Roi)
+psychoman59 a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [2s 3d 6s 4d 7c]
+Siège 2 : psychoman59 (grosse blind) a montré [Jc Ad] et a gagné (440) avec Hauteur As
+Siège 3 : ConSansGains12 (bouton) (petite blind) a montré [Ks 8s] et a perdu avec Hauteur Roi
+
+
+

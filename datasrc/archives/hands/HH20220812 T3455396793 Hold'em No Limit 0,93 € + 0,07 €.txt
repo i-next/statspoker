@@ -1,0 +1,301 @@
+﻿Main PokerStars n°237952660618 : Tournoi #3455396793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/08/2022 23:41:14 CET [12/08/2022 17:41:14 ET]
+Table '3455396793 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: jeje gwada 08 (300 en jetons) 
+Place 3: La_bess 69 (300 en jetons) 
+jeje gwada 08 : met la petite blind. 10
+La_bess 69 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 3c]
+psychoman59 : passe. 
+jeje gwada 08 : suit. 10
+La_bess 69 : parole 
+*** FLOP *** [9c Qh 8s]
+jeje gwada 08 : mise. 40
+La_bess 69 : suit. 40
+*** TOURNANT *** [9c Qh 8s] [As]
+jeje gwada 08 : mise. 60
+La_bess 69 : suit. 60
+*** RIVIÈRE *** [9c Qh 8s As] [7h]
+jeje gwada 08 : mise. 40
+La_bess 69 : suit. 40
+*** ABATTAGE ***
+jeje gwada 08 : montre [Js 7c] (une paire de Sept)
+La_bess 69 : montre [9d 2d] (une paire de Neuf)
+La_bess 69 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [9c Qh 8s As 7h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jeje gwada 08 (petite blind) a montré [Js 7c] et a perdu avec une paire de Sept
+Siège 3 : La_bess 69 (grosse blind) a montré [9d 2d] et a gagné (320) avec une paire de Neuf
+
+
+
+Main PokerStars n°237952672842 : Tournoi #3455396793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/08/2022 23:41:49 CET [12/08/2022 17:41:49 ET]
+Table '3455396793 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: jeje gwada 08 (140 en jetons) 
+Place 3: La_bess 69 (460 en jetons) 
+La_bess 69 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 3s]
+jeje gwada 08 : relance. 60 à 80
+La_bess 69 : suit. 70
+psychoman59 : passe. 
+*** FLOP *** [Kh 6d 7h]
+La_bess 69 : parole 
+jeje gwada 08 : parole 
+*** TOURNANT *** [Kh 6d 7h] [4s]
+La_bess 69 : mise. 20
+jeje gwada 08 : suit. 20
+*** RIVIÈRE *** [Kh 6d 7h 4s] [6h]
+La_bess 69 : mise. 20
+jeje gwada 08 : suit. 20
+*** ABATTAGE ***
+La_bess 69 : montre [Tc 4h] (double paire, Six et Quatre)
+jeje gwada 08 : cache la main perdante. 
+La_bess 69 a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [Kh 6d 7h 4s 6h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : jeje gwada 08 (bouton) a caché la main perdante. [As Ts]
+Siège 3 : La_bess 69 (petite blind) a montré [Tc 4h] et a gagné (260) avec double paire, Six et Quatre
+
+
+
+Main PokerStars n°237952680409 : Tournoi #3455396793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/08/2022 23:42:11 CET [12/08/2022 17:42:11 ET]
+Table '3455396793 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: jeje gwada 08 (20 en jetons) 
+Place 3: La_bess 69 (600 en jetons) 
+psychoman59 : met la petite blind. 10
+jeje gwada 08 : met la grosse blind. 20 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Ks]
+La_bess 69 : relance. 40 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à La_bess 69.
+*** FLOP *** [3c 2s Ts]
+*** TOURNANT *** [3c 2s Ts] [8s]
+*** RIVIÈRE *** [3c 2s Ts 8s] [7d]
+*** ABATTAGE ***
+jeje gwada 08 : montre [Kh Tc] (une paire de Dix)
+La_bess 69 : montre [7s Ah] (une paire de Sept)
+jeje gwada 08 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [3c 2s Ts 8s 7d]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : jeje gwada 08 (grosse blind) a montré [Kh Tc] et a gagné (50) avec une paire de Dix
+Siège 3 : La_bess 69 (bouton) a montré [7s Ah] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°237952687322 : Tournoi #3455396793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/08/2022 23:42:31 CET [12/08/2022 17:42:31 ET]
+Table '3455396793 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: jeje gwada 08 (50 en jetons) 
+Place 3: La_bess 69 (580 en jetons) 
+jeje gwada 08 : met la petite blind. 15
+La_bess 69 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Qc]
+psychoman59 : suit. 30
+jeje gwada 08 : passe. 
+La_bess 69 : parole 
+*** FLOP *** [5h Qh Ad]
+La_bess 69 : parole 
+psychoman59 : mise. 75
+La_bess 69 : suit. 75
+*** TOURNANT *** [5h Qh Ad] [Jc]
+La_bess 69 : parole 
+psychoman59 : mise. 165 et est all-in.
+La_bess 69 : suit. 165
+*** RIVIÈRE *** [5h Qh Ad Jc] [6h]
+*** ABATTAGE ***
+La_bess 69 : montre [5d 8c] (une paire de Cinq)
+psychoman59 : montre [9s Qc] (une paire de Dames)
+psychoman59 a remporté 555  lors du pot .
+*** SYNTHÈSE ***
+Pot total 555 | Commission 0 
+Tableau [5h Qh Ad Jc 6h]
+Siège 1 : psychoman59 (bouton) a montré [9s Qc] et a gagné (555) avec une paire de Dames
+Siège 2 : jeje gwada 08 (petite blind) s'est couché. avant Flop
+Siège 3 : La_bess 69 (grosse blind) a montré [5d 8c] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°237952697694 : Tournoi #3455396793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/08/2022 23:43:02 CET [12/08/2022 17:43:02 ET]
+Table '3455396793 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (555 en jetons) 
+Place 2: jeje gwada 08 (35 en jetons) 
+Place 3: La_bess 69 (310 en jetons) 
+La_bess 69 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 8s]
+jeje gwada 08 : passe. 
+La_bess 69 : suit. 15
+psychoman59 : relance. 525 à 555 et est all-in.
+La_bess 69 : passe. 
+Personne n'a suivi. (525) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : jeje gwada 08 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : La_bess 69 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237952704123 : Tournoi #3455396793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/08/2022 23:43:20 CET [12/08/2022 17:43:20 ET]
+Table '3455396793 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (585 en jetons) 
+Place 2: jeje gwada 08 (35 en jetons) 
+Place 3: La_bess 69 (280 en jetons) 
+psychoman59 : met la petite blind. 20
+jeje gwada 08 : met la grosse blind. 35 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 9d]
+La_bess 69 : suit. 40
+psychoman59 : suit. 20
+*** FLOP *** [7d 4s 5d]
+psychoman59 : parole 
+La_bess 69 : parole 
+*** TOURNANT *** [7d 4s 5d] [7h]
+psychoman59 : parole 
+La_bess 69 : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [7d 4s 5d 7h] [Jd]
+psychoman59 : parole 
+La_bess 69 : mise. 200 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à La_bess 69.
+*** ABATTAGE ***
+La_bess 69 : montre [6c 3c] (une suite, Trois à Sept)
+La_bess 69 a remporté 90  parallèle lors du pot .
+jeje gwada 08 : montre [9h 3d] (une paire de Sept)
+La_bess 69 a remporté 105  principal lors du pot .
+jeje gwada 08 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 195 Principal pot 105. Parallèle pot 90. | Commission 0 
+Tableau [7d 4s 5d 7h Jd]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 2 : jeje gwada 08 (grosse blind) a montré [9h 3d] et a perdu avec une paire de Sept
+Siège 3 : La_bess 69 (bouton) a montré [6c 3c] et a gagné (195) avec une suite, Trois à Sept
+
+
+
+Main PokerStars n°237952715495 : Tournoi #3455396793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/08/2022 23:43:54 CET [12/08/2022 17:43:54 ET]
+Table '3455396793 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (505 en jetons) 
+Place 3: La_bess 69 (395 en jetons) 
+psychoman59 : met la petite blind. 20
+La_bess 69 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ah]
+psychoman59 : relance. 465 à 505 et est all-in.
+La_bess 69 : passe. 
+Personne n'a suivi. (465) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : La_bess 69 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237952718238 : Tournoi #3455396793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/08/2022 23:44:01 CET [12/08/2022 17:44:01 ET]
+Table '3455396793 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (545 en jetons) 
+Place 3: La_bess 69 (355 en jetons) 
+La_bess 69 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Kc]
+La_bess 69 : suit. 20
+psychoman59 : relance. 505 à 545 et est all-in.
+La_bess 69 : suit. 315 et est all-in.
+Personne n'a suivi. (190) sont retournés à psychoman59.
+*** FLOP *** [Ks 3s 9c]
+*** TOURNANT *** [Ks 3s 9c] [4s]
+*** RIVIÈRE *** [Ks 3s 9c 4s] [7s]
+*** ABATTAGE ***
+psychoman59 : montre [Ah Kc] (une paire de Rois)
+La_bess 69 : montre [Ad Kh] (une paire de Rois)
+psychoman59 a remporté 355  lors du pot .
+La_bess 69 a remporté 355  lors du pot .
+*** SYNTHÈSE ***
+Pot total 710 | Commission 0 
+Tableau [Ks 3s 9c 4s 7s]
+Siège 1 : psychoman59 (grosse blind) a montré [Ah Kc] et a gagné (355) avec une paire de Rois
+Siège 3 : La_bess 69 (bouton) (petite blind) a montré [Ad Kh] et a gagné (355) avec une paire de Rois
+
+
+
+Main PokerStars n°237952724358 : Tournoi #3455396793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/08/2022 23:44:19 CET [12/08/2022 17:44:19 ET]
+Table '3455396793 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (545 en jetons) 
+Place 3: La_bess 69 (355 en jetons) 
+psychoman59 : met la petite blind. 30
+La_bess 69 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 5c]
+psychoman59 : suit. 30
+La_bess 69 : parole 
+*** FLOP *** [9d 2h 5s]
+La_bess 69 : parole 
+psychoman59 : mise. 120
+La_bess 69 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9d 2h 5s]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : La_bess 69 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237952729268 : Tournoi #3455396793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/08/2022 23:44:34 CET [12/08/2022 17:44:34 ET]
+Table '3455396793 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (605 en jetons) 
+Place 3: La_bess 69 (295 en jetons) 
+La_bess 69 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 9c]
+La_bess 69 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Ac 3c 2c]
+psychoman59 : parole 
+La_bess 69 : mise. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [Ac 3c 2c] [Kh]
+psychoman59 : parole 
+La_bess 69 : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [Ac 3c 2c Kh] [7h]
+psychoman59 : parole 
+La_bess 69 : mise. 115 et est all-in.
+psychoman59 : suit. 115
+*** ABATTAGE ***
+La_bess 69 : montre [Kc Qd] (une paire de Rois)
+psychoman59 : montre [Jc 9c] (une couleur, hauteur As)
+psychoman59 a remporté 590  lors du pot .
+La_bess 69 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [Ac 3c 2c Kh 7h]
+Siège 1 : psychoman59 (grosse blind) a montré [Jc 9c] et a gagné (590) avec une couleur, hauteur As
+Siège 3 : La_bess 69 (bouton) (petite blind) a montré [Kc Qd] et a perdu avec une paire de Rois
+
+
+

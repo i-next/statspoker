@@ -1,0 +1,37 @@
+﻿Main PokerStars n°238362831250 : Tournoi #3465131558, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/09/2022 9:19:18 CET [02/09/2022 3:19:18 ET]
+Table '3465131558 1' 4-max Siège #1 est au bouton.
+Place 1: Pavesini8 (5000 en jetons) 
+Place 2: nar33 (5000 en jetons) 
+Place 3: Rokirok2000 (5000 en jetons) 
+Place 4: psychoman59 (5000 en jetons) 
+Pavesini8 : met l'ante. 10
+nar33 : met l'ante. 10
+Rokirok2000 : met l'ante. 10
+psychoman59 : met l'ante. 10
+nar33 : met la petite blind. 50
+Rokirok2000 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Ac]
+psychoman59 : relance. 290 à 390
+Pavesini8 : relance. 4600 à 4990 et est all-in.
+nar33 : passe. 
+Rokirok2000 : passe. 
+psychoman59 : suit. 4600 et est all-in.
+*** FLOP *** [9d 2c 7h]
+*** TOURNANT *** [9d 2c 7h] [9s]
+*** RIVIÈRE *** [9d 2c 7h 9s] [7c]
+*** ABATTAGE ***
+psychoman59 : montre [Kd Ac] (double paire, Neuf et Sept)
+Pavesini8 : montre [As 7s] (un full, full aux Sept par les Neuf)
+Pavesini8 a remporté 10170  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10170 | Commission 0 
+Tableau [9d 2c 7h 9s 7c]
+Siège 1 : Pavesini8 (bouton) a montré [As 7s] et a gagné (10170) avec un full, full aux Sept par les Neuf
+Siège 2 : nar33 (petite blind) s'est couché. avant Flop
+Siège 3 : Rokirok2000 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 a montré [Kd Ac] et a perdu avec double paire, Neuf et Sept
+
+
+

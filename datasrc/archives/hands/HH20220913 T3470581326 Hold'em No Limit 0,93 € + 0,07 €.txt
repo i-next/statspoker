@@ -1,0 +1,240 @@
+﻿Main PokerStars n°238598360245 : Tournoi #3470581326, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 14:14:06 CET [13/09/2022 8:14:06 ET]
+Table '3470581326 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: miguel55417 (300 en jetons) 
+Place 3: km.hs777 (300 en jetons) 
+miguel55417 : met la petite blind. 10
+km.hs777 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Qd]
+psychoman59 : suit. 20
+miguel55417 : suit. 10
+km.hs777 : parole 
+*** FLOP *** [Qc Ad 4c]
+miguel55417 : parole 
+km.hs777 : mise. 20
+psychoman59 : suit. 20
+miguel55417 : passe. 
+*** TOURNANT *** [Qc Ad 4c] [8s]
+km.hs777 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Qc Ad 4c 8s] [5h]
+km.hs777 : mise. 40
+psychoman59 : suit. 40
+*** ABATTAGE ***
+km.hs777 : montre [Kh 2h] (Hauteur As)
+psychoman59 : montre [9c Qd] (une paire de Dames)
+psychoman59 a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [Qc Ad 4c 8s 5h]
+Siège 1 : psychoman59 (bouton) a montré [9c Qd] et a gagné (220) avec une paire de Dames
+Siège 2 : miguel55417 (petite blind) s'est couché. sur le Flop
+Siège 3 : km.hs777 (grosse blind) a montré [Kh 2h] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°238598367010 : Tournoi #3470581326, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 14:14:40 CET [13/09/2022 8:14:40 ET]
+Table '3470581326 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: miguel55417 (280 en jetons) 
+Place 3: km.hs777 (200 en jetons) 
+km.hs777 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Ks]
+miguel55417 : suit. 20
+km.hs777 : suit. 10
+psychoman59 : relance. 400 à 420 et est all-in.
+miguel55417 : passe. 
+km.hs777 : passe. 
+Personne n'a suivi. (400) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : miguel55417 (bouton) s'est couché. avant Flop
+Siège 3 : km.hs777 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238598369910 : Tournoi #3470581326, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 14:14:55 CET [13/09/2022 8:14:55 ET]
+Table '3470581326 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: miguel55417 (260 en jetons) 
+Place 3: km.hs777 (180 en jetons) 
+psychoman59 : met la petite blind. 10
+miguel55417 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 3d]
+km.hs777 : suit. 20
+psychoman59 : passe. 
+miguel55417 : relance. 20 à 40
+km.hs777 : suit. 20
+*** FLOP *** [Qs Qd 5c]
+miguel55417 : parole 
+km.hs777 : parole 
+*** TOURNANT *** [Qs Qd 5c] [3h]
+miguel55417 : mise. 20
+km.hs777 : suit. 20
+*** RIVIÈRE *** [Qs Qd 5c 3h] [7h]
+miguel55417 : mise. 65
+km.hs777 : passe. 
+Personne n'a suivi. (65) sont retournés à miguel55417.
+miguel55417 a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [Qs Qd 5c 3h 7h]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : miguel55417 (grosse blind) a remporté (130)
+Siège 3 : km.hs777 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238598376739 : Tournoi #3470581326, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 14:15:29 CET [13/09/2022 8:15:29 ET]
+Table '3470581326 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 2: miguel55417 (330 en jetons) 
+Place 3: km.hs777 (120 en jetons) 
+miguel55417 : met la petite blind. 15
+km.hs777 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 8d]
+psychoman59 : passe. 
+miguel55417 : suit. 15
+km.hs777 : relance. 30 à 60
+miguel55417 : suit. 30
+*** FLOP *** [Qc Td Kh]
+miguel55417 : parole 
+km.hs777 : mise. 60 et est all-in.
+miguel55417 : suit. 60
+*** TOURNANT *** [Qc Td Kh] [4d]
+*** RIVIÈRE *** [Qc Td Kh 4d] [8h]
+*** ABATTAGE ***
+miguel55417 : montre [Qs 7d] (une paire de Dames)
+km.hs777 : montre [2d 8s] (une paire de Huit)
+miguel55417 a remporté 240  lors du pot .
+km.hs777 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Qc Td Kh 4d 8h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : miguel55417 (petite blind) a montré [Qs 7d] et a gagné (240) avec une paire de Dames
+Siège 3 : km.hs777 (grosse blind) a montré [2d 8s] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°238598381311 : Tournoi #3470581326, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 14:15:52 CET [13/09/2022 8:15:52 ET]
+Table '3470581326 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 2: miguel55417 (450 en jetons) 
+miguel55417 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Qh]
+miguel55417 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à miguel55417.
+miguel55417 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : miguel55417 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°238598382632 : Tournoi #3470581326, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 14:15:58 CET [13/09/2022 8:15:58 ET]
+Table '3470581326 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: miguel55417 (480 en jetons) 
+psychoman59 : met la petite blind. 15
+miguel55417 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à miguel55417.
+miguel55417 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : miguel55417 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°238598383706 : Tournoi #3470581326, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 14:16:03 CET [13/09/2022 8:16:03 ET]
+Table '3470581326 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (405 en jetons) 
+Place 2: miguel55417 (495 en jetons) 
+miguel55417 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Jc]
+miguel55417 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9s 4h 3d]
+psychoman59 : mise. 60
+miguel55417 : suit. 60
+*** TOURNANT *** [9s 4h 3d] [6h]
+psychoman59 : mise. 90
+miguel55417 : suit. 90
+*** RIVIÈRE *** [9s 4h 3d 6h] [Th]
+psychoman59 : mise. 180
+miguel55417 : suit. 180
+*** ABATTAGE ***
+psychoman59 : montre [9h Jc] (une paire de Neuf)
+miguel55417 : cache la main perdante. 
+psychoman59 a remporté 720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [9s 4h 3d 6h Th]
+Siège 1 : psychoman59 (grosse blind) a montré [9h Jc] et a gagné (720) avec une paire de Neuf
+Siège 2 : miguel55417 (bouton) (petite blind) a caché la main perdante. [2s 4s]
+
+
+
+Main PokerStars n°238598388950 : Tournoi #3470581326, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 14:16:30 CET [13/09/2022 8:16:30 ET]
+Table '3470581326 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (765 en jetons) 
+Place 2: miguel55417 (135 en jetons) 
+psychoman59 : met la petite blind. 20
+miguel55417 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à miguel55417.
+miguel55417 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : miguel55417 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238598390146 : Tournoi #3470581326, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 14:16:35 CET [13/09/2022 8:16:35 ET]
+Table '3470581326 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (745 en jetons) 
+Place 2: miguel55417 (155 en jetons) 
+miguel55417 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ks]
+miguel55417 : relance. 115 à 155 et est all-in.
+psychoman59 : suit. 115
+*** FLOP *** [Jh 2d 5h]
+*** TOURNANT *** [Jh 2d 5h] [9d]
+*** RIVIÈRE *** [Jh 2d 5h 9d] [5c]
+*** ABATTAGE ***
+psychoman59 : montre [6d Ks] (une paire de Cinq)
+miguel55417 : montre [6s Qc] (une paire de Cinq - plus basse kicker)
+psychoman59 a remporté 310  lors du pot .
+miguel55417 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 5.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Tableau [Jh 2d 5h 9d 5c]
+Siège 1 : psychoman59 (grosse blind) a montré [6d Ks] et a gagné (310) avec une paire de Cinq
+Siège 2 : miguel55417 (bouton) (petite blind) a montré [6s Qc] et a perdu avec une paire de Cinq
+
+
+

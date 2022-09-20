@@ -1,0 +1,481 @@
+﻿Main PokerStars n°237294125197 : Tournoi #3439940145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 16:22:06 CET [11/07/2022 10:22:06 ET]
+Table '3439940145 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: baloo59650 (300 en jetons) 
+Place 3: lefoull (300 en jetons) 
+baloo59650 : met la petite blind. 10
+lefoull : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 8c]
+psychoman59 : suit. 20
+baloo59650 : suit. 10
+lefoull : parole 
+*** FLOP *** [7c Qs 5s]
+baloo59650 : parole 
+lefoull : mise. 60
+psychoman59 : passe. 
+baloo59650 : passe. 
+Personne n'a suivi. (60) sont retournés à lefoull.
+lefoull a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7c Qs 5s]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : baloo59650 (petite blind) s'est couché. sur le Flop
+Siège 3 : lefoull (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237294129993 : Tournoi #3439940145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 16:22:25 CET [11/07/2022 10:22:25 ET]
+Table '3439940145 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: baloo59650 (280 en jetons) 
+Place 3: lefoull (340 en jetons) 
+lefoull : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 4s]
+baloo59650 : passe. 
+lefoull : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Tc Jh 5c]
+lefoull : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Tc Jh 5c] [Ks]
+lefoull : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Tc Jh 5c Ks] [2h]
+lefoull : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+lefoull : montre [4h Qd] (Hauteur Roi)
+psychoman59 : montre [Qh 4s] (Hauteur Roi)
+lefoull a remporté 20  lors du pot .
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Tc Jh 5c Ks 2h]
+Siège 1 : psychoman59 (grosse blind) a montré [Qh 4s] et a gagné (20) avec Hauteur Roi
+Siège 2 : baloo59650 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : lefoull (petite blind) a montré [4h Qd] et a gagné (20) avec Hauteur Roi
+
+
+
+Main PokerStars n°237294137244 : Tournoi #3439940145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 16:22:55 CET [11/07/2022 10:22:55 ET]
+Table '3439940145 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: baloo59650 (280 en jetons) 
+Place 3: lefoull (340 en jetons) 
+psychoman59 : met la petite blind. 10
+baloo59650 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 4s]
+lefoull : relance. 20 à 40
+psychoman59 : passe. 
+baloo59650 : suit. 20
+*** FLOP *** [7c 3h Td]
+baloo59650 : mise. 20
+lefoull : suit. 20
+*** TOURNANT *** [7c 3h Td] [Ah]
+baloo59650 : mise. 20
+lefoull : suit. 20
+*** RIVIÈRE *** [7c 3h Td Ah] [5d]
+baloo59650 : parole 
+lefoull : parole 
+*** ABATTAGE ***
+baloo59650 : montre [Kc 9h] (Hauteur As)
+lefoull : montre [7d 8s] (une paire de Sept)
+lefoull a remporté 170  lors du pot .
+*** SYNTHÈSE ***
+Pot total 170 | Commission 0 
+Tableau [7c 3h Td Ah 5d]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : baloo59650 (grosse blind) a montré [Kc 9h] et a perdu avec Hauteur As
+Siège 3 : lefoull (bouton) a montré [7d 8s] et a gagné (170) avec une paire de Sept
+
+
+
+Main PokerStars n°237294143878 : Tournoi #3439940145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 16:23:22 CET [11/07/2022 10:23:22 ET]
+Table '3439940145 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: baloo59650 (200 en jetons) 
+Place 3: lefoull (430 en jetons) 
+baloo59650 : met la petite blind. 15
+lefoull : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 6c]
+psychoman59 : passe. 
+baloo59650 : suit. 15
+lefoull : relance. 400 à 430 et est all-in.
+baloo59650 : suit. 170 et est all-in.
+Personne n'a suivi. (230) sont retournés à lefoull.
+*** FLOP *** [Th Ad 3s]
+*** TOURNANT *** [Th Ad 3s] [7s]
+*** RIVIÈRE *** [Th Ad 3s 7s] [6h]
+*** ABATTAGE ***
+baloo59650 : montre [Ts Qs] (une paire de Dix)
+lefoull : montre [8s Ac] (une paire de As)
+lefoull a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [Th Ad 3s 7s 6h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : baloo59650 (petite blind) a montré [Ts Qs] et a perdu avec une paire de Dix
+Siège 3 : lefoull (grosse blind) a montré [8s Ac] et a gagné (400) avec une paire de As
+
+
+
+Main PokerStars n°237294148922 : Tournoi #3439940145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 16:23:42 CET [11/07/2022 10:23:42 ET]
+Table '3439940145 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 3: lefoull (630 en jetons) 
+lefoull : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Jc]
+lefoull : suit. 15
+psychoman59 : parole 
+*** FLOP *** [8c 7s 9d]
+psychoman59 : parole 
+lefoull : parole 
+*** TOURNANT *** [8c 7s 9d] [7d]
+psychoman59 : parole 
+lefoull : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [8c 7s 9d 7d] [Ks]
+psychoman59 : parole 
+lefoull : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à lefoull.
+lefoull a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8c 7s 9d 7d Ks]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : lefoull (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237294156154 : Tournoi #3439940145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 16:24:12 CET [11/07/2022 10:24:12 ET]
+Table '3439940145 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (210 en jetons) 
+Place 3: lefoull (690 en jetons) 
+psychoman59 : met la petite blind. 20
+lefoull : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à lefoull.
+lefoull a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : lefoull (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237294157579 : Tournoi #3439940145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 16:24:18 CET [11/07/2022 10:24:18 ET]
+Table '3439940145 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (190 en jetons) 
+Place 3: lefoull (710 en jetons) 
+lefoull : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 2c]
+lefoull : suit. 20
+psychoman59 : parole 
+*** FLOP *** [8s 5s 4s]
+psychoman59 : parole 
+lefoull : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à lefoull.
+lefoull a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8s 5s 4s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : lefoull (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237294161704 : Tournoi #3439940145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 16:24:35 CET [11/07/2022 10:24:35 ET]
+Table '3439940145 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (150 en jetons) 
+Place 3: lefoull (750 en jetons) 
+psychoman59 : met la petite blind. 20
+lefoull : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 9c]
+psychoman59 : relance. 110 à 150 et est all-in.
+lefoull : passe. 
+Personne n'a suivi. (110) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : lefoull (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237294163907 : Tournoi #3439940145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 16:24:43 CET [11/07/2022 10:24:43 ET]
+Table '3439940145 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (190 en jetons) 
+Place 3: lefoull (710 en jetons) 
+lefoull : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 4s]
+lefoull : suit. 20
+psychoman59 : parole 
+*** FLOP *** [7c Qs 5h]
+psychoman59 : parole 
+lefoull : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à lefoull.
+lefoull a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [7c Qs 5h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : lefoull (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237294167033 : Tournoi #3439940145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 16:24:57 CET [11/07/2022 10:24:57 ET]
+Table '3439940145 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (150 en jetons) 
+Place 3: lefoull (750 en jetons) 
+psychoman59 : met la petite blind. 20
+lefoull : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à lefoull.
+lefoull a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : lefoull (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237294168230 : Tournoi #3439940145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 16:25:02 CET [11/07/2022 10:25:02 ET]
+Table '3439940145 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (130 en jetons) 
+Place 3: lefoull (770 en jetons) 
+lefoull : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Ad]
+lefoull : relance. 730 à 770 et est all-in.
+psychoman59 : suit. 90 et est all-in.
+Personne n'a suivi. (640) sont retournés à lefoull.
+*** FLOP *** [9d 6s 8d]
+*** TOURNANT *** [9d 6s 8d] [8h]
+*** RIVIÈRE *** [9d 6s 8d 8h] [Tc]
+*** ABATTAGE ***
+psychoman59 : montre [2h Ad] (une paire de Huit)
+lefoull : montre [4d Qh] (une paire de Huit - plus basse kicker)
+psychoman59 a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [9d 6s 8d 8h Tc]
+Siège 1 : psychoman59 (grosse blind) a montré [2h Ad] et a gagné (260) avec une paire de Huit
+Siège 3 : lefoull (bouton) (petite blind) a montré [4d Qh] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°237294172450 : Tournoi #3439940145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 16:25:19 CET [11/07/2022 10:25:19 ET]
+Table '3439940145 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 3: lefoull (640 en jetons) 
+psychoman59 : met la petite blind. 30
+lefoull : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à lefoull.
+lefoull a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : lefoull (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237294173641 : Tournoi #3439940145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 16:25:23 CET [11/07/2022 10:25:23 ET]
+Table '3439940145 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (230 en jetons) 
+Place 3: lefoull (670 en jetons) 
+lefoull : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 3d]
+lefoull : relance. 610 à 670 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (610) sont retournés à lefoull.
+lefoull a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : lefoull (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237294175510 : Tournoi #3439940145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 16:25:31 CET [11/07/2022 10:25:31 ET]
+Table '3439940145 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (170 en jetons) 
+Place 3: lefoull (730 en jetons) 
+psychoman59 : met la petite blind. 30
+lefoull : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Jh]
+psychoman59 : relance. 110 à 170 et est all-in.
+lefoull : passe. 
+Personne n'a suivi. (110) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : lefoull (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237294177347 : Tournoi #3439940145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 16:25:39 CET [11/07/2022 10:25:39 ET]
+Table '3439940145 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (230 en jetons) 
+Place 3: lefoull (670 en jetons) 
+lefoull : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 9d]
+lefoull : relance. 610 à 670 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (610) sont retournés à lefoull.
+lefoull a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : lefoull (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237294179190 : Tournoi #3439940145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 16:25:46 CET [11/07/2022 10:25:46 ET]
+Table '3439940145 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (170 en jetons) 
+Place 3: lefoull (730 en jetons) 
+psychoman59 : met la petite blind. 30
+lefoull : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à lefoull.
+lefoull a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : lefoull (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237294180301 : Tournoi #3439940145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 16:25:51 CET [11/07/2022 10:25:51 ET]
+Table '3439940145 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (140 en jetons) 
+Place 3: lefoull (760 en jetons) 
+lefoull : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h As]
+lefoull : relance. 700 à 760 et est all-in.
+psychoman59 : suit. 80 et est all-in.
+Personne n'a suivi. (620) sont retournés à lefoull.
+*** FLOP *** [9d Td 2d]
+*** TOURNANT *** [9d Td 2d] [6h]
+*** RIVIÈRE *** [9d Td 2d 6h] [Ac]
+*** ABATTAGE ***
+psychoman59 : montre [8h As] (une paire de As)
+lefoull : montre [2s Qh] (une paire de Deux)
+psychoman59 a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [9d Td 2d 6h Ac]
+Siège 1 : psychoman59 (grosse blind) a montré [8h As] et a gagné (280) avec une paire de As
+Siège 3 : lefoull (bouton) (petite blind) a montré [2s Qh] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°237294185121 : Tournoi #3439940145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/07/2022 16:26:10 CET [11/07/2022 10:26:10 ET]
+Table '3439940145 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 3: lefoull (620 en jetons) 
+psychoman59 : met la petite blind. 40
+lefoull : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Tc]
+psychoman59 : relance. 200 à 280 et est all-in.
+lefoull : suit. 200
+*** FLOP *** [7s 4s 3c]
+*** TOURNANT *** [7s 4s 3c] [Ts]
+*** RIVIÈRE *** [7s 4s 3c Ts] [5s]
+*** ABATTAGE ***
+lefoull : montre [Ad Kh] (Hauteur As)
+psychoman59 : montre [9c Tc] (une paire de Dix)
+psychoman59 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [7s 4s 3c Ts 5s]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [9c Tc] et a gagné (560) avec une paire de Dix
+Siège 3 : lefoull (grosse blind) a montré [Ad Kh] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237294189031 : Tournoi #3439940145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/07/2022 16:26:26 CET [11/07/2022 10:26:26 ET]
+Table '3439940145 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (560 en jetons) 
+Place 3: lefoull (340 en jetons) 
+lefoull : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 5c]
+lefoull : suit. 40
+psychoman59 : parole 
+*** FLOP *** [6d 3h Td]
+psychoman59 : parole 
+lefoull : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à lefoull.
+lefoull a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [6d 3h Td]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : lefoull (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°237294192910 : Tournoi #3439940145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/07/2022 16:26:42 CET [11/07/2022 10:26:42 ET]
+Table '3439940145 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 3: lefoull (420 en jetons) 
+psychoman59 : met la petite blind. 40
+lefoull : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Kc]
+psychoman59 : relance. 400 à 480 et est all-in.
+lefoull : suit. 340 et est all-in.
+Personne n'a suivi. (60) sont retournés à psychoman59.
+*** FLOP *** [Js 3s Tc]
+*** TOURNANT *** [Js 3s Tc] [8s]
+*** RIVIÈRE *** [Js 3s Tc 8s] [3c]
+*** ABATTAGE ***
+lefoull : montre [Ah Qs] (une paire de Trois)
+psychoman59 : montre [Ad Kc] (une paire de Trois - As+Roi kicker)
+psychoman59 a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [Js 3s Tc 8s 3c]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Ad Kc] et a gagné (840) avec une paire de Trois
+Siège 3 : lefoull (grosse blind) a montré [Ah Qs] et a perdu avec une paire de Trois
+
+
+

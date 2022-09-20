@@ -1,0 +1,388 @@
+﻿Main PokerStars n°237310169282 : Tournoi #3440312161, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/07/2022 10:21:36 CET [12/07/2022 4:21:36 ET]
+Table '3440312161 1' 3-max Siège #1 est au bouton.
+Place 1: manu92eliott (300 en jetons) 
+Place 2: baker06000 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+baker06000 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 3h]
+manu92eliott : suit. 20
+baker06000 : passe. 
+psychoman59 : parole 
+*** FLOP *** [6s Ad 6h]
+psychoman59 : parole 
+manu92eliott : parole 
+*** TOURNANT *** [6s Ad 6h] [Ah]
+psychoman59 : parole 
+manu92eliott : parole 
+*** RIVIÈRE *** [6s Ad 6h Ah] [As]
+psychoman59 : parole 
+manu92eliott : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+manu92eliott : montre [Qc 9c] (un full, full aux As par les Six)
+psychoman59 : montre [7s 3h] (un full, full aux As par les Six)
+psychoman59 a remporté 45  lors du pot .
+manu92eliott a remporté 45  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [6s Ad 6h Ah As]
+Siège 1 : manu92eliott (bouton) a montré [Qc 9c] et a gagné (45) avec un full, full aux As par les Six
+Siège 2 : baker06000 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [7s 3h] et a gagné (45) avec un full, full aux As par les Six
+
+
+
+Main PokerStars n°237310173321 : Tournoi #3440312161, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/07/2022 10:22:09 CET [12/07/2022 4:22:09 ET]
+Table '3440312161 1' 3-max Siège #2 est au bouton.
+Place 1: manu92eliott (305 en jetons) 
+Place 2: baker06000 (290 en jetons) 
+Place 3: psychoman59 (305 en jetons) 
+psychoman59 : met la petite blind. 10
+manu92eliott : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 7c]
+baker06000 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à manu92eliott.
+manu92eliott a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : manu92eliott (grosse blind) a remporté (20)
+Siège 2 : baker06000 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237310174342 : Tournoi #3440312161, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/07/2022 10:22:18 CET [12/07/2022 4:22:18 ET]
+Table '3440312161 1' 3-max Siège #3 est au bouton.
+Place 1: manu92eliott (315 en jetons) 
+Place 2: baker06000 (290 en jetons) 
+Place 3: psychoman59 (295 en jetons) 
+manu92eliott : met la petite blind. 10
+baker06000 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 3d]
+psychoman59 : passe. 
+manu92eliott : suit. 10
+baker06000 : parole 
+*** FLOP *** [5c 8c 2d]
+manu92eliott : parole 
+baker06000 a dépassé le temps imparti.
+baker06000 : parole 
+*** TOURNANT *** [5c 8c 2d] [As]
+manu92eliott : parole 
+baker06000 : parole 
+*** RIVIÈRE *** [5c 8c 2d As] [Qd]
+manu92eliott : parole 
+baker06000 : parole 
+*** ABATTAGE ***
+manu92eliott : montre [Td 4d] (Hauteur As)
+baker06000 : montre [6d Ks] (Hauteur As - Roi kicker)
+baker06000 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5c 8c 2d As Qd]
+Siège 1 : manu92eliott (petite blind) a montré [Td 4d] et a perdu avec Hauteur As
+Siège 2 : baker06000 (grosse blind) a montré [6d Ks] et a gagné (40) avec Hauteur As
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237310181651 : Tournoi #3440312161, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/07/2022 10:23:18 CET [12/07/2022 4:23:18 ET]
+Table '3440312161 1' 3-max Siège #1 est au bouton.
+Place 1: manu92eliott (295 en jetons) 
+Place 2: baker06000 (310 en jetons) 
+Place 3: psychoman59 (295 en jetons) 
+baker06000 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 2s]
+manu92eliott : suit. 30
+baker06000 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [4d Ah Qc]
+baker06000 : parole 
+psychoman59 : parole 
+manu92eliott : parole 
+*** TOURNANT *** [4d Ah Qc] [4c]
+baker06000 : mise. 30
+psychoman59 : passe. 
+manu92eliott : suit. 30
+*** RIVIÈRE *** [4d Ah Qc 4c] [9h]
+baker06000 : mise. 60
+manu92eliott : passe. 
+Personne n'a suivi. (60) sont retournés à baker06000.
+baker06000 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [4d Ah Qc 4c 9h]
+Siège 1 : manu92eliott (bouton) s'est couché. sur le Rivière
+Siège 2 : baker06000 (petite blind) a remporté (150)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237310188612 : Tournoi #3440312161, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/07/2022 10:24:16 CET [12/07/2022 4:24:16 ET]
+Table '3440312161 1' 3-max Siège #2 est au bouton.
+Place 1: manu92eliott (235 en jetons) 
+Place 2: baker06000 (400 en jetons) 
+Place 3: psychoman59 (265 en jetons) 
+psychoman59 : met la petite blind. 20
+manu92eliott : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 3d]
+baker06000 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à manu92eliott.
+manu92eliott a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : manu92eliott (grosse blind) a remporté (40)
+Siège 2 : baker06000 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237310189717 : Tournoi #3440312161, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/07/2022 10:24:25 CET [12/07/2022 4:24:25 ET]
+Table '3440312161 1' 3-max Siège #3 est au bouton.
+Place 1: manu92eliott (255 en jetons) 
+Place 2: baker06000 (400 en jetons) 
+Place 3: psychoman59 (245 en jetons) 
+manu92eliott : met la petite blind. 20
+baker06000 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 6d]
+psychoman59 : relance. 205 à 245 et est all-in.
+manu92eliott : relance. 10 à 255 et est all-in.
+baker06000 : passe. 
+Personne n'a suivi. (10) sont retournés à manu92eliott.
+*** FLOP *** [8s 6s 7d]
+*** TOURNANT *** [8s 6s 7d] [9h]
+*** RIVIÈRE *** [8s 6s 7d 9h] [5s]
+*** ABATTAGE ***
+manu92eliott : montre [6c 6h] (une suite, Cinq à Neuf)
+psychoman59 : montre [As 6d] (une suite, Cinq à Neuf)
+manu92eliott a remporté 265  lors du pot .
+psychoman59 a remporté 265  lors du pot .
+*** SYNTHÈSE ***
+Pot total 530 | Commission 0 
+Tableau [8s 6s 7d 9h 5s]
+Siège 1 : manu92eliott (petite blind) a montré [6c 6h] et a gagné (265) avec une suite, Cinq à Neuf
+Siège 2 : baker06000 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [As 6d] et a gagné (265) avec une suite, Cinq à Neuf
+
+
+
+Main PokerStars n°237310192719 : Tournoi #3440312161, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/07/2022 10:24:50 CET [12/07/2022 4:24:50 ET]
+Table '3440312161 1' 3-max Siège #1 est au bouton.
+Place 1: manu92eliott (275 en jetons) 
+Place 2: baker06000 (360 en jetons) 
+Place 3: psychoman59 (265 en jetons) 
+baker06000 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 7d]
+manu92eliott : passe. 
+baker06000 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : manu92eliott (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : baker06000 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237310194076 : Tournoi #3440312161, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/07/2022 10:25:00 CET [12/07/2022 4:25:00 ET]
+Table '3440312161 1' 3-max Siège #2 est au bouton.
+Place 1: manu92eliott (275 en jetons) 
+Place 2: baker06000 (330 en jetons) 
+Place 3: psychoman59 (295 en jetons) 
+psychoman59 : met la petite blind. 30
+manu92eliott : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 2c]
+baker06000 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à manu92eliott.
+manu92eliott a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : manu92eliott (grosse blind) a remporté (60)
+Siège 2 : baker06000 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237310195187 : Tournoi #3440312161, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/07/2022 10:25:09 CET [12/07/2022 4:25:09 ET]
+Table '3440312161 1' 3-max Siège #3 est au bouton.
+Place 1: manu92eliott (305 en jetons) 
+Place 2: baker06000 (330 en jetons) 
+Place 3: psychoman59 (265 en jetons) 
+manu92eliott : met la petite blind. 30
+baker06000 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Jc]
+psychoman59 : relance. 120 à 180
+manu92eliott : passe. 
+baker06000 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : manu92eliott (petite blind) s'est couché. avant Flop
+Siège 2 : baker06000 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (150)
+
+
+
+Main PokerStars n°237310197671 : Tournoi #3440312161, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/07/2022 10:25:30 CET [12/07/2022 4:25:30 ET]
+Table '3440312161 1' 3-max Siège #1 est au bouton.
+Place 1: manu92eliott (275 en jetons) 
+Place 2: baker06000 (270 en jetons) 
+Place 3: psychoman59 (355 en jetons) 
+baker06000 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 5h]
+manu92eliott : relance. 60 à 120
+baker06000 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à manu92eliott.
+manu92eliott a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : manu92eliott (bouton) a remporté (150)
+Siège 2 : baker06000 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237310199028 : Tournoi #3440312161, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/07/2022 10:25:41 CET [12/07/2022 4:25:41 ET]
+Table '3440312161 1' 3-max Siège #2 est au bouton.
+Place 1: manu92eliott (365 en jetons) 
+Place 2: baker06000 (240 en jetons) 
+Place 3: psychoman59 (295 en jetons) 
+psychoman59 : met la petite blind. 40
+manu92eliott : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 4h]
+baker06000 : suit. 80
+psychoman59 : passe. 
+manu92eliott : parole 
+*** FLOP *** [6d 9s 9d]
+manu92eliott : parole 
+baker06000 : parole 
+*** TOURNANT *** [6d 9s 9d] [Jd]
+manu92eliott : parole 
+baker06000 : parole 
+*** RIVIÈRE *** [6d 9s 9d Jd] [8d]
+manu92eliott : parole 
+baker06000 : parole 
+*** ABATTAGE ***
+manu92eliott : montre [Qs 3c] (une paire de Neuf)
+baker06000 : montre [Kh Th] (une paire de Neuf - Roi kicker)
+baker06000 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [6d 9s 9d Jd 8d]
+Siège 1 : manu92eliott (grosse blind) a montré [Qs 3c] et a perdu avec une paire de Neuf
+Siège 2 : baker06000 (bouton) a montré [Kh Th] et a gagné (200) avec une paire de Neuf
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237310201497 : Tournoi #3440312161, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/07/2022 10:26:01 CET [12/07/2022 4:26:01 ET]
+Table '3440312161 1' 3-max Siège #3 est au bouton.
+Place 1: manu92eliott (285 en jetons) 
+Place 2: baker06000 (360 en jetons) 
+Place 3: psychoman59 (255 en jetons) 
+manu92eliott : met la petite blind. 40
+baker06000 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Jd]
+psychoman59 : relance. 175 à 255 et est all-in.
+manu92eliott : passe. 
+baker06000 : passe. 
+Personne n'a suivi. (175) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : manu92eliott (petite blind) s'est couché. avant Flop
+Siège 2 : baker06000 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (200)
+
+
+
+Main PokerStars n°237310203013 : Tournoi #3440312161, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/07/2022 10:26:14 CET [12/07/2022 4:26:14 ET]
+Table '3440312161 1' 3-max Siège #1 est au bouton.
+Place 1: manu92eliott (245 en jetons) 
+Place 2: baker06000 (280 en jetons) 
+Place 3: psychoman59 (375 en jetons) 
+baker06000 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Th]
+manu92eliott : suit. 80
+baker06000 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Tc Kd 2d]
+psychoman59 : parole 
+manu92eliott : parole 
+*** TOURNANT *** [Tc Kd 2d] [Ac]
+psychoman59 : parole 
+manu92eliott : parole 
+*** RIVIÈRE *** [Tc Kd 2d Ac] [6c]
+psychoman59 : parole 
+manu92eliott : mise. 80
+psychoman59 : suit. 80
+*** ABATTAGE ***
+manu92eliott : montre [4c 3c] (une couleur, hauteur As)
+psychoman59 : cache la main perdante. 
+manu92eliott a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Tc Kd 2d Ac 6c]
+Siège 1 : manu92eliott (bouton) a montré [4c 3c] et a gagné (360) avec une couleur, hauteur As
+Siège 2 : baker06000 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [Qs Th]
+
+
+
+Main PokerStars n°237310206655 : Tournoi #3440312161, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 12/07/2022 10:26:43 CET [12/07/2022 4:26:43 ET]
+Table '3440312161 1' 3-max Siège #2 est au bouton.
+Place 1: manu92eliott (445 en jetons) 
+Place 2: baker06000 (240 en jetons) 
+Place 3: psychoman59 (215 en jetons) 
+psychoman59 : met la petite blind. 50
+manu92eliott : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Ts]
+baker06000 : relance. 100 à 200
+psychoman59 : relance. 15 à 215 et est all-in.
+manu92eliott : suit. 115
+baker06000 : suit. 15
+*** FLOP *** [2d 7c 2s]
+manu92eliott : mise. 100
+baker06000 : suit. 25 et est all-in.
+Personne n'a suivi. (75) sont retournés à manu92eliott.
+*** TOURNANT *** [2d 7c 2s] [Kh]
+*** RIVIÈRE *** [2d 7c 2s Kh] [Th]
+*** ABATTAGE ***
+manu92eliott : montre [9h Ah] (une paire de Deux)
+baker06000 : montre [Qc Kc] (double paire, Rois et Deux)
+baker06000 a remporté 50  parallèle lors du pot .
+psychoman59 : montre [Ac Ts] (double paire, Dix et Deux)
+baker06000 a remporté 645  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 695 Principal pot 645. Parallèle pot 50. | Commission 0 
+Tableau [2d 7c 2s Kh Th]
+Siège 1 : manu92eliott (grosse blind) a montré [9h Ah] et a perdu avec une paire de Deux
+Siège 2 : baker06000 (bouton) a montré [Qc Kc] et a gagné (695) avec double paire, Rois et Deux
+Siège 3 : psychoman59 (petite blind) a montré [Ac Ts] et a perdu avec double paire, Dix et Deux
+
+
+

@@ -1,0 +1,90 @@
+﻿Main PokerStars n°237268259740 : Tournoi #3439348442, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2022 8:06:39 CET [10/07/2022 2:06:39 ET]
+Table '3439348442 1' 3-max Siège #1 est au bouton.
+Place 1: datt1407 (300 en jetons) 
+Place 2: MonRSAtaBR (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+MonRSAtaBR : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 9s]
+datt1407 : relance. 280 à 300 et est all-in.
+MonRSAtaBR : suit. 290 et est all-in.
+psychoman59 : passe. 
+*** FLOP *** [Ah 2s 9c]
+*** TOURNANT *** [Ah 2s 9c] [As]
+*** RIVIÈRE *** [Ah 2s 9c As] [Td]
+*** ABATTAGE ***
+MonRSAtaBR : montre [7d 7c] (double paire, As et Sept)
+datt1407 : montre [5s 5d] (double paire, As et Cinq)
+MonRSAtaBR a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Ah 2s 9c As Td]
+Siège 1 : datt1407 (bouton) a montré [5s 5d] et a perdu avec double paire, As et Cinq
+Siège 2 : MonRSAtaBR (petite blind) a montré [7d 7c] et a gagné (620) avec double paire, As et Sept
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237268262177 : Tournoi #3439348442, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2022 8:07:00 CET [10/07/2022 2:07:00 ET]
+Table '3439348442 1' 3-max Siège #3 est au bouton.
+Place 2: MonRSAtaBR (620 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+MonRSAtaBR : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à MonRSAtaBR.
+MonRSAtaBR a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : MonRSAtaBR (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237268263023 : Tournoi #3439348442, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2022 8:07:08 CET [10/07/2022 2:07:08 ET]
+Table '3439348442 1' 3-max Siège #2 est au bouton.
+Place 2: MonRSAtaBR (630 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+MonRSAtaBR : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 8d]
+MonRSAtaBR : relance. 20 à 40
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à MonRSAtaBR.
+MonRSAtaBR a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : MonRSAtaBR (bouton) (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237268264186 : Tournoi #3439348442, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2022 8:07:18 CET [10/07/2022 2:07:18 ET]
+Table '3439348442 1' 3-max Siège #3 est au bouton.
+Place 2: MonRSAtaBR (650 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+psychoman59 : met la petite blind. 10
+MonRSAtaBR : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Kd]
+psychoman59 : relance. 230 à 250 et est all-in.
+MonRSAtaBR : suit. 230
+*** FLOP *** [7c Ad Js]
+*** TOURNANT *** [7c Ad Js] [5s]
+*** RIVIÈRE *** [7c Ad Js 5s] [5d]
+*** ABATTAGE ***
+MonRSAtaBR : montre [Jc Kc] (double paire, Valets et Cinq)
+psychoman59 : montre [7h Kd] (double paire, Sept et Cinq)
+MonRSAtaBR a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [7c Ad Js 5s 5d]
+Siège 2 : MonRSAtaBR (grosse blind) a montré [Jc Kc] et a gagné (500) avec double paire, Valets et Cinq
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [7h Kd] et a perdu avec double paire, Sept et Cinq
+
+
+

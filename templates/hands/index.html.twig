@@ -1,0 +1,50 @@
+{% extends 'base.html.twig' %}
+{% from 'hands/macro_cards_figures.html.twig' import macro_cards_figures %}
+{% block title %}Pokerstats{% endblock %}
+
+{% block body %}
+    <div class="container">
+        <section id="main-content">
+            <section class="wrapper">
+                <div class="row text-center">
+                   <div class="col"><h3> Meilleures Mains</h3></div>
+                </div>
+                <div class="row">
+                {%  for best_hand in best_hands %}
+                    {%  set cards = [best_hand.idCard1,best_hand.idCard2] %}
+
+                    <div class="col">
+                        {%  for card in cards %}
+                            {{ macro_cards_figures(card) }}
+
+                        {% endfor %}
+                        <div class="text-center">
+                            <h5 class="">{{ best_hand.win }}/{{ best_hand.count }}</h5>
+                        </div>
+                    </div>
+
+                {% endfor %}
+                </div>
+                <div class="row text-center">
+                    <div class="col"><h3> Pires Mains</h3></div>
+                </div>
+                <div class="row">
+                    {%  for worst_hand in worst_hands %}
+                        {%  set cards_worst = [worst_hand.idCard1,worst_hand.idCard2] %}
+
+                        <div class="col">
+                            {%  for card_worst in cards_worst %}
+                                {{ macro_cards_figures(card_worst) }}
+
+                            {% endfor %}
+                            <div class="text-center">
+                                <h5 class="">{{ worst_hand.win }}/{{ worst_hand.count }}</h5>
+                            </div>
+                        </div>
+
+                    {% endfor %}
+                </div>
+            </section>
+        </section>
+    </div>
+{% endblock %}

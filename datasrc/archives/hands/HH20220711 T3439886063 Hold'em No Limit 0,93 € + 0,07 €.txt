@@ -1,0 +1,58 @@
+﻿Main PokerStars n°237292052232 : Tournoi #3439886063, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 13:36:59 CET [11/07/2022 7:36:59 ET]
+Table '3439886063 1' 3-max Siège #1 est au bouton.
+Place 1: guizmogood (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: carredas56000 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+carredas56000 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 9c]
+guizmogood : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à carredas56000.
+carredas56000 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : guizmogood (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : carredas56000 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237292053310 : Tournoi #3439886063, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 13:37:05 CET [11/07/2022 7:37:05 ET]
+Table '3439886063 1' 3-max Siège #2 est au bouton.
+Place 1: guizmogood (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: carredas56000 (310 en jetons) 
+carredas56000 : met la petite blind. 10
+guizmogood : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Qc]
+psychoman59 : relance. 50 à 70
+carredas56000 : suit. 60
+guizmogood : suit. 50
+*** FLOP *** [8s 7h 2c]
+carredas56000 : parole 
+guizmogood : parole 
+psychoman59 : mise. 210
+carredas56000 : relance. 30 à 240 et est all-in.
+guizmogood : suit. 230 et est all-in.
+psychoman59 : suit. 10 et est all-in.
+Personne n'a suivi. (10) sont retournés à carredas56000.
+*** TOURNANT *** [8s 7h 2c] [2s]
+*** RIVIÈRE *** [8s 7h 2c 2s] [8c]
+*** ABATTAGE ***
+carredas56000 : montre [Ah 7d] (double paire, Huit et Sept)
+guizmogood : montre [As 8h] (un full, full aux Huit par les Deux)
+guizmogood a remporté 20  parallèle lors du pot .
+psychoman59 : montre [Qd Qc] (double paire, Dames et Huit)
+guizmogood a remporté 870  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 890 Principal pot 870. Parallèle pot 20. | Commission 0 
+Tableau [8s 7h 2c 2s 8c]
+Siège 1 : guizmogood (grosse blind) a montré [As 8h] et a gagné (890) avec un full, full aux Huit par les Deux
+Siège 2 : psychoman59 (bouton) a montré [Qd Qc] et a perdu avec double paire, Dames et Huit
+Siège 3 : carredas56000 (petite blind) a montré [Ah 7d] et a perdu avec double paire, Huit et Sept
+
+
+

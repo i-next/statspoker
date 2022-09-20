@@ -1,0 +1,562 @@
+﻿Main PokerStars n°237860988825 : Tournoi #3453169373, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 11:20:35 CET [08/08/2022 5:20:35 ET]
+Table '3453169373 1' 4-max Siège #1 est au bouton.
+Place 1: cambeltD (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: c2r974 (5000 en jetons) 
+Place 4: villette49 (5000 en jetons) 
+cambeltD : met l'ante. 10
+psychoman59 : met l'ante. 10
+c2r974 : met l'ante. 10
+villette49 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+c2r974 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Qs]
+villette49 : passe. 
+cambeltD : suit. 100
+psychoman59 : suit. 50
+c2r974 est déconnecté 
+c2r974 est connecté 
+c2r974 est déconnecté 
+c2r974 est connecté 
+c2r974 : parole 
+*** FLOP *** [4c 3s 8c]
+psychoman59 : parole 
+c2r974 est déconnecté 
+c2r974 a dépassé le temps imparti. pendant qu'il était déconnecté
+c2r974 : parole 
+c2r974 est déconnecté 
+cambeltD : mise. 170
+psychoman59 : suit. 170
+c2r974 : suit. 170
+*** TOURNANT *** [4c 3s 8c] [Kh]
+psychoman59 : parole 
+c2r974 : parole 
+cambeltD : mise. 425
+psychoman59 : suit. 425
+c2r974 : passe. 
+*** RIVIÈRE *** [4c 3s 8c Kh] [Js]
+psychoman59 : parole 
+cambeltD : mise. 4295 et est all-in.
+psychoman59 : suit. 4295 et est all-in.
+*** ABATTAGE ***
+cambeltD : montre [5s 7d] (Hauteur Roi)
+psychoman59 : montre [Kc Qs] (une paire de Rois)
+psychoman59 a remporté 10290  lors du pot .
+cambeltD a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10290 | Commission 0 
+Tableau [4c 3s 8c Kh Js]
+Siège 1 : cambeltD (bouton) a montré [5s 7d] et a perdu avec Hauteur Roi
+Siège 2 : psychoman59 (petite blind) a montré [Kc Qs] et a gagné (10290) avec une paire de Rois
+Siège 3 : c2r974 (grosse blind) s'est couché. sur le Tournant
+Siège 4 : villette49 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237861009329 : Tournoi #3453169373, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 11:22:59 CET [08/08/2022 5:22:59 ET]
+Table '3453169373 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (10290 en jetons) 
+Place 3: c2r974 (4720 en jetons) 
+Place 4: villette49 (4990 en jetons) 
+psychoman59 : met l'ante. 10
+c2r974 : met l'ante. 10
+villette49 : met l'ante. 10
+c2r974 : met la petite blind. 50
+villette49 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Kh]
+psychoman59 : suit. 100
+c2r974 : suit. 50
+villette49 : relance. 200 à 300
+psychoman59 : passe. 
+c2r974 : suit. 200
+*** FLOP *** [As Ah Ks]
+c2r974 : parole 
+villette49 : mise. 365
+c2r974 : suit. 365
+*** TOURNANT *** [As Ah Ks] [2d]
+c2r974 : parole 
+villette49 : mise. 730
+c2r974 : suit. 730
+*** RIVIÈRE *** [As Ah Ks 2d] [7h]
+c2r974 : parole 
+villette49 : mise. 3585 et est all-in.
+c2r974 : passe. 
+Personne n'a suivi. (3585) sont retournés à villette49.
+villette49 a remporté 2920  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2920 | Commission 0 
+Tableau [As Ah Ks 2d 7h]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 3 : c2r974 (petite blind) s'est couché. sur le Rivière
+Siège 4 : villette49 (grosse blind) a remporté (2920)
+
+
+
+Main PokerStars n°237861018669 : Tournoi #3453169373, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 08/08/2022 11:24:05 CET [08/08/2022 5:24:05 ET]
+Table '3453169373 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (10180 en jetons) 
+Place 3: c2r974 (3315 en jetons) 
+Place 4: villette49 (6505 en jetons) 
+psychoman59 : met l'ante. 15
+c2r974 : met l'ante. 15
+villette49 : met l'ante. 15
+villette49 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 6s]
+c2r974 : relance. 240 à 360
+villette49 : suit. 300
+psychoman59 : passe. 
+*** FLOP *** [2h 8d Kh]
+villette49 : mise. 442
+c2r974 : suit. 442
+*** TOURNANT *** [2h 8d Kh] [3h]
+villette49 : mise. 884
+c2r974 : suit. 884
+*** RIVIÈRE *** [2h 8d Kh 3h] [3c]
+villette49 : mise. 1768
+c2r974 : suit. 1614 et est all-in.
+Personne n'a suivi. (154) sont retournés à villette49.
+*** ABATTAGE ***
+villette49 : montre [8s Jd] (double paire, Huit et Trois)
+c2r974 : montre [9c 8c] (double paire, Huit et Trois)
+villette49 a remporté 3383  lors du pot .
+c2r974 a remporté 3382  lors du pot .
+*** SYNTHÈSE ***
+Pot total 6765 | Commission 0 
+Tableau [2h 8d Kh 3h 3c]
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : c2r974 (bouton) a montré [9c 8c] et a gagné (3382) avec double paire, Huit et Trois
+Siège 4 : villette49 (petite blind) a montré [8s Jd] et a gagné (3383) avec double paire, Huit et Trois
+
+
+
+Main PokerStars n°237861022159 : Tournoi #3453169373, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 08/08/2022 11:24:30 CET [08/08/2022 5:24:30 ET]
+Table '3453169373 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (10045 en jetons) 
+Place 3: c2r974 (3382 en jetons) 
+Place 4: villette49 (6573 en jetons) 
+psychoman59 : met l'ante. 15
+c2r974 : met l'ante. 15
+villette49 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+c2r974 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 8s]
+villette49 : suit. 120
+psychoman59 : suit. 60
+c2r974 : relance. 3247 à 3367 et est all-in.
+villette49 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (3247) sont retournés à c2r974.
+c2r974 a remporté 405  lors du pot .
+*** SYNTHÈSE ***
+Pot total 405 | Commission 0 
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : c2r974 (grosse blind) a remporté (405)
+Siège 4 : villette49 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237861024165 : Tournoi #3453169373, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 08/08/2022 11:24:44 CET [08/08/2022 5:24:44 ET]
+Table '3453169373 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (9910 en jetons) 
+Place 3: c2r974 (3652 en jetons) 
+Place 4: villette49 (6438 en jetons) 
+psychoman59 : met l'ante. 15
+c2r974 : met l'ante. 15
+villette49 : met l'ante. 15
+c2r974 : met la petite blind. 60
+villette49 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 3h]
+psychoman59 : suit. 120
+c2r974 : suit. 60
+villette49 : parole 
+*** FLOP *** [7h 2d Kd]
+c2r974 : parole 
+villette49 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7h 2d Kd] [8s]
+c2r974 : parole 
+villette49 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7h 2d Kd 8s] [Qs]
+c2r974 : parole 
+villette49 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+c2r974 : montre [4d 7s] (une paire de Sept)
+villette49 : cache la main perdante. 
+psychoman59 : cache la main perdante. 
+c2r974 a remporté 405  lors du pot .
+*** SYNTHÈSE ***
+Pot total 405 | Commission 0 
+Tableau [7h 2d Kd 8s Qs]
+Siège 2 : psychoman59 (bouton) a caché la main perdante. [As 3h]
+Siège 3 : c2r974 (petite blind) a montré [4d 7s] et a gagné (405) avec une paire de Sept
+Siège 4 : villette49 (grosse blind) a caché la main perdante. [5c 9d]
+
+
+
+Main PokerStars n°237861032397 : Tournoi #3453169373, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 08/08/2022 11:25:41 CET [08/08/2022 5:25:41 ET]
+Table '3453169373 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (9775 en jetons) 
+Place 3: c2r974 (3922 en jetons) 
+Place 4: villette49 (6303 en jetons) 
+psychoman59 : met l'ante. 15
+c2r974 : met l'ante. 15
+villette49 : met l'ante. 15
+villette49 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 8c]
+c2r974 : passe. 
+villette49 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 165  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (165)
+Siège 3 : c2r974 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : villette49 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237861033441 : Tournoi #3453169373, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 08/08/2022 11:25:49 CET [08/08/2022 5:25:49 ET]
+Table '3453169373 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (9865 en jetons) 
+Place 3: c2r974 (3907 en jetons) 
+Place 4: villette49 (6228 en jetons) 
+psychoman59 : met l'ante. 15
+c2r974 : met l'ante. 15
+villette49 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+c2r974 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 2h]
+villette49 : relance. 240 à 360
+psychoman59 : passe. 
+c2r974 : suit. 240
+*** FLOP *** [4s 4h 3d]
+c2r974 : parole 
+villette49 : mise. 412
+c2r974 : suit. 412
+*** TOURNANT *** [4s 4h 3d] [7s]
+c2r974 : parole 
+villette49 : mise. 5441 et est all-in.
+c2r974 : suit. 3120 et est all-in.
+Personne n'a suivi. (2321) sont retournés à villette49.
+*** RIVIÈRE *** [4s 4h 3d 7s] [2d]
+*** ABATTAGE ***
+c2r974 : montre [Ad 8h] (une paire de Quatre)
+villette49 : montre [5d Ah] (une suite, As à Cinq)
+villette49 a remporté 7889  lors du pot .
+c2r974 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 7889 | Commission 0 
+Tableau [4s 4h 3d 7s 2d]
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : c2r974 (grosse blind) a montré [Ad 8h] et a perdu avec une paire de Quatre
+Siège 4 : villette49 (bouton) a montré [5d Ah] et a gagné (7889) avec une suite, As à Cinq
+
+
+
+Main PokerStars n°237861039754 : Tournoi #3453169373, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 08/08/2022 11:26:32 CET [08/08/2022 5:26:32 ET]
+Table '3453169373 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (9790 en jetons) 
+Place 4: villette49 (10210 en jetons) 
+psychoman59 : met l'ante. 15
+villette49 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+villette49 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Td]
+psychoman59 : suit. 60
+villette49 : parole 
+*** FLOP *** [Ah 9d 9h]
+villette49 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ah 9d 9h] [Ac]
+villette49 : parole 
+psychoman59 : mise. 270
+villette49 : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 270  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [Ah 9d 9h Ac]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (270)
+Siège 4 : villette49 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237861043995 : Tournoi #3453169373, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 08/08/2022 11:27:00 CET [08/08/2022 5:27:00 ET]
+Table '3453169373 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (9925 en jetons) 
+Place 4: villette49 (10075 en jetons) 
+psychoman59 : met l'ante. 20
+villette49 : met l'ante. 20
+villette49 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Js]
+villette49 : relance. 150 à 300
+psychoman59 : suit. 150
+*** FLOP *** [2h 7d Qc]
+psychoman59 : parole 
+villette49 : mise. 320
+psychoman59 : suit. 320
+*** TOURNANT *** [2h 7d Qc] [Kd]
+psychoman59 : parole 
+villette49 : mise. 640
+psychoman59 : suit. 640
+*** RIVIÈRE *** [2h 7d Qc Kd] [6s]
+psychoman59 : parole 
+villette49 : mise. 8795 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (8795) sont retournés à villette49.
+villette49 a remporté 2560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2560 | Commission 0 
+Tableau [2h 7d Qc Kd 6s]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 4 : villette49 (bouton) (petite blind) a remporté (2560)
+
+
+
+Main PokerStars n°237861048062 : Tournoi #3453169373, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 08/08/2022 11:27:29 CET [08/08/2022 5:27:29 ET]
+Table '3453169373 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (8645 en jetons) 
+Place 4: villette49 (11355 en jetons) 
+psychoman59 : met l'ante. 20
+villette49 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+villette49 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Kd]
+psychoman59 : suit. 75
+villette49 : relance. 150 à 300
+psychoman59 : suit. 150
+*** FLOP *** [8s 7c 9d]
+villette49 : parole 
+psychoman59 : mise. 8325 et est all-in.
+villette49 : passe. 
+Personne n'a suivi. (8325) sont retournés à psychoman59.
+psychoman59 a remporté 640  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [8s 7c 9d]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (640)
+Siège 4 : villette49 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237861051583 : Tournoi #3453169373, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 08/08/2022 11:27:52 CET [08/08/2022 5:27:52 ET]
+Table '3453169373 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (8965 en jetons) 
+Place 4: villette49 (11035 en jetons) 
+psychoman59 : met l'ante. 20
+villette49 : met l'ante. 20
+villette49 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 8d]
+villette49 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [As Ad 8s]
+psychoman59 : parole 
+villette49 : parole 
+*** TOURNANT *** [As Ad 8s] [Ks]
+psychoman59 : parole 
+villette49 : mise. 150
+psychoman59 : suit. 150
+*** RIVIÈRE *** [As Ad 8s Ks] [Jc]
+psychoman59 : parole 
+villette49 : mise. 920
+psychoman59 : suit. 920
+*** ABATTAGE ***
+villette49 : montre [7s 6h] (une paire de As)
+psychoman59 : montre [2d 8d] (double paire, As et Huit)
+psychoman59 a remporté 2480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2480 | Commission 0 
+Tableau [As Ad 8s Ks Jc]
+Siège 2 : psychoman59 (grosse blind) a montré [2d 8d] et a gagné (2480) avec double paire, As et Huit
+Siège 4 : villette49 (bouton) (petite blind) a montré [7s 6h] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°237861055094 : Tournoi #3453169373, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 08/08/2022 11:28:16 CET [08/08/2022 5:28:16 ET]
+Table '3453169373 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (10205 en jetons) 
+Place 4: villette49 (9795 en jetons) 
+psychoman59 : met l'ante. 20
+villette49 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+villette49 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 2h]
+psychoman59 : suit. 75
+villette49 : relance. 300 à 450
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à villette49.
+villette49 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : villette49 (grosse blind) a remporté (340)
+
+
+
+Main PokerStars n°237861056607 : Tournoi #3453169373, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 08/08/2022 11:28:27 CET [08/08/2022 5:28:27 ET]
+Table '3453169373 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (10035 en jetons) 
+Place 4: villette49 (9965 en jetons) 
+psychoman59 : met l'ante. 20
+villette49 : met l'ante. 20
+villette49 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 4h]
+villette49 : relance. 300 à 450
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à villette49.
+villette49 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : villette49 (bouton) (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°237861057864 : Tournoi #3453169373, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 08/08/2022 11:28:36 CET [08/08/2022 5:28:36 ET]
+Table '3453169373 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (9865 en jetons) 
+Place 4: villette49 (10135 en jetons) 
+psychoman59 : met l'ante. 20
+villette49 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+villette49 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à villette49.
+villette49 a remporté 190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : villette49 (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°237861058831 : Tournoi #3453169373, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 08/08/2022 11:28:42 CET [08/08/2022 5:28:42 ET]
+Table '3453169373 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (9770 en jetons) 
+Place 4: villette49 (10230 en jetons) 
+psychoman59 : met l'ante. 20
+villette49 : met l'ante. 20
+villette49 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 3d]
+villette49 : relance. 300 à 450
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à villette49.
+villette49 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : villette49 (bouton) (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°237861060112 : Tournoi #3453169373, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 08/08/2022 11:28:51 CET [08/08/2022 5:28:51 ET]
+Table '3453169373 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (9600 en jetons) 
+Place 4: villette49 (10400 en jetons) 
+psychoman59 : met l'ante. 20
+villette49 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+villette49 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Jc]
+psychoman59 : suit. 75
+villette49 : relance. 300 à 450
+psychoman59 : suit. 300
+*** FLOP *** [3h Ts 9c]
+villette49 : mise. 9930 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (9930) sont retournés à villette49.
+villette49 a remporté 940  lors du pot .
+*** SYNTHÈSE ***
+Pot total 940 | Commission 0 
+Tableau [3h Ts 9c]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 4 : villette49 (grosse blind) a remporté (940)
+
+
+
+Main PokerStars n°237861062702 : Tournoi #3453169373, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 08/08/2022 11:29:09 CET [08/08/2022 5:29:09 ET]
+Table '3453169373 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (9130 en jetons) 
+Place 4: villette49 (10870 en jetons) 
+psychoman59 : met l'ante. 20
+villette49 : met l'ante. 20
+villette49 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 5s]
+villette49 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [Qc 7h 9s]
+psychoman59 : parole 
+villette49 : mise. 170
+psychoman59 : passe. 
+Personne n'a suivi. (170) sont retournés à villette49.
+villette49 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [Qc 7h 9s]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 4 : villette49 (bouton) (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°237861065261 : Tournoi #3453169373, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 08/08/2022 11:29:26 CET [08/08/2022 5:29:26 ET]
+Table '3453169373 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (8960 en jetons) 
+Place 4: villette49 (11040 en jetons) 
+psychoman59 : met l'ante. 20
+villette49 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+villette49 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 6h]
+psychoman59 : relance. 340 à 490
+villette49 : relance. 340 à 830
+psychoman59 : relance. 8110 à 8940 et est all-in.
+villette49 : suit. 8110
+*** FLOP *** [4c Kh Kd]
+*** TOURNANT *** [4c Kh Kd] [Qc]
+*** RIVIÈRE *** [4c Kh Kd Qc] [7c]
+*** ABATTAGE ***
+villette49 : montre [2c Ac] (une couleur, hauteur As)
+psychoman59 : montre [Ah 6h] (une paire de Rois)
+villette49 a remporté 17920  lors du pot .
+psychoman59 a fini le tournoi à la 2e place et a reçu 0.34 €.
+villette49 gagne le tournoi - félicitations !
+villette49 gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 17920 | Commission 0 
+Tableau [4c Kh Kd Qc 7c]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ah 6h] et a perdu avec une paire de Rois
+Siège 4 : villette49 (grosse blind) a montré [2c Ac] et a gagné (17920) avec une couleur, hauteur As
+
+
+

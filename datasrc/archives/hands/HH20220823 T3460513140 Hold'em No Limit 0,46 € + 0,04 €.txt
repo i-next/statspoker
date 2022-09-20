@@ -1,0 +1,327 @@
+﻿Main PokerStars n°238167883486 : Tournoi #3460513140, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 23/08/2022 17:06:58 CET [23/08/2022 11:06:58 ET]
+Table '3460513140 1' 4-max Siège #1 est au bouton.
+Place 1: papiloudu76 (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: Chepilla (5000 en jetons) 
+Place 4: ñardet (5000 en jetons) 
+papiloudu76 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Chepilla : met l'ante. 10
+ñardet : met l'ante. 10
+psychoman59 : met la petite blind. 50
+Chepilla : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Qd]
+ñardet : suit. 100
+papiloudu76 : passe. 
+psychoman59 : suit. 50
+Chepilla : relance. 200 à 300
+ñardet : suit. 200
+psychoman59 : passe. 
+*** FLOP *** [Ah 5h 3s]
+Chepilla : parole 
+ñardet : parole 
+*** TOURNANT *** [Ah 5h 3s] [2c]
+Chepilla : parole 
+ñardet : mise. 370
+Chepilla : suit. 370
+*** RIVIÈRE *** [Ah 5h 3s 2c] [5s]
+Chepilla : parole 
+ñardet : mise. 1480
+Chepilla : passe. 
+Personne n'a suivi. (1480) sont retournés à ñardet.
+ñardet a remporté 1480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1480 | Commission 0 
+Tableau [Ah 5h 3s 2c 5s]
+Siège 1 : papiloudu76 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Chepilla (grosse blind) s'est couché. sur le Rivière
+Siège 4 : ñardet a remporté (1480)
+
+
+
+Main PokerStars n°238167900116 : Tournoi #3460513140, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 23/08/2022 17:07:55 CET [23/08/2022 11:07:55 ET]
+Table '3460513140 1' 4-max Siège #2 est au bouton.
+Place 1: papiloudu76 (4990 en jetons) 
+Place 2: psychoman59 (4890 en jetons) 
+Place 3: Chepilla (4320 en jetons) 
+Place 4: ñardet (5800 en jetons) 
+papiloudu76 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Chepilla : met l'ante. 10
+ñardet : met l'ante. 10
+Chepilla : met la petite blind. 50
+ñardet : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c As]
+papiloudu76 : passe. 
+psychoman59 : relance. 200 à 300
+Chepilla : suit. 250
+ñardet : suit. 200
+*** FLOP *** [3h Kh Kc]
+Chepilla : parole 
+ñardet : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3h Kh Kc] [3d]
+Chepilla : parole 
+ñardet : parole 
+psychoman59 : mise. 940
+Chepilla : passe. 
+ñardet : passe. 
+Personne n'a suivi. (940) sont retournés à psychoman59.
+psychoman59 a remporté 940  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 940 | Commission 0 
+Tableau [3h Kh Kc 3d]
+Siège 1 : papiloudu76 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (bouton) a remporté (940)
+Siège 3 : Chepilla (petite blind) s'est couché. sur le Tournant
+Siège 4 : ñardet (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238167914899 : Tournoi #3460513140, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 23/08/2022 17:08:45 CET [23/08/2022 11:08:45 ET]
+Table '3460513140 1' 4-max Siège #3 est au bouton.
+Place 1: papiloudu76 (4980 en jetons) 
+Place 2: psychoman59 (5520 en jetons) 
+Place 3: Chepilla (4010 en jetons) 
+Place 4: ñardet (5490 en jetons) 
+papiloudu76 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Chepilla : met l'ante. 10
+ñardet : met l'ante. 10
+ñardet : met la petite blind. 50
+papiloudu76 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 8d]
+psychoman59 : passe. 
+Chepilla : suit. 100
+ñardet : suit. 50
+papiloudu76 : parole 
+*** FLOP *** [Kh Ac 2h]
+ñardet : parole 
+papiloudu76 : parole 
+Chepilla : parole 
+*** TOURNANT *** [Kh Ac 2h] [Jc]
+ñardet : mise. 340
+papiloudu76 : passe. 
+Chepilla : passe. 
+Personne n'a suivi. (340) sont retournés à ñardet.
+ñardet a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [Kh Ac 2h Jc]
+Siège 1 : papiloudu76 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Chepilla (bouton) s'est couché. sur le Tournant
+Siège 4 : ñardet (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°238167926558 : Tournoi #3460513140, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 23/08/2022 17:09:25 CET [23/08/2022 11:09:25 ET]
+Table '3460513140 1' 4-max Siège #4 est au bouton.
+Place 1: papiloudu76 (4870 en jetons) 
+Place 2: psychoman59 (5510 en jetons) 
+Place 3: Chepilla (3900 en jetons) 
+Place 4: ñardet (5720 en jetons) 
+papiloudu76 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Chepilla : met l'ante. 10
+ñardet : met l'ante. 10
+papiloudu76 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 2s]
+Chepilla : suit. 100
+ñardet : suit. 100
+papiloudu76 : passe. 
+psychoman59 : parole 
+*** FLOP *** [8s 9d 4h]
+psychoman59 : parole 
+Chepilla : parole 
+ñardet : mise. 195
+psychoman59 : passe. 
+Chepilla : suit. 195
+*** TOURNANT *** [8s 9d 4h] [3h]
+Chepilla : parole 
+ñardet : mise. 780
+Chepilla : passe. 
+Personne n'a suivi. (780) sont retournés à ñardet.
+ñardet a remporté 780  lors du pot .
+*** SYNTHÈSE ***
+Pot total 780 | Commission 0 
+Tableau [8s 9d 4h 3h]
+Siège 1 : papiloudu76 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : Chepilla s'est couché. sur le Tournant
+Siège 4 : ñardet (bouton) a remporté (780)
+
+
+
+Main PokerStars n°238167935550 : Tournoi #3460513140, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 23/08/2022 17:09:56 CET [23/08/2022 11:09:56 ET]
+Table '3460513140 1' 4-max Siège #1 est au bouton.
+Place 1: papiloudu76 (4810 en jetons) 
+Place 2: psychoman59 (5400 en jetons) 
+Place 3: Chepilla (3595 en jetons) 
+Place 4: ñardet (6195 en jetons) 
+papiloudu76 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Chepilla : met l'ante. 10
+ñardet : met l'ante. 10
+psychoman59 : met la petite blind. 50
+Chepilla : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 2d]
+ñardet : passe. 
+papiloudu76 : passe. 
+psychoman59 : suit. 50
+Chepilla : parole 
+*** FLOP *** [9c 6c 5s]
+psychoman59 : parole 
+Chepilla : parole 
+*** TOURNANT *** [9c 6c 5s] [9s]
+psychoman59 : parole 
+Chepilla : mise. 200
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à Chepilla.
+Chepilla a remporté 240  lors du pot .
+Chepilla : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [9c 6c 5s 9s]
+Siège 1 : papiloudu76 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 3 : Chepilla (grosse blind) a remporté (240)
+Siège 4 : ñardet s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238167943646 : Tournoi #3460513140, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 23/08/2022 17:10:24 CET [23/08/2022 11:10:24 ET]
+Table '3460513140 1' 4-max Siège #2 est au bouton.
+Place 1: papiloudu76 (4800 en jetons) 
+Place 2: psychoman59 (5290 en jetons) 
+Place 3: Chepilla (3725 en jetons) 
+Place 4: ñardet (6185 en jetons) 
+papiloudu76 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Chepilla : met l'ante. 15
+ñardet : met l'ante. 15
+Chepilla : met la petite blind. 60
+ñardet : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 8d]
+papiloudu76 : passe. 
+psychoman59 : passe. 
+Chepilla : suit. 60
+ñardet : parole 
+*** FLOP *** [Kh 6s Qc]
+Chepilla : parole 
+ñardet : parole 
+*** TOURNANT *** [Kh 6s Qc] [5c]
+Chepilla : mise. 240
+ñardet : passe. 
+Personne n'a suivi. (240) sont retournés à Chepilla.
+Chepilla a remporté 300  lors du pot .
+Chepilla : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Kh 6s Qc 5c]
+Siège 1 : papiloudu76 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Chepilla (petite blind) a remporté (300)
+Siège 4 : ñardet (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238167953682 : Tournoi #3460513140, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 23/08/2022 17:10:59 CET [23/08/2022 11:10:59 ET]
+Table '3460513140 1' 4-max Siège #3 est au bouton.
+Place 1: papiloudu76 (4785 en jetons) 
+Place 2: psychoman59 (5275 en jetons) 
+Place 3: Chepilla (3890 en jetons) 
+Place 4: ñardet (6050 en jetons) 
+papiloudu76 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Chepilla : met l'ante. 15
+ñardet : met l'ante. 15
+ñardet : met la petite blind. 60
+papiloudu76 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Kc]
+psychoman59 : relance. 360 à 480
+Chepilla : passe. 
+ñardet : passe. 
+papiloudu76 : suit. 360
+*** FLOP *** [Qd 7d Tc]
+papiloudu76 : parole 
+psychoman59 : mise. 1080
+papiloudu76 : suit. 1080
+*** TOURNANT *** [Qd 7d Tc] [Js]
+papiloudu76 : parole 
+psychoman59 : mise. 3240
+papiloudu76 : suit. 3210 et est all-in.
+Personne n'a suivi. (30) sont retournés à psychoman59.
+*** RIVIÈRE *** [Qd 7d Tc Js] [Ts]
+*** ABATTAGE ***
+papiloudu76 : montre [Kd 9h] (une suite, Neuf à Roi)
+psychoman59 : montre [Kh Kc] (double paire, Rois et Dix)
+papiloudu76 a remporté 9660  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9660 | Commission 0 
+Tableau [Qd 7d Tc Js Ts]
+Siège 1 : papiloudu76 (grosse blind) a montré [Kd 9h] et a gagné (9660) avec une suite, Neuf à Roi
+Siège 2 : psychoman59 a montré [Kh Kc] et a perdu avec double paire, Rois et Dix
+Siège 3 : Chepilla (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : ñardet (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238167970949 : Tournoi #3460513140, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 23/08/2022 17:11:58 CET [23/08/2022 11:11:58 ET]
+Table '3460513140 1' 4-max Siège #4 est au bouton.
+Place 1: papiloudu76 (9660 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: Chepilla (3875 en jetons) 
+Place 4: ñardet (5975 en jetons) 
+papiloudu76 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Chepilla : met l'ante. 15
+ñardet : met l'ante. 15
+papiloudu76 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s As]
+Chepilla : passe. 
+ñardet : suit. 120
+papiloudu76 : suit. 60
+psychoman59 : relance. 355 à 475 et est all-in.
+ñardet : suit. 355
+papiloudu76 : suit. 355
+*** FLOP *** [Kc 2d Ks]
+papiloudu76 : parole 
+ñardet : parole 
+*** TOURNANT *** [Kc 2d Ks] [3c]
+papiloudu76 : parole 
+ñardet : mise. 240
+papiloudu76 : suit. 240
+*** RIVIÈRE *** [Kc 2d Ks 3c] [Kd]
+papiloudu76 : parole 
+ñardet : mise. 1965
+papiloudu76 : passe. 
+Personne n'a suivi. (1965) sont retournés à ñardet.
+*** ABATTAGE ***
+ñardet : montre [2s 2c] (un full, full aux Rois par les Deux)
+ñardet a remporté 480  parallèle lors du pot .
+psychoman59 : montre [8s As] (un brelan de Rois)
+ñardet a remporté 1485  principal lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 1965 Principal pot 1485. Parallèle pot 480. | Commission 0 
+Tableau [Kc 2d Ks 3c Kd]
+Siège 1 : papiloudu76 (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) a montré [8s As] et a perdu avec un brelan de Rois
+Siège 3 : Chepilla s'est couché. avant Flop (n'a pas misé)
+Siège 4 : ñardet (bouton) a montré [2s 2c] et a gagné (1965) avec un full, full aux Rois par les Deux
+
+
+

@@ -1,0 +1,143 @@
+﻿Main PokerStars n°238601079746 : Tournoi #3470654058, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 17:25:22 CET [13/09/2022 11:25:22 ET]
+Table '3470654058 1' 3-max Siège #1 est au bouton.
+Place 1: lutin02 (300 en jetons) 
+Place 2: roben12263 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+roben12263 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 4h]
+lutin02 : suit. 20
+roben12263 : passe. 
+psychoman59 : parole 
+*** FLOP *** [5d 2d 8h]
+psychoman59 : parole 
+lutin02 : parole 
+*** TOURNANT *** [5d 2d 8h] [7c]
+psychoman59 : parole 
+lutin02 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [5d 2d 8h 7c] [8s]
+psychoman59 : parole 
+lutin02 : mise. 20
+psychoman59 : relance. 130 à 150
+lutin02 : passe. 
+Personne n'a suivi. (130) sont retournés à psychoman59.
+psychoman59 a remporté 130  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [5d 2d 8h 7c 8s]
+Siège 1 : lutin02 (bouton) s'est couché. sur le Rivière
+Siège 2 : roben12263 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (130)
+
+
+
+Main PokerStars n°238601092602 : Tournoi #3470654058, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 17:26:05 CET [13/09/2022 11:26:05 ET]
+Table '3470654058 1' 3-max Siège #2 est au bouton.
+Place 1: lutin02 (240 en jetons) 
+Place 2: roben12263 (290 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+psychoman59 : met la petite blind. 10
+lutin02 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 4d]
+roben12263 : suit. 20
+psychoman59 : passe. 
+lutin02 : parole 
+*** FLOP *** [8h 8d 9d]
+lutin02 : parole 
+roben12263 : parole 
+*** TOURNANT *** [8h 8d 9d] [Qc]
+lutin02 : parole 
+roben12263 : parole 
+*** RIVIÈRE *** [8h 8d 9d Qc] [Qs]
+lutin02 : parole 
+roben12263 : parole 
+*** ABATTAGE ***
+lutin02 : montre [7d 3c] (double paire, Dames et Huit)
+roben12263 : montre [7c 5h] (double paire, Dames et Huit)
+lutin02 a remporté 25  lors du pot .
+roben12263 a remporté 25  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [8h 8d 9d Qc Qs]
+Siège 1 : lutin02 (grosse blind) a montré [7d 3c] et a gagné (25) avec double paire, Dames et Huit
+Siège 2 : roben12263 (bouton) a montré [7c 5h] et a gagné (25) avec double paire, Dames et Huit
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238601101516 : Tournoi #3470654058, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 17:26:36 CET [13/09/2022 11:26:36 ET]
+Table '3470654058 1' 3-max Siège #3 est au bouton.
+Place 1: lutin02 (245 en jetons) 
+Place 2: roben12263 (295 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+lutin02 : met la petite blind. 15
+roben12263 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 9c]
+psychoman59 : relance. 30 à 60
+lutin02 : passe. 
+roben12263 : relance. 30 à 90
+psychoman59 : suit. 30
+*** FLOP *** [4s 8s Jh]
+roben12263 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4s 8s Jh] [7c]
+roben12263 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4s 8s Jh 7c] [3d]
+roben12263 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+roben12263 : montre [Td Ad] (Hauteur As)
+psychoman59 : cache la main perdante. 
+roben12263 a remporté 195  lors du pot .
+*** SYNTHÈSE ***
+Pot total 195 | Commission 0 
+Tableau [4s 8s Jh 7c 3d]
+Siège 1 : lutin02 (petite blind) s'est couché. avant Flop
+Siège 2 : roben12263 (grosse blind) a montré [Td Ad] et a gagné (195) avec Hauteur As
+Siège 3 : psychoman59 (bouton) a caché la main perdante. [Kc 9c]
+
+
+
+Main PokerStars n°238601110167 : Tournoi #3470654058, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 17:27:05 CET [13/09/2022 11:27:05 ET]
+Table '3470654058 1' 3-max Siège #1 est au bouton.
+Place 1: lutin02 (230 en jetons) 
+Place 2: roben12263 (400 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+roben12263 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 4h]
+lutin02 : suit. 30
+roben12263 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9d 7s 8d]
+roben12263 : parole 
+psychoman59 : parole 
+lutin02 : mise. 30
+roben12263 : suit. 30
+psychoman59 : passe. 
+*** TOURNANT *** [9d 7s 8d] [Kc]
+roben12263 : mise. 150
+lutin02 : relance. 20 à 170 et est all-in.
+roben12263 : suit. 20
+*** RIVIÈRE *** [9d 7s 8d Kc] [7h]
+*** ABATTAGE ***
+roben12263 : montre [7c Kd] (un full, full aux Sept par les Rois)
+lutin02 : montre [Tc 2c] (une paire de Sept)
+roben12263 a remporté 490  lors du pot .
+lutin02 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 490 | Commission 0 
+Tableau [9d 7s 8d Kc 7h]
+Siège 1 : lutin02 (bouton) a montré [Tc 2c] et a perdu avec une paire de Sept
+Siège 2 : roben12263 (petite blind) a montré [7c Kd] et a gagné (490) avec un full, full aux Sept par les Rois
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+

@@ -1,0 +1,178 @@
+﻿Main PokerStars n°237593619910 : Tournoi #3446872767, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 10:29:52 CET [26/07/2022 4:29:52 ET]
+Table '3446872767 1' 3-max Siège #1 est au bouton.
+Place 1: loulou 37741 (300 en jetons) 
+Place 2: Hatchyoom (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Hatchyoom : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 4c]
+loulou 37741 : suit. 20
+Hatchyoom : passe. 
+psychoman59 : parole 
+*** FLOP *** [Kd Jd 4h]
+psychoman59 : parole 
+loulou 37741 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à loulou 37741.
+loulou 37741 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Kd Jd 4h]
+Siège 1 : loulou 37741 (bouton) a remporté (50)
+Siège 2 : Hatchyoom (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237593623019 : Tournoi #3446872767, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 10:30:16 CET [26/07/2022 4:30:16 ET]
+Table '3446872767 1' 3-max Siège #2 est au bouton.
+Place 1: loulou 37741 (330 en jetons) 
+Place 2: Hatchyoom (290 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+loulou 37741 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 2s]
+Hatchyoom : relance. 40 à 60
+psychoman59 : passe. 
+loulou 37741 : suit. 40
+*** FLOP *** [3h 8c 5d]
+loulou 37741 : parole 
+Hatchyoom : mise. 230 et est all-in.
+loulou 37741 : passe. 
+Personne n'a suivi. (230) sont retournés à Hatchyoom.
+Hatchyoom a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [3h 8c 5d]
+Siège 1 : loulou 37741 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Hatchyoom (bouton) a remporté (130)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237593626411 : Tournoi #3446872767, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 10:30:42 CET [26/07/2022 4:30:42 ET]
+Table '3446872767 1' 3-max Siège #3 est au bouton.
+Place 1: loulou 37741 (270 en jetons) 
+Place 2: Hatchyoom (360 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+loulou 37741 : met la petite blind. 10
+Hatchyoom : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Js]
+psychoman59 : passe. 
+loulou 37741 : suit. 10
+Hatchyoom : parole 
+*** FLOP *** [7c Kh 6h]
+loulou 37741 : parole 
+Hatchyoom : parole 
+*** TOURNANT *** [7c Kh 6h] [Ks]
+loulou 37741 : parole 
+Hatchyoom : parole 
+*** RIVIÈRE *** [7c Kh 6h Ks] [Ad]
+loulou 37741 : parole 
+Hatchyoom : parole 
+*** ABATTAGE ***
+loulou 37741 : montre [2s Qd] (une paire de Rois)
+Hatchyoom : cache la main perdante. 
+loulou 37741 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7c Kh 6h Ks Ad]
+Siège 1 : loulou 37741 (petite blind) a montré [2s Qd] et a gagné (40) avec une paire de Rois
+Siège 2 : Hatchyoom (grosse blind) a caché la main perdante. [Tc 3c]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237593629382 : Tournoi #3446872767, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/07/2022 10:31:04 CET [26/07/2022 4:31:04 ET]
+Table '3446872767 1' 3-max Siège #1 est au bouton.
+Place 1: loulou 37741 (290 en jetons) 
+Place 2: Hatchyoom (340 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+Hatchyoom : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Ac]
+loulou 37741 : suit. 30
+Hatchyoom : suit. 15
+psychoman59 : parole 
+*** FLOP *** [2c 6s 6d]
+Hatchyoom : parole 
+psychoman59 : parole 
+loulou 37741 : parole 
+*** TOURNANT *** [2c 6s 6d] [Ks]
+Hatchyoom : parole 
+psychoman59 : parole 
+loulou 37741 : parole 
+*** RIVIÈRE *** [2c 6s 6d Ks] [2d]
+Hatchyoom : parole 
+psychoman59 : mise. 90
+loulou 37741 : passe. 
+Hatchyoom : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [2c 6s 6d Ks 2d]
+Siège 1 : loulou 37741 (bouton) s'est couché. sur le Rivière
+Siège 2 : Hatchyoom (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (90)
+
+
+
+Main PokerStars n°237593637491 : Tournoi #3446872767, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 10:32:05 CET [26/07/2022 4:32:05 ET]
+Table '3446872767 1' 3-max Siège #2 est au bouton.
+Place 1: loulou 37741 (260 en jetons) 
+Place 2: Hatchyoom (310 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+psychoman59 : met la petite blind. 20
+loulou 37741 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Js]
+Hatchyoom : relance. 270 à 310 et est all-in.
+psychoman59 : suit. 290
+loulou 37741 : suit. 220 et est all-in.
+*** FLOP *** [3s Kd 4s]
+*** TOURNANT *** [3s Kd 4s] [Ad]
+*** RIVIÈRE *** [3s Kd 4s Ad] [9h]
+*** ABATTAGE ***
+psychoman59 : montre [Jc Js] (une paire de Valets)
+Hatchyoom : montre [Kh 7c] (une paire de Rois)
+Hatchyoom a remporté 100  parallèle lors du pot .
+loulou 37741 : montre [4d 5d] (une paire de Quatre)
+Hatchyoom a remporté 780  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 880 Principal pot 780. Parallèle pot 100. | Commission 0 
+Tableau [3s Kd 4s Ad 9h]
+Siège 1 : loulou 37741 (grosse blind) a montré [4d 5d] et a perdu avec une paire de Quatre
+Siège 2 : Hatchyoom (bouton) a montré [Kh 7c] et a gagné (880) avec une paire de Rois
+Siège 3 : psychoman59 (petite blind) a montré [Jc Js] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°237593641096 : Tournoi #3446872767, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 10:32:32 CET [26/07/2022 4:32:32 ET]
+Table '3446872767 1' 3-max Siège #3 est au bouton.
+Place 2: Hatchyoom (880 en jetons) 
+Place 3: psychoman59 (20 en jetons) 
+psychoman59 : met la petite blind. 20 et est all-in.
+Hatchyoom : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Kh]
+Personne n'a suivi. (20) sont retournés à Hatchyoom.
+*** FLOP *** [2c 2d 6d]
+*** TOURNANT *** [2c 2d 6d] [Qd]
+*** RIVIÈRE *** [2c 2d 6d Qd] [9d]
+*** ABATTAGE ***
+Hatchyoom : montre [9s 2s] (un full, full aux Deux par les Neuf)
+psychoman59 : montre [7s Kh] (une paire de Deux)
+Hatchyoom a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2c 2d 6d Qd 9d]
+Siège 2 : Hatchyoom (grosse blind) a montré [9s 2s] et a gagné (40) avec un full, full aux Deux par les Neuf
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [7s Kh] et a perdu avec une paire de Deux
+
+
+

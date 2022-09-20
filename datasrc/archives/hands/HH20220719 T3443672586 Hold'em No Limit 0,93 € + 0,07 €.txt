@@ -1,0 +1,373 @@
+﻿Main PokerStars n°237453672561 : Tournoi #3443672586, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 14:55:02 CET [19/07/2022 8:55:02 ET]
+Table '3443672586 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Matthieu 241 (300 en jetons) 
+Place 3: PnlPoker22 (300 en jetons) 
+Matthieu 241 : met la petite blind. 10
+PnlPoker22 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Ah]
+psychoman59 : relance. 280 à 300 et est all-in.
+Matthieu 241 : passe. 
+PnlPoker22 : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (50)
+Siège 2 : Matthieu 241 (petite blind) s'est couché. avant Flop
+Siège 3 : PnlPoker22 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237453674215 : Tournoi #3443672586, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 14:55:11 CET [19/07/2022 8:55:11 ET]
+Table '3443672586 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: Matthieu 241 (290 en jetons) 
+Place 3: PnlPoker22 (280 en jetons) 
+PnlPoker22 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 6s]
+Matthieu 241 : passe. 
+PnlPoker22 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [5h 2c Ks]
+PnlPoker22 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5h 2c Ks] [Tc]
+PnlPoker22 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5h 2c Ks Tc] [Qc]
+PnlPoker22 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+PnlPoker22 : montre [7c As] (Hauteur As)
+psychoman59 : montre [Kc 6s] (une paire de Rois)
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5h 2c Ks Tc Qc]
+Siège 1 : psychoman59 (grosse blind) a montré [Kc 6s] et a gagné (40) avec une paire de Rois
+Siège 2 : Matthieu 241 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : PnlPoker22 (petite blind) a montré [7c As] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237453678053 : Tournoi #3443672586, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 14:55:31 CET [19/07/2022 8:55:31 ET]
+Table '3443672586 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (350 en jetons) 
+Place 2: Matthieu 241 (290 en jetons) 
+Place 3: PnlPoker22 (260 en jetons) 
+psychoman59 : met la petite blind. 10
+Matthieu 241 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 9s]
+PnlPoker22 : passe. 
+psychoman59 : suit. 10
+Matthieu 241 : parole 
+*** FLOP *** [5d 8c As]
+psychoman59 : parole 
+Matthieu 241 : parole 
+*** TOURNANT *** [5d 8c As] [Jd]
+psychoman59 : parole 
+Matthieu 241 : parole 
+*** RIVIÈRE *** [5d 8c As Jd] [Kh]
+psychoman59 : mise. 40
+Matthieu 241 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5d 8c As Jd Kh]
+Siège 1 : psychoman59 (petite blind) a remporté (40)
+Siège 2 : Matthieu 241 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : PnlPoker22 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237453681513 : Tournoi #3443672586, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 14:55:50 CET [19/07/2022 8:55:50 ET]
+Table '3443672586 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 2: Matthieu 241 (270 en jetons) 
+Place 3: PnlPoker22 (260 en jetons) 
+Matthieu 241 : met la petite blind. 10
+PnlPoker22 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 6c]
+psychoman59 : suit. 20
+Matthieu 241 : passe. 
+PnlPoker22 : parole 
+*** FLOP *** [3h 9h 3c]
+PnlPoker22 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3h 9h 3c] [8c]
+PnlPoker22 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3h 9h 3c 8c] [4c]
+PnlPoker22 : parole 
+psychoman59 : mise. 50
+PnlPoker22 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [3h 9h 3c 8c 4c]
+Siège 1 : psychoman59 (bouton) a remporté (50)
+Siège 2 : Matthieu 241 (petite blind) s'est couché. avant Flop
+Siège 3 : PnlPoker22 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237453686208 : Tournoi #3443672586, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 14:56:16 CET [19/07/2022 8:56:16 ET]
+Table '3443672586 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: Matthieu 241 (260 en jetons) 
+Place 3: PnlPoker22 (240 en jetons) 
+PnlPoker22 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Jc]
+Matthieu 241 : suit. 30
+PnlPoker22 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ks 6d Qh]
+PnlPoker22 : parole 
+psychoman59 : parole 
+Matthieu 241 : parole 
+*** TOURNANT *** [Ks 6d Qh] [7c]
+PnlPoker22 : mise. 30
+psychoman59 : suit. 30
+Matthieu 241 : suit. 30
+*** RIVIÈRE *** [Ks 6d Qh 7c] [8s]
+PnlPoker22 : mise. 60
+psychoman59 : passe. 
+Matthieu 241 : relance. 90 à 150
+PnlPoker22 : suit. 90
+*** ABATTAGE ***
+Matthieu 241 : montre [Kh 7h] (double paire, Rois et Sept)
+PnlPoker22 : cache la main perdante. 
+Matthieu 241 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Ks 6d Qh 7c 8s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : Matthieu 241 (bouton) a montré [Kh 7h] et a gagné (480) avec double paire, Rois et Sept
+Siège 3 : PnlPoker22 (petite blind) a caché la main perdante. [Qc 6h]
+
+
+
+Main PokerStars n°237453692233 : Tournoi #3443672586, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 14:56:48 CET [19/07/2022 8:56:48 ET]
+Table '3443672586 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: Matthieu 241 (530 en jetons) 
+Place 3: PnlPoker22 (30 en jetons) 
+psychoman59 : met la petite blind. 15
+Matthieu 241 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ad]
+PnlPoker22 : suit. 30 et est all-in.
+psychoman59 : relance. 310 à 340 et est all-in.
+Matthieu 241 : passe. 
+Personne n'a suivi. (310) sont retournés à psychoman59.
+*** FLOP *** [Qh 4d Jd]
+*** TOURNANT *** [Qh 4d Jd] [9c]
+*** RIVIÈRE *** [Qh 4d Jd 9c] [7c]
+*** ABATTAGE ***
+psychoman59 : montre [8c Ad] (Hauteur As)
+PnlPoker22 : montre [3d Td] (Hauteur Dame)
+psychoman59 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Qh 4d Jd 9c 7c]
+Siège 1 : psychoman59 (petite blind) a montré [8c Ad] et a gagné (90) avec Hauteur As
+Siège 2 : Matthieu 241 (grosse blind) s'est couché. avant Flop
+Siège 3 : PnlPoker22 (bouton) a montré [3d Td] et a perdu avec Hauteur Dame
+
+
+
+Main PokerStars n°237453696936 : Tournoi #3443672586, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 14:57:14 CET [19/07/2022 8:57:14 ET]
+Table '3443672586 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: Matthieu 241 (500 en jetons) 
+Matthieu 241 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 4h]
+Matthieu 241 : relance. 460 à 500 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (460) sont retournés à Matthieu 241.
+Matthieu 241 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Matthieu 241 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237453698311 : Tournoi #3443672586, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 14:57:21 CET [19/07/2022 8:57:21 ET]
+Table '3443672586 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (360 en jetons) 
+Place 2: Matthieu 241 (540 en jetons) 
+psychoman59 : met la petite blind. 20
+Matthieu 241 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Matthieu 241.
+Matthieu 241 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Matthieu 241 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237453699154 : Tournoi #3443672586, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 14:57:26 CET [19/07/2022 8:57:26 ET]
+Table '3443672586 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: Matthieu 241 (560 en jetons) 
+Matthieu 241 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7d]
+Matthieu 241 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : Matthieu 241 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237453699874 : Tournoi #3443672586, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 14:57:30 CET [19/07/2022 8:57:30 ET]
+Table '3443672586 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (360 en jetons) 
+Place 2: Matthieu 241 (540 en jetons) 
+psychoman59 : met la petite blind. 20
+Matthieu 241 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Matthieu 241.
+Matthieu 241 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Matthieu 241 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237453700694 : Tournoi #3443672586, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 14:57:34 CET [19/07/2022 8:57:34 ET]
+Table '3443672586 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: Matthieu 241 (560 en jetons) 
+Matthieu 241 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 4s]
+Matthieu 241 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [4c 2h Kc]
+psychoman59 : parole 
+Matthieu 241 : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [4c 2h Kc] [Ks]
+psychoman59 : parole 
+Matthieu 241 : parole 
+*** RIVIÈRE *** [4c 2h Kc Ks] [9c]
+psychoman59 : mise. 160
+Matthieu 241 : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [4c 2h Kc Ks 9c]
+Siège 1 : psychoman59 (grosse blind) a remporté (160)
+Siège 2 : Matthieu 241 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237453704121 : Tournoi #3443672586, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 14:57:53 CET [19/07/2022 8:57:53 ET]
+Table '3443672586 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: Matthieu 241 (480 en jetons) 
+psychoman59 : met la petite blind. 20
+Matthieu 241 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Kd]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Matthieu 241.
+Matthieu 241 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Matthieu 241 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237453705133 : Tournoi #3443672586, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 14:57:58 CET [19/07/2022 8:57:58 ET]
+Table '3443672586 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: Matthieu 241 (500 en jetons) 
+Matthieu 241 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Ah]
+Matthieu 241 : suit. 20
+psychoman59 : relance. 360 à 400 et est all-in.
+Matthieu 241 : passe. 
+Personne n'a suivi. (360) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : Matthieu 241 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237453707023 : Tournoi #3443672586, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 14:58:08 CET [19/07/2022 8:58:08 ET]
+Table '3443672586 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 2: Matthieu 241 (460 en jetons) 
+psychoman59 : met la petite blind. 30
+Matthieu 241 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Qd]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Matthieu 241.
+Matthieu 241 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Matthieu 241 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237453708013 : Tournoi #3443672586, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 14:58:14 CET [19/07/2022 8:58:14 ET]
+Table '3443672586 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (410 en jetons) 
+Place 2: Matthieu 241 (490 en jetons) 
+Matthieu 241 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Jh]
+Matthieu 241 : relance. 60 à 120
+psychoman59 : relance. 290 à 410 et est all-in.
+Matthieu 241 : suit. 290
+*** FLOP *** [7c Tc Ks]
+*** TOURNANT *** [7c Tc Ks] [2s]
+*** RIVIÈRE *** [7c Tc Ks 2s] [3c]
+*** ABATTAGE ***
+psychoman59 : montre [Ac Jh] (Hauteur As)
+Matthieu 241 : montre [Js Th] (une paire de Dix)
+Matthieu 241 a remporté 820  lors du pot .
+*** SYNTHÈSE ***
+Pot total 820 | Commission 0 
+Tableau [7c Tc Ks 2s 3c]
+Siège 1 : psychoman59 (grosse blind) a montré [Ac Jh] et a perdu avec Hauteur As
+Siège 2 : Matthieu 241 (bouton) (petite blind) a montré [Js Th] et a gagné (820) avec une paire de Dix
+
+
+

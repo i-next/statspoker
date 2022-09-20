@@ -1,0 +1,251 @@
+﻿Main PokerStars n°237979959247 : Tournoi #3456047397, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 14/08/2022 11:09:47 CET [14/08/2022 5:09:47 ET]
+Table '3456047397 1' 4-max Siège #1 est au bouton.
+Place 1: rcar7230 (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: EviL_FeeL (5000 en jetons) 
+Place 4: Isaacma190 (5000 en jetons) 
+rcar7230 : met l'ante. 10
+psychoman59 : met l'ante. 10
+EviL_FeeL : met l'ante. 10
+Isaacma190 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+EviL_FeeL : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 7s]
+Isaacma190 : passe. 
+rcar7230 : passe. 
+psychoman59 : suit. 50
+EviL_FeeL : parole 
+*** FLOP *** [Kh Ad Ah]
+psychoman59 : parole 
+EviL_FeeL : parole 
+*** TOURNANT *** [Kh Ad Ah] [Td]
+psychoman59 : mise. 100
+EviL_FeeL : suit. 100
+*** RIVIÈRE *** [Kh Ad Ah Td] [Ac]
+psychoman59 : mise. 440
+EviL_FeeL : passe. 
+Personne n'a suivi. (440) sont retournés à psychoman59.
+psychoman59 a remporté 440  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [Kh Ad Ah Td Ac]
+Siège 1 : rcar7230 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (440)
+Siège 3 : EviL_FeeL (grosse blind) s'est couché. sur le Rivière
+Siège 4 : Isaacma190 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237979963962 : Tournoi #3456047397, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 14/08/2022 11:10:17 CET [14/08/2022 5:10:17 ET]
+Table '3456047397 1' 4-max Siège #2 est au bouton.
+Place 1: rcar7230 (4990 en jetons) 
+Place 2: psychoman59 (5230 en jetons) 
+Place 3: EviL_FeeL (4790 en jetons) 
+Place 4: Isaacma190 (4990 en jetons) 
+rcar7230 : met l'ante. 10
+psychoman59 : met l'ante. 10
+EviL_FeeL : met l'ante. 10
+Isaacma190 : met l'ante. 10
+EviL_FeeL : met la petite blind. 50
+Isaacma190 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Jd]
+rcar7230 : passe. 
+psychoman59 : suit. 100
+EviL_FeeL : suit. 50
+Isaacma190 : parole 
+*** FLOP *** [4h Tc Qd]
+EviL_FeeL : parole 
+Isaacma190 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4h Tc Qd] [As]
+EviL_FeeL : parole 
+Isaacma190 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4h Tc Qd As] [5h]
+EviL_FeeL : mise. 300
+Isaacma190 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à EviL_FeeL.
+EviL_FeeL a remporté 340  lors du pot .
+EviL_FeeL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [4h Tc Qd As 5h]
+Siège 1 : rcar7230 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Rivière
+Siège 3 : EviL_FeeL (petite blind) a remporté (340)
+Siège 4 : Isaacma190 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237979969321 : Tournoi #3456047397, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 14/08/2022 11:10:51 CET [14/08/2022 5:10:51 ET]
+Table '3456047397 1' 4-max Siège #3 est au bouton.
+Place 1: rcar7230 (4980 en jetons) 
+Place 2: psychoman59 (5120 en jetons) 
+Place 3: EviL_FeeL (5020 en jetons) 
+Place 4: Isaacma190 (4880 en jetons) 
+rcar7230 : met l'ante. 10
+psychoman59 : met l'ante. 10
+EviL_FeeL : met l'ante. 10
+Isaacma190 : met l'ante. 10
+Isaacma190 : met la petite blind. 50
+rcar7230 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Ad]
+psychoman59 : suit. 100
+EviL_FeeL : suit. 100
+Isaacma190 : passe. 
+rcar7230 : parole 
+*** FLOP *** [Td 4s Ac]
+rcar7230 : parole 
+psychoman59 : parole 
+EviL_FeeL : parole 
+*** TOURNANT *** [Td 4s Ac] [9h]
+rcar7230 : parole 
+psychoman59 : mise. 195
+EviL_FeeL : suit. 195
+rcar7230 : passe. 
+*** RIVIÈRE *** [Td 4s Ac 9h] [2d]
+psychoman59 : mise. 390
+EviL_FeeL : passe. 
+Personne n'a suivi. (390) sont retournés à psychoman59.
+psychoman59 a remporté 780  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 780 | Commission 0 
+Tableau [Td 4s Ac 9h 2d]
+Siège 1 : rcar7230 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 a remporté (780)
+Siège 3 : EviL_FeeL (bouton) s'est couché. sur le Rivière
+Siège 4 : Isaacma190 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237979976196 : Tournoi #3456047397, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 14/08/2022 11:11:35 CET [14/08/2022 5:11:35 ET]
+Table '3456047397 1' 4-max Siège #4 est au bouton.
+Place 1: rcar7230 (4870 en jetons) 
+Place 2: psychoman59 (5595 en jetons) 
+Place 3: EviL_FeeL (4715 en jetons) 
+Place 4: Isaacma190 (4820 en jetons) 
+rcar7230 : met l'ante. 10
+psychoman59 : met l'ante. 10
+EviL_FeeL : met l'ante. 10
+Isaacma190 : met l'ante. 10
+rcar7230 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Ac]
+EviL_FeeL : relance. 200 à 300
+Isaacma190 : passe. 
+rcar7230 : suit. 250
+psychoman59 : relance. 650 à 950
+EviL_FeeL : passe. 
+rcar7230 : suit. 650
+*** FLOP *** [Ts Tc Qc]
+rcar7230 : parole 
+psychoman59 : mise. 1120
+rcar7230 : suit. 1120
+*** TOURNANT *** [Ts Tc Qc] [Qd]
+rcar7230 : parole 
+psychoman59 : mise. 2240
+rcar7230 : relance. 550 à 2790 et est all-in.
+psychoman59 : suit. 550
+*** RIVIÈRE *** [Ts Tc Qc Qd] [7c]
+*** ABATTAGE ***
+rcar7230 : montre [Th Qh] (un full, full aux Dames par les Dix)
+psychoman59 : montre [As Ac] (double paire, As et Dames)
+rcar7230 a remporté 10060  lors du pot .
+*** SYNTHÈSE ***
+Pot total 10060 | Commission 0 
+Tableau [Ts Tc Qc Qd 7c]
+Siège 1 : rcar7230 (petite blind) a montré [Th Qh] et a gagné (10060) avec un full, full aux Dames par les Dix
+Siège 2 : psychoman59 (grosse blind) a montré [As Ac] et a perdu avec double paire, As et Dames
+Siège 3 : EviL_FeeL s'est couché. avant Flop
+Siège 4 : Isaacma190 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237979985266 : Tournoi #3456047397, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 14/08/2022 11:12:32 CET [14/08/2022 5:12:32 ET]
+Table '3456047397 1' 4-max Siège #1 est au bouton.
+Place 1: rcar7230 (10060 en jetons) 
+Place 2: psychoman59 (725 en jetons) 
+Place 3: EviL_FeeL (4405 en jetons) 
+Place 4: Isaacma190 (4810 en jetons) 
+rcar7230 : met l'ante. 10
+psychoman59 : met l'ante. 10
+EviL_FeeL : met l'ante. 10
+Isaacma190 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+EviL_FeeL : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 4s]
+Isaacma190 : passe. 
+rcar7230 : passe. 
+psychoman59 : suit. 50
+EviL_FeeL : parole 
+*** FLOP *** [8h 2s As]
+psychoman59 : parole 
+EviL_FeeL : parole 
+*** TOURNANT *** [8h 2s As] [2h]
+psychoman59 : parole 
+EviL_FeeL : parole 
+*** RIVIÈRE *** [8h 2s As 2h] [4h]
+psychoman59 : mise. 100
+EviL_FeeL : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [8h 2s As 2h 4h]
+Siège 1 : rcar7230 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (240)
+Siège 3 : EviL_FeeL (grosse blind) s'est couché. sur le Rivière
+Siège 4 : Isaacma190 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237979989642 : Tournoi #3456047397, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 14/08/2022 11:13:00 CET [14/08/2022 5:13:00 ET]
+Table '3456047397 1' 4-max Siège #2 est au bouton.
+Place 1: rcar7230 (10050 en jetons) 
+Place 2: psychoman59 (855 en jetons) 
+Place 3: EviL_FeeL (4295 en jetons) 
+Place 4: Isaacma190 (4800 en jetons) 
+rcar7230 : met l'ante. 15
+psychoman59 : met l'ante. 15
+EviL_FeeL : met l'ante. 15
+Isaacma190 : met l'ante. 15
+EviL_FeeL : met la petite blind. 60
+Isaacma190 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 6h]
+rcar7230 : relance. 120 à 240
+psychoman59 : relance. 600 à 840 et est all-in.
+EviL_FeeL : passe. 
+Isaacma190 : suit. 720
+rcar7230 : suit. 600
+*** FLOP *** [2s Js 4s]
+Isaacma190 : parole 
+rcar7230 : mise. 600
+Isaacma190 : passe. 
+Personne n'a suivi. (600) sont retournés à rcar7230.
+*** TOURNANT *** [2s Js 4s] [3c]
+*** RIVIÈRE *** [2s Js 4s 3c] [9h]
+*** ABATTAGE ***
+rcar7230 : montre [Jd 8d] (une paire de Valets)
+psychoman59 : montre [6c 6h] (une paire de Six)
+rcar7230 a remporté 2640  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 2640 | Commission 0 
+Tableau [2s Js 4s 3c 9h]
+Siège 1 : rcar7230 a montré [Jd 8d] et a gagné (2640) avec une paire de Valets
+Siège 2 : psychoman59 (bouton) a montré [6c 6h] et a perdu avec une paire de Six
+Siège 3 : EviL_FeeL (petite blind) s'est couché. avant Flop
+Siège 4 : Isaacma190 (grosse blind) s'est couché. sur le Flop
+
+
+

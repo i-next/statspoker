@@ -1,0 +1,473 @@
+﻿Main PokerStars n°237548428060 : Tournoi #3445865621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/07/2022 6:41:48 CET [24/07/2022 0:41:48 ET]
+Table '3445865621 1' 3-max Siège #1 est au bouton.
+Place 1: ben41600 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: coinflip0713 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+coinflip0713 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 6d]
+ben41600 : suit. 20
+psychoman59 : passe. 
+coinflip0713 : parole 
+*** FLOP *** [9s 6c Ad]
+coinflip0713 : parole 
+ben41600 : mise. 20
+coinflip0713 : suit. 20
+*** TOURNANT *** [9s 6c Ad] [9h]
+coinflip0713 : parole 
+ben41600 : mise. 20
+coinflip0713 : suit. 20
+*** RIVIÈRE *** [9s 6c Ad 9h] [4d]
+coinflip0713 : parole 
+ben41600 : mise. 40
+coinflip0713 : passe. 
+Personne n'a suivi. (40) sont retournés à ben41600.
+ben41600 a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [9s 6c Ad 9h 4d]
+Siège 1 : ben41600 (bouton) a remporté (130)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : coinflip0713 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237548434187 : Tournoi #3445865621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/07/2022 6:42:37 CET [24/07/2022 0:42:37 ET]
+Table '3445865621 1' 3-max Siège #2 est au bouton.
+Place 1: ben41600 (370 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: coinflip0713 (240 en jetons) 
+coinflip0713 : met la petite blind. 10
+ben41600 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 5c]
+psychoman59 : passe. 
+coinflip0713 : relance. 20 à 40
+ben41600 : suit. 20
+*** FLOP *** [4c 6c Qc]
+coinflip0713 : parole 
+ben41600 : mise. 20
+coinflip0713 : passe. 
+Personne n'a suivi. (20) sont retournés à ben41600.
+ben41600 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4c 6c Qc]
+Siège 1 : ben41600 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : coinflip0713 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237548437424 : Tournoi #3445865621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/07/2022 6:43:03 CET [24/07/2022 0:43:03 ET]
+Table '3445865621 1' 3-max Siège #3 est au bouton.
+Place 1: ben41600 (410 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: coinflip0713 (200 en jetons) 
+ben41600 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 5d]
+coinflip0713 : passe. 
+ben41600 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Jd 6c 5c]
+ben41600 : parole 
+psychoman59 : mise. 60
+ben41600 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Jd 6c 5c]
+Siège 1 : ben41600 (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : coinflip0713 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237548441437 : Tournoi #3445865621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/07/2022 6:43:34 CET [24/07/2022 0:43:34 ET]
+Table '3445865621 1' 3-max Siège #1 est au bouton.
+Place 1: ben41600 (380 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: coinflip0713 (200 en jetons) 
+psychoman59 : met la petite blind. 15
+coinflip0713 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 6d]
+ben41600 : suit. 30
+psychoman59 : suit. 15
+coinflip0713 : relance. 170 à 200 et est all-in.
+ben41600 : suit. 170
+psychoman59 : passe. 
+*** FLOP *** [Jc Qd 8h]
+*** TOURNANT *** [Jc Qd 8h] [Qs]
+*** RIVIÈRE *** [Jc Qd 8h Qs] [8d]
+*** ABATTAGE ***
+coinflip0713 : montre [Ah Kd] (double paire, Dames et Huit)
+ben41600 : montre [As Ad] (double paire, As et Dames)
+ben41600 a remporté 430  lors du pot .
+*** SYNTHÈSE ***
+Pot total 430 | Commission 0 
+Tableau [Jc Qd 8h Qs 8d]
+Siège 1 : ben41600 (bouton) a montré [As Ad] et a gagné (430) avec double paire, As et Dames
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : coinflip0713 (grosse blind) a montré [Ah Kd] et a perdu avec double paire, Dames et Huit
+
+
+
+Main PokerStars n°237548444632 : Tournoi #3445865621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/07/2022 6:43:59 CET [24/07/2022 0:43:59 ET]
+Table '3445865621 1' 3-max Siège #2 est au bouton.
+Place 1: ben41600 (610 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+psychoman59 : met la petite blind. 20
+ben41600 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à ben41600.
+ben41600 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : ben41600 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237548445206 : Tournoi #3445865621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/07/2022 6:44:04 CET [24/07/2022 0:44:04 ET]
+Table '3445865621 1' 3-max Siège #1 est au bouton.
+Place 1: ben41600 (630 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+ben41600 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 8c]
+ben41600 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Kh As Ad]
+psychoman59 : parole 
+ben41600 : parole 
+*** TOURNANT *** [Kh As Ad] [2d]
+psychoman59 : parole 
+ben41600 : parole 
+*** RIVIÈRE *** [Kh As Ad 2d] [6d]
+psychoman59 : parole 
+ben41600 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Tc 8c] (une paire de As)
+ben41600 : montre [9h Td] (une paire de As - Roi+Dix+Neuf kicker)
+ben41600 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Kh As Ad 2d 6d]
+Siège 1 : ben41600 (bouton) (petite blind) a montré [9h Td] et a gagné (80) avec une paire de As
+Siège 2 : psychoman59 (grosse blind) a montré [Tc 8c] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°237548447382 : Tournoi #3445865621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/07/2022 6:44:22 CET [24/07/2022 0:44:22 ET]
+Table '3445865621 1' 3-max Siège #2 est au bouton.
+Place 1: ben41600 (670 en jetons) 
+Place 2: psychoman59 (230 en jetons) 
+psychoman59 : met la petite blind. 20
+ben41600 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ah]
+psychoman59 : relance. 190 à 230 et est all-in.
+ben41600 : passe. 
+Personne n'a suivi. (190) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : ben41600 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237548448418 : Tournoi #3445865621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/07/2022 6:44:30 CET [24/07/2022 0:44:30 ET]
+Table '3445865621 1' 3-max Siège #1 est au bouton.
+Place 1: ben41600 (630 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+ben41600 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 5h]
+ben41600 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [2s 6h 8h]
+psychoman59 : parole 
+ben41600 : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [2s 6h 8h] [Js]
+psychoman59 : parole 
+ben41600 : parole 
+*** RIVIÈRE *** [2s 6h 8h Js] [7h]
+psychoman59 : mise. 160
+ben41600 : suit. 160
+*** ABATTAGE ***
+psychoman59 : montre [9c 5h] (une suite, Cinq à Neuf)
+ben41600 : cache la main perdante. 
+psychoman59 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [2s 6h 8h Js 7h]
+Siège 1 : ben41600 (bouton) (petite blind) a caché la main perdante. [9h 7d]
+Siège 2 : psychoman59 (grosse blind) a montré [9c 5h] et a gagné (480) avec une suite, Cinq à Neuf
+
+
+
+Main PokerStars n°237548453095 : Tournoi #3445865621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/07/2022 6:45:07 CET [24/07/2022 0:45:07 ET]
+Table '3445865621 1' 3-max Siège #2 est au bouton.
+Place 1: ben41600 (390 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 30
+ben41600 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 8h]
+psychoman59 : suit. 30
+ben41600 : parole 
+*** FLOP *** [5c 4s 2s]
+ben41600 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à ben41600.
+ben41600 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5c 4s 2s]
+Siège 1 : ben41600 (grosse blind) a remporté (120)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237548454900 : Tournoi #3445865621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/07/2022 6:45:22 CET [24/07/2022 0:45:22 ET]
+Table '3445865621 1' 3-max Siège #1 est au bouton.
+Place 1: ben41600 (450 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+ben41600 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 6s]
+ben41600 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [4s Ts 4h]
+psychoman59 : parole 
+ben41600 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à ben41600.
+ben41600 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4s Ts 4h]
+Siège 1 : ben41600 (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237548456731 : Tournoi #3445865621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/07/2022 6:45:36 CET [24/07/2022 0:45:36 ET]
+Table '3445865621 1' 3-max Siège #2 est au bouton.
+Place 1: ben41600 (510 en jetons) 
+Place 2: psychoman59 (390 en jetons) 
+psychoman59 : met la petite blind. 30
+ben41600 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Jd]
+psychoman59 : relance. 330 à 390 et est all-in.
+ben41600 : passe. 
+Personne n'a suivi. (330) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : ben41600 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237548457970 : Tournoi #3445865621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/07/2022 6:45:46 CET [24/07/2022 0:45:46 ET]
+Table '3445865621 1' 3-max Siège #1 est au bouton.
+Place 1: ben41600 (450 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+ben41600 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Ks]
+ben41600 : suit. 30
+psychoman59 : relance. 390 à 450 et est all-in.
+ben41600 : passe. 
+Personne n'a suivi. (390) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : ben41600 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°237548460179 : Tournoi #3445865621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/07/2022 6:46:04 CET [24/07/2022 0:46:04 ET]
+Table '3445865621 1' 3-max Siège #2 est au bouton.
+Place 1: ben41600 (390 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 40
+ben41600 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Jd]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à ben41600.
+ben41600 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : ben41600 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237548460812 : Tournoi #3445865621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/07/2022 6:46:09 CET [24/07/2022 0:46:09 ET]
+Table '3445865621 1' 3-max Siège #1 est au bouton.
+Place 1: ben41600 (430 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+ben41600 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Qh]
+ben41600 : relance. 350 à 430 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (350) sont retournés à ben41600.
+ben41600 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : ben41600 (bouton) (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237548461724 : Tournoi #3445865621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/07/2022 6:46:16 CET [24/07/2022 0:46:16 ET]
+Table '3445865621 1' 3-max Siège #2 est au bouton.
+Place 1: ben41600 (510 en jetons) 
+Place 2: psychoman59 (390 en jetons) 
+psychoman59 : met la petite blind. 40
+ben41600 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 9c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à ben41600.
+ben41600 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : ben41600 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237548462289 : Tournoi #3445865621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/07/2022 6:46:20 CET [24/07/2022 0:46:20 ET]
+Table '3445865621 1' 3-max Siège #1 est au bouton.
+Place 1: ben41600 (550 en jetons) 
+Place 2: psychoman59 (350 en jetons) 
+ben41600 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Jc]
+ben41600 : relance. 470 à 550 et est all-in.
+psychoman59 : suit. 270 et est all-in.
+Personne n'a suivi. (200) sont retournés à ben41600.
+*** FLOP *** [Tc 9d 7c]
+*** TOURNANT *** [Tc 9d 7c] [3c]
+*** RIVIÈRE *** [Tc 9d 7c 3c] [6d]
+*** ABATTAGE ***
+psychoman59 : montre [Jd Jc] (une paire de Valets)
+ben41600 : montre [9h Jh] (une paire de Neuf)
+psychoman59 a remporté 700  lors du pot .
+*** SYNTHÈSE ***
+Pot total 700 | Commission 0 
+Tableau [Tc 9d 7c 3c 6d]
+Siège 1 : ben41600 (bouton) (petite blind) a montré [9h Jh] et a perdu avec une paire de Neuf
+Siège 2 : psychoman59 (grosse blind) a montré [Jd Jc] et a gagné (700) avec une paire de Valets
+
+
+
+Main PokerStars n°237548464040 : Tournoi #3445865621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/07/2022 6:46:34 CET [24/07/2022 0:46:34 ET]
+Table '3445865621 1' 3-max Siège #2 est au bouton.
+Place 1: ben41600 (200 en jetons) 
+Place 2: psychoman59 (700 en jetons) 
+psychoman59 : met la petite blind. 40
+ben41600 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Td]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à ben41600.
+ben41600 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : ben41600 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237548464624 : Tournoi #3445865621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/07/2022 6:46:39 CET [24/07/2022 0:46:39 ET]
+Table '3445865621 1' 3-max Siège #1 est au bouton.
+Place 1: ben41600 (240 en jetons) 
+Place 2: psychoman59 (660 en jetons) 
+ben41600 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Qs]
+ben41600 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : ben41600 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237548465196 : Tournoi #3445865621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/07/2022 6:46:43 CET [24/07/2022 0:46:43 ET]
+Table '3445865621 1' 3-max Siège #2 est au bouton.
+Place 1: ben41600 (200 en jetons) 
+Place 2: psychoman59 (700 en jetons) 
+psychoman59 : met la petite blind. 40
+ben41600 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 4h]
+psychoman59 : relance. 160 à 240
+ben41600 : suit. 120 et est all-in.
+Personne n'a suivi. (40) sont retournés à psychoman59.
+*** FLOP *** [8s 7c 9c]
+*** TOURNANT *** [8s 7c 9c] [2c]
+*** RIVIÈRE *** [8s 7c 9c 2c] [8d]
+*** ABATTAGE ***
+ben41600 : montre [4c Qc] (une couleur, hauteur Dame)
+psychoman59 : montre [Qd 4h] (une paire de Huit)
+ben41600 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [8s 7c 9c 2c 8d]
+Siège 1 : ben41600 (grosse blind) a montré [4c Qc] et a gagné (400) avec une couleur, hauteur Dame
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Qd 4h] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°237548467751 : Tournoi #3445865621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 24/07/2022 6:47:04 CET [24/07/2022 0:47:04 ET]
+Table '3445865621 1' 3-max Siège #1 est au bouton.
+Place 1: ben41600 (400 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+ben41600 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ah]
+ben41600 : relance. 300 à 400 et est all-in.
+psychoman59 : suit. 300
+*** FLOP *** [5s 9h Ac]
+*** TOURNANT *** [5s 9h Ac] [4c]
+*** RIVIÈRE *** [5s 9h Ac 4c] [6s]
+*** ABATTAGE ***
+psychoman59 : montre [8c Ah] (une paire de As)
+ben41600 : montre [9d Tc] (une paire de Neuf)
+psychoman59 a remporté 800  lors du pot .
+*** SYNTHÈSE ***
+Pot total 800 | Commission 0 
+Tableau [5s 9h Ac 4c 6s]
+Siège 1 : ben41600 (bouton) (petite blind) a montré [9d Tc] et a perdu avec une paire de Neuf
+Siège 2 : psychoman59 (grosse blind) a montré [8c Ah] et a gagné (800) avec une paire de As
+
+
+

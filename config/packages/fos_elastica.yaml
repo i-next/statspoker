@@ -1,0 +1,65 @@
+# Read the documentation: https://github.com/FriendsOfSymfony/FOSElasticaBundle/blob/master/doc/setup.md
+fos_elastica:
+    clients:
+        default: { url: '%env(ELASTICSEARCH_URL)%' }
+    indexes:
+        tournois_result:
+            properties:
+                identifiant: ~
+                buyin: { 'type': 'text',
+                         'fielddata': true }
+                prizepool: { 'type': 'text',
+                             'fielddata': true }
+                win: ~
+                nbtour: ~
+                ticket: ~
+                money: ~
+            persistence:
+                driver: orm
+                model: App\Entity\TournoiResult
+            finder: ~
+        my_hands:
+            properties:
+                id_card1: ~
+                id_card2: ~
+                count: { 'type': 'integer' }
+                win: { 'type': 'integer' }
+            persistence:
+                driver: orm
+                model: App\Entity\MesMains
+            finder: ~
+        hands:
+            properties:
+                card1: ~
+                card2: ~
+                flop: ~
+                turn: ~
+                river: ~
+                win: { 'type': 'text',
+                       "fielddata": true }
+            persistence:
+                driver: orm
+                model: App\Entity\Hands
+            finder: ~
+            settings:
+                index:
+                    max_result_window: 5000000
+        tournois:
+            properties:
+                identifiant: ~
+                buyin: { 'type': 'text',
+                         'fielddata': true }
+                prizepool: { 'type': 'text',
+                             'fielddata': true }
+                win: ~
+                nbplayer: ~
+                position: ~
+                ticket: ~
+                money: ~
+            persistence:
+                driver: orm
+                model: App\Entity\Tournoi
+            finder: ~
+            settings:
+                index:
+                    max_result_window: 5000000

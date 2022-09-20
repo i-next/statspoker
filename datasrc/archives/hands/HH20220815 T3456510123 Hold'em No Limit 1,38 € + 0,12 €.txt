@@ -1,0 +1,394 @@
+﻿Main PokerStars n°238000751643 : Tournoi #3456510123, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 15/08/2022 11:17:01 CET [15/08/2022 5:17:01 ET]
+Table '3456510123 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 2: hippyhornet (5000 en jetons) 
+Place 3: rrafdec (5000 en jetons) 
+Place 4: Animal92000i (5000 en jetons) 
+psychoman59 : met l'ante. 10
+hippyhornet : met l'ante. 10
+rrafdec : met l'ante. 10
+Animal92000i : met l'ante. 10
+hippyhornet : met la petite blind. 50
+rrafdec : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Jc]
+Animal92000i : passe. 
+psychoman59 : suit. 100
+hippyhornet : suit. 50
+rrafdec : parole 
+*** FLOP *** [2d 7d Ad]
+hippyhornet : parole 
+rrafdec : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2d 7d Ad] [Ah]
+hippyhornet : parole 
+rrafdec : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [2d 7d Ad Ah] [6c]
+hippyhornet : parole 
+rrafdec : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+hippyhornet : montre [Qs 8s] (une paire de As)
+rrafdec : montre [Qd 8c] (une paire de As)
+psychoman59 : cache la main perdante. 
+hippyhornet a remporté 170  lors du pot .
+rrafdec a remporté 170  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [2d 7d Ad Ah 6c]
+Siège 1 : psychoman59 (bouton) a caché la main perdante. [9d Jc]
+Siège 2 : hippyhornet (petite blind) a montré [Qs 8s] et a gagné (170) avec une paire de As
+Siège 3 : rrafdec (grosse blind) a montré [Qd 8c] et a gagné (170) avec une paire de As
+Siège 4 : Animal92000i s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238000760545 : Tournoi #3456510123, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 15/08/2022 11:17:59 CET [15/08/2022 5:17:59 ET]
+Table '3456510123 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4890 en jetons) 
+Place 2: hippyhornet (5060 en jetons) 
+Place 3: rrafdec (5060 en jetons) 
+Place 4: Animal92000i (4990 en jetons) 
+psychoman59 : met l'ante. 10
+hippyhornet : met l'ante. 10
+rrafdec : met l'ante. 10
+Animal92000i : met l'ante. 10
+rrafdec : met la petite blind. 50
+Animal92000i : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 7h]
+psychoman59 : passe. 
+hippyhornet : passe. 
+rrafdec : passe. 
+Personne n'a suivi. (50) sont retournés à Animal92000i.
+Animal92000i a remporté 140  lors du pot .
+Animal92000i : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : hippyhornet (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : rrafdec (petite blind) s'est couché. avant Flop
+Siège 4 : Animal92000i (grosse blind) a remporté (140)
+
+
+
+Main PokerStars n°238000763148 : Tournoi #3456510123, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 15/08/2022 11:18:16 CET [15/08/2022 5:18:16 ET]
+Table '3456510123 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4880 en jetons) 
+Place 2: hippyhornet (5050 en jetons) 
+Place 3: rrafdec (5000 en jetons) 
+Place 4: Animal92000i (5070 en jetons) 
+psychoman59 : met l'ante. 10
+hippyhornet : met l'ante. 10
+rrafdec : met l'ante. 10
+Animal92000i : met l'ante. 10
+Animal92000i : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Js]
+hippyhornet : passe. 
+rrafdec : suit. 100
+Animal92000i : suit. 50
+psychoman59 : parole 
+*** FLOP *** [3c 6c Tc]
+Animal92000i : parole 
+psychoman59 : parole 
+rrafdec : parole 
+*** TOURNANT *** [3c 6c Tc] [4s]
+Animal92000i : mise. 100
+psychoman59 : passe. 
+rrafdec : suit. 100
+*** RIVIÈRE *** [3c 6c Tc 4s] [Ts]
+Animal92000i : mise. 400
+rrafdec : relance. 670 à 1070
+Animal92000i : suit. 670
+*** ABATTAGE ***
+rrafdec : montre [Qh Th] (un brelan de Dix)
+Animal92000i : montre [5h 7h] (une suite, Trois à Sept)
+Animal92000i a remporté 2680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2680 | Commission 0 
+Tableau [3c 6c Tc 4s Ts]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : hippyhornet s'est couché. avant Flop (n'a pas misé)
+Siège 3 : rrafdec (bouton) a montré [Qh Th] et a perdu avec un brelan de Dix
+Siège 4 : Animal92000i (petite blind) a montré [5h 7h] et a gagné (2680) avec une suite, Trois à Sept
+
+
+
+Main PokerStars n°238000776264 : Tournoi #3456510123, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 15/08/2022 11:19:38 CET [15/08/2022 5:19:38 ET]
+Table '3456510123 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4770 en jetons) 
+Place 2: hippyhornet (5040 en jetons) 
+Place 3: rrafdec (3720 en jetons) 
+Place 4: Animal92000i (6470 en jetons) 
+psychoman59 : met l'ante. 10
+hippyhornet : met l'ante. 10
+rrafdec : met l'ante. 10
+Animal92000i : met l'ante. 10
+psychoman59 : met la petite blind. 50
+hippyhornet : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 9d]
+rrafdec : relance. 100 à 200
+Animal92000i : passe. 
+psychoman59 : passe. 
+hippyhornet : passe. 
+Personne n'a suivi. (100) sont retournés à rrafdec.
+rrafdec a remporté 290  lors du pot .
+rrafdec : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : hippyhornet (grosse blind) s'est couché. avant Flop
+Siège 3 : rrafdec a remporté (290)
+Siège 4 : Animal92000i (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238000779874 : Tournoi #3456510123, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 15/08/2022 11:20:01 CET [15/08/2022 5:20:01 ET]
+Table '3456510123 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4710 en jetons) 
+Place 2: hippyhornet (4930 en jetons) 
+Place 3: rrafdec (3900 en jetons) 
+Place 4: Animal92000i (6460 en jetons) 
+psychoman59 : met l'ante. 10
+hippyhornet : met l'ante. 10
+rrafdec : met l'ante. 10
+Animal92000i : met l'ante. 10
+hippyhornet : met la petite blind. 50
+rrafdec : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 8s]
+Animal92000i : suit. 100
+psychoman59 : passe. 
+hippyhornet : suit. 50
+rrafdec : parole 
+*** FLOP *** [9c Jc 8h]
+hippyhornet : parole 
+rrafdec : parole 
+Animal92000i : mise. 100
+hippyhornet : suit. 100
+rrafdec : passe. 
+*** TOURNANT *** [9c Jc 8h] [3h]
+hippyhornet : parole 
+Animal92000i : parole 
+*** RIVIÈRE *** [9c Jc 8h 3h] [Th]
+hippyhornet : parole 
+Animal92000i : parole 
+*** ABATTAGE ***
+hippyhornet : montre [Ks 8c] (une paire de Huit)
+Animal92000i : cache la main perdante. 
+hippyhornet a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [9c Jc 8h 3h Th]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : hippyhornet (petite blind) a montré [Ks 8c] et a gagné (540) avec une paire de Huit
+Siège 3 : rrafdec (grosse blind) s'est couché. sur le Flop
+Siège 4 : Animal92000i a caché la main perdante. [6c 4c]
+
+
+
+Main PokerStars n°238000789202 : Tournoi #3456510123, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 15/08/2022 11:21:01 CET [15/08/2022 5:21:01 ET]
+Table '3456510123 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4700 en jetons) 
+Place 2: hippyhornet (5260 en jetons) 
+Place 3: rrafdec (3790 en jetons) 
+Place 4: Animal92000i (6250 en jetons) 
+psychoman59 : met l'ante. 15
+hippyhornet : met l'ante. 15
+rrafdec : met l'ante. 15
+Animal92000i : met l'ante. 15
+rrafdec : met la petite blind. 60
+Animal92000i : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 2c]
+psychoman59 : passe. 
+hippyhornet : suit. 120
+rrafdec : suit. 60
+Animal92000i : parole 
+*** FLOP *** [Kd 3s Tc]
+rrafdec : parole 
+Animal92000i : parole 
+hippyhornet : mise. 210
+rrafdec : passe. 
+Animal92000i : passe. 
+Personne n'a suivi. (210) sont retournés à hippyhornet.
+hippyhornet a remporté 420  lors du pot .
+hippyhornet : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [Kd 3s Tc]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : hippyhornet (bouton) a remporté (420)
+Siège 3 : rrafdec (petite blind) s'est couché. sur le Flop
+Siège 4 : Animal92000i (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238000799585 : Tournoi #3456510123, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 15/08/2022 11:22:07 CET [15/08/2022 5:22:07 ET]
+Table '3456510123 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4685 en jetons) 
+Place 2: hippyhornet (5545 en jetons) 
+Place 3: rrafdec (3655 en jetons) 
+Place 4: Animal92000i (6115 en jetons) 
+psychoman59 : met l'ante. 15
+hippyhornet : met l'ante. 15
+rrafdec : met l'ante. 15
+Animal92000i : met l'ante. 15
+Animal92000i : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Kc]
+hippyhornet : passe. 
+rrafdec : suit. 120
+Animal92000i : passe. 
+psychoman59 : relance. 4550 à 4670 et est all-in.
+rrafdec : suit. 3520 et est all-in.
+Personne n'a suivi. (1030) sont retournés à psychoman59.
+*** FLOP *** [6s 4s 5d]
+*** TOURNANT *** [6s 4s 5d] [6d]
+*** RIVIÈRE *** [6s 4s 5d 6d] [As]
+*** ABATTAGE ***
+psychoman59 : montre [Qs Kc] (une paire de Six)
+rrafdec : montre [Ah Ts] (double paire, As et Six)
+rrafdec a remporté 7400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 7400 | Commission 0 
+Tableau [6s 4s 5d 6d As]
+Siège 1 : psychoman59 (grosse blind) a montré [Qs Kc] et a perdu avec une paire de Six
+Siège 2 : hippyhornet s'est couché. avant Flop (n'a pas misé)
+Siège 3 : rrafdec (bouton) a montré [Ah Ts] et a gagné (7400) avec double paire, As et Six
+Siège 4 : Animal92000i (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238000805033 : Tournoi #3456510123, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 15/08/2022 11:22:43 CET [15/08/2022 5:22:43 ET]
+Table '3456510123 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (1030 en jetons) 
+Place 2: hippyhornet (5530 en jetons) 
+Place 3: rrafdec (7400 en jetons) 
+Place 4: Animal92000i (6040 en jetons) 
+psychoman59 : met l'ante. 15
+hippyhornet : met l'ante. 15
+rrafdec : met l'ante. 15
+Animal92000i : met l'ante. 15
+psychoman59 : met la petite blind. 60
+hippyhornet : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 5s]
+rrafdec : passe. 
+Animal92000i : suit. 120
+psychoman59 : passe. 
+hippyhornet : parole 
+*** FLOP *** [6d Kc 7s]
+hippyhornet : parole 
+Animal92000i : parole 
+*** TOURNANT *** [6d Kc 7s] [4c]
+hippyhornet : parole 
+Animal92000i : parole 
+*** RIVIÈRE *** [6d Kc 7s 4c] [8h]
+hippyhornet : parole 
+Animal92000i : parole 
+*** ABATTAGE ***
+hippyhornet : montre [Td As] (Hauteur As)
+Animal92000i : cache la main perdante. 
+hippyhornet a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [6d Kc 7s 4c 8h]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : hippyhornet (grosse blind) a montré [Td As] et a gagné (360) avec Hauteur As
+Siège 3 : rrafdec s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Animal92000i (bouton) a caché la main perdante. [3c Ad]
+
+
+
+Main PokerStars n°238000813495 : Tournoi #3456510123, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 15/08/2022 11:23:37 CET [15/08/2022 5:23:37 ET]
+Table '3456510123 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (955 en jetons) 
+Place 2: hippyhornet (5755 en jetons) 
+Place 3: rrafdec (7385 en jetons) 
+Place 4: Animal92000i (5905 en jetons) 
+psychoman59 : met l'ante. 20
+hippyhornet : met l'ante. 20
+rrafdec : met l'ante. 20
+Animal92000i : met l'ante. 20
+hippyhornet : met la petite blind. 75
+rrafdec : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 3c]
+Animal92000i : suit. 150
+psychoman59 : passe. 
+hippyhornet : suit. 75
+rrafdec : parole 
+*** FLOP *** [5c 4h 2d]
+hippyhornet : parole 
+rrafdec : mise. 300
+Animal92000i : passe. 
+hippyhornet : suit. 300
+*** TOURNANT *** [5c 4h 2d] [6d]
+hippyhornet : parole 
+rrafdec : mise. 600
+hippyhornet : suit. 600
+*** RIVIÈRE *** [5c 4h 2d 6d] [Kh]
+hippyhornet : parole 
+rrafdec : parole 
+*** ABATTAGE ***
+hippyhornet : montre [8c 2c] (une paire de Deux)
+rrafdec : montre [5s 7d] (une paire de Cinq)
+rrafdec a remporté 2330  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2330 | Commission 0 
+Tableau [5c 4h 2d 6d Kh]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : hippyhornet (petite blind) a montré [8c 2c] et a perdu avec une paire de Deux
+Siège 3 : rrafdec (grosse blind) a montré [5s 7d] et a gagné (2330) avec une paire de Cinq
+Siège 4 : Animal92000i s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238000820498 : Tournoi #3456510123, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 15/08/2022 11:24:23 CET [15/08/2022 5:24:23 ET]
+Table '3456510123 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (935 en jetons) 
+Place 2: hippyhornet (4685 en jetons) 
+Place 3: rrafdec (8645 en jetons) 
+Place 4: Animal92000i (5735 en jetons) 
+psychoman59 : met l'ante. 20
+hippyhornet : met l'ante. 20
+rrafdec : met l'ante. 20
+Animal92000i : met l'ante. 20
+rrafdec : met la petite blind. 75
+Animal92000i : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Kd]
+psychoman59 : relance. 765 à 915 et est all-in.
+hippyhornet : suit. 915
+rrafdec : suit. 840
+Animal92000i : suit. 765
+*** FLOP *** [2s Jc 6h]
+rrafdec : parole 
+Animal92000i : parole 
+hippyhornet : mise. 1350
+rrafdec : passe. 
+Animal92000i : passe. 
+Personne n'a suivi. (1350) sont retournés à hippyhornet.
+*** TOURNANT *** [2s Jc 6h] [7h]
+*** RIVIÈRE *** [2s Jc 6h 7h] [3d]
+*** ABATTAGE ***
+psychoman59 : montre [5c Kd] (Hauteur Roi)
+hippyhornet : montre [Jh Kh] (une paire de Valets)
+hippyhornet a remporté 3740  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 3740 | Commission 0 
+Tableau [2s Jc 6h 7h 3d]
+Siège 1 : psychoman59 a montré [5c Kd] et a perdu avec Hauteur Roi
+Siège 2 : hippyhornet (bouton) a montré [Jh Kh] et a gagné (3740) avec une paire de Valets
+Siège 3 : rrafdec (petite blind) s'est couché. sur le Flop
+Siège 4 : Animal92000i (grosse blind) s'est couché. sur le Flop
+
+
+

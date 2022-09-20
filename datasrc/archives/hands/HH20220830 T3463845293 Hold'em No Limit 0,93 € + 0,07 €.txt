@@ -1,0 +1,360 @@
+﻿Main PokerStars n°238309201716 : Tournoi #3463845293, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/08/2022 17:09:26 CET [30/08/2022 11:09:26 ET]
+Table '3463845293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: barrinou131 (300 en jetons) 
+Place 3: malikfrere (300 en jetons) 
+barrinou131 : met la petite blind. 10
+malikfrere : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Tc]
+psychoman59 : passe. 
+barrinou131 : relance. 280 à 300 et est all-in.
+malikfrere : passe. 
+Personne n'a suivi. (280) sont retournés à barrinou131.
+barrinou131 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : barrinou131 (petite blind) a remporté (40)
+Siège 3 : malikfrere (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238309204799 : Tournoi #3463845293, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/08/2022 17:09:37 CET [30/08/2022 11:09:37 ET]
+Table '3463845293 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: barrinou131 (320 en jetons) 
+Place 3: malikfrere (280 en jetons) 
+malikfrere : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 7h]
+barrinou131 : suit. 20
+malikfrere : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ac Ah 4h]
+malikfrere : parole 
+psychoman59 : parole 
+barrinou131 : mise. 300 et est all-in.
+malikfrere : passe. 
+psychoman59 : suit. 280 et est all-in.
+Personne n'a suivi. (20) sont retournés à barrinou131.
+*** TOURNANT *** [Ac Ah 4h] [Jh]
+*** RIVIÈRE *** [Ac Ah 4h Jh] [8s]
+*** ABATTAGE ***
+psychoman59 : montre [Ad 7h] (un brelan de As)
+barrinou131 : montre [3c Kc] (une paire de As)
+psychoman59 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Ac Ah 4h Jh 8s]
+Siège 1 : psychoman59 (grosse blind) a montré [Ad 7h] et a gagné (620) avec un brelan de As
+Siège 2 : barrinou131 (bouton) a montré [3c Kc] et a perdu avec une paire de As
+Siège 3 : malikfrere (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238309211300 : Tournoi #3463845293, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/08/2022 17:10:00 CET [30/08/2022 11:10:00 ET]
+Table '3463845293 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (620 en jetons) 
+Place 2: barrinou131 (20 en jetons) 
+Place 3: malikfrere (260 en jetons) 
+psychoman59 : met la petite blind. 10
+barrinou131 : met la grosse blind. 20 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Ts]
+malikfrere : passe. 
+psychoman59 : suit. 10
+*** FLOP *** [6s 5h 6h]
+*** TOURNANT *** [6s 5h 6h] [8s]
+*** RIVIÈRE *** [6s 5h 6h 8s] [7h]
+*** ABATTAGE ***
+psychoman59 : montre [Qd Ts] (une paire de Six)
+barrinou131 : montre [4c 5s] (une suite, Quatre à Huit)
+barrinou131 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [6s 5h 6h 8s 7h]
+Siège 1 : psychoman59 (petite blind) a montré [Qd Ts] et a perdu avec une paire de Six
+Siège 2 : barrinou131 (grosse blind) a montré [4c 5s] et a gagné (40) avec une suite, Quatre à Huit
+Siège 3 : malikfrere (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238309215242 : Tournoi #3463845293, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/08/2022 17:10:14 CET [30/08/2022 11:10:14 ET]
+Table '3463845293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: barrinou131 (40 en jetons) 
+Place 3: malikfrere (260 en jetons) 
+barrinou131 : met la petite blind. 10
+malikfrere : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 2c]
+psychoman59 : suit. 20
+barrinou131 : relance. 20 à 40 et est all-in.
+malikfrere : suit. 20
+psychoman59 : suit. 20
+*** FLOP *** [3h 4d 9c]
+malikfrere : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3h 4d 9c] [6d]
+malikfrere : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3h 4d 9c 6d] [7h]
+malikfrere : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+barrinou131 : montre [Ah Ac] (une paire de As)
+malikfrere : cache la main perdante. 
+psychoman59 : cache la main perdante. 
+barrinou131 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3h 4d 9c 6d 7h]
+Siège 1 : psychoman59 (bouton) a caché la main perdante. [2d 2c]
+Siège 2 : barrinou131 (petite blind) a montré [Ah Ac] et a gagné (120) avec une paire de As
+Siège 3 : malikfrere (grosse blind) a caché la main perdante. [Jc 7d]
+
+
+
+Main PokerStars n°238309222468 : Tournoi #3463845293, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/08/2022 17:10:41 CET [30/08/2022 11:10:41 ET]
+Table '3463845293 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (560 en jetons) 
+Place 2: barrinou131 (120 en jetons) 
+Place 3: malikfrere (220 en jetons) 
+malikfrere : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Kc]
+barrinou131 : suit. 30
+malikfrere : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ks 9s Kd]
+malikfrere : parole 
+psychoman59 : parole 
+barrinou131 : parole 
+*** TOURNANT *** [Ks 9s Kd] [4h]
+malikfrere : parole 
+psychoman59 : parole 
+barrinou131 : parole 
+*** RIVIÈRE *** [Ks 9s Kd 4h] [2s]
+malikfrere : parole 
+psychoman59 : mise. 90
+barrinou131 : passe. 
+malikfrere : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Ks 9s Kd 4h 2s]
+Siège 1 : psychoman59 (grosse blind) a remporté (90)
+Siège 2 : barrinou131 (bouton) s'est couché. sur le Rivière
+Siège 3 : malikfrere (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238309229767 : Tournoi #3463845293, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/08/2022 17:11:07 CET [30/08/2022 11:11:07 ET]
+Table '3463845293 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (620 en jetons) 
+Place 2: barrinou131 (90 en jetons) 
+Place 3: malikfrere (190 en jetons) 
+psychoman59 : met la petite blind. 15
+barrinou131 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Ks]
+malikfrere : relance. 160 à 190 et est all-in.
+psychoman59 : suit. 175
+barrinou131 : suit. 60 et est all-in.
+*** FLOP *** [2h Qh 9c]
+*** TOURNANT *** [2h Qh 9c] [Td]
+*** RIVIÈRE *** [2h Qh 9c Td] [9h]
+*** ABATTAGE ***
+psychoman59 : montre [Th Ks] (double paire, Dix et Neuf)
+malikfrere : montre [Tc Kd] (double paire, Dix et Neuf)
+psychoman59 a remporté 100  parallèle lors du pot .
+malikfrere a remporté 100  parallèle lors du pot .
+barrinou131 : montre [7d 8d] (une paire de Neuf)
+psychoman59 a remporté 135  principal lors du pot .
+malikfrere a remporté 135  principal lors du pot .
+barrinou131 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 470 Principal pot 270. Parallèle pot 200. | Commission 0 
+Tableau [2h Qh 9c Td 9h]
+Siège 1 : psychoman59 (petite blind) a montré [Th Ks] et a gagné (235) avec double paire, Dix et Neuf
+Siège 2 : barrinou131 (grosse blind) a montré [7d 8d] et a perdu avec une paire de Neuf
+Siège 3 : malikfrere (bouton) a montré [Tc Kd] et a gagné (235) avec double paire, Dix et Neuf
+
+
+
+Main PokerStars n°238309236125 : Tournoi #3463845293, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/08/2022 17:11:30 CET [30/08/2022 11:11:30 ET]
+Table '3463845293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (665 en jetons) 
+Place 3: malikfrere (235 en jetons) 
+psychoman59 : met la petite blind. 15
+malikfrere : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Qc]
+psychoman59 : suit. 15
+malikfrere : parole 
+*** FLOP *** [2c 2s Ts]
+malikfrere : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2c 2s Ts] [8h]
+malikfrere : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [2c 2s Ts 8h] [3h]
+malikfrere : mise. 120
+psychoman59 : suit. 120
+*** ABATTAGE ***
+malikfrere : montre [3s 2d] (un full, full aux Deux par les Trois)
+psychoman59 : cache la main perdante. 
+malikfrere a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [2c 2s Ts 8h 3h]
+Siège 1 : psychoman59 (bouton) (petite blind) a caché la main perdante. [8s Qc]
+Siège 3 : malikfrere (grosse blind) a montré [3s 2d] et a gagné (360) avec un full, full aux Deux par les Trois
+
+
+
+Main PokerStars n°238309246563 : Tournoi #3463845293, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 30/08/2022 17:12:07 CET [30/08/2022 11:12:07 ET]
+Table '3463845293 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (485 en jetons) 
+Place 3: malikfrere (415 en jetons) 
+malikfrere : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Th]
+malikfrere : suit. 20
+psychoman59 : relance. 80 à 120
+malikfrere : relance. 295 à 415 et est all-in.
+psychoman59 : suit. 295
+*** FLOP *** [4s 8c 2d]
+*** TOURNANT *** [4s 8c 2d] [Qh]
+*** RIVIÈRE *** [4s 8c 2d Qh] [4h]
+*** ABATTAGE ***
+psychoman59 : montre [Ks Th] (une paire de Quatre)
+malikfrere : montre [7c As] (une paire de Quatre - As kicker)
+malikfrere a remporté 830  lors du pot .
+*** SYNTHÈSE ***
+Pot total 830 | Commission 0 
+Tableau [4s 8c 2d Qh 4h]
+Siège 1 : psychoman59 (grosse blind) a montré [Ks Th] et a perdu avec une paire de Quatre
+Siège 3 : malikfrere (bouton) (petite blind) a montré [7c As] et a gagné (830) avec une paire de Quatre
+
+
+
+Main PokerStars n°238309253577 : Tournoi #3463845293, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/08/2022 17:12:32 CET [30/08/2022 11:12:32 ET]
+Table '3463845293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (70 en jetons) 
+Place 3: malikfrere (830 en jetons) 
+psychoman59 : met la petite blind. 30
+malikfrere : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à malikfrere.
+malikfrere a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : malikfrere (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°238309255934 : Tournoi #3463845293, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/08/2022 17:12:40 CET [30/08/2022 11:12:40 ET]
+Table '3463845293 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (40 en jetons) 
+Place 3: malikfrere (860 en jetons) 
+malikfrere : met la petite blind. 30
+psychoman59 : met la grosse blind. 40 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 5d]
+malikfrere : suit. 10
+*** FLOP *** [4d 8d Qs]
+*** TOURNANT *** [4d 8d Qs] [5h]
+*** RIVIÈRE *** [4d 8d Qs 5h] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [9s 5d] (une paire de Cinq)
+malikfrere : montre [7s Kh] (Hauteur Roi)
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4d 8d Qs 5h 2h]
+Siège 1 : psychoman59 (grosse blind) a montré [9s 5d] et a gagné (80) avec une paire de Cinq
+Siège 3 : malikfrere (bouton) (petite blind) a montré [7s Kh] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°238309259252 : Tournoi #3463845293, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/08/2022 17:12:52 CET [30/08/2022 11:12:52 ET]
+Table '3463845293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (80 en jetons) 
+Place 3: malikfrere (820 en jetons) 
+psychoman59 : met la petite blind. 30
+malikfrere : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Qc]
+psychoman59 : relance. 20 à 80 et est all-in.
+malikfrere : suit. 20
+*** FLOP *** [9d 4h Ad]
+*** TOURNANT *** [9d 4h Ad] [Jd]
+*** RIVIÈRE *** [9d 4h Ad Jd] [Js]
+*** ABATTAGE ***
+malikfrere : montre [8s 5d] (une paire de Valets)
+psychoman59 : montre [As Qc] (double paire, As et Valets)
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [9d 4h Ad Jd Js]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [As Qc] et a gagné (160) avec double paire, As et Valets
+Siège 3 : malikfrere (grosse blind) a montré [8s 5d] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°238309262848 : Tournoi #3463845293, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/08/2022 17:13:05 CET [30/08/2022 11:13:05 ET]
+Table '3463845293 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (160 en jetons) 
+Place 3: malikfrere (740 en jetons) 
+malikfrere : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 4s]
+malikfrere : relance. 680 à 740 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (680) sont retournés à malikfrere.
+malikfrere a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : malikfrere (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°238309264884 : Tournoi #3463845293, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/08/2022 17:13:13 CET [30/08/2022 11:13:13 ET]
+Table '3463845293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (100 en jetons) 
+Place 3: malikfrere (800 en jetons) 
+psychoman59 : met la petite blind. 30
+malikfrere : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 9c]
+psychoman59 : relance. 40 à 100 et est all-in.
+malikfrere : suit. 40
+*** FLOP *** [2s 3d 5d]
+*** TOURNANT *** [2s 3d 5d] [6s]
+*** RIVIÈRE *** [2s 3d 5d 6s] [Qs]
+*** ABATTAGE ***
+malikfrere : montre [6d 2d] (double paire, Six et Deux)
+psychoman59 : montre [3c 9c] (une paire de Trois)
+malikfrere a remporté 200  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+malikfrere remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [2s 3d 5d 6s Qs]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [3c 9c] et a perdu avec une paire de Trois
+Siège 3 : malikfrere (grosse blind) a montré [6d 2d] et a gagné (200) avec double paire, Six et Deux
+
+
+

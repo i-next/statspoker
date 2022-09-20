@@ -1,0 +1,375 @@
+﻿Main PokerStars n°236781696360 : Tournoi #3426790206, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2022 23:26:07 CET [15/06/2022 17:26:07 ET]
+Table '3426790206 1' 3-max Siège #1 est au bouton.
+Place 1: sheemaa (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: oykwuzz (300 en jetons) 
+psychoman59 : met la petite blind. 10
+oykwuzz : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Td]
+sheemaa : relance. 40 à 60
+psychoman59 : passe. 
+oykwuzz : passe. 
+Personne n'a suivi. (40) sont retournés à sheemaa.
+sheemaa a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : sheemaa (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : oykwuzz (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236781700772 : Tournoi #3426790206, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2022 23:26:19 CET [15/06/2022 17:26:19 ET]
+Table '3426790206 1' 3-max Siège #2 est au bouton.
+Place 1: sheemaa (330 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: oykwuzz (280 en jetons) 
+oykwuzz : met la petite blind. 10
+sheemaa : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 4d]
+psychoman59 : passe. 
+oykwuzz : suit. 10
+sheemaa : parole 
+*** FLOP *** [5c Ts Th]
+oykwuzz : parole 
+sheemaa : parole 
+*** TOURNANT *** [5c Ts Th] [6h]
+oykwuzz : parole 
+sheemaa : parole 
+*** RIVIÈRE *** [5c Ts Th 6h] [8c]
+oykwuzz : parole 
+sheemaa : mise. 20
+oykwuzz : suit. 20
+*** ABATTAGE ***
+sheemaa : montre [4s Jh] (une paire de Dix)
+oykwuzz : montre [7h 8d] (double paire, Dix et Huit)
+oykwuzz a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5c Ts Th 6h 8c]
+Siège 1 : sheemaa (grosse blind) a montré [4s Jh] et a perdu avec une paire de Dix
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : oykwuzz (petite blind) a montré [7h 8d] et a gagné (80) avec double paire, Dix et Huit
+
+
+
+Main PokerStars n°236781708719 : Tournoi #3426790206, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2022 23:26:39 CET [15/06/2022 17:26:39 ET]
+Table '3426790206 1' 3-max Siège #3 est au bouton.
+Place 1: sheemaa (290 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: oykwuzz (320 en jetons) 
+sheemaa : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 6h]
+oykwuzz : suit. 20
+sheemaa : relance. 20 à 40
+psychoman59 : suit. 20
+oykwuzz : suit. 20
+*** FLOP *** [Ks Jd 8h]
+sheemaa : mise. 20
+psychoman59 : suit. 20
+oykwuzz : suit. 20
+*** TOURNANT *** [Ks Jd 8h] [9h]
+sheemaa : mise. 20
+psychoman59 : suit. 20
+oykwuzz : suit. 20
+*** RIVIÈRE *** [Ks Jd 8h 9h] [Ts]
+sheemaa : mise. 120
+psychoman59 : passe. 
+oykwuzz : suit. 120
+*** ABATTAGE ***
+sheemaa : montre [Kh 5c] (une paire de Rois)
+oykwuzz : montre [9d 7d] (une suite, Sept à Valet)
+oykwuzz a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Ks Jd 8h 9h Ts]
+Siège 1 : sheemaa (petite blind) a montré [Kh 5c] et a perdu avec une paire de Rois
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : oykwuzz (bouton) a montré [9d 7d] et a gagné (480) avec une suite, Sept à Valet
+
+
+
+Main PokerStars n°236781718566 : Tournoi #3426790206, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2022 23:27:04 CET [15/06/2022 17:27:04 ET]
+Table '3426790206 1' 3-max Siège #1 est au bouton.
+Place 1: sheemaa (90 en jetons) 
+Place 2: psychoman59 (210 en jetons) 
+Place 3: oykwuzz (600 en jetons) 
+psychoman59 : met la petite blind. 10
+oykwuzz : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ah]
+sheemaa : passe. 
+psychoman59 : relance. 40 à 60
+oykwuzz : suit. 40
+*** FLOP *** [3s Jc Td]
+psychoman59 : mise. 150 et est all-in.
+oykwuzz : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3s Jc Td]
+Siège 1 : sheemaa (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (120)
+Siège 3 : oykwuzz (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°236781726889 : Tournoi #3426790206, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2022 23:27:26 CET [15/06/2022 17:27:26 ET]
+Table '3426790206 1' 3-max Siège #2 est au bouton.
+Place 1: sheemaa (90 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: oykwuzz (540 en jetons) 
+oykwuzz : met la petite blind. 15
+sheemaa : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 7c]
+psychoman59 : passe. 
+oykwuzz : suit. 15
+sheemaa : relance. 60 à 90 et est all-in.
+oykwuzz : suit. 60
+*** FLOP *** [Th Ks 8c]
+*** TOURNANT *** [Th Ks 8c] [Js]
+*** RIVIÈRE *** [Th Ks 8c Js] [Ah]
+*** ABATTAGE ***
+oykwuzz : montre [7h Kh] (une paire de Rois)
+sheemaa : montre [Kc 5d] (une paire de Rois)
+oykwuzz a remporté 90  lors du pot .
+sheemaa a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Th Ks 8c Js Ah]
+Siège 1 : sheemaa (grosse blind) a montré [Kc 5d] et a gagné (90) avec une paire de Rois
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : oykwuzz (petite blind) a montré [7h Kh] et a gagné (90) avec une paire de Rois
+
+
+
+Main PokerStars n°236781733050 : Tournoi #3426790206, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2022 23:27:42 CET [15/06/2022 17:27:42 ET]
+Table '3426790206 1' 3-max Siège #3 est au bouton.
+Place 1: sheemaa (90 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: oykwuzz (540 en jetons) 
+sheemaa : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Qc]
+oykwuzz : passe. 
+sheemaa : relance. 60 à 90 et est all-in.
+psychoman59 : suit. 60
+*** FLOP *** [4c 4d 8c]
+*** TOURNANT *** [4c 4d 8c] [3c]
+*** RIVIÈRE *** [4c 4d 8c 3c] [2h]
+*** ABATTAGE ***
+sheemaa : montre [3d 3s] (un full, full aux Trois par les Quatre)
+psychoman59 : montre [5h Qc] (une paire de Quatre)
+sheemaa a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [4c 4d 8c 3c 2h]
+Siège 1 : sheemaa (petite blind) a montré [3d 3s] et a gagné (180) avec un full, full aux Trois par les Quatre
+Siège 2 : psychoman59 (grosse blind) a montré [5h Qc] et a perdu avec une paire de Quatre
+Siège 3 : oykwuzz (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°236781746412 : Tournoi #3426790206, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2022 23:27:59 CET [15/06/2022 17:27:59 ET]
+Table '3426790206 1' 3-max Siège #1 est au bouton.
+Place 1: sheemaa (180 en jetons) 
+Place 2: psychoman59 (180 en jetons) 
+Place 3: oykwuzz (540 en jetons) 
+psychoman59 : met la petite blind. 15
+oykwuzz : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 7c]
+sheemaa : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à oykwuzz.
+oykwuzz a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : sheemaa (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : oykwuzz (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°236781748927 : Tournoi #3426790206, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2022 23:28:05 CET [15/06/2022 17:28:05 ET]
+Table '3426790206 1' 3-max Siège #2 est au bouton.
+Place 1: sheemaa (180 en jetons) 
+Place 2: psychoman59 (165 en jetons) 
+Place 3: oykwuzz (555 en jetons) 
+oykwuzz : met la petite blind. 15
+sheemaa : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Qs]
+psychoman59 : passe. 
+oykwuzz : suit. 15
+sheemaa : parole 
+*** FLOP *** [3c 9d Jd]
+oykwuzz : parole 
+sheemaa : parole 
+*** TOURNANT *** [3c 9d Jd] [8d]
+oykwuzz : parole 
+sheemaa : parole 
+*** RIVIÈRE *** [3c 9d Jd 8d] [7d]
+oykwuzz : parole 
+sheemaa : mise. 30
+oykwuzz : passe. 
+Personne n'a suivi. (30) sont retournés à sheemaa.
+sheemaa a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3c 9d Jd 8d 7d]
+Siège 1 : sheemaa (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : oykwuzz (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°236781758791 : Tournoi #3426790206, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 23:28:31 CET [15/06/2022 17:28:31 ET]
+Table '3426790206 1' 3-max Siège #3 est au bouton.
+Place 1: sheemaa (210 en jetons) 
+Place 2: psychoman59 (165 en jetons) 
+Place 3: oykwuzz (525 en jetons) 
+sheemaa : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Ad]
+oykwuzz : suit. 40
+sheemaa : suit. 20
+psychoman59 : relance. 125 à 165 et est all-in.
+oykwuzz : suit. 125
+sheemaa : passe. 
+*** FLOP *** [4h 4s Jd]
+*** TOURNANT *** [4h 4s Jd] [Ks]
+*** RIVIÈRE *** [4h 4s Jd Ks] [Kh]
+*** ABATTAGE ***
+psychoman59 : montre [3s Ad] (double paire, Rois et Quatre)
+oykwuzz : montre [9c Tc] (double paire, Rois et Quatre - plus basse kicker)
+psychoman59 a remporté 370  lors du pot .
+*** SYNTHÈSE ***
+Pot total 370 | Commission 0 
+Tableau [4h 4s Jd Ks Kh]
+Siège 1 : sheemaa (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [3s Ad] et a gagné (370) avec double paire, Rois et Quatre
+Siège 3 : oykwuzz (bouton) a montré [9c Tc] et a perdu avec double paire, Rois et Quatre
+
+
+
+Main PokerStars n°236781766857 : Tournoi #3426790206, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 23:28:52 CET [15/06/2022 17:28:52 ET]
+Table '3426790206 1' 3-max Siège #1 est au bouton.
+Place 1: sheemaa (170 en jetons) 
+Place 2: psychoman59 (370 en jetons) 
+Place 3: oykwuzz (360 en jetons) 
+psychoman59 : met la petite blind. 20
+oykwuzz : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Td]
+sheemaa : relance. 130 à 170 et est all-in.
+psychoman59 : passe. 
+oykwuzz : suit. 130
+*** FLOP *** [Ad Kc Ah]
+*** TOURNANT *** [Ad Kc Ah] [Jc]
+*** RIVIÈRE *** [Ad Kc Ah Jc] [Tc]
+*** ABATTAGE ***
+oykwuzz : montre [As Th] (un full, full aux As par les Dix)
+sheemaa : montre [Ac Qs] (une suite, Dix à As)
+oykwuzz a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Ad Kc Ah Jc Tc]
+Siège 1 : sheemaa (bouton) a montré [Ac Qs] et a perdu avec une suite, Dix à As
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : oykwuzz (grosse blind) a montré [As Th] et a gagné (360) avec un full, full aux As par les Dix
+
+
+
+Main PokerStars n°236781773861 : Tournoi #3426790206, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 23:29:10 CET [15/06/2022 17:29:10 ET]
+Table '3426790206 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (350 en jetons) 
+Place 3: oykwuzz (550 en jetons) 
+oykwuzz : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Kc]
+oykwuzz : suit. 20
+psychoman59 : relance. 310 à 350 et est all-in.
+oykwuzz : suit. 310
+*** FLOP *** [Ks As 5c]
+*** TOURNANT *** [Ks As 5c] [5d]
+*** RIVIÈRE *** [Ks As 5c 5d] [8d]
+*** ABATTAGE ***
+psychoman59 : montre [4d Kc] (double paire, Rois et Cinq)
+oykwuzz : montre [Jd 2d] (une paire de Cinq)
+psychoman59 a remporté 700  lors du pot .
+*** SYNTHÈSE ***
+Pot total 700 | Commission 0 
+Tableau [Ks As 5c 5d 8d]
+Siège 2 : psychoman59 (grosse blind) a montré [4d Kc] et a gagné (700) avec double paire, Rois et Cinq
+Siège 3 : oykwuzz (bouton) (petite blind) a montré [Jd 2d] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°236781781104 : Tournoi #3426790206, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 23:29:29 CET [15/06/2022 17:29:29 ET]
+Table '3426790206 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (700 en jetons) 
+Place 3: oykwuzz (200 en jetons) 
+psychoman59 : met la petite blind. 30
+oykwuzz : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Tc]
+psychoman59 : relance. 60 à 120
+oykwuzz : relance. 80 à 200 et est all-in.
+psychoman59 : suit. 80
+*** FLOP *** [3h 9s 7c]
+*** TOURNANT *** [3h 9s 7c] [6h]
+*** RIVIÈRE *** [3h 9s 7c 6h] [9d]
+*** ABATTAGE ***
+oykwuzz : montre [Ah Ac] (double paire, As et Neuf)
+psychoman59 : montre [Qh Tc] (une paire de Neuf)
+oykwuzz a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [3h 9s 7c 6h 9d]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Qh Tc] et a perdu avec une paire de Neuf
+Siège 3 : oykwuzz (grosse blind) a montré [Ah Ac] et a gagné (400) avec double paire, As et Neuf
+
+
+
+Main PokerStars n°236781788863 : Tournoi #3426790206, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 23:29:50 CET [15/06/2022 17:29:50 ET]
+Table '3426790206 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (500 en jetons) 
+Place 3: oykwuzz (400 en jetons) 
+oykwuzz : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 3h]
+oykwuzz : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Ad Kd 5d]
+psychoman59 : parole 
+oykwuzz : parole 
+*** TOURNANT *** [Ad Kd 5d] [4s]
+psychoman59 : parole 
+oykwuzz : mise. 120
+psychoman59 : relance. 320 à 440 et est all-in.
+oykwuzz : suit. 220 et est all-in.
+Personne n'a suivi. (100) sont retournés à psychoman59.
+*** RIVIÈRE *** [Ad Kd 5d 4s] [3d]
+*** ABATTAGE ***
+psychoman59 : montre [Qd 3h] (une couleur, hauteur As)
+oykwuzz : montre [Ac Qh] (une paire de As)
+psychoman59 a remporté 800  lors du pot .
+*** SYNTHÈSE ***
+Pot total 800 | Commission 0 
+Tableau [Ad Kd 5d 4s 3d]
+Siège 2 : psychoman59 (grosse blind) a montré [Qd 3h] et a gagné (800) avec une couleur, hauteur As
+Siège 3 : oykwuzz (bouton) (petite blind) a montré [Ac Qh] et a perdu avec une paire de As
+
+
+

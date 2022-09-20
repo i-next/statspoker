@@ -1,0 +1,400 @@
+﻿Main PokerStars n°237513658718 : Tournoi #3445082628, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 17:09:22 CET [22/07/2022 11:09:22 ET]
+Table '3445082628 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: alex2LGB (300 en jetons) 
+Place 3: nin0028 (300 en jetons) 
+alex2LGB : met la petite blind. 10
+nin0028 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 2c]
+psychoman59 : passe. 
+alex2LGB : relance. 30 à 50
+nin0028 : suit. 30
+*** FLOP *** [2s 8h 6h]
+alex2LGB : mise. 60
+nin0028 : passe. 
+Personne n'a suivi. (60) sont retournés à alex2LGB.
+alex2LGB a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [2s 8h 6h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : alex2LGB (petite blind) a remporté (100)
+Siège 3 : nin0028 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237513665451 : Tournoi #3445082628, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 17:09:45 CET [22/07/2022 11:09:45 ET]
+Table '3445082628 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: alex2LGB (350 en jetons) 
+Place 3: nin0028 (250 en jetons) 
+nin0028 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 7h]
+alex2LGB : relance. 20 à 40
+nin0028 : passe. 
+psychoman59 : suit. 20
+*** FLOP *** [9s 2h 5h]
+psychoman59 : parole 
+alex2LGB : mise. 77
+psychoman59 : suit. 77
+*** TOURNANT *** [9s 2h 5h] [9h]
+psychoman59 : parole 
+alex2LGB : mise. 207
+psychoman59 : suit. 183 et est all-in.
+Personne n'a suivi. (24) sont retournés à alex2LGB.
+*** RIVIÈRE *** [9s 2h 5h 9h] [6d]
+*** ABATTAGE ***
+psychoman59 : montre [Qh 7h] (une couleur, hauteur Dame)
+alex2LGB : montre [9c Kc] (un brelan de Neuf)
+psychoman59 a remporté 610  lors du pot .
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [9s 2h 5h 9h 6d]
+Siège 1 : psychoman59 (grosse blind) a montré [Qh 7h] et a gagné (610) avec une couleur, hauteur Dame
+Siège 2 : alex2LGB (bouton) a montré [9c Kc] et a perdu avec un brelan de Neuf
+Siège 3 : nin0028 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237513675121 : Tournoi #3445082628, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 17:10:19 CET [22/07/2022 11:10:19 ET]
+Table '3445082628 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (610 en jetons) 
+Place 2: alex2LGB (50 en jetons) 
+Place 3: nin0028 (240 en jetons) 
+psychoman59 : met la petite blind. 10
+alex2LGB : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7h]
+nin0028 : suit. 20
+psychoman59 : suit. 10
+alex2LGB : relance. 30 à 50 et est all-in.
+nin0028 : suit. 30
+psychoman59 : suit. 30
+*** FLOP *** [9s 3c Jh]
+psychoman59 : parole 
+nin0028 : parole 
+*** TOURNANT *** [9s 3c Jh] [7c]
+psychoman59 : mise. 75
+nin0028 : relance. 115 à 190 et est all-in.
+psychoman59 : suit. 115
+*** RIVIÈRE *** [9s 3c Jh 7c] [4c]
+*** ABATTAGE ***
+psychoman59 : montre [Kc 7h] (une paire de Sept)
+nin0028 : montre [Ts 3s] (une paire de Trois)
+psychoman59 a remporté 380  parallèle lors du pot .
+alex2LGB : montre [9h Kh] (une paire de Neuf)
+alex2LGB a remporté 150  principal lors du pot .
+nin0028 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 530 Principal pot 150. Parallèle pot 380. | Commission 0 
+Tableau [9s 3c Jh 7c 4c]
+Siège 1 : psychoman59 (petite blind) a montré [Kc 7h] et a gagné (380) avec une paire de Sept
+Siège 2 : alex2LGB (grosse blind) a montré [9h Kh] et a gagné (150) avec une paire de Neuf
+Siège 3 : nin0028 (bouton) a montré [Ts 3s] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°237513686878 : Tournoi #3445082628, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/07/2022 17:11:01 CET [22/07/2022 11:11:01 ET]
+Table '3445082628 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (750 en jetons) 
+Place 2: alex2LGB (150 en jetons) 
+alex2LGB : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 4h]
+alex2LGB : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ad Kh Ah]
+psychoman59 : parole 
+alex2LGB : parole 
+*** TOURNANT *** [Ad Kh Ah] [6h]
+psychoman59 : parole 
+alex2LGB : parole 
+*** RIVIÈRE *** [Ad Kh Ah 6h] [9h]
+psychoman59 : parole 
+alex2LGB : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3c 4h] (une couleur, hauteur As)
+alex2LGB : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ad Kh Ah 6h 9h]
+Siège 1 : psychoman59 (grosse blind) a montré [3c 4h] et a gagné (60) avec une couleur, hauteur As
+Siège 2 : alex2LGB (bouton) (petite blind) a caché la main perdante. [7d 5d]
+
+
+
+Main PokerStars n°237513694345 : Tournoi #3445082628, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/07/2022 17:11:27 CET [22/07/2022 11:11:27 ET]
+Table '3445082628 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (780 en jetons) 
+Place 2: alex2LGB (120 en jetons) 
+psychoman59 : met la petite blind. 20
+alex2LGB : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Kh]
+psychoman59 : relance. 40 à 80
+alex2LGB : relance. 40 à 120 et est all-in.
+psychoman59 : suit. 40
+*** FLOP *** [4d 8d Ts]
+*** TOURNANT *** [4d 8d Ts] [6c]
+*** RIVIÈRE *** [4d 8d Ts 6c] [Ah]
+*** ABATTAGE ***
+alex2LGB : montre [Ad Jc] (une paire de As)
+psychoman59 : montre [7h Kh] (Hauteur As)
+alex2LGB a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [4d 8d Ts 6c Ah]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [7h Kh] et a perdu avec Hauteur As
+Siège 2 : alex2LGB (grosse blind) a montré [Ad Jc] et a gagné (240) avec une paire de As
+
+
+
+Main PokerStars n°237513699236 : Tournoi #3445082628, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/07/2022 17:11:44 CET [22/07/2022 11:11:44 ET]
+Table '3445082628 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (660 en jetons) 
+Place 2: alex2LGB (240 en jetons) 
+alex2LGB : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 9s]
+alex2LGB : relance. 200 à 240 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à alex2LGB.
+alex2LGB a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : alex2LGB (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237513702428 : Tournoi #3445082628, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/07/2022 17:11:56 CET [22/07/2022 11:11:56 ET]
+Table '3445082628 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (620 en jetons) 
+Place 2: alex2LGB (280 en jetons) 
+psychoman59 : met la petite blind. 20
+alex2LGB : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à alex2LGB.
+alex2LGB a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : alex2LGB (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237513703847 : Tournoi #3445082628, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/07/2022 17:12:01 CET [22/07/2022 11:12:01 ET]
+Table '3445082628 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: alex2LGB (300 en jetons) 
+alex2LGB : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 5h]
+alex2LGB : suit. 20
+psychoman59 : relance. 560 à 600 et est all-in.
+alex2LGB : passe. 
+Personne n'a suivi. (560) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : alex2LGB (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237513707242 : Tournoi #3445082628, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/07/2022 17:12:13 CET [22/07/2022 11:12:13 ET]
+Table '3445082628 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (640 en jetons) 
+Place 2: alex2LGB (260 en jetons) 
+psychoman59 : met la petite blind. 20
+alex2LGB : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Qc]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à alex2LGB.
+alex2LGB a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : alex2LGB (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237513708836 : Tournoi #3445082628, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/07/2022 17:12:18 CET [22/07/2022 11:12:18 ET]
+Table '3445082628 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (620 en jetons) 
+Place 2: alex2LGB (280 en jetons) 
+alex2LGB : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Kd]
+alex2LGB : relance. 240 à 280 et est all-in.
+psychoman59 : suit. 240
+*** FLOP *** [4h 3d 4c]
+*** TOURNANT *** [4h 3d 4c] [8c]
+*** RIVIÈRE *** [4h 3d 4c 8c] [2c]
+*** ABATTAGE ***
+psychoman59 : montre [Qd Kd] (une paire de Quatre)
+alex2LGB : montre [6s Ad] (une paire de Quatre - As kicker)
+alex2LGB a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [4h 3d 4c 8c 2c]
+Siège 1 : psychoman59 (grosse blind) a montré [Qd Kd] et a perdu avec une paire de Quatre
+Siège 2 : alex2LGB (bouton) (petite blind) a montré [6s Ad] et a gagné (560) avec une paire de Quatre
+
+
+
+Main PokerStars n°237513713763 : Tournoi #3445082628, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/07/2022 17:12:36 CET [22/07/2022 11:12:36 ET]
+Table '3445082628 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: alex2LGB (560 en jetons) 
+psychoman59 : met la petite blind. 30
+alex2LGB : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à alex2LGB.
+alex2LGB a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : alex2LGB (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237513715120 : Tournoi #3445082628, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/07/2022 17:12:40 CET [22/07/2022 11:12:40 ET]
+Table '3445082628 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: alex2LGB (590 en jetons) 
+alex2LGB : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Ad]
+alex2LGB : relance. 60 à 120
+psychoman59 : relance. 190 à 310 et est all-in.
+alex2LGB : suit. 190
+*** FLOP *** [Kc Ah Jd]
+*** TOURNANT *** [Kc Ah Jd] [6s]
+*** RIVIÈRE *** [Kc Ah Jd 6s] [3h]
+*** ABATTAGE ***
+psychoman59 : montre [Jh Ad] (double paire, As et Valets)
+alex2LGB : montre [7d 6d] (une paire de Six)
+psychoman59 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Kc Ah Jd 6s 3h]
+Siège 1 : psychoman59 (grosse blind) a montré [Jh Ad] et a gagné (620) avec double paire, As et Valets
+Siège 2 : alex2LGB (bouton) (petite blind) a montré [7d 6d] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°237513721250 : Tournoi #3445082628, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/07/2022 17:13:02 CET [22/07/2022 11:13:02 ET]
+Table '3445082628 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (620 en jetons) 
+Place 2: alex2LGB (280 en jetons) 
+psychoman59 : met la petite blind. 30
+alex2LGB : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à alex2LGB.
+alex2LGB a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : alex2LGB (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237513722597 : Tournoi #3445082628, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/07/2022 17:13:07 CET [22/07/2022 11:13:07 ET]
+Table '3445082628 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (590 en jetons) 
+Place 2: alex2LGB (310 en jetons) 
+alex2LGB : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Js]
+alex2LGB : relance. 250 à 310 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à alex2LGB.
+alex2LGB a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : alex2LGB (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237513725370 : Tournoi #3445082628, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/07/2022 17:13:17 CET [22/07/2022 11:13:17 ET]
+Table '3445082628 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 2: alex2LGB (370 en jetons) 
+psychoman59 : met la petite blind. 30
+alex2LGB : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à alex2LGB.
+alex2LGB a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : alex2LGB (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237513726696 : Tournoi #3445082628, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/07/2022 17:13:22 CET [22/07/2022 11:13:22 ET]
+Table '3445082628 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: alex2LGB (400 en jetons) 
+alex2LGB : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 2d]
+alex2LGB : relance. 340 à 400 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (340) sont retournés à alex2LGB.
+alex2LGB a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : alex2LGB (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237513729989 : Tournoi #3445082628, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 22/07/2022 17:13:33 CET [22/07/2022 11:13:33 ET]
+Table '3445082628 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 2: alex2LGB (460 en jetons) 
+psychoman59 : met la petite blind. 40
+alex2LGB : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 5h]
+psychoman59 : relance. 360 à 440 et est all-in.
+alex2LGB : suit. 360
+*** FLOP *** [5s Jd Ac]
+*** TOURNANT *** [5s Jd Ac] [3s]
+*** RIVIÈRE *** [5s Jd Ac 3s] [9s]
+*** ABATTAGE ***
+alex2LGB : montre [Jh Ah] (double paire, As et Valets)
+psychoman59 : montre [Th 5h] (une paire de Cinq)
+alex2LGB a remporté 880  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+*** SYNTHÈSE ***
+Pot total 880 | Commission 0 
+Tableau [5s Jd Ac 3s 9s]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Th 5h] et a perdu avec une paire de Cinq
+Siège 2 : alex2LGB (grosse blind) a montré [Jh Ah] et a gagné (880) avec double paire, As et Valets
+
+
+

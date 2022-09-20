@@ -1,0 +1,832 @@
+﻿Main PokerStars n°237676205512 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/07/2022 11:30:40 CET [30/07/2022 5:30:40 ET]
+Table '3448840808 1' 3-max Siège #1 est au bouton.
+Place 1: DucDollar (300 en jetons) 
+Place 2: corentin5918 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+corentin5918 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc As]
+DucDollar : passe. 
+corentin5918 : suit. 10
+psychoman59 : relance. 20 à 40
+corentin5918 : suit. 20
+*** FLOP *** [Qd 8h 7s]
+corentin5918 : mise. 260 et est all-in.
+psychoman59 : suit. 260 et est all-in.
+*** TOURNANT *** [Qd 8h 7s] [Jd]
+*** RIVIÈRE *** [Qd 8h 7s Jd] [6c]
+*** ABATTAGE ***
+corentin5918 : montre [9d Ah] (Hauteur As)
+psychoman59 : montre [Qc As] (une paire de Dames)
+psychoman59 a remporté 600  lors du pot .
+corentin5918 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [Qd 8h 7s Jd 6c]
+Siège 1 : DucDollar (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : corentin5918 (petite blind) a montré [9d Ah] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [Qc As] et a gagné (600) avec une paire de Dames
+
+
+
+Main PokerStars n°237676209294 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/07/2022 11:31:04 CET [30/07/2022 5:31:04 ET]
+Table '3448840808 1' 3-max Siège #3 est au bouton.
+Place 1: DucDollar (300 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+psychoman59 : met la petite blind. 10
+DucDollar : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 8s]
+psychoman59 : relance. 40 à 60
+DucDollar : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : DucDollar (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°237676210700 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/07/2022 11:31:13 CET [30/07/2022 5:31:13 ET]
+Table '3448840808 1' 3-max Siège #1 est au bouton.
+Place 1: DucDollar (280 en jetons) 
+Place 3: psychoman59 (620 en jetons) 
+DucDollar : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Td]
+DucDollar : relance. 20 à 40
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à DucDollar.
+DucDollar a remporté 40  lors du pot .
+DucDollar : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : DucDollar (bouton) (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237676211656 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/07/2022 11:31:19 CET [30/07/2022 5:31:19 ET]
+Table '3448840808 1' 3-max Siège #3 est au bouton.
+Place 1: DucDollar (300 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+psychoman59 : met la petite blind. 10
+DucDollar : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 7d]
+psychoman59 : suit. 10
+DucDollar : parole 
+*** FLOP *** [5d 6s 7h]
+DucDollar : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [5d 6s 7h] [Kh]
+DucDollar : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [5d 6s 7h Kh] [Qd]
+DucDollar : mise. 40
+psychoman59 : suit. 40
+*** ABATTAGE ***
+DucDollar : montre [4c 8h] (une suite, Quatre à Huit)
+psychoman59 : cache la main perdante. 
+DucDollar a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [5d 6s 7h Kh Qd]
+Siège 1 : DucDollar (grosse blind) a montré [4c 8h] et a gagné (200) avec une suite, Quatre à Huit
+Siège 3 : psychoman59 (bouton) (petite blind) a caché la main perdante. [9d 7d]
+
+
+
+Main PokerStars n°237676215462 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/07/2022 11:31:44 CET [30/07/2022 5:31:44 ET]
+Table '3448840808 1' 3-max Siège #1 est au bouton.
+Place 1: DucDollar (400 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+DucDollar : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 4s]
+DucDollar : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à DucDollar.
+DucDollar a remporté 60  lors du pot .
+DucDollar : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : DucDollar (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237676216517 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/07/2022 11:31:51 CET [30/07/2022 5:31:51 ET]
+Table '3448840808 1' 3-max Siège #3 est au bouton.
+Place 1: DucDollar (430 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+psychoman59 : met la petite blind. 15
+DucDollar : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ks]
+psychoman59 : relance. 30 à 60
+DucDollar : suit. 30
+*** FLOP *** [Ts 4d Js]
+DucDollar : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ts 4d Js] [Jh]
+DucDollar : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Ts 4d Js Jh] [5c]
+DucDollar : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+DucDollar : montre [9h As] (une paire de Valets)
+psychoman59 : cache la main perdante. 
+DucDollar a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ts 4d Js Jh 5c]
+Siège 1 : DucDollar (grosse blind) a montré [9h As] et a gagné (120) avec une paire de Valets
+Siège 3 : psychoman59 (bouton) (petite blind) a caché la main perdante. [7c Ks]
+
+
+
+Main PokerStars n°237676219931 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/07/2022 11:32:14 CET [30/07/2022 5:32:14 ET]
+Table '3448840808 1' 3-max Siège #1 est au bouton.
+Place 1: DucDollar (490 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+DucDollar : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 6d]
+DucDollar : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à DucDollar.
+DucDollar a remporté 60  lors du pot .
+DucDollar : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : DucDollar (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237676220987 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/07/2022 11:32:21 CET [30/07/2022 5:32:21 ET]
+Table '3448840808 1' 3-max Siège #3 est au bouton.
+Place 1: DucDollar (520 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+psychoman59 : met la petite blind. 15
+DucDollar : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Jc]
+psychoman59 : relance. 60 à 90
+DucDollar : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : DucDollar (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237676222178 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/07/2022 11:32:28 CET [30/07/2022 5:32:28 ET]
+Table '3448840808 1' 3-max Siège #1 est au bouton.
+Place 1: DucDollar (490 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+DucDollar : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 4h]
+DucDollar : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : DucDollar (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237676222954 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/07/2022 11:32:33 CET [30/07/2022 5:32:33 ET]
+Table '3448840808 1' 3-max Siège #3 est au bouton.
+Place 1: DucDollar (475 en jetons) 
+Place 3: psychoman59 (425 en jetons) 
+psychoman59 : met la petite blind. 15
+DucDollar : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à DucDollar.
+DucDollar a remporté 30  lors du pot .
+DucDollar : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : DucDollar (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237676223676 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/07/2022 11:32:38 CET [30/07/2022 5:32:38 ET]
+Table '3448840808 1' 3-max Siège #1 est au bouton.
+Place 1: DucDollar (490 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+DucDollar : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 6h]
+DucDollar : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [9h Ah 9d]
+psychoman59 : parole 
+DucDollar : parole 
+*** TOURNANT *** [9h Ah 9d] [5s]
+psychoman59 : parole 
+DucDollar : parole 
+*** RIVIÈRE *** [9h Ah 9d 5s] [As]
+psychoman59 : parole 
+DucDollar : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5h 6h] (double paire, As et Neuf)
+DucDollar : montre [Kc Ts] (double paire, As et Neuf - Roi kicker)
+DucDollar a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9h Ah 9d 5s As]
+Siège 1 : DucDollar (bouton) (petite blind) a montré [Kc Ts] et a gagné (120) avec double paire, As et Neuf
+Siège 3 : psychoman59 (grosse blind) a montré [5h 6h] et a perdu avec double paire, As et Neuf
+
+
+
+Main PokerStars n°237676227464 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 30/07/2022 11:33:02 CET [30/07/2022 5:33:02 ET]
+Table '3448840808 1' 3-max Siège #3 est au bouton.
+Place 1: DucDollar (550 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 20
+DucDollar : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 3h]
+psychoman59 : relance. 310 à 350 et est all-in.
+DucDollar : passe. 
+Personne n'a suivi. (310) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : DucDollar (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237676228831 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 30/07/2022 11:33:11 CET [30/07/2022 5:33:11 ET]
+Table '3448840808 1' 3-max Siège #1 est au bouton.
+Place 1: DucDollar (510 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+DucDollar : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Js]
+DucDollar : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : DucDollar (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237676229550 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 30/07/2022 11:33:16 CET [30/07/2022 5:33:16 ET]
+Table '3448840808 1' 3-max Siège #3 est au bouton.
+Place 1: DucDollar (490 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+psychoman59 : met la petite blind. 20
+DucDollar : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td As]
+psychoman59 : relance. 370 à 410 et est all-in.
+DucDollar : passe. 
+Personne n'a suivi. (370) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : DucDollar (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237676230715 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 30/07/2022 11:33:24 CET [30/07/2022 5:33:24 ET]
+Table '3448840808 1' 3-max Siège #1 est au bouton.
+Place 1: DucDollar (450 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+DucDollar : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 6h]
+DucDollar : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Qd 5s 6s]
+psychoman59 : parole 
+DucDollar : mise. 40
+psychoman59 : relance. 160 à 200
+DucDollar : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Qd 5s 6s]
+Siège 1 : DucDollar (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°237676233247 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 30/07/2022 11:33:40 CET [30/07/2022 5:33:40 ET]
+Table '3448840808 1' 3-max Siège #3 est au bouton.
+Place 1: DucDollar (370 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+psychoman59 : met la petite blind. 20
+DucDollar : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à DucDollar.
+DucDollar a remporté 40  lors du pot .
+DucDollar : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : DucDollar (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237676234552 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/07/2022 11:33:48 CET [30/07/2022 5:33:48 ET]
+Table '3448840808 1' 3-max Siège #1 est au bouton.
+Place 1: DucDollar (390 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+DucDollar : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 4c]
+DucDollar : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : DucDollar (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237676235244 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/07/2022 11:33:53 CET [30/07/2022 5:33:53 ET]
+Table '3448840808 1' 3-max Siège #3 est au bouton.
+Place 1: DucDollar (360 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+psychoman59 : met la petite blind. 30
+DucDollar : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à DucDollar.
+DucDollar a remporté 60  lors du pot .
+DucDollar : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : DucDollar (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237676235929 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/07/2022 11:33:57 CET [30/07/2022 5:33:57 ET]
+Table '3448840808 1' 3-max Siège #1 est au bouton.
+Place 1: DucDollar (390 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+DucDollar : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 4s]
+DucDollar : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : DucDollar (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237676236692 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/07/2022 11:34:02 CET [30/07/2022 5:34:02 ET]
+Table '3448840808 1' 3-max Siège #3 est au bouton.
+Place 1: DucDollar (360 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+psychoman59 : met la petite blind. 30
+DucDollar : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Qh]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à DucDollar.
+DucDollar a remporté 60  lors du pot .
+DucDollar : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : DucDollar (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237676237453 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/07/2022 11:34:07 CET [30/07/2022 5:34:07 ET]
+Table '3448840808 1' 3-max Siège #1 est au bouton.
+Place 1: DucDollar (390 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+DucDollar : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 8h]
+DucDollar : suit. 30
+psychoman59 : parole 
+*** FLOP *** [8d Ad Jd]
+psychoman59 : parole 
+DucDollar : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à DucDollar.
+DucDollar a remporté 120  lors du pot .
+DucDollar : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8d Ad Jd]
+Siège 1 : DucDollar (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237676239438 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/07/2022 11:34:20 CET [30/07/2022 5:34:20 ET]
+Table '3448840808 1' 3-max Siège #3 est au bouton.
+Place 1: DucDollar (450 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+psychoman59 : met la petite blind. 30
+DucDollar : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à DucDollar.
+DucDollar a remporté 60  lors du pot .
+DucDollar : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : DucDollar (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237676240188 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/07/2022 11:34:25 CET [30/07/2022 5:34:25 ET]
+Table '3448840808 1' 3-max Siège #1 est au bouton.
+Place 1: DucDollar (480 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+DucDollar : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Tc]
+DucDollar : suit. 30
+psychoman59 : parole 
+*** FLOP *** [2h Qd Ah]
+psychoman59 : parole 
+DucDollar : parole 
+*** TOURNANT *** [2h Qd Ah] [Ts]
+psychoman59 : parole 
+DucDollar : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [2h Qd Ah Ts] [6c]
+psychoman59 : parole 
+DucDollar : mise. 60
+psychoman59 : suit. 60
+*** ABATTAGE ***
+DucDollar : montre [Qc Th] (double paire, Dames et Dix)
+psychoman59 : cache la main perdante. 
+DucDollar a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [2h Qd Ah Ts 6c]
+Siège 1 : DucDollar (bouton) (petite blind) a montré [Qc Th] et a gagné (360) avec double paire, Dames et Dix
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [4c Tc]
+
+
+
+Main PokerStars n°237676244298 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 30/07/2022 11:34:51 CET [30/07/2022 5:34:51 ET]
+Table '3448840808 1' 3-max Siège #3 est au bouton.
+Place 1: DucDollar (660 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+psychoman59 : met la petite blind. 40
+DucDollar : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 6h]
+psychoman59 : relance. 160 à 240 et est all-in.
+DucDollar : suit. 160
+*** FLOP *** [Jh 5h 9s]
+*** TOURNANT *** [Jh 5h 9s] [Jd]
+*** RIVIÈRE *** [Jh 5h 9s Jd] [Ts]
+*** ABATTAGE ***
+DucDollar : montre [7d Ks] (une paire de Valets)
+psychoman59 : montre [As 6h] (une paire de Valets - As kicker)
+psychoman59 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Jh 5h 9s Jd Ts]
+Siège 1 : DucDollar (grosse blind) a montré [7d Ks] et a perdu avec une paire de Valets
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [As 6h] et a gagné (480) avec une paire de Valets
+
+
+
+Main PokerStars n°237676246439 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 30/07/2022 11:35:05 CET [30/07/2022 5:35:05 ET]
+Table '3448840808 1' 3-max Siège #1 est au bouton.
+Place 1: DucDollar (420 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+DucDollar : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8d]
+DucDollar : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : DucDollar (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237676247117 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 30/07/2022 11:35:09 CET [30/07/2022 5:35:09 ET]
+Table '3448840808 1' 3-max Siège #3 est au bouton.
+Place 1: DucDollar (380 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+psychoman59 : met la petite blind. 40
+DucDollar : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à DucDollar.
+DucDollar a remporté 80  lors du pot .
+DucDollar : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : DucDollar (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237676247867 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 30/07/2022 11:35:14 CET [30/07/2022 5:35:14 ET]
+Table '3448840808 1' 3-max Siège #1 est au bouton.
+Place 1: DucDollar (420 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+DucDollar : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Jd]
+DucDollar : suit. 40
+psychoman59 : relance. 400 à 480 et est all-in.
+DucDollar : suit. 340 et est all-in.
+Personne n'a suivi. (60) sont retournés à psychoman59.
+*** FLOP *** [7d Ad 7c]
+*** TOURNANT *** [7d Ad 7c] [6h]
+*** RIVIÈRE *** [7d Ad 7c 6h] [9h]
+*** ABATTAGE ***
+psychoman59 : montre [Kd Jd] (une paire de Sept)
+DucDollar : montre [Kh 7h] (un brelan de Sept)
+DucDollar a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [7d Ad 7c 6h 9h]
+Siège 1 : DucDollar (bouton) (petite blind) a montré [Kh 7h] et a gagné (840) avec un brelan de Sept
+Siège 3 : psychoman59 (grosse blind) a montré [Kd Jd] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°237676250446 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 30/07/2022 11:35:30 CET [30/07/2022 5:35:30 ET]
+Table '3448840808 1' 3-max Siège #3 est au bouton.
+Place 1: DucDollar (840 en jetons) 
+Place 3: psychoman59 (60 en jetons) 
+psychoman59 : met la petite blind. 40
+DucDollar : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 7h]
+psychoman59 : suit. 20 et est all-in.
+Personne n'a suivi. (20) sont retournés à DucDollar.
+*** FLOP *** [9c 8s Kd]
+*** TOURNANT *** [9c 8s Kd] [Ac]
+*** RIVIÈRE *** [9c 8s Kd Ac] [Jh]
+*** ABATTAGE ***
+DucDollar : montre [2c 9d] (une paire de Neuf)
+psychoman59 : montre [Ts 7h] (une suite, Sept à Valet)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9c 8s Kd Ac Jh]
+Siège 1 : DucDollar (grosse blind) a montré [2c 9d] et a perdu avec une paire de Neuf
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ts 7h] et a gagné (120) avec une suite, Sept à Valet
+
+
+
+Main PokerStars n°237676252952 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 30/07/2022 11:35:47 CET [30/07/2022 5:35:47 ET]
+Table '3448840808 1' 3-max Siège #1 est au bouton.
+Place 1: DucDollar (780 en jetons) 
+Place 3: psychoman59 (120 en jetons) 
+DucDollar : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Jc]
+DucDollar : suit. 50
+psychoman59 : relance. 20 à 120 et est all-in.
+DucDollar : suit. 20
+*** FLOP *** [Td 8s 8h]
+*** TOURNANT *** [Td 8s 8h] [Js]
+*** RIVIÈRE *** [Td 8s 8h Js] [8d]
+*** ABATTAGE ***
+psychoman59 : montre [8c Jc] (un carré de Huit)
+DucDollar : montre [As Ad] (un full, full aux Huit par les As)
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Td 8s 8h Js 8d]
+Siège 1 : DucDollar (bouton) (petite blind) a montré [As Ad] et a perdu avec un full, full aux Huit par les As
+Siège 3 : psychoman59 (grosse blind) a montré [8c Jc] et a gagné (240) avec un carré de Huit
+
+
+
+Main PokerStars n°237676255049 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 30/07/2022 11:36:00 CET [30/07/2022 5:36:00 ET]
+Table '3448840808 1' 3-max Siège #3 est au bouton.
+Place 1: DucDollar (660 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+psychoman59 : met la petite blind. 50
+DucDollar : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 7h]
+psychoman59 : relance. 140 à 240 et est all-in.
+DucDollar : suit. 140
+*** FLOP *** [4d 6d 9s]
+*** TOURNANT *** [4d 6d 9s] [2c]
+*** RIVIÈRE *** [4d 6d 9s 2c] [6c]
+*** ABATTAGE ***
+DucDollar : montre [Ks 3h] (une paire de Six)
+psychoman59 : montre [Ah 7h] (une paire de Six - As kicker)
+psychoman59 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [4d 6d 9s 2c 6c]
+Siège 1 : DucDollar (grosse blind) a montré [Ks 3h] et a perdu avec une paire de Six
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ah 7h] et a gagné (480) avec une paire de Six
+
+
+
+Main PokerStars n°237676257321 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 30/07/2022 11:36:15 CET [30/07/2022 5:36:15 ET]
+Table '3448840808 1' 3-max Siège #1 est au bouton.
+Place 1: DucDollar (420 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+DucDollar : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 3d]
+DucDollar : suit. 50
+psychoman59 : relance. 380 à 480 et est all-in.
+DucDollar : passe. 
+Personne n'a suivi. (380) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : DucDollar (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (200)
+
+
+
+Main PokerStars n°237676258666 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 30/07/2022 11:36:23 CET [30/07/2022 5:36:23 ET]
+Table '3448840808 1' 3-max Siège #3 est au bouton.
+Place 1: DucDollar (320 en jetons) 
+Place 3: psychoman59 (580 en jetons) 
+psychoman59 : met la petite blind. 50
+DucDollar : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à DucDollar.
+DucDollar a remporté 100  lors du pot .
+DucDollar : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : DucDollar (grosse blind) a remporté (100)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237676259436 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 30/07/2022 11:36:28 CET [30/07/2022 5:36:28 ET]
+Table '3448840808 1' 3-max Siège #1 est au bouton.
+Place 1: DucDollar (370 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+DucDollar : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 5h]
+DucDollar : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : DucDollar (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°237676260160 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 30/07/2022 11:36:33 CET [30/07/2022 5:36:33 ET]
+Table '3448840808 1' 3-max Siège #3 est au bouton.
+Place 1: DucDollar (320 en jetons) 
+Place 3: psychoman59 (580 en jetons) 
+psychoman59 : met la petite blind. 50
+DucDollar : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 4c]
+psychoman59 : relance. 200 à 300
+DucDollar : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : DucDollar (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (200)
+
+
+
+Main PokerStars n°237676261411 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 30/07/2022 11:36:40 CET [30/07/2022 5:36:40 ET]
+Table '3448840808 1' 3-max Siège #1 est au bouton.
+Place 1: DucDollar (220 en jetons) 
+Place 3: psychoman59 (680 en jetons) 
+DucDollar : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 4s]
+DucDollar : relance. 120 à 220 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à DucDollar.
+DucDollar a remporté 200  lors du pot .
+DucDollar : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : DucDollar (bouton) (petite blind) a remporté (200)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237676262816 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 30/07/2022 11:36:49 CET [30/07/2022 5:36:49 ET]
+Table '3448840808 1' 3-max Siège #3 est au bouton.
+Place 1: DucDollar (320 en jetons) 
+Place 3: psychoman59 (580 en jetons) 
+psychoman59 : met la petite blind. 60
+DucDollar : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Ks]
+psychoman59 : relance. 240 à 360
+DucDollar : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : DucDollar (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°237676264121 : Tournoi #3448840808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 30/07/2022 11:36:57 CET [30/07/2022 5:36:57 ET]
+Table '3448840808 1' 3-max Siège #1 est au bouton.
+Place 1: DucDollar (200 en jetons) 
+Place 3: psychoman59 (700 en jetons) 
+DucDollar : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 7s]
+DucDollar : relance. 80 à 200 et est all-in.
+psychoman59 : suit. 80
+*** FLOP *** [Qs 2h 3c]
+*** TOURNANT *** [Qs 2h 3c] [7d]
+*** RIVIÈRE *** [Qs 2h 3c 7d] [5d]
+*** ABATTAGE ***
+psychoman59 : montre [7h 7s] (un brelan de Sept)
+DucDollar : montre [8s 8c] (une paire de Huit)
+psychoman59 a remporté 400  lors du pot .
+DucDollar a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [Qs 2h 3c 7d 5d]
+Siège 1 : DucDollar (bouton) (petite blind) a montré [8s 8c] et a perdu avec une paire de Huit
+Siège 3 : psychoman59 (grosse blind) a montré [7h 7s] et a gagné (400) avec un brelan de Sept
+
+
+

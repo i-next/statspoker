@@ -1,0 +1,235 @@
+﻿Main PokerStars n°238100236492 : Tournoi #3458920347, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 20/08/2022 8:08:21 CET [20/08/2022 2:08:21 ET]
+Table '3458920347 1' 3-max Siège #1 est au bouton.
+Place 1: daublay (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: TeupAPok (300 en jetons) 
+psychoman59 : met la petite blind. 10
+TeupAPok : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 7c]
+daublay : suit. 20
+psychoman59 : passe. 
+TeupAPok : relance. 280 à 300 et est all-in.
+daublay : passe. 
+Personne n'a suivi. (280) sont retournés à TeupAPok.
+TeupAPok a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : daublay (bouton) s'est couché. avant Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : TeupAPok (grosse blind) a remporté (50)
+
+
+
+Main PokerStars n°238100238374 : Tournoi #3458920347, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 20/08/2022 8:08:37 CET [20/08/2022 2:08:37 ET]
+Table '3458920347 1' 3-max Siège #2 est au bouton.
+Place 1: daublay (280 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: TeupAPok (330 en jetons) 
+TeupAPok : met la petite blind. 10
+daublay : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 4s]
+psychoman59 : passe. 
+TeupAPok : relance. 40 à 60
+daublay : suit. 40
+*** FLOP *** [6d 3s 7c]
+TeupAPok : mise. 270 et est all-in.
+daublay : suit. 220 et est all-in.
+Personne n'a suivi. (50) sont retournés à TeupAPok.
+*** TOURNANT *** [6d 3s 7c] [Jh]
+*** RIVIÈRE *** [6d 3s 7c Jh] [7h]
+*** ABATTAGE ***
+TeupAPok : montre [8d Ks] (une paire de Sept)
+daublay : montre [5d 4h] (une suite, Trois à Sept)
+daublay a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [6d 3s 7c Jh 7h]
+Siège 1 : daublay (grosse blind) a montré [5d 4h] et a gagné (560) avec une suite, Trois à Sept
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : TeupAPok (petite blind) a montré [8d Ks] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°238100242194 : Tournoi #3458920347, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 20/08/2022 8:09:11 CET [20/08/2022 2:09:11 ET]
+Table '3458920347 1' 3-max Siège #3 est au bouton.
+Place 1: daublay (560 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: TeupAPok (50 en jetons) 
+daublay : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 3c]
+TeupAPok : relance. 30 à 50 et est all-in.
+daublay : suit. 40
+psychoman59 : passe. 
+*** FLOP *** [9c 4c Th]
+*** TOURNANT *** [9c 4c Th] [8d]
+*** RIVIÈRE *** [9c 4c Th 8d] [Jh]
+*** ABATTAGE ***
+daublay : montre [4h 2s] (une paire de Quatre)
+TeupAPok : montre [Ks Js] (une paire de Valets)
+TeupAPok a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9c 4c Th 8d Jh]
+Siège 1 : daublay (petite blind) a montré [4h 2s] et a perdu avec une paire de Quatre
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : TeupAPok (bouton) a montré [Ks Js] et a gagné (120) avec une paire de Valets
+
+
+
+Main PokerStars n°238100245405 : Tournoi #3458920347, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 20/08/2022 8:09:38 CET [20/08/2022 2:09:38 ET]
+Table '3458920347 1' 3-max Siège #1 est au bouton.
+Place 1: daublay (510 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: TeupAPok (120 en jetons) 
+psychoman59 : met la petite blind. 15
+TeupAPok : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 7d]
+daublay : relance. 30 à 60
+psychoman59 : relance. 210 à 270 et est all-in.
+TeupAPok : passe. 
+daublay : passe. 
+Personne n'a suivi. (210) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : daublay (bouton) s'est couché. avant Flop
+Siège 2 : psychoman59 (petite blind) a remporté (150)
+Siège 3 : TeupAPok (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238100247305 : Tournoi #3458920347, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 20/08/2022 8:09:54 CET [20/08/2022 2:09:54 ET]
+Table '3458920347 1' 3-max Siège #2 est au bouton.
+Place 1: daublay (450 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+Place 3: TeupAPok (90 en jetons) 
+TeupAPok : met la petite blind. 15
+daublay : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 6d]
+psychoman59 : passe. 
+TeupAPok : passe. 
+Personne n'a suivi. (15) sont retournés à daublay.
+daublay a remporté 30  lors du pot .
+daublay : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : daublay (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : TeupAPok (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238100248755 : Tournoi #3458920347, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 20/08/2022 8:10:06 CET [20/08/2022 2:10:06 ET]
+Table '3458920347 1' 3-max Siège #3 est au bouton.
+Place 1: daublay (465 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+Place 3: TeupAPok (75 en jetons) 
+daublay : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 7s]
+TeupAPok : relance. 45 à 75 et est all-in.
+daublay : suit. 60
+psychoman59 : suit. 45
+*** FLOP *** [2h 4h Qc]
+daublay : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à daublay.
+*** TOURNANT *** [2h 4h Qc] [2s]
+*** RIVIÈRE *** [2h 4h Qc 2s] [Qd]
+*** ABATTAGE ***
+daublay : montre [Tc 3s] (double paire, Dames et Deux)
+TeupAPok : montre [7c 3d] (double paire, Dames et Deux - plus basse kicker)
+daublay a remporté 225  lors du pot .
+TeupAPok a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 225 | Commission 0 
+Tableau [2h 4h Qc 2s Qd]
+Siège 1 : daublay (petite blind) a montré [Tc 3s] et a gagné (225) avec double paire, Dames et Deux
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : TeupAPok (bouton) a montré [7c 3d] et a perdu avec double paire, Dames et Deux
+
+
+
+Main PokerStars n°238100251865 : Tournoi #3458920347, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 20/08/2022 8:10:33 CET [20/08/2022 2:10:33 ET]
+Table '3458920347 1' 3-max Siège #2 est au bouton.
+Place 1: daublay (615 en jetons) 
+Place 2: psychoman59 (285 en jetons) 
+psychoman59 : met la petite blind. 20
+daublay : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Ah]
+psychoman59 : relance. 40 à 80
+daublay : relance. 40 à 120
+psychoman59 : relance. 165 à 285 et est all-in.
+daublay : suit. 165
+*** FLOP *** [Qs 2d Qh]
+*** TOURNANT *** [Qs 2d Qh] [Jd]
+*** RIVIÈRE *** [Qs 2d Qh Jd] [Jc]
+*** ABATTAGE ***
+daublay : montre [Kd Ad] (double paire, Dames et Valets)
+psychoman59 : montre [Ac Ah] (double paire, As et Dames)
+psychoman59 a remporté 570  lors du pot .
+*** SYNTHÈSE ***
+Pot total 570 | Commission 0 
+Tableau [Qs 2d Qh Jd Jc]
+Siège 1 : daublay (grosse blind) a montré [Kd Ad] et a perdu avec double paire, Dames et Valets
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ac Ah] et a gagné (570) avec double paire, As et Dames
+
+
+
+Main PokerStars n°238100254318 : Tournoi #3458920347, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 20/08/2022 8:10:54 CET [20/08/2022 2:10:54 ET]
+Table '3458920347 1' 3-max Siège #1 est au bouton.
+Place 1: daublay (330 en jetons) 
+Place 2: psychoman59 (570 en jetons) 
+daublay : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 4c]
+daublay : relance. 80 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à daublay.
+daublay a remporté 80  lors du pot .
+daublay : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : daublay (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238100255241 : Tournoi #3458920347, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 20/08/2022 8:11:01 CET [20/08/2022 2:11:01 ET]
+Table '3458920347 1' 3-max Siège #2 est au bouton.
+Place 1: daublay (370 en jetons) 
+Place 2: psychoman59 (530 en jetons) 
+psychoman59 : met la petite blind. 20
+daublay : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 3c]
+psychoman59 : relance. 490 à 530 et est all-in.
+daublay : suit. 330 et est all-in.
+Personne n'a suivi. (160) sont retournés à psychoman59.
+*** FLOP *** [Kd 6d 8h]
+*** TOURNANT *** [Kd 6d 8h] [Jc]
+*** RIVIÈRE *** [Kd 6d 8h Jc] [Ks]
+*** ABATTAGE ***
+daublay : montre [Th Qs] (une paire de Rois)
+psychoman59 : montre [3d 3c] (double paire, Rois et Trois)
+psychoman59 a remporté 740  lors du pot .
+daublay a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 6.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Tableau [Kd 6d 8h Jc Ks]
+Siège 1 : daublay (grosse blind) a montré [Th Qs] et a perdu avec une paire de Rois
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [3d 3c] et a gagné (740) avec double paire, Rois et Trois
+
+
+

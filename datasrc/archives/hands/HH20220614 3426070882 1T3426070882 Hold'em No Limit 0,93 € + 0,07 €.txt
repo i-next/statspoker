@@ -1,0 +1,79 @@
+﻿Main PokerStars n°236752005879 : Tournoi #3426070882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/06/2022 9:00:55 CET [14/06/2022 3:00:55 ET]
+Table '3426070882 1' 3-max Siège #1 est au bouton.
+Place 1: Shiyoo36 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: alain0654 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+alain0654 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Kh]
+Shiyoo36 : suit. 20
+psychoman59 : suit. 10
+alain0654 : relance. 280 à 300 et est all-in.
+Shiyoo36 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (280) sont retournés à alain0654.
+alain0654 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Shiyoo36 (bouton) s'est couché. avant Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : alain0654 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°236752007549 : Tournoi #3426070882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/06/2022 9:01:11 CET [14/06/2022 3:01:11 ET]
+Table '3426070882 1' 3-max Siège #2 est au bouton.
+Place 1: Shiyoo36 (280 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+Place 3: alain0654 (340 en jetons) 
+alain0654 : met la petite blind. 10
+Shiyoo36 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Qh]
+psychoman59 : passe. 
+alain0654 : relance. 320 à 340 et est all-in.
+Shiyoo36 : suit. 260 et est all-in.
+Personne n'a suivi. (60) sont retournés à alain0654.
+*** FLOP *** [Js 3h 4d]
+*** TOURNANT *** [Js 3h 4d] [Jh]
+*** RIVIÈRE *** [Js 3h 4d Jh] [9d]
+*** ABATTAGE ***
+alain0654 : montre [3c Ad] (double paire, Valets et Trois)
+Shiyoo36 : montre [As 6s] (une paire de Valets)
+alain0654 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Js 3h 4d Jh 9d]
+Siège 1 : Shiyoo36 (grosse blind) a montré [As 6s] et a perdu avec une paire de Valets
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : alain0654 (petite blind) a montré [3c Ad] et a gagné (560) avec double paire, Valets et Trois
+
+
+
+Main PokerStars n°236752009541 : Tournoi #3426070882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/06/2022 9:01:31 CET [14/06/2022 3:01:31 ET]
+Table '3426070882 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (280 en jetons) 
+Place 3: alain0654 (620 en jetons) 
+alain0654 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Qc]
+alain0654 : relance. 600 à 620 et est all-in.
+psychoman59 : suit. 260 et est all-in.
+Personne n'a suivi. (340) sont retournés à alain0654.
+*** FLOP *** [6c 6d 9h]
+*** TOURNANT *** [6c 6d 9h] [7c]
+*** RIVIÈRE *** [6c 6d 9h 7c] [9s]
+*** ABATTAGE ***
+psychoman59 : montre [5d Qc] (double paire, Neuf et Six)
+alain0654 : montre [5s As] (double paire, Neuf et Six - As kicker)
+alain0654 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [6c 6d 9h 7c 9s]
+Siège 2 : psychoman59 (grosse blind) a montré [5d Qc] et a perdu avec double paire, Neuf et Six
+Siège 3 : alain0654 (bouton) (petite blind) a montré [5s As] et a gagné (560) avec double paire, Neuf et Six
+
+
+

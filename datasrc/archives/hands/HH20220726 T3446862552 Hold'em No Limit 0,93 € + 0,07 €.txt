@@ -1,0 +1,91 @@
+﻿Main PokerStars n°237593267919 : Tournoi #3446862552, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 9:41:26 CET [26/07/2022 3:41:26 ET]
+Table '3446862552 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Vahdettin.74 (300 en jetons) 
+Place 3: thiers89gg (300 en jetons) 
+Vahdettin.74 : met la petite blind. 10
+thiers89gg : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Ac]
+psychoman59 : relance. 280 à 300 et est all-in.
+Vahdettin.74 : passe. 
+thiers89gg : suit. 280 et est all-in.
+*** FLOP *** [Qs Kd 2c]
+*** TOURNANT *** [Qs Kd 2c] [3c]
+*** RIVIÈRE *** [Qs Kd 2c 3c] [Qh]
+*** ABATTAGE ***
+thiers89gg : montre [Ad 4d] (une paire de Dames)
+psychoman59 : montre [Qd Ac] (un brelan de Dames)
+psychoman59 a remporté 610  lors du pot .
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [Qs Kd 2c 3c Qh]
+Siège 1 : psychoman59 (bouton) a montré [Qd Ac] et a gagné (610) avec un brelan de Dames
+Siège 2 : Vahdettin.74 (petite blind) s'est couché. avant Flop
+Siège 3 : thiers89gg (grosse blind) a montré [Ad 4d] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°237593270061 : Tournoi #3446862552, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 9:41:45 CET [26/07/2022 3:41:45 ET]
+Table '3446862552 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (610 en jetons) 
+Place 2: Vahdettin.74 (290 en jetons) 
+Vahdettin.74 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 2h]
+Vahdettin.74 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (20)
+Siège 2 : Vahdettin.74 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237593270625 : Tournoi #3446862552, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 9:41:50 CET [26/07/2022 3:41:50 ET]
+Table '3446862552 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (620 en jetons) 
+Place 2: Vahdettin.74 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+Vahdettin.74 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Vahdettin.74.
+Vahdettin.74 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Vahdettin.74 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237593271458 : Tournoi #3446862552, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 9:41:57 CET [26/07/2022 3:41:57 ET]
+Table '3446862552 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (610 en jetons) 
+Place 2: Vahdettin.74 (290 en jetons) 
+Vahdettin.74 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Kd]
+Vahdettin.74 : suit. 10
+psychoman59 : relance. 590 à 610 et est all-in.
+Vahdettin.74 : suit. 270 et est all-in.
+Personne n'a suivi. (320) sont retournés à psychoman59.
+*** FLOP *** [Kc 3c 9s]
+*** TOURNANT *** [Kc 3c 9s] [Ah]
+*** RIVIÈRE *** [Kc 3c 9s Ah] [9h]
+*** ABATTAGE ***
+psychoman59 : montre [Ts Kd] (double paire, Rois et Neuf)
+Vahdettin.74 : montre [Jh 8s] (une paire de Neuf)
+psychoman59 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [Kc 3c 9s Ah 9h]
+Siège 1 : psychoman59 (grosse blind) a montré [Ts Kd] et a gagné (580) avec double paire, Rois et Neuf
+Siège 2 : Vahdettin.74 (bouton) (petite blind) a montré [Jh 8s] et a perdu avec une paire de Neuf
+
+
+

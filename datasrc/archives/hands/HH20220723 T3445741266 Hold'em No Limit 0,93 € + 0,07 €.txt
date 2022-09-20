@@ -1,0 +1,99 @@
+﻿Main PokerStars n°237543156328 : Tournoi #3445741266, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/07/2022 0:03:35 CET [23/07/2022 18:03:35 ET]
+Table '3445741266 1' 3-max Siège #1 est au bouton.
+Place 1: cousinhub13 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: coinflip0713 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+coinflip0713 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Js]
+cousinhub13 : passe. 
+psychoman59 : relance. 280 à 300 et est all-in.
+coinflip0713 : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : cousinhub13 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : coinflip0713 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237543159817 : Tournoi #3445741266, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/07/2022 0:03:46 CET [23/07/2022 18:03:46 ET]
+Table '3445741266 1' 3-max Siège #2 est au bouton.
+Place 1: cousinhub13 (300 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: coinflip0713 (280 en jetons) 
+coinflip0713 : met la petite blind. 10
+cousinhub13 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 2d]
+psychoman59 : suit. 20
+coinflip0713 : relance. 260 à 280 et est all-in.
+cousinhub13 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (260) sont retournés à coinflip0713.
+coinflip0713 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : cousinhub13 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 3 : coinflip0713 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237543165239 : Tournoi #3445741266, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/07/2022 0:04:02 CET [23/07/2022 18:04:02 ET]
+Table '3445741266 1' 3-max Siège #3 est au bouton.
+Place 1: cousinhub13 (280 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: coinflip0713 (320 en jetons) 
+cousinhub13 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 2c]
+coinflip0713 : relance. 300 à 320 et est all-in.
+cousinhub13 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à coinflip0713.
+coinflip0713 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : cousinhub13 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : coinflip0713 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°237543170277 : Tournoi #3445741266, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/07/2022 0:04:18 CET [23/07/2022 18:04:18 ET]
+Table '3445741266 1' 3-max Siège #1 est au bouton.
+Place 1: cousinhub13 (270 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+Place 3: coinflip0713 (350 en jetons) 
+psychoman59 : met la petite blind. 10
+coinflip0713 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Ah]
+cousinhub13 : passe. 
+psychoman59 : relance. 40 à 60
+coinflip0713 : suit. 40
+*** FLOP *** [5h 2h Qc]
+psychoman59 : mise. 120
+coinflip0713 : relance. 170 à 290 et est all-in.
+psychoman59 : suit. 100 et est all-in.
+Personne n'a suivi. (70) sont retournés à coinflip0713.
+*** TOURNANT *** [5h 2h Qc] [3c]
+*** RIVIÈRE *** [5h 2h Qc 3c] [3d]
+*** ABATTAGE ***
+psychoman59 : montre [8h Ah] (une paire de Trois)
+coinflip0713 : montre [Qs 6d] (double paire, Dames et Trois)
+coinflip0713 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [5h 2h Qc 3c 3d]
+Siège 1 : cousinhub13 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [8h Ah] et a perdu avec une paire de Trois
+Siège 3 : coinflip0713 (grosse blind) a montré [Qs 6d] et a gagné (560) avec double paire, Dames et Trois
+
+
+

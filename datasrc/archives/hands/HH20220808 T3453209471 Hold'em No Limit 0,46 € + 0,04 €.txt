@@ -1,0 +1,213 @@
+﻿Main PokerStars n°237862476916 : Tournoi #3453209471, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 13:51:03 CET [08/08/2022 7:51:03 ET]
+Table '3453209471 1' 4-max Siège #1 est au bouton.
+Place 1: xardix (5000 en jetons) 
+Place 2: camille752 (5000 en jetons) 
+Place 3: dal51 (5000 en jetons) 
+Place 4: psychoman59 (5000 en jetons) 
+xardix : met l'ante. 10
+camille752 : met l'ante. 10
+dal51 : met l'ante. 10
+psychoman59 : met l'ante. 10
+camille752 : met la petite blind. 50
+dal51 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 9s]
+psychoman59 : passe. 
+xardix : passe. 
+camille752 : suit. 50
+dal51 : parole 
+*** FLOP *** [3h 7h 8s]
+camille752 : parole 
+dal51 : parole 
+*** TOURNANT *** [3h 7h 8s] [2c]
+camille752 : parole 
+dal51 : mise. 100
+camille752 : suit. 100
+*** RIVIÈRE *** [3h 7h 8s 2c] [Kc]
+camille752 : parole 
+dal51 : mise. 100
+camille752 : passe. 
+Personne n'a suivi. (100) sont retournés à dal51.
+dal51 a remporté 440  lors du pot .
+dal51 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [3h 7h 8s 2c Kc]
+Siège 1 : xardix (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : camille752 (petite blind) s'est couché. sur le Rivière
+Siège 3 : dal51 (grosse blind) a remporté (440)
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237862484406 : Tournoi #3453209471, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 13:51:44 CET [08/08/2022 7:51:44 ET]
+Table '3453209471 1' 4-max Siège #2 est au bouton.
+Place 1: xardix (4990 en jetons) 
+Place 2: camille752 (4790 en jetons) 
+Place 3: dal51 (5230 en jetons) 
+Place 4: psychoman59 (4990 en jetons) 
+xardix : met l'ante. 10
+camille752 : met l'ante. 10
+dal51 : met l'ante. 10
+psychoman59 : met l'ante. 10
+dal51 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Kd]
+xardix : suit. 100
+camille752 : relance. 4680 à 4780 et est all-in.
+dal51 : suit. 4730
+psychoman59 : passe. 
+xardix : passe. 
+*** FLOP *** [8c 8d 3d]
+*** TOURNANT *** [8c 8d 3d] [3s]
+*** RIVIÈRE *** [8c 8d 3d 3s] [4c]
+*** ABATTAGE ***
+dal51 : montre [4d 2d] (double paire, Huit et Quatre)
+camille752 : montre [Jc As] (double paire, Huit et Trois)
+dal51 a remporté 9800  lors du pot .
+camille752 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 9800 | Commission 0 
+Tableau [8c 8d 3d 3s 4c]
+Siège 1 : xardix s'est couché. avant Flop
+Siège 2 : camille752 (bouton) a montré [Jc As] et a perdu avec double paire, Huit et Trois
+Siège 3 : dal51 (petite blind) a montré [4d 2d] et a gagné (9800) avec double paire, Huit et Quatre
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862488481 : Tournoi #3453209471, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 13:52:06 CET [08/08/2022 7:52:06 ET]
+Table '3453209471 1' 4-max Siège #3 est au bouton.
+Place 1: xardix (4880 en jetons) 
+Place 3: dal51 (10240 en jetons) 
+Place 4: psychoman59 (4880 en jetons) 
+xardix : met l'ante. 10
+dal51 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+xardix : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 5h]
+dal51 : suit. 100
+psychoman59 : suit. 50
+xardix : parole 
+*** FLOP *** [8c 9h 9d]
+psychoman59 : parole 
+xardix : mise. 100
+dal51 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à xardix.
+xardix a remporté 330  lors du pot .
+*** SYNTHÈSE ***
+Pot total 330 | Commission 0 
+Tableau [8c 9h 9d]
+Siège 1 : xardix (grosse blind) a remporté (330)
+Siège 3 : dal51 (bouton) s'est couché. sur le Flop
+Siège 4 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237862493228 : Tournoi #3453209471, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 13:52:32 CET [08/08/2022 7:52:32 ET]
+Table '3453209471 1' 4-max Siège #4 est au bouton.
+Place 1: xardix (5100 en jetons) 
+Place 3: dal51 (10130 en jetons) 
+Place 4: psychoman59 (4770 en jetons) 
+xardix : met l'ante. 10
+dal51 : met l'ante. 10
+psychoman59 : met l'ante. 10
+xardix : met la petite blind. 50
+dal51 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 8c]
+psychoman59 : passe. 
+xardix : suit. 50
+dal51 : relance. 100 à 200
+xardix : suit. 100
+*** FLOP *** [Td 8h 6h]
+xardix : parole 
+dal51 : mise. 100
+xardix : suit. 100
+*** TOURNANT *** [Td 8h 6h] [As]
+xardix : parole 
+dal51 : mise. 630
+xardix : passe. 
+Personne n'a suivi. (630) sont retournés à dal51.
+dal51 a remporté 630  lors du pot .
+dal51 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 630 | Commission 0 
+Tableau [Td 8h 6h As]
+Siège 1 : xardix (petite blind) s'est couché. sur le Tournant
+Siège 3 : dal51 (grosse blind) a remporté (630)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237862500248 : Tournoi #3453209471, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 13:53:09 CET [08/08/2022 7:53:09 ET]
+Table '3453209471 1' 4-max Siège #1 est au bouton.
+Place 1: xardix (4790 en jetons) 
+Place 3: dal51 (10450 en jetons) 
+Place 4: psychoman59 (4760 en jetons) 
+xardix : met l'ante. 10
+dal51 : met l'ante. 10
+psychoman59 : met l'ante. 10
+dal51 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 5s]
+xardix : passe. 
+dal51 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Jc Ks Qd]
+dal51 : mise. 230
+psychoman59 : suit. 230
+*** TOURNANT *** [Jc Ks Qd] [5d]
+dal51 : mise. 690
+psychoman59 : passe. 
+Personne n'a suivi. (690) sont retournés à dal51.
+dal51 a remporté 690  lors du pot .
+dal51 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 690 | Commission 0 
+Tableau [Jc Ks Qd 5d]
+Siège 1 : xardix (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : dal51 (petite blind) a remporté (690)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237862507820 : Tournoi #3453209471, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 13:53:49 CET [08/08/2022 7:53:49 ET]
+Table '3453209471 1' 4-max Siège #3 est au bouton.
+Place 1: xardix (4780 en jetons) 
+Place 3: dal51 (10800 en jetons) 
+Place 4: psychoman59 (4420 en jetons) 
+xardix : met l'ante. 10
+dal51 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+xardix : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Kh]
+dal51 : passe. 
+psychoman59 : relance. 230 à 330
+xardix : relance. 4440 à 4770 et est all-in.
+psychoman59 : suit. 4080 et est all-in.
+Personne n'a suivi. (360) sont retournés à xardix.
+*** FLOP *** [Tc 8c Qc]
+*** TOURNANT *** [Tc 8c Qc] [4c]
+*** RIVIÈRE *** [Tc 8c Qc 4c] [2c]
+*** ABATTAGE ***
+psychoman59 : montre [Qs Kh] (une couleur, hauteur Dame)
+xardix : montre [Td Ac] (une couleur, hauteur As)
+xardix a remporté 8850  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 8850 | Commission 0 
+Tableau [Tc 8c Qc 4c 2c]
+Siège 1 : xardix (grosse blind) a montré [Td Ac] et a gagné (8850) avec une couleur, hauteur As
+Siège 3 : dal51 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) a montré [Qs Kh] et a perdu avec une couleur, hauteur Dame
+
+
+

@@ -1,0 +1,648 @@
+﻿Main PokerStars n°237805060847 : Tournoi #3451868589, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 18:30:29 CET [05/08/2022 12:30:29 ET]
+Table '3451868589 1' 4-max Siège #1 est au bouton.
+Place 1: Ganu9122 (5000 en jetons) 
+Place 2: dealand (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: mikityn82 (5000 en jetons) 
+Ganu9122 : met l'ante. 10
+dealand : met l'ante. 10
+psychoman59 : met l'ante. 10
+mikityn82 : met l'ante. 10
+dealand : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Qd]
+mikityn82 : passe. 
+Ganu9122 : relance. 200 à 300
+dealand : passe. 
+psychoman59 : suit. 200
+*** FLOP *** [3h 6s 2d]
+psychoman59 : parole 
+Ganu9122 : mise. 380
+psychoman59 : suit. 380
+*** TOURNANT *** [3h 6s 2d] [2s]
+psychoman59 : parole 
+Ganu9122 : mise. 1160
+psychoman59 : passe. 
+Personne n'a suivi. (1160) sont retournés à Ganu9122.
+Ganu9122 a remporté 1450  lors du pot .
+Ganu9122 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1450 | Commission 0 
+Tableau [3h 6s 2d 2s]
+Siège 1 : Ganu9122 (bouton) a remporté (1450)
+Siège 2 : dealand (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 4 : mikityn82 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237805068957 : Tournoi #3451868589, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 18:30:56 CET [05/08/2022 12:30:56 ET]
+Table '3451868589 1' 4-max Siège #2 est au bouton.
+Place 1: Ganu9122 (5760 en jetons) 
+Place 2: dealand (4940 en jetons) 
+Place 3: psychoman59 (4310 en jetons) 
+Place 4: mikityn82 (4990 en jetons) 
+Ganu9122 : met l'ante. 10
+dealand : met l'ante. 10
+psychoman59 : met l'ante. 10
+mikityn82 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+mikityn82 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 8c]
+Ganu9122 : passe. 
+dealand : suit. 100
+psychoman59 : passe. 
+mikityn82 : parole 
+*** FLOP *** [4s 2d 5d]
+mikityn82 : parole 
+dealand : parole 
+*** TOURNANT *** [4s 2d 5d] [8d]
+mikityn82 : parole 
+dealand : mise. 290
+mikityn82 : suit. 290
+*** RIVIÈRE *** [4s 2d 5d 8d] [9c]
+mikityn82 : parole 
+dealand : mise. 870
+mikityn82 : passe. 
+Personne n'a suivi. (870) sont retournés à dealand.
+dealand a remporté 870  lors du pot .
+dealand : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Tableau [4s 2d 5d 8d 9c]
+Siège 1 : Ganu9122 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : dealand (bouton) a remporté (870)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : mikityn82 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237805080823 : Tournoi #3451868589, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 18:31:36 CET [05/08/2022 12:31:36 ET]
+Table '3451868589 1' 4-max Siège #3 est au bouton.
+Place 1: Ganu9122 (5750 en jetons) 
+Place 2: dealand (5410 en jetons) 
+Place 3: psychoman59 (4250 en jetons) 
+Place 4: mikityn82 (4590 en jetons) 
+Ganu9122 : met l'ante. 10
+dealand : met l'ante. 10
+psychoman59 : met l'ante. 10
+mikityn82 : met l'ante. 10
+mikityn82 : met la petite blind. 50
+Ganu9122 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 6s]
+dealand : suit. 100
+psychoman59 : suit. 100
+mikityn82 : passe. 
+Ganu9122 : parole 
+*** FLOP *** [9d Qs Tc]
+Ganu9122 : parole 
+dealand : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9d Qs Tc] [7c]
+Ganu9122 : parole 
+dealand : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9d Qs Tc 7c] [Qd]
+Ganu9122 : parole 
+dealand : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Ganu9122 : montre [2h 5d] (une paire de Dames)
+dealand : montre [5h As] (une paire de Dames - As kicker)
+psychoman59 : montre [6c 6s] (double paire, Dames et Six)
+psychoman59 a remporté 390  lors du pot .
+*** SYNTHÈSE ***
+Pot total 390 | Commission 0 
+Tableau [9d Qs Tc 7c Qd]
+Siège 1 : Ganu9122 (grosse blind) a montré [2h 5d] et a perdu avec une paire de Dames
+Siège 2 : dealand a montré [5h As] et a perdu avec une paire de Dames
+Siège 3 : psychoman59 (bouton) a montré [6c 6s] et a gagné (390) avec double paire, Dames et Six
+Siège 4 : mikityn82 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237805089862 : Tournoi #3451868589, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 18:32:06 CET [05/08/2022 12:32:06 ET]
+Table '3451868589 1' 4-max Siège #4 est au bouton.
+Place 1: Ganu9122 (5640 en jetons) 
+Place 2: dealand (5300 en jetons) 
+Place 3: psychoman59 (4530 en jetons) 
+Place 4: mikityn82 (4530 en jetons) 
+Ganu9122 : met l'ante. 10
+dealand : met l'ante. 10
+psychoman59 : met l'ante. 10
+mikityn82 : met l'ante. 10
+Ganu9122 : met la petite blind. 50
+dealand : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 3s]
+psychoman59 : suit. 100
+mikityn82 : passe. 
+Ganu9122 : relance. 150 à 250
+dealand : relance. 5040 à 5290 et est all-in.
+psychoman59 : passe. 
+Ganu9122 : suit. 5040
+*** FLOP *** [7d 7c 9h]
+*** TOURNANT *** [7d 7c 9h] [7h]
+*** RIVIÈRE *** [7d 7c 9h 7h] [Ks]
+*** ABATTAGE ***
+Ganu9122 : montre [6s 6h] (un full, full aux Sept par les Six)
+dealand : montre [Kh Ad] (un full, full aux Sept par les Rois)
+dealand a remporté 10720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 10720 | Commission 0 
+Tableau [7d 7c 9h 7h Ks]
+Siège 1 : Ganu9122 (petite blind) a montré [6s 6h] et a perdu avec un full, full aux Sept par les Six
+Siège 2 : dealand (grosse blind) a montré [Kh Ad] et a gagné (10720) avec un full, full aux Sept par les Rois
+Siège 3 : psychoman59 s'est couché. avant Flop
+Siège 4 : mikityn82 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237805097788 : Tournoi #3451868589, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 18:32:33 CET [05/08/2022 12:32:33 ET]
+Table '3451868589 1' 4-max Siège #1 est au bouton.
+Place 1: Ganu9122 (340 en jetons) 
+Place 2: dealand (10720 en jetons) 
+Place 3: psychoman59 (4420 en jetons) 
+Place 4: mikityn82 (4520 en jetons) 
+Ganu9122 : met l'ante. 10
+dealand : met l'ante. 10
+psychoman59 : met l'ante. 10
+mikityn82 : met l'ante. 10
+dealand : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 2d]
+mikityn82 : passe. 
+Ganu9122 : relance. 230 à 330 et est all-in.
+dealand : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (230) sont retournés à Ganu9122.
+Ganu9122 a remporté 290  lors du pot .
+Ganu9122 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : Ganu9122 (bouton) a remporté (290)
+Siège 2 : dealand (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : mikityn82 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237805101571 : Tournoi #3451868589, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 18:32:45 CET [05/08/2022 12:32:45 ET]
+Table '3451868589 1' 4-max Siège #2 est au bouton.
+Place 1: Ganu9122 (520 en jetons) 
+Place 2: dealand (10660 en jetons) 
+Place 3: psychoman59 (4310 en jetons) 
+Place 4: mikityn82 (4510 en jetons) 
+Ganu9122 : met l'ante. 10
+dealand : met l'ante. 10
+psychoman59 : met l'ante. 10
+mikityn82 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+mikityn82 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 5s]
+Ganu9122 : relance. 410 à 510 et est all-in.
+dealand : passe. 
+psychoman59 : passe. 
+mikityn82 : suit. 410
+*** FLOP *** [7s 5c 4s]
+*** TOURNANT *** [7s 5c 4s] [9d]
+*** RIVIÈRE *** [7s 5c 4s 9d] [3d]
+*** ABATTAGE ***
+mikityn82 : montre [3h 3c] (un brelan de Trois)
+Ganu9122 : montre [Qd Jh] (Hauteur Dame)
+mikityn82 a remporté 1110  lors du pot .
+Ganu9122 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 1110 | Commission 0 
+Tableau [7s 5c 4s 9d 3d]
+Siège 1 : Ganu9122 a montré [Qd Jh] et a perdu avec Hauteur Dame
+Siège 2 : dealand (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : mikityn82 (grosse blind) a montré [3h 3c] et a gagné (1110) avec un brelan de Trois
+
+
+
+Main PokerStars n°237805107577 : Tournoi #3451868589, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 18:33:06 CET [05/08/2022 12:33:06 ET]
+Table '3451868589 1' 4-max Siège #3 est au bouton.
+Place 2: dealand (10650 en jetons) 
+Place 3: psychoman59 (4250 en jetons) 
+Place 4: mikityn82 (5100 en jetons) 
+dealand : met l'ante. 10
+psychoman59 : met l'ante. 10
+mikityn82 : met l'ante. 10
+mikityn82 : met la petite blind. 50
+dealand : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 6d]
+psychoman59 : passe. 
+mikityn82 : passe. 
+Personne n'a suivi. (50) sont retournés à dealand.
+dealand a remporté 130  lors du pot .
+dealand : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Siège 2 : dealand (grosse blind) a remporté (130)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : mikityn82 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237805110468 : Tournoi #3451868589, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 18:33:15 CET [05/08/2022 12:33:15 ET]
+Table '3451868589 1' 4-max Siège #4 est au bouton.
+Place 2: dealand (10720 en jetons) 
+Place 3: psychoman59 (4240 en jetons) 
+Place 4: mikityn82 (5040 en jetons) 
+dealand : met l'ante. 10
+psychoman59 : met l'ante. 10
+mikityn82 : met l'ante. 10
+dealand : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Kc]
+mikityn82 : relance. 100 à 200
+dealand : suit. 150
+psychoman59 : suit. 100
+*** FLOP *** [Td 6h 4h]
+dealand : parole 
+psychoman59 : parole 
+mikityn82 : parole 
+*** TOURNANT *** [Td 6h 4h] [As]
+dealand : parole 
+psychoman59 : parole 
+mikityn82 : parole 
+*** RIVIÈRE *** [Td 6h 4h As] [6s]
+dealand : mise. 315
+psychoman59 : suit. 315
+mikityn82 : passe. 
+*** ABATTAGE ***
+dealand : montre [7c Qc] (une paire de Six)
+psychoman59 : montre [4s Kc] (double paire, Six et Quatre)
+psychoman59 a remporté 1260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1260 | Commission 0 
+Tableau [Td 6h 4h As 6s]
+Siège 2 : dealand (petite blind) a montré [7c Qc] et a perdu avec une paire de Six
+Siège 3 : psychoman59 (grosse blind) a montré [4s Kc] et a gagné (1260) avec double paire, Six et Quatre
+Siège 4 : mikityn82 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237805122741 : Tournoi #3451868589, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 18:33:56 CET [05/08/2022 12:33:56 ET]
+Table '3451868589 1' 4-max Siège #2 est au bouton.
+Place 2: dealand (10195 en jetons) 
+Place 3: psychoman59 (4975 en jetons) 
+Place 4: mikityn82 (4830 en jetons) 
+dealand : met l'ante. 15
+psychoman59 : met l'ante. 15
+mikityn82 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+mikityn82 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Jh]
+dealand : suit. 120
+psychoman59 : relance. 4840 à 4960 et est all-in.
+mikityn82 : suit. 4695 et est all-in.
+dealand : passe. 
+Personne n'a suivi. (145) sont retournés à psychoman59.
+*** FLOP *** [5d 2h Ac]
+*** TOURNANT *** [5d 2h Ac] [5h]
+*** RIVIÈRE *** [5d 2h Ac 5h] [6c]
+*** ABATTAGE ***
+psychoman59 : montre [As Jh] (double paire, As et Cinq)
+mikityn82 : montre [Ah Kd] (double paire, As et Cinq - Roi kicker)
+mikityn82 a remporté 9795  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9795 | Commission 0 
+Tableau [5d 2h Ac 5h 6c]
+Siège 2 : dealand (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) a montré [As Jh] et a perdu avec double paire, As et Cinq
+Siège 4 : mikityn82 (grosse blind) a montré [Ah Kd] et a gagné (9795) avec double paire, As et Cinq
+
+
+
+Main PokerStars n°237805129059 : Tournoi #3451868589, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 18:34:17 CET [05/08/2022 12:34:17 ET]
+Table '3451868589 1' 4-max Siège #3 est au bouton.
+Place 2: dealand (10060 en jetons) 
+Place 3: psychoman59 (145 en jetons) 
+Place 4: mikityn82 (9795 en jetons) 
+dealand : met l'ante. 15
+psychoman59 : met l'ante. 15
+mikityn82 : met l'ante. 15
+mikityn82 : met la petite blind. 60
+dealand : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Kc]
+psychoman59 : relance. 10 à 130 et est all-in.
+mikityn82 : passe. 
+dealand : suit. 10
+*** FLOP *** [Qh 6h 3d]
+*** TOURNANT *** [Qh 6h 3d] [3h]
+*** RIVIÈRE *** [Qh 6h 3d 3h] [5s]
+*** ABATTAGE ***
+dealand : montre [2s Kd] (une paire de Trois)
+psychoman59 : montre [Jd Kc] (une paire de Trois - Roi+Dame+Valet kicker)
+psychoman59 a remporté 365  lors du pot .
+*** SYNTHÈSE ***
+Pot total 365 | Commission 0 
+Tableau [Qh 6h 3d 3h 5s]
+Siège 2 : dealand (grosse blind) a montré [2s Kd] et a perdu avec une paire de Trois
+Siège 3 : psychoman59 (bouton) a montré [Jd Kc] et a gagné (365) avec une paire de Trois
+Siège 4 : mikityn82 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237805133839 : Tournoi #3451868589, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 18:34:33 CET [05/08/2022 12:34:33 ET]
+Table '3451868589 1' 4-max Siège #4 est au bouton.
+Place 2: dealand (9915 en jetons) 
+Place 3: psychoman59 (365 en jetons) 
+Place 4: mikityn82 (9720 en jetons) 
+dealand : met l'ante. 15
+psychoman59 : met l'ante. 15
+mikityn82 : met l'ante. 15
+dealand : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 7c]
+mikityn82 : passe. 
+dealand : suit. 60
+psychoman59 : parole 
+*** FLOP *** [8s 2c 5c]
+dealand : parole 
+psychoman59 : mise. 230 et est all-in.
+dealand : suit. 230
+*** TOURNANT *** [8s 2c 5c] [9c]
+*** RIVIÈRE *** [8s 2c 5c 9c] [Ts]
+*** ABATTAGE ***
+dealand : montre [9s 8c] (double paire, Neuf et Huit)
+psychoman59 : montre [Jd 7c] (une suite, Sept à Valet)
+psychoman59 a remporté 745  lors du pot .
+*** SYNTHÈSE ***
+Pot total 745 | Commission 0 
+Tableau [8s 2c 5c 9c Ts]
+Siège 2 : dealand (petite blind) a montré [9s 8c] et a perdu avec double paire, Neuf et Huit
+Siège 3 : psychoman59 (grosse blind) a montré [Jd 7c] et a gagné (745) avec une suite, Sept à Valet
+Siège 4 : mikityn82 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237805140865 : Tournoi #3451868589, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 18:34:57 CET [05/08/2022 12:34:57 ET]
+Table '3451868589 1' 4-max Siège #2 est au bouton.
+Place 2: dealand (9550 en jetons) 
+Place 3: psychoman59 (745 en jetons) 
+Place 4: mikityn82 (9705 en jetons) 
+dealand : met l'ante. 15
+psychoman59 : met l'ante. 15
+mikityn82 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+mikityn82 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 6c]
+dealand : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à mikityn82.
+mikityn82 a remporté 165  lors du pot .
+mikityn82 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 2 : dealand (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : mikityn82 (grosse blind) a remporté (165)
+
+
+
+Main PokerStars n°237805143385 : Tournoi #3451868589, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 18:35:05 CET [05/08/2022 12:35:05 ET]
+Table '3451868589 1' 4-max Siège #3 est au bouton.
+Place 2: dealand (9535 en jetons) 
+Place 3: psychoman59 (670 en jetons) 
+Place 4: mikityn82 (9795 en jetons) 
+dealand : met l'ante. 15
+psychoman59 : met l'ante. 15
+mikityn82 : met l'ante. 15
+mikityn82 : met la petite blind. 60
+dealand : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Js]
+psychoman59 : relance. 535 à 655 et est all-in.
+mikityn82 : passe. 
+dealand : suit. 535
+*** FLOP *** [Ad 7s 2c]
+*** TOURNANT *** [Ad 7s 2c] [3s]
+*** RIVIÈRE *** [Ad 7s 2c 3s] [As]
+*** ABATTAGE ***
+dealand : montre [8c Qc] (une paire de As)
+psychoman59 : montre [Qs Js] (une couleur, hauteur As)
+psychoman59 a remporté 1415  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1415 | Commission 0 
+Tableau [Ad 7s 2c 3s As]
+Siège 2 : dealand (grosse blind) a montré [8c Qc] et a perdu avec une paire de As
+Siège 3 : psychoman59 (bouton) a montré [Qs Js] et a gagné (1415) avec une couleur, hauteur As
+Siège 4 : mikityn82 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237805148981 : Tournoi #3451868589, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 18:35:23 CET [05/08/2022 12:35:23 ET]
+Table '3451868589 1' 4-max Siège #4 est au bouton.
+Place 2: dealand (8865 en jetons) 
+Place 3: psychoman59 (1415 en jetons) 
+Place 4: mikityn82 (9720 en jetons) 
+dealand : met l'ante. 15
+psychoman59 : met l'ante. 15
+mikityn82 : met l'ante. 15
+dealand : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Kh]
+mikityn82 : passe. 
+dealand : relance. 8730 à 8850 et est all-in.
+psychoman59 : suit. 1280 et est all-in.
+Personne n'a suivi. (7450) sont retournés à dealand.
+*** FLOP *** [5s Kc 2h]
+*** TOURNANT *** [5s Kc 2h] [8c]
+*** RIVIÈRE *** [5s Kc 2h 8c] [Qh]
+*** ABATTAGE ***
+dealand : montre [Ac 5c] (une paire de Cinq)
+psychoman59 : montre [4s Kh] (une paire de Rois)
+psychoman59 a remporté 2845  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2845 | Commission 0 
+Tableau [5s Kc 2h 8c Qh]
+Siège 2 : dealand (petite blind) a montré [Ac 5c] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (grosse blind) a montré [4s Kh] et a gagné (2845) avec une paire de Rois
+Siège 4 : mikityn82 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237805154266 : Tournoi #3451868589, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 18:35:40 CET [05/08/2022 12:35:40 ET]
+Table '3451868589 1' 4-max Siège #2 est au bouton.
+Place 2: dealand (7450 en jetons) 
+Place 3: psychoman59 (2845 en jetons) 
+Place 4: mikityn82 (9705 en jetons) 
+dealand : met l'ante. 15
+psychoman59 : met l'ante. 15
+mikityn82 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+mikityn82 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Jh]
+dealand : suit. 120
+psychoman59 : passe. 
+mikityn82 : parole 
+*** FLOP *** [8d 8s 2h]
+mikityn82 : parole 
+dealand : mise. 120
+mikityn82 : passe. 
+Personne n'a suivi. (120) sont retournés à dealand.
+dealand a remporté 345  lors du pot .
+dealand : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 345 | Commission 0 
+Tableau [8d 8s 2h]
+Siège 2 : dealand (bouton) a remporté (345)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : mikityn82 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237805159616 : Tournoi #3451868589, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 18:35:58 CET [05/08/2022 12:35:58 ET]
+Table '3451868589 1' 4-max Siège #3 est au bouton.
+Place 2: dealand (7660 en jetons) 
+Place 3: psychoman59 (2770 en jetons) 
+Place 4: mikityn82 (9570 en jetons) 
+dealand : met l'ante. 15
+psychoman59 : met l'ante. 15
+mikityn82 : met l'ante. 15
+mikityn82 : met la petite blind. 60
+dealand : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 3h]
+psychoman59 : relance. 2635 à 2755 et est all-in.
+mikityn82 : passe. 
+dealand : passe. 
+Personne n'a suivi. (2635) sont retournés à psychoman59.
+psychoman59 a remporté 345  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 345 | Commission 0 
+Siège 2 : dealand (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (345)
+Siège 4 : mikityn82 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237805163110 : Tournoi #3451868589, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 18:36:09 CET [05/08/2022 12:36:09 ET]
+Table '3451868589 1' 4-max Siège #4 est au bouton.
+Place 2: dealand (7525 en jetons) 
+Place 3: psychoman59 (2980 en jetons) 
+Place 4: mikityn82 (9495 en jetons) 
+dealand : met l'ante. 15
+psychoman59 : met l'ante. 15
+mikityn82 : met l'ante. 15
+dealand : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 7d]
+mikityn82 : passe. 
+dealand : relance. 7390 à 7510 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (7390) sont retournés à dealand.
+dealand a remporté 285  lors du pot .
+dealand : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Siège 2 : dealand (petite blind) a remporté (285)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : mikityn82 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237805166982 : Tournoi #3451868589, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 18:36:21 CET [05/08/2022 12:36:21 ET]
+Table '3451868589 1' 4-max Siège #2 est au bouton.
+Place 2: dealand (7675 en jetons) 
+Place 3: psychoman59 (2845 en jetons) 
+Place 4: mikityn82 (9480 en jetons) 
+dealand : met l'ante. 15
+psychoman59 : met l'ante. 15
+mikityn82 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+mikityn82 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Kh]
+dealand : passe. 
+psychoman59 : relance. 2710 à 2830 et est all-in.
+mikityn82 : passe. 
+Personne n'a suivi. (2710) sont retournés à psychoman59.
+psychoman59 a remporté 285  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Siège 2 : dealand (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (285)
+Siège 4 : mikityn82 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237805170837 : Tournoi #3451868589, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 18:36:34 CET [05/08/2022 12:36:34 ET]
+Table '3451868589 1' 4-max Siège #3 est au bouton.
+Place 2: dealand (7660 en jetons) 
+Place 3: psychoman59 (2995 en jetons) 
+Place 4: mikityn82 (9345 en jetons) 
+dealand : met l'ante. 20
+psychoman59 : met l'ante. 20
+mikityn82 : met l'ante. 20
+mikityn82 : met la petite blind. 75
+dealand : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 4s]
+psychoman59 : passe. 
+mikityn82 : passe. 
+Personne n'a suivi. (75) sont retournés à dealand.
+dealand a remporté 210  lors du pot .
+dealand : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 2 : dealand (grosse blind) a remporté (210)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : mikityn82 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237805174132 : Tournoi #3451868589, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 18:36:45 CET [05/08/2022 12:36:45 ET]
+Table '3451868589 1' 4-max Siège #4 est au bouton.
+Place 2: dealand (7775 en jetons) 
+Place 3: psychoman59 (2975 en jetons) 
+Place 4: mikityn82 (9250 en jetons) 
+dealand : met l'ante. 20
+psychoman59 : met l'ante. 20
+mikityn82 : met l'ante. 20
+dealand : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Kd]
+mikityn82 : relance. 150 à 300
+dealand : suit. 225
+psychoman59 : relance. 2655 à 2955 et est all-in.
+mikityn82 : passe. 
+dealand : suit. 2655
+*** FLOP *** [Jc 5d 6s]
+*** TOURNANT *** [Jc 5d 6s] [7d]
+*** RIVIÈRE *** [Jc 5d 6s 7d] [Ah]
+*** ABATTAGE ***
+dealand : montre [3s 3h] (une paire de Trois)
+psychoman59 : montre [Td Kd] (Hauteur As)
+dealand a remporté 6270  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 6270 | Commission 0 
+Tableau [Jc 5d 6s 7d Ah]
+Siège 2 : dealand (petite blind) a montré [3s 3h] et a gagné (6270) avec une paire de Trois
+Siège 3 : psychoman59 (grosse blind) a montré [Td Kd] et a perdu avec Hauteur As
+Siège 4 : mikityn82 (bouton) s'est couché. avant Flop
+
+
+

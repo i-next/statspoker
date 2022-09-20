@@ -1,0 +1,120 @@
+﻿Main PokerStars n°238595586938 : Tournoi #3470502256, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 9:00:32 CET [13/09/2022 3:00:32 ET]
+Table '3470502256 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: monkeybo0202 (300 en jetons) 
+Place 3: bibionegros9200 (300 en jetons) 
+monkeybo0202 : met la petite blind. 10
+bibionegros9200 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h As]
+psychoman59 : relance. 40 à 60
+monkeybo0202 : suit. 50
+bibionegros9200 : relance. 40 à 100
+psychoman59 : suit. 40
+monkeybo0202 : passe. 
+*** FLOP *** [Kc 8h 4d]
+bibionegros9200 : mise. 200 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à bibionegros9200.
+bibionegros9200 a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [Kc 8h 4d]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : monkeybo0202 (petite blind) s'est couché. avant Flop
+Siège 3 : bibionegros9200 (grosse blind) a remporté (260)
+
+
+
+Main PokerStars n°238595589735 : Tournoi #3470502256, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 9:01:00 CET [13/09/2022 3:01:00 ET]
+Table '3470502256 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (200 en jetons) 
+Place 2: monkeybo0202 (240 en jetons) 
+Place 3: bibionegros9200 (460 en jetons) 
+bibionegros9200 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ac]
+monkeybo0202 : passe. 
+bibionegros9200 : suit. 10
+psychoman59 : relance. 180 à 200 et est all-in.
+bibionegros9200 : suit. 180
+*** FLOP *** [7s 5d 9c]
+*** TOURNANT *** [7s 5d 9c] [3s]
+*** RIVIÈRE *** [7s 5d 9c 3s] [7d]
+*** ABATTAGE ***
+bibionegros9200 : montre [Ts 8c] (une paire de Sept)
+psychoman59 : montre [9s Ac] (double paire, Neuf et Sept)
+psychoman59 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [7s 5d 9c 3s 7d]
+Siège 1 : psychoman59 (grosse blind) a montré [9s Ac] et a gagné (400) avec double paire, Neuf et Sept
+Siège 2 : monkeybo0202 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : bibionegros9200 (petite blind) a montré [Ts 8c] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°238595592011 : Tournoi #3470502256, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 9:01:23 CET [13/09/2022 3:01:23 ET]
+Table '3470502256 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: monkeybo0202 (240 en jetons) 
+Place 3: bibionegros9200 (260 en jetons) 
+psychoman59 : met la petite blind. 10
+monkeybo0202 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Ac]
+bibionegros9200 : relance. 240 à 260 et est all-in.
+psychoman59 : suit. 250
+monkeybo0202 : passe. 
+*** FLOP *** [5h 8s Jh]
+*** TOURNANT *** [5h 8s Jh] [4h]
+*** RIVIÈRE *** [5h 8s Jh 4h] [2c]
+*** ABATTAGE ***
+psychoman59 : montre [9c Ac] (Hauteur As)
+bibionegros9200 : montre [Ks Kd] (une paire de Rois)
+bibionegros9200 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [5h 8s Jh 4h 2c]
+Siège 1 : psychoman59 (petite blind) a montré [9c Ac] et a perdu avec Hauteur As
+Siège 2 : monkeybo0202 (grosse blind) s'est couché. avant Flop
+Siège 3 : bibionegros9200 (bouton) a montré [Ks Kd] et a gagné (540) avec une paire de Rois
+
+
+
+Main PokerStars n°238595594862 : Tournoi #3470502256, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 9:01:51 CET [13/09/2022 3:01:51 ET]
+Table '3470502256 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (140 en jetons) 
+Place 2: monkeybo0202 (220 en jetons) 
+Place 3: bibionegros9200 (540 en jetons) 
+monkeybo0202 : met la petite blind. 15
+bibionegros9200 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Td]
+psychoman59 : relance. 110 à 140 et est all-in.
+monkeybo0202 : suit. 125
+bibionegros9200 : suit. 110
+*** FLOP *** [Qd Ks Qh]
+monkeybo0202 : parole 
+bibionegros9200 : parole 
+*** TOURNANT *** [Qd Ks Qh] [9s]
+monkeybo0202 : parole 
+bibionegros9200 : mise. 30
+monkeybo0202 : passe. 
+Personne n'a suivi. (30) sont retournés à bibionegros9200.
+*** RIVIÈRE *** [Qd Ks Qh 9s] [8s]
+*** ABATTAGE ***
+bibionegros9200 : montre [9c Jc] (double paire, Dames et Neuf)
+psychoman59 : montre [Ac Td] (une paire de Dames)
+bibionegros9200 a remporté 420  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [Qd Ks Qh 9s 8s]
+Siège 1 : psychoman59 (bouton) a montré [Ac Td] et a perdu avec une paire de Dames
+Siège 2 : monkeybo0202 (petite blind) s'est couché. sur le Tournant
+Siège 3 : bibionegros9200 (grosse blind) a montré [9c Jc] et a gagné (420) avec double paire, Dames et Neuf
+
+
+

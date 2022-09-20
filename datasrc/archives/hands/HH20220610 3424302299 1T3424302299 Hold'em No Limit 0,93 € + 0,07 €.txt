@@ -1,0 +1,884 @@
+﻿Main PokerStars n°236675639083 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/06/2022 16:33:17 CET [10/06/2022 10:33:17 ET]
+Table '3424302299 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: antoto11120 (300 en jetons) 
+Place 3: Neremi (300 en jetons) 
+antoto11120 : met la petite blind. 10
+Neremi : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 5s]
+psychoman59 : passe. 
+antoto11120 : passe. 
+Personne n'a suivi. (10) sont retournés à Neremi.
+Neremi a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : antoto11120 (petite blind) s'est couché. avant Flop
+Siège 3 : Neremi (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°236675640862 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/06/2022 16:33:24 CET [10/06/2022 10:33:24 ET]
+Table '3424302299 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: antoto11120 (290 en jetons) 
+Place 3: Neremi (310 en jetons) 
+Neremi : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 4d]
+antoto11120 : passe. 
+Neremi : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ks 5h As]
+Neremi : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ks 5h As] [4c]
+Neremi : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Ks 5h As 4c] [7h]
+Neremi : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Neremi : montre [5c Jh] (une paire de Cinq)
+psychoman59 : cache la main perdante. 
+Neremi a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ks 5h As 4c 7h]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [6s 4d]
+Siège 2 : antoto11120 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Neremi (petite blind) a montré [5c Jh] et a gagné (80) avec une paire de Cinq
+
+
+
+Main PokerStars n°236675646277 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/06/2022 16:33:45 CET [10/06/2022 10:33:45 ET]
+Table '3424302299 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: antoto11120 (290 en jetons) 
+Place 3: Neremi (350 en jetons) 
+psychoman59 : met la petite blind. 10
+antoto11120 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 4s]
+Neremi : relance. 330 à 350 et est all-in.
+psychoman59 : passe. 
+antoto11120 : passe. 
+Personne n'a suivi. (330) sont retournés à Neremi.
+Neremi a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : antoto11120 (grosse blind) s'est couché. avant Flop
+Siège 3 : Neremi (bouton) a remporté (50)
+
+
+
+Main PokerStars n°236675648261 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/06/2022 16:33:53 CET [10/06/2022 10:33:53 ET]
+Table '3424302299 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 2: antoto11120 (270 en jetons) 
+Place 3: Neremi (380 en jetons) 
+antoto11120 : met la petite blind. 10
+Neremi : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Qh]
+psychoman59 : passe. 
+antoto11120 : relance. 20 à 40
+Neremi : suit. 20
+*** FLOP *** [6h 8d 7h]
+antoto11120 : mise. 40
+Neremi : suit. 40
+*** TOURNANT *** [6h 8d 7h] [2s]
+antoto11120 : mise. 40
+Neremi : suit. 40
+*** RIVIÈRE *** [6h 8d 7h 2s] [2c]
+antoto11120 : parole 
+Neremi : parole 
+*** ABATTAGE ***
+antoto11120 : montre [7c Ts] (double paire, Sept et Deux)
+Neremi : montre [8s 3s] (double paire, Huit et Deux)
+Neremi a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6h 8d 7h 2s 2c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : antoto11120 (petite blind) a montré [7c Ts] et a perdu avec double paire, Sept et Deux
+Siège 3 : Neremi (grosse blind) a montré [8s 3s] et a gagné (240) avec double paire, Huit et Deux
+
+
+
+Main PokerStars n°236675658190 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/06/2022 16:34:33 CET [10/06/2022 10:34:33 ET]
+Table '3424302299 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 2: antoto11120 (150 en jetons) 
+Place 3: Neremi (500 en jetons) 
+Neremi : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 4c]
+antoto11120 : relance. 120 à 150 et est all-in.
+Neremi : passe. 
+psychoman59 : suit. 120
+*** FLOP *** [2s Ad 5s]
+*** TOURNANT *** [2s Ad 5s] [Td]
+*** RIVIÈRE *** [2s Ad 5s Td] [Kd]
+*** ABATTAGE ***
+psychoman59 : montre [Ah 4c] (une paire de As)
+antoto11120 : montre [4s As] (une paire de As)
+psychoman59 a remporté 158  lors du pot .
+antoto11120 a remporté 157  lors du pot .
+*** SYNTHÈSE ***
+Pot total 315 | Commission 0 
+Tableau [2s Ad 5s Td Kd]
+Siège 1 : psychoman59 (grosse blind) a montré [Ah 4c] et a gagné (158) avec une paire de As
+Siège 2 : antoto11120 (bouton) a montré [4s As] et a gagné (157) avec une paire de As
+Siège 3 : Neremi (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236675663149 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/06/2022 16:34:54 CET [10/06/2022 10:34:54 ET]
+Table '3424302299 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (258 en jetons) 
+Place 2: antoto11120 (157 en jetons) 
+Place 3: Neremi (485 en jetons) 
+psychoman59 : met la petite blind. 15
+antoto11120 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 8h]
+Neremi : passe. 
+psychoman59 : suit. 15
+antoto11120 a dépassé le temps imparti.
+antoto11120 : parole 
+*** FLOP *** [6h 9d 9s]
+psychoman59 : parole 
+antoto11120 a dépassé le temps imparti.
+antoto11120 : parole 
+*** TOURNANT *** [6h 9d 9s] [Ts]
+psychoman59 : mise. 30
+antoto11120 a dépassé le temps imparti.
+antoto11120 : passe. 
+antoto11120 ne joue pas.
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6h 9d 9s Ts]
+Siège 1 : psychoman59 (petite blind) a remporté (60)
+Siège 2 : antoto11120 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : Neremi (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°236675679499 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/06/2022 16:36:00 CET [10/06/2022 10:36:00 ET]
+Table '3424302299 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (288 en jetons) 
+Place 2: antoto11120 (127 en jetons) ne joue pas.
+Place 3: Neremi (485 en jetons) 
+antoto11120 : met la petite blind. 20
+Neremi : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 9c]
+psychoman59 : passe. 
+antoto11120 : passe. 
+Personne n'a suivi. (20) sont retournés à Neremi.
+Neremi a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : antoto11120 (petite blind) s'est couché. avant Flop
+Siège 3 : Neremi (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°236675680764 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/06/2022 16:36:05 CET [10/06/2022 10:36:05 ET]
+Table '3424302299 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (288 en jetons) 
+Place 2: antoto11120 (107 en jetons) ne joue pas.
+Place 3: Neremi (505 en jetons) 
+Neremi : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 7d]
+antoto11120 : passe. 
+Neremi : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : antoto11120 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Neremi (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236675682368 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/06/2022 16:36:11 CET [10/06/2022 10:36:11 ET]
+Table '3424302299 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (308 en jetons) 
+Place 2: antoto11120 (107 en jetons) ne joue pas.
+Place 3: Neremi (485 en jetons) 
+psychoman59 : met la petite blind. 20
+antoto11120 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Js]
+Neremi : passe. 
+psychoman59 : relance. 40 à 80
+antoto11120 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (80)
+Siège 2 : antoto11120 (grosse blind) s'est couché. avant Flop
+Siège 3 : Neremi (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°236675684134 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/06/2022 16:36:18 CET [10/06/2022 10:36:18 ET]
+Table '3424302299 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (348 en jetons) 
+Place 2: antoto11120 (67 en jetons) ne joue pas.
+Place 3: Neremi (485 en jetons) 
+antoto11120 : met la petite blind. 20
+Neremi : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Jh]
+antoto11120 est déconnecté 
+psychoman59 : passe. 
+antoto11120 : passe. 
+Personne n'a suivi. (20) sont retournés à Neremi.
+Neremi a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : antoto11120 (petite blind) s'est couché. avant Flop
+Siège 3 : Neremi (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°236675686073 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/06/2022 16:36:26 CET [10/06/2022 10:36:26 ET]
+Table '3424302299 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (348 en jetons) 
+Place 2: antoto11120 (47 en jetons) ne joue pas.
+Place 3: Neremi (505 en jetons) 
+Neremi : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 5h]
+antoto11120 : passe. 
+Neremi : suit. 30
+psychoman59 : parole 
+*** FLOP *** [8d 9d Jd]
+Neremi : mise. 60
+antoto11120 est revenu.
+psychoman59 : suit. 60
+*** TOURNANT *** [8d 9d Jd] [6d]
+Neremi : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Neremi.
+Neremi a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [8d 9d Jd 6d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : antoto11120 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Neremi (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°236675691721 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/06/2022 16:36:49 CET [10/06/2022 10:36:49 ET]
+Table '3424302299 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (228 en jetons) 
+Place 2: antoto11120 (47 en jetons) 
+Place 3: Neremi (625 en jetons) 
+psychoman59 : met la petite blind. 30
+antoto11120 : met la grosse blind. 47 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 7h]
+Neremi : suit. 60
+psychoman59 : passe. 
+Personne n'a suivi. (13) sont retournés à Neremi.
+*** FLOP *** [7c Js Qc]
+*** TOURNANT *** [7c Js Qc] [Tc]
+*** RIVIÈRE *** [7c Js Qc Tc] [4s]
+*** ABATTAGE ***
+antoto11120 : montre [7s Ad] (une paire de Sept)
+Neremi : montre [3s Kc] (Hauteur Roi)
+antoto11120 a remporté 124  lors du pot .
+*** SYNTHÈSE ***
+Pot total 124 | Commission 0 
+Tableau [7c Js Qc Tc 4s]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : antoto11120 (grosse blind) a montré [7s Ad] et a gagné (124) avec une paire de Sept
+Siège 3 : Neremi (bouton) a montré [3s Kc] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°236675696509 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/06/2022 16:37:08 CET [10/06/2022 10:37:08 ET]
+Table '3424302299 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (198 en jetons) 
+Place 2: antoto11120 (124 en jetons) 
+Place 3: Neremi (578 en jetons) 
+antoto11120 : met la petite blind. 30
+Neremi : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 6c]
+psychoman59 : passe. 
+antoto11120 : relance. 64 à 124 et est all-in.
+Neremi : suit. 64
+*** FLOP *** [8h 2c 9d]
+*** TOURNANT *** [8h 2c 9d] [Ad]
+*** RIVIÈRE *** [8h 2c 9d Ad] [Js]
+*** ABATTAGE ***
+antoto11120 : montre [Td Ah] (une paire de As)
+Neremi : montre [Qd 5c] (Hauteur As)
+antoto11120 a remporté 248  lors du pot .
+*** SYNTHÈSE ***
+Pot total 248 | Commission 0 
+Tableau [8h 2c 9d Ad Js]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : antoto11120 (petite blind) a montré [Td Ah] et a gagné (248) avec une paire de As
+Siège 3 : Neremi (grosse blind) a montré [Qd 5c] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°236675701087 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 10/06/2022 16:37:26 CET [10/06/2022 10:37:26 ET]
+Table '3424302299 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (198 en jetons) 
+Place 2: antoto11120 (248 en jetons) 
+Place 3: Neremi (454 en jetons) 
+Neremi : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Kd]
+antoto11120 : passe. 
+Neremi : suit. 40
+psychoman59 : relance. 118 à 198 et est all-in.
+Neremi : suit. 118
+*** FLOP *** [Kh Ah 6h]
+*** TOURNANT *** [Kh Ah 6h] [9h]
+*** RIVIÈRE *** [Kh Ah 6h 9h] [4c]
+*** ABATTAGE ***
+Neremi : montre [Jd 9s] (une paire de Neuf)
+psychoman59 : montre [7d Kd] (une paire de Rois)
+psychoman59 a remporté 396  lors du pot .
+*** SYNTHÈSE ***
+Pot total 396 | Commission 0 
+Tableau [Kh Ah 6h 9h 4c]
+Siège 1 : psychoman59 (grosse blind) a montré [7d Kd] et a gagné (396) avec une paire de Rois
+Siège 2 : antoto11120 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Neremi (petite blind) a montré [Jd 9s] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°236675706214 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 10/06/2022 16:37:47 CET [10/06/2022 10:37:47 ET]
+Table '3424302299 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (396 en jetons) 
+Place 2: antoto11120 (248 en jetons) 
+Place 3: Neremi (256 en jetons) 
+psychoman59 : met la petite blind. 40
+antoto11120 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 5c]
+Neremi : relance. 176 à 256 et est all-in.
+psychoman59 : passe. 
+antoto11120 : passe. 
+Personne n'a suivi. (176) sont retournés à Neremi.
+Neremi a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : antoto11120 (grosse blind) s'est couché. avant Flop
+Siège 3 : Neremi (bouton) a remporté (200)
+
+
+
+Main PokerStars n°236675708026 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 10/06/2022 16:37:54 CET [10/06/2022 10:37:54 ET]
+Table '3424302299 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (356 en jetons) 
+Place 2: antoto11120 (168 en jetons) 
+Place 3: Neremi (376 en jetons) 
+antoto11120 : met la petite blind. 40
+Neremi : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 5s]
+psychoman59 : passe. 
+antoto11120 : relance. 88 à 168 et est all-in.
+Neremi : passe. 
+Personne n'a suivi. (88) sont retournés à antoto11120.
+antoto11120 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : antoto11120 (petite blind) a remporté (160)
+Siège 3 : Neremi (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236675709935 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 10/06/2022 16:38:02 CET [10/06/2022 10:38:02 ET]
+Table '3424302299 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (356 en jetons) 
+Place 2: antoto11120 (248 en jetons) 
+Place 3: Neremi (296 en jetons) 
+Neremi : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qd]
+antoto11120 : relance. 168 à 248 et est all-in.
+Neremi : passe. 
+psychoman59 : suit. 168
+*** FLOP *** [9s 5h Td]
+*** TOURNANT *** [9s 5h Td] [Qc]
+*** RIVIÈRE *** [9s 5h Td Qc] [9d]
+*** ABATTAGE ***
+psychoman59 : montre [Ac Qd] (double paire, Dames et Neuf)
+antoto11120 : montre [Qh As] (double paire, Dames et Neuf)
+psychoman59 a remporté 268  lors du pot .
+antoto11120 a remporté 268  lors du pot .
+*** SYNTHÈSE ***
+Pot total 536 | Commission 0 
+Tableau [9s 5h Td Qc 9d]
+Siège 1 : psychoman59 (grosse blind) a montré [Ac Qd] et a gagné (268) avec double paire, Dames et Neuf
+Siège 2 : antoto11120 (bouton) a montré [Qh As] et a gagné (268) avec double paire, Dames et Neuf
+Siège 3 : Neremi (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236675713602 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 10/06/2022 16:38:16 CET [10/06/2022 10:38:16 ET]
+Table '3424302299 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (376 en jetons) 
+Place 2: antoto11120 (268 en jetons) 
+Place 3: Neremi (256 en jetons) 
+psychoman59 : met la petite blind. 40
+antoto11120 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 9s]
+Neremi : passe. 
+psychoman59 : relance. 296 à 376 et est all-in.
+antoto11120 : passe. 
+Personne n'a suivi. (296) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (160)
+Siège 2 : antoto11120 (grosse blind) s'est couché. avant Flop
+Siège 3 : Neremi (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°236675716427 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 10/06/2022 16:38:27 CET [10/06/2022 10:38:27 ET]
+Table '3424302299 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (456 en jetons) 
+Place 2: antoto11120 (188 en jetons) 
+Place 3: Neremi (256 en jetons) 
+antoto11120 : met la petite blind. 50
+Neremi : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 6c]
+psychoman59 : passe. 
+antoto11120 : relance. 88 à 188 et est all-in.
+Neremi : suit. 88
+*** FLOP *** [9d 2d Kd]
+*** TOURNANT *** [9d 2d Kd] [Ad]
+*** RIVIÈRE *** [9d 2d Kd Ad] [2s]
+*** ABATTAGE ***
+antoto11120 : montre [Ts Ah] (double paire, As et Deux)
+Neremi : montre [6s Td] (une couleur, hauteur As)
+Neremi a remporté 376  lors du pot .
+*** SYNTHÈSE ***
+Pot total 376 | Commission 0 
+Tableau [9d 2d Kd Ad 2s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : antoto11120 (petite blind) a montré [Ts Ah] et a perdu avec double paire, As et Deux
+Siège 3 : Neremi (grosse blind) a montré [6s Td] et a gagné (376) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°236675720496 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 10/06/2022 16:38:44 CET [10/06/2022 10:38:44 ET]
+Table '3424302299 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (456 en jetons) 
+Place 3: Neremi (444 en jetons) 
+Neremi : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 8c]
+Neremi : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (100)
+Siège 3 : Neremi (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236675722214 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 10/06/2022 16:38:51 CET [10/06/2022 10:38:51 ET]
+Table '3424302299 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (506 en jetons) 
+Place 3: Neremi (394 en jetons) 
+psychoman59 : met la petite blind. 50
+Neremi : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à Neremi.
+Neremi a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Neremi (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°236675723411 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 10/06/2022 16:38:56 CET [10/06/2022 10:38:56 ET]
+Table '3424302299 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (456 en jetons) 
+Place 3: Neremi (444 en jetons) 
+Neremi : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 6h]
+Neremi : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Kc 4c 7s]
+psychoman59 : parole 
+Neremi : mise. 100
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à Neremi.
+Neremi a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Kc 4c 7s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : Neremi (bouton) (petite blind) a remporté (200)
+
+
+
+Main PokerStars n°236675727108 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 10/06/2022 16:39:10 CET [10/06/2022 10:39:10 ET]
+Table '3424302299 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (356 en jetons) 
+Place 3: Neremi (544 en jetons) 
+psychoman59 : met la petite blind. 50
+Neremi : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 7d]
+psychoman59 : relance. 256 à 356 et est all-in.
+Neremi : passe. 
+Personne n'a suivi. (256) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (200)
+Siège 3 : Neremi (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236675728894 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 10/06/2022 16:39:17 CET [10/06/2022 10:39:17 ET]
+Table '3424302299 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (456 en jetons) 
+Place 3: Neremi (444 en jetons) 
+Neremi : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Jc]
+Neremi : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Ks 3d 2c]
+psychoman59 : parole 
+Neremi : parole 
+*** TOURNANT *** [Ks 3d 2c] [Kh]
+psychoman59 : parole 
+Neremi : parole 
+*** RIVIÈRE *** [Ks 3d 2c Kh] [5c]
+psychoman59 : parole 
+Neremi : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Tc Jc] (une paire de Rois)
+Neremi : montre [Ad 6h] (une paire de Rois - As kicker)
+Neremi a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Ks 3d 2c Kh 5c]
+Siège 1 : psychoman59 (grosse blind) a montré [Tc Jc] et a perdu avec une paire de Rois
+Siège 3 : Neremi (bouton) (petite blind) a montré [Ad 6h] et a gagné (200) avec une paire de Rois
+
+
+
+Main PokerStars n°236675734157 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 10/06/2022 16:39:38 CET [10/06/2022 10:39:38 ET]
+Table '3424302299 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (356 en jetons) 
+Place 3: Neremi (544 en jetons) 
+psychoman59 : met la petite blind. 60
+Neremi : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 8c]
+psychoman59 : relance. 236 à 356 et est all-in.
+Neremi : passe. 
+Personne n'a suivi. (236) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (240)
+Siège 3 : Neremi (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236675736435 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 10/06/2022 16:39:47 CET [10/06/2022 10:39:47 ET]
+Table '3424302299 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (476 en jetons) 
+Place 3: Neremi (424 en jetons) 
+Neremi : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d As]
+Neremi : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : Neremi (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236675737829 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 10/06/2022 16:39:53 CET [10/06/2022 10:39:53 ET]
+Table '3424302299 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (536 en jetons) 
+Place 3: Neremi (364 en jetons) 
+psychoman59 : met la petite blind. 60
+Neremi : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Qc]
+psychoman59 : relance. 416 à 536 et est all-in.
+Neremi : passe. 
+Personne n'a suivi. (416) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (240)
+Siège 3 : Neremi (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236675739494 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 10/06/2022 16:40:00 CET [10/06/2022 10:40:00 ET]
+Table '3424302299 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (656 en jetons) 
+Place 3: Neremi (244 en jetons) 
+Neremi : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 8d]
+Neremi : suit. 60
+psychoman59 : parole 
+*** FLOP *** [Kh 4h 6c]
+psychoman59 : parole 
+Neremi : mise. 124 et est all-in.
+psychoman59 : suit. 124
+*** TOURNANT *** [Kh 4h 6c] [7s]
+*** RIVIÈRE *** [Kh 4h 6c 7s] [4s]
+*** ABATTAGE ***
+psychoman59 : montre [7d 8d] (double paire, Sept et Quatre)
+Neremi : montre [9d 9s] (double paire, Neuf et Quatre)
+Neremi a remporté 488  lors du pot .
+*** SYNTHÈSE ***
+Pot total 488 | Commission 0 
+Tableau [Kh 4h 6c 7s 4s]
+Siège 1 : psychoman59 (grosse blind) a montré [7d 8d] et a perdu avec double paire, Sept et Quatre
+Siège 3 : Neremi (bouton) (petite blind) a montré [9d 9s] et a gagné (488) avec double paire, Neuf et Quatre
+
+
+
+Main PokerStars n°236675744053 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 10/06/2022 16:40:18 CET [10/06/2022 10:40:18 ET]
+Table '3424302299 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (412 en jetons) 
+Place 3: Neremi (488 en jetons) 
+psychoman59 : met la petite blind. 60
+Neremi : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Ac]
+psychoman59 : relance. 292 à 412 et est all-in.
+Neremi : passe. 
+Personne n'a suivi. (292) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (240)
+Siège 3 : Neremi (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236675746760 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VIII (75/150) - 10/06/2022 16:40:28 CET [10/06/2022 10:40:28 ET]
+Table '3424302299 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (532 en jetons) 
+Place 3: Neremi (368 en jetons) 
+Neremi : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ts]
+Neremi : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (150)
+Siège 3 : Neremi (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236675747942 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VIII (75/150) - 10/06/2022 16:40:33 CET [10/06/2022 10:40:33 ET]
+Table '3424302299 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (607 en jetons) 
+Place 3: Neremi (293 en jetons) 
+psychoman59 : met la petite blind. 75
+Neremi : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 9d]
+psychoman59 : relance. 150 à 300
+Neremi : suit. 143 et est all-in.
+Personne n'a suivi. (7) sont retournés à psychoman59.
+*** FLOP *** [5c 6c Jc]
+*** TOURNANT *** [5c 6c Jc] [8c]
+*** RIVIÈRE *** [5c 6c Jc 8c] [2h]
+*** ABATTAGE ***
+Neremi : montre [4h 4c] (une couleur, hauteur Valet)
+psychoman59 : montre [Qs 9d] (Hauteur Dame)
+Neremi a remporté 586  lors du pot .
+*** SYNTHÈSE ***
+Pot total 586 | Commission 0 
+Tableau [5c 6c Jc 8c 2h]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Qs 9d] et a perdu avec Hauteur Dame
+Siège 3 : Neremi (grosse blind) a montré [4h 4c] et a gagné (586) avec une couleur, hauteur Valet
+
+
+
+Main PokerStars n°236675751660 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VIII (75/150) - 10/06/2022 16:40:48 CET [10/06/2022 10:40:48 ET]
+Table '3424302299 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (314 en jetons) 
+Place 3: Neremi (586 en jetons) 
+Neremi : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 7s]
+Neremi : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (150)
+Siège 3 : Neremi (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236675752898 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VIII (75/150) - 10/06/2022 16:40:52 CET [10/06/2022 10:40:52 ET]
+Table '3424302299 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (389 en jetons) 
+Place 3: Neremi (511 en jetons) 
+psychoman59 : met la petite blind. 75
+Neremi : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à Neremi.
+Neremi a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Neremi (grosse blind) a remporté (150)
+
+
+
+Main PokerStars n°236675754945 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VIII (75/150) - 10/06/2022 16:41:01 CET [10/06/2022 10:41:01 ET]
+Table '3424302299 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (314 en jetons) 
+Place 3: Neremi (586 en jetons) 
+Neremi : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9c]
+Neremi : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (150)
+Siège 3 : Neremi (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236675756257 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VIII (75/150) - 10/06/2022 16:41:06 CET [10/06/2022 10:41:06 ET]
+Table '3424302299 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (389 en jetons) 
+Place 3: Neremi (511 en jetons) 
+psychoman59 : met la petite blind. 75
+Neremi : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 4h]
+psychoman59 : relance. 239 à 389 et est all-in.
+Neremi : suit. 239
+*** FLOP *** [Qd 4s Ad]
+*** TOURNANT *** [Qd 4s Ad] [Qs]
+*** RIVIÈRE *** [Qd 4s Ad Qs] [Kd]
+*** ABATTAGE ***
+Neremi : montre [7s 7h] (double paire, Dames et Sept)
+psychoman59 : montre [Qh 4h] (un full, full aux Dames par les Quatre)
+psychoman59 a remporté 778  lors du pot .
+*** SYNTHÈSE ***
+Pot total 778 | Commission 0 
+Tableau [Qd 4s Ad Qs Kd]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Qh 4h] et a gagné (778) avec un full, full aux Dames par les Quatre
+Siège 3 : Neremi (grosse blind) a montré [7s 7h] et a perdu avec double paire, Dames et Sept
+
+
+
+Main PokerStars n°236675760326 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IX (90/180) - 10/06/2022 16:41:22 CET [10/06/2022 10:41:22 ET]
+Table '3424302299 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (778 en jetons) 
+Place 3: Neremi (122 en jetons) 
+Neremi : met la petite blind. 90
+psychoman59 : met la grosse blind. 180
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Ts]
+Neremi : suit. 32 et est all-in.
+Personne n'a suivi. (58) sont retournés à psychoman59.
+*** FLOP *** [6c Kd 2d]
+*** TOURNANT *** [6c Kd 2d] [Tc]
+*** RIVIÈRE *** [6c Kd 2d Tc] [Ks]
+*** ABATTAGE ***
+psychoman59 : montre [Jh Ts] (double paire, Rois et Dix)
+Neremi : montre [Kh 8s] (un brelan de Rois)
+Neremi a remporté 244  lors du pot .
+*** SYNTHÈSE ***
+Pot total 244 | Commission 0 
+Tableau [6c Kd 2d Tc Ks]
+Siège 1 : psychoman59 (grosse blind) a montré [Jh Ts] et a perdu avec double paire, Rois et Dix
+Siège 3 : Neremi (bouton) (petite blind) a montré [Kh 8s] et a gagné (244) avec un brelan de Rois
+
+
+
+Main PokerStars n°236675763144 : Tournoi #3424302299, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IX (90/180) - 10/06/2022 16:41:33 CET [10/06/2022 10:41:33 ET]
+Table '3424302299 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (656 en jetons) 
+Place 3: Neremi (244 en jetons) 
+psychoman59 : met la petite blind. 90
+Neremi : met la grosse blind. 180
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Tc]
+psychoman59 : relance. 180 à 360
+Neremi : suit. 64 et est all-in.
+Personne n'a suivi. (116) sont retournés à psychoman59.
+*** FLOP *** [3s Ah Jc]
+*** TOURNANT *** [3s Ah Jc] [2h]
+*** RIVIÈRE *** [3s Ah Jc 2h] [Jh]
+*** ABATTAGE ***
+Neremi : montre [4s 4d] (double paire, Valets et Quatre)
+psychoman59 : montre [Th Tc] (double paire, Valets et Dix)
+psychoman59 a remporté 488  lors du pot .
+*** SYNTHÈSE ***
+Pot total 488 | Commission 0 
+Tableau [3s Ah Jc 2h Jh]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Th Tc] et a gagné (488) avec double paire, Valets et Dix
+Siège 3 : Neremi (grosse blind) a montré [4s 4d] et a perdu avec double paire, Valets et Quatre
+
+
+

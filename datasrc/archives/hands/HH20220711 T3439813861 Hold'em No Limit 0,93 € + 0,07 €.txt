@@ -1,0 +1,695 @@
+﻿Main PokerStars n°237289334263 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 7:41:18 CET [11/07/2022 1:41:18 ET]
+Table '3439813861 1' 3-max Siège #1 est au bouton.
+Place 1: nanox72100 (300 en jetons) 
+Place 2: valoche34410 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+valoche34410 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 9d]
+nanox72100 : suit. 20
+valoche34410 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [5h 3c 4d]
+valoche34410 : parole 
+psychoman59 : parole 
+nanox72100 : parole 
+*** TOURNANT *** [5h 3c 4d] [7c]
+valoche34410 : mise. 40
+psychoman59 : passe. 
+nanox72100 : suit. 40
+*** RIVIÈRE *** [5h 3c 4d 7c] [2d]
+valoche34410 : parole 
+nanox72100 : parole 
+*** ABATTAGE ***
+valoche34410 : montre [3h 3d] (un brelan de Trois)
+nanox72100 : cache la main perdante. 
+valoche34410 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [5h 3c 4d 7c 2d]
+Siège 1 : nanox72100 (bouton) a caché la main perdante. [2s 7s]
+Siège 2 : valoche34410 (petite blind) a montré [3h 3d] et a gagné (140) avec un brelan de Trois
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237289336637 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 7:41:42 CET [11/07/2022 1:41:42 ET]
+Table '3439813861 1' 3-max Siège #2 est au bouton.
+Place 1: nanox72100 (240 en jetons) 
+Place 2: valoche34410 (380 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+nanox72100 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 4c]
+valoche34410 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à nanox72100.
+nanox72100 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : nanox72100 (grosse blind) a remporté (20)
+Siège 2 : valoche34410 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237289337413 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 7:41:50 CET [11/07/2022 1:41:50 ET]
+Table '3439813861 1' 3-max Siège #3 est au bouton.
+Place 1: nanox72100 (250 en jetons) 
+Place 2: valoche34410 (380 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+nanox72100 : met la petite blind. 10
+valoche34410 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 7h]
+psychoman59 : passe. 
+nanox72100 : suit. 10
+valoche34410 : parole 
+*** FLOP *** [4s 2c 6c]
+nanox72100 : parole 
+valoche34410 : parole 
+*** TOURNANT *** [4s 2c 6c] [5h]
+nanox72100 : parole 
+valoche34410 : parole 
+*** RIVIÈRE *** [4s 2c 6c 5h] [8h]
+nanox72100 : parole 
+valoche34410 : mise. 20
+nanox72100 : passe. 
+Personne n'a suivi. (20) sont retournés à valoche34410.
+valoche34410 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [4s 2c 6c 5h 8h]
+Siège 1 : nanox72100 (petite blind) s'est couché. sur le Rivière
+Siège 2 : valoche34410 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237289339188 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 7:42:09 CET [11/07/2022 1:42:09 ET]
+Table '3439813861 1' 3-max Siège #1 est au bouton.
+Place 1: nanox72100 (230 en jetons) 
+Place 2: valoche34410 (400 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+valoche34410 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 3s]
+nanox72100 : suit. 20
+valoche34410 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Ts 8c 9h]
+psychoman59 : parole 
+nanox72100 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à nanox72100.
+nanox72100 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Ts 8c 9h]
+Siège 1 : nanox72100 (bouton) a remporté (50)
+Siège 2 : valoche34410 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237289340826 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 7:42:26 CET [11/07/2022 1:42:26 ET]
+Table '3439813861 1' 3-max Siège #2 est au bouton.
+Place 1: nanox72100 (260 en jetons) 
+Place 2: valoche34410 (390 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+psychoman59 : met la petite blind. 15
+nanox72100 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h As]
+valoche34410 : suit. 30
+psychoman59 : relance. 220 à 250 et est all-in.
+nanox72100 : passe. 
+valoche34410 : passe. 
+Personne n'a suivi. (220) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Siège 1 : nanox72100 (grosse blind) s'est couché. avant Flop
+Siège 2 : valoche34410 (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) a remporté (90)
+
+
+
+Main PokerStars n°237289341875 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 7:42:37 CET [11/07/2022 1:42:37 ET]
+Table '3439813861 1' 3-max Siège #3 est au bouton.
+Place 1: nanox72100 (230 en jetons) 
+Place 2: valoche34410 (360 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+nanox72100 : met la petite blind. 15
+valoche34410 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 6c]
+psychoman59 : relance. 60 à 90
+nanox72100 : passe. 
+valoche34410 : suit. 60
+*** FLOP *** [Qs 3d Ad]
+valoche34410 : parole 
+psychoman59 : mise. 60
+valoche34410 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 195  lors du pot .
+*** SYNTHÈSE ***
+Pot total 195 | Commission 0 
+Tableau [Qs 3d Ad]
+Siège 1 : nanox72100 (petite blind) s'est couché. avant Flop
+Siège 2 : valoche34410 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a remporté (195)
+
+
+
+Main PokerStars n°237289343417 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 7:42:53 CET [11/07/2022 1:42:53 ET]
+Table '3439813861 1' 3-max Siège #1 est au bouton.
+Place 1: nanox72100 (215 en jetons) 
+Place 2: valoche34410 (270 en jetons) 
+Place 3: psychoman59 (415 en jetons) 
+valoche34410 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Js]
+nanox72100 : suit. 30
+valoche34410 : passe. 
+psychoman59 : parole 
+*** FLOP *** [7d 9d Th]
+psychoman59 : parole 
+nanox72100 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [7d 9d Th] [Qc]
+psychoman59 : parole 
+nanox72100 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [7d 9d Th Qc] [3d]
+psychoman59 : parole 
+nanox72100 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9s Js] (une paire de Neuf)
+nanox72100 : cache la main perdante. 
+psychoman59 a remporté 195  lors du pot .
+*** SYNTHÈSE ***
+Pot total 195 | Commission 0 
+Tableau [7d 9d Th Qc 3d]
+Siège 1 : nanox72100 (bouton) a caché la main perdante. [Ad Kh]
+Siège 2 : valoche34410 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [9s Js] et a gagné (195) avec une paire de Neuf
+
+
+
+Main PokerStars n°237289350048 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 7:43:15 CET [11/07/2022 1:43:15 ET]
+Table '3439813861 1' 3-max Siège #2 est au bouton.
+Place 1: nanox72100 (125 en jetons) 
+Place 2: valoche34410 (255 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+psychoman59 : met la petite blind. 15
+nanox72100 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 7s]
+valoche34410 : suit. 30
+psychoman59 : passe. 
+nanox72100 : parole 
+*** FLOP *** [4s Kh Ts]
+nanox72100 : mise. 30
+valoche34410 : suit. 30
+*** TOURNANT *** [4s Kh Ts] [Qd]
+nanox72100 : mise. 30
+valoche34410 : suit. 30
+*** RIVIÈRE *** [4s Kh Ts Qd] [6c]
+nanox72100 : mise. 30
+valoche34410 : suit. 30
+*** ABATTAGE ***
+nanox72100 : montre [3d Ks] (une paire de Rois)
+valoche34410 : cache la main perdante. 
+nanox72100 a remporté 255  lors du pot .
+*** SYNTHÈSE ***
+Pot total 255 | Commission 0 
+Tableau [4s Kh Ts Qd 6c]
+Siège 1 : nanox72100 (grosse blind) a montré [3d Ks] et a gagné (255) avec une paire de Rois
+Siège 2 : valoche34410 (bouton) a caché la main perdante. [9d As]
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237289351863 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 7:43:33 CET [11/07/2022 1:43:33 ET]
+Table '3439813861 1' 3-max Siège #3 est au bouton.
+Place 1: nanox72100 (260 en jetons) 
+Place 2: valoche34410 (135 en jetons) 
+Place 3: psychoman59 (505 en jetons) 
+nanox72100 : met la petite blind. 20
+valoche34410 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 2d]
+psychoman59 : passe. 
+nanox72100 : suit. 20
+valoche34410 : parole 
+*** FLOP *** [Kh 7h Qs]
+nanox72100 : parole 
+valoche34410 : parole 
+*** TOURNANT *** [Kh 7h Qs] [Ts]
+nanox72100 : mise. 40
+valoche34410 : suit. 40
+*** RIVIÈRE *** [Kh 7h Qs Ts] [Jd]
+nanox72100 : mise. 40
+valoche34410 : suit. 40
+*** ABATTAGE ***
+nanox72100 : montre [5h 7c] (une paire de Sept)
+valoche34410 : montre [Th 4d] (une paire de Dix)
+valoche34410 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Kh 7h Qs Ts Jd]
+Siège 1 : nanox72100 (petite blind) a montré [5h 7c] et a perdu avec une paire de Sept
+Siège 2 : valoche34410 (grosse blind) a montré [Th 4d] et a gagné (240) avec une paire de Dix
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237289353596 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 7:43:51 CET [11/07/2022 1:43:51 ET]
+Table '3439813861 1' 3-max Siège #1 est au bouton.
+Place 1: nanox72100 (140 en jetons) 
+Place 2: valoche34410 (255 en jetons) 
+Place 3: psychoman59 (505 en jetons) 
+valoche34410 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Kh]
+nanox72100 : suit. 40
+valoche34410 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Js 3d 8d]
+valoche34410 : parole 
+psychoman59 : parole 
+nanox72100 : mise. 40
+valoche34410 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à nanox72100.
+nanox72100 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Js 3d 8d]
+Siège 1 : nanox72100 (bouton) a remporté (120)
+Siège 2 : valoche34410 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237289355160 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 7:44:08 CET [11/07/2022 1:44:08 ET]
+Table '3439813861 1' 3-max Siège #2 est au bouton.
+Place 1: nanox72100 (220 en jetons) 
+Place 2: valoche34410 (215 en jetons) 
+Place 3: psychoman59 (465 en jetons) 
+psychoman59 : met la petite blind. 20
+nanox72100 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 5h]
+valoche34410 : suit. 40
+psychoman59 : suit. 20
+nanox72100 : parole 
+*** FLOP *** [4s 9s 7h]
+psychoman59 : parole 
+nanox72100 : parole 
+valoche34410 : parole 
+*** TOURNANT *** [4s 9s 7h] [7c]
+psychoman59 : parole 
+nanox72100 : mise. 40
+valoche34410 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à nanox72100.
+nanox72100 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4s 9s 7h 7c]
+Siège 1 : nanox72100 (grosse blind) a remporté (120)
+Siège 2 : valoche34410 (bouton) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237289357886 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 7:44:36 CET [11/07/2022 1:44:36 ET]
+Table '3439813861 1' 3-max Siège #3 est au bouton.
+Place 1: nanox72100 (300 en jetons) 
+Place 2: valoche34410 (175 en jetons) 
+Place 3: psychoman59 (425 en jetons) 
+nanox72100 : met la petite blind. 30
+valoche34410 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 6c]
+psychoman59 : passe. 
+nanox72100 : suit. 30
+valoche34410 : parole 
+*** FLOP *** [8d 3s 6h]
+nanox72100 : mise. 60
+valoche34410 : passe. 
+Personne n'a suivi. (60) sont retournés à nanox72100.
+nanox72100 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8d 3s 6h]
+Siège 1 : nanox72100 (petite blind) a remporté (120)
+Siège 2 : valoche34410 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237289358802 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 7:44:46 CET [11/07/2022 1:44:46 ET]
+Table '3439813861 1' 3-max Siège #1 est au bouton.
+Place 1: nanox72100 (360 en jetons) 
+Place 2: valoche34410 (115 en jetons) 
+Place 3: psychoman59 (425 en jetons) 
+valoche34410 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 6h]
+nanox72100 : suit. 60
+valoche34410 : relance. 55 à 115 et est all-in.
+psychoman59 : passe. 
+nanox72100 : suit. 55
+*** FLOP *** [Td 3d 8d]
+*** TOURNANT *** [Td 3d 8d] [8c]
+*** RIVIÈRE *** [Td 3d 8d 8c] [5s]
+*** ABATTAGE ***
+valoche34410 : montre [Kc 5h] (double paire, Huit et Cinq)
+nanox72100 : montre [Qd Jh] (une paire de Huit)
+valoche34410 a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Tableau [Td 3d 8d 8c 5s]
+Siège 1 : nanox72100 (bouton) a montré [Qd Jh] et a perdu avec une paire de Huit
+Siège 2 : valoche34410 (petite blind) a montré [Kc 5h] et a gagné (290) avec double paire, Huit et Cinq
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237289360185 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 7:45:00 CET [11/07/2022 1:45:00 ET]
+Table '3439813861 1' 3-max Siège #2 est au bouton.
+Place 1: nanox72100 (245 en jetons) 
+Place 2: valoche34410 (290 en jetons) 
+Place 3: psychoman59 (365 en jetons) 
+psychoman59 : met la petite blind. 30
+nanox72100 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ac]
+valoche34410 : suit. 60
+psychoman59 : relance. 305 à 365 et est all-in.
+nanox72100 : suit. 185 et est all-in.
+valoche34410 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+*** FLOP *** [Tc Kc 4s]
+*** TOURNANT *** [Tc Kc 4s] [Ad]
+*** RIVIÈRE *** [Tc Kc 4s Ad] [Qh]
+*** ABATTAGE ***
+psychoman59 : montre [3d Ac] (une paire de As)
+nanox72100 : montre [9h Js] (une suite, Dix à As)
+nanox72100 a remporté 550  lors du pot .
+*** SYNTHÈSE ***
+Pot total 550 | Commission 0 
+Tableau [Tc Kc 4s Ad Qh]
+Siège 1 : nanox72100 (grosse blind) a montré [9h Js] et a gagné (550) avec une suite, Dix à As
+Siège 2 : valoche34410 (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) a montré [3d Ac] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°237289361786 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 7:45:17 CET [11/07/2022 1:45:17 ET]
+Table '3439813861 1' 3-max Siège #3 est au bouton.
+Place 1: nanox72100 (550 en jetons) 
+Place 2: valoche34410 (230 en jetons) 
+Place 3: psychoman59 (120 en jetons) 
+nanox72100 : met la petite blind. 30
+valoche34410 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Ac]
+psychoman59 : relance. 60 à 120 et est all-in.
+nanox72100 : passe. 
+valoche34410 : suit. 60
+*** FLOP *** [Kh Jc 7c]
+*** TOURNANT *** [Kh Jc 7c] [Qh]
+*** RIVIÈRE *** [Kh Jc 7c Qh] [As]
+*** ABATTAGE ***
+valoche34410 : montre [Qc 7d] (double paire, Dames et Sept)
+psychoman59 : montre [Kd Ac] (double paire, As et Rois)
+psychoman59 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [Kh Jc 7c Qh As]
+Siège 1 : nanox72100 (petite blind) s'est couché. avant Flop
+Siège 2 : valoche34410 (grosse blind) a montré [Qc 7d] et a perdu avec double paire, Dames et Sept
+Siège 3 : psychoman59 (bouton) a montré [Kd Ac] et a gagné (270) avec double paire, As et Rois
+
+
+
+Main PokerStars n°237289363699 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/07/2022 7:45:36 CET [11/07/2022 1:45:36 ET]
+Table '3439813861 1' 3-max Siège #1 est au bouton.
+Place 1: nanox72100 (520 en jetons) 
+Place 2: valoche34410 (110 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+valoche34410 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Qh]
+nanox72100 : passe. 
+valoche34410 : relance. 30 à 110 et est all-in.
+psychoman59 : suit. 30
+*** FLOP *** [Tc 9d Qd]
+*** TOURNANT *** [Tc 9d Qd] [5s]
+*** RIVIÈRE *** [Tc 9d Qd 5s] [4c]
+*** ABATTAGE ***
+valoche34410 : montre [Kh Ts] (une paire de Dix)
+psychoman59 : montre [6d Qh] (une paire de Dames)
+psychoman59 a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [Tc 9d Qd 5s 4c]
+Siège 1 : nanox72100 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : valoche34410 (petite blind) a montré [Kh Ts] et a perdu avec une paire de Dix
+Siège 3 : psychoman59 (grosse blind) a montré [6d Qh] et a gagné (220) avec une paire de Dames
+
+
+
+Main PokerStars n°237289365331 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/07/2022 7:45:54 CET [11/07/2022 1:45:54 ET]
+Table '3439813861 1' 3-max Siège #3 est au bouton.
+Place 1: nanox72100 (520 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+psychoman59 : met la petite blind. 40
+nanox72100 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 8c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à nanox72100.
+nanox72100 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : nanox72100 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237289365826 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/07/2022 7:45:58 CET [11/07/2022 1:45:58 ET]
+Table '3439813861 1' 3-max Siège #1 est au bouton.
+Place 1: nanox72100 (560 en jetons) 
+Place 3: psychoman59 (340 en jetons) 
+nanox72100 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 7h]
+nanox72100 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [6c Ts Ks]
+psychoman59 : parole 
+nanox72100 : mise. 80
+psychoman59 : relance. 180 à 260 et est all-in.
+nanox72100 : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [6c Ts Ks]
+Siège 1 : nanox72100 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (320)
+
+
+
+Main PokerStars n°237289367310 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/07/2022 7:46:14 CET [11/07/2022 1:46:14 ET]
+Table '3439813861 1' 3-max Siège #3 est au bouton.
+Place 1: nanox72100 (400 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+psychoman59 : met la petite blind. 40
+nanox72100 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Qd]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à nanox72100.
+nanox72100 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : nanox72100 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237289367802 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/07/2022 7:46:19 CET [11/07/2022 1:46:19 ET]
+Table '3439813861 1' 3-max Siège #1 est au bouton.
+Place 1: nanox72100 (440 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+nanox72100 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 3h]
+nanox72100 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [3d 4d 8s]
+psychoman59 : parole 
+nanox72100 : parole 
+*** TOURNANT *** [3d 4d 8s] [Ts]
+psychoman59 : parole 
+nanox72100 : parole 
+*** RIVIÈRE *** [3d 4d 8s Ts] [2c]
+psychoman59 : parole 
+nanox72100 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qs 3h] (une paire de Trois)
+nanox72100 : cache la main perdante. 
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [3d 4d 8s Ts 2c]
+Siège 1 : nanox72100 (bouton) (petite blind) a caché la main perdante. [6s Js]
+Siège 3 : psychoman59 (grosse blind) a montré [Qs 3h] et a gagné (160) avec une paire de Trois
+
+
+
+Main PokerStars n°237289369946 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 11/07/2022 7:46:41 CET [11/07/2022 1:46:41 ET]
+Table '3439813861 1' 3-max Siège #3 est au bouton.
+Place 1: nanox72100 (360 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+psychoman59 : met la petite blind. 50
+nanox72100 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à nanox72100.
+nanox72100 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : nanox72100 (grosse blind) a remporté (100)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237289370438 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 11/07/2022 7:46:46 CET [11/07/2022 1:46:46 ET]
+Table '3439813861 1' 3-max Siège #1 est au bouton.
+Place 1: nanox72100 (410 en jetons) 
+Place 3: psychoman59 (490 en jetons) 
+nanox72100 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 5c]
+nanox72100 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [4c Jd Jc]
+psychoman59 : parole 
+nanox72100 : mise. 100
+psychoman59 : suit. 100
+*** TOURNANT *** [4c Jd Jc] [9h]
+psychoman59 : parole 
+nanox72100 : parole 
+*** RIVIÈRE *** [4c Jd Jc 9h] [7c]
+psychoman59 : mise. 200
+nanox72100 : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [4c Jd Jc 9h 7c]
+Siège 1 : nanox72100 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (400)
+
+
+
+Main PokerStars n°237289372432 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 11/07/2022 7:47:06 CET [11/07/2022 1:47:06 ET]
+Table '3439813861 1' 3-max Siège #3 est au bouton.
+Place 1: nanox72100 (210 en jetons) 
+Place 3: psychoman59 (690 en jetons) 
+psychoman59 : met la petite blind. 50
+nanox72100 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 2c]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à nanox72100.
+nanox72100 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : nanox72100 (grosse blind) a remporté (100)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237289372878 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 11/07/2022 7:47:10 CET [11/07/2022 1:47:10 ET]
+Table '3439813861 1' 3-max Siège #1 est au bouton.
+Place 1: nanox72100 (260 en jetons) 
+Place 3: psychoman59 (640 en jetons) 
+nanox72100 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 4h]
+nanox72100 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : nanox72100 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°237289373432 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 11/07/2022 7:47:16 CET [11/07/2022 1:47:16 ET]
+Table '3439813861 1' 3-max Siège #3 est au bouton.
+Place 1: nanox72100 (210 en jetons) 
+Place 3: psychoman59 (690 en jetons) 
+psychoman59 : met la petite blind. 50
+nanox72100 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à nanox72100.
+nanox72100 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : nanox72100 (grosse blind) a remporté (100)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237289374202 : Tournoi #3439813861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 11/07/2022 7:47:24 CET [11/07/2022 1:47:24 ET]
+Table '3439813861 1' 3-max Siège #1 est au bouton.
+Place 1: nanox72100 (260 en jetons) 
+Place 3: psychoman59 (640 en jetons) 
+nanox72100 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 5h]
+nanox72100 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [As 6d 5c]
+psychoman59 : parole 
+nanox72100 : mise. 140 et est all-in.
+psychoman59 : suit. 140
+*** TOURNANT *** [As 6d 5c] [7h]
+*** RIVIÈRE *** [As 6d 5c 7h] [4s]
+*** ABATTAGE ***
+psychoman59 : montre [8c 5h] (une suite, Quatre à Huit)
+nanox72100 : montre [2s 6s] (une paire de Six)
+psychoman59 a remporté 520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [As 6d 5c 7h 4s]
+Siège 1 : nanox72100 (bouton) (petite blind) a montré [2s 6s] et a perdu avec une paire de Six
+Siège 3 : psychoman59 (grosse blind) a montré [8c 5h] et a gagné (520) avec une suite, Quatre à Huit
+
+
+

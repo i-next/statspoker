@@ -1,0 +1,1943 @@
+﻿Main PokerStars n°237636941066 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 28/07/2022 14:02:21 CET [28/07/2022 8:02:21 ET]
+Table '3447904503 1' 4-max Siège #1 est au bouton.
+Place 1: Rubionico55 (5000 en jetons) 
+Place 2: MaximeJAY (5000 en jetons) 
+Place 3: braisinho21 (5000 en jetons) 
+Place 4: psychoman59 (5000 en jetons) 
+Rubionico55 : met l'ante. 10
+MaximeJAY : met l'ante. 10
+braisinho21 : met l'ante. 10
+psychoman59 : met l'ante. 10
+MaximeJAY : met la petite blind. 50
+braisinho21 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 2d]
+psychoman59 : passe. 
+Rubionico55 : suit. 100
+MaximeJAY : suit. 50
+braisinho21 : parole 
+*** FLOP *** [8d 6h 6c]
+MaximeJAY : parole 
+braisinho21 : parole 
+Rubionico55 : mise. 100
+MaximeJAY : relance. 200 à 300
+braisinho21 : passe. 
+Rubionico55 : suit. 200
+*** TOURNANT *** [8d 6h 6c] [9h]
+MaximeJAY : parole 
+Rubionico55 : mise. 940
+MaximeJAY : suit. 940
+*** RIVIÈRE *** [8d 6h 6c 9h] [9d]
+MaximeJAY : mise. 3650 et est all-in.
+Rubionico55 : passe. 
+Personne n'a suivi. (3650) sont retournés à MaximeJAY.
+MaximeJAY a remporté 2820  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2820 | Commission 0 
+Tableau [8d 6h 6c 9h 9d]
+Siège 1 : Rubionico55 (bouton) s'est couché. sur le Rivière
+Siège 2 : MaximeJAY (petite blind) a remporté (2820)
+Siège 3 : braisinho21 (grosse blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237636953626 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 28/07/2022 14:03:27 CET [28/07/2022 8:03:27 ET]
+Table '3447904503 1' 4-max Siège #2 est au bouton.
+Place 1: Rubionico55 (3650 en jetons) 
+Place 2: MaximeJAY (6470 en jetons) 
+Place 3: braisinho21 (4890 en jetons) 
+Place 4: psychoman59 (4990 en jetons) 
+Rubionico55 : met l'ante. 10
+MaximeJAY : met l'ante. 10
+braisinho21 : met l'ante. 10
+psychoman59 : met l'ante. 10
+braisinho21 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Qs]
+Rubionico55 : suit. 100
+MaximeJAY : passe. 
+braisinho21 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [4c Ad Qc]
+braisinho21 : parole 
+psychoman59 : parole 
+Rubionico55 : parole 
+*** TOURNANT *** [4c Ad Qc] [2c]
+braisinho21 : parole 
+psychoman59 : parole 
+Rubionico55 : mise. 100
+braisinho21 : passe. 
+psychoman59 : suit. 100
+*** RIVIÈRE *** [4c Ad Qc 2c] [Qd]
+psychoman59 : parole 
+Rubionico55 : mise. 100
+psychoman59 : suit. 100
+*** ABATTAGE ***
+Rubionico55 : montre [Ac 5c] (une couleur, hauteur As)
+psychoman59 : cache la main perdante. 
+Rubionico55 a remporté 740  lors du pot .
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Tableau [4c Ad Qc 2c Qd]
+Siège 1 : Rubionico55 a montré [Ac 5c] et a gagné (740) avec une couleur, hauteur As
+Siège 2 : MaximeJAY (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : braisinho21 (petite blind) s'est couché. sur le Tournant
+Siège 4 : psychoman59 (grosse blind) a caché la main perdante. [8s Qs]
+
+
+
+Main PokerStars n°237636959935 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 28/07/2022 14:03:59 CET [28/07/2022 8:03:59 ET]
+Table '3447904503 1' 4-max Siège #3 est au bouton.
+Place 1: Rubionico55 (4080 en jetons) 
+Place 2: MaximeJAY (6460 en jetons) 
+Place 3: braisinho21 (4780 en jetons) 
+Place 4: psychoman59 (4680 en jetons) 
+Rubionico55 : met l'ante. 10
+MaximeJAY : met l'ante. 10
+braisinho21 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+Rubionico55 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 4d]
+MaximeJAY : suit. 100
+braisinho21 : passe. 
+psychoman59 : passe. 
+Rubionico55 : parole 
+*** FLOP *** [4h Td 9d]
+Rubionico55 : parole 
+MaximeJAY : parole 
+*** TOURNANT *** [4h Td 9d] [As]
+Rubionico55 : parole 
+MaximeJAY : parole 
+*** RIVIÈRE *** [4h Td 9d As] [Kc]
+Rubionico55 : mise. 100
+MaximeJAY : passe. 
+Personne n'a suivi. (100) sont retournés à Rubionico55.
+Rubionico55 a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Tableau [4h Td 9d As Kc]
+Siège 1 : Rubionico55 (grosse blind) a remporté (290)
+Siège 2 : MaximeJAY s'est couché. sur le Rivière
+Siège 3 : braisinho21 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237636964936 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 28/07/2022 14:04:25 CET [28/07/2022 8:04:25 ET]
+Table '3447904503 1' 4-max Siège #4 est au bouton.
+Place 1: Rubionico55 (4260 en jetons) 
+Place 2: MaximeJAY (6350 en jetons) 
+Place 3: braisinho21 (4770 en jetons) 
+Place 4: psychoman59 (4620 en jetons) 
+Rubionico55 : met l'ante. 10
+MaximeJAY : met l'ante. 10
+braisinho21 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Rubionico55 : met la petite blind. 50
+MaximeJAY : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Kc]
+braisinho21 : suit. 100
+psychoman59 : suit. 100
+Rubionico55 : passe. 
+MaximeJAY : parole 
+*** FLOP *** [6d 7h 9s]
+MaximeJAY : parole 
+braisinho21 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6d 7h 9s] [Ks]
+MaximeJAY : parole 
+braisinho21 : parole 
+psychoman59 : mise. 390
+MaximeJAY : passe. 
+braisinho21 : suit. 390
+*** RIVIÈRE *** [6d 7h 9s Ks] [7c]
+braisinho21 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+braisinho21 : montre [Js Tc] (une paire de Sept)
+psychoman59 : montre [Qh Kc] (double paire, Rois et Sept)
+psychoman59 a remporté 1170  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1170 | Commission 0 
+Tableau [6d 7h 9s Ks 7c]
+Siège 1 : Rubionico55 (petite blind) s'est couché. avant Flop
+Siège 2 : MaximeJAY (grosse blind) s'est couché. sur le Tournant
+Siège 3 : braisinho21 a montré [Js Tc] et a perdu avec une paire de Sept
+Siège 4 : psychoman59 (bouton) a montré [Qh Kc] et a gagné (1170) avec double paire, Rois et Sept
+
+
+
+Main PokerStars n°237636971960 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 28/07/2022 14:05:02 CET [28/07/2022 8:05:02 ET]
+Table '3447904503 1' 4-max Siège #1 est au bouton.
+Place 1: Rubionico55 (4200 en jetons) 
+Place 2: MaximeJAY (6240 en jetons) 
+Place 3: braisinho21 (4270 en jetons) 
+Place 4: psychoman59 (5290 en jetons) 
+Rubionico55 : met l'ante. 10
+MaximeJAY : met l'ante. 10
+braisinho21 : met l'ante. 10
+psychoman59 : met l'ante. 10
+MaximeJAY : met la petite blind. 50
+braisinho21 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 4d]
+psychoman59 : passe. 
+Rubionico55 : passe. 
+MaximeJAY : suit. 50
+braisinho21 : relance. 100 à 200
+MaximeJAY : suit. 100
+*** FLOP *** [Ks 2d 3h]
+MaximeJAY : mise. 200
+braisinho21 : passe. 
+Personne n'a suivi. (200) sont retournés à MaximeJAY.
+MaximeJAY a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [Ks 2d 3h]
+Siège 1 : Rubionico55 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : MaximeJAY (petite blind) a remporté (440)
+Siège 3 : braisinho21 (grosse blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237636976996 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 28/07/2022 14:05:26 CET [28/07/2022 8:05:26 ET]
+Table '3447904503 1' 4-max Siège #2 est au bouton.
+Place 1: Rubionico55 (4190 en jetons) 
+Place 2: MaximeJAY (6470 en jetons) 
+Place 3: braisinho21 (4060 en jetons) 
+Place 4: psychoman59 (5280 en jetons) 
+Rubionico55 : met l'ante. 15
+MaximeJAY : met l'ante. 15
+braisinho21 : met l'ante. 15
+psychoman59 : met l'ante. 15
+braisinho21 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Jc]
+Rubionico55 : passe. 
+MaximeJAY : passe. 
+braisinho21 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [7d 7c 9s]
+braisinho21 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7d 7c 9s] [Ac]
+braisinho21 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7d 7c 9s Ac] [Kd]
+braisinho21 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+braisinho21 : montre [8h 6d] (une paire de Sept)
+psychoman59 : montre [Qd Jc] (une paire de Sept - As+Roi+Dame kicker)
+psychoman59 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [7d 7c 9s Ac Kd]
+Siège 1 : Rubionico55 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : MaximeJAY (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : braisinho21 (petite blind) a montré [8h 6d] et a perdu avec une paire de Sept
+Siège 4 : psychoman59 (grosse blind) a montré [Qd Jc] et a gagné (300) avec une paire de Sept
+
+
+
+Main PokerStars n°237636981474 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 28/07/2022 14:05:49 CET [28/07/2022 8:05:49 ET]
+Table '3447904503 1' 4-max Siège #3 est au bouton.
+Place 1: Rubionico55 (4175 en jetons) 
+Place 2: MaximeJAY (6455 en jetons) 
+Place 3: braisinho21 (3925 en jetons) 
+Place 4: psychoman59 (5445 en jetons) 
+Rubionico55 : met l'ante. 15
+MaximeJAY : met l'ante. 15
+braisinho21 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+Rubionico55 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 2c]
+MaximeJAY : suit. 120
+braisinho21 : suit. 120
+psychoman59 : passe. 
+Rubionico55 : parole 
+*** FLOP *** [7h Ah 9s]
+Rubionico55 : parole 
+MaximeJAY : parole 
+braisinho21 : parole 
+*** TOURNANT *** [7h Ah 9s] [6c]
+Rubionico55 : parole 
+MaximeJAY : parole 
+braisinho21 : mise. 240
+Rubionico55 : passe. 
+MaximeJAY : suit. 240
+*** RIVIÈRE *** [7h Ah 9s 6c] [3c]
+MaximeJAY : mise. 240
+braisinho21 : relance. 480 à 720
+MaximeJAY : suit. 480
+*** ABATTAGE ***
+braisinho21 : montre [9d 7d] (double paire, Neuf et Sept)
+MaximeJAY : cache la main perdante. 
+braisinho21 a remporté 2400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2400 | Commission 0 
+Tableau [7h Ah 9s 6c 3c]
+Siège 1 : Rubionico55 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : MaximeJAY a caché la main perdante. [Qh 9h]
+Siège 3 : braisinho21 (bouton) a montré [9d 7d] et a gagné (2400) avec double paire, Neuf et Sept
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237636988260 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 28/07/2022 14:06:23 CET [28/07/2022 8:06:23 ET]
+Table '3447904503 1' 4-max Siège #4 est au bouton.
+Place 1: Rubionico55 (4040 en jetons) 
+Place 2: MaximeJAY (5360 en jetons) 
+Place 3: braisinho21 (5230 en jetons) 
+Place 4: psychoman59 (5370 en jetons) 
+Rubionico55 : met l'ante. 15
+MaximeJAY : met l'ante. 15
+braisinho21 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Rubionico55 : met la petite blind. 60
+MaximeJAY : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 3d]
+braisinho21 : passe. 
+psychoman59 : passe. 
+Rubionico55 : suit. 60
+MaximeJAY : parole 
+*** FLOP *** [4h 4d 9c]
+Rubionico55 : mise. 120
+MaximeJAY : passe. 
+Personne n'a suivi. (120) sont retournés à Rubionico55.
+Rubionico55 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [4h 4d 9c]
+Siège 1 : Rubionico55 (petite blind) a remporté (300)
+Siège 2 : MaximeJAY (grosse blind) s'est couché. sur le Flop
+Siège 3 : braisinho21 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237636992015 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 28/07/2022 14:06:42 CET [28/07/2022 8:06:42 ET]
+Table '3447904503 1' 4-max Siège #1 est au bouton.
+Place 1: Rubionico55 (4205 en jetons) 
+Place 2: MaximeJAY (5225 en jetons) 
+Place 3: braisinho21 (5215 en jetons) 
+Place 4: psychoman59 (5355 en jetons) 
+Rubionico55 : met l'ante. 15
+MaximeJAY : met l'ante. 15
+braisinho21 : met l'ante. 15
+psychoman59 : met l'ante. 15
+MaximeJAY : met la petite blind. 60
+braisinho21 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Td]
+psychoman59 : relance. 240 à 360
+Rubionico55 : passe. 
+MaximeJAY : passe. 
+braisinho21 : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : Rubionico55 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : MaximeJAY (petite blind) s'est couché. avant Flop
+Siège 3 : braisinho21 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 a remporté (360)
+
+
+
+Main PokerStars n°237636994140 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 28/07/2022 14:06:53 CET [28/07/2022 8:06:53 ET]
+Table '3447904503 1' 4-max Siège #2 est au bouton.
+Place 1: Rubionico55 (4190 en jetons) 
+Place 2: MaximeJAY (5150 en jetons) 
+Place 3: braisinho21 (5080 en jetons) 
+Place 4: psychoman59 (5580 en jetons) 
+Rubionico55 : met l'ante. 15
+MaximeJAY : met l'ante. 15
+braisinho21 : met l'ante. 15
+psychoman59 : met l'ante. 15
+braisinho21 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qs]
+Rubionico55 : suit. 120
+MaximeJAY : suit. 120
+braisinho21 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [7d Kc 2s]
+braisinho21 : parole 
+psychoman59 : parole 
+Rubionico55 : mise. 120
+MaximeJAY : suit. 120
+braisinho21 : passe. 
+psychoman59 : passe. 
+*** TOURNANT *** [7d Kc 2s] [Jd]
+Rubionico55 : parole 
+MaximeJAY : parole 
+*** RIVIÈRE *** [7d Kc 2s Jd] [5h]
+Rubionico55 : mise. 120
+MaximeJAY : relance. 360 à 480
+Rubionico55 : suit. 360
+*** ABATTAGE ***
+MaximeJAY : montre [8c Kh] (une paire de Rois)
+Rubionico55 : montre [9d Kd] (une paire de Rois - Valet+Neuf kicker)
+Rubionico55 a remporté 1740  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1740 | Commission 0 
+Tableau [7d Kc 2s Jd 5h]
+Siège 1 : Rubionico55 a montré [9d Kd] et a gagné (1740) avec une paire de Rois
+Siège 2 : MaximeJAY (bouton) a montré [8c Kh] et a perdu avec une paire de Rois
+Siège 3 : braisinho21 (petite blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237637000785 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 28/07/2022 14:07:26 CET [28/07/2022 8:07:26 ET]
+Table '3447904503 1' 4-max Siège #3 est au bouton.
+Place 1: Rubionico55 (5195 en jetons) 
+Place 2: MaximeJAY (4415 en jetons) 
+Place 3: braisinho21 (4945 en jetons) 
+Place 4: psychoman59 (5445 en jetons) 
+Rubionico55 : met l'ante. 15
+MaximeJAY : met l'ante. 15
+braisinho21 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+Rubionico55 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ah]
+MaximeJAY : suit. 120
+braisinho21 : passe. 
+psychoman59 : suit. 60
+Rubionico55 : parole 
+*** FLOP *** [7c Tc 7s]
+psychoman59 : parole 
+Rubionico55 : mise. 120
+MaximeJAY : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à Rubionico55.
+Rubionico55 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [7c Tc 7s]
+Siège 1 : Rubionico55 (grosse blind) a remporté (420)
+Siège 2 : MaximeJAY s'est couché. sur le Flop
+Siège 3 : braisinho21 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237637005056 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 28/07/2022 14:07:48 CET [28/07/2022 8:07:48 ET]
+Table '3447904503 1' 4-max Siège #4 est au bouton.
+Place 1: Rubionico55 (5480 en jetons) 
+Place 2: MaximeJAY (4280 en jetons) 
+Place 3: braisinho21 (4930 en jetons) 
+Place 4: psychoman59 (5310 en jetons) 
+Rubionico55 : met l'ante. 15
+MaximeJAY : met l'ante. 15
+braisinho21 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Rubionico55 : met la petite blind. 60
+MaximeJAY : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ks]
+braisinho21 : suit. 120
+psychoman59 : suit. 120
+Rubionico55 : passe. 
+MaximeJAY : parole 
+*** FLOP *** [7d 6c 5s]
+MaximeJAY : parole 
+braisinho21 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7d 6c 5s] [6h]
+MaximeJAY : parole 
+braisinho21 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7d 6c 5s 6h] [8s]
+MaximeJAY : mise. 360
+braisinho21 : suit. 360
+psychoman59 : passe. 
+*** ABATTAGE ***
+MaximeJAY : montre [4h Td] (une suite, Quatre à Huit)
+braisinho21 : montre [Jd 9s] (une suite, Cinq à Neuf)
+braisinho21 a remporté 1200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1200 | Commission 0 
+Tableau [7d 6c 5s 6h 8s]
+Siège 1 : Rubionico55 (petite blind) s'est couché. avant Flop
+Siège 2 : MaximeJAY (grosse blind) a montré [4h Td] et a perdu avec une suite, Quatre à Huit
+Siège 3 : braisinho21 a montré [Jd 9s] et a gagné (1200) avec une suite, Cinq à Neuf
+Siège 4 : psychoman59 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237637012687 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 28/07/2022 14:08:26 CET [28/07/2022 8:08:26 ET]
+Table '3447904503 1' 4-max Siège #1 est au bouton.
+Place 1: Rubionico55 (5405 en jetons) 
+Place 2: MaximeJAY (3785 en jetons) 
+Place 3: braisinho21 (5635 en jetons) 
+Place 4: psychoman59 (5175 en jetons) 
+Rubionico55 : met l'ante. 20
+MaximeJAY : met l'ante. 20
+braisinho21 : met l'ante. 20
+psychoman59 : met l'ante. 20
+MaximeJAY : met la petite blind. 75
+braisinho21 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Js]
+psychoman59 : passe. 
+Rubionico55 : passe. 
+MaximeJAY : suit. 75
+braisinho21 : parole 
+*** FLOP *** [Td Jd 9d]
+MaximeJAY : parole 
+braisinho21 : parole 
+*** TOURNANT *** [Td Jd 9d] [9c]
+MaximeJAY : parole 
+braisinho21 : parole 
+*** RIVIÈRE *** [Td Jd 9d 9c] [3c]
+MaximeJAY : mise. 300
+braisinho21 : passe. 
+Personne n'a suivi. (300) sont retournés à MaximeJAY.
+MaximeJAY a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [Td Jd 9d 9c 3c]
+Siège 1 : Rubionico55 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : MaximeJAY (petite blind) a remporté (380)
+Siège 3 : braisinho21 (grosse blind) s'est couché. sur le Rivière
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237637016741 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 28/07/2022 14:08:47 CET [28/07/2022 8:08:47 ET]
+Table '3447904503 1' 4-max Siège #2 est au bouton.
+Place 1: Rubionico55 (5385 en jetons) 
+Place 2: MaximeJAY (3995 en jetons) 
+Place 3: braisinho21 (5465 en jetons) 
+Place 4: psychoman59 (5155 en jetons) 
+Rubionico55 : met l'ante. 20
+MaximeJAY : met l'ante. 20
+braisinho21 : met l'ante. 20
+psychoman59 : met l'ante. 20
+braisinho21 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 6s]
+Rubionico55 : relance. 300 à 450
+MaximeJAY : suit. 450
+braisinho21 : passe. 
+psychoman59 : passe. 
+*** FLOP *** [8h 2c Kh]
+Rubionico55 : parole 
+MaximeJAY : mise. 450
+Rubionico55 : suit. 450
+*** TOURNANT *** [8h 2c Kh] [2s]
+Rubionico55 : parole 
+MaximeJAY : mise. 450
+Rubionico55 : suit. 450
+*** RIVIÈRE *** [8h 2c Kh 2s] [Th]
+Rubionico55 : parole 
+MaximeJAY : mise. 2625 et est all-in.
+Rubionico55 : passe. 
+Personne n'a suivi. (2625) sont retournés à MaximeJAY.
+MaximeJAY a remporté 3005  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3005 | Commission 0 
+Tableau [8h 2c Kh 2s Th]
+Siège 1 : Rubionico55 s'est couché. sur le Rivière
+Siège 2 : MaximeJAY (bouton) a remporté (3005)
+Siège 3 : braisinho21 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237637023946 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 28/07/2022 14:09:23 CET [28/07/2022 8:09:23 ET]
+Table '3447904503 1' 4-max Siège #3 est au bouton.
+Place 1: Rubionico55 (4015 en jetons) 
+Place 2: MaximeJAY (5630 en jetons) 
+Place 3: braisinho21 (5370 en jetons) 
+Place 4: psychoman59 (4985 en jetons) 
+Rubionico55 : met l'ante. 20
+MaximeJAY : met l'ante. 20
+braisinho21 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Rubionico55 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Qs]
+MaximeJAY : passe. 
+braisinho21 : passe. 
+psychoman59 : relance. 300 à 450
+Rubionico55 : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : Rubionico55 (grosse blind) s'est couché. avant Flop
+Siège 2 : MaximeJAY s'est couché. avant Flop (n'a pas misé)
+Siège 3 : braisinho21 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) a remporté (380)
+
+
+
+Main PokerStars n°237637027055 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 28/07/2022 14:09:39 CET [28/07/2022 8:09:39 ET]
+Table '3447904503 1' 4-max Siège #4 est au bouton.
+Place 1: Rubionico55 (3845 en jetons) 
+Place 2: MaximeJAY (5610 en jetons) 
+Place 3: braisinho21 (5350 en jetons) 
+Place 4: psychoman59 (5195 en jetons) 
+Rubionico55 : met l'ante. 20
+MaximeJAY : met l'ante. 20
+braisinho21 : met l'ante. 20
+psychoman59 : met l'ante. 20
+Rubionico55 : met la petite blind. 75
+MaximeJAY : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 7d]
+braisinho21 : passe. 
+psychoman59 : passe. 
+Rubionico55 : suit. 75
+MaximeJAY : parole 
+*** FLOP *** [2d 6h Td]
+Rubionico55 : parole 
+MaximeJAY : mise. 300
+Rubionico55 : passe. 
+Personne n'a suivi. (300) sont retournés à MaximeJAY.
+MaximeJAY a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [2d 6h Td]
+Siège 1 : Rubionico55 (petite blind) s'est couché. sur le Flop
+Siège 2 : MaximeJAY (grosse blind) a remporté (380)
+Siège 3 : braisinho21 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237637030810 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 28/07/2022 14:09:58 CET [28/07/2022 8:09:58 ET]
+Table '3447904503 1' 4-max Siège #1 est au bouton.
+Place 1: Rubionico55 (3675 en jetons) 
+Place 2: MaximeJAY (5820 en jetons) 
+Place 3: braisinho21 (5330 en jetons) 
+Place 4: psychoman59 (5175 en jetons) 
+Rubionico55 : met l'ante. 20
+MaximeJAY : met l'ante. 20
+braisinho21 : met l'ante. 20
+psychoman59 : met l'ante. 20
+MaximeJAY : met la petite blind. 75
+braisinho21 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Qd]
+psychoman59 : passe. 
+Rubionico55 : relance. 300 à 450
+MaximeJAY : passe. 
+braisinho21 : passe. 
+Personne n'a suivi. (300) sont retournés à Rubionico55.
+Rubionico55 a remporté 455  lors du pot .
+*** SYNTHÈSE ***
+Pot total 455 | Commission 0 
+Siège 1 : Rubionico55 (bouton) a remporté (455)
+Siège 2 : MaximeJAY (petite blind) s'est couché. avant Flop
+Siège 3 : braisinho21 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237637033400 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 28/07/2022 14:10:11 CET [28/07/2022 8:10:11 ET]
+Table '3447904503 1' 4-max Siège #2 est au bouton.
+Place 1: Rubionico55 (3960 en jetons) 
+Place 2: MaximeJAY (5725 en jetons) 
+Place 3: braisinho21 (5160 en jetons) 
+Place 4: psychoman59 (5155 en jetons) 
+Rubionico55 : met l'ante. 20
+MaximeJAY : met l'ante. 20
+braisinho21 : met l'ante. 20
+psychoman59 : met l'ante. 20
+braisinho21 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 4h]
+Rubionico55 : relance. 300 à 450
+MaximeJAY : suit. 450
+braisinho21 : passe. 
+psychoman59 : passe. 
+*** FLOP *** [Tc 3d 6c]
+Rubionico55 : mise. 600
+MaximeJAY : passe. 
+Personne n'a suivi. (600) sont retournés à Rubionico55.
+Rubionico55 a remporté 1205  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1205 | Commission 0 
+Tableau [Tc 3d 6c]
+Siège 1 : Rubionico55 a remporté (1205)
+Siège 2 : MaximeJAY (bouton) s'est couché. sur le Flop
+Siège 3 : braisinho21 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237637037278 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 28/07/2022 14:10:30 CET [28/07/2022 8:10:30 ET]
+Table '3447904503 1' 4-max Siège #3 est au bouton.
+Place 1: Rubionico55 (4695 en jetons) 
+Place 2: MaximeJAY (5255 en jetons) 
+Place 3: braisinho21 (5065 en jetons) 
+Place 4: psychoman59 (4985 en jetons) 
+Rubionico55 : met l'ante. 20
+MaximeJAY : met l'ante. 20
+braisinho21 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Rubionico55 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 2h]
+MaximeJAY : passe. 
+braisinho21 : passe. 
+psychoman59 : relance. 300 à 450
+Rubionico55 : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : Rubionico55 (grosse blind) s'est couché. avant Flop
+Siège 2 : MaximeJAY s'est couché. avant Flop (n'a pas misé)
+Siège 3 : braisinho21 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) a remporté (380)
+
+
+
+Main PokerStars n°237637040281 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 28/07/2022 14:10:45 CET [28/07/2022 8:10:45 ET]
+Table '3447904503 1' 4-max Siège #4 est au bouton.
+Place 1: Rubionico55 (4525 en jetons) 
+Place 2: MaximeJAY (5235 en jetons) 
+Place 3: braisinho21 (5045 en jetons) 
+Place 4: psychoman59 (5195 en jetons) 
+Rubionico55 : met l'ante. 20
+MaximeJAY : met l'ante. 20
+braisinho21 : met l'ante. 20
+psychoman59 : met l'ante. 20
+Rubionico55 : met la petite blind. 75
+MaximeJAY : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Js]
+braisinho21 : relance. 300 à 450
+psychoman59 : passe. 
+Rubionico55 : passe. 
+MaximeJAY : suit. 300
+*** FLOP *** [4d 5s 8c]
+MaximeJAY : mise. 527
+braisinho21 : suit. 527
+*** TOURNANT *** [4d 5s 8c] [3c]
+MaximeJAY : mise. 450
+braisinho21 : suit. 450
+*** RIVIÈRE *** [4d 5s 8c 3c] [9s]
+MaximeJAY : mise. 750
+braisinho21 : suit. 750
+*** ABATTAGE ***
+MaximeJAY : montre [Kd Jh] (Hauteur Roi)
+braisinho21 : montre [2d 2c] (une paire de Deux)
+braisinho21 a remporté 4509  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4509 | Commission 0 
+Tableau [4d 5s 8c 3c 9s]
+Siège 1 : Rubionico55 (petite blind) s'est couché. avant Flop
+Siège 2 : MaximeJAY (grosse blind) a montré [Kd Jh] et a perdu avec Hauteur Roi
+Siège 3 : braisinho21 a montré [2d 2c] et a gagné (4509) avec une paire de Deux
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237637046623 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 28/07/2022 14:11:16 CET [28/07/2022 8:11:16 ET]
+Table '3447904503 1' 4-max Siège #1 est au bouton.
+Place 1: Rubionico55 (4430 en jetons) 
+Place 2: MaximeJAY (3038 en jetons) 
+Place 3: braisinho21 (7357 en jetons) 
+Place 4: psychoman59 (5175 en jetons) 
+Rubionico55 : met l'ante. 20
+MaximeJAY : met l'ante. 20
+braisinho21 : met l'ante. 20
+psychoman59 : met l'ante. 20
+MaximeJAY : met la petite blind. 75
+braisinho21 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 4c]
+psychoman59 : suit. 150
+Rubionico55 : passe. 
+MaximeJAY : suit. 75
+braisinho21 : parole 
+*** FLOP *** [3s 4s Jh]
+MaximeJAY : parole 
+braisinho21 : parole 
+psychoman59 : mise. 150
+MaximeJAY : suit. 150
+braisinho21 : suit. 150
+*** TOURNANT *** [3s 4s Jh] [9s]
+MaximeJAY : parole 
+braisinho21 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3s 4s Jh 9s] [2c]
+MaximeJAY : mise. 300
+braisinho21 : passe. 
+psychoman59 : suit. 300
+*** ABATTAGE ***
+MaximeJAY : montre [5s As] (une couleur, hauteur As)
+psychoman59 : cache la main perdante. 
+MaximeJAY a remporté 1580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1580 | Commission 0 
+Tableau [3s 4s Jh 9s 2c]
+Siège 1 : Rubionico55 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : MaximeJAY (petite blind) a montré [5s As] et a gagné (1580) avec une couleur, hauteur As
+Siège 3 : braisinho21 (grosse blind) s'est couché. sur le Rivière
+Siège 4 : psychoman59 a caché la main perdante. [4d 4c]
+
+
+
+Main PokerStars n°237637055390 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 28/07/2022 14:12:00 CET [28/07/2022 8:12:00 ET]
+Table '3447904503 1' 4-max Siège #2 est au bouton.
+Place 1: Rubionico55 (4410 en jetons) 
+Place 2: MaximeJAY (3998 en jetons) 
+Place 3: braisinho21 (7037 en jetons) 
+Place 4: psychoman59 (4555 en jetons) 
+Rubionico55 : met l'ante. 25
+MaximeJAY : met l'ante. 25
+braisinho21 : met l'ante. 25
+psychoman59 : met l'ante. 25
+braisinho21 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Jh]
+Rubionico55 : passe. 
+MaximeJAY : suit. 200
+braisinho21 : passe. 
+psychoman59 : relance. 4330 à 4530 et est all-in.
+MaximeJAY : passe. 
+Personne n'a suivi. (4330) sont retournés à psychoman59.
+psychoman59 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Siège 1 : Rubionico55 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : MaximeJAY (bouton) s'est couché. avant Flop
+Siège 3 : braisinho21 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (600)
+
+
+
+Main PokerStars n°237637064101 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 28/07/2022 14:12:34 CET [28/07/2022 8:12:34 ET]
+Table '3447904503 1' 4-max Siège #3 est au bouton.
+Place 1: Rubionico55 (4385 en jetons) 
+Place 2: MaximeJAY (3773 en jetons) 
+Place 3: braisinho21 (6912 en jetons) 
+Place 4: psychoman59 (4930 en jetons) 
+Rubionico55 : met l'ante. 25
+MaximeJAY : met l'ante. 25
+braisinho21 : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+Rubionico55 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 2d]
+MaximeJAY : passe. 
+braisinho21 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à Rubionico55.
+Rubionico55 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Siège 1 : Rubionico55 (grosse blind) a remporté (300)
+Siège 2 : MaximeJAY s'est couché. avant Flop (n'a pas misé)
+Siège 3 : braisinho21 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237637066571 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 28/07/2022 14:12:46 CET [28/07/2022 8:12:46 ET]
+Table '3447904503 1' 4-max Siège #4 est au bouton.
+Place 1: Rubionico55 (4560 en jetons) 
+Place 2: MaximeJAY (3748 en jetons) 
+Place 3: braisinho21 (6887 en jetons) 
+Place 4: psychoman59 (4805 en jetons) 
+Rubionico55 : met l'ante. 25
+MaximeJAY : met l'ante. 25
+braisinho21 : met l'ante. 25
+psychoman59 : met l'ante. 25
+Rubionico55 : met la petite blind. 100
+MaximeJAY : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 9s]
+braisinho21 : passe. 
+psychoman59 : passe. 
+Rubionico55 : passe. 
+Personne n'a suivi. (100) sont retournés à MaximeJAY.
+MaximeJAY a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Siège 1 : Rubionico55 (petite blind) s'est couché. avant Flop
+Siège 2 : MaximeJAY (grosse blind) a remporté (300)
+Siège 3 : braisinho21 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237637068263 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 28/07/2022 14:12:55 CET [28/07/2022 8:12:55 ET]
+Table '3447904503 1' 4-max Siège #1 est au bouton.
+Place 1: Rubionico55 (4435 en jetons) 
+Place 2: MaximeJAY (3923 en jetons) 
+Place 3: braisinho21 (6862 en jetons) 
+Place 4: psychoman59 (4780 en jetons) 
+Rubionico55 : met l'ante. 25
+MaximeJAY : met l'ante. 25
+braisinho21 : met l'ante. 25
+psychoman59 : met l'ante. 25
+MaximeJAY : met la petite blind. 100
+braisinho21 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Ah]
+psychoman59 : relance. 400 à 600
+Rubionico55 : passe. 
+MaximeJAY : passe. 
+braisinho21 : suit. 400
+*** FLOP *** [4c Ad Kc]
+braisinho21 : parole 
+psychoman59 : mise. 700
+braisinho21 : passe. 
+Personne n'a suivi. (700) sont retournés à psychoman59.
+psychoman59 a remporté 1400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1400 | Commission 0 
+Tableau [4c Ad Kc]
+Siège 1 : Rubionico55 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : MaximeJAY (petite blind) s'est couché. avant Flop
+Siège 3 : braisinho21 (grosse blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 a remporté (1400)
+
+
+
+Main PokerStars n°237637072353 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 28/07/2022 14:13:15 CET [28/07/2022 8:13:15 ET]
+Table '3447904503 1' 4-max Siège #2 est au bouton.
+Place 1: Rubionico55 (4410 en jetons) 
+Place 2: MaximeJAY (3798 en jetons) 
+Place 3: braisinho21 (6237 en jetons) 
+Place 4: psychoman59 (5555 en jetons) 
+Rubionico55 : met l'ante. 25
+MaximeJAY : met l'ante. 25
+braisinho21 : met l'ante. 25
+psychoman59 : met l'ante. 25
+braisinho21 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Ac]
+Rubionico55 : passe. 
+MaximeJAY : passe. 
+braisinho21 : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Siège 1 : Rubionico55 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : MaximeJAY (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : braisinho21 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (300)
+
+
+
+Main PokerStars n°237637074279 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 28/07/2022 14:13:24 CET [28/07/2022 8:13:24 ET]
+Table '3447904503 1' 4-max Siège #3 est au bouton.
+Place 1: Rubionico55 (4385 en jetons) 
+Place 2: MaximeJAY (3773 en jetons) 
+Place 3: braisinho21 (6112 en jetons) 
+Place 4: psychoman59 (5730 en jetons) 
+Rubionico55 : met l'ante. 25
+MaximeJAY : met l'ante. 25
+braisinho21 : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+Rubionico55 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Jc]
+MaximeJAY : passe. 
+braisinho21 : passe. 
+psychoman59 : relance. 400 à 600
+Rubionico55 : relance. 1200 à 1800
+psychoman59 : relance. 3905 à 5705 et est all-in.
+Rubionico55 : suit. 2560 et est all-in.
+Personne n'a suivi. (1345) sont retournés à psychoman59.
+*** FLOP *** [2d 9s Js]
+*** TOURNANT *** [2d 9s Js] [7c]
+*** RIVIÈRE *** [2d 9s Js 7c] [5h]
+*** ABATTAGE ***
+psychoman59 : montre [As Jc] (une paire de Valets)
+Rubionico55 : montre [8s 8d] (une paire de Huit)
+psychoman59 a remporté 8820  lors du pot .
+*** SYNTHÈSE ***
+Pot total 8820 | Commission 0 
+Tableau [2d 9s Js 7c 5h]
+Siège 1 : Rubionico55 (grosse blind) a montré [8s 8d] et a perdu avec une paire de Huit
+Siège 2 : MaximeJAY s'est couché. avant Flop (n'a pas misé)
+Siège 3 : braisinho21 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) a montré [As Jc] et a gagné (8820) avec une paire de Valets
+
+
+
+Main PokerStars n°237637079605 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 28/07/2022 14:13:50 CET [28/07/2022 8:13:50 ET]
+Table '3447904503 1' 4-max Siège #4 est au bouton.
+Place 2: MaximeJAY (3748 en jetons) 
+Place 3: braisinho21 (6087 en jetons) 
+Place 4: psychoman59 (10165 en jetons) 
+MaximeJAY : met l'ante. 25
+braisinho21 : met l'ante. 25
+psychoman59 : met l'ante. 25
+MaximeJAY : met la petite blind. 100
+braisinho21 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 6h]
+psychoman59 : passe. 
+MaximeJAY : relance. 200 à 400
+braisinho21 : suit. 200
+*** FLOP *** [5s Td Ad]
+MaximeJAY : parole 
+braisinho21 : mise. 400
+MaximeJAY : passe. 
+Personne n'a suivi. (400) sont retournés à braisinho21.
+braisinho21 a remporté 875  lors du pot .
+*** SYNTHÈSE ***
+Pot total 875 | Commission 0 
+Tableau [5s Td Ad]
+Siège 2 : MaximeJAY (petite blind) s'est couché. sur le Flop
+Siège 3 : braisinho21 (grosse blind) a remporté (875)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237637083701 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 28/07/2022 14:14:11 CET [28/07/2022 8:14:11 ET]
+Table '3447904503 1' 4-max Siège #2 est au bouton.
+Place 2: MaximeJAY (3323 en jetons) 
+Place 3: braisinho21 (6537 en jetons) 
+Place 4: psychoman59 (10140 en jetons) 
+MaximeJAY : met l'ante. 25
+braisinho21 : met l'ante. 25
+psychoman59 : met l'ante. 25
+braisinho21 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 8d]
+MaximeJAY : passe. 
+braisinho21 : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 275  lors du pot .
+*** SYNTHÈSE ***
+Pot total 275 | Commission 0 
+Siège 2 : MaximeJAY (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : braisinho21 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (275)
+
+
+
+Main PokerStars n°237637085773 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 28/07/2022 14:14:21 CET [28/07/2022 8:14:21 ET]
+Table '3447904503 1' 4-max Siège #3 est au bouton.
+Place 2: MaximeJAY (3298 en jetons) 
+Place 3: braisinho21 (6412 en jetons) 
+Place 4: psychoman59 (10290 en jetons) 
+MaximeJAY : met l'ante. 25
+braisinho21 : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+MaximeJAY : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Ac]
+braisinho21 : suit. 200
+psychoman59 : suit. 100
+MaximeJAY : relance. 3073 à 3273 et est all-in.
+braisinho21 : passe. 
+psychoman59 : suit. 3073
+*** FLOP *** [As 2d 2h]
+*** TOURNANT *** [As 2d 2h] [Ks]
+*** RIVIÈRE *** [As 2d 2h Ks] [5d]
+*** ABATTAGE ***
+psychoman59 : montre [Td Ac] (double paire, As et Deux)
+MaximeJAY : montre [Ah 3d] (double paire, As et Deux)
+psychoman59 a remporté 3411  lors du pot .
+MaximeJAY a remporté 3410  lors du pot .
+*** SYNTHÈSE ***
+Pot total 6821 | Commission 0 
+Tableau [As 2d 2h Ks 5d]
+Siège 2 : MaximeJAY (grosse blind) a montré [Ah 3d] et a gagné (3410) avec double paire, As et Deux
+Siège 3 : braisinho21 (bouton) s'est couché. avant Flop
+Siège 4 : psychoman59 (petite blind) a montré [Td Ac] et a gagné (3411) avec double paire, As et Deux
+
+
+
+Main PokerStars n°237637091397 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 28/07/2022 14:14:50 CET [28/07/2022 8:14:50 ET]
+Table '3447904503 1' 4-max Siège #4 est au bouton.
+Place 2: MaximeJAY (3410 en jetons) 
+Place 3: braisinho21 (6187 en jetons) 
+Place 4: psychoman59 (10403 en jetons) 
+MaximeJAY : met l'ante. 30
+braisinho21 : met l'ante. 30
+psychoman59 : met l'ante. 30
+MaximeJAY : met la petite blind. 125
+braisinho21 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 4s]
+psychoman59 : passe. 
+MaximeJAY : suit. 125
+braisinho21 : parole 
+*** FLOP *** [7h 5h Tc]
+MaximeJAY : mise. 500
+braisinho21 : passe. 
+Personne n'a suivi. (500) sont retournés à MaximeJAY.
+MaximeJAY a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [7h 5h Tc]
+Siège 2 : MaximeJAY (petite blind) a remporté (590)
+Siège 3 : braisinho21 (grosse blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237637094689 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 28/07/2022 14:15:06 CET [28/07/2022 8:15:06 ET]
+Table '3447904503 1' 4-max Siège #2 est au bouton.
+Place 2: MaximeJAY (3720 en jetons) 
+Place 3: braisinho21 (5907 en jetons) 
+Place 4: psychoman59 (10373 en jetons) 
+MaximeJAY : met l'ante. 30
+braisinho21 : met l'ante. 30
+psychoman59 : met l'ante. 30
+braisinho21 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Tc]
+MaximeJAY : relance. 500 à 750
+braisinho21 : suit. 625
+psychoman59 : passe. 
+*** FLOP *** [6h Kd 2s]
+braisinho21 : parole 
+MaximeJAY : mise. 500
+braisinho21 : relance. 4627 à 5127 et est all-in.
+MaximeJAY : suit. 2440 et est all-in.
+Personne n'a suivi. (2187) sont retournés à braisinho21.
+*** TOURNANT *** [6h Kd 2s] [7h]
+*** RIVIÈRE *** [6h Kd 2s 7h] [6d]
+*** ABATTAGE ***
+braisinho21 : montre [Js Ks] (double paire, Rois et Six)
+MaximeJAY : montre [Ad As] (double paire, As et Six)
+MaximeJAY a remporté 7720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 7720 | Commission 0 
+Tableau [6h Kd 2s 7h 6d]
+Siège 2 : MaximeJAY (bouton) a montré [Ad As] et a gagné (7720) avec double paire, As et Six
+Siège 3 : braisinho21 (petite blind) a montré [Js Ks] et a perdu avec double paire, Rois et Six
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237637100624 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 28/07/2022 14:15:36 CET [28/07/2022 8:15:36 ET]
+Table '3447904503 1' 4-max Siège #3 est au bouton.
+Place 2: MaximeJAY (7720 en jetons) 
+Place 3: braisinho21 (2187 en jetons) 
+Place 4: psychoman59 (10093 en jetons) 
+MaximeJAY : met l'ante. 30
+braisinho21 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+MaximeJAY : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 6h]
+braisinho21 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à MaximeJAY.
+MaximeJAY a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 2 : MaximeJAY (grosse blind) a remporté (340)
+Siège 3 : braisinho21 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237637103623 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 28/07/2022 14:15:51 CET [28/07/2022 8:15:51 ET]
+Table '3447904503 1' 4-max Siège #4 est au bouton.
+Place 2: MaximeJAY (7905 en jetons) 
+Place 3: braisinho21 (2157 en jetons) 
+Place 4: psychoman59 (9938 en jetons) 
+MaximeJAY : met l'ante. 30
+braisinho21 : met l'ante. 30
+psychoman59 : met l'ante. 30
+MaximeJAY : met la petite blind. 125
+braisinho21 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 9d]
+psychoman59 : passe. 
+MaximeJAY : relance. 250 à 500
+braisinho21 : suit. 250
+*** FLOP *** [Ad 6h Ks]
+MaximeJAY : mise. 500
+braisinho21 : passe. 
+Personne n'a suivi. (500) sont retournés à MaximeJAY.
+MaximeJAY a remporté 1090  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1090 | Commission 0 
+Tableau [Ad 6h Ks]
+Siège 2 : MaximeJAY (petite blind) a remporté (1090)
+Siège 3 : braisinho21 (grosse blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237637106546 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 28/07/2022 14:16:06 CET [28/07/2022 8:16:06 ET]
+Table '3447904503 1' 4-max Siège #2 est au bouton.
+Place 2: MaximeJAY (8465 en jetons) 
+Place 3: braisinho21 (1627 en jetons) 
+Place 4: psychoman59 (9908 en jetons) 
+MaximeJAY : met l'ante. 30
+braisinho21 : met l'ante. 30
+psychoman59 : met l'ante. 30
+braisinho21 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8c]
+MaximeJAY : passe. 
+braisinho21 : relance. 1347 à 1597 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (1347) sont retournés à braisinho21.
+braisinho21 a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Siège 2 : MaximeJAY (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : braisinho21 (petite blind) a remporté (590)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237637108666 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 28/07/2022 14:16:16 CET [28/07/2022 8:16:16 ET]
+Table '3447904503 1' 4-max Siège #3 est au bouton.
+Place 2: MaximeJAY (8435 en jetons) 
+Place 3: braisinho21 (1937 en jetons) 
+Place 4: psychoman59 (9628 en jetons) 
+MaximeJAY : met l'ante. 30
+braisinho21 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+MaximeJAY : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 4h]
+braisinho21 : relance. 1657 à 1907 et est all-in.
+psychoman59 : suit. 1782
+MaximeJAY : relance. 6498 à 8405 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (6498) sont retournés à MaximeJAY.
+*** FLOP *** [7h Ts 9d]
+*** TOURNANT *** [7h Ts 9d] [4c]
+*** RIVIÈRE *** [7h Ts 9d 4c] [Ks]
+*** ABATTAGE ***
+MaximeJAY : montre [Kh Kc] (un brelan de Rois)
+braisinho21 : montre [As Jh] (Hauteur As)
+MaximeJAY a remporté 5811  lors du pot .
+braisinho21 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 5811 | Commission 0 
+Tableau [7h Ts 9d 4c Ks]
+Siège 2 : MaximeJAY (grosse blind) a montré [Kh Kc] et a gagné (5811) avec un brelan de Rois
+Siège 3 : braisinho21 (bouton) a montré [As Jh] et a perdu avec Hauteur As
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237637113163 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 28/07/2022 14:16:39 CET [28/07/2022 8:16:39 ET]
+Table '3447904503 1' 4-max Siège #2 est au bouton.
+Place 2: MaximeJAY (12309 en jetons) 
+Place 4: psychoman59 (7691 en jetons) 
+MaximeJAY : met l'ante. 30
+psychoman59 : met l'ante. 30
+MaximeJAY : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 7s]
+MaximeJAY : suit. 125
+psychoman59 : parole 
+*** FLOP *** [Ad Th Kh]
+psychoman59 : parole 
+MaximeJAY : parole 
+*** TOURNANT *** [Ad Th Kh] [3s]
+psychoman59 : parole 
+MaximeJAY : parole 
+*** RIVIÈRE *** [Ad Th Kh 3s] [9d]
+psychoman59 : parole 
+MaximeJAY : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5d 7s] (Hauteur As)
+MaximeJAY : montre [9c 2c] (une paire de Neuf)
+MaximeJAY a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Ad Th Kh 3s 9d]
+Siège 2 : MaximeJAY (bouton) (petite blind) a montré [9c 2c] et a gagné (560) avec une paire de Neuf
+Siège 4 : psychoman59 (grosse blind) a montré [5d 7s] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237637118447 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 28/07/2022 14:17:05 CET [28/07/2022 8:17:05 ET]
+Table '3447904503 1' 4-max Siège #4 est au bouton.
+Place 2: MaximeJAY (12589 en jetons) 
+Place 4: psychoman59 (7411 en jetons) 
+MaximeJAY : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+MaximeJAY : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ac]
+psychoman59 : relance. 7131 à 7381 et est all-in.
+MaximeJAY : passe. 
+Personne n'a suivi. (7131) sont retournés à psychoman59.
+psychoman59 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 2 : MaximeJAY (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°237637120927 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 28/07/2022 14:17:17 CET [28/07/2022 8:17:17 ET]
+Table '3447904503 1' 4-max Siège #2 est au bouton.
+Place 2: MaximeJAY (12309 en jetons) 
+Place 4: psychoman59 (7691 en jetons) 
+MaximeJAY : met l'ante. 30
+psychoman59 : met l'ante. 30
+MaximeJAY : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 4d]
+MaximeJAY : suit. 125
+psychoman59 : parole 
+*** FLOP *** [3c 3d Ks]
+psychoman59 : parole 
+MaximeJAY : mise. 500
+psychoman59 : suit. 500
+*** TOURNANT *** [3c 3d Ks] [Ah]
+psychoman59 : parole 
+MaximeJAY : mise. 500
+psychoman59 : suit. 500
+*** RIVIÈRE *** [3c 3d Ks Ah] [4c]
+psychoman59 : parole 
+MaximeJAY : mise. 500
+psychoman59 : suit. 500
+*** ABATTAGE ***
+MaximeJAY : montre [Kc 2h] (double paire, Rois et Trois)
+psychoman59 : montre [Kh 4d] (double paire, Rois et Quatre)
+psychoman59 a remporté 3560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3560 | Commission 0 
+Tableau [3c 3d Ks Ah 4c]
+Siège 2 : MaximeJAY (bouton) (petite blind) a montré [Kc 2h] et a perdu avec double paire, Rois et Trois
+Siège 4 : psychoman59 (grosse blind) a montré [Kh 4d] et a gagné (3560) avec double paire, Rois et Quatre
+
+
+
+Main PokerStars n°237637127582 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 28/07/2022 14:17:50 CET [28/07/2022 8:17:50 ET]
+Table '3447904503 1' 4-max Siège #4 est au bouton.
+Place 2: MaximeJAY (10529 en jetons) 
+Place 4: psychoman59 (9471 en jetons) 
+MaximeJAY : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+MaximeJAY : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Jc]
+psychoman59 : suit. 150
+MaximeJAY : parole 
+*** FLOP *** [7h 9s 8h]
+MaximeJAY : mise. 600
+psychoman59 : suit. 600
+*** TOURNANT *** [7h 9s 8h] [Qs]
+MaximeJAY : parole 
+psychoman59 : mise. 940
+MaximeJAY : suit. 940
+*** RIVIÈRE *** [7h 9s 8h Qs] [Ac]
+MaximeJAY : mise. 900
+psychoman59 : suit. 900
+*** ABATTAGE ***
+MaximeJAY : montre [2h Ah] (une paire de As)
+psychoman59 : cache la main perdante. 
+MaximeJAY a remporté 5560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5560 | Commission 0 
+Tableau [7h 9s 8h Qs Ac]
+Siège 2 : MaximeJAY (grosse blind) a montré [2h Ah] et a gagné (5560) avec une paire de As
+Siège 4 : psychoman59 (bouton) (petite blind) a caché la main perdante. [Qc Jc]
+
+
+
+Main PokerStars n°237637133304 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 28/07/2022 14:18:18 CET [28/07/2022 8:18:18 ET]
+Table '3447904503 1' 4-max Siège #2 est au bouton.
+Place 2: MaximeJAY (13309 en jetons) 
+Place 4: psychoman59 (6691 en jetons) 
+MaximeJAY : met l'ante. 40
+psychoman59 : met l'ante. 40
+MaximeJAY : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 9c]
+MaximeJAY : suit. 150
+psychoman59 : parole 
+*** FLOP *** [6c Th Kd]
+psychoman59 : parole 
+MaximeJAY : mise. 600
+psychoman59 : passe. 
+Personne n'a suivi. (600) sont retournés à MaximeJAY.
+MaximeJAY a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [6c Th Kd]
+Siège 2 : MaximeJAY (bouton) (petite blind) a remporté (680)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237637136160 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 28/07/2022 14:18:32 CET [28/07/2022 8:18:32 ET]
+Table '3447904503 1' 4-max Siège #4 est au bouton.
+Place 2: MaximeJAY (13649 en jetons) 
+Place 4: psychoman59 (6351 en jetons) 
+MaximeJAY : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+MaximeJAY : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Qd]
+psychoman59 : relance. 300 à 600
+MaximeJAY : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 2 : MaximeJAY (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (680)
+
+
+
+Main PokerStars n°237637138039 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 28/07/2022 14:18:42 CET [28/07/2022 8:18:42 ET]
+Table '3447904503 1' 4-max Siège #2 est au bouton.
+Place 2: MaximeJAY (13309 en jetons) 
+Place 4: psychoman59 (6691 en jetons) 
+MaximeJAY : met l'ante. 40
+psychoman59 : met l'ante. 40
+MaximeJAY : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 5d]
+MaximeJAY : suit. 150
+psychoman59 : parole 
+*** FLOP *** [4h 8c Kh]
+psychoman59 : parole 
+MaximeJAY : parole 
+*** TOURNANT *** [4h 8c Kh] [Kc]
+psychoman59 : parole 
+MaximeJAY : parole 
+*** RIVIÈRE *** [4h 8c Kh Kc] [Kd]
+psychoman59 : parole 
+MaximeJAY : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6s 5d] (un brelan de Rois)
+MaximeJAY : montre [5h 7s] (un brelan de Rois - Huit+Sept kicker)
+MaximeJAY a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [4h 8c Kh Kc Kd]
+Siège 2 : MaximeJAY (bouton) (petite blind) a montré [5h 7s] et a gagné (680) avec un brelan de Rois
+Siège 4 : psychoman59 (grosse blind) a montré [6s 5d] et a perdu avec un brelan de Rois
+
+
+
+Main PokerStars n°237637150321 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 28/07/2022 14:19:01 CET [28/07/2022 8:19:01 ET]
+Table '3447904503 1' 4-max Siège #4 est au bouton.
+Place 2: MaximeJAY (13649 en jetons) 
+Place 4: psychoman59 (6351 en jetons) 
+MaximeJAY : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+MaximeJAY : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à MaximeJAY.
+MaximeJAY a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 2 : MaximeJAY (grosse blind) a remporté (380)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237637151811 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 28/07/2022 14:19:08 CET [28/07/2022 8:19:08 ET]
+Table '3447904503 1' 4-max Siège #2 est au bouton.
+Place 2: MaximeJAY (13839 en jetons) 
+Place 4: psychoman59 (6161 en jetons) 
+MaximeJAY : met l'ante. 40
+psychoman59 : met l'ante. 40
+MaximeJAY : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Th]
+MaximeJAY : suit. 150
+psychoman59 : parole 
+*** FLOP *** [8d 5c Td]
+psychoman59 : mise. 300
+MaximeJAY : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [8d 5c Td]
+Siège 2 : MaximeJAY (bouton) (petite blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (680)
+
+
+
+Main PokerStars n°237637154555 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 28/07/2022 14:19:22 CET [28/07/2022 8:19:22 ET]
+Table '3447904503 1' 4-max Siège #4 est au bouton.
+Place 2: MaximeJAY (13499 en jetons) 
+Place 4: psychoman59 (6501 en jetons) 
+MaximeJAY : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+MaximeJAY : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Kc]
+psychoman59 : suit. 150
+MaximeJAY : parole 
+*** FLOP *** [5d Qc Ah]
+MaximeJAY : mise. 600
+psychoman59 : suit. 600
+*** TOURNANT *** [5d Qc Ah] [Qd]
+MaximeJAY : mise. 900
+psychoman59 : suit. 900
+*** RIVIÈRE *** [5d Qc Ah Qd] [Tc]
+MaximeJAY : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+MaximeJAY : montre [Th 3c] (double paire, Dames et Dix)
+psychoman59 : cache la main perdante. 
+MaximeJAY a remporté 3680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3680 | Commission 0 
+Tableau [5d Qc Ah Qd Tc]
+Siège 2 : MaximeJAY (grosse blind) a montré [Th 3c] et a gagné (3680) avec double paire, Dames et Dix
+Siège 4 : psychoman59 (bouton) (petite blind) a caché la main perdante. [5s Kc]
+
+
+
+Main PokerStars n°237637159532 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 28/07/2022 14:19:46 CET [28/07/2022 8:19:46 ET]
+Table '3447904503 1' 4-max Siège #2 est au bouton.
+Place 2: MaximeJAY (15339 en jetons) 
+Place 4: psychoman59 (4661 en jetons) 
+MaximeJAY : met l'ante. 40
+psychoman59 : met l'ante. 40
+MaximeJAY : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 7h]
+MaximeJAY : relance. 300 à 600
+psychoman59 : suit. 300
+*** FLOP *** [7s 4c 5d]
+psychoman59 : mise. 4021 et est all-in.
+MaximeJAY : passe. 
+Personne n'a suivi. (4021) sont retournés à psychoman59.
+psychoman59 a remporté 1280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1280 | Commission 0 
+Tableau [7s 4c 5d]
+Siège 2 : MaximeJAY (bouton) (petite blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (1280)
+
+
+
+Main PokerStars n°237637163642 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 28/07/2022 14:20:06 CET [28/07/2022 8:20:06 ET]
+Table '3447904503 1' 4-max Siège #4 est au bouton.
+Place 2: MaximeJAY (14699 en jetons) 
+Place 4: psychoman59 (5301 en jetons) 
+MaximeJAY : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+MaximeJAY : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 4s]
+psychoman59 : suit. 150
+MaximeJAY : relance. 600 à 900
+psychoman59 : suit. 600
+*** FLOP *** [3d 6h Tc]
+MaximeJAY : mise. 600
+psychoman59 : passe. 
+Personne n'a suivi. (600) sont retournés à MaximeJAY.
+MaximeJAY a remporté 1880  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1880 | Commission 0 
+Tableau [3d 6h Tc]
+Siège 2 : MaximeJAY (grosse blind) a remporté (1880)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237637167001 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 28/07/2022 14:20:23 CET [28/07/2022 8:20:23 ET]
+Table '3447904503 1' 4-max Siège #2 est au bouton.
+Place 2: MaximeJAY (15639 en jetons) 
+Place 4: psychoman59 (4361 en jetons) 
+MaximeJAY : met l'ante. 40
+psychoman59 : met l'ante. 40
+MaximeJAY : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 9h]
+MaximeJAY : suit. 150
+psychoman59 : parole 
+*** FLOP *** [Ks 6s 5s]
+psychoman59 : parole 
+MaximeJAY : parole 
+*** TOURNANT *** [Ks 6s 5s] [Qs]
+psychoman59 : parole 
+MaximeJAY : parole 
+*** RIVIÈRE *** [Ks 6s 5s Qs] [Kc]
+psychoman59 : parole 
+MaximeJAY : mise. 600
+psychoman59 : passe. 
+Personne n'a suivi. (600) sont retournés à MaximeJAY.
+MaximeJAY a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [Ks 6s 5s Qs Kc]
+Siège 2 : MaximeJAY (bouton) (petite blind) a remporté (680)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237637172313 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 28/07/2022 14:20:48 CET [28/07/2022 8:20:48 ET]
+Table '3447904503 1' 4-max Siège #4 est au bouton.
+Place 2: MaximeJAY (15979 en jetons) 
+Place 4: psychoman59 (4021 en jetons) 
+MaximeJAY : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+MaximeJAY : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Qh]
+psychoman59 : relance. 3571 à 3971 et est all-in.
+MaximeJAY : suit. 3571
+*** FLOP *** [4h 6c 2c]
+*** TOURNANT *** [4h 6c 2c] [Qc]
+*** RIVIÈRE *** [4h 6c 2c Qc] [Qs]
+*** ABATTAGE ***
+MaximeJAY : montre [4d Ac] (double paire, Dames et Quatre)
+psychoman59 : montre [6d Qh] (un full, full aux Dames par les Six)
+psychoman59 a remporté 8042  lors du pot .
+*** SYNTHÈSE ***
+Pot total 8042 | Commission 0 
+Tableau [4h 6c 2c Qc Qs]
+Siège 2 : MaximeJAY (grosse blind) a montré [4d Ac] et a perdu avec double paire, Dames et Quatre
+Siège 4 : psychoman59 (bouton) (petite blind) a montré [6d Qh] et a gagné (8042) avec un full, full aux Dames par les Six
+
+
+
+Main PokerStars n°237637175695 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 28/07/2022 14:21:04 CET [28/07/2022 8:21:04 ET]
+Table '3447904503 1' 4-max Siège #2 est au bouton.
+Place 2: MaximeJAY (11958 en jetons) 
+Place 4: psychoman59 (8042 en jetons) 
+MaximeJAY : met l'ante. 50
+psychoman59 : met l'ante. 50
+MaximeJAY : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 8h]
+MaximeJAY : relance. 800 à 1200
+psychoman59 : passe. 
+Personne n'a suivi. (800) sont retournés à MaximeJAY.
+MaximeJAY a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 2 : MaximeJAY (bouton) (petite blind) a remporté (900)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237637177881 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 28/07/2022 14:21:14 CET [28/07/2022 8:21:14 ET]
+Table '3447904503 1' 4-max Siège #4 est au bouton.
+Place 2: MaximeJAY (12408 en jetons) 
+Place 4: psychoman59 (7592 en jetons) 
+MaximeJAY : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+MaximeJAY : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Ac]
+psychoman59 : relance. 7142 à 7542 et est all-in.
+MaximeJAY : passe. 
+Personne n'a suivi. (7142) sont retournés à psychoman59.
+psychoman59 a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 2 : MaximeJAY (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (900)
+
+
+
+Main PokerStars n°237637180013 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 28/07/2022 14:21:24 CET [28/07/2022 8:21:24 ET]
+Table '3447904503 1' 4-max Siège #2 est au bouton.
+Place 2: MaximeJAY (11958 en jetons) 
+Place 4: psychoman59 (8042 en jetons) 
+MaximeJAY : met l'ante. 50
+psychoman59 : met l'ante. 50
+MaximeJAY : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Ac]
+MaximeJAY : suit. 200
+psychoman59 : relance. 900 à 1300
+MaximeJAY : relance. 10608 à 11908 et est all-in.
+psychoman59 : suit. 6692 et est all-in.
+Personne n'a suivi. (3916) sont retournés à MaximeJAY.
+*** FLOP *** [4c 5s 6s]
+*** TOURNANT *** [4c 5s 6s] [6d]
+*** RIVIÈRE *** [4c 5s 6s 6d] [4s]
+*** ABATTAGE ***
+psychoman59 : montre [Js Ac] (double paire, Six et Quatre)
+MaximeJAY : montre [Ts Kc] (double paire, Six et Quatre - plus basse kicker)
+psychoman59 a remporté 16084  lors du pot .
+*** SYNTHÈSE ***
+Pot total 16084 | Commission 0 
+Tableau [4c 5s 6s 6d 4s]
+Siège 2 : MaximeJAY (bouton) (petite blind) a montré [Ts Kc] et a perdu avec double paire, Six et Quatre
+Siège 4 : psychoman59 (grosse blind) a montré [Js Ac] et a gagné (16084) avec double paire, Six et Quatre
+
+
+
+Main PokerStars n°237637184628 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 28/07/2022 14:21:46 CET [28/07/2022 8:21:46 ET]
+Table '3447904503 1' 4-max Siège #4 est au bouton.
+Place 2: MaximeJAY (3916 en jetons) 
+Place 4: psychoman59 (16084 en jetons) 
+MaximeJAY : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+MaximeJAY : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à MaximeJAY.
+MaximeJAY a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 2 : MaximeJAY (grosse blind) a remporté (500)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237637186146 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 28/07/2022 14:21:53 CET [28/07/2022 8:21:53 ET]
+Table '3447904503 1' 4-max Siège #2 est au bouton.
+Place 2: MaximeJAY (4166 en jetons) 
+Place 4: psychoman59 (15834 en jetons) 
+MaximeJAY : met l'ante. 50
+psychoman59 : met l'ante. 50
+MaximeJAY : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7h]
+MaximeJAY : relance. 3716 à 4116 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (3716) sont retournés à MaximeJAY.
+MaximeJAY a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 2 : MaximeJAY (bouton) (petite blind) a remporté (900)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237637188295 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 28/07/2022 14:22:03 CET [28/07/2022 8:22:03 ET]
+Table '3447904503 1' 4-max Siège #4 est au bouton.
+Place 2: MaximeJAY (4616 en jetons) 
+Place 4: psychoman59 (15384 en jetons) 
+MaximeJAY : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+MaximeJAY : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 4c]
+psychoman59 : relance. 900 à 1300
+MaximeJAY : relance. 3266 à 4566 et est all-in.
+psychoman59 : suit. 3266
+*** FLOP *** [Jc 3s 7c]
+*** TOURNANT *** [Jc 3s 7c] [5c]
+*** RIVIÈRE *** [Jc 3s 7c 5c] [Jd]
+*** ABATTAGE ***
+MaximeJAY : montre [Ad 8h] (une paire de Valets)
+psychoman59 : montre [As 4c] (une paire de Valets - plus basse kicker)
+MaximeJAY a remporté 9232  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9232 | Commission 0 
+Tableau [Jc 3s 7c 5c Jd]
+Siège 2 : MaximeJAY (grosse blind) a montré [Ad 8h] et a gagné (9232) avec une paire de Valets
+Siège 4 : psychoman59 (bouton) (petite blind) a montré [As 4c] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°237637192033 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 28/07/2022 14:22:21 CET [28/07/2022 8:22:21 ET]
+Table '3447904503 1' 4-max Siège #2 est au bouton.
+Place 2: MaximeJAY (9232 en jetons) 
+Place 4: psychoman59 (10768 en jetons) 
+MaximeJAY : met l'ante. 50
+psychoman59 : met l'ante. 50
+MaximeJAY : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 6h]
+MaximeJAY : suit. 200
+psychoman59 : relance. 10318 à 10718 et est all-in.
+MaximeJAY : passe. 
+Personne n'a suivi. (10318) sont retournés à psychoman59.
+psychoman59 a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 2 : MaximeJAY (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (900)
+
+
+
+Main PokerStars n°237637194300 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 28/07/2022 14:22:32 CET [28/07/2022 8:22:32 ET]
+Table '3447904503 1' 4-max Siège #4 est au bouton.
+Place 2: MaximeJAY (8782 en jetons) 
+Place 4: psychoman59 (11218 en jetons) 
+MaximeJAY : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+MaximeJAY : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à MaximeJAY.
+MaximeJAY a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 2 : MaximeJAY (grosse blind) a remporté (500)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237637195853 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 28/07/2022 14:22:39 CET [28/07/2022 8:22:39 ET]
+Table '3447904503 1' 4-max Siège #2 est au bouton.
+Place 2: MaximeJAY (9032 en jetons) 
+Place 4: psychoman59 (10968 en jetons) 
+MaximeJAY : met l'ante. 50
+psychoman59 : met l'ante. 50
+MaximeJAY : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Ts]
+MaximeJAY : suit. 200
+psychoman59 : relance. 10518 à 10918 et est all-in.
+MaximeJAY : passe. 
+Personne n'a suivi. (10518) sont retournés à psychoman59.
+psychoman59 a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 2 : MaximeJAY (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (900)
+
+
+
+Main PokerStars n°237637199061 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 28/07/2022 14:22:54 CET [28/07/2022 8:22:54 ET]
+Table '3447904503 1' 4-max Siège #4 est au bouton.
+Place 2: MaximeJAY (8582 en jetons) 
+Place 4: psychoman59 (11418 en jetons) 
+MaximeJAY : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+MaximeJAY : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Tc]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à MaximeJAY.
+MaximeJAY a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 2 : MaximeJAY (grosse blind) a remporté (500)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237637200749 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 28/07/2022 14:23:03 CET [28/07/2022 8:23:03 ET]
+Table '3447904503 1' 4-max Siège #2 est au bouton.
+Place 2: MaximeJAY (8832 en jetons) 
+Place 4: psychoman59 (11168 en jetons) 
+MaximeJAY : met l'ante. 50
+psychoman59 : met l'ante. 50
+MaximeJAY : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 9c]
+MaximeJAY : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 2 : MaximeJAY (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (500)
+
+
+
+Main PokerStars n°237637202457 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 28/07/2022 14:23:11 CET [28/07/2022 8:23:11 ET]
+Table '3447904503 1' 4-max Siège #4 est au bouton.
+Place 2: MaximeJAY (8582 en jetons) 
+Place 4: psychoman59 (11418 en jetons) 
+MaximeJAY : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+MaximeJAY : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Qc]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à MaximeJAY.
+MaximeJAY a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 2 : MaximeJAY (grosse blind) a remporté (500)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237637204031 : Tournoi #3447904503, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 28/07/2022 14:23:18 CET [28/07/2022 8:23:18 ET]
+Table '3447904503 1' 4-max Siège #2 est au bouton.
+Place 2: MaximeJAY (8832 en jetons) 
+Place 4: psychoman59 (11168 en jetons) 
+MaximeJAY : met l'ante. 50
+psychoman59 : met l'ante. 50
+MaximeJAY : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Tc]
+MaximeJAY : suit. 200
+psychoman59 : relance. 900 à 1300
+MaximeJAY : suit. 900
+*** FLOP *** [Kc Jh 7h]
+psychoman59 : mise. 9818 et est all-in.
+MaximeJAY : suit. 7482 et est all-in.
+Personne n'a suivi. (2336) sont retournés à psychoman59.
+*** TOURNANT *** [Kc Jh 7h] [8h]
+*** RIVIÈRE *** [Kc Jh 7h 8h] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [Qc Tc] (une suite, Neuf à Roi)
+MaximeJAY : montre [Kd 9d] (double paire, Rois et Neuf)
+psychoman59 a remporté 17664  lors du pot .
+*** SYNTHÈSE ***
+Pot total 17664 | Commission 0 
+Tableau [Kc Jh 7h 8h 9c]
+Siège 2 : MaximeJAY (bouton) (petite blind) a montré [Kd 9d] et a perdu avec double paire, Rois et Neuf
+Siège 4 : psychoman59 (grosse blind) a montré [Qc Tc] et a gagné (17664) avec une suite, Neuf à Roi
+
+
+

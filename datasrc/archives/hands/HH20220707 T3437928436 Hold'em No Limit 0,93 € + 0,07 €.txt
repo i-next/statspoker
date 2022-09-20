@@ -1,0 +1,75 @@
+﻿Main PokerStars n°237208971213 : Tournoi #3437928436, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2022 7:35:27 CET [07/07/2022 1:35:27 ET]
+Table '3437928436 1' 3-max Siège #1 est au bouton.
+Place 1: YouFrench2 (300 en jetons) 
+Place 2: Stellinda76 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Stellinda76 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 4c]
+YouFrench2 : suit. 20
+Stellinda76 : relance. 40 à 60
+psychoman59 : passe. 
+YouFrench2 : suit. 40
+*** FLOP *** [2d 8d As]
+Stellinda76 : mise. 240 et est all-in.
+YouFrench2 : suit. 240 et est all-in.
+*** TOURNANT *** [2d 8d As] [5d]
+*** RIVIÈRE *** [2d 8d As 5d] [6s]
+*** ABATTAGE ***
+Stellinda76 : montre [5s Kh] (une paire de Cinq)
+YouFrench2 : montre [8h 7h] (une paire de Huit)
+YouFrench2 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [2d 8d As 5d 6s]
+Siège 1 : YouFrench2 (bouton) a montré [8h 7h] et a gagné (620) avec une paire de Huit
+Siège 2 : Stellinda76 (petite blind) a montré [5s Kh] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237208976106 : Tournoi #3437928436, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2022 7:36:12 CET [07/07/2022 1:36:12 ET]
+Table '3437928436 1' 3-max Siège #3 est au bouton.
+Place 1: YouFrench2 (620 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+YouFrench2 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Td]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à YouFrench2.
+YouFrench2 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : YouFrench2 (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237208976931 : Tournoi #3437928436, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2022 7:36:20 CET [07/07/2022 1:36:20 ET]
+Table '3437928436 1' 3-max Siège #1 est au bouton.
+Place 1: YouFrench2 (630 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+YouFrench2 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Jc]
+YouFrench2 : suit. 10
+psychoman59 : relance. 250 à 270 et est all-in.
+YouFrench2 : suit. 250
+*** FLOP *** [8d 8h Qs]
+*** TOURNANT *** [8d 8h Qs] [9d]
+*** RIVIÈRE *** [8d 8h Qs 9d] [7c]
+*** ABATTAGE ***
+psychoman59 : montre [Ac Jc] (une paire de Huit)
+YouFrench2 : montre [Ah 9h] (double paire, Neuf et Huit)
+YouFrench2 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [8d 8h Qs 9d 7c]
+Siège 1 : YouFrench2 (bouton) (petite blind) a montré [Ah 9h] et a gagné (540) avec double paire, Neuf et Huit
+Siège 3 : psychoman59 (grosse blind) a montré [Ac Jc] et a perdu avec une paire de Huit
+
+
+

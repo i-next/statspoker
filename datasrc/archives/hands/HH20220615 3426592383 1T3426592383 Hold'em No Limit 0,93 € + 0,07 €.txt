@@ -1,0 +1,255 @@
+﻿Main PokerStars n°236773260709 : Tournoi #3426592383, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2022 16:51:38 CET [15/06/2022 10:51:38 ET]
+Table '3426592383 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: jeycancoon (300 en jetons) 
+Place 3: xhamster2156 (300 en jetons) 
+jeycancoon : met la petite blind. 10
+xhamster2156 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 5d]
+psychoman59 : relance. 50 à 70
+jeycancoon : passe. 
+xhamster2156 : suit. 50
+*** FLOP *** [5c 7h 6s]
+xhamster2156 : parole 
+psychoman59 : mise. 150
+xhamster2156 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [5c 7h 6s]
+Siège 1 : psychoman59 (bouton) a remporté (150)
+Siège 2 : jeycancoon (petite blind) s'est couché. avant Flop
+Siège 3 : xhamster2156 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°236773267297 : Tournoi #3426592383, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2022 16:52:08 CET [15/06/2022 10:52:08 ET]
+Table '3426592383 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 2: jeycancoon (290 en jetons) 
+Place 3: xhamster2156 (230 en jetons) 
+xhamster2156 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 6d]
+jeycancoon : suit. 20
+xhamster2156 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Tc 4h 4c]
+xhamster2156 : parole 
+psychoman59 : parole 
+jeycancoon : parole 
+*** TOURNANT *** [Tc 4h 4c] [5c]
+xhamster2156 : parole 
+psychoman59 : parole 
+jeycancoon : mise. 20
+xhamster2156 : suit. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Tc 4h 4c 5c] [2d]
+xhamster2156 : parole 
+psychoman59 : parole 
+jeycancoon : parole 
+*** ABATTAGE ***
+xhamster2156 : montre [Kc 7s] (une paire de Quatre)
+psychoman59 : cache la main perdante. 
+jeycancoon : cache la main perdante. 
+xhamster2156 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Tc 4h 4c 5c 2d]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [8c 6d]
+Siège 2 : jeycancoon (bouton) a caché la main perdante. [Qc 8s]
+Siège 3 : xhamster2156 (petite blind) a montré [Kc 7s] et a gagné (120) avec une paire de Quatre
+
+
+
+Main PokerStars n°236773278979 : Tournoi #3426592383, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2022 16:52:57 CET [15/06/2022 10:52:57 ET]
+Table '3426592383 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: jeycancoon (250 en jetons) 
+Place 3: xhamster2156 (310 en jetons) 
+psychoman59 : met la petite blind. 15
+jeycancoon : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 3s]
+xhamster2156 : suit. 30
+psychoman59 : passe. 
+jeycancoon : relance. 220 à 250 et est all-in.
+xhamster2156 : passe. 
+Personne n'a suivi. (220) sont retournés à jeycancoon.
+jeycancoon a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : jeycancoon (grosse blind) a remporté (75)
+Siège 3 : xhamster2156 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773281809 : Tournoi #3426592383, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2022 16:53:09 CET [15/06/2022 10:53:09 ET]
+Table '3426592383 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (325 en jetons) 
+Place 2: jeycancoon (295 en jetons) 
+Place 3: xhamster2156 (280 en jetons) 
+jeycancoon : met la petite blind. 15
+xhamster2156 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 5s]
+psychoman59 : passe. 
+jeycancoon : suit. 15
+xhamster2156 : parole 
+*** FLOP *** [Ac 8s Qs]
+jeycancoon : parole 
+xhamster2156 : parole 
+*** TOURNANT *** [Ac 8s Qs] [5h]
+jeycancoon : parole 
+xhamster2156 : parole 
+*** RIVIÈRE *** [Ac 8s Qs 5h] [Th]
+jeycancoon : parole 
+xhamster2156 : parole 
+*** ABATTAGE ***
+jeycancoon : montre [Ts 8c] (double paire, Dix et Huit)
+xhamster2156 : cache la main perdante. 
+jeycancoon a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ac 8s Qs 5h Th]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jeycancoon (petite blind) a montré [Ts 8c] et a gagné (60) avec double paire, Dix et Huit
+Siège 3 : xhamster2156 (grosse blind) a caché la main perdante. [4c 9d]
+
+
+
+Main PokerStars n°236773290595 : Tournoi #3426592383, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 16:53:46 CET [15/06/2022 10:53:46 ET]
+Table '3426592383 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (325 en jetons) 
+Place 2: jeycancoon (325 en jetons) 
+Place 3: xhamster2156 (250 en jetons) 
+xhamster2156 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 3h]
+jeycancoon : passe. 
+xhamster2156 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : jeycancoon (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : xhamster2156 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773292152 : Tournoi #3426592383, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 16:53:52 CET [15/06/2022 10:53:52 ET]
+Table '3426592383 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (345 en jetons) 
+Place 2: jeycancoon (325 en jetons) 
+Place 3: xhamster2156 (230 en jetons) 
+psychoman59 : met la petite blind. 20
+jeycancoon : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 2d]
+xhamster2156 : suit. 40
+psychoman59 : passe. 
+jeycancoon : parole 
+*** FLOP *** [2s 9d 9h]
+jeycancoon : parole 
+xhamster2156 : parole 
+*** TOURNANT *** [2s 9d 9h] [Js]
+jeycancoon : parole 
+xhamster2156 : mise. 40
+jeycancoon : passe. 
+Personne n'a suivi. (40) sont retournés à xhamster2156.
+xhamster2156 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [2s 9d 9h Js]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : jeycancoon (grosse blind) s'est couché. sur le Tournant
+Siège 3 : xhamster2156 (bouton) a remporté (100)
+
+
+
+Main PokerStars n°236773298193 : Tournoi #3426592383, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 16:54:18 CET [15/06/2022 10:54:18 ET]
+Table '3426592383 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (325 en jetons) 
+Place 2: jeycancoon (285 en jetons) 
+Place 3: xhamster2156 (290 en jetons) 
+jeycancoon : met la petite blind. 20
+xhamster2156 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 3h]
+psychoman59 : passe. 
+jeycancoon : relance. 245 à 285 et est all-in.
+xhamster2156 : passe. 
+Personne n'a suivi. (245) sont retournés à jeycancoon.
+jeycancoon a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jeycancoon (petite blind) a remporté (80)
+Siège 3 : xhamster2156 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773300347 : Tournoi #3426592383, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 16:54:27 CET [15/06/2022 10:54:27 ET]
+Table '3426592383 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (325 en jetons) 
+Place 2: jeycancoon (325 en jetons) 
+Place 3: xhamster2156 (250 en jetons) 
+xhamster2156 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Ac]
+jeycancoon : relance. 40 à 80
+xhamster2156 : passe. 
+psychoman59 : relance. 245 à 325 et est all-in.
+jeycancoon : suit. 245 et est all-in.
+*** FLOP *** [4c 5h 3h]
+*** TOURNANT *** [4c 5h 3h] [Kd]
+*** RIVIÈRE *** [4c 5h 3h Kd] [9s]
+*** ABATTAGE ***
+psychoman59 : montre [Js Ac] (Hauteur As)
+jeycancoon : montre [Qh Jh] (Hauteur Roi)
+psychoman59 a remporté 670  lors du pot .
+*** SYNTHÈSE ***
+Pot total 670 | Commission 0 
+Tableau [4c 5h 3h Kd 9s]
+Siège 1 : psychoman59 (grosse blind) a montré [Js Ac] et a gagné (670) avec Hauteur As
+Siège 2 : jeycancoon (bouton) a montré [Qh Jh] et a perdu avec Hauteur Roi
+Siège 3 : xhamster2156 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773307276 : Tournoi #3426592383, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 16:54:55 CET [15/06/2022 10:54:55 ET]
+Table '3426592383 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (670 en jetons) 
+Place 3: xhamster2156 (230 en jetons) 
+psychoman59 : met la petite blind. 30
+xhamster2156 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Jd]
+psychoman59 : relance. 60 à 120
+xhamster2156 : suit. 60
+*** FLOP *** [6d Kc Jh]
+xhamster2156 : mise. 60
+psychoman59 : relance. 60 à 120
+xhamster2156 : suit. 50 et est all-in.
+Personne n'a suivi. (10) sont retournés à psychoman59.
+*** TOURNANT *** [6d Kc Jh] [9s]
+*** RIVIÈRE *** [6d Kc Jh 9s] [Td]
+*** ABATTAGE ***
+xhamster2156 : montre [Js 9c] (double paire, Valets et Neuf)
+psychoman59 : montre [Tc Jd] (double paire, Valets et Dix)
+psychoman59 a remporté 460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [6d Kc Jh 9s Td]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Tc Jd] et a gagné (460) avec double paire, Valets et Dix
+Siège 3 : xhamster2156 (grosse blind) a montré [Js 9c] et a perdu avec double paire, Valets et Neuf
+
+
+

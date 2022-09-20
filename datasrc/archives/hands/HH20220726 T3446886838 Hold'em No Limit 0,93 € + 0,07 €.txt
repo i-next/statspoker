@@ -1,0 +1,557 @@
+﻿Main PokerStars n°237594163507 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 11:32:39 CET [26/07/2022 5:32:39 ET]
+Table '3446886838 1' 3-max Siège #1 est au bouton.
+Place 1: Ticad85 (300 en jetons) 
+Place 2: MagicThot422 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+MagicThot422 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Kc]
+Ticad85 : suit. 20
+MagicThot422 : passe. 
+psychoman59 : parole 
+*** FLOP *** [5c 2h 3h]
+psychoman59 : parole 
+Ticad85 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [5c 2h 3h] [2s]
+psychoman59 : parole 
+Ticad85 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [5c 2h 3h 2s] [Tc]
+psychoman59 : parole 
+Ticad85 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Ticad85.
+Ticad85 a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [5c 2h 3h 2s Tc]
+Siège 1 : Ticad85 (bouton) a remporté (130)
+Siège 2 : MagicThot422 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237594168180 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 11:33:09 CET [26/07/2022 5:33:09 ET]
+Table '3446886838 1' 3-max Siège #2 est au bouton.
+Place 1: Ticad85 (370 en jetons) 
+Place 2: MagicThot422 (290 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+psychoman59 : met la petite blind. 10
+Ticad85 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Qs]
+MagicThot422 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Ticad85.
+Ticad85 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Ticad85 (grosse blind) a remporté (20)
+Siège 2 : MagicThot422 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237594169960 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 11:33:21 CET [26/07/2022 5:33:21 ET]
+Table '3446886838 1' 3-max Siège #3 est au bouton.
+Place 1: Ticad85 (380 en jetons) 
+Place 2: MagicThot422 (290 en jetons) 
+Place 3: psychoman59 (230 en jetons) 
+Ticad85 : met la petite blind. 10
+MagicThot422 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Kc]
+psychoman59 : suit. 20
+Ticad85 : suit. 10
+MagicThot422 : parole 
+*** FLOP *** [4s As 5d]
+Ticad85 : parole 
+MagicThot422 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4s As 5d] [3s]
+Ticad85 : mise. 60
+MagicThot422 : relance. 210 à 270 et est all-in.
+psychoman59 : passe. 
+Ticad85 : suit. 210
+*** RIVIÈRE *** [4s As 5d 3s] [7c]
+*** ABATTAGE ***
+Ticad85 : montre [7h 6d] (une suite, Trois à Sept)
+MagicThot422 : montre [Js 7s] (une couleur, hauteur As)
+MagicThot422 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [4s As 5d 3s 7c]
+Siège 1 : Ticad85 (petite blind) a montré [7h 6d] et a perdu avec une suite, Trois à Sept
+Siège 2 : MagicThot422 (grosse blind) a montré [Js 7s] et a gagné (600) avec une couleur, hauteur As
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237594175340 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/07/2022 11:33:57 CET [26/07/2022 5:33:57 ET]
+Table '3446886838 1' 3-max Siège #1 est au bouton.
+Place 1: Ticad85 (90 en jetons) 
+Place 2: MagicThot422 (600 en jetons) 
+Place 3: psychoman59 (210 en jetons) 
+MagicThot422 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 9h]
+Ticad85 : relance. 60 à 90 et est all-in.
+MagicThot422 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Ticad85.
+Ticad85 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : Ticad85 (bouton) a remporté (75)
+Siège 2 : MagicThot422 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237594176638 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/07/2022 11:34:05 CET [26/07/2022 5:34:05 ET]
+Table '3446886838 1' 3-max Siège #2 est au bouton.
+Place 1: Ticad85 (135 en jetons) 
+Place 2: MagicThot422 (585 en jetons) 
+Place 3: psychoman59 (180 en jetons) 
+psychoman59 : met la petite blind. 15
+Ticad85 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Td]
+MagicThot422 : relance. 390 à 420
+psychoman59 : passe. 
+Ticad85 : suit. 105 et est all-in.
+Personne n'a suivi. (285) sont retournés à MagicThot422.
+*** FLOP *** [3s Qh 6h]
+*** TOURNANT *** [3s Qh 6h] [8d]
+*** RIVIÈRE *** [3s Qh 6h 8d] [4s]
+*** ABATTAGE ***
+Ticad85 : montre [Jh 7s] (Hauteur Dame)
+MagicThot422 : montre [As Ks] (Hauteur As)
+MagicThot422 a remporté 285  lors du pot .
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Tableau [3s Qh 6h 8d 4s]
+Siège 1 : Ticad85 (grosse blind) a montré [Jh 7s] et a perdu avec Hauteur Dame
+Siège 2 : MagicThot422 (bouton) a montré [As Ks] et a gagné (285) avec Hauteur As
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237594179009 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/07/2022 11:34:21 CET [26/07/2022 5:34:21 ET]
+Table '3446886838 1' 3-max Siège #3 est au bouton.
+Place 2: MagicThot422 (735 en jetons) 
+Place 3: psychoman59 (165 en jetons) 
+psychoman59 : met la petite blind. 15
+MagicThot422 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Ac]
+psychoman59 : relance. 135 à 165 et est all-in.
+MagicThot422 : passe. 
+Personne n'a suivi. (135) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : MagicThot422 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237594180717 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/07/2022 11:34:30 CET [26/07/2022 5:34:30 ET]
+Table '3446886838 1' 3-max Siège #2 est au bouton.
+Place 2: MagicThot422 (705 en jetons) 
+Place 3: psychoman59 (195 en jetons) 
+MagicThot422 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 4s]
+MagicThot422 : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [Qh 7c Tc]
+psychoman59 : parole 
+MagicThot422 : mise. 78
+psychoman59 : passe. 
+Personne n'a suivi. (78) sont retournés à MagicThot422.
+MagicThot422 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qh 7c Tc]
+Siège 2 : MagicThot422 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237594183232 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 11:34:47 CET [26/07/2022 5:34:47 ET]
+Table '3446886838 1' 3-max Siège #3 est au bouton.
+Place 2: MagicThot422 (765 en jetons) 
+Place 3: psychoman59 (135 en jetons) 
+psychoman59 : met la petite blind. 20
+MagicThot422 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à MagicThot422.
+MagicThot422 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : MagicThot422 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237594183890 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 11:34:51 CET [26/07/2022 5:34:51 ET]
+Table '3446886838 1' 3-max Siège #2 est au bouton.
+Place 2: MagicThot422 (785 en jetons) 
+Place 3: psychoman59 (115 en jetons) 
+MagicThot422 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Jc]
+MagicThot422 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : MagicThot422 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237594184385 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 11:34:54 CET [26/07/2022 5:34:54 ET]
+Table '3446886838 1' 3-max Siège #3 est au bouton.
+Place 2: MagicThot422 (765 en jetons) 
+Place 3: psychoman59 (135 en jetons) 
+psychoman59 : met la petite blind. 20
+MagicThot422 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à MagicThot422.
+MagicThot422 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : MagicThot422 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237594185061 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 11:34:58 CET [26/07/2022 5:34:58 ET]
+Table '3446886838 1' 3-max Siège #2 est au bouton.
+Place 2: MagicThot422 (785 en jetons) 
+Place 3: psychoman59 (115 en jetons) 
+MagicThot422 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 2c]
+MagicThot422 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : MagicThot422 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237594185546 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 11:35:02 CET [26/07/2022 5:35:02 ET]
+Table '3446886838 1' 3-max Siège #3 est au bouton.
+Place 2: MagicThot422 (765 en jetons) 
+Place 3: psychoman59 (135 en jetons) 
+psychoman59 : met la petite blind. 20
+MagicThot422 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 3h]
+psychoman59 : relance. 95 à 135 et est all-in.
+MagicThot422 : passe. 
+Personne n'a suivi. (95) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : MagicThot422 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237594186359 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 11:35:07 CET [26/07/2022 5:35:07 ET]
+Table '3446886838 1' 3-max Siège #2 est au bouton.
+Place 2: MagicThot422 (725 en jetons) 
+Place 3: psychoman59 (175 en jetons) 
+MagicThot422 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Ah]
+MagicThot422 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : MagicThot422 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237594187221 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 11:35:13 CET [26/07/2022 5:35:13 ET]
+Table '3446886838 1' 3-max Siège #3 est au bouton.
+Place 2: MagicThot422 (705 en jetons) 
+Place 3: psychoman59 (195 en jetons) 
+psychoman59 : met la petite blind. 20
+MagicThot422 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Ts]
+psychoman59 : relance. 155 à 195 et est all-in.
+MagicThot422 : suit. 155
+*** FLOP *** [Qs 2s Qc]
+*** TOURNANT *** [Qs 2s Qc] [Tc]
+*** RIVIÈRE *** [Qs 2s Qc Tc] [9d]
+*** ABATTAGE ***
+MagicThot422 : montre [Kd 7d] (une paire de Dames)
+psychoman59 : montre [Ad Ts] (double paire, Dames et Dix)
+psychoman59 a remporté 390  lors du pot .
+*** SYNTHÈSE ***
+Pot total 390 | Commission 0 
+Tableau [Qs 2s Qc Tc 9d]
+Siège 2 : MagicThot422 (grosse blind) a montré [Kd 7d] et a perdu avec une paire de Dames
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ad Ts] et a gagné (390) avec double paire, Dames et Dix
+
+
+
+Main PokerStars n°237594189259 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 11:35:27 CET [26/07/2022 5:35:27 ET]
+Table '3446886838 1' 3-max Siège #2 est au bouton.
+Place 2: MagicThot422 (510 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+MagicThot422 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Ac]
+MagicThot422 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : MagicThot422 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237594189748 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 11:35:30 CET [26/07/2022 5:35:30 ET]
+Table '3446886838 1' 3-max Siège #3 est au bouton.
+Place 2: MagicThot422 (490 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+psychoman59 : met la petite blind. 20
+MagicThot422 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 6d]
+psychoman59 : suit. 20
+MagicThot422 : parole 
+*** FLOP *** [5h 8d 4s]
+MagicThot422 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5h 8d 4s] [Tc]
+MagicThot422 : parole 
+psychoman59 : mise. 80
+MagicThot422 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5h 8d 4s Tc]
+Siège 2 : MagicThot422 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237594192482 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 26/07/2022 11:35:48 CET [26/07/2022 5:35:48 ET]
+Table '3446886838 1' 3-max Siège #2 est au bouton.
+Place 2: MagicThot422 (450 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+MagicThot422 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 5c]
+MagicThot422 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : MagicThot422 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237594192983 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 26/07/2022 11:35:52 CET [26/07/2022 5:35:52 ET]
+Table '3446886838 1' 3-max Siège #3 est au bouton.
+Place 2: MagicThot422 (420 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 30
+MagicThot422 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à MagicThot422.
+MagicThot422 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : MagicThot422 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237594193681 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 26/07/2022 11:35:56 CET [26/07/2022 5:35:56 ET]
+Table '3446886838 1' 3-max Siège #2 est au bouton.
+Place 2: MagicThot422 (450 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+MagicThot422 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 7c]
+MagicThot422 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [6c 5c Ks]
+psychoman59 : parole 
+MagicThot422 : parole 
+*** TOURNANT *** [6c 5c Ks] [8h]
+psychoman59 : parole 
+MagicThot422 : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [6c 5c Ks 8h] [9h]
+psychoman59 : mise. 240
+MagicThot422 : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6c 5c Ks 8h 9h]
+Siège 2 : MagicThot422 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (240)
+
+
+
+Main PokerStars n°237594196819 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 26/07/2022 11:36:17 CET [26/07/2022 5:36:17 ET]
+Table '3446886838 1' 3-max Siège #3 est au bouton.
+Place 2: MagicThot422 (330 en jetons) 
+Place 3: psychoman59 (570 en jetons) 
+psychoman59 : met la petite blind. 30
+MagicThot422 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Js]
+psychoman59 : relance. 120 à 180
+MagicThot422 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : MagicThot422 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237594198113 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 26/07/2022 11:36:25 CET [26/07/2022 5:36:25 ET]
+Table '3446886838 1' 3-max Siège #2 est au bouton.
+Place 2: MagicThot422 (270 en jetons) 
+Place 3: psychoman59 (630 en jetons) 
+MagicThot422 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Jc]
+MagicThot422 : relance. 210 à 270 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (210) sont retournés à MagicThot422.
+MagicThot422 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : MagicThot422 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237594198998 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 26/07/2022 11:36:31 CET [26/07/2022 5:36:31 ET]
+Table '3446886838 1' 3-max Siège #3 est au bouton.
+Place 2: MagicThot422 (330 en jetons) 
+Place 3: psychoman59 (570 en jetons) 
+psychoman59 : met la petite blind. 30
+MagicThot422 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Kd]
+psychoman59 : relance. 510 à 570 et est all-in.
+MagicThot422 : suit. 270 et est all-in.
+Personne n'a suivi. (240) sont retournés à psychoman59.
+*** FLOP *** [Jd 3s 7d]
+*** TOURNANT *** [Jd 3s 7d] [4c]
+*** RIVIÈRE *** [Jd 3s 7d 4c] [4d]
+*** ABATTAGE ***
+MagicThot422 : montre [Ad 8s] (une paire de Quatre)
+psychoman59 : montre [Ts Kd] (une paire de Quatre - plus basse kicker)
+MagicThot422 a remporté 660  lors du pot .
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [Jd 3s 7d 4c 4d]
+Siège 2 : MagicThot422 (grosse blind) a montré [Ad 8s] et a gagné (660) avec une paire de Quatre
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ts Kd] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°237594201463 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 26/07/2022 11:36:47 CET [26/07/2022 5:36:47 ET]
+Table '3446886838 1' 3-max Siège #2 est au bouton.
+Place 2: MagicThot422 (660 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+MagicThot422 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 4c]
+MagicThot422 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : MagicThot422 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237594202001 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 26/07/2022 11:36:51 CET [26/07/2022 5:36:51 ET]
+Table '3446886838 1' 3-max Siège #3 est au bouton.
+Place 2: MagicThot422 (620 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 40
+MagicThot422 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 2h]
+psychoman59 : relance. 200 à 280 et est all-in.
+MagicThot422 : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : MagicThot422 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°237594202915 : Tournoi #3446886838, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 26/07/2022 11:36:57 CET [26/07/2022 5:36:57 ET]
+Table '3446886838 1' 3-max Siège #2 est au bouton.
+Place 2: MagicThot422 (540 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+MagicThot422 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Ks]
+MagicThot422 : relance. 460 à 540 et est all-in.
+psychoman59 : suit. 280 et est all-in.
+Personne n'a suivi. (180) sont retournés à MagicThot422.
+*** FLOP *** [8s 7d Tc]
+*** TOURNANT *** [8s 7d Tc] [4h]
+*** RIVIÈRE *** [8s 7d Tc 4h] [Kd]
+*** ABATTAGE ***
+psychoman59 : montre [Ac Ks] (une paire de Rois)
+MagicThot422 : montre [8d 8h] (un brelan de Huit)
+MagicThot422 a remporté 720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [8s 7d Tc 4h Kd]
+Siège 2 : MagicThot422 (bouton) (petite blind) a montré [8d 8h] et a gagné (720) avec un brelan de Huit
+Siège 3 : psychoman59 (grosse blind) a montré [Ac Ks] et a perdu avec une paire de Rois
+
+
+

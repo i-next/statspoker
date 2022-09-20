@@ -1,0 +1,3130 @@
+﻿Main PokerStars n°237845268579 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau I (50/100) - 07/08/2022 18:00:07 CET [07/08/2022 12:00:07 ET]
+Table '3450746320 3' 8-max Siège #1 est au bouton.
+Place 1: psychoman59 (10000 en jetons) 
+Place 2: paulaluci (10000 en jetons) 
+Place 3: leoportu7 (10000 en jetons) 
+Place 4: 3l3ctrikman (10000 en jetons) 
+Place 5: manolito8888 (10000 en jetons) 
+Place 6: emidubs (10000 en jetons) 
+Place 7: nadador1969 (10000 en jetons) 
+Place 8: artouze (10000 en jetons) 
+psychoman59 : met l'ante. 10
+paulaluci : met l'ante. 10
+leoportu7 : met l'ante. 10
+3l3ctrikman : met l'ante. 10
+manolito8888 : met l'ante. 10
+emidubs : met l'ante. 10
+nadador1969 : met l'ante. 10
+artouze : met l'ante. 10
+paulaluci : met la petite blind. 50
+leoportu7 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 2c]
+3l3ctrikman : relance. 150 à 250
+manolito8888 : passe. 
+emidubs a dépassé le temps imparti. pendant qu'il était déconnecté
+emidubs : passe. 
+emidubs ne joue pas.
+nadador1969 : passe. 
+artouze : suit. 250
+psychoman59 : passe. 
+paulaluci : suit. 200
+leoportu7 : passe. 
+*** FLOP *** [5s 4c 7h]
+paulaluci : parole 
+3l3ctrikman : mise. 450
+artouze : suit. 450
+paulaluci : suit. 450
+*** TOURNANT *** [5s 4c 7h] [4s]
+paulaluci : parole 
+3l3ctrikman : mise. 1400
+artouze : suit. 1400
+paulaluci : passe. 
+*** RIVIÈRE *** [5s 4c 7h 4s] [Kd]
+emidubs est déconnecté 
+emidubs est déconnecté 
+3l3ctrikman : mise. 7890 et est all-in.
+artouze : suit. 7890 et est all-in.
+*** ABATTAGE ***
+3l3ctrikman : montre [5h 6h] (double paire, Cinq et Quatre)
+artouze : montre [Ks 6s] (double paire, Rois et Quatre)
+artouze a remporté 20860  lors du pot .
+3l3ctrikman a terminé le tournoi
+*** SYNTHÈSE ***
+Pot total 20860 | Commission 0 
+Tableau [5s 4c 7h 4s Kd]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : paulaluci (petite blind) s'est couché. sur le Tournant
+Siège 3 : leoportu7 (grosse blind) s'est couché. avant Flop
+Siège 4 : 3l3ctrikman a montré [5h 6h] et a perdu avec double paire, Cinq et Quatre
+Siège 5 : manolito8888 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : emidubs s'est couché. avant Flop (n'a pas misé)
+Siège 7 : nadador1969 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze a montré [Ks 6s] et a gagné (20860) avec double paire, Rois et Quatre
+
+
+
+Main PokerStars n°237845314489 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau II (60/120) - 07/08/2022 18:02:46 CET [07/08/2022 12:02:46 ET]
+Table '3450746320 3' 8-max Siège #2 est au bouton.
+Place 1: psychoman59 (9990 en jetons) 
+Place 2: paulaluci (9290 en jetons) 
+Place 3: leoportu7 (9890 en jetons) 
+Place 5: manolito8888 (9990 en jetons) 
+Place 6: emidubs (9990 en jetons) ne joue pas.
+Place 7: nadador1969 (9990 en jetons) 
+Place 8: artouze (20860 en jetons) 
+psychoman59 : met l'ante. 15
+paulaluci : met l'ante. 15
+leoportu7 : met l'ante. 15
+manolito8888 : met l'ante. 15
+emidubs : met l'ante. 15
+nadador1969 : met l'ante. 15
+artouze : met l'ante. 15
+leoportu7 : met la petite blind. 60
+manolito8888 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Jd]
+emidubs : passe. 
+nadador1969 : passe. 
+artouze : passe. 
+psychoman59 : passe. 
+paulaluci : suit. 120
+leoportu7 : passe. 
+manolito8888 : parole 
+*** FLOP *** [Tc 8c 2s]
+manolito8888 : mise. 765
+paulaluci : suit. 765
+*** TOURNANT *** [Tc 8c 2s] [9d]
+manolito8888 : mise. 967
+paulaluci : suit. 967
+*** RIVIÈRE *** [Tc 8c 2s 9d] [7d]
+manolito8888 : parole 
+paulaluci : parole 
+*** ABATTAGE ***
+manolito8888 : montre [8d Ts] (double paire, Dix et Huit)
+paulaluci : cache la main perdante. 
+manolito8888 a remporté 3869  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3869 | Commission 0 
+Tableau [Tc 8c 2s 9d 7d]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : paulaluci (bouton) a caché la main perdante. [Ad Qc]
+Siège 3 : leoportu7 (petite blind) s'est couché. avant Flop
+Siège 5 : manolito8888 (grosse blind) a montré [8d Ts] et a gagné (3869) avec double paire, Dix et Huit
+Siège 6 : emidubs s'est couché. avant Flop (n'a pas misé)
+Siège 7 : nadador1969 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237845332909 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau II (60/120) - 07/08/2022 18:03:43 CET [07/08/2022 12:03:43 ET]
+Table '3450746320 3' 8-max Siège #3 est au bouton.
+Place 1: psychoman59 (9975 en jetons) 
+Place 2: paulaluci (7423 en jetons) 
+Place 3: leoportu7 (9815 en jetons) 
+Place 5: manolito8888 (11992 en jetons) 
+Place 6: emidubs (9975 en jetons) ne joue pas.
+Place 7: nadador1969 (9975 en jetons) 
+Place 8: artouze (20845 en jetons) 
+psychoman59 : met l'ante. 15
+paulaluci : met l'ante. 15
+leoportu7 : met l'ante. 15
+manolito8888 : met l'ante. 15
+emidubs : met l'ante. 15
+nadador1969 : met l'ante. 15
+artouze : met l'ante. 15
+manolito8888 : met la petite blind. 60
+emidubs : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 2d]
+nadador1969 : passe. 
+artouze : relance. 240 à 360
+psychoman59 : passe. 
+paulaluci : passe. 
+leoportu7 : passe. 
+manolito8888 : passe. 
+emidubs : passe. 
+Personne n'a suivi. (240) sont retournés à artouze.
+artouze a remporté 405  lors du pot .
+*** SYNTHÈSE ***
+Pot total 405 | Commission 0 
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : paulaluci s'est couché. avant Flop (n'a pas misé)
+Siège 3 : leoportu7 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : manolito8888 (petite blind) s'est couché. avant Flop
+Siège 6 : emidubs (grosse blind) s'est couché. avant Flop
+Siège 7 : nadador1969 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze a remporté (405)
+
+
+
+Main PokerStars n°237845359338 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau III (75/150) - 07/08/2022 18:05:02 CET [07/08/2022 12:05:02 ET]
+Table '3450746320 3' 8-max Siège #5 est au bouton.
+Place 1: psychoman59 (9960 en jetons) 
+Place 2: paulaluci (7408 en jetons) 
+Place 3: leoportu7 (9800 en jetons) 
+Place 4: tonioker61 (10000 en jetons) 
+Place 5: manolito8888 (11917 en jetons) 
+Place 6: emidubs (9840 en jetons) ne joue pas.
+Place 8: artouze (21115 en jetons) 
+psychoman59 : met l'ante. 20
+paulaluci : met l'ante. 20
+leoportu7 : met l'ante. 20
+tonioker61 : met l'ante. 20
+manolito8888 : met l'ante. 20
+emidubs : met l'ante. 20
+artouze : met l'ante. 20
+emidubs : met la petite blind. 75
+artouze : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Kh]
+psychoman59 : passe. 
+paulaluci : passe. 
+leoportu7 : passe. 
+tonioker61 : passe. 
+manolito8888 : passe. 
+emidubs : passe. 
+Personne n'a suivi. (75) sont retournés à artouze.
+artouze a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : paulaluci s'est couché. avant Flop (n'a pas misé)
+Siège 3 : leoportu7 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : manolito8888 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : emidubs (petite blind) s'est couché. avant Flop
+Siège 8 : artouze (grosse blind) a remporté (290)
+
+
+
+Main PokerStars n°237845364585 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau III (75/150) - 07/08/2022 18:05:18 CET [07/08/2022 12:05:18 ET]
+Table '3450746320 3' 8-max Siège #6 est au bouton.
+Place 1: psychoman59 (9940 en jetons) 
+Place 2: paulaluci (7388 en jetons) 
+Place 3: leoportu7 (9780 en jetons) 
+Place 4: tonioker61 (9980 en jetons) 
+Place 5: manolito8888 (11897 en jetons) 
+Place 6: emidubs (9745 en jetons) ne joue pas.
+Place 7: corinne02 (10000 en jetons) en dehors de la main (déplacé à la petite blind d'une autre table)
+Place 8: artouze (21310 en jetons) 
+corinne02 sera autorisé à jouer après le bouton.
+psychoman59 : met l'ante. 20
+paulaluci : met l'ante. 20
+leoportu7 : met l'ante. 20
+tonioker61 : met l'ante. 20
+manolito8888 : met l'ante. 20
+emidubs : met l'ante. 20
+artouze : met l'ante. 20
+artouze : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 7s]
+paulaluci : passe. 
+leoportu7 a dépassé le temps imparti.
+leoportu7 : passe. 
+leoportu7 ne joue pas.
+tonioker61 : passe. 
+manolito8888 : passe. 
+emidubs : passe. 
+artouze : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 290  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (290)
+Siège 2 : paulaluci s'est couché. avant Flop (n'a pas misé)
+Siège 3 : leoportu7 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : manolito8888 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : emidubs (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237845373572 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau III (75/150) - 07/08/2022 18:05:46 CET [07/08/2022 12:05:46 ET]
+Table '3450746320 3' 8-max Siège #8 est au bouton.
+Place 1: psychoman59 (10135 en jetons) 
+Place 2: paulaluci (7368 en jetons) 
+Place 3: leoportu7 (9760 en jetons) ne joue pas.
+Place 4: tonioker61 (9960 en jetons) 
+Place 5: manolito8888 (11877 en jetons) 
+Place 6: emidubs (9725 en jetons) ne joue pas.
+Place 7: corinne02 (10000 en jetons) 
+Place 8: artouze (21215 en jetons) 
+psychoman59 : met l'ante. 20
+paulaluci : met l'ante. 20
+leoportu7 : met l'ante. 20
+tonioker61 : met l'ante. 20
+manolito8888 : met l'ante. 20
+emidubs : met l'ante. 20
+corinne02 : met l'ante. 20
+artouze : met l'ante. 20
+psychoman59 : met la petite blind. 75
+paulaluci : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Qc]
+leoportu7 : passe. 
+tonioker61 : relance. 150 à 300
+manolito8888 : passe. 
+emidubs : passe. 
+corinne02 : relance. 985 à 1285
+artouze : passe. 
+psychoman59 : passe. 
+paulaluci : passe. 
+tonioker61 : suit. 985
+*** FLOP *** [5c Ah Jh]
+tonioker61 : mise. 300
+corinne02 : relance. 1125 à 1425
+tonioker61 : suit. 1125
+*** TOURNANT *** [5c Ah Jh] [5s]
+tonioker61 : mise. 300
+corinne02 : suit. 300
+*** RIVIÈRE *** [5c Ah Jh 5s] [7h]
+tonioker61 : mise. 300
+corinne02 : relance. 6670 à 6970 et est all-in.
+tonioker61 : suit. 6630 et est all-in.
+Personne n'a suivi. (40) sont retournés à corinne02.
+*** ABATTAGE ***
+corinne02 : montre [8h 8c] (double paire, Huit et Cinq)
+tonioker61 : montre [Td Ac] (double paire, As et Cinq)
+tonioker61 a remporté 20265  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20265 | Commission 0 
+Tableau [5c Ah Jh 5s 7h]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : paulaluci (grosse blind) s'est couché. avant Flop
+Siège 3 : leoportu7 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 a montré [Td Ac] et a gagné (20265) avec double paire, As et Cinq
+Siège 5 : manolito8888 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : emidubs s'est couché. avant Flop (n'a pas misé)
+Siège 7 : corinne02 a montré [8h 8c] et a perdu avec double paire, Huit et Cinq
+Siège 8 : artouze (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237845395020 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau IV (100/200) - 07/08/2022 18:06:51 CET [07/08/2022 12:06:51 ET]
+Table '3450746320 3' 8-max Siège #1 est au bouton.
+Place 1: psychoman59 (10040 en jetons) 
+Place 2: paulaluci (7198 en jetons) 
+Place 4: tonioker61 (20265 en jetons) 
+Place 5: manolito8888 (11857 en jetons) 
+Place 6: emidubs (9705 en jetons) ne joue pas.
+Place 7: corinne02 (40 en jetons) 
+Place 8: artouze (21195 en jetons) 
+psychoman59 : met l'ante. 25
+paulaluci : met l'ante. 25
+tonioker61 : met l'ante. 25
+manolito8888 : met l'ante. 25
+emidubs : met l'ante. 25
+corinne02 : met l'ante. 25
+artouze : met l'ante. 25
+paulaluci : met la petite blind. 100
+tonioker61 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 4s]
+manolito8888 : suit. 200
+emidubs : passe. 
+corinne02 : suit. 15 et est all-in.
+artouze : relance. 400 à 600
+psychoman59 : passe. 
+paulaluci : suit. 500
+tonioker61 : passe. 
+manolito8888 : suit. 400
+*** FLOP *** [2c 6h 6c]
+paulaluci : mise. 1095
+manolito8888 : passe. 
+artouze : passe. 
+Personne n'a suivi. (1095) sont retournés à paulaluci.
+*** TOURNANT *** [2c 6h 6c] [8s]
+*** RIVIÈRE *** [2c 6h 6c 8s] [5s]
+*** ABATTAGE ***
+paulaluci : montre [Ac 7c] (une paire de Six)
+paulaluci a remporté 1940  parallèle lors du pot .
+corinne02 : montre [Kh 9c] (une paire de Six - plus basse kicker)
+paulaluci a remporté 250  principal lors du pot .
+corinne02 a terminé le tournoi
+*** SYNTHÈSE ***
+Pot total 2190 Principal pot 250. Parallèle pot 1940. | Commission 0 
+Tableau [2c 6h 6c 8s 5s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : paulaluci (petite blind) a montré [Ac 7c] et a gagné (2190) avec une paire de Six
+Siège 4 : tonioker61 (grosse blind) s'est couché. avant Flop
+Siège 5 : manolito8888 s'est couché. sur le Flop
+Siège 6 : emidubs s'est couché. avant Flop (n'a pas misé)
+Siège 7 : corinne02 a montré [Kh 9c] et a perdu avec une paire de Six
+Siège 8 : artouze s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237845412384 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau IV (100/200) - 07/08/2022 18:07:43 CET [07/08/2022 12:07:43 ET]
+Table '3450746320 3' 8-max Siège #2 est au bouton.
+Place 1: psychoman59 (10015 en jetons) 
+Place 2: paulaluci (8763 en jetons) 
+Place 4: tonioker61 (20040 en jetons) 
+Place 5: manolito8888 (11232 en jetons) 
+Place 6: emidubs (9680 en jetons) ne joue pas.
+Place 8: artouze (20570 en jetons) 
+psychoman59 : met l'ante. 25
+paulaluci : met l'ante. 25
+tonioker61 : met l'ante. 25
+manolito8888 : met l'ante. 25
+emidubs : met l'ante. 25
+artouze : met l'ante. 25
+tonioker61 : met la petite blind. 100
+manolito8888 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 2c]
+emidubs : passe. 
+artouze : passe. 
+psychoman59 : passe. 
+paulaluci : suit. 200
+tonioker61 : relance. 200 à 400
+manolito8888 : suit. 200
+paulaluci : suit. 200
+*** FLOP *** [Jh 7h 3c]
+tonioker61 : parole 
+manolito8888 : mise. 200
+paulaluci : suit. 200
+tonioker61 : suit. 200
+*** TOURNANT *** [Jh 7h 3c] [Jd]
+tonioker61 : parole 
+manolito8888 : parole 
+paulaluci : parole 
+*** RIVIÈRE *** [Jh 7h 3c Jd] [6c]
+tonioker61 : mise. 200
+manolito8888 : passe. 
+paulaluci : passe. 
+Personne n'a suivi. (200) sont retournés à tonioker61.
+tonioker61 a remporté 1950  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1950 | Commission 0 
+Tableau [Jh 7h 3c Jd 6c]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : paulaluci (bouton) s'est couché. sur le Rivière
+Siège 4 : tonioker61 (petite blind) a remporté (1950)
+Siège 5 : manolito8888 (grosse blind) s'est couché. sur le Rivière
+Siège 6 : emidubs s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237845429292 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau V (125/250) - 07/08/2022 18:08:33 CET [07/08/2022 12:08:33 ET]
+Table '3450746320 3' 8-max Siège #4 est au bouton.
+Place 1: psychoman59 (9990 en jetons) 
+Place 2: paulaluci (8138 en jetons) 
+Place 3: alescuerzo (9510 en jetons) ne joue pas.
+Place 4: tonioker61 (21365 en jetons) 
+Place 5: manolito8888 (10607 en jetons) 
+Place 6: emidubs (9655 en jetons) ne joue pas.
+Place 7: mamourrr (10795 en jetons) 
+Place 8: artouze (20545 en jetons) 
+psychoman59 : met l'ante. 30
+paulaluci : met l'ante. 30
+alescuerzo : met l'ante. 30
+tonioker61 : met l'ante. 30
+manolito8888 : met l'ante. 30
+emidubs : met l'ante. 30
+mamourrr : met l'ante. 30
+artouze : met l'ante. 30
+manolito8888 : met la petite blind. 125
+emidubs : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Kc]
+mamourrr : suit. 250
+artouze : suit. 250
+psychoman59 : relance. 1365 à 1615
+paulaluci : passe. 
+alescuerzo : passe. 
+tonioker61 : suit. 1615
+manolito8888 : suit. 1490
+emidubs : passe. 
+mamourrr : suit. 1365
+artouze : suit. 1365
+*** FLOP *** [Ts 6d 6c]
+manolito8888 : parole 
+mamourrr : parole 
+artouze : mise. 18900 et est all-in.
+psychoman59 : suit. 8345 et est all-in.
+tonioker61 : passe. 
+manolito8888 : passe. 
+mamourrr : passe. 
+Personne n'a suivi. (10555) sont retournés à artouze.
+*** TOURNANT *** [Ts 6d 6c] [Qh]
+*** RIVIÈRE *** [Ts 6d 6c Qh] [7h]
+*** ABATTAGE ***
+artouze : montre [Td 9c] (double paire, Dix et Six)
+psychoman59 : montre [Kd Kc] (double paire, Rois et Six)
+psychoman59 a remporté 25255  lors du pot .
+*** SYNTHÈSE ***
+Pot total 25255 | Commission 0 
+Tableau [Ts 6d 6c Qh 7h]
+Siège 1 : psychoman59 a montré [Kd Kc] et a gagné (25255) avec double paire, Rois et Six
+Siège 2 : paulaluci s'est couché. avant Flop (n'a pas misé)
+Siège 3 : alescuerzo s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 (bouton) s'est couché. sur le Flop
+Siège 5 : manolito8888 (petite blind) s'est couché. sur le Flop
+Siège 6 : emidubs (grosse blind) s'est couché. avant Flop
+Siège 7 : mamourrr s'est couché. sur le Flop
+Siège 8 : artouze a montré [Td 9c] et a perdu avec double paire, Dix et Six
+
+
+
+Main PokerStars n°237845450199 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau V (125/250) - 07/08/2022 18:09:35 CET [07/08/2022 12:09:35 ET]
+Table '3450746320 3' 8-max Siège #5 est au bouton.
+Place 1: psychoman59 (25255 en jetons) 
+Place 3: alescuerzo (9480 en jetons) ne joue pas.
+Place 4: tonioker61 (19720 en jetons) 
+Place 5: manolito8888 (8962 en jetons) 
+Place 6: emidubs (9375 en jetons) ne joue pas.
+Place 7: mamourrr (9150 en jetons) 
+Place 8: artouze (10555 en jetons) 
+psychoman59 : met l'ante. 30
+alescuerzo : met l'ante. 30
+tonioker61 : met l'ante. 30
+manolito8888 : met l'ante. 30
+emidubs : met l'ante. 30
+mamourrr : met l'ante. 30
+artouze : met l'ante. 30
+emidubs : met la petite blind. 125
+mamourrr : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 4s]
+artouze : relance. 500 à 750
+psychoman59 : passe. 
+alescuerzo : passe. 
+tonioker61 : suit. 750
+manolito8888 : passe. 
+emidubs : passe. 
+mamourrr : suit. 500
+*** FLOP *** [7h 6c 4d]
+mamourrr : parole 
+artouze : mise. 1500
+tonioker61 : passe. 
+mamourrr : suit. 1500
+*** TOURNANT *** [7h 6c 4d] [4c]
+mamourrr : parole 
+artouze : mise. 8275 et est all-in.
+mamourrr : suit. 6870 et est all-in.
+Personne n'a suivi. (1405) sont retournés à artouze.
+*** RIVIÈRE *** [7h 6c 4d 4c] [Td]
+*** ABATTAGE ***
+mamourrr : montre [7c As] (double paire, Sept et Quatre)
+artouze : montre [Js Jd] (double paire, Valets et Quatre)
+artouze a remporté 19325  lors du pot .
+mamourrr a terminé le tournoi
+*** SYNTHÈSE ***
+Pot total 19325 | Commission 0 
+Tableau [7h 6c 4d 4c Td]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : alescuerzo s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 s'est couché. sur le Flop
+Siège 5 : manolito8888 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : emidubs (petite blind) s'est couché. avant Flop
+Siège 7 : mamourrr (grosse blind) a montré [7c As] et a perdu avec double paire, Sept et Quatre
+Siège 8 : artouze a montré [Js Jd] et a gagné (19325) avec double paire, Valets et Quatre
+
+
+
+Main PokerStars n°237845465855 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau VI (150/300) - 07/08/2022 18:10:23 CET [07/08/2022 12:10:23 ET]
+Table '3450746320 3' 8-max Siège #6 est au bouton.
+Place 1: psychoman59 (25225 en jetons) 
+Place 3: alescuerzo (9450 en jetons) ne joue pas.
+Place 4: tonioker61 (18940 en jetons) 
+Place 5: manolito8888 (8932 en jetons) 
+Place 6: emidubs (9220 en jetons) ne joue pas.
+Place 8: artouze (20730 en jetons) 
+psychoman59 : met l'ante. 40
+alescuerzo : met l'ante. 40
+tonioker61 : met l'ante. 40
+manolito8888 : met l'ante. 40
+emidubs : met l'ante. 40
+artouze : met l'ante. 40
+artouze : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 6s]
+alescuerzo : passe. 
+tonioker61 : suit. 300
+karlordd est déconnecté 
+manolito8888 : suit. 300
+emidubs : passe. 
+artouze : passe. 
+psychoman59 : parole 
+*** FLOP *** [4h 3s Kh]
+psychoman59 : parole 
+tonioker61 : parole 
+manolito8888 : mise. 1290
+psychoman59 : passe. 
+tonioker61 : passe. 
+Personne n'a suivi. (1290) sont retournés à manolito8888.
+manolito8888 a remporté 1290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1290 | Commission 0 
+Tableau [4h 3s Kh]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : alescuerzo s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 s'est couché. sur le Flop
+Siège 5 : manolito8888 a remporté (1290)
+Siège 6 : emidubs (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237845480743 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau VI (150/300) - 07/08/2022 18:11:07 CET [07/08/2022 12:11:07 ET]
+Table '3450746320 3' 8-max Siège #8 est au bouton.
+Place 1: psychoman59 (24885 en jetons) 
+Place 3: alescuerzo (9410 en jetons) ne joue pas.
+Place 4: tonioker61 (18600 en jetons) 
+Place 5: manolito8888 (9882 en jetons) 
+Place 6: emidubs (9180 en jetons) ne joue pas.
+Place 7: karlordd (10000 en jetons) 
+Place 8: artouze (20540 en jetons) 
+psychoman59 : met l'ante. 40
+alescuerzo : met l'ante. 40
+tonioker61 : met l'ante. 40
+manolito8888 : met l'ante. 40
+emidubs : met l'ante. 40
+karlordd : met l'ante. 40
+artouze : met l'ante. 40
+psychoman59 : met la petite blind. 150
+alescuerzo : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 6d]
+tonioker61 : passe. 
+manolito8888 : passe. 
+emidubs : passe. 
+karlordd : relance. 450 à 750
+artouze : relance. 1650 à 2400
+psychoman59 : passe. 
+alescuerzo : passe. 
+karlordd : passe. 
+Personne n'a suivi. (1650) sont retournés à artouze.
+artouze a remporté 2230  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2230 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : alescuerzo (grosse blind) s'est couché. avant Flop
+Siège 4 : tonioker61 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : manolito8888 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : emidubs s'est couché. avant Flop (n'a pas misé)
+Siège 7 : karlordd s'est couché. avant Flop
+Siège 8 : artouze (bouton) a remporté (2230)
+
+
+
+Main PokerStars n°237845490095 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau VI (150/300) - 07/08/2022 18:11:36 CET [07/08/2022 12:11:36 ET]
+Table '3450746320 3' 8-max Siège #1 est au bouton.
+Place 1: psychoman59 (24695 en jetons) 
+Place 3: alescuerzo (9070 en jetons) ne joue pas.
+Place 4: tonioker61 (18560 en jetons) 
+Place 5: manolito8888 (9842 en jetons) 
+Place 6: emidubs (9140 en jetons) ne joue pas.
+Place 7: karlordd (9210 en jetons) 
+Place 8: artouze (21980 en jetons) 
+psychoman59 : met l'ante. 40
+alescuerzo : met l'ante. 40
+tonioker61 : met l'ante. 40
+manolito8888 : met l'ante. 40
+emidubs : met l'ante. 40
+karlordd : met l'ante. 40
+artouze : met l'ante. 40
+alescuerzo : met la petite blind. 150
+tonioker61 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 7h]
+manolito8888 : passe. 
+emidubs : passe. 
+karlordd : passe. 
+artouze : passe. 
+psychoman59 : passe. 
+alescuerzo : passe. 
+Personne n'a suivi. (150) sont retournés à tonioker61.
+tonioker61 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : alescuerzo (petite blind) s'est couché. avant Flop
+Siège 4 : tonioker61 (grosse blind) a remporté (580)
+Siège 5 : manolito8888 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : emidubs s'est couché. avant Flop (n'a pas misé)
+Siège 7 : karlordd s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237845493934 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau VI (150/300) - 07/08/2022 18:11:47 CET [07/08/2022 12:11:47 ET]
+Table '3450746320 3' 8-max Siège #3 est au bouton.
+Place 1: psychoman59 (24655 en jetons) 
+Place 3: alescuerzo (8880 en jetons) ne joue pas.
+Place 4: tonioker61 (18950 en jetons) 
+Place 5: manolito8888 (9802 en jetons) 
+Place 6: emidubs (9100 en jetons) ne joue pas.
+Place 7: karlordd (9170 en jetons) 
+Place 8: artouze (21940 en jetons) 
+psychoman59 : met l'ante. 40
+alescuerzo : met l'ante. 40
+tonioker61 : met l'ante. 40
+manolito8888 : met l'ante. 40
+emidubs : met l'ante. 40
+karlordd : met l'ante. 40
+artouze : met l'ante. 40
+tonioker61 : met la petite blind. 150
+manolito8888 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Ts]
+emidubs : passe. 
+karlordd : passe. 
+artouze : passe. 
+psychoman59 : passe. 
+alescuerzo : passe. 
+tonioker61 : suit. 150
+manolito8888 : parole 
+*** FLOP *** [4h 4c 3s]
+tonioker61 : parole 
+manolito8888 : mise. 880
+tonioker61 : passe. 
+Personne n'a suivi. (880) sont retournés à manolito8888.
+manolito8888 a remporté 880  lors du pot .
+*** SYNTHÈSE ***
+Pot total 880 | Commission 0 
+Tableau [4h 4c 3s]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : alescuerzo (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 (petite blind) s'est couché. sur le Flop
+Siège 5 : manolito8888 (grosse blind) a remporté (880)
+Siège 6 : emidubs s'est couché. avant Flop (n'a pas misé)
+Siège 7 : karlordd s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237845503803 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau VII (200/400) - 07/08/2022 18:12:17 CET [07/08/2022 12:12:17 ET]
+Table '3450746320 3' 8-max Siège #4 est au bouton.
+Place 1: psychoman59 (24615 en jetons) 
+Place 3: alescuerzo (8840 en jetons) ne joue pas.
+Place 4: tonioker61 (18610 en jetons) 
+Place 5: manolito8888 (10342 en jetons) 
+Place 6: emidubs (9060 en jetons) ne joue pas.
+Place 7: karlordd (9130 en jetons) 
+Place 8: artouze (21900 en jetons) 
+psychoman59 : met l'ante. 50
+alescuerzo : met l'ante. 50
+tonioker61 : met l'ante. 50
+manolito8888 : met l'ante. 50
+emidubs : met l'ante. 50
+karlordd : met l'ante. 50
+artouze : met l'ante. 50
+manolito8888 : met la petite blind. 200
+emidubs : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 5h]
+karlordd : passe. 
+artouze : relance. 800 à 1200
+psychoman59 : passe. 
+alescuerzo : passe. 
+tonioker61 : passe. 
+manolito8888 : passe. 
+emidubs : passe. 
+Personne n'a suivi. (800) sont retournés à artouze.
+artouze a remporté 1350  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1350 | Commission 0 
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : alescuerzo s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : manolito8888 (petite blind) s'est couché. avant Flop
+Siège 6 : emidubs (grosse blind) s'est couché. avant Flop
+Siège 7 : karlordd s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze a remporté (1350)
+
+
+
+Main PokerStars n°237845512386 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau VII (200/400) - 07/08/2022 18:12:43 CET [07/08/2022 12:12:43 ET]
+Table '3450746320 3' 8-max Siège #5 est au bouton.
+Place 1: psychoman59 (24565 en jetons) 
+Place 3: alescuerzo (8790 en jetons) ne joue pas.
+Place 4: tonioker61 (18560 en jetons) 
+Place 5: manolito8888 (10092 en jetons) 
+Place 6: emidubs (8610 en jetons) ne joue pas.
+Place 7: karlordd (9080 en jetons) 
+Place 8: artouze (22800 en jetons) 
+psychoman59 : met l'ante. 50
+alescuerzo : met l'ante. 50
+tonioker61 : met l'ante. 50
+manolito8888 : met l'ante. 50
+emidubs : met l'ante. 50
+karlordd : met l'ante. 50
+artouze : met l'ante. 50
+emidubs : met la petite blind. 200
+karlordd : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 4s]
+artouze : relance. 800 à 1200
+psychoman59 : passe. 
+alescuerzo : passe. 
+tonioker61 : passe. 
+manolito8888 : passe. 
+emidubs : passe. 
+karlordd : passe. 
+Personne n'a suivi. (800) sont retournés à artouze.
+artouze a remporté 1350  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1350 | Commission 0 
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : alescuerzo s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : manolito8888 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : emidubs (petite blind) s'est couché. avant Flop
+Siège 7 : karlordd (grosse blind) s'est couché. avant Flop
+Siège 8 : artouze a remporté (1350)
+
+
+
+Main PokerStars n°237845521724 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau VII (200/400) - 07/08/2022 18:13:03 CET [07/08/2022 12:13:03 ET]
+Table '3450746320 3' 8-max Siège #6 est au bouton.
+Place 1: psychoman59 (24515 en jetons) 
+Place 3: alescuerzo (8740 en jetons) ne joue pas.
+Place 4: tonioker61 (18510 en jetons) 
+Place 5: manolito8888 (10042 en jetons) 
+Place 6: emidubs (8360 en jetons) ne joue pas.
+Place 7: karlordd (8630 en jetons) 
+Place 8: artouze (23700 en jetons) 
+psychoman59 : met l'ante. 50
+alescuerzo : met l'ante. 50
+tonioker61 : met l'ante. 50
+manolito8888 : met l'ante. 50
+emidubs : met l'ante. 50
+karlordd : met l'ante. 50
+artouze : met l'ante. 50
+karlordd : met la petite blind. 200
+artouze : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Kd]
+emidubs est déconnecté 
+emidubs est revenu.
+psychoman59 : suit. 400
+alescuerzo : passe. 
+tonioker61 : passe. 
+manolito8888 : passe. 
+emidubs : relance. 1200 à 1600
+karlordd : passe. 
+artouze : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (1200) sont retournés à emidubs.
+emidubs a remporté 1750  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1750 | Commission 0 
+Siège 1 : psychoman59 s'est couché. avant Flop
+Siège 3 : alescuerzo s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : manolito8888 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : emidubs (bouton) a remporté (1750)
+Siège 7 : karlordd (petite blind) s'est couché. avant Flop
+Siège 8 : artouze (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237845531751 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau VII (200/400) - 07/08/2022 18:13:34 CET [07/08/2022 12:13:34 ET]
+Table '3450746320 3' 8-max Siège #7 est au bouton.
+Place 1: psychoman59 (24065 en jetons) 
+Place 3: alescuerzo (8690 en jetons) ne joue pas.
+Place 4: tonioker61 (18460 en jetons) 
+Place 5: manolito8888 (9992 en jetons) 
+Place 6: emidubs (9660 en jetons) 
+Place 7: karlordd (8380 en jetons) 
+Place 8: artouze (23250 en jetons) 
+psychoman59 : met l'ante. 50
+alescuerzo : met l'ante. 50
+tonioker61 : met l'ante. 50
+manolito8888 : met l'ante. 50
+emidubs : met l'ante. 50
+karlordd : met l'ante. 50
+artouze : met l'ante. 50
+artouze : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Ad]
+alescuerzo : passe. 
+tonioker61 : passe. 
+manolito8888 : suit. 400
+emidubs : passe. 
+karlordd : passe. 
+artouze : relance. 800 à 1200
+psychoman59 : suit. 800
+manolito8888 : suit. 800
+*** FLOP *** [Kd 4s 7s]
+artouze : mise. 2800
+psychoman59 : suit. 2800
+manolito8888 : passe. 
+*** TOURNANT *** [Kd 4s 7s] [6c]
+artouze : mise. 6000
+psychoman59 : passe. 
+Personne n'a suivi. (6000) sont retournés à artouze.
+artouze a remporté 9550  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9550 | Commission 0 
+Tableau [Kd 4s 7s 6c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : alescuerzo s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : manolito8888 s'est couché. sur le Flop
+Siège 6 : emidubs s'est couché. avant Flop (n'a pas misé)
+Siège 7 : karlordd (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze (petite blind) a remporté (9550)
+
+
+
+Main PokerStars n°237845550694 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau VIII (250/500) - 07/08/2022 18:14:32 CET [07/08/2022 12:14:32 ET]
+Table '3450746320 3' 8-max Siège #8 est au bouton.
+Place 1: psychoman59 (20015 en jetons) 
+Place 2: geiriing (10000 en jetons) 
+Place 3: alescuerzo (8640 en jetons) ne joue pas.
+Place 4: tonioker61 (18410 en jetons) 
+Place 5: manolito8888 (8742 en jetons) 
+Place 6: emidubs (9610 en jetons) 
+Place 7: karlordd (8330 en jetons) 
+Place 8: artouze (28750 en jetons) 
+psychoman59 : met l'ante. 60
+geiriing : met l'ante. 60
+alescuerzo : met l'ante. 60
+tonioker61 : met l'ante. 60
+manolito8888 : met l'ante. 60
+emidubs : met l'ante. 60
+karlordd : met l'ante. 60
+artouze : met l'ante. 60
+psychoman59 : met la petite blind. 250
+geiriing : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 8s]
+alescuerzo : passe. 
+tonioker61 : passe. 
+manolito8888 : passe. 
+emidubs : relance. 1730 à 2230
+karlordd : passe. 
+artouze : passe. 
+psychoman59 : passe. 
+geiriing : relance. 7710 à 9940 et est all-in.
+emidubs : suit. 7320 et est all-in.
+Personne n'a suivi. (390) sont retournés à geiriing.
+*** FLOP *** [3s 5h 8c]
+*** TOURNANT *** [3s 5h 8c] [4c]
+*** RIVIÈRE *** [3s 5h 8c 4c] [7h]
+*** ABATTAGE ***
+geiriing : montre [Ad Kc] (Hauteur As)
+emidubs : montre [Qh Jh] (Hauteur Dame)
+geiriing a remporté 19830  lors du pot .
+emidubs a terminé le tournoi
+*** SYNTHÈSE ***
+Pot total 19830 | Commission 0 
+Tableau [3s 5h 8c 4c 7h]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : geiriing (grosse blind) a montré [Ad Kc] et a gagné (19830) avec Hauteur As
+Siège 3 : alescuerzo s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : manolito8888 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : emidubs a montré [Qh Jh] et a perdu avec Hauteur Dame
+Siège 7 : karlordd s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237845564117 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau VIII (250/500) - 07/08/2022 18:15:13 CET [07/08/2022 12:15:13 ET]
+Table '3450746320 3' 8-max Siège #1 est au bouton.
+Place 1: psychoman59 (19705 en jetons) 
+Place 2: geiriing (20220 en jetons) 
+Place 3: alescuerzo (8580 en jetons) ne joue pas.
+Place 4: tonioker61 (18350 en jetons) 
+Place 5: manolito8888 (8682 en jetons) 
+Place 7: karlordd (8270 en jetons) 
+Place 8: artouze (28690 en jetons) 
+psychoman59 : met l'ante. 60
+geiriing : met l'ante. 60
+alescuerzo : met l'ante. 60
+tonioker61 : met l'ante. 60
+manolito8888 : met l'ante. 60
+karlordd : met l'ante. 60
+artouze : met l'ante. 60
+geiriing : met la petite blind. 250
+alescuerzo : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Tc]
+tonioker61 : suit. 500
+manolito8888 : passe. 
+karlordd : passe. 
+artouze : relance. 1500 à 2000
+psychoman59 : passe. 
+geiriing : passe. 
+alescuerzo : passe. 
+tonioker61 : suit. 1500
+*** FLOP *** [Ac 4d 6h]
+tonioker61 : mise. 500
+artouze : relance. 1500 à 2000
+tonioker61 : suit. 1500
+*** TOURNANT *** [Ac 4d 6h] [Qc]
+tonioker61 : parole 
+artouze : mise. 4000
+tonioker61 : suit. 4000
+*** RIVIÈRE *** [Ac 4d 6h Qc] [5h]
+tonioker61 : parole 
+artouze : mise. 4500
+tonioker61 : suit. 4500
+*** ABATTAGE ***
+artouze : montre [8h Kh] (Hauteur As)
+tonioker61 : montre [3c Ad] (une paire de As)
+tonioker61 a remporté 26170  lors du pot .
+*** SYNTHÈSE ***
+Pot total 26170 | Commission 0 
+Tableau [Ac 4d 6h Qc 5h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : geiriing (petite blind) s'est couché. avant Flop
+Siège 3 : alescuerzo (grosse blind) s'est couché. avant Flop
+Siège 4 : tonioker61 a montré [3c Ad] et a gagné (26170) avec une paire de As
+Siège 5 : manolito8888 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : karlordd s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze a montré [8h Kh] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237845581953 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau VIII (250/500) - 07/08/2022 18:16:07 CET [07/08/2022 12:16:07 ET]
+Table '3450746320 3' 8-max Siège #2 est au bouton.
+Place 1: psychoman59 (19645 en jetons) 
+Place 2: geiriing (19910 en jetons) 
+Place 3: alescuerzo (8020 en jetons) ne joue pas.
+Place 4: tonioker61 (31960 en jetons) 
+Place 5: manolito8888 (8622 en jetons) 
+Place 6: Mayrron91 (10000 en jetons) 
+Place 7: karlordd (8210 en jetons) 
+Place 8: artouze (16130 en jetons) 
+psychoman59 : met l'ante. 60
+geiriing : met l'ante. 60
+alescuerzo : met l'ante. 60
+tonioker61 : met l'ante. 60
+manolito8888 : met l'ante. 60
+Mayrron91 : met l'ante. 60
+karlordd : met l'ante. 60
+artouze : met l'ante. 60
+alescuerzo : met la petite blind. 250
+tonioker61 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 4c]
+manolito8888 : passe. 
+Mayrron91 est connecté 
+Mayrron91 est déconnecté 
+Mayrron91 est connecté 
+Mayrron91 : passe. 
+karlordd : passe. 
+artouze : relance. 500 à 1000
+psychoman59 : suit. 1000
+geiriing : suit. 1000
+alescuerzo : passe. 
+tonioker61 : suit. 500
+*** FLOP *** [8s 9s Tc]
+tonioker61 : parole 
+artouze : mise. 1000
+psychoman59 : passe. 
+geiriing : suit. 1000
+tonioker61 : suit. 1000
+*** TOURNANT *** [8s 9s Tc] [Ad]
+tonioker61 : parole 
+artouze : mise. 2000
+geiriing : suit. 2000
+tonioker61 : passe. 
+*** RIVIÈRE *** [8s 9s Tc Ad] [5d]
+artouze : parole 
+geiriing : mise. 9850
+artouze : passe. 
+Personne n'a suivi. (9850) sont retournés à geiriing.
+geiriing a remporté 11730  lors du pot .
+*** SYNTHÈSE ***
+Pot total 11730 | Commission 0 
+Tableau [8s 9s Tc Ad 5d]
+Siège 1 : psychoman59 s'est couché. sur le Flop
+Siège 2 : geiriing (bouton) a remporté (11730)
+Siège 3 : alescuerzo (petite blind) s'est couché. avant Flop
+Siège 4 : tonioker61 (grosse blind) s'est couché. sur le Tournant
+Siège 5 : manolito8888 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Mayrron91 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : karlordd s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237845631523 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau X (350/700) - 07/08/2022 18:18:14 CET [07/08/2022 12:18:14 ET]
+Table '3450746320 3' 8-max Siège #3 est au bouton.
+Place 1: psychoman59 (18585 en jetons) 
+Place 2: geiriing (27580 en jetons) 
+Place 3: alescuerzo (7710 en jetons) ne joue pas.
+Place 4: tonioker61 (29900 en jetons) 
+Place 5: manolito8888 (8562 en jetons) 
+Place 6: Mayrron91 (9940 en jetons) 
+Place 7: karlordd (8150 en jetons) 
+Place 8: artouze (12070 en jetons) 
+psychoman59 : met l'ante. 85
+geiriing : met l'ante. 85
+alescuerzo : met l'ante. 85
+tonioker61 : met l'ante. 85
+manolito8888 : met l'ante. 85
+Mayrron91 : met l'ante. 85
+karlordd : met l'ante. 85
+artouze : met l'ante. 85
+tonioker61 : met la petite blind. 350
+manolito8888 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 9c]
+Mayrron91 : passe. 
+karlordd : passe. 
+artouze : suit. 700
+psychoman59 : passe. 
+geiriing : relance. 700 à 1400
+alescuerzo : passe. 
+tonioker61 : suit. 1050
+manolito8888 : suit. 700
+artouze : suit. 700
+*** FLOP *** [As 9d 7s]
+tonioker61 : mise. 700
+manolito8888 : passe. 
+artouze : passe. 
+geiriing : suit. 700
+*** TOURNANT *** [As 9d 7s] [5h]
+tonioker61 : mise. 700
+geiriing : suit. 700
+*** RIVIÈRE *** [As 9d 7s 5h] [Td]
+tonioker61 : mise. 2800
+geiriing : passe. 
+Personne n'a suivi. (2800) sont retournés à tonioker61.
+tonioker61 a remporté 9080  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9080 | Commission 0 
+Tableau [As 9d 7s 5h Td]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : geiriing s'est couché. sur le Rivière
+Siège 3 : alescuerzo (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 (petite blind) a remporté (9080)
+Siège 5 : manolito8888 (grosse blind) s'est couché. sur le Flop
+Siège 6 : Mayrron91 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : karlordd s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237845648343 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau X (350/700) - 07/08/2022 18:19:05 CET [07/08/2022 12:19:05 ET]
+Table '3450746320 3' 8-max Siège #4 est au bouton.
+Place 1: psychoman59 (18500 en jetons) 
+Place 2: geiriing (24695 en jetons) 
+Place 3: alescuerzo (7625 en jetons) ne joue pas.
+Place 4: tonioker61 (36095 en jetons) 
+Place 5: manolito8888 (7077 en jetons) 
+Place 6: Mayrron91 (9855 en jetons) 
+Place 7: karlordd (8065 en jetons) 
+Place 8: artouze (10585 en jetons) 
+psychoman59 : met l'ante. 85
+geiriing : met l'ante. 85
+alescuerzo : met l'ante. 85
+tonioker61 : met l'ante. 85
+manolito8888 : met l'ante. 85
+Mayrron91 : met l'ante. 85
+karlordd : met l'ante. 85
+artouze : met l'ante. 85
+manolito8888 : met la petite blind. 350
+Mayrron91 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Jh]
+karlordd : passe. 
+artouze : passe. 
+psychoman59 : passe. 
+geiriing : suit. 700
+alescuerzo : passe. 
+tonioker61 : passe. 
+manolito8888 : relance. 6292 à 6992 et est all-in.
+Mayrron91 : suit. 6292
+geiriing : passe. 
+*** FLOP *** [5c Ac 3h]
+*** TOURNANT *** [5c Ac 3h] [Js]
+*** RIVIÈRE *** [5c Ac 3h Js] [8c]
+*** ABATTAGE ***
+manolito8888 : montre [Ah Jc] (double paire, As et Valets)
+Mayrron91 : montre [6d 7d] (Hauteur As)
+manolito8888 a remporté 15364  lors du pot .
+*** SYNTHÈSE ***
+Pot total 15364 | Commission 0 
+Tableau [5c Ac 3h Js 8c]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : geiriing s'est couché. avant Flop
+Siège 3 : alescuerzo s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : manolito8888 (petite blind) a montré [Ah Jc] et a gagné (15364) avec double paire, As et Valets
+Siège 6 : Mayrron91 (grosse blind) a montré [6d 7d] et a perdu avec Hauteur As
+Siège 7 : karlordd s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237845656492 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau X (350/700) - 07/08/2022 18:19:30 CET [07/08/2022 12:19:30 ET]
+Table '3450746320 3' 8-max Siège #5 est au bouton.
+Place 1: psychoman59 (18415 en jetons) 
+Place 2: geiriing (23910 en jetons) 
+Place 3: alescuerzo (7540 en jetons) ne joue pas.
+Place 4: tonioker61 (36010 en jetons) 
+Place 5: manolito8888 (15364 en jetons) 
+Place 6: Mayrron91 (2778 en jetons) 
+Place 7: karlordd (7980 en jetons) 
+Place 8: artouze (10500 en jetons) 
+psychoman59 : met l'ante. 85
+geiriing : met l'ante. 85
+alescuerzo : met l'ante. 85
+tonioker61 : met l'ante. 85
+manolito8888 : met l'ante. 85
+Mayrron91 : met l'ante. 85
+karlordd : met l'ante. 85
+artouze : met l'ante. 85
+Mayrron91 : met la petite blind. 350
+karlordd : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 2d]
+artouze : passe. 
+psychoman59 : passe. 
+geiriing : passe. 
+alescuerzo : passe. 
+tonioker61 : passe. 
+manolito8888 : passe. 
+Mayrron91 : suit. 350
+karlordd : relance. 7195 à 7895 et est all-in.
+Mayrron91 : suit. 1993 et est all-in.
+Personne n'a suivi. (5202) sont retournés à karlordd.
+*** FLOP *** [Tc 3c 6c]
+*** TOURNANT *** [Tc 3c 6c] [5d]
+*** RIVIÈRE *** [Tc 3c 6c 5d] [9h]
+*** ABATTAGE ***
+Mayrron91 : montre [8c 6h] (une paire de Six)
+karlordd : montre [Td Kd] (une paire de Dix)
+karlordd a remporté 6066  lors du pot .
+Mayrron91 a terminé le tournoi
+*** SYNTHÈSE ***
+Pot total 6066 | Commission 0 
+Tableau [Tc 3c 6c 5d 9h]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : geiriing s'est couché. avant Flop (n'a pas misé)
+Siège 3 : alescuerzo s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : manolito8888 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Mayrron91 (petite blind) a montré [8c 6h] et a perdu avec une paire de Six
+Siège 7 : karlordd (grosse blind) a montré [Td Kd] et a gagné (6066) avec une paire de Dix
+Siège 8 : artouze s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237845666918 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau X (350/700) - 07/08/2022 18:20:02 CET [07/08/2022 12:20:02 ET]
+Table '3450746320 3' 8-max Siège #7 est au bouton.
+Place 1: psychoman59 (18330 en jetons) 
+Place 2: geiriing (23825 en jetons) 
+Place 3: alescuerzo (7455 en jetons) ne joue pas.
+Place 4: tonioker61 (35925 en jetons) 
+Place 5: manolito8888 (15279 en jetons) 
+Place 7: karlordd (11268 en jetons) 
+Place 8: artouze (10415 en jetons) 
+psychoman59 : met l'ante. 85
+geiriing : met l'ante. 85
+alescuerzo : met l'ante. 85
+tonioker61 : met l'ante. 85
+manolito8888 : met l'ante. 85
+karlordd : met l'ante. 85
+artouze : met l'ante. 85
+artouze : met la petite blind. 350
+psychoman59 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 6s]
+geiriing : relance. 1400 à 2100
+alescuerzo : passe. 
+tonioker61 : passe. 
+manolito8888 : passe. 
+karlordd : passe. 
+artouze : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (1400) sont retournés à geiriing.
+geiriing a remporté 2345  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2345 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : geiriing a remporté (2345)
+Siège 3 : alescuerzo s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : manolito8888 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : karlordd (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237845682088 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XI (400/800) - 07/08/2022 18:20:47 CET [07/08/2022 12:20:47 ET]
+Table '3450746320 3' 8-max Siège #8 est au bouton.
+Place 1: psychoman59 (17545 en jetons) 
+Place 2: geiriing (25385 en jetons) 
+Place 3: alescuerzo (7370 en jetons) ne joue pas.
+Place 4: tonioker61 (35840 en jetons) 
+Place 5: manolito8888 (15194 en jetons) 
+Place 7: karlordd (11183 en jetons) 
+Place 8: artouze (9980 en jetons) 
+psychoman59 : met l'ante. 100
+geiriing : met l'ante. 100
+alescuerzo : met l'ante. 100
+tonioker61 : met l'ante. 100
+manolito8888 : met l'ante. 100
+karlordd : met l'ante. 100
+artouze : met l'ante. 100
+psychoman59 : met la petite blind. 400
+geiriing : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 6c]
+alescuerzo : passe. 
+alescuerzo est déconnecté 
+alescuerzo est revenu.
+tonioker61 : suit. 800
+manolito8888 : passe. 
+karlordd : passe. 
+artouze : passe. 
+psychoman59 : passe. 
+geiriing : parole 
+*** FLOP *** [2c 4d Kd]
+geiriing : parole 
+tonioker61 : parole 
+*** TOURNANT *** [2c 4d Kd] [Ad]
+geiriing : mise. 800
+tonioker61 : passe. 
+Personne n'a suivi. (800) sont retournés à geiriing.
+geiriing a remporté 2700  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2700 | Commission 0 
+Tableau [2c 4d Kd Ad]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : geiriing (grosse blind) a remporté (2700)
+Siège 3 : alescuerzo s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 s'est couché. sur le Tournant
+Siège 5 : manolito8888 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : karlordd s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237845696238 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XI (400/800) - 07/08/2022 18:21:29 CET [07/08/2022 12:21:29 ET]
+Table '3450746320 3' 8-max Siège #1 est au bouton.
+Place 1: psychoman59 (17045 en jetons) 
+Place 2: geiriing (27185 en jetons) 
+Place 3: alescuerzo (7270 en jetons) 
+Place 4: tonioker61 (34940 en jetons) 
+Place 5: manolito8888 (15094 en jetons) 
+Place 7: karlordd (11083 en jetons) 
+Place 8: artouze (9880 en jetons) 
+psychoman59 : met l'ante. 100
+geiriing : met l'ante. 100
+alescuerzo : met l'ante. 100
+tonioker61 : met l'ante. 100
+manolito8888 : met l'ante. 100
+karlordd : met l'ante. 100
+artouze : met l'ante. 100
+geiriing : met la petite blind. 400
+alescuerzo : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 8h]
+tonioker61 : passe. 
+manolito8888 : relance. 14194 à 14994 et est all-in.
+karlordd : passe. 
+artouze : passe. 
+psychoman59 : passe. 
+geiriing : passe. 
+alescuerzo : passe. 
+Personne n'a suivi. (14194) sont retournés à manolito8888.
+manolito8888 a remporté 2700  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2700 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : geiriing (petite blind) s'est couché. avant Flop
+Siège 3 : alescuerzo (grosse blind) s'est couché. avant Flop
+Siège 4 : tonioker61 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : manolito8888 a remporté (2700)
+Siège 7 : karlordd s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237845703231 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XI (400/800) - 07/08/2022 18:21:48 CET [07/08/2022 12:21:48 ET]
+Table '3450746320 3' 8-max Siège #2 est au bouton.
+Place 1: psychoman59 (16945 en jetons) 
+Place 2: geiriing (26685 en jetons) 
+Place 3: alescuerzo (6370 en jetons) 
+Place 4: tonioker61 (34840 en jetons) 
+Place 5: manolito8888 (16894 en jetons) 
+Place 7: karlordd (10983 en jetons) 
+Place 8: artouze (9780 en jetons) 
+psychoman59 : met l'ante. 100
+geiriing : met l'ante. 100
+alescuerzo : met l'ante. 100
+tonioker61 : met l'ante. 100
+manolito8888 : met l'ante. 100
+karlordd : met l'ante. 100
+artouze : met l'ante. 100
+alescuerzo : met la petite blind. 400
+tonioker61 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Jh]
+manolito8888 : suit. 800
+karlordd : passe. 
+artouze : suit. 800
+psychoman59 : suit. 800
+geiriing : suit. 800
+alescuerzo : suit. 400
+tonioker61 : parole 
+*** FLOP *** [8s 6s 8c]
+alescuerzo : parole 
+tonioker61 : parole 
+manolito8888 : mise. 800
+artouze : relance. 8080 à 8880 et est all-in.
+psychoman59 : passe. 
+geiriing : passe. 
+alescuerzo : passe. 
+tonioker61 : passe. 
+manolito8888 : passe. 
+Personne n'a suivi. (8080) sont retournés à artouze.
+artouze a remporté 7100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 7100 | Commission 0 
+Tableau [8s 6s 8c]
+Siège 1 : psychoman59 s'est couché. sur le Flop
+Siège 2 : geiriing (bouton) s'est couché. sur le Flop
+Siège 3 : alescuerzo (petite blind) s'est couché. sur le Flop
+Siège 4 : tonioker61 (grosse blind) s'est couché. sur le Flop
+Siège 5 : manolito8888 s'est couché. sur le Flop
+Siège 7 : karlordd s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze a remporté (7100)
+
+
+
+Main PokerStars n°237845716651 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XII (500/1000) - 07/08/2022 18:22:29 CET [07/08/2022 12:22:29 ET]
+Table '3450746320 3' 8-max Siège #3 est au bouton.
+Place 1: psychoman59 (16045 en jetons) 
+Place 2: geiriing (25785 en jetons) 
+Place 3: alescuerzo (5470 en jetons) 
+Place 4: tonioker61 (33940 en jetons) 
+Place 5: manolito8888 (15194 en jetons) 
+Place 7: karlordd (10883 en jetons) 
+Place 8: artouze (15180 en jetons) 
+psychoman59 : met l'ante. 125
+geiriing : met l'ante. 125
+alescuerzo : met l'ante. 125
+tonioker61 : met l'ante. 125
+manolito8888 : met l'ante. 125
+karlordd : met l'ante. 125
+artouze : met l'ante. 125
+tonioker61 : met la petite blind. 500
+manolito8888 : met la grosse blind. 1000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 6c]
+karlordd : relance. 9758 à 10758 et est all-in.
+artouze : passe. 
+psychoman59 : passe. 
+geiriing : passe. 
+alescuerzo : passe. 
+tonioker61 : passe. 
+manolito8888 : suit. 9758
+*** FLOP *** [Kc 9s Th]
+*** TOURNANT *** [Kc 9s Th] [9h]
+*** RIVIÈRE *** [Kc 9s Th 9h] [9d]
+*** ABATTAGE ***
+manolito8888 : montre [7s 7d] (un full, full aux Neuf par les Sept)
+karlordd : montre [8c 8h] (un full, full aux Neuf par les Huit)
+karlordd a remporté 22891  lors du pot .
+*** SYNTHÈSE ***
+Pot total 22891 | Commission 0 
+Tableau [Kc 9s Th 9h 9d]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : geiriing s'est couché. avant Flop (n'a pas misé)
+Siège 3 : alescuerzo (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 (petite blind) s'est couché. avant Flop
+Siège 5 : manolito8888 (grosse blind) a montré [7s 7d] et a perdu avec un full, full aux Neuf par les Sept
+Siège 7 : karlordd a montré [8c 8h] et a gagné (22891) avec un full, full aux Neuf par les Huit
+Siège 8 : artouze s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237845722738 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XII (500/1000) - 07/08/2022 18:22:48 CET [07/08/2022 12:22:48 ET]
+Table '3450746320 3' 8-max Siège #4 est au bouton.
+Place 1: psychoman59 (15920 en jetons) 
+Place 2: geiriing (25660 en jetons) 
+Place 3: alescuerzo (5345 en jetons) 
+Place 4: tonioker61 (33315 en jetons) 
+Place 5: manolito8888 (4311 en jetons) 
+Place 6: rafa11902 (10000 en jetons) 
+Place 7: karlordd (22891 en jetons) 
+Place 8: artouze (15055 en jetons) 
+psychoman59 : met l'ante. 125
+geiriing : met l'ante. 125
+alescuerzo : met l'ante. 125
+tonioker61 : met l'ante. 125
+manolito8888 : met l'ante. 125
+rafa11902 : met l'ante. 125
+karlordd : met l'ante. 125
+artouze : met l'ante. 125
+manolito8888 : met la petite blind. 500
+rafa11902 : met la grosse blind. 1000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 8s]
+karlordd : passe. 
+artouze : passe. 
+psychoman59 : relance. 1000 à 2000
+geiriing : suit. 2000
+alescuerzo : passe. 
+tonioker61 : passe. 
+manolito8888 : suit. 1500
+rafa11902 : suit. 1000
+*** FLOP *** [7c 3d 5s]
+manolito8888 : parole 
+rafa11902 : parole 
+psychoman59 : parole 
+geiriing : parole 
+*** TOURNANT *** [7c 3d 5s] [9s]
+manolito8888 : mise. 2186 et est all-in.
+rafa11902 : passe. 
+psychoman59 : suit. 2186
+geiriing : suit. 2186
+*** RIVIÈRE *** [7c 3d 5s 9s] [Tc]
+psychoman59 : parole 
+geiriing : parole 
+*** ABATTAGE ***
+manolito8888 : montre [Td 9c] (double paire, Dix et Neuf)
+psychoman59 : cache la main perdante. 
+geiriing : cache la main perdante. 
+manolito8888 a remporté 15558  lors du pot .
+*** SYNTHÈSE ***
+Pot total 15558 | Commission 0 
+Tableau [7c 3d 5s 9s Tc]
+Siège 1 : psychoman59 a caché la main perdante. [As 8s]
+Siège 2 : geiriing a caché la main perdante. [Ks 9h]
+Siège 3 : alescuerzo s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : manolito8888 (petite blind) a montré [Td 9c] et a gagné (15558) avec double paire, Dix et Neuf
+Siège 6 : rafa11902 (grosse blind) s'est couché. sur le Tournant
+Siège 7 : karlordd s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237845744172 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XII (500/1000) - 07/08/2022 18:23:53 CET [07/08/2022 12:23:53 ET]
+Table '3450746320 3' 8-max Siège #5 est au bouton.
+Place 1: psychoman59 (11609 en jetons) 
+Place 2: geiriing (21349 en jetons) 
+Place 3: alescuerzo (5220 en jetons) 
+Place 4: tonioker61 (33190 en jetons) 
+Place 5: manolito8888 (15558 en jetons) 
+Place 6: rafa11902 (7875 en jetons) 
+Place 7: karlordd (22766 en jetons) 
+Place 8: artouze (14930 en jetons) 
+psychoman59 : met l'ante. 125
+geiriing : met l'ante. 125
+alescuerzo : met l'ante. 125
+tonioker61 : met l'ante. 125
+manolito8888 : met l'ante. 125
+rafa11902 : met l'ante. 125
+karlordd : met l'ante. 125
+artouze : met l'ante. 125
+rafa11902 : met la petite blind. 500
+karlordd : met la grosse blind. 1000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 2d]
+artouze : passe. 
+psychoman59 : passe. 
+geiriing : relance. 2000 à 3000
+alescuerzo : passe. 
+tonioker61 : suit. 3000
+manolito8888 : passe. 
+rafa11902 : passe. 
+karlordd : passe. 
+*** FLOP *** [3h As 3d]
+geiriing : mise. 2000
+tonioker61 : suit. 2000
+*** TOURNANT *** [3h As 3d] [2s]
+geiriing : mise. 3000
+tonioker61 : suit. 3000
+*** RIVIÈRE *** [3h As 3d 2s] [Th]
+geiriing : parole 
+tonioker61 : parole 
+*** ABATTAGE ***
+geiriing : montre [3s Js] (un brelan de Trois)
+tonioker61 : cache la main perdante. 
+geiriing a remporté 18500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 18500 | Commission 0 
+Tableau [3h As 3d 2s Th]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : geiriing a montré [3s Js] et a gagné (18500) avec un brelan de Trois
+Siège 3 : alescuerzo s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 a caché la main perdante. [Ad Jh]
+Siège 5 : manolito8888 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : rafa11902 (petite blind) s'est couché. avant Flop
+Siège 7 : karlordd (grosse blind) s'est couché. avant Flop
+Siège 8 : artouze s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237845769980 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XIII (600/1200) - 07/08/2022 18:24:58 CET [07/08/2022 12:24:58 ET]
+Table '3450746320 3' 8-max Siège #6 est au bouton.
+Place 1: psychoman59 (11484 en jetons) 
+Place 2: geiriing (31724 en jetons) 
+Place 3: alescuerzo (5095 en jetons) 
+Place 4: tonioker61 (25065 en jetons) 
+Place 5: manolito8888 (15433 en jetons) 
+Place 6: rafa11902 (7250 en jetons) 
+Place 7: karlordd (21641 en jetons) 
+Place 8: artouze (14805 en jetons) 
+psychoman59 : met l'ante. 150
+geiriing : met l'ante. 150
+alescuerzo : met l'ante. 150
+tonioker61 : met l'ante. 150
+manolito8888 : met l'ante. 150
+rafa11902 : met l'ante. 150
+karlordd : met l'ante. 150
+artouze : met l'ante. 150
+karlordd : met la petite blind. 600
+artouze : met la grosse blind. 1200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 3d]
+psychoman59 : passe. 
+geiriing : passe. 
+alescuerzo : passe. 
+tonioker61 : passe. 
+manolito8888 : suit. 1200
+rafa11902 : suit. 1200
+karlordd : passe. 
+artouze : relance. 13455 à 14655 et est all-in.
+manolito8888 : passe. 
+rafa11902 : suit. 5900 et est all-in.
+Personne n'a suivi. (7555) sont retournés à artouze.
+*** FLOP *** [Qd 8d 4c]
+*** TOURNANT *** [Qd 8d 4c] [Kc]
+*** RIVIÈRE *** [Qd 8d 4c Kc] [Ks]
+*** ABATTAGE ***
+artouze : montre [Tc Kd] (un brelan de Rois)
+rafa11902 : montre [Ac 4h] (double paire, Rois et Quatre)
+artouze a remporté 17200  lors du pot .
+rafa11902 a fini le tournoi en 74e position.
+*** SYNTHÈSE ***
+Pot total 17200 | Commission 0 
+Tableau [Qd 8d 4c Kc Ks]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : geiriing s'est couché. avant Flop (n'a pas misé)
+Siège 3 : alescuerzo s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : manolito8888 s'est couché. avant Flop
+Siège 6 : rafa11902 (bouton) a montré [Ac 4h] et a perdu avec double paire, Rois et Quatre
+Siège 7 : karlordd (petite blind) s'est couché. avant Flop
+Siège 8 : artouze (grosse blind) a montré [Tc Kd] et a gagné (17200) avec un brelan de Rois
+
+
+
+Main PokerStars n°237845781438 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XIII (600/1200) - 07/08/2022 18:25:32 CET [07/08/2022 12:25:32 ET]
+Table '3450746320 3' 8-max Siège #7 est au bouton.
+Place 1: psychoman59 (11334 en jetons) 
+Place 2: geiriing (31574 en jetons) 
+Place 3: alescuerzo (4945 en jetons) 
+Place 4: tonioker61 (24915 en jetons) 
+Place 5: manolito8888 (14083 en jetons) 
+Place 7: karlordd (20891 en jetons) 
+Place 8: artouze (24755 en jetons) 
+psychoman59 : met l'ante. 150
+geiriing : met l'ante. 150
+alescuerzo : met l'ante. 150
+tonioker61 : met l'ante. 150
+manolito8888 : met l'ante. 150
+karlordd : met l'ante. 150
+artouze : met l'ante. 150
+artouze : met la petite blind. 600
+psychoman59 : met la grosse blind. 1200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Jc]
+geiriing : suit. 1200
+alescuerzo : passe. 
+tonioker61 : passe. 
+manolito8888 : passe. 
+karlordd : passe. 
+artouze : passe. 
+psychoman59 : parole 
+*** FLOP *** [5d Ac 7h]
+psychoman59 : parole 
+geiriing : parole 
+*** TOURNANT *** [5d Ac 7h] [5c]
+psychoman59 : parole 
+geiriing : parole 
+*** RIVIÈRE *** [5d Ac 7h 5c] [8d]
+psychoman59 : parole 
+geiriing : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9h Jc] (une paire de Cinq)
+geiriing : montre [Ts Jd] (une paire de Cinq - As+Valet+Dix kicker)
+geiriing a remporté 4050  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4050 | Commission 0 
+Tableau [5d Ac 7h 5c 8d]
+Siège 1 : psychoman59 (grosse blind) a montré [9h Jc] et a perdu avec une paire de Cinq
+Siège 2 : geiriing a montré [Ts Jd] et a gagné (4050) avec une paire de Cinq
+Siège 3 : alescuerzo s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : manolito8888 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : karlordd (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237845793740 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XIII (600/1200) - 07/08/2022 18:26:08 CET [07/08/2022 12:26:08 ET]
+Table '3450746320 3' 8-max Siège #8 est au bouton.
+Place 1: psychoman59 (9984 en jetons) 
+Place 2: geiriing (34274 en jetons) 
+Place 3: alescuerzo (4795 en jetons) 
+Place 4: tonioker61 (24765 en jetons) 
+Place 5: manolito8888 (13933 en jetons) 
+Place 6: tonyzbo (10680 en jetons) 
+Place 7: karlordd (20741 en jetons) 
+Place 8: artouze (24005 en jetons) 
+psychoman59 : met l'ante. 150
+geiriing : met l'ante. 150
+alescuerzo : met l'ante. 150
+tonioker61 : met l'ante. 150
+manolito8888 : met l'ante. 150
+tonyzbo : met l'ante. 150
+karlordd : met l'ante. 150
+artouze : met l'ante. 150
+psychoman59 : met la petite blind. 600
+geiriing : met la grosse blind. 1200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 8c]
+alescuerzo : passe. 
+tonioker61 : passe. 
+manolito8888 : passe. 
+tonyzbo : relance. 9330 à 10530 et est all-in.
+karlordd : passe. 
+artouze : passe. 
+psychoman59 : passe. 
+geiriing : passe. 
+Personne n'a suivi. (9330) sont retournés à tonyzbo.
+tonyzbo a remporté 4200  lors du pot .
+tonyzbo : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 4200 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : geiriing (grosse blind) s'est couché. avant Flop
+Siège 3 : alescuerzo s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : manolito8888 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : tonyzbo a remporté (4200)
+Siège 7 : karlordd s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237845800052 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XIV (700/1400) - 07/08/2022 18:26:26 CET [07/08/2022 12:26:26 ET]
+Table '3450746320 3' 8-max Siège #1 est au bouton.
+Place 1: psychoman59 (9234 en jetons) 
+Place 2: geiriing (32924 en jetons) 
+Place 3: alescuerzo (4645 en jetons) 
+Place 4: tonioker61 (24615 en jetons) 
+Place 5: manolito8888 (13783 en jetons) 
+Place 6: tonyzbo (13530 en jetons) 
+Place 7: karlordd (20591 en jetons) 
+Place 8: artouze (23855 en jetons) 
+psychoman59 : met l'ante. 175
+geiriing : met l'ante. 175
+alescuerzo : met l'ante. 175
+tonioker61 : met l'ante. 175
+manolito8888 : met l'ante. 175
+tonyzbo : met l'ante. 175
+karlordd : met l'ante. 175
+artouze : met l'ante. 175
+geiriing : met la petite blind. 700
+alescuerzo : met la grosse blind. 1400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Kd]
+tonioker61 : suit. 1400
+manolito8888 : suit. 1400
+tonyzbo : passe. 
+karlordd : passe. 
+artouze : suit. 1400
+psychoman59 : passe. 
+geiriing : suit. 700
+alescuerzo : parole 
+*** FLOP *** [8h 7h 7s]
+geiriing : parole 
+alescuerzo : parole 
+tonioker61 : parole 
+manolito8888 : mise. 1400
+artouze : relance. 20880 à 22280 et est all-in.
+geiriing : passe. 
+alescuerzo : passe. 
+tonioker61 : passe. 
+manolito8888 : passe. 
+Personne n'a suivi. (20880) sont retournés à artouze.
+artouze a remporté 11200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 11200 | Commission 0 
+Tableau [8h 7h 7s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : geiriing (petite blind) s'est couché. sur le Flop
+Siège 3 : alescuerzo (grosse blind) s'est couché. sur le Flop
+Siège 4 : tonioker61 s'est couché. sur le Flop
+Siège 5 : manolito8888 s'est couché. sur le Flop
+Siège 6 : tonyzbo s'est couché. avant Flop (n'a pas misé)
+Siège 7 : karlordd s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze a remporté (11200)
+
+
+
+Main PokerStars n°237845821330 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XIV (700/1400) - 07/08/2022 18:27:28 CET [07/08/2022 12:27:28 ET]
+Table '3450746320 3' 8-max Siège #2 est au bouton.
+Place 1: psychoman59 (9059 en jetons) 
+Place 2: geiriing (31349 en jetons) 
+Place 3: alescuerzo (3070 en jetons) 
+Place 4: tonioker61 (23040 en jetons) 
+Place 5: manolito8888 (10808 en jetons) 
+Place 6: tonyzbo (13355 en jetons) 
+Place 8: artouze (32080 en jetons) 
+psychoman59 : met l'ante. 175
+geiriing : met l'ante. 175
+alescuerzo : met l'ante. 175
+tonioker61 : met l'ante. 175
+manolito8888 : met l'ante. 175
+tonyzbo : met l'ante. 175
+artouze : met l'ante. 175
+alescuerzo : met la petite blind. 700
+tonioker61 : met la grosse blind. 1400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Qd]
+manolito8888 : passe. 
+tonyzbo : passe. 
+artouze : suit. 1400
+psychoman59 : passe. 
+geiriing : passe. 
+alescuerzo : passe. 
+tonioker61 : parole 
+*** FLOP *** [3s 4d Kd]
+tonioker61 : mise. 1400
+artouze : suit. 1400
+*** TOURNANT *** [3s 4d Kd] [Td]
+tonioker61 : mise. 2800
+artouze : passe. 
+Personne n'a suivi. (2800) sont retournés à tonioker61.
+tonioker61 a remporté 7525  lors du pot .
+*** SYNTHÈSE ***
+Pot total 7525 | Commission 0 
+Tableau [3s 4d Kd Td]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : geiriing (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : alescuerzo (petite blind) s'est couché. avant Flop
+Siège 4 : tonioker61 (grosse blind) a remporté (7525)
+Siège 5 : manolito8888 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : tonyzbo s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237845831141 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XIV (700/1400) - 07/08/2022 18:27:57 CET [07/08/2022 12:27:57 ET]
+Table '3450746320 3' 8-max Siège #3 est au bouton.
+Place 1: psychoman59 (8884 en jetons) 
+Place 2: geiriing (31174 en jetons) 
+Place 3: alescuerzo (2195 en jetons) 
+Place 4: tonioker61 (27590 en jetons) 
+Place 5: manolito8888 (10633 en jetons) 
+Place 6: tonyzbo (13180 en jetons) 
+Place 8: artouze (29105 en jetons) 
+psychoman59 : met l'ante. 175
+geiriing : met l'ante. 175
+alescuerzo : met l'ante. 175
+tonioker61 : met l'ante. 175
+manolito8888 : met l'ante. 175
+tonyzbo : met l'ante. 175
+artouze : met l'ante. 175
+tonioker61 : met la petite blind. 700
+manolito8888 : met la grosse blind. 1400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Kh]
+tonyzbo : passe. 
+artouze : passe. 
+psychoman59 : passe. 
+geiriing : passe. 
+alescuerzo : relance. 620 à 2020 et est all-in.
+tonioker61 : suit. 1320
+manolito8888 : suit. 620
+*** FLOP *** [Qd 4d Ts]
+tonioker61 : parole 
+manolito8888 : parole 
+*** TOURNANT *** [Qd 4d Ts] [9h]
+tonioker61 : mise. 1400
+manolito8888 : suit. 1400
+*** RIVIÈRE *** [Qd 4d Ts 9h] [4s]
+tonioker61 : parole 
+manolito8888 : mise. 7038 et est all-in.
+tonioker61 : suit. 7038
+*** ABATTAGE ***
+manolito8888 : montre [5d 9s] (double paire, Neuf et Quatre)
+tonioker61 : montre [Qs 5s] (double paire, Dames et Quatre)
+tonioker61 a remporté 16876  parallèle lors du pot .
+alescuerzo : montre [As 5c] (une paire de Quatre)
+tonioker61 a remporté 7285  principal lors du pot .
+manolito8888 a fini le tournoi en 61er position.
+alescuerzo a fini le tournoi en 62e position.
+*** SYNTHÈSE ***
+Pot total 24161 Principal pot 7285. Parallèle pot 16876. | Commission 0 
+Tableau [Qd 4d Ts 9h 4s]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : geiriing s'est couché. avant Flop (n'a pas misé)
+Siège 3 : alescuerzo (bouton) a montré [As 5c] et a perdu avec une paire de Quatre
+Siège 4 : tonioker61 (petite blind) a montré [Qs 5s] et a gagné (24161) avec double paire, Dames et Quatre
+Siège 5 : manolito8888 (grosse blind) a montré [5d 9s] et a perdu avec double paire, Neuf et Quatre
+Siège 6 : tonyzbo s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237845848157 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XV (800/1600) - 07/08/2022 18:28:47 CET [07/08/2022 12:28:47 ET]
+Table '3450746320 3' 8-max Siège #4 est au bouton.
+Place 1: psychoman59 (8709 en jetons) 
+Place 2: geiriing (30999 en jetons) 
+Place 4: tonioker61 (41118 en jetons) 
+Place 6: tonyzbo (13005 en jetons) 
+Place 7: KKooQQ (4080 en jetons) 
+Place 8: artouze (28930 en jetons) 
+psychoman59 : met l'ante. 200
+geiriing : met l'ante. 200
+tonioker61 : met l'ante. 200
+tonyzbo : met l'ante. 200
+KKooQQ : met l'ante. 200
+artouze : met l'ante. 200
+tonyzbo : met la petite blind. 800
+KKooQQ : met la grosse blind. 1600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Qh]
+Jatanse est déconnecté 
+artouze : passe. 
+psychoman59 : relance. 6909 à 8509 et est all-in.
+geiriing : passe. 
+tonioker61 : suit. 8509
+tonyzbo : passe. 
+KKooQQ : suit. 2280 et est all-in.
+*** FLOP *** [3h Ah Kh]
+*** TOURNANT *** [3h Ah Kh] [6h]
+*** RIVIÈRE *** [3h Ah Kh 6h] [4s]
+*** ABATTAGE ***
+psychoman59 : montre [Qc Qh] (une couleur, hauteur As)
+tonioker61 : montre [7s 7h] (une couleur, hauteur As - plus basse cartes)
+psychoman59 a remporté 9258  parallèle lors du pot .
+KKooQQ : montre [9s Jd] (Hauteur As)
+psychoman59 a remporté 13640  principal lors du pot .
+KKooQQ a fini le tournoi en 59e position.
+*** SYNTHÈSE ***
+Pot total 22898 Principal pot 13640. Parallèle pot 9258. | Commission 0 
+Tableau [3h Ah Kh 6h 4s]
+Siège 1 : psychoman59 a montré [Qc Qh] et a gagné (22898) avec une couleur, hauteur As
+Siège 2 : geiriing s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 (bouton) a montré [7s 7h] et a perdu avec une couleur, hauteur As
+Siège 6 : tonyzbo (petite blind) s'est couché. avant Flop
+Siège 7 : KKooQQ (grosse blind) a montré [9s Jd] et a perdu avec Hauteur As
+Siège 8 : artouze s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237845858367 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XV (800/1600) - 07/08/2022 18:29:17 CET [07/08/2022 12:29:17 ET]
+Table '3450746320 3' 8-max Siège #6 est au bouton.
+Place 1: psychoman59 (22898 en jetons) 
+Place 2: geiriing (30799 en jetons) 
+Place 3: Jatanse (27839 en jetons) 
+Place 4: tonioker61 (32409 en jetons) 
+Place 6: tonyzbo (12005 en jetons) 
+Place 8: artouze (28730 en jetons) 
+psychoman59 : met l'ante. 200
+geiriing : met l'ante. 200
+Jatanse : met l'ante. 200
+tonioker61 : met l'ante. 200
+tonyzbo : met l'ante. 200
+artouze : met l'ante. 200
+artouze : met la petite blind. 800
+psychoman59 : met la grosse blind. 1600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 2d]
+geiriing : passe. 
+Jatanse : passe. 
+tonioker61 : passe. 
+tonyzbo : relance. 10205 à 11805 et est all-in.
+artouze : suit. 11005
+psychoman59 : passe. 
+*** FLOP *** [Ac Kc As]
+*** TOURNANT *** [Ac Kc As] [5s]
+*** RIVIÈRE *** [Ac Kc As 5s] [8d]
+*** ABATTAGE ***
+artouze : montre [8h Ad] (un full, full aux As par les Huit)
+tonyzbo : montre [Js Ts] (une paire de As)
+artouze a remporté 26410  lors du pot .
+tonyzbo a fini le tournoi en 56e position.
+*** SYNTHÈSE ***
+Pot total 26410 | Commission 0 
+Tableau [Ac Kc As 5s 8d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : geiriing s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Jatanse s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : tonyzbo (bouton) a montré [Js Ts] et a perdu avec une paire de As
+Siège 8 : artouze (petite blind) a montré [8h Ad] et a gagné (26410) avec un full, full aux As par les Huit
+
+
+
+Main PokerStars n°237845867991 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XV (800/1600) - 07/08/2022 18:29:46 CET [07/08/2022 12:29:46 ET]
+Table '3450746320 3' 8-max Siège #8 est au bouton.
+Place 1: psychoman59 (21098 en jetons) 
+Place 2: geiriing (30599 en jetons) 
+Place 3: Jatanse (27639 en jetons) 
+Place 4: tonioker61 (32209 en jetons) 
+Place 5: moustingue26 (16335 en jetons) 
+Place 7: R futur123 (8240 en jetons) 
+Place 8: artouze (43135 en jetons) 
+psychoman59 : met l'ante. 200
+geiriing : met l'ante. 200
+Jatanse : met l'ante. 200
+tonioker61 : met l'ante. 200
+moustingue26 : met l'ante. 200
+R futur123 : met l'ante. 200
+artouze : met l'ante. 200
+psychoman59 : met la petite blind. 800
+geiriing : met la grosse blind. 1600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Th]
+Jatanse : passe. 
+tonioker61 : passe. 
+moustingue26 : passe. 
+R futur123 : passe. 
+artouze : passe. 
+psychoman59 : relance. 1600 à 3200
+geiriing : suit. 1600
+*** FLOP *** [4c 4d As]
+psychoman59 : mise. 3900
+geiriing : passe. 
+Personne n'a suivi. (3900) sont retournés à psychoman59.
+psychoman59 a remporté 7800  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 7800 | Commission 0 
+Tableau [4c 4d As]
+Siège 1 : psychoman59 (petite blind) a remporté (7800)
+Siège 2 : geiriing (grosse blind) s'est couché. sur le Flop
+Siège 3 : Jatanse s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : moustingue26 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : R futur123 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237845882040 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XVI (1000/2000) - 07/08/2022 18:30:26 CET [07/08/2022 12:30:26 ET]
+Table '3450746320 3' 8-max Siège #1 est au bouton.
+Place 1: psychoman59 (25498 en jetons) 
+Place 2: geiriing (27199 en jetons) 
+Place 3: Jatanse (27439 en jetons) 
+Place 4: tonioker61 (32009 en jetons) 
+Place 5: moustingue26 (16135 en jetons) 
+Place 7: R futur123 (8040 en jetons) 
+Place 8: artouze (42935 en jetons) 
+psychoman59 : met l'ante. 250
+geiriing : met l'ante. 250
+Jatanse : met l'ante. 250
+tonioker61 : met l'ante. 250
+moustingue26 : met l'ante. 250
+R futur123 : met l'ante. 250
+artouze : met l'ante. 250
+geiriing : met la petite blind. 1000
+Jatanse : met la grosse blind. 2000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 5h]
+tonioker61 : passe. 
+moustingue26 : passe. 
+R futur123 : passe. 
+artouze : relance. 2000 à 4000
+psychoman59 : passe. 
+geiriing : passe. 
+Jatanse : suit. 2000
+*** FLOP *** [Ks Td 7h]
+Jatanse : parole 
+artouze : parole 
+*** TOURNANT *** [Ks Td 7h] [7c]
+Jatanse : parole 
+artouze : mise. 4000
+Jatanse : passe. 
+Personne n'a suivi. (4000) sont retournés à artouze.
+artouze a remporté 10750  lors du pot .
+*** SYNTHÈSE ***
+Pot total 10750 | Commission 0 
+Tableau [Ks Td 7h 7c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : geiriing (petite blind) s'est couché. avant Flop
+Siège 3 : Jatanse (grosse blind) s'est couché. sur le Tournant
+Siège 4 : tonioker61 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : moustingue26 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : R futur123 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze a remporté (10750)
+
+
+
+Main PokerStars n°237845894133 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XVI (1000/2000) - 07/08/2022 18:31:00 CET [07/08/2022 12:31:00 ET]
+Table '3450746320 3' 8-max Siège #2 est au bouton.
+Place 1: psychoman59 (25248 en jetons) 
+Place 2: geiriing (25949 en jetons) 
+Place 3: Jatanse (23189 en jetons) 
+Place 4: tonioker61 (31759 en jetons) 
+Place 5: moustingue26 (15885 en jetons) 
+Place 7: R futur123 (7790 en jetons) 
+Place 8: artouze (49435 en jetons) 
+psychoman59 : met l'ante. 250
+geiriing : met l'ante. 250
+Jatanse : met l'ante. 250
+tonioker61 : met l'ante. 250
+moustingue26 : met l'ante. 250
+R futur123 : met l'ante. 250
+artouze : met l'ante. 250
+Jatanse : met la petite blind. 1000
+tonioker61 : met la grosse blind. 2000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 2c]
+moustingue26 : passe. 
+R futur123 : passe. 
+artouze : passe. 
+psychoman59 : passe. 
+geiriing : passe. 
+Jatanse : relance. 2000 à 4000
+tonioker61 : suit. 2000
+*** FLOP *** [Ac Js 5c]
+Jatanse : mise. 4000
+tonioker61 : passe. 
+Personne n'a suivi. (4000) sont retournés à Jatanse.
+Jatanse a remporté 9750  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9750 | Commission 0 
+Tableau [Ac Js 5c]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : geiriing (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Jatanse (petite blind) a remporté (9750)
+Siège 4 : tonioker61 (grosse blind) s'est couché. sur le Flop
+Siège 5 : moustingue26 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : R futur123 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237845906483 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XVI (1000/2000) - 07/08/2022 18:31:36 CET [07/08/2022 12:31:36 ET]
+Table '3450746320 3' 8-max Siège #3 est au bouton.
+Place 1: psychoman59 (24998 en jetons) 
+Place 2: geiriing (25699 en jetons) 
+Place 3: Jatanse (28689 en jetons) 
+Place 4: tonioker61 (27509 en jetons) 
+Place 5: moustingue26 (15635 en jetons) 
+Place 7: R futur123 (7540 en jetons) 
+Place 8: artouze (49185 en jetons) 
+psychoman59 : met l'ante. 250
+geiriing : met l'ante. 250
+Jatanse : met l'ante. 250
+tonioker61 : met l'ante. 250
+moustingue26 : met l'ante. 250
+R futur123 : met l'ante. 250
+artouze : met l'ante. 250
+tonioker61 : met la petite blind. 1000
+moustingue26 : met la grosse blind. 2000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 4s]
+R futur123 : passe. 
+artouze : relance. 2000 à 4000
+psychoman59 : passe. 
+geiriing : passe. 
+Jatanse : passe. 
+tonioker61 : passe. 
+moustingue26 : relance. 11385 à 15385 et est all-in.
+artouze : suit. 11385
+*** FLOP *** [2c 2h 8s]
+*** TOURNANT *** [2c 2h 8s] [4h]
+*** RIVIÈRE *** [2c 2h 8s 4h] [9d]
+*** ABATTAGE ***
+moustingue26 : montre [6c 6d] (double paire, Six et Deux)
+artouze : montre [9s Js] (double paire, Neuf et Deux)
+artouze a remporté 33520  lors du pot .
+moustingue26 a fini le tournoi en 47e position.
+*** SYNTHÈSE ***
+Pot total 33520 | Commission 0 
+Tableau [2c 2h 8s 4h 9d]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : geiriing s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Jatanse (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 (petite blind) s'est couché. avant Flop
+Siège 5 : moustingue26 (grosse blind) a montré [6c 6d] et a perdu avec double paire, Six et Deux
+Siège 7 : R futur123 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze a montré [9s Js] et a gagné (33520) avec double paire, Neuf et Deux
+
+
+
+Main PokerStars n°237845921345 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XVII (1250/2500) - 07/08/2022 18:32:18 CET [07/08/2022 12:32:18 ET]
+Table '3450746320 3' 8-max Siège #4 est au bouton.
+Place 1: psychoman59 (24748 en jetons) 
+Place 2: geiriing (25449 en jetons) 
+Place 3: Jatanse (28439 en jetons) 
+Place 4: tonioker61 (26259 en jetons) 
+Place 6: AspicK666 (27716 en jetons) en dehors de la main (déplacé à la petite blind d'une autre table)
+Place 7: R futur123 (7290 en jetons) 
+Place 8: artouze (67070 en jetons) 
+AspicK666 sera autorisé à jouer après le bouton.
+psychoman59 : met l'ante. 325
+geiriing : met l'ante. 325
+Jatanse : met l'ante. 325
+tonioker61 : met l'ante. 325
+R futur123 : met l'ante. 325
+artouze : met l'ante. 325
+R futur123 : met la petite blind. 1250
+artouze : met la grosse blind. 2500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Jh]
+psychoman59 : passe. 
+geiriing : passe. 
+Jatanse : passe. 
+tonioker61 : passe. 
+R futur123 : passe. 
+Personne n'a suivi. (1250) sont retournés à artouze.
+artouze a remporté 4450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4450 | Commission 0 
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : geiriing s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Jatanse s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 7 : R futur123 (petite blind) s'est couché. avant Flop
+Siège 8 : artouze (grosse blind) a remporté (4450)
+
+
+
+Main PokerStars n°237845927206 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XVII (1250/2500) - 07/08/2022 18:32:35 CET [07/08/2022 12:32:35 ET]
+Table '3450746320 3' 8-max Siège #7 est au bouton.
+Place 1: psychoman59 (24423 en jetons) 
+Place 2: geiriing (25124 en jetons) 
+Place 3: Jatanse (28114 en jetons) 
+Place 4: tonioker61 (25934 en jetons) 
+Place 6: AspicK666 (27716 en jetons) 
+Place 7: R futur123 (5715 en jetons) 
+Place 8: artouze (69945 en jetons) 
+psychoman59 : met l'ante. 325
+geiriing : met l'ante. 325
+Jatanse : met l'ante. 325
+tonioker61 : met l'ante. 325
+AspicK666 : met l'ante. 325
+R futur123 : met l'ante. 325
+artouze : met l'ante. 325
+artouze : met la petite blind. 1250
+psychoman59 : met la grosse blind. 2500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 5s]
+geiriing : passe. 
+Jatanse : passe. 
+tonioker61 : suit. 2500
+AspicK666 : passe. 
+R futur123 : passe. 
+artouze : relance. 7500 à 10000
+psychoman59 : passe. 
+tonioker61 : suit. 7500
+*** FLOP *** [Kd 2s Tc]
+artouze : parole 
+tonioker61 : mise. 15609 et est all-in.
+artouze : passe. 
+Personne n'a suivi. (15609) sont retournés à tonioker61.
+tonioker61 a remporté 24775  lors du pot .
+*** SYNTHÈSE ***
+Pot total 24775 | Commission 0 
+Tableau [Kd 2s Tc]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : geiriing s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Jatanse s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 a remporté (24775)
+Siège 6 : AspicK666 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : R futur123 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 8 : artouze (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237845938903 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XVII (1250/2500) - 07/08/2022 18:33:08 CET [07/08/2022 12:33:08 ET]
+Table '3450746320 3' 8-max Siège #8 est au bouton.
+Place 1: psychoman59 (21598 en jetons) 
+Place 2: geiriing (24799 en jetons) 
+Place 3: Jatanse (27789 en jetons) 
+Place 4: tonioker61 (40384 en jetons) 
+Place 6: AspicK666 (27391 en jetons) 
+Place 7: R futur123 (5390 en jetons) 
+Place 8: artouze (59620 en jetons) 
+psychoman59 : met l'ante. 325
+geiriing : met l'ante. 325
+Jatanse : met l'ante. 325
+tonioker61 : met l'ante. 325
+AspicK666 : met l'ante. 325
+R futur123 : met l'ante. 325
+artouze : met l'ante. 325
+psychoman59 : met la petite blind. 1250
+geiriing : met la grosse blind. 2500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 6d]
+Jatanse : passe. 
+tonioker61 : passe. 
+AspicK666 : passe. 
+R futur123 : relance. 2565 à 5065 et est all-in.
+artouze : suit. 5065
+psychoman59 : passe. 
+geiriing : passe. 
+*** FLOP *** [Qh 8s 2s]
+*** TOURNANT *** [Qh 8s 2s] [5h]
+*** RIVIÈRE *** [Qh 8s 2s 5h] [8h]
+*** ABATTAGE ***
+R futur123 : montre [Qc Ks] (double paire, Dames et Huit)
+artouze : montre [2c 2h] (un full, full aux Deux par les Huit)
+artouze a remporté 16155  lors du pot .
+R futur123 a fini le tournoi en 41er position.
+*** SYNTHÈSE ***
+Pot total 16155 | Commission 0 
+Tableau [Qh 8s 2s 5h 8h]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : geiriing (grosse blind) s'est couché. avant Flop
+Siège 3 : Jatanse s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonioker61 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : AspicK666 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : R futur123 a montré [Qc Ks] et a perdu avec double paire, Dames et Huit
+Siège 8 : artouze (bouton) a montré [2c 2h] et a gagné (16155) avec un full, full aux Deux par les Huit
+
+
+
+Main PokerStars n°237845953841 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XVII (1250/2500) - 07/08/2022 18:33:51 CET [07/08/2022 12:33:51 ET]
+Table '3450746320 12' 8-max Siège #4 est au bouton.
+Place 1: BeMJack (41782 en jetons) 
+Place 2: psychoman59 (20023 en jetons) 
+Place 3: banh57 (41150 en jetons) 
+Place 4: pierrot20114 (15945 en jetons) 
+Place 5: solutions36 (17870 en jetons) 
+Place 6: megakraken (33195 en jetons) 
+Place 7: clintstars2018 (13400 en jetons) ne joue pas.
+Place 8: palestino11 (26675 en jetons) 
+BeMJack : met l'ante. 325
+psychoman59 : met l'ante. 325
+banh57 : met l'ante. 325
+pierrot20114 : met l'ante. 325
+solutions36 : met l'ante. 325
+megakraken : met l'ante. 325
+clintstars2018 : met l'ante. 325
+palestino11 : met l'ante. 325
+solutions36 : met la petite blind. 1250
+megakraken : met la grosse blind. 2500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 6c]
+clintstars2018 : passe. 
+palestino11 : passe. 
+BeMJack : passe. 
+psychoman59 : passe. 
+banh57 : passe. 
+pierrot20114 : passe. 
+solutions36 : relance. 15045 à 17545 et est all-in.
+megakraken : suit. 15045
+*** FLOP *** [Qs 2h 5c]
+*** TOURNANT *** [Qs 2h 5c] [Qh]
+*** RIVIÈRE *** [Qs 2h 5c Qh] [Kd]
+*** ABATTAGE ***
+solutions36 : montre [2s 7c] (double paire, Dames et Deux)
+megakraken : montre [Ad Kh] (double paire, Rois et Dames)
+megakraken a remporté 37690  lors du pot .
+solutions36 a fini le tournoi en 40e position.
+*** SYNTHÈSE ***
+Pot total 37690 | Commission 0 
+Tableau [Qs 2h 5c Qh Kd]
+Siège 1 : BeMJack s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : banh57 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : pierrot20114 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : solutions36 (petite blind) a montré [2s 7c] et a perdu avec double paire, Dames et Deux
+Siège 6 : megakraken (grosse blind) a montré [Ad Kh] et a gagné (37690) avec double paire, Rois et Dames
+Siège 7 : clintstars2018 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : palestino11 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237845965107 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XVIII (1500/3000) - 07/08/2022 18:34:22 CET [07/08/2022 12:34:22 ET]
+Table '3450746320 12' 8-max Siège #6 est au bouton.
+Place 1: BeMJack (41457 en jetons) 
+Place 2: psychoman59 (19698 en jetons) 
+Place 3: banh57 (40825 en jetons) 
+Place 4: pierrot20114 (15620 en jetons) 
+Place 6: megakraken (53015 en jetons) 
+Place 7: clintstars2018 (13075 en jetons) ne joue pas.
+Place 8: palestino11 (26350 en jetons) 
+BeMJack : met l'ante. 375
+psychoman59 : met l'ante. 375
+banh57 : met l'ante. 375
+pierrot20114 : met l'ante. 375
+megakraken : met l'ante. 375
+clintstars2018 : met l'ante. 375
+palestino11 : met l'ante. 375
+clintstars2018 : met la petite blind. 1500
+palestino11 : met la grosse blind. 3000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 4c]
+BeMJack : passe. 
+psychoman59 : passe. 
+banh57 : passe. 
+pierrot20114 : passe. 
+megakraken : passe. 
+clintstars2018 : passe. 
+Personne n'a suivi. (1500) sont retournés à palestino11.
+palestino11 a remporté 5625  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5625 | Commission 0 
+Siège 1 : BeMJack s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : banh57 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : pierrot20114 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : megakraken (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 7 : clintstars2018 (petite blind) s'est couché. avant Flop
+Siège 8 : palestino11 (grosse blind) a remporté (5625)
+
+
+
+Main PokerStars n°237845970070 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XVIII (1500/3000) - 07/08/2022 18:34:37 CET [07/08/2022 12:34:37 ET]
+Table '3450746320 12' 8-max Siège #7 est au bouton.
+Place 1: BeMJack (41082 en jetons) 
+Place 2: psychoman59 (19323 en jetons) 
+Place 3: banh57 (40450 en jetons) 
+Place 4: pierrot20114 (15245 en jetons) 
+Place 6: megakraken (52640 en jetons) 
+Place 7: clintstars2018 (11200 en jetons) ne joue pas.
+Place 8: palestino11 (30100 en jetons) 
+BeMJack : met l'ante. 375
+psychoman59 : met l'ante. 375
+banh57 : met l'ante. 375
+pierrot20114 : met l'ante. 375
+megakraken : met l'ante. 375
+clintstars2018 : met l'ante. 375
+palestino11 : met l'ante. 375
+palestino11 : met la petite blind. 1500
+BeMJack : met la grosse blind. 3000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Qh]
+clintstars2018 est revenu.
+psychoman59 : passe. 
+banh57 : passe. 
+pierrot20114 : passe. 
+megakraken : passe. 
+clintstars2018 : passe. 
+palestino11 : passe. 
+Personne n'a suivi. (1500) sont retournés à BeMJack.
+BeMJack a remporté 5625  lors du pot .
+BeMJack : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 5625 | Commission 0 
+Siège 1 : BeMJack (grosse blind) a remporté (5625)
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : banh57 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : pierrot20114 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : megakraken s'est couché. avant Flop (n'a pas misé)
+Siège 7 : clintstars2018 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 8 : palestino11 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237845977923 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XVIII (1500/3000) - 07/08/2022 18:34:59 CET [07/08/2022 12:34:59 ET]
+Table '3450746320 12' 8-max Siège #8 est au bouton.
+Place 1: BeMJack (44832 en jetons) 
+Place 2: psychoman59 (18948 en jetons) 
+Place 3: banh57 (40075 en jetons) 
+Place 4: pierrot20114 (14870 en jetons) 
+Place 6: megakraken (52265 en jetons) 
+Place 7: clintstars2018 (10825 en jetons) 
+Place 8: palestino11 (28225 en jetons) 
+BeMJack : met l'ante. 375
+psychoman59 : met l'ante. 375
+banh57 : met l'ante. 375
+pierrot20114 : met l'ante. 375
+megakraken : met l'ante. 375
+clintstars2018 : met l'ante. 375
+palestino11 : met l'ante. 375
+BeMJack : met la petite blind. 1500
+psychoman59 : met la grosse blind. 3000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 7c]
+banh57 : passe. 
+pierrot20114 : passe. 
+megakraken : passe. 
+clintstars2018 : relance. 7450 à 10450 et est all-in.
+palestino11 : passe. 
+BeMJack : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (7450) sont retournés à clintstars2018.
+clintstars2018 a remporté 10125  lors du pot .
+clintstars2018 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 10125 | Commission 0 
+Siège 1 : BeMJack (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : banh57 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : pierrot20114 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : megakraken s'est couché. avant Flop (n'a pas misé)
+Siège 7 : clintstars2018 a remporté (10125)
+Siège 8 : palestino11 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237846002579 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XVIII (1500/3000) - 07/08/2022 18:36:07 CET [07/08/2022 12:36:07 ET]
+Table '3450746320 12' 8-max Siège #1 est au bouton.
+Place 1: BeMJack (42957 en jetons) 
+Place 2: psychoman59 (15573 en jetons) 
+Place 3: banh57 (39700 en jetons) 
+Place 4: pierrot20114 (14495 en jetons) 
+Place 6: megakraken (51890 en jetons) 
+Place 7: clintstars2018 (17575 en jetons) 
+Place 8: palestino11 (27850 en jetons) 
+BeMJack : met l'ante. 375
+psychoman59 : met l'ante. 375
+banh57 : met l'ante. 375
+pierrot20114 : met l'ante. 375
+megakraken : met l'ante. 375
+clintstars2018 : met l'ante. 375
+palestino11 : met l'ante. 375
+psychoman59 : met la petite blind. 1500
+banh57 : met la grosse blind. 3000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 2c]
+pierrot20114 : passe. 
+megakraken : passe. 
+clintstars2018 : passe. 
+palestino11 : passe. 
+BeMJack : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (1500) sont retournés à banh57.
+banh57 a remporté 5625  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5625 | Commission 0 
+Siège 1 : BeMJack (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : banh57 (grosse blind) a remporté (5625)
+Siège 4 : pierrot20114 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : megakraken s'est couché. avant Flop (n'a pas misé)
+Siège 7 : clintstars2018 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : palestino11 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237846012119 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XIX (2000/4000) - 07/08/2022 18:36:34 CET [07/08/2022 12:36:34 ET]
+Table '3450746320 12' 8-max Siège #2 est au bouton.
+Place 1: BeMJack (42582 en jetons) 
+Place 2: psychoman59 (13698 en jetons) 
+Place 3: banh57 (43450 en jetons) 
+Place 4: pierrot20114 (14120 en jetons) 
+Place 6: megakraken (51515 en jetons) 
+Place 7: clintstars2018 (17200 en jetons) 
+Place 8: palestino11 (27475 en jetons) 
+BeMJack : met l'ante. 500
+psychoman59 : met l'ante. 500
+banh57 : met l'ante. 500
+pierrot20114 : met l'ante. 500
+megakraken : met l'ante. 500
+clintstars2018 : met l'ante. 500
+palestino11 : met l'ante. 500
+banh57 : met la petite blind. 2000
+pierrot20114 : met la grosse blind. 4000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Ks]
+megakraken : passe. 
+clintstars2018 : passe. 
+palestino11 : passe. 
+BeMJack : passe. 
+psychoman59 : relance. 9198 à 13198 et est all-in.
+banh57 : passe. 
+pierrot20114 : suit. 9198
+*** FLOP *** [3h 4h 5s]
+*** TOURNANT *** [3h 4h 5s] [9d]
+*** RIVIÈRE *** [3h 4h 5s 9d] [Kc]
+*** ABATTAGE ***
+pierrot20114 : montre [Jd Qc] (Hauteur Roi)
+psychoman59 : montre [Js Ks] (une paire de Rois)
+psychoman59 a remporté 31896  lors du pot .
+*** SYNTHÈSE ***
+Pot total 31896 | Commission 0 
+Tableau [3h 4h 5s 9d Kc]
+Siège 1 : BeMJack s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (bouton) a montré [Js Ks] et a gagné (31896) avec une paire de Rois
+Siège 3 : banh57 (petite blind) s'est couché. avant Flop
+Siège 4 : pierrot20114 (grosse blind) a montré [Jd Qc] et a perdu avec Hauteur Roi
+Siège 6 : megakraken s'est couché. avant Flop (n'a pas misé)
+Siège 7 : clintstars2018 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : palestino11 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237846022304 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XIX (2000/4000) - 07/08/2022 18:37:02 CET [07/08/2022 12:37:02 ET]
+Table '3450746320 12' 8-max Siège #3 est au bouton.
+Place 1: BeMJack (42082 en jetons) 
+Place 2: psychoman59 (31896 en jetons) 
+Place 3: banh57 (40950 en jetons) 
+Place 4: pierrot20114 (422 en jetons) 
+Place 6: megakraken (51015 en jetons) 
+Place 7: clintstars2018 (16700 en jetons) 
+Place 8: palestino11 (26975 en jetons) 
+BeMJack : met l'ante. 500
+psychoman59 : met l'ante. 500
+banh57 : met l'ante. 500
+pierrot20114 : met l'ante. 422 et est all-in.
+megakraken : met l'ante. 500
+clintstars2018 : met l'ante. 500
+palestino11 : met l'ante. 500
+megakraken : met la grosse blind. 4000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 9h]
+clintstars2018 : relance. 12200 à 16200 et est all-in.
+palestino11 : passe. 
+BeMJack : passe. 
+psychoman59 : passe. 
+banh57 : passe. 
+megakraken : passe. 
+Personne n'a suivi. (12200) sont retournés à clintstars2018.
+*** FLOP *** [Qc 7c Qd]
+*** TOURNANT *** [Qc 7c Qd] [5c]
+*** RIVIÈRE *** [Qc 7c Qd 5c] [4h]
+*** ABATTAGE ***
+clintstars2018 : montre [Ah 6d] (une paire de Dames)
+clintstars2018 a remporté 8468  parallèle lors du pot .
+pierrot20114 : montre [9c 4s] (double paire, Dames et Quatre)
+pierrot20114 a remporté 2954  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 11422 Principal pot 2954. Parallèle pot 8468. | Commission 0 
+Tableau [Qc 7c Qd 5c 4h]
+Siège 1 : BeMJack s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : banh57 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : pierrot20114 a montré [9c 4s] et a gagné (2954) avec double paire, Dames et Quatre
+Siège 6 : megakraken (grosse blind) s'est couché. avant Flop
+Siège 7 : clintstars2018 a montré [Ah 6d] et a gagné (8468) avec une paire de Dames
+Siège 8 : palestino11 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237846039845 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XIX (2000/4000) - 07/08/2022 18:37:51 CET [07/08/2022 12:37:51 ET]
+Table '3450746320 12' 8-max Siège #4 est au bouton.
+Place 1: BeMJack (41582 en jetons) 
+Place 2: psychoman59 (31396 en jetons) 
+Place 3: banh57 (40450 en jetons) 
+Place 4: pierrot20114 (2954 en jetons) 
+Place 5: roberto61700 (43825 en jetons) en dehors de la main (déplacé à la petite blind d'une autre table)
+Place 6: megakraken (46515 en jetons) 
+Place 7: clintstars2018 (20668 en jetons) 
+Place 8: palestino11 (26475 en jetons) 
+roberto61700 sera autorisé à jouer après le bouton.
+BeMJack : met l'ante. 500
+psychoman59 : met l'ante. 500
+banh57 : met l'ante. 500
+pierrot20114 : met l'ante. 500
+megakraken : met l'ante. 500
+clintstars2018 : met l'ante. 500
+palestino11 : met l'ante. 500
+megakraken : met la petite blind. 2000
+clintstars2018 : met la grosse blind. 4000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 3c]
+palestino11 : passe. 
+BeMJack : passe. 
+psychoman59 : passe. 
+banh57 : passe. 
+pierrot20114 : suit. 2454 et est all-in.
+megakraken : relance. 42015 à 46015 et est all-in.
+clintstars2018 : passe. 
+Personne n'a suivi. (42015) sont retournés à megakraken.
+*** FLOP *** [Kh Kc 8c]
+*** TOURNANT *** [Kh Kc 8c] [8d]
+*** RIVIÈRE *** [Kh Kc 8c 8d] [7h]
+*** ABATTAGE ***
+megakraken : montre [Ad Qd] (double paire, Rois et Huit)
+megakraken a remporté 3092  parallèle lors du pot .
+pierrot20114 : montre [Ah 4h] (double paire, Rois et Huit)
+megakraken a remporté 5431  principal lors du pot .
+pierrot20114 a remporté 5431  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 13954 Principal pot 10862. Parallèle pot 3092. | Commission 0 
+Tableau [Kh Kc 8c 8d 7h]
+Siège 1 : BeMJack s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : banh57 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : pierrot20114 (bouton) a montré [Ah 4h] et a gagné (5431) avec double paire, Rois et Huit
+Siège 6 : megakraken (petite blind) a montré [Ad Qd] et a gagné (8523) avec double paire, Rois et Huit
+Siège 7 : clintstars2018 (grosse blind) s'est couché. avant Flop
+Siège 8 : palestino11 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237846051275 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XX (2500/5000) - 07/08/2022 18:38:23 CET [07/08/2022 12:38:23 ET]
+Table '3450746320 12' 8-max Siège #6 est au bouton.
+Place 1: BeMJack (41082 en jetons) 
+Place 2: psychoman59 (30896 en jetons) 
+Place 3: banh57 (39950 en jetons) 
+Place 4: pierrot20114 (5431 en jetons) 
+Place 5: roberto61700 (43825 en jetons) 
+Place 6: megakraken (50538 en jetons) 
+Place 7: clintstars2018 (16168 en jetons) 
+Place 8: palestino11 (25975 en jetons) 
+BeMJack : met l'ante. 625
+psychoman59 : met l'ante. 625
+banh57 : met l'ante. 625
+pierrot20114 : met l'ante. 625
+roberto61700 : met l'ante. 625
+megakraken : met l'ante. 625
+clintstars2018 : met l'ante. 625
+palestino11 : met l'ante. 625
+clintstars2018 : met la petite blind. 2500
+palestino11 : met la grosse blind. 5000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 2h]
+BeMJack : passe. 
+psychoman59 : passe. 
+banh57 : passe. 
+pierrot20114 : suit. 4806 et est all-in.
+roberto61700 : passe. 
+megakraken : passe. 
+clintstars2018 : relance. 10543 à 15543 et est all-in.
+palestino11 : passe. 
+Personne n'a suivi. (10543) sont retournés à clintstars2018.
+*** FLOP *** [6c Ad 3c]
+*** TOURNANT *** [6c Ad 3c] [Ac]
+*** RIVIÈRE *** [6c Ad 3c Ac] [Kh]
+*** ABATTAGE ***
+clintstars2018 : montre [As 7d] (un brelan de As)
+clintstars2018 a remporté 388  parallèle lors du pot .
+pierrot20114 : montre [Qd Td] (une paire de As)
+clintstars2018 a remporté 19418  principal lors du pot .
+pierrot20114 a fini le tournoi en 30e position.
+*** SYNTHÈSE ***
+Pot total 19806 Principal pot 19418. Parallèle pot 388. | Commission 0 
+Tableau [6c Ad 3c Ac Kh]
+Siège 1 : BeMJack s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : banh57 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : pierrot20114 a montré [Qd Td] et a perdu avec une paire de As
+Siège 5 : roberto61700 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : megakraken (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 7 : clintstars2018 (petite blind) a montré [As 7d] et a gagné (19806) avec un brelan de As
+Siège 8 : palestino11 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237846075280 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XX (2500/5000) - 07/08/2022 18:39:12 CET [07/08/2022 12:39:12 ET]
+Table '3450746320 12' 8-max Siège #7 est au bouton.
+Place 1: BeMJack (40457 en jetons) 
+Place 2: psychoman59 (30271 en jetons) 
+Place 3: banh57 (39325 en jetons) 
+Place 5: roberto61700 (43200 en jetons) 
+Place 6: megakraken (49913 en jetons) 
+Place 7: clintstars2018 (30349 en jetons) 
+Place 8: palestino11 (20350 en jetons) 
+BeMJack : met l'ante. 625
+psychoman59 : met l'ante. 625
+banh57 : met l'ante. 625
+roberto61700 : met l'ante. 625
+megakraken : met l'ante. 625
+clintstars2018 : met l'ante. 625
+palestino11 : met l'ante. 625
+palestino11 : met la petite blind. 2500
+BeMJack : met la grosse blind. 5000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 8s]
+psychoman59 : passe. 
+banh57 : passe. 
+roberto61700 : relance. 16875 à 21875
+megakraken : passe. 
+clintstars2018 : passe. 
+palestino11 : passe. 
+BeMJack : passe. 
+Personne n'a suivi. (16875) sont retournés à roberto61700.
+roberto61700 a remporté 16875  lors du pot .
+*** SYNTHÈSE ***
+Pot total 16875 | Commission 0 
+Siège 1 : BeMJack (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : banh57 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : roberto61700 a remporté (16875)
+Siège 6 : megakraken s'est couché. avant Flop (n'a pas misé)
+Siège 7 : clintstars2018 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 8 : palestino11 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237846092536 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XX (2500/5000) - 07/08/2022 18:39:59 CET [07/08/2022 12:39:59 ET]
+Table '3450746320 12' 8-max Siège #8 est au bouton.
+Place 1: BeMJack (34832 en jetons) 
+Place 2: psychoman59 (29646 en jetons) 
+Place 3: banh57 (38700 en jetons) 
+Place 5: roberto61700 (54450 en jetons) 
+Place 6: megakraken (49288 en jetons) 
+Place 7: clintstars2018 (29724 en jetons) 
+Place 8: palestino11 (17225 en jetons) 
+BeMJack : met l'ante. 625
+psychoman59 : met l'ante. 625
+banh57 : met l'ante. 625
+roberto61700 : met l'ante. 625
+megakraken : met l'ante. 625
+clintstars2018 : met l'ante. 625
+palestino11 : met l'ante. 625
+BeMJack : met la petite blind. 2500
+psychoman59 : met la grosse blind. 5000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Ts]
+banh57 : passe. 
+roberto61700 : passe. 
+megakraken : passe. 
+clintstars2018 : passe. 
+palestino11 : relance. 11600 à 16600 et est all-in.
+BeMJack : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (11600) sont retournés à palestino11.
+palestino11 a remporté 16875  lors du pot .
+*** SYNTHÈSE ***
+Pot total 16875 | Commission 0 
+Siège 1 : BeMJack (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : banh57 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : roberto61700 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : megakraken s'est couché. avant Flop (n'a pas misé)
+Siège 7 : clintstars2018 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : palestino11 (bouton) a remporté (16875)
+
+
+
+Main PokerStars n°237846121253 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XXI (3000/6000) - 07/08/2022 18:40:54 CET [07/08/2022 12:40:54 ET]
+Table '3450746320 12' 8-max Siège #1 est au bouton.
+Place 1: BeMJack (31707 en jetons) 
+Place 2: psychoman59 (24021 en jetons) 
+Place 3: banh57 (38075 en jetons) 
+Place 5: roberto61700 (53825 en jetons) 
+Place 6: megakraken (48663 en jetons) 
+Place 7: clintstars2018 (29099 en jetons) 
+Place 8: palestino11 (28475 en jetons) 
+BeMJack : met l'ante. 750
+psychoman59 : met l'ante. 750
+banh57 : met l'ante. 750
+roberto61700 : met l'ante. 750
+megakraken : met l'ante. 750
+clintstars2018 : met l'ante. 750
+palestino11 : met l'ante. 750
+psychoman59 : met la petite blind. 3000
+banh57 : met la grosse blind. 6000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7h]
+roberto61700 : passe. 
+megakraken : passe. 
+clintstars2018 : passe. 
+palestino11 : passe. 
+BeMJack : relance. 24957 à 30957 et est all-in.
+psychoman59 : passe. 
+banh57 : passe. 
+Personne n'a suivi. (24957) sont retournés à BeMJack.
+BeMJack a remporté 20250  lors du pot .
+BeMJack : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20250 | Commission 0 
+Siège 1 : BeMJack (bouton) a remporté (20250)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : banh57 (grosse blind) s'est couché. avant Flop
+Siège 5 : roberto61700 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : megakraken s'est couché. avant Flop (n'a pas misé)
+Siège 7 : clintstars2018 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : palestino11 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237846132386 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XXI (3000/6000) - 07/08/2022 18:41:25 CET [07/08/2022 12:41:25 ET]
+Table '3450746320 12' 8-max Siège #2 est au bouton.
+Place 1: BeMJack (45207 en jetons) 
+Place 2: psychoman59 (20271 en jetons) 
+Place 3: banh57 (31325 en jetons) 
+Place 5: roberto61700 (53075 en jetons) 
+Place 6: megakraken (47913 en jetons) 
+Place 7: clintstars2018 (28349 en jetons) 
+Place 8: palestino11 (27725 en jetons) 
+BeMJack : met l'ante. 750
+psychoman59 : met l'ante. 750
+banh57 : met l'ante. 750
+roberto61700 : met l'ante. 750
+megakraken : met l'ante. 750
+clintstars2018 : met l'ante. 750
+palestino11 : met l'ante. 750
+banh57 : met la petite blind. 3000
+roberto61700 : met la grosse blind. 6000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Jc]
+megakraken : passe. 
+clintstars2018 : passe. 
+palestino11 : passe. 
+BeMJack : passe. 
+psychoman59 : passe. 
+banh57 : passe. 
+Personne n'a suivi. (3000) sont retournés à roberto61700.
+roberto61700 a remporté 11250  lors du pot .
+*** SYNTHÈSE ***
+Pot total 11250 | Commission 0 
+Siège 1 : BeMJack s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : banh57 (petite blind) s'est couché. avant Flop
+Siège 5 : roberto61700 (grosse blind) a remporté (11250)
+Siège 6 : megakraken s'est couché. avant Flop (n'a pas misé)
+Siège 7 : clintstars2018 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : palestino11 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237846159330 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XXII (3500/7000) - 07/08/2022 18:42:40 CET [07/08/2022 12:42:40 ET]
+Table '3450746320 12' 8-max Siège #3 est au bouton.
+Place 1: BeMJack (44457 en jetons) 
+Place 2: psychoman59 (19521 en jetons) 
+Place 3: banh57 (27575 en jetons) 
+Place 5: roberto61700 (60575 en jetons) 
+Place 6: megakraken (47163 en jetons) 
+Place 7: clintstars2018 (27599 en jetons) 
+Place 8: palestino11 (26975 en jetons) 
+BeMJack : met l'ante. 875
+psychoman59 : met l'ante. 875
+banh57 : met l'ante. 875
+roberto61700 : met l'ante. 875
+megakraken : met l'ante. 875
+clintstars2018 : met l'ante. 875
+palestino11 : met l'ante. 875
+roberto61700 : met la petite blind. 3500
+megakraken : met la grosse blind. 7000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ts]
+clintstars2018 : passe. 
+palestino11 : passe. 
+BeMJack : relance. 36582 à 43582 et est all-in.
+psychoman59 : passe. 
+banh57 : passe. 
+roberto61700 : passe. 
+megakraken : passe. 
+Personne n'a suivi. (36582) sont retournés à BeMJack.
+BeMJack a remporté 23625  lors du pot .
+BeMJack : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 23625 | Commission 0 
+Siège 1 : BeMJack a remporté (23625)
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : banh57 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : roberto61700 (petite blind) s'est couché. avant Flop
+Siège 6 : megakraken (grosse blind) s'est couché. avant Flop
+Siège 7 : clintstars2018 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : palestino11 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237846177629 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XXII (3500/7000) - 07/08/2022 18:43:30 CET [07/08/2022 12:43:30 ET]
+Table '3450746320 12' 8-max Siège #5 est au bouton.
+Place 1: BeMJack (60207 en jetons) 
+Place 2: psychoman59 (18646 en jetons) 
+Place 3: banh57 (26700 en jetons) 
+Place 5: roberto61700 (56200 en jetons) 
+Place 6: megakraken (39288 en jetons) 
+Place 7: clintstars2018 (26724 en jetons) 
+Place 8: palestino11 (26100 en jetons) 
+BeMJack : met l'ante. 875
+psychoman59 : met l'ante. 875
+banh57 : met l'ante. 875
+roberto61700 : met l'ante. 875
+megakraken : met l'ante. 875
+clintstars2018 : met l'ante. 875
+palestino11 : met l'ante. 875
+megakraken : met la petite blind. 3500
+clintstars2018 : met la grosse blind. 7000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 3h]
+palestino11 : passe. 
+BeMJack : passe. 
+psychoman59 : passe. 
+banh57 : passe. 
+roberto61700 : passe. 
+megakraken : relance. 31413 à 38413 et est all-in.
+clintstars2018 : passe. 
+Personne n'a suivi. (31413) sont retournés à megakraken.
+megakraken a remporté 20125  lors du pot .
+megakraken : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20125 | Commission 0 
+Siège 1 : BeMJack s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : banh57 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : roberto61700 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : megakraken (petite blind) a remporté (20125)
+Siège 7 : clintstars2018 (grosse blind) s'est couché. avant Flop
+Siège 8 : palestino11 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237846188723 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XXII (3500/7000) - 07/08/2022 18:44:01 CET [07/08/2022 12:44:01 ET]
+Table '3450746320 12' 8-max Siège #6 est au bouton.
+Place 1: BeMJack (59332 en jetons) 
+Place 2: psychoman59 (17771 en jetons) 
+Place 3: banh57 (25825 en jetons) 
+Place 5: roberto61700 (55325 en jetons) 
+Place 6: megakraken (51538 en jetons) 
+Place 7: clintstars2018 (18849 en jetons) 
+Place 8: palestino11 (25225 en jetons) 
+BeMJack : met l'ante. 875
+psychoman59 : met l'ante. 875
+banh57 : met l'ante. 875
+roberto61700 : met l'ante. 875
+megakraken : met l'ante. 875
+clintstars2018 : met l'ante. 875
+palestino11 : met l'ante. 875
+clintstars2018 : met la petite blind. 3500
+palestino11 : met la grosse blind. 7000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 2c]
+BeMJack : passe. 
+psychoman59 : passe. 
+banh57 : passe. 
+roberto61700 : passe. 
+megakraken : passe. 
+clintstars2018 : passe. 
+Personne n'a suivi. (3500) sont retournés à palestino11.
+palestino11 a remporté 13125  lors du pot .
+*** SYNTHÈSE ***
+Pot total 13125 | Commission 0 
+Siège 1 : BeMJack s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : banh57 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : roberto61700 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : megakraken (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 7 : clintstars2018 (petite blind) s'est couché. avant Flop
+Siège 8 : palestino11 (grosse blind) a remporté (13125)
+
+
+
+Main PokerStars n°237846199543 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XXIII (4000/8000) - 07/08/2022 18:44:31 CET [07/08/2022 12:44:31 ET]
+Table '3450746320 12' 8-max Siège #7 est au bouton.
+Place 1: BeMJack (58457 en jetons) 
+Place 2: psychoman59 (16896 en jetons) 
+Place 3: banh57 (24950 en jetons) 
+Place 5: roberto61700 (54450 en jetons) 
+Place 6: megakraken (50663 en jetons) 
+Place 7: clintstars2018 (14474 en jetons) 
+Place 8: palestino11 (33975 en jetons) 
+BeMJack : met l'ante. 1000
+psychoman59 : met l'ante. 1000
+banh57 : met l'ante. 1000
+roberto61700 : met l'ante. 1000
+megakraken : met l'ante. 1000
+clintstars2018 : met l'ante. 1000
+palestino11 : met l'ante. 1000
+palestino11 : met la petite blind. 4000
+BeMJack : met la grosse blind. 8000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 8h]
+psychoman59 : passe. 
+banh57 : passe. 
+roberto61700 : passe. 
+megakraken : passe. 
+clintstars2018 : passe. 
+palestino11 : passe. 
+Personne n'a suivi. (4000) sont retournés à BeMJack.
+BeMJack a remporté 15000  lors du pot .
+BeMJack : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 15000 | Commission 0 
+Siège 1 : BeMJack (grosse blind) a remporté (15000)
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : banh57 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : roberto61700 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : megakraken s'est couché. avant Flop (n'a pas misé)
+Siège 7 : clintstars2018 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 8 : palestino11 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237846217411 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XXIII (4000/8000) - 07/08/2022 18:45:21 CET [07/08/2022 12:45:21 ET]
+Table '3450746320 12' 8-max Siège #8 est au bouton.
+Place 1: BeMJack (68457 en jetons) 
+Place 2: psychoman59 (15896 en jetons) 
+Place 3: banh57 (23950 en jetons) 
+Place 5: roberto61700 (53450 en jetons) 
+Place 6: megakraken (49663 en jetons) 
+Place 7: clintstars2018 (13474 en jetons) 
+Place 8: palestino11 (28975 en jetons) 
+BeMJack : met l'ante. 1000
+psychoman59 : met l'ante. 1000
+banh57 : met l'ante. 1000
+roberto61700 : met l'ante. 1000
+megakraken : met l'ante. 1000
+clintstars2018 : met l'ante. 1000
+palestino11 : met l'ante. 1000
+BeMJack : met la petite blind. 4000
+psychoman59 : met la grosse blind. 8000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Tc]
+banh57 : passe. 
+roberto61700 : passe. 
+megakraken : passe. 
+clintstars2018 : passe. 
+palestino11 : passe. 
+BeMJack : relance. 8000 à 16000
+psychoman59 : passe. 
+Personne n'a suivi. (8000) sont retournés à BeMJack.
+BeMJack a remporté 23000  lors du pot .
+BeMJack : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 23000 | Commission 0 
+Siège 1 : BeMJack (petite blind) a remporté (23000)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : banh57 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : roberto61700 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : megakraken s'est couché. avant Flop (n'a pas misé)
+Siège 7 : clintstars2018 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : palestino11 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237846232305 : Tournoi #3450746320, 4.50 €+0.50 € EUR Hold'em No Limit - Niveau XXIII (4000/8000) - 07/08/2022 18:46:03 CET [07/08/2022 12:46:03 ET]
+Table '3450746320 12' 8-max Siège #1 est au bouton.
+Place 1: BeMJack (82457 en jetons) 
+Place 2: psychoman59 (6896 en jetons) 
+Place 3: banh57 (22950 en jetons) 
+Place 5: roberto61700 (52450 en jetons) 
+Place 6: megakraken (48663 en jetons) 
+Place 7: clintstars2018 (12474 en jetons) 
+Place 8: palestino11 (27975 en jetons) 
+BeMJack : met l'ante. 1000
+psychoman59 : met l'ante. 1000
+banh57 : met l'ante. 1000
+roberto61700 : met l'ante. 1000
+megakraken : met l'ante. 1000
+clintstars2018 : met l'ante. 1000
+palestino11 : met l'ante. 1000
+psychoman59 : met la petite blind. 4000
+banh57 : met la grosse blind. 8000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Jc]
+roberto61700 : passe. 
+megakraken : passe. 
+clintstars2018 : relance. 3474 à 11474 et est all-in.
+palestino11 : passe. 
+BeMJack : passe. 
+psychoman59 : passe. 
+banh57 : suit. 3474
+*** FLOP *** [Jh 9d Ad]
+*** TOURNANT *** [Jh 9d Ad] [2s]
+*** RIVIÈRE *** [Jh 9d Ad 2s] [Qs]
+*** ABATTAGE ***
+banh57 : montre [5h Ts] (Hauteur As)
+clintstars2018 : montre [As Qc] (double paire, As et Dames)
+clintstars2018 a remporté 33948  lors du pot .
+*** SYNTHÈSE ***
+Pot total 33948 | Commission 0 
+Tableau [Jh 9d Ad 2s Qs]
+Siège 1 : BeMJack (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : banh57 (grosse blind) a montré [5h Ts] et a perdu avec Hauteur As
+Siège 5 : roberto61700 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : megakraken s'est couché. avant Flop (n'a pas misé)
+Siège 7 : clintstars2018 a montré [As Qc] et a gagné (33948) avec double paire, As et Dames
+Siège 8 : palestino11 s'est couché. avant Flop (n'a pas misé)
+
+
+

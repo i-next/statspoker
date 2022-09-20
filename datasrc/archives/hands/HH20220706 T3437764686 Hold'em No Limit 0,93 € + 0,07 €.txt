@@ -1,0 +1,115 @@
+﻿Main PokerStars n°237202004410 : Tournoi #3437764686, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/07/2022 22:58:04 CET [06/07/2022 16:58:04 ET]
+Table '3437764686 1' 3-max Siège #1 est au bouton.
+Place 1: donutsmax (300 en jetons) 
+Place 2: -ArcDream-70 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+-ArcDream-70 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 4s]
+donutsmax : passe. 
+-ArcDream-70 : suit. 10
+psychoman59 : relance. 280 à 300 et est all-in.
+-ArcDream-70 : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : donutsmax (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : -ArcDream-70 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237202008378 : Tournoi #3437764686, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/07/2022 22:58:18 CET [06/07/2022 16:58:18 ET]
+Table '3437764686 1' 3-max Siège #2 est au bouton.
+Place 1: donutsmax (300 en jetons) 
+Place 2: -ArcDream-70 (280 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 10
+donutsmax : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Jd]
+-ArcDream-70 : suit. 20
+psychoman59 : suit. 10
+donutsmax : relance. 280 à 300 et est all-in.
+-ArcDream-70 : suit. 260 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à donutsmax.
+*** FLOP *** [Th 8c 6s]
+*** TOURNANT *** [Th 8c 6s] [9s]
+*** RIVIÈRE *** [Th 8c 6s 9s] [8s]
+*** ABATTAGE ***
+donutsmax : montre [Jc 4c] (une paire de Huit)
+-ArcDream-70 : montre [8d 6d] (un full, full aux Huit par les Six)
+-ArcDream-70 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [Th 8c 6s 9s 8s]
+Siège 1 : donutsmax (grosse blind) a montré [Jc 4c] et a perdu avec une paire de Huit
+Siège 2 : -ArcDream-70 (bouton) a montré [8d 6d] et a gagné (580) avec un full, full aux Huit par les Six
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237202014361 : Tournoi #3437764686, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/07/2022 22:58:39 CET [06/07/2022 16:58:39 ET]
+Table '3437764686 1' 3-max Siège #3 est au bouton.
+Place 1: donutsmax (20 en jetons) 
+Place 2: -ArcDream-70 (580 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+donutsmax : met la petite blind. 10
+-ArcDream-70 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 2d]
+psychoman59 : passe. 
+donutsmax : suit. 10 et est all-in.
+*** FLOP *** [Qc Jc 4c]
+*** TOURNANT *** [Qc Jc 4c] [Ad]
+*** RIVIÈRE *** [Qc Jc 4c Ad] [3s]
+*** ABATTAGE ***
+donutsmax : montre [7s 3h] (une paire de Trois)
+-ArcDream-70 : montre [2h 6c] (Hauteur As)
+donutsmax a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qc Jc 4c Ad 3s]
+Siège 1 : donutsmax (petite blind) a montré [7s 3h] et a gagné (40) avec une paire de Trois
+Siège 2 : -ArcDream-70 (grosse blind) a montré [2h 6c] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237202019005 : Tournoi #3437764686, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/07/2022 22:58:55 CET [06/07/2022 16:58:55 ET]
+Table '3437764686 1' 3-max Siège #1 est au bouton.
+Place 1: donutsmax (40 en jetons) 
+Place 2: -ArcDream-70 (560 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+-ArcDream-70 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 9s]
+donutsmax : suit. 20
+-ArcDream-70 : relance. 60 à 80
+psychoman59 : suit. 60
+donutsmax : suit. 20 et est all-in.
+*** FLOP *** [5s 2d 8s]
+-ArcDream-70 : mise. 480 et est all-in.
+psychoman59 : suit. 220 et est all-in.
+Personne n'a suivi. (260) sont retournés à -ArcDream-70.
+*** TOURNANT *** [5s 2d 8s] [9h]
+*** RIVIÈRE *** [5s 2d 8s 9h] [2c]
+*** ABATTAGE ***
+-ArcDream-70 : montre [5d 5h] (un full, full aux Cinq par les Deux)
+psychoman59 : montre [Js 9s] (double paire, Neuf et Deux)
+-ArcDream-70 a remporté 520  parallèle lors du pot .
+donutsmax : montre [Kh 9c] (double paire, Neuf et Deux)
+-ArcDream-70 a remporté 120  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 Principal pot 120. Parallèle pot 520. | Commission 0 
+Tableau [5s 2d 8s 9h 2c]
+Siège 1 : donutsmax (bouton) a montré [Kh 9c] et a perdu avec double paire, Neuf et Deux
+Siège 2 : -ArcDream-70 (petite blind) a montré [5d 5h] et a gagné (640) avec un full, full aux Cinq par les Deux
+Siège 3 : psychoman59 (grosse blind) a montré [Js 9s] et a perdu avec double paire, Neuf et Deux
+
+
+

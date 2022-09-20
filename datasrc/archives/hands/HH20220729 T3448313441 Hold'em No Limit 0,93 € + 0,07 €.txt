@@ -1,0 +1,80 @@
+﻿Main PokerStars n°237654369765 : Tournoi #3448313441, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/07/2022 8:18:25 CET [29/07/2022 2:18:25 ET]
+Table '3448313441 1' 3-max Siège #1 est au bouton.
+Place 1: Betty130678 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: seb373779 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+seb373779 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Js]
+Betty130678 : suit. 20
+psychoman59 : relance. 280 à 300 et est all-in.
+seb373779 : suit. 280 et est all-in.
+Betty130678 : passe. 
+*** FLOP *** [8c Jh 6s]
+*** TOURNANT *** [8c Jh 6s] [2c]
+*** RIVIÈRE *** [8c Jh 6s 2c] [3h]
+*** ABATTAGE ***
+psychoman59 : montre [As Js] (une paire de Valets)
+seb373779 : montre [4d Kc] (Hauteur Roi)
+psychoman59 a remporté 620  lors du pot .
+seb373779 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [8c Jh 6s 2c 3h]
+Siège 1 : Betty130678 (bouton) s'est couché. avant Flop
+Siège 2 : psychoman59 (petite blind) a montré [As Js] et a gagné (620) avec une paire de Valets
+Siège 3 : seb373779 (grosse blind) a montré [4d Kc] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°237654372068 : Tournoi #3448313441, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/07/2022 8:18:47 CET [29/07/2022 2:18:47 ET]
+Table '3448313441 1' 3-max Siège #2 est au bouton.
+Place 1: Betty130678 (280 en jetons) 
+Place 2: psychoman59 (620 en jetons) 
+psychoman59 : met la petite blind. 10
+Betty130678 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ts]
+psychoman59 : suit. 10
+Betty130678 : relance. 80 à 100
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à Betty130678.
+Betty130678 a remporté 40  lors du pot .
+Betty130678 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Betty130678 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237654373223 : Tournoi #3448313441, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/07/2022 8:18:58 CET [29/07/2022 2:18:58 ET]
+Table '3448313441 1' 3-max Siège #1 est au bouton.
+Place 1: Betty130678 (300 en jetons) 
+Place 2: psychoman59 (600 en jetons) 
+Betty130678 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ah]
+Betty130678 : suit. 10
+psychoman59 : relance. 580 à 600 et est all-in.
+Betty130678 : suit. 280 et est all-in.
+Personne n'a suivi. (300) sont retournés à psychoman59.
+*** FLOP *** [4c 3c Th]
+*** TOURNANT *** [4c 3c Th] [Ad]
+*** RIVIÈRE *** [4c 3c Th Ad] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [8c Ah] (une paire de As)
+Betty130678 : montre [Qc 7c] (Hauteur As)
+psychoman59 a remporté 600  lors du pot .
+Betty130678 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 5.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [4c 3c Th Ad 2h]
+Siège 1 : Betty130678 (bouton) (petite blind) a montré [Qc 7c] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) a montré [8c Ah] et a gagné (600) avec une paire de As
+
+
+

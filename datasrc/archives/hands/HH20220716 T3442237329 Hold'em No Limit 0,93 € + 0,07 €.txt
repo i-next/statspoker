@@ -1,0 +1,249 @@
+﻿Main PokerStars n°237389607978 : Tournoi #3442237329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2022 12:31:46 CET [16/07/2022 6:31:46 ET]
+Table '3442237329 1' 3-max Siège #1 est au bouton.
+Place 1: MG1800 (300 en jetons) 
+Place 2: zdeex82 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+zdeex82 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 7c]
+MG1800 : relance. 20 à 40
+zdeex82 : suit. 30
+psychoman59 : suit. 20
+*** FLOP *** [Qs 6s 4d]
+zdeex82 : mise. 20
+psychoman59 : passe. 
+MG1800 : passe. 
+Personne n'a suivi. (20) sont retournés à zdeex82.
+zdeex82 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qs 6s 4d]
+Siège 1 : MG1800 (bouton) s'est couché. sur le Flop
+Siège 2 : zdeex82 (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237389610099 : Tournoi #3442237329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2022 12:31:59 CET [16/07/2022 6:31:59 ET]
+Table '3442237329 1' 3-max Siège #2 est au bouton.
+Place 1: MG1800 (260 en jetons) 
+Place 2: zdeex82 (380 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+psychoman59 : met la petite blind. 10
+MG1800 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 5s]
+zdeex82 : suit. 20
+psychoman59 : passe. 
+MG1800 : parole 
+*** FLOP *** [7s 5h Qc]
+MG1800 : parole 
+zdeex82 : mise. 20
+MG1800 : passe. 
+Personne n'a suivi. (20) sont retournés à zdeex82.
+zdeex82 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [7s 5h Qc]
+Siège 1 : MG1800 (grosse blind) s'est couché. sur le Flop
+Siège 2 : zdeex82 (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237389612135 : Tournoi #3442237329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2022 12:32:11 CET [16/07/2022 6:32:11 ET]
+Table '3442237329 1' 3-max Siège #3 est au bouton.
+Place 1: MG1800 (240 en jetons) 
+Place 2: zdeex82 (410 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+MG1800 : met la petite blind. 10
+zdeex82 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Ks]
+psychoman59 : relance. 50 à 70
+MG1800 : relance. 170 à 240 et est all-in.
+zdeex82 : suit. 220
+psychoman59 : suit. 170
+*** FLOP *** [Js 5c Qh]
+zdeex82 : mise. 20
+psychoman59 : suit. 10 et est all-in.
+Personne n'a suivi. (10) sont retournés à zdeex82.
+*** TOURNANT *** [Js 5c Qh] [Qs]
+*** RIVIÈRE *** [Js 5c Qh Qs] [2c]
+*** ABATTAGE ***
+zdeex82 : montre [As Tc] (une paire de Dames)
+psychoman59 : montre [Jd Ks] (double paire, Dames et Valets)
+psychoman59 a remporté 20  parallèle lors du pot .
+MG1800 : montre [Ad Th] (une paire de Dames)
+psychoman59 a remporté 720  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 740 Principal pot 720. Parallèle pot 20. | Commission 0 
+Tableau [Js 5c Qh Qs 2c]
+Siège 1 : MG1800 (petite blind) a montré [Ad Th] et a perdu avec une paire de Dames
+Siège 2 : zdeex82 (grosse blind) a montré [As Tc] et a perdu avec une paire de Dames
+Siège 3 : psychoman59 (bouton) a montré [Jd Ks] et a gagné (740) avec double paire, Dames et Valets
+
+
+
+Main PokerStars n°237389617533 : Tournoi #3442237329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2022 12:32:43 CET [16/07/2022 6:32:43 ET]
+Table '3442237329 1' 3-max Siège #2 est au bouton.
+Place 2: zdeex82 (160 en jetons) 
+Place 3: psychoman59 (740 en jetons) 
+zdeex82 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ac]
+zdeex82 : relance. 20 à 40
+psychoman59 : relance. 80 à 120
+zdeex82 : relance. 40 à 160 et est all-in.
+psychoman59 : suit. 40
+*** FLOP *** [8s Th 2h]
+*** TOURNANT *** [8s Th 2h] [3s]
+*** RIVIÈRE *** [8s Th 2h 3s] [5h]
+*** ABATTAGE ***
+psychoman59 : montre [3c Ac] (une paire de Trois)
+zdeex82 : montre [6h 6c] (une paire de Six)
+zdeex82 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [8s Th 2h 3s 5h]
+Siège 2 : zdeex82 (bouton) (petite blind) a montré [6h 6c] et a gagné (320) avec une paire de Six
+Siège 3 : psychoman59 (grosse blind) a montré [3c Ac] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°237389621761 : Tournoi #3442237329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 12:33:09 CET [16/07/2022 6:33:09 ET]
+Table '3442237329 1' 3-max Siège #3 est au bouton.
+Place 2: zdeex82 (320 en jetons) 
+Place 3: psychoman59 (580 en jetons) 
+psychoman59 : met la petite blind. 15
+zdeex82 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 9c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à zdeex82.
+zdeex82 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : zdeex82 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237389622705 : Tournoi #3442237329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 12:33:14 CET [16/07/2022 6:33:14 ET]
+Table '3442237329 1' 3-max Siège #2 est au bouton.
+Place 2: zdeex82 (335 en jetons) 
+Place 3: psychoman59 (565 en jetons) 
+zdeex82 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Qs]
+zdeex82 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5c 9h 7s]
+psychoman59 : parole 
+zdeex82 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [5c 9h 7s] [2d]
+psychoman59 : parole 
+zdeex82 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à zdeex82.
+zdeex82 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5c 9h 7s 2d]
+Siège 2 : zdeex82 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237389625946 : Tournoi #3442237329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 12:33:33 CET [16/07/2022 6:33:33 ET]
+Table '3442237329 1' 3-max Siège #3 est au bouton.
+Place 2: zdeex82 (395 en jetons) 
+Place 3: psychoman59 (505 en jetons) 
+psychoman59 : met la petite blind. 15
+zdeex82 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 3c]
+psychoman59 : relance. 475 à 505 et est all-in.
+zdeex82 : passe. 
+Personne n'a suivi. (475) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : zdeex82 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237389627224 : Tournoi #3442237329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 12:33:41 CET [16/07/2022 6:33:41 ET]
+Table '3442237329 1' 3-max Siège #2 est au bouton.
+Place 2: zdeex82 (365 en jetons) 
+Place 3: psychoman59 (535 en jetons) 
+zdeex82 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 7c]
+zdeex82 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qd 3s Kh]
+psychoman59 : parole 
+zdeex82 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à zdeex82.
+zdeex82 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qd 3s Kh]
+Siège 2 : zdeex82 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237389630065 : Tournoi #3442237329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/07/2022 12:33:58 CET [16/07/2022 6:33:58 ET]
+Table '3442237329 1' 3-max Siège #3 est au bouton.
+Place 2: zdeex82 (395 en jetons) 
+Place 3: psychoman59 (505 en jetons) 
+psychoman59 : met la petite blind. 20
+zdeex82 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à zdeex82.
+zdeex82 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : zdeex82 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237389631174 : Tournoi #3442237329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/07/2022 12:34:05 CET [16/07/2022 6:34:05 ET]
+Table '3442237329 1' 3-max Siège #2 est au bouton.
+Place 2: zdeex82 (415 en jetons) 
+Place 3: psychoman59 (485 en jetons) 
+zdeex82 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 4s]
+zdeex82 : suit. 20
+psychoman59 : relance. 445 à 485 et est all-in.
+zdeex82 : suit. 375 et est all-in.
+Personne n'a suivi. (70) sont retournés à psychoman59.
+*** FLOP *** [Th Ks 8s]
+*** TOURNANT *** [Th Ks 8s] [Jd]
+*** RIVIÈRE *** [Th Ks 8s Jd] [Qd]
+*** ABATTAGE ***
+psychoman59 : montre [Qh 4s] (une paire de Dames)
+zdeex82 : montre [Js 3s] (une paire de Valets)
+psychoman59 a remporté 830  lors du pot .
+*** SYNTHÈSE ***
+Pot total 830 | Commission 0 
+Tableau [Th Ks 8s Jd Qd]
+Siège 2 : zdeex82 (bouton) (petite blind) a montré [Js 3s] et a perdu avec une paire de Valets
+Siège 3 : psychoman59 (grosse blind) a montré [Qh 4s] et a gagné (830) avec une paire de Dames
+
+
+

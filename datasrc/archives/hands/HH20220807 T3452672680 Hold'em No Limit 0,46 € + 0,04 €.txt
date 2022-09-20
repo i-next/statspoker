@@ -1,0 +1,1409 @@
+﻿Main PokerStars n°237838910346 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 07/08/2022 10:02:54 CET [07/08/2022 4:02:54 ET]
+Table '3452672680 1' 4-max Siège #1 est au bouton.
+Place 1: lilourafa (5000 en jetons) 
+Place 2: isard65 (5000 en jetons) 
+Place 3: lth6648 (5000 en jetons) 
+Place 4: psychoman59 (5000 en jetons) 
+lilourafa : met l'ante. 10
+isard65 : met l'ante. 10
+lth6648 : met l'ante. 10
+psychoman59 : met l'ante. 10
+isard65 : met la petite blind. 50
+lth6648 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 2c]
+psychoman59 : passe. 
+lilourafa est connecté 
+lilourafa est déconnecté 
+lilourafa est connecté 
+lilourafa : suit. 100
+isard65 : suit. 50
+lth6648 : parole 
+*** FLOP *** [3s 6s 3c]
+isard65 : mise. 100
+lth6648 : passe. 
+lilourafa : passe. 
+Personne n'a suivi. (100) sont retournés à isard65.
+isard65 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [3s 6s 3c]
+Siège 1 : lilourafa (bouton) s'est couché. sur le Flop
+Siège 2 : isard65 (petite blind) a remporté (340)
+Siège 3 : lth6648 (grosse blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237838913526 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 07/08/2022 10:03:18 CET [07/08/2022 4:03:18 ET]
+Table '3452672680 1' 4-max Siège #2 est au bouton.
+Place 1: lilourafa (4890 en jetons) 
+Place 2: isard65 (5230 en jetons) 
+Place 3: lth6648 (4890 en jetons) 
+Place 4: psychoman59 (4990 en jetons) 
+lilourafa : met l'ante. 10
+isard65 : met l'ante. 10
+lth6648 : met l'ante. 10
+psychoman59 : met l'ante. 10
+lth6648 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 4h]
+lilourafa : passe. 
+isard65 : suit. 100
+lth6648 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Ac Td 3d]
+lth6648 : parole 
+psychoman59 : parole 
+isard65 : mise. 100
+lth6648 : passe. 
+psychoman59 : suit. 100
+*** TOURNANT *** [Ac Td 3d] [8d]
+psychoman59 : parole 
+isard65 : mise. 540
+psychoman59 : passe. 
+Personne n'a suivi. (540) sont retournés à isard65.
+isard65 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [Ac Td 3d 8d]
+Siège 1 : lilourafa s'est couché. avant Flop (n'a pas misé)
+Siège 2 : isard65 (bouton) a remporté (540)
+Siège 3 : lth6648 (petite blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237838918853 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 07/08/2022 10:03:57 CET [07/08/2022 4:03:57 ET]
+Table '3452672680 1' 4-max Siège #3 est au bouton.
+Place 1: lilourafa (4880 en jetons) 
+Place 2: isard65 (5560 en jetons) 
+Place 3: lth6648 (4780 en jetons) 
+Place 4: psychoman59 (4780 en jetons) 
+lilourafa : met l'ante. 10
+isard65 : met l'ante. 10
+lth6648 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+lilourafa : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 4d]
+isard65 : suit. 100
+lth6648 : suit. 100
+psychoman59 : suit. 50
+lilourafa : parole 
+*** FLOP *** [7d Tc 6h]
+psychoman59 : parole 
+lilourafa : parole 
+isard65 : mise. 100
+lth6648 : suit. 100
+psychoman59 : suit. 100
+lilourafa : suit. 100
+*** TOURNANT *** [7d Tc 6h] [5c]
+psychoman59 : parole 
+lilourafa : parole 
+isard65 : parole 
+lth6648 : parole 
+*** RIVIÈRE *** [7d Tc 6h 5c] [9h]
+psychoman59 : parole 
+lilourafa : parole 
+isard65 : parole 
+lth6648 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ah 4d] (Hauteur As)
+lilourafa : montre [9c 5h] (double paire, Neuf et Cinq)
+isard65 : cache la main perdante. 
+lth6648 : cache la main perdante. 
+lilourafa a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [7d Tc 6h 5c 9h]
+Siège 1 : lilourafa (grosse blind) a montré [9c 5h] et a gagné (840) avec double paire, Neuf et Cinq
+Siège 2 : isard65 a caché la main perdante. [7c Ks]
+Siège 3 : lth6648 (bouton) a caché la main perdante. [Qh Ac]
+Siège 4 : psychoman59 (petite blind) a montré [Ah 4d] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237838925796 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 07/08/2022 10:04:47 CET [07/08/2022 4:04:47 ET]
+Table '3452672680 1' 4-max Siège #4 est au bouton.
+Place 1: lilourafa (5510 en jetons) 
+Place 2: isard65 (5350 en jetons) 
+Place 3: lth6648 (4570 en jetons) 
+Place 4: psychoman59 (4570 en jetons) 
+lilourafa : met l'ante. 10
+isard65 : met l'ante. 10
+lth6648 : met l'ante. 10
+psychoman59 : met l'ante. 10
+lilourafa : met la petite blind. 50
+isard65 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Qc]
+lth6648 : suit. 100
+psychoman59 : relance. 390 à 490
+lilourafa : passe. 
+isard65 : passe. 
+lth6648 : suit. 390
+*** FLOP *** [Ts 6c 4s]
+lth6648 : parole 
+psychoman59 : mise. 585
+lth6648 : suit. 585
+*** TOURNANT *** [Ts 6c 4s] [9h]
+lth6648 : parole 
+psychoman59 : mise. 1170
+lth6648 : suit. 1170
+*** RIVIÈRE *** [Ts 6c 4s 9h] [7s]
+lth6648 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+lth6648 : montre [Kc Tc] (une paire de Dix)
+psychoman59 : montre [Qs Qc] (une paire de Dames)
+psychoman59 a remporté 4680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4680 | Commission 0 
+Tableau [Ts 6c 4s 9h 7s]
+Siège 1 : lilourafa (petite blind) s'est couché. avant Flop
+Siège 2 : isard65 (grosse blind) s'est couché. avant Flop
+Siège 3 : lth6648 a montré [Kc Tc] et a perdu avec une paire de Dix
+Siège 4 : psychoman59 (bouton) a montré [Qs Qc] et a gagné (4680) avec une paire de Dames
+
+
+
+Main PokerStars n°237838931971 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 07/08/2022 10:05:32 CET [07/08/2022 4:05:32 ET]
+Table '3452672680 1' 4-max Siège #1 est au bouton.
+Place 1: lilourafa (5450 en jetons) 
+Place 2: isard65 (5240 en jetons) 
+Place 3: lth6648 (2315 en jetons) 
+Place 4: psychoman59 (6995 en jetons) 
+lilourafa : met l'ante. 10
+isard65 : met l'ante. 10
+lth6648 : met l'ante. 10
+psychoman59 : met l'ante. 10
+isard65 : met la petite blind. 50
+lth6648 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 7d]
+psychoman59 : suit. 100
+lilourafa : passe. 
+isard65 : suit. 50
+lth6648 : parole 
+*** FLOP *** [Jd As Tc]
+isard65 : mise. 100
+lth6648 : suit. 100
+psychoman59 : suit. 100
+*** TOURNANT *** [Jd As Tc] [Kh]
+isard65 : parole 
+lth6648 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Jd As Tc Kh] [8h]
+isard65 : parole 
+lth6648 : mise. 100
+psychoman59 : suit. 100
+isard65 : suit. 100
+*** ABATTAGE ***
+lth6648 : montre [3s Kc] (une paire de Rois)
+psychoman59 : montre [9d 7d] (une suite, Sept à Valet)
+isard65 : cache la main perdante. 
+psychoman59 a remporté 940  lors du pot .
+*** SYNTHÈSE ***
+Pot total 940 | Commission 0 
+Tableau [Jd As Tc Kh 8h]
+Siège 1 : lilourafa (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : isard65 (petite blind) a caché la main perdante. [2d Ah]
+Siège 3 : lth6648 (grosse blind) a montré [3s Kc] et a perdu avec une paire de Rois
+Siège 4 : psychoman59 a montré [9d 7d] et a gagné (940) avec une suite, Sept à Valet
+
+
+
+Main PokerStars n°237838937256 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 07/08/2022 10:06:11 CET [07/08/2022 4:06:11 ET]
+Table '3452672680 1' 4-max Siège #2 est au bouton.
+Place 1: lilourafa (5440 en jetons) 
+Place 2: isard65 (4930 en jetons) 
+Place 3: lth6648 (2005 en jetons) 
+Place 4: psychoman59 (7625 en jetons) 
+lilourafa : met l'ante. 15
+isard65 : met l'ante. 15
+lth6648 : met l'ante. 15
+psychoman59 : met l'ante. 15
+lth6648 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Js]
+lilourafa : suit. 120
+isard65 : suit. 120
+lth6648 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [7s 2s Kd]
+lth6648 : parole 
+psychoman59 : parole 
+lilourafa : parole 
+isard65 : mise. 240
+lth6648 : passe. 
+psychoman59 : passe. 
+lilourafa : passe. 
+Personne n'a suivi. (240) sont retournés à isard65.
+isard65 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [7s 2s Kd]
+Siège 1 : lilourafa s'est couché. sur le Flop
+Siège 2 : isard65 (bouton) a remporté (540)
+Siège 3 : lth6648 (petite blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237838941342 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 07/08/2022 10:06:40 CET [07/08/2022 4:06:40 ET]
+Table '3452672680 1' 4-max Siège #3 est au bouton.
+Place 1: lilourafa (5305 en jetons) 
+Place 2: isard65 (5335 en jetons) 
+Place 3: lth6648 (1870 en jetons) 
+Place 4: psychoman59 (7490 en jetons) 
+lilourafa : met l'ante. 15
+isard65 : met l'ante. 15
+lth6648 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+lilourafa : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 4c]
+isard65 : suit. 120
+lth6648 : passe. 
+psychoman59 : passe. 
+lilourafa : parole 
+*** FLOP *** [Kc 6d 8s]
+lilourafa : parole 
+isard65 : parole 
+*** TOURNANT *** [Kc 6d 8s] [9c]
+lilourafa : mise. 360
+isard65 : passe. 
+Personne n'a suivi. (360) sont retournés à lilourafa.
+lilourafa a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Kc 6d 8s 9c]
+Siège 1 : lilourafa (grosse blind) a remporté (360)
+Siège 2 : isard65 s'est couché. sur le Tournant
+Siège 3 : lth6648 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237838943941 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 07/08/2022 10:06:58 CET [07/08/2022 4:06:58 ET]
+Table '3452672680 1' 4-max Siège #4 est au bouton.
+Place 1: lilourafa (5530 en jetons) 
+Place 2: isard65 (5200 en jetons) 
+Place 3: lth6648 (1855 en jetons) 
+Place 4: psychoman59 (7415 en jetons) 
+lilourafa : met l'ante. 15
+isard65 : met l'ante. 15
+lth6648 : met l'ante. 15
+psychoman59 : met l'ante. 15
+lilourafa : met la petite blind. 60
+isard65 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ts]
+lth6648 : passe. 
+psychoman59 : passe. 
+lilourafa : suit. 60
+isard65 : parole 
+*** FLOP *** [2h 7d 6c]
+lilourafa : parole 
+isard65 : mise. 120
+lilourafa : suit. 120
+*** TOURNANT *** [2h 7d 6c] [5d]
+lilourafa : parole 
+isard65 : parole 
+*** RIVIÈRE *** [2h 7d 6c 5d] [Js]
+lilourafa : parole 
+isard65 : parole 
+*** ABATTAGE ***
+lilourafa : montre [Ah 4c] (Hauteur As)
+isard65 : montre [Qd 7c] (une paire de Sept)
+isard65 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [2h 7d 6c 5d Js]
+Siège 1 : lilourafa (petite blind) a montré [Ah 4c] et a perdu avec Hauteur As
+Siège 2 : isard65 (grosse blind) a montré [Qd 7c] et a gagné (540) avec une paire de Sept
+Siège 3 : lth6648 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237838947052 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 07/08/2022 10:07:21 CET [07/08/2022 4:07:21 ET]
+Table '3452672680 1' 4-max Siège #1 est au bouton.
+Place 1: lilourafa (5275 en jetons) 
+Place 2: isard65 (5485 en jetons) 
+Place 3: lth6648 (1840 en jetons) 
+Place 4: psychoman59 (7400 en jetons) 
+lilourafa : met l'ante. 15
+isard65 : met l'ante. 15
+lth6648 : met l'ante. 15
+psychoman59 : met l'ante. 15
+isard65 : met la petite blind. 60
+lth6648 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 2s]
+psychoman59 : passe. 
+lilourafa : passe. 
+isard65 : suit. 60
+lth6648 : parole 
+*** FLOP *** [9d Tc 3d]
+isard65 : mise. 120
+lth6648 : suit. 120
+*** TOURNANT *** [9d Tc 3d] [Th]
+isard65 : parole 
+lth6648 : mise. 120
+isard65 : passe. 
+Personne n'a suivi. (120) sont retournés à lth6648.
+lth6648 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [9d Tc 3d Th]
+Siège 1 : lilourafa (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : isard65 (petite blind) s'est couché. sur le Tournant
+Siège 3 : lth6648 (grosse blind) a remporté (540)
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237838950687 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 07/08/2022 10:07:47 CET [07/08/2022 4:07:47 ET]
+Table '3452672680 1' 4-max Siège #2 est au bouton.
+Place 1: lilourafa (5260 en jetons) 
+Place 2: isard65 (5230 en jetons) 
+Place 3: lth6648 (2125 en jetons) 
+Place 4: psychoman59 (7385 en jetons) 
+lilourafa : met l'ante. 15
+isard65 : met l'ante. 15
+lth6648 : met l'ante. 15
+psychoman59 : met l'ante. 15
+lth6648 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7d]
+lilourafa : passe. 
+isard65 : suit. 120
+lth6648 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [Jd Jc 5d]
+lth6648 : parole 
+psychoman59 : parole 
+isard65 : parole 
+*** TOURNANT *** [Jd Jc 5d] [6s]
+lth6648 : parole 
+psychoman59 : parole 
+isard65 : parole 
+*** RIVIÈRE *** [Jd Jc 5d 6s] [Kc]
+lth6648 : parole 
+psychoman59 : parole 
+isard65 : mise. 420
+lth6648 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (420) sont retournés à isard65.
+isard65 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [Jd Jc 5d 6s Kc]
+Siège 1 : lilourafa s'est couché. avant Flop (n'a pas misé)
+Siège 2 : isard65 (bouton) a remporté (420)
+Siège 3 : lth6648 (petite blind) s'est couché. sur le Rivière
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237838956485 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 07/08/2022 10:08:28 CET [07/08/2022 4:08:28 ET]
+Table '3452672680 1' 4-max Siège #3 est au bouton.
+Place 1: lilourafa (5245 en jetons) 
+Place 2: isard65 (5515 en jetons) 
+Place 3: lth6648 (1990 en jetons) 
+Place 4: psychoman59 (7250 en jetons) 
+lilourafa : met l'ante. 15
+isard65 : met l'ante. 15
+lth6648 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+lilourafa : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 4s]
+isard65 : suit. 120
+lth6648 : passe. 
+psychoman59 : relance. 420 à 540
+lilourafa : suit. 420
+isard65 : suit. 420
+*** FLOP *** [3s 3h Qd]
+psychoman59 : mise. 840
+lilourafa : relance. 3360 à 4200
+isard65 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (3360) sont retournés à lilourafa.
+lilourafa a remporté 3360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3360 | Commission 0 
+Tableau [3s 3h Qd]
+Siège 1 : lilourafa (grosse blind) a remporté (3360)
+Siège 2 : isard65 s'est couché. sur le Flop
+Siège 3 : lth6648 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237838960389 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 07/08/2022 10:08:56 CET [07/08/2022 4:08:56 ET]
+Table '3452672680 1' 4-max Siège #4 est au bouton.
+Place 1: lilourafa (7210 en jetons) 
+Place 2: isard65 (4960 en jetons) 
+Place 3: lth6648 (1975 en jetons) 
+Place 4: psychoman59 (5855 en jetons) 
+lilourafa : met l'ante. 15
+isard65 : met l'ante. 15
+lth6648 : met l'ante. 15
+psychoman59 : met l'ante. 15
+lilourafa : met la petite blind. 60
+isard65 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 2s]
+lth6648 : passe. 
+psychoman59 : passe. 
+lilourafa : suit. 60
+isard65 : parole 
+*** FLOP *** [4d Qc 8c]
+lilourafa : parole 
+isard65 : parole 
+*** TOURNANT *** [4d Qc 8c] [Kc]
+lilourafa : mise. 120
+isard65 : suit. 120
+*** RIVIÈRE *** [4d Qc 8c Kc] [Ah]
+lilourafa : parole 
+isard65 : parole 
+*** ABATTAGE ***
+lilourafa : montre [8h 9c] (une paire de Huit)
+isard65 : montre [Kd 9s] (une paire de Rois)
+isard65 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [4d Qc 8c Kc Ah]
+Siège 1 : lilourafa (petite blind) a montré [8h 9c] et a perdu avec une paire de Huit
+Siège 2 : isard65 (grosse blind) a montré [Kd 9s] et a gagné (540) avec une paire de Rois
+Siège 3 : lth6648 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237838963932 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 07/08/2022 10:09:21 CET [07/08/2022 4:09:21 ET]
+Table '3452672680 1' 4-max Siège #1 est au bouton.
+Place 1: lilourafa (6955 en jetons) 
+Place 2: isard65 (5245 en jetons) 
+Place 3: lth6648 (1960 en jetons) 
+Place 4: psychoman59 (5840 en jetons) 
+lilourafa : met l'ante. 20
+isard65 : met l'ante. 20
+lth6648 : met l'ante. 20
+psychoman59 : met l'ante. 20
+isard65 : met la petite blind. 75
+lth6648 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Th]
+psychoman59 : relance. 150 à 300
+lilourafa : passe. 
+isard65 : suit. 225
+lth6648 : relance. 1640 à 1940 et est all-in.
+psychoman59 : suit. 1640
+isard65 : suit. 1640
+*** FLOP *** [6d 3s Ah]
+isard65 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6d 3s Ah] [5h]
+isard65 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6d 3s Ah 5h] [9s]
+isard65 : mise. 3285 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (3285) sont retournés à isard65.
+*** ABATTAGE ***
+isard65 : montre [7s 8s] (une suite, Cinq à Neuf)
+lth6648 : montre [Jh Js] (une paire de Valets)
+isard65 a remporté 5900  lors du pot .
+lth6648 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 5900 | Commission 0 
+Tableau [6d 3s Ah 5h 9s]
+Siège 1 : lilourafa (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : isard65 (petite blind) a montré [7s 8s] et a gagné (5900) avec une suite, Cinq à Neuf
+Siège 3 : lth6648 (grosse blind) a montré [Jh Js] et a perdu avec une paire de Valets
+Siège 4 : psychoman59 s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237838969237 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 07/08/2022 10:09:58 CET [07/08/2022 4:09:58 ET]
+Table '3452672680 1' 4-max Siège #2 est au bouton.
+Place 1: lilourafa (6935 en jetons) 
+Place 2: isard65 (9185 en jetons) 
+Place 4: psychoman59 (3880 en jetons) 
+lilourafa : met l'ante. 20
+isard65 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+lilourafa : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 2h]
+isard65 : passe. 
+psychoman59 : relance. 3710 à 3860 et est all-in.
+lilourafa : passe. 
+Personne n'a suivi. (3710) sont retournés à psychoman59.
+psychoman59 a remporté 360  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : lilourafa (grosse blind) s'est couché. avant Flop
+Siège 2 : isard65 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) a remporté (360)
+
+
+
+Main PokerStars n°237838970817 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 07/08/2022 10:10:09 CET [07/08/2022 4:10:09 ET]
+Table '3452672680 1' 4-max Siège #4 est au bouton.
+Place 1: lilourafa (6765 en jetons) 
+Place 2: isard65 (9165 en jetons) 
+Place 4: psychoman59 (4070 en jetons) 
+lilourafa : met l'ante. 20
+isard65 : met l'ante. 20
+psychoman59 : met l'ante. 20
+lilourafa : met la petite blind. 75
+isard65 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Th]
+psychoman59 : relance. 3900 à 4050 et est all-in.
+lilourafa : suit. 3975
+isard65 : passe. 
+*** FLOP *** [3h 3d 2h]
+*** TOURNANT *** [3h 3d 2h] [9d]
+*** RIVIÈRE *** [3h 3d 2h 9d] [Kh]
+*** ABATTAGE ***
+lilourafa : montre [5s 5d] (double paire, Cinq et Trois)
+psychoman59 : montre [Td Th] (double paire, Dix et Trois)
+psychoman59 a remporté 8310  lors du pot .
+*** SYNTHÈSE ***
+Pot total 8310 | Commission 0 
+Tableau [3h 3d 2h 9d Kh]
+Siège 1 : lilourafa (petite blind) a montré [5s 5d] et a perdu avec double paire, Cinq et Trois
+Siège 2 : isard65 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) a montré [Td Th] et a gagné (8310) avec double paire, Dix et Trois
+
+
+
+Main PokerStars n°237838973577 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 07/08/2022 10:10:29 CET [07/08/2022 4:10:29 ET]
+Table '3452672680 1' 4-max Siège #1 est au bouton.
+Place 1: lilourafa (2695 en jetons) 
+Place 2: isard65 (8995 en jetons) 
+Place 4: psychoman59 (8310 en jetons) 
+lilourafa : met l'ante. 20
+isard65 : met l'ante. 20
+psychoman59 : met l'ante. 20
+isard65 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Td]
+lilourafa : passe. 
+isard65 : suit. 75
+psychoman59 : relance. 8140 à 8290 et est all-in.
+isard65 : passe. 
+Personne n'a suivi. (8140) sont retournés à psychoman59.
+psychoman59 a remporté 360  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : lilourafa (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : isard65 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (360)
+
+
+
+Main PokerStars n°237838975567 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 07/08/2022 10:10:43 CET [07/08/2022 4:10:43 ET]
+Table '3452672680 1' 4-max Siège #2 est au bouton.
+Place 1: lilourafa (2675 en jetons) 
+Place 2: isard65 (8825 en jetons) 
+Place 4: psychoman59 (8500 en jetons) 
+lilourafa : met l'ante. 20
+isard65 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+lilourafa : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 5s]
+isard65 : passe. 
+psychoman59 : suit. 75
+lilourafa : parole 
+*** FLOP *** [7h 9c 3s]
+psychoman59 : parole 
+lilourafa : mise. 360
+psychoman59 : suit. 360
+*** TOURNANT *** [7h 9c 3s] [2s]
+psychoman59 : mise. 1080
+lilourafa : relance. 1065 à 2145 et est all-in.
+psychoman59 : suit. 1065
+*** RIVIÈRE *** [7h 9c 3s 2s] [Ah]
+*** ABATTAGE ***
+psychoman59 : montre [7s 5s] (une paire de Sept)
+lilourafa : montre [9d Ks] (une paire de Neuf)
+lilourafa a remporté 5370  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5370 | Commission 0 
+Tableau [7h 9c 3s 2s Ah]
+Siège 1 : lilourafa (grosse blind) a montré [9d Ks] et a gagné (5370) avec une paire de Neuf
+Siège 2 : isard65 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) a montré [7s 5s] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°237838979600 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 07/08/2022 10:11:12 CET [07/08/2022 4:11:12 ET]
+Table '3452672680 1' 4-max Siège #4 est au bouton.
+Place 1: lilourafa (5370 en jetons) 
+Place 2: isard65 (8805 en jetons) 
+Place 4: psychoman59 (5825 en jetons) 
+lilourafa : met l'ante. 20
+isard65 : met l'ante. 20
+psychoman59 : met l'ante. 20
+lilourafa : met la petite blind. 75
+isard65 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Qc]
+psychoman59 : suit. 150
+lilourafa : suit. 75
+isard65 : parole 
+*** FLOP *** [2d Qd Kd]
+lilourafa : parole 
+isard65 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2d Qd Kd] [Jd]
+lilourafa : parole 
+isard65 : mise. 150
+psychoman59 : passe. 
+lilourafa : passe. 
+Personne n'a suivi. (150) sont retournés à isard65.
+isard65 a remporté 510  lors du pot .
+*** SYNTHÈSE ***
+Pot total 510 | Commission 0 
+Tableau [2d Qd Kd Jd]
+Siège 1 : lilourafa (petite blind) s'est couché. sur le Tournant
+Siège 2 : isard65 (grosse blind) a remporté (510)
+Siège 4 : psychoman59 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237838982707 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 07/08/2022 10:11:34 CET [07/08/2022 4:11:34 ET]
+Table '3452672680 1' 4-max Siège #1 est au bouton.
+Place 1: lilourafa (5200 en jetons) 
+Place 2: isard65 (9145 en jetons) 
+Place 4: psychoman59 (5655 en jetons) 
+lilourafa : met l'ante. 20
+isard65 : met l'ante. 20
+psychoman59 : met l'ante. 20
+isard65 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8h]
+lilourafa : passe. 
+isard65 : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 210  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 1 : lilourafa (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : isard65 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (210)
+
+
+
+Main PokerStars n°237838983755 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 07/08/2022 10:11:42 CET [07/08/2022 4:11:42 ET]
+Table '3452672680 1' 4-max Siège #2 est au bouton.
+Place 1: lilourafa (5180 en jetons) 
+Place 2: isard65 (9050 en jetons) 
+Place 4: psychoman59 (5770 en jetons) 
+lilourafa : met l'ante. 20
+isard65 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+lilourafa : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 2d]
+isard65 : suit. 150
+psychoman59 : passe. 
+lilourafa : parole 
+*** FLOP *** [8s 7s Ah]
+lilourafa : parole 
+isard65 : mise. 435
+lilourafa : passe. 
+Personne n'a suivi. (435) sont retournés à isard65.
+isard65 a remporté 435  lors du pot .
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Tableau [8s 7s Ah]
+Siège 1 : lilourafa (grosse blind) s'est couché. sur le Flop
+Siège 2 : isard65 (bouton) a remporté (435)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237838986112 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 07/08/2022 10:11:58 CET [07/08/2022 4:11:58 ET]
+Table '3452672680 1' 4-max Siège #4 est au bouton.
+Place 1: lilourafa (5010 en jetons) 
+Place 2: isard65 (9315 en jetons) 
+Place 4: psychoman59 (5675 en jetons) 
+lilourafa : met l'ante. 25
+isard65 : met l'ante. 25
+psychoman59 : met l'ante. 25
+lilourafa : met la petite blind. 100
+isard65 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 8c]
+psychoman59 : passe. 
+lilourafa : suit. 100
+isard65 : parole 
+*** FLOP *** [9d Jh Jd]
+lilourafa : parole 
+isard65 : parole 
+*** TOURNANT *** [9d Jh Jd] [4c]
+lilourafa : mise. 200
+isard65 : passe. 
+Personne n'a suivi. (200) sont retournés à lilourafa.
+lilourafa a remporté 475  lors du pot .
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Tableau [9d Jh Jd 4c]
+Siège 1 : lilourafa (petite blind) a remporté (475)
+Siège 2 : isard65 (grosse blind) s'est couché. sur le Tournant
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237838988367 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 07/08/2022 10:12:14 CET [07/08/2022 4:12:14 ET]
+Table '3452672680 1' 4-max Siège #1 est au bouton.
+Place 1: lilourafa (5260 en jetons) 
+Place 2: isard65 (9090 en jetons) 
+Place 4: psychoman59 (5650 en jetons) 
+lilourafa : met l'ante. 25
+isard65 : met l'ante. 25
+psychoman59 : met l'ante. 25
+isard65 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 8c]
+lilourafa : suit. 200
+isard65 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Th Ad 4c]
+psychoman59 : parole 
+lilourafa : mise. 575
+psychoman59 : passe. 
+Personne n'a suivi. (575) sont retournés à lilourafa.
+lilourafa a remporté 575  lors du pot .
+*** SYNTHÈSE ***
+Pot total 575 | Commission 0 
+Tableau [Th Ad 4c]
+Siège 1 : lilourafa (bouton) a remporté (575)
+Siège 2 : isard65 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237838991243 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 07/08/2022 10:12:35 CET [07/08/2022 4:12:35 ET]
+Table '3452672680 1' 4-max Siège #2 est au bouton.
+Place 1: lilourafa (5610 en jetons) 
+Place 2: isard65 (8965 en jetons) 
+Place 4: psychoman59 (5425 en jetons) 
+lilourafa : met l'ante. 25
+isard65 : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+lilourafa : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 2c]
+isard65 : suit. 200
+psychoman59 : passe. 
+lilourafa : parole 
+*** FLOP *** [Th 8c 8s]
+lilourafa : parole 
+isard65 : parole 
+*** TOURNANT *** [Th 8c 8s] [Ad]
+lilourafa : parole 
+isard65 : parole 
+*** RIVIÈRE *** [Th 8c 8s Ad] [7h]
+lilourafa : parole 
+isard65 : parole 
+*** ABATTAGE ***
+lilourafa : montre [4d 5c] (une paire de Huit)
+isard65 : montre [Ah 3d] (double paire, As et Huit)
+isard65 a remporté 575  lors du pot .
+*** SYNTHÈSE ***
+Pot total 575 | Commission 0 
+Tableau [Th 8c 8s Ad 7h]
+Siège 1 : lilourafa (grosse blind) a montré [4d 5c] et a perdu avec une paire de Huit
+Siège 2 : isard65 (bouton) a montré [Ah 3d] et a gagné (575) avec double paire, As et Huit
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237838993781 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 07/08/2022 10:12:53 CET [07/08/2022 4:12:53 ET]
+Table '3452672680 1' 4-max Siège #4 est au bouton.
+Place 1: lilourafa (5385 en jetons) 
+Place 2: isard65 (9315 en jetons) 
+Place 4: psychoman59 (5300 en jetons) 
+lilourafa : met l'ante. 25
+isard65 : met l'ante. 25
+psychoman59 : met l'ante. 25
+lilourafa : met la petite blind. 100
+isard65 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 5d]
+psychoman59 : passe. 
+lilourafa : suit. 100
+isard65 : parole 
+*** FLOP *** [8c Kd 2c]
+lilourafa : parole 
+isard65 : parole 
+*** TOURNANT *** [8c Kd 2c] [6s]
+lilourafa : parole 
+isard65 : parole 
+*** RIVIÈRE *** [8c Kd 2c 6s] [2s]
+lilourafa : parole 
+isard65 : parole 
+*** ABATTAGE ***
+lilourafa : montre [Qh 9s] (une paire de Deux)
+isard65 : cache la main perdante. 
+lilourafa a remporté 475  lors du pot .
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Tableau [8c Kd 2c 6s 2s]
+Siège 1 : lilourafa (petite blind) a montré [Qh 9s] et a gagné (475) avec une paire de Deux
+Siège 2 : isard65 (grosse blind) a caché la main perdante. [7s 5h]
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237838997016 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 07/08/2022 10:13:16 CET [07/08/2022 4:13:16 ET]
+Table '3452672680 1' 4-max Siège #1 est au bouton.
+Place 1: lilourafa (5635 en jetons) 
+Place 2: isard65 (9090 en jetons) 
+Place 4: psychoman59 (5275 en jetons) 
+lilourafa : met l'ante. 25
+isard65 : met l'ante. 25
+psychoman59 : met l'ante. 25
+isard65 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ts]
+lilourafa : passe. 
+isard65 : suit. 100
+psychoman59 : parole 
+*** FLOP *** [4d 4c Qc]
+isard65 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4d 4c Qc] [Tc]
+isard65 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4d 4c Qc Tc] [Qs]
+isard65 : parole 
+psychoman59 : mise. 475
+isard65 : passe. 
+Personne n'a suivi. (475) sont retournés à psychoman59.
+psychoman59 a remporté 475  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Tableau [4d 4c Qc Tc Qs]
+Siège 1 : lilourafa (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : isard65 (petite blind) s'est couché. sur le Rivière
+Siège 4 : psychoman59 (grosse blind) a remporté (475)
+
+
+
+Main PokerStars n°237839000648 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 07/08/2022 10:13:42 CET [07/08/2022 4:13:42 ET]
+Table '3452672680 1' 4-max Siège #2 est au bouton.
+Place 1: lilourafa (5610 en jetons) 
+Place 2: isard65 (8865 en jetons) 
+Place 4: psychoman59 (5525 en jetons) 
+lilourafa : met l'ante. 25
+isard65 : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+lilourafa : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 6h]
+isard65 : suit. 200
+psychoman59 : passe. 
+lilourafa : parole 
+*** FLOP *** [4h 3s Kc]
+lilourafa : mise. 575
+isard65 : passe. 
+Personne n'a suivi. (575) sont retournés à lilourafa.
+lilourafa a remporté 575  lors du pot .
+*** SYNTHÈSE ***
+Pot total 575 | Commission 0 
+Tableau [4h 3s Kc]
+Siège 1 : lilourafa (grosse blind) a remporté (575)
+Siège 2 : isard65 (bouton) s'est couché. sur le Flop
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237839002902 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 07/08/2022 10:13:58 CET [07/08/2022 4:13:58 ET]
+Table '3452672680 1' 4-max Siège #4 est au bouton.
+Place 1: lilourafa (5960 en jetons) 
+Place 2: isard65 (8640 en jetons) 
+Place 4: psychoman59 (5400 en jetons) 
+lilourafa : met l'ante. 25
+isard65 : met l'ante. 25
+psychoman59 : met l'ante. 25
+lilourafa : met la petite blind. 100
+isard65 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 6d]
+psychoman59 : passe. 
+lilourafa : suit. 100
+isard65 : parole 
+*** FLOP *** [9h 3s 6c]
+lilourafa : parole 
+isard65 : parole 
+*** TOURNANT *** [9h 3s 6c] [8d]
+lilourafa : mise. 200
+isard65 : suit. 200
+*** RIVIÈRE *** [9h 3s 6c 8d] [Js]
+lilourafa : parole 
+isard65 : parole 
+*** ABATTAGE ***
+lilourafa : montre [8h 2c] (une paire de Huit)
+isard65 : montre [8c Ad] (une paire de Huit - As kicker)
+isard65 a remporté 875  lors du pot .
+*** SYNTHÈSE ***
+Pot total 875 | Commission 0 
+Tableau [9h 3s 6c 8d Js]
+Siège 1 : lilourafa (petite blind) a montré [8h 2c] et a perdu avec une paire de Huit
+Siège 2 : isard65 (grosse blind) a montré [8c Ad] et a gagné (875) avec une paire de Huit
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237839005745 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 07/08/2022 10:14:18 CET [07/08/2022 4:14:18 ET]
+Table '3452672680 1' 4-max Siège #1 est au bouton.
+Place 1: lilourafa (5535 en jetons) 
+Place 2: isard65 (9090 en jetons) 
+Place 4: psychoman59 (5375 en jetons) 
+lilourafa : met l'ante. 25
+isard65 : met l'ante. 25
+psychoman59 : met l'ante. 25
+isard65 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Ah]
+lilourafa : passe. 
+isard65 : suit. 100
+psychoman59 : relance. 5150 à 5350 et est all-in.
+isard65 : passe. 
+Personne n'a suivi. (5150) sont retournés à psychoman59.
+psychoman59 a remporté 475  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Siège 1 : lilourafa (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : isard65 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (475)
+
+
+
+Main PokerStars n°237839007886 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 07/08/2022 10:14:33 CET [07/08/2022 4:14:33 ET]
+Table '3452672680 1' 4-max Siège #2 est au bouton.
+Place 1: lilourafa (5510 en jetons) 
+Place 2: isard65 (8865 en jetons) 
+Place 4: psychoman59 (5625 en jetons) 
+lilourafa : met l'ante. 25
+isard65 : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+lilourafa : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 3s]
+isard65 : suit. 200
+psychoman59 : suit. 100
+lilourafa : parole 
+*** FLOP *** [Qc 3d 8s]
+psychoman59 : parole 
+lilourafa : parole 
+isard65 : parole 
+*** TOURNANT *** [Qc 3d 8s] [Jd]
+psychoman59 : parole 
+lilourafa : mise. 200
+isard65 : suit. 200
+psychoman59 : suit. 200
+*** RIVIÈRE *** [Qc 3d 8s Jd] [6c]
+psychoman59 : parole 
+lilourafa : mise. 1275
+isard65 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (1275) sont retournés à lilourafa.
+lilourafa a remporté 1275  lors du pot .
+lilourafa : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1275 | Commission 0 
+Tableau [Qc 3d 8s Jd 6c]
+Siège 1 : lilourafa (grosse blind) a remporté (1275)
+Siège 2 : isard65 (bouton) s'est couché. sur le Rivière
+Siège 4 : psychoman59 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237839012138 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 07/08/2022 10:15:04 CET [07/08/2022 4:15:04 ET]
+Table '3452672680 1' 4-max Siège #4 est au bouton.
+Place 1: lilourafa (6360 en jetons) 
+Place 2: isard65 (8440 en jetons) 
+Place 4: psychoman59 (5200 en jetons) 
+lilourafa : met l'ante. 30
+isard65 : met l'ante. 30
+psychoman59 : met l'ante. 30
+lilourafa : met la petite blind. 125
+isard65 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Jc]
+psychoman59 : relance. 715 à 965
+lilourafa : relance. 2270 à 3235
+isard65 : passe. 
+psychoman59 : suit. 2270
+*** FLOP *** [4h 6s 6h]
+lilourafa : mise. 3095 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (3095) sont retournés à lilourafa.
+lilourafa a remporté 6810  lors du pot .
+*** SYNTHÈSE ***
+Pot total 6810 | Commission 0 
+Tableau [4h 6s 6h]
+Siège 1 : lilourafa (petite blind) a remporté (6810)
+Siège 2 : isard65 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237839015656 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 07/08/2022 10:15:28 CET [07/08/2022 4:15:28 ET]
+Table '3452672680 1' 4-max Siège #1 est au bouton.
+Place 1: lilourafa (9905 en jetons) 
+Place 2: isard65 (8160 en jetons) 
+Place 4: psychoman59 (1935 en jetons) 
+lilourafa : met l'ante. 30
+isard65 : met l'ante. 30
+psychoman59 : met l'ante. 30
+isard65 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9d]
+lilourafa : passe. 
+isard65 : suit. 125
+psychoman59 : relance. 1655 à 1905 et est all-in.
+isard65 : suit. 1655
+*** FLOP *** [4s 6d As]
+*** TOURNANT *** [4s 6d As] [Qc]
+*** RIVIÈRE *** [4s 6d As Qc] [4h]
+*** ABATTAGE ***
+isard65 : montre [Jd Kh] (une paire de Quatre)
+psychoman59 : montre [Kd 9d] (une paire de Quatre)
+isard65 a remporté 1950  lors du pot .
+psychoman59 a remporté 1950  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3900 | Commission 0 
+Tableau [4s 6d As Qc 4h]
+Siège 1 : lilourafa (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : isard65 (petite blind) a montré [Jd Kh] et a gagné (1950) avec une paire de Quatre
+Siège 4 : psychoman59 (grosse blind) a montré [Kd 9d] et a gagné (1950) avec une paire de Quatre
+
+
+
+Main PokerStars n°237839018524 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 07/08/2022 10:15:49 CET [07/08/2022 4:15:49 ET]
+Table '3452672680 1' 4-max Siège #2 est au bouton.
+Place 1: lilourafa (9875 en jetons) 
+Place 2: isard65 (8175 en jetons) 
+Place 4: psychoman59 (1950 en jetons) 
+lilourafa : met l'ante. 30
+isard65 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+lilourafa : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 5c]
+isard65 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à lilourafa.
+lilourafa a remporté 340  lors du pot .
+lilourafa : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : lilourafa (grosse blind) a remporté (340)
+Siège 2 : isard65 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237839019538 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 07/08/2022 10:15:56 CET [07/08/2022 4:15:56 ET]
+Table '3452672680 1' 4-max Siège #4 est au bouton.
+Place 1: lilourafa (10060 en jetons) 
+Place 2: isard65 (8145 en jetons) 
+Place 4: psychoman59 (1795 en jetons) 
+lilourafa : met l'ante. 30
+isard65 : met l'ante. 30
+psychoman59 : met l'ante. 30
+lilourafa : met la petite blind. 125
+isard65 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 6s]
+psychoman59 : relance. 1515 à 1765 et est all-in.
+lilourafa : passe. 
+isard65 : passe. 
+Personne n'a suivi. (1515) sont retournés à psychoman59.
+psychoman59 a remporté 715  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 715 | Commission 0 
+Siège 1 : lilourafa (petite blind) s'est couché. avant Flop
+Siège 2 : isard65 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) a remporté (715)
+
+
+
+Main PokerStars n°237839021315 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 07/08/2022 10:16:09 CET [07/08/2022 4:16:09 ET]
+Table '3452672680 1' 4-max Siège #1 est au bouton.
+Place 1: lilourafa (9905 en jetons) 
+Place 2: isard65 (7865 en jetons) 
+Place 4: psychoman59 (2230 en jetons) 
+lilourafa : met l'ante. 30
+isard65 : met l'ante. 30
+psychoman59 : met l'ante. 30
+isard65 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 6h]
+lilourafa : passe. 
+isard65 : suit. 125
+psychoman59 : parole 
+*** FLOP *** [9d 9h Kd]
+isard65 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9d 9h Kd] [Qs]
+isard65 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9d 9h Kd Qs] [6d]
+isard65 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+isard65 : montre [Jc 8d] (une paire de Neuf)
+psychoman59 : montre [5h 6h] (double paire, Neuf et Six)
+psychoman59 a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [9d 9h Kd Qs 6d]
+Siège 1 : lilourafa (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : isard65 (petite blind) a montré [Jc 8d] et a perdu avec une paire de Neuf
+Siège 4 : psychoman59 (grosse blind) a montré [5h 6h] et a gagné (590) avec double paire, Neuf et Six
+
+
+
+Main PokerStars n°237839024490 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 07/08/2022 10:16:31 CET [07/08/2022 4:16:31 ET]
+Table '3452672680 1' 4-max Siège #2 est au bouton.
+Place 1: lilourafa (9875 en jetons) 
+Place 2: isard65 (7585 en jetons) 
+Place 4: psychoman59 (2540 en jetons) 
+lilourafa : met l'ante. 30
+isard65 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+lilourafa : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Jc]
+isard65 : suit. 250
+psychoman59 : passe. 
+lilourafa : parole 
+*** FLOP *** [2h 4c 5h]
+lilourafa : parole 
+isard65 : parole 
+*** TOURNANT *** [2h 4c 5h] [5c]
+lilourafa : parole 
+isard65 : parole 
+*** RIVIÈRE *** [2h 4c 5h 5c] [Ac]
+lilourafa : parole 
+isard65 : parole 
+*** ABATTAGE ***
+lilourafa : montre [9d 6s] (une paire de Cinq)
+isard65 : montre [Qh 9s] (une paire de Cinq - As+Dame kicker)
+isard65 a remporté 715  lors du pot .
+*** SYNTHÈSE ***
+Pot total 715 | Commission 0 
+Tableau [2h 4c 5h 5c Ac]
+Siège 1 : lilourafa (grosse blind) a montré [9d 6s] et a perdu avec une paire de Cinq
+Siège 2 : isard65 (bouton) a montré [Qh 9s] et a gagné (715) avec une paire de Cinq
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237839027453 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 07/08/2022 10:16:53 CET [07/08/2022 4:16:53 ET]
+Table '3452672680 1' 4-max Siège #4 est au bouton.
+Place 1: lilourafa (9595 en jetons) 
+Place 2: isard65 (8020 en jetons) 
+Place 4: psychoman59 (2385 en jetons) 
+lilourafa : met l'ante. 30
+isard65 : met l'ante. 30
+psychoman59 : met l'ante. 30
+lilourafa : met la petite blind. 125
+isard65 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 6d]
+psychoman59 : passe. 
+lilourafa : suit. 125
+isard65 : parole 
+*** FLOP *** [Js 7h 8c]
+lilourafa : parole 
+isard65 : parole 
+*** TOURNANT *** [Js 7h 8c] [Qs]
+lilourafa : parole 
+isard65 : parole 
+*** RIVIÈRE *** [Js 7h 8c Qs] [3d]
+lilourafa : parole 
+isard65 : parole 
+*** ABATTAGE ***
+lilourafa : montre [Kd 9c] (Hauteur Roi)
+isard65 : cache la main perdante. 
+lilourafa a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [Js 7h 8c Qs 3d]
+Siège 1 : lilourafa (petite blind) a montré [Kd 9c] et a gagné (590) avec Hauteur Roi
+Siège 2 : isard65 (grosse blind) a caché la main perdante. [2h 6c]
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237839030265 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 07/08/2022 10:17:13 CET [07/08/2022 4:17:13 ET]
+Table '3452672680 1' 4-max Siège #1 est au bouton.
+Place 1: lilourafa (9905 en jetons) 
+Place 2: isard65 (7740 en jetons) 
+Place 4: psychoman59 (2355 en jetons) 
+lilourafa : met l'ante. 30
+isard65 : met l'ante. 30
+psychoman59 : met l'ante. 30
+isard65 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 7s]
+lilourafa : passe. 
+isard65 : suit. 125
+psychoman59 : parole 
+*** FLOP *** [Td 3c 4h]
+isard65 : mise. 250
+psychoman59 : suit. 250
+*** TOURNANT *** [Td 3c 4h] [Tc]
+isard65 : mise. 250
+psychoman59 : suit. 250
+*** RIVIÈRE *** [Td 3c 4h Tc] [Qd]
+isard65 : parole 
+psychoman59 : mise. 1575 et est all-in.
+isard65 : passe. 
+Personne n'a suivi. (1575) sont retournés à psychoman59.
+psychoman59 a remporté 1590  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1590 | Commission 0 
+Tableau [Td 3c 4h Tc Qd]
+Siège 1 : lilourafa (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : isard65 (petite blind) s'est couché. sur le Rivière
+Siège 4 : psychoman59 (grosse blind) a remporté (1590)
+
+
+
+Main PokerStars n°237839033871 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 07/08/2022 10:17:39 CET [07/08/2022 4:17:39 ET]
+Table '3452672680 1' 4-max Siège #2 est au bouton.
+Place 1: lilourafa (9875 en jetons) 
+Place 2: isard65 (6960 en jetons) 
+Place 4: psychoman59 (3165 en jetons) 
+lilourafa : met l'ante. 30
+isard65 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+lilourafa : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Jc]
+isard65 : suit. 250
+psychoman59 : relance. 2885 à 3135 et est all-in.
+lilourafa : passe. 
+isard65 : passe. 
+Personne n'a suivi. (2885) sont retournés à psychoman59.
+psychoman59 a remporté 840  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Siège 1 : lilourafa (grosse blind) s'est couché. avant Flop
+Siège 2 : isard65 (bouton) s'est couché. avant Flop
+Siège 4 : psychoman59 (petite blind) a remporté (840)
+
+
+
+Main PokerStars n°237839035756 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 07/08/2022 10:17:52 CET [07/08/2022 4:17:52 ET]
+Table '3452672680 1' 4-max Siège #4 est au bouton.
+Place 1: lilourafa (9595 en jetons) 
+Place 2: isard65 (6680 en jetons) 
+Place 4: psychoman59 (3725 en jetons) 
+lilourafa : met l'ante. 30
+isard65 : met l'ante. 30
+psychoman59 : met l'ante. 30
+lilourafa : met la petite blind. 125
+isard65 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 4h]
+psychoman59 : passe. 
+lilourafa : suit. 125
+isard65 : parole 
+*** FLOP *** [Jd 7c 3h]
+lilourafa : parole 
+isard65 : parole 
+*** TOURNANT *** [Jd 7c 3h] [As]
+lilourafa : mise. 250
+isard65 : passe. 
+Personne n'a suivi. (250) sont retournés à lilourafa.
+lilourafa a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [Jd 7c 3h As]
+Siège 1 : lilourafa (petite blind) a remporté (590)
+Siège 2 : isard65 (grosse blind) s'est couché. sur le Tournant
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237839038107 : Tournoi #3452672680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 07/08/2022 10:18:09 CET [07/08/2022 4:18:09 ET]
+Table '3452672680 1' 4-max Siège #1 est au bouton.
+Place 1: lilourafa (9905 en jetons) 
+Place 2: isard65 (6400 en jetons) 
+Place 4: psychoman59 (3695 en jetons) 
+lilourafa : met l'ante. 40
+isard65 : met l'ante. 40
+psychoman59 : met l'ante. 40
+isard65 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ah]
+lilourafa : passe. 
+isard65 : suit. 150
+psychoman59 : relance. 3355 à 3655 et est all-in.
+isard65 : suit. 3355
+*** FLOP *** [Ks 4h 2c]
+*** TOURNANT *** [Ks 4h 2c] [8d]
+*** RIVIÈRE *** [Ks 4h 2c 8d] [4d]
+*** ABATTAGE ***
+isard65 : montre [Td Kd] (double paire, Rois et Quatre)
+psychoman59 : montre [Qh Ah] (une paire de Quatre)
+isard65 a remporté 7430  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 7430 | Commission 0 
+Tableau [Ks 4h 2c 8d 4d]
+Siège 1 : lilourafa (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : isard65 (petite blind) a montré [Td Kd] et a gagné (7430) avec double paire, Rois et Quatre
+Siège 4 : psychoman59 (grosse blind) a montré [Qh Ah] et a perdu avec une paire de Quatre
+
+
+

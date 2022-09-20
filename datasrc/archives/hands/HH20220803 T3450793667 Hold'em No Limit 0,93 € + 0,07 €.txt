@@ -1,0 +1,211 @@
+﻿Main PokerStars n°237760892419 : Tournoi #3450793667, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/08/2022 13:54:26 CET [03/08/2022 7:54:26 ET]
+Table '3450793667 1' 3-max Siège #1 est au bouton.
+Place 1: amstaff8505 (300 en jetons) 
+Place 2: JuAha (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+JuAha : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 2s]
+amstaff8505 : passe. 
+JuAha : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : amstaff8505 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : JuAha (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237760896612 : Tournoi #3450793667, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/08/2022 13:54:48 CET [03/08/2022 7:54:48 ET]
+Table '3450793667 1' 3-max Siège #2 est au bouton.
+Place 1: amstaff8505 (300 en jetons) 
+Place 2: JuAha (290 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 10
+amstaff8505 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Qh]
+JuAha : relance. 270 à 290 et est all-in.
+psychoman59 : suit. 280
+amstaff8505 : passe. 
+*** FLOP *** [Ad Jh 7d]
+*** TOURNANT *** [Ad Jh 7d] [Qc]
+*** RIVIÈRE *** [Ad Jh 7d Qc] [Qs]
+*** ABATTAGE ***
+psychoman59 : montre [Kc Qh] (un brelan de Dames)
+JuAha : montre [Ah Qd] (un full, full aux Dames par les As)
+JuAha a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [Ad Jh 7d Qc Qs]
+Siège 1 : amstaff8505 (grosse blind) s'est couché. avant Flop
+Siège 2 : JuAha (bouton) a montré [Ah Qd] et a gagné (600) avec un full, full aux Dames par les As
+Siège 3 : psychoman59 (petite blind) a montré [Kc Qh] et a perdu avec un brelan de Dames
+
+
+
+Main PokerStars n°237760901758 : Tournoi #3450793667, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/08/2022 13:55:15 CET [03/08/2022 7:55:15 ET]
+Table '3450793667 1' 3-max Siège #3 est au bouton.
+Place 1: amstaff8505 (280 en jetons) 
+Place 2: JuAha (600 en jetons) 
+Place 3: psychoman59 (20 en jetons) 
+amstaff8505 : met la petite blind. 10
+JuAha : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Ac]
+psychoman59 : suit. 20 et est all-in.
+amstaff8505 : suit. 10
+JuAha : parole 
+*** FLOP *** [Qc 2h 7c]
+amstaff8505 : parole 
+JuAha : parole 
+*** TOURNANT *** [Qc 2h 7c] [3d]
+amstaff8505 : mise. 20
+JuAha : passe. 
+Personne n'a suivi. (20) sont retournés à amstaff8505.
+*** RIVIÈRE *** [Qc 2h 7c 3d] [Ah]
+*** ABATTAGE ***
+amstaff8505 : montre [Qh 8s] (une paire de Dames)
+psychoman59 : montre [Th Ac] (une paire de As)
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qc 2h 7c 3d Ah]
+Siège 1 : amstaff8505 (petite blind) a montré [Qh 8s] et a perdu avec une paire de Dames
+Siège 2 : JuAha (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) a montré [Th Ac] et a gagné (60) avec une paire de As
+
+
+
+Main PokerStars n°237760905332 : Tournoi #3450793667, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 03/08/2022 13:55:36 CET [03/08/2022 7:55:36 ET]
+Table '3450793667 1' 3-max Siège #1 est au bouton.
+Place 1: amstaff8505 (260 en jetons) 
+Place 2: JuAha (580 en jetons) 
+Place 3: psychoman59 (60 en jetons) 
+JuAha : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Tc]
+amstaff8505 : suit. 30
+JuAha : passe. 
+psychoman59 : parole 
+*** FLOP *** [3h Qs 9h]
+psychoman59 : mise. 30 et est all-in.
+amstaff8505 : suit. 30
+*** TOURNANT *** [3h Qs 9h] [5s]
+*** RIVIÈRE *** [3h Qs 9h 5s] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [9s Tc] (une paire de Neuf)
+amstaff8505 : montre [As 2d] (une paire de Deux)
+psychoman59 a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [3h Qs 9h 5s 2h]
+Siège 1 : amstaff8505 (bouton) a montré [As 2d] et a perdu avec une paire de Deux
+Siège 2 : JuAha (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [9s Tc] et a gagné (135) avec une paire de Neuf
+
+
+
+Main PokerStars n°237760908469 : Tournoi #3450793667, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 03/08/2022 13:55:54 CET [03/08/2022 7:55:54 ET]
+Table '3450793667 1' 3-max Siège #2 est au bouton.
+Place 1: amstaff8505 (200 en jetons) 
+Place 2: JuAha (565 en jetons) 
+Place 3: psychoman59 (135 en jetons) 
+psychoman59 : met la petite blind. 15
+amstaff8505 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 3c]
+JuAha : relance. 30 à 60
+psychoman59 : relance. 75 à 135 et est all-in.
+amstaff8505 : suit. 105
+JuAha : suit. 75
+*** FLOP *** [9d 3s Ts]
+amstaff8505 : parole 
+JuAha : parole 
+*** TOURNANT *** [9d 3s Ts] [Td]
+amstaff8505 : parole 
+JuAha : parole 
+*** RIVIÈRE *** [9d 3s Ts Td] [9h]
+amstaff8505 : parole 
+JuAha : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ac 3c] (double paire, Dix et Neuf)
+amstaff8505 : cache la main perdante. 
+JuAha : cache la main perdante. 
+psychoman59 a remporté 405  lors du pot .
+*** SYNTHÈSE ***
+Pot total 405 | Commission 0 
+Tableau [9d 3s Ts Td 9h]
+Siège 1 : amstaff8505 (grosse blind) a caché la main perdante. [5h Ks]
+Siège 2 : JuAha (bouton) a caché la main perdante. [8c 7c]
+Siège 3 : psychoman59 (petite blind) a montré [Ac 3c] et a gagné (405) avec double paire, Dix et Neuf
+
+
+
+Main PokerStars n°237760912416 : Tournoi #3450793667, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 03/08/2022 13:56:18 CET [03/08/2022 7:56:18 ET]
+Table '3450793667 1' 3-max Siège #3 est au bouton.
+Place 1: amstaff8505 (65 en jetons) 
+Place 2: JuAha (430 en jetons) 
+Place 3: psychoman59 (405 en jetons) 
+amstaff8505 : met la petite blind. 15
+JuAha : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Qc]
+psychoman59 : relance. 30 à 60
+amstaff8505 : relance. 5 à 65 et est all-in.
+JuAha : suit. 35
+psychoman59 : suit. 5
+*** FLOP *** [2h Tc 3c]
+JuAha : mise. 210
+psychoman59 : relance. 130 à 340 et est all-in.
+JuAha : suit. 130
+*** TOURNANT *** [2h Tc 3c] [3s]
+*** RIVIÈRE *** [2h Tc 3c 3s] [8d]
+*** ABATTAGE ***
+JuAha : montre [Th 9d] (double paire, Dix et Trois)
+psychoman59 : montre [Qs Qc] (double paire, Dames et Trois)
+psychoman59 a remporté 680  parallèle lors du pot .
+amstaff8505 : montre [2d Kh] (double paire, Trois et Deux)
+psychoman59 a remporté 195  principal lors du pot .
+amstaff8505 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 875 Principal pot 195. Parallèle pot 680. | Commission 0 
+Tableau [2h Tc 3c 3s 8d]
+Siège 1 : amstaff8505 (petite blind) a montré [2d Kh] et a perdu avec double paire, Trois et Deux
+Siège 2 : JuAha (grosse blind) a montré [Th 9d] et a perdu avec double paire, Dix et Trois
+Siège 3 : psychoman59 (bouton) a montré [Qs Qc] et a gagné (875) avec double paire, Dames et Trois
+
+
+
+Main PokerStars n°237760916829 : Tournoi #3450793667, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 03/08/2022 13:56:43 CET [03/08/2022 7:56:43 ET]
+Table '3450793667 1' 3-max Siège #2 est au bouton.
+Place 2: JuAha (25 en jetons) 
+Place 3: psychoman59 (875 en jetons) 
+JuAha : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Ts]
+JuAha : suit. 5 et est all-in.
+Personne n'a suivi. (15) sont retournés à psychoman59.
+*** FLOP *** [2d 8h 2c]
+*** TOURNANT *** [2d 8h 2c] [Th]
+*** RIVIÈRE *** [2d 8h 2c Th] [5d]
+*** ABATTAGE ***
+psychoman59 : montre [2s Ts] (un full, full aux Deux par les Dix)
+JuAha : montre [6h Td] (double paire, Dix et Deux)
+psychoman59 a remporté 50  lors du pot .
+JuAha a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [2d 8h 2c Th 5d]
+Siège 2 : JuAha (bouton) (petite blind) a montré [6h Td] et a perdu avec double paire, Dix et Deux
+Siège 3 : psychoman59 (grosse blind) a montré [2s Ts] et a gagné (50) avec un full, full aux Deux par les Dix
+
+
+

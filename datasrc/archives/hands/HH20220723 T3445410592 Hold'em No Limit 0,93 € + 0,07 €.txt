@@ -1,0 +1,90 @@
+﻿Main PokerStars n°237528311745 : Tournoi #3445410592, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/07/2022 7:39:10 CET [23/07/2022 1:39:10 ET]
+Table '3445410592 1' 3-max Siège #1 est au bouton.
+Place 1: seb373779 (300 en jetons) 
+Place 2: marioncline10 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+marioncline10 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 4s]
+seb373779 : suit. 20
+marioncline10 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jd 2h Kh]
+marioncline10 : parole 
+psychoman59 : parole 
+seb373779 : parole 
+*** TOURNANT *** [Jd 2h Kh] [5h]
+marioncline10 : parole 
+psychoman59 : parole 
+seb373779 : parole 
+*** RIVIÈRE *** [Jd 2h Kh 5h] [6h]
+marioncline10 : mise. 20
+psychoman59 : passe. 
+seb373779 : relance. 100 à 120
+marioncline10 : suit. 100
+*** ABATTAGE ***
+seb373779 : montre [Ah Ts] (une couleur, hauteur As)
+marioncline10 : cache la main perdante. 
+seb373779 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Jd 2h Kh 5h 6h]
+Siège 1 : seb373779 (bouton) a montré [Ah Ts] et a gagné (300) avec une couleur, hauteur As
+Siège 2 : marioncline10 (petite blind) a caché la main perdante. [Qd Th]
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237528315122 : Tournoi #3445410592, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/07/2022 7:39:37 CET [23/07/2022 1:39:37 ET]
+Table '3445410592 1' 3-max Siège #2 est au bouton.
+Place 1: seb373779 (460 en jetons) 
+Place 2: marioncline10 (160 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+seb373779 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 7s]
+marioncline10 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à seb373779.
+seb373779 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : seb373779 (grosse blind) a remporté (20)
+Siège 2 : marioncline10 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237528316353 : Tournoi #3445410592, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/07/2022 7:39:47 CET [23/07/2022 1:39:47 ET]
+Table '3445410592 1' 3-max Siège #3 est au bouton.
+Place 1: seb373779 (470 en jetons) 
+Place 2: marioncline10 (160 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+seb373779 : met la petite blind. 10
+marioncline10 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Kh]
+psychoman59 : relance. 50 à 70
+seb373779 : relance. 400 à 470 et est all-in.
+marioncline10 : passe. 
+psychoman59 : suit. 200 et est all-in.
+Personne n'a suivi. (200) sont retournés à seb373779.
+*** FLOP *** [Jc 4d As]
+*** TOURNANT *** [Jc 4d As] [2c]
+*** RIVIÈRE *** [Jc 4d As 2c] [Tc]
+*** ABATTAGE ***
+seb373779 : montre [Ad 3c] (une paire de As)
+psychoman59 : montre [Jd Kh] (une paire de Valets)
+seb373779 a remporté 560  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Jc 4d As 2c Tc]
+Siège 1 : seb373779 (petite blind) a montré [Ad 3c] et a gagné (560) avec une paire de As
+Siège 2 : marioncline10 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [Jd Kh] et a perdu avec une paire de Valets
+
+
+

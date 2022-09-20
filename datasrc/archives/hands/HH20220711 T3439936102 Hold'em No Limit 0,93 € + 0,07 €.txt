@@ -1,0 +1,277 @@
+﻿Main PokerStars n°237293973066 : Tournoi #3439936102, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 16:11:56 CET [11/07/2022 10:11:56 ET]
+Table '3439936102 1' 3-max Siège #1 est au bouton.
+Place 1: p4430is (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: gilAK140 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+gilAK140 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Tc]
+p4430is : relance. 280 à 300 et est all-in.
+psychoman59 : passe. 
+gilAK140 : passe. 
+Personne n'a suivi. (280) sont retournés à p4430is.
+p4430is a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : p4430is (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : gilAK140 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237293975396 : Tournoi #3439936102, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 16:12:06 CET [11/07/2022 10:12:06 ET]
+Table '3439936102 1' 3-max Siège #2 est au bouton.
+Place 1: p4430is (330 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: gilAK140 (280 en jetons) 
+gilAK140 : met la petite blind. 10
+p4430is : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Tc]
+psychoman59 : passe. 
+gilAK140 : suit. 10
+p4430is : relance. 20 à 40
+gilAK140 : suit. 20
+*** FLOP *** [5h Kd Jc]
+gilAK140 : parole 
+p4430is : mise. 20
+gilAK140 : suit. 20
+*** TOURNANT *** [5h Kd Jc] [Ad]
+gilAK140 : parole 
+p4430is : mise. 20
+gilAK140 : passe. 
+Personne n'a suivi. (20) sont retournés à p4430is.
+p4430is a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5h Kd Jc Ad]
+Siège 1 : p4430is (grosse blind) a remporté (120)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : gilAK140 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237293981543 : Tournoi #3439936102, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 16:12:32 CET [11/07/2022 10:12:32 ET]
+Table '3439936102 1' 3-max Siège #3 est au bouton.
+Place 1: p4430is (390 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: gilAK140 (220 en jetons) 
+p4430is : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 3h]
+gilAK140 : relance. 200 à 220 et est all-in.
+p4430is : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à gilAK140.
+gilAK140 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : p4430is (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : gilAK140 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°237293983411 : Tournoi #3439936102, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 16:12:40 CET [11/07/2022 10:12:40 ET]
+Table '3439936102 1' 3-max Siège #1 est au bouton.
+Place 1: p4430is (380 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: gilAK140 (250 en jetons) 
+psychoman59 : met la petite blind. 10
+gilAK140 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 3c]
+p4430is : passe. 
+psychoman59 : suit. 10
+gilAK140 : parole 
+*** FLOP *** [7c 3h Qh]
+psychoman59 : parole 
+gilAK140 : parole 
+*** TOURNANT *** [7c 3h Qh] [8h]
+psychoman59 : parole 
+gilAK140 : parole 
+*** RIVIÈRE *** [7c 3h Qh 8h] [Jh]
+psychoman59 : parole 
+gilAK140 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qc 3c] (double paire, Dames et Trois)
+gilAK140 : cache la main perdante. 
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7c 3h Qh 8h Jh]
+Siège 1 : p4430is (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Qc 3c] et a gagné (40) avec double paire, Dames et Trois
+Siège 3 : gilAK140 (grosse blind) a caché la main perdante. [8c 2s]
+
+
+
+Main PokerStars n°237293989924 : Tournoi #3439936102, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 16:13:07 CET [11/07/2022 10:13:07 ET]
+Table '3439936102 1' 3-max Siège #2 est au bouton.
+Place 1: p4430is (380 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: gilAK140 (230 en jetons) 
+gilAK140 : met la petite blind. 15
+p4430is : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 2d]
+psychoman59 : passe. 
+gilAK140 : passe. 
+Personne n'a suivi. (15) sont retournés à p4430is.
+p4430is a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : p4430is (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : gilAK140 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237293992192 : Tournoi #3439936102, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 16:13:16 CET [11/07/2022 10:13:16 ET]
+Table '3439936102 1' 3-max Siège #3 est au bouton.
+Place 1: p4430is (395 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: gilAK140 (215 en jetons) 
+p4430is : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 6c]
+gilAK140 : passe. 
+p4430is : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5h 9c 2s]
+p4430is : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5h 9c 2s] [7s]
+p4430is : parole 
+psychoman59 : mise. 60
+p4430is : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5h 9c 2s 7s]
+Siège 1 : p4430is (petite blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : gilAK140 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237294000173 : Tournoi #3439936102, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 16:13:50 CET [11/07/2022 10:13:50 ET]
+Table '3439936102 1' 3-max Siège #1 est au bouton.
+Place 1: p4430is (365 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: gilAK140 (215 en jetons) 
+psychoman59 : met la petite blind. 15
+gilAK140 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Jd]
+p4430is : relance. 30 à 60
+psychoman59 : suit. 45
+gilAK140 : passe. 
+*** FLOP *** [5d 3h Js]
+psychoman59 : mise. 150
+p4430is : suit. 150
+*** TOURNANT *** [5d 3h Js] [As]
+psychoman59 : mise. 110 et est all-in.
+p4430is : suit. 110
+*** RIVIÈRE *** [5d 3h Js As] [Jc]
+*** ABATTAGE ***
+psychoman59 : montre [Kh Jd] (un brelan de Valets)
+p4430is : montre [7s Kc] (une paire de Valets)
+psychoman59 a remporté 670  lors du pot .
+*** SYNTHÈSE ***
+Pot total 670 | Commission 0 
+Tableau [5d 3h Js As Jc]
+Siège 1 : p4430is (bouton) a montré [7s Kc] et a perdu avec une paire de Valets
+Siège 2 : psychoman59 (petite blind) a montré [Kh Jd] et a gagné (670) avec un brelan de Valets
+Siège 3 : gilAK140 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237294009895 : Tournoi #3439936102, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 16:14:30 CET [11/07/2022 10:14:30 ET]
+Table '3439936102 1' 3-max Siège #2 est au bouton.
+Place 1: p4430is (45 en jetons) 
+Place 2: psychoman59 (670 en jetons) 
+Place 3: gilAK140 (185 en jetons) 
+gilAK140 : met la petite blind. 20
+p4430is : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 5d]
+psychoman59 : passe. 
+gilAK140 : relance. 40 à 80
+p4430is : suit. 5 et est all-in.
+Personne n'a suivi. (35) sont retournés à gilAK140.
+*** FLOP *** [Qs Jc 6s]
+*** TOURNANT *** [Qs Jc 6s] [2s]
+*** RIVIÈRE *** [Qs Jc 6s 2s] [5h]
+*** ABATTAGE ***
+gilAK140 : montre [Ks 8d] (Hauteur Roi)
+p4430is : montre [9s Qc] (une paire de Dames)
+p4430is a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Qs Jc 6s 2s 5h]
+Siège 1 : p4430is (grosse blind) a montré [9s Qc] et a gagné (90) avec une paire de Dames
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : gilAK140 (petite blind) a montré [Ks 8d] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°237294013526 : Tournoi #3439936102, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 16:14:46 CET [11/07/2022 10:14:46 ET]
+Table '3439936102 1' 3-max Siège #3 est au bouton.
+Place 1: p4430is (90 en jetons) 
+Place 2: psychoman59 (670 en jetons) 
+Place 3: gilAK140 (140 en jetons) 
+p4430is : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 3s]
+gilAK140 : suit. 40
+p4430is : relance. 50 à 90 et est all-in.
+psychoman59 : passe. 
+gilAK140 : suit. 50
+*** FLOP *** [Jc Qh 5s]
+*** TOURNANT *** [Jc Qh 5s] [Th]
+*** RIVIÈRE *** [Jc Qh 5s Th] [4s]
+*** ABATTAGE ***
+p4430is : montre [Ks 8c] (Hauteur Roi)
+gilAK140 : montre [9c 8h] (une suite, Huit à Dame)
+gilAK140 a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [Jc Qh 5s Th 4s]
+Siège 1 : p4430is (petite blind) a montré [Ks 8c] et a perdu avec Hauteur Roi
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : gilAK140 (bouton) a montré [9c 8h] et a gagné (220) avec une suite, Huit à Dame
+
+
+
+Main PokerStars n°237294018669 : Tournoi #3439936102, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 16:15:07 CET [11/07/2022 10:15:07 ET]
+Table '3439936102 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (630 en jetons) 
+Place 3: gilAK140 (270 en jetons) 
+psychoman59 : met la petite blind. 30
+gilAK140 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Kh]
+psychoman59 : relance. 60 à 120
+gilAK140 : relance. 150 à 270 et est all-in.
+psychoman59 : suit. 150
+*** FLOP *** [4c 2d Kd]
+*** TOURNANT *** [4c 2d Kd] [5d]
+*** RIVIÈRE *** [4c 2d Kd 5d] [6d]
+*** ABATTAGE ***
+gilAK140 : montre [Js Ah] (Hauteur As)
+psychoman59 : montre [9s Kh] (une paire de Rois)
+psychoman59 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [4c 2d Kd 5d 6d]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [9s Kh] et a gagné (540) avec une paire de Rois
+Siège 3 : gilAK140 (grosse blind) a montré [Js Ah] et a perdu avec Hauteur As
+
+
+

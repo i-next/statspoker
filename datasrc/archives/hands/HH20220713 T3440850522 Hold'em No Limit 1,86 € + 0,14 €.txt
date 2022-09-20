@@ -1,0 +1,186 @@
+﻿Main PokerStars n°237332400487 : Tournoi #3440850522, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2022 14:41:52 CET [13/07/2022 8:41:52 ET]
+Table '3440850522 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: 2bleplay (300 en jetons) 
+Place 3: blondereded (300 en jetons) 
+2bleplay : met la petite blind. 10
+blondereded : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Tc]
+psychoman59 : passe. 
+2bleplay : suit. 10
+blondereded : parole 
+*** FLOP *** [2c 2s 3d]
+2bleplay : parole 
+blondereded : parole 
+*** TOURNANT *** [2c 2s 3d] [As]
+2bleplay : parole 
+blondereded : parole 
+*** RIVIÈRE *** [2c 2s 3d As] [Ad]
+2bleplay : mise. 20
+blondereded : passe. 
+Personne n'a suivi. (20) sont retournés à 2bleplay.
+2bleplay a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2c 2s 3d As Ad]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 2bleplay (petite blind) a remporté (40)
+Siège 3 : blondereded (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237332406738 : Tournoi #3440850522, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2022 14:42:21 CET [13/07/2022 8:42:21 ET]
+Table '3440850522 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: 2bleplay (320 en jetons) 
+Place 3: blondereded (280 en jetons) 
+blondereded : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 2h]
+2bleplay : suit. 20
+blondereded : passe. 
+psychoman59 : parole 
+*** FLOP *** [9d 8s 8c]
+psychoman59 : parole 
+2bleplay : parole 
+*** TOURNANT *** [9d 8s 8c] [Ad]
+psychoman59 : parole 
+2bleplay : parole 
+*** RIVIÈRE *** [9d 8s 8c Ad] [Jc]
+psychoman59 : parole 
+2bleplay : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à 2bleplay.
+2bleplay a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [9d 8s 8c Ad Jc]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : 2bleplay (bouton) a remporté (50)
+Siège 3 : blondereded (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237332412301 : Tournoi #3440850522, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2022 14:42:48 CET [13/07/2022 8:42:48 ET]
+Table '3440850522 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: 2bleplay (350 en jetons) 
+Place 3: blondereded (270 en jetons) 
+psychoman59 : met la petite blind. 10
+2bleplay : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 4s]
+blondereded : passe. 
+psychoman59 : relance. 260 à 280 et est all-in.
+2bleplay : passe. 
+Personne n'a suivi. (260) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (40)
+Siège 2 : 2bleplay (grosse blind) s'est couché. avant Flop
+Siège 3 : blondereded (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237332415062 : Tournoi #3440850522, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2022 14:43:01 CET [13/07/2022 8:43:01 ET]
+Table '3440850522 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: 2bleplay (330 en jetons) 
+Place 3: blondereded (270 en jetons) 
+2bleplay : met la petite blind. 15
+blondereded : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 9d]
+psychoman59 : suit. 30
+2bleplay : suit. 15
+blondereded : relance. 240 à 270 et est all-in.
+psychoman59 : suit. 240
+2bleplay : passe. 
+*** FLOP *** [Kh 6h Ad]
+*** TOURNANT *** [Kh 6h Ad] [8s]
+*** RIVIÈRE *** [Kh 6h Ad 8s] [9h]
+*** ABATTAGE ***
+blondereded : montre [Kd Ks] (un brelan de Rois)
+psychoman59 : montre [8d 9d] (double paire, Neuf et Huit)
+blondereded a remporté 570  lors du pot .
+*** SYNTHÈSE ***
+Pot total 570 | Commission 0 
+Tableau [Kh 6h Ad 8s 9h]
+Siège 1 : psychoman59 (bouton) a montré [8d 9d] et a perdu avec double paire, Neuf et Huit
+Siège 2 : 2bleplay (petite blind) s'est couché. avant Flop
+Siège 3 : blondereded (grosse blind) a montré [Kd Ks] et a gagné (570) avec un brelan de Rois
+
+
+
+Main PokerStars n°237332421401 : Tournoi #3440850522, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2022 14:43:31 CET [13/07/2022 8:43:31 ET]
+Table '3440850522 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (30 en jetons) 
+Place 2: 2bleplay (300 en jetons) 
+Place 3: blondereded (570 en jetons) 
+blondereded : met la petite blind. 15
+psychoman59 : met la grosse blind. 30 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 5d]
+2bleplay : passe. 
+blondereded : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : 2bleplay (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : blondereded (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237332422585 : Tournoi #3440850522, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2022 14:43:37 CET [13/07/2022 8:43:37 ET]
+Table '3440850522 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (45 en jetons) 
+Place 2: 2bleplay (300 en jetons) 
+Place 3: blondereded (555 en jetons) 
+psychoman59 : met la petite blind. 15
+2bleplay : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 4h]
+blondereded : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à 2bleplay.
+2bleplay a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : 2bleplay (grosse blind) a remporté (30)
+Siège 3 : blondereded (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237332423629 : Tournoi #3440850522, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2022 14:43:42 CET [13/07/2022 8:43:42 ET]
+Table '3440850522 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (30 en jetons) 
+Place 2: 2bleplay (315 en jetons) 
+Place 3: blondereded (555 en jetons) 
+2bleplay : met la petite blind. 15
+blondereded : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Kc]
+psychoman59 : suit. 30 et est all-in.
+2bleplay : passe. 
+*** FLOP *** [3c Kd 9c]
+*** TOURNANT *** [3c Kd 9c] [5h]
+*** RIVIÈRE *** [3c Kd 9c 5h] [Ks]
+*** ABATTAGE ***
+blondereded : montre [Kh Qh] (un brelan de Rois)
+psychoman59 : montre [2c Kc] (un brelan de Rois - plus basse kicker)
+blondereded a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [3c Kd 9c 5h Ks]
+Siège 1 : psychoman59 (bouton) a montré [2c Kc] et a perdu avec un brelan de Rois
+Siège 2 : 2bleplay (petite blind) s'est couché. avant Flop
+Siège 3 : blondereded (grosse blind) a montré [Kh Qh] et a gagné (75) avec un brelan de Rois
+
+
+

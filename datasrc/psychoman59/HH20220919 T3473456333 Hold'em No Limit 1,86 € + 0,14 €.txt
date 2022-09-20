@@ -1,0 +1,287 @@
+﻿Main PokerStars n°238723995170 : Tournoi #3473456333, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/09/2022 11:10:00 CET [19/09/2022 5:10:00 ET]
+Table '3473456333 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: arenasiger (300 en jetons) 
+Place 3: bzzzbeee (300 en jetons) 
+arenasiger : met la petite blind. 10
+bzzzbeee : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Tc]
+psychoman59 : relance. 20 à 40
+arenasiger : suit. 30
+bzzzbeee : relance. 260 à 300 et est all-in.
+psychoman59 : passe. 
+arenasiger : passe. 
+Personne n'a suivi. (260) sont retournés à bzzzbeee.
+bzzzbeee a remporté 120  lors du pot .
+bzzzbeee : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : arenasiger (petite blind) s'est couché. avant Flop
+Siège 3 : bzzzbeee (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°238723997863 : Tournoi #3473456333, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/09/2022 11:10:18 CET [19/09/2022 5:10:18 ET]
+Table '3473456333 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: arenasiger (260 en jetons) 
+Place 3: bzzzbeee (380 en jetons) 
+bzzzbeee : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Js]
+arenasiger : suit. 20
+bzzzbeee : passe. 
+psychoman59 : parole 
+*** FLOP *** [Qs Tc 7s]
+psychoman59 : parole 
+arenasiger : parole 
+*** TOURNANT *** [Qs Tc 7s] [2d]
+psychoman59 : parole 
+arenasiger : parole 
+*** RIVIÈRE *** [Qs Tc 7s 2d] [4c]
+psychoman59 : parole 
+arenasiger : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6c Js] (Hauteur Dame)
+arenasiger : montre [6d Jd] (Hauteur Dame)
+psychoman59 a remporté 25  lors du pot .
+arenasiger a remporté 25  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Qs Tc 7s 2d 4c]
+Siège 1 : psychoman59 (grosse blind) a montré [6c Js] et a gagné (25) avec Hauteur Dame
+Siège 2 : arenasiger (bouton) a montré [6d Jd] et a gagné (25) avec Hauteur Dame
+Siège 3 : bzzzbeee (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238724000585 : Tournoi #3473456333, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/09/2022 11:10:37 CET [19/09/2022 5:10:37 ET]
+Table '3473456333 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (265 en jetons) 
+Place 2: arenasiger (265 en jetons) 
+Place 3: bzzzbeee (370 en jetons) 
+psychoman59 : met la petite blind. 10
+arenasiger : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Tc]
+bzzzbeee : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à arenasiger.
+arenasiger a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : arenasiger (grosse blind) a remporté (20)
+Siège 3 : bzzzbeee (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238724002160 : Tournoi #3473456333, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/09/2022 11:10:48 CET [19/09/2022 5:10:48 ET]
+Table '3473456333 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (255 en jetons) 
+Place 2: arenasiger (275 en jetons) 
+Place 3: bzzzbeee (370 en jetons) 
+arenasiger : met la petite blind. 10
+bzzzbeee : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Qh]
+psychoman59 : passe. 
+arenasiger : suit. 10
+bzzzbeee : parole 
+*** FLOP *** [Qc Kh 8s]
+arenasiger : parole 
+bzzzbeee : parole 
+*** TOURNANT *** [Qc Kh 8s] [5s]
+arenasiger : parole 
+bzzzbeee : parole 
+*** RIVIÈRE *** [Qc Kh 8s 5s] [Jh]
+arenasiger : parole 
+bzzzbeee : mise. 20
+arenasiger : passe. 
+Personne n'a suivi. (20) sont retournés à bzzzbeee.
+bzzzbeee a remporté 40  lors du pot .
+bzzzbeee : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qc Kh 8s 5s Jh]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : arenasiger (petite blind) s'est couché. sur le Rivière
+Siège 3 : bzzzbeee (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238724006440 : Tournoi #3473456333, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 19/09/2022 11:11:18 CET [19/09/2022 5:11:18 ET]
+Table '3473456333 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (255 en jetons) 
+Place 2: arenasiger (255 en jetons) 
+Place 3: bzzzbeee (390 en jetons) 
+bzzzbeee : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Ks]
+arenasiger : passe. 
+bzzzbeee : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : arenasiger (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : bzzzbeee (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238724007393 : Tournoi #3473456333, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 19/09/2022 11:11:24 CET [19/09/2022 5:11:24 ET]
+Table '3473456333 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: arenasiger (255 en jetons) 
+Place 3: bzzzbeee (375 en jetons) 
+psychoman59 : met la petite blind. 15
+arenasiger : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 2d]
+bzzzbeee : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à arenasiger.
+arenasiger a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : arenasiger (grosse blind) a remporté (30)
+Siège 3 : bzzzbeee (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238724008414 : Tournoi #3473456333, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 19/09/2022 11:11:31 CET [19/09/2022 5:11:31 ET]
+Table '3473456333 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (255 en jetons) 
+Place 2: arenasiger (270 en jetons) 
+Place 3: bzzzbeee (375 en jetons) 
+arenasiger : met la petite blind. 15
+bzzzbeee : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 5s]
+psychoman59 : passe. 
+arenasiger : suit. 15
+bzzzbeee : parole 
+*** FLOP *** [Jc 6s Ad]
+arenasiger : mise. 60
+bzzzbeee : passe. 
+Personne n'a suivi. (60) sont retournés à arenasiger.
+arenasiger a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Jc 6s Ad]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : arenasiger (petite blind) a remporté (60)
+Siège 3 : bzzzbeee (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238724010730 : Tournoi #3473456333, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 19/09/2022 11:11:47 CET [19/09/2022 5:11:47 ET]
+Table '3473456333 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (255 en jetons) 
+Place 2: arenasiger (300 en jetons) 
+Place 3: bzzzbeee (345 en jetons) 
+bzzzbeee : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 2d]
+arenasiger : relance. 75 à 105
+bzzzbeee : relance. 240 à 345 et est all-in.
+psychoman59 : passe. 
+arenasiger : suit. 195 et est all-in.
+Personne n'a suivi. (45) sont retournés à bzzzbeee.
+*** FLOP *** [Jc Kc Ac]
+*** TOURNANT *** [Jc Kc Ac] [Ah]
+*** RIVIÈRE *** [Jc Kc Ac Ah] [8d]
+*** ABATTAGE ***
+bzzzbeee : montre [Ad Jh] (un full, full aux As par les Valets)
+arenasiger : montre [Tc Qd] (une suite, Dix à As)
+bzzzbeee a remporté 630  lors du pot .
+arenasiger a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 630 | Commission 0 
+Tableau [Jc Kc Ac Ah 8d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : arenasiger (bouton) a montré [Tc Qd] et a perdu avec une suite, Dix à As
+Siège 3 : bzzzbeee (petite blind) a montré [Ad Jh] et a gagné (630) avec un full, full aux As par les Valets
+
+
+
+Main PokerStars n°238724014141 : Tournoi #3473456333, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 19/09/2022 11:12:10 CET [19/09/2022 5:12:10 ET]
+Table '3473456333 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (225 en jetons) 
+Place 3: bzzzbeee (675 en jetons) 
+psychoman59 : met la petite blind. 20
+bzzzbeee : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à bzzzbeee.
+bzzzbeee a remporté 40  lors du pot .
+bzzzbeee : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : bzzzbeee (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238724015023 : Tournoi #3473456333, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 19/09/2022 11:12:16 CET [19/09/2022 5:12:16 ET]
+Table '3473456333 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (205 en jetons) 
+Place 3: bzzzbeee (695 en jetons) 
+bzzzbeee : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Ts]
+bzzzbeee : relance. 655 à 695 et est all-in.
+psychoman59 : suit. 165 et est all-in.
+Personne n'a suivi. (490) sont retournés à bzzzbeee.
+*** FLOP *** [9d Qc 2h]
+*** TOURNANT *** [9d Qc 2h] [5d]
+*** RIVIÈRE *** [9d Qc 2h 5d] [4d]
+*** ABATTAGE ***
+psychoman59 : montre [Qd Ts] (une paire de Dames)
+bzzzbeee : montre [Kc 3s] (Hauteur Roi)
+psychoman59 a remporté 410  lors du pot .
+*** SYNTHÈSE ***
+Pot total 410 | Commission 0 
+Tableau [9d Qc 2h 5d 4d]
+Siège 1 : psychoman59 (grosse blind) a montré [Qd Ts] et a gagné (410) avec une paire de Dames
+Siège 3 : bzzzbeee (bouton) (petite blind) a montré [Kc 3s] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°238724017520 : Tournoi #3473456333, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 19/09/2022 11:12:33 CET [19/09/2022 5:12:33 ET]
+Table '3473456333 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (410 en jetons) 
+Place 3: bzzzbeee (490 en jetons) 
+psychoman59 : met la petite blind. 20
+bzzzbeee : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 7d]
+psychoman59 : relance. 370 à 410 et est all-in.
+bzzzbeee : suit. 370
+*** FLOP *** [8d 9d 3h]
+*** TOURNANT *** [8d 9d 3h] [9c]
+*** RIVIÈRE *** [8d 9d 3h 9c] [Tc]
+*** ABATTAGE ***
+bzzzbeee : montre [Jc Ad] (une paire de Neuf)
+psychoman59 : montre [Ah 7d] (une paire de Neuf - plus basse kicker)
+bzzzbeee a remporté 820  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+bzzzbeee remporte le tournoi et reçoit 6.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 820 | Commission 0 
+Tableau [8d 9d 3h 9c Tc]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Ah 7d] et a perdu avec une paire de Neuf
+Siège 3 : bzzzbeee (grosse blind) a montré [Jc Ad] et a gagné (820) avec une paire de Neuf
+
+
+

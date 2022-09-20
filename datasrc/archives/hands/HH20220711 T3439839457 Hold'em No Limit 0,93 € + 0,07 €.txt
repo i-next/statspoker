@@ -1,0 +1,65 @@
+﻿Main PokerStars n°237290289091 : Tournoi #3439839457, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 10:18:26 CET [11/07/2022 4:18:26 ET]
+Table '3439839457 1' 3-max Siège #1 est au bouton.
+Place 1: chivac123 (300 en jetons) 
+Place 2: Fleex349 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Fleex349 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ad]
+chivac123 : suit. 20
+Fleex349 : passe. 
+psychoman59 : parole 
+*** FLOP *** [6d 2d 8d]
+psychoman59 : parole 
+chivac123 : parole 
+*** TOURNANT *** [6d 2d 8d] [Ks]
+psychoman59 : parole 
+chivac123 : parole 
+*** RIVIÈRE *** [6d 2d 8d Ks] [Tc]
+psychoman59 : parole 
+chivac123 : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+chivac123 : montre [Th 5s] (une paire de Dix)
+psychoman59 : cache la main perdante. 
+chivac123 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [6d 2d 8d Ks Tc]
+Siège 1 : chivac123 (bouton) a montré [Th 5s] et a gagné (90) avec une paire de Dix
+Siège 2 : Fleex349 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [8c Ad]
+
+
+
+Main PokerStars n°237290292349 : Tournoi #3439839457, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 10:18:53 CET [11/07/2022 4:18:53 ET]
+Table '3439839457 1' 3-max Siège #2 est au bouton.
+Place 1: chivac123 (350 en jetons) 
+Place 2: Fleex349 (290 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+psychoman59 : met la petite blind. 10
+chivac123 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Td]
+Fleex349 : relance. 270 à 290 et est all-in.
+psychoman59 : suit. 250 et est all-in.
+chivac123 : suit. 270
+*** FLOP *** [Ah Th 3c]
+*** TOURNANT *** [Ah Th 3c] [As]
+*** RIVIÈRE *** [Ah Th 3c As] [8d]
+*** ABATTAGE ***
+chivac123 : montre [Ks 4s] (une paire de As)
+Fleex349 : montre [Ad 5s] (un brelan de As)
+Fleex349 a remporté 60  parallèle lors du pot .
+psychoman59 : montre [Kd Td] (double paire, As et Dix)
+Fleex349 a remporté 780  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 Principal pot 780. Parallèle pot 60. | Commission 0 
+Tableau [Ah Th 3c As 8d]
+Siège 1 : chivac123 (grosse blind) a montré [Ks 4s] et a perdu avec une paire de As
+Siège 2 : Fleex349 (bouton) a montré [Ad 5s] et a gagné (840) avec un brelan de As
+Siège 3 : psychoman59 (petite blind) a montré [Kd Td] et a perdu avec double paire, As et Dix
+
+
+

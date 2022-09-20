@@ -1,0 +1,32 @@
+﻿Main PokerStars n°237329844630 : Tournoi #3440784351, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2022 10:17:24 CET [13/07/2022 4:17:24 ET]
+Table '3440784351 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: malish7 (300 en jetons) 
+Place 3: Winarnax (300 en jetons) 
+malish7 : met la petite blind. 10
+Winarnax : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s As]
+psychoman59 : relance. 20 à 40
+malish7 : suit. 30
+Winarnax : passe. 
+*** FLOP *** [Ac 6c 7c]
+malish7 : parole 
+psychoman59 : mise. 100
+malish7 : relance. 160 à 260 et est all-in.
+psychoman59 : suit. 160 et est all-in.
+*** TOURNANT *** [Ac 6c 7c] [8d]
+*** RIVIÈRE *** [Ac 6c 7c 8d] [7d]
+*** ABATTAGE ***
+malish7 : montre [2c Tc] (une couleur, hauteur As)
+psychoman59 : montre [5s As] (double paire, As et Sept)
+malish7 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Ac 6c 7c 8d 7d]
+Siège 1 : psychoman59 (bouton) a montré [5s As] et a perdu avec double paire, As et Sept
+Siège 2 : malish7 (petite blind) a montré [2c Tc] et a gagné (620) avec une couleur, hauteur As
+Siège 3 : Winarnax (grosse blind) s'est couché. avant Flop
+
+
+

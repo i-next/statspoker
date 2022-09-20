@@ -1,0 +1,351 @@
+﻿Main PokerStars n°237268306014 : Tournoi #3439350535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2022 8:13:13 CET [10/07/2022 2:13:13 ET]
+Table '3439350535 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: giorgina2626 (300 en jetons) 
+Place 3: veru62 (300 en jetons) 
+giorgina2626 : met la petite blind. 10
+veru62 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 2h]
+psychoman59 : passe. 
+giorgina2626 : suit. 10
+veru62 : parole 
+*** FLOP *** [Td Ad 6s]
+giorgina2626 : parole 
+veru62 : mise. 20
+giorgina2626 : suit. 20
+*** TOURNANT *** [Td Ad 6s] [Js]
+giorgina2626 : parole 
+veru62 : mise. 20
+giorgina2626 : suit. 20
+*** RIVIÈRE *** [Td Ad 6s Js] [5d]
+giorgina2626 : parole 
+veru62 : parole 
+*** ABATTAGE ***
+giorgina2626 : montre [3c 3s] (une paire de Trois)
+veru62 : montre [2d Th] (une paire de Dix)
+veru62 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Td Ad 6s Js 5d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : giorgina2626 (petite blind) a montré [3c 3s] et a perdu avec une paire de Trois
+Siège 3 : veru62 (grosse blind) a montré [2d Th] et a gagné (120) avec une paire de Dix
+
+
+
+Main PokerStars n°237268308333 : Tournoi #3439350535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2022 8:13:33 CET [10/07/2022 2:13:33 ET]
+Table '3439350535 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: giorgina2626 (240 en jetons) 
+Place 3: veru62 (360 en jetons) 
+veru62 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Kd]
+giorgina2626 : passe. 
+veru62 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (20)
+Siège 2 : giorgina2626 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : veru62 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237268308994 : Tournoi #3439350535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2022 8:13:38 CET [10/07/2022 2:13:38 ET]
+Table '3439350535 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: giorgina2626 (240 en jetons) 
+Place 3: veru62 (350 en jetons) 
+psychoman59 : met la petite blind. 10
+giorgina2626 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Td]
+veru62 : suit. 20
+psychoman59 : suit. 10
+giorgina2626 : parole 
+*** FLOP *** [Qd 3d Qs]
+psychoman59 : parole 
+giorgina2626 : parole 
+veru62 : parole 
+*** TOURNANT *** [Qd 3d Qs] [Ts]
+psychoman59 : mise. 60
+giorgina2626 : passe. 
+veru62 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qd 3d Qs Ts]
+Siège 1 : psychoman59 (petite blind) a remporté (60)
+Siège 2 : giorgina2626 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : veru62 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237268312590 : Tournoi #3439350535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2022 8:14:09 CET [10/07/2022 2:14:09 ET]
+Table '3439350535 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (350 en jetons) 
+Place 2: giorgina2626 (220 en jetons) 
+Place 3: veru62 (330 en jetons) 
+giorgina2626 : met la petite blind. 10
+veru62 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 5h]
+psychoman59 : passe. 
+giorgina2626 : suit. 10
+veru62 : parole 
+*** FLOP *** [9c 6c Kd]
+giorgina2626 : parole 
+veru62 : parole 
+*** TOURNANT *** [9c 6c Kd] [6h]
+giorgina2626 : parole 
+veru62 : parole 
+*** RIVIÈRE *** [9c 6c Kd 6h] [6d]
+giorgina2626 : parole 
+veru62 : parole 
+*** ABATTAGE ***
+giorgina2626 : montre [8h 2d] (un brelan de Six)
+veru62 : montre [Ts 2c] (un brelan de Six - Roi+Dix kicker)
+veru62 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9c 6c Kd 6h 6d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : giorgina2626 (petite blind) a montré [8h 2d] et a perdu avec un brelan de Six
+Siège 3 : veru62 (grosse blind) a montré [Ts 2c] et a gagné (40) avec un brelan de Six
+
+
+
+Main PokerStars n°237268315369 : Tournoi #3439350535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/07/2022 8:14:33 CET [10/07/2022 2:14:33 ET]
+Table '3439350535 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (350 en jetons) 
+Place 2: giorgina2626 (200 en jetons) 
+Place 3: veru62 (350 en jetons) 
+veru62 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 2c]
+giorgina2626 : passe. 
+veru62 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : giorgina2626 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : veru62 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237268316084 : Tournoi #3439350535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/07/2022 8:14:39 CET [10/07/2022 2:14:39 ET]
+Table '3439350535 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (365 en jetons) 
+Place 2: giorgina2626 (200 en jetons) 
+Place 3: veru62 (335 en jetons) 
+psychoman59 : met la petite blind. 15
+giorgina2626 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Kd]
+veru62 : suit. 30
+psychoman59 : passe. 
+giorgina2626 : parole 
+*** FLOP *** [3c 4h 2s]
+giorgina2626 : mise. 60
+veru62 : suit. 60
+*** TOURNANT *** [3c 4h 2s] [Jd]
+giorgina2626 : parole 
+veru62 : parole 
+*** RIVIÈRE *** [3c 4h 2s Jd] [2h]
+giorgina2626 : mise. 60
+veru62 : passe. 
+Personne n'a suivi. (60) sont retournés à giorgina2626.
+giorgina2626 a remporté 195  lors du pot .
+*** SYNTHÈSE ***
+Pot total 195 | Commission 0 
+Tableau [3c 4h 2s Jd 2h]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : giorgina2626 (grosse blind) a remporté (195)
+Siège 3 : veru62 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237268319800 : Tournoi #3439350535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/07/2022 8:15:11 CET [10/07/2022 2:15:11 ET]
+Table '3439350535 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (350 en jetons) 
+Place 2: giorgina2626 (305 en jetons) 
+Place 3: veru62 (245 en jetons) 
+giorgina2626 : met la petite blind. 15
+veru62 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Ad]
+psychoman59 : suit. 30
+giorgina2626 : suit. 15
+veru62 : parole 
+*** FLOP *** [As Ac 5h]
+giorgina2626 : mise. 60
+veru62 : passe. 
+psychoman59 : suit. 60
+*** TOURNANT *** [As Ac 5h] [4s]
+giorgina2626 : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [As Ac 5h 4s] [Ks]
+giorgina2626 : mise. 60
+psychoman59 : relance. 90 à 150
+giorgina2626 : suit. 90
+*** ABATTAGE ***
+psychoman59 : montre [4d Ad] (un full, full aux As par les Quatre)
+giorgina2626 : cache la main perdante. 
+psychoman59 a remporté 630  lors du pot .
+*** SYNTHÈSE ***
+Pot total 630 | Commission 0 
+Tableau [As Ac 5h 4s Ks]
+Siège 1 : psychoman59 (bouton) a montré [4d Ad] et a gagné (630) avec un full, full aux As par les Quatre
+Siège 2 : giorgina2626 (petite blind) a caché la main perdante. [Qd Qc]
+Siège 3 : veru62 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237268323565 : Tournoi #3439350535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/07/2022 8:15:43 CET [10/07/2022 2:15:43 ET]
+Table '3439350535 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (680 en jetons) 
+Place 2: giorgina2626 (5 en jetons) 
+Place 3: veru62 (215 en jetons) 
+veru62 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 3h]
+giorgina2626 : suit. 5 et est all-in.
+veru62 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+*** FLOP *** [Jh Jd 8c]
+*** TOURNANT *** [Jh Jd 8c] [Ah]
+*** RIVIÈRE *** [Jh Jd 8c Ah] [4d]
+*** ABATTAGE ***
+psychoman59 : montre [7s 3h] (une paire de Valets)
+psychoman59 a remporté 30  parallèle lors du pot .
+giorgina2626 : montre [Kh 9d] (une paire de Valets - As+Roi kicker)
+giorgina2626 a remporté 15  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 45 Principal pot 15. Parallèle pot 30. | Commission 0 
+Tableau [Jh Jd 8c Ah 4d]
+Siège 1 : psychoman59 (grosse blind) a montré [7s 3h] et a gagné (30) avec une paire de Valets
+Siège 2 : giorgina2626 (bouton) a montré [Kh 9d] et a gagné (15) avec une paire de Valets
+Siège 3 : veru62 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237268325262 : Tournoi #3439350535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/07/2022 8:15:57 CET [10/07/2022 2:15:57 ET]
+Table '3439350535 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (690 en jetons) 
+Place 2: giorgina2626 (15 en jetons) 
+Place 3: veru62 (195 en jetons) 
+psychoman59 : met la petite blind. 20
+giorgina2626 : met la grosse blind. 15 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ac]
+veru62 : relance. 175 à 195 et est all-in.
+psychoman59 : suit. 175
+*** FLOP *** [5s Tc 7s]
+*** TOURNANT *** [5s Tc 7s] [6h]
+*** RIVIÈRE *** [5s Tc 7s 6h] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [3c Ac] (Hauteur As)
+veru62 : montre [Th Ks] (une paire de Dix)
+veru62 a remporté 360  parallèle lors du pot .
+giorgina2626 : montre [4s 5c] (une paire de Cinq)
+veru62 a remporté 45  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 405 Principal pot 45. Parallèle pot 360. | Commission 0 
+Tableau [5s Tc 7s 6h 2h]
+Siège 1 : psychoman59 (petite blind) a montré [3c Ac] et a perdu avec Hauteur As
+Siège 2 : giorgina2626 (grosse blind) a montré [4s 5c] et a perdu avec une paire de Cinq
+Siège 3 : veru62 (bouton) a montré [Th Ks] et a gagné (405) avec une paire de Dix
+
+
+
+Main PokerStars n°237268327277 : Tournoi #3439350535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/07/2022 8:16:14 CET [10/07/2022 2:16:14 ET]
+Table '3439350535 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (495 en jetons) 
+Place 3: veru62 (405 en jetons) 
+psychoman59 : met la petite blind. 20
+veru62 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à veru62.
+veru62 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : veru62 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237268328245 : Tournoi #3439350535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/07/2022 8:16:23 CET [10/07/2022 2:16:23 ET]
+Table '3439350535 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (475 en jetons) 
+Place 3: veru62 (425 en jetons) 
+veru62 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2c]
+veru62 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : veru62 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237268328703 : Tournoi #3439350535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/07/2022 8:16:27 CET [10/07/2022 2:16:27 ET]
+Table '3439350535 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (505 en jetons) 
+Place 3: veru62 (395 en jetons) 
+psychoman59 : met la petite blind. 30
+veru62 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 2d]
+psychoman59 : relance. 445 à 505 et est all-in.
+veru62 : passe. 
+Personne n'a suivi. (445) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : veru62 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237268329583 : Tournoi #3439350535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/07/2022 8:16:35 CET [10/07/2022 2:16:35 ET]
+Table '3439350535 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (565 en jetons) 
+Place 3: veru62 (335 en jetons) 
+veru62 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Qc]
+veru62 : suit. 30
+psychoman59 : relance. 505 à 565 et est all-in.
+veru62 : suit. 275 et est all-in.
+Personne n'a suivi. (230) sont retournés à psychoman59.
+*** FLOP *** [As Jh 6d]
+*** TOURNANT *** [As Jh 6d] [Ah]
+*** RIVIÈRE *** [As Jh 6d Ah] [8c]
+*** ABATTAGE ***
+psychoman59 : montre [Ks Qc] (une paire de As)
+veru62 : montre [5c 4c] (une paire de As - plus basse kicker)
+psychoman59 a remporté 670  lors du pot .
+*** SYNTHÈSE ***
+Pot total 670 | Commission 0 
+Tableau [As Jh 6d Ah 8c]
+Siège 1 : psychoman59 (grosse blind) a montré [Ks Qc] et a gagné (670) avec une paire de As
+Siège 3 : veru62 (bouton) (petite blind) a montré [5c 4c] et a perdu avec une paire de As
+
+
+

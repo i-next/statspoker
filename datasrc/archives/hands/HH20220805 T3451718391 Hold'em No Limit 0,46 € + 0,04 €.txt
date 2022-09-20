@@ -1,0 +1,375 @@
+﻿Main PokerStars n°237799566766 : Tournoi #3451718391, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 11:39:58 CET [05/08/2022 5:39:58 ET]
+Table '3451718391 1' 4-max Siège #1 est au bouton.
+Place 1: bOb1290198 (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: Sucette11 (5000 en jetons) 
+Place 4: boipe (5000 en jetons) 
+bOb1290198 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Sucette11 : met l'ante. 10
+boipe : met l'ante. 10
+psychoman59 : met la petite blind. 50
+Sucette11 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 6s]
+boipe : suit. 100
+bOb1290198 : suit. 100
+psychoman59 : suit. 50
+Sucette11 : parole 
+*** FLOP *** [Ks 5d 5c]
+psychoman59 : parole 
+Sucette11 : parole 
+boipe : mise. 300
+bOb1290198 : suit. 300
+psychoman59 : passe. 
+Sucette11 : passe. 
+*** TOURNANT *** [Ks 5d 5c] [2h]
+boipe : mise. 300
+bOb1290198 : suit. 300
+*** RIVIÈRE *** [Ks 5d 5c 2h] [8s]
+boipe : mise. 300
+bOb1290198 : relance. 900 à 1200
+boipe : suit. 900
+*** ABATTAGE ***
+bOb1290198 : montre [5s Ac] (un brelan de Cinq)
+boipe : cache la main perdante. 
+bOb1290198 a remporté 4040  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4040 | Commission 0 
+Tableau [Ks 5d 5c 2h 8s]
+Siège 1 : bOb1290198 (bouton) a montré [5s Ac] et a gagné (4040) avec un brelan de Cinq
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : Sucette11 (grosse blind) s'est couché. sur le Flop
+Siège 4 : boipe a caché la main perdante. [Kd 9h]
+
+
+
+Main PokerStars n°237799577041 : Tournoi #3451718391, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 11:41:04 CET [05/08/2022 5:41:04 ET]
+Table '3451718391 1' 4-max Siège #2 est au bouton.
+Place 1: bOb1290198 (7130 en jetons) 
+Place 2: psychoman59 (4890 en jetons) 
+Place 3: Sucette11 (4890 en jetons) 
+Place 4: boipe (3090 en jetons) 
+bOb1290198 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Sucette11 : met l'ante. 10
+boipe : met l'ante. 10
+Sucette11 : met la petite blind. 50
+boipe : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 2h]
+bOb1290198 : passe. 
+psychoman59 : suit. 100
+Sucette11 : suit. 50
+boipe : relance. 340 à 440
+psychoman59 : suit. 340
+Sucette11 : passe. 
+*** FLOP *** [Jh 7h Qs]
+boipe : mise. 400
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à boipe.
+boipe a remporté 1020  lors du pot .
+boipe : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [Jh 7h Qs]
+Siège 1 : bOb1290198 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 3 : Sucette11 (petite blind) s'est couché. avant Flop
+Siège 4 : boipe (grosse blind) a remporté (1020)
+
+
+
+Main PokerStars n°237799586734 : Tournoi #3451718391, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 11:42:06 CET [05/08/2022 5:42:06 ET]
+Table '3451718391 1' 4-max Siège #3 est au bouton.
+Place 1: bOb1290198 (7120 en jetons) 
+Place 2: psychoman59 (4440 en jetons) 
+Place 3: Sucette11 (4780 en jetons) 
+Place 4: boipe (3660 en jetons) 
+bOb1290198 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Sucette11 : met l'ante. 10
+boipe : met l'ante. 10
+boipe : met la petite blind. 50
+bOb1290198 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 4c]
+psychoman59 : passe. 
+Sucette11 : suit. 100
+boipe : relance. 340 à 440
+bOb1290198 : passe. 
+Sucette11 : relance. 4330 à 4770 et est all-in.
+boipe : suit. 3210 et est all-in.
+Personne n'a suivi. (1120) sont retournés à Sucette11.
+*** FLOP *** [4s Ks Ah]
+*** TOURNANT *** [4s Ks Ah] [6c]
+*** RIVIÈRE *** [4s Ks Ah 6c] [4h]
+*** ABATTAGE ***
+boipe : montre [Ts Kd] (double paire, Rois et Quatre)
+Sucette11 : montre [6h 6d] (un full, full aux Six par les Quatre)
+Sucette11 a remporté 7440  lors du pot .
+boipe a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 7440 | Commission 0 
+Tableau [4s Ks Ah 6c 4h]
+Siège 1 : bOb1290198 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Sucette11 (bouton) a montré [6h 6d] et a gagné (7440) avec un full, full aux Six par les Quatre
+Siège 4 : boipe (petite blind) a montré [Ts Kd] et a perdu avec double paire, Rois et Quatre
+
+
+
+Main PokerStars n°237799594301 : Tournoi #3451718391, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 11:42:55 CET [05/08/2022 5:42:55 ET]
+Table '3451718391 1' 4-max Siège #1 est au bouton.
+Place 1: bOb1290198 (7010 en jetons) 
+Place 2: psychoman59 (4430 en jetons) 
+Place 3: Sucette11 (8560 en jetons) 
+bOb1290198 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Sucette11 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+Sucette11 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 8d]
+bOb1290198 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à Sucette11.
+Sucette11 a remporté 130  lors du pot .
+Sucette11 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Siège 1 : bOb1290198 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Sucette11 (grosse blind) a remporté (130)
+
+
+
+Main PokerStars n°237799596161 : Tournoi #3451718391, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 11:43:07 CET [05/08/2022 5:43:07 ET]
+Table '3451718391 1' 4-max Siège #2 est au bouton.
+Place 1: bOb1290198 (7000 en jetons) 
+Place 2: psychoman59 (4370 en jetons) 
+Place 3: Sucette11 (8630 en jetons) 
+bOb1290198 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Sucette11 : met l'ante. 15
+Sucette11 : met la petite blind. 60
+bOb1290198 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 3h]
+psychoman59 : passe. 
+Sucette11 : suit. 60
+bOb1290198 : parole 
+*** FLOP *** [5h Jd Jc]
+Sucette11 : parole 
+bOb1290198 : parole 
+*** TOURNANT *** [5h Jd Jc] [Th]
+Sucette11 : parole 
+bOb1290198 : parole 
+*** RIVIÈRE *** [5h Jd Jc Th] [3d]
+Sucette11 : parole 
+bOb1290198 : parole 
+*** ABATTAGE ***
+Sucette11 : montre [5c 9s] (double paire, Valets et Cinq)
+bOb1290198 : cache la main perdante. 
+Sucette11 a remporté 285  lors du pot .
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Tableau [5h Jd Jc Th 3d]
+Siège 1 : bOb1290198 (grosse blind) a caché la main perdante. [4c 8h]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Sucette11 (petite blind) a montré [5c 9s] et a gagné (285) avec double paire, Valets et Cinq
+
+
+
+Main PokerStars n°237799602361 : Tournoi #3451718391, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 11:43:47 CET [05/08/2022 5:43:47 ET]
+Table '3451718391 1' 4-max Siège #3 est au bouton.
+Place 1: bOb1290198 (6865 en jetons) 
+Place 2: psychoman59 (4355 en jetons) 
+Place 3: Sucette11 (8780 en jetons) 
+bOb1290198 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Sucette11 : met l'ante. 15
+bOb1290198 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 3d]
+Sucette11 : passe. 
+bOb1290198 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [9c 7d Qs]
+bOb1290198 : parole 
+psychoman59 : mise. 285
+bOb1290198 : passe. 
+Personne n'a suivi. (285) sont retournés à psychoman59.
+psychoman59 a remporté 285  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Tableau [9c 7d Qs]
+Siège 1 : bOb1290198 (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (285)
+Siège 3 : Sucette11 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237799608919 : Tournoi #3451718391, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 11:44:29 CET [05/08/2022 5:44:29 ET]
+Table '3451718391 1' 4-max Siège #1 est au bouton.
+Place 1: bOb1290198 (6730 en jetons) 
+Place 2: psychoman59 (4505 en jetons) 
+Place 3: Sucette11 (8765 en jetons) 
+bOb1290198 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Sucette11 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+Sucette11 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Td]
+bOb1290198 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Sucette11.
+Sucette11 a remporté 165  lors du pot .
+Sucette11 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : bOb1290198 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Sucette11 (grosse blind) a remporté (165)
+
+
+
+Main PokerStars n°237799610480 : Tournoi #3451718391, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 11:44:39 CET [05/08/2022 5:44:39 ET]
+Table '3451718391 1' 4-max Siège #2 est au bouton.
+Place 1: bOb1290198 (6715 en jetons) 
+Place 2: psychoman59 (4430 en jetons) 
+Place 3: Sucette11 (8855 en jetons) 
+bOb1290198 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Sucette11 : met l'ante. 15
+Sucette11 : met la petite blind. 60
+bOb1290198 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 6d]
+psychoman59 : passe. 
+Sucette11 : suit. 60
+bOb1290198 : parole 
+*** FLOP *** [7h 2s 8d]
+Sucette11 : parole 
+bOb1290198 : mise. 142
+Sucette11 : suit. 142
+*** TOURNANT *** [7h 2s 8d] [5h]
+Sucette11 : parole 
+bOb1290198 : mise. 284
+Sucette11 : suit. 284
+*** RIVIÈRE *** [7h 2s 8d 5h] [6h]
+Sucette11 : parole 
+bOb1290198 : parole 
+*** ABATTAGE ***
+Sucette11 : montre [3d 4h] (une suite, Quatre à Huit)
+bOb1290198 : montre [8h Kh] (une couleur, hauteur Roi)
+bOb1290198 a remporté 1137  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1137 | Commission 0 
+Tableau [7h 2s 8d 5h 6h]
+Siège 1 : bOb1290198 (grosse blind) a montré [8h Kh] et a gagné (1137) avec une couleur, hauteur Roi
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Sucette11 (petite blind) a montré [3d 4h] et a perdu avec une suite, Quatre à Huit
+
+
+
+Main PokerStars n°237799616963 : Tournoi #3451718391, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 11:45:20 CET [05/08/2022 5:45:20 ET]
+Table '3451718391 1' 4-max Siège #3 est au bouton.
+Place 1: bOb1290198 (7291 en jetons) 
+Place 2: psychoman59 (4415 en jetons) 
+Place 3: Sucette11 (8294 en jetons) 
+bOb1290198 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Sucette11 : met l'ante. 15
+bOb1290198 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Jh]
+Sucette11 : relance. 120 à 240
+bOb1290198 : passe. 
+psychoman59 : relance. 4160 à 4400 et est all-in.
+Sucette11 est déconnecté 
+Sucette11 a dépassé le temps imparti. pendant qu'il était déconnecté
+Sucette11 : passe. 
+Personne n'a suivi. (4160) sont retournés à psychoman59.
+psychoman59 a remporté 585  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 585 | Commission 0 
+Siège 1 : bOb1290198 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (585)
+Siège 3 : Sucette11 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237799630840 : Tournoi #3451718391, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 11:46:46 CET [05/08/2022 5:46:46 ET]
+Table '3451718391 1' 4-max Siège #1 est au bouton.
+Place 1: bOb1290198 (7216 en jetons) 
+Place 2: psychoman59 (4745 en jetons) 
+Place 3: Sucette11 (8039 en jetons) 
+bOb1290198 : met l'ante. 20
+psychoman59 : met l'ante. 20
+Sucette11 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Sucette11 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 6c]
+bOb1290198 : passe. 
+psychoman59 : relance. 150 à 300
+Sucette11 a dépassé le temps imparti. pendant qu'il était déconnecté
+Sucette11 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 360  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : bOb1290198 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (360)
+Siège 3 : Sucette11 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237799636445 : Tournoi #3451718391, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 11:47:21 CET [05/08/2022 5:47:21 ET]
+Table '3451718391 1' 4-max Siège #2 est au bouton.
+Place 1: bOb1290198 (7196 en jetons) 
+Place 2: psychoman59 (4935 en jetons) 
+Place 3: Sucette11 (7869 en jetons) 
+bOb1290198 : met l'ante. 20
+psychoman59 : met l'ante. 20
+Sucette11 : met l'ante. 20
+Sucette11 : met la petite blind. 75
+bOb1290198 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Qc]
+psychoman59 : suit. 150
+Sucette11 a dépassé le temps imparti. pendant qu'il était déconnecté
+Sucette11 : passe. 
+bOb1290198 : relance. 300 à 450
+psychoman59 : suit. 300
+*** FLOP *** [Ts Qs 7c]
+bOb1290198 : mise. 517
+psychoman59 : suit. 517
+*** TOURNANT *** [Ts Qs 7c] [Ks]
+bOb1290198 : parole 
+psychoman59 : mise. 1034
+bOb1290198 : relance. 5175 à 6209 et est all-in.
+psychoman59 : suit. 2914 et est all-in.
+Personne n'a suivi. (2261) sont retournés à bOb1290198.
+*** RIVIÈRE *** [Ts Qs 7c Ks] [3c]
+*** ABATTAGE ***
+bOb1290198 : montre [Ac Ad] (une paire de As)
+psychoman59 : montre [Jh Qc] (une paire de Dames)
+bOb1290198 a remporté 9965  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 9965 | Commission 0 
+Tableau [Ts Qs 7c Ks 3c]
+Siège 1 : bOb1290198 (grosse blind) a montré [Ac Ad] et a gagné (9965) avec une paire de As
+Siège 2 : psychoman59 (bouton) a montré [Jh Qc] et a perdu avec une paire de Dames
+Siège 3 : Sucette11 (petite blind) s'est couché. avant Flop
+
+
+

@@ -1,0 +1,524 @@
+﻿Main PokerStars n°237979844471 : Tournoi #3456043908, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 14/08/2022 10:57:01 CET [14/08/2022 4:57:01 ET]
+Table '3456043908 1' 4-max Siège #1 est au bouton.
+Place 1: cerilla1981 (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: andrik198680 (5000 en jetons) 
+Place 4: HIGUALIN.20 (5000 en jetons) 
+cerilla1981 : met l'ante. 10
+psychoman59 : met l'ante. 10
+andrik198680 : met l'ante. 10
+HIGUALIN.20 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+andrik198680 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 3d]
+HIGUALIN.20 : passe. 
+cerilla1981 : relance. 150 à 250
+psychoman59 : passe. 
+andrik198680 : passe. 
+Personne n'a suivi. (150) sont retournés à cerilla1981.
+cerilla1981 a remporté 290  lors du pot .
+cerilla1981 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : cerilla1981 (bouton) a remporté (290)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : andrik198680 (grosse blind) s'est couché. avant Flop
+Siège 4 : HIGUALIN.20 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237979846678 : Tournoi #3456043908, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 14/08/2022 10:57:18 CET [14/08/2022 4:57:18 ET]
+Table '3456043908 1' 4-max Siège #2 est au bouton.
+Place 1: cerilla1981 (5180 en jetons) 
+Place 2: psychoman59 (4940 en jetons) 
+Place 3: andrik198680 (4890 en jetons) 
+Place 4: HIGUALIN.20 (4990 en jetons) 
+cerilla1981 : met l'ante. 10
+psychoman59 : met l'ante. 10
+andrik198680 : met l'ante. 10
+HIGUALIN.20 : met l'ante. 10
+andrik198680 : met la petite blind. 50
+HIGUALIN.20 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Qd]
+cerilla1981 : passe. 
+psychoman59 : suit. 100
+andrik198680 : passe. 
+HIGUALIN.20 : parole 
+*** FLOP *** [9c Qc Td]
+HIGUALIN.20 : mise. 100
+psychoman59 : suit. 100
+*** TOURNANT *** [9c Qc Td] [Qs]
+HIGUALIN.20 : mise. 300
+psychoman59 : suit. 300
+*** RIVIÈRE *** [9c Qc Td Qs] [2c]
+HIGUALIN.20 : mise. 400
+psychoman59 : relance. 400 à 800
+HIGUALIN.20 : passe. [9s]
+Personne n'a suivi. (400) sont retournés à psychoman59.
+psychoman59 a remporté 1890  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1890 | Commission 0 
+Tableau [9c Qc Td Qs 2c]
+Siège 1 : cerilla1981 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (bouton) a remporté (1890)
+Siège 3 : andrik198680 (petite blind) s'est couché. avant Flop
+Siège 4 : HIGUALIN.20 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237979852722 : Tournoi #3456043908, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 14/08/2022 10:58:04 CET [14/08/2022 4:58:04 ET]
+Table '3456043908 1' 4-max Siège #3 est au bouton.
+Place 1: cerilla1981 (5170 en jetons) 
+Place 2: psychoman59 (5920 en jetons) 
+Place 3: andrik198680 (4830 en jetons) 
+Place 4: HIGUALIN.20 (4080 en jetons) 
+cerilla1981 : met l'ante. 10
+psychoman59 : met l'ante. 10
+andrik198680 : met l'ante. 10
+HIGUALIN.20 : met l'ante. 10
+HIGUALIN.20 : met la petite blind. 50
+cerilla1981 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 2h]
+psychoman59 : passe. 
+andrik198680 : suit. 100
+HIGUALIN.20 : relance. 100 à 200
+cerilla1981 : suit. 100
+andrik198680 : suit. 100
+*** FLOP *** [Kc 7h Kh]
+HIGUALIN.20 : mise. 100
+cerilla1981 : relance. 300 à 400
+andrik198680 : suit. 400
+HIGUALIN.20 : relance. 3470 à 3870 et est all-in.
+cerilla1981 : relance. 1090 à 4960 et est all-in.
+andrik198680 : suit. 4220 et est all-in.
+Personne n'a suivi. (340) sont retournés à cerilla1981.
+*** TOURNANT *** [Kc 7h Kh] [2d]
+*** RIVIÈRE *** [Kc 7h Kh 2d] [8s]
+*** ABATTAGE ***
+cerilla1981 : montre [Kd Jh] (un brelan de Rois)
+andrik198680 : montre [Qh 4h] (une paire de Rois)
+cerilla1981 a remporté 1500  parallèle lors du pot .
+HIGUALIN.20 : montre [Ts Ks] (un brelan de Rois - plus basse kicker)
+cerilla1981 a remporté 12250  principal lors du pot .
+andrik198680 a fini le tournoi en 3e position.
+HIGUALIN.20 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 13750 Principal pot 12250. Parallèle pot 1500. | Commission 0 
+Tableau [Kc 7h Kh 2d 8s]
+Siège 1 : cerilla1981 (grosse blind) a montré [Kd Jh] et a gagné (13750) avec un brelan de Rois
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : andrik198680 (bouton) a montré [Qh 4h] et a perdu avec une paire de Rois
+Siège 4 : HIGUALIN.20 (petite blind) a montré [Ts Ks] et a perdu avec un brelan de Rois
+
+
+
+Main PokerStars n°237979858837 : Tournoi #3456043908, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 14/08/2022 10:58:50 CET [14/08/2022 4:58:50 ET]
+Table '3456043908 1' 4-max Siège #1 est au bouton.
+Place 1: cerilla1981 (14090 en jetons) 
+Place 2: psychoman59 (5910 en jetons) 
+cerilla1981 : met l'ante. 10
+psychoman59 : met l'ante. 10
+cerilla1981 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 9d]
+cerilla1981 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [2d Ah 7h]
+psychoman59 : parole 
+cerilla1981 : mise. 100
+psychoman59 : suit. 100
+*** TOURNANT *** [2d Ah 7h] [5c]
+psychoman59 : parole 
+cerilla1981 : parole 
+*** RIVIÈRE *** [2d Ah 7h 5c] [8s]
+psychoman59 : mise. 210
+cerilla1981 : suit. 210
+*** ABATTAGE ***
+psychoman59 : montre [Qd 9d] (Hauteur As)
+cerilla1981 : montre [Td 8c] (une paire de Huit)
+cerilla1981 a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [2d Ah 7h 5c 8s]
+Siège 1 : cerilla1981 (bouton) (petite blind) a montré [Td 8c] et a gagné (840) avec une paire de Huit
+Siège 2 : psychoman59 (grosse blind) a montré [Qd 9d] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237979863191 : Tournoi #3456043908, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 14/08/2022 10:59:22 CET [14/08/2022 4:59:22 ET]
+Table '3456043908 1' 4-max Siège #2 est au bouton.
+Place 1: cerilla1981 (14510 en jetons) 
+Place 2: psychoman59 (5490 en jetons) 
+cerilla1981 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+cerilla1981 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 9d]
+psychoman59 : relance. 5380 à 5480 et est all-in.
+cerilla1981 : passe. 
+Personne n'a suivi. (5380) sont retournés à psychoman59.
+psychoman59 a remporté 220  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Siège 1 : cerilla1981 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (220)
+
+
+
+Main PokerStars n°237979864611 : Tournoi #3456043908, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 14/08/2022 10:59:32 CET [14/08/2022 4:59:32 ET]
+Table '3456043908 1' 4-max Siège #1 est au bouton.
+Place 1: cerilla1981 (14400 en jetons) 
+Place 2: psychoman59 (5600 en jetons) 
+cerilla1981 : met l'ante. 10
+psychoman59 : met l'ante. 10
+cerilla1981 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 5s]
+cerilla1981 : suit. 50
+psychoman59 : relance. 5490 à 5590 et est all-in.
+cerilla1981 : passe. 
+Personne n'a suivi. (5490) sont retournés à psychoman59.
+psychoman59 a remporté 220  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Siège 1 : cerilla1981 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (220)
+
+
+
+Main PokerStars n°237979866628 : Tournoi #3456043908, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 14/08/2022 10:59:47 CET [14/08/2022 4:59:47 ET]
+Table '3456043908 1' 4-max Siège #2 est au bouton.
+Place 1: cerilla1981 (14290 en jetons) 
+Place 2: psychoman59 (5710 en jetons) 
+cerilla1981 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+cerilla1981 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à cerilla1981.
+cerilla1981 a remporté 120  lors du pot .
+cerilla1981 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : cerilla1981 (grosse blind) a remporté (120)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237979867729 : Tournoi #3456043908, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 14/08/2022 10:59:55 CET [14/08/2022 4:59:55 ET]
+Table '3456043908 1' 4-max Siège #1 est au bouton.
+Place 1: cerilla1981 (14350 en jetons) 
+Place 2: psychoman59 (5650 en jetons) 
+cerilla1981 : met l'ante. 10
+psychoman59 : met l'ante. 10
+cerilla1981 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 5s]
+cerilla1981 : relance. 100 à 200
+psychoman59 : suit. 100
+*** FLOP *** [2c Qc Tc]
+psychoman59 : parole 
+cerilla1981 : mise. 100
+psychoman59 : suit. 100
+*** TOURNANT *** [2c Qc Tc] [Jh]
+psychoman59 : parole 
+cerilla1981 : mise. 465
+psychoman59 : suit. 465
+*** RIVIÈRE *** [2c Qc Tc Jh] [2h]
+psychoman59 : parole 
+cerilla1981 : mise. 1163
+psychoman59 : suit. 1163
+*** ABATTAGE ***
+cerilla1981 : montre [Kc Ad] (une suite, Dix à As)
+psychoman59 : cache la main perdante. 
+cerilla1981 a remporté 3876  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3876 | Commission 0 
+Tableau [2c Qc Tc Jh 2h]
+Siège 1 : cerilla1981 (bouton) (petite blind) a montré [Kc Ad] et a gagné (3876) avec une suite, Dix à As
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [Qh 5s]
+
+
+
+Main PokerStars n°237979871575 : Tournoi #3456043908, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 14/08/2022 11:00:24 CET [14/08/2022 5:00:24 ET]
+Table '3456043908 1' 4-max Siège #2 est au bouton.
+Place 1: cerilla1981 (16288 en jetons) 
+Place 2: psychoman59 (3712 en jetons) 
+cerilla1981 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+cerilla1981 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à cerilla1981.
+cerilla1981 a remporté 150  lors du pot .
+cerilla1981 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : cerilla1981 (grosse blind) a remporté (150)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237979872705 : Tournoi #3456043908, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 14/08/2022 11:00:32 CET [14/08/2022 5:00:32 ET]
+Table '3456043908 1' 4-max Siège #1 est au bouton.
+Place 1: cerilla1981 (16363 en jetons) 
+Place 2: psychoman59 (3637 en jetons) 
+cerilla1981 : met l'ante. 15
+psychoman59 : met l'ante. 15
+cerilla1981 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 7c]
+cerilla1981 : relance. 16228 à 16348 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (16228) sont retournés à cerilla1981.
+cerilla1981 a remporté 270  lors du pot .
+cerilla1981 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Siège 1 : cerilla1981 (bouton) (petite blind) a remporté (270)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237979874248 : Tournoi #3456043908, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 14/08/2022 11:00:44 CET [14/08/2022 5:00:44 ET]
+Table '3456043908 1' 4-max Siège #2 est au bouton.
+Place 1: cerilla1981 (16498 en jetons) 
+Place 2: psychoman59 (3502 en jetons) 
+cerilla1981 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+cerilla1981 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Th]
+psychoman59 : relance. 3367 à 3487 et est all-in.
+cerilla1981 : passe. 
+Personne n'a suivi. (3367) sont retournés à psychoman59.
+psychoman59 a remporté 270  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Siège 1 : cerilla1981 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (270)
+
+
+
+Main PokerStars n°237979875967 : Tournoi #3456043908, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 14/08/2022 11:00:56 CET [14/08/2022 5:00:56 ET]
+Table '3456043908 1' 4-max Siège #1 est au bouton.
+Place 1: cerilla1981 (16363 en jetons) 
+Place 2: psychoman59 (3637 en jetons) 
+cerilla1981 : met l'ante. 15
+psychoman59 : met l'ante. 15
+cerilla1981 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 4h]
+cerilla1981 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [7s 9d 4s]
+psychoman59 : parole 
+cerilla1981 : parole 
+*** TOURNANT *** [7s 9d 4s] [6h]
+psychoman59 : parole 
+cerilla1981 : mise. 203
+psychoman59 : passe. 
+Personne n'a suivi. (203) sont retournés à cerilla1981.
+cerilla1981 a remporté 270  lors du pot .
+cerilla1981 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [7s 9d 4s 6h]
+Siège 1 : cerilla1981 (bouton) (petite blind) a remporté (270)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237979878880 : Tournoi #3456043908, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 14/08/2022 11:01:14 CET [14/08/2022 5:01:14 ET]
+Table '3456043908 1' 4-max Siège #2 est au bouton.
+Place 1: cerilla1981 (16498 en jetons) 
+Place 2: psychoman59 (3502 en jetons) 
+cerilla1981 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+cerilla1981 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à cerilla1981.
+cerilla1981 a remporté 150  lors du pot .
+cerilla1981 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : cerilla1981 (grosse blind) a remporté (150)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237979880177 : Tournoi #3456043908, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 14/08/2022 11:01:22 CET [14/08/2022 5:01:22 ET]
+Table '3456043908 1' 4-max Siège #1 est au bouton.
+Place 1: cerilla1981 (16573 en jetons) 
+Place 2: psychoman59 (3427 en jetons) 
+cerilla1981 : met l'ante. 15
+psychoman59 : met l'ante. 15
+cerilla1981 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8d]
+cerilla1981 : relance. 120 à 240
+psychoman59 : suit. 120
+*** FLOP *** [7s Td Jd]
+psychoman59 : mise. 3172 et est all-in.
+cerilla1981 : passe. 
+Personne n'a suivi. (3172) sont retournés à psychoman59.
+psychoman59 a remporté 510  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 510 | Commission 0 
+Tableau [7s Td Jd]
+Siège 1 : cerilla1981 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (510)
+
+
+
+Main PokerStars n°237979882670 : Tournoi #3456043908, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 14/08/2022 11:01:39 CET [14/08/2022 5:01:39 ET]
+Table '3456043908 1' 4-max Siège #2 est au bouton.
+Place 1: cerilla1981 (16318 en jetons) 
+Place 2: psychoman59 (3682 en jetons) 
+cerilla1981 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+cerilla1981 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à cerilla1981.
+cerilla1981 a remporté 150  lors du pot .
+cerilla1981 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : cerilla1981 (grosse blind) a remporté (150)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237979883940 : Tournoi #3456043908, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 14/08/2022 11:01:48 CET [14/08/2022 5:01:48 ET]
+Table '3456043908 1' 4-max Siège #1 est au bouton.
+Place 1: cerilla1981 (16393 en jetons) 
+Place 2: psychoman59 (3607 en jetons) 
+cerilla1981 : met l'ante. 15
+psychoman59 : met l'ante. 15
+cerilla1981 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Td]
+cerilla1981 : relance. 16258 à 16378 et est all-in.
+psychoman59 : suit. 3472 et est all-in.
+Personne n'a suivi. (12786) sont retournés à cerilla1981.
+*** FLOP *** [2c 6s Jd]
+*** TOURNANT *** [2c 6s Jd] [8s]
+*** RIVIÈRE *** [2c 6s Jd 8s] [2d]
+*** ABATTAGE ***
+psychoman59 : montre [Ah Td] (une paire de Deux)
+cerilla1981 : montre [Ad Ts] (une paire de Deux)
+psychoman59 a remporté 3607  lors du pot .
+cerilla1981 a remporté 3607  lors du pot .
+*** SYNTHÈSE ***
+Pot total 7214 | Commission 0 
+Tableau [2c 6s Jd 8s 2d]
+Siège 1 : cerilla1981 (bouton) (petite blind) a montré [Ad Ts] et a gagné (3607) avec une paire de Deux
+Siège 2 : psychoman59 (grosse blind) a montré [Ah Td] et a gagné (3607) avec une paire de Deux
+
+
+
+Main PokerStars n°237979886524 : Tournoi #3456043908, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 14/08/2022 11:02:04 CET [14/08/2022 5:02:04 ET]
+Table '3456043908 1' 4-max Siège #2 est au bouton.
+Place 1: cerilla1981 (16393 en jetons) 
+Place 2: psychoman59 (3607 en jetons) 
+cerilla1981 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+cerilla1981 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Qd]
+psychoman59 : suit. 60
+cerilla1981 : relance. 240 à 360
+psychoman59 : passe. 
+Personne n'a suivi. (240) sont retournés à cerilla1981.
+cerilla1981 a remporté 270  lors du pot .
+cerilla1981 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Siège 1 : cerilla1981 (grosse blind) a remporté (270)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237979888442 : Tournoi #3456043908, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 14/08/2022 11:02:16 CET [14/08/2022 5:02:16 ET]
+Table '3456043908 1' 4-max Siège #1 est au bouton.
+Place 1: cerilla1981 (16528 en jetons) 
+Place 2: psychoman59 (3472 en jetons) 
+cerilla1981 : met l'ante. 15
+psychoman59 : met l'ante. 15
+cerilla1981 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qs]
+cerilla1981 : relance. 120 à 240
+psychoman59 : relance. 3217 à 3457 et est all-in.
+cerilla1981 : passe. 
+Personne n'a suivi. (3217) sont retournés à psychoman59.
+psychoman59 a remporté 510  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 510 | Commission 0 
+Siège 1 : cerilla1981 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (510)
+
+
+
+Main PokerStars n°237979891365 : Tournoi #3456043908, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 14/08/2022 11:02:35 CET [14/08/2022 5:02:35 ET]
+Table '3456043908 1' 4-max Siège #2 est au bouton.
+Place 1: cerilla1981 (16273 en jetons) 
+Place 2: psychoman59 (3727 en jetons) 
+cerilla1981 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+cerilla1981 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 8d]
+psychoman59 : relance. 120 à 240
+cerilla1981 : relance. 16018 à 16258 et est all-in.
+psychoman59 : suit. 3472 et est all-in.
+Personne n'a suivi. (12546) sont retournés à cerilla1981.
+*** FLOP *** [Ts 9d 9c]
+*** TOURNANT *** [Ts 9d 9c] [Qh]
+*** RIVIÈRE *** [Ts 9d 9c Qh] [Qc]
+*** ABATTAGE ***
+cerilla1981 : montre [Jd Ac] (double paire, Dames et Neuf)
+psychoman59 : montre [7d 8d] (double paire, Dames et Neuf - plus basse kicker)
+cerilla1981 a remporté 7454  lors du pot .
+psychoman59 a fini le tournoi à la 2e place et a reçu 0.52 €.
+cerilla1981 gagne le tournoi - félicitations !
+cerilla1981 gagne les frais d'entrée pour le tournoi #3450746435
+*** SYNTHÈSE ***
+Pot total 7454 | Commission 0 
+Tableau [Ts 9d 9c Qh Qc]
+Siège 1 : cerilla1981 (grosse blind) a montré [Jd Ac] et a gagné (7454) avec double paire, Dames et Neuf
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [7d 8d] et a perdu avec double paire, Dames et Neuf
+
+
+

@@ -1,0 +1,220 @@
+﻿Main PokerStars n°237872904281 : Tournoi #3453456815, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/08/2022 23:18:24 CET [08/08/2022 17:18:24 ET]
+Table '3453456815 1' 3-max Siège #1 est au bouton.
+Place 1: bassouille38840 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: MickaGuardio (300 en jetons) 
+psychoman59 : met la petite blind. 10
+MickaGuardio : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 8d]
+bassouille38840 : passe. 
+psychoman59 : suit. 10
+MickaGuardio : parole 
+*** FLOP *** [As Qd Ts]
+psychoman59 : parole 
+MickaGuardio : parole 
+*** TOURNANT *** [As Qd Ts] [3h]
+psychoman59 : parole 
+MickaGuardio : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [As Qd Ts 3h] [2d]
+psychoman59 : parole 
+MickaGuardio : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ks 8d] (Hauteur As)
+MickaGuardio : montre [3d 7c] (une paire de Trois)
+MickaGuardio a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [As Qd Ts 3h 2d]
+Siège 1 : bassouille38840 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Ks 8d] et a perdu avec Hauteur As
+Siège 3 : MickaGuardio (grosse blind) a montré [3d 7c] et a gagné (80) avec une paire de Trois
+
+
+
+Main PokerStars n°237872912408 : Tournoi #3453456815, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/08/2022 23:18:45 CET [08/08/2022 17:18:45 ET]
+Table '3453456815 1' 3-max Siège #2 est au bouton.
+Place 1: bassouille38840 (300 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+Place 3: MickaGuardio (340 en jetons) 
+MickaGuardio : met la petite blind. 10
+bassouille38840 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 8c]
+psychoman59 : passe. 
+MickaGuardio : passe. 
+Personne n'a suivi. (10) sont retournés à bassouille38840.
+bassouille38840 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : bassouille38840 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : MickaGuardio (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237872914990 : Tournoi #3453456815, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/08/2022 23:18:52 CET [08/08/2022 17:18:52 ET]
+Table '3453456815 1' 3-max Siège #3 est au bouton.
+Place 1: bassouille38840 (310 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+Place 3: MickaGuardio (330 en jetons) 
+bassouille38840 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Jc]
+MickaGuardio : relance. 20 à 40
+bassouille38840 : relance. 20 à 60
+psychoman59 : passe. 
+MickaGuardio : suit. 20
+*** FLOP *** [Js Kh 4h]
+bassouille38840 : parole 
+MickaGuardio : mise. 20
+bassouille38840 : suit. 20
+*** TOURNANT *** [Js Kh 4h] [6s]
+bassouille38840 : parole 
+MickaGuardio : mise. 40
+bassouille38840 : suit. 40
+*** RIVIÈRE *** [Js Kh 4h 6s] [3c]
+bassouille38840 : parole 
+MickaGuardio : mise. 60
+bassouille38840 : suit. 60
+*** ABATTAGE ***
+MickaGuardio : montre [9s Ah] (Hauteur As)
+bassouille38840 : montre [Qd Ad] (Hauteur As - Roi+Dame kicker)
+bassouille38840 a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [Js Kh 4h 6s 3c]
+Siège 1 : bassouille38840 (petite blind) a montré [Qd Ad] et a gagné (380) avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : MickaGuardio (bouton) a montré [9s Ah] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237872925495 : Tournoi #3453456815, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/08/2022 23:19:20 CET [08/08/2022 17:19:20 ET]
+Table '3453456815 1' 3-max Siège #1 est au bouton.
+Place 1: bassouille38840 (510 en jetons) 
+Place 2: psychoman59 (240 en jetons) 
+Place 3: MickaGuardio (150 en jetons) 
+psychoman59 : met la petite blind. 10
+MickaGuardio : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Td]
+bassouille38840 : passe. 
+psychoman59 : suit. 10
+MickaGuardio : parole 
+*** FLOP *** [8c 6s 7c]
+psychoman59 : parole 
+MickaGuardio : mise. 130 et est all-in.
+psychoman59 : suit. 130
+*** TOURNANT *** [8c 6s 7c] [5d]
+*** RIVIÈRE *** [8c 6s 7c 5d] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [Ac Td] (une suite, Six à Dix)
+MickaGuardio : montre [Qd 9h] (une suite, Cinq à Neuf)
+psychoman59 a remporté 300  lors du pot .
+MickaGuardio a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [8c 6s 7c 5d 9c]
+Siège 1 : bassouille38840 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Ac Td] et a gagné (300) avec une suite, Six à Dix
+Siège 3 : MickaGuardio (grosse blind) a montré [Qd 9h] et a perdu avec une suite, Cinq à Neuf
+
+
+
+Main PokerStars n°237872934746 : Tournoi #3453456815, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/08/2022 23:19:45 CET [08/08/2022 17:19:45 ET]
+Table '3453456815 1' 3-max Siège #2 est au bouton.
+Place 1: bassouille38840 (510 en jetons) 
+Place 2: psychoman59 (390 en jetons) 
+psychoman59 : met la petite blind. 15
+bassouille38840 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 6h]
+psychoman59 : relance. 360 à 390 et est all-in.
+bassouille38840 : suit. 360
+*** FLOP *** [Js 4h 4d]
+*** TOURNANT *** [Js 4h 4d] [Qd]
+*** RIVIÈRE *** [Js 4h 4d Qd] [Jc]
+*** ABATTAGE ***
+bassouille38840 : montre [9c Kd] (double paire, Valets et Quatre)
+psychoman59 : montre [Ac 6h] (double paire, Valets et Quatre - As kicker)
+psychoman59 a remporté 780  lors du pot .
+*** SYNTHÈSE ***
+Pot total 780 | Commission 0 
+Tableau [Js 4h 4d Qd Jc]
+Siège 1 : bassouille38840 (grosse blind) a montré [9c Kd] et a perdu avec double paire, Valets et Quatre
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ac 6h] et a gagné (780) avec double paire, Valets et Quatre
+
+
+
+Main PokerStars n°237872940224 : Tournoi #3453456815, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/08/2022 23:19:59 CET [08/08/2022 17:19:59 ET]
+Table '3453456815 1' 3-max Siège #1 est au bouton.
+Place 1: bassouille38840 (120 en jetons) 
+Place 2: psychoman59 (780 en jetons) 
+bassouille38840 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 7h]
+bassouille38840 : relance. 90 à 120 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à bassouille38840.
+bassouille38840 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : bassouille38840 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237872944987 : Tournoi #3453456815, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/08/2022 23:20:12 CET [08/08/2022 17:20:12 ET]
+Table '3453456815 1' 3-max Siège #2 est au bouton.
+Place 1: bassouille38840 (150 en jetons) 
+Place 2: psychoman59 (750 en jetons) 
+psychoman59 : met la petite blind. 15
+bassouille38840 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 8d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à bassouille38840.
+bassouille38840 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : bassouille38840 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237872946723 : Tournoi #3453456815, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/08/2022 23:20:17 CET [08/08/2022 17:20:17 ET]
+Table '3453456815 1' 3-max Siège #1 est au bouton.
+Place 1: bassouille38840 (165 en jetons) 
+Place 2: psychoman59 (735 en jetons) 
+bassouille38840 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 4h]
+bassouille38840 : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [Qs 8c 8h]
+psychoman59 : parole 
+bassouille38840 : parole 
+*** TOURNANT *** [Qs 8c 8h] [4c]
+psychoman59 : mise. 120
+bassouille38840 : suit. 105 et est all-in.
+Personne n'a suivi. (15) sont retournés à psychoman59.
+*** RIVIÈRE *** [Qs 8c 8h 4c] [Kc]
+*** ABATTAGE ***
+psychoman59 : montre [6h 4h] (double paire, Huit et Quatre)
+bassouille38840 : montre [3h 3c] (double paire, Huit et Trois)
+psychoman59 a remporté 330  lors du pot .
+bassouille38840 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 330 | Commission 0 
+Tableau [Qs 8c 8h 4c Kc]
+Siège 1 : bassouille38840 (bouton) (petite blind) a montré [3h 3c] et a perdu avec double paire, Huit et Trois
+Siège 2 : psychoman59 (grosse blind) a montré [6h 4h] et a gagné (330) avec double paire, Huit et Quatre
+
+
+

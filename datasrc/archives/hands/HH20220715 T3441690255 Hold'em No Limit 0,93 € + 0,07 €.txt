@@ -1,0 +1,363 @@
+﻿Main PokerStars n°237367636186 : Tournoi #3441690255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/07/2022 8:10:24 CET [15/07/2022 2:10:24 ET]
+Table '3441690255 1' 3-max Siège #1 est au bouton.
+Place 1: MissVaness93 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: sebdoun (300 en jetons) 
+psychoman59 : met la petite blind. 10
+sebdoun : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 5h]
+MissVaness93 : suit. 20
+psychoman59 : passe. 
+sebdoun : parole 
+*** FLOP *** [9s Ks Qs]
+sebdoun : mise. 20
+MissVaness93 : passe. 
+Personne n'a suivi. (20) sont retournés à sebdoun.
+sebdoun a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [9s Ks Qs]
+Siège 1 : MissVaness93 (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : sebdoun (grosse blind) a remporté (50)
+
+
+
+Main PokerStars n°237367637568 : Tournoi #3441690255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/07/2022 8:10:37 CET [15/07/2022 2:10:37 ET]
+Table '3441690255 1' 3-max Siège #2 est au bouton.
+Place 1: MissVaness93 (280 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: sebdoun (330 en jetons) 
+sebdoun : met la petite blind. 10
+MissVaness93 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 3h]
+psychoman59 : passe. 
+sebdoun : suit. 10
+MissVaness93 : parole 
+*** FLOP *** [7c 2c Kh]
+sebdoun : parole 
+MissVaness93 : parole 
+*** TOURNANT *** [7c 2c Kh] [Ah]
+sebdoun : parole 
+MissVaness93 : parole 
+*** RIVIÈRE *** [7c 2c Kh Ah] [6d]
+sebdoun : parole 
+MissVaness93 : parole 
+*** ABATTAGE ***
+sebdoun : montre [3d 5d] (Hauteur As)
+MissVaness93 : montre [5s Jc] (Hauteur As - Roi+Valet kicker)
+MissVaness93 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7c 2c Kh Ah 6d]
+Siège 1 : MissVaness93 (grosse blind) a montré [5s Jc] et a gagné (40) avec Hauteur As
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : sebdoun (petite blind) a montré [3d 5d] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237367642004 : Tournoi #3441690255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/07/2022 8:11:18 CET [15/07/2022 2:11:18 ET]
+Table '3441690255 1' 3-max Siège #3 est au bouton.
+Place 1: MissVaness93 (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: sebdoun (310 en jetons) 
+MissVaness93 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9s]
+sebdoun : suit. 20
+MissVaness93 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Th 8d 4c]
+MissVaness93 : mise. 20
+psychoman59 : passe. 
+sebdoun : suit. 20
+*** TOURNANT *** [Th 8d 4c] [Jd]
+MissVaness93 : mise. 20
+sebdoun : suit. 20
+*** RIVIÈRE *** [Th 8d 4c Jd] [Jc]
+MissVaness93 : mise. 20
+sebdoun : suit. 20
+*** ABATTAGE ***
+MissVaness93 : montre [8c 5d] (double paire, Valets et Huit)
+sebdoun : montre [8h Tc] (double paire, Valets et Dix)
+sebdoun a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Th 8d 4c Jd Jc]
+Siège 1 : MissVaness93 (petite blind) a montré [8c 5d] et a perdu avec double paire, Valets et Huit
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : sebdoun (bouton) a montré [8h Tc] et a gagné (180) avec double paire, Valets et Dix
+
+
+
+Main PokerStars n°237367645649 : Tournoi #3441690255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/07/2022 8:11:52 CET [15/07/2022 2:11:52 ET]
+Table '3441690255 1' 3-max Siège #1 est au bouton.
+Place 1: MissVaness93 (220 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: sebdoun (410 en jetons) 
+psychoman59 : met la petite blind. 15
+sebdoun : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 7h]
+MissVaness93 : suit. 30
+psychoman59 : passe. 
+sebdoun : parole 
+*** FLOP *** [Ad 8s Ks]
+sebdoun : mise. 30
+MissVaness93 : passe. 
+Personne n'a suivi. (30) sont retournés à sebdoun.
+sebdoun a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [Ad 8s Ks]
+Siège 1 : MissVaness93 (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : sebdoun (grosse blind) a remporté (75)
+
+
+
+Main PokerStars n°237367647883 : Tournoi #3441690255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/07/2022 8:12:13 CET [15/07/2022 2:12:13 ET]
+Table '3441690255 1' 3-max Siège #2 est au bouton.
+Place 1: MissVaness93 (190 en jetons) 
+Place 2: psychoman59 (255 en jetons) 
+Place 3: sebdoun (455 en jetons) 
+sebdoun : met la petite blind. 15
+MissVaness93 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 9c]
+psychoman59 : passe. 
+sebdoun : passe. 
+Personne n'a suivi. (15) sont retournés à MissVaness93.
+MissVaness93 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : MissVaness93 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : sebdoun (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237367648585 : Tournoi #3441690255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/07/2022 8:12:19 CET [15/07/2022 2:12:19 ET]
+Table '3441690255 1' 3-max Siège #3 est au bouton.
+Place 1: MissVaness93 (205 en jetons) 
+Place 2: psychoman59 (255 en jetons) 
+Place 3: sebdoun (440 en jetons) 
+MissVaness93 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Kh]
+sebdoun : passe. 
+MissVaness93 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : MissVaness93 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : sebdoun (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237367649981 : Tournoi #3441690255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/07/2022 8:12:33 CET [15/07/2022 2:12:33 ET]
+Table '3441690255 1' 3-max Siège #1 est au bouton.
+Place 1: MissVaness93 (190 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: sebdoun (440 en jetons) 
+psychoman59 : met la petite blind. 20
+sebdoun : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 7h]
+MissVaness93 a dépassé le temps imparti.
+MissVaness93 : passe. 
+MissVaness93 ne joue pas.
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à sebdoun.
+sebdoun a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : MissVaness93 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : sebdoun (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237367651587 : Tournoi #3441690255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/07/2022 8:12:48 CET [15/07/2022 2:12:48 ET]
+Table '3441690255 1' 3-max Siège #2 est au bouton.
+Place 1: MissVaness93 (190 en jetons) ne joue pas.
+Place 2: psychoman59 (250 en jetons) 
+Place 3: sebdoun (460 en jetons) 
+sebdoun : met la petite blind. 20
+MissVaness93 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 6s]
+MissVaness93 est revenu.
+psychoman59 : passe. 
+sebdoun : suit. 20
+MissVaness93 : parole 
+*** FLOP *** [3h Ah Kc]
+sebdoun : mise. 40
+MissVaness93 : suit. 40
+*** TOURNANT *** [3h Ah Kc] [7s]
+sebdoun : mise. 40
+MissVaness93 : suit. 40
+*** RIVIÈRE *** [3h Ah Kc 7s] [Jc]
+sebdoun : mise. 40
+MissVaness93 : suit. 40
+*** ABATTAGE ***
+sebdoun : montre [9c Kh] (une paire de Rois)
+MissVaness93 : montre [Th Kd] (une paire de Rois - As+Valet+Dix kicker)
+MissVaness93 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [3h Ah Kc 7s Jc]
+Siège 1 : MissVaness93 (grosse blind) a montré [Th Kd] et a gagné (320) avec une paire de Rois
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : sebdoun (petite blind) a montré [9c Kh] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°237367654864 : Tournoi #3441690255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/07/2022 8:13:18 CET [15/07/2022 2:13:18 ET]
+Table '3441690255 1' 3-max Siège #3 est au bouton.
+Place 1: MissVaness93 (350 en jetons) 
+Place 2: psychoman59 (250 en jetons) 
+Place 3: sebdoun (300 en jetons) 
+MissVaness93 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Qc]
+sebdoun : suit. 40
+MissVaness93 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [7c 3h Qs]
+MissVaness93 : parole 
+psychoman59 : parole 
+sebdoun : parole 
+*** TOURNANT *** [7c 3h Qs] [Jd]
+MissVaness93 : parole 
+psychoman59 : mise. 60
+sebdoun : passe. 
+MissVaness93 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7c 3h Qs Jd]
+Siège 1 : MissVaness93 (petite blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : sebdoun (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237367658230 : Tournoi #3441690255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/07/2022 8:13:50 CET [15/07/2022 2:13:50 ET]
+Table '3441690255 1' 3-max Siège #1 est au bouton.
+Place 1: MissVaness93 (310 en jetons) 
+Place 2: psychoman59 (330 en jetons) 
+Place 3: sebdoun (260 en jetons) 
+psychoman59 : met la petite blind. 30
+sebdoun : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Kh]
+MissVaness93 : suit. 60
+psychoman59 : relance. 270 à 330 et est all-in.
+sebdoun : passe. 
+MissVaness93 : suit. 250 et est all-in.
+Personne n'a suivi. (20) sont retournés à psychoman59.
+*** FLOP *** [8c 2s Ks]
+*** TOURNANT *** [8c 2s Ks] [Kd]
+*** RIVIÈRE *** [8c 2s Ks Kd] [3s]
+*** ABATTAGE ***
+psychoman59 : montre [Ac Kh] (un brelan de Rois)
+MissVaness93 : montre [Qh Ts] (une paire de Rois)
+psychoman59 a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [8c 2s Ks Kd 3s]
+Siège 1 : MissVaness93 (bouton) a montré [Qh Ts] et a perdu avec une paire de Rois
+Siège 2 : psychoman59 (petite blind) a montré [Ac Kh] et a gagné (680) avec un brelan de Rois
+Siège 3 : sebdoun (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237367660559 : Tournoi #3441690255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/07/2022 8:14:13 CET [15/07/2022 2:14:13 ET]
+Table '3441690255 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (700 en jetons) 
+Place 3: sebdoun (200 en jetons) 
+sebdoun : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Qs]
+sebdoun : suit. 30
+psychoman59 : parole 
+*** FLOP *** [As Jh Ah]
+psychoman59 : parole 
+sebdoun : parole 
+*** TOURNANT *** [As Jh Ah] [8h]
+psychoman59 : parole 
+sebdoun : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à sebdoun.
+sebdoun a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [As Jh Ah 8h]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : sebdoun (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237367662841 : Tournoi #3441690255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 15/07/2022 8:14:35 CET [15/07/2022 2:14:35 ET]
+Table '3441690255 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (640 en jetons) 
+Place 3: sebdoun (260 en jetons) 
+psychoman59 : met la petite blind. 40
+sebdoun : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 8d]
+psychoman59 : suit. 40
+sebdoun : parole 
+*** FLOP *** [Th Jd 5h]
+sebdoun : parole 
+psychoman59 : mise. 160
+sebdoun : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Th Jd 5h]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 3 : sebdoun (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237367664428 : Tournoi #3441690255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 15/07/2022 8:14:50 CET [15/07/2022 2:14:50 ET]
+Table '3441690255 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (720 en jetons) 
+Place 3: sebdoun (180 en jetons) 
+sebdoun : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Ah]
+sebdoun : suit. 40
+psychoman59 : relance. 80 à 160
+sebdoun : suit. 80
+*** FLOP *** [2d 3d 2s]
+psychoman59 : mise. 80
+sebdoun : suit. 20 et est all-in.
+Personne n'a suivi. (60) sont retournés à psychoman59.
+*** TOURNANT *** [2d 3d 2s] [Qc]
+*** RIVIÈRE *** [2d 3d 2s Qc] [2c]
+*** ABATTAGE ***
+psychoman59 : montre [4d Ah] (un brelan de Deux)
+sebdoun : montre [8h 9s] (un brelan de Deux - plus basse kicker)
+psychoman59 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [2d 3d 2s Qc 2c]
+Siège 2 : psychoman59 (grosse blind) a montré [4d Ah] et a gagné (360) avec un brelan de Deux
+Siège 3 : sebdoun (bouton) (petite blind) a montré [8h 9s] et a perdu avec un brelan de Deux
+
+
+

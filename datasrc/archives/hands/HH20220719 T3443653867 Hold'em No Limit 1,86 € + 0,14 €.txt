@@ -1,0 +1,387 @@
+﻿Main PokerStars n°237452933794 : Tournoi #3443653867, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 13:56:27 CET [19/07/2022 7:56:27 ET]
+Table '3443653867 1' 3-max Siège #1 est au bouton.
+Place 1: alonsomalaga (300 en jetons) 
+Place 2: Aranalex (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Aranalex : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 6c]
+alonsomalaga : relance. 20 à 40
+Aranalex : suit. 30
+psychoman59 : passe. 
+*** FLOP *** [6d 3c 5h]
+Aranalex : parole 
+alonsomalaga : mise. 40
+Aranalex : suit. 40
+*** TOURNANT *** [6d 3c 5h] [Jd]
+Aranalex : parole 
+alonsomalaga : mise. 40
+Aranalex : suit. 40
+*** RIVIÈRE *** [6d 3c 5h Jd] [5d]
+Aranalex : parole 
+alonsomalaga : mise. 70
+Aranalex : passe. 
+Personne n'a suivi. (70) sont retournés à alonsomalaga.
+alonsomalaga a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [6d 3c 5h Jd 5d]
+Siège 1 : alonsomalaga (bouton) a remporté (260)
+Siège 2 : Aranalex (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237452938605 : Tournoi #3443653867, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 13:56:55 CET [19/07/2022 7:56:55 ET]
+Table '3443653867 1' 3-max Siège #2 est au bouton.
+Place 1: alonsomalaga (440 en jetons) 
+Place 2: Aranalex (180 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+alonsomalaga : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Qs]
+Aranalex : suit. 20
+psychoman59 : passe. 
+alonsomalaga : parole 
+*** FLOP *** [5c 2d 5s]
+alonsomalaga : mise. 40
+Aranalex : suit. 40
+*** TOURNANT *** [5c 2d 5s] [5h]
+alonsomalaga : mise. 40
+Aranalex : relance. 80 à 120 et est all-in.
+alonsomalaga : passe. 
+Personne n'a suivi. (80) sont retournés à Aranalex.
+Aranalex a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Tableau [5c 2d 5s 5h]
+Siège 1 : alonsomalaga (grosse blind) s'est couché. sur le Tournant
+Siège 2 : Aranalex (bouton) a remporté (210)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237452944791 : Tournoi #3443653867, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 13:57:27 CET [19/07/2022 7:57:27 ET]
+Table '3443653867 1' 3-max Siège #3 est au bouton.
+Place 1: alonsomalaga (340 en jetons) 
+Place 2: Aranalex (290 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+alonsomalaga : met la petite blind. 10
+Aranalex : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 2h]
+psychoman59 : passe. 
+alonsomalaga : passe. 
+Personne n'a suivi. (10) sont retournés à Aranalex.
+Aranalex a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : alonsomalaga (petite blind) s'est couché. avant Flop
+Siège 2 : Aranalex (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237452946357 : Tournoi #3443653867, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 13:57:36 CET [19/07/2022 7:57:36 ET]
+Table '3443653867 1' 3-max Siège #1 est au bouton.
+Place 1: alonsomalaga (330 en jetons) 
+Place 2: Aranalex (300 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+Aranalex : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ad]
+alonsomalaga : relance. 30 à 60
+Aranalex : suit. 45
+psychoman59 : relance. 210 à 270 et est all-in.
+alonsomalaga : relance. 60 à 330 et est all-in.
+Aranalex : passe. 
+Personne n'a suivi. (60) sont retournés à alonsomalaga.
+*** FLOP *** [4h 5c Ks]
+*** TOURNANT *** [4h 5c Ks] [2h]
+*** RIVIÈRE *** [4h 5c Ks 2h] [9s]
+*** ABATTAGE ***
+psychoman59 : montre [9d Ad] (une paire de Neuf)
+alonsomalaga : montre [As Jd] (Hauteur As)
+psychoman59 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [4h 5c Ks 2h 9s]
+Siège 1 : alonsomalaga (bouton) a montré [As Jd] et a perdu avec Hauteur As
+Siège 2 : Aranalex (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [9d Ad] et a gagné (600) avec une paire de Neuf
+
+
+
+Main PokerStars n°237452950103 : Tournoi #3443653867, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 13:57:59 CET [19/07/2022 7:57:59 ET]
+Table '3443653867 1' 3-max Siège #2 est au bouton.
+Place 1: alonsomalaga (60 en jetons) 
+Place 2: Aranalex (240 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+psychoman59 : met la petite blind. 15
+alonsomalaga : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Jc]
+Aranalex : suit. 30
+psychoman59 : passe. 
+alonsomalaga : parole 
+*** FLOP *** [Qd 5c Kh]
+alonsomalaga : mise. 30 et est all-in.
+Aranalex : suit. 30
+*** TOURNANT *** [Qd 5c Kh] [Qc]
+*** RIVIÈRE *** [Qd 5c Kh Qc] [Td]
+*** ABATTAGE ***
+alonsomalaga : montre [2d 7s] (une paire de Dames)
+Aranalex : montre [2s 2h] (double paire, Dames et Deux)
+Aranalex a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [Qd 5c Kh Qc Td]
+Siège 1 : alonsomalaga (grosse blind) a montré [2d 7s] et a perdu avec une paire de Dames
+Siège 2 : Aranalex (bouton) a montré [2s 2h] et a gagné (135) avec double paire, Dames et Deux
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237452962573 : Tournoi #3443653867, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 13:58:22 CET [19/07/2022 7:58:22 ET]
+Table '3443653867 1' 3-max Siège #3 est au bouton.
+Place 2: Aranalex (315 en jetons) 
+Place 3: psychoman59 (585 en jetons) 
+psychoman59 : met la petite blind. 15
+Aranalex : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Th]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Aranalex.
+Aranalex a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : Aranalex (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237452965099 : Tournoi #3443653867, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 13:58:37 CET [19/07/2022 7:58:37 ET]
+Table '3443653867 1' 3-max Siège #2 est au bouton.
+Place 2: Aranalex (330 en jetons) 
+Place 3: psychoman59 (570 en jetons) 
+Aranalex : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 7h]
+Aranalex : suit. 20
+psychoman59 : parole 
+*** FLOP *** [8c Td 6s]
+psychoman59 : parole 
+Aranalex : parole 
+*** TOURNANT *** [8c Td 6s] [9c]
+psychoman59 : mise. 80
+Aranalex : suit. 80
+*** RIVIÈRE *** [8c Td 6s 9c] [Ac]
+psychoman59 : mise. 120
+Aranalex : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [8c Td 6s 9c Ac]
+Siège 2 : Aranalex (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (240)
+
+
+
+Main PokerStars n°237452970636 : Tournoi #3443653867, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 13:59:10 CET [19/07/2022 7:59:10 ET]
+Table '3443653867 1' 3-max Siège #3 est au bouton.
+Place 2: Aranalex (210 en jetons) 
+Place 3: psychoman59 (690 en jetons) 
+psychoman59 : met la petite blind. 20
+Aranalex : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Ks]
+psychoman59 : relance. 40 à 80
+Aranalex : suit. 40
+*** FLOP *** [Js Th 9s]
+Aranalex : mise. 130 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (130) sont retournés à Aranalex.
+Aranalex a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Js Th 9s]
+Siège 2 : Aranalex (grosse blind) a remporté (160)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237452973381 : Tournoi #3443653867, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 13:59:26 CET [19/07/2022 7:59:26 ET]
+Table '3443653867 1' 3-max Siège #2 est au bouton.
+Place 2: Aranalex (290 en jetons) 
+Place 3: psychoman59 (610 en jetons) 
+Aranalex : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 2d]
+Aranalex : suit. 20
+psychoman59 : relance. 570 à 610 et est all-in.
+Aranalex : passe. 
+Personne n'a suivi. (570) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : Aranalex (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237452976461 : Tournoi #3443653867, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 13:59:45 CET [19/07/2022 7:59:45 ET]
+Table '3443653867 1' 3-max Siège #3 est au bouton.
+Place 2: Aranalex (250 en jetons) 
+Place 3: psychoman59 (650 en jetons) 
+psychoman59 : met la petite blind. 30
+Aranalex : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Aranalex.
+Aranalex a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : Aranalex (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237452978276 : Tournoi #3443653867, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 13:59:56 CET [19/07/2022 7:59:56 ET]
+Table '3443653867 1' 3-max Siège #2 est au bouton.
+Place 2: Aranalex (280 en jetons) 
+Place 3: psychoman59 (620 en jetons) 
+Aranalex : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Tc]
+Aranalex : suit. 30
+psychoman59 : parole 
+*** FLOP *** [2d 7s 9d]
+psychoman59 : parole 
+Aranalex : parole 
+*** TOURNANT *** [2d 7s 9d] [2h]
+psychoman59 : parole 
+Aranalex : parole 
+*** RIVIÈRE *** [2d 7s 9d 2h] [Ks]
+psychoman59 : parole 
+Aranalex : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3h Tc] (une paire de Deux)
+Aranalex : montre [Js Ah] (une paire de Deux - As kicker)
+Aranalex a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2d 7s 9d 2h Ks]
+Siège 2 : Aranalex (bouton) (petite blind) a montré [Js Ah] et a gagné (120) avec une paire de Deux
+Siège 3 : psychoman59 (grosse blind) a montré [3h Tc] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°237452982948 : Tournoi #3443653867, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 14:00:23 CET [19/07/2022 8:00:23 ET]
+Table '3443653867 1' 3-max Siège #3 est au bouton.
+Place 2: Aranalex (340 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+psychoman59 : met la petite blind. 30
+Aranalex : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Aranalex.
+Aranalex a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : Aranalex (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237452983733 : Tournoi #3443653867, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 14:00:27 CET [19/07/2022 8:00:27 ET]
+Table '3443653867 1' 3-max Siège #2 est au bouton.
+Place 2: Aranalex (370 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+Aranalex : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 4d]
+Aranalex : relance. 310 à 370 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (310) sont retournés à Aranalex.
+Aranalex a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : Aranalex (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237452985612 : Tournoi #3443653867, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 19/07/2022 14:00:38 CET [19/07/2022 8:00:38 ET]
+Table '3443653867 1' 3-max Siège #3 est au bouton.
+Place 2: Aranalex (430 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+psychoman59 : met la petite blind. 40
+Aranalex : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Aranalex.
+Aranalex a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : Aranalex (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237452986609 : Tournoi #3443653867, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 19/07/2022 14:00:44 CET [19/07/2022 8:00:44 ET]
+Table '3443653867 1' 3-max Siège #2 est au bouton.
+Place 2: Aranalex (470 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+Aranalex : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Ad]
+Aranalex : suit. 40
+psychoman59 : relance. 350 à 430 et est all-in.
+Aranalex : passe. 
+Personne n'a suivi. (350) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : Aranalex (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°237452988968 : Tournoi #3443653867, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 19/07/2022 14:00:57 CET [19/07/2022 8:00:57 ET]
+Table '3443653867 1' 3-max Siège #3 est au bouton.
+Place 2: Aranalex (390 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 40
+Aranalex : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ac]
+psychoman59 : relance. 430 à 510 et est all-in.
+Aranalex : suit. 310 et est all-in.
+Personne n'a suivi. (120) sont retournés à psychoman59.
+*** FLOP *** [Qd Ah 5c]
+*** TOURNANT *** [Qd Ah 5c] [2s]
+*** RIVIÈRE *** [Qd Ah 5c 2s] [Ks]
+*** ABATTAGE ***
+Aranalex : montre [9d Qc] (une paire de Dames)
+psychoman59 : montre [Tc Ac] (une paire de As)
+psychoman59 a remporté 780  lors du pot .
+*** SYNTHÈSE ***
+Pot total 780 | Commission 0 
+Tableau [Qd Ah 5c 2s Ks]
+Siège 2 : Aranalex (grosse blind) a montré [9d Qc] et a perdu avec une paire de Dames
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Tc Ac] et a gagné (780) avec une paire de As
+
+
+

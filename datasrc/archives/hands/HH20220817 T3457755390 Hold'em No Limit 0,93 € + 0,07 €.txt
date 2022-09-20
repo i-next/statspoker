@@ -1,0 +1,397 @@
+﻿Main PokerStars n°238052211683 : Tournoi #3457755390, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/08/2022 22:48:25 CET [17/08/2022 16:48:25 ET]
+Table '3457755390 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: obut19 (300 en jetons) 
+Place 3: Crazykoh (300 en jetons) 
+obut19 : met la petite blind. 10
+Crazykoh : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 5h]
+psychoman59 : passe. 
+obut19 : relance. 40 à 60
+Crazykoh : suit. 40
+*** FLOP *** [2h Jh Ah]
+obut19 : parole 
+Crazykoh : parole 
+*** TOURNANT *** [2h Jh Ah] [6h]
+obut19 : parole 
+Crazykoh : mise. 20
+obut19 : passe. 
+Personne n'a suivi. (20) sont retournés à Crazykoh.
+Crazykoh a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2h Jh Ah 6h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : obut19 (petite blind) s'est couché. sur le Tournant
+Siège 3 : Crazykoh (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°238052220955 : Tournoi #3457755390, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/08/2022 22:48:50 CET [17/08/2022 16:48:50 ET]
+Table '3457755390 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: obut19 (240 en jetons) 
+Place 3: Crazykoh (360 en jetons) 
+Crazykoh : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Qs]
+obut19 : passe. 
+Crazykoh : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6d 2s 7h]
+Crazykoh : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6d 2s 7h] [Ac]
+Crazykoh : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6d 2s 7h Ac] [Kc]
+Crazykoh : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Crazykoh : montre [Th 9s] (Hauteur As)
+psychoman59 : montre [Jh Qs] (Hauteur As - Roi+Dame kicker)
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [6d 2s 7h Ac Kc]
+Siège 1 : psychoman59 (grosse blind) a montré [Jh Qs] et a gagné (40) avec Hauteur As
+Siège 2 : obut19 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Crazykoh (petite blind) a montré [Th 9s] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°238052228866 : Tournoi #3457755390, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/08/2022 22:49:11 CET [17/08/2022 16:49:11 ET]
+Table '3457755390 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: obut19 (240 en jetons) 
+Place 3: Crazykoh (340 en jetons) 
+psychoman59 : met la petite blind. 10
+obut19 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 2d]
+Crazykoh : suit. 20
+psychoman59 : passe. 
+obut19 : relance. 50 à 70
+Crazykoh : suit. 50
+*** FLOP *** [2h 3c 4s]
+obut19 : mise. 170 et est all-in.
+Crazykoh : passe. 
+Personne n'a suivi. (170) sont retournés à obut19.
+obut19 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [2h 3c 4s]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : obut19 (grosse blind) a remporté (150)
+Siège 3 : Crazykoh (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238052234531 : Tournoi #3457755390, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/08/2022 22:49:26 CET [17/08/2022 16:49:26 ET]
+Table '3457755390 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: obut19 (320 en jetons) 
+Place 3: Crazykoh (270 en jetons) 
+obut19 : met la petite blind. 10
+Crazykoh : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Qc]
+psychoman59 : passe. 
+obut19 : relance. 300 à 320 et est all-in.
+Crazykoh : suit. 250 et est all-in.
+Personne n'a suivi. (50) sont retournés à obut19.
+*** FLOP *** [Td 5h 9c]
+*** TOURNANT *** [Td 5h 9c] [Tc]
+*** RIVIÈRE *** [Td 5h 9c Tc] [2d]
+*** ABATTAGE ***
+obut19 : montre [Ad 8h] (une paire de Dix)
+Crazykoh : montre [Jd Ah] (une paire de Dix - As+Valet kicker)
+Crazykoh a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [Td 5h 9c Tc 2d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : obut19 (petite blind) a montré [Ad 8h] et a perdu avec une paire de Dix
+Siège 3 : Crazykoh (grosse blind) a montré [Jd Ah] et a gagné (540) avec une paire de Dix
+
+
+
+Main PokerStars n°238052241312 : Tournoi #3457755390, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/08/2022 22:49:44 CET [17/08/2022 16:49:44 ET]
+Table '3457755390 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: obut19 (50 en jetons) 
+Place 3: Crazykoh (540 en jetons) 
+Crazykoh : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 4h]
+obut19 : relance. 20 à 50 et est all-in.
+Crazykoh : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à obut19.
+obut19 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : obut19 (bouton) a remporté (75)
+Siège 3 : Crazykoh (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238052244747 : Tournoi #3457755390, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/08/2022 22:49:54 CET [17/08/2022 16:49:54 ET]
+Table '3457755390 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: obut19 (95 en jetons) 
+Place 3: Crazykoh (525 en jetons) 
+psychoman59 : met la petite blind. 15
+obut19 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 6c]
+Crazykoh : relance. 495 à 525 et est all-in.
+psychoman59 : passe. 
+obut19 : suit. 65 et est all-in.
+Personne n'a suivi. (430) sont retournés à Crazykoh.
+*** FLOP *** [2s 6d Jc]
+*** TOURNANT *** [2s 6d Jc] [Ac]
+*** RIVIÈRE *** [2s 6d Jc Ac] [5d]
+*** ABATTAGE ***
+obut19 : montre [4h Kd] (Hauteur As)
+Crazykoh : montre [Th Ad] (une paire de As)
+Crazykoh a remporté 205  lors du pot .
+obut19 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 205 | Commission 0 
+Tableau [2s 6d Jc Ac 5d]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : obut19 (grosse blind) a montré [4h Kd] et a perdu avec Hauteur As
+Siège 3 : Crazykoh (bouton) a montré [Th Ad] et a gagné (205) avec une paire de As
+
+
+
+Main PokerStars n°238052251426 : Tournoi #3457755390, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/08/2022 22:50:11 CET [17/08/2022 16:50:11 ET]
+Table '3457755390 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (265 en jetons) 
+Place 3: Crazykoh (635 en jetons) 
+psychoman59 : met la petite blind. 15
+Crazykoh : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Jd]
+psychoman59 : suit. 15
+Crazykoh : parole 
+*** FLOP *** [2h Tc 7s]
+Crazykoh : parole 
+psychoman59 : mise. 60
+Crazykoh : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2h Tc 7s]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : Crazykoh (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238052256092 : Tournoi #3457755390, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/08/2022 22:50:24 CET [17/08/2022 16:50:24 ET]
+Table '3457755390 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (295 en jetons) 
+Place 3: Crazykoh (605 en jetons) 
+Crazykoh : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Jh]
+Crazykoh : suit. 15
+psychoman59 : parole 
+*** FLOP *** [7c 7s 4c]
+psychoman59 : parole 
+Crazykoh : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [7c 7s 4c] [Ah]
+psychoman59 : parole 
+Crazykoh : mise. 90
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à Crazykoh.
+Crazykoh a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7c 7s 4c Ah]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : Crazykoh (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°238052263882 : Tournoi #3457755390, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/08/2022 22:50:45 CET [17/08/2022 16:50:45 ET]
+Table '3457755390 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (235 en jetons) 
+Place 3: Crazykoh (665 en jetons) 
+psychoman59 : met la petite blind. 20
+Crazykoh : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Qh]
+psychoman59 : relance. 195 à 235 et est all-in.
+Crazykoh : passe. 
+Personne n'a suivi. (195) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : Crazykoh (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238052266727 : Tournoi #3457755390, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/08/2022 22:50:52 CET [17/08/2022 16:50:52 ET]
+Table '3457755390 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (275 en jetons) 
+Place 3: Crazykoh (625 en jetons) 
+Crazykoh : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 9c]
+Crazykoh : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Crazykoh.
+Crazykoh a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Crazykoh (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°238052269317 : Tournoi #3457755390, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/08/2022 22:50:59 CET [17/08/2022 16:50:59 ET]
+Table '3457755390 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (235 en jetons) 
+Place 3: Crazykoh (665 en jetons) 
+psychoman59 : met la petite blind. 20
+Crazykoh : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Crazykoh.
+Crazykoh a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Crazykoh (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238052271011 : Tournoi #3457755390, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/08/2022 22:51:04 CET [17/08/2022 16:51:04 ET]
+Table '3457755390 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (215 en jetons) 
+Place 3: Crazykoh (685 en jetons) 
+Crazykoh : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Tc]
+Crazykoh : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : Crazykoh (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238052272626 : Tournoi #3457755390, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/08/2022 22:51:08 CET [17/08/2022 16:51:08 ET]
+Table '3457755390 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (235 en jetons) 
+Place 3: Crazykoh (665 en jetons) 
+psychoman59 : met la petite blind. 20
+Crazykoh : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 7c]
+psychoman59 : relance. 195 à 235 et est all-in.
+Crazykoh : suit. 195
+*** FLOP *** [4d Jd 6h]
+*** TOURNANT *** [4d Jd 6h] [5c]
+*** RIVIÈRE *** [4d Jd 6h 5c] [2h]
+*** ABATTAGE ***
+Crazykoh : montre [Kh Ts] (Hauteur Roi)
+psychoman59 : montre [7h 7c] (une paire de Sept)
+psychoman59 a remporté 470  lors du pot .
+*** SYNTHÈSE ***
+Pot total 470 | Commission 0 
+Tableau [4d Jd 6h 5c 2h]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [7h 7c] et a gagné (470) avec une paire de Sept
+Siège 3 : Crazykoh (grosse blind) a montré [Kh Ts] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°238052277892 : Tournoi #3457755390, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/08/2022 22:51:22 CET [17/08/2022 16:51:22 ET]
+Table '3457755390 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (470 en jetons) 
+Place 3: Crazykoh (430 en jetons) 
+Crazykoh : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 7c]
+Crazykoh : relance. 390 à 430 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (390) sont retournés à Crazykoh.
+Crazykoh a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Crazykoh (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°238052281595 : Tournoi #3457755390, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/08/2022 22:51:32 CET [17/08/2022 16:51:32 ET]
+Table '3457755390 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 3: Crazykoh (470 en jetons) 
+psychoman59 : met la petite blind. 30
+Crazykoh : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 3c]
+psychoman59 : relance. 370 à 430 et est all-in.
+Crazykoh : suit. 370
+*** FLOP *** [Ad Ah Qd]
+*** TOURNANT *** [Ad Ah Qd] [7d]
+*** RIVIÈRE *** [Ad Ah Qd 7d] [9h]
+*** ABATTAGE ***
+Crazykoh : montre [2s 2h] (double paire, As et Deux)
+psychoman59 : montre [Qs 3c] (double paire, As et Dames)
+psychoman59 a remporté 860  lors du pot .
+*** SYNTHÈSE ***
+Pot total 860 | Commission 0 
+Tableau [Ad Ah Qd 7d 9h]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Qs 3c] et a gagné (860) avec double paire, As et Dames
+Siège 3 : Crazykoh (grosse blind) a montré [2s 2h] et a perdu avec double paire, As et Deux
+
+
+
+Main PokerStars n°238052286841 : Tournoi #3457755390, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/08/2022 22:51:46 CET [17/08/2022 16:51:46 ET]
+Table '3457755390 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (860 en jetons) 
+Place 3: Crazykoh (40 en jetons) 
+Crazykoh : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8s]
+Crazykoh : suit. 10 et est all-in.
+Personne n'a suivi. (20) sont retournés à psychoman59.
+*** FLOP *** [7s Kc Th]
+*** TOURNANT *** [7s Kc Th] [5h]
+*** RIVIÈRE *** [7s Kc Th 5h] [Td]
+*** ABATTAGE ***
+psychoman59 : montre [7h 8s] (double paire, Dix et Sept)
+Crazykoh : montre [2d 5d] (double paire, Dix et Cinq)
+psychoman59 a remporté 80  lors du pot .
+Crazykoh a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [7s Kc Th 5h Td]
+Siège 1 : psychoman59 (grosse blind) a montré [7h 8s] et a gagné (80) avec double paire, Dix et Sept
+Siège 3 : Crazykoh (bouton) (petite blind) a montré [2d 5d] et a perdu avec double paire, Dix et Cinq
+
+
+

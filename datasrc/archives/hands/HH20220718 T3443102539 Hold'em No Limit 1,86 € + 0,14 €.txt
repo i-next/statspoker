@@ -1,0 +1,167 @@
+﻿Main PokerStars n°237429378552 : Tournoi #3443102539, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 8:03:13 CET [18/07/2022 2:03:13 ET]
+Table '3443102539 1' 3-max Siège #1 est au bouton.
+Place 1: Aleex RO (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: steff280278 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+steff280278 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 2s]
+Aleex RO : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à steff280278.
+steff280278 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Aleex RO (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : steff280278 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237429379300 : Tournoi #3443102539, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 8:03:21 CET [18/07/2022 2:03:21 ET]
+Table '3443102539 1' 3-max Siège #2 est au bouton.
+Place 1: Aleex RO (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: steff280278 (310 en jetons) 
+steff280278 : met la petite blind. 10
+Aleex RO : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 3d]
+psychoman59 : passe. 
+steff280278 : passe. 
+Personne n'a suivi. (10) sont retournés à Aleex RO.
+Aleex RO a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Aleex RO (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : steff280278 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237429380482 : Tournoi #3443102539, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 8:03:34 CET [18/07/2022 2:03:34 ET]
+Table '3443102539 1' 3-max Siège #3 est au bouton.
+Place 1: Aleex RO (310 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: steff280278 (300 en jetons) 
+Aleex RO : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 8s]
+steff280278 : passe. 
+Aleex RO : relance. 290 à 310 et est all-in.
+psychoman59 : suit. 270 et est all-in.
+Personne n'a suivi. (20) sont retournés à Aleex RO.
+*** FLOP *** [Qh 7s 8c]
+*** TOURNANT *** [Qh 7s 8c] [6c]
+*** RIVIÈRE *** [Qh 7s 8c 6c] [2d]
+*** ABATTAGE ***
+Aleex RO : montre [5h 5d] (une paire de Cinq)
+psychoman59 : montre [8d 8s] (un brelan de Huit)
+psychoman59 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [Qh 7s 8c 6c 2d]
+Siège 1 : Aleex RO (petite blind) a montré [5h 5d] et a perdu avec une paire de Cinq
+Siège 2 : psychoman59 (grosse blind) a montré [8d 8s] et a gagné (580) avec un brelan de Huit
+Siège 3 : steff280278 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237429382389 : Tournoi #3443102539, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 8:03:54 CET [18/07/2022 2:03:54 ET]
+Table '3443102539 1' 3-max Siège #1 est au bouton.
+Place 1: Aleex RO (20 en jetons) 
+Place 2: psychoman59 (580 en jetons) 
+Place 3: steff280278 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+steff280278 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 6d]
+Aleex RO : suit. 20 et est all-in.
+psychoman59 : suit. 10
+steff280278 : parole 
+*** FLOP *** [As 9d 6c]
+psychoman59 : parole 
+steff280278 : parole 
+*** TOURNANT *** [As 9d 6c] [Kd]
+psychoman59 : mise. 20
+steff280278 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+*** RIVIÈRE *** [As 9d 6c Kd] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [Ks 6d] (double paire, Rois et Neuf)
+Aleex RO : montre [8h 8d] (double paire, Neuf et Huit)
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [As 9d 6c Kd 9c]
+Siège 1 : Aleex RO (bouton) a montré [8h 8d] et a perdu avec double paire, Neuf et Huit
+Siège 2 : psychoman59 (petite blind) a montré [Ks 6d] et a gagné (60) avec double paire, Rois et Neuf
+Siège 3 : steff280278 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237429384476 : Tournoi #3443102539, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 8:04:15 CET [18/07/2022 2:04:15 ET]
+Table '3443102539 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (620 en jetons) 
+Place 3: steff280278 (280 en jetons) 
+steff280278 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Ts]
+steff280278 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+Siège 3 : steff280278 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237429385189 : Tournoi #3443102539, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 18/07/2022 8:04:23 CET [18/07/2022 2:04:23 ET]
+Table '3443102539 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (630 en jetons) 
+Place 3: steff280278 (270 en jetons) 
+psychoman59 : met la petite blind. 15
+steff280278 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à steff280278.
+steff280278 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : steff280278 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237429385670 : Tournoi #3443102539, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 18/07/2022 8:04:28 CET [18/07/2022 2:04:28 ET]
+Table '3443102539 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (615 en jetons) 
+Place 3: steff280278 (285 en jetons) 
+steff280278 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 6c]
+steff280278 : relance. 30 à 60
+psychoman59 : relance. 120 à 180
+steff280278 : relance. 105 à 285 et est all-in.
+psychoman59 : suit. 105
+*** FLOP *** [7h 3d Ks]
+*** TOURNANT *** [7h 3d Ks] [2d]
+*** RIVIÈRE *** [7h 3d Ks 2d] [5c]
+*** ABATTAGE ***
+psychoman59 : montre [As 6c] (Hauteur As)
+steff280278 : montre [9h 8h] (Hauteur Roi)
+psychoman59 a remporté 570  lors du pot .
+*** SYNTHÈSE ***
+Pot total 570 | Commission 0 
+Tableau [7h 3d Ks 2d 5c]
+Siège 2 : psychoman59 (grosse blind) a montré [As 6c] et a gagné (570) avec Hauteur As
+Siège 3 : steff280278 (bouton) (petite blind) a montré [9h 8h] et a perdu avec Hauteur Roi
+
+
+

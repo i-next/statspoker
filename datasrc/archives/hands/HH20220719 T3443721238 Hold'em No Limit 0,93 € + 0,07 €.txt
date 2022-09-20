@@ -1,0 +1,388 @@
+﻿Main PokerStars n°237455676961 : Tournoi #3443721238, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 17:11:53 CET [19/07/2022 11:11:53 ET]
+Table '3443721238 1' 3-max Siège #1 est au bouton.
+Place 1: maoz946 (300 en jetons) 
+Place 2: lili38130 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+lili38130 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 6d]
+maoz946 : relance. 50 à 70
+lili38130 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à maoz946.
+maoz946 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : maoz946 (bouton) a remporté (50)
+Siège 2 : lili38130 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237455681222 : Tournoi #3443721238, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 17:12:08 CET [19/07/2022 11:12:08 ET]
+Table '3443721238 1' 3-max Siège #2 est au bouton.
+Place 1: maoz946 (330 en jetons) 
+Place 2: lili38130 (290 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+maoz946 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 9h]
+lili38130 : suit. 20
+psychoman59 : passe. 
+maoz946 : parole 
+*** FLOP *** [9s As Qh]
+maoz946 : parole 
+lili38130 : parole 
+*** TOURNANT *** [9s As Qh] [5d]
+maoz946 : parole 
+lili38130 : mise. 20
+maoz946 : suit. 20
+*** RIVIÈRE *** [9s As Qh 5d] [Ac]
+maoz946 : parole 
+lili38130 : mise. 20
+maoz946 : passe. 
+Personne n'a suivi. (20) sont retournés à lili38130.
+lili38130 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [9s As Qh 5d Ac]
+Siège 1 : maoz946 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : lili38130 (bouton) a remporté (90)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237455691918 : Tournoi #3443721238, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 17:12:46 CET [19/07/2022 11:12:46 ET]
+Table '3443721238 1' 3-max Siège #3 est au bouton.
+Place 1: maoz946 (290 en jetons) 
+Place 2: lili38130 (340 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+maoz946 : met la petite blind. 10
+lili38130 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 8s]
+psychoman59 : relance. 50 à 70
+maoz946 : suit. 60
+lili38130 : passe. 
+*** FLOP *** [Js 5d Kd]
+maoz946 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Js 5d Kd] [3d]
+maoz946 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Js 5d Kd 3d] [3c]
+maoz946 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+maoz946 : montre [6s Ad] (une paire de Trois)
+psychoman59 : montre [Ac 8s] (une paire de Trois)
+maoz946 a remporté 80  lors du pot .
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Js 5d Kd 3d 3c]
+Siège 1 : maoz946 (petite blind) a montré [6s Ad] et a gagné (80) avec une paire de Trois
+Siège 2 : lili38130 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [Ac 8s] et a gagné (80) avec une paire de Trois
+
+
+
+Main PokerStars n°237455702317 : Tournoi #3443721238, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 17:13:22 CET [19/07/2022 11:13:22 ET]
+Table '3443721238 1' 3-max Siège #1 est au bouton.
+Place 1: maoz946 (300 en jetons) 
+Place 2: lili38130 (320 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+lili38130 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 3s]
+maoz946 : suit. 30
+lili38130 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ad As Ac]
+lili38130 : parole 
+psychoman59 : parole 
+maoz946 : parole 
+*** TOURNANT *** [Ad As Ac] [Qd]
+lili38130 : mise. 30
+psychoman59 : passe. 
+maoz946 : suit. 30
+*** RIVIÈRE *** [Ad As Ac Qd] [3d]
+lili38130 : mise. 30
+maoz946 : suit. 30
+*** ABATTAGE ***
+lili38130 : montre [Qh 9h] (un full, full aux As par les Dames)
+maoz946 : cache la main perdante. 
+lili38130 a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Tableau [Ad As Ac Qd 3d]
+Siège 1 : maoz946 (bouton) a caché la main perdante. [Kd 4d]
+Siège 2 : lili38130 (petite blind) a montré [Qh 9h] et a gagné (210) avec un full, full aux As par les Dames
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237455718803 : Tournoi #3443721238, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 17:14:20 CET [19/07/2022 11:14:20 ET]
+Table '3443721238 1' 3-max Siège #2 est au bouton.
+Place 1: maoz946 (210 en jetons) 
+Place 2: lili38130 (440 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+psychoman59 : met la petite blind. 20
+maoz946 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 2c]
+lili38130 : suit. 40
+psychoman59 : passe. 
+maoz946 : relance. 170 à 210 et est all-in.
+lili38130 : passe. 
+Personne n'a suivi. (170) sont retournés à maoz946.
+maoz946 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : maoz946 (grosse blind) a remporté (100)
+Siège 2 : lili38130 (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237455724306 : Tournoi #3443721238, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 17:14:38 CET [19/07/2022 11:14:38 ET]
+Table '3443721238 1' 3-max Siège #3 est au bouton.
+Place 1: maoz946 (270 en jetons) 
+Place 2: lili38130 (400 en jetons) 
+Place 3: psychoman59 (230 en jetons) 
+maoz946 : met la petite blind. 20
+lili38130 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Kh]
+psychoman59 : passe. 
+maoz946 : passe. 
+Personne n'a suivi. (20) sont retournés à lili38130.
+lili38130 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : maoz946 (petite blind) s'est couché. avant Flop
+Siège 2 : lili38130 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237455727522 : Tournoi #3443721238, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 17:14:50 CET [19/07/2022 11:14:50 ET]
+Table '3443721238 1' 3-max Siège #1 est au bouton.
+Place 1: maoz946 (250 en jetons) 
+Place 2: lili38130 (420 en jetons) 
+Place 3: psychoman59 (230 en jetons) 
+lili38130 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 2s]
+maoz946 : passe. 
+lili38130 : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à lili38130.
+lili38130 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : maoz946 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : lili38130 (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237455733162 : Tournoi #3443721238, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 17:15:10 CET [19/07/2022 11:15:10 ET]
+Table '3443721238 1' 3-max Siège #2 est au bouton.
+Place 1: maoz946 (250 en jetons) 
+Place 2: lili38130 (460 en jetons) 
+Place 3: psychoman59 (190 en jetons) 
+psychoman59 : met la petite blind. 30
+maoz946 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 2c]
+lili38130 : relance. 60 à 120
+psychoman59 : passe. 
+maoz946 : passe. 
+Personne n'a suivi. (60) sont retournés à lili38130.
+lili38130 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : maoz946 (grosse blind) s'est couché. avant Flop
+Siège 2 : lili38130 (bouton) a remporté (150)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237455737198 : Tournoi #3443721238, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 17:15:24 CET [19/07/2022 11:15:24 ET]
+Table '3443721238 1' 3-max Siège #3 est au bouton.
+Place 1: maoz946 (190 en jetons) 
+Place 2: lili38130 (550 en jetons) 
+Place 3: psychoman59 (160 en jetons) 
+maoz946 : met la petite blind. 30
+lili38130 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Qc]
+psychoman59 : passe. 
+maoz946 : relance. 130 à 190 et est all-in.
+lili38130 : passe. 
+Personne n'a suivi. (130) sont retournés à maoz946.
+maoz946 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : maoz946 (petite blind) a remporté (120)
+Siège 2 : lili38130 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237455744082 : Tournoi #3443721238, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 17:15:48 CET [19/07/2022 11:15:48 ET]
+Table '3443721238 1' 3-max Siège #1 est au bouton.
+Place 1: maoz946 (250 en jetons) 
+Place 2: lili38130 (490 en jetons) 
+Place 3: psychoman59 (160 en jetons) 
+lili38130 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 3d]
+maoz946 : passe. 
+lili38130 : suit. 30
+psychoman59 : relance. 100 à 160 et est all-in.
+lili38130 : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : maoz946 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : lili38130 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°237455748954 : Tournoi #3443721238, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 19/07/2022 17:16:05 CET [19/07/2022 11:16:05 ET]
+Table '3443721238 1' 3-max Siège #2 est au bouton.
+Place 1: maoz946 (250 en jetons) 
+Place 2: lili38130 (430 en jetons) 
+Place 3: psychoman59 (220 en jetons) 
+psychoman59 : met la petite blind. 40
+maoz946 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ad]
+lili38130 : passe. 
+psychoman59 : relance. 140 à 220 et est all-in.
+maoz946 : suit. 140
+*** FLOP *** [6c 7h 8d]
+*** TOURNANT *** [6c 7h 8d] [3s]
+*** RIVIÈRE *** [6c 7h 8d 3s] [4s]
+*** ABATTAGE ***
+psychoman59 : montre [6s Ad] (une paire de Six)
+maoz946 : montre [Kc 9s] (Hauteur Roi)
+psychoman59 a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [6c 7h 8d 3s 4s]
+Siège 1 : maoz946 (grosse blind) a montré [Kc 9s] et a perdu avec Hauteur Roi
+Siège 2 : lili38130 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [6s Ad] et a gagné (440) avec une paire de Six
+
+
+
+Main PokerStars n°237455753677 : Tournoi #3443721238, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 19/07/2022 17:16:21 CET [19/07/2022 11:16:21 ET]
+Table '3443721238 1' 3-max Siège #3 est au bouton.
+Place 1: maoz946 (30 en jetons) 
+Place 2: lili38130 (430 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+maoz946 : met la petite blind. 30 et est all-in.
+lili38130 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à lili38130.
+*** FLOP *** [Js 2d Ts]
+*** TOURNANT *** [Js 2d Ts] [Qd]
+*** RIVIÈRE *** [Js 2d Ts Qd] [5c]
+*** ABATTAGE ***
+maoz946 : montre [6h 7h] (Hauteur Dame)
+lili38130 : montre [Ad 9d] (Hauteur As)
+lili38130 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Js 2d Ts Qd 5c]
+Siège 1 : maoz946 (petite blind) a montré [6h 7h] et a perdu avec Hauteur Dame
+Siège 2 : lili38130 (grosse blind) a montré [Ad 9d] et a gagné (60) avec Hauteur As
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237455758057 : Tournoi #3443721238, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 19/07/2022 17:16:37 CET [19/07/2022 11:16:37 ET]
+Table '3443721238 1' 3-max Siège #2 est au bouton.
+Place 2: lili38130 (460 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+lili38130 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Kc]
+lili38130 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [2c Js Kh]
+psychoman59 : parole 
+lili38130 : parole 
+*** TOURNANT *** [2c Js Kh] [4h]
+psychoman59 : mise. 80
+lili38130 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [2c Js Kh 4h]
+Siège 2 : lili38130 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°237455765077 : Tournoi #3443721238, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 19/07/2022 17:17:02 CET [19/07/2022 11:17:02 ET]
+Table '3443721238 1' 3-max Siège #3 est au bouton.
+Place 2: lili38130 (380 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+psychoman59 : met la petite blind. 50
+lili38130 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 9c]
+psychoman59 : relance. 100 à 200
+lili38130 : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 2 : lili38130 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (200)
+
+
+
+Main PokerStars n°237455769308 : Tournoi #3443721238, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 19/07/2022 17:17:17 CET [19/07/2022 11:17:17 ET]
+Table '3443721238 1' 3-max Siège #2 est au bouton.
+Place 2: lili38130 (280 en jetons) 
+Place 3: psychoman59 (620 en jetons) 
+lili38130 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qd]
+lili38130 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [4c Qs 8d]
+psychoman59 : parole 
+lili38130 : mise. 180 et est all-in.
+psychoman59 : suit. 180
+*** TOURNANT *** [4c Qs 8d] [Qc]
+*** RIVIÈRE *** [4c Qs 8d Qc] [Ts]
+*** ABATTAGE ***
+psychoman59 : montre [8h Qd] (un full, full aux Dames par les Huit)
+lili38130 : montre [2s Kd] (une paire de Dames)
+psychoman59 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [4c Qs 8d Qc Ts]
+Siège 2 : lili38130 (bouton) (petite blind) a montré [2s Kd] et a perdu avec une paire de Dames
+Siège 3 : psychoman59 (grosse blind) a montré [8h Qd] et a gagné (560) avec un full, full aux Dames par les Huit
+
+
+

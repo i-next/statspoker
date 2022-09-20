@@ -1,0 +1,930 @@
+﻿Main PokerStars n°237740618098 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 13:53:42 CET [02/08/2022 7:53:42 ET]
+Table '3450298371 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 2: PAMBO60370 (5000 en jetons) 
+Place 3: x@ro (5000 en jetons) 
+Place 4: huelinjoy (5000 en jetons) 
+psychoman59 : met l'ante. 10
+PAMBO60370 : met l'ante. 10
+x@ro : met l'ante. 10
+huelinjoy : met l'ante. 10
+PAMBO60370 : met la petite blind. 50
+x@ro : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2d]
+huelinjoy : passe. 
+psychoman59 : passe. 
+PAMBO60370 : passe. 
+Personne n'a suivi. (50) sont retournés à x@ro.
+x@ro a remporté 140  lors du pot .
+x@ro : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PAMBO60370 (petite blind) s'est couché. avant Flop
+Siège 3 : x@ro (grosse blind) a remporté (140)
+Siège 4 : huelinjoy s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237740623454 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 13:54:10 CET [02/08/2022 7:54:10 ET]
+Table '3450298371 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4990 en jetons) 
+Place 2: PAMBO60370 (4940 en jetons) 
+Place 3: x@ro (5080 en jetons) 
+Place 4: huelinjoy (4990 en jetons) 
+psychoman59 : met l'ante. 10
+PAMBO60370 : met l'ante. 10
+x@ro : met l'ante. 10
+huelinjoy : met l'ante. 10
+x@ro : met la petite blind. 50
+huelinjoy : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 4c]
+psychoman59 : passe. 
+PAMBO60370 : passe. 
+x@ro : passe. 
+Personne n'a suivi. (50) sont retournés à huelinjoy.
+huelinjoy a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PAMBO60370 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : x@ro (petite blind) s'est couché. avant Flop
+Siège 4 : huelinjoy (grosse blind) a remporté (140)
+
+
+
+Main PokerStars n°237740625490 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 13:54:21 CET [02/08/2022 7:54:21 ET]
+Table '3450298371 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4980 en jetons) 
+Place 2: PAMBO60370 (4930 en jetons) 
+Place 3: x@ro (5020 en jetons) 
+Place 4: huelinjoy (5070 en jetons) 
+psychoman59 : met l'ante. 10
+PAMBO60370 : met l'ante. 10
+x@ro : met l'ante. 10
+huelinjoy : met l'ante. 10
+huelinjoy : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 6c]
+PAMBO60370 : relance. 200 à 300
+x@ro : passe. 
+huelinjoy : suit. 250
+psychoman59 : passe. 
+*** FLOP *** [9c 4s 8d]
+huelinjoy : parole 
+PAMBO60370 : mise. 493
+huelinjoy : passe. 
+Personne n'a suivi. (493) sont retournés à PAMBO60370.
+PAMBO60370 a remporté 740  lors du pot .
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Tableau [9c 4s 8d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : PAMBO60370 a remporté (740)
+Siège 3 : x@ro (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : huelinjoy (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237740632258 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 13:54:55 CET [02/08/2022 7:54:55 ET]
+Table '3450298371 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4870 en jetons) 
+Place 2: PAMBO60370 (5360 en jetons) 
+Place 3: x@ro (5010 en jetons) 
+Place 4: huelinjoy (4760 en jetons) 
+psychoman59 : met l'ante. 10
+PAMBO60370 : met l'ante. 10
+x@ro : met l'ante. 10
+huelinjoy : met l'ante. 10
+psychoman59 : met la petite blind. 50
+PAMBO60370 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Kd]
+x@ro : passe. 
+huelinjoy : passe. 
+psychoman59 : suit. 50
+PAMBO60370 : parole 
+*** FLOP *** [Td 9s Ah]
+psychoman59 : parole 
+PAMBO60370 : mise. 160
+psychoman59 : suit. 160
+*** TOURNANT *** [Td 9s Ah] [2c]
+psychoman59 : parole 
+PAMBO60370 : mise. 373
+psychoman59 : passe. 
+Personne n'a suivi. (373) sont retournés à PAMBO60370.
+PAMBO60370 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Td 9s Ah 2c]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 2 : PAMBO60370 (grosse blind) a remporté (560)
+Siège 3 : x@ro s'est couché. avant Flop (n'a pas misé)
+Siège 4 : huelinjoy (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237740643951 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 13:55:36 CET [02/08/2022 7:55:36 ET]
+Table '3450298371 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4600 en jetons) 
+Place 2: PAMBO60370 (5650 en jetons) 
+Place 3: x@ro (5000 en jetons) 
+Place 4: huelinjoy (4750 en jetons) 
+psychoman59 : met l'ante. 10
+PAMBO60370 : met l'ante. 10
+x@ro : met l'ante. 10
+huelinjoy : met l'ante. 10
+PAMBO60370 : met la petite blind. 50
+x@ro : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 3h]
+huelinjoy : passe. 
+psychoman59 : passe. 
+PAMBO60370 : relance. 200 à 300
+x@ro : suit. 200
+*** FLOP *** [9c 3s 6c]
+PAMBO60370 : parole 
+x@ro : parole 
+*** TOURNANT *** [9c 3s 6c] [5c]
+PAMBO60370 : mise. 320
+x@ro : passe. 
+Personne n'a suivi. (320) sont retournés à PAMBO60370.
+PAMBO60370 a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [9c 3s 6c 5c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PAMBO60370 (petite blind) a remporté (640)
+Siège 3 : x@ro (grosse blind) s'est couché. sur le Tournant
+Siège 4 : huelinjoy s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237740649866 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 13:56:11 CET [02/08/2022 7:56:11 ET]
+Table '3450298371 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4590 en jetons) 
+Place 2: PAMBO60370 (5980 en jetons) 
+Place 3: x@ro (4690 en jetons) 
+Place 4: huelinjoy (4740 en jetons) 
+psychoman59 : met l'ante. 10
+PAMBO60370 : met l'ante. 10
+x@ro : met l'ante. 10
+huelinjoy : met l'ante. 10
+x@ro : met la petite blind. 50
+huelinjoy : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 9s]
+psychoman59 : passe. 
+PAMBO60370 : passe. 
+x@ro : suit. 50
+huelinjoy : parole 
+*** FLOP *** [Jc Kh 2s]
+x@ro : parole 
+huelinjoy : parole 
+*** TOURNANT *** [Jc Kh 2s] [4d]
+x@ro : parole 
+huelinjoy : parole 
+*** RIVIÈRE *** [Jc Kh 2s 4d] [6c]
+x@ro : parole 
+huelinjoy : parole 
+*** ABATTAGE ***
+x@ro : montre [Qc 3c] (Hauteur Roi)
+huelinjoy : montre [5s 6h] (une paire de Six)
+huelinjoy a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Jc Kh 2s 4d 6c]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PAMBO60370 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : x@ro (petite blind) a montré [Qc 3c] et a perdu avec Hauteur Roi
+Siège 4 : huelinjoy (grosse blind) a montré [5s 6h] et a gagné (240) avec une paire de Six
+
+
+
+Main PokerStars n°237740663312 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 02/08/2022 13:57:28 CET [02/08/2022 7:57:28 ET]
+Table '3450298371 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4580 en jetons) 
+Place 2: PAMBO60370 (5970 en jetons) 
+Place 3: x@ro (4580 en jetons) 
+Place 4: huelinjoy (4870 en jetons) 
+psychoman59 : met l'ante. 15
+PAMBO60370 : met l'ante. 15
+x@ro : met l'ante. 15
+huelinjoy : met l'ante. 15
+huelinjoy : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 2c]
+PAMBO60370 : passe. 
+x@ro : relance. 240 à 360
+huelinjoy : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (240) sont retournés à x@ro.
+x@ro a remporté 360  lors du pot .
+x@ro : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : PAMBO60370 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : x@ro (bouton) a remporté (360)
+Siège 4 : huelinjoy (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237740670446 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 02/08/2022 13:57:56 CET [02/08/2022 7:57:56 ET]
+Table '3450298371 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4445 en jetons) 
+Place 2: PAMBO60370 (5955 en jetons) 
+Place 3: x@ro (4805 en jetons) 
+Place 4: huelinjoy (4795 en jetons) 
+psychoman59 : met l'ante. 15
+PAMBO60370 : met l'ante. 15
+x@ro : met l'ante. 15
+huelinjoy : met l'ante. 15
+psychoman59 : met la petite blind. 60
+PAMBO60370 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 9c]
+x@ro : relance. 240 à 360
+huelinjoy : suit. 360
+psychoman59 : passe. 
+PAMBO60370 : suit. 240
+*** FLOP *** [5s Ad Ah]
+PAMBO60370 : parole 
+x@ro : mise. 600
+huelinjoy : passe. 
+PAMBO60370 : passe. 
+Personne n'a suivi. (600) sont retournés à x@ro.
+x@ro a remporté 1200  lors du pot .
+x@ro : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1200 | Commission 0 
+Tableau [5s Ad Ah]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : PAMBO60370 (grosse blind) s'est couché. sur le Flop
+Siège 3 : x@ro a remporté (1200)
+Siège 4 : huelinjoy (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237740676869 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 02/08/2022 13:58:33 CET [02/08/2022 7:58:33 ET]
+Table '3450298371 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4370 en jetons) 
+Place 2: PAMBO60370 (5580 en jetons) 
+Place 3: x@ro (5630 en jetons) 
+Place 4: huelinjoy (4420 en jetons) 
+psychoman59 : met l'ante. 15
+PAMBO60370 : met l'ante. 15
+x@ro : met l'ante. 15
+huelinjoy : met l'ante. 15
+PAMBO60370 : met la petite blind. 60
+x@ro : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Qc]
+huelinjoy : suit. 120
+psychoman59 : relance. 600 à 720
+PAMBO60370 : passe. 
+x@ro : passe. 
+huelinjoy : passe. 
+Personne n'a suivi. (600) sont retournés à psychoman59.
+psychoman59 a remporté 480  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (480)
+Siège 2 : PAMBO60370 (petite blind) s'est couché. avant Flop
+Siège 3 : x@ro (grosse blind) s'est couché. avant Flop
+Siège 4 : huelinjoy s'est couché. avant Flop
+
+
+
+Main PokerStars n°237740680482 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 02/08/2022 13:58:54 CET [02/08/2022 7:58:54 ET]
+Table '3450298371 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4715 en jetons) 
+Place 2: PAMBO60370 (5505 en jetons) 
+Place 3: x@ro (5495 en jetons) 
+Place 4: huelinjoy (4285 en jetons) 
+psychoman59 : met l'ante. 15
+PAMBO60370 : met l'ante. 15
+x@ro : met l'ante. 15
+huelinjoy : met l'ante. 15
+x@ro : met la petite blind. 60
+huelinjoy : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Th]
+psychoman59 : passe. 
+PAMBO60370 : relance. 240 à 360
+x@ro : passe. 
+huelinjoy : suit. 240
+*** FLOP *** [6d 2h 4c]
+huelinjoy : parole 
+PAMBO60370 : parole 
+*** TOURNANT *** [6d 2h 4c] [Qd]
+huelinjoy : parole 
+PAMBO60370 : mise. 420
+huelinjoy : passe. 
+Personne n'a suivi. (420) sont retournés à PAMBO60370.
+PAMBO60370 a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [6d 2h 4c Qd]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PAMBO60370 (bouton) a remporté (840)
+Siège 3 : x@ro (petite blind) s'est couché. avant Flop
+Siège 4 : huelinjoy (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237740685526 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 02/08/2022 13:59:23 CET [02/08/2022 7:59:23 ET]
+Table '3450298371 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4700 en jetons) 
+Place 2: PAMBO60370 (5970 en jetons) 
+Place 3: x@ro (5420 en jetons) 
+Place 4: huelinjoy (3910 en jetons) 
+psychoman59 : met l'ante. 15
+PAMBO60370 : met l'ante. 15
+x@ro : met l'ante. 15
+huelinjoy : met l'ante. 15
+huelinjoy : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 6c]
+PAMBO60370 : passe. 
+x@ro : relance. 240 à 360
+huelinjoy : suit. 300
+psychoman59 : suit. 240
+*** FLOP *** [Kd Td 6h]
+huelinjoy : parole 
+psychoman59 : parole 
+x@ro : parole 
+*** TOURNANT *** [Kd Td 6h] [7d]
+huelinjoy : parole 
+psychoman59 : parole 
+x@ro : parole 
+*** RIVIÈRE *** [Kd Td 6h 7d] [3h]
+huelinjoy : parole 
+psychoman59 : parole 
+x@ro : parole 
+*** ABATTAGE ***
+huelinjoy : montre [2c 2h] (une paire de Deux)
+psychoman59 : montre [5c 6c] (une paire de Six)
+x@ro : cache la main perdante. 
+psychoman59 a remporté 1140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1140 | Commission 0 
+Tableau [Kd Td 6h 7d 3h]
+Siège 1 : psychoman59 (grosse blind) a montré [5c 6c] et a gagné (1140) avec une paire de Six
+Siège 2 : PAMBO60370 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : x@ro (bouton) a caché la main perdante. [Ad Jh]
+Siège 4 : huelinjoy (petite blind) a montré [2c 2h] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°237740694921 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 02/08/2022 14:00:18 CET [02/08/2022 8:00:18 ET]
+Table '3450298371 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (5465 en jetons) 
+Place 2: PAMBO60370 (5955 en jetons) 
+Place 3: x@ro (5045 en jetons) 
+Place 4: huelinjoy (3535 en jetons) 
+psychoman59 : met l'ante. 20
+PAMBO60370 : met l'ante. 20
+x@ro : met l'ante. 20
+huelinjoy : met l'ante. 20
+psychoman59 : met la petite blind. 75
+PAMBO60370 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 2d]
+x@ro : passe. 
+x@ro ne joue pas.
+x@ro est revenu.
+huelinjoy : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à PAMBO60370.
+PAMBO60370 a remporté 230  lors du pot .
+*** SYNTHÈSE ***
+Pot total 230 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : PAMBO60370 (grosse blind) a remporté (230)
+Siège 3 : x@ro s'est couché. avant Flop (n'a pas misé)
+Siège 4 : huelinjoy (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237740699072 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 02/08/2022 14:00:41 CET [02/08/2022 8:00:41 ET]
+Table '3450298371 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5370 en jetons) 
+Place 2: PAMBO60370 (6090 en jetons) 
+Place 3: x@ro (5025 en jetons) 
+Place 4: huelinjoy (3515 en jetons) 
+psychoman59 : met l'ante. 20
+PAMBO60370 : met l'ante. 20
+x@ro : met l'ante. 20
+huelinjoy : met l'ante. 20
+PAMBO60370 : met la petite blind. 75
+x@ro : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ts]
+huelinjoy : relance. 300 à 450
+psychoman59 : passe. 
+PAMBO60370 : passe. 
+x@ro : passe. 
+Personne n'a suivi. (300) sont retournés à huelinjoy.
+huelinjoy a remporté 455  lors du pot .
+*** SYNTHÈSE ***
+Pot total 455 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PAMBO60370 (petite blind) s'est couché. avant Flop
+Siège 3 : x@ro (grosse blind) s'est couché. avant Flop
+Siège 4 : huelinjoy a remporté (455)
+
+
+
+Main PokerStars n°237740706034 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 02/08/2022 14:01:17 CET [02/08/2022 8:01:17 ET]
+Table '3450298371 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (5350 en jetons) 
+Place 2: PAMBO60370 (5995 en jetons) 
+Place 3: x@ro (4855 en jetons) 
+Place 4: huelinjoy (3800 en jetons) 
+psychoman59 : met l'ante. 20
+PAMBO60370 : met l'ante. 20
+x@ro : met l'ante. 20
+huelinjoy : met l'ante. 20
+x@ro : met la petite blind. 75
+huelinjoy : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 3h]
+psychoman59 : passe. 
+PAMBO60370 : passe. 
+x@ro : suit. 75
+huelinjoy : parole 
+*** FLOP *** [Qs 5d Ah]
+x@ro : parole 
+huelinjoy : parole 
+*** TOURNANT *** [Qs 5d Ah] [3s]
+x@ro est déconnecté 
+x@ro est connecté 
+x@ro est connecté 
+x@ro : parole 
+huelinjoy : parole 
+*** RIVIÈRE *** [Qs 5d Ah 3s] [2c]
+x@ro : parole 
+huelinjoy : mise. 380
+x@ro : passe. 
+Personne n'a suivi. (380) sont retournés à huelinjoy.
+huelinjoy a remporté 380  lors du pot .
+huelinjoy : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [Qs 5d Ah 3s 2c]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PAMBO60370 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : x@ro (petite blind) s'est couché. sur le Rivière
+Siège 4 : huelinjoy (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°237740730247 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 02/08/2022 14:03:22 CET [02/08/2022 8:03:22 ET]
+Table '3450298371 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (5330 en jetons) 
+Place 2: PAMBO60370 (5975 en jetons) 
+Place 3: x@ro (4685 en jetons) 
+Place 4: huelinjoy (4010 en jetons) 
+psychoman59 : met l'ante. 25
+PAMBO60370 : met l'ante. 25
+x@ro : met l'ante. 25
+huelinjoy : met l'ante. 25
+huelinjoy : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 4s]
+PAMBO60370 : suit. 200
+x@ro : relance. 4460 à 4660 et est all-in.
+huelinjoy : passe. 
+psychoman59 : passe. 
+PAMBO60370 : passe. [Ad]
+Personne n'a suivi. (4460) sont retournés à x@ro.
+x@ro a remporté 800  lors du pot .
+x@ro : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 800 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : PAMBO60370 s'est couché. avant Flop
+Siège 3 : x@ro (bouton) a remporté (800)
+Siège 4 : huelinjoy (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237740738933 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 02/08/2022 14:04:06 CET [02/08/2022 8:04:06 ET]
+Table '3450298371 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (5105 en jetons) 
+Place 2: PAMBO60370 (5750 en jetons) 
+Place 3: x@ro (5260 en jetons) 
+Place 4: huelinjoy (3885 en jetons) 
+psychoman59 : met l'ante. 25
+PAMBO60370 : met l'ante. 25
+x@ro : met l'ante. 25
+huelinjoy : met l'ante. 25
+psychoman59 : met la petite blind. 100
+PAMBO60370 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ac]
+x@ro : passe. 
+huelinjoy : passe. 
+psychoman59 : relance. 4880 à 5080 et est all-in.
+PAMBO60370 : passe. 
+Personne n'a suivi. (4880) sont retournés à psychoman59.
+psychoman59 a remporté 500  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (500)
+Siège 2 : PAMBO60370 (grosse blind) s'est couché. avant Flop
+Siège 3 : x@ro s'est couché. avant Flop (n'a pas misé)
+Siège 4 : huelinjoy (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237740745832 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 02/08/2022 14:04:41 CET [02/08/2022 8:04:41 ET]
+Table '3450298371 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5380 en jetons) 
+Place 2: PAMBO60370 (5525 en jetons) 
+Place 3: x@ro (5235 en jetons) 
+Place 4: huelinjoy (3860 en jetons) 
+psychoman59 : met l'ante. 25
+PAMBO60370 : met l'ante. 25
+x@ro : met l'ante. 25
+huelinjoy : met l'ante. 25
+PAMBO60370 : met la petite blind. 100
+x@ro : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 3h]
+huelinjoy : suit. 200
+psychoman59 : suit. 200
+PAMBO60370 : passe. 
+x@ro : relance. 800 à 1000
+huelinjoy : suit. 800
+psychoman59 : passe. 
+*** FLOP *** [4s 8s Kd]
+x@ro : parole 
+huelinjoy : parole 
+*** TOURNANT *** [4s 8s Kd] [6s]
+x@ro : parole 
+huelinjoy : parole 
+*** RIVIÈRE *** [4s 8s Kd 6s] [7h]
+x@ro : parole 
+huelinjoy : parole 
+*** ABATTAGE ***
+x@ro : montre [Ac 9c] (Hauteur As)
+huelinjoy : cache la main perdante. 
+x@ro a remporté 2400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2400 | Commission 0 
+Tableau [4s 8s Kd 6s 7h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : PAMBO60370 (petite blind) s'est couché. avant Flop
+Siège 3 : x@ro (grosse blind) a montré [Ac 9c] et a gagné (2400) avec Hauteur As
+Siège 4 : huelinjoy a caché la main perdante. [3c 2c]
+
+
+
+Main PokerStars n°237740756298 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 02/08/2022 14:05:34 CET [02/08/2022 8:05:34 ET]
+Table '3450298371 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (5155 en jetons) 
+Place 2: PAMBO60370 (5400 en jetons) 
+Place 3: x@ro (6610 en jetons) 
+Place 4: huelinjoy (2835 en jetons) 
+psychoman59 : met l'ante. 25
+PAMBO60370 : met l'ante. 25
+x@ro : met l'ante. 25
+huelinjoy : met l'ante. 25
+x@ro : met la petite blind. 100
+huelinjoy : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 5s]
+psychoman59 : passe. 
+PAMBO60370 : relance. 5175 à 5375 et est all-in.
+x@ro : passe. 
+huelinjoy : suit. 2610 et est all-in.
+Personne n'a suivi. (2565) sont retournés à PAMBO60370.
+*** FLOP *** [Qs 3d 6d]
+*** TOURNANT *** [Qs 3d 6d] [Qc]
+*** RIVIÈRE *** [Qs 3d 6d Qc] [7c]
+*** ABATTAGE ***
+huelinjoy : montre [Ah Th] (une paire de Dames)
+PAMBO60370 : montre [Qd Kd] (un brelan de Dames)
+PAMBO60370 a remporté 5820  lors du pot .
+huelinjoy a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 5820 | Commission 0 
+Tableau [Qs 3d 6d Qc 7c]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PAMBO60370 (bouton) a montré [Qd Kd] et a gagné (5820) avec un brelan de Dames
+Siège 3 : x@ro (petite blind) s'est couché. avant Flop
+Siège 4 : huelinjoy (grosse blind) a montré [Ah Th] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°237740760764 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 02/08/2022 14:05:57 CET [02/08/2022 8:05:57 ET]
+Table '3450298371 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (5130 en jetons) 
+Place 2: PAMBO60370 (8385 en jetons) 
+Place 3: x@ro (6485 en jetons) 
+psychoman59 : met l'ante. 25
+PAMBO60370 : met l'ante. 25
+x@ro : met l'ante. 25
+psychoman59 : met la petite blind. 100
+PAMBO60370 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 8c]
+x@ro : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à PAMBO60370.
+PAMBO60370 a remporté 275  lors du pot .
+*** SYNTHÈSE ***
+Pot total 275 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : PAMBO60370 (grosse blind) a remporté (275)
+Siège 3 : x@ro (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237740762924 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/08/2022 14:06:08 CET [02/08/2022 8:06:08 ET]
+Table '3450298371 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5005 en jetons) 
+Place 2: PAMBO60370 (8535 en jetons) 
+Place 3: x@ro (6460 en jetons) 
+psychoman59 : met l'ante. 30
+PAMBO60370 : met l'ante. 30
+x@ro : met l'ante. 30
+PAMBO60370 : met la petite blind. 125
+x@ro : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 3c]
+psychoman59 : passe. 
+PAMBO60370 : relance. 500 à 750
+x@ro : suit. 500
+*** FLOP *** [7h 3s Jh]
+PAMBO60370 : mise. 1500
+x@ro : suit. 1500
+*** TOURNANT *** [7h 3s Jh] [5d]
+PAMBO60370 : mise. 6255 et est all-in.
+x@ro : suit. 4180 et est all-in.
+Personne n'a suivi. (2075) sont retournés à PAMBO60370.
+*** RIVIÈRE *** [7h 3s Jh 5d] [Qc]
+*** ABATTAGE ***
+PAMBO60370 : montre [Js Ks] (une paire de Valets)
+x@ro : montre [3h Ad] (une paire de Trois)
+PAMBO60370 a remporté 12950  lors du pot .
+x@ro a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 12950 | Commission 0 
+Tableau [7h 3s Jh 5d Qc]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PAMBO60370 (petite blind) a montré [Js Ks] et a gagné (12950) avec une paire de Valets
+Siège 3 : x@ro (grosse blind) a montré [3h Ad] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°237740770569 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/08/2022 14:06:47 CET [02/08/2022 8:06:47 ET]
+Table '3450298371 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4975 en jetons) 
+Place 2: PAMBO60370 (15025 en jetons) 
+psychoman59 : met l'ante. 30
+PAMBO60370 : met l'ante. 30
+PAMBO60370 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 6h]
+PAMBO60370 : relance. 750 à 1000
+psychoman59 : passe. 
+Personne n'a suivi. (750) sont retournés à PAMBO60370.
+PAMBO60370 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : PAMBO60370 (bouton) (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°237740773036 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/08/2022 14:06:59 CET [02/08/2022 8:06:59 ET]
+Table '3450298371 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4695 en jetons) 
+Place 2: PAMBO60370 (15305 en jetons) 
+psychoman59 : met l'ante. 30
+PAMBO60370 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+PAMBO60370 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à PAMBO60370.
+PAMBO60370 a remporté 310  lors du pot .
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : PAMBO60370 (grosse blind) a remporté (310)
+
+
+
+Main PokerStars n°237740774578 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/08/2022 14:07:07 CET [02/08/2022 8:07:07 ET]
+Table '3450298371 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4540 en jetons) 
+Place 2: PAMBO60370 (15460 en jetons) 
+psychoman59 : met l'ante. 30
+PAMBO60370 : met l'ante. 30
+PAMBO60370 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 5c]
+PAMBO60370 : relance. 500 à 750
+psychoman59 : passe. 
+Personne n'a suivi. (500) sont retournés à PAMBO60370.
+PAMBO60370 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : PAMBO60370 (bouton) (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°237740777325 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/08/2022 14:07:21 CET [02/08/2022 8:07:21 ET]
+Table '3450298371 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4260 en jetons) 
+Place 2: PAMBO60370 (15740 en jetons) 
+psychoman59 : met l'ante. 30
+PAMBO60370 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+PAMBO60370 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à PAMBO60370.
+PAMBO60370 a remporté 310  lors du pot .
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : PAMBO60370 (grosse blind) a remporté (310)
+
+
+
+Main PokerStars n°237740779055 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/08/2022 14:07:29 CET [02/08/2022 8:07:29 ET]
+Table '3450298371 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4105 en jetons) 
+Place 2: PAMBO60370 (15895 en jetons) 
+psychoman59 : met l'ante. 30
+PAMBO60370 : met l'ante. 30
+PAMBO60370 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 6c]
+PAMBO60370 : passe. 
+Personne n'a suivi. (125) sont retournés à psychoman59.
+psychoman59 a remporté 310  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (310)
+Siège 2 : PAMBO60370 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237740780573 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/08/2022 14:07:37 CET [02/08/2022 8:07:37 ET]
+Table '3450298371 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4260 en jetons) 
+Place 2: PAMBO60370 (15740 en jetons) 
+psychoman59 : met l'ante. 30
+PAMBO60370 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+PAMBO60370 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à PAMBO60370.
+PAMBO60370 a remporté 310  lors du pot .
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : PAMBO60370 (grosse blind) a remporté (310)
+
+
+
+Main PokerStars n°237740782115 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/08/2022 14:07:45 CET [02/08/2022 8:07:45 ET]
+Table '3450298371 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4105 en jetons) 
+Place 2: PAMBO60370 (15895 en jetons) 
+psychoman59 : met l'ante. 30
+PAMBO60370 : met l'ante. 30
+PAMBO60370 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Jd]
+PAMBO60370 : relance. 300 à 550
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à PAMBO60370.
+PAMBO60370 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : PAMBO60370 (bouton) (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°237740784135 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/08/2022 14:07:55 CET [02/08/2022 8:07:55 ET]
+Table '3450298371 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (3825 en jetons) 
+Place 2: PAMBO60370 (16175 en jetons) 
+psychoman59 : met l'ante. 30
+PAMBO60370 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+PAMBO60370 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Jh]
+psychoman59 : relance. 3545 à 3795 et est all-in.
+PAMBO60370 : passe. 
+Personne n'a suivi. (3545) sont retournés à psychoman59.
+psychoman59 a remporté 560  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (560)
+Siège 2 : PAMBO60370 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237740787799 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/08/2022 14:08:13 CET [02/08/2022 8:08:13 ET]
+Table '3450298371 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4105 en jetons) 
+Place 2: PAMBO60370 (15895 en jetons) 
+psychoman59 : met l'ante. 30
+PAMBO60370 : met l'ante. 30
+PAMBO60370 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td As]
+PAMBO60370 : suit. 125
+psychoman59 : relance. 3825 à 4075 et est all-in.
+PAMBO60370 : passe. 
+Personne n'a suivi. (3825) sont retournés à psychoman59.
+psychoman59 a remporté 560  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (560)
+Siège 2 : PAMBO60370 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237740791377 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/08/2022 14:08:31 CET [02/08/2022 8:08:31 ET]
+Table '3450298371 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4385 en jetons) 
+Place 2: PAMBO60370 (15615 en jetons) 
+psychoman59 : met l'ante. 30
+PAMBO60370 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+PAMBO60370 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à PAMBO60370.
+PAMBO60370 a remporté 310  lors du pot .
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : PAMBO60370 (grosse blind) a remporté (310)
+
+
+
+Main PokerStars n°237740793278 : Tournoi #3450298371, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/08/2022 14:08:41 CET [02/08/2022 8:08:41 ET]
+Table '3450298371 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4230 en jetons) 
+Place 2: PAMBO60370 (15770 en jetons) 
+psychoman59 : met l'ante. 30
+PAMBO60370 : met l'ante. 30
+PAMBO60370 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 4c]
+PAMBO60370 : relance. 15490 à 15740 et est all-in.
+psychoman59 : suit. 3950 et est all-in.
+Personne n'a suivi. (11540) sont retournés à PAMBO60370.
+*** FLOP *** [7s 3c 2s]
+*** TOURNANT *** [7s 3c 2s] [7d]
+*** RIVIÈRE *** [7s 3c 2s 7d] [Tc]
+*** ABATTAGE ***
+psychoman59 : montre [4s 4c] (double paire, Sept et Quatre)
+PAMBO60370 : montre [Ts Kh] (double paire, Dix et Sept)
+PAMBO60370 a remporté 8460  lors du pot .
+psychoman59 a fini le tournoi à la 2e place et a reçu 0.34 €.
+PAMBO60370 gagne le tournoi - félicitations !
+PAMBO60370 gagne un ticket " €1.50 PSPC Mega Path Ticket "
+*** SYNTHÈSE ***
+Pot total 8460 | Commission 0 
+Tableau [7s 3c 2s 7d Tc]
+Siège 1 : psychoman59 (grosse blind) a montré [4s 4c] et a perdu avec double paire, Sept et Quatre
+Siège 2 : PAMBO60370 (bouton) (petite blind) a montré [Ts Kh] et a gagné (8460) avec double paire, Dix et Sept
+
+
+

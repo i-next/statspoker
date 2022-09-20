@@ -1,0 +1,351 @@
+﻿Main PokerStars n°237818417001 : Tournoi #3452182220, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 06/08/2022 9:00:10 CET [06/08/2022 3:00:10 ET]
+Table '3452182220 1' 4-max Siège #1 est au bouton.
+Place 1: 51463832k (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: darée75 (5000 en jetons) 
+Place 4: brubruR9 (5000 en jetons) 
+51463832k : met l'ante. 10
+psychoman59 : met l'ante. 10
+darée75 : met l'ante. 10
+brubruR9 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+darée75 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 8s]
+brubruR9 : passe. 
+51463832k : relance. 100 à 200
+psychoman59 : passe. 
+darée75 : suit. 100
+*** FLOP *** [5c Jh Td]
+darée75 : mise. 490
+51463832k : suit. 490
+*** TOURNANT *** [5c Jh Td] [7h]
+darée75 : mise. 4300 et est all-in.
+51463832k : suit. 4300 et est all-in.
+*** RIVIÈRE *** [5c Jh Td 7h] [Kh]
+*** ABATTAGE ***
+darée75 : montre [6c Jd] (une paire de Valets)
+51463832k : montre [Ah 8h] (une couleur, hauteur As)
+51463832k a remporté 10070  lors du pot .
+darée75 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10070 | Commission 0 
+Tableau [5c Jh Td 7h Kh]
+Siège 1 : 51463832k (bouton) a montré [Ah 8h] et a gagné (10070) avec une couleur, hauteur As
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : darée75 (grosse blind) a montré [6c Jd] et a perdu avec une paire de Valets
+Siège 4 : brubruR9 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237818423644 : Tournoi #3452182220, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 06/08/2022 9:01:08 CET [06/08/2022 3:01:08 ET]
+Table '3452182220 1' 4-max Siège #2 est au bouton.
+Place 1: 51463832k (10070 en jetons) 
+Place 2: psychoman59 (4940 en jetons) 
+Place 4: brubruR9 (4990 en jetons) 
+51463832k : met l'ante. 10
+psychoman59 : met l'ante. 10
+brubruR9 : met l'ante. 10
+brubruR9 : met la petite blind. 50
+51463832k : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 6c]
+psychoman59 : passe. 
+brubruR9 : suit. 50
+51463832k : relance. 100 à 200
+brubruR9 : suit. 100
+*** FLOP *** [Qs 4s 8h]
+brubruR9 : parole 
+51463832k : parole 
+*** TOURNANT *** [Qs 4s 8h] [2h]
+brubruR9 : mise. 300
+51463832k : suit. 300
+*** RIVIÈRE *** [Qs 4s 8h 2h] [9s]
+brubruR9 : mise. 515
+51463832k : passe. 
+Personne n'a suivi. (515) sont retournés à brubruR9.
+brubruR9 a remporté 1030  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1030 | Commission 0 
+Tableau [Qs 4s 8h 2h 9s]
+Siège 1 : 51463832k (grosse blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : brubruR9 (petite blind) a remporté (1030)
+
+
+
+Main PokerStars n°237818427286 : Tournoi #3452182220, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 06/08/2022 9:01:38 CET [06/08/2022 3:01:38 ET]
+Table '3452182220 1' 4-max Siège #4 est au bouton.
+Place 1: 51463832k (9560 en jetons) 
+Place 2: psychoman59 (4930 en jetons) 
+Place 4: brubruR9 (5510 en jetons) 
+51463832k : met l'ante. 10
+psychoman59 : met l'ante. 10
+brubruR9 : met l'ante. 10
+51463832k : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 2s]
+brubruR9 : passe. 
+51463832k : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Td 3s Ac]
+51463832k : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Td 3s Ac] [Kd]
+51463832k : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Td 3s Ac Kd] [Qd]
+51463832k : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+51463832k : montre [2d 7h] (Hauteur As)
+psychoman59 : montre [Ks 2s] (une paire de Rois)
+psychoman59 a remporté 230  lors du pot .
+*** SYNTHÈSE ***
+Pot total 230 | Commission 0 
+Tableau [Td 3s Ac Kd Qd]
+Siège 1 : 51463832k (petite blind) a montré [2d 7h] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) a montré [Ks 2s] et a gagné (230) avec une paire de Rois
+Siège 4 : brubruR9 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237818430515 : Tournoi #3452182220, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 06/08/2022 9:02:04 CET [06/08/2022 3:02:04 ET]
+Table '3452182220 1' 4-max Siège #1 est au bouton.
+Place 1: 51463832k (9450 en jetons) 
+Place 2: psychoman59 (5050 en jetons) 
+Place 4: brubruR9 (5500 en jetons) 
+51463832k : met l'ante. 10
+psychoman59 : met l'ante. 10
+brubruR9 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+brubruR9 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Qd]
+51463832k : relance. 100 à 200
+psychoman59 : suit. 150
+brubruR9 : suit. 100
+*** FLOP *** [9h 2d 4c]
+psychoman59 : parole 
+brubruR9 : parole 
+51463832k : parole 
+*** TOURNANT *** [9h 2d 4c] [As]
+psychoman59 : parole 
+brubruR9 : parole 
+51463832k : parole 
+*** RIVIÈRE *** [9h 2d 4c As] [Ts]
+psychoman59 : parole 
+brubruR9 : parole 
+51463832k : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ks Qd] (Hauteur As)
+brubruR9 : montre [3d 4s] (une paire de Quatre)
+51463832k : cache la main perdante. 
+brubruR9 a remporté 630  lors du pot .
+*** SYNTHÈSE ***
+Pot total 630 | Commission 0 
+Tableau [9h 2d 4c As Ts]
+Siège 1 : 51463832k (bouton) a caché la main perdante. [7c Qs]
+Siège 2 : psychoman59 (petite blind) a montré [Ks Qd] et a perdu avec Hauteur As
+Siège 4 : brubruR9 (grosse blind) a montré [3d 4s] et a gagné (630) avec une paire de Quatre
+
+
+
+Main PokerStars n°237818434539 : Tournoi #3452182220, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 06/08/2022 9:02:38 CET [06/08/2022 3:02:38 ET]
+Table '3452182220 1' 4-max Siège #2 est au bouton.
+Place 1: 51463832k (9240 en jetons) 
+Place 2: psychoman59 (4840 en jetons) 
+Place 4: brubruR9 (5920 en jetons) 
+51463832k : met l'ante. 10
+psychoman59 : met l'ante. 10
+brubruR9 : met l'ante. 10
+brubruR9 : met la petite blind. 50
+51463832k : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Qs]
+psychoman59 : suit. 100
+brubruR9 : suit. 50
+51463832k : parole 
+*** FLOP *** [7d Ad Ts]
+brubruR9 : parole 
+51463832k : mise. 100
+psychoman59 : suit. 100
+brubruR9 : passe. 
+*** TOURNANT *** [7d Ad Ts] [9h]
+51463832k : mise. 200
+psychoman59 : suit. 200
+*** RIVIÈRE *** [7d Ad Ts 9h] [6d]
+51463832k : mise. 930
+psychoman59 : passe. 
+Personne n'a suivi. (930) sont retournés à 51463832k.
+51463832k a remporté 930  lors du pot .
+*** SYNTHÈSE ***
+Pot total 930 | Commission 0 
+Tableau [7d Ad Ts 9h 6d]
+Siège 1 : 51463832k (grosse blind) a remporté (930)
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Rivière
+Siège 4 : brubruR9 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237818438782 : Tournoi #3452182220, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 06/08/2022 9:03:12 CET [06/08/2022 3:03:12 ET]
+Table '3452182220 1' 4-max Siège #4 est au bouton.
+Place 1: 51463832k (9760 en jetons) 
+Place 2: psychoman59 (4430 en jetons) 
+Place 4: brubruR9 (5810 en jetons) 
+51463832k : met l'ante. 10
+psychoman59 : met l'ante. 10
+brubruR9 : met l'ante. 10
+51463832k : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 3c]
+brubruR9 : passe. 
+51463832k : suit. 50
+psychoman59 : parole 
+*** FLOP *** [7h 3d Jh]
+51463832k : mise. 115
+psychoman59 : passe. 
+Personne n'a suivi. (115) sont retournés à 51463832k.
+51463832k a remporté 230  lors du pot .
+*** SYNTHÈSE ***
+Pot total 230 | Commission 0 
+Tableau [7h 3d Jh]
+Siège 1 : 51463832k (petite blind) a remporté (230)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 4 : brubruR9 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237818442132 : Tournoi #3452182220, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 06/08/2022 9:03:39 CET [06/08/2022 3:03:39 ET]
+Table '3452182220 1' 4-max Siège #1 est au bouton.
+Place 1: 51463832k (9880 en jetons) 
+Place 2: psychoman59 (4320 en jetons) 
+Place 4: brubruR9 (5800 en jetons) 
+51463832k : met l'ante. 15
+psychoman59 : met l'ante. 15
+brubruR9 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+brubruR9 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 2h]
+51463832k : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à brubruR9.
+brubruR9 a remporté 165  lors du pot .
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : 51463832k (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : brubruR9 (grosse blind) a remporté (165)
+
+
+
+Main PokerStars n°237818443808 : Tournoi #3452182220, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 06/08/2022 9:03:53 CET [06/08/2022 3:03:53 ET]
+Table '3452182220 1' 4-max Siège #2 est au bouton.
+Place 1: 51463832k (9865 en jetons) 
+Place 2: psychoman59 (4245 en jetons) 
+Place 4: brubruR9 (5890 en jetons) 
+51463832k : met l'ante. 15
+psychoman59 : met l'ante. 15
+brubruR9 : met l'ante. 15
+brubruR9 : met la petite blind. 60
+51463832k : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Th]
+psychoman59 : suit. 120
+brubruR9 : passe. 
+51463832k : relance. 120 à 240
+psychoman59 : suit. 120
+*** FLOP *** [8d Kd 7d]
+51463832k : mise. 120
+psychoman59 : suit. 120
+*** TOURNANT *** [8d Kd 7d] [Ad]
+51463832k : mise. 120
+psychoman59 : relance. 533 à 653
+51463832k : suit. 533
+*** RIVIÈRE *** [8d Kd 7d Ad] [8h]
+51463832k : mise. 1065
+psychoman59 : passe. 
+Personne n'a suivi. (1065) sont retournés à 51463832k.
+51463832k a remporté 2131  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2131 | Commission 0 
+Tableau [8d Kd 7d Ad 8h]
+Siège 1 : 51463832k (grosse blind) a remporté (2131)
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Rivière
+Siège 4 : brubruR9 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237818451177 : Tournoi #3452182220, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 06/08/2022 9:04:54 CET [06/08/2022 3:04:54 ET]
+Table '3452182220 1' 4-max Siège #4 est au bouton.
+Place 1: 51463832k (10968 en jetons) 
+Place 2: psychoman59 (3217 en jetons) 
+Place 4: brubruR9 (5815 en jetons) 
+51463832k : met l'ante. 15
+psychoman59 : met l'ante. 15
+brubruR9 : met l'ante. 15
+51463832k : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Ts]
+brubruR9 : suit. 120
+51463832k : passe. 
+psychoman59 : parole 
+*** FLOP *** [Ac 6d 3s]
+psychoman59 : parole 
+brubruR9 : parole 
+*** TOURNANT *** [Ac 6d 3s] [4h]
+psychoman59 : parole 
+brubruR9 : mise. 120
+psychoman59 : suit. 120
+*** RIVIÈRE *** [Ac 6d 3s 4h] [7d]
+psychoman59 : parole 
+brubruR9 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Kc Ts] (Hauteur As)
+brubruR9 : cache la main perdante. 
+psychoman59 a remporté 585  lors du pot .
+*** SYNTHÈSE ***
+Pot total 585 | Commission 0 
+Tableau [Ac 6d 3s 4h 7d]
+Siège 1 : 51463832k (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [Kc Ts] et a gagné (585) avec Hauteur As
+Siège 4 : brubruR9 (bouton) a caché la main perdante. [Th 9c]
+
+
+
+Main PokerStars n°237818454735 : Tournoi #3452182220, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 06/08/2022 9:05:23 CET [06/08/2022 3:05:23 ET]
+Table '3452182220 1' 4-max Siège #1 est au bouton.
+Place 1: 51463832k (10893 en jetons) 
+Place 2: psychoman59 (3547 en jetons) 
+Place 4: brubruR9 (5560 en jetons) 
+51463832k : met l'ante. 15
+psychoman59 : met l'ante. 15
+brubruR9 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+brubruR9 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Ac]
+51463832k : passe. 
+psychoman59 : relance. 3412 à 3532 et est all-in.
+brubruR9 : suit. 3412
+*** FLOP *** [3d 3s 7s]
+*** TOURNANT *** [3d 3s 7s] [Js]
+*** RIVIÈRE *** [3d 3s 7s Js] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [Kh Ac] (une paire de Trois)
+brubruR9 : montre [Qc Qd] (double paire, Dames et Trois)
+brubruR9 a remporté 7109  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 7109 | Commission 0 
+Tableau [3d 3s 7s Js 9c]
+Siège 1 : 51463832k (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Kh Ac] et a perdu avec une paire de Trois
+Siège 4 : brubruR9 (grosse blind) a montré [Qc Qd] et a gagné (7109) avec double paire, Dames et Trois
+
+
+

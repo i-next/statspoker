@@ -1,0 +1,72 @@
+﻿Main PokerStars n°236710549413 : Tournoi #3425117709, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/06/2022 8:03:11 CET [12/06/2022 2:03:11 ET]
+Table '3425117709 1' 3-max Siège #1 est au bouton.
+Place 1: GLLSDNS (300 en jetons) 
+Place 2: Altidoro58 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Altidoro58 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 6d]
+GLLSDNS : relance. 280 à 300 et est all-in.
+Altidoro58 : suit. 290 et est all-in.
+psychoman59 : passe. 
+*** FLOP *** [6h 5c 2s]
+*** TOURNANT *** [6h 5c 2s] [9s]
+*** RIVIÈRE *** [6h 5c 2s 9s] [Jh]
+*** ABATTAGE ***
+Altidoro58 : montre [Qh 5d] (une paire de Cinq)
+GLLSDNS : montre [As 3s] (Hauteur As)
+Altidoro58 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [6h 5c 2s 9s Jh]
+Siège 1 : GLLSDNS (bouton) a montré [As 3s] et a perdu avec Hauteur As
+Siège 2 : Altidoro58 (petite blind) a montré [Qh 5d] et a gagné (620) avec une paire de Cinq
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236710551460 : Tournoi #3425117709, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/06/2022 8:03:29 CET [12/06/2022 2:03:29 ET]
+Table '3425117709 1' 3-max Siège #3 est au bouton.
+Place 2: Altidoro58 (620 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+Altidoro58 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 8c]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Altidoro58.
+Altidoro58 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : Altidoro58 (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236710552143 : Tournoi #3425117709, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/06/2022 8:03:35 CET [12/06/2022 2:03:35 ET]
+Table '3425117709 1' 3-max Siège #2 est au bouton.
+Place 2: Altidoro58 (630 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+Altidoro58 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ac]
+Altidoro58 : suit. 10
+psychoman59 : relance. 250 à 270 et est all-in.
+Altidoro58 : suit. 250
+*** FLOP *** [7s 2c Qs]
+*** TOURNANT *** [7s 2c Qs] [Ks]
+*** RIVIÈRE *** [7s 2c Qs Ks] [Qc]
+*** ABATTAGE ***
+psychoman59 : montre [9s Ac] (une paire de Dames)
+Altidoro58 : montre [8c Qh] (un brelan de Dames)
+Altidoro58 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [7s 2c Qs Ks Qc]
+Siège 2 : Altidoro58 (bouton) (petite blind) a montré [8c Qh] et a gagné (540) avec un brelan de Dames
+Siège 3 : psychoman59 (grosse blind) a montré [9s Ac] et a perdu avec une paire de Dames
+
+
+

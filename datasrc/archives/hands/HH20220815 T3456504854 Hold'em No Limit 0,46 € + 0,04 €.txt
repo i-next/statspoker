@@ -1,0 +1,683 @@
+﻿Main PokerStars n°238000461179 : Tournoi #3456504854, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 15/08/2022 10:45:26 CET [15/08/2022 4:45:26 ET]
+Table '3456504854 1' 4-max Siège #1 est au bouton.
+Place 1: soy_cule74 (5000 en jetons) 
+Place 2: madakas (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: delavega68 (5000 en jetons) 
+soy_cule74 : met l'ante. 10
+madakas : met l'ante. 10
+psychoman59 : met l'ante. 10
+delavega68 : met l'ante. 10
+madakas : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Qh]
+delavega68 : suit. 100
+soy_cule74 : passe. 
+madakas : suit. 50
+psychoman59 : parole 
+*** FLOP *** [2c 4s Td]
+madakas : parole 
+psychoman59 : parole 
+delavega68 : parole 
+*** TOURNANT *** [2c 4s Td] [3h]
+madakas : parole 
+psychoman59 : parole 
+delavega68 : parole 
+*** RIVIÈRE *** [2c 4s Td 3h] [4d]
+madakas : parole 
+psychoman59 : parole 
+delavega68 : parole 
+*** ABATTAGE ***
+madakas : montre [7c Jh] (une paire de Quatre)
+psychoman59 : montre [6c Qh] (une paire de Quatre - Dame kicker)
+delavega68 : montre [Ah 7s] (une paire de Quatre - As kicker)
+delavega68 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [2c 4s Td 3h 4d]
+Siège 1 : soy_cule74 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : madakas (petite blind) a montré [7c Jh] et a perdu avec une paire de Quatre
+Siège 3 : psychoman59 (grosse blind) a montré [6c Qh] et a perdu avec une paire de Quatre
+Siège 4 : delavega68 a montré [Ah 7s] et a gagné (340) avec une paire de Quatre
+
+
+
+Main PokerStars n°238000467982 : Tournoi #3456504854, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 15/08/2022 10:46:14 CET [15/08/2022 4:46:14 ET]
+Table '3456504854 1' 4-max Siège #2 est au bouton.
+Place 1: soy_cule74 (4990 en jetons) 
+Place 2: madakas (4890 en jetons) 
+Place 3: psychoman59 (4890 en jetons) 
+Place 4: delavega68 (5230 en jetons) 
+soy_cule74 : met l'ante. 10
+madakas : met l'ante. 10
+psychoman59 : met l'ante. 10
+delavega68 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+delavega68 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Kh]
+soy_cule74 : passe. 
+madakas : suit. 100
+psychoman59 : suit. 50
+delavega68 : parole 
+*** FLOP *** [5h Js 2s]
+psychoman59 : parole 
+delavega68 : parole 
+madakas : mise. 170
+psychoman59 : passe. 
+delavega68 : passe. 
+Personne n'a suivi. (170) sont retournés à madakas.
+madakas a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [5h Js 2s]
+Siège 1 : soy_cule74 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : madakas (bouton) a remporté (340)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 4 : delavega68 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238000473250 : Tournoi #3456504854, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 15/08/2022 10:46:50 CET [15/08/2022 4:46:50 ET]
+Table '3456504854 1' 4-max Siège #3 est au bouton.
+Place 1: soy_cule74 (4980 en jetons) 
+Place 2: madakas (5120 en jetons) 
+Place 3: psychoman59 (4780 en jetons) 
+Place 4: delavega68 (5120 en jetons) 
+soy_cule74 : met l'ante. 10
+madakas : met l'ante. 10
+psychoman59 : met l'ante. 10
+delavega68 : met l'ante. 10
+delavega68 : met la petite blind. 50
+soy_cule74 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Qc]
+madakas : passe. 
+psychoman59 : passe. 
+delavega68 : suit. 50
+soy_cule74 : relance. 300 à 400
+delavega68 : passe. 
+Personne n'a suivi. (300) sont retournés à soy_cule74.
+soy_cule74 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : soy_cule74 (grosse blind) a remporté (240)
+Siège 2 : madakas s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : delavega68 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238000477374 : Tournoi #3456504854, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 15/08/2022 10:47:19 CET [15/08/2022 4:47:19 ET]
+Table '3456504854 1' 4-max Siège #4 est au bouton.
+Place 1: soy_cule74 (5110 en jetons) 
+Place 2: madakas (5110 en jetons) 
+Place 3: psychoman59 (4770 en jetons) 
+Place 4: delavega68 (5010 en jetons) 
+soy_cule74 : met l'ante. 10
+madakas : met l'ante. 10
+psychoman59 : met l'ante. 10
+delavega68 : met l'ante. 10
+soy_cule74 : met la petite blind. 50
+madakas : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 5c]
+psychoman59 : passe. 
+delavega68 : passe. 
+soy_cule74 : passe. 
+Personne n'a suivi. (50) sont retournés à madakas.
+madakas a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Siège 1 : soy_cule74 (petite blind) s'est couché. avant Flop
+Siège 2 : madakas (grosse blind) a remporté (140)
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : delavega68 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238000479377 : Tournoi #3456504854, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 15/08/2022 10:47:33 CET [15/08/2022 4:47:33 ET]
+Table '3456504854 1' 4-max Siège #1 est au bouton.
+Place 1: soy_cule74 (5050 en jetons) 
+Place 2: madakas (5190 en jetons) 
+Place 3: psychoman59 (4760 en jetons) 
+Place 4: delavega68 (5000 en jetons) 
+soy_cule74 : met l'ante. 10
+madakas : met l'ante. 10
+psychoman59 : met l'ante. 10
+delavega68 : met l'ante. 10
+madakas : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 2s]
+delavega68 : passe. 
+soy_cule74 : relance. 150 à 250
+madakas : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à soy_cule74.
+soy_cule74 a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : soy_cule74 (bouton) a remporté (290)
+Siège 2 : madakas (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : delavega68 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238000482339 : Tournoi #3456504854, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 15/08/2022 10:47:53 CET [15/08/2022 4:47:53 ET]
+Table '3456504854 1' 4-max Siège #2 est au bouton.
+Place 1: soy_cule74 (5230 en jetons) 
+Place 2: madakas (5130 en jetons) 
+Place 3: psychoman59 (4650 en jetons) 
+Place 4: delavega68 (4990 en jetons) 
+soy_cule74 : met l'ante. 10
+madakas : met l'ante. 10
+psychoman59 : met l'ante. 10
+delavega68 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+delavega68 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Tc]
+soy_cule74 : passe. 
+madakas : passe. 
+psychoman59 : suit. 50
+delavega68 : relance. 200 à 300
+psychoman59 : suit. 200
+*** FLOP *** [3s Ac 6s]
+psychoman59 : parole 
+delavega68 : mise. 640
+psychoman59 : passe. 
+Personne n'a suivi. (640) sont retournés à delavega68.
+delavega68 a remporté 640  lors du pot .
+delavega68 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [3s Ac 6s]
+Siège 1 : soy_cule74 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : madakas (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 4 : delavega68 (grosse blind) a remporté (640)
+
+
+
+Main PokerStars n°238000494824 : Tournoi #3456504854, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 15/08/2022 10:48:31 CET [15/08/2022 4:48:31 ET]
+Table '3456504854 1' 4-max Siège #3 est au bouton.
+Place 1: soy_cule74 (5220 en jetons) 
+Place 2: madakas (5120 en jetons) 
+Place 3: psychoman59 (4340 en jetons) 
+Place 4: delavega68 (5320 en jetons) 
+soy_cule74 : met l'ante. 15
+madakas : met l'ante. 15
+psychoman59 : met l'ante. 15
+delavega68 : met l'ante. 15
+delavega68 : met la petite blind. 60
+soy_cule74 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ah]
+madakas : suit. 120
+psychoman59 : suit. 120
+delavega68 : passe. 
+soy_cule74 : parole 
+*** FLOP *** [Tc Ac 8s]
+soy_cule74 : parole 
+madakas : parole 
+psychoman59 : mise. 480
+soy_cule74 : passe. 
+madakas : passe. 
+Personne n'a suivi. (480) sont retournés à psychoman59.
+psychoman59 a remporté 480  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Tc Ac 8s]
+Siège 1 : soy_cule74 (grosse blind) s'est couché. sur le Flop
+Siège 2 : madakas s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a remporté (480)
+Siège 4 : delavega68 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238000499638 : Tournoi #3456504854, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 15/08/2022 10:49:03 CET [15/08/2022 4:49:03 ET]
+Table '3456504854 1' 4-max Siège #4 est au bouton.
+Place 1: soy_cule74 (5085 en jetons) 
+Place 2: madakas (4985 en jetons) 
+Place 3: psychoman59 (4685 en jetons) 
+Place 4: delavega68 (5245 en jetons) 
+soy_cule74 : met l'ante. 15
+madakas : met l'ante. 15
+psychoman59 : met l'ante. 15
+delavega68 : met l'ante. 15
+soy_cule74 : met la petite blind. 60
+madakas : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 4s]
+psychoman59 : passe. 
+delavega68 : passe. 
+soy_cule74 : passe. 
+Personne n'a suivi. (60) sont retournés à madakas.
+madakas a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : soy_cule74 (petite blind) s'est couché. avant Flop
+Siège 2 : madakas (grosse blind) a remporté (180)
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : delavega68 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238000502019 : Tournoi #3456504854, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 15/08/2022 10:49:20 CET [15/08/2022 4:49:20 ET]
+Table '3456504854 1' 4-max Siège #1 est au bouton.
+Place 1: soy_cule74 (5010 en jetons) 
+Place 2: madakas (5090 en jetons) 
+Place 3: psychoman59 (4670 en jetons) 
+Place 4: delavega68 (5230 en jetons) 
+soy_cule74 : met l'ante. 15
+madakas : met l'ante. 15
+psychoman59 : met l'ante. 15
+delavega68 : met l'ante. 15
+madakas : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Jh]
+delavega68 : passe. 
+soy_cule74 : relance. 180 à 300
+madakas : passe. 
+psychoman59 : suit. 180
+*** FLOP *** [4d 6d 7c]
+psychoman59 : parole 
+soy_cule74 : mise. 324
+psychoman59 : suit. 324
+*** TOURNANT *** [4d 6d 7c] [Qc]
+psychoman59 : parole 
+soy_cule74 : mise. 752
+psychoman59 : passe. 
+Personne n'a suivi. (752) sont retournés à soy_cule74.
+soy_cule74 a remporté 1368  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1368 | Commission 0 
+Tableau [4d 6d 7c Qc]
+Siège 1 : soy_cule74 (bouton) a remporté (1368)
+Siège 2 : madakas (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 4 : delavega68 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238000507478 : Tournoi #3456504854, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 15/08/2022 10:49:56 CET [15/08/2022 4:49:56 ET]
+Table '3456504854 1' 4-max Siège #2 est au bouton.
+Place 1: soy_cule74 (5739 en jetons) 
+Place 2: madakas (5015 en jetons) 
+Place 3: psychoman59 (4031 en jetons) 
+Place 4: delavega68 (5215 en jetons) 
+soy_cule74 : met l'ante. 15
+madakas : met l'ante. 15
+psychoman59 : met l'ante. 15
+delavega68 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+delavega68 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Kh]
+soy_cule74 : relance. 240 à 360
+madakas : passe. 
+psychoman59 : passe. 
+delavega68 : passe. 
+Personne n'a suivi. (240) sont retournés à soy_cule74.
+soy_cule74 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : soy_cule74 a remporté (360)
+Siège 2 : madakas (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : delavega68 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238000510221 : Tournoi #3456504854, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 15/08/2022 10:50:15 CET [15/08/2022 4:50:15 ET]
+Table '3456504854 1' 4-max Siège #3 est au bouton.
+Place 1: soy_cule74 (5964 en jetons) 
+Place 2: madakas (5000 en jetons) 
+Place 3: psychoman59 (3956 en jetons) 
+Place 4: delavega68 (5080 en jetons) 
+soy_cule74 : met l'ante. 15
+madakas : met l'ante. 15
+psychoman59 : met l'ante. 15
+delavega68 : met l'ante. 15
+delavega68 : met la petite blind. 60
+soy_cule74 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 7c]
+madakas : passe. 
+psychoman59 : passe. 
+delavega68 : passe. 
+Personne n'a suivi. (60) sont retournés à soy_cule74.
+soy_cule74 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : soy_cule74 (grosse blind) a remporté (180)
+Siège 2 : madakas s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : delavega68 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238000512210 : Tournoi #3456504854, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 15/08/2022 10:50:29 CET [15/08/2022 4:50:29 ET]
+Table '3456504854 1' 4-max Siège #4 est au bouton.
+Place 1: soy_cule74 (6069 en jetons) 
+Place 2: madakas (4985 en jetons) 
+Place 3: psychoman59 (3941 en jetons) 
+Place 4: delavega68 (5005 en jetons) 
+soy_cule74 : met l'ante. 15
+madakas : met l'ante. 15
+psychoman59 : met l'ante. 15
+delavega68 : met l'ante. 15
+soy_cule74 : met la petite blind. 60
+madakas : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 4c]
+psychoman59 : passe. 
+delavega68 : suit. 120
+soy_cule74 : relance. 360 à 480
+madakas : suit. 360
+delavega68 : suit. 360
+*** FLOP *** [Ah 9d Qd]
+soy_cule74 : mise. 495
+madakas : relance. 2490 à 2985
+delavega68 : relance. 1525 à 4510 et est all-in.
+soy_cule74 : relance. 1064 à 5574 et est all-in.
+madakas : suit. 1505 et est all-in.
+Personne n'a suivi. (1064) sont retournés à soy_cule74.
+*** TOURNANT *** [Ah 9d Qd] [7s]
+*** RIVIÈRE *** [Ah 9d Qd 7s] [Jd]
+*** ABATTAGE ***
+soy_cule74 : montre [Td Ad] (une couleur, hauteur As)
+delavega68 : montre [9c Qc] (double paire, Dames et Neuf)
+soy_cule74 a remporté 40  parallèle lors du pot .
+madakas : montre [Ac As] (un brelan de As)
+soy_cule74 a remporté 14970  principal lors du pot .
+delavega68 a fini le tournoi en 3e position.
+madakas a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 15010 Principal pot 14970. Parallèle pot 40. | Commission 0 
+Tableau [Ah 9d Qd 7s Jd]
+Siège 1 : soy_cule74 (petite blind) a montré [Td Ad] et a gagné (15010) avec une couleur, hauteur As
+Siège 2 : madakas (grosse blind) a montré [Ac As] et a perdu avec un brelan de As
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : delavega68 (bouton) a montré [9c Qc] et a perdu avec double paire, Dames et Neuf
+
+
+
+Main PokerStars n°238000518894 : Tournoi #3456504854, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 15/08/2022 10:51:14 CET [15/08/2022 4:51:14 ET]
+Table '3456504854 1' 4-max Siège #1 est au bouton.
+Place 1: soy_cule74 (16074 en jetons) 
+Place 3: psychoman59 (3926 en jetons) 
+soy_cule74 : met l'ante. 15
+psychoman59 : met l'ante. 15
+soy_cule74 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 4h]
+soy_cule74 : relance. 240 à 360
+psychoman59 : passe. 
+Personne n'a suivi. (240) sont retournés à soy_cule74.
+soy_cule74 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Siège 1 : soy_cule74 (bouton) (petite blind) a remporté (270)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238000520593 : Tournoi #3456504854, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 15/08/2022 10:51:25 CET [15/08/2022 4:51:25 ET]
+Table '3456504854 1' 4-max Siège #3 est au bouton.
+Place 1: soy_cule74 (16209 en jetons) 
+Place 3: psychoman59 (3791 en jetons) 
+soy_cule74 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+soy_cule74 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à soy_cule74.
+soy_cule74 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : soy_cule74 (grosse blind) a remporté (150)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238000521838 : Tournoi #3456504854, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 15/08/2022 10:51:33 CET [15/08/2022 4:51:33 ET]
+Table '3456504854 1' 4-max Siège #1 est au bouton.
+Place 1: soy_cule74 (16284 en jetons) 
+Place 3: psychoman59 (3716 en jetons) 
+soy_cule74 : met l'ante. 20
+psychoman59 : met l'ante. 20
+soy_cule74 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Kc]
+soy_cule74 : relance. 300 à 450
+psychoman59 : relance. 3246 à 3696 et est all-in.
+soy_cule74 : passe. 
+Personne n'a suivi. (3246) sont retournés à psychoman59.
+psychoman59 a remporté 940  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 940 | Commission 0 
+Siège 1 : soy_cule74 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (940)
+
+
+
+Main PokerStars n°238000525817 : Tournoi #3456504854, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 15/08/2022 10:52:00 CET [15/08/2022 4:52:00 ET]
+Table '3456504854 1' 4-max Siège #3 est au bouton.
+Place 1: soy_cule74 (15814 en jetons) 
+Place 3: psychoman59 (4186 en jetons) 
+soy_cule74 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+soy_cule74 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Td]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à soy_cule74.
+soy_cule74 a remporté 190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : soy_cule74 (grosse blind) a remporté (190)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238000526909 : Tournoi #3456504854, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 15/08/2022 10:52:08 CET [15/08/2022 4:52:08 ET]
+Table '3456504854 1' 4-max Siège #1 est au bouton.
+Place 1: soy_cule74 (15909 en jetons) 
+Place 3: psychoman59 (4091 en jetons) 
+soy_cule74 : met l'ante. 20
+psychoman59 : met l'ante. 20
+soy_cule74 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 5d]
+soy_cule74 : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 190  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : soy_cule74 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°238000528039 : Tournoi #3456504854, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 15/08/2022 10:52:15 CET [15/08/2022 4:52:15 ET]
+Table '3456504854 1' 4-max Siège #3 est au bouton.
+Place 1: soy_cule74 (15814 en jetons) 
+Place 3: psychoman59 (4186 en jetons) 
+soy_cule74 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+soy_cule74 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à soy_cule74.
+soy_cule74 a remporté 190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : soy_cule74 (grosse blind) a remporté (190)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238000529481 : Tournoi #3456504854, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 15/08/2022 10:52:25 CET [15/08/2022 4:52:25 ET]
+Table '3456504854 1' 4-max Siège #1 est au bouton.
+Place 1: soy_cule74 (15909 en jetons) 
+Place 3: psychoman59 (4091 en jetons) 
+soy_cule74 : met l'ante. 20
+psychoman59 : met l'ante. 20
+soy_cule74 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Qd]
+soy_cule74 : relance. 300 à 450
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à soy_cule74.
+soy_cule74 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : soy_cule74 (bouton) (petite blind) a remporté (340)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238000531072 : Tournoi #3456504854, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 15/08/2022 10:52:36 CET [15/08/2022 4:52:36 ET]
+Table '3456504854 1' 4-max Siège #3 est au bouton.
+Place 1: soy_cule74 (16079 en jetons) 
+Place 3: psychoman59 (3921 en jetons) 
+soy_cule74 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+soy_cule74 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Kh]
+psychoman59 : relance. 3751 à 3901 et est all-in.
+soy_cule74 : passe. 
+Personne n'a suivi. (3751) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : soy_cule74 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°238000533956 : Tournoi #3456504854, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 15/08/2022 10:52:55 CET [15/08/2022 4:52:55 ET]
+Table '3456504854 1' 4-max Siège #1 est au bouton.
+Place 1: soy_cule74 (15909 en jetons) 
+Place 3: psychoman59 (4091 en jetons) 
+soy_cule74 : met l'ante. 20
+psychoman59 : met l'ante. 20
+soy_cule74 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 7h]
+soy_cule74 : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 190  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : soy_cule74 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°238000534932 : Tournoi #3456504854, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 15/08/2022 10:53:02 CET [15/08/2022 4:53:02 ET]
+Table '3456504854 1' 4-max Siège #3 est au bouton.
+Place 1: soy_cule74 (15814 en jetons) 
+Place 3: psychoman59 (4186 en jetons) 
+soy_cule74 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+soy_cule74 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Js]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à soy_cule74.
+soy_cule74 a remporté 190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : soy_cule74 (grosse blind) a remporté (190)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238000536102 : Tournoi #3456504854, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 15/08/2022 10:53:10 CET [15/08/2022 4:53:10 ET]
+Table '3456504854 1' 4-max Siège #1 est au bouton.
+Place 1: soy_cule74 (15909 en jetons) 
+Place 3: psychoman59 (4091 en jetons) 
+soy_cule74 : met l'ante. 20
+psychoman59 : met l'ante. 20
+soy_cule74 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h As]
+soy_cule74 : relance. 300 à 450
+psychoman59 : relance. 3621 à 4071 et est all-in.
+soy_cule74 : suit. 3621
+*** FLOP *** [Kh 5s 6h]
+*** TOURNANT *** [Kh 5s 6h] [9h]
+*** RIVIÈRE *** [Kh 5s 6h 9h] [5c]
+*** ABATTAGE ***
+psychoman59 : montre [5h As] (un brelan de Cinq)
+soy_cule74 : montre [7c Qc] (une paire de Cinq)
+psychoman59 a remporté 8182  lors du pot .
+*** SYNTHÈSE ***
+Pot total 8182 | Commission 0 
+Tableau [Kh 5s 6h 9h 5c]
+Siège 1 : soy_cule74 (bouton) (petite blind) a montré [7c Qc] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (grosse blind) a montré [5h As] et a gagné (8182) avec un brelan de Cinq
+
+
+
+Main PokerStars n°238000538891 : Tournoi #3456504854, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 15/08/2022 10:53:29 CET [15/08/2022 4:53:29 ET]
+Table '3456504854 1' 4-max Siège #3 est au bouton.
+Place 1: soy_cule74 (11818 en jetons) 
+Place 3: psychoman59 (8182 en jetons) 
+soy_cule74 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+soy_cule74 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 8c]
+psychoman59 : suit. 75
+soy_cule74 : relance. 450 à 600
+psychoman59 : suit. 450
+*** FLOP *** [9s Jd Kd]
+soy_cule74 : mise. 409
+psychoman59 : suit. 409
+*** TOURNANT *** [9s Jd Kd] [8d]
+soy_cule74 : parole 
+psychoman59 : mise. 7153 et est all-in.
+soy_cule74 : suit. 7153
+*** RIVIÈRE *** [9s Jd Kd 8d] [As]
+*** ABATTAGE ***
+soy_cule74 : montre [Tc Jc] (une paire de Valets)
+psychoman59 : montre [7c 8c] (une paire de Huit)
+soy_cule74 a remporté 16364  lors du pot .
+psychoman59 a fini le tournoi à la 2e place et a reçu 0.34 €.
+soy_cule74 gagne le tournoi - félicitations !
+soy_cule74 gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 16364 | Commission 0 
+Tableau [9s Jd Kd 8d As]
+Siège 1 : soy_cule74 (grosse blind) a montré [Tc Jc] et a gagné (16364) avec une paire de Valets
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [7c 8c] et a perdu avec une paire de Huit
+
+
+

@@ -1,0 +1,77 @@
+﻿Main PokerStars n°238575180826 : Tournoi #3470031125, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/09/2022 9:58:21 CET [12/09/2022 3:58:21 ET]
+Table '3470031125 1' 3-max Siège #1 est au bouton.
+Place 1: clik42 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: jenn88139 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+jenn88139 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 8d]
+clik42 : relance. 280 à 300 et est all-in.
+psychoman59 : passe. 
+jenn88139 : suit. 280 et est all-in.
+*** FLOP *** [7h 6d Kd]
+*** TOURNANT *** [7h 6d Kd] [Qd]
+*** RIVIÈRE *** [7h 6d Kd Qd] [3d]
+*** ABATTAGE ***
+jenn88139 : montre [3s 5h] (une paire de Trois)
+clik42 : montre [As Tc] (Hauteur As)
+jenn88139 a remporté 610  lors du pot .
+clik42 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [7h 6d Kd Qd 3d]
+Siège 1 : clik42 (bouton) a montré [As Tc] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : jenn88139 (grosse blind) a montré [3s 5h] et a gagné (610) avec une paire de Trois
+
+
+
+Main PokerStars n°238575183738 : Tournoi #3470031125, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/09/2022 9:58:51 CET [12/09/2022 3:58:51 ET]
+Table '3470031125 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (290 en jetons) 
+Place 3: jenn88139 (610 en jetons) 
+jenn88139 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 8h]
+jenn88139 : relance. 590 à 610 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (590) sont retournés à jenn88139.
+jenn88139 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : jenn88139 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°238575184544 : Tournoi #3470031125, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/09/2022 9:58:59 CET [12/09/2022 3:58:59 ET]
+Table '3470031125 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (270 en jetons) 
+Place 3: jenn88139 (630 en jetons) 
+psychoman59 : met la petite blind. 10
+jenn88139 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Ac]
+psychoman59 : relance. 40 à 60
+jenn88139 : relance. 40 à 100
+psychoman59 : relance. 170 à 270 et est all-in.
+jenn88139 : suit. 170
+*** FLOP *** [8s 4c Qd]
+*** TOURNANT *** [8s 4c Qd] [8h]
+*** RIVIÈRE *** [8s 4c Qd 8h] [5s]
+*** ABATTAGE ***
+jenn88139 : montre [4d 4s] (un full, full aux Quatre par les Huit)
+psychoman59 : montre [Td Ac] (une paire de Huit)
+jenn88139 a remporté 540  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+jenn88139 remporte le tournoi et reçoit 0.50 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [8s 4c Qd 8h 5s]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Td Ac] et a perdu avec une paire de Huit
+Siège 3 : jenn88139 (grosse blind) a montré [4d 4s] et a gagné (540) avec un full, full aux Quatre par les Huit
+
+
+

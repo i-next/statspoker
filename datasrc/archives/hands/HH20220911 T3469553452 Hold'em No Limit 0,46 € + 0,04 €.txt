@@ -1,0 +1,754 @@
+﻿Main PokerStars n°238552814189 : Tournoi #3469553452, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 11/09/2022 9:40:46 CET [11/09/2022 3:40:46 ET]
+Table '3469553452 1' 4-max Siège #1 est au bouton.
+Place 1: albges888 (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: monassier (5000 en jetons) 
+Place 4: babas-54972 (5000 en jetons) 
+albges888 : met l'ante. 10
+psychoman59 : met l'ante. 10
+monassier : met l'ante. 10
+babas-54972 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+monassier : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 3c]
+babas-54972 : passe. 
+albges888 : relance. 100 à 200
+psychoman59 : suit. 150
+monassier : relance. 4790 à 4990 et est all-in.
+albges888 : suit. 4790 et est all-in.
+psychoman59 : passe. 
+*** FLOP *** [Ks Kd Th]
+*** TOURNANT *** [Ks Kd Th] [7s]
+*** RIVIÈRE *** [Ks Kd Th 7s] [6c]
+*** ABATTAGE ***
+monassier : montre [Qd Qs] (double paire, Rois et Dames)
+albges888 : montre [5c 5h] (double paire, Rois et Cinq)
+monassier a remporté 10220  lors du pot .
+albges888 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10220 | Commission 0 
+Tableau [Ks Kd Th 7s 6c]
+Siège 1 : albges888 (bouton) a montré [5c 5h] et a perdu avec double paire, Rois et Cinq
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : monassier (grosse blind) a montré [Qd Qs] et a gagné (10220) avec double paire, Rois et Dames
+Siège 4 : babas-54972 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238552817766 : Tournoi #3469553452, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 11/09/2022 9:41:14 CET [11/09/2022 3:41:14 ET]
+Table '3469553452 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (4790 en jetons) 
+Place 3: monassier (10220 en jetons) 
+Place 4: babas-54972 (4990 en jetons) 
+psychoman59 : met l'ante. 10
+monassier : met l'ante. 10
+babas-54972 : met l'ante. 10
+monassier : met la petite blind. 50
+babas-54972 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Ad]
+psychoman59 : relance. 280 à 380
+monassier : passe. 
+babas-54972 : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 280  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Siège 2 : psychoman59 (bouton) a remporté (280)
+Siège 3 : monassier (petite blind) s'est couché. avant Flop
+Siège 4 : babas-54972 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238552819534 : Tournoi #3469553452, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 11/09/2022 9:41:27 CET [11/09/2022 3:41:27 ET]
+Table '3469553452 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (4960 en jetons) 
+Place 3: monassier (10160 en jetons) 
+Place 4: babas-54972 (4880 en jetons) 
+psychoman59 : met l'ante. 10
+monassier : met l'ante. 10
+babas-54972 : met l'ante. 10
+babas-54972 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Kh]
+monassier : suit. 100
+babas-54972 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [6s Jc Ac]
+babas-54972 : parole 
+psychoman59 : parole 
+monassier : mise. 165
+babas-54972 : passe. 
+psychoman59 : suit. 165
+*** TOURNANT *** [6s Jc Ac] [As]
+psychoman59 : parole 
+monassier : mise. 100
+psychoman59 : suit. 100
+*** RIVIÈRE *** [6s Jc Ac As] [3h]
+psychoman59 : parole 
+monassier : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qd Kh] (une paire de As)
+monassier : montre [4c 6c] (double paire, As et Six)
+monassier a remporté 860  lors du pot .
+*** SYNTHÈSE ***
+Pot total 860 | Commission 0 
+Tableau [6s Jc Ac As 3h]
+Siège 2 : psychoman59 (grosse blind) a montré [Qd Kh] et a perdu avec une paire de As
+Siège 3 : monassier (bouton) a montré [4c 6c] et a gagné (860) avec double paire, As et Six
+Siège 4 : babas-54972 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238552823814 : Tournoi #3469553452, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 11/09/2022 9:42:00 CET [11/09/2022 3:42:00 ET]
+Table '3469553452 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (4585 en jetons) 
+Place 3: monassier (10645 en jetons) 
+Place 4: babas-54972 (4770 en jetons) 
+psychoman59 : met l'ante. 10
+monassier : met l'ante. 10
+babas-54972 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+monassier : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 2d]
+babas-54972 : passe. 
+psychoman59 : suit. 50
+monassier : parole 
+*** FLOP *** [Ad 5h Ah]
+psychoman59 : parole 
+monassier : mise. 100
+psychoman59 : suit. 100
+*** TOURNANT *** [Ad 5h Ah] [Ts]
+psychoman59 : parole 
+monassier : parole 
+*** RIVIÈRE *** [Ad 5h Ah Ts] [Jh]
+psychoman59 : parole 
+monassier : parole 
+*** ABATTAGE ***
+psychoman59 : montre [As 2d] (un brelan de As)
+monassier : cache la main perdante. 
+psychoman59 a remporté 430  lors du pot .
+*** SYNTHÈSE ***
+Pot total 430 | Commission 0 
+Tableau [Ad 5h Ah Ts Jh]
+Siège 2 : psychoman59 (petite blind) a montré [As 2d] et a gagné (430) avec un brelan de As
+Siège 3 : monassier (grosse blind) a caché la main perdante. [2c Kd]
+Siège 4 : babas-54972 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238552827369 : Tournoi #3469553452, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 11/09/2022 9:42:27 CET [11/09/2022 3:42:27 ET]
+Table '3469553452 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (4805 en jetons) 
+Place 3: monassier (10435 en jetons) 
+Place 4: babas-54972 (4760 en jetons) 
+psychoman59 : met l'ante. 10
+monassier : met l'ante. 10
+babas-54972 : met l'ante. 10
+monassier : met la petite blind. 50
+babas-54972 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 7d]
+psychoman59 : passe. 
+monassier : suit. 50
+babas-54972 : relance. 200 à 300
+monassier : suit. 200
+*** FLOP *** [5c Jh 9h]
+monassier : mise. 100
+babas-54972 : relance. 830 à 930
+monassier : suit. 830
+*** TOURNANT *** [5c Jh 9h] [3h]
+monassier : parole 
+babas-54972 : mise. 1245
+monassier : suit. 1245
+*** RIVIÈRE *** [5c Jh 9h 3h] [9s]
+monassier : parole 
+babas-54972 : parole 
+*** ABATTAGE ***
+monassier : montre [5h Qs] (double paire, Neuf et Cinq)
+babas-54972 : montre [Jc 7c] (double paire, Valets et Neuf)
+babas-54972 a remporté 4980  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4980 | Commission 0 
+Tableau [5c Jh 9h 3h 9s]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : monassier (petite blind) a montré [5h Qs] et a perdu avec double paire, Neuf et Cinq
+Siège 4 : babas-54972 (grosse blind) a montré [Jc 7c] et a gagné (4980) avec double paire, Valets et Neuf
+
+
+
+Main PokerStars n°238552832285 : Tournoi #3469553452, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 11/09/2022 9:43:03 CET [11/09/2022 3:43:03 ET]
+Table '3469553452 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (4795 en jetons) 
+Place 3: monassier (7950 en jetons) 
+Place 4: babas-54972 (7255 en jetons) 
+psychoman59 : met l'ante. 10
+monassier : met l'ante. 10
+babas-54972 : met l'ante. 10
+babas-54972 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 8d]
+monassier : relance. 100 à 200
+babas-54972 : suit. 150
+psychoman59 : relance. 4585 à 4785 et est all-in.
+monassier : passe. 
+babas-54972 : passe. 
+Personne n'a suivi. (4585) sont retournés à psychoman59.
+psychoman59 a remporté 630  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 630 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (630)
+Siège 3 : monassier (bouton) s'est couché. avant Flop
+Siège 4 : babas-54972 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238552834657 : Tournoi #3469553452, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 11/09/2022 9:43:21 CET [11/09/2022 3:43:21 ET]
+Table '3469553452 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (5215 en jetons) 
+Place 3: monassier (7740 en jetons) 
+Place 4: babas-54972 (7045 en jetons) 
+psychoman59 : met l'ante. 10
+monassier : met l'ante. 10
+babas-54972 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+monassier : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 7s]
+babas-54972 : suit. 100
+psychoman59 : passe. 
+monassier : parole 
+*** FLOP *** [Ks 5c 8c]
+monassier : parole 
+babas-54972 : mise. 100
+monassier : suit. 100
+*** TOURNANT *** [Ks 5c 8c] [Qs]
+monassier : parole 
+babas-54972 : mise. 300
+monassier : passe. 
+Personne n'a suivi. (300) sont retournés à babas-54972.
+babas-54972 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Ks 5c 8c Qs]
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : monassier (grosse blind) s'est couché. sur le Tournant
+Siège 4 : babas-54972 (bouton) a remporté (480)
+
+
+
+Main PokerStars n°238552838578 : Tournoi #3469553452, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 11/09/2022 9:43:51 CET [11/09/2022 3:43:51 ET]
+Table '3469553452 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (5155 en jetons) 
+Place 3: monassier (7530 en jetons) 
+Place 4: babas-54972 (7315 en jetons) 
+psychoman59 : met l'ante. 15
+monassier : met l'ante. 15
+babas-54972 : met l'ante. 15
+monassier : met la petite blind. 60
+babas-54972 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 4d]
+psychoman59 : passe. 
+monassier : suit. 60
+babas-54972 : relance. 120 à 240
+monassier : suit. 120
+*** FLOP *** [Kc 4h As]
+monassier : parole 
+babas-54972 : mise. 262
+monassier : passe. 
+Personne n'a suivi. (262) sont retournés à babas-54972.
+babas-54972 a remporté 525  lors du pot .
+*** SYNTHÈSE ***
+Pot total 525 | Commission 0 
+Tableau [Kc 4h As]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : monassier (petite blind) s'est couché. sur le Flop
+Siège 4 : babas-54972 (grosse blind) a remporté (525)
+
+
+
+Main PokerStars n°238552842125 : Tournoi #3469553452, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 11/09/2022 9:44:18 CET [11/09/2022 3:44:18 ET]
+Table '3469553452 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (5140 en jetons) 
+Place 3: monassier (7275 en jetons) 
+Place 4: babas-54972 (7585 en jetons) 
+psychoman59 : met l'ante. 15
+monassier : met l'ante. 15
+babas-54972 : met l'ante. 15
+babas-54972 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 4c]
+monassier : relance. 120 à 240
+babas-54972 : suit. 180
+psychoman59 : suit. 120
+*** FLOP *** [Qd Qc 6d]
+babas-54972 : parole 
+psychoman59 : parole 
+monassier : mise. 382
+babas-54972 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (382) sont retournés à monassier.
+monassier a remporté 765  lors du pot .
+*** SYNTHÈSE ***
+Pot total 765 | Commission 0 
+Tableau [Qd Qc 6d]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : monassier (bouton) a remporté (765)
+Siège 4 : babas-54972 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238552845389 : Tournoi #3469553452, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 11/09/2022 9:44:43 CET [11/09/2022 3:44:43 ET]
+Table '3469553452 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (4885 en jetons) 
+Place 3: monassier (7785 en jetons) 
+Place 4: babas-54972 (7330 en jetons) 
+psychoman59 : met l'ante. 15
+monassier : met l'ante. 15
+babas-54972 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+monassier : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Qh]
+babas-54972 : suit. 120
+psychoman59 : suit. 60
+monassier : parole 
+*** FLOP *** [6c 7s Th]
+psychoman59 : parole 
+monassier : mise. 202
+babas-54972 : passe. 
+psychoman59 : suit. 202
+*** TOURNANT *** [6c 7s Th] [Ah]
+psychoman59 : parole 
+monassier : mise. 120
+psychoman59 : suit. 120
+*** RIVIÈRE *** [6c 7s Th Ah] [Kh]
+psychoman59 : parole 
+monassier : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5h Qh] (une couleur, hauteur As)
+monassier : cache la main perdante. 
+psychoman59 a remporté 1049  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1049 | Commission 0 
+Tableau [6c 7s Th Ah Kh]
+Siège 2 : psychoman59 (petite blind) a montré [5h Qh] et a gagné (1049) avec une couleur, hauteur As
+Siège 3 : monassier (grosse blind) a caché la main perdante. [3d Ts]
+Siège 4 : babas-54972 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238552850179 : Tournoi #3469553452, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 11/09/2022 9:45:20 CET [11/09/2022 3:45:20 ET]
+Table '3469553452 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (5477 en jetons) 
+Place 3: monassier (7328 en jetons) 
+Place 4: babas-54972 (7195 en jetons) 
+psychoman59 : met l'ante. 15
+monassier : met l'ante. 15
+babas-54972 : met l'ante. 15
+monassier : met la petite blind. 60
+babas-54972 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 7s]
+psychoman59 : suit. 120
+monassier : suit. 60
+babas-54972 : parole 
+*** FLOP *** [3c 4s 7c]
+monassier : mise. 120
+babas-54972 : suit. 120
+psychoman59 : relance. 765 à 885
+monassier : suit. 765
+babas-54972 : passe. 
+*** TOURNANT *** [3c 4s 7c] [3d]
+monassier : parole 
+psychoman59 : mise. 1147
+monassier : suit. 1147
+*** RIVIÈRE *** [3c 4s 7c 3d] [Td]
+monassier : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+monassier : montre [4c 9c] (double paire, Quatre et Trois)
+psychoman59 : montre [8d 7s] (double paire, Sept et Trois)
+psychoman59 a remporté 4589  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4589 | Commission 0 
+Tableau [3c 4s 7c 3d Td]
+Siège 2 : psychoman59 (bouton) a montré [8d 7s] et a gagné (4589) avec double paire, Sept et Trois
+Siège 3 : monassier (petite blind) a montré [4c 9c] et a perdu avec double paire, Quatre et Trois
+Siège 4 : babas-54972 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238552854791 : Tournoi #3469553452, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 11/09/2022 9:45:56 CET [11/09/2022 3:45:56 ET]
+Table '3469553452 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (7899 en jetons) 
+Place 3: monassier (5161 en jetons) 
+Place 4: babas-54972 (6940 en jetons) 
+psychoman59 : met l'ante. 15
+monassier : met l'ante. 15
+babas-54972 : met l'ante. 15
+babas-54972 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 2h]
+monassier : passe. 
+babas-54972 : relance. 120 à 240
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à babas-54972.
+babas-54972 a remporté 285  lors du pot .
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : monassier (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : babas-54972 (petite blind) a remporté (285)
+
+
+
+Main PokerStars n°238552856199 : Tournoi #3469553452, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 11/09/2022 9:46:06 CET [11/09/2022 3:46:06 ET]
+Table '3469553452 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (7764 en jetons) 
+Place 3: monassier (5146 en jetons) 
+Place 4: babas-54972 (7090 en jetons) 
+psychoman59 : met l'ante. 15
+monassier : met l'ante. 15
+babas-54972 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+monassier : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ks]
+babas-54972 : relance. 120 à 240
+psychoman59 : suit. 180
+monassier : passe. 
+*** FLOP *** [3c 8s 8d]
+psychoman59 : parole 
+babas-54972 : mise. 240
+psychoman59 : passe. 
+Personne n'a suivi. (240) sont retournés à babas-54972.
+babas-54972 a remporté 645  lors du pot .
+*** SYNTHÈSE ***
+Pot total 645 | Commission 0 
+Tableau [3c 8s 8d]
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : monassier (grosse blind) s'est couché. avant Flop
+Siège 4 : babas-54972 (bouton) a remporté (645)
+
+
+
+Main PokerStars n°238552858708 : Tournoi #3469553452, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 11/09/2022 9:46:26 CET [11/09/2022 3:46:26 ET]
+Table '3469553452 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (7509 en jetons) 
+Place 3: monassier (5011 en jetons) 
+Place 4: babas-54972 (7480 en jetons) 
+psychoman59 : met l'ante. 15
+monassier : met l'ante. 15
+babas-54972 : met l'ante. 15
+monassier : met la petite blind. 60
+babas-54972 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 5d]
+psychoman59 : passe. 
+monassier : suit. 60
+babas-54972 : parole 
+*** FLOP *** [3h 7c 7h]
+monassier : mise. 120
+babas-54972 : suit. 120
+*** TOURNANT *** [3h 7c 7h] [Qd]
+monassier : mise. 120
+babas-54972 : passe. 
+Personne n'a suivi. (120) sont retournés à monassier.
+monassier a remporté 525  lors du pot .
+*** SYNTHÈSE ***
+Pot total 525 | Commission 0 
+Tableau [3h 7c 7h Qd]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : monassier (petite blind) a remporté (525)
+Siège 4 : babas-54972 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238552861364 : Tournoi #3469553452, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 11/09/2022 9:46:46 CET [11/09/2022 3:46:46 ET]
+Table '3469553452 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (7494 en jetons) 
+Place 3: monassier (5281 en jetons) 
+Place 4: babas-54972 (7225 en jetons) 
+psychoman59 : met l'ante. 15
+monassier : met l'ante. 15
+babas-54972 : met l'ante. 15
+babas-54972 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 6c]
+monassier : relance. 120 à 240
+babas-54972 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à monassier.
+monassier a remporté 345  lors du pot .
+*** SYNTHÈSE ***
+Pot total 345 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : monassier (bouton) a remporté (345)
+Siège 4 : babas-54972 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238552862964 : Tournoi #3469553452, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 11/09/2022 9:46:58 CET [11/09/2022 3:46:58 ET]
+Table '3469553452 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (7359 en jetons) 
+Place 3: monassier (5491 en jetons) 
+Place 4: babas-54972 (7150 en jetons) 
+psychoman59 : met l'ante. 20
+monassier : met l'ante. 20
+babas-54972 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+monassier : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Th]
+babas-54972 : relance. 150 à 300
+psychoman59 : suit. 225
+monassier : passe. 
+*** FLOP *** [7h 5h 3d]
+psychoman59 : parole 
+babas-54972 : mise. 405
+psychoman59 : passe. 
+Personne n'a suivi. (405) sont retournés à babas-54972.
+babas-54972 a remporté 810  lors du pot .
+*** SYNTHÈSE ***
+Pot total 810 | Commission 0 
+Tableau [7h 5h 3d]
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : monassier (grosse blind) s'est couché. avant Flop
+Siège 4 : babas-54972 (bouton) a remporté (810)
+
+
+
+Main PokerStars n°238552865872 : Tournoi #3469553452, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 11/09/2022 9:47:20 CET [11/09/2022 3:47:20 ET]
+Table '3469553452 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (7039 en jetons) 
+Place 3: monassier (5321 en jetons) 
+Place 4: babas-54972 (7640 en jetons) 
+psychoman59 : met l'ante. 20
+monassier : met l'ante. 20
+babas-54972 : met l'ante. 20
+monassier : met la petite blind. 75
+babas-54972 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 8h]
+psychoman59 : passe. 
+monassier : suit. 75
+babas-54972 : parole 
+*** FLOP *** [Th 6d 2c]
+monassier : mise. 150
+babas-54972 : suit. 150
+*** TOURNANT *** [Th 6d 2c] [7c]
+monassier : mise. 150
+babas-54972 : suit. 150
+*** RIVIÈRE *** [Th 6d 2c 7c] [9c]
+monassier : mise. 150
+babas-54972 : relance. 630 à 780
+monassier : suit. 630
+*** ABATTAGE ***
+babas-54972 : montre [2s 9h] (double paire, Neuf et Deux)
+monassier : montre [9s Ts] (double paire, Dix et Neuf)
+monassier a remporté 2520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2520 | Commission 0 
+Tableau [Th 6d 2c 7c 9c]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : monassier (petite blind) a montré [9s Ts] et a gagné (2520) avec double paire, Dix et Neuf
+Siège 4 : babas-54972 (grosse blind) a montré [2s 9h] et a perdu avec double paire, Neuf et Deux
+
+
+
+Main PokerStars n°238552869173 : Tournoi #3469553452, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 11/09/2022 9:47:45 CET [11/09/2022 3:47:45 ET]
+Table '3469553452 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (7019 en jetons) 
+Place 3: monassier (6591 en jetons) 
+Place 4: babas-54972 (6390 en jetons) 
+psychoman59 : met l'ante. 20
+monassier : met l'ante. 20
+babas-54972 : met l'ante. 20
+babas-54972 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Jc]
+monassier : passe. 
+babas-54972 : relance. 300 à 450
+psychoman59 : suit. 300
+*** FLOP *** [7d 7h Qs]
+babas-54972 : mise. 480
+psychoman59 : suit. 480
+*** TOURNANT *** [7d 7h Qs] [7c]
+babas-54972 : parole 
+psychoman59 : mise. 960
+babas-54972 : suit. 960
+*** RIVIÈRE *** [7d 7h Qs 7c] [6d]
+babas-54972 : parole 
+psychoman59 : mise. 3840
+babas-54972 : suit. 3840
+*** ABATTAGE ***
+psychoman59 : montre [Qh Jc] (un full, full aux Sept par les Dames)
+babas-54972 : cache la main perdante. 
+psychoman59 a remporté 11520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 11520 | Commission 0 
+Tableau [7d 7h Qs 7c 6d]
+Siège 2 : psychoman59 (grosse blind) a montré [Qh Jc] et a gagné (11520) avec un full, full aux Sept par les Dames
+Siège 3 : monassier (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : babas-54972 (petite blind) a caché la main perdante. [Ad 9h]
+
+
+
+Main PokerStars n°238552873951 : Tournoi #3469553452, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 11/09/2022 9:48:22 CET [11/09/2022 3:48:22 ET]
+Table '3469553452 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (12789 en jetons) 
+Place 3: monassier (6571 en jetons) 
+Place 4: babas-54972 (640 en jetons) 
+psychoman59 : met l'ante. 20
+monassier : met l'ante. 20
+babas-54972 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+monassier : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Kd]
+babas-54972 : relance. 470 à 620 et est all-in.
+psychoman59 : passe. 
+monassier : passe. 
+Personne n'a suivi. (470) sont retournés à babas-54972.
+babas-54972 a remporté 435  lors du pot .
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : monassier (grosse blind) s'est couché. avant Flop
+Siège 4 : babas-54972 (bouton) a remporté (435)
+
+
+
+Main PokerStars n°238552875381 : Tournoi #3469553452, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 11/09/2022 9:48:32 CET [11/09/2022 3:48:32 ET]
+Table '3469553452 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (12694 en jetons) 
+Place 3: monassier (6401 en jetons) 
+Place 4: babas-54972 (905 en jetons) 
+psychoman59 : met l'ante. 20
+monassier : met l'ante. 20
+babas-54972 : met l'ante. 20
+monassier : met la petite blind. 75
+babas-54972 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ts]
+psychoman59 : passe. 
+monassier : passe. 
+Personne n'a suivi. (75) sont retournés à babas-54972.
+babas-54972 a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : monassier (petite blind) s'est couché. avant Flop
+Siège 4 : babas-54972 (grosse blind) a remporté (210)
+
+
+
+Main PokerStars n°238552876572 : Tournoi #3469553452, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 11/09/2022 9:48:42 CET [11/09/2022 3:48:42 ET]
+Table '3469553452 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (12674 en jetons) 
+Place 3: monassier (6306 en jetons) 
+Place 4: babas-54972 (1020 en jetons) 
+psychoman59 : met l'ante. 20
+monassier : met l'ante. 20
+babas-54972 : met l'ante. 20
+babas-54972 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 8c]
+monassier : passe. 
+babas-54972 : relance. 850 à 1000 et est all-in.
+psychoman59 : suit. 850
+*** FLOP *** [Jd Ad 8d]
+*** TOURNANT *** [Jd Ad 8d] [6c]
+*** RIVIÈRE *** [Jd Ad 8d 6c] [2c]
+*** ABATTAGE ***
+babas-54972 : montre [Kh Ts] (Hauteur As)
+psychoman59 : montre [Qc 8c] (une paire de Huit)
+psychoman59 a remporté 2060  lors du pot .
+babas-54972 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 2060 | Commission 0 
+Tableau [Jd Ad 8d 6c 2c]
+Siège 2 : psychoman59 (grosse blind) a montré [Qc 8c] et a gagné (2060) avec une paire de Huit
+Siège 3 : monassier (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : babas-54972 (petite blind) a montré [Kh Ts] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°238552879049 : Tournoi #3469553452, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 11/09/2022 9:49:00 CET [11/09/2022 3:49:00 ET]
+Table '3469553452 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (13714 en jetons) 
+Place 3: monassier (6286 en jetons) 
+psychoman59 : met l'ante. 20
+monassier : met l'ante. 20
+psychoman59 : met la petite blind. 75
+monassier : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Kd]
+psychoman59 : suit. 75
+monassier : parole 
+*** FLOP *** [2s Kc Jc]
+monassier : mise. 150
+psychoman59 : suit. 150
+*** TOURNANT *** [2s Kc Jc] [6s]
+monassier : mise. 150
+psychoman59 : suit. 150
+*** RIVIÈRE *** [2s Kc Jc 6s] [3d]
+monassier : mise. 470
+psychoman59 : suit. 470
+*** ABATTAGE ***
+monassier : montre [Jh Qs] (une paire de Valets)
+psychoman59 : montre [8d Kd] (une paire de Rois)
+psychoman59 a remporté 1880  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1880 | Commission 0 
+Tableau [2s Kc Jc 6s 3d]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [8d Kd] et a gagné (1880) avec une paire de Rois
+Siège 3 : monassier (grosse blind) a montré [Jh Qs] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°238552882350 : Tournoi #3469553452, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 11/09/2022 9:49:26 CET [11/09/2022 3:49:26 ET]
+Table '3469553452 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (14654 en jetons) 
+Place 3: monassier (5346 en jetons) 
+psychoman59 : met l'ante. 20
+monassier : met l'ante. 20
+monassier : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Tc]
+monassier : relance. 150 à 300
+psychoman59 : relance. 14334 à 14634 et est all-in.
+monassier : suit. 5026 et est all-in.
+Personne n'a suivi. (9308) sont retournés à psychoman59.
+*** FLOP *** [Ah Qd 3h]
+*** TOURNANT *** [Ah Qd 3h] [8h]
+*** RIVIÈRE *** [Ah Qd 3h 8h] [Jd]
+*** ABATTAGE ***
+psychoman59 : montre [Ad Tc] (une paire de As)
+monassier : montre [5c 5d] (une paire de Cinq)
+psychoman59 a remporté 10692  lors du pot .
+monassier a fini le tournoi à la 2e place et a reçu 0.34 €.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 10692 | Commission 0 
+Tableau [Ah Qd 3h 8h Jd]
+Siège 2 : psychoman59 (grosse blind) a montré [Ad Tc] et a gagné (10692) avec une paire de As
+Siège 3 : monassier (bouton) (petite blind) a montré [5c 5d] et a perdu avec une paire de Cinq
+
+
+

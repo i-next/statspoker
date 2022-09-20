@@ -1,0 +1,236 @@
+﻿Main PokerStars n°238531513286 : Tournoi #3469071384, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/09/2022 9:16:06 CET [10/09/2022 3:16:06 ET]
+Table '3469071384 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: speed25000 (300 en jetons) 
+Place 3: petra59280 (300 en jetons) 
+speed25000 : met la petite blind. 10
+petra59280 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 3d]
+psychoman59 : passe. 
+speed25000 : suit. 10
+petra59280 : parole 
+*** FLOP *** [9c Js 3s]
+speed25000 : parole 
+petra59280 : parole 
+*** TOURNANT *** [9c Js 3s] [Ac]
+speed25000 : parole 
+petra59280 : parole 
+*** RIVIÈRE *** [9c Js 3s Ac] [Kh]
+speed25000 : parole 
+petra59280 : parole 
+*** ABATTAGE ***
+speed25000 : montre [6h 7s] (Hauteur As)
+petra59280 : montre [8s Tc] (Hauteur As - Roi+Valet+Dix kicker)
+petra59280 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9c Js 3s Ac Kh]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : speed25000 (petite blind) a montré [6h 7s] et a perdu avec Hauteur As
+Siège 3 : petra59280 (grosse blind) a montré [8s Tc] et a gagné (40) avec Hauteur As
+
+
+
+Main PokerStars n°238531516962 : Tournoi #3469071384, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/09/2022 9:16:36 CET [10/09/2022 3:16:36 ET]
+Table '3469071384 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: speed25000 (280 en jetons) 
+Place 3: petra59280 (320 en jetons) 
+petra59280 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ad]
+speed25000 : suit. 20
+petra59280 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ks 7h Qc]
+petra59280 : parole 
+psychoman59 : parole 
+speed25000 : parole 
+*** TOURNANT *** [Ks 7h Qc] [3c]
+petra59280 : parole 
+psychoman59 : parole 
+speed25000 : parole 
+*** RIVIÈRE *** [Ks 7h Qc 3c] [7c]
+petra59280 : parole 
+psychoman59 : parole 
+speed25000 : parole 
+*** ABATTAGE ***
+petra59280 : montre [4s 2s] (une paire de Sept)
+psychoman59 : montre [5d Ad] (une paire de Sept - As kicker)
+speed25000 : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ks 7h Qc 3c 7c]
+Siège 1 : psychoman59 (grosse blind) a montré [5d Ad] et a gagné (60) avec une paire de Sept
+Siège 2 : speed25000 (bouton) a caché la main perdante. [6d Jh]
+Siège 3 : petra59280 (petite blind) a montré [4s 2s] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°238531521976 : Tournoi #3469071384, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/09/2022 9:17:17 CET [10/09/2022 3:17:17 ET]
+Table '3469071384 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: speed25000 (260 en jetons) 
+Place 3: petra59280 (300 en jetons) 
+psychoman59 : met la petite blind. 15
+speed25000 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7s]
+petra59280 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à speed25000.
+speed25000 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : speed25000 (grosse blind) a remporté (30)
+Siège 3 : petra59280 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238531522737 : Tournoi #3469071384, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/09/2022 9:17:23 CET [10/09/2022 3:17:23 ET]
+Table '3469071384 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (325 en jetons) 
+Place 2: speed25000 (275 en jetons) 
+Place 3: petra59280 (300 en jetons) 
+speed25000 : met la petite blind. 15
+petra59280 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 9s]
+psychoman59 : passe. 
+speed25000 : suit. 15
+petra59280 : parole 
+*** FLOP *** [Ad 4s 7s]
+speed25000 : parole 
+petra59280 : parole 
+*** TOURNANT *** [Ad 4s 7s] [7d]
+speed25000 : parole 
+petra59280 : parole 
+*** RIVIÈRE *** [Ad 4s 7s 7d] [Td]
+speed25000 : parole 
+petra59280 : parole 
+*** ABATTAGE ***
+speed25000 : montre [9c Ts] (double paire, Dix et Sept)
+petra59280 : cache la main perdante. 
+speed25000 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ad 4s 7s 7d Td]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : speed25000 (petite blind) a montré [9c Ts] et a gagné (60) avec double paire, Dix et Sept
+Siège 3 : petra59280 (grosse blind) a caché la main perdante. [8d 2h]
+
+
+
+Main PokerStars n°238531524968 : Tournoi #3469071384, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/09/2022 9:17:42 CET [10/09/2022 3:17:42 ET]
+Table '3469071384 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (325 en jetons) 
+Place 2: speed25000 (305 en jetons) 
+Place 3: petra59280 (270 en jetons) 
+petra59280 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 6d]
+speed25000 : suit. 30
+petra59280 : relance. 30 à 60
+psychoman59 : passe. 
+speed25000 : suit. 30
+*** FLOP *** [Kd Qd Kc]
+petra59280 : mise. 150
+speed25000 : suit. 150
+*** TOURNANT *** [Kd Qd Kc] [2s]
+petra59280 : mise. 60 et est all-in.
+speed25000 : passe. 
+Personne n'a suivi. (60) sont retournés à petra59280.
+petra59280 a remporté 450  lors du pot .
+petra59280 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [Kd Qd Kc 2s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : speed25000 (bouton) s'est couché. sur le Tournant
+Siège 3 : petra59280 (petite blind) a remporté (450)
+
+
+
+Main PokerStars n°238531527844 : Tournoi #3469071384, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/09/2022 9:18:05 CET [10/09/2022 3:18:05 ET]
+Table '3469071384 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (295 en jetons) 
+Place 2: speed25000 (95 en jetons) 
+Place 3: petra59280 (510 en jetons) 
+psychoman59 : met la petite blind. 15
+speed25000 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c As]
+petra59280 : relance. 480 à 510 et est all-in.
+psychoman59 : suit. 280 et est all-in.
+speed25000 : suit. 65 et est all-in.
+Personne n'a suivi. (215) sont retournés à petra59280.
+*** FLOP *** [Ac Ad Qc]
+*** TOURNANT *** [Ac Ad Qc] [9h]
+*** RIVIÈRE *** [Ac Ad Qc 9h] [4s]
+*** ABATTAGE ***
+psychoman59 : montre [9c As] (un full, full aux As par les Neuf)
+petra59280 : montre [7d 7s] (double paire, As et Sept)
+psychoman59 a remporté 400  parallèle lors du pot .
+speed25000 : montre [6s 6d] (double paire, As et Six)
+psychoman59 a remporté 285  principal lors du pot .
+speed25000 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 685 Principal pot 285. Parallèle pot 400. | Commission 0 
+Tableau [Ac Ad Qc 9h 4s]
+Siège 1 : psychoman59 (petite blind) a montré [9c As] et a gagné (685) avec un full, full aux As par les Neuf
+Siège 2 : speed25000 (grosse blind) a montré [6s 6d] et a perdu avec double paire, As et Six
+Siège 3 : petra59280 (bouton) a montré [7d 7s] et a perdu avec double paire, As et Sept
+
+
+
+Main PokerStars n°238531530728 : Tournoi #3469071384, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/09/2022 9:18:28 CET [10/09/2022 3:18:28 ET]
+Table '3469071384 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (685 en jetons) 
+Place 3: petra59280 (215 en jetons) 
+psychoman59 : met la petite blind. 20
+petra59280 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à petra59280.
+petra59280 a remporté 40  lors du pot .
+petra59280 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : petra59280 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238531531350 : Tournoi #3469071384, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/09/2022 9:18:34 CET [10/09/2022 3:18:34 ET]
+Table '3469071384 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (665 en jetons) 
+Place 3: petra59280 (235 en jetons) 
+petra59280 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Qs]
+petra59280 : relance. 195 à 235 et est all-in.
+psychoman59 : suit. 195
+*** FLOP *** [2c 5s 4d]
+*** TOURNANT *** [2c 5s 4d] [8d]
+*** RIVIÈRE *** [2c 5s 4d 8d] [6c]
+*** ABATTAGE ***
+psychoman59 : montre [Qh Qs] (une paire de Dames)
+petra59280 : montre [Js Jc] (une paire de Valets)
+psychoman59 a remporté 470  lors du pot .
+petra59280 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 470 | Commission 0 
+Tableau [2c 5s 4d 8d 6c]
+Siège 1 : psychoman59 (grosse blind) a montré [Qh Qs] et a gagné (470) avec une paire de Dames
+Siège 3 : petra59280 (bouton) (petite blind) a montré [Js Jc] et a perdu avec une paire de Valets
+
+
+

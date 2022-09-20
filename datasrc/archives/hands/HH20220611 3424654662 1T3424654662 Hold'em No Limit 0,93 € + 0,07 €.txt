@@ -1,0 +1,234 @@
+﻿Main PokerStars n°236690796793 : Tournoi #3424654662, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2022 7:58:20 CET [11/06/2022 1:58:20 ET]
+Table '3424654662 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: mollaletty (300 en jetons) 
+Place 3: maturin14700 (300 en jetons) 
+mollaletty : met la petite blind. 10
+maturin14700 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 5d]
+psychoman59 : relance. 20 à 40
+mollaletty : suit. 30
+maturin14700 : passe. 
+*** FLOP *** [Ah Kd 3c]
+mollaletty : parole 
+psychoman59 : mise. 100
+mollaletty : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [Ah Kd 3c]
+Siège 1 : psychoman59 (bouton) a remporté (100)
+Siège 2 : mollaletty (petite blind) s'est couché. sur le Flop
+Siège 3 : maturin14700 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236690799843 : Tournoi #3424654662, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2022 7:58:48 CET [11/06/2022 1:58:48 ET]
+Table '3424654662 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (360 en jetons) 
+Place 2: mollaletty (260 en jetons) 
+Place 3: maturin14700 (280 en jetons) 
+maturin14700 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 7h]
+mollaletty : suit. 20
+maturin14700 : relance. 40 à 60
+psychoman59 : passe. 
+mollaletty : suit. 40
+*** FLOP *** [Ah 7d 2s]
+maturin14700 : parole 
+mollaletty : parole 
+*** TOURNANT *** [Ah 7d 2s] [3h]
+maturin14700 : parole 
+mollaletty : parole 
+*** RIVIÈRE *** [Ah 7d 2s 3h] [4h]
+maturin14700 : parole 
+mollaletty : parole 
+*** ABATTAGE ***
+maturin14700 : montre [Jh Jc] (une paire de Valets)
+mollaletty : cache la main perdante. 
+maturin14700 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [Ah 7d 2s 3h 4h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : mollaletty (bouton) a caché la main perdante. [9c Kd]
+Siège 3 : maturin14700 (petite blind) a montré [Jh Jc] et a gagné (140) avec une paire de Valets
+
+
+
+Main PokerStars n°236690801971 : Tournoi #3424654662, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2022 7:59:07 CET [11/06/2022 1:59:07 ET]
+Table '3424654662 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: mollaletty (200 en jetons) 
+Place 3: maturin14700 (360 en jetons) 
+psychoman59 : met la petite blind. 10
+mollaletty : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Th]
+maturin14700 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à mollaletty.
+mollaletty a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : mollaletty (grosse blind) a remporté (20)
+Siège 3 : maturin14700 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°236690802789 : Tournoi #3424654662, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2022 7:59:14 CET [11/06/2022 1:59:14 ET]
+Table '3424654662 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: mollaletty (210 en jetons) 
+Place 3: maturin14700 (360 en jetons) 
+mollaletty : met la petite blind. 10
+maturin14700 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 2d]
+psychoman59 : passe. 
+mollaletty : suit. 10
+maturin14700 : parole 
+*** FLOP *** [9d 8d 8s]
+mollaletty : parole 
+maturin14700 : parole 
+*** TOURNANT *** [9d 8d 8s] [9h]
+mollaletty : parole 
+maturin14700 : parole 
+*** RIVIÈRE *** [9d 8d 8s 9h] [Ts]
+mollaletty : parole 
+maturin14700 : parole 
+*** ABATTAGE ***
+mollaletty : montre [Qd 6h] (double paire, Neuf et Huit)
+maturin14700 : montre [5c Td] (double paire, Dix et Neuf)
+maturin14700 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9d 8d 8s 9h Ts]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : mollaletty (petite blind) a montré [Qd 6h] et a perdu avec double paire, Neuf et Huit
+Siège 3 : maturin14700 (grosse blind) a montré [5c Td] et a gagné (40) avec double paire, Dix et Neuf
+
+
+
+Main PokerStars n°236690805112 : Tournoi #3424654662, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/06/2022 7:59:37 CET [11/06/2022 1:59:37 ET]
+Table '3424654662 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: mollaletty (190 en jetons) 
+Place 3: maturin14700 (380 en jetons) 
+maturin14700 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Qh]
+mollaletty : suit. 30
+maturin14700 : passe. 
+psychoman59 : parole 
+*** FLOP *** [5h 6c 7d]
+psychoman59 : parole 
+mollaletty : parole 
+*** TOURNANT *** [5h 6c 7d] [9d]
+psychoman59 : parole 
+mollaletty : parole 
+*** RIVIÈRE *** [5h 6c 7d 9d] [4d]
+psychoman59 : parole 
+mollaletty : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4s Qh] (une paire de Quatre)
+mollaletty : montre [2s 9s] (une paire de Neuf)
+mollaletty a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [5h 6c 7d 9d 4d]
+Siège 1 : psychoman59 (grosse blind) a montré [4s Qh] et a perdu avec une paire de Quatre
+Siège 2 : mollaletty (bouton) a montré [2s 9s] et a gagné (75) avec une paire de Neuf
+Siège 3 : maturin14700 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236690807641 : Tournoi #3424654662, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/06/2022 8:00:00 CET [11/06/2022 2:00:00 ET]
+Table '3424654662 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: mollaletty (235 en jetons) 
+Place 3: maturin14700 (365 en jetons) 
+psychoman59 : met la petite blind. 15
+mollaletty : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 7c]
+maturin14700 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à mollaletty.
+mollaletty a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : mollaletty (grosse blind) a remporté (30)
+Siège 3 : maturin14700 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°236690808372 : Tournoi #3424654662, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/06/2022 8:00:07 CET [11/06/2022 2:00:07 ET]
+Table '3424654662 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (285 en jetons) 
+Place 2: mollaletty (250 en jetons) 
+Place 3: maturin14700 (365 en jetons) 
+mollaletty : met la petite blind. 15
+maturin14700 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 5d]
+psychoman59 : passe. 
+mollaletty : suit. 15
+maturin14700 : parole 
+*** FLOP *** [8s Ks 7d]
+mollaletty : parole 
+maturin14700 : mise. 30
+mollaletty : suit. 30
+*** TOURNANT *** [8s Ks 7d] [9s]
+mollaletty : parole 
+maturin14700 : parole 
+*** RIVIÈRE *** [8s Ks 7d 9s] [6h]
+mollaletty : mise. 60
+maturin14700 : passe. 
+Personne n'a suivi. (60) sont retournés à mollaletty.
+mollaletty a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8s Ks 7d 9s 6h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : mollaletty (petite blind) a remporté (120)
+Siège 3 : maturin14700 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°236690816035 : Tournoi #3424654662, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/06/2022 8:01:14 CET [11/06/2022 2:01:14 ET]
+Table '3424654662 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (285 en jetons) 
+Place 2: mollaletty (310 en jetons) 
+Place 3: maturin14700 (305 en jetons) 
+maturin14700 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ah]
+mollaletty : relance. 40 à 80
+maturin14700 : passe. 
+psychoman59 : relance. 205 à 285 et est all-in.
+mollaletty : suit. 205
+*** FLOP *** [Ts 4s 6d]
+*** TOURNANT *** [Ts 4s 6d] [5s]
+*** RIVIÈRE *** [Ts 4s 6d 5s] [8d]
+*** ABATTAGE ***
+psychoman59 : montre [8c Ah] (une paire de Huit)
+mollaletty : montre [Th Jh] (une paire de Dix)
+mollaletty a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [Ts 4s 6d 5s 8d]
+Siège 1 : psychoman59 (grosse blind) a montré [8c Ah] et a perdu avec une paire de Huit
+Siège 2 : mollaletty (bouton) a montré [Th Jh] et a gagné (590) avec une paire de Dix
+Siège 3 : maturin14700 (petite blind) s'est couché. avant Flop
+
+
+

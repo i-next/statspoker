@@ -1,0 +1,89 @@
+﻿Main PokerStars n°237543189068 : Tournoi #3445742220, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/07/2022 0:05:15 CET [23/07/2022 18:05:15 ET]
+Table '3445742220 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: MAZYANMAZ (300 en jetons) 
+Place 3: guizmogood (300 en jetons) 
+MAZYANMAZ : met la petite blind. 10
+guizmogood : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Jd]
+psychoman59 : suit. 20
+MAZYANMAZ : suit. 10
+guizmogood : parole 
+*** FLOP *** [Ad 8d 9s]
+MAZYANMAZ : parole 
+guizmogood : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ad 8d 9s] [7s]
+MAZYANMAZ : parole 
+guizmogood : mise. 60
+psychoman59 : suit. 60
+MAZYANMAZ : passe. 
+*** RIVIÈRE *** [Ad 8d 9s 7s] [Qh]
+guizmogood : mise. 80
+psychoman59 : suit. 80
+*** ABATTAGE ***
+guizmogood : montre [5h 6c] (une suite, Cinq à Neuf)
+psychoman59 : cache la main perdante. 
+guizmogood a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [Ad 8d 9s 7s Qh]
+Siège 1 : psychoman59 (bouton) a caché la main perdante. [Qd Jd]
+Siège 2 : MAZYANMAZ (petite blind) s'est couché. sur le Tournant
+Siège 3 : guizmogood (grosse blind) a montré [5h 6c] et a gagné (340) avec une suite, Cinq à Neuf
+
+
+
+Main PokerStars n°237543199386 : Tournoi #3445742220, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/07/2022 0:05:47 CET [23/07/2022 18:05:47 ET]
+Table '3445742220 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (140 en jetons) 
+Place 2: MAZYANMAZ (280 en jetons) 
+Place 3: guizmogood (480 en jetons) 
+guizmogood : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 4s]
+MAZYANMAZ : relance. 40 à 60
+guizmogood : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à MAZYANMAZ.
+MAZYANMAZ a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : MAZYANMAZ (bouton) a remporté (50)
+Siège 3 : guizmogood (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237543202341 : Tournoi #3445742220, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/07/2022 0:05:57 CET [23/07/2022 18:05:57 ET]
+Table '3445742220 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (120 en jetons) 
+Place 2: MAZYANMAZ (310 en jetons) 
+Place 3: guizmogood (470 en jetons) 
+psychoman59 : met la petite blind. 10
+MAZYANMAZ : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Ah]
+guizmogood : relance. 20 à 40
+psychoman59 : relance. 80 à 120 et est all-in.
+MAZYANMAZ : passe. 
+guizmogood : suit. 80
+*** FLOP *** [6c Td 5c]
+*** TOURNANT *** [6c Td 5c] [8s]
+*** RIVIÈRE *** [6c Td 5c 8s] [8h]
+*** ABATTAGE ***
+psychoman59 : montre [4d Ah] (une paire de Huit)
+guizmogood : montre [Tc Ac] (double paire, Dix et Huit)
+guizmogood a remporté 260  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [6c Td 5c 8s 8h]
+Siège 1 : psychoman59 (petite blind) a montré [4d Ah] et a perdu avec une paire de Huit
+Siège 2 : MAZYANMAZ (grosse blind) s'est couché. avant Flop
+Siège 3 : guizmogood (bouton) a montré [Tc Ac] et a gagné (260) avec double paire, Dix et Huit
+
+
+

@@ -1,0 +1,76 @@
+﻿Main PokerStars n°237455588918 : Tournoi #3443719162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 17:06:46 CET [19/07/2022 11:06:46 ET]
+Table '3443719162 1' 3-max Siège #1 est au bouton.
+Place 1: SIKZIK (300 en jetons) 
+Place 2: gh0st54 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+gh0st54 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 8c]
+SIKZIK : relance. 280 à 300 et est all-in.
+gh0st54 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (280) sont retournés à SIKZIK.
+SIKZIK a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : SIKZIK (bouton) a remporté (50)
+Siège 2 : gh0st54 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237455591790 : Tournoi #3443719162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 17:06:56 CET [19/07/2022 11:06:56 ET]
+Table '3443719162 1' 3-max Siège #2 est au bouton.
+Place 1: SIKZIK (330 en jetons) 
+Place 2: gh0st54 (290 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+SIKZIK : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 8s]
+gh0st54 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à SIKZIK.
+SIKZIK a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : SIKZIK (grosse blind) a remporté (20)
+Siège 2 : gh0st54 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237455593778 : Tournoi #3443719162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 17:07:03 CET [19/07/2022 11:07:03 ET]
+Table '3443719162 1' 3-max Siège #3 est au bouton.
+Place 1: SIKZIK (340 en jetons) 
+Place 2: gh0st54 (290 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+SIKZIK : met la petite blind. 10
+gh0st54 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Qh]
+psychoman59 : relance. 50 à 70
+SIKZIK : suit. 60
+gh0st54 : passe. 
+*** FLOP *** [5c 4h 9s]
+SIKZIK : parole 
+psychoman59 : mise. 80
+SIKZIK : relance. 80 à 160
+psychoman59 : relance. 40 à 200 et est all-in.
+SIKZIK : suit. 40
+*** TOURNANT *** [5c 4h 9s] [Ac]
+*** RIVIÈRE *** [5c 4h 9s Ac] [2c]
+*** ABATTAGE ***
+SIKZIK : montre [2h 2s] (un brelan de Deux)
+psychoman59 : montre [Qc Qh] (une paire de Dames)
+SIKZIK a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [5c 4h 9s Ac 2c]
+Siège 1 : SIKZIK (petite blind) a montré [2h 2s] et a gagné (560) avec un brelan de Deux
+Siège 2 : gh0st54 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [Qc Qh] et a perdu avec une paire de Dames
+
+
+

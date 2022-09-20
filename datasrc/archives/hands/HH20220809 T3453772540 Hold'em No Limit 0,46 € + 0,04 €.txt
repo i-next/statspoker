@@ -1,0 +1,456 @@
+﻿Main PokerStars n°237885474659 : Tournoi #3453772540, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 09/08/2022 16:54:34 CET [09/08/2022 10:54:34 ET]
+Table '3453772540 1' 4-max Siège #1 est au bouton.
+Place 1: Maximemorcel (5000 en jetons) 
+Place 2: martaatm2 (5000 en jetons) 
+Place 3: cba49 (5000 en jetons) 
+Place 4: psychoman59 (5000 en jetons) 
+Maximemorcel : met l'ante. 10
+martaatm2 : met l'ante. 10
+cba49 : met l'ante. 10
+psychoman59 : met l'ante. 10
+martaatm2 : met la petite blind. 50
+cba49 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 7d]
+psychoman59 : relance. 100 à 200
+Maximemorcel : suit. 200
+martaatm2 : suit. 150
+cba49 : suit. 100
+*** FLOP *** [9s Tc Kh]
+martaatm2 : parole 
+cba49 : parole 
+psychoman59 : parole 
+Maximemorcel : parole 
+*** TOURNANT *** [9s Tc Kh] [8c]
+martaatm2 : parole 
+cba49 : parole 
+psychoman59 : parole 
+Maximemorcel : parole 
+*** RIVIÈRE *** [9s Tc Kh 8c] [2d]
+martaatm2 : parole 
+cba49 : parole 
+psychoman59 : parole 
+Maximemorcel : parole 
+*** ABATTAGE ***
+martaatm2 : montre [5s 6s] (Hauteur Roi)
+cba49 : montre [Ac 9d] (une paire de Neuf)
+psychoman59 : cache la main perdante. 
+Maximemorcel : cache la main perdante. 
+cba49 a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [9s Tc Kh 8c 2d]
+Siège 1 : Maximemorcel (bouton) a caché la main perdante. [Jh 4d]
+Siège 2 : martaatm2 (petite blind) a montré [5s 6s] et a perdu avec Hauteur Roi
+Siège 3 : cba49 (grosse blind) a montré [Ac 9d] et a gagné (840) avec une paire de Neuf
+Siège 4 : psychoman59 a caché la main perdante. [7h 7d]
+
+
+
+Main PokerStars n°237885490585 : Tournoi #3453772540, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 09/08/2022 16:55:40 CET [09/08/2022 10:55:40 ET]
+Table '3453772540 1' 4-max Siège #2 est au bouton.
+Place 1: Maximemorcel (4790 en jetons) 
+Place 2: martaatm2 (4790 en jetons) 
+Place 3: cba49 (5630 en jetons) 
+Place 4: psychoman59 (4790 en jetons) 
+Maximemorcel : met l'ante. 10
+martaatm2 : met l'ante. 10
+cba49 : met l'ante. 10
+psychoman59 : met l'ante. 10
+cba49 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 4d]
+Maximemorcel : relance. 4680 à 4780 et est all-in.
+martaatm2 : passe. 
+cba49 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (4680) sont retournés à Maximemorcel.
+Maximemorcel a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : Maximemorcel a remporté (290)
+Siège 2 : martaatm2 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : cba49 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237885496284 : Tournoi #3453772540, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 09/08/2022 16:56:05 CET [09/08/2022 10:56:05 ET]
+Table '3453772540 1' 4-max Siège #3 est au bouton.
+Place 1: Maximemorcel (4970 en jetons) 
+Place 2: martaatm2 (4780 en jetons) 
+Place 3: cba49 (5570 en jetons) 
+Place 4: psychoman59 (4680 en jetons) 
+Maximemorcel : met l'ante. 10
+martaatm2 : met l'ante. 10
+cba49 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+Maximemorcel : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 8d]
+martaatm2 : passe. 
+cba49 : suit. 100
+psychoman59 : passe. 
+Maximemorcel : parole 
+*** FLOP *** [9c 5c 6h]
+Maximemorcel : parole 
+cba49 : mise. 290
+Maximemorcel : passe. 
+Personne n'a suivi. (290) sont retournés à cba49.
+cba49 a remporté 290  lors du pot .
+cba49 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Tableau [9c 5c 6h]
+Siège 1 : Maximemorcel (grosse blind) s'est couché. sur le Flop
+Siège 2 : martaatm2 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : cba49 (bouton) a remporté (290)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237885510920 : Tournoi #3453772540, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 09/08/2022 16:56:56 CET [09/08/2022 10:56:56 ET]
+Table '3453772540 1' 4-max Siège #4 est au bouton.
+Place 1: Maximemorcel (4860 en jetons) 
+Place 2: martaatm2 (4770 en jetons) 
+Place 3: cba49 (5750 en jetons) 
+Place 4: psychoman59 (4620 en jetons) 
+Maximemorcel : met l'ante. 10
+martaatm2 : met l'ante. 10
+cba49 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Maximemorcel : met la petite blind. 50
+martaatm2 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Jh]
+cba49 : suit. 100
+psychoman59 : passe. 
+Maximemorcel : suit. 50
+martaatm2 : parole 
+*** FLOP *** [2d 3c 2c]
+Maximemorcel : parole 
+martaatm2 : parole 
+cba49 : mise. 100
+Maximemorcel : passe. 
+martaatm2 : passe. 
+Personne n'a suivi. (100) sont retournés à cba49.
+cba49 a remporté 340  lors du pot .
+cba49 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [2d 3c 2c]
+Siège 1 : Maximemorcel (petite blind) s'est couché. sur le Flop
+Siège 2 : martaatm2 (grosse blind) s'est couché. sur le Flop
+Siège 3 : cba49 a remporté (340)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237885523196 : Tournoi #3453772540, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 09/08/2022 16:57:50 CET [09/08/2022 10:57:50 ET]
+Table '3453772540 1' 4-max Siège #1 est au bouton.
+Place 1: Maximemorcel (4750 en jetons) 
+Place 2: martaatm2 (4660 en jetons) 
+Place 3: cba49 (5980 en jetons) 
+Place 4: psychoman59 (4610 en jetons) 
+Maximemorcel : met l'ante. 15
+martaatm2 : met l'ante. 15
+cba49 : met l'ante. 15
+psychoman59 : met l'ante. 15
+martaatm2 : met la petite blind. 60
+cba49 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Jh]
+psychoman59 : passe. 
+Maximemorcel : suit. 120
+martaatm2 : suit. 60
+cba49 : parole 
+*** FLOP *** [Ks Jc 5s]
+martaatm2 : parole 
+cba49 : parole 
+Maximemorcel : parole 
+*** TOURNANT *** [Ks Jc 5s] [8c]
+martaatm2 : mise. 240
+cba49 : passe. 
+Maximemorcel : suit. 240
+*** RIVIÈRE *** [Ks Jc 5s 8c] [Ac]
+martaatm2 : mise. 600
+Maximemorcel : passe. 
+Personne n'a suivi. (600) sont retournés à martaatm2.
+martaatm2 a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [Ks Jc 5s 8c Ac]
+Siège 1 : Maximemorcel (bouton) s'est couché. sur le Rivière
+Siège 2 : martaatm2 (petite blind) a remporté (900)
+Siège 3 : cba49 (grosse blind) s'est couché. sur le Tournant
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237885537112 : Tournoi #3453772540, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 09/08/2022 16:58:52 CET [09/08/2022 10:58:52 ET]
+Table '3453772540 1' 4-max Siège #2 est au bouton.
+Place 1: Maximemorcel (4375 en jetons) 
+Place 2: martaatm2 (5185 en jetons) 
+Place 3: cba49 (5845 en jetons) 
+Place 4: psychoman59 (4595 en jetons) 
+Maximemorcel : met l'ante. 15
+martaatm2 : met l'ante. 15
+cba49 : met l'ante. 15
+psychoman59 : met l'ante. 15
+cba49 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 8c]
+Maximemorcel : relance. 120 à 240
+martaatm2 : suit. 240
+cba49 : passe. 
+psychoman59 : passe. 
+*** FLOP *** [Ac 9c Js]
+Maximemorcel : parole 
+martaatm2 : parole 
+*** TOURNANT *** [Ac 9c Js] [4c]
+Maximemorcel : parole 
+martaatm2 : mise. 360
+Maximemorcel : suit. 360
+*** RIVIÈRE *** [Ac 9c Js 4c] [8s]
+Maximemorcel : parole 
+martaatm2 : parole 
+*** ABATTAGE ***
+Maximemorcel : montre [Kc 5d] (Hauteur As)
+martaatm2 : montre [7d 8d] (une paire de Huit)
+martaatm2 a remporté 1440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1440 | Commission 0 
+Tableau [Ac 9c Js 4c 8s]
+Siège 1 : Maximemorcel a montré [Kc 5d] et a perdu avec Hauteur As
+Siège 2 : martaatm2 (bouton) a montré [7d 8d] et a gagné (1440) avec une paire de Huit
+Siège 3 : cba49 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237885547679 : Tournoi #3453772540, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 09/08/2022 16:59:38 CET [09/08/2022 10:59:38 ET]
+Table '3453772540 1' 4-max Siège #3 est au bouton.
+Place 1: Maximemorcel (3760 en jetons) 
+Place 2: martaatm2 (6010 en jetons) 
+Place 3: cba49 (5770 en jetons) 
+Place 4: psychoman59 (4460 en jetons) 
+Maximemorcel : met l'ante. 15
+martaatm2 : met l'ante. 15
+cba49 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+Maximemorcel : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 9s]
+martaatm2 : suit. 120
+cba49 : passe. 
+psychoman59 : passe. 
+Maximemorcel : relance. 3625 à 3745 et est all-in.
+martaatm2 : suit. 3625
+*** FLOP *** [5c 8d Td]
+*** TOURNANT *** [5c 8d Td] [Qc]
+*** RIVIÈRE *** [5c 8d Td Qc] [2s]
+*** ABATTAGE ***
+Maximemorcel : montre [Ah Kd] (Hauteur As)
+martaatm2 : montre [Ac Qh] (une paire de Dames)
+martaatm2 a remporté 7610  lors du pot .
+Maximemorcel a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 7610 | Commission 0 
+Tableau [5c 8d Td Qc 2s]
+Siège 1 : Maximemorcel (grosse blind) a montré [Ah Kd] et a perdu avec Hauteur As
+Siège 2 : martaatm2 a montré [Ac Qh] et a gagné (7610) avec une paire de Dames
+Siège 3 : cba49 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237885552272 : Tournoi #3453772540, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 09/08/2022 16:59:59 CET [09/08/2022 10:59:59 ET]
+Table '3453772540 1' 4-max Siège #4 est au bouton.
+Place 2: martaatm2 (9860 en jetons) 
+Place 3: cba49 (5755 en jetons) 
+Place 4: psychoman59 (4385 en jetons) 
+martaatm2 : met l'ante. 15
+cba49 : met l'ante. 15
+psychoman59 : met l'ante. 15
+martaatm2 : met la petite blind. 60
+cba49 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Qd]
+psychoman59 : suit. 120
+martaatm2 : relance. 480 à 600
+cba49 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (480) sont retournés à martaatm2.
+martaatm2 a remporté 405  lors du pot .
+*** SYNTHÈSE ***
+Pot total 405 | Commission 0 
+Siège 2 : martaatm2 (petite blind) a remporté (405)
+Siège 3 : cba49 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237885559269 : Tournoi #3453772540, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 09/08/2022 17:00:29 CET [09/08/2022 11:00:29 ET]
+Table '3453772540 1' 4-max Siège #2 est au bouton.
+Place 2: martaatm2 (10130 en jetons) 
+Place 3: cba49 (5620 en jetons) 
+Place 4: psychoman59 (4250 en jetons) 
+martaatm2 : met l'ante. 15
+cba49 : met l'ante. 15
+psychoman59 : met l'ante. 15
+cba49 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 7h]
+martaatm2 : passe. 
+cba49 : relance. 120 à 240
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à cba49.
+cba49 a remporté 285  lors du pot .
+cba49 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Siège 2 : martaatm2 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : cba49 (petite blind) a remporté (285)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237885564396 : Tournoi #3453772540, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 09/08/2022 17:00:50 CET [09/08/2022 11:00:50 ET]
+Table '3453772540 1' 4-max Siège #3 est au bouton.
+Place 2: martaatm2 (10115 en jetons) 
+Place 3: cba49 (5770 en jetons) 
+Place 4: psychoman59 (4115 en jetons) 
+martaatm2 : met l'ante. 20
+cba49 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+martaatm2 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 6s]
+cba49 : suit. 150
+psychoman59 : suit. 75
+martaatm2 : parole 
+*** FLOP *** [9h 9d 5c]
+psychoman59 : parole 
+martaatm2 : parole 
+cba49 : mise. 750
+psychoman59 : passe. 
+martaatm2 : passe. 
+Personne n'a suivi. (750) sont retournés à cba49.
+cba49 a remporté 510  lors du pot .
+cba49 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 510 | Commission 0 
+Tableau [9h 9d 5c]
+Siège 2 : martaatm2 (grosse blind) s'est couché. sur le Flop
+Siège 3 : cba49 (bouton) a remporté (510)
+Siège 4 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237885573611 : Tournoi #3453772540, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 09/08/2022 17:01:26 CET [09/08/2022 11:01:26 ET]
+Table '3453772540 1' 4-max Siège #4 est au bouton.
+Place 2: martaatm2 (9945 en jetons) 
+Place 3: cba49 (6110 en jetons) 
+Place 4: psychoman59 (3945 en jetons) 
+martaatm2 : met l'ante. 20
+cba49 : met l'ante. 20
+psychoman59 : met l'ante. 20
+martaatm2 : met la petite blind. 75
+cba49 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Td]
+psychoman59 : passe. 
+martaatm2 : suit. 75
+cba49 : parole 
+*** FLOP *** [4h 9s Jd]
+martaatm2 : mise. 450
+cba49 : suit. 450
+*** TOURNANT *** [4h 9s Jd] [5s]
+martaatm2 : mise. 630
+cba49 : suit. 630
+*** RIVIÈRE *** [4h 9s Jd 5s] [3c]
+martaatm2 : mise. 8695 et est all-in.
+cba49 : passe. 
+Personne n'a suivi. (8695) sont retournés à martaatm2.
+martaatm2 a remporté 2520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2520 | Commission 0 
+Tableau [4h 9s Jd 5s 3c]
+Siège 2 : martaatm2 (petite blind) a remporté (2520)
+Siège 3 : cba49 (grosse blind) s'est couché. sur le Rivière
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237885586010 : Tournoi #3453772540, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 09/08/2022 17:02:14 CET [09/08/2022 11:02:14 ET]
+Table '3453772540 1' 4-max Siège #2 est au bouton.
+Place 2: martaatm2 (11215 en jetons) 
+Place 3: cba49 (4860 en jetons) 
+Place 4: psychoman59 (3925 en jetons) 
+martaatm2 : met l'ante. 20
+cba49 : met l'ante. 20
+psychoman59 : met l'ante. 20
+cba49 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 5h]
+martaatm2 : suit. 150
+cba49 : relance. 750 à 900
+psychoman59 : passe. 
+martaatm2 : relance. 1350 à 2250
+cba49 : relance. 2590 à 4840 et est all-in.
+martaatm2 : suit. 2590
+*** FLOP *** [Th 9c 3c]
+*** TOURNANT *** [Th 9c 3c] [6h]
+*** RIVIÈRE *** [Th 9c 3c 6h] [3d]
+*** ABATTAGE ***
+cba49 : montre [Ah Qd] (une paire de Trois)
+martaatm2 : montre [Qc Kc] (une paire de Trois - plus basse kicker)
+cba49 a remporté 9890  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9890 | Commission 0 
+Tableau [Th 9c 3c 6h 3d]
+Siège 2 : martaatm2 (bouton) a montré [Qc Kc] et a perdu avec une paire de Trois
+Siège 3 : cba49 (petite blind) a montré [Ah Qd] et a gagné (9890) avec une paire de Trois
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237885593558 : Tournoi #3453772540, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 09/08/2022 17:02:43 CET [09/08/2022 11:02:43 ET]
+Table '3453772540 1' 4-max Siège #3 est au bouton.
+Place 2: martaatm2 (6355 en jetons) 
+Place 3: cba49 (9890 en jetons) 
+Place 4: psychoman59 (3755 en jetons) 
+martaatm2 : met l'ante. 20
+cba49 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+martaatm2 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 7h]
+cba49 : passe. 
+psychoman59 : relance. 3585 à 3735 et est all-in.
+martaatm2 : suit. 3585
+*** FLOP *** [3d 3h Th]
+*** TOURNANT *** [3d 3h Th] [As]
+*** RIVIÈRE *** [3d 3h Th As] [3s]
+*** ABATTAGE ***
+psychoman59 : montre [7d 7h] (un full, full aux Trois par les Sept)
+martaatm2 : montre [9c Tc] (un full, full aux Trois par les Dix)
+martaatm2 a remporté 7530  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 7530 | Commission 0 
+Tableau [3d 3h Th As 3s]
+Siège 2 : martaatm2 (grosse blind) a montré [9c Tc] et a gagné (7530) avec un full, full aux Trois par les Dix
+Siège 3 : cba49 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) a montré [7d 7h] et a perdu avec un full, full aux Trois par les Sept
+
+
+

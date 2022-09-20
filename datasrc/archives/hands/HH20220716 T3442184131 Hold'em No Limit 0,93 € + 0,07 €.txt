@@ -1,0 +1,505 @@
+﻿Main PokerStars n°237387651825 : Tournoi #3442184131, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2022 8:41:01 CET [16/07/2022 2:41:01 ET]
+Table '3442184131 1' 3-max Siège #1 est au bouton.
+Place 1: TheLizardKing25 (300 en jetons) 
+Place 2: vince.paco (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+vince.paco : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 3d]
+TheLizardKing25 : relance. 30 à 50
+vince.paco : suit. 40
+psychoman59 : passe. 
+*** FLOP *** [4s Jd 8c]
+vince.paco : mise. 20
+TheLizardKing25 : suit. 20
+*** TOURNANT *** [4s Jd 8c] [Qs]
+vince.paco : mise. 20
+TheLizardKing25 : suit. 20
+*** RIVIÈRE *** [4s Jd 8c Qs] [9h]
+vince.paco : mise. 200
+TheLizardKing25 : suit. 200
+*** ABATTAGE ***
+vince.paco : montre [Qd 5d] (une paire de Dames)
+TheLizardKing25 : montre [Ac Th] (une suite, Huit à Dame)
+TheLizardKing25 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [4s Jd 8c Qs 9h]
+Siège 1 : TheLizardKing25 (bouton) a montré [Ac Th] et a gagné (600) avec une suite, Huit à Dame
+Siège 2 : vince.paco (petite blind) a montré [Qd 5d] et a perdu avec une paire de Dames
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237387655953 : Tournoi #3442184131, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2022 8:41:36 CET [16/07/2022 2:41:36 ET]
+Table '3442184131 1' 3-max Siège #2 est au bouton.
+Place 1: TheLizardKing25 (610 en jetons) 
+Place 2: vince.paco (10 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+TheLizardKing25 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 9s]
+vince.paco : suit. 10 et est all-in.
+psychoman59 : suit. 10
+TheLizardKing25 : parole 
+*** FLOP *** [Ah Kc 4h]
+psychoman59 : parole 
+TheLizardKing25 : parole 
+*** TOURNANT *** [Ah Kc 4h] [Th]
+psychoman59 : parole 
+TheLizardKing25 : parole 
+*** RIVIÈRE *** [Ah Kc 4h Th] [Qd]
+psychoman59 : parole 
+TheLizardKing25 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qc 9s] (une paire de Dames)
+TheLizardKing25 : cache la main perdante. 
+psychoman59 a remporté 20  parallèle lors du pot .
+vince.paco : montre [5c Jh] (une suite, Dix à As)
+vince.paco a remporté 30  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 Principal pot 30. Parallèle pot 20. | Commission 0 
+Tableau [Ah Kc 4h Th Qd]
+Siège 1 : TheLizardKing25 (grosse blind) a caché la main perdante. [6c 3c]
+Siège 2 : vince.paco (bouton) a montré [5c Jh] et a gagné (30) avec une suite, Dix à As
+Siège 3 : psychoman59 (petite blind) a montré [Qc 9s] et a gagné (20) avec une paire de Dames
+
+
+
+Main PokerStars n°237387660447 : Tournoi #3442184131, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 8:42:13 CET [16/07/2022 2:42:13 ET]
+Table '3442184131 1' 3-max Siège #3 est au bouton.
+Place 1: TheLizardKing25 (590 en jetons) 
+Place 2: vince.paco (30 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+TheLizardKing25 : met la petite blind. 15
+vince.paco : met la grosse blind. 30 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Kh]
+psychoman59 : suit. 30
+TheLizardKing25 : passe. 
+*** FLOP *** [3h Qd 6c]
+*** TOURNANT *** [3h Qd 6c] [7s]
+*** RIVIÈRE *** [3h Qd 6c 7s] [Qc]
+*** ABATTAGE ***
+vince.paco : montre [4h Td] (une paire de Dames)
+psychoman59 : montre [2h Kh] (une paire de Dames - Roi kicker)
+psychoman59 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [3h Qd 6c 7s Qc]
+Siège 1 : TheLizardKing25 (petite blind) s'est couché. avant Flop
+Siège 2 : vince.paco (grosse blind) a montré [4h Td] et a perdu avec une paire de Dames
+Siège 3 : psychoman59 (bouton) a montré [2h Kh] et a gagné (75) avec une paire de Dames
+
+
+
+Main PokerStars n°237387662805 : Tournoi #3442184131, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 8:42:33 CET [16/07/2022 2:42:33 ET]
+Table '3442184131 1' 3-max Siège #1 est au bouton.
+Place 1: TheLizardKing25 (575 en jetons) 
+Place 3: psychoman59 (325 en jetons) 
+TheLizardKing25 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 7d]
+TheLizardKing25 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5h 9c Kc]
+psychoman59 : parole 
+TheLizardKing25 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à TheLizardKing25.
+TheLizardKing25 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5h 9c Kc]
+Siège 1 : TheLizardKing25 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237387664914 : Tournoi #3442184131, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 8:42:51 CET [16/07/2022 2:42:51 ET]
+Table '3442184131 1' 3-max Siège #3 est au bouton.
+Place 1: TheLizardKing25 (605 en jetons) 
+Place 3: psychoman59 (295 en jetons) 
+psychoman59 : met la petite blind. 15
+TheLizardKing25 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à TheLizardKing25.
+TheLizardKing25 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : TheLizardKing25 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237387665764 : Tournoi #3442184131, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 8:42:57 CET [16/07/2022 2:42:57 ET]
+Table '3442184131 1' 3-max Siège #1 est au bouton.
+Place 1: TheLizardKing25 (620 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+TheLizardKing25 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 7c]
+TheLizardKing25 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5s Td 4h]
+psychoman59 : parole 
+TheLizardKing25 : parole 
+*** TOURNANT *** [5s Td 4h] [Kc]
+psychoman59 : parole 
+TheLizardKing25 : parole 
+*** RIVIÈRE *** [5s Td 4h Kc] [6h]
+psychoman59 : mise. 60
+TheLizardKing25 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5s Td 4h Kc 6h]
+Siège 1 : TheLizardKing25 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237387669119 : Tournoi #3442184131, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/07/2022 8:43:26 CET [16/07/2022 2:43:26 ET]
+Table '3442184131 1' 3-max Siège #3 est au bouton.
+Place 1: TheLizardKing25 (590 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 20
+TheLizardKing25 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5d]
+psychoman59 : relance. 270 à 310 et est all-in.
+TheLizardKing25 : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : TheLizardKing25 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237387670094 : Tournoi #3442184131, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/07/2022 8:43:34 CET [16/07/2022 2:43:34 ET]
+Table '3442184131 1' 3-max Siège #1 est au bouton.
+Place 1: TheLizardKing25 (550 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+TheLizardKing25 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 5c]
+TheLizardKing25 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Qc Kd 5h]
+psychoman59 : parole 
+TheLizardKing25 : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [Qc Kd 5h] [6c]
+psychoman59 : parole 
+TheLizardKing25 : mise. 80
+psychoman59 : suit. 80
+*** RIVIÈRE *** [Qc Kd 5h 6c] [9c]
+psychoman59 : parole 
+TheLizardKing25 : mise. 256
+psychoman59 : suit. 190 et est all-in.
+Personne n'a suivi. (66) sont retournés à TheLizardKing25.
+*** ABATTAGE ***
+TheLizardKing25 : montre [Kh 9h] (double paire, Rois et Neuf)
+psychoman59 : montre [4c 5c] (une couleur, hauteur Dame)
+psychoman59 a remporté 700  lors du pot .
+*** SYNTHÈSE ***
+Pot total 700 | Commission 0 
+Tableau [Qc Kd 5h 6c 9c]
+Siège 1 : TheLizardKing25 (bouton) (petite blind) a montré [Kh 9h] et a perdu avec double paire, Rois et Neuf
+Siège 3 : psychoman59 (grosse blind) a montré [4c 5c] et a gagné (700) avec une couleur, hauteur Dame
+
+
+
+Main PokerStars n°237387675316 : Tournoi #3442184131, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/07/2022 8:44:18 CET [16/07/2022 2:44:18 ET]
+Table '3442184131 1' 3-max Siège #3 est au bouton.
+Place 1: TheLizardKing25 (200 en jetons) 
+Place 3: psychoman59 (700 en jetons) 
+psychoman59 : met la petite blind. 30
+TheLizardKing25 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à TheLizardKing25.
+TheLizardKing25 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : TheLizardKing25 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237387675989 : Tournoi #3442184131, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/07/2022 8:44:24 CET [16/07/2022 2:44:24 ET]
+Table '3442184131 1' 3-max Siège #1 est au bouton.
+Place 1: TheLizardKing25 (230 en jetons) 
+Place 3: psychoman59 (670 en jetons) 
+TheLizardKing25 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9s]
+TheLizardKing25 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : TheLizardKing25 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237387676721 : Tournoi #3442184131, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/07/2022 8:44:30 CET [16/07/2022 2:44:30 ET]
+Table '3442184131 1' 3-max Siège #3 est au bouton.
+Place 1: TheLizardKing25 (200 en jetons) 
+Place 3: psychoman59 (700 en jetons) 
+psychoman59 : met la petite blind. 30
+TheLizardKing25 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 6s]
+psychoman59 : relance. 120 à 180
+TheLizardKing25 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : TheLizardKing25 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237387677823 : Tournoi #3442184131, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/07/2022 8:44:39 CET [16/07/2022 2:44:39 ET]
+Table '3442184131 1' 3-max Siège #1 est au bouton.
+Place 1: TheLizardKing25 (140 en jetons) 
+Place 3: psychoman59 (760 en jetons) 
+TheLizardKing25 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ks]
+TheLizardKing25 : relance. 80 à 140 et est all-in.
+psychoman59 : suit. 80
+*** FLOP *** [8h 6s 2s]
+*** TOURNANT *** [8h 6s 2s] [6d]
+*** RIVIÈRE *** [8h 6s 2s 6d] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [3c Ks] (une paire de Six)
+TheLizardKing25 : montre [Kc Td] (une paire de Six - Roi+Dix kicker)
+TheLizardKing25 a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [8h 6s 2s 6d 9c]
+Siège 1 : TheLizardKing25 (bouton) (petite blind) a montré [Kc Td] et a gagné (280) avec une paire de Six
+Siège 3 : psychoman59 (grosse blind) a montré [3c Ks] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°237387679510 : Tournoi #3442184131, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/07/2022 8:44:53 CET [16/07/2022 2:44:53 ET]
+Table '3442184131 1' 3-max Siège #3 est au bouton.
+Place 1: TheLizardKing25 (280 en jetons) 
+Place 3: psychoman59 (620 en jetons) 
+psychoman59 : met la petite blind. 30
+TheLizardKing25 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 7h]
+psychoman59 : relance. 120 à 180
+TheLizardKing25 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : TheLizardKing25 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237387680635 : Tournoi #3442184131, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/07/2022 8:45:02 CET [16/07/2022 2:45:02 ET]
+Table '3442184131 1' 3-max Siège #1 est au bouton.
+Place 1: TheLizardKing25 (220 en jetons) 
+Place 3: psychoman59 (680 en jetons) 
+TheLizardKing25 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 4s]
+TheLizardKing25 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : TheLizardKing25 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237387681607 : Tournoi #3442184131, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 16/07/2022 8:45:10 CET [16/07/2022 2:45:10 ET]
+Table '3442184131 1' 3-max Siège #3 est au bouton.
+Place 1: TheLizardKing25 (190 en jetons) 
+Place 3: psychoman59 (710 en jetons) 
+psychoman59 : met la petite blind. 40
+TheLizardKing25 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à TheLizardKing25.
+TheLizardKing25 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : TheLizardKing25 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237387682214 : Tournoi #3442184131, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 16/07/2022 8:45:15 CET [16/07/2022 2:45:15 ET]
+Table '3442184131 1' 3-max Siège #1 est au bouton.
+Place 1: TheLizardKing25 (230 en jetons) 
+Place 3: psychoman59 (670 en jetons) 
+TheLizardKing25 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 2c]
+TheLizardKing25 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : TheLizardKing25 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237387682826 : Tournoi #3442184131, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 16/07/2022 8:45:20 CET [16/07/2022 2:45:20 ET]
+Table '3442184131 1' 3-max Siège #3 est au bouton.
+Place 1: TheLizardKing25 (190 en jetons) 
+Place 3: psychoman59 (710 en jetons) 
+psychoman59 : met la petite blind. 40
+TheLizardKing25 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Qs]
+psychoman59 : relance. 80 à 160
+TheLizardKing25 : relance. 30 à 190 et est all-in.
+psychoman59 : suit. 30
+*** FLOP *** [Ts 5s 4h]
+*** TOURNANT *** [Ts 5s 4h] [5d]
+*** RIVIÈRE *** [Ts 5s 4h 5d] [4c]
+*** ABATTAGE ***
+TheLizardKing25 : montre [9s Kd] (double paire, Cinq et Quatre)
+psychoman59 : montre [2h Qs] (double paire, Cinq et Quatre - plus basse kicker)
+TheLizardKing25 a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [Ts 5s 4h 5d 4c]
+Siège 1 : TheLizardKing25 (grosse blind) a montré [9s Kd] et a gagné (380) avec double paire, Cinq et Quatre
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [2h Qs] et a perdu avec double paire, Cinq et Quatre
+
+
+
+Main PokerStars n°237387684829 : Tournoi #3442184131, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 16/07/2022 8:45:37 CET [16/07/2022 2:45:37 ET]
+Table '3442184131 1' 3-max Siège #1 est au bouton.
+Place 1: TheLizardKing25 (380 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+TheLizardKing25 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 6c]
+TheLizardKing25 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : TheLizardKing25 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237387685546 : Tournoi #3442184131, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 16/07/2022 8:45:43 CET [16/07/2022 2:45:43 ET]
+Table '3442184131 1' 3-max Siège #3 est au bouton.
+Place 1: TheLizardKing25 (340 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+psychoman59 : met la petite blind. 40
+TheLizardKing25 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à TheLizardKing25.
+TheLizardKing25 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : TheLizardKing25 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237387686388 : Tournoi #3442184131, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 16/07/2022 8:45:50 CET [16/07/2022 2:45:50 ET]
+Table '3442184131 1' 3-max Siège #1 est au bouton.
+Place 1: TheLizardKing25 (380 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+TheLizardKing25 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 2c]
+TheLizardKing25 : relance. 300 à 380 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à TheLizardKing25.
+TheLizardKing25 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : TheLizardKing25 (bouton) (petite blind) a remporté (160)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237387687736 : Tournoi #3442184131, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 16/07/2022 8:46:01 CET [16/07/2022 2:46:01 ET]
+Table '3442184131 1' 3-max Siège #3 est au bouton.
+Place 1: TheLizardKing25 (460 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+psychoman59 : met la petite blind. 40
+TheLizardKing25 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Kd]
+psychoman59 : relance. 360 à 440 et est all-in.
+TheLizardKing25 : suit. 360
+*** FLOP *** [2d 8s 2c]
+*** TOURNANT *** [2d 8s 2c] [3d]
+*** RIVIÈRE *** [2d 8s 2c 3d] [6h]
+*** ABATTAGE ***
+TheLizardKing25 : montre [Th Ad] (une paire de Deux)
+psychoman59 : montre [6s Kd] (double paire, Six et Deux)
+psychoman59 a remporté 880  lors du pot .
+*** SYNTHÈSE ***
+Pot total 880 | Commission 0 
+Tableau [2d 8s 2c 3d 6h]
+Siège 1 : TheLizardKing25 (grosse blind) a montré [Th Ad] et a perdu avec une paire de Deux
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [6s Kd] et a gagné (880) avec double paire, Six et Deux
+
+
+
+Main PokerStars n°237387689952 : Tournoi #3442184131, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 16/07/2022 8:46:19 CET [16/07/2022 2:46:19 ET]
+Table '3442184131 1' 3-max Siège #1 est au bouton.
+Place 1: TheLizardKing25 (20 en jetons) 
+Place 3: psychoman59 (880 en jetons) 
+TheLizardKing25 : met la petite blind. 20 et est all-in.
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 4d]
+Personne n'a suivi. (80) sont retournés à psychoman59.
+*** FLOP *** [Kc 2s 2h]
+*** TOURNANT *** [Kc 2s 2h] [6c]
+*** RIVIÈRE *** [Kc 2s 2h 6c] [8h]
+*** ABATTAGE ***
+psychoman59 : montre [Th 4d] (une paire de Deux)
+TheLizardKing25 : montre [9d 7c] (une paire de Deux - plus basse kicker)
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Kc 2s 2h 6c 8h]
+Siège 1 : TheLizardKing25 (bouton) (petite blind) a montré [9d 7c] et a perdu avec une paire de Deux
+Siège 3 : psychoman59 (grosse blind) a montré [Th 4d] et a gagné (40) avec une paire de Deux
+
+
+

@@ -1,0 +1,142 @@
+﻿Main PokerStars n°237156011613 : Tournoi #3436671809, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2022 17:33:11 CET [04/07/2022 11:33:11 ET]
+Table '3436671809 1' 3-max Siège #1 est au bouton.
+Place 1: ary3190 (300 en jetons) 
+Place 2: watensain (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+watensain : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Kc]
+ary3190 : passe. 
+watensain : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qs 9d 9s]
+watensain : parole 
+psychoman59 : mise. 40
+watensain : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qs 9d 9s]
+Siège 1 : ary3190 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : watensain (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237156017595 : Tournoi #3436671809, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2022 17:33:32 CET [04/07/2022 11:33:32 ET]
+Table '3436671809 1' 3-max Siège #2 est au bouton.
+Place 1: ary3190 (300 en jetons) 
+Place 2: watensain (280 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 10
+ary3190 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 7c]
+watensain : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à ary3190.
+ary3190 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : ary3190 (grosse blind) a remporté (20)
+Siège 2 : watensain (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237156020278 : Tournoi #3436671809, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2022 17:33:41 CET [04/07/2022 11:33:41 ET]
+Table '3436671809 1' 3-max Siège #3 est au bouton.
+Place 1: ary3190 (310 en jetons) 
+Place 2: watensain (280 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+ary3190 : met la petite blind. 10
+watensain : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Td]
+psychoman59 : relance. 50 à 70
+ary3190 : passe. 
+watensain : suit. 50
+*** FLOP *** [Jd 5c 7c]
+watensain : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jd 5c 7c] [Qh]
+watensain : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Jd 5c 7c Qh] [9d]
+watensain : mise. 100
+psychoman59 : relance. 100 à 200
+watensain : relance. 10 à 210 et est all-in.
+psychoman59 : suit. 10
+*** ABATTAGE ***
+watensain : montre [Kc Th] (une suite, Neuf à Roi)
+psychoman59 : montre [Kd Td] (une suite, Neuf à Roi)
+watensain a remporté 285  lors du pot .
+psychoman59 a remporté 285  lors du pot .
+*** SYNTHÈSE ***
+Pot total 570 | Commission 0 
+Tableau [Jd 5c 7c Qh 9d]
+Siège 1 : ary3190 (petite blind) s'est couché. avant Flop
+Siège 2 : watensain (grosse blind) a montré [Kc Th] et a gagné (285) avec une suite, Neuf à Roi
+Siège 3 : psychoman59 (bouton) a montré [Kd Td] et a gagné (285) avec une suite, Neuf à Roi
+
+
+
+Main PokerStars n°237156030707 : Tournoi #3436671809, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 04/07/2022 17:34:19 CET [04/07/2022 11:34:19 ET]
+Table '3436671809 1' 3-max Siège #1 est au bouton.
+Place 1: ary3190 (300 en jetons) 
+Place 2: watensain (285 en jetons) 
+Place 3: psychoman59 (315 en jetons) 
+watensain : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Ad]
+ary3190 : suit. 30
+watensain : passe. 
+psychoman59 : relance. 285 à 315 et est all-in.
+ary3190 : suit. 270 et est all-in.
+Personne n'a suivi. (15) sont retournés à psychoman59.
+*** FLOP *** [2c 6c 5c]
+*** TOURNANT *** [2c 6c 5c] [Kd]
+*** RIVIÈRE *** [2c 6c 5c Kd] [7c]
+*** ABATTAGE ***
+psychoman59 : montre [7h Ad] (une paire de Sept)
+ary3190 : montre [Tc Jc] (une couleur, hauteur Valet)
+ary3190 a remporté 615  lors du pot .
+*** SYNTHÈSE ***
+Pot total 615 | Commission 0 
+Tableau [2c 6c 5c Kd 7c]
+Siège 1 : ary3190 (bouton) a montré [Tc Jc] et a gagné (615) avec une couleur, hauteur Valet
+Siège 2 : watensain (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [7h Ad] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°237156035356 : Tournoi #3436671809, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 04/07/2022 17:34:35 CET [04/07/2022 11:34:35 ET]
+Table '3436671809 1' 3-max Siège #2 est au bouton.
+Place 1: ary3190 (615 en jetons) 
+Place 2: watensain (270 en jetons) 
+Place 3: psychoman59 (15 en jetons) 
+psychoman59 : met la petite blind. 15 et est all-in.
+ary3190 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 9h]
+watensain : passe. 
+Personne n'a suivi. (15) sont retournés à ary3190.
+*** FLOP *** [Ks 2c 6d]
+*** TOURNANT *** [Ks 2c 6d] [Td]
+*** RIVIÈRE *** [Ks 2c 6d Td] [3h]
+*** ABATTAGE ***
+psychoman59 : montre [7d 9h] (Hauteur Roi)
+ary3190 : montre [2s Kc] (double paire, Rois et Deux)
+ary3190 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Tableau [Ks 2c 6d Td 3h]
+Siège 1 : ary3190 (grosse blind) a montré [2s Kc] et a gagné (30) avec double paire, Rois et Deux
+Siège 2 : watensain (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [7d 9h] et a perdu avec Hauteur Roi
+
+
+

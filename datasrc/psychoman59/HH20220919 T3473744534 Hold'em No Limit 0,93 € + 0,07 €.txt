@@ -1,0 +1,482 @@
+﻿Main PokerStars n°238736318384 : Tournoi #3473744534, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/09/2022 22:59:43 CET [19/09/2022 16:59:43 ET]
+Table '3473744534 1' 3-max Siège #1 est au bouton.
+Place 1: Grincheux80 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: LaPampa12 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+LaPampa12 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Ad]
+Grincheux80 : suit. 20
+psychoman59 : suit. 10
+LaPampa12 : parole 
+*** FLOP *** [3c Kc 7s]
+psychoman59 : parole 
+LaPampa12 : parole 
+Grincheux80 : parole 
+*** TOURNANT *** [3c Kc 7s] [5s]
+psychoman59 : parole 
+LaPampa12 : mise. 20
+Grincheux80 : suit. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [3c Kc 7s 5s] [As]
+psychoman59 : parole 
+LaPampa12 : parole 
+Grincheux80 : mise. 20
+psychoman59 : suit. 20
+LaPampa12 : suit. 20
+*** ABATTAGE ***
+Grincheux80 : montre [Qc Ah] (une paire de As)
+psychoman59 : montre [Qd Ad] (une paire de As)
+LaPampa12 : cache la main perdante. 
+psychoman59 a remporté 90  lors du pot .
+Grincheux80 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [3c Kc 7s 5s As]
+Siège 1 : Grincheux80 (bouton) a montré [Qc Ah] et a gagné (90) avec une paire de As
+Siège 2 : psychoman59 (petite blind) a montré [Qd Ad] et a gagné (90) avec une paire de As
+Siège 3 : LaPampa12 (grosse blind) a caché la main perdante. [8s 7h]
+
+
+
+Main PokerStars n°238736328242 : Tournoi #3473744534, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/09/2022 23:00:14 CET [19/09/2022 17:00:14 ET]
+Table '3473744534 1' 3-max Siège #2 est au bouton.
+Place 1: Grincheux80 (330 en jetons) 
+Place 2: psychoman59 (330 en jetons) 
+Place 3: LaPampa12 (240 en jetons) 
+LaPampa12 : met la petite blind. 10
+Grincheux80 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Qc]
+psychoman59 : relance. 40 à 60
+LaPampa12 : passe. 
+Grincheux80 : suit. 40
+*** FLOP *** [Tc 6d 6h]
+Grincheux80 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Tc 6d 6h] [Td]
+Grincheux80 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Tc 6d 6h Td] [6s]
+Grincheux80 : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+Grincheux80 : montre [Qd Ad] (un full, full aux Six par les Dix)
+psychoman59 : montre [Kc Qc] (un full, full aux Six par les Dix)
+Grincheux80 a remporté 105  lors du pot .
+psychoman59 a remporté 105  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Tableau [Tc 6d 6h Td 6s]
+Siège 1 : Grincheux80 (grosse blind) a montré [Qd Ad] et a gagné (105) avec un full, full aux Six par les Dix
+Siège 2 : psychoman59 (bouton) a montré [Kc Qc] et a gagné (105) avec un full, full aux Six par les Dix
+Siège 3 : LaPampa12 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238736335386 : Tournoi #3473744534, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/09/2022 23:00:36 CET [19/09/2022 17:00:36 ET]
+Table '3473744534 1' 3-max Siège #3 est au bouton.
+Place 1: Grincheux80 (335 en jetons) 
+Place 2: psychoman59 (335 en jetons) 
+Place 3: LaPampa12 (230 en jetons) 
+Grincheux80 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Ac]
+LaPampa12 : suit. 20
+Grincheux80 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6d 3s 2c]
+Grincheux80 : parole 
+psychoman59 : mise. 120
+LaPampa12 : passe. 
+Grincheux80 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6d 3s 2c]
+Siège 1 : Grincheux80 (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : LaPampa12 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238736342544 : Tournoi #3473744534, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/09/2022 23:00:57 CET [19/09/2022 17:00:57 ET]
+Table '3473744534 1' 3-max Siège #1 est au bouton.
+Place 1: Grincheux80 (315 en jetons) 
+Place 2: psychoman59 (375 en jetons) 
+Place 3: LaPampa12 (210 en jetons) 
+psychoman59 : met la petite blind. 15
+LaPampa12 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 8s]
+Grincheux80 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à LaPampa12.
+LaPampa12 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Grincheux80 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : LaPampa12 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°238736345181 : Tournoi #3473744534, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/09/2022 23:01:04 CET [19/09/2022 17:01:04 ET]
+Table '3473744534 1' 3-max Siège #2 est au bouton.
+Place 1: Grincheux80 (315 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+Place 3: LaPampa12 (225 en jetons) 
+LaPampa12 : met la petite blind. 15
+Grincheux80 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 8s]
+psychoman59 : relance. 60 à 90
+LaPampa12 : relance. 135 à 225 et est all-in.
+Grincheux80 : passe. 
+psychoman59 : suit. 135
+*** FLOP *** [7d 9h 7c]
+*** TOURNANT *** [7d 9h 7c] [Qh]
+*** RIVIÈRE *** [7d 9h 7c Qh] [9s]
+*** ABATTAGE ***
+LaPampa12 : montre [Ad 9c] (un full, full aux Neuf par les Sept)
+psychoman59 : montre [Ac 8s] (double paire, Neuf et Sept)
+LaPampa12 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [7d 9h 7c Qh 9s]
+Siège 1 : Grincheux80 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a montré [Ac 8s] et a perdu avec double paire, Neuf et Sept
+Siège 3 : LaPampa12 (petite blind) a montré [Ad 9c] et a gagné (480) avec un full, full aux Neuf par les Sept
+
+
+
+Main PokerStars n°238736352466 : Tournoi #3473744534, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/09/2022 23:01:23 CET [19/09/2022 17:01:23 ET]
+Table '3473744534 1' 3-max Siège #3 est au bouton.
+Place 1: Grincheux80 (285 en jetons) 
+Place 2: psychoman59 (135 en jetons) 
+Place 3: LaPampa12 (480 en jetons) 
+Grincheux80 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 3c]
+LaPampa12 : suit. 30
+Grincheux80 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ac 2c Js]
+Grincheux80 : parole 
+psychoman59 : parole 
+LaPampa12 : parole 
+*** TOURNANT *** [Ac 2c Js] [5s]
+Grincheux80 : parole 
+psychoman59 : mise. 105 et est all-in.
+LaPampa12 : passe. 
+Grincheux80 : suit. 105
+*** RIVIÈRE *** [Ac 2c Js 5s] [8c]
+*** ABATTAGE ***
+Grincheux80 : montre [9c 5h] (une paire de Cinq)
+psychoman59 : montre [4d 3c] (une suite, As à Cinq)
+psychoman59 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Ac 2c Js 5s 8c]
+Siège 1 : Grincheux80 (petite blind) a montré [9c 5h] et a perdu avec une paire de Cinq
+Siège 2 : psychoman59 (grosse blind) a montré [4d 3c] et a gagné (300) avec une suite, As à Cinq
+Siège 3 : LaPampa12 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238736363603 : Tournoi #3473744534, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/09/2022 23:01:52 CET [19/09/2022 17:01:52 ET]
+Table '3473744534 1' 3-max Siège #1 est au bouton.
+Place 1: Grincheux80 (150 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: LaPampa12 (450 en jetons) 
+psychoman59 : met la petite blind. 20
+LaPampa12 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 6s]
+Grincheux80 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à LaPampa12.
+LaPampa12 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Grincheux80 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : LaPampa12 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238736365956 : Tournoi #3473744534, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/09/2022 23:01:57 CET [19/09/2022 17:01:57 ET]
+Table '3473744534 1' 3-max Siège #2 est au bouton.
+Place 1: Grincheux80 (150 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+Place 3: LaPampa12 (470 en jetons) 
+LaPampa12 : met la petite blind. 20
+Grincheux80 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 9s]
+psychoman59 : relance. 40 à 80
+LaPampa12 : suit. 60
+Grincheux80 : suit. 40
+*** FLOP *** [Qs 9d Qc]
+LaPampa12 : parole 
+Grincheux80 : parole 
+psychoman59 : mise. 200 et est all-in.
+LaPampa12 : passe. 
+Grincheux80 : suit. 70 et est all-in.
+Personne n'a suivi. (130) sont retournés à psychoman59.
+*** TOURNANT *** [Qs 9d Qc] [8d]
+*** RIVIÈRE *** [Qs 9d Qc 8d] [5c]
+*** ABATTAGE ***
+Grincheux80 : montre [Qh 4s] (un brelan de Dames)
+psychoman59 : montre [Kh 9s] (double paire, Dames et Neuf)
+Grincheux80 a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [Qs 9d Qc 8d 5c]
+Siège 1 : Grincheux80 (grosse blind) a montré [Qh 4s] et a gagné (380) avec un brelan de Dames
+Siège 2 : psychoman59 (bouton) a montré [Kh 9s] et a perdu avec double paire, Dames et Neuf
+Siège 3 : LaPampa12 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238736377552 : Tournoi #3473744534, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/09/2022 23:02:23 CET [19/09/2022 17:02:23 ET]
+Table '3473744534 1' 3-max Siège #3 est au bouton.
+Place 1: Grincheux80 (380 en jetons) 
+Place 2: psychoman59 (130 en jetons) 
+Place 3: LaPampa12 (390 en jetons) 
+Grincheux80 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 7s]
+LaPampa12 : passe. 
+Grincheux80 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [9d Kd 8s]
+Grincheux80 : parole 
+psychoman59 : mise. 90 et est all-in.
+Grincheux80 : suit. 90
+*** TOURNANT *** [9d Kd 8s] [6d]
+*** RIVIÈRE *** [9d Kd 8s 6d] [7c]
+*** ABATTAGE ***
+Grincheux80 : montre [Qh Jd] (Hauteur Roi)
+psychoman59 : montre [9s 7s] (double paire, Neuf et Sept)
+psychoman59 a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [9d Kd 8s 6d 7c]
+Siège 1 : Grincheux80 (petite blind) a montré [Qh Jd] et a perdu avec Hauteur Roi
+Siège 2 : psychoman59 (grosse blind) a montré [9s 7s] et a gagné (260) avec double paire, Neuf et Sept
+Siège 3 : LaPampa12 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238736385403 : Tournoi #3473744534, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/09/2022 23:02:41 CET [19/09/2022 17:02:41 ET]
+Table '3473744534 1' 3-max Siège #1 est au bouton.
+Place 1: Grincheux80 (250 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+Place 3: LaPampa12 (390 en jetons) 
+psychoman59 : met la petite blind. 20
+LaPampa12 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 5c]
+Grincheux80 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à LaPampa12.
+LaPampa12 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Grincheux80 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : LaPampa12 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238736388861 : Tournoi #3473744534, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/09/2022 23:02:50 CET [19/09/2022 17:02:50 ET]
+Table '3473744534 1' 3-max Siège #2 est au bouton.
+Place 1: Grincheux80 (250 en jetons) 
+Place 2: psychoman59 (240 en jetons) 
+Place 3: LaPampa12 (410 en jetons) 
+LaPampa12 : met la petite blind. 30
+Grincheux80 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Kd]
+psychoman59 : passe. 
+LaPampa12 : suit. 30
+Grincheux80 : parole 
+*** FLOP *** [6s As 5s]
+LaPampa12 : parole 
+Grincheux80 : parole 
+*** TOURNANT *** [6s As 5s] [Th]
+LaPampa12 : mise. 60
+Grincheux80 : passe. 
+Personne n'a suivi. (60) sont retournés à LaPampa12.
+LaPampa12 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6s As 5s Th]
+Siège 1 : Grincheux80 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : LaPampa12 (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°238736396916 : Tournoi #3473744534, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/09/2022 23:03:08 CET [19/09/2022 17:03:08 ET]
+Table '3473744534 1' 3-max Siège #3 est au bouton.
+Place 1: Grincheux80 (190 en jetons) 
+Place 2: psychoman59 (240 en jetons) 
+Place 3: LaPampa12 (470 en jetons) 
+Grincheux80 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 3c]
+LaPampa12 : passe. 
+Grincheux80 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Jd 9c 2s]
+Grincheux80 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jd 9c 2s] [3d]
+Grincheux80 : parole 
+psychoman59 : mise. 60
+Grincheux80 : suit. 60
+*** RIVIÈRE *** [Jd 9c 2s 3d] [Js]
+Grincheux80 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Grincheux80 : montre [Th 3h] (double paire, Valets et Trois)
+psychoman59 : montre [Qh 3c] (double paire, Valets et Trois - Dame kicker)
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Jd 9c 2s 3d Js]
+Siège 1 : Grincheux80 (petite blind) a montré [Th 3h] et a perdu avec double paire, Valets et Trois
+Siège 2 : psychoman59 (grosse blind) a montré [Qh 3c] et a gagné (240) avec double paire, Valets et Trois
+Siège 3 : LaPampa12 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238736406635 : Tournoi #3473744534, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/09/2022 23:03:30 CET [19/09/2022 17:03:30 ET]
+Table '3473744534 1' 3-max Siège #1 est au bouton.
+Place 1: Grincheux80 (70 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+Place 3: LaPampa12 (470 en jetons) 
+psychoman59 : met la petite blind. 30
+LaPampa12 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ad]
+Grincheux80 : passe. 
+psychoman59 : relance. 120 à 180
+LaPampa12 : suit. 120
+*** FLOP *** [Qs 9h 3d]
+psychoman59 : parole 
+LaPampa12 : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à LaPampa12.
+LaPampa12 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Qs 9h 3d]
+Siège 1 : Grincheux80 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : LaPampa12 (grosse blind) a remporté (360)
+
+
+
+Main PokerStars n°238736417273 : Tournoi #3473744534, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 19/09/2022 23:03:54 CET [19/09/2022 17:03:54 ET]
+Table '3473744534 1' 3-max Siège #2 est au bouton.
+Place 1: Grincheux80 (70 en jetons) 
+Place 2: psychoman59 (180 en jetons) 
+Place 3: LaPampa12 (650 en jetons) 
+LaPampa12 : met la petite blind. 40
+Grincheux80 : met la grosse blind. 70 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 3c]
+psychoman59 : passe. 
+LaPampa12 : suit. 30
+*** FLOP *** [Qd 9c 2c]
+*** TOURNANT *** [Qd 9c 2c] [2s]
+*** RIVIÈRE *** [Qd 9c 2c 2s] [5s]
+*** ABATTAGE ***
+LaPampa12 : montre [9d 9s] (un full, full aux Neuf par les Deux)
+Grincheux80 : montre [4d 9h] (double paire, Neuf et Deux)
+LaPampa12 a remporté 140  lors du pot .
+Grincheux80 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [Qd 9c 2c 2s 5s]
+Siège 1 : Grincheux80 (grosse blind) a montré [4d 9h] et a perdu avec double paire, Neuf et Deux
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : LaPampa12 (petite blind) a montré [9d 9s] et a gagné (140) avec un full, full aux Neuf par les Deux
+
+
+
+Main PokerStars n°238736424077 : Tournoi #3473744534, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 19/09/2022 23:04:09 CET [19/09/2022 17:04:09 ET]
+Table '3473744534 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (180 en jetons) 
+Place 3: LaPampa12 (720 en jetons) 
+LaPampa12 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 9c]
+LaPampa12 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : LaPampa12 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238736426073 : Tournoi #3473744534, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 19/09/2022 23:04:14 CET [19/09/2022 17:04:14 ET]
+Table '3473744534 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (220 en jetons) 
+Place 3: LaPampa12 (680 en jetons) 
+psychoman59 : met la petite blind. 40
+LaPampa12 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 8c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à LaPampa12.
+LaPampa12 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : LaPampa12 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°238736428509 : Tournoi #3473744534, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 19/09/2022 23:04:20 CET [19/09/2022 17:04:20 ET]
+Table '3473744534 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (180 en jetons) 
+Place 3: LaPampa12 (720 en jetons) 
+LaPampa12 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 5s]
+LaPampa12 : relance. 80 à 160
+psychoman59 : relance. 20 à 180 et est all-in.
+LaPampa12 : suit. 20
+*** FLOP *** [8h 4s 2s]
+*** TOURNANT *** [8h 4s 2s] [Ah]
+*** RIVIÈRE *** [8h 4s 2s Ah] [Qh]
+*** ABATTAGE ***
+psychoman59 : montre [Ad 5s] (une paire de As)
+LaPampa12 : montre [Jc As] (une paire de As - Dame+Valet kicker)
+LaPampa12 a remporté 360  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+LaPampa12 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [8h 4s 2s Ah Qh]
+Siège 2 : psychoman59 (grosse blind) a montré [Ad 5s] et a perdu avec une paire de As
+Siège 3 : LaPampa12 (bouton) (petite blind) a montré [Jc As] et a gagné (360) avec une paire de As
+
+
+

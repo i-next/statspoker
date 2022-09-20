@@ -1,0 +1,990 @@
+﻿Main PokerStars n°238287746398 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/08/2022 15:13:00 CET [29/08/2022 9:13:00 ET]
+Table '3463334138 1' 4-max Siège #1 est au bouton.
+Place 1: Pmjc144 (5000 en jetons) 
+Place 2: Abaddone (5000 en jetons) 
+Place 3: Soliles4 (5000 en jetons) 
+Place 4: psychoman59 (5000 en jetons) 
+Pmjc144 : met l'ante. 10
+Abaddone : met l'ante. 10
+Soliles4 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Abaddone : met la petite blind. 50
+Soliles4 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 8d]
+psychoman59 : passe. 
+Pmjc144 : passe. 
+Abaddone : suit. 50
+Soliles4 : parole 
+*** FLOP *** [Kh Jc Ah]
+Abaddone : parole 
+Soliles4 : parole 
+*** TOURNANT *** [Kh Jc Ah] [Qs]
+Abaddone : parole 
+Soliles4 : mise. 100
+Abaddone : passe. 
+Personne n'a suivi. (100) sont retournés à Soliles4.
+Soliles4 a remporté 240  lors du pot .
+Soliles4 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Kh Jc Ah Qs]
+Siège 1 : Pmjc144 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Abaddone (petite blind) s'est couché. sur le Tournant
+Siège 3 : Soliles4 (grosse blind) a remporté (240)
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238287755300 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/08/2022 15:13:40 CET [29/08/2022 9:13:40 ET]
+Table '3463334138 1' 4-max Siège #2 est au bouton.
+Place 1: Pmjc144 (4990 en jetons) 
+Place 2: Abaddone (4890 en jetons) 
+Place 3: Soliles4 (5130 en jetons) 
+Place 4: psychoman59 (4990 en jetons) 
+Pmjc144 : met l'ante. 10
+Abaddone : met l'ante. 10
+Soliles4 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Soliles4 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 2d]
+Pmjc144 : passe. 
+Abaddone : passe. 
+Soliles4 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Td Ad Kh]
+Soliles4 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Td Ad Kh] [4s]
+Soliles4 : parole 
+psychoman59 : mise. 100
+Soliles4 : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Td Ad Kh 4s]
+Siège 1 : Pmjc144 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Abaddone (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Soliles4 (petite blind) s'est couché. sur le Tournant
+Siège 4 : psychoman59 (grosse blind) a remporté (240)
+
+
+
+Main PokerStars n°238287762749 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/08/2022 15:14:14 CET [29/08/2022 9:14:14 ET]
+Table '3463334138 1' 4-max Siège #3 est au bouton.
+Place 1: Pmjc144 (4980 en jetons) 
+Place 2: Abaddone (4880 en jetons) 
+Place 3: Soliles4 (5020 en jetons) 
+Place 4: psychoman59 (5120 en jetons) 
+Pmjc144 : met l'ante. 10
+Abaddone : met l'ante. 10
+Soliles4 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+Pmjc144 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 6d]
+Abaddone : passe. 
+Soliles4 : relance. 100 à 200
+psychoman59 : suit. 150
+Pmjc144 : passe. 
+*** FLOP *** [5d 4s 6h]
+psychoman59 : parole 
+Soliles4 : mise. 100
+psychoman59 : suit. 100
+*** TOURNANT *** [5d 4s 6h] [As]
+psychoman59 : parole 
+Soliles4 : mise. 370
+psychoman59 : suit. 370
+*** RIVIÈRE *** [5d 4s 6h As] [Kd]
+psychoman59 : parole 
+Soliles4 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6s 6d] (un brelan de Six)
+Soliles4 : cache la main perdante. 
+psychoman59 a remporté 1480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1480 | Commission 0 
+Tableau [5d 4s 6h As Kd]
+Siège 1 : Pmjc144 (grosse blind) s'est couché. avant Flop
+Siège 2 : Abaddone s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Soliles4 (bouton) a caché la main perdante. [Ks 7s]
+Siège 4 : psychoman59 (petite blind) a montré [6s 6d] et a gagné (1480) avec un brelan de Six
+
+
+
+Main PokerStars n°238287774573 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/08/2022 15:15:07 CET [29/08/2022 9:15:07 ET]
+Table '3463334138 1' 4-max Siège #4 est au bouton.
+Place 1: Pmjc144 (4870 en jetons) 
+Place 2: Abaddone (4870 en jetons) 
+Place 3: Soliles4 (4340 en jetons) 
+Place 4: psychoman59 (5920 en jetons) 
+Pmjc144 : met l'ante. 10
+Abaddone : met l'ante. 10
+Soliles4 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Pmjc144 : met la petite blind. 50
+Abaddone : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Jc]
+Soliles4 : relance. 100 à 200
+psychoman59 : suit. 200
+Pmjc144 : suit. 150
+Abaddone : suit. 100
+*** FLOP *** [Qc 7h 8h]
+Pmjc144 : parole 
+Abaddone : parole 
+Soliles4 : mise. 420
+psychoman59 : suit. 420
+Pmjc144 : passe. 
+Abaddone : suit. 420
+*** TOURNANT *** [Qc 7h 8h] [7s]
+Abaddone : parole 
+Soliles4 : mise. 100
+psychoman59 : suit. 100
+Abaddone : passe. 
+*** RIVIÈRE *** [Qc 7h 8h 7s] [Qh]
+Soliles4 : mise. 1150
+psychoman59 : relance. 2300 à 3450
+Soliles4 : relance. 160 à 3610 et est all-in.
+psychoman59 : suit. 160
+*** ABATTAGE ***
+Soliles4 : montre [Qs Ad] (un full, full aux Dames par les Sept)
+psychoman59 : montre [Qd Jc] (un full, full aux Dames par les Sept)
+Soliles4 a remporté 4760  lors du pot .
+psychoman59 a remporté 4760  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9520 | Commission 0 
+Tableau [Qc 7h 8h 7s Qh]
+Siège 1 : Pmjc144 (petite blind) s'est couché. sur le Flop
+Siège 2 : Abaddone (grosse blind) s'est couché. sur le Tournant
+Siège 3 : Soliles4 a montré [Qs Ad] et a gagné (4760) avec un full, full aux Dames par les Sept
+Siège 4 : psychoman59 (bouton) a montré [Qd Jc] et a gagné (4760) avec un full, full aux Dames par les Sept
+
+
+
+Main PokerStars n°238287793604 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/08/2022 15:16:34 CET [29/08/2022 9:16:34 ET]
+Table '3463334138 1' 4-max Siège #1 est au bouton.
+Place 1: Pmjc144 (4660 en jetons) 
+Place 2: Abaddone (4240 en jetons) 
+Place 3: Soliles4 (4760 en jetons) 
+Place 4: psychoman59 (6340 en jetons) 
+Pmjc144 : met l'ante. 15
+Abaddone : met l'ante. 15
+Soliles4 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Abaddone : met la petite blind. 60
+Soliles4 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Js]
+psychoman59 : relance. 240 à 360
+Pmjc144 : passe. 
+Abaddone : passe. 
+Soliles4 : suit. 240
+*** FLOP *** [2s 4h 8d]
+Soliles4 : parole 
+psychoman59 : mise. 420
+Soliles4 : suit. 420
+*** TOURNANT *** [2s 4h 8d] [Jd]
+Soliles4 : parole 
+psychoman59 : mise. 1680
+Soliles4 : passe. 
+Personne n'a suivi. (1680) sont retournés à psychoman59.
+psychoman59 a remporté 1680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1680 | Commission 0 
+Tableau [2s 4h 8d Jd]
+Siège 1 : Pmjc144 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Abaddone (petite blind) s'est couché. avant Flop
+Siège 3 : Soliles4 (grosse blind) s'est couché. sur le Tournant
+Siège 4 : psychoman59 a remporté (1680)
+
+
+
+Main PokerStars n°238287802452 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/08/2022 15:17:14 CET [29/08/2022 9:17:14 ET]
+Table '3463334138 1' 4-max Siège #2 est au bouton.
+Place 1: Pmjc144 (4645 en jetons) 
+Place 2: Abaddone (4165 en jetons) 
+Place 3: Soliles4 (3965 en jetons) 
+Place 4: psychoman59 (7225 en jetons) 
+Pmjc144 : met l'ante. 15
+Abaddone : met l'ante. 15
+Soliles4 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Soliles4 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 8h]
+Pmjc144 : passe. 
+Abaddone : passe. 
+Soliles4 : relance. 300 à 420
+psychoman59 : suit. 300
+*** FLOP *** [8d 7d 5s]
+Soliles4 : parole 
+psychoman59 : mise. 900
+Soliles4 : suit. 900
+*** TOURNANT *** [8d 7d 5s] [3d]
+Soliles4 : parole 
+psychoman59 : mise. 2700
+Soliles4 : passe. 
+Personne n'a suivi. (2700) sont retournés à psychoman59.
+psychoman59 a remporté 2700  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2700 | Commission 0 
+Tableau [8d 7d 5s 3d]
+Siège 1 : Pmjc144 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Abaddone (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Soliles4 (petite blind) s'est couché. sur le Tournant
+Siège 4 : psychoman59 (grosse blind) a remporté (2700)
+
+
+
+Main PokerStars n°238287816701 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/08/2022 15:18:18 CET [29/08/2022 9:18:18 ET]
+Table '3463334138 1' 4-max Siège #3 est au bouton.
+Place 1: Pmjc144 (4630 en jetons) 
+Place 2: Abaddone (4150 en jetons) 
+Place 3: Soliles4 (2630 en jetons) 
+Place 4: psychoman59 (8590 en jetons) 
+Pmjc144 : met l'ante. 15
+Abaddone : met l'ante. 15
+Soliles4 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+Pmjc144 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 5s]
+Abaddone : passe. 
+Soliles4 : suit. 120
+psychoman59 : passe. 
+Pmjc144 : relance. 4495 à 4615 et est all-in.
+Soliles4 : passe. 
+Personne n'a suivi. (4495) sont retournés à Pmjc144.
+Pmjc144 a remporté 360  lors du pot .
+Pmjc144 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : Pmjc144 (grosse blind) a remporté (360)
+Siège 2 : Abaddone s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Soliles4 (bouton) s'est couché. avant Flop
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238287821962 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/08/2022 15:18:42 CET [29/08/2022 9:18:42 ET]
+Table '3463334138 1' 4-max Siège #4 est au bouton.
+Place 1: Pmjc144 (4855 en jetons) 
+Place 2: Abaddone (4135 en jetons) 
+Place 3: Soliles4 (2495 en jetons) 
+Place 4: psychoman59 (8515 en jetons) 
+Pmjc144 : met l'ante. 15
+Abaddone : met l'ante. 15
+Soliles4 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Pmjc144 : met la petite blind. 60
+Abaddone : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Kd]
+Soliles4 : passe. 
+psychoman59 : passe. 
+Pmjc144 : passe. 
+Personne n'a suivi. (60) sont retournés à Abaddone.
+Abaddone a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : Pmjc144 (petite blind) s'est couché. avant Flop
+Siège 2 : Abaddone (grosse blind) a remporté (180)
+Siège 3 : Soliles4 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238287827369 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/08/2022 15:19:06 CET [29/08/2022 9:19:06 ET]
+Table '3463334138 1' 4-max Siège #1 est au bouton.
+Place 1: Pmjc144 (4780 en jetons) 
+Place 2: Abaddone (4240 en jetons) 
+Place 3: Soliles4 (2480 en jetons) 
+Place 4: psychoman59 (8500 en jetons) 
+Pmjc144 : met l'ante. 20
+Abaddone : met l'ante. 20
+Soliles4 : met l'ante. 20
+psychoman59 : met l'ante. 20
+Abaddone : met la petite blind. 75
+Soliles4 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Ks]
+psychoman59 : relance. 455 à 605
+Pmjc144 : passe. 
+Abaddone : passe. 
+Soliles4 : passe. 
+Personne n'a suivi. (455) sont retournés à psychoman59.
+psychoman59 a remporté 455  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 455 | Commission 0 
+Siège 1 : Pmjc144 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Abaddone (petite blind) s'est couché. avant Flop
+Siège 3 : Soliles4 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 a remporté (455)
+
+
+
+Main PokerStars n°238287830802 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/08/2022 15:19:22 CET [29/08/2022 9:19:22 ET]
+Table '3463334138 1' 4-max Siège #2 est au bouton.
+Place 1: Pmjc144 (4760 en jetons) 
+Place 2: Abaddone (4145 en jetons) 
+Place 3: Soliles4 (2310 en jetons) 
+Place 4: psychoman59 (8785 en jetons) 
+Pmjc144 : met l'ante. 20
+Abaddone : met l'ante. 20
+Soliles4 : met l'ante. 20
+psychoman59 : met l'ante. 20
+Soliles4 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Td]
+Pmjc144 : relance. 150 à 300
+Abaddone : passe. 
+Soliles4 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à Pmjc144.
+Pmjc144 a remporté 455  lors du pot .
+Pmjc144 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 455 | Commission 0 
+Siège 1 : Pmjc144 a remporté (455)
+Siège 2 : Abaddone (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Soliles4 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238287834937 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/08/2022 15:19:41 CET [29/08/2022 9:19:41 ET]
+Table '3463334138 1' 4-max Siège #3 est au bouton.
+Place 1: Pmjc144 (5045 en jetons) 
+Place 2: Abaddone (4125 en jetons) 
+Place 3: Soliles4 (2215 en jetons) 
+Place 4: psychoman59 (8615 en jetons) 
+Pmjc144 : met l'ante. 20
+Abaddone : met l'ante. 20
+Soliles4 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Pmjc144 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Ac]
+Abaddone : passe. 
+Soliles4 : suit. 150
+psychoman59 : suit. 75
+Pmjc144 : relance. 225 à 375
+Soliles4 : suit. 225
+psychoman59 : suit. 225
+*** FLOP *** [Tc 8c 9s]
+psychoman59 : parole 
+Pmjc144 : parole 
+Soliles4 : parole 
+*** TOURNANT *** [Tc 8c 9s] [Jc]
+psychoman59 : parole 
+Pmjc144 : parole 
+Soliles4 : parole 
+*** RIVIÈRE *** [Tc 8c 9s Jc] [9c]
+psychoman59 : mise. 602
+Pmjc144 : passe. 
+Soliles4 : relance. 1218 à 1820 et est all-in.
+psychoman59 : suit. 1218
+*** ABATTAGE ***
+Soliles4 : montre [9d Td] (un full, full aux Neuf par les Dix)
+psychoman59 : montre [8s Ac] (une couleur, hauteur As)
+Soliles4 a remporté 4845  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4845 | Commission 0 
+Tableau [Tc 8c 9s Jc 9c]
+Siège 1 : Pmjc144 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : Abaddone s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Soliles4 (bouton) a montré [9d Td] et a gagné (4845) avec un full, full aux Neuf par les Dix
+Siège 4 : psychoman59 (petite blind) a montré [8s Ac] et a perdu avec une couleur, hauteur As
+
+
+
+Main PokerStars n°238287851510 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/08/2022 15:20:56 CET [29/08/2022 9:20:56 ET]
+Table '3463334138 1' 4-max Siège #4 est au bouton.
+Place 1: Pmjc144 (4650 en jetons) 
+Place 2: Abaddone (4105 en jetons) 
+Place 3: Soliles4 (4845 en jetons) 
+Place 4: psychoman59 (6400 en jetons) 
+Pmjc144 : met l'ante. 20
+Abaddone : met l'ante. 20
+Soliles4 : met l'ante. 20
+psychoman59 : met l'ante. 20
+Pmjc144 : met la petite blind. 75
+Abaddone : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 8d]
+Soliles4 : relance. 150 à 300
+psychoman59 : passe. 
+Pmjc144 : passe. 
+Abaddone : suit. 150
+*** FLOP *** [5d 8s 2d]
+Abaddone : mise. 377
+Soliles4 : passe. 
+Personne n'a suivi. (377) sont retournés à Abaddone.
+Abaddone a remporté 755  lors du pot .
+*** SYNTHÈSE ***
+Pot total 755 | Commission 0 
+Tableau [5d 8s 2d]
+Siège 1 : Pmjc144 (petite blind) s'est couché. avant Flop
+Siège 2 : Abaddone (grosse blind) a remporté (755)
+Siège 3 : Soliles4 s'est couché. sur le Flop
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238287857717 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/08/2022 15:21:24 CET [29/08/2022 9:21:24 ET]
+Table '3463334138 1' 4-max Siège #1 est au bouton.
+Place 1: Pmjc144 (4555 en jetons) 
+Place 2: Abaddone (4540 en jetons) 
+Place 3: Soliles4 (4525 en jetons) 
+Place 4: psychoman59 (6380 en jetons) 
+Pmjc144 : met l'ante. 20
+Abaddone : met l'ante. 20
+Soliles4 : met l'ante. 20
+psychoman59 : met l'ante. 20
+Abaddone : met la petite blind. 75
+Soliles4 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 6s]
+psychoman59 : passe. 
+Pmjc144 : passe. 
+Abaddone : relance. 300 à 450
+Soliles4 : suit. 300
+*** FLOP *** [Td 9d 9h]
+Abaddone : mise. 490
+Soliles4 : passe. 
+Personne n'a suivi. (490) sont retournés à Abaddone.
+Abaddone a remporté 980  lors du pot .
+*** SYNTHÈSE ***
+Pot total 980 | Commission 0 
+Tableau [Td 9d 9h]
+Siège 1 : Pmjc144 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Abaddone (petite blind) a remporté (980)
+Siège 3 : Soliles4 (grosse blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238287863600 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/08/2022 15:21:51 CET [29/08/2022 9:21:51 ET]
+Table '3463334138 1' 4-max Siège #2 est au bouton.
+Place 1: Pmjc144 (4535 en jetons) 
+Place 2: Abaddone (5050 en jetons) 
+Place 3: Soliles4 (4055 en jetons) 
+Place 4: psychoman59 (6360 en jetons) 
+Pmjc144 : met l'ante. 20
+Abaddone : met l'ante. 20
+Soliles4 : met l'ante. 20
+psychoman59 : met l'ante. 20
+Soliles4 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 3c]
+Pmjc144 : relance. 150 à 300
+Abaddone : passe. 
+Soliles4 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à Pmjc144.
+Pmjc144 a remporté 455  lors du pot .
+Pmjc144 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 455 | Commission 0 
+Siège 1 : Pmjc144 a remporté (455)
+Siège 2 : Abaddone (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Soliles4 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238287869041 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/08/2022 15:22:16 CET [29/08/2022 9:22:16 ET]
+Table '3463334138 1' 4-max Siège #3 est au bouton.
+Place 1: Pmjc144 (4820 en jetons) 
+Place 2: Abaddone (5030 en jetons) 
+Place 3: Soliles4 (3960 en jetons) 
+Place 4: psychoman59 (6190 en jetons) 
+Pmjc144 : met l'ante. 25
+Abaddone : met l'ante. 25
+Soliles4 : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+Pmjc144 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c As]
+Abaddone : passe. 
+Soliles4 : passe. 
+psychoman59 : relance. 200 à 400
+Pmjc144 : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 500  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 1 : Pmjc144 (grosse blind) s'est couché. avant Flop
+Siège 2 : Abaddone s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Soliles4 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) a remporté (500)
+
+
+
+Main PokerStars n°238287874618 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/08/2022 15:22:41 CET [29/08/2022 9:22:41 ET]
+Table '3463334138 1' 4-max Siège #4 est au bouton.
+Place 1: Pmjc144 (4595 en jetons) 
+Place 2: Abaddone (5005 en jetons) 
+Place 3: Soliles4 (3935 en jetons) 
+Place 4: psychoman59 (6465 en jetons) 
+Pmjc144 : met l'ante. 25
+Abaddone : met l'ante. 25
+Soliles4 : met l'ante. 25
+psychoman59 : met l'ante. 25
+Pmjc144 : met la petite blind. 100
+Abaddone : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Th]
+Soliles4 : passe. 
+psychoman59 : passe. 
+Pmjc144 : suit. 100
+Abaddone : parole 
+*** FLOP *** [2h 4h 7d]
+Pmjc144 : mise. 200
+Abaddone : suit. 200
+*** TOURNANT *** [2h 4h 7d] [7s]
+Pmjc144 : parole 
+Abaddone : parole 
+*** RIVIÈRE *** [2h 4h 7d 7s] [Kh]
+Pmjc144 : parole 
+Abaddone : parole 
+*** ABATTAGE ***
+Pmjc144 : montre [6s 2c] (double paire, Sept et Deux)
+Abaddone : montre [2d Ts] (double paire, Sept et Deux)
+Pmjc144 a remporté 450  lors du pot .
+Abaddone a remporté 450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [2h 4h 7d 7s Kh]
+Siège 1 : Pmjc144 (petite blind) a montré [6s 2c] et a gagné (450) avec double paire, Sept et Deux
+Siège 2 : Abaddone (grosse blind) a montré [2d Ts] et a gagné (450) avec double paire, Sept et Deux
+Siège 3 : Soliles4 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238287882788 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/08/2022 15:23:18 CET [29/08/2022 9:23:18 ET]
+Table '3463334138 1' 4-max Siège #1 est au bouton.
+Place 1: Pmjc144 (4620 en jetons) 
+Place 2: Abaddone (5030 en jetons) 
+Place 3: Soliles4 (3910 en jetons) 
+Place 4: psychoman59 (6440 en jetons) 
+Pmjc144 : met l'ante. 25
+Abaddone : met l'ante. 25
+Soliles4 : met l'ante. 25
+psychoman59 : met l'ante. 25
+Abaddone : met la petite blind. 100
+Soliles4 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Kc]
+psychoman59 : passe. 
+Pmjc144 : passe. 
+Abaddone : suit. 100
+Soliles4 : parole 
+*** FLOP *** [Jh Ad Tc]
+Abaddone : mise. 200
+Soliles4 : suit. 200
+*** TOURNANT *** [Jh Ad Tc] [3s]
+Abaddone : parole 
+Soliles4 : parole 
+*** RIVIÈRE *** [Jh Ad Tc 3s] [3c]
+Abaddone : parole 
+Soliles4 : parole 
+*** ABATTAGE ***
+Abaddone : montre [9d 8c] (une paire de Trois)
+Soliles4 : montre [Qh 2h] (une paire de Trois - As+Dame kicker)
+Soliles4 a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [Jh Ad Tc 3s 3c]
+Siège 1 : Pmjc144 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Abaddone (petite blind) a montré [9d 8c] et a perdu avec une paire de Trois
+Siège 3 : Soliles4 (grosse blind) a montré [Qh 2h] et a gagné (900) avec une paire de Trois
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238287893218 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/08/2022 15:24:05 CET [29/08/2022 9:24:05 ET]
+Table '3463334138 1' 4-max Siège #2 est au bouton.
+Place 1: Pmjc144 (4595 en jetons) 
+Place 2: Abaddone (4605 en jetons) 
+Place 3: Soliles4 (4385 en jetons) 
+Place 4: psychoman59 (6415 en jetons) 
+Pmjc144 : met l'ante. 25
+Abaddone : met l'ante. 25
+Soliles4 : met l'ante. 25
+psychoman59 : met l'ante. 25
+Soliles4 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 2d]
+Pmjc144 : passe. 
+Abaddone : passe. 
+Soliles4 : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 300  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Siège 1 : Pmjc144 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Abaddone (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Soliles4 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (300)
+
+
+
+Main PokerStars n°238287895648 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/08/2022 15:24:16 CET [29/08/2022 9:24:16 ET]
+Table '3463334138 1' 4-max Siège #3 est au bouton.
+Place 1: Pmjc144 (4570 en jetons) 
+Place 2: Abaddone (4580 en jetons) 
+Place 3: Soliles4 (4260 en jetons) 
+Place 4: psychoman59 (6590 en jetons) 
+Pmjc144 : met l'ante. 25
+Abaddone : met l'ante. 25
+Soliles4 : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+Pmjc144 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Th]
+Abaddone : passe. 
+Soliles4 : passe. 
+psychoman59 : suit. 100
+Pmjc144 : parole 
+*** FLOP *** [Ac 9c 5s]
+psychoman59 : parole 
+Pmjc144 : parole 
+*** TOURNANT *** [Ac 9c 5s] [4h]
+psychoman59 : parole 
+Pmjc144 : parole 
+*** RIVIÈRE *** [Ac 9c 5s 4h] [9d]
+psychoman59 : parole 
+Pmjc144 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Jh Th] (une paire de Neuf)
+Pmjc144 : montre [4d 2d] (double paire, Neuf et Quatre)
+Pmjc144 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [Ac 9c 5s 4h 9d]
+Siège 1 : Pmjc144 (grosse blind) a montré [4d 2d] et a gagné (500) avec double paire, Neuf et Quatre
+Siège 2 : Abaddone s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Soliles4 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) a montré [Jh Th] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°238287908878 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 29/08/2022 15:25:14 CET [29/08/2022 9:25:14 ET]
+Table '3463334138 1' 4-max Siège #4 est au bouton.
+Place 1: Pmjc144 (4845 en jetons) 
+Place 2: Abaddone (4555 en jetons) 
+Place 3: Soliles4 (4235 en jetons) 
+Place 4: psychoman59 (6365 en jetons) 
+Pmjc144 : met l'ante. 30
+Abaddone : met l'ante. 30
+Soliles4 : met l'ante. 30
+psychoman59 : met l'ante. 30
+Pmjc144 : met la petite blind. 125
+Abaddone : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Ks]
+Soliles4 : suit. 250
+psychoman59 : passe. 
+Pmjc144 : suit. 125
+Abaddone : parole 
+*** FLOP *** [Qd Ts 7s]
+Pmjc144 : parole 
+Abaddone : parole 
+Soliles4 : parole 
+*** TOURNANT *** [Qd Ts 7s] [Kd]
+Pmjc144 : parole 
+Abaddone : parole 
+Soliles4 : parole 
+*** RIVIÈRE *** [Qd Ts 7s Kd] [Ah]
+Pmjc144 : parole 
+Abaddone : parole 
+Soliles4 : parole 
+*** ABATTAGE ***
+Pmjc144 : montre [Qs 6s] (une paire de Dames)
+Abaddone : cache la main perdante. 
+Soliles4 : cache la main perdante. 
+Pmjc144 a remporté 870  lors du pot .
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Tableau [Qd Ts 7s Kd Ah]
+Siège 1 : Pmjc144 (petite blind) a montré [Qs 6s] et a gagné (870) avec une paire de Dames
+Siège 2 : Abaddone (grosse blind) a caché la main perdante. [4h 2s]
+Siège 3 : Soliles4 a caché la main perdante. [6h 7h]
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238287924660 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 29/08/2022 15:26:25 CET [29/08/2022 9:26:25 ET]
+Table '3463334138 1' 4-max Siège #1 est au bouton.
+Place 1: Pmjc144 (5435 en jetons) 
+Place 2: Abaddone (4275 en jetons) 
+Place 3: Soliles4 (3955 en jetons) 
+Place 4: psychoman59 (6335 en jetons) 
+Pmjc144 : met l'ante. 30
+Abaddone : met l'ante. 30
+Soliles4 : met l'ante. 30
+psychoman59 : met l'ante. 30
+Abaddone : met la petite blind. 125
+Soliles4 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 9c]
+psychoman59 : passe. 
+Pmjc144 : passe. 
+Abaddone : suit. 125
+Soliles4 : relance. 250 à 500
+Abaddone : suit. 250
+*** FLOP *** [Ad Qd 3s]
+Abaddone : parole 
+Soliles4 : mise. 560
+Abaddone : passe. 
+Personne n'a suivi. (560) sont retournés à Soliles4.
+Soliles4 a remporté 1120  lors du pot .
+Soliles4 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1120 | Commission 0 
+Tableau [Ad Qd 3s]
+Siège 1 : Pmjc144 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Abaddone (petite blind) s'est couché. sur le Flop
+Siège 3 : Soliles4 (grosse blind) a remporté (1120)
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238287934635 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 29/08/2022 15:27:10 CET [29/08/2022 9:27:10 ET]
+Table '3463334138 1' 4-max Siège #2 est au bouton.
+Place 1: Pmjc144 (5405 en jetons) 
+Place 2: Abaddone (3745 en jetons) 
+Place 3: Soliles4 (4545 en jetons) 
+Place 4: psychoman59 (6305 en jetons) 
+Pmjc144 : met l'ante. 30
+Abaddone : met l'ante. 30
+Soliles4 : met l'ante. 30
+psychoman59 : met l'ante. 30
+Soliles4 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Qs]
+Pmjc144 : passe. 
+Abaddone : passe. 
+Soliles4 : relance. 250 à 500
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à Soliles4.
+Soliles4 a remporté 620  lors du pot .
+Soliles4 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 1 : Pmjc144 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Abaddone (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Soliles4 (petite blind) a remporté (620)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238287938656 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 29/08/2022 15:27:29 CET [29/08/2022 9:27:29 ET]
+Table '3463334138 1' 4-max Siège #3 est au bouton.
+Place 1: Pmjc144 (5375 en jetons) 
+Place 2: Abaddone (3715 en jetons) 
+Place 3: Soliles4 (4885 en jetons) 
+Place 4: psychoman59 (6025 en jetons) 
+Pmjc144 : met l'ante. 30
+Abaddone : met l'ante. 30
+Soliles4 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+Pmjc144 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 6d]
+Abaddone : passe. 
+Soliles4 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à Pmjc144.
+Pmjc144 a remporté 370  lors du pot .
+Pmjc144 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 370 | Commission 0 
+Siège 1 : Pmjc144 (grosse blind) a remporté (370)
+Siège 2 : Abaddone s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Soliles4 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238287943998 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 29/08/2022 15:27:53 CET [29/08/2022 9:27:53 ET]
+Table '3463334138 1' 4-max Siège #4 est au bouton.
+Place 1: Pmjc144 (5590 en jetons) 
+Place 2: Abaddone (3685 en jetons) 
+Place 3: Soliles4 (4855 en jetons) 
+Place 4: psychoman59 (5870 en jetons) 
+Pmjc144 : met l'ante. 30
+Abaddone : met l'ante. 30
+Soliles4 : met l'ante. 30
+psychoman59 : met l'ante. 30
+Pmjc144 : met la petite blind. 125
+Abaddone : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 7h]
+Soliles4 : passe. 
+psychoman59 : passe. 
+Pmjc144 : suit. 125
+Abaddone : parole 
+*** FLOP *** [Ks Th 6c]
+Pmjc144 : parole 
+Abaddone : parole 
+*** TOURNANT *** [Ks Th 6c] [3c]
+Pmjc144 : parole 
+Abaddone : parole 
+*** RIVIÈRE *** [Ks Th 6c 3c] [2h]
+Pmjc144 : parole 
+Abaddone : parole 
+*** ABATTAGE ***
+Pmjc144 : montre [8s Qs] (Hauteur Roi)
+Abaddone : montre [Ad 7s] (Hauteur As)
+Abaddone a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Ks Th 6c 3c 2h]
+Siège 1 : Pmjc144 (petite blind) a montré [8s Qs] et a perdu avec Hauteur Roi
+Siège 2 : Abaddone (grosse blind) a montré [Ad 7s] et a gagné (620) avec Hauteur As
+Siège 3 : Soliles4 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238287954478 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 29/08/2022 15:28:40 CET [29/08/2022 9:28:40 ET]
+Table '3463334138 1' 4-max Siège #1 est au bouton.
+Place 1: Pmjc144 (5310 en jetons) 
+Place 2: Abaddone (4025 en jetons) 
+Place 3: Soliles4 (4825 en jetons) 
+Place 4: psychoman59 (5840 en jetons) 
+Pmjc144 : met l'ante. 40
+Abaddone : met l'ante. 40
+Soliles4 : met l'ante. 40
+psychoman59 : met l'ante. 40
+Abaddone : met la petite blind. 150
+Soliles4 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Ac]
+psychoman59 : relance. 910 à 1210
+Pmjc144 : passe. 
+Abaddone : passe. 
+Soliles4 : suit. 910
+*** FLOP *** [8h 8s 6h]
+Soliles4 : parole 
+psychoman59 : mise. 2730
+Soliles4 : relance. 845 à 3575 et est all-in.
+psychoman59 : suit. 845
+*** TOURNANT *** [8h 8s 6h] [7c]
+*** RIVIÈRE *** [8h 8s 6h 7c] [Kc]
+*** ABATTAGE ***
+Soliles4 : montre [7d 7s] (un full, full aux Sept par les Huit)
+psychoman59 : montre [Jh Ac] (une paire de Huit)
+Soliles4 a remporté 9880  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9880 | Commission 0 
+Tableau [8h 8s 6h 7c Kc]
+Siège 1 : Pmjc144 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Abaddone (petite blind) s'est couché. avant Flop
+Siège 3 : Soliles4 (grosse blind) a montré [7d 7s] et a gagné (9880) avec un full, full aux Sept par les Huit
+Siège 4 : psychoman59 a montré [Jh Ac] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°238287966526 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 29/08/2022 15:29:34 CET [29/08/2022 9:29:34 ET]
+Table '3463334138 1' 4-max Siège #2 est au bouton.
+Place 1: Pmjc144 (5270 en jetons) 
+Place 2: Abaddone (3835 en jetons) 
+Place 3: Soliles4 (9880 en jetons) 
+Place 4: psychoman59 (1015 en jetons) 
+Pmjc144 : met l'ante. 40
+Abaddone : met l'ante. 40
+Soliles4 : met l'ante. 40
+psychoman59 : met l'ante. 40
+Soliles4 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Jc]
+Pmjc144 : relance. 300 à 600
+Abaddone : passe. 
+Soliles4 : suit. 450
+psychoman59 : relance. 375 à 975 et est all-in.
+Pmjc144 : relance. 4255 à 5230 et est all-in.
+Soliles4 : passe. 
+Personne n'a suivi. (4255) sont retournés à Pmjc144.
+*** FLOP *** [Tc 9c 8h]
+*** TOURNANT *** [Tc 9c 8h] [9h]
+*** RIVIÈRE *** [Tc 9c 8h 9h] [8c]
+*** ABATTAGE ***
+psychoman59 : montre [As Jc] (double paire, Neuf et Huit)
+Pmjc144 : montre [Ah Qd] (double paire, Neuf et Huit)
+psychoman59 a remporté 1355  lors du pot .
+Pmjc144 a remporté 1355  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2710 | Commission 0 
+Tableau [Tc 9c 8h 9h 8c]
+Siège 1 : Pmjc144 a montré [Ah Qd] et a gagné (1355) avec double paire, Neuf et Huit
+Siège 2 : Abaddone (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Soliles4 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a montré [As Jc] et a gagné (1355) avec double paire, Neuf et Huit
+
+
+
+Main PokerStars n°238287975720 : Tournoi #3463334138, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 29/08/2022 15:30:14 CET [29/08/2022 9:30:14 ET]
+Table '3463334138 1' 4-max Siège #3 est au bouton.
+Place 1: Pmjc144 (5610 en jetons) 
+Place 2: Abaddone (3795 en jetons) 
+Place 3: Soliles4 (9240 en jetons) 
+Place 4: psychoman59 (1355 en jetons) 
+Pmjc144 : met l'ante. 40
+Abaddone : met l'ante. 40
+Soliles4 : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+Pmjc144 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Th]
+Abaddone : suit. 300
+Soliles4 : passe. 
+psychoman59 : suit. 150
+Pmjc144 : relance. 5270 à 5570 et est all-in.
+Abaddone : passe. 
+psychoman59 : suit. 1015 et est all-in.
+Personne n'a suivi. (4255) sont retournés à Pmjc144.
+*** FLOP *** [6d Qc 3c]
+*** TOURNANT *** [6d Qc 3c] [5h]
+*** RIVIÈRE *** [6d Qc 3c 5h] [9h]
+*** ABATTAGE ***
+psychoman59 : montre [Jd Th] (Hauteur Dame)
+Pmjc144 : montre [Ad 5s] (une paire de Cinq)
+Pmjc144 a remporté 3090  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 3090 | Commission 0 
+Tableau [6d Qc 3c 5h 9h]
+Siège 1 : Pmjc144 (grosse blind) a montré [Ad 5s] et a gagné (3090) avec une paire de Cinq
+Siège 2 : Abaddone s'est couché. avant Flop
+Siège 3 : Soliles4 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) a montré [Jd Th] et a perdu avec Hauteur Dame
+
+
+

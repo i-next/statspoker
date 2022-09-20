@@ -1,0 +1,2211 @@
+﻿Main PokerStars n°238114359282 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 23:59:28 CET [20/08/2022 17:59:28 ET]
+Table '3459247355 1' 4-max Siège #1 est au bouton.
+Place 1: parasilver (5000 en jetons) 
+Place 2: Bellougo (5000 en jetons) 
+Place 3: M1GWEL (5000 en jetons) 
+Place 4: psychoman59 (5000 en jetons) 
+parasilver : met l'ante. 10
+Bellougo : met l'ante. 10
+M1GWEL : met l'ante. 10
+psychoman59 : met l'ante. 10
+Bellougo : met la petite blind. 50
+M1GWEL : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 6d]
+psychoman59 : passe. 
+parasilver : passe. 
+Bellougo : suit. 50
+psychoman59 est déconnecté 
+M1GWEL : parole 
+*** FLOP *** [8s 3d 4h]
+Bellougo : parole 
+M1GWEL : parole 
+*** TOURNANT *** [8s 3d 4h] [3h]
+Bellougo : parole 
+M1GWEL : parole 
+*** RIVIÈRE *** [8s 3d 4h 3h] [8d]
+Bellougo : parole 
+M1GWEL : mise. 100
+Bellougo : passe. 
+Personne n'a suivi. (100) sont retournés à M1GWEL.
+M1GWEL a remporté 240  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [8s 3d 4h 3h 8d]
+Siège 1 : parasilver (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Bellougo (petite blind) s'est couché. sur le Rivière
+Siège 3 : M1GWEL (grosse blind) a remporté (240)
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238114379076 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 21/08/2022 0:00:45 CET [20/08/2022 18:00:45 ET]
+Table '3459247355 1' 4-max Siège #2 est au bouton.
+Place 1: parasilver (4990 en jetons) 
+Place 2: Bellougo (4890 en jetons) 
+Place 3: M1GWEL (5130 en jetons) 
+Place 4: psychoman59 (4990 en jetons) 
+parasilver : met l'ante. 10
+Bellougo : met l'ante. 10
+M1GWEL : met l'ante. 10
+psychoman59 : met l'ante. 10
+M1GWEL : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Ts]
+parasilver : passe. 
+Bellougo : relance. 290 à 390
+M1GWEL : passe. 
+psychoman59 : suit. 290
+*** FLOP *** [Kd 5s As]
+psychoman59 : parole 
+Bellougo : parole 
+*** TOURNANT *** [Kd 5s As] [Qd]
+psychoman59 : parole 
+Bellougo : mise. 435
+psychoman59 : passe. 
+Personne n'a suivi. (435) sont retournés à Bellougo.
+Bellougo a remporté 870  lors du pot .
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Tableau [Kd 5s As Qd]
+Siège 1 : parasilver s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Bellougo (bouton) a remporté (870)
+Siège 3 : M1GWEL (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238114393608 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 21/08/2022 0:01:36 CET [20/08/2022 18:01:36 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 1: parasilver (4980 en jetons) 
+Place 2: Bellougo (5360 en jetons) 
+Place 3: M1GWEL (5070 en jetons) 
+Place 4: psychoman59 (4590 en jetons) 
+parasilver : met l'ante. 10
+Bellougo : met l'ante. 10
+M1GWEL : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+parasilver : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 5s]
+Bellougo : relance. 400 à 500
+M1GWEL : passe. 
+psychoman59 : relance. 4080 à 4580 et est all-in.
+parasilver : relance. 390 à 4970 et est all-in.
+Bellougo : suit. 4470
+*** FLOP *** [Ts 5c 3h]
+*** TOURNANT *** [Ts 5c 3h] [Th]
+*** RIVIÈRE *** [Ts 5c 3h Th] [As]
+*** ABATTAGE ***
+parasilver : montre [Jd Ah] (double paire, As et Dix)
+Bellougo : montre [Ks Qd] (une paire de Dix)
+parasilver a remporté 780  parallèle lors du pot .
+psychoman59 : montre [5d 5s] (un full, full aux Cinq par les Dix)
+psychoman59 a remporté 13780  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 14560 Principal pot 13780. Parallèle pot 780. | Commission 0 
+Tableau [Ts 5c 3h Th As]
+Siège 1 : parasilver (grosse blind) a montré [Jd Ah] et a gagné (780) avec double paire, As et Dix
+Siège 2 : Bellougo a montré [Ks Qd] et a perdu avec une paire de Dix
+Siège 3 : M1GWEL (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) a montré [5d 5s] et a gagné (13780) avec un full, full aux Cinq par les Dix
+
+
+
+Main PokerStars n°238114404455 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 21/08/2022 0:02:11 CET [20/08/2022 18:02:11 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 1: parasilver (780 en jetons) 
+Place 2: Bellougo (380 en jetons) 
+Place 3: M1GWEL (5060 en jetons) 
+Place 4: psychoman59 (13780 en jetons) 
+parasilver : met l'ante. 10
+Bellougo : met l'ante. 10
+M1GWEL : met l'ante. 10
+psychoman59 : met l'ante. 10
+parasilver : met la petite blind. 50
+Bellougo : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 2h]
+M1GWEL : passe. 
+psychoman59 : passe. 
+parasilver : passe. 
+Personne n'a suivi. (50) sont retournés à Bellougo.
+Bellougo a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Siège 1 : parasilver (petite blind) s'est couché. avant Flop
+Siège 2 : Bellougo (grosse blind) a remporté (140)
+Siège 3 : M1GWEL s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238114408584 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 21/08/2022 0:02:24 CET [20/08/2022 18:02:24 ET]
+Table '3459247355 1' 4-max Siège #1 est au bouton.
+Place 1: parasilver (720 en jetons) 
+Place 2: Bellougo (460 en jetons) 
+Place 3: M1GWEL (5050 en jetons) 
+Place 4: psychoman59 (13770 en jetons) 
+parasilver : met l'ante. 10
+Bellougo : met l'ante. 10
+M1GWEL : met l'ante. 10
+psychoman59 : met l'ante. 10
+Bellougo : met la petite blind. 50
+M1GWEL : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Kc]
+psychoman59 : relance. 200 à 300
+parasilver : relance. 410 à 710 et est all-in.
+Bellougo : passe. 
+M1GWEL : relance. 4330 à 5040 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (4330) sont retournés à M1GWEL.
+*** FLOP *** [2s Qh Jh]
+*** TOURNANT *** [2s Qh Jh] [4d]
+*** RIVIÈRE *** [2s Qh Jh 4d] [6s]
+*** ABATTAGE ***
+M1GWEL : montre [Kh Ac] (Hauteur As)
+parasilver : montre [2h 4h] (double paire, Quatre et Deux)
+parasilver a remporté 1810  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1810 | Commission 0 
+Tableau [2s Qh Jh 4d 6s]
+Siège 1 : parasilver (bouton) a montré [2h 4h] et a gagné (1810) avec double paire, Quatre et Deux
+Siège 2 : Bellougo (petite blind) s'est couché. avant Flop
+Siège 3 : M1GWEL (grosse blind) a montré [Kh Ac] et a perdu avec Hauteur As
+Siège 4 : psychoman59 s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114421929 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 21/08/2022 0:03:07 CET [20/08/2022 18:03:07 ET]
+Table '3459247355 1' 4-max Siège #2 est au bouton.
+Place 1: parasilver (1810 en jetons) 
+Place 2: Bellougo (400 en jetons) 
+Place 3: M1GWEL (4330 en jetons) 
+Place 4: psychoman59 (13460 en jetons) 
+parasilver : met l'ante. 15
+Bellougo : met l'ante. 15
+M1GWEL : met l'ante. 15
+psychoman59 : met l'ante. 15
+M1GWEL : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 9c]
+parasilver : passe. 
+Bellougo : relance. 265 à 385 et est all-in.
+M1GWEL : passe. 
+psychoman59 : suit. 265
+*** FLOP *** [2d 7h 5h]
+*** TOURNANT *** [2d 7h 5h] [Ah]
+*** RIVIÈRE *** [2d 7h 5h Ah] [7c]
+*** ABATTAGE ***
+psychoman59 : montre [8s 9c] (une paire de Sept)
+Bellougo : montre [Ac Ks] (double paire, As et Sept)
+Bellougo a remporté 890  lors du pot .
+*** SYNTHÈSE ***
+Pot total 890 | Commission 0 
+Tableau [2d 7h 5h Ah 7c]
+Siège 1 : parasilver s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Bellougo (bouton) a montré [Ac Ks] et a gagné (890) avec double paire, As et Sept
+Siège 3 : M1GWEL (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a montré [8s 9c] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°238114429181 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 21/08/2022 0:03:30 CET [20/08/2022 18:03:30 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 1: parasilver (1795 en jetons) 
+Place 2: Bellougo (890 en jetons) 
+Place 3: M1GWEL (4255 en jetons) 
+Place 4: psychoman59 (13060 en jetons) 
+parasilver : met l'ante. 15
+Bellougo : met l'ante. 15
+M1GWEL : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+parasilver : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 4s]
+Bellougo : relance. 755 à 875 et est all-in.
+M1GWEL : passe. 
+psychoman59 : passe. 
+parasilver : passe. 
+Personne n'a suivi. (755) sont retournés à Bellougo.
+Bellougo a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : parasilver (grosse blind) s'est couché. avant Flop
+Siège 2 : Bellougo a remporté (360)
+Siège 3 : M1GWEL (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114435615 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 21/08/2022 0:03:50 CET [20/08/2022 18:03:50 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 1: parasilver (1660 en jetons) 
+Place 2: Bellougo (1115 en jetons) 
+Place 3: M1GWEL (4240 en jetons) 
+Place 4: psychoman59 (12985 en jetons) 
+parasilver : met l'ante. 15
+Bellougo : met l'ante. 15
+M1GWEL : met l'ante. 15
+psychoman59 : met l'ante. 15
+parasilver : met la petite blind. 60
+Bellougo : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9c]
+M1GWEL : passe. 
+psychoman59 : passe. 
+parasilver : passe. 
+Personne n'a suivi. (60) sont retournés à Bellougo.
+Bellougo a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : parasilver (petite blind) s'est couché. avant Flop
+Siège 2 : Bellougo (grosse blind) a remporté (180)
+Siège 3 : M1GWEL s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238114442220 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 21/08/2022 0:04:11 CET [20/08/2022 18:04:11 ET]
+Table '3459247355 1' 4-max Siège #1 est au bouton.
+Place 1: parasilver (1585 en jetons) 
+Place 2: Bellougo (1220 en jetons) 
+Place 3: M1GWEL (4225 en jetons) 
+Place 4: psychoman59 (12970 en jetons) 
+parasilver : met l'ante. 15
+Bellougo : met l'ante. 15
+M1GWEL : met l'ante. 15
+psychoman59 : met l'ante. 15
+Bellougo : met la petite blind. 60
+M1GWEL : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 2c]
+psychoman59 : passe. 
+parasilver : passe. 
+Bellougo : relance. 1085 à 1205 et est all-in.
+M1GWEL : passe. 
+Personne n'a suivi. (1085) sont retournés à Bellougo.
+Bellougo a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Siège 1 : parasilver (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Bellougo (petite blind) a remporté (300)
+Siège 3 : M1GWEL (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238114449222 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 21/08/2022 0:04:33 CET [20/08/2022 18:04:33 ET]
+Table '3459247355 1' 4-max Siège #2 est au bouton.
+Place 1: parasilver (1570 en jetons) 
+Place 2: Bellougo (1385 en jetons) 
+Place 3: M1GWEL (4090 en jetons) 
+Place 4: psychoman59 (12955 en jetons) 
+parasilver : met l'ante. 15
+Bellougo : met l'ante. 15
+M1GWEL : met l'ante. 15
+psychoman59 : met l'ante. 15
+M1GWEL : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Jh]
+parasilver : passe. 
+Bellougo : relance. 120 à 240
+M1GWEL : passe. 
+psychoman59 : suit. 120
+*** FLOP *** [6s Th 4h]
+psychoman59 : parole 
+Bellougo : mise. 120
+psychoman59 : suit. 120
+*** TOURNANT *** [6s Th 4h] [As]
+psychoman59 : parole 
+Bellougo : parole 
+*** RIVIÈRE *** [6s Th 4h As] [8d]
+psychoman59 : parole 
+Bellougo : mise. 420
+psychoman59 : passe. 
+Personne n'a suivi. (420) sont retournés à Bellougo.
+Bellougo a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [6s Th 4h As 8d]
+Siège 1 : parasilver s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Bellougo (bouton) a remporté (840)
+Siège 3 : M1GWEL (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238114466282 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 21/08/2022 0:05:26 CET [20/08/2022 18:05:26 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 1: parasilver (1555 en jetons) 
+Place 2: Bellougo (1850 en jetons) 
+Place 3: M1GWEL (4015 en jetons) 
+Place 4: psychoman59 (12580 en jetons) 
+parasilver : met l'ante. 15
+Bellougo : met l'ante. 15
+M1GWEL : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+parasilver : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 3d]
+Bellougo : suit. 120
+M1GWEL : relance. 3880 à 4000 et est all-in.
+psychoman59 : passe. 
+parasilver : passe. 
+Bellougo : passe. 
+Personne n'a suivi. (3880) sont retournés à M1GWEL.
+M1GWEL a remporté 480  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Siège 1 : parasilver (grosse blind) s'est couché. avant Flop
+Siège 2 : Bellougo s'est couché. avant Flop
+Siège 3 : M1GWEL (bouton) a remporté (480)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114474160 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 21/08/2022 0:05:52 CET [20/08/2022 18:05:52 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 1: parasilver (1420 en jetons) 
+Place 2: Bellougo (1715 en jetons) 
+Place 3: M1GWEL (4360 en jetons) 
+Place 4: psychoman59 (12505 en jetons) 
+parasilver : met l'ante. 20
+Bellougo : met l'ante. 20
+M1GWEL : met l'ante. 20
+psychoman59 : met l'ante. 20
+parasilver : met la petite blind. 75
+Bellougo : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 2s]
+M1GWEL : passe. 
+psychoman59 : passe. 
+parasilver : relance. 1250 à 1400 et est all-in.
+Bellougo : suit. 1250
+*** FLOP *** [Qs 6d 4h]
+*** TOURNANT *** [Qs 6d 4h] [2h]
+*** RIVIÈRE *** [Qs 6d 4h 2h] [3h]
+*** ABATTAGE ***
+parasilver : montre [Ac Qh] (une paire de Dames)
+Bellougo : montre [Ad 5c] (une suite, Deux à Six)
+Bellougo a remporté 2880  lors du pot .
+parasilver a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 2880 | Commission 0 
+Tableau [Qs 6d 4h 2h 3h]
+Siège 1 : parasilver (petite blind) a montré [Ac Qh] et a perdu avec une paire de Dames
+Siège 2 : Bellougo (grosse blind) a montré [Ad 5c] et a gagné (2880) avec une suite, Deux à Six
+Siège 3 : M1GWEL s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238114481583 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 21/08/2022 0:06:15 CET [20/08/2022 18:06:15 ET]
+Table '3459247355 1' 4-max Siège #2 est au bouton.
+Place 2: Bellougo (3175 en jetons) 
+Place 3: M1GWEL (4340 en jetons) 
+Place 4: psychoman59 (12485 en jetons) 
+Bellougo : met l'ante. 20
+M1GWEL : met l'ante. 20
+psychoman59 : met l'ante. 20
+M1GWEL : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Tc]
+Bellougo : relance. 150 à 300
+M1GWEL : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à Bellougo.
+Bellougo a remporté 435  lors du pot .
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Siège 2 : Bellougo (bouton) a remporté (435)
+Siège 3 : M1GWEL (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114490163 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 21/08/2022 0:06:42 CET [20/08/2022 18:06:42 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 2: Bellougo (3440 en jetons) 
+Place 3: M1GWEL (4245 en jetons) 
+Place 4: psychoman59 (12315 en jetons) 
+Bellougo : met l'ante. 20
+M1GWEL : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Bellougo : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Qh]
+M1GWEL : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à Bellougo.
+Bellougo a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 2 : Bellougo (grosse blind) a remporté (210)
+Siège 3 : M1GWEL (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114503694 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 21/08/2022 0:07:05 CET [20/08/2022 18:07:05 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 2: Bellougo (3555 en jetons) 
+Place 3: M1GWEL (4225 en jetons) 
+Place 4: psychoman59 (12220 en jetons) 
+Bellougo : met l'ante. 20
+M1GWEL : met l'ante. 20
+psychoman59 : met l'ante. 20
+Bellougo : met la petite blind. 75
+M1GWEL : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 3d]
+psychoman59 : passe. 
+Bellougo : suit. 75
+M1GWEL : relance. 4055 à 4205 et est all-in.
+Bellougo : passe. 
+Personne n'a suivi. (4055) sont retournés à M1GWEL.
+M1GWEL a remporté 360  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 2 : Bellougo (petite blind) s'est couché. avant Flop
+Siège 3 : M1GWEL (grosse blind) a remporté (360)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238114511475 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 21/08/2022 0:07:30 CET [20/08/2022 18:07:30 ET]
+Table '3459247355 1' 4-max Siège #2 est au bouton.
+Place 2: Bellougo (3385 en jetons) 
+Place 3: M1GWEL (4415 en jetons) 
+Place 4: psychoman59 (12200 en jetons) 
+Bellougo : met l'ante. 20
+M1GWEL : met l'ante. 20
+psychoman59 : met l'ante. 20
+M1GWEL : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Qs]
+Bellougo : passe. 
+M1GWEL : suit. 75
+psychoman59 : parole 
+*** FLOP *** [Ad 2d 9c]
+M1GWEL : mise. 150
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à M1GWEL.
+M1GWEL a remporté 360  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Ad 2d 9c]
+Siège 2 : Bellougo (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : M1GWEL (petite blind) a remporté (360)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238114519612 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 21/08/2022 0:07:56 CET [20/08/2022 18:07:56 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 2: Bellougo (3365 en jetons) 
+Place 3: M1GWEL (4605 en jetons) 
+Place 4: psychoman59 (12030 en jetons) 
+Bellougo : met l'ante. 20
+M1GWEL : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Bellougo : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Tc]
+M1GWEL : suit. 150
+psychoman59 : passe. 
+Bellougo : relance. 300 à 450
+M1GWEL : passe. 
+Personne n'a suivi. (300) sont retournés à Bellougo.
+Bellougo a remporté 435  lors du pot .
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Siège 2 : Bellougo (grosse blind) a remporté (435)
+Siège 3 : M1GWEL (bouton) s'est couché. avant Flop
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114525922 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 21/08/2022 0:08:16 CET [20/08/2022 18:08:16 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 2: Bellougo (3630 en jetons) 
+Place 3: M1GWEL (4435 en jetons) 
+Place 4: psychoman59 (11935 en jetons) 
+Bellougo : met l'ante. 20
+M1GWEL : met l'ante. 20
+psychoman59 : met l'ante. 20
+Bellougo : met la petite blind. 75
+M1GWEL : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Th]
+psychoman59 : passe. 
+Bellougo : relance. 360 à 510
+M1GWEL : passe. 
+Personne n'a suivi. (360) sont retournés à Bellougo.
+Bellougo a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 2 : Bellougo (petite blind) a remporté (360)
+Siège 3 : M1GWEL (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238114535199 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 21/08/2022 0:08:46 CET [20/08/2022 18:08:46 ET]
+Table '3459247355 1' 4-max Siège #2 est au bouton.
+Place 2: Bellougo (3820 en jetons) 
+Place 3: M1GWEL (4265 en jetons) 
+Place 4: psychoman59 (11915 en jetons) 
+Bellougo : met l'ante. 25
+M1GWEL : met l'ante. 25
+psychoman59 : met l'ante. 25
+M1GWEL : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 6s]
+Bellougo : relance. 200 à 400
+M1GWEL : passe. 
+psychoman59 : suit. 200
+*** FLOP *** [4s 4c 3d]
+psychoman59 : parole 
+Bellougo : mise. 200
+psychoman59 : suit. 200
+*** TOURNANT *** [4s 4c 3d] [Th]
+psychoman59 : parole 
+Bellougo : parole 
+*** RIVIÈRE *** [4s 4c 3d Th] [Kh]
+psychoman59 : mise. 687
+Bellougo : passe. 
+Personne n'a suivi. (687) sont retournés à psychoman59.
+psychoman59 a remporté 1375  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1375 | Commission 0 
+Tableau [4s 4c 3d Th Kh]
+Siège 2 : Bellougo (bouton) s'est couché. sur le Rivière
+Siège 3 : M1GWEL (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (1375)
+
+
+
+Main PokerStars n°238114550194 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 21/08/2022 0:09:33 CET [20/08/2022 18:09:33 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 2: Bellougo (3195 en jetons) 
+Place 3: M1GWEL (4140 en jetons) 
+Place 4: psychoman59 (12665 en jetons) 
+Bellougo : met l'ante. 25
+M1GWEL : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+Bellougo : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 6s]
+M1GWEL : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à Bellougo.
+Bellougo a remporté 275  lors du pot .
+*** SYNTHÈSE ***
+Pot total 275 | Commission 0 
+Siège 2 : Bellougo (grosse blind) a remporté (275)
+Siège 3 : M1GWEL (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114556365 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 21/08/2022 0:09:52 CET [20/08/2022 18:09:52 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 2: Bellougo (3345 en jetons) 
+Place 3: M1GWEL (4115 en jetons) 
+Place 4: psychoman59 (12540 en jetons) 
+Bellougo : met l'ante. 25
+M1GWEL : met l'ante. 25
+psychoman59 : met l'ante. 25
+Bellougo : met la petite blind. 100
+M1GWEL : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 8s]
+psychoman59 : passe. 
+Bellougo : suit. 100
+M1GWEL : parole 
+*** FLOP *** [Td Ks 9c]
+Bellougo : parole 
+M1GWEL : parole 
+*** TOURNANT *** [Td Ks 9c] [5d]
+Bellougo : parole 
+M1GWEL : mise. 200
+Bellougo : suit. 200
+*** RIVIÈRE *** [Td Ks 9c 5d] [5c]
+Bellougo : parole 
+M1GWEL : mise. 200
+Bellougo : passe. 
+Personne n'a suivi. (200) sont retournés à M1GWEL.
+M1GWEL a remporté 875  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 875 | Commission 0 
+Tableau [Td Ks 9c 5d 5c]
+Siège 2 : Bellougo (petite blind) s'est couché. sur le Rivière
+Siège 3 : M1GWEL (grosse blind) a remporté (875)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238114581525 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 21/08/2022 0:11:13 CET [20/08/2022 18:11:13 ET]
+Table '3459247355 1' 4-max Siège #2 est au bouton.
+Place 2: Bellougo (2920 en jetons) 
+Place 3: M1GWEL (4565 en jetons) 
+Place 4: psychoman59 (12515 en jetons) 
+Bellougo : met l'ante. 25
+M1GWEL : met l'ante. 25
+psychoman59 : met l'ante. 25
+M1GWEL : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 6h]
+Bellougo : relance. 575 à 775
+M1GWEL : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (575) sont retournés à Bellougo.
+Bellougo a remporté 575  lors du pot .
+*** SYNTHÈSE ***
+Pot total 575 | Commission 0 
+Siège 2 : Bellougo (bouton) a remporté (575)
+Siège 3 : M1GWEL (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114592570 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 21/08/2022 0:11:48 CET [20/08/2022 18:11:48 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 2: Bellougo (3270 en jetons) 
+Place 3: M1GWEL (4440 en jetons) 
+Place 4: psychoman59 (12290 en jetons) 
+Bellougo : met l'ante. 30
+M1GWEL : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+Bellougo : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 6c]
+M1GWEL : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à Bellougo.
+Bellougo a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 2 : Bellougo (grosse blind) a remporté (340)
+Siège 3 : M1GWEL (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114595352 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 21/08/2022 0:11:57 CET [20/08/2022 18:11:57 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 2: Bellougo (3455 en jetons) 
+Place 3: M1GWEL (4410 en jetons) 
+Place 4: psychoman59 (12135 en jetons) 
+Bellougo : met l'ante. 30
+M1GWEL : met l'ante. 30
+psychoman59 : met l'ante. 30
+Bellougo : met la petite blind. 125
+M1GWEL : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 2s]
+psychoman59 : passe. 
+Bellougo : relance. 590 à 840
+M1GWEL : passe. 
+Personne n'a suivi. (590) sont retournés à Bellougo.
+Bellougo a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Siège 2 : Bellougo (petite blind) a remporté (590)
+Siège 3 : M1GWEL (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238114600783 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 21/08/2022 0:12:15 CET [20/08/2022 18:12:15 ET]
+Table '3459247355 1' 4-max Siège #2 est au bouton.
+Place 2: Bellougo (3765 en jetons) 
+Place 3: M1GWEL (4130 en jetons) 
+Place 4: psychoman59 (12105 en jetons) 
+Bellougo : met l'ante. 30
+M1GWEL : met l'ante. 30
+psychoman59 : met l'ante. 30
+M1GWEL : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 9d]
+Bellougo : passe. 
+M1GWEL : relance. 3850 à 4100 et est all-in.
+psychoman59 : suit. 3850
+*** FLOP *** [Kc 6s Td]
+*** TOURNANT *** [Kc 6s Td] [5s]
+*** RIVIÈRE *** [Kc 6s Td 5s] [Qc]
+*** ABATTAGE ***
+M1GWEL : montre [Qd Ah] (une paire de Dames)
+psychoman59 : montre [9c 9d] (une paire de Neuf)
+M1GWEL a remporté 8290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 8290 | Commission 0 
+Tableau [Kc 6s Td 5s Qc]
+Siège 2 : Bellougo (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : M1GWEL (petite blind) a montré [Qd Ah] et a gagné (8290) avec une paire de Dames
+Siège 4 : psychoman59 (grosse blind) a montré [9c 9d] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°238114607324 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 21/08/2022 0:12:36 CET [20/08/2022 18:12:36 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 2: Bellougo (3735 en jetons) 
+Place 3: M1GWEL (8290 en jetons) 
+Place 4: psychoman59 (7975 en jetons) 
+Bellougo : met l'ante. 30
+M1GWEL : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+Bellougo : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 5c]
+M1GWEL : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à Bellougo.
+Bellougo a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 2 : Bellougo (grosse blind) a remporté (340)
+Siège 3 : M1GWEL (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114610635 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 21/08/2022 0:12:47 CET [20/08/2022 18:12:47 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 2: Bellougo (3920 en jetons) 
+Place 3: M1GWEL (8260 en jetons) 
+Place 4: psychoman59 (7820 en jetons) 
+Bellougo : met l'ante. 30
+M1GWEL : met l'ante. 30
+psychoman59 : met l'ante. 30
+Bellougo : met la petite blind. 125
+M1GWEL : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 5h]
+psychoman59 : passe. 
+Bellougo : passe. 
+Personne n'a suivi. (125) sont retournés à M1GWEL.
+M1GWEL a remporté 340  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 2 : Bellougo (petite blind) s'est couché. avant Flop
+Siège 3 : M1GWEL (grosse blind) a remporté (340)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238114614244 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 21/08/2022 0:12:58 CET [20/08/2022 18:12:58 ET]
+Table '3459247355 1' 4-max Siège #2 est au bouton.
+Place 2: Bellougo (3765 en jetons) 
+Place 3: M1GWEL (8445 en jetons) 
+Place 4: psychoman59 (7790 en jetons) 
+Bellougo : met l'ante. 30
+M1GWEL : met l'ante. 30
+psychoman59 : met l'ante. 30
+M1GWEL : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 5c]
+Bellougo : relance. 715 à 965
+M1GWEL : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (715) sont retournés à Bellougo.
+Bellougo a remporté 715  lors du pot .
+*** SYNTHÈSE ***
+Pot total 715 | Commission 0 
+Siège 2 : Bellougo (bouton) a remporté (715)
+Siège 3 : M1GWEL (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114624087 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 21/08/2022 0:13:14 CET [20/08/2022 18:13:14 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 2: Bellougo (4200 en jetons) 
+Place 3: M1GWEL (8290 en jetons) 
+Place 4: psychoman59 (7510 en jetons) 
+Bellougo : met l'ante. 30
+M1GWEL : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+Bellougo : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 7d]
+M1GWEL : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à Bellougo.
+Bellougo a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 2 : Bellougo (grosse blind) a remporté (340)
+Siège 3 : M1GWEL (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114628777 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 21/08/2022 0:13:30 CET [20/08/2022 18:13:30 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 2: Bellougo (4385 en jetons) 
+Place 3: M1GWEL (8260 en jetons) 
+Place 4: psychoman59 (7355 en jetons) 
+Bellougo : met l'ante. 30
+M1GWEL : met l'ante. 30
+psychoman59 : met l'ante. 30
+Bellougo : met la petite blind. 125
+M1GWEL : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Jd]
+psychoman59 : passe. 
+Bellougo : relance. 750 à 1000
+M1GWEL : passe. 
+Personne n'a suivi. (750) sont retournés à Bellougo.
+Bellougo a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Siège 2 : Bellougo (petite blind) a remporté (590)
+Siège 3 : M1GWEL (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238114634507 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 21/08/2022 0:13:48 CET [20/08/2022 18:13:48 ET]
+Table '3459247355 1' 4-max Siège #2 est au bouton.
+Place 2: Bellougo (4695 en jetons) 
+Place 3: M1GWEL (7980 en jetons) 
+Place 4: psychoman59 (7325 en jetons) 
+Bellougo : met l'ante. 30
+M1GWEL : met l'ante. 30
+psychoman59 : met l'ante. 30
+M1GWEL : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 3h]
+Bellougo : relance. 250 à 500
+M1GWEL : passe. 
+psychoman59 : suit. 250
+*** FLOP *** [5c Ah 8s]
+psychoman59 : parole 
+Bellougo : mise. 607
+psychoman59 : passe. 
+Personne n'a suivi. (607) sont retournés à Bellougo.
+Bellougo a remporté 1215  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1215 | Commission 0 
+Tableau [5c Ah 8s]
+Siège 2 : Bellougo (bouton) a remporté (1215)
+Siège 3 : M1GWEL (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238114644740 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 21/08/2022 0:14:20 CET [20/08/2022 18:14:20 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 2: Bellougo (5380 en jetons) 
+Place 3: M1GWEL (7825 en jetons) 
+Place 4: psychoman59 (6795 en jetons) 
+Bellougo : met l'ante. 30
+M1GWEL : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+Bellougo : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 8s]
+M1GWEL : suit. 250
+psychoman59 : relance. 6515 à 6765 et est all-in.
+Bellougo : suit. 5100 et est all-in.
+M1GWEL : passe. 
+Personne n'a suivi. (1415) sont retournés à psychoman59.
+*** FLOP *** [4h 9s 3s]
+*** TOURNANT *** [4h 9s 3s] [7c]
+*** RIVIÈRE *** [4h 9s 3s 7c] [Jc]
+*** ABATTAGE ***
+psychoman59 : montre [8h 8s] (une paire de Huit)
+Bellougo : montre [Kc Tc] (Hauteur Roi)
+psychoman59 a remporté 11040  lors du pot .
+Bellougo a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 11040 | Commission 0 
+Tableau [4h 9s 3s 7c Jc]
+Siège 2 : Bellougo (grosse blind) a montré [Kc Tc] et a perdu avec Hauteur Roi
+Siège 3 : M1GWEL (bouton) s'est couché. avant Flop
+Siège 4 : psychoman59 (petite blind) a montré [8h 8s] et a gagné (11040) avec une paire de Huit
+
+
+
+Main PokerStars n°238114652547 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 21/08/2022 0:14:45 CET [20/08/2022 18:14:45 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (7545 en jetons) 
+Place 4: psychoman59 (12455 en jetons) 
+M1GWEL : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+M1GWEL : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à M1GWEL.
+M1GWEL a remporté 380  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 3 : M1GWEL (grosse blind) a remporté (380)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114655454 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 21/08/2022 0:14:54 CET [20/08/2022 18:14:54 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (7735 en jetons) 
+Place 4: psychoman59 (12265 en jetons) 
+M1GWEL : met l'ante. 40
+psychoman59 : met l'ante. 40
+M1GWEL : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 7d]
+M1GWEL : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 380  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 3 : M1GWEL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°238114657804 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 21/08/2022 0:15:02 CET [20/08/2022 18:15:02 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (7545 en jetons) 
+Place 4: psychoman59 (12455 en jetons) 
+M1GWEL : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+M1GWEL : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 6c]
+psychoman59 : suit. 150
+M1GWEL : parole 
+*** FLOP *** [5d 5s 9h]
+M1GWEL : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5d 5s 9h] [9c]
+M1GWEL : parole 
+psychoman59 : mise. 680
+M1GWEL : passe. 
+Personne n'a suivi. (680) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [5d 5s 9h 9c]
+Siège 3 : M1GWEL (grosse blind) s'est couché. sur le Tournant
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (680)
+
+
+
+Main PokerStars n°238114664860 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 21/08/2022 0:15:24 CET [20/08/2022 18:15:24 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (7205 en jetons) 
+Place 4: psychoman59 (12795 en jetons) 
+M1GWEL : met l'ante. 40
+psychoman59 : met l'ante. 40
+M1GWEL : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 6s]
+M1GWEL : suit. 150
+psychoman59 : parole 
+*** FLOP *** [2c Qc 8c]
+psychoman59 : parole 
+M1GWEL : parole 
+*** TOURNANT *** [2c Qc 8c] [9d]
+psychoman59 : parole 
+M1GWEL : parole 
+*** RIVIÈRE *** [2c Qc 8c 9d] [8d]
+psychoman59 : parole 
+M1GWEL : mise. 300
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à M1GWEL.
+M1GWEL a remporté 680  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [2c Qc 8c 9d 8d]
+Siège 3 : M1GWEL (bouton) (petite blind) a remporté (680)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238114672928 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 21/08/2022 0:15:49 CET [20/08/2022 18:15:49 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (7545 en jetons) 
+Place 4: psychoman59 (12455 en jetons) 
+M1GWEL : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+M1GWEL : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à M1GWEL.
+M1GWEL a remporté 380  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 3 : M1GWEL (grosse blind) a remporté (380)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114675005 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 21/08/2022 0:15:56 CET [20/08/2022 18:15:56 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (7735 en jetons) 
+Place 4: psychoman59 (12265 en jetons) 
+M1GWEL : met l'ante. 40
+psychoman59 : met l'ante. 40
+M1GWEL : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Tc]
+M1GWEL : suit. 150
+psychoman59 : parole 
+*** FLOP *** [4d 9d 4h]
+psychoman59 : parole 
+M1GWEL : mise. 300
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à M1GWEL.
+M1GWEL a remporté 680  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [4d 9d 4h]
+Siège 3 : M1GWEL (bouton) (petite blind) a remporté (680)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238114679784 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 21/08/2022 0:16:11 CET [20/08/2022 18:16:11 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (8075 en jetons) 
+Place 4: psychoman59 (11925 en jetons) 
+M1GWEL : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+M1GWEL : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 3d]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à M1GWEL.
+M1GWEL a remporté 380  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 3 : M1GWEL (grosse blind) a remporté (380)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114682035 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 21/08/2022 0:16:19 CET [20/08/2022 18:16:19 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (8265 en jetons) 
+Place 4: psychoman59 (11735 en jetons) 
+M1GWEL : met l'ante. 40
+psychoman59 : met l'ante. 40
+M1GWEL : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 9s]
+M1GWEL : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 380  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 3 : M1GWEL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°238114684273 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 21/08/2022 0:16:26 CET [20/08/2022 18:16:26 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (8075 en jetons) 
+Place 4: psychoman59 (11925 en jetons) 
+M1GWEL : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+M1GWEL : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Kc]
+psychoman59 : suit. 150
+M1GWEL : parole 
+*** FLOP *** [Qs 4c 8h]
+M1GWEL : parole 
+psychoman59 : mise. 680
+M1GWEL : passe. 
+Personne n'a suivi. (680) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [Qs 4c 8h]
+Siège 3 : M1GWEL (grosse blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (680)
+
+
+
+Main PokerStars n°238114694682 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 21/08/2022 0:16:59 CET [20/08/2022 18:16:59 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (7735 en jetons) 
+Place 4: psychoman59 (12265 en jetons) 
+M1GWEL : met l'ante. 40
+psychoman59 : met l'ante. 40
+M1GWEL : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 5s]
+M1GWEL : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 380  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 3 : M1GWEL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°238114698460 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 21/08/2022 0:17:11 CET [20/08/2022 18:17:11 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (7545 en jetons) 
+Place 4: psychoman59 (12455 en jetons) 
+M1GWEL : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+M1GWEL : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à M1GWEL.
+M1GWEL a remporté 380  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 3 : M1GWEL (grosse blind) a remporté (380)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114700788 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 21/08/2022 0:17:18 CET [20/08/2022 18:17:18 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (7735 en jetons) 
+Place 4: psychoman59 (12265 en jetons) 
+M1GWEL : met l'ante. 40
+psychoman59 : met l'ante. 40
+M1GWEL : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 7s]
+M1GWEL : suit. 150
+psychoman59 : parole 
+*** FLOP *** [6h 5d 7h]
+psychoman59 : parole 
+M1GWEL : parole 
+*** TOURNANT *** [6h 5d 7h] [Kc]
+psychoman59 : parole 
+M1GWEL : parole 
+*** RIVIÈRE *** [6h 5d 7h Kc] [4h]
+psychoman59 : parole 
+M1GWEL : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Td 7s] (une paire de Sept)
+M1GWEL : cache la main perdante. 
+psychoman59 a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [6h 5d 7h Kc 4h]
+Siège 3 : M1GWEL (bouton) (petite blind) a caché la main perdante. [Tc As]
+Siège 4 : psychoman59 (grosse blind) a montré [Td 7s] et a gagné (680) avec une paire de Sept
+
+
+
+Main PokerStars n°238114709762 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 21/08/2022 0:17:47 CET [20/08/2022 18:17:47 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (7395 en jetons) 
+Place 4: psychoman59 (12605 en jetons) 
+M1GWEL : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+M1GWEL : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 9c]
+psychoman59 : suit. 200
+M1GWEL : parole 
+*** FLOP *** [Kc Kd Qd]
+M1GWEL : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Kc Kd Qd] [3s]
+M1GWEL : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Kc Kd Qd 3s] [Qs]
+M1GWEL : mise. 400
+psychoman59 : suit. 400
+*** ABATTAGE ***
+M1GWEL : montre [Ks 6d] (un full, full aux Rois par les Dames)
+psychoman59 : cache la main perdante. 
+M1GWEL a remporté 1700  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1700 | Commission 0 
+Tableau [Kc Kd Qd 3s Qs]
+Siège 3 : M1GWEL (grosse blind) a montré [Ks 6d] et a gagné (1700) avec un full, full aux Rois par les Dames
+Siège 4 : psychoman59 (bouton) (petite blind) a caché la main perdante. [Tc 9c]
+
+
+
+Main PokerStars n°238114715932 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 21/08/2022 0:18:07 CET [20/08/2022 18:18:07 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (8245 en jetons) 
+Place 4: psychoman59 (11755 en jetons) 
+M1GWEL : met l'ante. 50
+psychoman59 : met l'ante. 50
+M1GWEL : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 9s]
+M1GWEL : suit. 200
+psychoman59 : parole 
+*** FLOP *** [Ac 2h 7s]
+psychoman59 : parole 
+M1GWEL : parole 
+*** TOURNANT *** [Ac 2h 7s] [4c]
+psychoman59 : parole 
+M1GWEL : parole 
+*** RIVIÈRE *** [Ac 2h 7s 4c] [Ks]
+psychoman59 : parole 
+M1GWEL : mise. 400
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à M1GWEL.
+M1GWEL a remporté 900  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [Ac 2h 7s 4c Ks]
+Siège 3 : M1GWEL (bouton) (petite blind) a remporté (900)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238114725191 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 21/08/2022 0:18:36 CET [20/08/2022 18:18:36 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (8695 en jetons) 
+Place 4: psychoman59 (11305 en jetons) 
+M1GWEL : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+M1GWEL : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Kh]
+psychoman59 : suit. 200
+M1GWEL : parole 
+*** FLOP *** [Jd 8c 7d]
+M1GWEL : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jd 8c 7d] [5c]
+M1GWEL : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Jd 8c 7d 5c] [Kc]
+M1GWEL : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+M1GWEL : montre [2h 6h] (Hauteur Roi)
+psychoman59 : montre [3s Kh] (une paire de Rois)
+psychoman59 a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [Jd 8c 7d 5c Kc]
+Siège 3 : M1GWEL (grosse blind) a montré [2h 6h] et a perdu avec Hauteur Roi
+Siège 4 : psychoman59 (bouton) (petite blind) a montré [3s Kh] et a gagné (900) avec une paire de Rois
+
+
+
+Main PokerStars n°238114732878 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 21/08/2022 0:19:01 CET [20/08/2022 18:19:01 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (8245 en jetons) 
+Place 4: psychoman59 (11755 en jetons) 
+M1GWEL : met l'ante. 50
+psychoman59 : met l'ante. 50
+M1GWEL : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Qd]
+M1GWEL : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 500  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 3 : M1GWEL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (500)
+
+
+
+Main PokerStars n°238114735435 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 21/08/2022 0:19:10 CET [20/08/2022 18:19:10 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (7995 en jetons) 
+Place 4: psychoman59 (12005 en jetons) 
+M1GWEL : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+M1GWEL : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Ah]
+psychoman59 : relance. 900 à 1300
+M1GWEL : passe. 
+Personne n'a suivi. (900) sont retournés à psychoman59.
+psychoman59 a remporté 900  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 3 : M1GWEL (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (900)
+
+
+
+Main PokerStars n°238114740982 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 21/08/2022 0:19:28 CET [20/08/2022 18:19:28 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (7545 en jetons) 
+Place 4: psychoman59 (12455 en jetons) 
+M1GWEL : met l'ante. 50
+psychoman59 : met l'ante. 50
+M1GWEL : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 6h]
+M1GWEL : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 500  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 3 : M1GWEL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (500)
+
+
+
+Main PokerStars n°238114745852 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 21/08/2022 0:19:44 CET [20/08/2022 18:19:44 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (7295 en jetons) 
+Place 4: psychoman59 (12705 en jetons) 
+M1GWEL : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+M1GWEL : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 9c]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à M1GWEL.
+M1GWEL a remporté 500  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 3 : M1GWEL (grosse blind) a remporté (500)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114748207 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 21/08/2022 0:19:51 CET [20/08/2022 18:19:51 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (7545 en jetons) 
+Place 4: psychoman59 (12455 en jetons) 
+M1GWEL : met l'ante. 50
+psychoman59 : met l'ante. 50
+M1GWEL : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 3c]
+M1GWEL : suit. 200
+psychoman59 : parole 
+*** FLOP *** [Ad 3d 8h]
+psychoman59 : parole 
+M1GWEL : mise. 400
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à M1GWEL.
+M1GWEL a remporté 900  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [Ad 3d 8h]
+Siège 3 : M1GWEL (bouton) (petite blind) a remporté (900)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238114754814 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 21/08/2022 0:20:13 CET [20/08/2022 18:20:13 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (7995 en jetons) 
+Place 4: psychoman59 (12005 en jetons) 
+M1GWEL : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+M1GWEL : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à M1GWEL.
+M1GWEL a remporté 500  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 3 : M1GWEL (grosse blind) a remporté (500)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114757013 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 21/08/2022 0:20:20 CET [20/08/2022 18:20:20 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (8245 en jetons) 
+Place 4: psychoman59 (11755 en jetons) 
+M1GWEL : met l'ante. 50
+psychoman59 : met l'ante. 50
+M1GWEL : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 3s]
+M1GWEL : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 500  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 3 : M1GWEL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (500)
+
+
+
+Main PokerStars n°238114759605 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 21/08/2022 0:20:28 CET [20/08/2022 18:20:28 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (7995 en jetons) 
+Place 4: psychoman59 (12005 en jetons) 
+M1GWEL : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+M1GWEL : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Ad]
+psychoman59 : relance. 900 à 1300
+M1GWEL : passe. 
+Personne n'a suivi. (900) sont retournés à psychoman59.
+psychoman59 a remporté 900  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 3 : M1GWEL (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (900)
+
+
+
+Main PokerStars n°238114765320 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 21/08/2022 0:20:47 CET [20/08/2022 18:20:47 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (7545 en jetons) 
+Place 4: psychoman59 (12455 en jetons) 
+M1GWEL : met l'ante. 60
+psychoman59 : met l'ante. 60
+M1GWEL : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 7h]
+M1GWEL : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 620  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 3 : M1GWEL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (620)
+
+
+
+Main PokerStars n°238114770001 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 21/08/2022 0:21:02 CET [20/08/2022 18:21:02 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (7235 en jetons) 
+Place 4: psychoman59 (12765 en jetons) 
+M1GWEL : met l'ante. 60
+psychoman59 : met l'ante. 60
+psychoman59 : met la petite blind. 250
+M1GWEL : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à M1GWEL.
+M1GWEL a remporté 620  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 3 : M1GWEL (grosse blind) a remporté (620)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114772259 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 21/08/2022 0:21:10 CET [20/08/2022 18:21:10 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (7545 en jetons) 
+Place 4: psychoman59 (12455 en jetons) 
+M1GWEL : met l'ante. 60
+psychoman59 : met l'ante. 60
+M1GWEL : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 2h]
+M1GWEL : suit. 250
+psychoman59 : parole 
+*** FLOP *** [9h Ad 9s]
+psychoman59 : parole 
+M1GWEL : parole 
+*** TOURNANT *** [9h Ad 9s] [9d]
+psychoman59 : parole 
+M1GWEL : mise. 500
+psychoman59 : suit. 500
+*** RIVIÈRE *** [9h Ad 9s 9d] [3h]
+psychoman59 : parole 
+M1GWEL : mise. 500
+psychoman59 : suit. 500
+*** ABATTAGE ***
+M1GWEL : montre [Ah 7d] (un full, full aux Neuf par les As)
+psychoman59 : cache la main perdante. 
+M1GWEL a remporté 3120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3120 | Commission 0 
+Tableau [9h Ad 9s 9d 3h]
+Siège 3 : M1GWEL (bouton) (petite blind) a montré [Ah 7d] et a gagné (3120) avec un full, full aux Neuf par les As
+Siège 4 : psychoman59 (grosse blind) a caché la main perdante. [Jd 2h]
+
+
+
+Main PokerStars n°238114793896 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 21/08/2022 0:21:51 CET [20/08/2022 18:21:51 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (9105 en jetons) 
+Place 4: psychoman59 (10895 en jetons) 
+M1GWEL : met l'ante. 60
+psychoman59 : met l'ante. 60
+psychoman59 : met la petite blind. 250
+M1GWEL : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à M1GWEL.
+M1GWEL a remporté 620  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 3 : M1GWEL (grosse blind) a remporté (620)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114796182 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 21/08/2022 0:21:59 CET [20/08/2022 18:21:59 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (9415 en jetons) 
+Place 4: psychoman59 (10585 en jetons) 
+M1GWEL : met l'ante. 60
+psychoman59 : met l'ante. 60
+M1GWEL : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ad]
+M1GWEL : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 620  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 3 : M1GWEL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (620)
+
+
+
+Main PokerStars n°238114798616 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 21/08/2022 0:22:07 CET [20/08/2022 18:22:07 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (9105 en jetons) 
+Place 4: psychoman59 (10895 en jetons) 
+M1GWEL : met l'ante. 60
+psychoman59 : met l'ante. 60
+psychoman59 : met la petite blind. 250
+M1GWEL : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à M1GWEL.
+M1GWEL a remporté 620  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 3 : M1GWEL (grosse blind) a remporté (620)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114800749 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 21/08/2022 0:22:14 CET [20/08/2022 18:22:14 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (9415 en jetons) 
+Place 4: psychoman59 (10585 en jetons) 
+M1GWEL : met l'ante. 60
+psychoman59 : met l'ante. 60
+M1GWEL : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 4s]
+M1GWEL : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 620  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 3 : M1GWEL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (620)
+
+
+
+Main PokerStars n°238114803942 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 21/08/2022 0:22:24 CET [20/08/2022 18:22:24 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (9105 en jetons) 
+Place 4: psychoman59 (10895 en jetons) 
+M1GWEL : met l'ante. 60
+psychoman59 : met l'ante. 60
+psychoman59 : met la petite blind. 250
+M1GWEL : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Qh]
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à M1GWEL.
+M1GWEL a remporté 620  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 3 : M1GWEL (grosse blind) a remporté (620)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114806109 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 21/08/2022 0:22:31 CET [20/08/2022 18:22:31 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (9415 en jetons) 
+Place 4: psychoman59 (10585 en jetons) 
+M1GWEL : met l'ante. 60
+psychoman59 : met l'ante. 60
+M1GWEL : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 3d]
+M1GWEL : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 620  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 3 : M1GWEL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (620)
+
+
+
+Main PokerStars n°238114808544 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 21/08/2022 0:22:39 CET [20/08/2022 18:22:39 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (9105 en jetons) 
+Place 4: psychoman59 (10895 en jetons) 
+M1GWEL : met l'ante. 60
+psychoman59 : met l'ante. 60
+psychoman59 : met la petite blind. 250
+M1GWEL : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 8s]
+psychoman59 : relance. 1120 à 1620
+M1GWEL : passe. 
+Personne n'a suivi. (1120) sont retournés à psychoman59.
+psychoman59 a remporté 1120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1120 | Commission 0 
+Siège 3 : M1GWEL (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (1120)
+
+
+
+Main PokerStars n°238114812303 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 21/08/2022 0:22:51 CET [20/08/2022 18:22:51 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (8545 en jetons) 
+Place 4: psychoman59 (11455 en jetons) 
+M1GWEL : met l'ante. 60
+psychoman59 : met l'ante. 60
+M1GWEL : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9h]
+M1GWEL : suit. 250
+psychoman59 : parole 
+*** FLOP *** [3s Js Ks]
+psychoman59 : parole 
+M1GWEL : mise. 500
+psychoman59 : suit. 500
+*** TOURNANT *** [3s Js Ks] [9c]
+psychoman59 : parole 
+M1GWEL : mise. 1000
+psychoman59 : suit. 1000
+*** RIVIÈRE *** [3s Js Ks 9c] [Td]
+psychoman59 : parole 
+M1GWEL : mise. 1000
+psychoman59 : suit. 1000
+*** ABATTAGE ***
+M1GWEL : montre [8s 6s] (une couleur, hauteur Roi)
+psychoman59 : cache la main perdante. 
+M1GWEL a remporté 6120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 6120 | Commission 0 
+Tableau [3s Js Ks 9c Td]
+Siège 3 : M1GWEL (bouton) (petite blind) a montré [8s 6s] et a gagné (6120) avec une couleur, hauteur Roi
+Siège 4 : psychoman59 (grosse blind) a caché la main perdante. [Kd 9h]
+
+
+
+Main PokerStars n°238114823846 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 21/08/2022 0:23:29 CET [20/08/2022 18:23:29 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (11605 en jetons) 
+Place 4: psychoman59 (8395 en jetons) 
+M1GWEL : met l'ante. 60
+psychoman59 : met l'ante. 60
+psychoman59 : met la petite blind. 250
+M1GWEL : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Qh]
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à M1GWEL.
+M1GWEL a remporté 620  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 3 : M1GWEL (grosse blind) a remporté (620)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114826601 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 21/08/2022 0:23:38 CET [20/08/2022 18:23:38 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (11915 en jetons) 
+Place 4: psychoman59 (8085 en jetons) 
+M1GWEL : met l'ante. 70
+psychoman59 : met l'ante. 70
+M1GWEL : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 6s]
+M1GWEL : suit. 300
+psychoman59 : parole 
+*** FLOP *** [7c Ah As]
+psychoman59 : parole 
+M1GWEL : parole 
+*** TOURNANT *** [7c Ah As] [Kh]
+psychoman59 : parole 
+M1GWEL : parole 
+*** RIVIÈRE *** [7c Ah As Kh] [2c]
+psychoman59 : parole 
+M1GWEL : mise. 600
+psychoman59 : passe. 
+Personne n'a suivi. (600) sont retournés à M1GWEL.
+M1GWEL a remporté 1340  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1340 | Commission 0 
+Tableau [7c Ah As Kh 2c]
+Siège 3 : M1GWEL (bouton) (petite blind) a remporté (1340)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238114834090 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 21/08/2022 0:24:02 CET [20/08/2022 18:24:02 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (12585 en jetons) 
+Place 4: psychoman59 (7415 en jetons) 
+M1GWEL : met l'ante. 70
+psychoman59 : met l'ante. 70
+psychoman59 : met la petite blind. 300
+M1GWEL : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Qs]
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à M1GWEL.
+M1GWEL a remporté 740  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 3 : M1GWEL (grosse blind) a remporté (740)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114836122 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 21/08/2022 0:24:09 CET [20/08/2022 18:24:09 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (12955 en jetons) 
+Place 4: psychoman59 (7045 en jetons) 
+M1GWEL : met l'ante. 70
+psychoman59 : met l'ante. 70
+M1GWEL : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 2h]
+M1GWEL : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 740  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 3 : M1GWEL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (740)
+
+
+
+Main PokerStars n°238114838664 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 21/08/2022 0:24:18 CET [20/08/2022 18:24:18 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (12585 en jetons) 
+Place 4: psychoman59 (7415 en jetons) 
+M1GWEL : met l'ante. 70
+psychoman59 : met l'ante. 70
+psychoman59 : met la petite blind. 300
+M1GWEL : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à M1GWEL.
+M1GWEL a remporté 740  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 3 : M1GWEL (grosse blind) a remporté (740)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114840799 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 21/08/2022 0:24:25 CET [20/08/2022 18:24:25 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (12955 en jetons) 
+Place 4: psychoman59 (7045 en jetons) 
+M1GWEL : met l'ante. 70
+psychoman59 : met l'ante. 70
+M1GWEL : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Js]
+M1GWEL : suit. 300
+psychoman59 : relance. 1200 à 1800
+M1GWEL : passe. 
+Personne n'a suivi. (1200) sont retournés à psychoman59.
+psychoman59 a remporté 1340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1340 | Commission 0 
+Siège 3 : M1GWEL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (1340)
+
+
+
+Main PokerStars n°238114845319 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 21/08/2022 0:24:40 CET [20/08/2022 18:24:40 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (12285 en jetons) 
+Place 4: psychoman59 (7715 en jetons) 
+M1GWEL : met l'ante. 70
+psychoman59 : met l'ante. 70
+psychoman59 : met la petite blind. 300
+M1GWEL : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 6c]
+psychoman59 : suit. 300
+M1GWEL : parole 
+*** FLOP *** [5d Jd 5h]
+M1GWEL : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5d Jd 5h] [9s]
+M1GWEL : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5d Jd 5h 9s] [7d]
+M1GWEL : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+M1GWEL : montre [3s 7c] (double paire, Sept et Cinq)
+psychoman59 : cache la main perdante. 
+M1GWEL a remporté 1340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1340 | Commission 0 
+Tableau [5d Jd 5h 9s 7d]
+Siège 3 : M1GWEL (grosse blind) a montré [3s 7c] et a gagné (1340) avec double paire, Sept et Cinq
+Siège 4 : psychoman59 (bouton) (petite blind) a caché la main perdante. [Kc 6c]
+
+
+
+Main PokerStars n°238114853805 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 21/08/2022 0:25:07 CET [20/08/2022 18:25:07 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (12955 en jetons) 
+Place 4: psychoman59 (7045 en jetons) 
+M1GWEL : met l'ante. 70
+psychoman59 : met l'ante. 70
+M1GWEL : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 7h]
+M1GWEL : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 740  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 3 : M1GWEL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (740)
+
+
+
+Main PokerStars n°238114857072 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 21/08/2022 0:25:18 CET [20/08/2022 18:25:18 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (12585 en jetons) 
+Place 4: psychoman59 (7415 en jetons) 
+M1GWEL : met l'ante. 70
+psychoman59 : met l'ante. 70
+psychoman59 : met la petite blind. 300
+M1GWEL : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 8c]
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à M1GWEL.
+M1GWEL a remporté 740  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 3 : M1GWEL (grosse blind) a remporté (740)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114859350 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 21/08/2022 0:25:26 CET [20/08/2022 18:25:26 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (12955 en jetons) 
+Place 4: psychoman59 (7045 en jetons) 
+M1GWEL : met l'ante. 70
+psychoman59 : met l'ante. 70
+M1GWEL : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 2d]
+M1GWEL : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 740  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 3 : M1GWEL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (740)
+
+
+
+Main PokerStars n°238114863141 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 21/08/2022 0:25:38 CET [20/08/2022 18:25:38 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (12585 en jetons) 
+Place 4: psychoman59 (7415 en jetons) 
+M1GWEL : met l'ante. 70
+psychoman59 : met l'ante. 70
+psychoman59 : met la petite blind. 300
+M1GWEL : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 2h]
+psychoman59 : relance. 6745 à 7345 et est all-in.
+M1GWEL : passe. 
+Personne n'a suivi. (6745) sont retournés à psychoman59.
+psychoman59 a remporté 1340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1340 | Commission 0 
+Siège 3 : M1GWEL (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (1340)
+
+
+
+Main PokerStars n°238114867957 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 21/08/2022 0:25:54 CET [20/08/2022 18:25:54 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (11915 en jetons) 
+Place 4: psychoman59 (8085 en jetons) 
+M1GWEL : met l'ante. 70
+psychoman59 : met l'ante. 70
+M1GWEL : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Qd]
+M1GWEL : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 740  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 3 : M1GWEL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (740)
+
+
+
+Main PokerStars n°238114870874 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 21/08/2022 0:26:04 CET [20/08/2022 18:26:04 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (11545 en jetons) 
+Place 4: psychoman59 (8455 en jetons) 
+M1GWEL : met l'ante. 70
+psychoman59 : met l'ante. 70
+psychoman59 : met la petite blind. 300
+M1GWEL : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7h]
+psychoman59 : suit. 300
+M1GWEL : relance. 10875 à 11475 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (10875) sont retournés à M1GWEL.
+M1GWEL a remporté 1340  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1340 | Commission 0 
+Siège 3 : M1GWEL (grosse blind) a remporté (1340)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114875264 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 21/08/2022 0:26:18 CET [20/08/2022 18:26:18 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (12215 en jetons) 
+Place 4: psychoman59 (7785 en jetons) 
+M1GWEL : met l'ante. 70
+psychoman59 : met l'ante. 70
+M1GWEL : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 2s]
+M1GWEL : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 740  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 3 : M1GWEL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (740)
+
+
+
+Main PokerStars n°238114877747 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 21/08/2022 0:26:27 CET [20/08/2022 18:26:27 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (11845 en jetons) 
+Place 4: psychoman59 (8155 en jetons) 
+M1GWEL : met l'ante. 70
+psychoman59 : met l'ante. 70
+psychoman59 : met la petite blind. 300
+M1GWEL : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 3d]
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à M1GWEL.
+M1GWEL a remporté 740  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 3 : M1GWEL (grosse blind) a remporté (740)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114880611 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 21/08/2022 0:26:36 CET [20/08/2022 18:26:36 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (12215 en jetons) 
+Place 4: psychoman59 (7785 en jetons) 
+M1GWEL : met l'ante. 85
+psychoman59 : met l'ante. 85
+M1GWEL : met la petite blind. 350
+psychoman59 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh As]
+M1GWEL : suit. 350
+psychoman59 : relance. 7000 à 7700 et est all-in.
+M1GWEL : passe. 
+Personne n'a suivi. (7000) sont retournés à psychoman59.
+psychoman59 a remporté 1570  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1570 | Commission 0 
+Siège 3 : M1GWEL (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (1570)
+
+
+
+Main PokerStars n°238114891537 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 21/08/2022 0:26:51 CET [20/08/2022 18:26:51 ET]
+Table '3459247355 1' 4-max Siège #4 est au bouton.
+Place 3: M1GWEL (11430 en jetons) 
+Place 4: psychoman59 (8570 en jetons) 
+M1GWEL : met l'ante. 85
+psychoman59 : met l'ante. 85
+psychoman59 : met la petite blind. 350
+M1GWEL : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (350) sont retournés à M1GWEL.
+M1GWEL a remporté 870  lors du pot .
+M1GWEL : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Siège 3 : M1GWEL (grosse blind) a remporté (870)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238114893840 : Tournoi #3459247355, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 21/08/2022 0:26:58 CET [20/08/2022 18:26:58 ET]
+Table '3459247355 1' 4-max Siège #3 est au bouton.
+Place 3: M1GWEL (11865 en jetons) 
+Place 4: psychoman59 (8135 en jetons) 
+M1GWEL : met l'ante. 85
+psychoman59 : met l'ante. 85
+M1GWEL : met la petite blind. 350
+psychoman59 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 9h]
+M1GWEL : suit. 350
+psychoman59 : relance. 7350 à 8050 et est all-in.
+M1GWEL : suit. 7350
+*** FLOP *** [8h Jh 5h]
+*** TOURNANT *** [8h Jh 5h] [Qs]
+*** RIVIÈRE *** [8h Jh 5h Qs] [4c]
+*** ABATTAGE ***
+psychoman59 : montre [9d 9h] (une paire de Neuf)
+M1GWEL : montre [Ah 6h] (une couleur, hauteur As)
+M1GWEL a remporté 16270  lors du pot .
+psychoman59 a fini le tournoi à la 2e place et a reçu 0.34 €.
+M1GWEL gagne le tournoi - félicitations !
+M1GWEL gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 16270 | Commission 0 
+Tableau [8h Jh 5h Qs 4c]
+Siège 3 : M1GWEL (bouton) (petite blind) a montré [Ah 6h] et a gagné (16270) avec une couleur, hauteur As
+Siège 4 : psychoman59 (grosse blind) a montré [9d 9h] et a perdu avec une paire de Neuf
+
+
+

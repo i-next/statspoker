@@ -1,0 +1,36 @@
+﻿Main PokerStars n°237228896133 : Tournoi #3438406060, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 8:11:50 CET [08/07/2022 2:11:50 ET]
+Table '3438406060 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: chamzair (300 en jetons) 
+Place 3: 3emBiberon (300 en jetons) 
+chamzair : met la petite blind. 10
+3emBiberon : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 9h]
+psychoman59 : suit. 20
+chamzair : suit. 10
+3emBiberon : parole 
+*** FLOP *** [Kc 2c Ah]
+chamzair : parole 
+3emBiberon : mise. 20
+psychoman59 : suit. 20
+chamzair : passe. 
+*** TOURNANT *** [Kc 2c Ah] [6h]
+3emBiberon : mise. 100
+psychoman59 : suit. 100
+*** RIVIÈRE *** [Kc 2c Ah 6h] [8s]
+3emBiberon : mise. 160 et est all-in.
+psychoman59 : suit. 160 et est all-in.
+*** ABATTAGE ***
+3emBiberon : montre [2d Ac] (double paire, As et Deux)
+psychoman59 : montre [Ks 9h] (une paire de Rois)
+3emBiberon a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Kc 2c Ah 6h 8s]
+Siège 1 : psychoman59 (bouton) a montré [Ks 9h] et a perdu avec une paire de Rois
+Siège 2 : chamzair (petite blind) s'est couché. sur le Flop
+Siège 3 : 3emBiberon (grosse blind) a montré [2d Ac] et a gagné (620) avec double paire, As et Deux
+
+
+

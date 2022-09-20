@@ -1,0 +1,119 @@
+﻿Main PokerStars n°237268268651 : Tournoi #3439348708, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2022 8:07:56 CET [10/07/2022 2:07:56 ET]
+Table '3439348708 1' 3-max Siège #1 est au bouton.
+Place 1: guiloudu86 (300 en jetons) 
+Place 2: nicocar (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+nicocar : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 6d]
+guiloudu86 : suit. 20
+nicocar : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ts 6c 6s]
+nicocar : mise. 60
+psychoman59 : suit. 60
+guiloudu86 : suit. 60
+*** TOURNANT *** [Ts 6c 6s] [Tc]
+nicocar : parole 
+psychoman59 : parole 
+guiloudu86 : parole 
+*** RIVIÈRE *** [Ts 6c 6s Tc] [4d]
+nicocar : parole 
+psychoman59 : parole 
+guiloudu86 : parole 
+*** ABATTAGE ***
+nicocar : montre [5c 4h] (double paire, Dix et Six)
+psychoman59 : montre [As 6d] (un full, full aux Six par les Dix)
+guiloudu86 : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Ts 6c 6s Tc 4d]
+Siège 1 : guiloudu86 (bouton) a caché la main perdante. [2h 7d]
+Siège 2 : nicocar (petite blind) a montré [5c 4h] et a perdu avec double paire, Dix et Six
+Siège 3 : psychoman59 (grosse blind) a montré [As 6d] et a gagné (240) avec un full, full aux Six par les Dix
+
+
+
+Main PokerStars n°237268275222 : Tournoi #3439348708, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2022 8:08:51 CET [10/07/2022 2:08:51 ET]
+Table '3439348708 1' 3-max Siège #2 est au bouton.
+Place 1: guiloudu86 (220 en jetons) 
+Place 2: nicocar (220 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 10
+guiloudu86 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Jd]
+nicocar : relance. 200 à 220 et est all-in.
+psychoman59 : suit. 210
+guiloudu86 : passe. 
+*** FLOP *** [3d 3h Kh]
+*** TOURNANT *** [3d 3h Kh] [Ah]
+*** RIVIÈRE *** [3d 3h Kh Ah] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [Kc Jd] (double paire, Rois et Trois)
+nicocar : montre [8c Js] (une paire de Trois)
+psychoman59 a remporté 460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [3d 3h Kh Ah 2h]
+Siège 1 : guiloudu86 (grosse blind) s'est couché. avant Flop
+Siège 2 : nicocar (bouton) a montré [8c Js] et a perdu avec une paire de Trois
+Siège 3 : psychoman59 (petite blind) a montré [Kc Jd] et a gagné (460) avec double paire, Rois et Trois
+
+
+
+Main PokerStars n°237268278520 : Tournoi #3439348708, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/07/2022 8:09:19 CET [10/07/2022 2:09:19 ET]
+Table '3439348708 1' 3-max Siège #1 est au bouton.
+Place 1: guiloudu86 (200 en jetons) 
+Place 3: psychoman59 (700 en jetons) 
+guiloudu86 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 4h]
+guiloudu86 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [8c Qh Ts]
+psychoman59 : parole 
+guiloudu86 : mise. 30
+psychoman59 : relance. 60 à 90
+guiloudu86 : suit. 60
+*** TOURNANT *** [8c Qh Ts] [Qc]
+psychoman59 : mise. 90
+guiloudu86 : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [8c Qh Ts Qc]
+Siège 1 : guiloudu86 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a remporté (240)
+
+
+
+Main PokerStars n°237268284528 : Tournoi #3439348708, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/07/2022 8:10:09 CET [10/07/2022 2:10:09 ET]
+Table '3439348708 1' 3-max Siège #3 est au bouton.
+Place 1: guiloudu86 (80 en jetons) 
+Place 3: psychoman59 (820 en jetons) 
+psychoman59 : met la petite blind. 20
+guiloudu86 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Js]
+psychoman59 : relance. 40 à 80
+guiloudu86 : suit. 40 et est all-in.
+*** FLOP *** [Qc Kc 7h]
+*** TOURNANT *** [Qc Kc 7h] [Ac]
+*** RIVIÈRE *** [Qc Kc 7h Ac] [8c]
+*** ABATTAGE ***
+guiloudu86 : montre [As 6s] (une paire de As)
+psychoman59 : montre [5c Js] (une couleur, hauteur As)
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Qc Kc 7h Ac 8c]
+Siège 1 : guiloudu86 (grosse blind) a montré [As 6s] et a perdu avec une paire de As
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [5c Js] et a gagné (160) avec une couleur, hauteur As
+
+
+

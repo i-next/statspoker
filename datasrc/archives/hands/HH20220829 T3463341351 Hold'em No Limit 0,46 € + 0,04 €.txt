@@ -1,0 +1,97 @@
+﻿Main PokerStars n°238288012284 : Tournoi #3463341351, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/08/2022 15:32:56 CET [29/08/2022 9:32:56 ET]
+Table '3463341351 1' 4-max Siège #1 est au bouton.
+Place 1: ZafirGG (5000 en jetons) 
+Place 2: JUANMA LGN (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: wombat2929 (5000 en jetons) 
+ZafirGG : met l'ante. 10
+JUANMA LGN : met l'ante. 10
+psychoman59 : met l'ante. 10
+wombat2929 : met l'ante. 10
+JUANMA LGN : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Jc]
+wombat2929 : passe. 
+ZafirGG : passe. 
+JUANMA LGN : relance. 100 à 200
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à JUANMA LGN.
+JUANMA LGN a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : ZafirGG (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : JUANMA LGN (petite blind) a remporté (240)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : wombat2929 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238288019810 : Tournoi #3463341351, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/08/2022 15:33:29 CET [29/08/2022 9:33:29 ET]
+Table '3463341351 1' 4-max Siège #2 est au bouton.
+Place 1: ZafirGG (4990 en jetons) 
+Place 2: JUANMA LGN (5130 en jetons) 
+Place 3: psychoman59 (4890 en jetons) 
+Place 4: wombat2929 (4990 en jetons) 
+ZafirGG : met l'ante. 10
+JUANMA LGN : met l'ante. 10
+psychoman59 : met l'ante. 10
+wombat2929 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+wombat2929 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Qs]
+ZafirGG : passe. 
+JUANMA LGN : relance. 5020 à 5120 et est all-in.
+psychoman59 : passe. 
+wombat2929 : passe. 
+Personne n'a suivi. (5020) sont retournés à JUANMA LGN.
+JUANMA LGN a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : ZafirGG s'est couché. avant Flop (n'a pas misé)
+Siège 2 : JUANMA LGN (bouton) a remporté (290)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : wombat2929 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238288023660 : Tournoi #3463341351, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/08/2022 15:33:46 CET [29/08/2022 9:33:46 ET]
+Table '3463341351 1' 4-max Siège #3 est au bouton.
+Place 1: ZafirGG (4980 en jetons) 
+Place 2: JUANMA LGN (5310 en jetons) 
+Place 3: psychoman59 (4830 en jetons) 
+Place 4: wombat2929 (4880 en jetons) 
+ZafirGG : met l'ante. 10
+JUANMA LGN : met l'ante. 10
+psychoman59 : met l'ante. 10
+wombat2929 : met l'ante. 10
+wombat2929 : met la petite blind. 50
+ZafirGG : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 7d]
+JUANMA LGN : relance. 5200 à 5300 et est all-in.
+psychoman59 : suit. 4820 et est all-in.
+wombat2929 : suit. 4820 et est all-in.
+ZafirGG : passe. 
+Personne n'a suivi. (430) sont retournés à JUANMA LGN.
+*** FLOP *** [8c Js 3d]
+*** TOURNANT *** [8c Js 3d] [2c]
+*** RIVIÈRE *** [8c Js 3d 2c] [5d]
+*** ABATTAGE ***
+wombat2929 : montre [Kc Ks] (une paire de Rois)
+JUANMA LGN : montre [Ac 5c] (une paire de Cinq)
+wombat2929 a remporté 100  parallèle lors du pot .
+psychoman59 : montre [7c 7d] (une paire de Sept)
+wombat2929 a remporté 14600  principal lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 14700 Principal pot 14600. Parallèle pot 100. | Commission 0 
+Tableau [8c Js 3d 2c 5d]
+Siège 1 : ZafirGG (grosse blind) s'est couché. avant Flop
+Siège 2 : JUANMA LGN a montré [Ac 5c] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (bouton) a montré [7c 7d] et a perdu avec une paire de Sept
+Siège 4 : wombat2929 (petite blind) a montré [Kc Ks] et a gagné (14700) avec une paire de Rois
+
+
+

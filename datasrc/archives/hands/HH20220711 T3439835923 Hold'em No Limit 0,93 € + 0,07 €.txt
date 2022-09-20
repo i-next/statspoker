@@ -1,0 +1,298 @@
+﻿Main PokerStars n°237290148092 : Tournoi #3439835923, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 9:57:40 CET [11/07/2022 3:57:40 ET]
+Table '3439835923 1' 3-max Siège #1 est au bouton.
+Place 1: aliceporte229 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Lolinela (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Lolinela : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 5h]
+aliceporte229 : suit. 20
+psychoman59 : passe. 
+Lolinela : parole 
+*** FLOP *** [3d Ac Jh]
+Lolinela : parole 
+aliceporte229 : parole 
+*** TOURNANT *** [3d Ac Jh] [Qc]
+Lolinela : mise. 20
+aliceporte229 : suit. 20
+*** RIVIÈRE *** [3d Ac Jh Qc] [Ts]
+Lolinela : parole 
+aliceporte229 : parole 
+*** ABATTAGE ***
+Lolinela : montre [2d Ad] (une paire de As)
+aliceporte229 : montre [3h Qh] (double paire, Dames et Trois)
+aliceporte229 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [3d Ac Jh Qc Ts]
+Siège 1 : aliceporte229 (bouton) a montré [3h Qh] et a gagné (90) avec double paire, Dames et Trois
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Lolinela (grosse blind) a montré [2d Ad] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°237290150051 : Tournoi #3439835923, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 9:57:58 CET [11/07/2022 3:57:58 ET]
+Table '3439835923 1' 3-max Siège #2 est au bouton.
+Place 1: aliceporte229 (350 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: Lolinela (260 en jetons) 
+Lolinela : met la petite blind. 10
+aliceporte229 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 9d]
+psychoman59 : relance. 270 à 290 et est all-in.
+Lolinela : passe. 
+aliceporte229 : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : aliceporte229 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (50)
+Siège 3 : Lolinela (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237290151405 : Tournoi #3439835923, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 9:58:12 CET [11/07/2022 3:58:12 ET]
+Table '3439835923 1' 3-max Siège #3 est au bouton.
+Place 1: aliceporte229 (330 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: Lolinela (250 en jetons) 
+aliceporte229 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 4d]
+Lolinela : suit. 20
+aliceporte229 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4c Qh Ts]
+aliceporte229 : parole 
+psychoman59 : parole 
+Lolinela : parole 
+*** TOURNANT *** [4c Qh Ts] [3s]
+aliceporte229 : parole 
+psychoman59 : parole 
+Lolinela : parole 
+*** RIVIÈRE *** [4c Qh Ts 3s] [5s]
+aliceporte229 : parole 
+psychoman59 : parole 
+Lolinela : parole 
+*** ABATTAGE ***
+aliceporte229 : montre [3d 2d] (une paire de Trois)
+psychoman59 : montre [9d 4d] (une paire de Quatre)
+Lolinela : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4c Qh Ts 3s 5s]
+Siège 1 : aliceporte229 (petite blind) a montré [3d 2d] et a perdu avec une paire de Trois
+Siège 2 : psychoman59 (grosse blind) a montré [9d 4d] et a gagné (60) avec une paire de Quatre
+Siège 3 : Lolinela (bouton) a caché la main perdante. [8c Js]
+
+
+
+Main PokerStars n°237290156683 : Tournoi #3439835923, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 9:59:04 CET [11/07/2022 3:59:04 ET]
+Table '3439835923 1' 3-max Siège #1 est au bouton.
+Place 1: aliceporte229 (310 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+Place 3: Lolinela (230 en jetons) 
+psychoman59 : met la petite blind. 15
+Lolinela : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ah]
+aliceporte229 : passe. 
+psychoman59 : relance. 330 à 360 et est all-in.
+Lolinela : suit. 200 et est all-in.
+Personne n'a suivi. (130) sont retournés à psychoman59.
+*** FLOP *** [7h 8c Ad]
+*** TOURNANT *** [7h 8c Ad] [As]
+*** RIVIÈRE *** [7h 8c Ad As] [6c]
+*** ABATTAGE ***
+psychoman59 : montre [Tc Ah] (un brelan de As)
+Lolinela : montre [2s 3s] (une paire de As)
+psychoman59 a remporté 460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [7h 8c Ad As 6c]
+Siège 1 : aliceporte229 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Tc Ah] et a gagné (460) avec un brelan de As
+Siège 3 : Lolinela (grosse blind) a montré [2s 3s] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°237290158895 : Tournoi #3439835923, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 9:59:26 CET [11/07/2022 3:59:26 ET]
+Table '3439835923 1' 3-max Siège #2 est au bouton.
+Place 1: aliceporte229 (310 en jetons) 
+Place 2: psychoman59 (590 en jetons) 
+psychoman59 : met la petite blind. 15
+aliceporte229 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 7h]
+psychoman59 : relance. 60 à 90
+aliceporte229 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : aliceporte229 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237290159794 : Tournoi #3439835923, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 9:59:35 CET [11/07/2022 3:59:35 ET]
+Table '3439835923 1' 3-max Siège #1 est au bouton.
+Place 1: aliceporte229 (280 en jetons) 
+Place 2: psychoman59 (620 en jetons) 
+aliceporte229 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 8d]
+aliceporte229 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [2h Qs Qc]
+psychoman59 : parole 
+aliceporte229 : parole 
+*** TOURNANT *** [2h Qs Qc] [Qh]
+psychoman59 : parole 
+aliceporte229 : parole 
+*** RIVIÈRE *** [2h Qs Qc Qh] [3h]
+psychoman59 : parole 
+aliceporte229 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à aliceporte229.
+aliceporte229 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2h Qs Qc Qh 3h]
+Siège 1 : aliceporte229 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237290162331 : Tournoi #3439835923, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 10:00:00 CET [11/07/2022 4:00:00 ET]
+Table '3439835923 1' 3-max Siège #2 est au bouton.
+Place 1: aliceporte229 (310 en jetons) 
+Place 2: psychoman59 (590 en jetons) 
+psychoman59 : met la petite blind. 20
+aliceporte229 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Ad]
+psychoman59 : relance. 550 à 590 et est all-in.
+aliceporte229 : suit. 270 et est all-in.
+Personne n'a suivi. (280) sont retournés à psychoman59.
+*** FLOP *** [Th Qs Qd]
+*** TOURNANT *** [Th Qs Qd] [3c]
+*** RIVIÈRE *** [Th Qs Qd 3c] [6c]
+*** ABATTAGE ***
+aliceporte229 : montre [7c Ah] (une paire de Dames)
+psychoman59 : montre [4c Ad] (une paire de Dames - plus basse kicker)
+aliceporte229 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Th Qs Qd 3c 6c]
+Siège 1 : aliceporte229 (grosse blind) a montré [7c Ah] et a gagné (620) avec une paire de Dames
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [4c Ad] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°237290163935 : Tournoi #3439835923, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 10:00:15 CET [11/07/2022 4:00:15 ET]
+Table '3439835923 1' 3-max Siège #1 est au bouton.
+Place 1: aliceporte229 (620 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+aliceporte229 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 7d]
+aliceporte229 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [7c 5d Td]
+psychoman59 : parole 
+aliceporte229 : parole 
+*** TOURNANT *** [7c 5d Td] [9h]
+psychoman59 : parole 
+aliceporte229 : mise. 580 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (580) sont retournés à aliceporte229.
+aliceporte229 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [7c 5d Td 9h]
+Siège 1 : aliceporte229 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237290165844 : Tournoi #3439835923, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 10:00:34 CET [11/07/2022 4:00:34 ET]
+Table '3439835923 1' 3-max Siège #2 est au bouton.
+Place 1: aliceporte229 (660 en jetons) 
+Place 2: psychoman59 (240 en jetons) 
+psychoman59 : met la petite blind. 20
+aliceporte229 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à aliceporte229.
+aliceporte229 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : aliceporte229 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237290166550 : Tournoi #3439835923, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 10:00:41 CET [11/07/2022 4:00:41 ET]
+Table '3439835923 1' 3-max Siège #1 est au bouton.
+Place 1: aliceporte229 (680 en jetons) 
+Place 2: psychoman59 (220 en jetons) 
+aliceporte229 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 2d]
+aliceporte229 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Th Ah 4s]
+psychoman59 : parole 
+aliceporte229 : parole 
+*** TOURNANT *** [Th Ah 4s] [Jd]
+psychoman59 : parole 
+aliceporte229 : parole 
+*** RIVIÈRE *** [Th Ah 4s Jd] [Qc]
+psychoman59 : parole 
+aliceporte229 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à aliceporte229.
+aliceporte229 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Th Ah 4s Jd Qc]
+Siège 1 : aliceporte229 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237290169356 : Tournoi #3439835923, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 10:01:06 CET [11/07/2022 4:01:06 ET]
+Table '3439835923 1' 3-max Siège #2 est au bouton.
+Place 1: aliceporte229 (720 en jetons) 
+Place 2: psychoman59 (180 en jetons) 
+psychoman59 : met la petite blind. 30
+aliceporte229 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Th]
+psychoman59 : relance. 120 à 180 et est all-in.
+aliceporte229 : suit. 120
+*** FLOP *** [9s Kd Ts]
+*** TOURNANT *** [9s Kd Ts] [Ad]
+*** RIVIÈRE *** [9s Kd Ts Ad] [8d]
+*** ABATTAGE ***
+aliceporte229 : montre [6c 7h] (une suite, Six à Dix)
+psychoman59 : montre [Ac Th] (double paire, As et Dix)
+aliceporte229 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [9s Kd Ts Ad 8d]
+Siège 1 : aliceporte229 (grosse blind) a montré [6c 7h] et a gagné (360) avec une suite, Six à Dix
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ac Th] et a perdu avec double paire, As et Dix
+
+
+

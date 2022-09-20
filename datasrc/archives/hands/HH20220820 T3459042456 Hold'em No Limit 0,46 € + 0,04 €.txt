@@ -1,0 +1,842 @@
+﻿Main PokerStars n°238104935224 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 15:43:29 CET [20/08/2022 9:43:29 ET]
+Table '3459042456 1' 4-max Siège #1 est au bouton.
+Place 1: oloman00 (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: Gdiwi (5000 en jetons) 
+Place 4: pisoton30 (5000 en jetons) 
+oloman00 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Gdiwi : met l'ante. 10
+pisoton30 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+Gdiwi : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Jc]
+pisoton30 : passe. 
+oloman00 a dépassé le temps imparti.
+oloman00 : passe. 
+oloman00 ne joue pas.
+psychoman59 : suit. 50
+Gdiwi : parole 
+*** FLOP *** [5s 5d 3s]
+psychoman59 : parole 
+Gdiwi : mise. 240
+psychoman59 : passe. 
+Personne n'a suivi. (240) sont retournés à Gdiwi.
+Gdiwi a remporté 240  lors du pot .
+Gdiwi : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [5s 5d 3s]
+Siège 1 : oloman00 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : Gdiwi (grosse blind) a remporté (240)
+Siège 4 : pisoton30 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238104952161 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 15:44:37 CET [20/08/2022 9:44:37 ET]
+Table '3459042456 1' 4-max Siège #2 est au bouton.
+Place 1: oloman00 (4990 en jetons) ne joue pas.
+Place 2: psychoman59 (4890 en jetons) 
+Place 3: Gdiwi (5130 en jetons) 
+Place 4: pisoton30 (4990 en jetons) 
+oloman00 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Gdiwi : met l'ante. 10
+pisoton30 : met l'ante. 10
+Gdiwi : met la petite blind. 50
+pisoton30 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 7d]
+oloman00 : passe. 
+psychoman59 : passe. 
+Gdiwi : relance. 200 à 300
+pisoton30 : suit. 200
+*** FLOP *** [5h 9d 9c]
+Gdiwi : mise. 640
+pisoton30 : suit. 640
+*** TOURNANT *** [5h 9d 9c] [4h]
+Gdiwi : parole 
+pisoton30 : mise. 960
+Gdiwi : suit. 960
+*** RIVIÈRE *** [5h 9d 9c 4h] [Jh]
+Gdiwi : parole 
+pisoton30 : mise. 1920
+Gdiwi : suit. 1920
+*** ABATTAGE ***
+pisoton30 : montre [8s 6c] (une paire de Neuf)
+Gdiwi : montre [Kh Ks] (double paire, Rois et Neuf)
+Gdiwi a remporté 7680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 7680 | Commission 0 
+Tableau [5h 9d 9c 4h Jh]
+Siège 1 : oloman00 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Gdiwi (petite blind) a montré [Kh Ks] et a gagné (7680) avec double paire, Rois et Neuf
+Siège 4 : pisoton30 (grosse blind) a montré [8s 6c] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°238104960953 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 15:45:11 CET [20/08/2022 9:45:11 ET]
+Table '3459042456 1' 4-max Siège #3 est au bouton.
+Place 1: oloman00 (4980 en jetons) ne joue pas.
+Place 2: psychoman59 (4880 en jetons) 
+Place 3: Gdiwi (8980 en jetons) 
+Place 4: pisoton30 (1160 en jetons) 
+oloman00 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Gdiwi : met l'ante. 10
+pisoton30 : met l'ante. 10
+pisoton30 : met la petite blind. 50
+oloman00 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Ah]
+psychoman59 : relance. 100 à 200
+Gdiwi : passe. 
+pisoton30 : suit. 150
+oloman00 : passe. 
+*** FLOP *** [9h Kd 5s]
+pisoton30 : parole 
+psychoman59 : mise. 270
+pisoton30 : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 540  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [9h Kd 5s]
+Siège 1 : oloman00 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 a remporté (540)
+Siège 3 : Gdiwi (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : pisoton30 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238104965983 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 15:45:31 CET [20/08/2022 9:45:31 ET]
+Table '3459042456 1' 4-max Siège #4 est au bouton.
+Place 1: oloman00 (4870 en jetons) ne joue pas.
+Place 2: psychoman59 (5210 en jetons) 
+Place 3: Gdiwi (8970 en jetons) 
+Place 4: pisoton30 (950 en jetons) 
+oloman00 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Gdiwi : met l'ante. 10
+pisoton30 : met l'ante. 10
+oloman00 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 7s]
+Gdiwi : passe. 
+pisoton30 : relance. 840 à 940 et est all-in.
+oloman00 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (840) sont retournés à pisoton30.
+pisoton30 a remporté 290  lors du pot .
+pisoton30 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : oloman00 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Gdiwi s'est couché. avant Flop (n'a pas misé)
+Siège 4 : pisoton30 (bouton) a remporté (290)
+
+
+
+Main PokerStars n°238104969144 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 15:45:44 CET [20/08/2022 9:45:44 ET]
+Table '3459042456 1' 4-max Siège #1 est au bouton.
+Place 1: oloman00 (4810 en jetons) ne joue pas.
+Place 2: psychoman59 (5100 en jetons) 
+Place 3: Gdiwi (8960 en jetons) 
+Place 4: pisoton30 (1130 en jetons) 
+oloman00 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Gdiwi : met l'ante. 10
+pisoton30 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+Gdiwi : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Jh]
+pisoton30 : relance. 1020 à 1120 et est all-in.
+oloman00 : passe. 
+psychoman59 : suit. 1070
+Gdiwi : passe. 
+*** FLOP *** [4s Qh 2d]
+*** TOURNANT *** [4s Qh 2d] [Jc]
+*** RIVIÈRE *** [4s Qh 2d Jc] [Qs]
+*** ABATTAGE ***
+psychoman59 : montre [Kd Jh] (double paire, Dames et Valets)
+pisoton30 : montre [Kc 9s] (une paire de Dames)
+psychoman59 a remporté 2380  lors du pot .
+pisoton30 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 2380 | Commission 0 
+Tableau [4s Qh 2d Jc Qs]
+Siège 1 : oloman00 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Kd Jh] et a gagné (2380) avec double paire, Dames et Valets
+Siège 3 : Gdiwi (grosse blind) s'est couché. avant Flop
+Siège 4 : pisoton30 a montré [Kc 9s] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°238104974417 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 15:46:04 CET [20/08/2022 9:46:04 ET]
+Table '3459042456 1' 4-max Siège #2 est au bouton.
+Place 1: oloman00 (4800 en jetons) ne joue pas.
+Place 2: psychoman59 (6350 en jetons) 
+Place 3: Gdiwi (8850 en jetons) 
+oloman00 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Gdiwi : met l'ante. 10
+Gdiwi : met la petite blind. 50
+oloman00 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 2c]
+psychoman59 : suit. 100
+Gdiwi : suit. 50
+oloman00 : passe. 
+*** FLOP *** [4c 3d Tc]
+Gdiwi : mise. 100
+psychoman59 : suit. 100
+*** TOURNANT *** [4c 3d Tc] [Jd]
+Gdiwi : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4c 3d Tc Jd] [3s]
+Gdiwi : mise. 530
+psychoman59 : passe. 
+Personne n'a suivi. (530) sont retournés à Gdiwi.
+Gdiwi a remporté 530  lors du pot .
+Gdiwi : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 530 | Commission 0 
+Tableau [4c 3d Tc Jd 3s]
+Siège 1 : oloman00 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Rivière
+Siège 3 : Gdiwi (petite blind) a remporté (530)
+
+
+
+Main PokerStars n°238104982483 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 15:46:36 CET [20/08/2022 9:46:36 ET]
+Table '3459042456 1' 4-max Siège #3 est au bouton.
+Place 1: oloman00 (4690 en jetons) ne joue pas.
+Place 2: psychoman59 (6140 en jetons) 
+Place 3: Gdiwi (9170 en jetons) 
+oloman00 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Gdiwi : met l'ante. 15
+oloman00 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ah]
+Gdiwi : relance. 240 à 360
+oloman00 : passe. 
+psychoman59 : relance. 5765 à 6125 et est all-in.
+Gdiwi : passe. 
+Personne n'a suivi. (5765) sont retournés à psychoman59.
+psychoman59 a remporté 825  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 825 | Commission 0 
+Siège 1 : oloman00 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (825)
+Siège 3 : Gdiwi (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238104986796 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 15:46:53 CET [20/08/2022 9:46:53 ET]
+Table '3459042456 1' 4-max Siège #1 est au bouton.
+Place 1: oloman00 (4615 en jetons) ne joue pas.
+Place 2: psychoman59 (6590 en jetons) 
+Place 3: Gdiwi (8795 en jetons) 
+oloman00 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Gdiwi : met l'ante. 15
+psychoman59 : met la petite blind. 60
+Gdiwi : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 5c]
+oloman00 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Gdiwi.
+Gdiwi a remporté 165  lors du pot .
+Gdiwi : ne montre pas sa main. 
+oloman00 est revenu.
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : oloman00 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Gdiwi (grosse blind) a remporté (165)
+
+
+
+Main PokerStars n°238104988786 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 15:47:01 CET [20/08/2022 9:47:01 ET]
+Table '3459042456 1' 4-max Siège #2 est au bouton.
+Place 1: oloman00 (4600 en jetons) 
+Place 2: psychoman59 (6515 en jetons) 
+Place 3: Gdiwi (8885 en jetons) 
+oloman00 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Gdiwi : met l'ante. 15
+Gdiwi : met la petite blind. 60
+oloman00 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Th]
+psychoman59 : passe. 
+Gdiwi : suit. 60
+oloman00 : parole 
+*** FLOP *** [Kd 7d 7h]
+Gdiwi : parole 
+oloman00 : parole 
+*** TOURNANT *** [Kd 7d 7h] [Jc]
+Gdiwi : parole 
+oloman00 : parole 
+*** RIVIÈRE *** [Kd 7d 7h Jc] [4d]
+Gdiwi : parole 
+oloman00 : parole 
+*** ABATTAGE ***
+Gdiwi : montre [5c 5s] (double paire, Sept et Cinq)
+oloman00 : cache la main perdante. 
+Gdiwi a remporté 285  lors du pot .
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Tableau [Kd 7d 7h Jc 4d]
+Siège 1 : oloman00 (grosse blind) a caché la main perdante. [6s Ad]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Gdiwi (petite blind) a montré [5c 5s] et a gagné (285) avec double paire, Sept et Cinq
+
+
+
+Main PokerStars n°238104995148 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 15:47:26 CET [20/08/2022 9:47:26 ET]
+Table '3459042456 1' 4-max Siège #3 est au bouton.
+Place 1: oloman00 (4465 en jetons) 
+Place 2: psychoman59 (6500 en jetons) 
+Place 3: Gdiwi (9035 en jetons) 
+oloman00 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Gdiwi : met l'ante. 15
+oloman00 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Jd]
+Gdiwi : passe. 
+oloman00 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [Tc As 3d]
+oloman00 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Tc As 3d] [Js]
+oloman00 : parole 
+psychoman59 : mise. 285
+oloman00 : passe. 
+Personne n'a suivi. (285) sont retournés à psychoman59.
+psychoman59 a remporté 285  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Tableau [Tc As 3d Js]
+Siège 1 : oloman00 (petite blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (grosse blind) a remporté (285)
+Siège 3 : Gdiwi (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238105001630 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 15:47:51 CET [20/08/2022 9:47:51 ET]
+Table '3459042456 1' 4-max Siège #1 est au bouton.
+Place 1: oloman00 (4330 en jetons) 
+Place 2: psychoman59 (6650 en jetons) 
+Place 3: Gdiwi (9020 en jetons) 
+oloman00 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Gdiwi : met l'ante. 15
+psychoman59 : met la petite blind. 60
+Gdiwi : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 7h]
+oloman00 : suit. 120
+psychoman59 : suit. 60
+Gdiwi : parole 
+*** FLOP *** [7d Jc 8c]
+psychoman59 : mise. 202
+Gdiwi : passe. 
+oloman00 : passe. 
+Personne n'a suivi. (202) sont retournés à psychoman59.
+psychoman59 a remporté 405  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 405 | Commission 0 
+Tableau [7d Jc 8c]
+Siège 1 : oloman00 (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) a remporté (405)
+Siège 3 : Gdiwi (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238105008262 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 15:48:18 CET [20/08/2022 9:48:18 ET]
+Table '3459042456 1' 4-max Siège #2 est au bouton.
+Place 1: oloman00 (4195 en jetons) 
+Place 2: psychoman59 (6920 en jetons) 
+Place 3: Gdiwi (8885 en jetons) 
+oloman00 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Gdiwi : met l'ante. 15
+Gdiwi : met la petite blind. 60
+oloman00 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 3h]
+psychoman59 : passe. 
+Gdiwi : relance. 240 à 360
+oloman00 : passe. 
+Personne n'a suivi. (240) sont retournés à Gdiwi.
+Gdiwi a remporté 285  lors du pot .
+Gdiwi : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Siège 1 : oloman00 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Gdiwi (petite blind) a remporté (285)
+
+
+
+Main PokerStars n°238105011329 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 15:48:30 CET [20/08/2022 9:48:30 ET]
+Table '3459042456 1' 4-max Siège #3 est au bouton.
+Place 1: oloman00 (4060 en jetons) 
+Place 2: psychoman59 (6905 en jetons) 
+Place 3: Gdiwi (9035 en jetons) 
+oloman00 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Gdiwi : met l'ante. 15
+oloman00 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Kh]
+Gdiwi : passe. 
+oloman00 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [4s 7h 6c]
+oloman00 : parole 
+psychoman59 : mise. 285
+oloman00 : suit. 285
+*** TOURNANT *** [4s 7h 6c] [3s]
+oloman00 : mise. 120
+psychoman59 : suit. 120
+*** RIVIÈRE *** [4s 7h 6c 3s] [Qc]
+oloman00 : mise. 120
+psychoman59 : suit. 120
+*** ABATTAGE ***
+oloman00 : montre [6s Ks] (une paire de Six)
+psychoman59 : montre [7d Kh] (une paire de Sept)
+psychoman59 a remporté 1335  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1335 | Commission 0 
+Tableau [4s 7h 6c 3s Qc]
+Siège 1 : oloman00 (petite blind) a montré [6s Ks] et a perdu avec une paire de Six
+Siège 2 : psychoman59 (grosse blind) a montré [7d Kh] et a gagné (1335) avec une paire de Sept
+Siège 3 : Gdiwi (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238105022429 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 15:49:13 CET [20/08/2022 9:49:13 ET]
+Table '3459042456 1' 4-max Siège #1 est au bouton.
+Place 1: oloman00 (3400 en jetons) 
+Place 2: psychoman59 (7580 en jetons) 
+Place 3: Gdiwi (9020 en jetons) 
+oloman00 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Gdiwi : met l'ante. 15
+psychoman59 : met la petite blind. 60
+Gdiwi : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 6c]
+oloman00 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Gdiwi.
+Gdiwi a remporté 165  lors du pot .
+Gdiwi : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : oloman00 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Gdiwi (grosse blind) a remporté (165)
+
+
+
+Main PokerStars n°238105024821 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 15:49:22 CET [20/08/2022 9:49:22 ET]
+Table '3459042456 1' 4-max Siège #2 est au bouton.
+Place 1: oloman00 (3385 en jetons) 
+Place 2: psychoman59 (7505 en jetons) 
+Place 3: Gdiwi (9110 en jetons) 
+oloman00 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Gdiwi : met l'ante. 15
+Gdiwi : met la petite blind. 60
+oloman00 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 5d]
+psychoman59 : passe. 
+Gdiwi : relance. 240 à 360
+oloman00 : passe. 
+Personne n'a suivi. (240) sont retournés à Gdiwi.
+Gdiwi a remporté 285  lors du pot .
+Gdiwi : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Siège 1 : oloman00 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Gdiwi (petite blind) a remporté (285)
+
+
+
+Main PokerStars n°238105028260 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 15:49:36 CET [20/08/2022 9:49:36 ET]
+Table '3459042456 1' 4-max Siège #3 est au bouton.
+Place 1: oloman00 (3250 en jetons) 
+Place 2: psychoman59 (7490 en jetons) 
+Place 3: Gdiwi (9260 en jetons) 
+oloman00 : met l'ante. 20
+psychoman59 : met l'ante. 20
+Gdiwi : met l'ante. 20
+oloman00 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 7h]
+Gdiwi : suit. 150
+oloman00 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [Kh Tc 2d]
+oloman00 : parole 
+psychoman59 : parole 
+Gdiwi : mise. 150
+oloman00 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à Gdiwi.
+Gdiwi a remporté 510  lors du pot .
+Gdiwi : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 510 | Commission 0 
+Tableau [Kh Tc 2d]
+Siège 1 : oloman00 (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : Gdiwi (bouton) a remporté (510)
+
+
+
+Main PokerStars n°238105034672 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 15:50:01 CET [20/08/2022 9:50:01 ET]
+Table '3459042456 1' 4-max Siège #1 est au bouton.
+Place 1: oloman00 (3080 en jetons) 
+Place 2: psychoman59 (7320 en jetons) 
+Place 3: Gdiwi (9600 en jetons) 
+oloman00 : met l'ante. 20
+psychoman59 : met l'ante. 20
+Gdiwi : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Gdiwi : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Js]
+oloman00 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à Gdiwi.
+Gdiwi a remporté 210  lors du pot .
+Gdiwi : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 1 : oloman00 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Gdiwi (grosse blind) a remporté (210)
+
+
+
+Main PokerStars n°238105038112 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 15:50:15 CET [20/08/2022 9:50:15 ET]
+Table '3459042456 1' 4-max Siège #2 est au bouton.
+Place 1: oloman00 (3060 en jetons) 
+Place 2: psychoman59 (7225 en jetons) 
+Place 3: Gdiwi (9715 en jetons) 
+oloman00 : met l'ante. 20
+psychoman59 : met l'ante. 20
+Gdiwi : met l'ante. 20
+Gdiwi : met la petite blind. 75
+oloman00 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 2s]
+psychoman59 : passe. 
+Gdiwi : suit. 75
+oloman00 : relance. 2100 à 2250
+Gdiwi : passe. 
+Personne n'a suivi. (2100) sont retournés à oloman00.
+oloman00 a remporté 360  lors du pot .
+oloman00 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : oloman00 (grosse blind) a remporté (360)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Gdiwi (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238105043057 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 15:50:34 CET [20/08/2022 9:50:34 ET]
+Table '3459042456 1' 4-max Siège #3 est au bouton.
+Place 1: oloman00 (3250 en jetons) 
+Place 2: psychoman59 (7205 en jetons) 
+Place 3: Gdiwi (9545 en jetons) 
+oloman00 : met l'ante. 20
+psychoman59 : met l'ante. 20
+Gdiwi : met l'ante. 20
+oloman00 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 2d]
+Gdiwi : relance. 300 à 450
+oloman00 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à Gdiwi.
+Gdiwi a remporté 435  lors du pot .
+Gdiwi : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Siège 1 : oloman00 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Gdiwi (bouton) a remporté (435)
+
+
+
+Main PokerStars n°238105047380 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 15:50:51 CET [20/08/2022 9:50:51 ET]
+Table '3459042456 1' 4-max Siège #1 est au bouton.
+Place 1: oloman00 (3155 en jetons) 
+Place 2: psychoman59 (7035 en jetons) 
+Place 3: Gdiwi (9810 en jetons) 
+oloman00 : met l'ante. 20
+psychoman59 : met l'ante. 20
+Gdiwi : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Gdiwi : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ah]
+oloman00 : suit. 150
+psychoman59 : relance. 6865 à 7015 et est all-in.
+Gdiwi : passe. 
+oloman00 : suit. 2985 et est all-in.
+Personne n'a suivi. (3880) sont retournés à psychoman59.
+*** FLOP *** [2s 5d 8h]
+*** TOURNANT *** [2s 5d 8h] [Ks]
+*** RIVIÈRE *** [2s 5d 8h Ks] [Js]
+*** ABATTAGE ***
+psychoman59 : montre [9h Ah] (Hauteur As)
+oloman00 : montre [9s Ad] (Hauteur As)
+psychoman59 a remporté 3240  lors du pot .
+oloman00 a remporté 3240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 6480 | Commission 0 
+Tableau [2s 5d 8h Ks Js]
+Siège 1 : oloman00 (bouton) a montré [9s Ad] et a gagné (3240) avec Hauteur As
+Siège 2 : psychoman59 (petite blind) a montré [9h Ah] et a gagné (3240) avec Hauteur As
+Siège 3 : Gdiwi (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238105052999 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 15:51:13 CET [20/08/2022 9:51:13 ET]
+Table '3459042456 1' 4-max Siège #2 est au bouton.
+Place 1: oloman00 (3240 en jetons) 
+Place 2: psychoman59 (7120 en jetons) 
+Place 3: Gdiwi (9640 en jetons) 
+oloman00 : met l'ante. 20
+psychoman59 : met l'ante. 20
+Gdiwi : met l'ante. 20
+Gdiwi : met la petite blind. 75
+oloman00 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Js]
+psychoman59 : passe. 
+Gdiwi : passe. 
+Personne n'a suivi. (75) sont retournés à oloman00.
+oloman00 a remporté 210  lors du pot .
+oloman00 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 1 : oloman00 (grosse blind) a remporté (210)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Gdiwi (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238105055636 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 15:51:24 CET [20/08/2022 9:51:24 ET]
+Table '3459042456 1' 4-max Siège #3 est au bouton.
+Place 1: oloman00 (3355 en jetons) 
+Place 2: psychoman59 (7100 en jetons) 
+Place 3: Gdiwi (9545 en jetons) 
+oloman00 : met l'ante. 20
+psychoman59 : met l'ante. 20
+Gdiwi : met l'ante. 20
+oloman00 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 9d]
+Gdiwi : passe. 
+oloman00 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [6h Js 8h]
+oloman00 : parole 
+psychoman59 : mise. 360
+oloman00 : suit. 360
+*** TOURNANT *** [6h Js 8h] [4h]
+oloman00 : parole 
+psychoman59 : mise. 540
+oloman00 : suit. 540
+*** RIVIÈRE *** [6h Js 8h 4h] [4c]
+oloman00 : mise. 2285 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (2285) sont retournés à oloman00.
+oloman00 a remporté 2160  lors du pot .
+oloman00 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2160 | Commission 0 
+Tableau [6h Js 8h 4h 4c]
+Siège 1 : oloman00 (petite blind) a remporté (2160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : Gdiwi (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238105067767 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 15:52:11 CET [20/08/2022 9:52:11 ET]
+Table '3459042456 1' 4-max Siège #1 est au bouton.
+Place 1: oloman00 (4445 en jetons) 
+Place 2: psychoman59 (6030 en jetons) 
+Place 3: Gdiwi (9525 en jetons) 
+oloman00 : met l'ante. 20
+psychoman59 : met l'ante. 20
+Gdiwi : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Gdiwi : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 4s]
+oloman00 : suit. 150
+psychoman59 : passe. 
+Gdiwi : parole 
+*** FLOP *** [3c 3d Ts]
+Gdiwi : parole 
+oloman00 : mise. 150
+Gdiwi : passe. 
+Personne n'a suivi. (150) sont retournés à oloman00.
+oloman00 a remporté 435  lors du pot .
+oloman00 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Tableau [3c 3d Ts]
+Siège 1 : oloman00 (bouton) a remporté (435)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Gdiwi (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238105074393 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 20/08/2022 15:52:38 CET [20/08/2022 9:52:38 ET]
+Table '3459042456 1' 4-max Siège #2 est au bouton.
+Place 1: oloman00 (4710 en jetons) 
+Place 2: psychoman59 (5935 en jetons) 
+Place 3: Gdiwi (9355 en jetons) 
+oloman00 : met l'ante. 25
+psychoman59 : met l'ante. 25
+Gdiwi : met l'ante. 25
+Gdiwi : met la petite blind. 100
+oloman00 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Qd]
+psychoman59 : passe. 
+Gdiwi : passe. 
+Personne n'a suivi. (100) sont retournés à oloman00.
+oloman00 a remporté 275  lors du pot .
+oloman00 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 275 | Commission 0 
+Siège 1 : oloman00 (grosse blind) a remporté (275)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Gdiwi (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238105077167 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 20/08/2022 15:52:49 CET [20/08/2022 9:52:49 ET]
+Table '3459042456 1' 4-max Siège #3 est au bouton.
+Place 1: oloman00 (4860 en jetons) 
+Place 2: psychoman59 (5910 en jetons) 
+Place 3: Gdiwi (9230 en jetons) 
+oloman00 : met l'ante. 25
+psychoman59 : met l'ante. 25
+Gdiwi : met l'ante. 25
+oloman00 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 8h]
+Gdiwi : relance. 400 à 600
+oloman00 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à Gdiwi.
+Gdiwi a remporté 575  lors du pot .
+Gdiwi : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 575 | Commission 0 
+Siège 1 : oloman00 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Gdiwi (bouton) a remporté (575)
+
+
+
+Main PokerStars n°238105081052 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 20/08/2022 15:53:04 CET [20/08/2022 9:53:04 ET]
+Table '3459042456 1' 4-max Siège #1 est au bouton.
+Place 1: oloman00 (4735 en jetons) 
+Place 2: psychoman59 (5685 en jetons) 
+Place 3: Gdiwi (9580 en jetons) 
+oloman00 : met l'ante. 25
+psychoman59 : met l'ante. 25
+Gdiwi : met l'ante. 25
+psychoman59 : met la petite blind. 100
+Gdiwi : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 3s]
+oloman00 : suit. 200
+psychoman59 : relance. 5460 à 5660 et est all-in.
+Gdiwi : passe. 
+oloman00 : suit. 4510 et est all-in.
+Personne n'a suivi. (950) sont retournés à psychoman59.
+*** FLOP *** [8c 4h 6h]
+*** TOURNANT *** [8c 4h 6h] [Ks]
+*** RIVIÈRE *** [8c 4h 6h Ks] [Ah]
+*** ABATTAGE ***
+psychoman59 : montre [3c 3s] (une paire de Trois)
+oloman00 : montre [7d 7s] (une paire de Sept)
+oloman00 a remporté 9695  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9695 | Commission 0 
+Tableau [8c 4h 6h Ks Ah]
+Siège 1 : oloman00 (bouton) a montré [7d 7s] et a gagné (9695) avec une paire de Sept
+Siège 2 : psychoman59 (petite blind) a montré [3c 3s] et a perdu avec une paire de Trois
+Siège 3 : Gdiwi (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238105086630 : Tournoi #3459042456, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 20/08/2022 15:53:26 CET [20/08/2022 9:53:26 ET]
+Table '3459042456 1' 4-max Siège #2 est au bouton.
+Place 1: oloman00 (9695 en jetons) 
+Place 2: psychoman59 (950 en jetons) 
+Place 3: Gdiwi (9355 en jetons) 
+oloman00 : met l'ante. 25
+psychoman59 : met l'ante. 25
+Gdiwi : met l'ante. 25
+Gdiwi : met la petite blind. 100
+oloman00 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Kd]
+psychoman59 : relance. 725 à 925 et est all-in.
+Gdiwi : passe. 
+oloman00 : suit. 725
+*** FLOP *** [4c Jc Qs]
+*** TOURNANT *** [4c Jc Qs] [Ac]
+*** RIVIÈRE *** [4c Jc Qs Ac] [3d]
+*** ABATTAGE ***
+oloman00 : montre [8s Ks] (Hauteur As)
+psychoman59 : montre [6s Kd] (Hauteur As - plus basse kicker)
+oloman00 a remporté 2025  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 2025 | Commission 0 
+Tableau [4c Jc Qs Ac 3d]
+Siège 1 : oloman00 (grosse blind) a montré [8s Ks] et a gagné (2025) avec Hauteur As
+Siège 2 : psychoman59 (bouton) a montré [6s Kd] et a perdu avec Hauteur As
+Siège 3 : Gdiwi (petite blind) s'est couché. avant Flop
+
+
+

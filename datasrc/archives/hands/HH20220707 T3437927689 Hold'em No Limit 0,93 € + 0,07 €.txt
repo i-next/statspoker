@@ -1,0 +1,144 @@
+﻿Main PokerStars n°237208953792 : Tournoi #3437927689, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2022 7:32:50 CET [07/07/2022 1:32:50 ET]
+Table '3437927689 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: KibbleHunter (300 en jetons) 
+Place 3: Stellinda76 (300 en jetons) 
+KibbleHunter : met la petite blind. 10
+Stellinda76 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Jc]
+psychoman59 : suit. 20
+KibbleHunter : suit. 10
+Stellinda76 : relance. 40 à 60
+psychoman59 : suit. 40
+KibbleHunter : passe. 
+*** FLOP *** [4d Ah 3h]
+Stellinda76 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Stellinda76.
+Stellinda76 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [4d Ah 3h]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : KibbleHunter (petite blind) s'est couché. avant Flop
+Siège 3 : Stellinda76 (grosse blind) a remporté (140)
+
+
+
+Main PokerStars n°237208956429 : Tournoi #3437927689, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2022 7:33:13 CET [07/07/2022 1:33:13 ET]
+Table '3437927689 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (240 en jetons) 
+Place 2: KibbleHunter (280 en jetons) 
+Place 3: Stellinda76 (380 en jetons) 
+Stellinda76 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 6d]
+KibbleHunter : passe. 
+Stellinda76 : relance. 40 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Stellinda76.
+Stellinda76 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : KibbleHunter (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Stellinda76 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°237208957976 : Tournoi #3437927689, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2022 7:33:27 CET [07/07/2022 1:33:27 ET]
+Table '3437927689 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (220 en jetons) 
+Place 2: KibbleHunter (280 en jetons) 
+Place 3: Stellinda76 (400 en jetons) 
+psychoman59 : met la petite blind. 10
+KibbleHunter : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 4s]
+Stellinda76 : relance. 20 à 40
+psychoman59 : relance. 180 à 220 et est all-in.
+KibbleHunter : passe. 
+Stellinda76 : suit. 180
+*** FLOP *** [4d 7d 2s]
+*** TOURNANT *** [4d 7d 2s] [3d]
+*** RIVIÈRE *** [4d 7d 2s 3d] [5c]
+*** ABATTAGE ***
+psychoman59 : montre [As 4s] (une suite, As à Cinq)
+Stellinda76 : montre [9s 4c] (une paire de Quatre)
+psychoman59 a remporté 460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [4d 7d 2s 3d 5c]
+Siège 1 : psychoman59 (petite blind) a montré [As 4s] et a gagné (460) avec une suite, As à Cinq
+Siège 2 : KibbleHunter (grosse blind) s'est couché. avant Flop
+Siège 3 : Stellinda76 (bouton) a montré [9s 4c] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°237208960211 : Tournoi #3437927689, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2022 7:33:47 CET [07/07/2022 1:33:47 ET]
+Table '3437927689 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: KibbleHunter (260 en jetons) 
+Place 3: Stellinda76 (180 en jetons) 
+KibbleHunter : met la petite blind. 10
+Stellinda76 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 2c]
+psychoman59 : passe. 
+KibbleHunter : relance. 240 à 260 et est all-in.
+Stellinda76 : suit. 160 et est all-in.
+Personne n'a suivi. (80) sont retournés à KibbleHunter.
+*** FLOP *** [Qd 3s 6d]
+*** TOURNANT *** [Qd 3s 6d] [3h]
+*** RIVIÈRE *** [Qd 3s 6d 3h] [7s]
+*** ABATTAGE ***
+KibbleHunter : montre [Ac 4h] (une paire de Trois)
+Stellinda76 : montre [4c 6h] (double paire, Six et Trois)
+Stellinda76 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Qd 3s 6d 3h 7s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : KibbleHunter (petite blind) a montré [Ac 4h] et a perdu avec une paire de Trois
+Siège 3 : Stellinda76 (grosse blind) a montré [4c 6h] et a gagné (360) avec double paire, Six et Trois
+
+
+
+Main PokerStars n°237208962629 : Tournoi #3437927689, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2022 7:34:09 CET [07/07/2022 1:34:09 ET]
+Table '3437927689 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: KibbleHunter (80 en jetons) 
+Place 3: Stellinda76 (360 en jetons) 
+Stellinda76 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Kc]
+KibbleHunter : relance. 50 à 80 et est all-in.
+Stellinda76 : relance. 50 à 130
+psychoman59 : suit. 100
+*** FLOP *** [3d Kd 7s]
+Stellinda76 : mise. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [3d Kd 7s] [6h]
+Stellinda76 : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [3d Kd 7s 6h] [Th]
+Stellinda76 : mise. 110 et est all-in.
+psychoman59 : suit. 110
+*** ABATTAGE ***
+Stellinda76 : montre [Qc As] (Hauteur As)
+psychoman59 : montre [2s Kc] (une paire de Rois)
+psychoman59 a remporté 560  parallèle lors du pot .
+KibbleHunter : montre [Ac 5s] (Hauteur As)
+psychoman59 a remporté 240  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 800 Principal pot 240. Parallèle pot 560. | Commission 0 
+Tableau [3d Kd 7s 6h Th]
+Siège 1 : psychoman59 (grosse blind) a montré [2s Kc] et a gagné (800) avec une paire de Rois
+Siège 2 : KibbleHunter (bouton) a montré [Ac 5s] et a perdu avec Hauteur As
+Siège 3 : Stellinda76 (petite blind) a montré [Qc As] et a perdu avec Hauteur As
+
+
+

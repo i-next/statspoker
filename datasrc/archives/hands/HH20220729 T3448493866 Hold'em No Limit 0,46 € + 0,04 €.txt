@@ -1,0 +1,374 @@
+﻿Main PokerStars n°237660910625 : Tournoi #3448493866, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 18:13:05 CET [29/07/2022 12:13:05 ET]
+Table '3448493866 1' 4-max Siège #1 est au bouton.
+Place 1: JoanAnto (5000 en jetons) 
+Place 2: Sat2140 (5000 en jetons) 
+Place 3: 46martin46 (5000 en jetons) 
+Place 4: psychoman59 (5000 en jetons) 
+JoanAnto : met l'ante. 10
+Sat2140 : met l'ante. 10
+46martin46 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Sat2140 : met la petite blind. 50
+46martin46 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Ks]
+psychoman59 : relance. 290 à 390
+JoanAnto : passe. 
+Sat2140 : passe. 
+46martin46 : passe. 
+Personne n'a suivi. (290) sont retournés à psychoman59.
+psychoman59 a remporté 290  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : JoanAnto (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Sat2140 (petite blind) s'est couché. avant Flop
+Siège 3 : 46martin46 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 a remporté (290)
+
+
+
+Main PokerStars n°237660918530 : Tournoi #3448493866, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 18:13:33 CET [29/07/2022 12:13:33 ET]
+Table '3448493866 1' 4-max Siège #2 est au bouton.
+Place 1: JoanAnto (4990 en jetons) 
+Place 2: Sat2140 (4940 en jetons) 
+Place 3: 46martin46 (4890 en jetons) 
+Place 4: psychoman59 (5180 en jetons) 
+JoanAnto : met l'ante. 10
+Sat2140 : met l'ante. 10
+46martin46 : met l'ante. 10
+psychoman59 : met l'ante. 10
+46martin46 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 4c]
+JoanAnto : passe. 
+Sat2140 : relance. 150 à 250
+46martin46 : passe. 
+psychoman59 : suit. 150
+*** FLOP *** [Th 6c 5h]
+psychoman59 : parole 
+Sat2140 : mise. 100
+psychoman59 : suit. 100
+*** TOURNANT *** [Th 6c 5h] [As]
+psychoman59 : parole 
+Sat2140 : mise. 250
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à Sat2140.
+Sat2140 a remporté 790  lors du pot .
+Sat2140 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 790 | Commission 0 
+Tableau [Th 6c 5h As]
+Siège 1 : JoanAnto s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Sat2140 (bouton) a remporté (790)
+Siège 3 : 46martin46 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237660930541 : Tournoi #3448493866, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 18:14:16 CET [29/07/2022 12:14:16 ET]
+Table '3448493866 1' 4-max Siège #3 est au bouton.
+Place 1: JoanAnto (4980 en jetons) 
+Place 2: Sat2140 (5370 en jetons) 
+Place 3: 46martin46 (4830 en jetons) 
+Place 4: psychoman59 (4820 en jetons) 
+JoanAnto : met l'ante. 10
+Sat2140 : met l'ante. 10
+46martin46 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+JoanAnto : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 9c]
+Sat2140 : passe. 
+46martin46 : passe. 
+psychoman59 : relance. 240 à 340
+JoanAnto : suit. 240
+*** FLOP *** [Kh Td 5d]
+psychoman59 : parole 
+JoanAnto : mise. 200
+psychoman59 : suit. 200
+*** TOURNANT *** [Kh Td 5d] [8c]
+psychoman59 : parole 
+JoanAnto : parole 
+*** RIVIÈRE *** [Kh Td 5d 8c] [7d]
+psychoman59 : parole 
+JoanAnto : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9d 9c] (une paire de Neuf)
+JoanAnto : cache la main perdante. 
+psychoman59 a remporté 1120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1120 | Commission 0 
+Tableau [Kh Td 5d 8c 7d]
+Siège 1 : JoanAnto (grosse blind) a caché la main perdante. [As 5c]
+Siège 2 : Sat2140 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : 46martin46 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) a montré [9d 9c] et a gagné (1120) avec une paire de Neuf
+
+
+
+Main PokerStars n°237660945645 : Tournoi #3448493866, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 18:15:08 CET [29/07/2022 12:15:08 ET]
+Table '3448493866 1' 4-max Siège #4 est au bouton.
+Place 1: JoanAnto (4430 en jetons) 
+Place 2: Sat2140 (5360 en jetons) 
+Place 3: 46martin46 (4820 en jetons) 
+Place 4: psychoman59 (5390 en jetons) 
+JoanAnto : met l'ante. 10
+Sat2140 : met l'ante. 10
+46martin46 : met l'ante. 10
+psychoman59 : met l'ante. 10
+JoanAnto : met la petite blind. 50
+Sat2140 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Jc]
+46martin46 : passe. 
+psychoman59 : suit. 100
+JoanAnto : passe. 
+Sat2140 : relance. 150 à 250
+psychoman59 : suit. 150
+*** FLOP *** [6c 2h Ts]
+Sat2140 : mise. 100
+psychoman59 : suit. 100
+*** TOURNANT *** [6c 2h Ts] [2s]
+Sat2140 : mise. 250
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à Sat2140.
+Sat2140 a remporté 790  lors du pot .
+Sat2140 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 790 | Commission 0 
+Tableau [6c 2h Ts 2s]
+Siège 1 : JoanAnto (petite blind) s'est couché. avant Flop
+Siège 2 : Sat2140 (grosse blind) a remporté (790)
+Siège 3 : 46martin46 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237660964670 : Tournoi #3448493866, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 18:16:00 CET [29/07/2022 12:16:00 ET]
+Table '3448493866 1' 4-max Siège #1 est au bouton.
+Place 1: JoanAnto (4370 en jetons) 
+Place 2: Sat2140 (5790 en jetons) 
+Place 3: 46martin46 (4810 en jetons) 
+Place 4: psychoman59 (5030 en jetons) 
+JoanAnto : met l'ante. 10
+Sat2140 : met l'ante. 10
+46martin46 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Sat2140 : met la petite blind. 50
+46martin46 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 5s]
+psychoman59 : passe. 
+JoanAnto : relance. 200 à 300
+Sat2140 : passe. 
+46martin46 : suit. 200
+*** FLOP *** [2c 3h 4d]
+46martin46 : parole 
+JoanAnto : mise. 345
+46martin46 : suit. 345
+*** TOURNANT *** [2c 3h 4d] [9d]
+46martin46 : parole 
+JoanAnto : parole 
+*** RIVIÈRE *** [2c 3h 4d 9d] [Ac]
+46martin46 : mise. 777
+JoanAnto : suit. 777
+*** ABATTAGE ***
+46martin46 : montre [4c 5d] (une suite, As à Cinq)
+JoanAnto : cache la main perdante. 
+46martin46 a remporté 2934  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2934 | Commission 0 
+Tableau [2c 3h 4d 9d Ac]
+Siège 1 : JoanAnto (bouton) a caché la main perdante. [Qd Ad]
+Siège 2 : Sat2140 (petite blind) s'est couché. avant Flop
+Siège 3 : 46martin46 (grosse blind) a montré [4c 5d] et a gagné (2934) avec une suite, As à Cinq
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237660979494 : Tournoi #3448493866, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/07/2022 18:16:52 CET [29/07/2022 12:16:52 ET]
+Table '3448493866 1' 4-max Siège #2 est au bouton.
+Place 1: JoanAnto (2938 en jetons) 
+Place 2: Sat2140 (5730 en jetons) 
+Place 3: 46martin46 (6312 en jetons) 
+Place 4: psychoman59 (5020 en jetons) 
+JoanAnto : met l'ante. 15
+Sat2140 : met l'ante. 15
+46martin46 : met l'ante. 15
+psychoman59 : met l'ante. 15
+46martin46 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Ac]
+JoanAnto : relance. 120 à 240
+Sat2140 : passe. 
+46martin46 : passe. 
+psychoman59 : relance. 4765 à 5005 et est all-in.
+JoanAnto : suit. 2683 et est all-in.
+Personne n'a suivi. (2082) sont retournés à psychoman59.
+*** FLOP *** [9s 9d 2c]
+*** TOURNANT *** [9s 9d 2c] [7c]
+*** RIVIÈRE *** [9s 9d 2c 7c] [8d]
+*** ABATTAGE ***
+psychoman59 : montre [Ks Ac] (une paire de Neuf)
+JoanAnto : montre [6c 6h] (double paire, Neuf et Six)
+JoanAnto a remporté 5966  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5966 | Commission 0 
+Tableau [9s 9d 2c 7c 8d]
+Siège 1 : JoanAnto a montré [6c 6h] et a gagné (5966) avec double paire, Neuf et Six
+Siège 2 : Sat2140 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : 46martin46 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a montré [Ks Ac] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°237660987579 : Tournoi #3448493866, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/07/2022 18:17:21 CET [29/07/2022 12:17:21 ET]
+Table '3448493866 1' 4-max Siège #3 est au bouton.
+Place 1: JoanAnto (5966 en jetons) 
+Place 2: Sat2140 (5715 en jetons) 
+Place 3: 46martin46 (6237 en jetons) 
+Place 4: psychoman59 (2082 en jetons) 
+JoanAnto : met l'ante. 15
+Sat2140 : met l'ante. 15
+46martin46 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+JoanAnto : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ks]
+Sat2140 : passe. 
+46martin46 : relance. 144 à 264
+psychoman59 : suit. 204
+JoanAnto : suit. 144
+*** FLOP *** [Kh 6d 2c]
+psychoman59 : parole 
+JoanAnto : mise. 120
+46martin46 : passe. 
+psychoman59 : relance. 1683 à 1803 et est all-in.
+JoanAnto : passe. 
+Personne n'a suivi. (1683) sont retournés à psychoman59.
+psychoman59 a remporté 1092  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1092 | Commission 0 
+Tableau [Kh 6d 2c]
+Siège 1 : JoanAnto (grosse blind) s'est couché. sur le Flop
+Siège 2 : Sat2140 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : 46martin46 (bouton) s'est couché. sur le Flop
+Siège 4 : psychoman59 (petite blind) a remporté (1092)
+
+
+
+Main PokerStars n°237660999233 : Tournoi #3448493866, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/07/2022 18:18:01 CET [29/07/2022 12:18:01 ET]
+Table '3448493866 1' 4-max Siège #4 est au bouton.
+Place 1: JoanAnto (5567 en jetons) 
+Place 2: Sat2140 (5700 en jetons) 
+Place 3: 46martin46 (5958 en jetons) 
+Place 4: psychoman59 (2775 en jetons) 
+JoanAnto : met l'ante. 15
+Sat2140 : met l'ante. 15
+46martin46 : met l'ante. 15
+psychoman59 : met l'ante. 15
+JoanAnto : met la petite blind. 60
+Sat2140 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 9c]
+46martin46 : passe. 
+psychoman59 : suit. 120
+JoanAnto : suit. 60
+Sat2140 est déconnecté 
+Sat2140 a dépassé le temps imparti. pendant qu'il était déconnecté
+Sat2140 : parole 
+*** FLOP *** [Jh Qd 9h]
+Sat2140 est déconnecté 
+JoanAnto : mise. 240
+Sat2140 : passe. 
+psychoman59 : suit. 240
+*** TOURNANT *** [Jh Qd 9h] [2s]
+JoanAnto : mise. 480
+psychoman59 : passe. 
+Personne n'a suivi. (480) sont retournés à JoanAnto.
+JoanAnto a remporté 900  lors du pot .
+JoanAnto : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [Jh Qd 9h 2s]
+Siège 1 : JoanAnto (petite blind) a remporté (900)
+Siège 2 : Sat2140 (grosse blind) s'est couché. sur le Flop
+Siège 3 : 46martin46 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237661039201 : Tournoi #3448493866, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/07/2022 18:19:48 CET [29/07/2022 12:19:48 ET]
+Table '3448493866 1' 4-max Siège #1 est au bouton.
+Place 1: JoanAnto (6092 en jetons) 
+Place 2: Sat2140 (5565 en jetons) 
+Place 3: 46martin46 (5943 en jetons) 
+Place 4: psychoman59 (2400 en jetons) 
+JoanAnto : met l'ante. 20
+Sat2140 : met l'ante. 20
+46martin46 : met l'ante. 20
+psychoman59 : met l'ante. 20
+Sat2140 : met la petite blind. 75
+46martin46 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 9s]
+psychoman59 : suit. 150
+JoanAnto : suit. 150
+Sat2140 : passe. 
+46martin46 : parole 
+*** FLOP *** [8h 5d Ah]
+46martin46 : parole 
+psychoman59 : parole 
+JoanAnto : mise. 150
+46martin46 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à JoanAnto.
+JoanAnto a remporté 605  lors du pot .
+JoanAnto : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 605 | Commission 0 
+Tableau [8h 5d Ah]
+Siège 1 : JoanAnto (bouton) a remporté (605)
+Siège 2 : Sat2140 (petite blind) s'est couché. avant Flop
+Siège 3 : 46martin46 (grosse blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237661047684 : Tournoi #3448493866, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/07/2022 18:20:17 CET [29/07/2022 12:20:17 ET]
+Table '3448493866 1' 4-max Siège #2 est au bouton.
+Place 1: JoanAnto (6527 en jetons) 
+Place 2: Sat2140 (5470 en jetons) 
+Place 3: 46martin46 (5773 en jetons) 
+Place 4: psychoman59 (2230 en jetons) 
+JoanAnto : met l'ante. 20
+Sat2140 : met l'ante. 20
+46martin46 : met l'ante. 20
+psychoman59 : met l'ante. 20
+46martin46 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ks]
+JoanAnto : suit. 150
+Sat2140 : passe. 
+46martin46 : relance. 375 à 525
+psychoman59 : passe. 
+JoanAnto : passe. 
+Personne n'a suivi. (375) sont retournés à 46martin46.
+46martin46 a remporté 530  lors du pot .
+46martin46 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 530 | Commission 0 
+Siège 1 : JoanAnto s'est couché. avant Flop
+Siège 2 : Sat2140 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : 46martin46 (petite blind) a remporté (530)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+

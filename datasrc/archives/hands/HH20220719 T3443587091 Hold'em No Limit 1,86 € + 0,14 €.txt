@@ -1,0 +1,184 @@
+﻿Main PokerStars n°237450549031 : Tournoi #3443587091, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 9:31:25 CET [19/07/2022 3:31:25 ET]
+Table '3443587091 1' 3-max Siège #1 est au bouton.
+Place 1: Carpiste523 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: sovanny10 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+sovanny10 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 4d]
+Carpiste523 : relance. 20 à 40
+psychoman59 : passe. 
+sovanny10 : suit. 20
+*** FLOP *** [5s 8s 7c]
+sovanny10 : parole 
+Carpiste523 : parole 
+*** TOURNANT *** [5s 8s 7c] [Js]
+sovanny10 : mise. 45
+Carpiste523 : suit. 45
+*** RIVIÈRE *** [5s 8s 7c Js] [Td]
+sovanny10 : parole 
+Carpiste523 : parole 
+*** ABATTAGE ***
+sovanny10 : montre [Ts Jd] (double paire, Valets et Dix)
+Carpiste523 : cache la main perdante. 
+sovanny10 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [5s 8s 7c Js Td]
+Siège 1 : Carpiste523 (bouton) a caché la main perdante. [6c Ad]
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : sovanny10 (grosse blind) a montré [Ts Jd] et a gagné (180) avec double paire, Valets et Dix
+
+
+
+Main PokerStars n°237450551461 : Tournoi #3443587091, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 9:31:47 CET [19/07/2022 3:31:47 ET]
+Table '3443587091 1' 3-max Siège #2 est au bouton.
+Place 1: Carpiste523 (215 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: sovanny10 (395 en jetons) 
+sovanny10 : met la petite blind. 10
+Carpiste523 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 4c]
+psychoman59 : passe. 
+sovanny10 : relance. 40 à 60
+Carpiste523 : relance. 155 à 215 et est all-in.
+sovanny10 : suit. 155
+*** FLOP *** [Qc As Qh]
+*** TOURNANT *** [Qc As Qh] [Qs]
+*** RIVIÈRE *** [Qc As Qh Qs] [7s]
+*** ABATTAGE ***
+sovanny10 : montre [Jd Kd] (un brelan de Dames)
+Carpiste523 : montre [8c 8d] (un full, full aux Dames par les Huit)
+Carpiste523 a remporté 430  lors du pot .
+*** SYNTHÈSE ***
+Pot total 430 | Commission 0 
+Tableau [Qc As Qh Qs 7s]
+Siège 1 : Carpiste523 (grosse blind) a montré [8c 8d] et a gagné (430) avec un full, full aux Dames par les Huit
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : sovanny10 (petite blind) a montré [Jd Kd] et a perdu avec un brelan de Dames
+
+
+
+Main PokerStars n°237450553340 : Tournoi #3443587091, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 9:32:05 CET [19/07/2022 3:32:05 ET]
+Table '3443587091 1' 3-max Siège #3 est au bouton.
+Place 1: Carpiste523 (430 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: sovanny10 (180 en jetons) 
+Carpiste523 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 3h]
+sovanny10 : relance. 160 à 180 et est all-in.
+Carpiste523 : suit. 170
+psychoman59 : passe. 
+*** FLOP *** [9h 6d Kh]
+*** TOURNANT *** [9h 6d Kh] [4h]
+*** RIVIÈRE *** [9h 6d Kh 4h] [Jh]
+*** ABATTAGE ***
+Carpiste523 : montre [Kd Qd] (une paire de Rois)
+sovanny10 : montre [Td Ac] (Hauteur As)
+Carpiste523 a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [9h 6d Kh 4h Jh]
+Siège 1 : Carpiste523 (petite blind) a montré [Kd Qd] et a gagné (380) avec une paire de Rois
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : sovanny10 (bouton) a montré [Td Ac] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237450555279 : Tournoi #3443587091, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 9:32:22 CET [19/07/2022 3:32:22 ET]
+Table '3443587091 1' 3-max Siège #2 est au bouton.
+Place 1: Carpiste523 (630 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+psychoman59 : met la petite blind. 10
+Carpiste523 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 6c]
+psychoman59 : relance. 250 à 270 et est all-in.
+Carpiste523 : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Carpiste523 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°237450556432 : Tournoi #3443587091, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 9:32:33 CET [19/07/2022 3:32:33 ET]
+Table '3443587091 1' 3-max Siège #1 est au bouton.
+Place 1: Carpiste523 (610 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Carpiste523 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 5c]
+Carpiste523 : relance. 30 à 60
+psychoman59 : relance. 230 à 290 et est all-in.
+Carpiste523 : suit. 230
+*** FLOP *** [Tc Th Qc]
+*** TOURNANT *** [Tc Th Qc] [5s]
+*** RIVIÈRE *** [Tc Th Qc 5s] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [5h 5c] (un full, full aux Cinq par les Dix)
+Carpiste523 : montre [6s Kd] (une paire de Dix)
+psychoman59 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [Tc Th Qc 5s 2h]
+Siège 1 : Carpiste523 (bouton) (petite blind) a montré [6s Kd] et a perdu avec une paire de Dix
+Siège 2 : psychoman59 (grosse blind) a montré [5h 5c] et a gagné (580) avec un full, full aux Cinq par les Dix
+
+
+
+Main PokerStars n°237450559148 : Tournoi #3443587091, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 9:32:57 CET [19/07/2022 3:32:57 ET]
+Table '3443587091 1' 3-max Siège #2 est au bouton.
+Place 1: Carpiste523 (320 en jetons) 
+Place 2: psychoman59 (580 en jetons) 
+psychoman59 : met la petite blind. 15
+Carpiste523 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 2c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Carpiste523.
+Carpiste523 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Carpiste523 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237450559707 : Tournoi #3443587091, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 9:33:02 CET [19/07/2022 3:33:02 ET]
+Table '3443587091 1' 3-max Siège #1 est au bouton.
+Place 1: Carpiste523 (335 en jetons) 
+Place 2: psychoman59 (565 en jetons) 
+Carpiste523 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Js]
+Carpiste523 : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [Jh 3s 2c]
+psychoman59 : parole 
+Carpiste523 : mise. 54
+psychoman59 : relance. 228 à 282
+Carpiste523 : suit. 221 et est all-in.
+Personne n'a suivi. (7) sont retournés à psychoman59.
+*** TOURNANT *** [Jh 3s 2c] [8d]
+*** RIVIÈRE *** [Jh 3s 2c 8d] [4d]
+*** ABATTAGE ***
+psychoman59 : montre [8c Js] (double paire, Valets et Huit)
+Carpiste523 : montre [Td Jd] (une paire de Valets)
+psychoman59 a remporté 670  lors du pot .
+*** SYNTHÈSE ***
+Pot total 670 | Commission 0 
+Tableau [Jh 3s 2c 8d 4d]
+Siège 1 : Carpiste523 (bouton) (petite blind) a montré [Td Jd] et a perdu avec une paire de Valets
+Siège 2 : psychoman59 (grosse blind) a montré [8c Js] et a gagné (670) avec double paire, Valets et Huit
+
+
+

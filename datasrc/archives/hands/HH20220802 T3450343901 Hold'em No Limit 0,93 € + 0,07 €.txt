@@ -1,0 +1,448 @@
+﻿Main PokerStars n°237742144351 : Tournoi #3450343901, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/08/2022 15:47:48 CET [02/08/2022 9:47:48 ET]
+Table '3450343901 1' 3-max Siège #1 est au bouton.
+Place 1: guicheasl (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Patachoudu64 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Patachoudu64 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ts]
+guicheasl : suit. 20
+psychoman59 : passe. 
+Patachoudu64 : parole 
+*** FLOP *** [6s 9c 7d]
+Patachoudu64 : parole 
+guicheasl : parole 
+*** TOURNANT *** [6s 9c 7d] [Ac]
+Patachoudu64 : parole 
+guicheasl : parole 
+*** RIVIÈRE *** [6s 9c 7d Ac] [Kc]
+Patachoudu64 : parole 
+guicheasl : parole 
+*** ABATTAGE ***
+Patachoudu64 : montre [Th Jh] (Hauteur As)
+guicheasl : montre [2c 2h] (une paire de Deux)
+guicheasl a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [6s 9c 7d Ac Kc]
+Siège 1 : guicheasl (bouton) a montré [2c 2h] et a gagné (50) avec une paire de Deux
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Patachoudu64 (grosse blind) a montré [Th Jh] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237742148994 : Tournoi #3450343901, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/08/2022 15:48:07 CET [02/08/2022 9:48:07 ET]
+Table '3450343901 1' 3-max Siège #2 est au bouton.
+Place 1: guicheasl (330 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: Patachoudu64 (280 en jetons) 
+Patachoudu64 : met la petite blind. 10
+guicheasl : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 8c]
+psychoman59 : passe. 
+Patachoudu64 : relance. 260 à 280 et est all-in.
+guicheasl : suit. 260
+*** FLOP *** [3c 4h 3s]
+*** TOURNANT *** [3c 4h 3s] [As]
+*** RIVIÈRE *** [3c 4h 3s As] [9c]
+*** ABATTAGE ***
+Patachoudu64 : montre [Jd Ad] (double paire, As et Trois)
+guicheasl : montre [Tc Td] (double paire, Dix et Trois)
+Patachoudu64 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [3c 4h 3s As 9c]
+Siège 1 : guicheasl (grosse blind) a montré [Tc Td] et a perdu avec double paire, Dix et Trois
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Patachoudu64 (petite blind) a montré [Jd Ad] et a gagné (560) avec double paire, As et Trois
+
+
+
+Main PokerStars n°237742155739 : Tournoi #3450343901, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/08/2022 15:48:35 CET [02/08/2022 9:48:35 ET]
+Table '3450343901 1' 3-max Siège #3 est au bouton.
+Place 1: guicheasl (50 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: Patachoudu64 (560 en jetons) 
+guicheasl : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 2s]
+Patachoudu64 : relance. 60 à 80
+guicheasl : suit. 40 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Patachoudu64.
+*** FLOP *** [4h 2c 9c]
+*** TOURNANT *** [4h 2c 9c] [5h]
+*** RIVIÈRE *** [4h 2c 9c 5h] [3s]
+*** ABATTAGE ***
+guicheasl : montre [4s 6h] (une suite, Deux à Six)
+Patachoudu64 : montre [Th Ad] (une suite, As à Cinq)
+guicheasl a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4h 2c 9c 5h 3s]
+Siège 1 : guicheasl (petite blind) a montré [4s 6h] et a gagné (120) avec une suite, Deux à Six
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Patachoudu64 (bouton) a montré [Th Ad] et a perdu avec une suite, As à Cinq
+
+
+
+Main PokerStars n°237742170507 : Tournoi #3450343901, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/08/2022 15:48:55 CET [02/08/2022 9:48:55 ET]
+Table '3450343901 1' 3-max Siège #1 est au bouton.
+Place 1: guicheasl (120 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: Patachoudu64 (510 en jetons) 
+psychoman59 : met la petite blind. 15
+Patachoudu64 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 5d]
+guicheasl : passe. 
+psychoman59 : relance. 30 à 60
+Patachoudu64 : relance. 450 à 510 et est all-in.
+psychoman59 : suit. 210 et est all-in.
+Personne n'a suivi. (240) sont retournés à Patachoudu64.
+*** FLOP *** [6s 6c 5h]
+*** TOURNANT *** [6s 6c 5h] [Kd]
+*** RIVIÈRE *** [6s 6c 5h Kd] [Td]
+*** ABATTAGE ***
+psychoman59 : montre [5c 5d] (un full, full aux Cinq par les Six)
+Patachoudu64 : montre [9d Ad] (une paire de Six)
+psychoman59 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [6s 6c 5h Kd Td]
+Siège 1 : guicheasl (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [5c 5d] et a gagné (540) avec un full, full aux Cinq par les Six
+Siège 3 : Patachoudu64 (grosse blind) a montré [9d Ad] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°237742175550 : Tournoi #3450343901, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/08/2022 15:49:16 CET [02/08/2022 9:49:16 ET]
+Table '3450343901 1' 3-max Siège #2 est au bouton.
+Place 1: guicheasl (120 en jetons) 
+Place 2: psychoman59 (540 en jetons) 
+Place 3: Patachoudu64 (240 en jetons) 
+Patachoudu64 : met la petite blind. 15
+guicheasl : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 3c]
+psychoman59 : passe. 
+Patachoudu64 : relance. 210 à 240 et est all-in.
+guicheasl : suit. 90 et est all-in.
+Personne n'a suivi. (120) sont retournés à Patachoudu64.
+*** FLOP *** [8s Jc 3h]
+*** TOURNANT *** [8s Jc 3h] [5d]
+*** RIVIÈRE *** [8s Jc 3h 5d] [5c]
+*** ABATTAGE ***
+Patachoudu64 : montre [Kd 5h] (un brelan de Cinq)
+guicheasl : montre [Qh 4d] (une paire de Cinq)
+Patachoudu64 a remporté 240  lors du pot .
+guicheasl a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [8s Jc 3h 5d 5c]
+Siège 1 : guicheasl (grosse blind) a montré [Qh 4d] et a perdu avec une paire de Cinq
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Patachoudu64 (petite blind) a montré [Kd 5h] et a gagné (240) avec un brelan de Cinq
+
+
+
+Main PokerStars n°237742181022 : Tournoi #3450343901, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/08/2022 15:49:38 CET [02/08/2022 9:49:38 ET]
+Table '3450343901 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (540 en jetons) 
+Place 3: Patachoudu64 (360 en jetons) 
+Patachoudu64 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Qd]
+Patachoudu64 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : Patachoudu64 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237742182835 : Tournoi #3450343901, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/08/2022 15:49:46 CET [02/08/2022 9:49:46 ET]
+Table '3450343901 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (555 en jetons) 
+Place 3: Patachoudu64 (345 en jetons) 
+psychoman59 : met la petite blind. 15
+Patachoudu64 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Patachoudu64.
+Patachoudu64 a remporté 30  lors du pot .
+Patachoudu64 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Patachoudu64 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237742184930 : Tournoi #3450343901, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/08/2022 15:49:54 CET [02/08/2022 9:49:54 ET]
+Table '3450343901 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (540 en jetons) 
+Place 3: Patachoudu64 (360 en jetons) 
+Patachoudu64 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 8h]
+Patachoudu64 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : Patachoudu64 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237742185956 : Tournoi #3450343901, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/08/2022 15:49:58 CET [02/08/2022 9:49:58 ET]
+Table '3450343901 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (560 en jetons) 
+Place 3: Patachoudu64 (340 en jetons) 
+psychoman59 : met la petite blind. 20
+Patachoudu64 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Jh]
+psychoman59 : suit. 20
+Patachoudu64 : parole 
+*** FLOP *** [7s Ks 8c]
+Patachoudu64 : parole 
+psychoman59 : mise. 80
+Patachoudu64 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [7s Ks 8c]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : Patachoudu64 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237742189311 : Tournoi #3450343901, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/08/2022 15:50:13 CET [02/08/2022 9:50:13 ET]
+Table '3450343901 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (600 en jetons) 
+Place 3: Patachoudu64 (300 en jetons) 
+Patachoudu64 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 9c]
+Patachoudu64 : relance. 260 à 300 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (260) sont retournés à Patachoudu64.
+Patachoudu64 a remporté 80  lors du pot .
+Patachoudu64 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Patachoudu64 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237742191156 : Tournoi #3450343901, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/08/2022 15:50:20 CET [02/08/2022 9:50:20 ET]
+Table '3450343901 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (560 en jetons) 
+Place 3: Patachoudu64 (340 en jetons) 
+psychoman59 : met la petite blind. 20
+Patachoudu64 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Patachoudu64.
+Patachoudu64 a remporté 40  lors du pot .
+Patachoudu64 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Patachoudu64 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237742192463 : Tournoi #3450343901, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/08/2022 15:50:25 CET [02/08/2022 9:50:25 ET]
+Table '3450343901 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (540 en jetons) 
+Place 3: Patachoudu64 (360 en jetons) 
+Patachoudu64 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 7h]
+Patachoudu64 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : Patachoudu64 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237742193775 : Tournoi #3450343901, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/08/2022 15:50:31 CET [02/08/2022 9:50:31 ET]
+Table '3450343901 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (560 en jetons) 
+Place 3: Patachoudu64 (340 en jetons) 
+psychoman59 : met la petite blind. 20
+Patachoudu64 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 8d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Patachoudu64.
+Patachoudu64 a remporté 40  lors du pot .
+Patachoudu64 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Patachoudu64 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237742195038 : Tournoi #3450343901, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/08/2022 15:50:36 CET [02/08/2022 9:50:36 ET]
+Table '3450343901 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (540 en jetons) 
+Place 3: Patachoudu64 (360 en jetons) 
+Patachoudu64 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 3d]
+Patachoudu64 : relance. 320 à 360 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (320) sont retournés à Patachoudu64.
+Patachoudu64 a remporté 80  lors du pot .
+Patachoudu64 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Patachoudu64 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237742196996 : Tournoi #3450343901, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/08/2022 15:50:44 CET [02/08/2022 9:50:44 ET]
+Table '3450343901 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (500 en jetons) 
+Place 3: Patachoudu64 (400 en jetons) 
+psychoman59 : met la petite blind. 20
+Patachoudu64 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 3h]
+psychoman59 : relance. 460 à 500 et est all-in.
+Patachoudu64 : passe. 
+Personne n'a suivi. (460) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : Patachoudu64 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237742199402 : Tournoi #3450343901, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/08/2022 15:50:54 CET [02/08/2022 9:50:54 ET]
+Table '3450343901 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (540 en jetons) 
+Place 3: Patachoudu64 (360 en jetons) 
+Patachoudu64 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 9c]
+Patachoudu64 : relance. 300 à 360 et est all-in.
+psychoman59 : suit. 300
+*** FLOP *** [8h 2h 8c]
+*** TOURNANT *** [8h 2h 8c] [4h]
+*** RIVIÈRE *** [8h 2h 8c 4h] [3d]
+*** ABATTAGE ***
+psychoman59 : montre [Ad 9c] (une paire de Huit)
+Patachoudu64 : montre [Kh Ah] (une couleur, hauteur As)
+Patachoudu64 a remporté 720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [8h 2h 8c 4h 3d]
+Siège 2 : psychoman59 (grosse blind) a montré [Ad 9c] et a perdu avec une paire de Huit
+Siège 3 : Patachoudu64 (bouton) (petite blind) a montré [Kh Ah] et a gagné (720) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°237742202725 : Tournoi #3450343901, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/08/2022 15:51:07 CET [02/08/2022 9:51:07 ET]
+Table '3450343901 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (180 en jetons) 
+Place 3: Patachoudu64 (720 en jetons) 
+psychoman59 : met la petite blind. 30
+Patachoudu64 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Patachoudu64.
+Patachoudu64 a remporté 60  lors du pot .
+Patachoudu64 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Patachoudu64 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237742203904 : Tournoi #3450343901, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/08/2022 15:51:12 CET [02/08/2022 9:51:12 ET]
+Table '3450343901 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (150 en jetons) 
+Place 3: Patachoudu64 (750 en jetons) 
+Patachoudu64 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd As]
+Patachoudu64 : relance. 690 à 750 et est all-in.
+psychoman59 : suit. 90 et est all-in.
+Personne n'a suivi. (600) sont retournés à Patachoudu64.
+*** FLOP *** [7d Qc 4h]
+*** TOURNANT *** [7d Qc 4h] [2d]
+*** RIVIÈRE *** [7d Qc 4h 2d] [7c]
+*** ABATTAGE ***
+psychoman59 : montre [Qd As] (double paire, Dames et Sept)
+Patachoudu64 : montre [Qs Ad] (double paire, Dames et Sept)
+psychoman59 a remporté 150  lors du pot .
+Patachoudu64 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [7d Qc 4h 2d 7c]
+Siège 2 : psychoman59 (grosse blind) a montré [Qd As] et a gagné (150) avec double paire, Dames et Sept
+Siège 3 : Patachoudu64 (bouton) (petite blind) a montré [Qs Ad] et a gagné (150) avec double paire, Dames et Sept
+
+
+
+Main PokerStars n°237742207224 : Tournoi #3450343901, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/08/2022 15:51:26 CET [02/08/2022 9:51:26 ET]
+Table '3450343901 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (150 en jetons) 
+Place 3: Patachoudu64 (750 en jetons) 
+psychoman59 : met la petite blind. 30
+Patachoudu64 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Qd]
+psychoman59 : relance. 90 à 150 et est all-in.
+Patachoudu64 : suit. 90
+*** FLOP *** [8h Ad 7c]
+*** TOURNANT *** [8h Ad 7c] [6h]
+*** RIVIÈRE *** [8h Ad 7c 6h] [Jd]
+*** ABATTAGE ***
+Patachoudu64 : montre [8s 9h] (une paire de Huit)
+psychoman59 : montre [5s Qd] (Hauteur As)
+Patachoudu64 a remporté 300  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Patachoudu64 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [8h Ad 7c 6h Jd]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [5s Qd] et a perdu avec Hauteur As
+Siège 3 : Patachoudu64 (grosse blind) a montré [8s 9h] et a gagné (300) avec une paire de Huit
+
+
+

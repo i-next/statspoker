@@ -1,0 +1,261 @@
+﻿Main PokerStars n°237229215243 : Tournoi #3438414565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 9:00:10 CET [08/07/2022 3:00:10 ET]
+Table '3438414565 1' 3-max Siège #1 est au bouton.
+Place 1: baptistej21 (300 en jetons) 
+Place 2: chaber14 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+chaber14 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Js]
+baptistej21 : passe. 
+chaber14 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Td 3d Kh]
+chaber14 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Td 3d Kh] [8d]
+chaber14 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Td 3d Kh 8d] [Tc]
+chaber14 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+chaber14 : montre [2h Qh] (une paire de Dix)
+psychoman59 : montre [Qs Js] (une paire de Dix - Roi+Dame+Valet kicker)
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Td 3d Kh 8d Tc]
+Siège 1 : baptistej21 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : chaber14 (petite blind) a montré [2h Qh] et a perdu avec une paire de Dix
+Siège 3 : psychoman59 (grosse blind) a montré [Qs Js] et a gagné (40) avec une paire de Dix
+
+
+
+Main PokerStars n°237229217110 : Tournoi #3438414565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 9:00:28 CET [08/07/2022 3:00:28 ET]
+Table '3438414565 1' 3-max Siège #2 est au bouton.
+Place 1: baptistej21 (300 en jetons) 
+Place 2: chaber14 (280 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 10
+baptistej21 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 2d]
+chaber14 : suit. 20
+psychoman59 : passe. 
+baptistej21 : parole 
+*** FLOP *** [9h Js 8s]
+baptistej21 : parole 
+chaber14 : mise. 20
+baptistej21 : suit. 20
+*** TOURNANT *** [9h Js 8s] [Kc]
+baptistej21 : parole 
+chaber14 : mise. 240 et est all-in.
+baptistej21 : passe. 
+Personne n'a suivi. (240) sont retournés à chaber14.
+chaber14 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [9h Js 8s Kc]
+Siège 1 : baptistej21 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : chaber14 (bouton) a remporté (90)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237229220177 : Tournoi #3438414565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 9:00:57 CET [08/07/2022 3:00:57 ET]
+Table '3438414565 1' 3-max Siège #3 est au bouton.
+Place 1: baptistej21 (260 en jetons) 
+Place 2: chaber14 (330 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+baptistej21 : met la petite blind. 10
+chaber14 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ad]
+psychoman59 : relance. 20 à 40
+baptistej21 : passe. 
+chaber14 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : baptistej21 (petite blind) s'est couché. avant Flop
+Siège 2 : chaber14 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°237229221461 : Tournoi #3438414565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 9:01:09 CET [08/07/2022 3:01:09 ET]
+Table '3438414565 1' 3-max Siège #1 est au bouton.
+Place 1: baptistej21 (250 en jetons) 
+Place 2: chaber14 (310 en jetons) 
+Place 3: psychoman59 (340 en jetons) 
+chaber14 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Ks]
+baptistej21 : passe. 
+chaber14 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8s 2s 2c]
+chaber14 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8s 2s 2c] [9h]
+chaber14 : parole 
+psychoman59 : mise. 40
+chaber14 : suit. 40
+*** RIVIÈRE *** [8s 2s 2c 9h] [Qc]
+chaber14 : mise. 250 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à chaber14.
+chaber14 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8s 2s 2c 9h Qc]
+Siège 1 : baptistej21 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : chaber14 (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237229224887 : Tournoi #3438414565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2022 9:01:41 CET [08/07/2022 3:01:41 ET]
+Table '3438414565 1' 3-max Siège #2 est au bouton.
+Place 1: baptistej21 (250 en jetons) 
+Place 2: chaber14 (370 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 15
+baptistej21 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Jc]
+chaber14 : passe. 
+psychoman59 : relance. 250 à 280 et est all-in.
+baptistej21 : suit. 220 et est all-in.
+Personne n'a suivi. (30) sont retournés à psychoman59.
+*** FLOP *** [8s 7d 5c]
+*** TOURNANT *** [8s 7d 5c] [2c]
+*** RIVIÈRE *** [8s 7d 5c 2c] [6c]
+*** ABATTAGE ***
+psychoman59 : montre [Ah Jc] (Hauteur As)
+baptistej21 : montre [Qc Qh] (une paire de Dames)
+baptistej21 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [8s 7d 5c 2c 6c]
+Siège 1 : baptistej21 (grosse blind) a montré [Qc Qh] et a gagné (500) avec une paire de Dames
+Siège 2 : chaber14 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Ah Jc] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237229226630 : Tournoi #3438414565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2022 9:01:57 CET [08/07/2022 3:01:57 ET]
+Table '3438414565 1' 3-max Siège #3 est au bouton.
+Place 1: baptistej21 (500 en jetons) 
+Place 2: chaber14 (370 en jetons) 
+Place 3: psychoman59 (30 en jetons) 
+baptistej21 : met la petite blind. 15
+chaber14 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 4d]
+psychoman59 : passe. 
+baptistej21 : suit. 15
+chaber14 : parole 
+*** FLOP *** [Ts 6c 7s]
+baptistej21 : parole 
+chaber14 : parole 
+*** TOURNANT *** [Ts 6c 7s] [8c]
+baptistej21 : mise. 30
+chaber14 : passe. 
+Personne n'a suivi. (30) sont retournés à baptistej21.
+baptistej21 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ts 6c 7s 8c]
+Siège 1 : baptistej21 (petite blind) a remporté (60)
+Siège 2 : chaber14 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237229228517 : Tournoi #3438414565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 9:02:15 CET [08/07/2022 3:02:15 ET]
+Table '3438414565 1' 3-max Siège #1 est au bouton.
+Place 1: baptistej21 (530 en jetons) 
+Place 2: chaber14 (340 en jetons) 
+Place 3: psychoman59 (30 en jetons) 
+chaber14 : met la petite blind. 20
+psychoman59 : met la grosse blind. 30 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 4h]
+baptistej21 : passe. 
+chaber14 : suit. 10
+*** FLOP *** [3s 9c Ks]
+*** TOURNANT *** [3s 9c Ks] [9h]
+*** RIVIÈRE *** [3s 9c Ks 9h] [Th]
+*** ABATTAGE ***
+chaber14 : montre [Jh 3h] (double paire, Neuf et Trois)
+psychoman59 : montre [Tc 4h] (double paire, Dix et Neuf)
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3s 9c Ks 9h Th]
+Siège 1 : baptistej21 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : chaber14 (petite blind) a montré [Jh 3h] et a perdu avec double paire, Neuf et Trois
+Siège 3 : psychoman59 (grosse blind) a montré [Tc 4h] et a gagné (60) avec double paire, Dix et Neuf
+
+
+
+Main PokerStars n°237229229911 : Tournoi #3438414565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 9:02:28 CET [08/07/2022 3:02:28 ET]
+Table '3438414565 1' 3-max Siège #2 est au bouton.
+Place 1: baptistej21 (530 en jetons) 
+Place 2: chaber14 (310 en jetons) 
+Place 3: psychoman59 (60 en jetons) 
+psychoman59 : met la petite blind. 20
+baptistej21 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Qd]
+chaber14 : passe. 
+psychoman59 : relance. 20 à 60 et est all-in.
+baptistej21 : suit. 20
+*** FLOP *** [5c 2c 8c]
+*** TOURNANT *** [5c 2c 8c] [6s]
+*** RIVIÈRE *** [5c 2c 8c 6s] [Js]
+*** ABATTAGE ***
+psychoman59 : montre [As Qd] (Hauteur As)
+baptistej21 : montre [Ah 3d] (Hauteur As - plus basse kicker)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5c 2c 8c 6s Js]
+Siège 1 : baptistej21 (grosse blind) a montré [Ah 3d] et a perdu avec Hauteur As
+Siège 2 : chaber14 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [As Qd] et a gagné (120) avec Hauteur As
+
+
+
+Main PokerStars n°237229231965 : Tournoi #3438414565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 9:02:46 CET [08/07/2022 3:02:46 ET]
+Table '3438414565 1' 3-max Siège #3 est au bouton.
+Place 1: baptistej21 (470 en jetons) 
+Place 2: chaber14 (310 en jetons) 
+Place 3: psychoman59 (120 en jetons) 
+baptistej21 : met la petite blind. 20
+chaber14 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ad]
+psychoman59 : relance. 80 à 120 et est all-in.
+baptistej21 : passe. 
+chaber14 : suit. 80
+*** FLOP *** [Qc 8s 6s]
+*** TOURNANT *** [Qc 8s 6s] [Kd]
+*** RIVIÈRE *** [Qc 8s 6s Kd] [4d]
+*** ABATTAGE ***
+chaber14 : montre [Qh 9c] (une paire de Dames)
+psychoman59 : montre [9h Ad] (Hauteur As)
+chaber14 a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [Qc 8s 6s Kd 4d]
+Siège 1 : baptistej21 (petite blind) s'est couché. avant Flop
+Siège 2 : chaber14 (grosse blind) a montré [Qh 9c] et a gagné (260) avec une paire de Dames
+Siège 3 : psychoman59 (bouton) a montré [9h Ad] et a perdu avec Hauteur As
+
+
+

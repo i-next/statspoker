@@ -1,0 +1,375 @@
+﻿Main PokerStars n°237838864721 : Tournoi #3452671137, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 07/08/2022 9:56:49 CET [07/08/2022 3:56:49 ET]
+Table '3452671137 1' 4-max Siège #1 est au bouton.
+Place 1: carlosserpi (5000 en jetons) 
+Place 2: Aall-In_2.0 (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: leyou1000 (5000 en jetons) 
+carlosserpi : met l'ante. 10
+Aall-In_2.0 : met l'ante. 10
+psychoman59 : met l'ante. 10
+leyou1000 : met l'ante. 10
+Aall-In_2.0 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 3c]
+leyou1000 : passe. 
+carlosserpi : suit. 100
+Aall-In_2.0 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Kd 4h 5s]
+psychoman59 : parole 
+carlosserpi : mise. 145
+psychoman59 : passe. 
+Personne n'a suivi. (145) sont retournés à carlosserpi.
+carlosserpi a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Tableau [Kd 4h 5s]
+Siège 1 : carlosserpi (bouton) a remporté (290)
+Siège 2 : Aall-In_2.0 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 4 : leyou1000 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237838867545 : Tournoi #3452671137, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 07/08/2022 9:57:13 CET [07/08/2022 3:57:13 ET]
+Table '3452671137 1' 4-max Siège #2 est au bouton.
+Place 1: carlosserpi (5180 en jetons) 
+Place 2: Aall-In_2.0 (4940 en jetons) 
+Place 3: psychoman59 (4890 en jetons) 
+Place 4: leyou1000 (4990 en jetons) 
+carlosserpi : met l'ante. 10
+Aall-In_2.0 : met l'ante. 10
+psychoman59 : met l'ante. 10
+leyou1000 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+leyou1000 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 9h]
+carlosserpi : suit. 100
+Aall-In_2.0 : suit. 100
+psychoman59 : passe. 
+leyou1000 : relance. 400 à 500
+carlosserpi : passe. 
+Aall-In_2.0 : suit. 400
+*** FLOP *** [8s 6h 3c]
+leyou1000 : mise. 595
+Aall-In_2.0 : passe. 
+Personne n'a suivi. (595) sont retournés à leyou1000.
+leyou1000 a remporté 1190  lors du pot .
+leyou1000 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1190 | Commission 0 
+Tableau [8s 6h 3c]
+Siège 1 : carlosserpi s'est couché. avant Flop
+Siège 2 : Aall-In_2.0 (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : leyou1000 (grosse blind) a remporté (1190)
+
+
+
+Main PokerStars n°237838870628 : Tournoi #3452671137, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 07/08/2022 9:57:39 CET [07/08/2022 3:57:39 ET]
+Table '3452671137 1' 4-max Siège #3 est au bouton.
+Place 1: carlosserpi (5070 en jetons) 
+Place 2: Aall-In_2.0 (4430 en jetons) 
+Place 3: psychoman59 (4830 en jetons) 
+Place 4: leyou1000 (5670 en jetons) 
+carlosserpi : met l'ante. 10
+Aall-In_2.0 : met l'ante. 10
+psychoman59 : met l'ante. 10
+leyou1000 : met l'ante. 10
+leyou1000 : met la petite blind. 50
+carlosserpi : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 5h]
+Aall-In_2.0 : passe. 
+psychoman59 : passe. 
+leyou1000 : relance. 150 à 250
+carlosserpi : suit. 150
+*** FLOP *** [Qh Ah Jc]
+leyou1000 : mise. 270
+carlosserpi : relance. 270 à 540
+leyou1000 : suit. 270
+*** TOURNANT *** [Qh Ah Jc] [9d]
+leyou1000 : mise. 810
+carlosserpi : suit. 810
+*** RIVIÈRE *** [Qh Ah Jc 9d] [6h]
+leyou1000 : mise. 1620
+carlosserpi : relance. 1840 à 3460 et est all-in.
+leyou1000 : suit. 1840
+*** ABATTAGE ***
+carlosserpi : montre [9h 8h] (une couleur, hauteur As)
+leyou1000 : montre [9s As] (double paire, As et Neuf)
+carlosserpi a remporté 10160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 10160 | Commission 0 
+Tableau [Qh Ah Jc 9d 6h]
+Siège 1 : carlosserpi (grosse blind) a montré [9h 8h] et a gagné (10160) avec une couleur, hauteur As
+Siège 2 : Aall-In_2.0 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leyou1000 (petite blind) a montré [9s As] et a perdu avec double paire, As et Neuf
+
+
+
+Main PokerStars n°237838874748 : Tournoi #3452671137, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 07/08/2022 9:58:13 CET [07/08/2022 3:58:13 ET]
+Table '3452671137 1' 4-max Siège #4 est au bouton.
+Place 1: carlosserpi (10160 en jetons) 
+Place 2: Aall-In_2.0 (4420 en jetons) 
+Place 3: psychoman59 (4820 en jetons) 
+Place 4: leyou1000 (600 en jetons) 
+carlosserpi : met l'ante. 10
+Aall-In_2.0 : met l'ante. 10
+psychoman59 : met l'ante. 10
+leyou1000 : met l'ante. 10
+carlosserpi : met la petite blind. 50
+Aall-In_2.0 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 3s]
+psychoman59 : passe. 
+leyou1000 : relance. 490 à 590 et est all-in.
+carlosserpi : passe. 
+Aall-In_2.0 : passe. 
+Personne n'a suivi. (490) sont retournés à leyou1000.
+leyou1000 a remporté 290  lors du pot .
+leyou1000 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : carlosserpi (petite blind) s'est couché. avant Flop
+Siège 2 : Aall-In_2.0 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leyou1000 (bouton) a remporté (290)
+
+
+
+Main PokerStars n°237838879536 : Tournoi #3452671137, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 07/08/2022 9:58:53 CET [07/08/2022 3:58:53 ET]
+Table '3452671137 1' 4-max Siège #1 est au bouton.
+Place 1: carlosserpi (10100 en jetons) 
+Place 2: Aall-In_2.0 (4310 en jetons) 
+Place 3: psychoman59 (4810 en jetons) 
+Place 4: leyou1000 (780 en jetons) 
+carlosserpi : met l'ante. 10
+Aall-In_2.0 : met l'ante. 10
+psychoman59 : met l'ante. 10
+leyou1000 : met l'ante. 10
+Aall-In_2.0 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qs]
+leyou1000 : passe. 
+carlosserpi : relance. 100 à 200
+Aall-In_2.0 : passe. 
+psychoman59 : suit. 100
+*** FLOP *** [Qc 3d Jc]
+psychoman59 : parole 
+carlosserpi : mise. 100
+psychoman59 : suit. 100
+*** TOURNANT *** [Qc 3d Jc] [6c]
+psychoman59 : parole 
+carlosserpi : parole 
+*** RIVIÈRE *** [Qc 3d Jc 6c] [Ts]
+psychoman59 : mise. 345
+carlosserpi : passe. 
+Personne n'a suivi. (345) sont retournés à psychoman59.
+psychoman59 a remporté 690  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 690 | Commission 0 
+Tableau [Qc 3d Jc 6c Ts]
+Siège 1 : carlosserpi (bouton) s'est couché. sur le Rivière
+Siège 2 : Aall-In_2.0 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (690)
+Siège 4 : leyou1000 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237838883040 : Tournoi #3452671137, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 07/08/2022 9:59:22 CET [07/08/2022 3:59:22 ET]
+Table '3452671137 1' 4-max Siège #2 est au bouton.
+Place 1: carlosserpi (9790 en jetons) 
+Place 2: Aall-In_2.0 (4250 en jetons) 
+Place 3: psychoman59 (5190 en jetons) 
+Place 4: leyou1000 (770 en jetons) 
+carlosserpi : met l'ante. 10
+Aall-In_2.0 : met l'ante. 10
+psychoman59 : met l'ante. 10
+leyou1000 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+leyou1000 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 3h]
+carlosserpi : suit. 100
+Aall-In_2.0 : relance. 100 à 200
+psychoman59 : passe. 
+leyou1000 : relance. 560 à 760 et est all-in.
+carlosserpi : passe. 
+Aall-In_2.0 : suit. 560
+*** FLOP *** [Td Kh Qd]
+*** TOURNANT *** [Td Kh Qd] [8h]
+*** RIVIÈRE *** [Td Kh Qd 8h] [9c]
+*** ABATTAGE ***
+leyou1000 : montre [4d Th] (une paire de Dix)
+Aall-In_2.0 : montre [Qh 9h] (double paire, Dames et Neuf)
+Aall-In_2.0 a remporté 1710  lors du pot .
+leyou1000 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 1710 | Commission 0 
+Tableau [Td Kh Qd 8h 9c]
+Siège 1 : carlosserpi s'est couché. avant Flop
+Siège 2 : Aall-In_2.0 (bouton) a montré [Qh 9h] et a gagné (1710) avec double paire, Dames et Neuf
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : leyou1000 (grosse blind) a montré [4d Th] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°237838887547 : Tournoi #3452671137, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 07/08/2022 10:00:00 CET [07/08/2022 4:00:00 ET]
+Table '3452671137 1' 4-max Siège #3 est au bouton.
+Place 1: carlosserpi (9680 en jetons) 
+Place 2: Aall-In_2.0 (5190 en jetons) 
+Place 3: psychoman59 (5130 en jetons) 
+carlosserpi : met l'ante. 15
+Aall-In_2.0 : met l'ante. 15
+psychoman59 : met l'ante. 15
+carlosserpi : met la petite blind. 60
+Aall-In_2.0 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qs]
+psychoman59 : passe. 
+carlosserpi : suit. 60
+Aall-In_2.0 : parole 
+*** FLOP *** [7c Ac Tc]
+carlosserpi : parole 
+Aall-In_2.0 : parole 
+*** TOURNANT *** [7c Ac Tc] [3d]
+carlosserpi : parole 
+Aall-In_2.0 : parole 
+*** RIVIÈRE *** [7c Ac Tc 3d] [Jc]
+carlosserpi : parole 
+Aall-In_2.0 : parole 
+*** ABATTAGE ***
+carlosserpi : montre [4d Ks] (Hauteur As)
+Aall-In_2.0 : montre [3h Qh] (une paire de Trois)
+Aall-In_2.0 a remporté 285  lors du pot .
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Tableau [7c Ac Tc 3d Jc]
+Siège 1 : carlosserpi (petite blind) a montré [4d Ks] et a perdu avec Hauteur As
+Siège 2 : Aall-In_2.0 (grosse blind) a montré [3h Qh] et a gagné (285) avec une paire de Trois
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237838891729 : Tournoi #3452671137, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 07/08/2022 10:00:34 CET [07/08/2022 4:00:34 ET]
+Table '3452671137 1' 4-max Siège #1 est au bouton.
+Place 1: carlosserpi (9545 en jetons) 
+Place 2: Aall-In_2.0 (5340 en jetons) 
+Place 3: psychoman59 (5115 en jetons) 
+carlosserpi : met l'ante. 15
+Aall-In_2.0 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Aall-In_2.0 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Td]
+carlosserpi : suit. 120
+Aall-In_2.0 : passe. 
+psychoman59 : parole 
+*** FLOP *** [6h 6d Kc]
+psychoman59 : parole 
+carlosserpi : parole 
+*** TOURNANT *** [6h 6d Kc] [2s]
+psychoman59 : mise. 345
+carlosserpi : passe. 
+Personne n'a suivi. (345) sont retournés à psychoman59.
+psychoman59 a remporté 345  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 345 | Commission 0 
+Tableau [6h 6d Kc 2s]
+Siège 1 : carlosserpi (bouton) s'est couché. sur le Tournant
+Siège 2 : Aall-In_2.0 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (345)
+
+
+
+Main PokerStars n°237838895538 : Tournoi #3452671137, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 07/08/2022 10:01:03 CET [07/08/2022 4:01:03 ET]
+Table '3452671137 1' 4-max Siège #2 est au bouton.
+Place 1: carlosserpi (9410 en jetons) 
+Place 2: Aall-In_2.0 (5265 en jetons) 
+Place 3: psychoman59 (5325 en jetons) 
+carlosserpi : met l'ante. 15
+Aall-In_2.0 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+carlosserpi : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 2d]
+Aall-In_2.0 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à carlosserpi.
+carlosserpi a remporté 165  lors du pot .
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : carlosserpi (grosse blind) a remporté (165)
+Siège 2 : Aall-In_2.0 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237838896680 : Tournoi #3452671137, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 07/08/2022 10:01:12 CET [07/08/2022 4:01:12 ET]
+Table '3452671137 1' 4-max Siège #3 est au bouton.
+Place 1: carlosserpi (9500 en jetons) 
+Place 2: Aall-In_2.0 (5250 en jetons) 
+Place 3: psychoman59 (5250 en jetons) 
+carlosserpi : met l'ante. 15
+Aall-In_2.0 : met l'ante. 15
+psychoman59 : met l'ante. 15
+carlosserpi : met la petite blind. 60
+Aall-In_2.0 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 2d]
+psychoman59 : relance. 120 à 240
+carlosserpi : relance. 9245 à 9485 et est all-in.
+Aall-In_2.0 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (9245) sont retournés à carlosserpi.
+carlosserpi a remporté 645  lors du pot .
+*** SYNTHÈSE ***
+Pot total 645 | Commission 0 
+Siège 1 : carlosserpi (petite blind) a remporté (645)
+Siège 2 : Aall-In_2.0 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237838898822 : Tournoi #3452671137, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 07/08/2022 10:01:28 CET [07/08/2022 4:01:28 ET]
+Table '3452671137 1' 4-max Siège #1 est au bouton.
+Place 1: carlosserpi (9890 en jetons) 
+Place 2: Aall-In_2.0 (5115 en jetons) 
+Place 3: psychoman59 (4995 en jetons) 
+carlosserpi : met l'ante. 15
+Aall-In_2.0 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Aall-In_2.0 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 4c]
+carlosserpi : relance. 9755 à 9875 et est all-in.
+Aall-In_2.0 : passe. 
+psychoman59 : suit. 4860 et est all-in.
+Personne n'a suivi. (4895) sont retournés à carlosserpi.
+*** FLOP *** [8c Th Jh]
+*** TOURNANT *** [8c Th Jh] [Ks]
+*** RIVIÈRE *** [8c Th Jh Ks] [9s]
+*** ABATTAGE ***
+psychoman59 : montre [Ac 4c] (Hauteur As)
+carlosserpi : montre [Ts Qc] (une suite, Neuf à Roi)
+carlosserpi a remporté 10065  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 10065 | Commission 0 
+Tableau [8c Th Jh Ks 9s]
+Siège 1 : carlosserpi (bouton) a montré [Ts Qc] et a gagné (10065) avec une suite, Neuf à Roi
+Siège 2 : Aall-In_2.0 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Ac 4c] et a perdu avec Hauteur As
+
+
+

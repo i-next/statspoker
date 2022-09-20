@@ -1,0 +1,434 @@
+﻿Main PokerStars n°237593001592 : Tournoi #3446855706, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 9:03:27 CET [26/07/2022 3:03:27 ET]
+Table '3446855706 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Kevin102017 (300 en jetons) 
+Place 3: ECASLA (300 en jetons) 
+Kevin102017 : met la petite blind. 10
+ECASLA : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 4d]
+psychoman59 : passe. 
+Kevin102017 : suit. 10
+ECASLA : parole 
+*** FLOP *** [6s 2d 3c]
+Kevin102017 : mise. 20
+ECASLA : suit. 20
+*** TOURNANT *** [6s 2d 3c] [Ad]
+Kevin102017 : mise. 20
+ECASLA : relance. 20 à 40
+Kevin102017 : suit. 20
+*** RIVIÈRE *** [6s 2d 3c Ad] [Jd]
+Kevin102017 : parole 
+ECASLA : mise. 160
+Kevin102017 : passe. 
+Personne n'a suivi. (160) sont retournés à ECASLA.
+ECASLA a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [6s 2d 3c Ad Jd]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Kevin102017 (petite blind) s'est couché. sur le Rivière
+Siège 3 : ECASLA (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°237593005057 : Tournoi #3446855706, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 9:03:58 CET [26/07/2022 3:03:58 ET]
+Table '3446855706 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Kevin102017 (220 en jetons) 
+Place 3: ECASLA (380 en jetons) 
+ECASLA : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 7s]
+Kevin102017 : relance. 200 à 220 et est all-in.
+ECASLA : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à Kevin102017.
+Kevin102017 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Kevin102017 (bouton) a remporté (50)
+Siège 3 : ECASLA (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237593005993 : Tournoi #3446855706, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 9:04:07 CET [26/07/2022 3:04:07 ET]
+Table '3446855706 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: Kevin102017 (250 en jetons) 
+Place 3: ECASLA (370 en jetons) 
+psychoman59 : met la petite blind. 10
+Kevin102017 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 8h]
+ECASLA : relance. 140 à 160
+psychoman59 : passe. 
+Kevin102017 : passe. 
+Personne n'a suivi. (140) sont retournés à ECASLA.
+ECASLA a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Kevin102017 (grosse blind) s'est couché. avant Flop
+Siège 3 : ECASLA (bouton) a remporté (50)
+
+
+
+Main PokerStars n°237593006996 : Tournoi #3446855706, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 9:04:16 CET [26/07/2022 3:04:16 ET]
+Table '3446855706 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: Kevin102017 (230 en jetons) 
+Place 3: ECASLA (400 en jetons) 
+Kevin102017 : met la petite blind. 10
+ECASLA : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Jh]
+psychoman59 : relance. 70 à 90
+Kevin102017 : passe. 
+ECASLA : suit. 70
+*** FLOP *** [4d 3h Th]
+ECASLA : mise. 95
+psychoman59 : suit. 95
+*** TOURNANT *** [4d 3h Th] [3s]
+ECASLA : mise. 215 et est all-in.
+psychoman59 : suit. 85 et est all-in.
+Personne n'a suivi. (130) sont retournés à ECASLA.
+*** RIVIÈRE *** [4d 3h Th 3s] [9h]
+*** ABATTAGE ***
+ECASLA : montre [As 5h] (une paire de Trois)
+psychoman59 : montre [Ah Jh] (une couleur, hauteur As)
+psychoman59 a remporté 550  lors du pot .
+*** SYNTHÈSE ***
+Pot total 550 | Commission 0 
+Tableau [4d 3h Th 3s 9h]
+Siège 1 : psychoman59 (bouton) a montré [Ah Jh] et a gagné (550) avec une couleur, hauteur As
+Siège 2 : Kevin102017 (petite blind) s'est couché. avant Flop
+Siège 3 : ECASLA (grosse blind) a montré [As 5h] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°237593010315 : Tournoi #3446855706, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/07/2022 9:04:46 CET [26/07/2022 3:04:46 ET]
+Table '3446855706 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (550 en jetons) 
+Place 2: Kevin102017 (220 en jetons) 
+Place 3: ECASLA (130 en jetons) 
+ECASLA : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7h]
+Kevin102017 : relance. 190 à 220 et est all-in.
+ECASLA : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (190) sont retournés à Kevin102017.
+Kevin102017 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Kevin102017 (bouton) a remporté (75)
+Siège 3 : ECASLA (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237593011156 : Tournoi #3446855706, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/07/2022 9:04:54 CET [26/07/2022 3:04:54 ET]
+Table '3446855706 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: Kevin102017 (265 en jetons) 
+Place 3: ECASLA (115 en jetons) 
+psychoman59 : met la petite blind. 15
+Kevin102017 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Qc]
+ECASLA : relance. 85 à 115 et est all-in.
+psychoman59 : passe. 
+Kevin102017 : passe. 
+Personne n'a suivi. (85) sont retournés à ECASLA.
+ECASLA a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Kevin102017 (grosse blind) s'est couché. avant Flop
+Siège 3 : ECASLA (bouton) a remporté (75)
+
+
+
+Main PokerStars n°237593011899 : Tournoi #3446855706, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/07/2022 9:05:00 CET [26/07/2022 3:05:00 ET]
+Table '3446855706 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (505 en jetons) 
+Place 2: Kevin102017 (235 en jetons) 
+Place 3: ECASLA (160 en jetons) 
+Kevin102017 : met la petite blind. 15
+ECASLA : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 4c]
+psychoman59 : relance. 75 à 105
+Kevin102017 : passe. 
+ECASLA : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (75)
+Siège 2 : Kevin102017 (petite blind) s'est couché. avant Flop
+Siège 3 : ECASLA (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237593012939 : Tournoi #3446855706, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/07/2022 9:05:09 CET [26/07/2022 3:05:09 ET]
+Table '3446855706 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (550 en jetons) 
+Place 2: Kevin102017 (220 en jetons) 
+Place 3: ECASLA (130 en jetons) 
+ECASLA : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 5h]
+Kevin102017 : suit. 30
+ECASLA : relance. 100 à 130 et est all-in.
+psychoman59 : passe. 
+Kevin102017 : suit. 100
+*** FLOP *** [7d 4h 8s]
+*** TOURNANT *** [7d 4h 8s] [2h]
+*** RIVIÈRE *** [7d 4h 8s 2h] [5c]
+*** ABATTAGE ***
+ECASLA : montre [Jh Tc] (Hauteur Valet)
+Kevin102017 : montre [Ts 9h] (Hauteur Dix)
+ECASLA a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Tableau [7d 4h 8s 2h 5c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Kevin102017 (bouton) a montré [Ts 9h] et a perdu avec Hauteur Dix
+Siège 3 : ECASLA (petite blind) a montré [Jh Tc] et a gagné (290) avec Hauteur Valet
+
+
+
+Main PokerStars n°237593014754 : Tournoi #3446855706, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/07/2022 9:05:26 CET [26/07/2022 3:05:26 ET]
+Table '3446855706 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: Kevin102017 (90 en jetons) 
+Place 3: ECASLA (290 en jetons) 
+psychoman59 : met la petite blind. 15
+Kevin102017 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 5h]
+ECASLA : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Kevin102017.
+Kevin102017 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Kevin102017 (grosse blind) a remporté (30)
+Siège 3 : ECASLA (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237593015928 : Tournoi #3446855706, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 9:05:37 CET [26/07/2022 3:05:37 ET]
+Table '3446855706 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (505 en jetons) 
+Place 2: Kevin102017 (105 en jetons) 
+Place 3: ECASLA (290 en jetons) 
+Kevin102017 : met la petite blind. 20
+ECASLA : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Td]
+psychoman59 : passe. 
+Kevin102017 : suit. 20
+ECASLA : parole 
+*** FLOP *** [Ad 4c 3c]
+Kevin102017 : mise. 65 et est all-in.
+ECASLA : passe. 
+Personne n'a suivi. (65) sont retournés à Kevin102017.
+Kevin102017 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ad 4c 3c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Kevin102017 (petite blind) a remporté (80)
+Siège 3 : ECASLA (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237593017460 : Tournoi #3446855706, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 9:05:50 CET [26/07/2022 3:05:50 ET]
+Table '3446855706 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (505 en jetons) 
+Place 2: Kevin102017 (145 en jetons) 
+Place 3: ECASLA (250 en jetons) 
+ECASLA : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 8c]
+Kevin102017 : relance. 105 à 145 et est all-in.
+ECASLA : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (105) sont retournés à Kevin102017.
+Kevin102017 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Kevin102017 (bouton) a remporté (100)
+Siège 3 : ECASLA (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237593018503 : Tournoi #3446855706, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 9:06:00 CET [26/07/2022 3:06:00 ET]
+Table '3446855706 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (465 en jetons) 
+Place 2: Kevin102017 (205 en jetons) 
+Place 3: ECASLA (230 en jetons) 
+psychoman59 : met la petite blind. 20
+Kevin102017 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 4c]
+ECASLA : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Kevin102017.
+Kevin102017 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Kevin102017 (grosse blind) a remporté (40)
+Siège 3 : ECASLA (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237593019076 : Tournoi #3446855706, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 9:06:05 CET [26/07/2022 3:06:05 ET]
+Table '3446855706 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (445 en jetons) 
+Place 2: Kevin102017 (225 en jetons) 
+Place 3: ECASLA (230 en jetons) 
+Kevin102017 : met la petite blind. 20
+ECASLA : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 3h]
+psychoman59 : passe. 
+Kevin102017 : relance. 185 à 225 et est all-in.
+ECASLA : suit. 185
+*** FLOP *** [6h 6d Qh]
+*** TOURNANT *** [6h 6d Qh] [2d]
+*** RIVIÈRE *** [6h 6d Qh 2d] [8c]
+*** ABATTAGE ***
+Kevin102017 : montre [Td Ad] (une paire de Six)
+ECASLA : montre [9c As] (une paire de Six - plus basse kicker)
+Kevin102017 a remporté 450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [6h 6d Qh 2d 8c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Kevin102017 (petite blind) a montré [Td Ad] et a gagné (450) avec une paire de Six
+Siège 3 : ECASLA (grosse blind) a montré [9c As] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°237593020643 : Tournoi #3446855706, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 9:06:19 CET [26/07/2022 3:06:19 ET]
+Table '3446855706 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (445 en jetons) 
+Place 2: Kevin102017 (450 en jetons) 
+Place 3: ECASLA (5 en jetons) 
+ECASLA : met la petite blind. 5 et est all-in.
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Jc]
+Kevin102017 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [4c 7h 6h]
+psychoman59 : parole 
+Kevin102017 : parole 
+*** TOURNANT *** [4c 7h 6h] [8s]
+psychoman59 : parole 
+Kevin102017 : parole 
+*** RIVIÈRE *** [4c 7h 6h 8s] [Qc]
+psychoman59 : parole 
+Kevin102017 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9d Jc] (Hauteur Dame)
+Kevin102017 : cache la main perdante. 
+psychoman59 a remporté 70  parallèle lors du pot .
+ECASLA : montre [Js Kh] (Hauteur Roi)
+ECASLA a remporté 15  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 85 Principal pot 15. Parallèle pot 70. | Commission 0 
+Tableau [4c 7h 6h 8s Qc]
+Siège 1 : psychoman59 (grosse blind) a montré [9d Jc] et a gagné (70) avec Hauteur Dame
+Siège 2 : Kevin102017 (bouton) a caché la main perdante. [3h Ts]
+Siège 3 : ECASLA (petite blind) a montré [Js Kh] et a gagné (15) avec Hauteur Roi
+
+
+
+Main PokerStars n°237593023224 : Tournoi #3446855706, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 26/07/2022 9:06:43 CET [26/07/2022 3:06:43 ET]
+Table '3446855706 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (475 en jetons) 
+Place 2: Kevin102017 (410 en jetons) 
+Place 3: ECASLA (15 en jetons) 
+psychoman59 : met la petite blind. 30
+Kevin102017 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Kd]
+ECASLA : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Kevin102017.
+Kevin102017 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Kevin102017 (grosse blind) a remporté (60)
+Siège 3 : ECASLA (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237593024302 : Tournoi #3446855706, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 26/07/2022 9:06:52 CET [26/07/2022 3:06:52 ET]
+Table '3446855706 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (445 en jetons) 
+Place 2: Kevin102017 (440 en jetons) 
+Place 3: ECASLA (15 en jetons) 
+Kevin102017 : met la petite blind. 30
+ECASLA : met la grosse blind. 15 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 4d]
+psychoman59 : relance. 135 à 165
+Kevin102017 : relance. 275 à 440 et est all-in.
+psychoman59 : suit. 275
+*** FLOP *** [5s 7s 8c]
+*** TOURNANT *** [5s 7s 8c] [9s]
+*** RIVIÈRE *** [5s 7s 8c 9s] [4h]
+*** ABATTAGE ***
+Kevin102017 : montre [Ad 8h] (une paire de Huit)
+psychoman59 : montre [Ah 4d] (une paire de Quatre)
+Kevin102017 a remporté 850  parallèle lors du pot .
+ECASLA : montre [Td 8d] (une paire de Huit - plus basse kicker)
+Kevin102017 a remporté 45  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 895 Principal pot 45. Parallèle pot 850. | Commission 0 
+Tableau [5s 7s 8c 9s 4h]
+Siège 1 : psychoman59 (bouton) a montré [Ah 4d] et a perdu avec une paire de Quatre
+Siège 2 : Kevin102017 (petite blind) a montré [Ad 8h] et a gagné (895) avec une paire de Huit
+Siège 3 : ECASLA (grosse blind) a montré [Td 8d] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°237593026369 : Tournoi #3446855706, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 26/07/2022 9:07:12 CET [26/07/2022 3:07:12 ET]
+Table '3446855706 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (5 en jetons) 
+Place 2: Kevin102017 (895 en jetons) 
+Kevin102017 : met la petite blind. 30
+psychoman59 : met la grosse blind. 5 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Kd]
+Personne n'a suivi. (25) sont retournés à Kevin102017.
+*** FLOP *** [Qc Jh Ah]
+*** TOURNANT *** [Qc Jh Ah] [Kc]
+*** RIVIÈRE *** [Qc Jh Ah Kc] [3c]
+*** ABATTAGE ***
+psychoman59 : montre [7d Kd] (une paire de Rois)
+Kevin102017 : montre [Tc 6c] (une couleur, hauteur Roi)
+Kevin102017 a remporté 10  lors du pot .
+*** SYNTHÈSE ***
+Pot total 10 | Commission 0 
+Tableau [Qc Jh Ah Kc 3c]
+Siège 1 : psychoman59 (grosse blind) a montré [7d Kd] et a perdu avec une paire de Rois
+Siège 2 : Kevin102017 (bouton) (petite blind) a montré [Tc 6c] et a gagné (10) avec une couleur, hauteur Roi
+
+
+

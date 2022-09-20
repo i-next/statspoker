@@ -1,0 +1,461 @@
+﻿Main PokerStars n°237229162570 : Tournoi #3438413099, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 8:51:27 CET [08/07/2022 2:51:27 ET]
+Table '3438413099 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: alexadel27 (300 en jetons) 
+Place 3: 29nico298 (300 en jetons) 
+alexadel27 : met la petite blind. 10
+29nico298 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 8c]
+psychoman59 : suit. 20
+alexadel27 : suit. 10
+29nico298 : parole 
+*** FLOP *** [3s 6c 4c]
+alexadel27 : parole 
+29nico298 : mise. 33
+psychoman59 : suit. 33
+alexadel27 : suit. 33
+*** TOURNANT *** [3s 6c 4c] [Ac]
+alexadel27 : parole 
+29nico298 : mise. 52
+psychoman59 : suit. 52
+alexadel27 : suit. 52
+*** RIVIÈRE *** [3s 6c 4c Ac] [7h]
+alexadel27 : parole 
+29nico298 : parole 
+psychoman59 : mise. 80
+alexadel27 : suit. 80
+29nico298 : passe. 
+*** ABATTAGE ***
+psychoman59 : montre [9c 8c] (une couleur, hauteur As)
+alexadel27 : cache la main perdante. 
+psychoman59 a remporté 475  lors du pot .
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Tableau [3s 6c 4c Ac 7h]
+Siège 1 : psychoman59 (bouton) a montré [9c 8c] et a gagné (475) avec une couleur, hauteur As
+Siège 2 : alexadel27 (petite blind) a caché la main perdante. [Qd 6d]
+Siège 3 : 29nico298 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237229169749 : Tournoi #3438413099, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2022 8:52:34 CET [08/07/2022 2:52:34 ET]
+Table '3438413099 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (590 en jetons) 
+Place 2: alexadel27 (115 en jetons) 
+Place 3: 29nico298 (195 en jetons) 
+29nico298 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 5c]
+alexadel27 : relance. 30 à 60
+29nico298 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à alexadel27.
+alexadel27 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : alexadel27 (bouton) a remporté (75)
+Siège 3 : 29nico298 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237229170682 : Tournoi #3438413099, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2022 8:52:43 CET [08/07/2022 2:52:43 ET]
+Table '3438413099 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (560 en jetons) 
+Place 2: alexadel27 (160 en jetons) 
+Place 3: 29nico298 (180 en jetons) 
+psychoman59 : met la petite blind. 15
+alexadel27 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 3c]
+29nico298 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à alexadel27.
+alexadel27 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : alexadel27 (grosse blind) a remporté (30)
+Siège 3 : 29nico298 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237229171698 : Tournoi #3438413099, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2022 8:52:52 CET [08/07/2022 2:52:52 ET]
+Table '3438413099 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (545 en jetons) 
+Place 2: alexadel27 (175 en jetons) 
+Place 3: 29nico298 (180 en jetons) 
+alexadel27 : met la petite blind. 15
+29nico298 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Td]
+psychoman59 : relance. 30 à 60
+alexadel27 : relance. 30 à 90
+29nico298 : passe. 
+psychoman59 : suit. 30
+*** FLOP *** [4c Jc 3d]
+alexadel27 : mise. 85 et est all-in.
+psychoman59 : suit. 85
+*** TOURNANT *** [4c Jc 3d] [3h]
+*** RIVIÈRE *** [4c Jc 3d 3h] [9h]
+*** ABATTAGE ***
+alexadel27 : montre [8h Jd] (double paire, Valets et Trois)
+psychoman59 : montre [Qs Td] (une paire de Trois)
+alexadel27 a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [4c Jc 3d 3h 9h]
+Siège 1 : psychoman59 (bouton) a montré [Qs Td] et a perdu avec une paire de Trois
+Siège 2 : alexadel27 (petite blind) a montré [8h Jd] et a gagné (380) avec double paire, Valets et Trois
+Siège 3 : 29nico298 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237229174643 : Tournoi #3438413099, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2022 8:53:20 CET [08/07/2022 2:53:20 ET]
+Table '3438413099 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 2: alexadel27 (380 en jetons) 
+Place 3: 29nico298 (150 en jetons) 
+29nico298 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js As]
+alexadel27 : suit. 30
+29nico298 : passe. 
+psychoman59 : relance. 340 à 370 et est all-in.
+alexadel27 : passe. 
+Personne n'a suivi. (340) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (75)
+Siège 2 : alexadel27 (bouton) s'est couché. avant Flop
+Siège 3 : 29nico298 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237229175952 : Tournoi #3438413099, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 8:53:32 CET [08/07/2022 2:53:32 ET]
+Table '3438413099 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (415 en jetons) 
+Place 2: alexadel27 (350 en jetons) 
+Place 3: 29nico298 (135 en jetons) 
+psychoman59 : met la petite blind. 20
+alexadel27 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 4c]
+29nico298 : passe. 
+psychoman59 : relance. 375 à 415 et est all-in.
+alexadel27 : passe. 
+Personne n'a suivi. (375) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (80)
+Siège 2 : alexadel27 (grosse blind) s'est couché. avant Flop
+Siège 3 : 29nico298 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237229177053 : Tournoi #3438413099, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 8:53:43 CET [08/07/2022 2:53:43 ET]
+Table '3438413099 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (455 en jetons) 
+Place 2: alexadel27 (310 en jetons) 
+Place 3: 29nico298 (135 en jetons) 
+alexadel27 : met la petite blind. 20
+29nico298 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 4s]
+psychoman59 : passe. 
+alexadel27 : suit. 20
+29nico298 : parole 
+*** FLOP *** [6s 9h 8c]
+alexadel27 : mise. 40
+29nico298 : relance. 55 à 95 et est all-in.
+alexadel27 : suit. 55
+*** TOURNANT *** [6s 9h 8c] [5d]
+*** RIVIÈRE *** [6s 9h 8c 5d] [6c]
+*** ABATTAGE ***
+alexadel27 : montre [4d 8d] (double paire, Huit et Six)
+29nico298 : montre [2d 9c] (double paire, Neuf et Six)
+29nico298 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [6s 9h 8c 5d 6c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : alexadel27 (petite blind) a montré [4d 8d] et a perdu avec double paire, Huit et Six
+Siège 3 : 29nico298 (grosse blind) a montré [2d 9c] et a gagné (270) avec double paire, Neuf et Six
+
+
+
+Main PokerStars n°237229179602 : Tournoi #3438413099, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 8:54:07 CET [08/07/2022 2:54:07 ET]
+Table '3438413099 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (455 en jetons) 
+Place 2: alexadel27 (175 en jetons) 
+Place 3: 29nico298 (270 en jetons) 
+29nico298 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ad]
+alexadel27 : relance. 135 à 175 et est all-in.
+29nico298 : passe. 
+psychoman59 : suit. 135
+*** FLOP *** [Th 4d Jc]
+*** TOURNANT *** [Th 4d Jc] [9d]
+*** RIVIÈRE *** [Th 4d Jc 9d] [Ah]
+*** ABATTAGE ***
+psychoman59 : montre [7c Ad] (une paire de As)
+alexadel27 : montre [8c 7s] (une suite, Sept à Valet)
+alexadel27 a remporté 370  lors du pot .
+*** SYNTHÈSE ***
+Pot total 370 | Commission 0 
+Tableau [Th 4d Jc 9d Ah]
+Siège 1 : psychoman59 (grosse blind) a montré [7c Ad] et a perdu avec une paire de As
+Siège 2 : alexadel27 (bouton) a montré [8c 7s] et a gagné (370) avec une suite, Sept à Valet
+Siège 3 : 29nico298 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237229181500 : Tournoi #3438413099, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 8:54:25 CET [08/07/2022 2:54:25 ET]
+Table '3438413099 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: alexadel27 (370 en jetons) 
+Place 3: 29nico298 (250 en jetons) 
+psychoman59 : met la petite blind. 20
+alexadel27 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Ah]
+29nico298 : passe. 
+psychoman59 : relance. 240 à 280 et est all-in.
+alexadel27 : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (80)
+Siège 2 : alexadel27 (grosse blind) s'est couché. avant Flop
+Siège 3 : 29nico298 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237229182798 : Tournoi #3438413099, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/07/2022 8:54:37 CET [08/07/2022 2:54:37 ET]
+Table '3438413099 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: alexadel27 (330 en jetons) 
+Place 3: 29nico298 (250 en jetons) 
+alexadel27 : met la petite blind. 30
+29nico298 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Th]
+psychoman59 : relance. 60 à 120
+alexadel27 : suit. 90
+29nico298 : passe. 
+*** FLOP *** [Ad 2h 6h]
+alexadel27 : parole 
+psychoman59 : mise. 200 et est all-in.
+alexadel27 : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Ad 2h 6h]
+Siège 1 : psychoman59 (bouton) a remporté (300)
+Siège 2 : alexadel27 (petite blind) s'est couché. sur le Flop
+Siège 3 : 29nico298 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237229184498 : Tournoi #3438413099, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/07/2022 8:54:53 CET [08/07/2022 2:54:53 ET]
+Table '3438413099 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: alexadel27 (210 en jetons) 
+Place 3: 29nico298 (190 en jetons) 
+29nico298 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Qc]
+alexadel27 : relance. 60 à 120
+29nico298 : relance. 70 à 190 et est all-in.
+psychoman59 : passe. 
+alexadel27 : suit. 70
+*** FLOP *** [6s Tc 9d]
+*** TOURNANT *** [6s Tc 9d] [9s]
+*** RIVIÈRE *** [6s Tc 9d 9s] [4c]
+*** ABATTAGE ***
+29nico298 : montre [8d 6d] (double paire, Neuf et Six)
+alexadel27 : montre [7h Qd] (une paire de Neuf)
+29nico298 a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [6s Tc 9d 9s 4c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : alexadel27 (bouton) a montré [7h Qd] et a perdu avec une paire de Neuf
+Siège 3 : 29nico298 (petite blind) a montré [8d 6d] et a gagné (440) avec double paire, Neuf et Six
+
+
+
+Main PokerStars n°237229186627 : Tournoi #3438413099, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/07/2022 8:55:13 CET [08/07/2022 2:55:13 ET]
+Table '3438413099 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 2: alexadel27 (20 en jetons) 
+Place 3: 29nico298 (440 en jetons) 
+psychoman59 : met la petite blind. 30
+alexadel27 : met la grosse blind. 20 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 8s]
+29nico298 : relance. 410 à 440 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (410) sont retournés à 29nico298.
+*** FLOP *** [Kd Ts 9s]
+*** TOURNANT *** [Kd Ts 9s] [As]
+*** RIVIÈRE *** [Kd Ts 9s As] [6h]
+*** ABATTAGE ***
+29nico298 : montre [Js Jh] (une paire de Valets)
+29nico298 a remporté 20  parallèle lors du pot .
+alexadel27 : montre [Qs 3c] (Hauteur As)
+29nico298 a remporté 60  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 Principal pot 60. Parallèle pot 20. | Commission 0 
+Tableau [Kd Ts 9s As 6h]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : alexadel27 (grosse blind) a montré [Qs 3c] et a perdu avec Hauteur As
+Siège 3 : 29nico298 (bouton) a montré [Js Jh] et a gagné (80) avec une paire de Valets
+
+
+
+Main PokerStars n°237229189191 : Tournoi #3438413099, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 08/07/2022 8:55:40 CET [08/07/2022 2:55:40 ET]
+Table '3438413099 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (410 en jetons) 
+Place 3: 29nico298 (490 en jetons) 
+psychoman59 : met la petite blind. 40
+29nico298 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Ks]
+psychoman59 : relance. 330 à 410 et est all-in.
+29nico298 : suit. 330
+*** FLOP *** [Jh Kh 5d]
+*** TOURNANT *** [Jh Kh 5d] [9s]
+*** RIVIÈRE *** [Jh Kh 5d 9s] [4c]
+*** ABATTAGE ***
+29nico298 : montre [5h Ah] (une paire de Cinq)
+psychoman59 : montre [2c Ks] (une paire de Rois)
+psychoman59 a remporté 820  lors du pot .
+*** SYNTHÈSE ***
+Pot total 820 | Commission 0 
+Tableau [Jh Kh 5d 9s 4c]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [2c Ks] et a gagné (820) avec une paire de Rois
+Siège 3 : 29nico298 (grosse blind) a montré [5h Ah] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°237229190920 : Tournoi #3438413099, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 08/07/2022 8:55:57 CET [08/07/2022 2:55:57 ET]
+Table '3438413099 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (820 en jetons) 
+Place 3: 29nico298 (80 en jetons) 
+29nico298 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 6c]
+29nico298 : suit. 40 et est all-in.
+*** FLOP *** [8h 8d Jc]
+*** TOURNANT *** [8h 8d Jc] [4d]
+*** RIVIÈRE *** [8h 8d Jc 4d] [Ac]
+*** ABATTAGE ***
+psychoman59 : montre [7s 6c] (une paire de Huit)
+29nico298 : montre [Js 2h] (double paire, Valets et Huit)
+29nico298 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [8h 8d Jc 4d Ac]
+Siège 1 : psychoman59 (grosse blind) a montré [7s 6c] et a perdu avec une paire de Huit
+Siège 3 : 29nico298 (bouton) (petite blind) a montré [Js 2h] et a gagné (160) avec double paire, Valets et Huit
+
+
+
+Main PokerStars n°237229191938 : Tournoi #3438413099, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 08/07/2022 8:56:08 CET [08/07/2022 2:56:08 ET]
+Table '3438413099 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (740 en jetons) 
+Place 3: 29nico298 (160 en jetons) 
+psychoman59 : met la petite blind. 40
+29nico298 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à 29nico298.
+29nico298 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : 29nico298 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237229192453 : Tournoi #3438413099, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 08/07/2022 8:56:14 CET [08/07/2022 2:56:14 ET]
+Table '3438413099 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (700 en jetons) 
+Place 3: 29nico298 (200 en jetons) 
+29nico298 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 3d]
+29nico298 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : 29nico298 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237229192930 : Tournoi #3438413099, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 08/07/2022 8:56:19 CET [08/07/2022 2:56:19 ET]
+Table '3438413099 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (740 en jetons) 
+Place 3: 29nico298 (160 en jetons) 
+psychoman59 : met la petite blind. 40
+29nico298 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 4d]
+psychoman59 : relance. 80 à 160
+29nico298 : suit. 80 et est all-in.
+*** FLOP *** [Qs 3d Qd]
+*** TOURNANT *** [Qs 3d Qd] [5s]
+*** RIVIÈRE *** [Qs 3d Qd 5s] [Js]
+*** ABATTAGE ***
+29nico298 : montre [9h Qh] (un brelan de Dames)
+psychoman59 : montre [Kc 4d] (une paire de Dames)
+29nico298 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Qs 3d Qd 5s Js]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Kc 4d] et a perdu avec une paire de Dames
+Siège 3 : 29nico298 (grosse blind) a montré [9h Qh] et a gagné (320) avec un brelan de Dames
+
+
+
+Main PokerStars n°237229194463 : Tournoi #3438413099, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 08/07/2022 8:56:35 CET [08/07/2022 2:56:35 ET]
+Table '3438413099 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 3: 29nico298 (320 en jetons) 
+29nico298 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 5d]
+29nico298 : relance. 220 à 320 et est all-in.
+psychoman59 : suit. 220
+*** FLOP *** [6c Qc Tc]
+*** TOURNANT *** [6c Qc Tc] [8c]
+*** RIVIÈRE *** [6c Qc Tc 8c] [8s]
+*** ABATTAGE ***
+psychoman59 : montre [Qd 5d] (double paire, Dames et Huit)
+29nico298 : montre [Js Kh] (une paire de Huit)
+psychoman59 a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [6c Qc Tc 8c 8s]
+Siège 1 : psychoman59 (grosse blind) a montré [Qd 5d] et a gagné (640) avec double paire, Dames et Huit
+Siège 3 : 29nico298 (bouton) (petite blind) a montré [Js Kh] et a perdu avec une paire de Huit
+
+
+

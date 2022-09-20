@@ -1,0 +1,106 @@
+﻿Main PokerStars n°236735195315 : Tournoi #3425675572, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/06/2022 14:50:21 CET [13/06/2022 8:50:21 ET]
+Table '3425675572 1' 3-max Siège #1 est au bouton.
+Place 1: Winarnax (300 en jetons) 
+Place 2: saqw71 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+saqw71 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Qh]
+Winarnax : passe. 
+saqw71 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Winarnax (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : saqw71 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°236735196867 : Tournoi #3425675572, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/06/2022 14:50:28 CET [13/06/2022 8:50:28 ET]
+Table '3425675572 1' 3-max Siège #2 est au bouton.
+Place 1: Winarnax (300 en jetons) 
+Place 2: saqw71 (290 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 10
+Winarnax : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 7h]
+saqw71 : relance. 20 à 40
+psychoman59 : suit. 30
+Winarnax : passe. 
+*** FLOP *** [2c Ks 7c]
+psychoman59 : parole 
+saqw71 : parole 
+*** TOURNANT *** [2c Ks 7c] [Js]
+psychoman59 : parole 
+saqw71 : parole 
+*** RIVIÈRE *** [2c Ks 7c Js] [9d]
+psychoman59 : parole 
+saqw71 : mise. 50
+psychoman59 : suit. 50
+*** ABATTAGE ***
+saqw71 : montre [Kh Kd] (un brelan de Rois)
+psychoman59 : cache la main perdante. 
+saqw71 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [2c Ks 7c Js 9d]
+Siège 1 : Winarnax (grosse blind) s'est couché. avant Flop
+Siège 2 : saqw71 (bouton) a montré [Kh Kd] et a gagné (200) avec un brelan de Rois
+Siège 3 : psychoman59 (petite blind) a caché la main perdante. [Ac 7h]
+
+
+
+Main PokerStars n°236735213047 : Tournoi #3425675572, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/06/2022 14:51:05 CET [13/06/2022 8:51:05 ET]
+Table '3425675572 1' 3-max Siège #3 est au bouton.
+Place 1: Winarnax (280 en jetons) 
+Place 2: saqw71 (400 en jetons) 
+Place 3: psychoman59 (220 en jetons) 
+Winarnax : met la petite blind. 10
+saqw71 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Qs]
+psychoman59 : passe. 
+Winarnax : passe. 
+Personne n'a suivi. (10) sont retournés à saqw71.
+saqw71 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Winarnax (petite blind) s'est couché. avant Flop
+Siège 2 : saqw71 (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°236735215567 : Tournoi #3425675572, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/06/2022 14:51:17 CET [13/06/2022 8:51:17 ET]
+Table '3425675572 1' 3-max Siège #1 est au bouton.
+Place 1: Winarnax (270 en jetons) 
+Place 2: saqw71 (410 en jetons) 
+Place 3: psychoman59 (220 en jetons) 
+saqw71 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Ts]
+Winarnax : relance. 250 à 270 et est all-in.
+saqw71 : passe. 
+psychoman59 : suit. 200 et est all-in.
+Personne n'a suivi. (50) sont retournés à Winarnax.
+*** FLOP *** [9s 3d Ah]
+*** TOURNANT *** [9s 3d Ah] [2s]
+*** RIVIÈRE *** [9s 3d Ah 2s] [9h]
+*** ABATTAGE ***
+psychoman59 : montre [Kd Ts] (une paire de Neuf)
+Winarnax : montre [5d Ac] (double paire, As et Neuf)
+Winarnax a remporté 450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [9s 3d Ah 2s 9h]
+Siège 1 : Winarnax (bouton) a montré [5d Ac] et a gagné (450) avec double paire, As et Neuf
+Siège 2 : saqw71 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Kd Ts] et a perdu avec une paire de Neuf
+
+
+

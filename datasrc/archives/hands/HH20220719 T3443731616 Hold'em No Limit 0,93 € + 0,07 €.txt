@@ -1,0 +1,438 @@
+﻿Main PokerStars n°237456155931 : Tournoi #3443731616, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 17:38:39 CET [19/07/2022 11:38:39 ET]
+Table '3443731616 1' 3-max Siège #1 est au bouton.
+Place 1: alfpacino184 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Negatif63 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Negatif63 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 6d]
+alfpacino184 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Negatif63.
+Negatif63 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : alfpacino184 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Negatif63 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237456158606 : Tournoi #3443731616, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 17:38:48 CET [19/07/2022 11:38:48 ET]
+Table '3443731616 1' 3-max Siège #2 est au bouton.
+Place 1: alfpacino184 (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: Negatif63 (310 en jetons) 
+Negatif63 : met la petite blind. 10
+alfpacino184 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 2s]
+psychoman59 : passe. 
+Negatif63 : relance. 40 à 60
+alfpacino184 : suit. 40
+*** FLOP *** [Qh 3d 7h]
+Negatif63 : mise. 20
+alfpacino184 : relance. 160 à 180
+Negatif63 : passe. 
+Personne n'a suivi. (160) sont retournés à alfpacino184.
+alfpacino184 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Qh 3d 7h]
+Siège 1 : alfpacino184 (grosse blind) a remporté (160)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Negatif63 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237456162486 : Tournoi #3443731616, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 17:39:01 CET [19/07/2022 11:39:01 ET]
+Table '3443731616 1' 3-max Siège #3 est au bouton.
+Place 1: alfpacino184 (380 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: Negatif63 (230 en jetons) 
+alfpacino184 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Jd]
+Negatif63 : suit. 20
+alfpacino184 : relance. 60 à 80
+psychoman59 : passe. 
+Negatif63 : passe. 
+Personne n'a suivi. (60) sont retournés à alfpacino184.
+alfpacino184 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : alfpacino184 (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Negatif63 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237456164969 : Tournoi #3443731616, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 17:39:09 CET [19/07/2022 11:39:09 ET]
+Table '3443731616 1' 3-max Siège #1 est au bouton.
+Place 1: alfpacino184 (420 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: Negatif63 (210 en jetons) 
+psychoman59 : met la petite blind. 10
+Negatif63 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Kh]
+alfpacino184 : passe. 
+psychoman59 : relance. 40 à 60
+Negatif63 : suit. 40
+*** FLOP *** [8s 5s 7d]
+psychoman59 : mise. 60
+Negatif63 : suit. 60
+*** TOURNANT *** [8s 5s 7d] [2h]
+psychoman59 : mise. 100
+Negatif63 : suit. 90 et est all-in.
+Personne n'a suivi. (10) sont retournés à psychoman59.
+*** RIVIÈRE *** [8s 5s 7d 2h] [7c]
+*** ABATTAGE ***
+psychoman59 : montre [Ks Kh] (double paire, Rois et Sept)
+Negatif63 : montre [6h Ac] (une paire de Sept)
+psychoman59 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [8s 5s 7d 2h 7c]
+Siège 1 : alfpacino184 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Ks Kh] et a gagné (420) avec double paire, Rois et Sept
+Siège 3 : Negatif63 (grosse blind) a montré [6h Ac] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°237456174075 : Tournoi #3443731616, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 17:39:41 CET [19/07/2022 11:39:41 ET]
+Table '3443731616 1' 3-max Siège #2 est au bouton.
+Place 1: alfpacino184 (420 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+alfpacino184 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à alfpacino184.
+alfpacino184 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : alfpacino184 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237456176422 : Tournoi #3443731616, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 17:39:49 CET [19/07/2022 11:39:49 ET]
+Table '3443731616 1' 3-max Siège #1 est au bouton.
+Place 1: alfpacino184 (430 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+alfpacino184 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8s]
+alfpacino184 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à alfpacino184.
+alfpacino184 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : alfpacino184 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237456178355 : Tournoi #3443731616, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 17:39:55 CET [19/07/2022 11:39:55 ET]
+Table '3443731616 1' 3-max Siège #2 est au bouton.
+Place 1: alfpacino184 (460 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+psychoman59 : met la petite blind. 15
+alfpacino184 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Ah]
+psychoman59 : relance. 410 à 440 et est all-in.
+alfpacino184 : passe. 
+Personne n'a suivi. (410) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : alfpacino184 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237456180851 : Tournoi #3443731616, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 17:40:04 CET [19/07/2022 11:40:04 ET]
+Table '3443731616 1' 3-max Siège #1 est au bouton.
+Place 1: alfpacino184 (430 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+alfpacino184 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 7h]
+alfpacino184 : relance. 60 à 90
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à alfpacino184.
+alfpacino184 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : alfpacino184 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237456183333 : Tournoi #3443731616, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 17:40:12 CET [19/07/2022 11:40:12 ET]
+Table '3443731616 1' 3-max Siège #2 est au bouton.
+Place 1: alfpacino184 (460 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+psychoman59 : met la petite blind. 15
+alfpacino184 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 3d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à alfpacino184.
+alfpacino184 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : alfpacino184 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237456185047 : Tournoi #3443731616, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 17:40:18 CET [19/07/2022 11:40:18 ET]
+Table '3443731616 1' 3-max Siège #1 est au bouton.
+Place 1: alfpacino184 (475 en jetons) 
+Place 2: psychoman59 (425 en jetons) 
+alfpacino184 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h As]
+alfpacino184 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : alfpacino184 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237456186284 : Tournoi #3443731616, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 17:40:22 CET [19/07/2022 11:40:22 ET]
+Table '3443731616 1' 3-max Siège #2 est au bouton.
+Place 1: alfpacino184 (460 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+psychoman59 : met la petite blind. 15
+alfpacino184 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 3h]
+psychoman59 : relance. 410 à 440 et est all-in.
+alfpacino184 : passe. 
+Personne n'a suivi. (410) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : alfpacino184 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237456188245 : Tournoi #3443731616, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 17:40:29 CET [19/07/2022 11:40:29 ET]
+Table '3443731616 1' 3-max Siège #1 est au bouton.
+Place 1: alfpacino184 (430 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+alfpacino184 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 6h]
+alfpacino184 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : alfpacino184 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237456189492 : Tournoi #3443731616, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 17:40:33 CET [19/07/2022 11:40:33 ET]
+Table '3443731616 1' 3-max Siège #2 est au bouton.
+Place 1: alfpacino184 (415 en jetons) 
+Place 2: psychoman59 (485 en jetons) 
+psychoman59 : met la petite blind. 15
+alfpacino184 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à alfpacino184.
+alfpacino184 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : alfpacino184 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237456190986 : Tournoi #3443731616, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 17:40:39 CET [19/07/2022 11:40:39 ET]
+Table '3443731616 1' 3-max Siège #1 est au bouton.
+Place 1: alfpacino184 (430 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+alfpacino184 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 2h]
+alfpacino184 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à alfpacino184.
+alfpacino184 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : alfpacino184 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237456194310 : Tournoi #3443731616, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 17:40:50 CET [19/07/2022 11:40:50 ET]
+Table '3443731616 1' 3-max Siège #2 est au bouton.
+Place 1: alfpacino184 (460 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+psychoman59 : met la petite blind. 20
+alfpacino184 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à alfpacino184.
+alfpacino184 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : alfpacino184 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237456195678 : Tournoi #3443731616, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 17:40:54 CET [19/07/2022 11:40:54 ET]
+Table '3443731616 1' 3-max Siège #1 est au bouton.
+Place 1: alfpacino184 (480 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+alfpacino184 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Kc]
+alfpacino184 : suit. 20
+psychoman59 : relance. 380 à 420 et est all-in.
+alfpacino184 : suit. 380
+*** FLOP *** [Jd 9h 7d]
+*** TOURNANT *** [Jd 9h 7d] [9d]
+*** RIVIÈRE *** [Jd 9h 7d 9d] [7c]
+*** ABATTAGE ***
+psychoman59 : montre [3d Kc] (double paire, Neuf et Sept)
+alfpacino184 : montre [2c 2s] (double paire, Neuf et Sept - plus basse kicker)
+psychoman59 a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [Jd 9h 7d 9d 7c]
+Siège 1 : alfpacino184 (bouton) (petite blind) a montré [2c 2s] et a perdu avec double paire, Neuf et Sept
+Siège 2 : psychoman59 (grosse blind) a montré [3d Kc] et a gagné (840) avec double paire, Neuf et Sept
+
+
+
+Main PokerStars n°237456200370 : Tournoi #3443731616, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 17:41:10 CET [19/07/2022 11:41:10 ET]
+Table '3443731616 1' 3-max Siège #2 est au bouton.
+Place 1: alfpacino184 (60 en jetons) 
+Place 2: psychoman59 (840 en jetons) 
+psychoman59 : met la petite blind. 20
+alfpacino184 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Tc]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à alfpacino184.
+alfpacino184 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : alfpacino184 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237456201965 : Tournoi #3443731616, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 17:41:15 CET [19/07/2022 11:41:15 ET]
+Table '3443731616 1' 3-max Siège #1 est au bouton.
+Place 1: alfpacino184 (80 en jetons) 
+Place 2: psychoman59 (820 en jetons) 
+alfpacino184 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Kc]
+alfpacino184 : relance. 40 à 80 et est all-in.
+psychoman59 : suit. 40
+*** FLOP *** [5d 5s 7s]
+*** TOURNANT *** [5d 5s 7s] [6s]
+*** RIVIÈRE *** [5d 5s 7s 6s] [3s]
+*** ABATTAGE ***
+psychoman59 : montre [Ad Kc] (une paire de Cinq)
+alfpacino184 : montre [9s Kh] (une couleur, hauteur Neuf)
+alfpacino184 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [5d 5s 7s 6s 3s]
+Siège 1 : alfpacino184 (bouton) (petite blind) a montré [9s Kh] et a gagné (160) avec une couleur, hauteur Neuf
+Siège 2 : psychoman59 (grosse blind) a montré [Ad Kc] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°237456205565 : Tournoi #3443731616, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 17:41:27 CET [19/07/2022 11:41:27 ET]
+Table '3443731616 1' 3-max Siège #2 est au bouton.
+Place 1: alfpacino184 (160 en jetons) 
+Place 2: psychoman59 (740 en jetons) 
+psychoman59 : met la petite blind. 20
+alfpacino184 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 8c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à alfpacino184.
+alfpacino184 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : alfpacino184 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237456206936 : Tournoi #3443731616, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 17:41:32 CET [19/07/2022 11:41:32 ET]
+Table '3443731616 1' 3-max Siège #1 est au bouton.
+Place 1: alfpacino184 (180 en jetons) 
+Place 2: psychoman59 (720 en jetons) 
+alfpacino184 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ad]
+alfpacino184 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : alfpacino184 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237456208464 : Tournoi #3443731616, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 17:41:37 CET [19/07/2022 11:41:37 ET]
+Table '3443731616 1' 3-max Siège #2 est au bouton.
+Place 1: alfpacino184 (160 en jetons) 
+Place 2: psychoman59 (740 en jetons) 
+psychoman59 : met la petite blind. 20
+alfpacino184 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Ac]
+psychoman59 : relance. 80 à 120
+alfpacino184 : relance. 40 à 160 et est all-in.
+psychoman59 : suit. 40
+*** FLOP *** [Qd 2s Jc]
+*** TOURNANT *** [Qd 2s Jc] [8c]
+*** RIVIÈRE *** [Qd 2s Jc 8c] [Qc]
+*** ABATTAGE ***
+alfpacino184 : montre [7c 9d] (une paire de Dames)
+psychoman59 : montre [4s Ac] (une paire de Dames - As kicker)
+psychoman59 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Qd 2s Jc 8c Qc]
+Siège 1 : alfpacino184 (grosse blind) a montré [7c 9d] et a perdu avec une paire de Dames
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [4s Ac] et a gagné (320) avec une paire de Dames
+
+
+

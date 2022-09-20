@@ -1,0 +1,30 @@
+﻿Main PokerStars n°237593357906 : Tournoi #3446865348, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 9:54:21 CET [26/07/2022 3:54:21 ET]
+Table '3446865348 1' 3-max Siège #1 est au bouton.
+Place 1: clement conraud (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: turbelin (300 en jetons) 
+psychoman59 : met la petite blind. 10
+turbelin : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Ad]
+clement conraud : passe. 
+psychoman59 : relance. 40 à 60
+turbelin : relance. 40 à 100
+psychoman59 : relance. 200 à 300 et est all-in.
+turbelin : suit. 200 et est all-in.
+*** FLOP *** [4h 9s 5c]
+*** TOURNANT *** [4h 9s 5c] [Qd]
+*** RIVIÈRE *** [4h 9s 5c Qd] [2d]
+*** ABATTAGE ***
+psychoman59 : montre [Ks Ad] (Hauteur As)
+turbelin : montre [Tc Qc] (une paire de Dames)
+turbelin a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [4h 9s 5c Qd 2d]
+Siège 1 : clement conraud (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Ks Ad] et a perdu avec Hauteur As
+Siège 3 : turbelin (grosse blind) a montré [Tc Qc] et a gagné (600) avec une paire de Dames
+
+
+

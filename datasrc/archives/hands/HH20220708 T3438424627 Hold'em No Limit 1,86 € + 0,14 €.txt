@@ -1,0 +1,139 @@
+﻿Main PokerStars n°237229581699 : Tournoi #3438424627, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 9:53:07 CET [08/07/2022 3:53:07 ET]
+Table '3438424627 1' 3-max Siège #1 est au bouton.
+Place 1: CZP29 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Winarnax (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Winarnax : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ah]
+CZP29 : suit. 20
+psychoman59 : suit. 10
+Winarnax : parole 
+*** FLOP *** [Qd 7s Ts]
+psychoman59 : parole 
+Winarnax : parole 
+CZP29 : mise. 20
+psychoman59 : passe. 
+Winarnax : passe. 
+Personne n'a suivi. (20) sont retournés à CZP29.
+CZP29 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qd 7s Ts]
+Siège 1 : CZP29 (bouton) a remporté (60)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : Winarnax (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237229583896 : Tournoi #3438424627, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 9:53:26 CET [08/07/2022 3:53:26 ET]
+Table '3438424627 1' 3-max Siège #2 est au bouton.
+Place 1: CZP29 (340 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+Place 3: Winarnax (280 en jetons) 
+Winarnax : met la petite blind. 10
+CZP29 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Ts]
+psychoman59 : suit. 20
+Winarnax : passe. 
+CZP29 : parole 
+*** FLOP *** [5c 2d 8h]
+CZP29 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5c 2d 8h] [Kc]
+CZP29 : parole 
+psychoman59 : mise. 50
+CZP29 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [5c 2d 8h Kc]
+Siège 1 : CZP29 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) a remporté (50)
+Siège 3 : Winarnax (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237229586793 : Tournoi #3438424627, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 9:53:51 CET [08/07/2022 3:53:51 ET]
+Table '3438424627 1' 3-max Siège #3 est au bouton.
+Place 1: CZP29 (320 en jetons) 
+Place 2: psychoman59 (310 en jetons) 
+Place 3: Winarnax (270 en jetons) 
+CZP29 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 7h]
+Winarnax : relance. 250 à 270 et est all-in.
+CZP29 : suit. 260
+psychoman59 : passe. 
+*** FLOP *** [Qd Ts 8s]
+*** TOURNANT *** [Qd Ts 8s] [7d]
+*** RIVIÈRE *** [Qd Ts 8s 7d] [Ac]
+*** ABATTAGE ***
+CZP29 : montre [9h Ah] (une paire de As)
+Winarnax : montre [Th Kc] (une paire de Dix)
+CZP29 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Qd Ts 8s 7d Ac]
+Siège 1 : CZP29 (petite blind) a montré [9h Ah] et a gagné (560) avec une paire de As
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Winarnax (bouton) a montré [Th Kc] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°237229589635 : Tournoi #3438424627, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2022 9:54:14 CET [08/07/2022 3:54:14 ET]
+Table '3438424627 1' 3-max Siège #2 est au bouton.
+Place 1: CZP29 (610 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+psychoman59 : met la petite blind. 15
+CZP29 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh As]
+psychoman59 : relance. 260 à 290 et est all-in.
+CZP29 : suit. 260
+*** FLOP *** [2c 7s 9d]
+*** TOURNANT *** [2c 7s 9d] [Ad]
+*** RIVIÈRE *** [2c 7s 9d Ad] [Kc]
+*** ABATTAGE ***
+CZP29 : montre [Ac 8c] (une paire de As)
+psychoman59 : montre [Kh As] (double paire, As et Rois)
+psychoman59 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [2c 7s 9d Ad Kc]
+Siège 1 : CZP29 (grosse blind) a montré [Ac 8c] et a perdu avec une paire de As
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Kh As] et a gagné (580) avec double paire, As et Rois
+
+
+
+Main PokerStars n°237229591381 : Tournoi #3438424627, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2022 9:54:28 CET [08/07/2022 3:54:28 ET]
+Table '3438424627 1' 3-max Siège #1 est au bouton.
+Place 1: CZP29 (320 en jetons) 
+Place 2: psychoman59 (580 en jetons) 
+CZP29 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Ah]
+CZP29 : suit. 15
+psychoman59 : relance. 90 à 120
+CZP29 : relance. 200 à 320 et est all-in.
+psychoman59 : suit. 200
+*** FLOP *** [7d 2d 8s]
+*** TOURNANT *** [7d 2d 8s] [Kh]
+*** RIVIÈRE *** [7d 2d 8s Kh] [5d]
+*** ABATTAGE ***
+psychoman59 : montre [Kd Ah] (une paire de Rois)
+CZP29 : montre [6h 7s] (une paire de Sept)
+psychoman59 a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [7d 2d 8s Kh 5d]
+Siège 1 : CZP29 (bouton) (petite blind) a montré [6h 7s] et a perdu avec une paire de Sept
+Siège 2 : psychoman59 (grosse blind) a montré [Kd Ah] et a gagné (640) avec une paire de Rois
+
+
+

@@ -1,0 +1,233 @@
+﻿Main PokerStars n°237292021159 : Tournoi #3439885497, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 13:34:04 CET [11/07/2022 7:34:04 ET]
+Table '3439885497 1' 3-max Siège #1 est au bouton.
+Place 1: Tropicana483 (300 en jetons) 
+Place 2: gobroke-mike29 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+gobroke-mike29 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 4h]
+Tropicana483 : relance. 280 à 300 et est all-in.
+gobroke-mike29 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (280) sont retournés à Tropicana483.
+Tropicana483 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : Tropicana483 (bouton) a remporté (50)
+Siège 2 : gobroke-mike29 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237292022973 : Tournoi #3439885497, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 13:34:14 CET [11/07/2022 7:34:14 ET]
+Table '3439885497 1' 3-max Siège #2 est au bouton.
+Place 1: Tropicana483 (330 en jetons) 
+Place 2: gobroke-mike29 (290 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+Tropicana483 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 3h]
+gobroke-mike29 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Tropicana483.
+Tropicana483 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Tropicana483 (grosse blind) a remporté (20)
+Siège 2 : gobroke-mike29 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237292024471 : Tournoi #3439885497, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 13:34:22 CET [11/07/2022 7:34:22 ET]
+Table '3439885497 1' 3-max Siège #3 est au bouton.
+Place 1: Tropicana483 (340 en jetons) 
+Place 2: gobroke-mike29 (290 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+Tropicana483 : met la petite blind. 10
+gobroke-mike29 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 7d]
+psychoman59 : passe. 
+Tropicana483 : relance. 320 à 340 et est all-in.
+gobroke-mike29 : suit. 270 et est all-in.
+Personne n'a suivi. (50) sont retournés à Tropicana483.
+*** FLOP *** [Qc 7s Jh]
+*** TOURNANT *** [Qc 7s Jh] [6c]
+*** RIVIÈRE *** [Qc 7s Jh 6c] [Tc]
+*** ABATTAGE ***
+Tropicana483 : montre [Kc 8c] (une couleur, hauteur Roi)
+gobroke-mike29 : montre [4c Kh] (Hauteur Roi)
+Tropicana483 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [Qc 7s Jh 6c Tc]
+Siège 1 : Tropicana483 (petite blind) a montré [Kc 8c] et a gagné (580) avec une couleur, hauteur Roi
+Siège 2 : gobroke-mike29 (grosse blind) a montré [4c Kh] et a perdu avec Hauteur Roi
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237292027943 : Tournoi #3439885497, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 13:34:42 CET [11/07/2022 7:34:42 ET]
+Table '3439885497 1' 3-max Siège #1 est au bouton.
+Place 1: Tropicana483 (630 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+Tropicana483 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Ac]
+Tropicana483 : suit. 10
+psychoman59 : relance. 250 à 270 et est all-in.
+Tropicana483 : suit. 250
+*** FLOP *** [Th 7h 6c]
+*** TOURNANT *** [Th 7h 6c] [9s]
+*** RIVIÈRE *** [Th 7h 6c 9s] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [3s Ac] (une paire de Neuf)
+Tropicana483 : montre [3c Qh] (une paire de Neuf - plus basse kicker)
+psychoman59 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [Th 7h 6c 9s 9c]
+Siège 1 : Tropicana483 (bouton) (petite blind) a montré [3c Qh] et a perdu avec une paire de Neuf
+Siège 3 : psychoman59 (grosse blind) a montré [3s Ac] et a gagné (540) avec une paire de Neuf
+
+
+
+Main PokerStars n°237292030681 : Tournoi #3439885497, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 13:34:57 CET [11/07/2022 7:34:57 ET]
+Table '3439885497 1' 3-max Siège #3 est au bouton.
+Place 1: Tropicana483 (360 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+psychoman59 : met la petite blind. 10
+Tropicana483 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Tropicana483.
+Tropicana483 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Tropicana483 (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237292031726 : Tournoi #3439885497, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 13:35:03 CET [11/07/2022 7:35:03 ET]
+Table '3439885497 1' 3-max Siège #1 est au bouton.
+Place 1: Tropicana483 (370 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+Tropicana483 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 2d]
+Tropicana483 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qc 3h 7c]
+psychoman59 : parole 
+Tropicana483 : parole 
+*** TOURNANT *** [Qc 3h 7c] [6c]
+psychoman59 : parole 
+Tropicana483 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Tropicana483.
+Tropicana483 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qc 3h 7c 6c]
+Siège 1 : Tropicana483 (bouton) (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237292035313 : Tournoi #3439885497, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 13:35:24 CET [11/07/2022 7:35:24 ET]
+Table '3439885497 1' 3-max Siège #3 est au bouton.
+Place 1: Tropicana483 (390 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 15
+Tropicana483 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d As]
+psychoman59 : relance. 480 à 510 et est all-in.
+Tropicana483 : passe. 
+Personne n'a suivi. (480) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Tropicana483 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237292037338 : Tournoi #3439885497, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 13:35:35 CET [11/07/2022 7:35:35 ET]
+Table '3439885497 1' 3-max Siège #1 est au bouton.
+Place 1: Tropicana483 (360 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+Tropicana483 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ks]
+Tropicana483 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qc 3c Jc]
+psychoman59 : parole 
+Tropicana483 : mise. 330 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (330) sont retournés à Tropicana483.
+Tropicana483 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qc 3c Jc]
+Siège 1 : Tropicana483 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237292039893 : Tournoi #3439885497, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 13:35:49 CET [11/07/2022 7:35:49 ET]
+Table '3439885497 1' 3-max Siège #3 est au bouton.
+Place 1: Tropicana483 (390 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 15
+Tropicana483 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Tropicana483.
+Tropicana483 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Tropicana483 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237292040981 : Tournoi #3439885497, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 13:35:56 CET [11/07/2022 7:35:56 ET]
+Table '3439885497 1' 3-max Siège #1 est au bouton.
+Place 1: Tropicana483 (405 en jetons) 
+Place 3: psychoman59 (495 en jetons) 
+Tropicana483 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac As]
+Tropicana483 : suit. 15
+psychoman59 : relance. 60 à 90
+Tropicana483 : suit. 60
+*** FLOP *** [8c Jc 5h]
+psychoman59 : parole 
+Tropicana483 : mise. 315 et est all-in.
+psychoman59 : suit. 315
+*** TOURNANT *** [8c Jc 5h] [6d]
+*** RIVIÈRE *** [8c Jc 5h 6d] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [Ac As] (une paire de As)
+Tropicana483 : montre [3c Qs] (Hauteur Dame)
+psychoman59 a remporté 810  lors du pot .
+*** SYNTHÈSE ***
+Pot total 810 | Commission 0 
+Tableau [8c Jc 5h 6d 2h]
+Siège 1 : Tropicana483 (bouton) (petite blind) a montré [3c Qs] et a perdu avec Hauteur Dame
+Siège 3 : psychoman59 (grosse blind) a montré [Ac As] et a gagné (810) avec une paire de As
+
+
+

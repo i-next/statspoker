@@ -1,0 +1,272 @@
+﻿Main PokerStars n°237228765321 : Tournoi #3438402768, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 7:51:59 CET [08/07/2022 1:51:59 ET]
+Table '3438402768 1' 3-max Siège #1 est au bouton.
+Place 1: LeBulbe14 (300 en jetons) 
+Place 2: bibipoks36 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+bibipoks36 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 2s]
+LeBulbe14 : suit. 20
+bibipoks36 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7h 8c 5c]
+bibipoks36 : parole 
+psychoman59 : parole 
+LeBulbe14 : parole 
+*** TOURNANT *** [7h 8c 5c] [Ah]
+bibipoks36 : parole 
+psychoman59 : parole 
+LeBulbe14 : parole 
+*** RIVIÈRE *** [7h 8c 5c Ah] [6c]
+bibipoks36 : parole 
+psychoman59 : parole 
+LeBulbe14 : parole 
+*** ABATTAGE ***
+bibipoks36 : montre [3c Td] (Hauteur As)
+psychoman59 : montre [Qs 2s] (Hauteur As - Dame kicker)
+LeBulbe14 : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7h 8c 5c Ah 6c]
+Siège 1 : LeBulbe14 (bouton) a caché la main perdante. [Jh 2c]
+Siège 2 : bibipoks36 (petite blind) a montré [3c Td] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [Qs 2s] et a gagné (60) avec Hauteur As
+
+
+
+Main PokerStars n°237228768359 : Tournoi #3438402768, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 7:52:26 CET [08/07/2022 1:52:26 ET]
+Table '3438402768 1' 3-max Siège #2 est au bouton.
+Place 1: LeBulbe14 (280 en jetons) 
+Place 2: bibipoks36 (280 en jetons) 
+Place 3: psychoman59 (340 en jetons) 
+psychoman59 : met la petite blind. 10
+LeBulbe14 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h As]
+bibipoks36 : passe. 
+psychoman59 : suit. 10
+LeBulbe14 : parole 
+*** FLOP *** [6c Qh 9d]
+psychoman59 : parole 
+LeBulbe14 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à LeBulbe14.
+LeBulbe14 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [6c Qh 9d]
+Siège 1 : LeBulbe14 (grosse blind) a remporté (40)
+Siège 2 : bibipoks36 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237228771299 : Tournoi #3438402768, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 7:52:52 CET [08/07/2022 1:52:52 ET]
+Table '3438402768 1' 3-max Siège #3 est au bouton.
+Place 1: LeBulbe14 (300 en jetons) 
+Place 2: bibipoks36 (280 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+LeBulbe14 : met la petite blind. 10
+bibipoks36 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 3c]
+psychoman59 : passe. 
+LeBulbe14 : suit. 10
+bibipoks36 : parole 
+*** FLOP *** [Kd 5h 6h]
+LeBulbe14 : parole 
+bibipoks36 : mise. 40
+LeBulbe14 : suit. 40
+*** TOURNANT *** [Kd 5h 6h] [Js]
+LeBulbe14 : parole 
+bibipoks36 : mise. 60
+LeBulbe14 : relance. 60 à 120
+bibipoks36 : passe. 
+Personne n'a suivi. (60) sont retournés à LeBulbe14.
+LeBulbe14 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Kd 5h 6h Js]
+Siège 1 : LeBulbe14 (petite blind) a remporté (240)
+Siège 2 : bibipoks36 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237228775938 : Tournoi #3438402768, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2022 7:53:34 CET [08/07/2022 1:53:34 ET]
+Table '3438402768 1' 3-max Siège #1 est au bouton.
+Place 1: LeBulbe14 (420 en jetons) 
+Place 2: bibipoks36 (160 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+bibipoks36 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Qs]
+LeBulbe14 : suit. 30
+bibipoks36 : relance. 130 à 160 et est all-in.
+psychoman59 : passe. 
+LeBulbe14 : suit. 130
+*** FLOP *** [7c 8h 8d]
+*** TOURNANT *** [7c 8h 8d] [5d]
+*** RIVIÈRE *** [7c 8h 8d 5d] [8s]
+*** ABATTAGE ***
+bibipoks36 : montre [Ac Jc] (un brelan de Huit)
+LeBulbe14 : montre [7s 6s] (un full, full aux Huit par les Sept)
+LeBulbe14 a remporté 350  lors du pot .
+*** SYNTHÈSE ***
+Pot total 350 | Commission 0 
+Tableau [7c 8h 8d 5d 8s]
+Siège 1 : LeBulbe14 (bouton) a montré [7s 6s] et a gagné (350) avec un full, full aux Huit par les Sept
+Siège 2 : bibipoks36 (petite blind) a montré [Ac Jc] et a perdu avec un brelan de Huit
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237228778415 : Tournoi #3438402768, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2022 7:53:57 CET [08/07/2022 1:53:57 ET]
+Table '3438402768 1' 3-max Siège #3 est au bouton.
+Place 1: LeBulbe14 (610 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+psychoman59 : met la petite blind. 15
+LeBulbe14 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd As]
+psychoman59 : relance. 260 à 290 et est all-in.
+LeBulbe14 : passe. 
+Personne n'a suivi. (260) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : LeBulbe14 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237228780050 : Tournoi #3438402768, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 7:54:11 CET [08/07/2022 1:54:11 ET]
+Table '3438402768 1' 3-max Siège #1 est au bouton.
+Place 1: LeBulbe14 (580 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+LeBulbe14 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 3c]
+LeBulbe14 : relance. 40 à 80
+psychoman59 : suit. 40
+*** FLOP *** [3s Ks Jc]
+psychoman59 : parole 
+LeBulbe14 : parole 
+*** TOURNANT *** [3s Ks Jc] [Qh]
+psychoman59 : parole 
+LeBulbe14 : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à LeBulbe14.
+LeBulbe14 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [3s Ks Jc Qh]
+Siège 1 : LeBulbe14 (bouton) (petite blind) a remporté (160)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237228782513 : Tournoi #3438402768, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 7:54:34 CET [08/07/2022 1:54:34 ET]
+Table '3438402768 1' 3-max Siège #3 est au bouton.
+Place 1: LeBulbe14 (660 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+psychoman59 : met la petite blind. 20
+LeBulbe14 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à LeBulbe14.
+LeBulbe14 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : LeBulbe14 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237228783117 : Tournoi #3438402768, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 7:54:39 CET [08/07/2022 1:54:39 ET]
+Table '3438402768 1' 3-max Siège #1 est au bouton.
+Place 1: LeBulbe14 (680 en jetons) 
+Place 3: psychoman59 (220 en jetons) 
+LeBulbe14 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 9d]
+LeBulbe14 : relance. 40 à 80
+psychoman59 : relance. 140 à 220 et est all-in.
+LeBulbe14 : suit. 140
+*** FLOP *** [Kh Kc 7s]
+*** TOURNANT *** [Kh Kc 7s] [9c]
+*** RIVIÈRE *** [Kh Kc 7s 9c] [Qh]
+*** ABATTAGE ***
+psychoman59 : montre [Ks 9d] (un full, full aux Rois par les Neuf)
+LeBulbe14 : montre [5c 6d] (une paire de Rois)
+psychoman59 a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [Kh Kc 7s 9c Qh]
+Siège 1 : LeBulbe14 (bouton) (petite blind) a montré [5c 6d] et a perdu avec une paire de Rois
+Siège 3 : psychoman59 (grosse blind) a montré [Ks 9d] et a gagné (440) avec un full, full aux Rois par les Neuf
+
+
+
+Main PokerStars n°237228784977 : Tournoi #3438402768, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 7:54:56 CET [08/07/2022 1:54:56 ET]
+Table '3438402768 1' 3-max Siège #3 est au bouton.
+Place 1: LeBulbe14 (460 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+psychoman59 : met la petite blind. 20
+LeBulbe14 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ac]
+psychoman59 : relance. 80 à 120
+LeBulbe14 : suit. 80
+*** FLOP *** [6d 7c 9c]
+LeBulbe14 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6d 7c 9c] [5c]
+LeBulbe14 : mise. 120
+psychoman59 : suit. 120
+*** RIVIÈRE *** [6d 7c 9c 5c] [2c]
+LeBulbe14 : mise. 220 et est all-in.
+psychoman59 : suit. 200 et est all-in.
+Personne n'a suivi. (20) sont retournés à LeBulbe14.
+*** ABATTAGE ***
+LeBulbe14 : montre [6s 9d] (double paire, Neuf et Six)
+psychoman59 : montre [Qh Ac] (une couleur, hauteur As)
+psychoman59 a remporté 880  lors du pot .
+*** SYNTHÈSE ***
+Pot total 880 | Commission 0 
+Tableau [6d 7c 9c 5c 2c]
+Siège 1 : LeBulbe14 (grosse blind) a montré [6s 9d] et a perdu avec double paire, Neuf et Six
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Qh Ac] et a gagné (880) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°237228788770 : Tournoi #3438402768, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/07/2022 7:55:33 CET [08/07/2022 1:55:33 ET]
+Table '3438402768 1' 3-max Siège #1 est au bouton.
+Place 1: LeBulbe14 (20 en jetons) 
+Place 3: psychoman59 (880 en jetons) 
+LeBulbe14 : met la petite blind. 20 et est all-in.
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 7d]
+Personne n'a suivi. (40) sont retournés à psychoman59.
+*** FLOP *** [5d Jc 3h]
+*** TOURNANT *** [5d Jc 3h] [9d]
+*** RIVIÈRE *** [5d Jc 3h 9d] [6h]
+*** ABATTAGE ***
+psychoman59 : montre [8d 7d] (une suite, Cinq à Neuf)
+LeBulbe14 : montre [9c 2c] (une paire de Neuf)
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5d Jc 3h 9d 6h]
+Siège 1 : LeBulbe14 (bouton) (petite blind) a montré [9c 2c] et a perdu avec une paire de Neuf
+Siège 3 : psychoman59 (grosse blind) a montré [8d 7d] et a gagné (40) avec une suite, Cinq à Neuf
+
+
+

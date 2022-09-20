@@ -1,0 +1,423 @@
+﻿Main PokerStars n°237758289387 : Tournoi #3450722923, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/08/2022 9:02:41 CET [03/08/2022 3:02:41 ET]
+Table '3450722923 1' 3-max Siège #1 est au bouton.
+Place 1: rulo21289 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: san29610 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+san29610 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 8s]
+rulo21289 : relance. 20 à 40
+psychoman59 : passe. 
+san29610 : suit. 20
+*** FLOP *** [8d Ac 7s]
+san29610 : parole 
+rulo21289 : mise. 45
+san29610 : passe. 
+Personne n'a suivi. (45) sont retournés à rulo21289.
+rulo21289 a remporté 90  lors du pot .
+rulo21289 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [8d Ac 7s]
+Siège 1 : rulo21289 (bouton) a remporté (90)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : san29610 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237758291729 : Tournoi #3450722923, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/08/2022 9:03:02 CET [03/08/2022 3:03:02 ET]
+Table '3450722923 1' 3-max Siège #2 est au bouton.
+Place 1: rulo21289 (350 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: san29610 (260 en jetons) 
+san29610 : met la petite blind. 10
+rulo21289 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ks]
+psychoman59 : relance. 20 à 40
+san29610 : suit. 30
+rulo21289 : passe. 
+*** FLOP *** [Qs 6h Js]
+san29610 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [Qs 6h Js] [5s]
+san29610 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Qs 6h Js 5s] [2d]
+san29610 : mise. 20
+psychoman59 : relance. 110 à 130
+san29610 : passe. 
+Personne n'a suivi. (110) sont retournés à psychoman59.
+psychoman59 a remporté 220  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [Qs 6h Js 5s 2d]
+Siège 1 : rulo21289 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (220)
+Siège 3 : san29610 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237758294641 : Tournoi #3450722923, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/08/2022 9:03:30 CET [03/08/2022 3:03:30 ET]
+Table '3450722923 1' 3-max Siège #3 est au bouton.
+Place 1: rulo21289 (330 en jetons) 
+Place 2: psychoman59 (410 en jetons) 
+Place 3: san29610 (160 en jetons) 
+rulo21289 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 5d]
+san29610 : suit. 20
+rulo21289 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2c 3d 6h]
+rulo21289 : parole 
+psychoman59 : parole 
+san29610 : parole 
+*** TOURNANT *** [2c 3d 6h] [Th]
+rulo21289 : parole 
+psychoman59 : parole 
+san29610 : parole 
+*** RIVIÈRE *** [2c 3d 6h Th] [6d]
+rulo21289 : parole 
+psychoman59 : parole 
+san29610 : parole 
+*** ABATTAGE ***
+rulo21289 : montre [5s Ah] (une paire de Six)
+psychoman59 : cache la main perdante. 
+san29610 : cache la main perdante. 
+rulo21289 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2c 3d 6h Th 6d]
+Siège 1 : rulo21289 (petite blind) a montré [5s Ah] et a gagné (60) avec une paire de Six
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [9d 5d]
+Siège 3 : san29610 (bouton) a caché la main perdante. [Jh 5h]
+
+
+
+Main PokerStars n°237758297650 : Tournoi #3450722923, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/08/2022 9:03:58 CET [03/08/2022 3:03:58 ET]
+Table '3450722923 1' 3-max Siège #1 est au bouton.
+Place 1: rulo21289 (370 en jetons) 
+Place 2: psychoman59 (390 en jetons) 
+Place 3: san29610 (140 en jetons) 
+psychoman59 : met la petite blind. 15
+san29610 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 8d]
+rulo21289 : relance. 30 à 60
+psychoman59 : passe. 
+san29610 : suit. 30
+*** FLOP *** [7s 3h 7d]
+san29610 : parole 
+rulo21289 : mise. 60
+san29610 : passe. 
+Personne n'a suivi. (60) sont retournés à rulo21289.
+rulo21289 a remporté 135  lors du pot .
+rulo21289 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [7s 3h 7d]
+Siège 1 : rulo21289 (bouton) a remporté (135)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : san29610 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237758300100 : Tournoi #3450722923, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/08/2022 9:04:22 CET [03/08/2022 3:04:22 ET]
+Table '3450722923 1' 3-max Siège #2 est au bouton.
+Place 1: rulo21289 (445 en jetons) 
+Place 2: psychoman59 (375 en jetons) 
+Place 3: san29610 (80 en jetons) 
+san29610 : met la petite blind. 15
+rulo21289 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Jh]
+psychoman59 : suit. 30
+san29610 : relance. 50 à 80 et est all-in.
+rulo21289 : passe. 
+psychoman59 : suit. 50
+*** FLOP *** [3s Kh 4c]
+*** TOURNANT *** [3s Kh 4c] [4h]
+*** RIVIÈRE *** [3s Kh 4c 4h] [Kd]
+*** ABATTAGE ***
+san29610 : montre [Jd Ts] (double paire, Rois et Quatre)
+psychoman59 : montre [Qd Jh] (double paire, Rois et Quatre - Dame kicker)
+psychoman59 a remporté 190  lors du pot .
+san29610 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Tableau [3s Kh 4c 4h Kd]
+Siège 1 : rulo21289 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a montré [Qd Jh] et a gagné (190) avec double paire, Rois et Quatre
+Siège 3 : san29610 (petite blind) a montré [Jd Ts] et a perdu avec double paire, Rois et Quatre
+
+
+
+Main PokerStars n°237758302665 : Tournoi #3450722923, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/08/2022 9:04:46 CET [03/08/2022 3:04:46 ET]
+Table '3450722923 1' 3-max Siège #1 est au bouton.
+Place 1: rulo21289 (415 en jetons) 
+Place 2: psychoman59 (485 en jetons) 
+rulo21289 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 9s]
+rulo21289 : relance. 375 à 415 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (375) sont retournés à rulo21289.
+rulo21289 a remporté 80  lors du pot .
+rulo21289 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : rulo21289 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237758303745 : Tournoi #3450722923, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/08/2022 9:04:56 CET [03/08/2022 3:04:56 ET]
+Table '3450722923 1' 3-max Siège #2 est au bouton.
+Place 1: rulo21289 (455 en jetons) 
+Place 2: psychoman59 (445 en jetons) 
+psychoman59 : met la petite blind. 20
+rulo21289 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à rulo21289.
+rulo21289 a remporté 40  lors du pot .
+rulo21289 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : rulo21289 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237758304510 : Tournoi #3450722923, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/08/2022 9:05:04 CET [03/08/2022 3:05:04 ET]
+Table '3450722923 1' 3-max Siège #1 est au bouton.
+Place 1: rulo21289 (475 en jetons) 
+Place 2: psychoman59 (425 en jetons) 
+rulo21289 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 6c]
+rulo21289 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : rulo21289 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237758305360 : Tournoi #3450722923, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/08/2022 9:05:12 CET [03/08/2022 3:05:12 ET]
+Table '3450722923 1' 3-max Siège #2 est au bouton.
+Place 1: rulo21289 (455 en jetons) 
+Place 2: psychoman59 (445 en jetons) 
+psychoman59 : met la petite blind. 20
+rulo21289 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Jc]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à rulo21289.
+rulo21289 a remporté 40  lors du pot .
+rulo21289 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : rulo21289 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237758305853 : Tournoi #3450722923, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/08/2022 9:05:16 CET [03/08/2022 3:05:16 ET]
+Table '3450722923 1' 3-max Siège #1 est au bouton.
+Place 1: rulo21289 (475 en jetons) 
+Place 2: psychoman59 (425 en jetons) 
+rulo21289 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 4s]
+rulo21289 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : rulo21289 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237758306467 : Tournoi #3450722923, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/08/2022 9:05:22 CET [03/08/2022 3:05:22 ET]
+Table '3450722923 1' 3-max Siège #2 est au bouton.
+Place 1: rulo21289 (455 en jetons) 
+Place 2: psychoman59 (445 en jetons) 
+psychoman59 : met la petite blind. 20
+rulo21289 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Td]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à rulo21289.
+rulo21289 a remporté 40  lors du pot .
+rulo21289 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : rulo21289 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237758306979 : Tournoi #3450722923, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/08/2022 9:05:27 CET [03/08/2022 3:05:27 ET]
+Table '3450722923 1' 3-max Siège #1 est au bouton.
+Place 1: rulo21289 (475 en jetons) 
+Place 2: psychoman59 (425 en jetons) 
+rulo21289 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 3c]
+rulo21289 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : rulo21289 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237758307445 : Tournoi #3450722923, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/08/2022 9:05:31 CET [03/08/2022 3:05:31 ET]
+Table '3450722923 1' 3-max Siège #2 est au bouton.
+Place 1: rulo21289 (455 en jetons) 
+Place 2: psychoman59 (445 en jetons) 
+psychoman59 : met la petite blind. 20
+rulo21289 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 8h]
+psychoman59 : relance. 405 à 445 et est all-in.
+rulo21289 : passe. 
+Personne n'a suivi. (405) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : rulo21289 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237758308510 : Tournoi #3450722923, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/08/2022 9:05:41 CET [03/08/2022 3:05:41 ET]
+Table '3450722923 1' 3-max Siège #1 est au bouton.
+Place 1: rulo21289 (415 en jetons) 
+Place 2: psychoman59 (485 en jetons) 
+rulo21289 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 5d]
+rulo21289 : relance. 375 à 415 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (375) sont retournés à rulo21289.
+rulo21289 a remporté 80  lors du pot .
+rulo21289 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : rulo21289 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237758310056 : Tournoi #3450722923, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/08/2022 9:05:56 CET [03/08/2022 3:05:56 ET]
+Table '3450722923 1' 3-max Siège #2 est au bouton.
+Place 1: rulo21289 (455 en jetons) 
+Place 2: psychoman59 (445 en jetons) 
+psychoman59 : met la petite blind. 30
+rulo21289 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Qc]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à rulo21289.
+rulo21289 a remporté 60  lors du pot .
+rulo21289 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : rulo21289 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237758310610 : Tournoi #3450722923, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/08/2022 9:06:01 CET [03/08/2022 3:06:01 ET]
+Table '3450722923 1' 3-max Siège #1 est au bouton.
+Place 1: rulo21289 (485 en jetons) 
+Place 2: psychoman59 (415 en jetons) 
+rulo21289 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 4c]
+rulo21289 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Qh 4h As]
+psychoman59 : parole 
+rulo21289 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à rulo21289.
+rulo21289 a remporté 120  lors du pot .
+rulo21289 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qh 4h As]
+Siège 1 : rulo21289 (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237758312444 : Tournoi #3450722923, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/08/2022 9:06:18 CET [03/08/2022 3:06:18 ET]
+Table '3450722923 1' 3-max Siège #2 est au bouton.
+Place 1: rulo21289 (545 en jetons) 
+Place 2: psychoman59 (355 en jetons) 
+psychoman59 : met la petite blind. 30
+rulo21289 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à rulo21289.
+rulo21289 a remporté 60  lors du pot .
+rulo21289 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : rulo21289 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237758312940 : Tournoi #3450722923, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/08/2022 9:06:23 CET [03/08/2022 3:06:23 ET]
+Table '3450722923 1' 3-max Siège #1 est au bouton.
+Place 1: rulo21289 (575 en jetons) 
+Place 2: psychoman59 (325 en jetons) 
+rulo21289 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 6h]
+rulo21289 : relance. 515 à 575 et est all-in.
+psychoman59 : suit. 265 et est all-in.
+Personne n'a suivi. (250) sont retournés à rulo21289.
+*** FLOP *** [7c 4h 8c]
+*** TOURNANT *** [7c 4h 8c] [Ad]
+*** RIVIÈRE *** [7c 4h 8c Ad] [Jh]
+*** ABATTAGE ***
+psychoman59 : montre [Ks 6h] (Hauteur As)
+rulo21289 : montre [9s Kc] (Hauteur As - Roi+Valet+Neuf kicker)
+rulo21289 a remporté 650  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+rulo21289 remporte le tournoi et reçoit 0.75 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 650 | Commission 0 
+Tableau [7c 4h 8c Ad Jh]
+Siège 1 : rulo21289 (bouton) (petite blind) a montré [9s Kc] et a gagné (650) avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) a montré [Ks 6h] et a perdu avec Hauteur As
+
+
+

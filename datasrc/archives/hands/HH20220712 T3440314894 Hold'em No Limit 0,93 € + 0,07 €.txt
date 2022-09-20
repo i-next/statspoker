@@ -1,0 +1,385 @@
+﻿Main PokerStars n°237310250860 : Tournoi #3440314894, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/07/2022 10:32:36 CET [12/07/2022 4:32:36 ET]
+Table '3440314894 1' 3-max Siège #1 est au bouton.
+Place 1: marlonscheck (300 en jetons) 
+Place 2: zeub75 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+zeub75 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 7c]
+marlonscheck : suit. 20
+zeub75 : passe. 
+psychoman59 : parole 
+*** FLOP *** [4h 3s 3h]
+psychoman59 : parole 
+marlonscheck : mise. 25
+psychoman59 : suit. 25
+*** TOURNANT *** [4h 3s 3h] [Kh]
+psychoman59 : parole 
+marlonscheck : parole 
+*** RIVIÈRE *** [4h 3s 3h Kh] [7d]
+psychoman59 : mise. 100
+marlonscheck : suit. 100
+*** ABATTAGE ***
+psychoman59 : montre [As 7c] (double paire, Sept et Trois)
+marlonscheck : cache la main perdante. 
+psychoman59 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [4h 3s 3h Kh 7d]
+Siège 1 : marlonscheck (bouton) a caché la main perdante. [4c Qh]
+Siège 2 : zeub75 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [As 7c] et a gagné (300) avec double paire, Sept et Trois
+
+
+
+Main PokerStars n°237310254724 : Tournoi #3440314894, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/07/2022 10:33:07 CET [12/07/2022 4:33:07 ET]
+Table '3440314894 1' 3-max Siège #2 est au bouton.
+Place 1: marlonscheck (155 en jetons) 
+Place 2: zeub75 (290 en jetons) 
+Place 3: psychoman59 (455 en jetons) 
+psychoman59 : met la petite blind. 10
+marlonscheck : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 6d]
+zeub75 : passe. 
+psychoman59 : suit. 10
+marlonscheck : parole 
+*** FLOP *** [2d 8c 9h]
+psychoman59 : parole 
+marlonscheck : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [2d 8c 9h] [Ad]
+psychoman59 : parole 
+marlonscheck : parole 
+*** RIVIÈRE *** [2d 8c 9h Ad] [Qc]
+psychoman59 : parole 
+marlonscheck : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7d 6d] (Hauteur As)
+marlonscheck : montre [9s 6c] (une paire de Neuf)
+marlonscheck a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2d 8c 9h Ad Qc]
+Siège 1 : marlonscheck (grosse blind) a montré [9s 6c] et a gagné (80) avec une paire de Neuf
+Siège 2 : zeub75 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [7d 6d] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237310257438 : Tournoi #3440314894, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/07/2022 10:33:28 CET [12/07/2022 4:33:28 ET]
+Table '3440314894 1' 3-max Siège #3 est au bouton.
+Place 1: marlonscheck (195 en jetons) 
+Place 2: zeub75 (290 en jetons) 
+Place 3: psychoman59 (415 en jetons) 
+marlonscheck : met la petite blind. 10
+zeub75 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 8s]
+psychoman59 : passe. 
+marlonscheck : suit. 10
+zeub75 : relance. 270 à 290 et est all-in.
+marlonscheck : passe. 
+Personne n'a suivi. (270) sont retournés à zeub75.
+zeub75 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : marlonscheck (petite blind) s'est couché. avant Flop
+Siège 2 : zeub75 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237310258912 : Tournoi #3440314894, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/07/2022 10:33:40 CET [12/07/2022 4:33:40 ET]
+Table '3440314894 1' 3-max Siège #1 est au bouton.
+Place 1: marlonscheck (175 en jetons) 
+Place 2: zeub75 (310 en jetons) 
+Place 3: psychoman59 (415 en jetons) 
+zeub75 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Ks]
+marlonscheck : relance. 145 à 175 et est all-in.
+zeub75 : suit. 160
+psychoman59 : passe. 
+*** FLOP *** [Ac 9s 3d]
+*** TOURNANT *** [Ac 9s 3d] [7c]
+*** RIVIÈRE *** [Ac 9s 3d 7c] [4c]
+*** ABATTAGE ***
+zeub75 : montre [Jh Qh] (Hauteur As)
+marlonscheck : montre [As 9c] (double paire, As et Neuf)
+marlonscheck a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [Ac 9s 3d 7c 4c]
+Siège 1 : marlonscheck (bouton) a montré [As 9c] et a gagné (380) avec double paire, As et Neuf
+Siège 2 : zeub75 (petite blind) a montré [Jh Qh] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237310260900 : Tournoi #3440314894, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/07/2022 10:33:56 CET [12/07/2022 4:33:56 ET]
+Table '3440314894 1' 3-max Siège #2 est au bouton.
+Place 1: marlonscheck (380 en jetons) 
+Place 2: zeub75 (135 en jetons) 
+Place 3: psychoman59 (385 en jetons) 
+psychoman59 : met la petite blind. 15
+marlonscheck : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 7h]
+zeub75 est déconnecté 
+zeub75 a dépassé le temps imparti. pendant qu'il était déconnecté
+zeub75 : passe. 
+zeub75 ne joue pas.
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à marlonscheck.
+marlonscheck a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : marlonscheck (grosse blind) a remporté (30)
+Siège 2 : zeub75 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237310262664 : Tournoi #3440314894, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/07/2022 10:34:10 CET [12/07/2022 4:34:10 ET]
+Table '3440314894 1' 3-max Siège #3 est au bouton.
+Place 1: marlonscheck (395 en jetons) 
+Place 2: zeub75 (135 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+marlonscheck : met la petite blind. 15
+zeub75 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Kh]
+psychoman59 : passe. 
+marlonscheck : suit. 15
+zeub75 : relance. 105 à 135 et est all-in.
+marlonscheck : passe. 
+Personne n'a suivi. (105) sont retournés à zeub75.
+zeub75 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : marlonscheck (petite blind) s'est couché. avant Flop
+Siège 2 : zeub75 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237310264088 : Tournoi #3440314894, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/07/2022 10:34:22 CET [12/07/2022 4:34:22 ET]
+Table '3440314894 1' 3-max Siège #1 est au bouton.
+Place 1: marlonscheck (365 en jetons) 
+Place 2: zeub75 (165 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+zeub75 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 9s]
+marlonscheck : passe. 
+zeub75 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : marlonscheck (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : zeub75 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237310264688 : Tournoi #3440314894, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/07/2022 10:34:27 CET [12/07/2022 4:34:27 ET]
+Table '3440314894 1' 3-max Siège #2 est au bouton.
+Place 1: marlonscheck (365 en jetons) 
+Place 2: zeub75 (150 en jetons) 
+Place 3: psychoman59 (385 en jetons) 
+psychoman59 : met la petite blind. 15
+marlonscheck : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 7c]
+zeub75 : relance. 120 à 150 et est all-in.
+psychoman59 : passe. 
+marlonscheck : suit. 120
+*** FLOP *** [3d 5s 7d]
+*** TOURNANT *** [3d 5s 7d] [6d]
+*** RIVIÈRE *** [3d 5s 7d 6d] [Kd]
+*** ABATTAGE ***
+marlonscheck : montre [Qd 9c] (une couleur, hauteur Roi)
+zeub75 : montre [9h Js] (Hauteur Roi)
+marlonscheck a remporté 315  lors du pot .
+*** SYNTHÈSE ***
+Pot total 315 | Commission 0 
+Tableau [3d 5s 7d 6d Kd]
+Siège 1 : marlonscheck (grosse blind) a montré [Qd 9c] et a gagné (315) avec une couleur, hauteur Roi
+Siège 2 : zeub75 (bouton) a montré [9h Js] et a perdu avec Hauteur Roi
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237310266849 : Tournoi #3440314894, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/07/2022 10:34:44 CET [12/07/2022 4:34:44 ET]
+Table '3440314894 1' 3-max Siège #1 est au bouton.
+Place 1: marlonscheck (530 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+marlonscheck : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 5c]
+marlonscheck : relance. 490 à 530 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (490) sont retournés à marlonscheck.
+marlonscheck a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : marlonscheck (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237310267642 : Tournoi #3440314894, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/07/2022 10:34:51 CET [12/07/2022 4:34:51 ET]
+Table '3440314894 1' 3-max Siège #3 est au bouton.
+Place 1: marlonscheck (570 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+psychoman59 : met la petite blind. 20
+marlonscheck : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à marlonscheck.
+marlonscheck a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : marlonscheck (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237310268288 : Tournoi #3440314894, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/07/2022 10:34:55 CET [12/07/2022 4:34:55 ET]
+Table '3440314894 1' 3-max Siège #1 est au bouton.
+Place 1: marlonscheck (590 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+marlonscheck : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Ah]
+marlonscheck : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : marlonscheck (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237310268829 : Tournoi #3440314894, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/07/2022 10:35:00 CET [12/07/2022 4:35:00 ET]
+Table '3440314894 1' 3-max Siège #3 est au bouton.
+Place 1: marlonscheck (570 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+psychoman59 : met la petite blind. 20
+marlonscheck : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à marlonscheck.
+marlonscheck a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : marlonscheck (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237310269424 : Tournoi #3440314894, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/07/2022 10:35:05 CET [12/07/2022 4:35:05 ET]
+Table '3440314894 1' 3-max Siège #1 est au bouton.
+Place 1: marlonscheck (590 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+marlonscheck : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 4h]
+marlonscheck : suit. 20
+psychoman59 : parole 
+*** FLOP *** [4c 9s 2s]
+psychoman59 : mise. 270 et est all-in.
+marlonscheck : suit. 270
+*** TOURNANT *** [4c 9s 2s] [Qh]
+*** RIVIÈRE *** [4c 9s 2s Qh] [6c]
+*** ABATTAGE ***
+psychoman59 : montre [5d 4h] (une paire de Quatre)
+marlonscheck : montre [5s 8s] (Hauteur Dame)
+psychoman59 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [4c 9s 2s Qh 6c]
+Siège 1 : marlonscheck (bouton) (petite blind) a montré [5s 8s] et a perdu avec Hauteur Dame
+Siège 3 : psychoman59 (grosse blind) a montré [5d 4h] et a gagné (620) avec une paire de Quatre
+
+
+
+Main PokerStars n°237310271501 : Tournoi #3440314894, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/07/2022 10:35:22 CET [12/07/2022 4:35:22 ET]
+Table '3440314894 1' 3-max Siège #3 est au bouton.
+Place 1: marlonscheck (280 en jetons) 
+Place 3: psychoman59 (620 en jetons) 
+psychoman59 : met la petite blind. 20
+marlonscheck : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 8h]
+psychoman59 : relance. 80 à 120
+marlonscheck : suit. 80
+*** FLOP *** [7s As 6c]
+marlonscheck : parole 
+psychoman59 : mise. 240
+marlonscheck : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [7s As 6c]
+Siège 1 : marlonscheck (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°237310273101 : Tournoi #3440314894, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/07/2022 10:35:35 CET [12/07/2022 4:35:35 ET]
+Table '3440314894 1' 3-max Siège #1 est au bouton.
+Place 1: marlonscheck (160 en jetons) 
+Place 3: psychoman59 (740 en jetons) 
+marlonscheck : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 6s]
+marlonscheck : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : marlonscheck (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237310273984 : Tournoi #3440314894, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/07/2022 10:35:42 CET [12/07/2022 4:35:42 ET]
+Table '3440314894 1' 3-max Siège #3 est au bouton.
+Place 1: marlonscheck (140 en jetons) 
+Place 3: psychoman59 (760 en jetons) 
+psychoman59 : met la petite blind. 30
+marlonscheck : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ac]
+psychoman59 : relance. 120 à 180
+marlonscheck : suit. 80 et est all-in.
+Personne n'a suivi. (40) sont retournés à psychoman59.
+*** FLOP *** [7s Qd Ah]
+*** TOURNANT *** [7s Qd Ah] [Kh]
+*** RIVIÈRE *** [7s Qd Ah Kh] [Ts]
+*** ABATTAGE ***
+marlonscheck : montre [6d 8c] (Hauteur As)
+psychoman59 : montre [6s Ac] (une paire de As)
+psychoman59 a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [7s Qd Ah Kh Ts]
+Siège 1 : marlonscheck (grosse blind) a montré [6d 8c] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [6s Ac] et a gagné (280) avec une paire de As
+
+
+

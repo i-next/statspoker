@@ -1,0 +1,430 @@
+﻿Main PokerStars n°238574858350 : Tournoi #3470022073, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/09/2022 9:07:41 CET [12/09/2022 3:07:41 ET]
+Table '3470022073 1' 3-max Siège #1 est au bouton.
+Place 1: ampinto88 (300 en jetons) 
+Place 2: winnipeg 113 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+winnipeg 113 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ac]
+ampinto88 : passe. 
+winnipeg 113 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ts Qd Jd]
+winnipeg 113 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [Ts Qd Jd] [8c]
+winnipeg 113 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Ts Qd Jd 8c] [5c]
+winnipeg 113 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à winnipeg 113.
+winnipeg 113 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ts Qd Jd 8c 5c]
+Siège 1 : ampinto88 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : winnipeg 113 (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238574860673 : Tournoi #3470022073, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/09/2022 9:08:04 CET [12/09/2022 3:08:04 ET]
+Table '3470022073 1' 3-max Siège #2 est au bouton.
+Place 1: ampinto88 (300 en jetons) 
+Place 2: winnipeg 113 (360 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+psychoman59 : met la petite blind. 10
+ampinto88 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 4h]
+winnipeg 113 : suit. 20
+psychoman59 : passe. 
+ampinto88 : parole 
+*** FLOP *** [Qs Kc Ah]
+ampinto88 : parole 
+winnipeg 113 : parole 
+*** TOURNANT *** [Qs Kc Ah] [Qd]
+ampinto88 : parole 
+winnipeg 113 : parole 
+*** RIVIÈRE *** [Qs Kc Ah Qd] [Ac]
+ampinto88 : parole 
+winnipeg 113 : parole 
+*** ABATTAGE ***
+ampinto88 : montre [5s 6d] (double paire, As et Dames)
+winnipeg 113 : montre [2h 8h] (double paire, As et Dames)
+ampinto88 a remporté 25  lors du pot .
+winnipeg 113 a remporté 25  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Qs Kc Ah Qd Ac]
+Siège 1 : ampinto88 (grosse blind) a montré [5s 6d] et a gagné (25) avec double paire, As et Dames
+Siège 2 : winnipeg 113 (bouton) a montré [2h 8h] et a gagné (25) avec double paire, As et Dames
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238574862183 : Tournoi #3470022073, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/09/2022 9:08:19 CET [12/09/2022 3:08:19 ET]
+Table '3470022073 1' 3-max Siège #3 est au bouton.
+Place 1: ampinto88 (305 en jetons) 
+Place 2: winnipeg 113 (365 en jetons) 
+Place 3: psychoman59 (230 en jetons) 
+ampinto88 : met la petite blind. 10
+winnipeg 113 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 6s]
+psychoman59 : passe. 
+ampinto88 : suit. 10
+winnipeg 113 : relance. 40 à 60
+ampinto88 : suit. 40
+*** FLOP *** [2s Ah Jd]
+ampinto88 : parole 
+winnipeg 113 : mise. 305 et est all-in.
+ampinto88 : passe. 
+Personne n'a suivi. (305) sont retournés à winnipeg 113.
+winnipeg 113 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2s Ah Jd]
+Siège 1 : ampinto88 (petite blind) s'est couché. sur le Flop
+Siège 2 : winnipeg 113 (grosse blind) a remporté (120)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238574864560 : Tournoi #3470022073, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/09/2022 9:08:42 CET [12/09/2022 3:08:42 ET]
+Table '3470022073 1' 3-max Siège #1 est au bouton.
+Place 1: ampinto88 (245 en jetons) 
+Place 2: winnipeg 113 (425 en jetons) 
+Place 3: psychoman59 (230 en jetons) 
+winnipeg 113 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Kd]
+ampinto88 : passe. 
+winnipeg 113 : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [9d 9c Qh]
+winnipeg 113 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à winnipeg 113.
+winnipeg 113 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9d 9c Qh]
+Siège 1 : ampinto88 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : winnipeg 113 (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238574866352 : Tournoi #3470022073, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 12/09/2022 9:08:59 CET [12/09/2022 3:08:59 ET]
+Table '3470022073 1' 3-max Siège #2 est au bouton.
+Place 1: ampinto88 (245 en jetons) 
+Place 2: winnipeg 113 (465 en jetons) 
+Place 3: psychoman59 (190 en jetons) 
+psychoman59 : met la petite blind. 15
+ampinto88 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Jd]
+winnipeg 113 : suit. 30
+psychoman59 : relance. 160 à 190 et est all-in.
+ampinto88 : relance. 55 à 245 et est all-in.
+winnipeg 113 : suit. 215
+*** FLOP *** [Ks 6s Tc]
+*** TOURNANT *** [Ks 6s Tc] [Qs]
+*** RIVIÈRE *** [Ks 6s Tc Qs] [Ad]
+*** ABATTAGE ***
+ampinto88 : montre [9h 9d] (une paire de Neuf)
+winnipeg 113 : montre [Js Qh] (une suite, Dix à As)
+winnipeg 113 a remporté 110  parallèle lors du pot .
+psychoman59 : montre [Ac Jd] (une suite, Dix à As)
+psychoman59 a remporté 285  principal lors du pot .
+winnipeg 113 a remporté 285  principal lors du pot .
+ampinto88 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 680 Principal pot 570. Parallèle pot 110. | Commission 0 
+Tableau [Ks 6s Tc Qs Ad]
+Siège 1 : ampinto88 (grosse blind) a montré [9h 9d] et a perdu avec une paire de Neuf
+Siège 2 : winnipeg 113 (bouton) a montré [Js Qh] et a gagné (395) avec une suite, Dix à As
+Siège 3 : psychoman59 (petite blind) a montré [Ac Jd] et a gagné (285) avec une suite, Dix à As
+
+
+
+Main PokerStars n°238574868760 : Tournoi #3470022073, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 12/09/2022 9:09:23 CET [12/09/2022 3:09:23 ET]
+Table '3470022073 1' 3-max Siège #3 est au bouton.
+Place 2: winnipeg 113 (615 en jetons) 
+Place 3: psychoman59 (285 en jetons) 
+psychoman59 : met la petite blind. 15
+winnipeg 113 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Kd]
+psychoman59 : relance. 255 à 285 et est all-in.
+winnipeg 113 : passe. 
+Personne n'a suivi. (255) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : winnipeg 113 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°238574869599 : Tournoi #3470022073, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 12/09/2022 9:09:32 CET [12/09/2022 3:09:32 ET]
+Table '3470022073 1' 3-max Siège #2 est au bouton.
+Place 2: winnipeg 113 (585 en jetons) 
+Place 3: psychoman59 (315 en jetons) 
+winnipeg 113 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Qd]
+winnipeg 113 : relance. 30 à 60
+psychoman59 : relance. 255 à 315 et est all-in.
+winnipeg 113 : suit. 255
+*** FLOP *** [5h Td 9d]
+*** TOURNANT *** [5h Td 9d] [8s]
+*** RIVIÈRE *** [5h Td 9d 8s] [Qc]
+*** ABATTAGE ***
+psychoman59 : montre [Jc Qd] (une suite, Huit à Dame)
+winnipeg 113 : montre [Ad 3s] (Hauteur As)
+psychoman59 a remporté 630  lors du pot .
+*** SYNTHÈSE ***
+Pot total 630 | Commission 0 
+Tableau [5h Td 9d 8s Qc]
+Siège 2 : winnipeg 113 (bouton) (petite blind) a montré [Ad 3s] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [Jc Qd] et a gagné (630) avec une suite, Huit à Dame
+
+
+
+Main PokerStars n°238574871560 : Tournoi #3470022073, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 9:09:50 CET [12/09/2022 3:09:50 ET]
+Table '3470022073 1' 3-max Siège #3 est au bouton.
+Place 2: winnipeg 113 (270 en jetons) 
+Place 3: psychoman59 (630 en jetons) 
+psychoman59 : met la petite blind. 20
+winnipeg 113 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à winnipeg 113.
+winnipeg 113 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : winnipeg 113 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238574872104 : Tournoi #3470022073, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 9:09:56 CET [12/09/2022 3:09:56 ET]
+Table '3470022073 1' 3-max Siège #2 est au bouton.
+Place 2: winnipeg 113 (290 en jetons) 
+Place 3: psychoman59 (610 en jetons) 
+winnipeg 113 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Js]
+winnipeg 113 : relance. 250 à 290 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à winnipeg 113.
+winnipeg 113 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : winnipeg 113 (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238574872887 : Tournoi #3470022073, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 9:10:04 CET [12/09/2022 3:10:04 ET]
+Table '3470022073 1' 3-max Siège #3 est au bouton.
+Place 2: winnipeg 113 (330 en jetons) 
+Place 3: psychoman59 (570 en jetons) 
+psychoman59 : met la petite blind. 20
+winnipeg 113 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 7d]
+psychoman59 : suit. 20
+winnipeg 113 : parole 
+*** FLOP *** [3c 8c 6h]
+winnipeg 113 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à winnipeg 113.
+winnipeg 113 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3c 8c 6h]
+Siège 2 : winnipeg 113 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238574873940 : Tournoi #3470022073, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 9:10:14 CET [12/09/2022 3:10:14 ET]
+Table '3470022073 1' 3-max Siège #2 est au bouton.
+Place 2: winnipeg 113 (370 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+winnipeg 113 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 3s]
+winnipeg 113 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [As Kc 5s]
+psychoman59 : parole 
+winnipeg 113 : parole 
+*** TOURNANT *** [As Kc 5s] [8h]
+psychoman59 : parole 
+winnipeg 113 : parole 
+*** RIVIÈRE *** [As Kc 5s 8h] [8c]
+psychoman59 : parole 
+winnipeg 113 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [2c 3s] (une paire de Huit)
+winnipeg 113 : montre [Qd 9c] (une paire de Huit - As+Roi+Dame kicker)
+winnipeg 113 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [As Kc 5s 8h 8c]
+Siège 2 : winnipeg 113 (bouton) (petite blind) a montré [Qd 9c] et a gagné (80) avec une paire de Huit
+Siège 3 : psychoman59 (grosse blind) a montré [2c 3s] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°238574875606 : Tournoi #3470022073, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 9:10:30 CET [12/09/2022 3:10:30 ET]
+Table '3470022073 1' 3-max Siège #3 est au bouton.
+Place 2: winnipeg 113 (410 en jetons) 
+Place 3: psychoman59 (490 en jetons) 
+psychoman59 : met la petite blind. 20
+winnipeg 113 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Th]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à winnipeg 113.
+winnipeg 113 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : winnipeg 113 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238574876168 : Tournoi #3470022073, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 9:10:35 CET [12/09/2022 3:10:35 ET]
+Table '3470022073 1' 3-max Siège #2 est au bouton.
+Place 2: winnipeg 113 (430 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+winnipeg 113 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7h]
+winnipeg 113 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [2h Js 3s]
+psychoman59 : parole 
+winnipeg 113 : parole 
+*** TOURNANT *** [2h Js 3s] [Td]
+psychoman59 : parole 
+winnipeg 113 : parole 
+*** RIVIÈRE *** [2h Js 3s Td] [3d]
+psychoman59 : parole 
+winnipeg 113 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9c 7h] (une paire de Trois)
+winnipeg 113 : cache la main perdante. 
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2h Js 3s Td 3d]
+Siège 2 : winnipeg 113 (bouton) (petite blind) a caché la main perdante. [5c 8c]
+Siège 3 : psychoman59 (grosse blind) a montré [9c 7h] et a gagné (80) avec une paire de Trois
+
+
+
+Main PokerStars n°238574878355 : Tournoi #3470022073, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/09/2022 9:10:57 CET [12/09/2022 3:10:57 ET]
+Table '3470022073 1' 3-max Siège #3 est au bouton.
+Place 2: winnipeg 113 (390 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 30
+winnipeg 113 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Jd]
+psychoman59 : relance. 120 à 180
+winnipeg 113 : suit. 120
+*** FLOP *** [4c Js 8h]
+winnipeg 113 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4c Js 8h] [4d]
+winnipeg 113 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4c Js 8h 4d] [Ts]
+winnipeg 113 : parole 
+psychoman59 : mise. 120
+winnipeg 113 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 360  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [4c Js 8h 4d Ts]
+Siège 2 : winnipeg 113 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (360)
+
+
+
+Main PokerStars n°238574880436 : Tournoi #3470022073, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/09/2022 9:11:17 CET [12/09/2022 3:11:17 ET]
+Table '3470022073 1' 3-max Siège #2 est au bouton.
+Place 2: winnipeg 113 (210 en jetons) 
+Place 3: psychoman59 (690 en jetons) 
+winnipeg 113 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 2s]
+winnipeg 113 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Ts Td 7c]
+psychoman59 : parole 
+winnipeg 113 : parole 
+*** TOURNANT *** [Ts Td 7c] [Kd]
+psychoman59 : parole 
+winnipeg 113 : parole 
+*** RIVIÈRE *** [Ts Td 7c Kd] [Ac]
+psychoman59 : parole 
+winnipeg 113 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9h 2s] (une paire de Dix)
+winnipeg 113 : cache la main perdante. 
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ts Td 7c Kd Ac]
+Siège 2 : winnipeg 113 (bouton) (petite blind) a caché la main perdante. [5s 8d]
+Siège 3 : psychoman59 (grosse blind) a montré [9h 2s] et a gagné (120) avec une paire de Dix
+
+
+
+Main PokerStars n°238574882704 : Tournoi #3470022073, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/09/2022 9:11:40 CET [12/09/2022 3:11:40 ET]
+Table '3470022073 1' 3-max Siège #3 est au bouton.
+Place 2: winnipeg 113 (150 en jetons) 
+Place 3: psychoman59 (750 en jetons) 
+psychoman59 : met la petite blind. 30
+winnipeg 113 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 3d]
+psychoman59 : relance. 120 à 180
+winnipeg 113 : suit. 90 et est all-in.
+Personne n'a suivi. (30) sont retournés à psychoman59.
+*** FLOP *** [4h 9d Jd]
+*** TOURNANT *** [4h 9d Jd] [Th]
+*** RIVIÈRE *** [4h 9d Jd Th] [9h]
+*** ABATTAGE ***
+winnipeg 113 : montre [Ks 7d] (une paire de Neuf)
+psychoman59 : montre [3h 3d] (double paire, Neuf et Trois)
+psychoman59 a remporté 300  lors du pot .
+winnipeg 113 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 1.25 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [4h 9d Jd Th 9h]
+Siège 2 : winnipeg 113 (grosse blind) a montré [Ks 7d] et a perdu avec une paire de Neuf
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [3h 3d] et a gagné (300) avec double paire, Neuf et Trois
+
+
+

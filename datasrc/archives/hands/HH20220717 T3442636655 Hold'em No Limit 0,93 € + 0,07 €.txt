@@ -1,0 +1,339 @@
+﻿Main PokerStars n°237407028471 : Tournoi #3442636655, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/07/2022 8:09:04 CET [17/07/2022 2:09:04 ET]
+Table '3442636655 1' 3-max Siège #1 est au bouton.
+Place 1: Rai le magnifik (300 en jetons) 
+Place 2: benoitzede92 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+benoitzede92 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 7h]
+Rai le magnifik : suit. 20
+benoitzede92 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ks Jh Td]
+benoitzede92 : mise. 20
+psychoman59 : passe. 
+Rai le magnifik : suit. 20
+*** TOURNANT *** [Ks Jh Td] [4c]
+benoitzede92 : parole 
+Rai le magnifik : mise. 100
+benoitzede92 : passe. 
+Personne n'a suivi. (100) sont retournés à Rai le magnifik.
+Rai le magnifik a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [Ks Jh Td 4c]
+Siège 1 : Rai le magnifik (bouton) a remporté (100)
+Siège 2 : benoitzede92 (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237407030985 : Tournoi #3442636655, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/07/2022 8:09:27 CET [17/07/2022 2:09:27 ET]
+Table '3442636655 1' 3-max Siège #2 est au bouton.
+Place 1: Rai le magnifik (360 en jetons) 
+Place 2: benoitzede92 (260 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+Rai le magnifik : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 7s]
+benoitzede92 : passe. 
+psychoman59 : suit. 10
+Rai le magnifik : parole 
+*** FLOP *** [Js 2s 9d]
+psychoman59 : parole 
+Rai le magnifik : parole 
+*** TOURNANT *** [Js 2s 9d] [9s]
+psychoman59 : parole 
+Rai le magnifik : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Js 2s 9d 9s] [Kh]
+psychoman59 : parole 
+Rai le magnifik : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Kd 7s] (double paire, Rois et Neuf)
+Rai le magnifik : cache la main perdante. 
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Js 2s 9d 9s Kh]
+Siège 1 : Rai le magnifik (grosse blind) a caché la main perdante. [2d 4h]
+Siège 2 : benoitzede92 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Kd 7s] et a gagné (80) avec double paire, Rois et Neuf
+
+
+
+Main PokerStars n°237407033714 : Tournoi #3442636655, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/07/2022 8:09:51 CET [17/07/2022 2:09:51 ET]
+Table '3442636655 1' 3-max Siège #3 est au bouton.
+Place 1: Rai le magnifik (320 en jetons) 
+Place 2: benoitzede92 (260 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+Rai le magnifik : met la petite blind. 10
+benoitzede92 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Ac]
+psychoman59 : suit. 20
+Rai le magnifik : suit. 10
+benoitzede92 : parole 
+*** FLOP *** [3c Th Ad]
+Rai le magnifik : parole 
+benoitzede92 : parole 
+psychoman59 : mise. 60
+Rai le magnifik : passe. 
+benoitzede92 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3c Th Ad]
+Siège 1 : Rai le magnifik (petite blind) s'est couché. sur le Flop
+Siège 2 : benoitzede92 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a remporté (60)
+
+
+
+Main PokerStars n°237407037067 : Tournoi #3442636655, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/07/2022 8:10:21 CET [17/07/2022 2:10:21 ET]
+Table '3442636655 1' 3-max Siège #1 est au bouton.
+Place 1: Rai le magnifik (300 en jetons) 
+Place 2: benoitzede92 (240 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+benoitzede92 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Qd]
+Rai le magnifik : suit. 30
+benoitzede92 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [2h 2c 6s]
+benoitzede92 : mise. 30
+psychoman59 : passe. 
+Rai le magnifik : relance. 75 à 105
+benoitzede92 : passe. 
+Personne n'a suivi. (75) sont retournés à Rai le magnifik.
+Rai le magnifik a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [2h 2c 6s]
+Siège 1 : Rai le magnifik (bouton) a remporté (150)
+Siège 2 : benoitzede92 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237407039634 : Tournoi #3442636655, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/07/2022 8:10:44 CET [17/07/2022 2:10:44 ET]
+Table '3442636655 1' 3-max Siège #2 est au bouton.
+Place 1: Rai le magnifik (390 en jetons) 
+Place 2: benoitzede92 (180 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+psychoman59 : met la petite blind. 15
+Rai le magnifik : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 2c]
+benoitzede92 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Rai le magnifik.
+Rai le magnifik a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Rai le magnifik (grosse blind) a remporté (30)
+Siège 2 : benoitzede92 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237407040373 : Tournoi #3442636655, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/07/2022 8:10:51 CET [17/07/2022 2:10:51 ET]
+Table '3442636655 1' 3-max Siège #3 est au bouton.
+Place 1: Rai le magnifik (405 en jetons) 
+Place 2: benoitzede92 (180 en jetons) 
+Place 3: psychoman59 (315 en jetons) 
+Rai le magnifik : met la petite blind. 15
+benoitzede92 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 2c]
+psychoman59 : passe. 
+Rai le magnifik : passe. 
+Personne n'a suivi. (15) sont retournés à benoitzede92.
+benoitzede92 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Rai le magnifik (petite blind) s'est couché. avant Flop
+Siège 2 : benoitzede92 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237407041194 : Tournoi #3442636655, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/07/2022 8:10:58 CET [17/07/2022 2:10:58 ET]
+Table '3442636655 1' 3-max Siège #1 est au bouton.
+Place 1: Rai le magnifik (390 en jetons) 
+Place 2: benoitzede92 (195 en jetons) 
+Place 3: psychoman59 (315 en jetons) 
+benoitzede92 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Ts]
+Rai le magnifik : suit. 30
+benoitzede92 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9h Qs 8s]
+benoitzede92 : mise. 165 et est all-in.
+psychoman59 : passe. 
+Rai le magnifik : passe. 
+Personne n'a suivi. (165) sont retournés à benoitzede92.
+benoitzede92 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [9h Qs 8s]
+Siège 1 : Rai le magnifik (bouton) s'est couché. sur le Flop
+Siège 2 : benoitzede92 (petite blind) a remporté (90)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237407043585 : Tournoi #3442636655, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/07/2022 8:11:20 CET [17/07/2022 2:11:20 ET]
+Table '3442636655 1' 3-max Siège #2 est au bouton.
+Place 1: Rai le magnifik (360 en jetons) 
+Place 2: benoitzede92 (255 en jetons) 
+Place 3: psychoman59 (285 en jetons) 
+psychoman59 : met la petite blind. 20
+Rai le magnifik : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 5s]
+benoitzede92 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Rai le magnifik.
+Rai le magnifik a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Rai le magnifik (grosse blind) a remporté (40)
+Siège 2 : benoitzede92 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237407044574 : Tournoi #3442636655, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/07/2022 8:11:29 CET [17/07/2022 2:11:29 ET]
+Table '3442636655 1' 3-max Siège #3 est au bouton.
+Place 1: Rai le magnifik (380 en jetons) 
+Place 2: benoitzede92 (255 en jetons) 
+Place 3: psychoman59 (265 en jetons) 
+Rai le magnifik : met la petite blind. 20
+benoitzede92 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 8c]
+psychoman59 : relance. 40 à 80
+Rai le magnifik : suit. 60
+benoitzede92 : passe. 
+*** FLOP *** [9s Ah 5s]
+Rai le magnifik : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9s Ah 5s] [4h]
+Rai le magnifik : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9s Ah 5s 4h] [5c]
+Rai le magnifik : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Rai le magnifik : montre [8d Th] (une paire de Cinq)
+psychoman59 : montre [Kc 8c] (une paire de Cinq - As+Roi kicker)
+psychoman59 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [9s Ah 5s 4h 5c]
+Siège 1 : Rai le magnifik (petite blind) a montré [8d Th] et a perdu avec une paire de Cinq
+Siège 2 : benoitzede92 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [Kc 8c] et a gagné (200) avec une paire de Cinq
+
+
+
+Main PokerStars n°237407048604 : Tournoi #3442636655, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/07/2022 8:12:05 CET [17/07/2022 2:12:05 ET]
+Table '3442636655 1' 3-max Siège #1 est au bouton.
+Place 1: Rai le magnifik (300 en jetons) 
+Place 2: benoitzede92 (215 en jetons) 
+Place 3: psychoman59 (385 en jetons) 
+benoitzede92 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Kh]
+Rai le magnifik : passe. 
+benoitzede92 : relance. 175 à 215 et est all-in.
+psychoman59 : suit. 175
+*** FLOP *** [7s Ts 8d]
+*** TOURNANT *** [7s Ts 8d] [9d]
+*** RIVIÈRE *** [7s Ts 8d 9d] [9s]
+*** ABATTAGE ***
+benoitzede92 : montre [Qh 2h] (une paire de Neuf)
+psychoman59 : montre [Qs Kh] (une paire de Neuf - Roi kicker)
+psychoman59 a remporté 430  lors du pot .
+*** SYNTHÈSE ***
+Pot total 430 | Commission 0 
+Tableau [7s Ts 8d 9d 9s]
+Siège 1 : Rai le magnifik (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : benoitzede92 (petite blind) a montré [Qh 2h] et a perdu avec une paire de Neuf
+Siège 3 : psychoman59 (grosse blind) a montré [Qs Kh] et a gagné (430) avec une paire de Neuf
+
+
+
+Main PokerStars n°237407050799 : Tournoi #3442636655, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/07/2022 8:12:25 CET [17/07/2022 2:12:25 ET]
+Table '3442636655 1' 3-max Siège #3 est au bouton.
+Place 1: Rai le magnifik (300 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+psychoman59 : met la petite blind. 30
+Rai le magnifik : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 9s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Rai le magnifik.
+Rai le magnifik a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Rai le magnifik (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237407051515 : Tournoi #3442636655, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/07/2022 8:12:31 CET [17/07/2022 2:12:31 ET]
+Table '3442636655 1' 3-max Siège #1 est au bouton.
+Place 1: Rai le magnifik (330 en jetons) 
+Place 3: psychoman59 (570 en jetons) 
+Rai le magnifik : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Kc]
+Rai le magnifik : suit. 30
+psychoman59 : relance. 180 à 240
+Rai le magnifik : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : Rai le magnifik (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°237407052788 : Tournoi #3442636655, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/07/2022 8:12:43 CET [17/07/2022 2:12:43 ET]
+Table '3442636655 1' 3-max Siège #3 est au bouton.
+Place 1: Rai le magnifik (270 en jetons) 
+Place 3: psychoman59 (630 en jetons) 
+psychoman59 : met la petite blind. 30
+Rai le magnifik : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ac]
+psychoman59 : relance. 120 à 180
+Rai le magnifik : relance. 90 à 270 et est all-in.
+psychoman59 : suit. 90
+*** FLOP *** [Jd 6c Ah]
+*** TOURNANT *** [Jd 6c Ah] [5s]
+*** RIVIÈRE *** [Jd 6c Ah 5s] [5h]
+*** ABATTAGE ***
+Rai le magnifik : montre [7h Td] (une paire de Cinq)
+psychoman59 : montre [7d Ac] (double paire, As et Cinq)
+psychoman59 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [Jd 6c Ah 5s 5h]
+Siège 1 : Rai le magnifik (grosse blind) a montré [7h Td] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [7d Ac] et a gagné (540) avec double paire, As et Cinq
+
+
+

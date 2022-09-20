@@ -1,0 +1,570 @@
+﻿Main PokerStars n°238577435281 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 12/09/2022 14:06:33 CET [12/09/2022 8:06:33 ET]
+Table '3470093544 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Monstroo_20 (300 en jetons) 
+Place 3: hcp11 (300 en jetons) 
+Monstroo_20 : met la petite blind. 10
+hcp11 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 9c]
+psychoman59 : passe. 
+Monstroo_20 : suit. 10
+hcp11 : parole 
+*** FLOP *** [9d Th 2s]
+Monstroo_20 : parole 
+hcp11 : mise. 20
+Monstroo_20 : passe. 
+Personne n'a suivi. (20) sont retournés à hcp11.
+hcp11 a remporté 40  lors du pot .
+hcp11 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9d Th 2s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Monstroo_20 (petite blind) s'est couché. sur le Flop
+Siège 3 : hcp11 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238577437711 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 12/09/2022 14:06:46 CET [12/09/2022 8:06:46 ET]
+Table '3470093544 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Monstroo_20 (280 en jetons) 
+Place 3: hcp11 (320 en jetons) 
+hcp11 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Jh]
+Monstroo_20 : suit. 20
+hcp11 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8d 6h Qs]
+hcp11 : parole 
+psychoman59 : parole 
+Monstroo_20 : parole 
+*** TOURNANT *** [8d 6h Qs] [2c]
+hcp11 : parole 
+psychoman59 : mise. 30
+Monstroo_20 : suit. 30
+hcp11 : passe. 
+*** RIVIÈRE *** [8d 6h Qs 2c] [3c]
+psychoman59 : mise. 60
+Monstroo_20 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8d 6h Qs 2c 3c]
+Siège 1 : psychoman59 (grosse blind) a remporté (120)
+Siège 2 : Monstroo_20 (bouton) s'est couché. sur le Rivière
+Siège 3 : hcp11 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238577445115 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 12/09/2022 14:07:24 CET [12/09/2022 8:07:24 ET]
+Table '3470093544 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 2: Monstroo_20 (230 en jetons) 
+Place 3: hcp11 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Monstroo_20 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 6c]
+hcp11 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Monstroo_20.
+Monstroo_20 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Monstroo_20 (grosse blind) a remporté (20)
+Siège 3 : hcp11 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238577446432 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 12/09/2022 14:07:31 CET [12/09/2022 8:07:31 ET]
+Table '3470093544 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (360 en jetons) 
+Place 2: Monstroo_20 (240 en jetons) 
+Place 3: hcp11 (300 en jetons) 
+Monstroo_20 : met la petite blind. 10
+hcp11 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9d]
+psychoman59 : suit. 20
+Monstroo_20 : passe. 
+hcp11 : parole 
+*** FLOP *** [4d Jc 6s]
+hcp11 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4d Jc 6s] [Js]
+hcp11 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4d Jc 6s Js] [5d]
+hcp11 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+hcp11 : montre [Th 9s] (une paire de Valets)
+psychoman59 : montre [Kd 9d] (une paire de Valets - Roi kicker)
+psychoman59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [4d Jc 6s Js 5d]
+Siège 1 : psychoman59 (bouton) a montré [Kd 9d] et a gagné (50) avec une paire de Valets
+Siège 2 : Monstroo_20 (petite blind) s'est couché. avant Flop
+Siège 3 : hcp11 (grosse blind) a montré [Th 9s] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°238577450530 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 12/09/2022 14:07:52 CET [12/09/2022 8:07:52 ET]
+Table '3470093544 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (390 en jetons) 
+Place 2: Monstroo_20 (230 en jetons) 
+Place 3: hcp11 (280 en jetons) 
+hcp11 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2d]
+Monstroo_20 : relance. 30 à 60
+hcp11 : relance. 220 à 280 et est all-in.
+psychoman59 : passe. 
+Monstroo_20 : suit. 170 et est all-in.
+Personne n'a suivi. (50) sont retournés à hcp11.
+*** FLOP *** [3d 9d Ah]
+*** TOURNANT *** [3d 9d Ah] [9h]
+*** RIVIÈRE *** [3d 9d Ah 9h] [6c]
+*** ABATTAGE ***
+hcp11 : montre [Jc Jd] (double paire, Valets et Neuf)
+Monstroo_20 : montre [6d Ad] (double paire, As et Neuf)
+Monstroo_20 a remporté 490  lors du pot .
+*** SYNTHÈSE ***
+Pot total 490 | Commission 0 
+Tableau [3d 9d Ah 9h 6c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Monstroo_20 (bouton) a montré [6d Ad] et a gagné (490) avec double paire, As et Neuf
+Siège 3 : hcp11 (petite blind) a montré [Jc Jd] et a perdu avec double paire, Valets et Neuf
+
+
+
+Main PokerStars n°238577453719 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 12/09/2022 14:08:09 CET [12/09/2022 8:08:09 ET]
+Table '3470093544 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (360 en jetons) 
+Place 2: Monstroo_20 (490 en jetons) 
+Place 3: hcp11 (50 en jetons) 
+psychoman59 : met la petite blind. 15
+Monstroo_20 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9d]
+hcp11 : relance. 20 à 50 et est all-in.
+psychoman59 : suit. 35
+Monstroo_20 : relance. 440 à 490 et est all-in.
+psychoman59 : suit. 310 et est all-in.
+Personne n'a suivi. (130) sont retournés à Monstroo_20.
+*** FLOP *** [Kh 3c 9c]
+*** TOURNANT *** [Kh 3c 9c] [Ks]
+*** RIVIÈRE *** [Kh 3c 9c Ks] [Ts]
+*** ABATTAGE ***
+psychoman59 : montre [Kd 9d] (un full, full aux Rois par les Neuf)
+Monstroo_20 : montre [Jd Jc] (double paire, Rois et Valets)
+psychoman59 a remporté 620  parallèle lors du pot .
+hcp11 : montre [4h As] (une paire de Rois)
+psychoman59 a remporté 150  principal lors du pot .
+hcp11 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 770 Principal pot 150. Parallèle pot 620. | Commission 0 
+Tableau [Kh 3c 9c Ks Ts]
+Siège 1 : psychoman59 (petite blind) a montré [Kd 9d] et a gagné (770) avec un full, full aux Rois par les Neuf
+Siège 2 : Monstroo_20 (grosse blind) a montré [Jd Jc] et a perdu avec double paire, Rois et Valets
+Siège 3 : hcp11 (bouton) a montré [4h As] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°238577458207 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 12/09/2022 14:08:33 CET [12/09/2022 8:08:33 ET]
+Table '3470093544 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (770 en jetons) 
+Place 2: Monstroo_20 (130 en jetons) 
+Monstroo_20 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 9d]
+Monstroo_20 : relance. 100 à 130 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à Monstroo_20.
+Monstroo_20 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Monstroo_20 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°238577459915 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 14:08:42 CET [12/09/2022 8:08:42 ET]
+Table '3470093544 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (740 en jetons) 
+Place 2: Monstroo_20 (160 en jetons) 
+psychoman59 : met la petite blind. 20
+Monstroo_20 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Tc]
+psychoman59 : relance. 80 à 120
+Monstroo_20 : relance. 40 à 160 et est all-in.
+psychoman59 : suit. 40
+*** FLOP *** [8d 9d 4h]
+*** TOURNANT *** [8d 9d 4h] [3s]
+*** RIVIÈRE *** [8d 9d 4h 3s] [3c]
+*** ABATTAGE ***
+Monstroo_20 : montre [6c 9c] (double paire, Neuf et Trois)
+psychoman59 : montre [Ah Tc] (une paire de Trois)
+Monstroo_20 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [8d 9d 4h 3s 3c]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Ah Tc] et a perdu avec une paire de Trois
+Siège 2 : Monstroo_20 (grosse blind) a montré [6c 9c] et a gagné (320) avec double paire, Neuf et Trois
+
+
+
+Main PokerStars n°238577462850 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 14:08:57 CET [12/09/2022 8:08:57 ET]
+Table '3470093544 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 2: Monstroo_20 (320 en jetons) 
+Monstroo_20 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 6c]
+Monstroo_20 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Ac Kc 5s]
+psychoman59 : parole 
+Monstroo_20 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Monstroo_20.
+Monstroo_20 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ac Kc 5s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Monstroo_20 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°238577465559 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 14:09:11 CET [12/09/2022 8:09:11 ET]
+Table '3470093544 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (540 en jetons) 
+Place 2: Monstroo_20 (360 en jetons) 
+psychoman59 : met la petite blind. 20
+Monstroo_20 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Monstroo_20.
+Monstroo_20 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Monstroo_20 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238577466430 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 14:09:16 CET [12/09/2022 8:09:16 ET]
+Table '3470093544 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: Monstroo_20 (380 en jetons) 
+Monstroo_20 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Jc]
+Monstroo_20 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : Monstroo_20 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238577467235 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 14:09:20 CET [12/09/2022 8:09:20 ET]
+Table '3470093544 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (540 en jetons) 
+Place 2: Monstroo_20 (360 en jetons) 
+psychoman59 : met la petite blind. 20
+Monstroo_20 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Ac]
+psychoman59 : relance. 500 à 540 et est all-in.
+Monstroo_20 : passe. 
+Personne n'a suivi. (500) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : Monstroo_20 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238577468708 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 14:09:28 CET [12/09/2022 8:09:28 ET]
+Table '3470093544 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 2: Monstroo_20 (320 en jetons) 
+Monstroo_20 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Qd]
+Monstroo_20 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : Monstroo_20 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238577469774 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 14:09:33 CET [12/09/2022 8:09:33 ET]
+Table '3470093544 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: Monstroo_20 (300 en jetons) 
+psychoman59 : met la petite blind. 20
+Monstroo_20 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 8c]
+psychoman59 : relance. 560 à 600 et est all-in.
+Monstroo_20 : passe. 
+Personne n'a suivi. (560) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : Monstroo_20 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238577471777 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/09/2022 14:09:44 CET [12/09/2022 8:09:44 ET]
+Table '3470093544 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (640 en jetons) 
+Place 2: Monstroo_20 (260 en jetons) 
+Monstroo_20 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 6c]
+Monstroo_20 : relance. 200 à 260 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à Monstroo_20.
+Monstroo_20 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Monstroo_20 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°238577473120 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/09/2022 14:09:51 CET [12/09/2022 8:09:51 ET]
+Table '3470093544 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 2: Monstroo_20 (320 en jetons) 
+psychoman59 : met la petite blind. 30
+Monstroo_20 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 8d]
+psychoman59 : relance. 60 à 120
+Monstroo_20 : suit. 60
+*** FLOP *** [9d Qs 8c]
+Monstroo_20 : parole 
+psychoman59 : mise. 60
+Monstroo_20 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [9d Qs 8c]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (240)
+Siège 2 : Monstroo_20 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238577475750 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/09/2022 14:10:04 CET [12/09/2022 8:10:04 ET]
+Table '3470093544 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (700 en jetons) 
+Place 2: Monstroo_20 (200 en jetons) 
+Monstroo_20 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 5d]
+Monstroo_20 : relance. 140 à 200 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (140) sont retournés à Monstroo_20.
+Monstroo_20 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Monstroo_20 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°238577476878 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/09/2022 14:10:10 CET [12/09/2022 8:10:10 ET]
+Table '3470093544 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (640 en jetons) 
+Place 2: Monstroo_20 (260 en jetons) 
+psychoman59 : met la petite blind. 30
+Monstroo_20 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Th]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Monstroo_20.
+Monstroo_20 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Monstroo_20 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°238577477739 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/09/2022 14:10:14 CET [12/09/2022 8:10:14 ET]
+Table '3470093544 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (610 en jetons) 
+Place 2: Monstroo_20 (290 en jetons) 
+Monstroo_20 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 8s]
+Monstroo_20 : relance. 230 à 290 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (230) sont retournés à Monstroo_20.
+Monstroo_20 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Monstroo_20 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°238577478849 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/09/2022 14:10:20 CET [12/09/2022 8:10:20 ET]
+Table '3470093544 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (550 en jetons) 
+Place 2: Monstroo_20 (350 en jetons) 
+psychoman59 : met la petite blind. 30
+Monstroo_20 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Monstroo_20.
+Monstroo_20 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Monstroo_20 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°238577479692 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/09/2022 14:10:24 CET [12/09/2022 8:10:24 ET]
+Table '3470093544 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: Monstroo_20 (380 en jetons) 
+Monstroo_20 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 4c]
+Monstroo_20 : relance. 320 à 380 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (320) sont retournés à Monstroo_20.
+Monstroo_20 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Monstroo_20 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°238577480708 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/09/2022 14:10:30 CET [12/09/2022 8:10:30 ET]
+Table '3470093544 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: Monstroo_20 (440 en jetons) 
+psychoman59 : met la petite blind. 30
+Monstroo_20 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Monstroo_20.
+Monstroo_20 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Monstroo_20 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°238577482195 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 12/09/2022 14:10:37 CET [12/09/2022 8:10:37 ET]
+Table '3470093544 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 2: Monstroo_20 (470 en jetons) 
+Monstroo_20 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8c]
+Monstroo_20 : suit. 40
+psychoman59 : relance. 350 à 430 et est all-in.
+Monstroo_20 : passe. 
+Personne n'a suivi. (350) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (160)
+Siège 2 : Monstroo_20 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238577483685 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 12/09/2022 14:10:45 CET [12/09/2022 8:10:45 ET]
+Table '3470093544 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (510 en jetons) 
+Place 2: Monstroo_20 (390 en jetons) 
+psychoman59 : met la petite blind. 40
+Monstroo_20 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 6s]
+psychoman59 : relance. 430 à 510 et est all-in.
+Monstroo_20 : passe. 
+Personne n'a suivi. (430) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 2 : Monstroo_20 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238577484991 : Tournoi #3470093544, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 12/09/2022 14:10:52 CET [12/09/2022 8:10:52 ET]
+Table '3470093544 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (590 en jetons) 
+Place 2: Monstroo_20 (310 en jetons) 
+Monstroo_20 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Kc]
+Monstroo_20 : relance. 230 à 310 et est all-in.
+psychoman59 : suit. 230
+*** FLOP *** [Qh 5s 6s]
+*** TOURNANT *** [Qh 5s 6s] [Jh]
+*** RIVIÈRE *** [Qh 5s 6s Jh] [Ac]
+*** ABATTAGE ***
+psychoman59 : montre [4s Kc] (Hauteur As)
+Monstroo_20 : montre [2c 8h] (Hauteur As - plus basse kicker)
+psychoman59 a remporté 620  lors du pot .
+Monstroo_20 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 4.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Qh 5s 6s Jh Ac]
+Siège 1 : psychoman59 (grosse blind) a montré [4s Kc] et a gagné (620) avec Hauteur As
+Siège 2 : Monstroo_20 (bouton) (petite blind) a montré [2c 8h] et a perdu avec Hauteur As
+
+
+

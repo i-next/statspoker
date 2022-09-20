@@ -1,0 +1,560 @@
+﻿Main PokerStars n°238575561684 : Tournoi #3470041491, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/09/2022 10:50:18 CET [12/09/2022 4:50:18 ET]
+Table '3470041491 1' 3-max Siège #1 est au bouton.
+Place 1: mickom60 (300 en jetons) 
+Place 2: Vinceff07 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Vinceff07 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Qc]
+mickom60 : suit. 20
+Vinceff07 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8h 5h 4c]
+Vinceff07 : parole 
+psychoman59 : parole 
+mickom60 : parole 
+*** TOURNANT *** [8h 5h 4c] [5s]
+Vinceff07 : parole 
+psychoman59 : parole 
+mickom60 : mise. 20
+Vinceff07 : passe. 
+psychoman59 : suit. 20
+*** RIVIÈRE *** [8h 5h 4c 5s] [6c]
+psychoman59 : parole 
+mickom60 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6d Qc] (double paire, Six et Cinq)
+mickom60 : cache la main perdante. 
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [8h 5h 4c 5s 6c]
+Siège 1 : mickom60 (bouton) a caché la main perdante. [Ah 4s]
+Siège 2 : Vinceff07 (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a montré [6d Qc] et a gagné (100) avec double paire, Six et Cinq
+
+
+
+Main PokerStars n°238575566453 : Tournoi #3470041491, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/09/2022 10:50:54 CET [12/09/2022 4:50:54 ET]
+Table '3470041491 1' 3-max Siège #2 est au bouton.
+Place 1: mickom60 (260 en jetons) 
+Place 2: Vinceff07 (280 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+psychoman59 : met la petite blind. 10
+mickom60 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Kc]
+Vinceff07 : passe. 
+psychoman59 : relance. 340 à 360 et est all-in.
+mickom60 : passe. 
+Personne n'a suivi. (340) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : mickom60 (grosse blind) s'est couché. avant Flop
+Siège 2 : Vinceff07 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°238575567691 : Tournoi #3470041491, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/09/2022 10:51:03 CET [12/09/2022 4:51:03 ET]
+Table '3470041491 1' 3-max Siège #3 est au bouton.
+Place 1: mickom60 (240 en jetons) 
+Place 2: Vinceff07 (280 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+mickom60 : met la petite blind. 10
+Vinceff07 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 9d]
+psychoman59 : passe. 
+mickom60 : relance. 40 à 60
+Vinceff07 : passe. 
+Personne n'a suivi. (40) sont retournés à mickom60.
+mickom60 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : mickom60 (petite blind) a remporté (40)
+Siège 2 : Vinceff07 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238575569422 : Tournoi #3470041491, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/09/2022 10:51:16 CET [12/09/2022 4:51:16 ET]
+Table '3470041491 1' 3-max Siège #1 est au bouton.
+Place 1: mickom60 (260 en jetons) 
+Place 2: Vinceff07 (260 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+Vinceff07 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Kh]
+mickom60 : suit. 20
+Vinceff07 : passe. 
+psychoman59 : parole 
+*** FLOP *** [2s 9s Jc]
+psychoman59 : parole 
+mickom60 : parole 
+*** TOURNANT *** [2s 9s Jc] [Ah]
+psychoman59 : parole 
+mickom60 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [2s 9s Jc Ah] [Jh]
+psychoman59 : parole 
+mickom60 : mise. 40
+psychoman59 : suit. 40
+*** ABATTAGE ***
+mickom60 : montre [Qh Td] (une paire de Valets)
+psychoman59 : montre [9c Kh] (double paire, Valets et Neuf)
+psychoman59 a remporté 170  lors du pot .
+*** SYNTHÈSE ***
+Pot total 170 | Commission 0 
+Tableau [2s 9s Jc Ah Jh]
+Siège 1 : mickom60 (bouton) a montré [Qh Td] et a perdu avec une paire de Valets
+Siège 2 : Vinceff07 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [9c Kh] et a gagné (170) avec double paire, Valets et Neuf
+
+
+
+Main PokerStars n°238575573062 : Tournoi #3470041491, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/09/2022 10:51:43 CET [12/09/2022 4:51:43 ET]
+Table '3470041491 1' 3-max Siège #2 est au bouton.
+Place 1: mickom60 (180 en jetons) 
+Place 2: Vinceff07 (250 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+psychoman59 : met la petite blind. 15
+mickom60 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Ks]
+Vinceff07 : suit. 30
+psychoman59 : passe. 
+mickom60 : parole 
+*** FLOP *** [Qc 4h Jd]
+mickom60 : parole 
+Vinceff07 : mise. 30
+mickom60 : passe. 
+Personne n'a suivi. (30) sont retournés à Vinceff07.
+Vinceff07 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [Qc 4h Jd]
+Siège 1 : mickom60 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Vinceff07 (bouton) a remporté (75)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238575574763 : Tournoi #3470041491, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/09/2022 10:51:56 CET [12/09/2022 4:51:56 ET]
+Table '3470041491 1' 3-max Siège #3 est au bouton.
+Place 1: mickom60 (150 en jetons) 
+Place 2: Vinceff07 (295 en jetons) 
+Place 3: psychoman59 (455 en jetons) 
+mickom60 : met la petite blind. 15
+Vinceff07 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 6h]
+psychoman59 : passe. 
+mickom60 : passe. 
+Personne n'a suivi. (15) sont retournés à Vinceff07.
+Vinceff07 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : mickom60 (petite blind) s'est couché. avant Flop
+Siège 2 : Vinceff07 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238575575752 : Tournoi #3470041491, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/09/2022 10:52:03 CET [12/09/2022 4:52:03 ET]
+Table '3470041491 1' 3-max Siège #1 est au bouton.
+Place 1: mickom60 (135 en jetons) 
+Place 2: Vinceff07 (310 en jetons) 
+Place 3: psychoman59 (455 en jetons) 
+Vinceff07 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 8d]
+mickom60 : passe. 
+Vinceff07 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : mickom60 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Vinceff07 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°238575576756 : Tournoi #3470041491, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/09/2022 10:52:11 CET [12/09/2022 4:52:11 ET]
+Table '3470041491 1' 3-max Siège #2 est au bouton.
+Place 1: mickom60 (135 en jetons) 
+Place 2: Vinceff07 (295 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+psychoman59 : met la petite blind. 15
+mickom60 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 3c]
+Vinceff07 : passe. 
+psychoman59 : suit. 15
+mickom60 : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [Ks Tc 7h]
+psychoman59 : parole 
+mickom60 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à mickom60.
+mickom60 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ks Tc 7h]
+Siège 1 : mickom60 (grosse blind) a remporté (120)
+Siège 2 : Vinceff07 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238575580881 : Tournoi #3470041491, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 10:52:42 CET [12/09/2022 4:52:42 ET]
+Table '3470041491 1' 3-max Siège #3 est au bouton.
+Place 1: mickom60 (195 en jetons) 
+Place 2: Vinceff07 (295 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+mickom60 : met la petite blind. 20
+Vinceff07 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Jc]
+psychoman59 : passe. 
+mickom60 : suit. 20
+Vinceff07 : parole 
+*** FLOP *** [3c 2d Qh]
+mickom60 : mise. 40
+Vinceff07 : passe. 
+Personne n'a suivi. (40) sont retournés à mickom60.
+mickom60 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3c 2d Qh]
+Siège 1 : mickom60 (petite blind) a remporté (80)
+Siège 2 : Vinceff07 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238575582619 : Tournoi #3470041491, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 10:52:55 CET [12/09/2022 4:52:55 ET]
+Table '3470041491 1' 3-max Siège #1 est au bouton.
+Place 1: mickom60 (235 en jetons) 
+Place 2: Vinceff07 (255 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+Vinceff07 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 6s]
+mickom60 : passe. 
+Vinceff07 : relance. 215 à 255 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (215) sont retournés à Vinceff07.
+Vinceff07 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : mickom60 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Vinceff07 (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238575583790 : Tournoi #3470041491, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 10:53:03 CET [12/09/2022 4:53:03 ET]
+Table '3470041491 1' 3-max Siège #2 est au bouton.
+Place 1: mickom60 (235 en jetons) 
+Place 2: Vinceff07 (295 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+psychoman59 : met la petite blind. 20
+mickom60 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 3c]
+Vinceff07 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à mickom60.
+mickom60 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : mickom60 (grosse blind) a remporté (40)
+Siège 2 : Vinceff07 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238575584826 : Tournoi #3470041491, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 10:53:11 CET [12/09/2022 4:53:11 ET]
+Table '3470041491 1' 3-max Siège #3 est au bouton.
+Place 1: mickom60 (255 en jetons) 
+Place 2: Vinceff07 (295 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+mickom60 : met la petite blind. 20
+Vinceff07 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 7h]
+psychoman59 : passe. 
+mickom60 : suit. 20
+Vinceff07 : parole 
+*** FLOP *** [Td Th 8s]
+mickom60 : parole 
+Vinceff07 : parole 
+*** TOURNANT *** [Td Th 8s] [8c]
+mickom60 : parole 
+Vinceff07 : parole 
+*** RIVIÈRE *** [Td Th 8s 8c] [2d]
+mickom60 : parole 
+Vinceff07 : parole 
+*** ABATTAGE ***
+mickom60 : montre [9d 6d] (double paire, Dix et Huit)
+Vinceff07 : montre [Jd Kd] (double paire, Dix et Huit - Roi kicker)
+Vinceff07 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Td Th 8s 8c 2d]
+Siège 1 : mickom60 (petite blind) a montré [9d 6d] et a perdu avec double paire, Dix et Huit
+Siège 2 : Vinceff07 (grosse blind) a montré [Jd Kd] et a gagné (80) avec double paire, Dix et Huit
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238575589168 : Tournoi #3470041491, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/09/2022 10:53:43 CET [12/09/2022 4:53:43 ET]
+Table '3470041491 1' 3-max Siège #1 est au bouton.
+Place 1: mickom60 (215 en jetons) 
+Place 2: Vinceff07 (335 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+Vinceff07 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 3h]
+mickom60 : suit. 60
+Vinceff07 : relance. 275 à 335 et est all-in.
+psychoman59 : passe. 
+mickom60 : suit. 155 et est all-in.
+Personne n'a suivi. (120) sont retournés à Vinceff07.
+*** FLOP *** [Td 4h 2s]
+*** TOURNANT *** [Td 4h 2s] [6c]
+*** RIVIÈRE *** [Td 4h 2s 6c] [6h]
+*** ABATTAGE ***
+Vinceff07 : montre [7c Ac] (une paire de Six)
+mickom60 : montre [2d Ad] (double paire, Six et Deux)
+mickom60 a remporté 490  lors du pot .
+*** SYNTHÈSE ***
+Pot total 490 | Commission 0 
+Tableau [Td 4h 2s 6c 6h]
+Siège 1 : mickom60 (bouton) a montré [2d Ad] et a gagné (490) avec double paire, Six et Deux
+Siège 2 : Vinceff07 (petite blind) a montré [7c Ac] et a perdu avec une paire de Six
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238575591821 : Tournoi #3470041491, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/09/2022 10:54:03 CET [12/09/2022 4:54:03 ET]
+Table '3470041491 1' 3-max Siège #2 est au bouton.
+Place 1: mickom60 (490 en jetons) 
+Place 2: Vinceff07 (120 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+psychoman59 : met la petite blind. 30
+mickom60 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Th]
+Vinceff07 : passe. 
+psychoman59 : suit. 30
+mickom60 : parole 
+*** FLOP *** [6h 2h 3h]
+psychoman59 : parole 
+mickom60 : parole 
+*** TOURNANT *** [6h 2h 3h] [Ts]
+psychoman59 : mise. 60
+mickom60 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6h 2h 3h Ts]
+Siège 1 : mickom60 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : Vinceff07 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°238575596488 : Tournoi #3470041491, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/09/2022 10:54:37 CET [12/09/2022 4:54:37 ET]
+Table '3470041491 1' 3-max Siège #3 est au bouton.
+Place 1: mickom60 (430 en jetons) 
+Place 2: Vinceff07 (120 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+mickom60 : met la petite blind. 40
+Vinceff07 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Jc]
+psychoman59 : relance. 80 à 160
+mickom60 : passe. 
+Vinceff07 : suit. 40 et est all-in.
+Personne n'a suivi. (40) sont retournés à psychoman59.
+*** FLOP *** [2s 7c 7s]
+*** TOURNANT *** [2s 7c 7s] [3c]
+*** RIVIÈRE *** [2s 7c 7s 3c] [6d]
+*** ABATTAGE ***
+Vinceff07 : montre [5h Qc] (une paire de Sept)
+psychoman59 : montre [Ks Jc] (une paire de Sept - Roi kicker)
+psychoman59 a remporté 280  lors du pot .
+Vinceff07 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [2s 7c 7s 3c 6d]
+Siège 1 : mickom60 (petite blind) s'est couché. avant Flop
+Siège 2 : Vinceff07 (grosse blind) a montré [5h Qc] et a perdu avec une paire de Sept
+Siège 3 : psychoman59 (bouton) a montré [Ks Jc] et a gagné (280) avec une paire de Sept
+
+
+
+Main PokerStars n°238575599134 : Tournoi #3470041491, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/09/2022 10:54:56 CET [12/09/2022 4:54:56 ET]
+Table '3470041491 1' 3-max Siège #1 est au bouton.
+Place 1: mickom60 (390 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+mickom60 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 4c]
+mickom60 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [Qd 4h 5c]
+psychoman59 : parole 
+mickom60 : parole 
+*** TOURNANT *** [Qd 4h 5c] [7s]
+psychoman59 : parole 
+mickom60 : parole 
+*** RIVIÈRE *** [Qd 4h 5c 7s] [4d]
+psychoman59 : mise. 160
+mickom60 : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Qd 4h 5c 7s 4d]
+Siège 1 : mickom60 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°238575601879 : Tournoi #3470041491, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/09/2022 10:55:18 CET [12/09/2022 4:55:18 ET]
+Table '3470041491 1' 3-max Siège #3 est au bouton.
+Place 1: mickom60 (310 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+psychoman59 : met la petite blind. 40
+mickom60 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à mickom60.
+mickom60 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : mickom60 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238575603092 : Tournoi #3470041491, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 12/09/2022 10:55:28 CET [12/09/2022 4:55:28 ET]
+Table '3470041491 1' 3-max Siège #1 est au bouton.
+Place 1: mickom60 (350 en jetons) 
+Place 3: psychoman59 (550 en jetons) 
+mickom60 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 9h]
+mickom60 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : mickom60 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°238575603571 : Tournoi #3470041491, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 12/09/2022 10:55:33 CET [12/09/2022 4:55:33 ET]
+Table '3470041491 1' 3-max Siège #3 est au bouton.
+Place 1: mickom60 (300 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+psychoman59 : met la petite blind. 50
+mickom60 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 9s]
+psychoman59 : relance. 100 à 200
+mickom60 : relance. 100 à 300 et est all-in.
+psychoman59 : suit. 100
+*** FLOP *** [3d Jd Jh]
+*** TOURNANT *** [3d Jd Jh] [4c]
+*** RIVIÈRE *** [3d Jd Jh 4c] [4s]
+*** ABATTAGE ***
+mickom60 : montre [Qs Ah] (double paire, Valets et Quatre)
+psychoman59 : montre [Kh 9s] (double paire, Valets et Quatre - plus basse kicker)
+mickom60 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [3d Jd Jh 4c 4s]
+Siège 1 : mickom60 (grosse blind) a montré [Qs Ah] et a gagné (600) avec double paire, Valets et Quatre
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Kh 9s] et a perdu avec double paire, Valets et Quatre
+
+
+
+Main PokerStars n°238575605608 : Tournoi #3470041491, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 12/09/2022 10:55:50 CET [12/09/2022 4:55:50 ET]
+Table '3470041491 1' 3-max Siège #1 est au bouton.
+Place 1: mickom60 (600 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+mickom60 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8s]
+mickom60 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Ks 4h 2c]
+psychoman59 : parole 
+mickom60 : parole 
+*** TOURNANT *** [Ks 4h 2c] [3d]
+psychoman59 : parole 
+mickom60 : parole 
+*** RIVIÈRE *** [Ks 4h 2c 3d] [Th]
+psychoman59 : parole 
+mickom60 : mise. 100
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à mickom60.
+mickom60 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Ks 4h 2c 3d Th]
+Siège 1 : mickom60 (bouton) (petite blind) a remporté (200)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238575607819 : Tournoi #3470041491, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 12/09/2022 10:56:09 CET [12/09/2022 4:56:09 ET]
+Table '3470041491 1' 3-max Siège #3 est au bouton.
+Place 1: mickom60 (700 en jetons) 
+Place 3: psychoman59 (200 en jetons) 
+psychoman59 : met la petite blind. 50
+mickom60 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ts]
+psychoman59 : relance. 100 à 200 et est all-in.
+mickom60 : suit. 100
+*** FLOP *** [Ks 6c Ah]
+*** TOURNANT *** [Ks 6c Ah] [3c]
+*** RIVIÈRE *** [Ks 6c Ah 3c] [2s]
+*** ABATTAGE ***
+mickom60 : montre [5c 5h] (une paire de Cinq)
+psychoman59 : montre [Qh Ts] (Hauteur As)
+mickom60 a remporté 400  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+mickom60 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [Ks 6c Ah 3c 2s]
+Siège 1 : mickom60 (grosse blind) a montré [5c 5h] et a gagné (400) avec une paire de Cinq
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Qh Ts] et a perdu avec Hauteur As
+
+
+

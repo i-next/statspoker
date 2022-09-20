@@ -1,0 +1,77 @@
+﻿Main PokerStars n°237290956576 : Tournoi #3439856883, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 11:41:13 CET [11/07/2022 5:41:13 ET]
+Table '3439856883 1' 3-max Siège #1 est au bouton.
+Place 1: onucee (300 en jetons) 
+Place 2: Tobaall (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Tobaall : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 2d]
+onucee : passe. 
+Tobaall : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : onucee (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Tobaall (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237290958058 : Tournoi #3439856883, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 11:41:23 CET [11/07/2022 5:41:23 ET]
+Table '3439856883 1' 3-max Siège #2 est au bouton.
+Place 1: onucee (300 en jetons) 
+Place 2: Tobaall (290 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 10
+onucee : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Jd]
+Tobaall : passe. 
+psychoman59 : suit. 10
+onucee : parole 
+*** FLOP *** [3h 3c 4c]
+psychoman59 : parole 
+onucee : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à onucee.
+onucee a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [3h 3c 4c]
+Siège 1 : onucee (grosse blind) a remporté (40)
+Siège 2 : Tobaall (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237290961366 : Tournoi #3439856883, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 11:41:46 CET [11/07/2022 5:41:46 ET]
+Table '3439856883 1' 3-max Siège #3 est au bouton.
+Place 1: onucee (320 en jetons) 
+Place 2: Tobaall (290 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+onucee : met la petite blind. 10
+Tobaall : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Ah]
+psychoman59 : relance. 50 à 70
+onucee : passe. 
+Tobaall : relance. 220 à 290 et est all-in.
+psychoman59 : suit. 220 et est all-in.
+*** FLOP *** [9c 6c Tc]
+*** TOURNANT *** [9c 6c Tc] [7c]
+*** RIVIÈRE *** [9c 6c Tc 7c] [Kh]
+*** ABATTAGE ***
+Tobaall : montre [Ac 4s] (une couleur, hauteur As)
+psychoman59 : montre [8s Ah] (une suite, Six à Dix)
+Tobaall a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [9c 6c Tc 7c Kh]
+Siège 1 : onucee (petite blind) s'est couché. avant Flop
+Siège 2 : Tobaall (grosse blind) a montré [Ac 4s] et a gagné (590) avec une couleur, hauteur As
+Siège 3 : psychoman59 (bouton) a montré [8s Ah] et a perdu avec une suite, Six à Dix
+
+
+

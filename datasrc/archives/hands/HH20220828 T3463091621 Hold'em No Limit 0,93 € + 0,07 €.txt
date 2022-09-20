@@ -1,0 +1,358 @@
+﻿Main PokerStars n°238277086849 : Tournoi #3463091621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/08/2022 23:24:41 CET [28/08/2022 17:24:41 ET]
+Table '3463091621 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: djibril 1655 (300 en jetons) 
+Place 3: FOLD3BET18 (300 en jetons) 
+djibril 1655 : met la petite blind. 10
+FOLD3BET18 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 2h]
+psychoman59 : passe. 
+djibril 1655 : relance. 20 à 40
+FOLD3BET18 : suit. 20
+*** FLOP *** [6s 8d 7s]
+djibril 1655 : mise. 100
+FOLD3BET18 : relance. 160 à 260 et est all-in.
+djibril 1655 : suit. 160 et est all-in.
+*** TOURNANT *** [6s 8d 7s] [4d]
+*** RIVIÈRE *** [6s 8d 7s 4d] [6h]
+*** ABATTAGE ***
+djibril 1655 : montre [4c 3c] (double paire, Six et Quatre)
+FOLD3BET18 : montre [8h Td] (double paire, Huit et Six)
+FOLD3BET18 a remporté 600  lors du pot .
+djibril 1655 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [6s 8d 7s 4d 6h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : djibril 1655 (petite blind) a montré [4c 3c] et a perdu avec double paire, Six et Quatre
+Siège 3 : FOLD3BET18 (grosse blind) a montré [8h Td] et a gagné (600) avec double paire, Huit et Six
+
+
+
+Main PokerStars n°238277097021 : Tournoi #3463091621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/08/2022 23:25:07 CET [28/08/2022 17:25:07 ET]
+Table '3463091621 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 3: FOLD3BET18 (600 en jetons) 
+FOLD3BET18 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 4h]
+FOLD3BET18 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9c Kd 9h]
+psychoman59 : parole 
+FOLD3BET18 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à FOLD3BET18.
+FOLD3BET18 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9c Kd 9h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : FOLD3BET18 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°238277103941 : Tournoi #3463091621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/08/2022 23:25:25 CET [28/08/2022 17:25:25 ET]
+Table '3463091621 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 3: FOLD3BET18 (620 en jetons) 
+psychoman59 : met la petite blind. 10
+FOLD3BET18 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à FOLD3BET18.
+FOLD3BET18 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : FOLD3BET18 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°238277106526 : Tournoi #3463091621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/08/2022 23:25:32 CET [28/08/2022 17:25:32 ET]
+Table '3463091621 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 3: FOLD3BET18 (630 en jetons) 
+FOLD3BET18 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Qs]
+FOLD3BET18 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3d 4h 6c]
+psychoman59 : parole 
+FOLD3BET18 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [3d 4h 6c] [Ad]
+psychoman59 : parole 
+FOLD3BET18 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [3d 4h 6c Ad] [As]
+psychoman59 : parole 
+FOLD3BET18 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7c Qs] (une paire de As)
+FOLD3BET18 : montre [Qc 3c] (double paire, As et Trois)
+FOLD3BET18 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3d 4h 6c Ad As]
+Siège 1 : psychoman59 (grosse blind) a montré [7c Qs] et a perdu avec une paire de As
+Siège 3 : FOLD3BET18 (bouton) (petite blind) a montré [Qc 3c] et a gagné (120) avec double paire, As et Trois
+
+
+
+Main PokerStars n°238277116879 : Tournoi #3463091621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/08/2022 23:25:59 CET [28/08/2022 17:25:59 ET]
+Table '3463091621 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (210 en jetons) 
+Place 3: FOLD3BET18 (690 en jetons) 
+psychoman59 : met la petite blind. 15
+FOLD3BET18 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 9d]
+psychoman59 : suit. 15
+FOLD3BET18 : relance. 60 à 90
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à FOLD3BET18.
+FOLD3BET18 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : FOLD3BET18 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°238277121862 : Tournoi #3463091621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/08/2022 23:26:12 CET [28/08/2022 17:26:12 ET]
+Table '3463091621 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (180 en jetons) 
+Place 3: FOLD3BET18 (720 en jetons) 
+FOLD3BET18 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 4s]
+FOLD3BET18 : suit. 15
+psychoman59 : relance. 150 à 180 et est all-in.
+FOLD3BET18 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : FOLD3BET18 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238277125566 : Tournoi #3463091621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/08/2022 23:26:22 CET [28/08/2022 17:26:22 ET]
+Table '3463091621 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (210 en jetons) 
+Place 3: FOLD3BET18 (690 en jetons) 
+psychoman59 : met la petite blind. 15
+FOLD3BET18 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Tc]
+psychoman59 : relance. 30 à 60
+FOLD3BET18 : suit. 30
+*** FLOP *** [Qs 8s Ac]
+FOLD3BET18 : mise. 30
+psychoman59 : relance. 120 à 150 et est all-in.
+FOLD3BET18 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Qs 8s Ac]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (180)
+Siège 3 : FOLD3BET18 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238277132829 : Tournoi #3463091621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/08/2022 23:26:41 CET [28/08/2022 17:26:41 ET]
+Table '3463091621 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 3: FOLD3BET18 (600 en jetons) 
+FOLD3BET18 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 2c]
+FOLD3BET18 : relance. 60 à 90
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à FOLD3BET18.
+FOLD3BET18 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : FOLD3BET18 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°238277137057 : Tournoi #3463091621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/08/2022 23:26:52 CET [28/08/2022 17:26:52 ET]
+Table '3463091621 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 3: FOLD3BET18 (630 en jetons) 
+psychoman59 : met la petite blind. 20
+FOLD3BET18 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à FOLD3BET18.
+FOLD3BET18 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : FOLD3BET18 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238277139921 : Tournoi #3463091621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/08/2022 23:26:59 CET [28/08/2022 17:26:59 ET]
+Table '3463091621 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 3: FOLD3BET18 (650 en jetons) 
+FOLD3BET18 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 7s]
+FOLD3BET18 : relance. 40 à 80
+psychoman59 : suit. 40
+*** FLOP *** [3d Qh 5s]
+psychoman59 : parole 
+FOLD3BET18 : mise. 160
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à FOLD3BET18.
+FOLD3BET18 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [3d Qh 5s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : FOLD3BET18 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°238277146484 : Tournoi #3463091621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/08/2022 23:27:17 CET [28/08/2022 17:27:17 ET]
+Table '3463091621 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (170 en jetons) 
+Place 3: FOLD3BET18 (730 en jetons) 
+psychoman59 : met la petite blind. 20
+FOLD3BET18 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à FOLD3BET18.
+FOLD3BET18 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : FOLD3BET18 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238277148438 : Tournoi #3463091621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/08/2022 23:27:22 CET [28/08/2022 17:27:22 ET]
+Table '3463091621 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (150 en jetons) 
+Place 3: FOLD3BET18 (750 en jetons) 
+FOLD3BET18 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Jd]
+FOLD3BET18 : suit. 20
+psychoman59 : relance. 110 à 150 et est all-in.
+FOLD3BET18 : passe. 
+Personne n'a suivi. (110) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : FOLD3BET18 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238277152562 : Tournoi #3463091621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/08/2022 23:27:33 CET [28/08/2022 17:27:33 ET]
+Table '3463091621 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (190 en jetons) 
+Place 3: FOLD3BET18 (710 en jetons) 
+psychoman59 : met la petite blind. 20
+FOLD3BET18 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à FOLD3BET18.
+FOLD3BET18 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : FOLD3BET18 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238277154495 : Tournoi #3463091621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/08/2022 23:27:38 CET [28/08/2022 17:27:38 ET]
+Table '3463091621 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (170 en jetons) 
+Place 3: FOLD3BET18 (730 en jetons) 
+FOLD3BET18 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 7h]
+FOLD3BET18 : relance. 80 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à FOLD3BET18.
+FOLD3BET18 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : FOLD3BET18 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°238277159195 : Tournoi #3463091621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/08/2022 23:27:50 CET [28/08/2022 17:27:50 ET]
+Table '3463091621 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (130 en jetons) 
+Place 3: FOLD3BET18 (770 en jetons) 
+psychoman59 : met la petite blind. 30
+FOLD3BET18 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 7d]
+psychoman59 : relance. 70 à 130 et est all-in.
+FOLD3BET18 : passe. 
+Personne n'a suivi. (70) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : FOLD3BET18 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238277163195 : Tournoi #3463091621, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/08/2022 23:28:01 CET [28/08/2022 17:28:01 ET]
+Table '3463091621 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (190 en jetons) 
+Place 3: FOLD3BET18 (710 en jetons) 
+FOLD3BET18 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 2c]
+FOLD3BET18 : relance. 120 à 180
+psychoman59 : relance. 10 à 190 et est all-in.
+FOLD3BET18 : suit. 10
+*** FLOP *** [4c 6c Th]
+*** TOURNANT *** [4c 6c Th] [Td]
+*** RIVIÈRE *** [4c 6c Th Td] [9s]
+*** ABATTAGE ***
+psychoman59 : montre [Qc 2c] (une paire de Dix)
+FOLD3BET18 : montre [Kh 4s] (double paire, Dix et Quatre)
+FOLD3BET18 a remporté 380  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+FOLD3BET18 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [4c 6c Th Td 9s]
+Siège 1 : psychoman59 (grosse blind) a montré [Qc 2c] et a perdu avec une paire de Dix
+Siège 3 : FOLD3BET18 (bouton) (petite blind) a montré [Kh 4s] et a gagné (380) avec double paire, Dix et Quatre
+
+
+

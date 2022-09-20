@@ -1,0 +1,396 @@
+﻿Main PokerStars n°237229531838 : Tournoi #3438423258, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 9:46:22 CET [08/07/2022 3:46:22 ET]
+Table '3438423258 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Mantocan (300 en jetons) 
+Place 3: Akilachile (300 en jetons) 
+Mantocan : met la petite blind. 10
+Akilachile : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks As]
+psychoman59 : relance. 280 à 300 et est all-in.
+Mantocan : passe. 
+Akilachile : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (50)
+Siège 2 : Mantocan (petite blind) s'est couché. avant Flop
+Siège 3 : Akilachile (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237229532988 : Tournoi #3438423258, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 9:46:32 CET [08/07/2022 3:46:32 ET]
+Table '3438423258 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: Mantocan (290 en jetons) 
+Place 3: Akilachile (280 en jetons) 
+Akilachile : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 8s]
+Mantocan : suit. 20
+Akilachile : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Js Ts Jh]
+Akilachile : parole 
+psychoman59 : parole 
+Mantocan : parole 
+*** TOURNANT *** [Js Ts Jh] [Qd]
+Akilachile : parole 
+psychoman59 : parole 
+Mantocan : parole 
+*** RIVIÈRE *** [Js Ts Jh Qd] [4h]
+Akilachile : parole 
+psychoman59 : parole 
+Mantocan : parole 
+*** ABATTAGE ***
+Akilachile : montre [7h 6s] (une paire de Valets)
+psychoman59 : montre [5s 8s] (une paire de Valets - Dame+Dix+Huit kicker)
+Mantocan : montre [Ac 4s] (double paire, Valets et Quatre)
+Mantocan a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Js Ts Jh Qd 4h]
+Siège 1 : psychoman59 (grosse blind) a montré [5s 8s] et a perdu avec une paire de Valets
+Siège 2 : Mantocan (bouton) a montré [Ac 4s] et a gagné (60) avec double paire, Valets et Quatre
+Siège 3 : Akilachile (petite blind) a montré [7h 6s] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°237229536023 : Tournoi #3438423258, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 9:46:58 CET [08/07/2022 3:46:58 ET]
+Table '3438423258 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: Mantocan (330 en jetons) 
+Place 3: Akilachile (260 en jetons) 
+psychoman59 : met la petite blind. 10
+Mantocan : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 9c]
+Akilachile : suit. 20
+psychoman59 : passe. 
+Mantocan : parole 
+*** FLOP *** [2s As Ad]
+Mantocan : parole 
+Akilachile : mise. 40
+Mantocan : passe. 
+Personne n'a suivi. (40) sont retournés à Akilachile.
+Akilachile a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [2s As Ad]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Mantocan (grosse blind) s'est couché. sur le Flop
+Siège 3 : Akilachile (bouton) a remporté (50)
+
+
+
+Main PokerStars n°237229537857 : Tournoi #3438423258, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 9:47:14 CET [08/07/2022 3:47:14 ET]
+Table '3438423258 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Mantocan (310 en jetons) 
+Place 3: Akilachile (290 en jetons) 
+Mantocan : met la petite blind. 10
+Akilachile : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Kh]
+psychoman59 : suit. 20
+Mantocan : suit. 10
+Akilachile : parole 
+*** FLOP *** [9h 3s Ac]
+Mantocan : parole 
+Akilachile : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9h 3s Ac] [3d]
+Mantocan : parole 
+Akilachile : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9h 3s Ac 3d] [6d]
+Mantocan : parole 
+Akilachile : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Mantocan : montre [Qh Jd] (une paire de Trois)
+Akilachile : cache la main perdante. 
+psychoman59 : montre [6h Kh] (double paire, Six et Trois)
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9h 3s Ac 3d 6d]
+Siège 1 : psychoman59 (bouton) a montré [6h Kh] et a gagné (60) avec double paire, Six et Trois
+Siège 2 : Mantocan (petite blind) a montré [Qh Jd] et a perdu avec une paire de Trois
+Siège 3 : Akilachile (grosse blind) a caché la main perdante. [2c Td]
+
+
+
+Main PokerStars n°237229544915 : Tournoi #3438423258, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2022 9:48:14 CET [08/07/2022 3:48:14 ET]
+Table '3438423258 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: Mantocan (290 en jetons) 
+Place 3: Akilachile (270 en jetons) 
+Akilachile : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ah]
+Mantocan : passe. 
+Akilachile : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : Mantocan (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Akilachile (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237229546019 : Tournoi #3438423258, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2022 9:48:24 CET [08/07/2022 3:48:24 ET]
+Table '3438423258 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (355 en jetons) 
+Place 2: Mantocan (290 en jetons) 
+Place 3: Akilachile (255 en jetons) 
+psychoman59 : met la petite blind. 15
+Mantocan : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 6d]
+Akilachile : relance. 225 à 255 et est all-in.
+psychoman59 : passe. 
+Mantocan : passe. 
+Personne n'a suivi. (225) sont retournés à Akilachile.
+Akilachile a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Mantocan (grosse blind) s'est couché. avant Flop
+Siège 3 : Akilachile (bouton) a remporté (75)
+
+
+
+Main PokerStars n°237229547674 : Tournoi #3438423258, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 9:48:37 CET [08/07/2022 3:48:37 ET]
+Table '3438423258 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: Mantocan (260 en jetons) 
+Place 3: Akilachile (300 en jetons) 
+Mantocan : met la petite blind. 20
+Akilachile : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 8h]
+psychoman59 : passe. 
+Mantocan : passe. 
+Personne n'a suivi. (20) sont retournés à Akilachile.
+Akilachile a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Mantocan (petite blind) s'est couché. avant Flop
+Siège 3 : Akilachile (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237229548529 : Tournoi #3438423258, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 9:48:45 CET [08/07/2022 3:48:45 ET]
+Table '3438423258 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: Mantocan (240 en jetons) 
+Place 3: Akilachile (320 en jetons) 
+Akilachile : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 5d]
+Mantocan : passe. 
+Akilachile : suit. 20
+psychoman59 : parole 
+*** FLOP *** [4h 7d Kh]
+Akilachile : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [4h 7d Kh] [8s]
+Akilachile : parole 
+psychoman59 : mise. 80
+Akilachile : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [4h 7d Kh 8s]
+Siège 1 : psychoman59 (grosse blind) a remporté (160)
+Siège 2 : Mantocan (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Akilachile (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237229550665 : Tournoi #3438423258, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 9:49:03 CET [08/07/2022 3:49:03 ET]
+Table '3438423258 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: Mantocan (240 en jetons) 
+Place 3: Akilachile (240 en jetons) 
+psychoman59 : met la petite blind. 20
+Mantocan : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 8s]
+Akilachile : passe. 
+psychoman59 : relance. 80 à 120
+Mantocan : relance. 120 à 240 et est all-in.
+psychoman59 : suit. 120
+*** FLOP *** [4d Ac Qs]
+*** TOURNANT *** [4d Ac Qs] [4c]
+*** RIVIÈRE *** [4d Ac Qs 4c] [Jc]
+*** ABATTAGE ***
+psychoman59 : montre [8c 8s] (double paire, Huit et Quatre)
+Mantocan : montre [Ah Ad] (un full, full aux As par les Quatre)
+Mantocan a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [4d Ac Qs 4c Jc]
+Siège 1 : psychoman59 (petite blind) a montré [8c 8s] et a perdu avec double paire, Huit et Quatre
+Siège 2 : Mantocan (grosse blind) a montré [Ah Ad] et a gagné (480) avec un full, full aux As par les Quatre
+Siège 3 : Akilachile (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237229553023 : Tournoi #3438423258, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 9:49:22 CET [08/07/2022 3:49:22 ET]
+Table '3438423258 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (180 en jetons) 
+Place 2: Mantocan (480 en jetons) 
+Place 3: Akilachile (240 en jetons) 
+Mantocan : met la petite blind. 20
+Akilachile : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Jc]
+psychoman59 : passe. 
+Mantocan : suit. 20
+Akilachile : parole 
+*** FLOP *** [Kd Ks 9h]
+Mantocan : parole 
+Akilachile : parole 
+*** TOURNANT *** [Kd Ks 9h] [Ad]
+Mantocan : parole 
+Akilachile : parole 
+*** RIVIÈRE *** [Kd Ks 9h Ad] [9c]
+Mantocan : parole 
+Akilachile : parole 
+*** ABATTAGE ***
+Mantocan : montre [5s 3c] (double paire, Rois et Neuf)
+Akilachile : montre [6d 4c] (double paire, Rois et Neuf)
+Mantocan a remporté 40  lors du pot .
+Akilachile a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Kd Ks 9h Ad 9c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Mantocan (petite blind) a montré [5s 3c] et a gagné (40) avec double paire, Rois et Neuf
+Siège 3 : Akilachile (grosse blind) a montré [6d 4c] et a gagné (40) avec double paire, Rois et Neuf
+
+
+
+Main PokerStars n°237229555520 : Tournoi #3438423258, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/07/2022 9:49:43 CET [08/07/2022 3:49:43 ET]
+Table '3438423258 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (180 en jetons) 
+Place 2: Mantocan (480 en jetons) 
+Place 3: Akilachile (240 en jetons) 
+Akilachile : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Qs]
+Mantocan : passe. 
+Akilachile : suit. 30
+psychoman59 : relance. 120 à 180 et est all-in.
+Akilachile : suit. 120
+*** FLOP *** [6d 3s As]
+*** TOURNANT *** [6d 3s As] [5d]
+*** RIVIÈRE *** [6d 3s As 5d] [Ah]
+*** ABATTAGE ***
+Akilachile : montre [9c 8h] (une paire de As)
+psychoman59 : montre [Kh Qs] (une paire de As - Roi kicker)
+psychoman59 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [6d 3s As 5d Ah]
+Siège 1 : psychoman59 (grosse blind) a montré [Kh Qs] et a gagné (360) avec une paire de As
+Siège 2 : Mantocan (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Akilachile (petite blind) a montré [9c 8h] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°237229557382 : Tournoi #3438423258, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/07/2022 9:49:59 CET [08/07/2022 3:49:59 ET]
+Table '3438423258 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (360 en jetons) 
+Place 2: Mantocan (480 en jetons) 
+Place 3: Akilachile (60 en jetons) 
+psychoman59 : met la petite blind. 30
+Mantocan : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 4d]
+Akilachile : suit. 60 et est all-in.
+psychoman59 : passe. 
+*** FLOP *** [6d 2d Js]
+*** TOURNANT *** [6d 2d Js] [5c]
+*** RIVIÈRE *** [6d 2d Js 5c] [4s]
+*** ABATTAGE ***
+Mantocan : montre [8c As] (Hauteur As)
+Akilachile : montre [Qd Jh] (une paire de Valets)
+Akilachile a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [6d 2d Js 5c 4s]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Mantocan (grosse blind) a montré [8c As] et a perdu avec Hauteur As
+Siège 3 : Akilachile (bouton) a montré [Qd Jh] et a gagné (150) avec une paire de Valets
+
+
+
+Main PokerStars n°237229558779 : Tournoi #3438423258, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/07/2022 9:50:11 CET [08/07/2022 3:50:11 ET]
+Table '3438423258 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: Mantocan (420 en jetons) 
+Place 3: Akilachile (150 en jetons) 
+Mantocan : met la petite blind. 30
+Akilachile : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Ts]
+psychoman59 : relance. 120 à 180
+Mantocan : relance. 240 à 420 et est all-in.
+Akilachile : suit. 90 et est all-in.
+psychoman59 : suit. 150 et est all-in.
+Personne n'a suivi. (90) sont retournés à Mantocan.
+*** FLOP *** [4c 6c As]
+*** TOURNANT *** [4c 6c As] [Kh]
+*** RIVIÈRE *** [4c 6c As Kh] [3s]
+*** ABATTAGE ***
+Mantocan : montre [Jc Tc] (Hauteur As)
+psychoman59 : montre [Ks Ts] (une paire de Rois)
+psychoman59 a remporté 360  parallèle lors du pot .
+Akilachile : montre [4s 5h] (une paire de Quatre)
+psychoman59 a remporté 450  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 810 Principal pot 450. Parallèle pot 360. | Commission 0 
+Tableau [4c 6c As Kh 3s]
+Siège 1 : psychoman59 (bouton) a montré [Ks Ts] et a gagné (810) avec une paire de Rois
+Siège 2 : Mantocan (petite blind) a montré [Jc Tc] et a perdu avec Hauteur As
+Siège 3 : Akilachile (grosse blind) a montré [4s 5h] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°237229562056 : Tournoi #3438423258, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 08/07/2022 9:50:38 CET [08/07/2022 3:50:38 ET]
+Table '3438423258 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (810 en jetons) 
+Place 2: Mantocan (90 en jetons) 
+Mantocan : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 7d]
+Mantocan : relance. 10 à 90 et est all-in.
+psychoman59 : suit. 10
+*** FLOP *** [5c 8d 6d]
+*** TOURNANT *** [5c 8d 6d] [Js]
+*** RIVIÈRE *** [5c 8d 6d Js] [As]
+*** ABATTAGE ***
+psychoman59 : montre [6c 7d] (une paire de Six)
+Mantocan : montre [7s 5d] (une paire de Cinq)
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [5c 8d 6d Js As]
+Siège 1 : psychoman59 (grosse blind) a montré [6c 7d] et a gagné (180) avec une paire de Six
+Siège 2 : Mantocan (bouton) (petite blind) a montré [7s 5d] et a perdu avec une paire de Cinq
+
+
+

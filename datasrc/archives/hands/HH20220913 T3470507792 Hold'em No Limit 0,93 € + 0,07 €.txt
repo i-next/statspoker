@@ -1,0 +1,504 @@
+﻿Main PokerStars n°238595782359 : Tournoi #3470507792, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 9:31:06 CET [13/09/2022 3:31:06 ET]
+Table '3470507792 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: douoib (300 en jetons) 
+Place 3: headoner56 (300 en jetons) 
+douoib : met la petite blind. 10
+headoner56 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Qd]
+psychoman59 : relance. 50 à 70
+douoib : passe. 
+headoner56 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (50)
+Siège 2 : douoib (petite blind) s'est couché. avant Flop
+Siège 3 : headoner56 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238595783658 : Tournoi #3470507792, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 9:31:18 CET [13/09/2022 3:31:18 ET]
+Table '3470507792 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: douoib (290 en jetons) 
+Place 3: headoner56 (280 en jetons) 
+headoner56 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac As]
+douoib : passe. 
+headoner56 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qd 7c 6s]
+headoner56 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [Qd 7c 6s] [5d]
+headoner56 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Qd 7c 6s 5d] [8d]
+headoner56 : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+headoner56 : montre [Qh 3h] (une paire de Dames)
+psychoman59 : montre [Ac As] (une paire de As)
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Qd 7c 6s 5d 8d]
+Siège 1 : psychoman59 (grosse blind) a montré [Ac As] et a gagné (160) avec une paire de As
+Siège 2 : douoib (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : headoner56 (petite blind) a montré [Qh 3h] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°238595785721 : Tournoi #3470507792, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 9:31:36 CET [13/09/2022 3:31:36 ET]
+Table '3470507792 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (410 en jetons) 
+Place 2: douoib (290 en jetons) 
+Place 3: headoner56 (200 en jetons) 
+psychoman59 : met la petite blind. 10
+douoib : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Ah]
+headoner56 : suit. 20
+psychoman59 : suit. 10
+douoib : relance. 40 à 60
+headoner56 : suit. 40
+psychoman59 : relance. 350 à 410 et est all-in.
+douoib : suit. 230 et est all-in.
+headoner56 : suit. 140 et est all-in.
+Personne n'a suivi. (120) sont retournés à psychoman59.
+*** FLOP *** [6d 3d 6h]
+*** TOURNANT *** [6d 3d 6h] [8s]
+*** RIVIÈRE *** [6d 3d 6h 8s] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [Th Ah] (une paire de Six)
+douoib : montre [As Jd] (une paire de Six - As+Valet kicker)
+douoib a remporté 180  parallèle lors du pot .
+headoner56 : montre [Td Kh] (une paire de Six - plus basse kicker)
+douoib a remporté 600  principal lors du pot .
+headoner56 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 780 Principal pot 600. Parallèle pot 180. | Commission 0 
+Tableau [6d 3d 6h 8s 2h]
+Siège 1 : psychoman59 (petite blind) a montré [Th Ah] et a perdu avec une paire de Six
+Siège 2 : douoib (grosse blind) a montré [As Jd] et a gagné (780) avec une paire de Six
+Siège 3 : headoner56 (bouton) a montré [Td Kh] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°238595788469 : Tournoi #3470507792, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 9:32:02 CET [13/09/2022 3:32:02 ET]
+Table '3470507792 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (120 en jetons) 
+Place 2: douoib (780 en jetons) 
+douoib : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Kh]
+douoib : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9h 9d Ad]
+psychoman59 : parole 
+douoib : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à douoib.
+douoib a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9h 9d Ad]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : douoib (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°238595790444 : Tournoi #3470507792, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 9:32:20 CET [13/09/2022 3:32:20 ET]
+Table '3470507792 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (100 en jetons) 
+Place 2: douoib (800 en jetons) 
+psychoman59 : met la petite blind. 15
+douoib : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 2d]
+psychoman59 : relance. 70 à 100 et est all-in.
+douoib : passe. 
+Personne n'a suivi. (70) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 2 : douoib (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238595791514 : Tournoi #3470507792, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 9:32:30 CET [13/09/2022 3:32:30 ET]
+Table '3470507792 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (130 en jetons) 
+Place 2: douoib (770 en jetons) 
+douoib : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 7d]
+douoib : relance. 60 à 90
+psychoman59 : relance. 40 à 130 et est all-in.
+douoib : suit. 40
+*** FLOP *** [Jh 5d 7s]
+*** TOURNANT *** [Jh 5d 7s] [Js]
+*** RIVIÈRE *** [Jh 5d 7s Js] [6s]
+*** ABATTAGE ***
+psychoman59 : montre [Qd 7d] (double paire, Valets et Sept)
+douoib : montre [As 3h] (une paire de Valets)
+psychoman59 a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [Jh 5d 7s Js 6s]
+Siège 1 : psychoman59 (grosse blind) a montré [Qd 7d] et a gagné (260) avec double paire, Valets et Sept
+Siège 2 : douoib (bouton) (petite blind) a montré [As 3h] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°238595793896 : Tournoi #3470507792, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 9:32:52 CET [13/09/2022 3:32:52 ET]
+Table '3470507792 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: douoib (640 en jetons) 
+psychoman59 : met la petite blind. 15
+douoib : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Ks]
+psychoman59 : relance. 230 à 260 et est all-in.
+douoib : passe. 
+Personne n'a suivi. (230) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 2 : douoib (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238595794747 : Tournoi #3470507792, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 9:33:00 CET [13/09/2022 3:33:00 ET]
+Table '3470507792 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 2: douoib (610 en jetons) 
+douoib : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 2c]
+douoib : suit. 15
+psychoman59 : parole 
+*** FLOP *** [3d Kc Jh]
+psychoman59 : parole 
+douoib : mise. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [3d Kc Jh] [As]
+psychoman59 : parole 
+douoib : parole 
+*** RIVIÈRE *** [3d Kc Jh As] [4c]
+psychoman59 : mise. 200 et est all-in.
+douoib : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [3d Kc Jh As 4c]
+Siège 1 : psychoman59 (grosse blind) a remporté (180)
+Siège 2 : douoib (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238595798846 : Tournoi #3470507792, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 9:33:37 CET [13/09/2022 3:33:37 ET]
+Table '3470507792 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 2: douoib (520 en jetons) 
+psychoman59 : met la petite blind. 20
+douoib : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 6d]
+psychoman59 : suit. 20
+douoib : relance. 480 à 520 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (480) sont retournés à douoib.
+douoib a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : douoib (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°238595800182 : Tournoi #3470507792, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 9:33:49 CET [13/09/2022 3:33:49 ET]
+Table '3470507792 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: douoib (560 en jetons) 
+douoib : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 8s]
+douoib : relance. 80 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à douoib.
+douoib a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : douoib (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°238595801084 : Tournoi #3470507792, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 9:33:57 CET [13/09/2022 3:33:57 ET]
+Table '3470507792 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: douoib (600 en jetons) 
+psychoman59 : met la petite blind. 20
+douoib : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à douoib.
+douoib a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : douoib (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238595801624 : Tournoi #3470507792, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 9:34:02 CET [13/09/2022 3:34:02 ET]
+Table '3470507792 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: douoib (620 en jetons) 
+douoib : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 2c]
+douoib : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : douoib (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238595802092 : Tournoi #3470507792, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 9:34:07 CET [13/09/2022 3:34:07 ET]
+Table '3470507792 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: douoib (600 en jetons) 
+psychoman59 : met la petite blind. 20
+douoib : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 6s]
+psychoman59 : relance. 260 à 300 et est all-in.
+douoib : passe. 
+Personne n'a suivi. (260) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : douoib (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238595803182 : Tournoi #3470507792, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/09/2022 9:34:17 CET [13/09/2022 3:34:17 ET]
+Table '3470507792 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: douoib (560 en jetons) 
+douoib : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 9d]
+douoib : relance. 60 à 120
+psychoman59 : suit. 60
+*** FLOP *** [2d Th 9c]
+psychoman59 : mise. 220 et est all-in.
+douoib : suit. 220
+*** TOURNANT *** [2d Th 9c] [5c]
+*** RIVIÈRE *** [2d Th 9c 5c] [7h]
+*** ABATTAGE ***
+psychoman59 : montre [Jh 9d] (une paire de Neuf)
+douoib : montre [Ks 7d] (une paire de Sept)
+psychoman59 a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [2d Th 9c 5c 7h]
+Siège 1 : psychoman59 (grosse blind) a montré [Jh 9d] et a gagné (680) avec une paire de Neuf
+Siège 2 : douoib (bouton) (petite blind) a montré [Ks 7d] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°238595804823 : Tournoi #3470507792, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/09/2022 9:34:32 CET [13/09/2022 3:34:32 ET]
+Table '3470507792 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (680 en jetons) 
+Place 2: douoib (220 en jetons) 
+psychoman59 : met la petite blind. 30
+douoib : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à douoib.
+douoib a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : douoib (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°238595805322 : Tournoi #3470507792, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/09/2022 9:34:37 CET [13/09/2022 3:34:37 ET]
+Table '3470507792 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (650 en jetons) 
+Place 2: douoib (250 en jetons) 
+douoib : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Td]
+douoib : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : douoib (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238595805804 : Tournoi #3470507792, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/09/2022 9:34:42 CET [13/09/2022 3:34:42 ET]
+Table '3470507792 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (680 en jetons) 
+Place 2: douoib (220 en jetons) 
+psychoman59 : met la petite blind. 30
+douoib : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à douoib.
+douoib a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : douoib (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°238595806356 : Tournoi #3470507792, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/09/2022 9:34:47 CET [13/09/2022 3:34:47 ET]
+Table '3470507792 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (650 en jetons) 
+Place 2: douoib (250 en jetons) 
+douoib : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 6s]
+douoib : relance. 190 à 250 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (190) sont retournés à douoib.
+douoib a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : douoib (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°238595806997 : Tournoi #3470507792, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/09/2022 9:34:53 CET [13/09/2022 3:34:53 ET]
+Table '3470507792 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (590 en jetons) 
+Place 2: douoib (310 en jetons) 
+psychoman59 : met la petite blind. 30
+douoib : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Qd]
+psychoman59 : relance. 530 à 590 et est all-in.
+douoib : suit. 250 et est all-in.
+Personne n'a suivi. (280) sont retournés à psychoman59.
+*** FLOP *** [2s 9s 9d]
+*** TOURNANT *** [2s 9s 9d] [Jd]
+*** RIVIÈRE *** [2s 9s 9d Jd] [7c]
+*** ABATTAGE ***
+douoib : montre [Ad Qh] (une paire de Neuf)
+psychoman59 : montre [3d Qd] (une paire de Neuf - plus basse kicker)
+douoib a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [2s 9s 9d Jd 7c]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [3d Qd] et a perdu avec une paire de Neuf
+Siège 2 : douoib (grosse blind) a montré [Ad Qh] et a gagné (620) avec une paire de Neuf
+
+
+
+Main PokerStars n°238595808469 : Tournoi #3470507792, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/09/2022 9:35:06 CET [13/09/2022 3:35:06 ET]
+Table '3470507792 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: douoib (620 en jetons) 
+douoib : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 2h]
+douoib : relance. 120 à 180
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à douoib.
+douoib a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : douoib (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°238595809532 : Tournoi #3470507792, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 13/09/2022 9:35:15 CET [13/09/2022 3:35:15 ET]
+Table '3470507792 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (220 en jetons) 
+Place 2: douoib (680 en jetons) 
+psychoman59 : met la petite blind. 40
+douoib : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 4d]
+psychoman59 : relance. 140 à 220 et est all-in.
+douoib : passe. 
+Personne n'a suivi. (140) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 2 : douoib (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238595810642 : Tournoi #3470507792, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 13/09/2022 9:35:25 CET [13/09/2022 3:35:25 ET]
+Table '3470507792 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: douoib (600 en jetons) 
+douoib : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 7s]
+douoib : relance. 520 à 600 et est all-in.
+psychoman59 : suit. 220 et est all-in.
+Personne n'a suivi. (300) sont retournés à douoib.
+*** FLOP *** [Jh Ts 6c]
+*** TOURNANT *** [Jh Ts 6c] [4d]
+*** RIVIÈRE *** [Jh Ts 6c 4d] [Td]
+*** ABATTAGE ***
+psychoman59 : montre [8s 7s] (une paire de Dix)
+douoib : montre [Kc 5d] (une paire de Dix - Roi kicker)
+douoib a remporté 600  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+douoib remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [Jh Ts 6c 4d Td]
+Siège 1 : psychoman59 (grosse blind) a montré [8s 7s] et a perdu avec une paire de Dix
+Siège 2 : douoib (bouton) (petite blind) a montré [Kc 5d] et a gagné (600) avec une paire de Dix
+
+
+

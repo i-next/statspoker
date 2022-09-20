@@ -1,0 +1,68 @@
+﻿Main PokerStars n°237620105351 : Tournoi #3447501779, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 27/07/2022 17:58:25 CET [27/07/2022 11:58:25 ET]
+Table '3447501779 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 2: TeupAPok (5000 en jetons) 
+Place 3: RealCarpeDiem (5000 en jetons) 
+Place 4: dabori94 (5000 en jetons) 
+psychoman59 : met l'ante. 10
+TeupAPok : met l'ante. 10
+RealCarpeDiem : met l'ante. 10
+dabori94 : met l'ante. 10
+TeupAPok : met la petite blind. 50
+RealCarpeDiem : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 8s]
+dabori94 : passe. 
+psychoman59 : passe. 
+TeupAPok a dépassé le temps imparti.
+TeupAPok : passe. 
+TeupAPok ne joue pas.
+Personne n'a suivi. (50) sont retournés à RealCarpeDiem.
+RealCarpeDiem a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : TeupAPok (petite blind) s'est couché. avant Flop
+Siège 3 : RealCarpeDiem (grosse blind) a remporté (140)
+Siège 4 : dabori94 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237620117342 : Tournoi #3447501779, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 27/07/2022 17:59:17 CET [27/07/2022 11:59:17 ET]
+Table '3447501779 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4990 en jetons) 
+Place 2: TeupAPok (4940 en jetons) ne joue pas.
+Place 3: RealCarpeDiem (5080 en jetons) 
+Place 4: dabori94 (4990 en jetons) 
+psychoman59 : met l'ante. 10
+TeupAPok : met l'ante. 10
+RealCarpeDiem : met l'ante. 10
+dabori94 : met l'ante. 10
+RealCarpeDiem : met la petite blind. 50
+dabori94 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 7s]
+psychoman59 : relance. 200 à 300
+TeupAPok : passe. 
+RealCarpeDiem : relance. 740 à 1040
+dabori94 : relance. 3940 à 4980 et est all-in.
+psychoman59 : suit. 4680 et est all-in.
+RealCarpeDiem : suit. 3940
+*** FLOP *** [Qh 5h Th]
+*** TOURNANT *** [Qh 5h Th] [2c]
+*** RIVIÈRE *** [Qh 5h Th 2c] [8s]
+*** ABATTAGE ***
+RealCarpeDiem : montre [Qs Td] (double paire, Dames et Dix)
+dabori94 : montre [Ks Ts] (une paire de Dix)
+psychoman59 : montre [7h 7s] (une paire de Sept)
+RealCarpeDiem a remporté 14980  lors du pot .
+*** SYNTHÈSE ***
+Pot total 14980 | Commission 0 
+Tableau [Qh 5h Th 2c 8s]
+Siège 1 : psychoman59 a montré [7h 7s] et a perdu avec une paire de Sept
+Siège 2 : TeupAPok (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : RealCarpeDiem (petite blind) a montré [Qs Td] et a gagné (14980) avec double paire, Dames et Dix
+Siège 4 : dabori94 (grosse blind) a montré [Ks Ts] et a perdu avec une paire de Dix
+
+
+

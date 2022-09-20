@@ -1,0 +1,216 @@
+﻿Main PokerStars n°237575544486 : Tournoi #3446464414, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 15:21:40 CET [25/07/2022 9:21:40 ET]
+Table '3446464414 1' 3-max Siège #1 est au bouton.
+Place 1: PurlOsko (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: alex2v251 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+alex2v251 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Kd]
+PurlOsko : passe. 
+psychoman59 : suit. 10
+alex2v251 : parole 
+*** FLOP *** [9h 3d 6h]
+psychoman59 : parole 
+alex2v251 : parole 
+*** TOURNANT *** [9h 3d 6h] [Td]
+psychoman59 : parole 
+alex2v251 : parole 
+*** RIVIÈRE *** [9h 3d 6h Td] [2c]
+psychoman59 : parole 
+alex2v251 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5c Kd] (Hauteur Roi)
+alex2v251 : montre [5s Ks] (Hauteur Roi)
+psychoman59 a remporté 20  lors du pot .
+alex2v251 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9h 3d 6h Td 2c]
+Siège 1 : PurlOsko (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [5c Kd] et a gagné (20) avec Hauteur Roi
+Siège 3 : alex2v251 (grosse blind) a montré [5s Ks] et a gagné (20) avec Hauteur Roi
+
+
+
+Main PokerStars n°237575550573 : Tournoi #3446464414, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 15:22:07 CET [25/07/2022 9:22:07 ET]
+Table '3446464414 1' 3-max Siège #2 est au bouton.
+Place 1: PurlOsko (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: alex2v251 (300 en jetons) 
+alex2v251 : met la petite blind. 10
+PurlOsko : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 5s]
+psychoman59 : passe. 
+alex2v251 : suit. 10
+PurlOsko : relance. 40 à 60
+alex2v251 : suit. 40
+*** FLOP *** [2s 8s Kd]
+alex2v251 : mise. 20
+PurlOsko : suit. 20
+*** TOURNANT *** [2s 8s Kd] [3h]
+alex2v251 : mise. 20
+PurlOsko : suit. 20
+*** RIVIÈRE *** [2s 8s Kd 3h] [Jc]
+alex2v251 : parole 
+PurlOsko : parole 
+*** ABATTAGE ***
+alex2v251 : montre [4s As] (Hauteur As)
+PurlOsko : montre [Qs 8d] (une paire de Huit)
+PurlOsko a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [2s 8s Kd 3h Jc]
+Siège 1 : PurlOsko (grosse blind) a montré [Qs 8d] et a gagné (200) avec une paire de Huit
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : alex2v251 (petite blind) a montré [4s As] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237575557440 : Tournoi #3446464414, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 15:22:38 CET [25/07/2022 9:22:38 ET]
+Table '3446464414 1' 3-max Siège #3 est au bouton.
+Place 1: PurlOsko (400 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: alex2v251 (200 en jetons) 
+PurlOsko : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 7h]
+alex2v251 : suit. 20
+PurlOsko : passe. 
+psychoman59 : relance. 280 à 300 et est all-in.
+alex2v251 : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : PurlOsko (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (50)
+Siège 3 : alex2v251 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237575561129 : Tournoi #3446464414, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 15:22:54 CET [25/07/2022 9:22:54 ET]
+Table '3446464414 1' 3-max Siège #1 est au bouton.
+Place 1: PurlOsko (390 en jetons) 
+Place 2: psychoman59 (330 en jetons) 
+Place 3: alex2v251 (180 en jetons) 
+psychoman59 : met la petite blind. 15
+alex2v251 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Js]
+PurlOsko : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à alex2v251.
+alex2v251 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : PurlOsko (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : alex2v251 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237575563739 : Tournoi #3446464414, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 15:23:06 CET [25/07/2022 9:23:06 ET]
+Table '3446464414 1' 3-max Siège #2 est au bouton.
+Place 1: PurlOsko (390 en jetons) 
+Place 2: psychoman59 (315 en jetons) 
+Place 3: alex2v251 (195 en jetons) 
+alex2v251 : met la petite blind. 15
+PurlOsko : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 8c]
+psychoman59 : passe. 
+alex2v251 : passe. 
+Personne n'a suivi. (15) sont retournés à PurlOsko.
+PurlOsko a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : PurlOsko (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : alex2v251 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237575565166 : Tournoi #3446464414, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 15:23:12 CET [25/07/2022 9:23:12 ET]
+Table '3446464414 1' 3-max Siège #3 est au bouton.
+Place 1: PurlOsko (405 en jetons) 
+Place 2: psychoman59 (315 en jetons) 
+Place 3: alex2v251 (180 en jetons) 
+PurlOsko : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 6h]
+alex2v251 : suit. 30
+PurlOsko : relance. 375 à 405 et est all-in.
+psychoman59 : passe. 
+alex2v251 : passe. 
+Personne n'a suivi. (375) sont retournés à PurlOsko.
+PurlOsko a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Siège 1 : PurlOsko (petite blind) a remporté (90)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : alex2v251 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237575568240 : Tournoi #3446464414, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 15:23:26 CET [25/07/2022 9:23:26 ET]
+Table '3446464414 1' 3-max Siège #1 est au bouton.
+Place 1: PurlOsko (465 en jetons) 
+Place 2: psychoman59 (285 en jetons) 
+Place 3: alex2v251 (150 en jetons) 
+psychoman59 : met la petite blind. 15
+alex2v251 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 4h]
+PurlOsko : relance. 435 à 465 et est all-in.
+psychoman59 : passe. 
+alex2v251 : suit. 120 et est all-in.
+Personne n'a suivi. (315) sont retournés à PurlOsko.
+*** FLOP *** [2d 6h 8d]
+*** TOURNANT *** [2d 6h 8d] [5h]
+*** RIVIÈRE *** [2d 6h 8d 5h] [2s]
+*** ABATTAGE ***
+alex2v251 : montre [Jh Kc] (une paire de Deux)
+PurlOsko : montre [Qh 9s] (une paire de Deux - plus basse kicker)
+alex2v251 a remporté 315  lors du pot .
+*** SYNTHÈSE ***
+Pot total 315 | Commission 0 
+Tableau [2d 6h 8d 5h 2s]
+Siège 1 : PurlOsko (bouton) a montré [Qh 9s] et a perdu avec une paire de Deux
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : alex2v251 (grosse blind) a montré [Jh Kc] et a gagné (315) avec une paire de Deux
+
+
+
+Main PokerStars n°237575572297 : Tournoi #3446464414, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 25/07/2022 15:23:44 CET [25/07/2022 9:23:44 ET]
+Table '3446464414 1' 3-max Siège #2 est au bouton.
+Place 1: PurlOsko (315 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: alex2v251 (315 en jetons) 
+alex2v251 : met la petite blind. 20
+PurlOsko : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 4c]
+psychoman59 : relance. 230 à 270 et est all-in.
+alex2v251 : passe. 
+PurlOsko : suit. 230
+*** FLOP *** [2c 7s 6d]
+*** TOURNANT *** [2c 7s 6d] [4s]
+*** RIVIÈRE *** [2c 7s 6d 4s] [5s]
+*** ABATTAGE ***
+PurlOsko : montre [8s Jd] (une suite, Quatre à Huit)
+psychoman59 : montre [4d 4c] (un brelan de Quatre)
+PurlOsko a remporté 560  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [2c 7s 6d 4s 5s]
+Siège 1 : PurlOsko (grosse blind) a montré [8s Jd] et a gagné (560) avec une suite, Quatre à Huit
+Siège 2 : psychoman59 (bouton) a montré [4d 4c] et a perdu avec un brelan de Quatre
+Siège 3 : alex2v251 (petite blind) s'est couché. avant Flop
+
+
+

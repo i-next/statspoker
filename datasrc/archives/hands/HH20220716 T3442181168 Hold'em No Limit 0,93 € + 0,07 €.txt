@@ -1,0 +1,251 @@
+﻿Main PokerStars n°237387528352 : Tournoi #3442181168, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2022 8:23:46 CET [16/07/2022 2:23:46 ET]
+Table '3442181168 1' 3-max Siège #1 est au bouton.
+Place 1: MonRSAtaBR (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: SameSame27 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+SameSame27 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh As]
+MonRSAtaBR : passe. 
+psychoman59 : relance. 40 à 60
+SameSame27 : relance. 240 à 300 et est all-in.
+psychoman59 : suit. 240 et est all-in.
+*** FLOP *** [4d Kc Ts]
+*** TOURNANT *** [4d Kc Ts] [3h]
+*** RIVIÈRE *** [4d Kc Ts 3h] [Tc]
+*** ABATTAGE ***
+psychoman59 : montre [Kh As] (double paire, Rois et Dix)
+SameSame27 : montre [Ac Kd] (double paire, Rois et Dix)
+psychoman59 a remporté 300  lors du pot .
+SameSame27 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [4d Kc Ts 3h Tc]
+Siège 1 : MonRSAtaBR (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Kh As] et a gagné (300) avec double paire, Rois et Dix
+Siège 3 : SameSame27 (grosse blind) a montré [Ac Kd] et a gagné (300) avec double paire, Rois et Dix
+
+
+
+Main PokerStars n°237387531228 : Tournoi #3442181168, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2022 8:24:10 CET [16/07/2022 2:24:10 ET]
+Table '3442181168 1' 3-max Siège #2 est au bouton.
+Place 1: MonRSAtaBR (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: SameSame27 (300 en jetons) 
+SameSame27 : met la petite blind. 10
+MonRSAtaBR : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 7c]
+psychoman59 : relance. 20 à 40
+SameSame27 : passe. 
+MonRSAtaBR : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : MonRSAtaBR (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (50)
+Siège 3 : SameSame27 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237387533297 : Tournoi #3442181168, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2022 8:24:28 CET [16/07/2022 2:24:28 ET]
+Table '3442181168 1' 3-max Siège #3 est au bouton.
+Place 1: MonRSAtaBR (280 en jetons) 
+Place 2: psychoman59 (330 en jetons) 
+Place 3: SameSame27 (290 en jetons) 
+MonRSAtaBR : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 5s]
+SameSame27 : passe. 
+MonRSAtaBR : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [Jc Tc 6h]
+MonRSAtaBR : parole 
+psychoman59 : mise. 80
+MonRSAtaBR : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Jc Tc 6h]
+Siège 1 : MonRSAtaBR (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : SameSame27 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237387535505 : Tournoi #3442181168, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2022 8:24:47 CET [16/07/2022 2:24:47 ET]
+Table '3442181168 1' 3-max Siège #1 est au bouton.
+Place 1: MonRSAtaBR (240 en jetons) 
+Place 2: psychoman59 (370 en jetons) 
+Place 3: SameSame27 (290 en jetons) 
+psychoman59 : met la petite blind. 10
+SameSame27 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 9d]
+MonRSAtaBR : relance. 20 à 40
+psychoman59 : passe. 
+SameSame27 : suit. 20
+*** FLOP *** [Jd 3h Kh]
+SameSame27 : parole 
+MonRSAtaBR : parole 
+*** TOURNANT *** [Jd 3h Kh] [7c]
+SameSame27 : parole 
+MonRSAtaBR : mise. 65
+SameSame27 : passe. 
+Personne n'a suivi. (65) sont retournés à MonRSAtaBR.
+MonRSAtaBR a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Jd 3h Kh 7c]
+Siège 1 : MonRSAtaBR (bouton) a remporté (90)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : SameSame27 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237387542832 : Tournoi #3442181168, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 8:25:48 CET [16/07/2022 2:25:48 ET]
+Table '3442181168 1' 3-max Siège #2 est au bouton.
+Place 1: MonRSAtaBR (290 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+Place 3: SameSame27 (250 en jetons) 
+SameSame27 : met la petite blind. 15
+MonRSAtaBR : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Th]
+psychoman59 : passe. 
+SameSame27 : suit. 15
+MonRSAtaBR : parole 
+*** FLOP *** [2d 3s 9c]
+SameSame27 : parole 
+MonRSAtaBR : parole 
+*** TOURNANT *** [2d 3s 9c] [Kc]
+SameSame27 : mise. 30
+MonRSAtaBR : suit. 30
+*** RIVIÈRE *** [2d 3s 9c Kc] [Ks]
+SameSame27 : parole 
+MonRSAtaBR : parole 
+*** ABATTAGE ***
+SameSame27 : montre [7c Ac] (une paire de Rois)
+MonRSAtaBR : montre [3d Jh] (double paire, Rois et Trois)
+MonRSAtaBR a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2d 3s 9c Kc Ks]
+Siège 1 : MonRSAtaBR (grosse blind) a montré [3d Jh] et a gagné (120) avec double paire, Rois et Trois
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : SameSame27 (petite blind) a montré [7c Ac] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°237387549551 : Tournoi #3442181168, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/07/2022 8:26:44 CET [16/07/2022 2:26:44 ET]
+Table '3442181168 1' 3-max Siège #3 est au bouton.
+Place 1: MonRSAtaBR (350 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+Place 3: SameSame27 (190 en jetons) 
+MonRSAtaBR : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Kc]
+SameSame27 : suit. 40
+MonRSAtaBR : relance. 310 à 350 et est all-in.
+psychoman59 : passe. 
+SameSame27 : suit. 150 et est all-in.
+Personne n'a suivi. (160) sont retournés à MonRSAtaBR.
+*** FLOP *** [3c 7s Th]
+*** TOURNANT *** [3c 7s Th] [Ac]
+*** RIVIÈRE *** [3c 7s Th Ac] [4h]
+*** ABATTAGE ***
+MonRSAtaBR : montre [6s 6c] (une paire de Six)
+SameSame27 : montre [7c Tc] (double paire, Dix et Sept)
+SameSame27 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [3c 7s Th Ac 4h]
+Siège 1 : MonRSAtaBR (petite blind) a montré [6s 6c] et a perdu avec une paire de Six
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : SameSame27 (bouton) a montré [7c Tc] et a gagné (420) avec double paire, Dix et Sept
+
+
+
+Main PokerStars n°237387552112 : Tournoi #3442181168, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/07/2022 8:27:05 CET [16/07/2022 2:27:05 ET]
+Table '3442181168 1' 3-max Siège #1 est au bouton.
+Place 1: MonRSAtaBR (160 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: SameSame27 (420 en jetons) 
+psychoman59 : met la petite blind. 30
+SameSame27 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 7s]
+MonRSAtaBR : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à SameSame27.
+SameSame27 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : MonRSAtaBR (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : SameSame27 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237387552899 : Tournoi #3442181168, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/07/2022 8:27:11 CET [16/07/2022 2:27:11 ET]
+Table '3442181168 1' 3-max Siège #2 est au bouton.
+Place 1: MonRSAtaBR (160 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: SameSame27 (450 en jetons) 
+SameSame27 : met la petite blind. 30
+MonRSAtaBR : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 8d]
+psychoman59 : passe. 
+SameSame27 : relance. 120 à 180
+MonRSAtaBR : suit. 100 et est all-in.
+Personne n'a suivi. (20) sont retournés à SameSame27.
+*** FLOP *** [5s 6h 3s]
+*** TOURNANT *** [5s 6h 3s] [3h]
+*** RIVIÈRE *** [5s 6h 3s 3h] [7s]
+*** ABATTAGE ***
+SameSame27 : montre [Tc As] (une paire de Trois)
+MonRSAtaBR : montre [6s Qd] (double paire, Six et Trois)
+MonRSAtaBR a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [5s 6h 3s 3h 7s]
+Siège 1 : MonRSAtaBR (grosse blind) a montré [6s Qd] et a gagné (320) avec double paire, Six et Trois
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : SameSame27 (petite blind) a montré [Tc As] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°237387555431 : Tournoi #3442181168, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/07/2022 8:27:32 CET [16/07/2022 2:27:32 ET]
+Table '3442181168 1' 3-max Siège #3 est au bouton.
+Place 1: MonRSAtaBR (320 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: SameSame27 (290 en jetons) 
+MonRSAtaBR : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ac]
+SameSame27 : relance. 230 à 290 et est all-in.
+MonRSAtaBR : passe. 
+psychoman59 : suit. 230 et est all-in.
+*** FLOP *** [Td Qs Ks]
+*** TOURNANT *** [Td Qs Ks] [4h]
+*** RIVIÈRE *** [Td Qs Ks 4h] [7h]
+*** ABATTAGE ***
+psychoman59 : montre [7c Ac] (une paire de Sept)
+SameSame27 : montre [4s 4c] (un brelan de Quatre)
+SameSame27 a remporté 610  lors du pot .
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [Td Qs Ks 4h 7h]
+Siège 1 : MonRSAtaBR (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [7c Ac] et a perdu avec une paire de Sept
+Siège 3 : SameSame27 (bouton) a montré [4s 4c] et a gagné (610) avec un brelan de Quatre
+
+
+

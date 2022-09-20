@@ -1,0 +1,75 @@
+﻿Main PokerStars n°237508707391 : Tournoi #3444943513, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 9:51:48 CET [22/07/2022 3:51:48 ET]
+Table '3444943513 1' 3-max Siège #1 est au bouton.
+Place 1: couzinHubb94 (300 en jetons) 
+Place 2: cricriz (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+cricriz : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Ad]
+couzinHubb94 : relance. 40 à 60
+cricriz : passe. 
+psychoman59 : relance. 240 à 300 et est all-in.
+couzinHubb94 : suit. 240 et est all-in.
+*** FLOP *** [5c Jd 2s]
+*** TOURNANT *** [5c Jd 2s] [Ks]
+*** RIVIÈRE *** [5c Jd 2s Ks] [Tc]
+*** ABATTAGE ***
+psychoman59 : montre [Ts Ad] (une paire de Dix)
+couzinHubb94 : montre [4s 5h] (une paire de Cinq)
+psychoman59 a remporté 610  lors du pot .
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [5c Jd 2s Ks Tc]
+Siège 1 : couzinHubb94 (bouton) a montré [4s 5h] et a perdu avec une paire de Cinq
+Siège 2 : cricriz (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Ts Ad] et a gagné (610) avec une paire de Dix
+
+
+
+Main PokerStars n°237508710106 : Tournoi #3444943513, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 9:52:10 CET [22/07/2022 3:52:10 ET]
+Table '3444943513 1' 3-max Siège #3 est au bouton.
+Place 2: cricriz (290 en jetons) 
+Place 3: psychoman59 (610 en jetons) 
+psychoman59 : met la petite blind. 10
+cricriz : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 8h]
+psychoman59 : relance. 590 à 610 et est all-in.
+cricriz : passe. 
+Personne n'a suivi. (590) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : cricriz (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°237508711574 : Tournoi #3444943513, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 9:52:23 CET [22/07/2022 3:52:23 ET]
+Table '3444943513 1' 3-max Siège #2 est au bouton.
+Place 2: cricriz (270 en jetons) 
+Place 3: psychoman59 (630 en jetons) 
+cricriz : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Tc]
+cricriz : suit. 10
+psychoman59 : relance. 610 à 630 et est all-in.
+cricriz : suit. 250 et est all-in.
+Personne n'a suivi. (360) sont retournés à psychoman59.
+*** FLOP *** [9s Jh Jc]
+*** TOURNANT *** [9s Jh Jc] [4d]
+*** RIVIÈRE *** [9s Jh Jc 4d] [2s]
+*** ABATTAGE ***
+psychoman59 : montre [Ts Tc] (double paire, Valets et Dix)
+cricriz : montre [As Th] (une paire de Valets)
+psychoman59 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [9s Jh Jc 4d 2s]
+Siège 2 : cricriz (bouton) (petite blind) a montré [As Th] et a perdu avec une paire de Valets
+Siège 3 : psychoman59 (grosse blind) a montré [Ts Tc] et a gagné (540) avec double paire, Valets et Dix
+
+
+

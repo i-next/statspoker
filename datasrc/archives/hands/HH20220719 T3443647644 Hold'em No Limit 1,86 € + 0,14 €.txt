@@ -1,0 +1,319 @@
+﻿Main PokerStars n°237452753379 : Tournoi #3443647644, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 13:40:34 CET [19/07/2022 7:40:34 ET]
+Table '3443647644 1' 3-max Siège #1 est au bouton.
+Place 1: hornet6262 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: RuiMCarvalho (300 en jetons) 
+psychoman59 : met la petite blind. 10
+RuiMCarvalho : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 2h]
+hornet6262 : relance. 20 à 40
+psychoman59 : suit. 30
+RuiMCarvalho : suit. 20
+*** FLOP *** [5s 4s Tc]
+psychoman59 : parole 
+RuiMCarvalho : parole 
+hornet6262 : parole 
+*** TOURNANT *** [5s 4s Tc] [Qc]
+psychoman59 : parole 
+RuiMCarvalho : parole 
+hornet6262 : parole 
+*** RIVIÈRE *** [5s 4s Tc Qc] [8s]
+psychoman59 : parole 
+RuiMCarvalho : parole 
+hornet6262 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [2c 2h] (une paire de Deux)
+RuiMCarvalho : montre [8h 6s] (une paire de Huit)
+hornet6262 : montre [8d 9d] (une paire de Huit - Dame+Dix+Neuf kicker)
+hornet6262 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5s 4s Tc Qc 8s]
+Siège 1 : hornet6262 (bouton) a montré [8d 9d] et a gagné (120) avec une paire de Huit
+Siège 2 : psychoman59 (petite blind) a montré [2c 2h] et a perdu avec une paire de Deux
+Siège 3 : RuiMCarvalho (grosse blind) a montré [8h 6s] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°237452758127 : Tournoi #3443647644, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 13:40:59 CET [19/07/2022 7:40:59 ET]
+Table '3443647644 1' 3-max Siège #2 est au bouton.
+Place 1: hornet6262 (380 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+Place 3: RuiMCarvalho (260 en jetons) 
+RuiMCarvalho : met la petite blind. 10
+hornet6262 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 9d]
+psychoman59 : relance. 240 à 260 et est all-in.
+RuiMCarvalho : suit. 250 et est all-in.
+hornet6262 : passe. 
+*** FLOP *** [7s Jc 7d]
+*** TOURNANT *** [7s Jc 7d] [5c]
+*** RIVIÈRE *** [7s Jc 7d 5c] [5s]
+*** ABATTAGE ***
+RuiMCarvalho : montre [Qs Kh] (double paire, Sept et Cinq)
+psychoman59 : montre [9s 9d] (double paire, Neuf et Sept)
+psychoman59 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [7s Jc 7d 5c 5s]
+Siège 1 : hornet6262 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a montré [9s 9d] et a gagné (540) avec double paire, Neuf et Sept
+Siège 3 : RuiMCarvalho (petite blind) a montré [Qs Kh] et a perdu avec double paire, Sept et Cinq
+
+
+
+Main PokerStars n°237452762786 : Tournoi #3443647644, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 13:41:24 CET [19/07/2022 7:41:24 ET]
+Table '3443647644 1' 3-max Siège #1 est au bouton.
+Place 1: hornet6262 (360 en jetons) 
+Place 2: psychoman59 (540 en jetons) 
+hornet6262 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 9s]
+hornet6262 : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [8s 7s 6d]
+psychoman59 : parole 
+hornet6262 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [8s 7s 6d] [3d]
+psychoman59 : parole 
+hornet6262 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [8s 7s 6d 3d] [Tc]
+psychoman59 : parole 
+hornet6262 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Jd 9s] (une suite, Sept à Valet)
+hornet6262 : cache la main perdante. 
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [8s 7s 6d 3d Tc]
+Siège 1 : hornet6262 (bouton) (petite blind) a caché la main perdante. [Kh 6h]
+Siège 2 : psychoman59 (grosse blind) a montré [Jd 9s] et a gagné (160) avec une suite, Sept à Valet
+
+
+
+Main PokerStars n°237452768774 : Tournoi #3443647644, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 13:41:56 CET [19/07/2022 7:41:56 ET]
+Table '3443647644 1' 3-max Siège #2 est au bouton.
+Place 1: hornet6262 (280 en jetons) 
+Place 2: psychoman59 (620 en jetons) 
+psychoman59 : met la petite blind. 15
+hornet6262 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à hornet6262.
+hornet6262 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : hornet6262 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237452771041 : Tournoi #3443647644, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 13:42:09 CET [19/07/2022 7:42:09 ET]
+Table '3443647644 1' 3-max Siège #1 est au bouton.
+Place 1: hornet6262 (295 en jetons) 
+Place 2: psychoman59 (605 en jetons) 
+hornet6262 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 5h]
+hornet6262 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à hornet6262.
+hornet6262 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : hornet6262 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237452773183 : Tournoi #3443647644, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 13:42:20 CET [19/07/2022 7:42:20 ET]
+Table '3443647644 1' 3-max Siège #2 est au bouton.
+Place 1: hornet6262 (325 en jetons) 
+Place 2: psychoman59 (575 en jetons) 
+psychoman59 : met la petite blind. 15
+hornet6262 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à hornet6262.
+hornet6262 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : hornet6262 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237452775125 : Tournoi #3443647644, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 13:42:30 CET [19/07/2022 7:42:30 ET]
+Table '3443647644 1' 3-max Siège #1 est au bouton.
+Place 1: hornet6262 (340 en jetons) 
+Place 2: psychoman59 (560 en jetons) 
+hornet6262 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ah]
+hornet6262 : relance. 30 à 60
+psychoman59 : relance. 500 à 560 et est all-in.
+hornet6262 : passe. 
+Personne n'a suivi. (500) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : hornet6262 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°237452778296 : Tournoi #3443647644, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 13:42:47 CET [19/07/2022 7:42:47 ET]
+Table '3443647644 1' 3-max Siège #2 est au bouton.
+Place 1: hornet6262 (280 en jetons) 
+Place 2: psychoman59 (620 en jetons) 
+psychoman59 : met la petite blind. 20
+hornet6262 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Qs]
+psychoman59 : relance. 80 à 120
+hornet6262 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : hornet6262 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237452779906 : Tournoi #3443647644, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 13:42:56 CET [19/07/2022 7:42:56 ET]
+Table '3443647644 1' 3-max Siège #1 est au bouton.
+Place 1: hornet6262 (240 en jetons) 
+Place 2: psychoman59 (660 en jetons) 
+hornet6262 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 4c]
+hornet6262 : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à hornet6262.
+hornet6262 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : hornet6262 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237452781443 : Tournoi #3443647644, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 13:43:03 CET [19/07/2022 7:43:03 ET]
+Table '3443647644 1' 3-max Siège #2 est au bouton.
+Place 1: hornet6262 (280 en jetons) 
+Place 2: psychoman59 (620 en jetons) 
+psychoman59 : met la petite blind. 20
+hornet6262 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à hornet6262.
+hornet6262 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : hornet6262 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237452783553 : Tournoi #3443647644, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 13:43:15 CET [19/07/2022 7:43:15 ET]
+Table '3443647644 1' 3-max Siège #1 est au bouton.
+Place 1: hornet6262 (300 en jetons) 
+Place 2: psychoman59 (600 en jetons) 
+hornet6262 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 2d]
+hornet6262 : relance. 260 à 300 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (260) sont retournés à hornet6262.
+hornet6262 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : hornet6262 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237452785047 : Tournoi #3443647644, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 13:43:23 CET [19/07/2022 7:43:23 ET]
+Table '3443647644 1' 3-max Siège #2 est au bouton.
+Place 1: hornet6262 (340 en jetons) 
+Place 2: psychoman59 (560 en jetons) 
+psychoman59 : met la petite blind. 20
+hornet6262 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Js]
+psychoman59 : relance. 80 à 120
+hornet6262 : relance. 220 à 340 et est all-in.
+psychoman59 : suit. 220
+*** FLOP *** [5s Ad Qc]
+*** TOURNANT *** [5s Ad Qc] [2c]
+*** RIVIÈRE *** [5s Ad Qc 2c] [5c]
+*** ABATTAGE ***
+hornet6262 : montre [5h As] (un full, full aux Cinq par les As)
+psychoman59 : montre [Jc Js] (double paire, Valets et Cinq)
+hornet6262 a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [5s Ad Qc 2c 5c]
+Siège 1 : hornet6262 (grosse blind) a montré [5h As] et a gagné (680) avec un full, full aux Cinq par les As
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Jc Js] et a perdu avec double paire, Valets et Cinq
+
+
+
+Main PokerStars n°237452788908 : Tournoi #3443647644, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 13:43:43 CET [19/07/2022 7:43:43 ET]
+Table '3443647644 1' 3-max Siège #1 est au bouton.
+Place 1: hornet6262 (680 en jetons) 
+Place 2: psychoman59 (220 en jetons) 
+hornet6262 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 7s]
+hornet6262 : relance. 620 à 680 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (620) sont retournés à hornet6262.
+hornet6262 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : hornet6262 (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237452790381 : Tournoi #3443647644, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 13:43:51 CET [19/07/2022 7:43:51 ET]
+Table '3443647644 1' 3-max Siège #2 est au bouton.
+Place 1: hornet6262 (740 en jetons) 
+Place 2: psychoman59 (160 en jetons) 
+psychoman59 : met la petite blind. 30
+hornet6262 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 5d]
+psychoman59 : relance. 100 à 160 et est all-in.
+hornet6262 : suit. 100
+*** FLOP *** [Jh 2s 3d]
+*** TOURNANT *** [Jh 2s 3d] [Jd]
+*** RIVIÈRE *** [Jh 2s 3d Jd] [4d]
+*** ABATTAGE ***
+hornet6262 : montre [Jc Qh] (un brelan de Valets)
+psychoman59 : montre [Qc 5d] (une paire de Valets)
+hornet6262 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Jh 2s 3d Jd 4d]
+Siège 1 : hornet6262 (grosse blind) a montré [Jc Qh] et a gagné (320) avec un brelan de Valets
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Qc 5d] et a perdu avec une paire de Valets
+
+
+

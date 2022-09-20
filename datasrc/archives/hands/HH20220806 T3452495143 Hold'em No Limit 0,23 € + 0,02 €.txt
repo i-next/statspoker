@@ -1,0 +1,369 @@
+﻿Main PokerStars n°237831600075 : Tournoi #3452495143, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 06/08/2022 23:38:44 CET [06/08/2022 17:38:44 ET]
+Table '3452495143 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: OSAMOELLE (300 en jetons) ne joue pas.
+Place 3: samuelpedrer (300 en jetons) 
+OSAMOELLE : met la petite blind. 10
+samuelpedrer : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Qs]
+OSAMOELLE est revenu.
+psychoman59 : passe. 
+OSAMOELLE : relance. 20 à 40
+samuelpedrer : relance. 260 à 300 et est all-in.
+OSAMOELLE : passe. 
+Personne n'a suivi. (260) sont retournés à samuelpedrer.
+samuelpedrer a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : OSAMOELLE (petite blind) s'est couché. avant Flop
+Siège 3 : samuelpedrer (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237831607209 : Tournoi #3452495143, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 06/08/2022 23:39:05 CET [06/08/2022 17:39:05 ET]
+Table '3452495143 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: OSAMOELLE (260 en jetons) 
+Place 3: samuelpedrer (340 en jetons) 
+samuelpedrer : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Kh]
+OSAMOELLE : passe. 
+samuelpedrer : relance. 320 à 340 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (320) sont retournés à samuelpedrer.
+samuelpedrer a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : OSAMOELLE (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : samuelpedrer (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°237831611789 : Tournoi #3452495143, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 06/08/2022 23:39:19 CET [06/08/2022 17:39:19 ET]
+Table '3452495143 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: OSAMOELLE (260 en jetons) 
+Place 3: samuelpedrer (360 en jetons) 
+psychoman59 : met la petite blind. 10
+OSAMOELLE : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 6c]
+samuelpedrer : relance. 340 à 360 et est all-in.
+psychoman59 : passe. 
+OSAMOELLE : suit. 240 et est all-in.
+Personne n'a suivi. (100) sont retournés à samuelpedrer.
+*** FLOP *** [Ts 8c 9c]
+*** TOURNANT *** [Ts 8c 9c] [5s]
+*** RIVIÈRE *** [Ts 8c 9c 5s] [Kd]
+*** ABATTAGE ***
+OSAMOELLE : montre [Ad Qd] (Hauteur As)
+samuelpedrer : montre [7c 2h] (Hauteur Roi)
+OSAMOELLE a remporté 530  lors du pot .
+*** SYNTHÈSE ***
+Pot total 530 | Commission 0 
+Tableau [Ts 8c 9c 5s Kd]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : OSAMOELLE (grosse blind) a montré [Ad Qd] et a gagné (530) avec Hauteur As
+Siège 3 : samuelpedrer (bouton) a montré [7c 2h] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°237831617699 : Tournoi #3452495143, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 06/08/2022 23:39:37 CET [06/08/2022 17:39:37 ET]
+Table '3452495143 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: OSAMOELLE (530 en jetons) 
+Place 3: samuelpedrer (100 en jetons) 
+OSAMOELLE : met la petite blind. 10
+samuelpedrer : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 2d]
+psychoman59 : passe. 
+OSAMOELLE : relance. 20 à 40
+samuelpedrer : relance. 60 à 100 et est all-in.
+OSAMOELLE : suit. 60
+*** FLOP *** [Js 2s 8c]
+*** TOURNANT *** [Js 2s 8c] [Kh]
+*** RIVIÈRE *** [Js 2s 8c Kh] [Tc]
+*** ABATTAGE ***
+OSAMOELLE : montre [6d Qh] (Hauteur Roi)
+samuelpedrer : montre [6c Ah] (Hauteur As)
+samuelpedrer a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Js 2s 8c Kh Tc]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : OSAMOELLE (petite blind) a montré [6d Qh] et a perdu avec Hauteur Roi
+Siège 3 : samuelpedrer (grosse blind) a montré [6c Ah] et a gagné (200) avec Hauteur As
+
+
+
+Main PokerStars n°237831625747 : Tournoi #3452495143, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 06/08/2022 23:40:01 CET [06/08/2022 17:40:01 ET]
+Table '3452495143 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: OSAMOELLE (430 en jetons) 
+Place 3: samuelpedrer (200 en jetons) 
+samuelpedrer : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 8d]
+OSAMOELLE : suit. 30
+samuelpedrer : relance. 170 à 200 et est all-in.
+psychoman59 : passe. 
+OSAMOELLE : suit. 170
+*** FLOP *** [4s Kc 3s]
+*** TOURNANT *** [4s Kc 3s] [Ah]
+*** RIVIÈRE *** [4s Kc 3s Ah] [2h]
+*** ABATTAGE ***
+samuelpedrer : montre [7s 4c] (une paire de Quatre)
+OSAMOELLE : montre [5c Kd] (une suite, As à Cinq)
+OSAMOELLE a remporté 430  lors du pot .
+samuelpedrer a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 430 | Commission 0 
+Tableau [4s Kc 3s Ah 2h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : OSAMOELLE (bouton) a montré [5c Kd] et a gagné (430) avec une suite, As à Cinq
+Siège 3 : samuelpedrer (petite blind) a montré [7s 4c] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°237831634796 : Tournoi #3452495143, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 06/08/2022 23:40:28 CET [06/08/2022 17:40:28 ET]
+Table '3452495143 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (240 en jetons) 
+Place 2: OSAMOELLE (660 en jetons) 
+psychoman59 : met la petite blind. 15
+OSAMOELLE : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à OSAMOELLE.
+OSAMOELLE a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : OSAMOELLE (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237831636854 : Tournoi #3452495143, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 06/08/2022 23:40:34 CET [06/08/2022 17:40:34 ET]
+Table '3452495143 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (225 en jetons) 
+Place 2: OSAMOELLE (675 en jetons) 
+OSAMOELLE : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 8c]
+OSAMOELLE : suit. 15
+psychoman59 : relance. 195 à 225 et est all-in.
+OSAMOELLE : passe. 
+Personne n'a suivi. (195) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : OSAMOELLE (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237831642805 : Tournoi #3452495143, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 06/08/2022 23:40:52 CET [06/08/2022 17:40:52 ET]
+Table '3452495143 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (255 en jetons) 
+Place 2: OSAMOELLE (645 en jetons) 
+psychoman59 : met la petite blind. 20
+OSAMOELLE : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à OSAMOELLE.
+OSAMOELLE a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : OSAMOELLE (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237831644656 : Tournoi #3452495143, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 06/08/2022 23:40:57 CET [06/08/2022 17:40:57 ET]
+Table '3452495143 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (235 en jetons) 
+Place 2: OSAMOELLE (665 en jetons) 
+OSAMOELLE : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 8h]
+OSAMOELLE : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à OSAMOELLE.
+OSAMOELLE a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : OSAMOELLE (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237831647417 : Tournoi #3452495143, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 06/08/2022 23:41:05 CET [06/08/2022 17:41:05 ET]
+Table '3452495143 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (195 en jetons) 
+Place 2: OSAMOELLE (705 en jetons) 
+psychoman59 : met la petite blind. 20
+OSAMOELLE : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 7s]
+psychoman59 : relance. 155 à 195 et est all-in.
+OSAMOELLE : passe. 
+Personne n'a suivi. (155) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : OSAMOELLE (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237831650176 : Tournoi #3452495143, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 06/08/2022 23:41:14 CET [06/08/2022 17:41:14 ET]
+Table '3452495143 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (235 en jetons) 
+Place 2: OSAMOELLE (665 en jetons) 
+OSAMOELLE : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Kh]
+OSAMOELLE : relance. 40 à 80
+psychoman59 : suit. 40
+*** FLOP *** [6d 5h 4h]
+psychoman59 : mise. 155 et est all-in.
+OSAMOELLE : suit. 155
+*** TOURNANT *** [6d 5h 4h] [Ks]
+*** RIVIÈRE *** [6d 5h 4h Ks] [8c]
+*** ABATTAGE ***
+psychoman59 : montre [2c Kh] (une paire de Rois)
+OSAMOELLE : montre [Qd 8d] (une paire de Huit)
+psychoman59 a remporté 470  lors du pot .
+*** SYNTHÈSE ***
+Pot total 470 | Commission 0 
+Tableau [6d 5h 4h Ks 8c]
+Siège 1 : psychoman59 (grosse blind) a montré [2c Kh] et a gagné (470) avec une paire de Rois
+Siège 2 : OSAMOELLE (bouton) (petite blind) a montré [Qd 8d] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°237831657348 : Tournoi #3452495143, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 06/08/2022 23:41:35 CET [06/08/2022 17:41:35 ET]
+Table '3452495143 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (470 en jetons) 
+Place 2: OSAMOELLE (430 en jetons) 
+psychoman59 : met la petite blind. 20
+OSAMOELLE : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Tc]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à OSAMOELLE.
+OSAMOELLE a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : OSAMOELLE (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237831659180 : Tournoi #3452495143, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 06/08/2022 23:41:41 CET [06/08/2022 17:41:41 ET]
+Table '3452495143 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 2: OSAMOELLE (450 en jetons) 
+OSAMOELLE : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 4c]
+OSAMOELLE : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Qc Td 6d]
+psychoman59 : parole 
+OSAMOELLE : parole 
+*** TOURNANT *** [Qc Td 6d] [Jh]
+psychoman59 : parole 
+OSAMOELLE : parole 
+*** RIVIÈRE *** [Qc Td 6d Jh] [8h]
+psychoman59 : parole 
+OSAMOELLE : mise. 160
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à OSAMOELLE.
+OSAMOELLE a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Qc Td 6d Jh 8h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : OSAMOELLE (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237831671178 : Tournoi #3452495143, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/08/2022 23:42:16 CET [06/08/2022 17:42:16 ET]
+Table '3452495143 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (410 en jetons) 
+Place 2: OSAMOELLE (490 en jetons) 
+psychoman59 : met la petite blind. 30
+OSAMOELLE : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à OSAMOELLE.
+OSAMOELLE a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : OSAMOELLE (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237831672812 : Tournoi #3452495143, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/08/2022 23:42:21 CET [06/08/2022 17:42:21 ET]
+Table '3452495143 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 2: OSAMOELLE (520 en jetons) 
+OSAMOELLE : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 7h]
+OSAMOELLE : relance. 460 à 520 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (460) sont retournés à OSAMOELLE.
+OSAMOELLE a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : OSAMOELLE (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237831676052 : Tournoi #3452495143, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/08/2022 23:42:31 CET [06/08/2022 17:42:31 ET]
+Table '3452495143 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: OSAMOELLE (580 en jetons) 
+psychoman59 : met la petite blind. 30
+OSAMOELLE : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Jc]
+psychoman59 : relance. 260 à 320 et est all-in.
+OSAMOELLE : suit. 260
+*** FLOP *** [4s Ad 3d]
+*** TOURNANT *** [4s Ad 3d] [5h]
+*** RIVIÈRE *** [4s Ad 3d 5h] [6c]
+*** ABATTAGE ***
+OSAMOELLE : montre [Qs Td] (Hauteur As)
+psychoman59 : montre [8c Jc] (Hauteur As - plus basse kicker)
+OSAMOELLE a remporté 640  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+OSAMOELLE remporte le tournoi et reçoit 0.50 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [4s Ad 3d 5h 6c]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [8c Jc] et a perdu avec Hauteur As
+Siège 2 : OSAMOELLE (grosse blind) a montré [Qs Td] et a gagné (640) avec Hauteur As
+
+
+

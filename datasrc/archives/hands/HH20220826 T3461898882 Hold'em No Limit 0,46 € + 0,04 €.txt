@@ -1,0 +1,37 @@
+﻿Main PokerStars n°238225818377 : Tournoi #3461898882, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 26/08/2022 15:30:40 CET [26/08/2022 9:30:40 ET]
+Table '3461898882 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 2: BaronBaraka (5000 en jetons) 
+Place 3: foappin (5000 en jetons) 
+Place 4: maryse8443 (5000 en jetons) 
+psychoman59 : met l'ante. 10
+BaronBaraka : met l'ante. 10
+foappin : met l'ante. 10
+maryse8443 : met l'ante. 10
+BaronBaraka : met la petite blind. 50
+foappin : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Th]
+maryse8443 : suit. 100
+psychoman59 : relance. 4890 à 4990 et est all-in.
+BaronBaraka : passe. 
+foappin : suit. 4890 et est all-in.
+maryse8443 : passe. 
+*** FLOP *** [Qc 5s 9h]
+*** TOURNANT *** [Qc 5s 9h] [4s]
+*** RIVIÈRE *** [Qc 5s 9h 4s] [Ah]
+*** ABATTAGE ***
+foappin : montre [9c 9d] (un brelan de Neuf)
+psychoman59 : montre [Tc Th] (une paire de Dix)
+foappin a remporté 10170  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10170 | Commission 0 
+Tableau [Qc 5s 9h 4s Ah]
+Siège 1 : psychoman59 (bouton) a montré [Tc Th] et a perdu avec une paire de Dix
+Siège 2 : BaronBaraka (petite blind) s'est couché. avant Flop
+Siège 3 : foappin (grosse blind) a montré [9c 9d] et a gagné (10170) avec un brelan de Neuf
+Siège 4 : maryse8443 s'est couché. avant Flop
+
+
+

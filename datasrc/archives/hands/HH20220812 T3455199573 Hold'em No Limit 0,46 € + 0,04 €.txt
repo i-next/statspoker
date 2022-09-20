@@ -1,0 +1,1290 @@
+﻿Main PokerStars n°237944136657 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 16:01:35 CET [12/08/2022 10:01:35 ET]
+Table '3455199573 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 2: ethandu84 (5000 en jetons) 
+Place 3: Torp6 (5000 en jetons) 
+Place 4: ivaninthemoon (5000 en jetons) 
+psychoman59 : met l'ante. 10
+ethandu84 : met l'ante. 10
+Torp6 : met l'ante. 10
+ivaninthemoon : met l'ante. 10
+ethandu84 : met la petite blind. 50
+Torp6 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 2c]
+ivaninthemoon : relance. 100 à 200
+psychoman59 : suit. 200
+ethandu84 : passe. 
+Torp6 : suit. 100
+*** FLOP *** [9d Kc 7c]
+Torp6 : parole 
+ivaninthemoon : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9d Kc 7c] [2s]
+Torp6 : parole 
+ivaninthemoon : mise. 345
+psychoman59 : suit. 345
+Torp6 : suit. 345
+*** RIVIÈRE *** [9d Kc 7c 2s] [5d]
+Torp6 : parole 
+ivaninthemoon : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Torp6 : montre [8d 6h] (une suite, Cinq à Neuf)
+ivaninthemoon : cache la main perdante. 
+psychoman59 : cache la main perdante. 
+Torp6 a remporté 1725  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1725 | Commission 0 
+Tableau [9d Kc 7c 2s 5d]
+Siège 1 : psychoman59 (bouton) a caché la main perdante. [Ac 2c]
+Siège 2 : ethandu84 (petite blind) s'est couché. avant Flop
+Siège 3 : Torp6 (grosse blind) a montré [8d 6h] et a gagné (1725) avec une suite, Cinq à Neuf
+Siège 4 : ivaninthemoon a caché la main perdante. [4d 3d]
+
+
+
+Main PokerStars n°237944150933 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 16:02:34 CET [12/08/2022 10:02:34 ET]
+Table '3455199573 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4445 en jetons) 
+Place 2: ethandu84 (4940 en jetons) 
+Place 3: Torp6 (6170 en jetons) 
+Place 4: ivaninthemoon (4445 en jetons) 
+psychoman59 : met l'ante. 10
+ethandu84 : met l'ante. 10
+Torp6 : met l'ante. 10
+ivaninthemoon : met l'ante. 10
+Torp6 : met la petite blind. 50
+ivaninthemoon : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Qd]
+psychoman59 : relance. 100 à 200
+ethandu84 : passe. 
+Torp6 : suit. 150
+ivaninthemoon : passe. 
+*** FLOP *** [4d 2s 8d]
+Torp6 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4d 2s 8d] [9s]
+Torp6 : mise. 216
+psychoman59 : suit. 216
+*** RIVIÈRE *** [4d 2s 8d 9s] [3s]
+Torp6 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Torp6 : montre [As Td] (Hauteur As)
+psychoman59 : cache la main perdante. 
+Torp6 a remporté 972  lors du pot .
+*** SYNTHÈSE ***
+Pot total 972 | Commission 0 
+Tableau [4d 2s 8d 9s 3s]
+Siège 1 : psychoman59 a caché la main perdante. [Kd Qd]
+Siège 2 : ethandu84 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Torp6 (petite blind) a montré [As Td] et a gagné (972) avec Hauteur As
+Siège 4 : ivaninthemoon (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237944168330 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 16:03:29 CET [12/08/2022 10:03:29 ET]
+Table '3455199573 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4019 en jetons) 
+Place 2: ethandu84 (4930 en jetons) 
+Place 3: Torp6 (6716 en jetons) 
+Place 4: ivaninthemoon (4335 en jetons) 
+psychoman59 : met l'ante. 10
+ethandu84 : met l'ante. 10
+Torp6 : met l'ante. 10
+ivaninthemoon : met l'ante. 10
+ivaninthemoon : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Ks]
+ethandu84 : relance. 4820 à 4920 et est all-in.
+Torp6 : passe. 
+ivaninthemoon : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (4820) sont retournés à ethandu84.
+ethandu84 a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : ethandu84 a remporté (290)
+Siège 3 : Torp6 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : ivaninthemoon (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237944173264 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 16:03:49 CET [12/08/2022 10:03:49 ET]
+Table '3455199573 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (3909 en jetons) 
+Place 2: ethandu84 (5110 en jetons) 
+Place 3: Torp6 (6706 en jetons) 
+Place 4: ivaninthemoon (4275 en jetons) 
+psychoman59 : met l'ante. 10
+ethandu84 : met l'ante. 10
+Torp6 : met l'ante. 10
+ivaninthemoon : met l'ante. 10
+psychoman59 : met la petite blind. 50
+ethandu84 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 5h]
+Torp6 : relance. 150 à 250
+ivaninthemoon : suit. 250
+psychoman59 : passe. 
+ethandu84 : suit. 150
+*** FLOP *** [6h 3h 2s]
+ethandu84 : parole 
+Torp6 : mise. 252
+ivaninthemoon : suit. 252
+ethandu84 : suit. 252
+*** TOURNANT *** [6h 3h 2s] [9h]
+ethandu84 : parole 
+Torp6 : parole 
+ivaninthemoon : parole 
+*** RIVIÈRE *** [6h 3h 2s 9h] [8h]
+ethandu84 : mise. 1100
+Torp6 : relance. 5094 à 6194 et est all-in.
+ivaninthemoon : passe. 
+ethandu84 : passe. 
+Personne n'a suivi. (5094) sont retournés à Torp6.
+Torp6 a remporté 3796  lors du pot .
+Torp6 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 3796 | Commission 0 
+Tableau [6h 3h 2s 9h 8h]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : ethandu84 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : Torp6 a remporté (3796)
+Siège 4 : ivaninthemoon (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237944187588 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 16:04:48 CET [12/08/2022 10:04:48 ET]
+Table '3455199573 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (3849 en jetons) 
+Place 2: ethandu84 (3498 en jetons) 
+Place 3: Torp6 (8890 en jetons) 
+Place 4: ivaninthemoon (3763 en jetons) 
+psychoman59 : met l'ante. 15
+ethandu84 : met l'ante. 15
+Torp6 : met l'ante. 15
+ivaninthemoon : met l'ante. 15
+ethandu84 : met la petite blind. 60
+Torp6 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Kd]
+ivaninthemoon : passe. 
+psychoman59 : passe. 
+ethandu84 a dépassé le temps imparti. pendant qu'il était déconnecté
+ethandu84 : passe. 
+ethandu84 ne joue pas.
+Personne n'a suivi. (60) sont retournés à Torp6.
+Torp6 a remporté 180  lors du pot .
+Torp6 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ethandu84 (petite blind) s'est couché. avant Flop
+Siège 3 : Torp6 (grosse blind) a remporté (180)
+Siège 4 : ivaninthemoon s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237944195588 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 16:05:20 CET [12/08/2022 10:05:20 ET]
+Table '3455199573 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (3834 en jetons) 
+Place 2: ethandu84 (3423 en jetons) ne joue pas.
+Place 3: Torp6 (8995 en jetons) 
+Place 4: ivaninthemoon (3748 en jetons) 
+psychoman59 : met l'ante. 15
+ethandu84 : met l'ante. 15
+Torp6 : met l'ante. 15
+ivaninthemoon : met l'ante. 15
+Torp6 : met la petite blind. 60
+ivaninthemoon : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 2s]
+psychoman59 : passe. 
+ethandu84 : passe. 
+Torp6 : relance. 180 à 300
+ivaninthemoon : suit. 180
+*** FLOP *** [Qh 4c 9c]
+Torp6 : parole 
+ivaninthemoon : mise. 330
+Torp6 : relance. 390 à 720
+ivaninthemoon : suit. 390
+*** TOURNANT *** [Qh 4c 9c] [8h]
+Torp6 : mise. 7960 et est all-in.
+ivaninthemoon : suit. 2713 et est all-in.
+Personne n'a suivi. (5247) sont retournés à Torp6.
+*** RIVIÈRE *** [Qh 4c 9c 8h] [Kd]
+*** ABATTAGE ***
+Torp6 : montre [Ad Ac] (une paire de As)
+ivaninthemoon : montre [6d Qc] (une paire de Dames)
+Torp6 a remporté 7526  lors du pot .
+ivaninthemoon a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 7526 | Commission 0 
+Tableau [Qh 4c 9c 8h Kd]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ethandu84 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Torp6 (petite blind) a montré [Ad Ac] et a gagné (7526) avec une paire de As
+Siège 4 : ivaninthemoon (grosse blind) a montré [6d Qc] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°237944205235 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 16:06:00 CET [12/08/2022 10:06:00 ET]
+Table '3455199573 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (3819 en jetons) 
+Place 2: ethandu84 (3408 en jetons) ne joue pas.
+Place 3: Torp6 (12773 en jetons) 
+psychoman59 : met l'ante. 15
+ethandu84 : met l'ante. 15
+Torp6 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+ethandu84 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ah]
+Torp6 : passe. 
+psychoman59 : relance. 120 à 240
+ethandu84 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 285  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (285)
+Siège 2 : ethandu84 (grosse blind) s'est couché. avant Flop
+Siège 3 : Torp6 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237944207524 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 16:06:09 CET [12/08/2022 10:06:09 ET]
+Table '3455199573 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (3969 en jetons) 
+Place 2: ethandu84 (3273 en jetons) ne joue pas.
+Place 3: Torp6 (12758 en jetons) 
+psychoman59 : met l'ante. 15
+ethandu84 : met l'ante. 15
+Torp6 : met l'ante. 15
+ethandu84 : met la petite blind. 60
+Torp6 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 8d]
+psychoman59 : passe. 
+ethandu84 : passe. 
+Personne n'a suivi. (60) sont retournés à Torp6.
+Torp6 a remporté 165  lors du pot .
+Torp6 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ethandu84 (petite blind) s'est couché. avant Flop
+Siège 3 : Torp6 (grosse blind) a remporté (165)
+
+
+
+Main PokerStars n°237944209550 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 16:06:17 CET [12/08/2022 10:06:17 ET]
+Table '3455199573 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (3954 en jetons) 
+Place 2: ethandu84 (3198 en jetons) ne joue pas.
+Place 3: Torp6 (12848 en jetons) 
+psychoman59 : met l'ante. 15
+ethandu84 : met l'ante. 15
+Torp6 : met l'ante. 15
+Torp6 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 8c]
+ethandu84 : passe. 
+Torp6 : relance. 180 à 300
+psychoman59 : relance. 3639 à 3939 et est all-in.
+Torp6 : passe. 
+Personne n'a suivi. (3639) sont retournés à psychoman59.
+psychoman59 a remporté 645  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 645 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (645)
+Siège 2 : ethandu84 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Torp6 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237944215501 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 16:06:41 CET [12/08/2022 10:06:41 ET]
+Table '3455199573 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4284 en jetons) 
+Place 2: ethandu84 (3183 en jetons) ne joue pas.
+Place 3: Torp6 (12533 en jetons) 
+psychoman59 : met l'ante. 15
+ethandu84 : met l'ante. 15
+Torp6 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+ethandu84 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Qh]
+Torp6 : passe. 
+psychoman59 : relance. 120 à 240
+ethandu84 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 285  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (285)
+Siège 2 : ethandu84 (grosse blind) s'est couché. avant Flop
+Siège 3 : Torp6 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237944218926 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 16:06:54 CET [12/08/2022 10:06:54 ET]
+Table '3455199573 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4434 en jetons) 
+Place 2: ethandu84 (3048 en jetons) ne joue pas.
+Place 3: Torp6 (12518 en jetons) 
+psychoman59 : met l'ante. 15
+ethandu84 : met l'ante. 15
+Torp6 : met l'ante. 15
+ethandu84 : met la petite blind. 60
+Torp6 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Kd]
+psychoman59 : suit. 120
+ethandu84 : passe. 
+Torp6 : parole 
+*** FLOP *** [6h Qc 7d]
+Torp6 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6h Qc 7d] [2c]
+Torp6 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6h Qc 7d 2c] [9s]
+Torp6 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Torp6 : montre [Tc 5s] (Hauteur Dame)
+psychoman59 : montre [5d Kd] (Hauteur Roi)
+psychoman59 a remporté 345  lors du pot .
+*** SYNTHÈSE ***
+Pot total 345 | Commission 0 
+Tableau [6h Qc 7d 2c 9s]
+Siège 1 : psychoman59 (bouton) a montré [5d Kd] et a gagné (345) avec Hauteur Roi
+Siège 2 : ethandu84 (petite blind) s'est couché. avant Flop
+Siège 3 : Torp6 (grosse blind) a montré [Tc 5s] et a perdu avec Hauteur Dame
+
+
+
+Main PokerStars n°237944226616 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 16:07:25 CET [12/08/2022 10:07:25 ET]
+Table '3455199573 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4644 en jetons) 
+Place 2: ethandu84 (2973 en jetons) ne joue pas.
+Place 3: Torp6 (12383 en jetons) 
+psychoman59 : met l'ante. 15
+ethandu84 : met l'ante. 15
+Torp6 : met l'ante. 15
+Torp6 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Jd]
+ethandu84 : passe. 
+Torp6 : relance. 360 à 480
+psychoman59 : relance. 4149 à 4629 et est all-in.
+Torp6 : suit. 4149
+*** FLOP *** [2d Ad Ac]
+*** TOURNANT *** [2d Ad Ac] [Jh]
+*** RIVIÈRE *** [2d Ad Ac Jh] [3d]
+*** ABATTAGE ***
+Torp6 : montre [7c 7d] (double paire, As et Sept)
+psychoman59 : montre [Js Jd] (un full, full aux Valets par les As)
+psychoman59 a remporté 9303  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9303 | Commission 0 
+Tableau [2d Ad Ac Jh 3d]
+Siège 1 : psychoman59 (grosse blind) a montré [Js Jd] et a gagné (9303) avec un full, full aux Valets par les As
+Siège 2 : ethandu84 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Torp6 (petite blind) a montré [7c 7d] et a perdu avec double paire, As et Sept
+
+
+
+Main PokerStars n°237944232379 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:07:48 CET [12/08/2022 10:07:48 ET]
+Table '3455199573 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (9303 en jetons) 
+Place 2: ethandu84 (2958 en jetons) ne joue pas.
+Place 3: Torp6 (7739 en jetons) 
+psychoman59 : met l'ante. 20
+ethandu84 : met l'ante. 20
+Torp6 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+ethandu84 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 6h]
+Torp6 : relance. 150 à 300
+psychoman59 : passe. 
+ethandu84 : passe. 
+Personne n'a suivi. (150) sont retournés à Torp6.
+Torp6 a remporté 435  lors du pot .
+Torp6 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : ethandu84 (grosse blind) s'est couché. avant Flop
+Siège 3 : Torp6 (bouton) a remporté (435)
+
+
+
+Main PokerStars n°237944235126 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:07:59 CET [12/08/2022 10:07:59 ET]
+Table '3455199573 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (9208 en jetons) 
+Place 2: ethandu84 (2788 en jetons) ne joue pas.
+Place 3: Torp6 (8004 en jetons) 
+psychoman59 : met l'ante. 20
+ethandu84 : met l'ante. 20
+Torp6 : met l'ante. 20
+ethandu84 : met la petite blind. 75
+Torp6 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Ks]
+psychoman59 : relance. 9038 à 9188 et est all-in.
+ethandu84 : passe. 
+Torp6 : passe. 
+Personne n'a suivi. (9038) sont retournés à psychoman59.
+psychoman59 a remporté 435  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (435)
+Siège 2 : ethandu84 (petite blind) s'est couché. avant Flop
+Siège 3 : Torp6 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237944237834 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:08:10 CET [12/08/2022 10:08:10 ET]
+Table '3455199573 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (9473 en jetons) 
+Place 2: ethandu84 (2693 en jetons) ne joue pas.
+Place 3: Torp6 (7834 en jetons) 
+psychoman59 : met l'ante. 20
+ethandu84 : met l'ante. 20
+Torp6 : met l'ante. 20
+Torp6 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 5s]
+ethandu84 : passe. 
+Torp6 : relance. 150 à 300
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à Torp6.
+Torp6 a remporté 360  lors du pot .
+Torp6 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : ethandu84 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Torp6 (petite blind) a remporté (360)
+
+
+
+Main PokerStars n°237944240564 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:08:21 CET [12/08/2022 10:08:21 ET]
+Table '3455199573 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (9303 en jetons) 
+Place 2: ethandu84 (2673 en jetons) ne joue pas.
+Place 3: Torp6 (8024 en jetons) 
+psychoman59 : met l'ante. 20
+ethandu84 : met l'ante. 20
+Torp6 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+ethandu84 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Kc]
+Torp6 : passe. 
+psychoman59 : relance. 150 à 300
+ethandu84 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 360  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (360)
+Siège 2 : ethandu84 (grosse blind) s'est couché. avant Flop
+Siège 3 : Torp6 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237944242988 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:08:30 CET [12/08/2022 10:08:30 ET]
+Table '3455199573 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (9493 en jetons) 
+Place 2: ethandu84 (2503 en jetons) ne joue pas.
+Place 3: Torp6 (8004 en jetons) 
+psychoman59 : met l'ante. 20
+ethandu84 : met l'ante. 20
+Torp6 : met l'ante. 20
+ethandu84 : met la petite blind. 75
+Torp6 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 4d]
+psychoman59 : passe. 
+ethandu84 : passe. 
+Personne n'a suivi. (75) sont retournés à Torp6.
+Torp6 a remporté 210  lors du pot .
+Torp6 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ethandu84 (petite blind) s'est couché. avant Flop
+Siège 3 : Torp6 (grosse blind) a remporté (210)
+
+
+
+Main PokerStars n°237944244864 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:08:38 CET [12/08/2022 10:08:38 ET]
+Table '3455199573 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (9473 en jetons) 
+Place 2: ethandu84 (2408 en jetons) ne joue pas.
+Place 3: Torp6 (8119 en jetons) 
+psychoman59 : met l'ante. 20
+ethandu84 : met l'ante. 20
+Torp6 : met l'ante. 20
+Torp6 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 6h]
+ethandu84 : passe. 
+Torp6 : relance. 150 à 300
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à Torp6.
+Torp6 a remporté 360  lors du pot .
+Torp6 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : ethandu84 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Torp6 (petite blind) a remporté (360)
+
+
+
+Main PokerStars n°237944247893 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:08:50 CET [12/08/2022 10:08:50 ET]
+Table '3455199573 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (9303 en jetons) 
+Place 2: ethandu84 (2388 en jetons) ne joue pas.
+Place 3: Torp6 (8309 en jetons) 
+psychoman59 : met l'ante. 20
+ethandu84 : met l'ante. 20
+Torp6 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+ethandu84 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Ad]
+Torp6 : passe. 
+psychoman59 : relance. 150 à 300
+ethandu84 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 360  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (360)
+Siège 2 : ethandu84 (grosse blind) s'est couché. avant Flop
+Siège 3 : Torp6 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237944250166 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:09:00 CET [12/08/2022 10:09:00 ET]
+Table '3455199573 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (9493 en jetons) 
+Place 2: ethandu84 (2218 en jetons) ne joue pas.
+Place 3: Torp6 (8289 en jetons) 
+psychoman59 : met l'ante. 20
+ethandu84 : met l'ante. 20
+Torp6 : met l'ante. 20
+ethandu84 : met la petite blind. 75
+Torp6 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Kc]
+psychoman59 : relance. 435 à 585
+ethandu84 : passe. 
+Torp6 : passe. 
+Personne n'a suivi. (435) sont retournés à psychoman59.
+psychoman59 a remporté 435  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (435)
+Siège 2 : ethandu84 (petite blind) s'est couché. avant Flop
+Siège 3 : Torp6 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237944253198 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:09:11 CET [12/08/2022 10:09:11 ET]
+Table '3455199573 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (9758 en jetons) 
+Place 2: ethandu84 (2123 en jetons) ne joue pas.
+Place 3: Torp6 (8119 en jetons) 
+psychoman59 : met l'ante. 20
+ethandu84 : met l'ante. 20
+Torp6 : met l'ante. 20
+Torp6 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 7d]
+ethandu84 : passe. 
+Torp6 : relance. 150 à 300
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à Torp6.
+Torp6 a remporté 360  lors du pot .
+Torp6 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : ethandu84 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Torp6 (petite blind) a remporté (360)
+
+
+
+Main PokerStars n°237944255528 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:09:21 CET [12/08/2022 10:09:21 ET]
+Table '3455199573 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (9588 en jetons) 
+Place 2: ethandu84 (2103 en jetons) ne joue pas.
+Place 3: Torp6 (8309 en jetons) 
+psychoman59 : met l'ante. 20
+ethandu84 : met l'ante. 20
+Torp6 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+ethandu84 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Qc]
+Torp6 : passe. 
+psychoman59 : relance. 150 à 300
+ethandu84 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 360  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (360)
+Siège 2 : ethandu84 (grosse blind) s'est couché. avant Flop
+Siège 3 : Torp6 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237944257924 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:09:30 CET [12/08/2022 10:09:30 ET]
+Table '3455199573 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (9778 en jetons) 
+Place 2: ethandu84 (1933 en jetons) ne joue pas.
+Place 3: Torp6 (8289 en jetons) 
+psychoman59 : met l'ante. 20
+ethandu84 : met l'ante. 20
+Torp6 : met l'ante. 20
+ethandu84 : met la petite blind. 75
+Torp6 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 7s]
+psychoman59 : passe. 
+ethandu84 : passe. 
+Personne n'a suivi. (75) sont retournés à Torp6.
+Torp6 a remporté 210  lors du pot .
+Torp6 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ethandu84 (petite blind) s'est couché. avant Flop
+Siège 3 : Torp6 (grosse blind) a remporté (210)
+
+
+
+Main PokerStars n°237944259884 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:09:38 CET [12/08/2022 10:09:38 ET]
+Table '3455199573 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (9758 en jetons) 
+Place 2: ethandu84 (1838 en jetons) ne joue pas.
+Place 3: Torp6 (8404 en jetons) 
+psychoman59 : met l'ante. 20
+ethandu84 : met l'ante. 20
+Torp6 : met l'ante. 20
+Torp6 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 3d]
+ethandu84 : passe. 
+Torp6 : relance. 150 à 300
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à Torp6.
+Torp6 a remporté 360  lors du pot .
+Torp6 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : ethandu84 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Torp6 (petite blind) a remporté (360)
+
+
+
+Main PokerStars n°237944262226 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:09:47 CET [12/08/2022 10:09:47 ET]
+Table '3455199573 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (9588 en jetons) 
+Place 2: ethandu84 (1818 en jetons) ne joue pas.
+Place 3: Torp6 (8594 en jetons) 
+psychoman59 : met l'ante. 20
+ethandu84 : met l'ante. 20
+Torp6 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+ethandu84 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Qh]
+Torp6 : relance. 150 à 300
+psychoman59 : passe. 
+ethandu84 : passe. 
+Personne n'a suivi. (150) sont retournés à Torp6.
+Torp6 a remporté 435  lors du pot .
+Torp6 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : ethandu84 (grosse blind) s'est couché. avant Flop
+Siège 3 : Torp6 (bouton) a remporté (435)
+
+
+
+Main PokerStars n°237944264781 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:09:58 CET [12/08/2022 10:09:58 ET]
+Table '3455199573 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (9493 en jetons) 
+Place 2: ethandu84 (1648 en jetons) ne joue pas.
+Place 3: Torp6 (8859 en jetons) 
+psychoman59 : met l'ante. 20
+ethandu84 : met l'ante. 20
+Torp6 : met l'ante. 20
+ethandu84 : met la petite blind. 75
+Torp6 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 4h]
+psychoman59 : passe. 
+ethandu84 : passe. 
+Personne n'a suivi. (75) sont retournés à Torp6.
+Torp6 a remporté 210  lors du pot .
+Torp6 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ethandu84 (petite blind) s'est couché. avant Flop
+Siège 3 : Torp6 (grosse blind) a remporté (210)
+
+
+
+Main PokerStars n°237944266983 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:10:06 CET [12/08/2022 10:10:06 ET]
+Table '3455199573 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (9473 en jetons) 
+Place 2: ethandu84 (1553 en jetons) ne joue pas.
+Place 3: Torp6 (8974 en jetons) 
+psychoman59 : met l'ante. 20
+ethandu84 : met l'ante. 20
+Torp6 : met l'ante. 20
+Torp6 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 9h]
+ethandu84 : passe. 
+Torp6 : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 210  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (210)
+Siège 2 : ethandu84 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Torp6 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237944268834 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:10:14 CET [12/08/2022 10:10:14 ET]
+Table '3455199573 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (9588 en jetons) 
+Place 2: ethandu84 (1533 en jetons) ne joue pas.
+Place 3: Torp6 (8879 en jetons) 
+psychoman59 : met l'ante. 20
+ethandu84 : met l'ante. 20
+Torp6 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+ethandu84 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h As]
+Torp6 : relance. 150 à 300
+psychoman59 : relance. 9268 à 9568 et est all-in.
+ethandu84 : passe. 
+Torp6 : passe. 
+Personne n'a suivi. (9268) sont retournés à psychoman59.
+psychoman59 a remporté 810  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 810 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (810)
+Siège 2 : ethandu84 (grosse blind) s'est couché. avant Flop
+Siège 3 : Torp6 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237944271690 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:10:25 CET [12/08/2022 10:10:25 ET]
+Table '3455199573 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (10078 en jetons) 
+Place 2: ethandu84 (1363 en jetons) ne joue pas.
+Place 3: Torp6 (8559 en jetons) 
+psychoman59 : met l'ante. 20
+ethandu84 : met l'ante. 20
+Torp6 : met l'ante. 20
+ethandu84 : met la petite blind. 75
+Torp6 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 8s]
+psychoman59 : passe. 
+ethandu84 : passe. 
+Personne n'a suivi. (75) sont retournés à Torp6.
+Torp6 a remporté 210  lors du pot .
+Torp6 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ethandu84 (petite blind) s'est couché. avant Flop
+Siège 3 : Torp6 (grosse blind) a remporté (210)
+
+
+
+Main PokerStars n°237944273573 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:10:33 CET [12/08/2022 10:10:33 ET]
+Table '3455199573 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (10058 en jetons) 
+Place 2: ethandu84 (1268 en jetons) ne joue pas.
+Place 3: Torp6 (8674 en jetons) 
+psychoman59 : met l'ante. 20
+ethandu84 : met l'ante. 20
+Torp6 : met l'ante. 20
+Torp6 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 6s]
+ethandu84 : passe. 
+Torp6 : relance. 150 à 300
+psychoman59 : suit. 150
+*** FLOP *** [3h Jc 4d]
+Torp6 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3h Jc 4d] [6h]
+Torp6 : mise. 300
+psychoman59 : suit. 300
+*** RIVIÈRE *** [3h Jc 4d 6h] [9h]
+Torp6 : mise. 600
+psychoman59 : suit. 600
+*** ABATTAGE ***
+Torp6 : montre [Ks Ts] (Hauteur Roi)
+psychoman59 : montre [7s 6s] (une paire de Six)
+psychoman59 a remporté 2460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2460 | Commission 0 
+Tableau [3h Jc 4d 6h 9h]
+Siège 1 : psychoman59 (grosse blind) a montré [7s 6s] et a gagné (2460) avec une paire de Six
+Siège 2 : ethandu84 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Torp6 (petite blind) a montré [Ks Ts] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°237944282152 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 16:11:07 CET [12/08/2022 10:11:07 ET]
+Table '3455199573 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (11298 en jetons) 
+Place 2: ethandu84 (1248 en jetons) ne joue pas.
+Place 3: Torp6 (7454 en jetons) 
+psychoman59 : met l'ante. 25
+ethandu84 : met l'ante. 25
+Torp6 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+ethandu84 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Js]
+Torp6 : passe. 
+psychoman59 : relance. 200 à 400
+ethandu84 : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 475  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (475)
+Siège 2 : ethandu84 (grosse blind) s'est couché. avant Flop
+Siège 3 : Torp6 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237944284334 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 16:11:16 CET [12/08/2022 10:11:16 ET]
+Table '3455199573 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (11548 en jetons) 
+Place 2: ethandu84 (1023 en jetons) ne joue pas.
+Place 3: Torp6 (7429 en jetons) 
+psychoman59 : met l'ante. 25
+ethandu84 : met l'ante. 25
+Torp6 : met l'ante. 25
+ethandu84 : met la petite blind. 100
+Torp6 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 8c]
+psychoman59 : passe. 
+ethandu84 : passe. 
+Personne n'a suivi. (100) sont retournés à Torp6.
+Torp6 a remporté 275  lors du pot .
+Torp6 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 275 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ethandu84 (petite blind) s'est couché. avant Flop
+Siège 3 : Torp6 (grosse blind) a remporté (275)
+
+
+
+Main PokerStars n°237944286306 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 16:11:23 CET [12/08/2022 10:11:23 ET]
+Table '3455199573 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (11523 en jetons) 
+Place 2: ethandu84 (898 en jetons) ne joue pas.
+Place 3: Torp6 (7579 en jetons) 
+psychoman59 : met l'ante. 25
+ethandu84 : met l'ante. 25
+Torp6 : met l'ante. 25
+Torp6 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 5c]
+ethandu84 : passe. 
+Torp6 : relance. 200 à 400
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à Torp6.
+Torp6 a remporté 475  lors du pot .
+Torp6 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : ethandu84 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Torp6 (petite blind) a remporté (475)
+
+
+
+Main PokerStars n°237944289029 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 16:11:34 CET [12/08/2022 10:11:34 ET]
+Table '3455199573 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (11298 en jetons) 
+Place 2: ethandu84 (873 en jetons) ne joue pas.
+Place 3: Torp6 (7829 en jetons) 
+psychoman59 : met l'ante. 25
+ethandu84 : met l'ante. 25
+Torp6 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+ethandu84 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d As]
+Torp6 : passe. 
+psychoman59 : relance. 200 à 400
+ethandu84 : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 475  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (475)
+Siège 2 : ethandu84 (grosse blind) s'est couché. avant Flop
+Siège 3 : Torp6 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237944291313 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 16:11:44 CET [12/08/2022 10:11:44 ET]
+Table '3455199573 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (11548 en jetons) 
+Place 2: ethandu84 (648 en jetons) ne joue pas.
+Place 3: Torp6 (7804 en jetons) 
+psychoman59 : met l'ante. 25
+ethandu84 : met l'ante. 25
+Torp6 : met l'ante. 25
+ethandu84 : met la petite blind. 100
+Torp6 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 4c]
+psychoman59 : relance. 575 à 775
+ethandu84 : passe. 
+Torp6 : suit. 575
+*** FLOP *** [3d Kd Qd]
+Torp6 : parole 
+psychoman59 : mise. 862
+Torp6 : passe. 
+Personne n'a suivi. (862) sont retournés à psychoman59.
+psychoman59 a remporté 1725  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1725 | Commission 0 
+Tableau [3d Kd Qd]
+Siège 1 : psychoman59 (bouton) a remporté (1725)
+Siège 2 : ethandu84 (petite blind) s'est couché. avant Flop
+Siège 3 : Torp6 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237944296607 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 16:12:04 CET [12/08/2022 10:12:04 ET]
+Table '3455199573 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (12473 en jetons) 
+Place 2: ethandu84 (523 en jetons) ne joue pas.
+Place 3: Torp6 (7004 en jetons) 
+psychoman59 : met l'ante. 25
+ethandu84 : met l'ante. 25
+Torp6 : met l'ante. 25
+Torp6 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 2s]
+ethandu84 : passe. 
+Torp6 : relance. 6779 à 6979 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (6779) sont retournés à Torp6.
+Torp6 a remporté 475  lors du pot .
+Torp6 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : ethandu84 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Torp6 (petite blind) a remporté (475)
+
+
+
+Main PokerStars n°237944299303 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 16:12:15 CET [12/08/2022 10:12:15 ET]
+Table '3455199573 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (12248 en jetons) 
+Place 2: ethandu84 (498 en jetons) ne joue pas.
+Place 3: Torp6 (7254 en jetons) 
+psychoman59 : met l'ante. 25
+ethandu84 : met l'ante. 25
+Torp6 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+ethandu84 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Jc]
+Torp6 : relance. 7029 à 7229 et est all-in.
+psychoman59 : passe. 
+ethandu84 : passe. 
+Personne n'a suivi. (7029) sont retournés à Torp6.
+Torp6 a remporté 575  lors du pot .
+Torp6 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 575 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : ethandu84 (grosse blind) s'est couché. avant Flop
+Siège 3 : Torp6 (bouton) a remporté (575)
+
+
+
+Main PokerStars n°237944301885 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 16:12:25 CET [12/08/2022 10:12:25 ET]
+Table '3455199573 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (12123 en jetons) 
+Place 2: ethandu84 (273 en jetons) ne joue pas.
+Place 3: Torp6 (7604 en jetons) 
+psychoman59 : met l'ante. 25
+ethandu84 : met l'ante. 25
+Torp6 : met l'ante. 25
+ethandu84 : met la petite blind. 100
+Torp6 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 7h]
+psychoman59 : passe. 
+ethandu84 : passe. 
+Personne n'a suivi. (100) sont retournés à Torp6.
+Torp6 a remporté 275  lors du pot .
+Torp6 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 275 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ethandu84 (petite blind) s'est couché. avant Flop
+Siège 3 : Torp6 (grosse blind) a remporté (275)
+
+
+
+Main PokerStars n°237944303842 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 16:12:33 CET [12/08/2022 10:12:33 ET]
+Table '3455199573 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (12098 en jetons) 
+Place 2: ethandu84 (148 en jetons) ne joue pas.
+Place 3: Torp6 (7754 en jetons) 
+psychoman59 : met l'ante. 25
+ethandu84 : met l'ante. 25
+Torp6 : met l'ante. 25
+Torp6 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 7d]
+ethandu84 : passe. 
+Torp6 : relance. 200 à 400
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à Torp6.
+Torp6 a remporté 475  lors du pot .
+Torp6 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : ethandu84 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Torp6 (petite blind) a remporté (475)
+
+
+
+Main PokerStars n°237944306247 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 16:12:43 CET [12/08/2022 10:12:43 ET]
+Table '3455199573 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (11873 en jetons) 
+Place 2: ethandu84 (123 en jetons) ne joue pas.
+Place 3: Torp6 (8004 en jetons) 
+psychoman59 : met l'ante. 25
+ethandu84 : met l'ante. 25
+Torp6 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+ethandu84 : met la grosse blind. 98 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Js]
+Torp6 : passe. 
+ethandu84 : passe. 
+Personne n'a suivi. (2) sont retournés à psychoman59.
+psychoman59 a remporté 271  lors du pot .
+ethandu84 a fini le tournoi en 3e position.
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 271 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (271)
+Siège 2 : ethandu84 (grosse blind) s'est couché. avant Flop
+Siège 3 : Torp6 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237944308496 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 16:12:52 CET [12/08/2022 10:12:52 ET]
+Table '3455199573 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (12021 en jetons) 
+Place 3: Torp6 (7979 en jetons) 
+psychoman59 : met l'ante. 25
+Torp6 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+Torp6 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ts]
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à Torp6.
+Torp6 a remporté 250  lors du pot .
+Torp6 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Torp6 (grosse blind) a remporté (250)
+
+
+
+Main PokerStars n°237944310381 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 16:12:59 CET [12/08/2022 10:12:59 ET]
+Table '3455199573 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (11896 en jetons) 
+Place 3: Torp6 (8104 en jetons) 
+psychoman59 : met l'ante. 25
+Torp6 : met l'ante. 25
+Torp6 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 6d]
+Torp6 : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 250  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (250)
+Siège 3 : Torp6 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237944312227 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 16:13:07 CET [12/08/2022 10:13:07 ET]
+Table '3455199573 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (12021 en jetons) 
+Place 3: Torp6 (7979 en jetons) 
+psychoman59 : met l'ante. 25
+Torp6 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+Torp6 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à Torp6.
+Torp6 a remporté 250  lors du pot .
+Torp6 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Torp6 (grosse blind) a remporté (250)
+
+
+
+Main PokerStars n°237944314520 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 16:13:16 CET [12/08/2022 10:13:16 ET]
+Table '3455199573 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (11896 en jetons) 
+Place 3: Torp6 (8104 en jetons) 
+psychoman59 : met l'ante. 25
+Torp6 : met l'ante. 25
+Torp6 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 9c]
+Torp6 : relance. 7879 à 8079 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (7879) sont retournés à Torp6.
+Torp6 a remporté 450  lors du pot .
+Torp6 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Torp6 (bouton) (petite blind) a remporté (450)
+
+
+
+Main PokerStars n°237944317392 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 16:13:27 CET [12/08/2022 10:13:27 ET]
+Table '3455199573 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (11671 en jetons) 
+Place 3: Torp6 (8329 en jetons) 
+psychoman59 : met l'ante. 25
+Torp6 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+Torp6 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 5h]
+psychoman59 : relance. 450 à 650
+Torp6 : relance. 7654 à 8304 et est all-in.
+psychoman59 : suit. 7654
+*** FLOP *** [3h Ah 2s]
+*** TOURNANT *** [3h Ah 2s] [Jc]
+*** RIVIÈRE *** [3h Ah 2s Jc] [Jd]
+*** ABATTAGE ***
+Torp6 : montre [8h 8c] (double paire, Valets et Huit)
+psychoman59 : montre [Kh 5h] (une paire de Valets)
+Torp6 a remporté 16658  lors du pot .
+*** SYNTHÈSE ***
+Pot total 16658 | Commission 0 
+Tableau [3h Ah 2s Jc Jd]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Kh 5h] et a perdu avec une paire de Valets
+Siège 3 : Torp6 (grosse blind) a montré [8h 8c] et a gagné (16658) avec double paire, Valets et Huit
+
+
+
+Main PokerStars n°237944322824 : Tournoi #3455199573, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 16:13:49 CET [12/08/2022 10:13:49 ET]
+Table '3455199573 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (3342 en jetons) 
+Place 3: Torp6 (16658 en jetons) 
+psychoman59 : met l'ante. 30
+Torp6 : met l'ante. 30
+Torp6 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ac]
+Torp6 : relance. 16378 à 16628 et est all-in.
+psychoman59 : suit. 3062 et est all-in.
+Personne n'a suivi. (13316) sont retournés à Torp6.
+*** FLOP *** [8h 7c Jc]
+*** TOURNANT *** [8h 7c Jc] [9s]
+*** RIVIÈRE *** [8h 7c Jc 9s] [4c]
+*** ABATTAGE ***
+psychoman59 : montre [9h Ac] (une paire de Neuf)
+Torp6 : montre [Kc Tc] (une couleur, hauteur Roi)
+Torp6 a remporté 6684  lors du pot .
+psychoman59 a fini le tournoi à la 2e place et a reçu 0.34 €.
+Torp6 gagne le tournoi - félicitations !
+Torp6 gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 6684 | Commission 0 
+Tableau [8h 7c Jc 9s 4c]
+Siège 1 : psychoman59 (grosse blind) a montré [9h Ac] et a perdu avec une paire de Neuf
+Siège 3 : Torp6 (bouton) (petite blind) a montré [Kc Tc] et a gagné (6684) avec une couleur, hauteur Roi
+
+
+

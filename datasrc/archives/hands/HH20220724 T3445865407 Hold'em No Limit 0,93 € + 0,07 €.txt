@@ -1,0 +1,33 @@
+﻿Main PokerStars n°237548419255 : Tournoi #3445865407, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/07/2022 6:40:39 CET [24/07/2022 0:40:39 ET]
+Table '3445865407 1' 3-max Siège #1 est au bouton.
+Place 1: coinflip0713 (300 en jetons) 
+Place 2: makhloufi95 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+makhloufi95 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 7h]
+coinflip0713 : suit. 20
+makhloufi95 : relance. 60 à 80
+psychoman59 : suit. 60
+coinflip0713 : suit. 60
+*** FLOP *** [3h 3c Jh]
+makhloufi95 : parole 
+psychoman59 : mise. 220 et est all-in.
+coinflip0713 : passe. 
+makhloufi95 : suit. 220 et est all-in.
+*** TOURNANT *** [3h 3c Jh] [5s]
+*** RIVIÈRE *** [3h 3c Jh 5s] [Th]
+*** ABATTAGE ***
+makhloufi95 : montre [Kc Ts] (double paire, Dix et Trois)
+psychoman59 : montre [7c 7h] (double paire, Sept et Trois)
+makhloufi95 a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [3h 3c Jh 5s Th]
+Siège 1 : coinflip0713 (bouton) s'est couché. sur le Flop
+Siège 2 : makhloufi95 (petite blind) a montré [Kc Ts] et a gagné (680) avec double paire, Dix et Trois
+Siège 3 : psychoman59 (grosse blind) a montré [7c 7h] et a perdu avec double paire, Sept et Trois
+
+
+

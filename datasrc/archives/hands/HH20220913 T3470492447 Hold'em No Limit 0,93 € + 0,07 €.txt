@@ -1,0 +1,431 @@
+﻿Main PokerStars n°238595250313 : Tournoi #3470492447, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 8:03:59 CET [13/09/2022 2:03:59 ET]
+Table '3470492447 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: brazilien13 (300 en jetons) 
+Place 3: PasDePrbl (300 en jetons) 
+brazilien13 : met la petite blind. 10
+PasDePrbl : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 7s]
+psychoman59 : passe. 
+brazilien13 : relance. 280 à 300 et est all-in.
+PasDePrbl : passe. 
+Personne n'a suivi. (280) sont retournés à brazilien13.
+brazilien13 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : brazilien13 (petite blind) a remporté (40)
+Siège 3 : PasDePrbl (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238595251198 : Tournoi #3470492447, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 8:04:08 CET [13/09/2022 2:04:08 ET]
+Table '3470492447 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: brazilien13 (320 en jetons) 
+Place 3: PasDePrbl (280 en jetons) 
+PasDePrbl : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 9c]
+brazilien13 : suit. 20
+PasDePrbl : passe. 
+psychoman59 : relance. 280 à 300 et est all-in.
+brazilien13 : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (50)
+Siège 2 : brazilien13 (bouton) s'est couché. avant Flop
+Siège 3 : PasDePrbl (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238595252112 : Tournoi #3470492447, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 8:04:17 CET [13/09/2022 2:04:17 ET]
+Table '3470492447 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: brazilien13 (300 en jetons) 
+Place 3: PasDePrbl (270 en jetons) 
+psychoman59 : met la petite blind. 10
+brazilien13 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 3s]
+PasDePrbl : suit. 20
+psychoman59 : passe. 
+brazilien13 : relance. 280 à 300 et est all-in.
+PasDePrbl : suit. 250 et est all-in.
+Personne n'a suivi. (30) sont retournés à brazilien13.
+*** FLOP *** [7s 3c 2h]
+*** TOURNANT *** [7s 3c 2h] [Jc]
+*** RIVIÈRE *** [7s 3c 2h Jc] [6h]
+*** ABATTAGE ***
+brazilien13 : montre [Ah 7c] (une paire de Sept)
+PasDePrbl : montre [7h Kh] (une paire de Sept - plus basse kicker)
+brazilien13 a remporté 550  lors du pot .
+PasDePrbl a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 550 | Commission 0 
+Tableau [7s 3c 2h Jc 6h]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : brazilien13 (grosse blind) a montré [Ah 7c] et a gagné (550) avec une paire de Sept
+Siège 3 : PasDePrbl (bouton) a montré [7h Kh] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°238595253850 : Tournoi #3470492447, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 8:04:35 CET [13/09/2022 2:04:35 ET]
+Table '3470492447 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: brazilien13 (580 en jetons) 
+brazilien13 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 7d]
+brazilien13 : suit. 10
+psychoman59 : relance. 300 à 320 et est all-in.
+brazilien13 : suit. 300
+*** FLOP *** [3c 2c 8c]
+*** TOURNANT *** [3c 2c 8c] [9d]
+*** RIVIÈRE *** [3c 2c 8c 9d] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [As 7d] (une paire de Neuf)
+brazilien13 : montre [6d Ad] (une paire de Neuf - plus basse kicker)
+psychoman59 a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [3c 2c 8c 9d 9c]
+Siège 1 : psychoman59 (grosse blind) a montré [As 7d] et a gagné (640) avec une paire de Neuf
+Siège 2 : brazilien13 (bouton) (petite blind) a montré [6d Ad] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°238595255381 : Tournoi #3470492447, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 8:04:51 CET [13/09/2022 2:04:51 ET]
+Table '3470492447 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (640 en jetons) 
+Place 2: brazilien13 (260 en jetons) 
+psychoman59 : met la petite blind. 10
+brazilien13 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à brazilien13.
+brazilien13 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : brazilien13 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°238595255936 : Tournoi #3470492447, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 8:04:56 CET [13/09/2022 2:04:56 ET]
+Table '3470492447 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (630 en jetons) 
+Place 2: brazilien13 (270 en jetons) 
+brazilien13 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 8s]
+brazilien13 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qs 2d 9d]
+psychoman59 : parole 
+brazilien13 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à brazilien13.
+brazilien13 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qs 2d 9d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : brazilien13 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°238595257300 : Tournoi #3470492447, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 8:05:10 CET [13/09/2022 2:05:10 ET]
+Table '3470492447 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (610 en jetons) 
+Place 2: brazilien13 (290 en jetons) 
+psychoman59 : met la petite blind. 15
+brazilien13 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 6c]
+psychoman59 : relance. 60 à 90
+brazilien13 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 2 : brazilien13 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238595258045 : Tournoi #3470492447, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 8:05:18 CET [13/09/2022 2:05:18 ET]
+Table '3470492447 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (640 en jetons) 
+Place 2: brazilien13 (260 en jetons) 
+brazilien13 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 4s]
+brazilien13 : relance. 230 à 260 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (230) sont retournés à brazilien13.
+brazilien13 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : brazilien13 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°238595258640 : Tournoi #3470492447, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 8:05:24 CET [13/09/2022 2:05:24 ET]
+Table '3470492447 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (610 en jetons) 
+Place 2: brazilien13 (290 en jetons) 
+psychoman59 : met la petite blind. 15
+brazilien13 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à brazilien13.
+brazilien13 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : brazilien13 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°238595259135 : Tournoi #3470492447, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 8:05:30 CET [13/09/2022 2:05:30 ET]
+Table '3470492447 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (595 en jetons) 
+Place 2: brazilien13 (305 en jetons) 
+brazilien13 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 4c]
+brazilien13 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [7d 7c 9c]
+psychoman59 : parole 
+brazilien13 : parole 
+*** TOURNANT *** [7d 7c 9c] [Ks]
+psychoman59 : parole 
+brazilien13 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à brazilien13.
+brazilien13 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7d 7c 9c Ks]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : brazilien13 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°238595260723 : Tournoi #3470492447, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 8:05:46 CET [13/09/2022 2:05:46 ET]
+Table '3470492447 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (565 en jetons) 
+Place 2: brazilien13 (335 en jetons) 
+psychoman59 : met la petite blind. 15
+brazilien13 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à brazilien13.
+brazilien13 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : brazilien13 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°238595261212 : Tournoi #3470492447, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 8:05:51 CET [13/09/2022 2:05:51 ET]
+Table '3470492447 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (550 en jetons) 
+Place 2: brazilien13 (350 en jetons) 
+brazilien13 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 4c]
+brazilien13 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [7h 7d Ah]
+psychoman59 : parole 
+brazilien13 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à brazilien13.
+brazilien13 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7h 7d Ah]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : brazilien13 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°238595262728 : Tournoi #3470492447, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 8:06:06 CET [13/09/2022 2:06:06 ET]
+Table '3470492447 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: brazilien13 (380 en jetons) 
+psychoman59 : met la petite blind. 20
+brazilien13 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ts]
+psychoman59 : suit. 20
+brazilien13 : parole 
+*** FLOP *** [4s Th Qc]
+brazilien13 : parole 
+psychoman59 : mise. 80
+brazilien13 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4s Th Qc]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : brazilien13 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238595264046 : Tournoi #3470492447, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 8:06:20 CET [13/09/2022 2:06:20 ET]
+Table '3470492447 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (560 en jetons) 
+Place 2: brazilien13 (340 en jetons) 
+brazilien13 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 9h]
+brazilien13 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : brazilien13 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238595264485 : Tournoi #3470492447, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 8:06:24 CET [13/09/2022 2:06:24 ET]
+Table '3470492447 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 2: brazilien13 (320 en jetons) 
+psychoman59 : met la petite blind. 20
+brazilien13 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à brazilien13.
+brazilien13 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : brazilien13 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238595264952 : Tournoi #3470492447, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 8:06:29 CET [13/09/2022 2:06:29 ET]
+Table '3470492447 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (560 en jetons) 
+Place 2: brazilien13 (340 en jetons) 
+brazilien13 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 5d]
+brazilien13 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [5h Td 8c]
+psychoman59 : parole 
+brazilien13 : parole 
+*** TOURNANT *** [5h Td 8c] [Qs]
+psychoman59 : parole 
+brazilien13 : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [5h Td 8c Qs] [As]
+psychoman59 : mise. 160
+brazilien13 : suit. 160
+*** ABATTAGE ***
+psychoman59 : montre [Ts 5d] (double paire, Dix et Cinq)
+brazilien13 : cache la main perdante. 
+psychoman59 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [5h Td 8c Qs As]
+Siège 1 : psychoman59 (grosse blind) a montré [Ts 5d] et a gagné (480) avec double paire, Dix et Cinq
+Siège 2 : brazilien13 (bouton) (petite blind) a caché la main perdante. [4s Qh]
+
+
+
+Main PokerStars n°238595267002 : Tournoi #3470492447, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 8:06:50 CET [13/09/2022 2:06:50 ET]
+Table '3470492447 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (800 en jetons) 
+Place 2: brazilien13 (100 en jetons) 
+psychoman59 : met la petite blind. 20
+brazilien13 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à brazilien13.
+brazilien13 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : brazilien13 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238595267484 : Tournoi #3470492447, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 8:06:55 CET [13/09/2022 2:06:55 ET]
+Table '3470492447 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (780 en jetons) 
+Place 2: brazilien13 (120 en jetons) 
+brazilien13 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Js]
+brazilien13 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : brazilien13 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238595268223 : Tournoi #3470492447, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/09/2022 8:07:03 CET [13/09/2022 2:07:03 ET]
+Table '3470492447 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (800 en jetons) 
+Place 2: brazilien13 (100 en jetons) 
+psychoman59 : met la petite blind. 30
+brazilien13 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Qc]
+psychoman59 : suit. 30
+brazilien13 : parole 
+*** FLOP *** [9d Kh 7s]
+brazilien13 : mise. 40 et est all-in.
+psychoman59 : suit. 40
+*** TOURNANT *** [9d Kh 7s] [Qs]
+*** RIVIÈRE *** [9d Kh 7s Qs] [6h]
+*** ABATTAGE ***
+brazilien13 : montre [7d 5h] (une paire de Sept)
+psychoman59 : montre [5c Qc] (une paire de Dames)
+psychoman59 a remporté 200  lors du pot .
+brazilien13 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [9d Kh 7s Qs 6h]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [5c Qc] et a gagné (200) avec une paire de Dames
+Siège 2 : brazilien13 (grosse blind) a montré [7d 5h] et a perdu avec une paire de Sept
+
+
+

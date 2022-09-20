@@ -1,0 +1,364 @@
+﻿Main PokerStars n°237313352605 : Tournoi #3440399074, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/07/2022 15:30:26 CET [12/07/2022 9:30:26 ET]
+Table '3440399074 1' 3-max Siège #1 est au bouton.
+Place 1: lewo15 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: toumo10 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+toumo10 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Jc]
+lewo15 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à toumo10.
+toumo10 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : lewo15 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : toumo10 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237313355143 : Tournoi #3440399074, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/07/2022 15:30:37 CET [12/07/2022 9:30:37 ET]
+Table '3440399074 1' 3-max Siège #2 est au bouton.
+Place 1: lewo15 (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: toumo10 (310 en jetons) 
+toumo10 : met la petite blind. 10
+lewo15 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 9h]
+psychoman59 : relance. 50 à 70
+toumo10 : suit. 60
+lewo15 : passe. 
+*** FLOP *** [9c Ah Ts]
+toumo10 : parole 
+psychoman59 : mise. 40
+toumo10 : relance. 80 à 120
+psychoman59 : relance. 100 à 220 et est all-in.
+toumo10 : suit. 100
+*** TOURNANT *** [9c Ah Ts] [2h]
+*** RIVIÈRE *** [9c Ah Ts 2h] [Kc]
+*** ABATTAGE ***
+toumo10 : montre [7d Ad] (une paire de As)
+psychoman59 : montre [9d 9h] (un brelan de Neuf)
+psychoman59 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [9c Ah Ts 2h Kc]
+Siège 1 : lewo15 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a montré [9d 9h] et a gagné (600) avec un brelan de Neuf
+Siège 3 : toumo10 (petite blind) a montré [7d Ad] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°237313365900 : Tournoi #3440399074, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/07/2022 15:31:24 CET [12/07/2022 9:31:24 ET]
+Table '3440399074 1' 3-max Siège #3 est au bouton.
+Place 1: lewo15 (280 en jetons) 
+Place 2: psychoman59 (600 en jetons) 
+Place 3: toumo10 (20 en jetons) 
+lewo15 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 4s]
+toumo10 : suit. 20 et est all-in.
+lewo15 : passe. 
+*** FLOP *** [3h Th 2h]
+*** TOURNANT *** [3h Th 2h] [Td]
+*** RIVIÈRE *** [3h Th 2h Td] [Ac]
+*** ABATTAGE ***
+psychoman59 : montre [Ad 4s] (double paire, As et Dix)
+toumo10 : montre [5s As] (double paire, As et Dix - Cinq kicker)
+toumo10 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [3h Th 2h Td Ac]
+Siège 1 : lewo15 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [Ad 4s] et a perdu avec double paire, As et Dix
+Siège 3 : toumo10 (bouton) a montré [5s As] et a gagné (50) avec double paire, As et Dix
+
+
+
+Main PokerStars n°237313370112 : Tournoi #3440399074, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/07/2022 15:31:42 CET [12/07/2022 9:31:42 ET]
+Table '3440399074 1' 3-max Siège #1 est au bouton.
+Place 1: lewo15 (270 en jetons) 
+Place 2: psychoman59 (580 en jetons) 
+Place 3: toumo10 (50 en jetons) 
+psychoman59 : met la petite blind. 15
+toumo10 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 4d]
+lewo15 : passe. 
+psychoman59 : relance. 30 à 60
+toumo10 : suit. 20 et est all-in.
+Personne n'a suivi. (10) sont retournés à psychoman59.
+*** FLOP *** [6s Ac 5c]
+*** TOURNANT *** [6s Ac 5c] [8s]
+*** RIVIÈRE *** [6s Ac 5c 8s] [Th]
+*** ABATTAGE ***
+psychoman59 : montre [Kh 4d] (Hauteur As)
+toumo10 : montre [6h Kd] (une paire de Six)
+toumo10 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [6s Ac 5c 8s Th]
+Siège 1 : lewo15 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Kh 4d] et a perdu avec Hauteur As
+Siège 3 : toumo10 (grosse blind) a montré [6h Kd] et a gagné (100) avec une paire de Six
+
+
+
+Main PokerStars n°237313380633 : Tournoi #3440399074, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/07/2022 15:32:01 CET [12/07/2022 9:32:01 ET]
+Table '3440399074 1' 3-max Siège #2 est au bouton.
+Place 1: lewo15 (270 en jetons) 
+Place 2: psychoman59 (530 en jetons) 
+Place 3: toumo10 (100 en jetons) 
+toumo10 : met la petite blind. 15
+lewo15 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 8s]
+psychoman59 : passe. 
+toumo10 : relance. 70 à 100 et est all-in.
+lewo15 : passe. 
+Personne n'a suivi. (70) sont retournés à toumo10.
+toumo10 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : lewo15 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : toumo10 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237313387267 : Tournoi #3440399074, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/07/2022 15:32:30 CET [12/07/2022 9:32:30 ET]
+Table '3440399074 1' 3-max Siège #3 est au bouton.
+Place 1: lewo15 (240 en jetons) 
+Place 2: psychoman59 (530 en jetons) 
+Place 3: toumo10 (130 en jetons) 
+lewo15 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 2d]
+toumo10 : passe. 
+lewo15 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Kc Jd 3s]
+lewo15 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à lewo15.
+lewo15 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Kc Jd 3s]
+Siège 1 : lewo15 (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : toumo10 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237313394198 : Tournoi #3440399074, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/07/2022 15:33:01 CET [12/07/2022 9:33:01 ET]
+Table '3440399074 1' 3-max Siège #1 est au bouton.
+Place 1: lewo15 (280 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: toumo10 (130 en jetons) 
+psychoman59 : met la petite blind. 20
+toumo10 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 6d]
+lewo15 : passe. 
+psychoman59 : relance. 80 à 120
+toumo10 : relance. 10 à 130 et est all-in.
+psychoman59 : suit. 10
+*** FLOP *** [9h 6s 4s]
+*** TOURNANT *** [9h 6s 4s] [8d]
+*** RIVIÈRE *** [9h 6s 4s 8d] [Kd]
+*** ABATTAGE ***
+psychoman59 : montre [Ah 6d] (une paire de Six)
+toumo10 : montre [Ad 5c] (Hauteur As)
+psychoman59 a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [9h 6s 4s 8d Kd]
+Siège 1 : lewo15 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Ah 6d] et a gagné (260) avec une paire de Six
+Siège 3 : toumo10 (grosse blind) a montré [Ad 5c] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237313401080 : Tournoi #3440399074, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/07/2022 15:33:31 CET [12/07/2022 9:33:31 ET]
+Table '3440399074 1' 3-max Siège #2 est au bouton.
+Place 1: lewo15 (280 en jetons) 
+Place 2: psychoman59 (620 en jetons) 
+psychoman59 : met la petite blind. 30
+lewo15 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Ac]
+psychoman59 : relance. 120 à 180
+lewo15 : relance. 100 à 280 et est all-in.
+psychoman59 : suit. 100
+*** FLOP *** [7s 4d 7c]
+*** TOURNANT *** [7s 4d 7c] [Qd]
+*** RIVIÈRE *** [7s 4d 7c Qd] [Ah]
+*** ABATTAGE ***
+lewo15 : montre [As 9c] (double paire, As et Sept)
+psychoman59 : montre [4s Ac] (double paire, As et Sept)
+lewo15 a remporté 280  lors du pot .
+psychoman59 a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [7s 4d 7c Qd Ah]
+Siège 1 : lewo15 (grosse blind) a montré [As 9c] et a gagné (280) avec double paire, As et Sept
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [4s Ac] et a gagné (280) avec double paire, As et Sept
+
+
+
+Main PokerStars n°237313406203 : Tournoi #3440399074, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/07/2022 15:33:54 CET [12/07/2022 9:33:54 ET]
+Table '3440399074 1' 3-max Siège #1 est au bouton.
+Place 1: lewo15 (280 en jetons) 
+Place 2: psychoman59 (620 en jetons) 
+lewo15 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 3s]
+lewo15 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Ah Kh 2c]
+psychoman59 : parole 
+lewo15 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à lewo15.
+lewo15 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ah Kh 2c]
+Siège 1 : lewo15 (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237313410388 : Tournoi #3440399074, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/07/2022 15:34:12 CET [12/07/2022 9:34:12 ET]
+Table '3440399074 1' 3-max Siège #2 est au bouton.
+Place 1: lewo15 (340 en jetons) 
+Place 2: psychoman59 (560 en jetons) 
+psychoman59 : met la petite blind. 30
+lewo15 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à lewo15.
+lewo15 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : lewo15 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237313411412 : Tournoi #3440399074, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/07/2022 15:34:16 CET [12/07/2022 9:34:16 ET]
+Table '3440399074 1' 3-max Siège #1 est au bouton.
+Place 1: lewo15 (370 en jetons) 
+Place 2: psychoman59 (530 en jetons) 
+lewo15 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 7s]
+lewo15 : relance. 310 à 370 et est all-in.
+psychoman59 : suit. 310
+*** FLOP *** [8h Kc 6d]
+*** TOURNANT *** [8h Kc 6d] [3d]
+*** RIVIÈRE *** [8h Kc 6d 3d] [3s]
+*** ABATTAGE ***
+psychoman59 : montre [Ks 7s] (double paire, Rois et Trois)
+lewo15 : montre [7h Kd] (double paire, Rois et Trois)
+psychoman59 a remporté 370  lors du pot .
+lewo15 a remporté 370  lors du pot .
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Tableau [8h Kc 6d 3d 3s]
+Siège 1 : lewo15 (bouton) (petite blind) a montré [7h Kd] et a gagné (370) avec double paire, Rois et Trois
+Siège 2 : psychoman59 (grosse blind) a montré [Ks 7s] et a gagné (370) avec double paire, Rois et Trois
+
+
+
+Main PokerStars n°237313415392 : Tournoi #3440399074, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/07/2022 15:34:33 CET [12/07/2022 9:34:33 ET]
+Table '3440399074 1' 3-max Siège #2 est au bouton.
+Place 1: lewo15 (370 en jetons) 
+Place 2: psychoman59 (530 en jetons) 
+psychoman59 : met la petite blind. 40
+lewo15 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Jh]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à lewo15.
+lewo15 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : lewo15 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237313416817 : Tournoi #3440399074, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/07/2022 15:34:39 CET [12/07/2022 9:34:39 ET]
+Table '3440399074 1' 3-max Siège #1 est au bouton.
+Place 1: lewo15 (410 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+lewo15 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ah]
+lewo15 : suit. 40
+psychoman59 : relance. 410 à 490 et est all-in.
+lewo15 : passe. 
+Personne n'a suivi. (410) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : lewo15 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°237313423142 : Tournoi #3440399074, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/07/2022 15:35:07 CET [12/07/2022 9:35:07 ET]
+Table '3440399074 1' 3-max Siège #2 est au bouton.
+Place 1: lewo15 (330 en jetons) 
+Place 2: psychoman59 (570 en jetons) 
+psychoman59 : met la petite blind. 40
+lewo15 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 6c]
+psychoman59 : relance. 490 à 570 et est all-in.
+lewo15 : passe. 
+Personne n'a suivi. (490) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : lewo15 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°237313426589 : Tournoi #3440399074, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/07/2022 15:35:22 CET [12/07/2022 9:35:22 ET]
+Table '3440399074 1' 3-max Siège #1 est au bouton.
+Place 1: lewo15 (250 en jetons) 
+Place 2: psychoman59 (650 en jetons) 
+lewo15 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ac]
+lewo15 : relance. 170 à 250 et est all-in.
+psychoman59 : suit. 170
+*** FLOP *** [3c 7h 5h]
+*** TOURNANT *** [3c 7h 5h] [6c]
+*** RIVIÈRE *** [3c 7h 5h 6c] [7d]
+*** ABATTAGE ***
+psychoman59 : montre [7c Ac] (un brelan de Sept)
+lewo15 : montre [Ts Kd] (une paire de Sept)
+psychoman59 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [3c 7h 5h 6c 7d]
+Siège 1 : lewo15 (bouton) (petite blind) a montré [Ts Kd] et a perdu avec une paire de Sept
+Siège 2 : psychoman59 (grosse blind) a montré [7c Ac] et a gagné (500) avec un brelan de Sept
+
+
+

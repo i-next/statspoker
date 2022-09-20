@@ -1,0 +1,111 @@
+﻿Main PokerStars n°238142969831 : Tournoi #3459901105, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 22/08/2022 10:57:42 CET [22/08/2022 4:57:42 ET]
+Table '3459901105 1' 4-max Siège #1 est au bouton.
+Place 1: oloman00 (5000 en jetons) 
+Place 2: iMario88 (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: Paellamix (5000 en jetons) 
+oloman00 : met l'ante. 10
+iMario88 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Paellamix : met l'ante. 10
+iMario88 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Jc]
+Paellamix : passe. 
+oloman00 a dépassé le temps imparti.
+oloman00 : passe. 
+oloman00 ne joue pas.
+iMario88 : relance. 200 à 300
+psychoman59 : suit. 200
+*** FLOP *** [Tc 6s 2h]
+iMario88 : mise. 218
+psychoman59 : suit. 218
+*** TOURNANT *** [Tc 6s 2h] [Kc]
+iMario88 : mise. 807
+psychoman59 : suit. 807
+*** RIVIÈRE *** [Tc 6s 2h Kc] [Jd]
+iMario88 : mise. 3665 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (3665) sont retournés à iMario88.
+iMario88 a remporté 2690  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2690 | Commission 0 
+Tableau [Tc 6s 2h Kc Jd]
+Siège 1 : oloman00 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : iMario88 (petite blind) a remporté (2690)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 4 : Paellamix s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238142979466 : Tournoi #3459901105, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 22/08/2022 10:59:01 CET [22/08/2022 4:59:01 ET]
+Table '3459901105 1' 4-max Siège #2 est au bouton.
+Place 1: oloman00 (4990 en jetons) ne joue pas.
+Place 2: iMario88 (6355 en jetons) 
+Place 3: psychoman59 (3665 en jetons) 
+Place 4: Paellamix (4990 en jetons) 
+oloman00 : met l'ante. 10
+iMario88 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Paellamix : met l'ante. 10
+psychoman59 : met la petite blind. 50
+Paellamix : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 5c]
+oloman00 : passe. 
+iMario88 : relance. 200 à 300
+psychoman59 : passe. 
+Paellamix : passe. 
+Personne n'a suivi. (200) sont retournés à iMario88.
+iMario88 a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : oloman00 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : iMario88 (bouton) a remporté (290)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : Paellamix (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238142982069 : Tournoi #3459901105, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 22/08/2022 10:59:23 CET [22/08/2022 4:59:23 ET]
+Table '3459901105 1' 4-max Siège #3 est au bouton.
+Place 1: oloman00 (4980 en jetons) ne joue pas.
+Place 2: iMario88 (6535 en jetons) 
+Place 3: psychoman59 (3605 en jetons) 
+Place 4: Paellamix (4880 en jetons) 
+oloman00 : met l'ante. 10
+iMario88 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Paellamix : met l'ante. 10
+Paellamix : met la petite blind. 50
+oloman00 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Kh]
+iMario88 : relance. 100 à 200
+psychoman59 : suit. 200
+Paellamix : passe. 
+oloman00 : passe. 
+*** FLOP *** [7d 9d 9h]
+iMario88 : mise. 148
+psychoman59 : suit. 148
+*** TOURNANT *** [7d 9d 9h] [8s]
+iMario88 : parole 
+psychoman59 : mise. 3247 et est all-in.
+iMario88 : suit. 3247
+*** RIVIÈRE *** [7d 9d 9h 8s] [Qc]
+*** ABATTAGE ***
+iMario88 : montre [As Ad] (double paire, As et Neuf)
+psychoman59 : montre [Td Kh] (une paire de Neuf)
+iMario88 a remporté 7380  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 7380 | Commission 0 
+Tableau [7d 9d 9h 8s Qc]
+Siège 1 : oloman00 (grosse blind) s'est couché. avant Flop
+Siège 2 : iMario88 a montré [As Ad] et a gagné (7380) avec double paire, As et Neuf
+Siège 3 : psychoman59 (bouton) a montré [Td Kh] et a perdu avec une paire de Neuf
+Siège 4 : Paellamix (petite blind) s'est couché. avant Flop
+
+
+

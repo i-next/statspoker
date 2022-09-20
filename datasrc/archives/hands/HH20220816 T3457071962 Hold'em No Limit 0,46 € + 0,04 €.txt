@@ -1,0 +1,1319 @@
+﻿Main PokerStars n°238023624742 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 16/08/2022 15:28:32 CET [16/08/2022 9:28:32 ET]
+Table '3457071962 1' 4-max Siège #1 est au bouton.
+Place 1: Sathya90 (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: elodiie34 (5000 en jetons) 
+Place 4: millechibres (5000 en jetons) 
+Sathya90 : met l'ante. 10
+psychoman59 : met l'ante. 10
+elodiie34 : met l'ante. 10
+millechibres : met l'ante. 10
+psychoman59 : met la petite blind. 50
+elodiie34 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ah]
+millechibres : suit. 100
+Sathya90 : suit. 100
+psychoman59 : suit. 50
+elodiie34 : parole 
+*** FLOP *** [5s 4c 5h]
+psychoman59 : parole 
+elodiie34 : mise. 100
+millechibres : passe. 
+Sathya90 : suit. 100
+psychoman59 : suit. 100
+*** TOURNANT *** [5s 4c 5h] [6c]
+psychoman59 : parole 
+elodiie34 : mise. 300
+Sathya90 : suit. 300
+psychoman59 : suit. 300
+*** RIVIÈRE *** [5s 4c 5h 6c] [Jc]
+psychoman59 : parole 
+elodiie34 : mise. 500
+Sathya90 : relance. 500 à 1000
+psychoman59 : passe. 
+elodiie34 : passe. 
+Personne n'a suivi. (500) sont retournés à Sathya90.
+Sathya90 a remporté 2640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2640 | Commission 0 
+Tableau [5s 4c 5h 6c Jc]
+Siège 1 : Sathya90 (bouton) a remporté (2640)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 3 : elodiie34 (grosse blind) s'est couché. sur le Rivière
+Siège 4 : millechibres s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238023641794 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 16/08/2022 15:29:45 CET [16/08/2022 9:29:45 ET]
+Table '3457071962 1' 4-max Siège #2 est au bouton.
+Place 1: Sathya90 (6630 en jetons) 
+Place 2: psychoman59 (4490 en jetons) 
+Place 3: elodiie34 (3990 en jetons) 
+Place 4: millechibres (4890 en jetons) 
+Sathya90 : met l'ante. 10
+psychoman59 : met l'ante. 10
+elodiie34 : met l'ante. 10
+millechibres : met l'ante. 10
+elodiie34 : met la petite blind. 50
+millechibres : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 7s]
+Sathya90 : suit. 100
+psychoman59 : passe. 
+elodiie34 : suit. 50
+millechibres : parole 
+*** FLOP *** [3c 6s Ad]
+elodiie34 : parole 
+millechibres : mise. 100
+Sathya90 : suit. 100
+elodiie34 : suit. 100
+*** TOURNANT *** [3c 6s Ad] [2c]
+elodiie34 : mise. 100
+millechibres : suit. 100
+Sathya90 : suit. 100
+*** RIVIÈRE *** [3c 6s Ad 2c] [Jd]
+elodiie34 : parole 
+millechibres : parole 
+Sathya90 : mise. 300
+elodiie34 : passe. 
+millechibres : suit. 300
+*** ABATTAGE ***
+Sathya90 : montre [9d Ac] (une paire de As)
+millechibres : cache la main perdante. 
+Sathya90 a remporté 1540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1540 | Commission 0 
+Tableau [3c 6s Ad 2c Jd]
+Siège 1 : Sathya90 a montré [9d Ac] et a gagné (1540) avec une paire de As
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : elodiie34 (petite blind) s'est couché. sur le Rivière
+Siège 4 : millechibres (grosse blind) a caché la main perdante. [4h As]
+
+
+
+Main PokerStars n°238023656187 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 16/08/2022 15:30:23 CET [16/08/2022 9:30:23 ET]
+Table '3457071962 1' 4-max Siège #3 est au bouton.
+Place 1: Sathya90 (7560 en jetons) 
+Place 2: psychoman59 (4480 en jetons) 
+Place 3: elodiie34 (3680 en jetons) 
+Place 4: millechibres (4280 en jetons) 
+Sathya90 : met l'ante. 10
+psychoman59 : met l'ante. 10
+elodiie34 : met l'ante. 10
+millechibres : met l'ante. 10
+millechibres : met la petite blind. 50
+Sathya90 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ks]
+psychoman59 : passe. 
+elodiie34 : suit. 100
+millechibres : suit. 50
+Sathya90 : parole 
+*** FLOP *** [4c 8d Qc]
+millechibres : parole 
+Sathya90 : parole 
+elodiie34 : mise. 100
+millechibres : passe. 
+Sathya90 : suit. 100
+*** TOURNANT *** [4c 8d Qc] [5h]
+Sathya90 : parole 
+elodiie34 : mise. 100
+Sathya90 : passe. 
+Personne n'a suivi. (100) sont retournés à elodiie34.
+elodiie34 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [4c 8d Qc 5h]
+Siège 1 : Sathya90 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : elodiie34 (bouton) a remporté (540)
+Siège 4 : millechibres (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238023665561 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 16/08/2022 15:31:02 CET [16/08/2022 9:31:02 ET]
+Table '3457071962 1' 4-max Siège #4 est au bouton.
+Place 1: Sathya90 (7350 en jetons) 
+Place 2: psychoman59 (4470 en jetons) 
+Place 3: elodiie34 (4010 en jetons) 
+Place 4: millechibres (4170 en jetons) 
+Sathya90 : met l'ante. 10
+psychoman59 : met l'ante. 10
+elodiie34 : met l'ante. 10
+millechibres : met l'ante. 10
+Sathya90 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd As]
+elodiie34 : suit. 100
+millechibres : suit. 100
+Sathya90 : suit. 50
+psychoman59 : relance. 4360 à 4460 et est all-in.
+elodiie34 : passe. 
+millechibres : passe. 
+Sathya90 : passe. 
+Personne n'a suivi. (4360) sont retournés à psychoman59.
+psychoman59 a remporté 440  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Siège 1 : Sathya90 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (440)
+Siège 3 : elodiie34 s'est couché. avant Flop
+Siège 4 : millechibres (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238023669989 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 16/08/2022 15:31:21 CET [16/08/2022 9:31:21 ET]
+Table '3457071962 1' 4-max Siège #1 est au bouton.
+Place 1: Sathya90 (7240 en jetons) 
+Place 2: psychoman59 (4800 en jetons) 
+Place 3: elodiie34 (3900 en jetons) 
+Place 4: millechibres (4060 en jetons) 
+Sathya90 : met l'ante. 10
+psychoman59 : met l'ante. 10
+elodiie34 : met l'ante. 10
+millechibres : met l'ante. 10
+psychoman59 : met la petite blind. 50
+elodiie34 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Qd]
+millechibres : suit. 100
+Sathya90 : relance. 100 à 200
+psychoman59 : passe. 
+elodiie34 : suit. 100
+millechibres : suit. 100
+*** FLOP *** [6c 2c 6s]
+elodiie34 : mise. 300
+millechibres : passe. 
+Sathya90 : suit. 300
+*** TOURNANT *** [6c 2c 6s] [7d]
+elodiie34 : mise. 200
+Sathya90 : suit. 200
+*** RIVIÈRE *** [6c 2c 6s 7d] [5d]
+elodiie34 : mise. 3190 et est all-in.
+Sathya90 : suit. 3190
+*** ABATTAGE ***
+elodiie34 : montre [3c Kc] (une paire de Six)
+Sathya90 : montre [3h 4s] (une suite, Trois à Sept)
+Sathya90 a remporté 8070  lors du pot .
+elodiie34 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 8070 | Commission 0 
+Tableau [6c 2c 6s 7d 5d]
+Siège 1 : Sathya90 (bouton) a montré [3h 4s] et a gagné (8070) avec une suite, Trois à Sept
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : elodiie34 (grosse blind) a montré [3c Kc] et a perdu avec une paire de Six
+Siège 4 : millechibres s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238023678481 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 16/08/2022 15:31:57 CET [16/08/2022 9:31:57 ET]
+Table '3457071962 1' 4-max Siège #2 est au bouton.
+Place 1: Sathya90 (11410 en jetons) 
+Place 2: psychoman59 (4740 en jetons) 
+Place 4: millechibres (3850 en jetons) 
+Sathya90 : met l'ante. 15
+psychoman59 : met l'ante. 15
+millechibres : met l'ante. 15
+millechibres : met la petite blind. 60
+Sathya90 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Tc]
+psychoman59 : passe. 
+millechibres : relance. 120 à 240
+Sathya90 : suit. 120
+*** FLOP *** [7c 5d 5h]
+millechibres : mise. 263
+Sathya90 : passe. 
+Personne n'a suivi. (263) sont retournés à millechibres.
+millechibres a remporté 525  lors du pot .
+*** SYNTHÈSE ***
+Pot total 525 | Commission 0 
+Tableau [7c 5d 5h]
+Siège 1 : Sathya90 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : millechibres (petite blind) a remporté (525)
+
+
+
+Main PokerStars n°238023682282 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 16/08/2022 15:32:13 CET [16/08/2022 9:32:13 ET]
+Table '3457071962 1' 4-max Siège #4 est au bouton.
+Place 1: Sathya90 (11155 en jetons) 
+Place 2: psychoman59 (4725 en jetons) 
+Place 4: millechibres (4120 en jetons) 
+Sathya90 : met l'ante. 15
+psychoman59 : met l'ante. 15
+millechibres : met l'ante. 15
+Sathya90 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 6s]
+millechibres : suit. 120
+Sathya90 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [8s 9s Tc]
+Sathya90 : parole 
+psychoman59 : parole 
+millechibres : mise. 203
+Sathya90 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (203) sont retournés à millechibres.
+millechibres a remporté 405  lors du pot .
+*** SYNTHÈSE ***
+Pot total 405 | Commission 0 
+Tableau [8s 9s Tc]
+Siège 1 : Sathya90 (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 4 : millechibres (bouton) a remporté (405)
+
+
+
+Main PokerStars n°238023689376 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 16/08/2022 15:32:43 CET [16/08/2022 9:32:43 ET]
+Table '3457071962 1' 4-max Siège #1 est au bouton.
+Place 1: Sathya90 (11020 en jetons) 
+Place 2: psychoman59 (4590 en jetons) 
+Place 4: millechibres (4390 en jetons) 
+Sathya90 : met l'ante. 15
+psychoman59 : met l'ante. 15
+millechibres : met l'ante. 15
+psychoman59 : met la petite blind. 60
+millechibres : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Js]
+Sathya90 : passe. 
+psychoman59 : suit. 60
+millechibres : parole 
+*** FLOP *** [2c Ac 6h]
+psychoman59 : parole 
+millechibres : parole 
+*** TOURNANT *** [2c Ac 6h] [7s]
+psychoman59 : parole 
+millechibres : parole 
+*** RIVIÈRE *** [2c Ac 6h 7s] [Jh]
+psychoman59 : mise. 120
+millechibres : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 285  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Tableau [2c Ac 6h 7s Jh]
+Siège 1 : Sathya90 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (285)
+Siège 4 : millechibres (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238023696974 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 16/08/2022 15:33:15 CET [16/08/2022 9:33:15 ET]
+Table '3457071962 1' 4-max Siège #2 est au bouton.
+Place 1: Sathya90 (11005 en jetons) 
+Place 2: psychoman59 (4740 en jetons) 
+Place 4: millechibres (4255 en jetons) 
+Sathya90 : met l'ante. 15
+psychoman59 : met l'ante. 15
+millechibres : met l'ante. 15
+millechibres : met la petite blind. 60
+Sathya90 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Th]
+psychoman59 : passe. 
+millechibres : passe. 
+Personne n'a suivi. (60) sont retournés à Sathya90.
+Sathya90 a remporté 165  lors du pot .
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : Sathya90 (grosse blind) a remporté (165)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : millechibres (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238023699410 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 16/08/2022 15:33:25 CET [16/08/2022 9:33:25 ET]
+Table '3457071962 1' 4-max Siège #4 est au bouton.
+Place 1: Sathya90 (11095 en jetons) 
+Place 2: psychoman59 (4725 en jetons) 
+Place 4: millechibres (4180 en jetons) 
+Sathya90 : met l'ante. 15
+psychoman59 : met l'ante. 15
+millechibres : met l'ante. 15
+Sathya90 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 6c]
+millechibres : suit. 120
+Sathya90 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [Kc 8h 5c]
+Sathya90 : parole 
+psychoman59 : parole 
+millechibres : parole 
+*** TOURNANT *** [Kc 8h 5c] [Th]
+Sathya90 : parole 
+psychoman59 : parole 
+millechibres : mise. 203
+Sathya90 : suit. 203
+psychoman59 : passe. 
+*** RIVIÈRE *** [Kc 8h 5c Th] [3c]
+Sathya90 : parole 
+millechibres : parole 
+*** ABATTAGE ***
+Sathya90 : montre [4s 6h] (Hauteur Roi)
+millechibres : montre [Ts Jh] (une paire de Dix)
+millechibres a remporté 811  lors du pot .
+*** SYNTHÈSE ***
+Pot total 811 | Commission 0 
+Tableau [Kc 8h 5c Th 3c]
+Siège 1 : Sathya90 (petite blind) a montré [4s 6h] et a perdu avec Hauteur Roi
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 4 : millechibres (bouton) a montré [Ts Jh] et a gagné (811) avec une paire de Dix
+
+
+
+Main PokerStars n°238023708661 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 16/08/2022 15:34:04 CET [16/08/2022 9:34:04 ET]
+Table '3457071962 1' 4-max Siège #1 est au bouton.
+Place 1: Sathya90 (10757 en jetons) 
+Place 2: psychoman59 (4590 en jetons) 
+Place 4: millechibres (4653 en jetons) 
+Sathya90 : met l'ante. 15
+psychoman59 : met l'ante. 15
+millechibres : met l'ante. 15
+psychoman59 : met la petite blind. 60
+millechibres : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Qc]
+Sathya90 : passe. 
+psychoman59 : suit. 60
+millechibres : parole 
+*** FLOP *** [Kc 2s Ad]
+psychoman59 : mise. 285
+millechibres : passe. 
+Personne n'a suivi. (285) sont retournés à psychoman59.
+psychoman59 a remporté 285  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Tableau [Kc 2s Ad]
+Siège 1 : Sathya90 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (285)
+Siège 4 : millechibres (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238023712542 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 16/08/2022 15:34:20 CET [16/08/2022 9:34:20 ET]
+Table '3457071962 1' 4-max Siège #2 est au bouton.
+Place 1: Sathya90 (10742 en jetons) 
+Place 2: psychoman59 (4740 en jetons) 
+Place 4: millechibres (4518 en jetons) 
+Sathya90 : met l'ante. 15
+psychoman59 : met l'ante. 15
+millechibres : met l'ante. 15
+millechibres : met la petite blind. 60
+Sathya90 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Kd]
+psychoman59 : suit. 120
+millechibres : suit. 60
+Sathya90 : parole 
+*** FLOP *** [7h 2c Kh]
+millechibres : parole 
+Sathya90 : mise. 360
+psychoman59 : suit. 360
+millechibres : passe. 
+*** TOURNANT *** [7h 2c Kh] [Qc]
+Sathya90 : parole 
+psychoman59 : mise. 562
+Sathya90 : passe. 
+Personne n'a suivi. (562) sont retournés à psychoman59.
+psychoman59 a remporté 1125  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1125 | Commission 0 
+Tableau [7h 2c Kh Qc]
+Siège 1 : Sathya90 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) a remporté (1125)
+Siège 4 : millechibres (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238023727523 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 16/08/2022 15:35:23 CET [16/08/2022 9:35:23 ET]
+Table '3457071962 1' 4-max Siège #4 est au bouton.
+Place 1: Sathya90 (10247 en jetons) 
+Place 2: psychoman59 (5370 en jetons) 
+Place 4: millechibres (4383 en jetons) 
+Sathya90 : met l'ante. 20
+psychoman59 : met l'ante. 20
+millechibres : met l'ante. 20
+Sathya90 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 7s]
+millechibres : passe. 
+Sathya90 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [7d Jc 8h]
+Sathya90 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7d Jc 8h] [8s]
+Sathya90 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7d Jc 8h 8s] [Ah]
+Sathya90 : mise. 300
+psychoman59 : suit. 300
+*** ABATTAGE ***
+Sathya90 : montre [5s As] (double paire, As et Huit)
+psychoman59 : cache la main perdante. 
+Sathya90 a remporté 960  lors du pot .
+*** SYNTHÈSE ***
+Pot total 960 | Commission 0 
+Tableau [7d Jc 8h 8s Ah]
+Siège 1 : Sathya90 (petite blind) a montré [5s As] et a gagné (960) avec double paire, As et Huit
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [9h 7s]
+Siège 4 : millechibres (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238023734144 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 16/08/2022 15:35:51 CET [16/08/2022 9:35:51 ET]
+Table '3457071962 1' 4-max Siège #1 est au bouton.
+Place 1: Sathya90 (10737 en jetons) 
+Place 2: psychoman59 (4900 en jetons) 
+Place 4: millechibres (4363 en jetons) 
+Sathya90 : met l'ante. 20
+psychoman59 : met l'ante. 20
+millechibres : met l'ante. 20
+psychoman59 : met la petite blind. 75
+millechibres : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 7c]
+Sathya90 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à millechibres.
+millechibres a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 1 : Sathya90 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : millechibres (grosse blind) a remporté (210)
+
+
+
+Main PokerStars n°238023736643 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 16/08/2022 15:36:01 CET [16/08/2022 9:36:01 ET]
+Table '3457071962 1' 4-max Siège #2 est au bouton.
+Place 1: Sathya90 (10717 en jetons) 
+Place 2: psychoman59 (4805 en jetons) 
+Place 4: millechibres (4478 en jetons) 
+Sathya90 : met l'ante. 20
+psychoman59 : met l'ante. 20
+millechibres : met l'ante. 20
+millechibres : met la petite blind. 75
+Sathya90 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Qs]
+psychoman59 : suit. 150
+millechibres : passe. 
+Sathya90 : parole 
+*** FLOP *** [Ad 8s Th]
+Sathya90 : mise. 450
+psychoman59 : passe. 
+Personne n'a suivi. (450) sont retournés à Sathya90.
+Sathya90 a remporté 435  lors du pot .
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Tableau [Ad 8s Th]
+Siège 1 : Sathya90 (grosse blind) a remporté (435)
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 4 : millechibres (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238023741830 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 16/08/2022 15:36:23 CET [16/08/2022 9:36:23 ET]
+Table '3457071962 1' 4-max Siège #4 est au bouton.
+Place 1: Sathya90 (10982 en jetons) 
+Place 2: psychoman59 (4635 en jetons) 
+Place 4: millechibres (4383 en jetons) 
+Sathya90 : met l'ante. 20
+psychoman59 : met l'ante. 20
+millechibres : met l'ante. 20
+Sathya90 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Td]
+millechibres : suit. 150
+Sathya90 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [6h 9s 7h]
+Sathya90 : parole 
+psychoman59 : parole 
+millechibres : mise. 150
+Sathya90 : suit. 150
+psychoman59 : suit. 150
+*** TOURNANT *** [6h 9s 7h] [Jh]
+Sathya90 : parole 
+psychoman59 : parole 
+millechibres : parole 
+*** RIVIÈRE *** [6h 9s 7h Jh] [8h]
+Sathya90 : parole 
+psychoman59 : parole 
+millechibres : parole 
+*** ABATTAGE ***
+Sathya90 : montre [6d Jd] (double paire, Valets et Six)
+psychoman59 : montre [3c Td] (une suite, Sept à Valet)
+millechibres : cache la main perdante. 
+psychoman59 a remporté 960  lors du pot .
+*** SYNTHÈSE ***
+Pot total 960 | Commission 0 
+Tableau [6h 9s 7h Jh 8h]
+Siège 1 : Sathya90 (petite blind) a montré [6d Jd] et a perdu avec double paire, Valets et Six
+Siège 2 : psychoman59 (grosse blind) a montré [3c Td] et a gagné (960) avec une suite, Sept à Valet
+Siège 4 : millechibres (bouton) a caché la main perdante. [6c Kc]
+
+
+
+Main PokerStars n°238023749799 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 16/08/2022 15:36:56 CET [16/08/2022 9:36:56 ET]
+Table '3457071962 1' 4-max Siège #1 est au bouton.
+Place 1: Sathya90 (10662 en jetons) 
+Place 2: psychoman59 (5275 en jetons) 
+Place 4: millechibres (4063 en jetons) 
+Sathya90 : met l'ante. 20
+psychoman59 : met l'ante. 20
+millechibres : met l'ante. 20
+psychoman59 : met la petite blind. 75
+millechibres : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 6s]
+Sathya90 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à millechibres.
+millechibres a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 1 : Sathya90 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : millechibres (grosse blind) a remporté (210)
+
+
+
+Main PokerStars n°238023752533 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 16/08/2022 15:37:08 CET [16/08/2022 9:37:08 ET]
+Table '3457071962 1' 4-max Siège #2 est au bouton.
+Place 1: Sathya90 (10642 en jetons) 
+Place 2: psychoman59 (5180 en jetons) 
+Place 4: millechibres (4178 en jetons) 
+Sathya90 : met l'ante. 20
+psychoman59 : met l'ante. 20
+millechibres : met l'ante. 20
+millechibres : met la petite blind. 75
+Sathya90 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 3d]
+psychoman59 : passe. 
+millechibres : suit. 75
+Sathya90 : relance. 10472 à 10622 et est all-in.
+millechibres : passe. 
+Personne n'a suivi. (10472) sont retournés à Sathya90.
+Sathya90 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : Sathya90 (grosse blind) a remporté (360)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : millechibres (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238023755645 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 16/08/2022 15:37:21 CET [16/08/2022 9:37:21 ET]
+Table '3457071962 1' 4-max Siège #4 est au bouton.
+Place 1: Sathya90 (10832 en jetons) 
+Place 2: psychoman59 (5160 en jetons) 
+Place 4: millechibres (4008 en jetons) 
+Sathya90 : met l'ante. 20
+psychoman59 : met l'ante. 20
+millechibres : met l'ante. 20
+Sathya90 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Tc]
+millechibres : passe. 
+Sathya90 : relance. 10662 à 10812 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (10662) sont retournés à Sathya90.
+Sathya90 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : Sathya90 (petite blind) a remporté (360)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : millechibres (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238023758237 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 16/08/2022 15:37:31 CET [16/08/2022 9:37:31 ET]
+Table '3457071962 1' 4-max Siège #1 est au bouton.
+Place 1: Sathya90 (11022 en jetons) 
+Place 2: psychoman59 (4990 en jetons) 
+Place 4: millechibres (3988 en jetons) 
+Sathya90 : met l'ante. 20
+psychoman59 : met l'ante. 20
+millechibres : met l'ante. 20
+psychoman59 : met la petite blind. 75
+millechibres : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c As]
+Sathya90 : passe. 
+psychoman59 : relance. 4820 à 4970 et est all-in.
+millechibres : passe. 
+Personne n'a suivi. (4820) sont retournés à psychoman59.
+psychoman59 a remporté 360  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : Sathya90 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (360)
+Siège 4 : millechibres (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238023761580 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 16/08/2022 15:37:45 CET [16/08/2022 9:37:45 ET]
+Table '3457071962 1' 4-max Siège #2 est au bouton.
+Place 1: Sathya90 (11002 en jetons) 
+Place 2: psychoman59 (5180 en jetons) 
+Place 4: millechibres (3818 en jetons) 
+Sathya90 : met l'ante. 25
+psychoman59 : met l'ante. 25
+millechibres : met l'ante. 25
+millechibres : met la petite blind. 100
+Sathya90 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 4h]
+psychoman59 : passe. 
+millechibres : relance. 475 à 675
+Sathya90 : passe. 
+Personne n'a suivi. (475) sont retournés à millechibres.
+millechibres a remporté 475  lors du pot .
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Siège 1 : Sathya90 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : millechibres (petite blind) a remporté (475)
+
+
+
+Main PokerStars n°238023764867 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 16/08/2022 15:37:59 CET [16/08/2022 9:37:59 ET]
+Table '3457071962 1' 4-max Siège #4 est au bouton.
+Place 1: Sathya90 (10777 en jetons) 
+Place 2: psychoman59 (5155 en jetons) 
+Place 4: millechibres (4068 en jetons) 
+Sathya90 : met l'ante. 25
+psychoman59 : met l'ante. 25
+millechibres : met l'ante. 25
+Sathya90 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 7s]
+millechibres : suit. 200
+Sathya90 : suit. 100
+psychoman59 : parole 
+*** FLOP *** [Jc 9d 3h]
+Sathya90 : parole 
+psychoman59 : parole 
+millechibres : parole 
+*** TOURNANT *** [Jc 9d 3h] [7h]
+Sathya90 : parole 
+psychoman59 : parole 
+millechibres : mise. 200
+Sathya90 : suit. 200
+psychoman59 : suit. 200
+*** RIVIÈRE *** [Jc 9d 3h 7h] [8h]
+Sathya90 : parole 
+psychoman59 : parole 
+millechibres : parole 
+*** ABATTAGE ***
+Sathya90 : montre [6d 8d] (une paire de Huit)
+psychoman59 : montre [3d 7s] (double paire, Sept et Trois)
+millechibres : montre [Ts 8s] (une suite, Sept à Valet)
+millechibres a remporté 1275  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1275 | Commission 0 
+Tableau [Jc 9d 3h 7h 8h]
+Siège 1 : Sathya90 (petite blind) a montré [6d 8d] et a perdu avec une paire de Huit
+Siège 2 : psychoman59 (grosse blind) a montré [3d 7s] et a perdu avec double paire, Sept et Trois
+Siège 4 : millechibres (bouton) a montré [Ts 8s] et a gagné (1275) avec une suite, Sept à Valet
+
+
+
+Main PokerStars n°238023778182 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 16/08/2022 15:38:54 CET [16/08/2022 9:38:54 ET]
+Table '3457071962 1' 4-max Siège #1 est au bouton.
+Place 1: Sathya90 (10352 en jetons) 
+Place 2: psychoman59 (4730 en jetons) 
+Place 4: millechibres (4918 en jetons) 
+Sathya90 : met l'ante. 25
+psychoman59 : met l'ante. 25
+millechibres : met l'ante. 25
+psychoman59 : met la petite blind. 100
+millechibres : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 8d]
+Sathya90 : passe. 
+psychoman59 : suit. 100
+millechibres : parole 
+*** FLOP *** [2s 3c Jc]
+psychoman59 : parole 
+millechibres : parole 
+*** TOURNANT *** [2s 3c Jc] [3h]
+psychoman59 : parole 
+millechibres : parole 
+*** RIVIÈRE *** [2s 3c Jc 3h] [Th]
+psychoman59 : parole 
+millechibres : mise. 200
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à millechibres.
+millechibres a remporté 475  lors du pot .
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Tableau [2s 3c Jc 3h Th]
+Siège 1 : Sathya90 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 4 : millechibres (grosse blind) a remporté (475)
+
+
+
+Main PokerStars n°238023784034 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 16/08/2022 15:39:19 CET [16/08/2022 9:39:19 ET]
+Table '3457071962 1' 4-max Siège #2 est au bouton.
+Place 1: Sathya90 (10327 en jetons) 
+Place 2: psychoman59 (4505 en jetons) 
+Place 4: millechibres (5168 en jetons) 
+Sathya90 : met l'ante. 25
+psychoman59 : met l'ante. 25
+millechibres : met l'ante. 25
+millechibres : met la petite blind. 100
+Sathya90 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 8d]
+psychoman59 : relance. 4280 à 4480 et est all-in.
+millechibres : passe. 
+Sathya90 : passe. 
+Personne n'a suivi. (4280) sont retournés à psychoman59.
+psychoman59 a remporté 575  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 575 | Commission 0 
+Siège 1 : Sathya90 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (575)
+Siège 4 : millechibres (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238023793000 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 16/08/2022 15:39:56 CET [16/08/2022 9:39:56 ET]
+Table '3457071962 1' 4-max Siège #4 est au bouton.
+Place 1: Sathya90 (10102 en jetons) 
+Place 2: psychoman59 (4855 en jetons) 
+Place 4: millechibres (5043 en jetons) 
+Sathya90 : met l'ante. 25
+psychoman59 : met l'ante. 25
+millechibres : met l'ante. 25
+Sathya90 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Tc]
+millechibres : relance. 4818 à 5018 et est all-in.
+Sathya90 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (4818) sont retournés à millechibres.
+millechibres a remporté 575  lors du pot .
+*** SYNTHÈSE ***
+Pot total 575 | Commission 0 
+Siège 1 : Sathya90 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : millechibres (bouton) a remporté (575)
+
+
+
+Main PokerStars n°238023796446 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 16/08/2022 15:40:11 CET [16/08/2022 9:40:11 ET]
+Table '3457071962 1' 4-max Siège #1 est au bouton.
+Place 1: Sathya90 (9977 en jetons) 
+Place 2: psychoman59 (4630 en jetons) 
+Place 4: millechibres (5393 en jetons) 
+Sathya90 : met l'ante. 25
+psychoman59 : met l'ante. 25
+millechibres : met l'ante. 25
+psychoman59 : met la petite blind. 100
+millechibres : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Ks]
+Sathya90 : suit. 200
+psychoman59 : suit. 100
+millechibres : parole 
+*** FLOP *** [7d 5h 8c]
+psychoman59 : mise. 675
+millechibres : suit. 675
+Sathya90 : passe. 
+*** TOURNANT *** [7d 5h 8c] [4c]
+psychoman59 : mise. 600
+millechibres : relance. 600 à 1200
+psychoman59 : passe. 
+Personne n'a suivi. (600) sont retournés à millechibres.
+millechibres a remporté 3225  lors du pot .
+millechibres : montre [6h 6s] (une suite, Quatre à Huit)
+*** SYNTHÈSE ***
+Pot total 3225 | Commission 0 
+Tableau [7d 5h 8c 4c]
+Siège 1 : Sathya90 (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 4 : millechibres (grosse blind) a remporté (3225)
+
+
+
+Main PokerStars n°238023806205 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 16/08/2022 15:40:51 CET [16/08/2022 9:40:51 ET]
+Table '3457071962 1' 4-max Siège #2 est au bouton.
+Place 1: Sathya90 (9752 en jetons) 
+Place 2: psychoman59 (3130 en jetons) 
+Place 4: millechibres (7118 en jetons) 
+Sathya90 : met l'ante. 30
+psychoman59 : met l'ante. 30
+millechibres : met l'ante. 30
+millechibres : met la petite blind. 125
+Sathya90 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 2c]
+psychoman59 : suit. 250
+millechibres : passe. 
+Sathya90 : parole 
+*** FLOP *** [Qs 7s As]
+Sathya90 : parole 
+psychoman59 : mise. 250
+Sathya90 : suit. 250
+*** TOURNANT *** [Qs 7s As] [Kc]
+Sathya90 : parole 
+psychoman59 : mise. 250
+Sathya90 : suit. 250
+*** RIVIÈRE *** [Qs 7s As Kc] [4c]
+Sathya90 : mise. 857
+psychoman59 : suit. 857
+*** ABATTAGE ***
+Sathya90 : montre [Qc 6h] (une paire de Dames)
+psychoman59 : montre [Ah 2c] (une paire de As)
+psychoman59 a remporté 3429  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3429 | Commission 0 
+Tableau [Qs 7s As Kc 4c]
+Siège 1 : Sathya90 (grosse blind) a montré [Qc 6h] et a perdu avec une paire de Dames
+Siège 2 : psychoman59 (bouton) a montré [Ah 2c] et a gagné (3429) avec une paire de As
+Siège 4 : millechibres (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238023813515 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 16/08/2022 15:41:21 CET [16/08/2022 9:41:21 ET]
+Table '3457071962 1' 4-max Siège #4 est au bouton.
+Place 1: Sathya90 (8115 en jetons) 
+Place 2: psychoman59 (4922 en jetons) 
+Place 4: millechibres (6963 en jetons) 
+Sathya90 : met l'ante. 30
+psychoman59 : met l'ante. 30
+millechibres : met l'ante. 30
+Sathya90 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Kd]
+millechibres : suit. 250
+Sathya90 : suit. 125
+psychoman59 : parole 
+*** FLOP *** [5s Kc 8s]
+Sathya90 : parole 
+psychoman59 : mise. 840
+millechibres : passe. 
+Sathya90 : passe. 
+Personne n'a suivi. (840) sont retournés à psychoman59.
+psychoman59 a remporté 840  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [5s Kc 8s]
+Siège 1 : Sathya90 (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (840)
+Siège 4 : millechibres (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238023819239 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 16/08/2022 15:41:44 CET [16/08/2022 9:41:44 ET]
+Table '3457071962 1' 4-max Siège #1 est au bouton.
+Place 1: Sathya90 (7835 en jetons) 
+Place 2: psychoman59 (5482 en jetons) 
+Place 4: millechibres (6683 en jetons) 
+Sathya90 : met l'ante. 30
+psychoman59 : met l'ante. 30
+millechibres : met l'ante. 30
+psychoman59 : met la petite blind. 125
+millechibres : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Td]
+Sathya90 : passe. 
+psychoman59 : suit. 125
+millechibres : parole 
+*** FLOP *** [Tc Kc 9c]
+psychoman59 : parole 
+millechibres : parole 
+*** TOURNANT *** [Tc Kc 9c] [Qh]
+psychoman59 : parole 
+millechibres : parole 
+*** RIVIÈRE *** [Tc Kc 9c Qh] [6s]
+psychoman59 : parole 
+millechibres : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Kd Td] (double paire, Rois et Dix)
+millechibres : cache la main perdante. 
+psychoman59 a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [Tc Kc 9c Qh 6s]
+Siège 1 : Sathya90 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Kd Td] et a gagné (590) avec double paire, Rois et Dix
+Siège 4 : millechibres (grosse blind) a caché la main perdante. [3s 2s]
+
+
+
+Main PokerStars n°238023824740 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 16/08/2022 15:42:07 CET [16/08/2022 9:42:07 ET]
+Table '3457071962 1' 4-max Siège #2 est au bouton.
+Place 1: Sathya90 (7805 en jetons) 
+Place 2: psychoman59 (5792 en jetons) 
+Place 4: millechibres (6403 en jetons) 
+Sathya90 : met l'ante. 30
+psychoman59 : met l'ante. 30
+millechibres : met l'ante. 30
+millechibres : met la petite blind. 125
+Sathya90 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 2s]
+psychoman59 : passe. 
+millechibres : suit. 125
+Sathya90 : parole 
+*** FLOP *** [4d 4c 4s]
+millechibres : parole 
+Sathya90 : parole 
+*** TOURNANT *** [4d 4c 4s] [Ah]
+millechibres : mise. 250
+Sathya90 : suit. 250
+*** RIVIÈRE *** [4d 4c 4s Ah] [8s]
+millechibres : parole 
+Sathya90 : parole 
+*** ABATTAGE ***
+millechibres : montre [5h Qc] (un brelan de Quatre)
+Sathya90 : cache la main perdante. 
+millechibres a remporté 1090  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1090 | Commission 0 
+Tableau [4d 4c 4s Ah 8s]
+Siège 1 : Sathya90 (grosse blind) a caché la main perdante. [9h 6h]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : millechibres (petite blind) a montré [5h Qc] et a gagné (1090) avec un brelan de Quatre
+
+
+
+Main PokerStars n°238023831360 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 16/08/2022 15:42:34 CET [16/08/2022 9:42:34 ET]
+Table '3457071962 1' 4-max Siège #4 est au bouton.
+Place 1: Sathya90 (7275 en jetons) 
+Place 2: psychoman59 (5762 en jetons) 
+Place 4: millechibres (6963 en jetons) 
+Sathya90 : met l'ante. 30
+psychoman59 : met l'ante. 30
+millechibres : met l'ante. 30
+Sathya90 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Td]
+millechibres : passe. 
+Sathya90 : suit. 125
+psychoman59 : parole 
+*** FLOP *** [As 5c Jd]
+Sathya90 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [As 5c Jd] [Qd]
+Sathya90 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [As 5c Jd Qd] [Qc]
+Sathya90 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Sathya90 : montre [7s Js] (double paire, Dames et Valets)
+psychoman59 : montre [Jh Td] (double paire, Dames et Valets)
+Sathya90 a remporté 295  lors du pot .
+psychoman59 a remporté 295  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [As 5c Jd Qd Qc]
+Siège 1 : Sathya90 (petite blind) a montré [7s Js] et a gagné (295) avec double paire, Dames et Valets
+Siège 2 : psychoman59 (grosse blind) a montré [Jh Td] et a gagné (295) avec double paire, Dames et Valets
+Siège 4 : millechibres (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238023838698 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 16/08/2022 15:43:04 CET [16/08/2022 9:43:04 ET]
+Table '3457071962 1' 4-max Siège #1 est au bouton.
+Place 1: Sathya90 (7290 en jetons) 
+Place 2: psychoman59 (5777 en jetons) 
+Place 4: millechibres (6933 en jetons) 
+Sathya90 : met l'ante. 30
+psychoman59 : met l'ante. 30
+millechibres : met l'ante. 30
+psychoman59 : met la petite blind. 125
+millechibres : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Kd]
+Sathya90 : suit. 250
+psychoman59 : suit. 125
+millechibres : parole 
+*** FLOP *** [9s 9h Jd]
+psychoman59 : parole 
+millechibres : parole 
+Sathya90 : mise. 500
+psychoman59 : passe. 
+millechibres : passe. 
+Personne n'a suivi. (500) sont retournés à Sathya90.
+Sathya90 a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [9s 9h Jd]
+Siège 1 : Sathya90 (bouton) a remporté (840)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 4 : millechibres (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238023845902 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 16/08/2022 15:43:33 CET [16/08/2022 9:43:33 ET]
+Table '3457071962 1' 4-max Siège #2 est au bouton.
+Place 1: Sathya90 (7850 en jetons) 
+Place 2: psychoman59 (5497 en jetons) 
+Place 4: millechibres (6653 en jetons) 
+Sathya90 : met l'ante. 30
+psychoman59 : met l'ante. 30
+millechibres : met l'ante. 30
+millechibres : met la petite blind. 125
+Sathya90 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8d]
+psychoman59 : passe. 
+millechibres : suit. 125
+Sathya90 : parole 
+*** FLOP *** [Kh 9d 5h]
+millechibres : mise. 250
+Sathya90 : suit. 250
+*** TOURNANT *** [Kh 9d 5h] [Ts]
+millechibres : mise. 250
+Sathya90 : relance. 750 à 1000
+millechibres : suit. 750
+*** RIVIÈRE *** [Kh 9d 5h Ts] [3d]
+millechibres : parole 
+Sathya90 : parole 
+*** ABATTAGE ***
+millechibres : montre [Ks 4h] (une paire de Rois)
+Sathya90 : cache la main perdante. 
+millechibres a remporté 3090  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3090 | Commission 0 
+Tableau [Kh 9d 5h Ts 3d]
+Siège 1 : Sathya90 (grosse blind) a caché la main perdante. [2c Ad]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : millechibres (petite blind) a montré [Ks 4h] et a gagné (3090) avec une paire de Rois
+
+
+
+Main PokerStars n°238023855324 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 16/08/2022 15:44:12 CET [16/08/2022 9:44:12 ET]
+Table '3457071962 1' 4-max Siège #4 est au bouton.
+Place 1: Sathya90 (6320 en jetons) 
+Place 2: psychoman59 (5467 en jetons) 
+Place 4: millechibres (8213 en jetons) 
+Sathya90 : met l'ante. 40
+psychoman59 : met l'ante. 40
+millechibres : met l'ante. 40
+Sathya90 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 5c]
+millechibres : relance. 300 à 600
+Sathya90 : suit. 450
+psychoman59 : passe. 
+*** FLOP *** [Jh Kc 7s]
+Sathya90 : parole 
+millechibres : mise. 810
+Sathya90 : suit. 810
+*** TOURNANT *** [Jh Kc 7s] [Td]
+Sathya90 : parole 
+millechibres : parole 
+*** RIVIÈRE *** [Jh Kc 7s Td] [4h]
+Sathya90 : mise. 3240
+millechibres : suit. 3240
+*** ABATTAGE ***
+Sathya90 : montre [9d Qs] (une suite, Neuf à Roi)
+millechibres : cache la main perdante. 
+Sathya90 a remporté 9720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9720 | Commission 0 
+Tableau [Jh Kc 7s Td 4h]
+Siège 1 : Sathya90 (petite blind) a montré [9d Qs] et a gagné (9720) avec une suite, Neuf à Roi
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : millechibres (bouton) a caché la main perdante. [Ac Jd]
+
+
+
+Main PokerStars n°238023863937 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 16/08/2022 15:44:47 CET [16/08/2022 9:44:47 ET]
+Table '3457071962 1' 4-max Siège #1 est au bouton.
+Place 1: Sathya90 (11350 en jetons) 
+Place 2: psychoman59 (5127 en jetons) 
+Place 4: millechibres (3523 en jetons) 
+Sathya90 : met l'ante. 40
+psychoman59 : met l'ante. 40
+millechibres : met l'ante. 40
+psychoman59 : met la petite blind. 150
+millechibres : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 6h]
+Sathya90 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à millechibres.
+millechibres a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Siège 1 : Sathya90 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : millechibres (grosse blind) a remporté (420)
+
+
+
+Main PokerStars n°238023867023 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 16/08/2022 15:45:00 CET [16/08/2022 9:45:00 ET]
+Table '3457071962 1' 4-max Siège #2 est au bouton.
+Place 1: Sathya90 (11310 en jetons) 
+Place 2: psychoman59 (4937 en jetons) 
+Place 4: millechibres (3753 en jetons) 
+Sathya90 : met l'ante. 40
+psychoman59 : met l'ante. 40
+millechibres : met l'ante. 40
+millechibres : met la petite blind. 150
+Sathya90 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Kc]
+psychoman59 : passe. 
+millechibres : suit. 150
+Sathya90 : parole 
+*** FLOP *** [4d 9h Tc]
+millechibres : parole 
+Sathya90 : parole 
+*** TOURNANT *** [4d 9h Tc] [4s]
+millechibres : parole 
+Sathya90 : parole 
+*** RIVIÈRE *** [4d 9h Tc 4s] [2c]
+millechibres : parole 
+Sathya90 : parole 
+*** ABATTAGE ***
+millechibres : montre [6s Jc] (une paire de Quatre)
+Sathya90 : cache la main perdante. 
+millechibres a remporté 720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [4d 9h Tc 4s 2c]
+Siège 1 : Sathya90 (grosse blind) a caché la main perdante. [7h 8d]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : millechibres (petite blind) a montré [6s Jc] et a gagné (720) avec une paire de Quatre
+
+
+
+Main PokerStars n°238023874364 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 16/08/2022 15:45:30 CET [16/08/2022 9:45:30 ET]
+Table '3457071962 1' 4-max Siège #4 est au bouton.
+Place 1: Sathya90 (10970 en jetons) 
+Place 2: psychoman59 (4897 en jetons) 
+Place 4: millechibres (4133 en jetons) 
+Sathya90 : met l'ante. 40
+psychoman59 : met l'ante. 40
+millechibres : met l'ante. 40
+Sathya90 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 7s]
+millechibres : suit. 300
+Sathya90 : suit. 150
+psychoman59 : parole 
+*** FLOP *** [6h 2h Qd]
+Sathya90 : parole 
+psychoman59 : parole 
+millechibres : parole 
+*** TOURNANT *** [6h 2h Qd] [9d]
+Sathya90 : parole 
+psychoman59 : mise. 1020
+millechibres : suit. 1020
+Sathya90 : passe. 
+*** RIVIÈRE *** [6h 2h Qd 9d] [7h]
+psychoman59 : mise. 1530
+millechibres : relance. 1243 à 2773 et est all-in.
+psychoman59 : suit. 1243
+*** ABATTAGE ***
+millechibres : montre [8d Td] (une suite, Six à Dix)
+psychoman59 : montre [Qh 7s] (double paire, Dames et Sept)
+millechibres a remporté 8606  lors du pot .
+*** SYNTHÈSE ***
+Pot total 8606 | Commission 0 
+Tableau [6h 2h Qd 9d 7h]
+Siège 1 : Sathya90 (petite blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (grosse blind) a montré [Qh 7s] et a perdu avec double paire, Dames et Sept
+Siège 4 : millechibres (bouton) a montré [8d Td] et a gagné (8606) avec une suite, Six à Dix
+
+
+
+Main PokerStars n°238023882390 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 16/08/2022 15:46:03 CET [16/08/2022 9:46:03 ET]
+Table '3457071962 1' 4-max Siège #1 est au bouton.
+Place 1: Sathya90 (10630 en jetons) 
+Place 2: psychoman59 (764 en jetons) 
+Place 4: millechibres (8606 en jetons) 
+Sathya90 : met l'ante. 40
+psychoman59 : met l'ante. 40
+millechibres : met l'ante. 40
+psychoman59 : met la petite blind. 150
+millechibres : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ts]
+Sathya90 : relance. 300 à 600
+psychoman59 : passe. 
+millechibres : relance. 7966 à 8566 et est all-in.
+Sathya90 : suit. 7966
+*** FLOP *** [2c 6h 6c]
+*** TOURNANT *** [2c 6h 6c] [4h]
+*** RIVIÈRE *** [2c 6h 6c 4h] [Jc]
+*** ABATTAGE ***
+millechibres : montre [9d 9s] (double paire, Neuf et Six)
+Sathya90 : montre [Kd Kh] (double paire, Rois et Six)
+Sathya90 a remporté 17402  lors du pot .
+millechibres a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 17402 | Commission 0 
+Tableau [2c 6h 6c 4h Jc]
+Siège 1 : Sathya90 (bouton) a montré [Kd Kh] et a gagné (17402) avec double paire, Rois et Six
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : millechibres (grosse blind) a montré [9d 9s] et a perdu avec double paire, Neuf et Six
+
+
+
+Main PokerStars n°238023887406 : Tournoi #3457071962, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 16/08/2022 15:46:23 CET [16/08/2022 9:46:23 ET]
+Table '3457071962 1' 4-max Siège #2 est au bouton.
+Place 1: Sathya90 (19426 en jetons) 
+Place 2: psychoman59 (574 en jetons) 
+Sathya90 : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+Sathya90 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Qd]
+psychoman59 : relance. 234 à 534 et est all-in.
+Sathya90 : suit. 234
+*** FLOP *** [9c 3c Jd]
+*** TOURNANT *** [9c 3c Jd] [8s]
+*** RIVIÈRE *** [9c 3c Jd 8s] [4h]
+*** ABATTAGE ***
+Sathya90 : montre [4s 5c] (une paire de Quatre)
+psychoman59 : montre [7c Qd] (Hauteur Dame)
+Sathya90 a remporté 1148  lors du pot .
+psychoman59 a fini le tournoi à la 2e place et a reçu 0.34 €.
+Sathya90 gagne le tournoi - félicitations !
+Sathya90 gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 1148 | Commission 0 
+Tableau [9c 3c Jd 8s 4h]
+Siège 1 : Sathya90 (grosse blind) a montré [4s 5c] et a gagné (1148) avec une paire de Quatre
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [7c Qd] et a perdu avec Hauteur Dame
+
+
+

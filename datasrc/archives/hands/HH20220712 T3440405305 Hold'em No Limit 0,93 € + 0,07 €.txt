@@ -1,0 +1,594 @@
+﻿Main PokerStars n°237313609622 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/07/2022 15:48:36 CET [12/07/2022 9:48:36 ET]
+Table '3440405305 1' 3-max Siège #1 est au bouton.
+Place 1: bibipoks36 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: guizmogood (300 en jetons) 
+psychoman59 : met la petite blind. 10
+guizmogood : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 5d]
+bibipoks36 : passe. 
+psychoman59 : relance. 40 à 60
+guizmogood : suit. 40
+*** FLOP *** [7s 2h 8s]
+psychoman59 : parole 
+guizmogood : parole 
+*** TOURNANT *** [7s 2h 8s] [4s]
+psychoman59 : mise. 120
+guizmogood : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7s 2h 8s 4s]
+Siège 1 : bibipoks36 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (120)
+Siège 3 : guizmogood (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237313615021 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/07/2022 15:48:59 CET [12/07/2022 9:48:59 ET]
+Table '3440405305 1' 3-max Siège #2 est au bouton.
+Place 1: bibipoks36 (300 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+Place 3: guizmogood (240 en jetons) 
+guizmogood : met la petite blind. 10
+bibipoks36 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Th]
+psychoman59 : passe. 
+guizmogood : relance. 20 à 40
+bibipoks36 : suit. 20
+*** FLOP *** [3c 6h 8s]
+guizmogood : parole 
+bibipoks36 : parole 
+*** TOURNANT *** [3c 6h 8s] [2s]
+guizmogood : mise. 40
+bibipoks36 : relance. 40 à 80
+guizmogood : suit. 40
+*** RIVIÈRE *** [3c 6h 8s 2s] [6s]
+guizmogood : parole 
+bibipoks36 : mise. 180 et est all-in.
+guizmogood : passe. 
+Personne n'a suivi. (180) sont retournés à bibipoks36.
+bibipoks36 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [3c 6h 8s 2s 6s]
+Siège 1 : bibipoks36 (grosse blind) a remporté (240)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : guizmogood (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237313621424 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/07/2022 15:49:26 CET [12/07/2022 9:49:26 ET]
+Table '3440405305 1' 3-max Siège #3 est au bouton.
+Place 1: bibipoks36 (420 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+Place 3: guizmogood (120 en jetons) 
+bibipoks36 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 9s]
+guizmogood : relance. 100 à 120 et est all-in.
+bibipoks36 : passe. 
+psychoman59 : suit. 100
+*** FLOP *** [9d 6d 8h]
+*** TOURNANT *** [9d 6d 8h] [3d]
+*** RIVIÈRE *** [9d 6d 8h 3d] [5d]
+*** ABATTAGE ***
+psychoman59 : montre [Ah 9s] (une paire de Neuf)
+guizmogood : montre [Ks Qd] (une couleur, hauteur Dame)
+guizmogood a remporté 250  lors du pot .
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Tableau [9d 6d 8h 3d 5d]
+Siège 1 : bibipoks36 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [Ah 9s] et a perdu avec une paire de Neuf
+Siège 3 : guizmogood (bouton) a montré [Ks Qd] et a gagné (250) avec une couleur, hauteur Dame
+
+
+
+Main PokerStars n°237313626761 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/07/2022 15:49:49 CET [12/07/2022 9:49:49 ET]
+Table '3440405305 1' 3-max Siège #1 est au bouton.
+Place 1: bibipoks36 (410 en jetons) 
+Place 2: psychoman59 (240 en jetons) 
+Place 3: guizmogood (250 en jetons) 
+psychoman59 : met la petite blind. 15
+guizmogood : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Qh]
+bibipoks36 : relance. 30 à 60
+psychoman59 : passe. 
+guizmogood : suit. 30
+*** FLOP *** [Ad 4c 7c]
+guizmogood : parole 
+bibipoks36 : mise. 67
+guizmogood : relance. 123 à 190 et est all-in.
+bibipoks36 : suit. 123
+*** TOURNANT *** [Ad 4c 7c] [6s]
+*** RIVIÈRE *** [Ad 4c 7c 6s] [6h]
+*** ABATTAGE ***
+guizmogood : montre [9d 7d] (double paire, Sept et Six)
+bibipoks36 : montre [Kh Ks] (double paire, Rois et Six)
+bibipoks36 a remporté 515  lors du pot .
+*** SYNTHÈSE ***
+Pot total 515 | Commission 0 
+Tableau [Ad 4c 7c 6s 6h]
+Siège 1 : bibipoks36 (bouton) a montré [Kh Ks] et a gagné (515) avec double paire, Rois et Six
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : guizmogood (grosse blind) a montré [9d 7d] et a perdu avec double paire, Sept et Six
+
+
+
+Main PokerStars n°237313633325 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/07/2022 15:50:17 CET [12/07/2022 9:50:17 ET]
+Table '3440405305 1' 3-max Siège #2 est au bouton.
+Place 1: bibipoks36 (675 en jetons) 
+Place 2: psychoman59 (225 en jetons) 
+psychoman59 : met la petite blind. 15
+bibipoks36 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à bibipoks36.
+bibipoks36 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : bibipoks36 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237313635729 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/07/2022 15:50:27 CET [12/07/2022 9:50:27 ET]
+Table '3440405305 1' 3-max Siège #1 est au bouton.
+Place 1: bibipoks36 (690 en jetons) 
+Place 2: psychoman59 (210 en jetons) 
+bibipoks36 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 7h]
+bibipoks36 : suit. 15
+psychoman59 : relance. 180 à 210 et est all-in.
+bibipoks36 : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : bibipoks36 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237313637893 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/07/2022 15:50:37 CET [12/07/2022 9:50:37 ET]
+Table '3440405305 1' 3-max Siège #2 est au bouton.
+Place 1: bibipoks36 (660 en jetons) 
+Place 2: psychoman59 (240 en jetons) 
+psychoman59 : met la petite blind. 15
+bibipoks36 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à bibipoks36.
+bibipoks36 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : bibipoks36 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237313639844 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/07/2022 15:50:45 CET [12/07/2022 9:50:45 ET]
+Table '3440405305 1' 3-max Siège #1 est au bouton.
+Place 1: bibipoks36 (675 en jetons) 
+Place 2: psychoman59 (225 en jetons) 
+bibipoks36 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 3s]
+bibipoks36 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Ks Tc Ah]
+psychoman59 : parole 
+bibipoks36 : parole 
+*** TOURNANT *** [Ks Tc Ah] [6s]
+psychoman59 : mise. 40
+bibipoks36 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ks Tc Ah 6s]
+Siège 1 : bibipoks36 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237313644207 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/07/2022 15:51:04 CET [12/07/2022 9:51:04 ET]
+Table '3440405305 1' 3-max Siège #2 est au bouton.
+Place 1: bibipoks36 (635 en jetons) 
+Place 2: psychoman59 (265 en jetons) 
+psychoman59 : met la petite blind. 20
+bibipoks36 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 9s]
+psychoman59 : relance. 225 à 265 et est all-in.
+bibipoks36 : passe. 
+Personne n'a suivi. (225) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : bibipoks36 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237313646067 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/07/2022 15:51:12 CET [12/07/2022 9:51:12 ET]
+Table '3440405305 1' 3-max Siège #1 est au bouton.
+Place 1: bibipoks36 (595 en jetons) 
+Place 2: psychoman59 (305 en jetons) 
+bibipoks36 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 6c]
+bibipoks36 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [2h 2d 5s]
+psychoman59 : parole 
+bibipoks36 : parole 
+*** TOURNANT *** [2h 2d 5s] [Js]
+psychoman59 : parole 
+bibipoks36 : parole 
+*** RIVIÈRE *** [2h 2d 5s Js] [8c]
+psychoman59 : parole 
+bibipoks36 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7h 6c] (une paire de Deux)
+bibipoks36 : montre [6d 7d] (une paire de Deux)
+psychoman59 a remporté 40  lors du pot .
+bibipoks36 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2h 2d 5s Js 8c]
+Siège 1 : bibipoks36 (bouton) (petite blind) a montré [6d 7d] et a gagné (40) avec une paire de Deux
+Siège 2 : psychoman59 (grosse blind) a montré [7h 6c] et a gagné (40) avec une paire de Deux
+
+
+
+Main PokerStars n°237313652621 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/07/2022 15:51:40 CET [12/07/2022 9:51:40 ET]
+Table '3440405305 1' 3-max Siège #2 est au bouton.
+Place 1: bibipoks36 (595 en jetons) 
+Place 2: psychoman59 (305 en jetons) 
+psychoman59 : met la petite blind. 30
+bibipoks36 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ah]
+psychoman59 : relance. 245 à 305 et est all-in.
+bibipoks36 : passe. 
+Personne n'a suivi. (245) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : bibipoks36 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237313654478 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/07/2022 15:51:48 CET [12/07/2022 9:51:48 ET]
+Table '3440405305 1' 3-max Siège #1 est au bouton.
+Place 1: bibipoks36 (535 en jetons) 
+Place 2: psychoman59 (365 en jetons) 
+bibipoks36 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 7c]
+bibipoks36 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [2c 9c 8d]
+psychoman59 : parole 
+bibipoks36 : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à bibipoks36.
+bibipoks36 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2c 9c 8d]
+Siège 1 : bibipoks36 (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237313657708 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/07/2022 15:52:02 CET [12/07/2022 9:52:02 ET]
+Table '3440405305 1' 3-max Siège #2 est au bouton.
+Place 1: bibipoks36 (595 en jetons) 
+Place 2: psychoman59 (305 en jetons) 
+psychoman59 : met la petite blind. 30
+bibipoks36 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 9h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à bibipoks36.
+bibipoks36 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : bibipoks36 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237313659171 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/07/2022 15:52:08 CET [12/07/2022 9:52:08 ET]
+Table '3440405305 1' 3-max Siège #1 est au bouton.
+Place 1: bibipoks36 (625 en jetons) 
+Place 2: psychoman59 (275 en jetons) 
+bibipoks36 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 4s]
+bibipoks36 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : bibipoks36 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237313660350 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/07/2022 15:52:13 CET [12/07/2022 9:52:13 ET]
+Table '3440405305 1' 3-max Siège #2 est au bouton.
+Place 1: bibipoks36 (595 en jetons) 
+Place 2: psychoman59 (305 en jetons) 
+psychoman59 : met la petite blind. 30
+bibipoks36 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Qh]
+psychoman59 : relance. 245 à 305 et est all-in.
+bibipoks36 : passe. 
+Personne n'a suivi. (245) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : bibipoks36 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237313662129 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/07/2022 15:52:21 CET [12/07/2022 9:52:21 ET]
+Table '3440405305 1' 3-max Siège #1 est au bouton.
+Place 1: bibipoks36 (535 en jetons) 
+Place 2: psychoman59 (365 en jetons) 
+bibipoks36 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Qc]
+bibipoks36 : relance. 60 à 120
+psychoman59 : suit. 60
+*** FLOP *** [Jc 6d Ks]
+psychoman59 : parole 
+bibipoks36 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à bibipoks36.
+bibipoks36 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Jc 6d Ks]
+Siège 1 : bibipoks36 (bouton) (petite blind) a remporté (240)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237313665487 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/07/2022 15:52:35 CET [12/07/2022 9:52:35 ET]
+Table '3440405305 1' 3-max Siège #2 est au bouton.
+Place 1: bibipoks36 (655 en jetons) 
+Place 2: psychoman59 (245 en jetons) 
+psychoman59 : met la petite blind. 30
+bibipoks36 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 9s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à bibipoks36.
+bibipoks36 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : bibipoks36 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237313667291 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/07/2022 15:52:43 CET [12/07/2022 9:52:43 ET]
+Table '3440405305 1' 3-max Siège #1 est au bouton.
+Place 1: bibipoks36 (685 en jetons) 
+Place 2: psychoman59 (215 en jetons) 
+bibipoks36 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 2c]
+bibipoks36 : suit. 40
+psychoman59 : relance. 135 à 215 et est all-in.
+bibipoks36 : suit. 135
+*** FLOP *** [Kc 2s Kh]
+*** TOURNANT *** [Kc 2s Kh] [5c]
+*** RIVIÈRE *** [Kc 2s Kh 5c] [8h]
+*** ABATTAGE ***
+psychoman59 : montre [2h 2c] (un full, full aux Deux par les Rois)
+bibipoks36 : montre [4s Js] (une paire de Rois)
+psychoman59 a remporté 430  lors du pot .
+*** SYNTHÈSE ***
+Pot total 430 | Commission 0 
+Tableau [Kc 2s Kh 5c 8h]
+Siège 1 : bibipoks36 (bouton) (petite blind) a montré [4s Js] et a perdu avec une paire de Rois
+Siège 2 : psychoman59 (grosse blind) a montré [2h 2c] et a gagné (430) avec un full, full aux Deux par les Rois
+
+
+
+Main PokerStars n°237313670978 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/07/2022 15:52:59 CET [12/07/2022 9:52:59 ET]
+Table '3440405305 1' 3-max Siège #2 est au bouton.
+Place 1: bibipoks36 (470 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 40
+bibipoks36 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Jc]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à bibipoks36.
+bibipoks36 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : bibipoks36 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237313672254 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/07/2022 15:53:04 CET [12/07/2022 9:53:04 ET]
+Table '3440405305 1' 3-max Siège #1 est au bouton.
+Place 1: bibipoks36 (510 en jetons) 
+Place 2: psychoman59 (390 en jetons) 
+bibipoks36 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 6d]
+bibipoks36 : relance. 80 à 160
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à bibipoks36.
+bibipoks36 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : bibipoks36 (bouton) (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237313675185 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/07/2022 15:53:17 CET [12/07/2022 9:53:17 ET]
+Table '3440405305 1' 3-max Siège #2 est au bouton.
+Place 1: bibipoks36 (590 en jetons) 
+Place 2: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 40
+bibipoks36 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à bibipoks36.
+bibipoks36 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : bibipoks36 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237313676430 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/07/2022 15:53:22 CET [12/07/2022 9:53:22 ET]
+Table '3440405305 1' 3-max Siège #1 est au bouton.
+Place 1: bibipoks36 (630 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+bibipoks36 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 2c]
+bibipoks36 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : bibipoks36 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237313677580 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/07/2022 15:53:27 CET [12/07/2022 9:53:27 ET]
+Table '3440405305 1' 3-max Siège #2 est au bouton.
+Place 1: bibipoks36 (590 en jetons) 
+Place 2: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 40
+bibipoks36 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 6h]
+psychoman59 : relance. 230 à 310 et est all-in.
+bibipoks36 : passe. 
+Personne n'a suivi. (230) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : bibipoks36 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°237313679847 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/07/2022 15:53:37 CET [12/07/2022 9:53:37 ET]
+Table '3440405305 1' 3-max Siège #1 est au bouton.
+Place 1: bibipoks36 (510 en jetons) 
+Place 2: psychoman59 (390 en jetons) 
+bibipoks36 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 8s]
+bibipoks36 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [Th Ah 4h]
+psychoman59 : parole 
+bibipoks36 : parole 
+*** TOURNANT *** [Th Ah 4h] [4d]
+psychoman59 : parole 
+bibipoks36 : parole 
+*** RIVIÈRE *** [Th Ah 4h 4d] [Qd]
+psychoman59 : mise. 160
+bibipoks36 : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Th Ah 4h 4d Qd]
+Siège 1 : bibipoks36 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°237313685619 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 12/07/2022 15:54:02 CET [12/07/2022 9:54:02 ET]
+Table '3440405305 1' 3-max Siège #2 est au bouton.
+Place 1: bibipoks36 (430 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+psychoman59 : met la petite blind. 50
+bibipoks36 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad As]
+psychoman59 : relance. 100 à 200
+bibipoks36 : suit. 100
+*** FLOP *** [3h Kd 6d]
+bibipoks36 : parole 
+psychoman59 : mise. 150
+bibipoks36 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [3h Kd 6d]
+Siège 1 : bibipoks36 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (400)
+
+
+
+Main PokerStars n°237313690019 : Tournoi #3440405305, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 12/07/2022 15:54:20 CET [12/07/2022 9:54:20 ET]
+Table '3440405305 1' 3-max Siège #1 est au bouton.
+Place 1: bibipoks36 (230 en jetons) 
+Place 2: psychoman59 (670 en jetons) 
+bibipoks36 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 5h]
+bibipoks36 : relance. 100 à 200
+psychoman59 : relance. 100 à 300
+bibipoks36 : suit. 30 et est all-in.
+Personne n'a suivi. (70) sont retournés à psychoman59.
+*** FLOP *** [Th Jc 9c]
+*** TOURNANT *** [Th Jc 9c] [Qd]
+*** RIVIÈRE *** [Th Jc 9c Qd] [5s]
+*** ABATTAGE ***
+psychoman59 : montre [5d 5h] (un brelan de Cinq)
+bibipoks36 : montre [Jh Td] (double paire, Valets et Dix)
+psychoman59 a remporté 460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [Th Jc 9c Qd 5s]
+Siège 1 : bibipoks36 (bouton) (petite blind) a montré [Jh Td] et a perdu avec double paire, Valets et Dix
+Siège 2 : psychoman59 (grosse blind) a montré [5d 5h] et a gagné (460) avec un brelan de Cinq
+
+
+

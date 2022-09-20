@@ -1,0 +1,194 @@
+﻿Main PokerStars n°238167996500 : Tournoi #3460517344, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/08/2022 17:13:26 CET [23/08/2022 11:13:26 ET]
+Table '3460517344 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: diony54000 (300 en jetons) 
+Place 3: nms777 (300 en jetons) 
+diony54000 : met la petite blind. 10
+nms777 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Th]
+psychoman59 : suit. 20
+diony54000 : passe. 
+nms777 : parole 
+*** FLOP *** [4h 6d Js]
+nms777 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4h 6d Js] [7h]
+nms777 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4h 6d Js 7h] [3c]
+nms777 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+nms777 : montre [8d Kh] (Hauteur Roi)
+psychoman59 : cache la main perdante. 
+nms777 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [4h 6d Js 7h 3c]
+Siège 1 : psychoman59 (bouton) a caché la main perdante. [9s Th]
+Siège 2 : diony54000 (petite blind) s'est couché. avant Flop
+Siège 3 : nms777 (grosse blind) a montré [8d Kh] et a gagné (50) avec Hauteur Roi
+
+
+
+Main PokerStars n°238168002491 : Tournoi #3460517344, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/08/2022 17:13:47 CET [23/08/2022 11:13:47 ET]
+Table '3460517344 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: diony54000 (290 en jetons) 
+Place 3: nms777 (330 en jetons) 
+nms777 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 6d]
+diony54000 : relance. 20 à 40
+nms777 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à diony54000.
+diony54000 a remporté 50  lors du pot .
+diony54000 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : diony54000 (bouton) a remporté (50)
+Siège 3 : nms777 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238168005132 : Tournoi #3460517344, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/08/2022 17:13:56 CET [23/08/2022 11:13:56 ET]
+Table '3460517344 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: diony54000 (320 en jetons) 
+Place 3: nms777 (320 en jetons) 
+psychoman59 : met la petite blind. 10
+diony54000 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 6d]
+nms777 : suit. 20
+psychoman59 : passe. 
+diony54000 : parole 
+*** FLOP *** [Js Ts 7s]
+diony54000 : parole 
+nms777 : mise. 80
+diony54000 : passe. 
+Personne n'a suivi. (80) sont retournés à nms777.
+nms777 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Js Ts 7s]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : diony54000 (grosse blind) s'est couché. sur le Flop
+Siège 3 : nms777 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°238168011766 : Tournoi #3460517344, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/08/2022 17:14:19 CET [23/08/2022 11:14:19 ET]
+Table '3460517344 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 2: diony54000 (300 en jetons) 
+Place 3: nms777 (350 en jetons) 
+diony54000 : met la petite blind. 10
+nms777 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Jd]
+psychoman59 : passe. 
+diony54000 : relance. 20 à 40
+nms777 : suit. 20
+*** FLOP *** [7c 9s 4c]
+diony54000 : mise. 80
+nms777 : relance. 120 à 200
+diony54000 : relance. 60 à 260 et est all-in.
+nms777 : suit. 60
+*** TOURNANT *** [7c 9s 4c] [2c]
+*** RIVIÈRE *** [7c 9s 4c 2c] [Qd]
+*** ABATTAGE ***
+diony54000 : montre [6h 6s] (une paire de Six)
+nms777 : montre [Qs 9d] (double paire, Dames et Neuf)
+nms777 a remporté 600  lors du pot .
+diony54000 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [7c 9s 4c 2c Qd]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : diony54000 (petite blind) a montré [6h 6s] et a perdu avec une paire de Six
+Siège 3 : nms777 (grosse blind) a montré [Qs 9d] et a gagné (600) avec double paire, Dames et Neuf
+
+
+
+Main PokerStars n°238168024454 : Tournoi #3460517344, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 23/08/2022 17:15:04 CET [23/08/2022 11:15:04 ET]
+Table '3460517344 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 3: nms777 (650 en jetons) 
+nms777 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 2d]
+nms777 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Jd Ts 8c]
+psychoman59 : parole 
+nms777 : parole 
+*** TOURNANT *** [Jd Ts 8c] [Kd]
+psychoman59 : parole 
+nms777 : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [Jd Ts 8c Kd] [Ac]
+psychoman59 : mise. 180 et est all-in.
+nms777 : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 140  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [Jd Ts 8c Kd Ac]
+Siège 1 : psychoman59 (grosse blind) a remporté (140)
+Siège 3 : nms777 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238168036488 : Tournoi #3460517344, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 23/08/2022 17:15:45 CET [23/08/2022 11:15:45 ET]
+Table '3460517344 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 3: nms777 (580 en jetons) 
+psychoman59 : met la petite blind. 20
+nms777 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à nms777.
+nms777 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : nms777 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238168038773 : Tournoi #3460517344, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 23/08/2022 17:15:53 CET [23/08/2022 11:15:53 ET]
+Table '3460517344 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 3: nms777 (600 en jetons) 
+nms777 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Kc]
+nms777 : relance. 80 à 120
+psychoman59 : relance. 180 à 300 et est all-in.
+nms777 : suit. 180
+*** FLOP *** [Kd 8c Ad]
+*** TOURNANT *** [Kd 8c Ad] [3s]
+*** RIVIÈRE *** [Kd 8c Ad 3s] [Td]
+*** ABATTAGE ***
+psychoman59 : montre [Th Kc] (double paire, Rois et Dix)
+nms777 : montre [Ac 3c] (double paire, As et Trois)
+nms777 a remporté 600  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+nms777 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [Kd 8c Ad 3s Td]
+Siège 1 : psychoman59 (grosse blind) a montré [Th Kc] et a perdu avec double paire, Rois et Dix
+Siège 3 : nms777 (bouton) (petite blind) a montré [Ac 3c] et a gagné (600) avec double paire, As et Trois
+
+
+

@@ -1,0 +1,1060 @@
+﻿Main PokerStars n°237658098273 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 15:07:13 CET [29/07/2022 9:07:13 ET]
+Table '3448425517 1' 4-max Siège #1 est au bouton.
+Place 1: morenobr88 (5000 en jetons) 
+Place 2: baggio422 (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: faeleaf (5000 en jetons) 
+morenobr88 : met l'ante. 10
+baggio422 : met l'ante. 10
+psychoman59 : met l'ante. 10
+faeleaf : met l'ante. 10
+baggio422 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 3s]
+faeleaf : relance. 200 à 300
+morenobr88 : passe. 
+baggio422 : suit. 250
+psychoman59 : passe. 
+*** FLOP *** [3h 4s 5h]
+baggio422 : parole 
+faeleaf : mise. 600
+baggio422 : suit. 600
+*** TOURNANT *** [3h 4s 5h] [Jc]
+baggio422 : parole 
+faeleaf : mise. 400
+baggio422 : relance. 700 à 1100
+faeleaf : suit. 700
+*** RIVIÈRE *** [3h 4s 5h Jc] [Ks]
+baggio422 : mise. 2990 et est all-in.
+faeleaf : suit. 2990 et est all-in.
+*** ABATTAGE ***
+baggio422 : montre [Ac 2s] (une suite, As à Cinq)
+faeleaf : montre [Ts Th] (une paire de Dix)
+baggio422 a remporté 10120  lors du pot .
+faeleaf a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10120 | Commission 0 
+Tableau [3h 4s 5h Jc Ks]
+Siège 1 : morenobr88 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : baggio422 (petite blind) a montré [Ac 2s] et a gagné (10120) avec une suite, As à Cinq
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : faeleaf a montré [Ts Th] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°237658108371 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 15:08:00 CET [29/07/2022 9:08:00 ET]
+Table '3448425517 1' 4-max Siège #2 est au bouton.
+Place 1: morenobr88 (4990 en jetons) 
+Place 2: baggio422 (10120 en jetons) 
+Place 3: psychoman59 (4890 en jetons) 
+morenobr88 : met l'ante. 10
+baggio422 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+morenobr88 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Kc]
+baggio422 : relance. 200 à 300
+psychoman59 : relance. 500 à 800
+morenobr88 : suit. 700
+baggio422 : relance. 1600 à 2400
+psychoman59 : relance. 2480 à 4880 et est all-in.
+morenobr88 : passe. 
+baggio422 : suit. 2480
+*** FLOP *** [Js 7c 3c]
+*** TOURNANT *** [Js 7c 3c] [4h]
+*** RIVIÈRE *** [Js 7c 3c 4h] [3s]
+*** ABATTAGE ***
+psychoman59 : montre [Kd Kc] (double paire, Rois et Trois)
+baggio422 : montre [Jd Ad] (double paire, Valets et Trois)
+psychoman59 a remporté 10590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 10590 | Commission 0 
+Tableau [Js 7c 3c 4h 3s]
+Siège 1 : morenobr88 (grosse blind) s'est couché. avant Flop
+Siège 2 : baggio422 (bouton) a montré [Jd Ad] et a perdu avec double paire, Valets et Trois
+Siège 3 : psychoman59 (petite blind) a montré [Kd Kc] et a gagné (10590) avec double paire, Rois et Trois
+
+
+
+Main PokerStars n°237658118784 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 15:08:48 CET [29/07/2022 9:08:48 ET]
+Table '3448425517 1' 4-max Siège #3 est au bouton.
+Place 1: morenobr88 (4180 en jetons) 
+Place 2: baggio422 (5230 en jetons) 
+Place 3: psychoman59 (10590 en jetons) 
+morenobr88 : met l'ante. 10
+baggio422 : met l'ante. 10
+psychoman59 : met l'ante. 10
+morenobr88 : met la petite blind. 50
+baggio422 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 8h]
+psychoman59 : suit. 100
+morenobr88 : suit. 50
+baggio422 : parole 
+*** FLOP *** [Jh Kh 6c]
+morenobr88 : parole 
+baggio422 : parole 
+psychoman59 : mise. 330
+morenobr88 : relance. 990 à 1320
+baggio422 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (990) sont retournés à morenobr88.
+morenobr88 a remporté 990  lors du pot .
+morenobr88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 990 | Commission 0 
+Tableau [Jh Kh 6c]
+Siège 1 : morenobr88 (petite blind) a remporté (990)
+Siège 2 : baggio422 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237658127300 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 15:09:28 CET [29/07/2022 9:09:28 ET]
+Table '3448425517 1' 4-max Siège #1 est au bouton.
+Place 1: morenobr88 (4730 en jetons) 
+Place 2: baggio422 (5120 en jetons) 
+Place 3: psychoman59 (10150 en jetons) 
+morenobr88 : met l'ante. 10
+baggio422 : met l'ante. 10
+psychoman59 : met l'ante. 10
+baggio422 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 3c]
+morenobr88 : passe. 
+baggio422 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Td Ad 4c]
+baggio422 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Td Ad 4c] [5d]
+baggio422 : mise. 100
+psychoman59 : suit. 100
+*** RIVIÈRE *** [Td Ad 4c 5d] [2h]
+baggio422 : mise. 430
+psychoman59 : suit. 430
+*** ABATTAGE ***
+baggio422 : montre [3h Kc] (une suite, As à Cinq)
+psychoman59 : montre [2c 3c] (une suite, As à Cinq)
+baggio422 a remporté 645  lors du pot .
+psychoman59 a remporté 645  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1290 | Commission 0 
+Tableau [Td Ad 4c 5d 2h]
+Siège 1 : morenobr88 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : baggio422 (petite blind) a montré [3h Kc] et a gagné (645) avec une suite, As à Cinq
+Siège 3 : psychoman59 (grosse blind) a montré [2c 3c] et a gagné (645) avec une suite, As à Cinq
+
+
+
+Main PokerStars n°237658135210 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 15:10:04 CET [29/07/2022 9:10:04 ET]
+Table '3448425517 1' 4-max Siège #2 est au bouton.
+Place 1: morenobr88 (4720 en jetons) 
+Place 2: baggio422 (5125 en jetons) 
+Place 3: psychoman59 (10155 en jetons) 
+morenobr88 : met l'ante. 10
+baggio422 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+morenobr88 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Jc]
+baggio422 : relance. 200 à 300
+psychoman59 : passe. 
+morenobr88 : suit. 200
+*** FLOP *** [Jd 4h Kh]
+morenobr88 : parole 
+baggio422 : parole 
+*** TOURNANT *** [Jd 4h Kh] [9s]
+morenobr88 : parole 
+baggio422 : parole 
+*** RIVIÈRE *** [Jd 4h Kh 9s] [7d]
+morenobr88 : parole 
+baggio422 : parole 
+*** ABATTAGE ***
+morenobr88 : montre [2s Ah] (Hauteur As)
+baggio422 : montre [8c Ad] (Hauteur As - Roi+Valet+Neuf+Huit kicker)
+baggio422 a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [Jd 4h Kh 9s 7d]
+Siège 1 : morenobr88 (grosse blind) a montré [2s Ah] et a perdu avec Hauteur As
+Siège 2 : baggio422 (bouton) a montré [8c Ad] et a gagné (680) avec Hauteur As
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237658141278 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/07/2022 15:10:32 CET [29/07/2022 9:10:32 ET]
+Table '3448425517 1' 4-max Siège #3 est au bouton.
+Place 1: morenobr88 (4410 en jetons) 
+Place 2: baggio422 (5495 en jetons) 
+Place 3: psychoman59 (10095 en jetons) 
+morenobr88 : met l'ante. 15
+baggio422 : met l'ante. 15
+psychoman59 : met l'ante. 15
+morenobr88 : met la petite blind. 60
+baggio422 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Qh]
+psychoman59 : relance. 345 à 465
+morenobr88 : suit. 405
+baggio422 : suit. 345
+*** FLOP *** [Ks 7d 2d]
+morenobr88 : parole 
+baggio422 : parole 
+psychoman59 : mise. 720
+morenobr88 : passe. 
+baggio422 : suit. 720
+*** TOURNANT *** [Ks 7d 2d] [2c]
+baggio422 : parole 
+psychoman59 : mise. 1440
+baggio422 : suit. 1440
+*** RIVIÈRE *** [Ks 7d 2d 2c] [5c]
+baggio422 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+baggio422 : montre [7c 3c] (double paire, Sept et Deux)
+psychoman59 : montre [Qs Qh] (double paire, Dames et Deux)
+psychoman59 a remporté 5760  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5760 | Commission 0 
+Tableau [Ks 7d 2d 2c 5c]
+Siège 1 : morenobr88 (petite blind) s'est couché. sur le Flop
+Siège 2 : baggio422 (grosse blind) a montré [7c 3c] et a perdu avec double paire, Sept et Deux
+Siège 3 : psychoman59 (bouton) a montré [Qs Qh] et a gagné (5760) avec double paire, Dames et Deux
+
+
+
+Main PokerStars n°237658150933 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/07/2022 15:11:17 CET [29/07/2022 9:11:17 ET]
+Table '3448425517 1' 4-max Siège #1 est au bouton.
+Place 1: morenobr88 (3930 en jetons) 
+Place 2: baggio422 (2855 en jetons) 
+Place 3: psychoman59 (13215 en jetons) 
+morenobr88 : met l'ante. 15
+baggio422 : met l'ante. 15
+psychoman59 : met l'ante. 15
+baggio422 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 8c]
+morenobr88 : relance. 120 à 240
+baggio422 : passe. 
+psychoman59 : suit. 120
+*** FLOP *** [Kh 5h Qd]
+psychoman59 : parole 
+morenobr88 : mise. 240
+psychoman59 : passe. 
+Personne n'a suivi. (240) sont retournés à morenobr88.
+morenobr88 a remporté 585  lors du pot .
+morenobr88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 585 | Commission 0 
+Tableau [Kh 5h Qd]
+Siège 1 : morenobr88 (bouton) a remporté (585)
+Siège 2 : baggio422 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237658155368 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/07/2022 15:11:37 CET [29/07/2022 9:11:37 ET]
+Table '3448425517 1' 4-max Siège #2 est au bouton.
+Place 1: morenobr88 (4260 en jetons) 
+Place 2: baggio422 (2780 en jetons) 
+Place 3: psychoman59 (12960 en jetons) 
+morenobr88 : met l'ante. 15
+baggio422 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+morenobr88 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Qh]
+baggio422 : relance. 120 à 240
+psychoman59 : suit. 180
+morenobr88 : relance. 840 à 1080
+baggio422 : suit. 840
+psychoman59 : passe. 
+*** FLOP *** [Jh Ah 8s]
+morenobr88 : parole 
+baggio422 : mise. 1685 et est all-in.
+morenobr88 : suit. 1685
+*** TOURNANT *** [Jh Ah 8s] [3d]
+*** RIVIÈRE *** [Jh Ah 8s 3d] [5s]
+*** ABATTAGE ***
+morenobr88 : montre [Ad Ac] (un brelan de As)
+baggio422 : montre [7d As] (une paire de As)
+morenobr88 a remporté 5815  lors du pot .
+baggio422 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 5815 | Commission 0 
+Tableau [Jh Ah 8s 3d 5s]
+Siège 1 : morenobr88 (grosse blind) a montré [Ad Ac] et a gagné (5815) avec un brelan de As
+Siège 2 : baggio422 (bouton) a montré [7d As] et a perdu avec une paire de As
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237658162258 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/07/2022 15:12:09 CET [29/07/2022 9:12:09 ET]
+Table '3448425517 1' 4-max Siège #1 est au bouton.
+Place 1: morenobr88 (7295 en jetons) 
+Place 3: psychoman59 (12705 en jetons) 
+morenobr88 : met l'ante. 15
+psychoman59 : met l'ante. 15
+morenobr88 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 6h]
+morenobr88 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [Ad Qc 3c]
+psychoman59 : parole 
+morenobr88 : mise. 120
+psychoman59 : suit. 120
+*** TOURNANT *** [Ad Qc 3c] [9s]
+psychoman59 : parole 
+morenobr88 : mise. 240
+psychoman59 : passe. 
+Personne n'a suivi. (240) sont retournés à morenobr88.
+morenobr88 a remporté 510  lors du pot .
+morenobr88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 510 | Commission 0 
+Tableau [Ad Qc 3c 9s]
+Siège 1 : morenobr88 (bouton) (petite blind) a remporté (510)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237658168693 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/07/2022 15:12:39 CET [29/07/2022 9:12:39 ET]
+Table '3448425517 1' 4-max Siège #3 est au bouton.
+Place 1: morenobr88 (7550 en jetons) 
+Place 3: psychoman59 (12450 en jetons) 
+morenobr88 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+morenobr88 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Qd]
+psychoman59 : suit. 60
+morenobr88 : relance. 480 à 600
+psychoman59 : suit. 480
+*** FLOP *** [8d 9h 3s]
+morenobr88 : parole 
+psychoman59 : mise. 615
+morenobr88 : suit. 615
+*** TOURNANT *** [8d 9h 3s] [Js]
+morenobr88 : parole 
+psychoman59 : mise. 1230
+morenobr88 : suit. 1230
+*** RIVIÈRE *** [8d 9h 3s Js] [2d]
+morenobr88 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+morenobr88 : montre [Qs Ts] (une suite, Huit à Dame)
+psychoman59 : cache la main perdante. 
+morenobr88 a remporté 4920  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4920 | Commission 0 
+Tableau [8d 9h 3s Js 2d]
+Siège 1 : morenobr88 (grosse blind) a montré [Qs Ts] et a gagné (4920) avec une suite, Huit à Dame
+Siège 3 : psychoman59 (bouton) (petite blind) a caché la main perdante. [Jh Qd]
+
+
+
+Main PokerStars n°237658176560 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/07/2022 15:13:15 CET [29/07/2022 9:13:15 ET]
+Table '3448425517 1' 4-max Siège #1 est au bouton.
+Place 1: morenobr88 (10010 en jetons) 
+Place 3: psychoman59 (9990 en jetons) 
+morenobr88 : met l'ante. 15
+psychoman59 : met l'ante. 15
+morenobr88 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 5s]
+morenobr88 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [9h Kd 3c]
+psychoman59 : parole 
+morenobr88 : parole 
+*** TOURNANT *** [9h Kd 3c] [9s]
+psychoman59 : parole 
+morenobr88 : parole 
+*** RIVIÈRE *** [9h Kd 3c 9s] [5d]
+psychoman59 : parole 
+morenobr88 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qh 5s] (double paire, Neuf et Cinq)
+morenobr88 : cache la main perdante. 
+psychoman59 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [9h Kd 3c 9s 5d]
+Siège 1 : morenobr88 (bouton) (petite blind) a caché la main perdante. [2c Th]
+Siège 3 : psychoman59 (grosse blind) a montré [Qh 5s] et a gagné (270) avec double paire, Neuf et Cinq
+
+
+
+Main PokerStars n°237658182322 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/07/2022 15:13:42 CET [29/07/2022 9:13:42 ET]
+Table '3448425517 1' 4-max Siège #3 est au bouton.
+Place 1: morenobr88 (9875 en jetons) 
+Place 3: psychoman59 (10125 en jetons) 
+morenobr88 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+morenobr88 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 4s]
+psychoman59 : relance. 340 à 490
+morenobr88 : passe. 
+Personne n'a suivi. (340) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : morenobr88 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°237658184949 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/07/2022 15:13:54 CET [29/07/2022 9:13:54 ET]
+Table '3448425517 1' 4-max Siège #1 est au bouton.
+Place 1: morenobr88 (9705 en jetons) 
+Place 3: psychoman59 (10295 en jetons) 
+morenobr88 : met l'ante. 20
+psychoman59 : met l'ante. 20
+morenobr88 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Js]
+morenobr88 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [Ac Ks 7h]
+psychoman59 : parole 
+morenobr88 : parole 
+*** TOURNANT *** [Ac Ks 7h] [7c]
+psychoman59 : parole 
+morenobr88 : mise. 150
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à morenobr88.
+morenobr88 a remporté 340  lors du pot .
+morenobr88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [Ac Ks 7h 7c]
+Siège 1 : morenobr88 (bouton) (petite blind) a remporté (340)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237658189584 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/07/2022 15:14:15 CET [29/07/2022 9:14:15 ET]
+Table '3448425517 1' 4-max Siège #3 est au bouton.
+Place 1: morenobr88 (9875 en jetons) 
+Place 3: psychoman59 (10125 en jetons) 
+morenobr88 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+morenobr88 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Qs]
+psychoman59 : relance. 340 à 490
+morenobr88 : passe. 
+Personne n'a suivi. (340) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : morenobr88 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°237658192185 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/07/2022 15:14:27 CET [29/07/2022 9:14:27 ET]
+Table '3448425517 1' 4-max Siège #1 est au bouton.
+Place 1: morenobr88 (9705 en jetons) 
+Place 3: psychoman59 (10295 en jetons) 
+morenobr88 : met l'ante. 20
+psychoman59 : met l'ante. 20
+morenobr88 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 7h]
+morenobr88 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [4c Kc 6d]
+psychoman59 : parole 
+morenobr88 : mise. 150
+psychoman59 : suit. 150
+*** TOURNANT *** [4c Kc 6d] [4s]
+psychoman59 : parole 
+morenobr88 : parole 
+*** RIVIÈRE *** [4c Kc 6d 4s] [2h]
+psychoman59 : mise. 640
+morenobr88 : passe. 
+Personne n'a suivi. (640) sont retournés à psychoman59.
+psychoman59 a remporté 640  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [4c Kc 6d 4s 2h]
+Siège 1 : morenobr88 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (640)
+
+
+
+Main PokerStars n°237658198209 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/07/2022 15:14:55 CET [29/07/2022 9:14:55 ET]
+Table '3448425517 1' 4-max Siège #3 est au bouton.
+Place 1: morenobr88 (9385 en jetons) 
+Place 3: psychoman59 (10615 en jetons) 
+morenobr88 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+morenobr88 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th As]
+psychoman59 : relance. 340 à 490
+morenobr88 : relance. 860 à 1350
+psychoman59 : relance. 9245 à 10595 et est all-in.
+morenobr88 : passe. 
+Personne n'a suivi. (9245) sont retournés à psychoman59.
+psychoman59 a remporté 2740  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2740 | Commission 0 
+Siège 1 : morenobr88 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (2740)
+
+
+
+Main PokerStars n°237658201862 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/07/2022 15:15:11 CET [29/07/2022 9:15:11 ET]
+Table '3448425517 1' 4-max Siège #1 est au bouton.
+Place 1: morenobr88 (8015 en jetons) 
+Place 3: psychoman59 (11985 en jetons) 
+morenobr88 : met l'ante. 20
+psychoman59 : met l'ante. 20
+morenobr88 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 2h]
+morenobr88 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [Ac Jd As]
+psychoman59 : parole 
+morenobr88 : parole 
+*** TOURNANT *** [Ac Jd As] [Td]
+psychoman59 : parole 
+morenobr88 : parole 
+*** RIVIÈRE *** [Ac Jd As Td] [6c]
+psychoman59 : parole 
+morenobr88 : mise. 300
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à morenobr88.
+morenobr88 a remporté 340  lors du pot .
+morenobr88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [Ac Jd As Td 6c]
+Siège 1 : morenobr88 (bouton) (petite blind) a remporté (340)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237658207268 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/07/2022 15:15:36 CET [29/07/2022 9:15:36 ET]
+Table '3448425517 1' 4-max Siège #3 est au bouton.
+Place 1: morenobr88 (8185 en jetons) 
+Place 3: psychoman59 (11815 en jetons) 
+morenobr88 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+morenobr88 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 8c]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à morenobr88.
+morenobr88 a remporté 190  lors du pot .
+morenobr88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : morenobr88 (grosse blind) a remporté (190)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237658208895 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/07/2022 15:15:43 CET [29/07/2022 9:15:43 ET]
+Table '3448425517 1' 4-max Siège #1 est au bouton.
+Place 1: morenobr88 (8280 en jetons) 
+Place 3: psychoman59 (11720 en jetons) 
+morenobr88 : met l'ante. 20
+psychoman59 : met l'ante. 20
+morenobr88 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Kh]
+morenobr88 : relance. 225 à 375
+psychoman59 : relance. 790 à 1165
+morenobr88 : suit. 790
+*** FLOP *** [Js Qs 2d]
+psychoman59 : mise. 2370
+morenobr88 : passe. 
+Personne n'a suivi. (2370) sont retournés à psychoman59.
+psychoman59 a remporté 2370  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2370 | Commission 0 
+Tableau [Js Qs 2d]
+Siège 1 : morenobr88 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (2370)
+
+
+
+Main PokerStars n°237658213598 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/07/2022 15:16:05 CET [29/07/2022 9:16:05 ET]
+Table '3448425517 1' 4-max Siège #3 est au bouton.
+Place 1: morenobr88 (7095 en jetons) 
+Place 3: psychoman59 (12905 en jetons) 
+morenobr88 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+morenobr88 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Qd]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à morenobr88.
+morenobr88 a remporté 190  lors du pot .
+morenobr88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : morenobr88 (grosse blind) a remporté (190)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237658215198 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/07/2022 15:16:12 CET [29/07/2022 9:16:12 ET]
+Table '3448425517 1' 4-max Siège #1 est au bouton.
+Place 1: morenobr88 (7190 en jetons) 
+Place 3: psychoman59 (12810 en jetons) 
+morenobr88 : met l'ante. 20
+psychoman59 : met l'ante. 20
+morenobr88 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 2s]
+morenobr88 : relance. 225 à 375
+psychoman59 : passe. 
+Personne n'a suivi. (225) sont retournés à morenobr88.
+morenobr88 a remporté 340  lors du pot .
+morenobr88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : morenobr88 (bouton) (petite blind) a remporté (340)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237658217729 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/07/2022 15:16:24 CET [29/07/2022 9:16:24 ET]
+Table '3448425517 1' 4-max Siège #3 est au bouton.
+Place 1: morenobr88 (7360 en jetons) 
+Place 3: psychoman59 (12640 en jetons) 
+morenobr88 : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+morenobr88 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Js]
+psychoman59 : relance. 450 à 650
+morenobr88 : suit. 450
+*** FLOP *** [9s 3h 2d]
+morenobr88 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9s 3h 2d] [Qd]
+morenobr88 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9s 3h 2d Qd] [6s]
+morenobr88 : mise. 1000
+psychoman59 : suit. 1000
+*** ABATTAGE ***
+morenobr88 : montre [4s Jc] (Hauteur Dame)
+psychoman59 : montre [Kh Js] (Hauteur Roi)
+psychoman59 a remporté 3350  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3350 | Commission 0 
+Tableau [9s 3h 2d Qd 6s]
+Siège 1 : morenobr88 (grosse blind) a montré [4s Jc] et a perdu avec Hauteur Dame
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Kh Js] et a gagné (3350) avec Hauteur Roi
+
+
+
+Main PokerStars n°237658223237 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/07/2022 15:16:49 CET [29/07/2022 9:16:49 ET]
+Table '3448425517 1' 4-max Siège #1 est au bouton.
+Place 1: morenobr88 (5685 en jetons) 
+Place 3: psychoman59 (14315 en jetons) 
+morenobr88 : met l'ante. 25
+psychoman59 : met l'ante. 25
+morenobr88 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 5s]
+morenobr88 : relance. 300 à 500
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à morenobr88.
+morenobr88 a remporté 450  lors du pot .
+morenobr88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Siège 1 : morenobr88 (bouton) (petite blind) a remporté (450)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237658225071 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/07/2022 15:16:58 CET [29/07/2022 9:16:58 ET]
+Table '3448425517 1' 4-max Siège #3 est au bouton.
+Place 1: morenobr88 (5910 en jetons) 
+Place 3: psychoman59 (14090 en jetons) 
+morenobr88 : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+morenobr88 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 3d]
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à morenobr88.
+morenobr88 a remporté 250  lors du pot .
+morenobr88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : morenobr88 (grosse blind) a remporté (250)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237658226617 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/07/2022 15:17:05 CET [29/07/2022 9:17:05 ET]
+Table '3448425517 1' 4-max Siège #1 est au bouton.
+Place 1: morenobr88 (6035 en jetons) 
+Place 3: psychoman59 (13965 en jetons) 
+morenobr88 : met l'ante. 25
+psychoman59 : met l'ante. 25
+morenobr88 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 4s]
+morenobr88 : relance. 300 à 500
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à morenobr88.
+morenobr88 a remporté 450  lors du pot .
+morenobr88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Siège 1 : morenobr88 (bouton) (petite blind) a remporté (450)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237658228662 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/07/2022 15:17:15 CET [29/07/2022 9:17:15 ET]
+Table '3448425517 1' 4-max Siège #3 est au bouton.
+Place 1: morenobr88 (6260 en jetons) 
+Place 3: psychoman59 (13740 en jetons) 
+morenobr88 : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+morenobr88 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à morenobr88.
+morenobr88 a remporté 250  lors du pot .
+morenobr88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : morenobr88 (grosse blind) a remporté (250)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237658230160 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/07/2022 15:17:21 CET [29/07/2022 9:17:21 ET]
+Table '3448425517 1' 4-max Siège #1 est au bouton.
+Place 1: morenobr88 (6385 en jetons) 
+Place 3: psychoman59 (13615 en jetons) 
+morenobr88 : met l'ante. 25
+psychoman59 : met l'ante. 25
+morenobr88 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 8c]
+morenobr88 : relance. 300 à 500
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à morenobr88.
+morenobr88 a remporté 450  lors du pot .
+morenobr88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Siège 1 : morenobr88 (bouton) (petite blind) a remporté (450)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237658232257 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/07/2022 15:17:31 CET [29/07/2022 9:17:31 ET]
+Table '3448425517 1' 4-max Siège #3 est au bouton.
+Place 1: morenobr88 (6610 en jetons) 
+Place 3: psychoman59 (13390 en jetons) 
+morenobr88 : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+morenobr88 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Qs]
+psychoman59 : relance. 200 à 400
+morenobr88 : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 450  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Siège 1 : morenobr88 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (450)
+
+
+
+Main PokerStars n°237658234177 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/07/2022 15:17:40 CET [29/07/2022 9:17:40 ET]
+Table '3448425517 1' 4-max Siège #1 est au bouton.
+Place 1: morenobr88 (6385 en jetons) 
+Place 3: psychoman59 (13615 en jetons) 
+morenobr88 : met l'ante. 25
+psychoman59 : met l'ante. 25
+morenobr88 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 5c]
+morenobr88 : relance. 300 à 500
+psychoman59 : suit. 300
+*** FLOP *** [2s Kh Tc]
+psychoman59 : parole 
+morenobr88 : mise. 504
+psychoman59 : relance. 2058 à 2562
+morenobr88 : relance. 3298 à 5860 et est all-in.
+psychoman59 : suit. 3298
+*** TOURNANT *** [2s Kh Tc] [2c]
+*** RIVIÈRE *** [2s Kh Tc 2c] [8d]
+*** ABATTAGE ***
+psychoman59 : montre [Kc 5c] (double paire, Rois et Deux)
+morenobr88 : montre [2h Th] (un full, full aux Deux par les Dix)
+morenobr88 a remporté 12770  lors du pot .
+*** SYNTHÈSE ***
+Pot total 12770 | Commission 0 
+Tableau [2s Kh Tc 2c 8d]
+Siège 1 : morenobr88 (bouton) (petite blind) a montré [2h Th] et a gagné (12770) avec un full, full aux Deux par les Dix
+Siège 3 : psychoman59 (grosse blind) a montré [Kc 5c] et a perdu avec double paire, Rois et Deux
+
+
+
+Main PokerStars n°237658240340 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/07/2022 15:18:08 CET [29/07/2022 9:18:08 ET]
+Table '3448425517 1' 4-max Siège #3 est au bouton.
+Place 1: morenobr88 (12770 en jetons) 
+Place 3: psychoman59 (7230 en jetons) 
+morenobr88 : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+morenobr88 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à morenobr88.
+morenobr88 a remporté 250  lors du pot .
+morenobr88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : morenobr88 (grosse blind) a remporté (250)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237658242025 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/07/2022 15:18:16 CET [29/07/2022 9:18:16 ET]
+Table '3448425517 1' 4-max Siège #1 est au bouton.
+Place 1: morenobr88 (12895 en jetons) 
+Place 3: psychoman59 (7105 en jetons) 
+morenobr88 : met l'ante. 25
+psychoman59 : met l'ante. 25
+morenobr88 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Qd]
+morenobr88 : suit. 100
+psychoman59 : relance. 450 à 650
+morenobr88 : suit. 450
+*** FLOP *** [As 8d 6h]
+psychoman59 : parole 
+morenobr88 : parole 
+*** TOURNANT *** [As 8d 6h] [5d]
+psychoman59 : parole 
+morenobr88 : mise. 1200
+psychoman59 : relance. 5230 à 6430 et est all-in.
+morenobr88 : passe. 
+Personne n'a suivi. (5230) sont retournés à psychoman59.
+psychoman59 a remporté 3750  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 3750 | Commission 0 
+Tableau [As 8d 6h 5d]
+Siège 1 : morenobr88 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a remporté (3750)
+
+
+
+Main PokerStars n°237658248812 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/07/2022 15:18:47 CET [29/07/2022 9:18:47 ET]
+Table '3448425517 1' 4-max Siège #3 est au bouton.
+Place 1: morenobr88 (11020 en jetons) 
+Place 3: psychoman59 (8980 en jetons) 
+morenobr88 : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+morenobr88 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Jd]
+psychoman59 : suit. 100
+morenobr88 : relance. 1600 à 1800
+psychoman59 : passe. 
+Personne n'a suivi. (1600) sont retournés à morenobr88.
+morenobr88 a remporté 450  lors du pot .
+morenobr88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Siège 1 : morenobr88 (grosse blind) a remporté (450)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237658251574 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/07/2022 15:19:00 CET [29/07/2022 9:19:00 ET]
+Table '3448425517 1' 4-max Siège #1 est au bouton.
+Place 1: morenobr88 (11245 en jetons) 
+Place 3: psychoman59 (8755 en jetons) 
+morenobr88 : met l'ante. 25
+psychoman59 : met l'ante. 25
+morenobr88 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 4s]
+morenobr88 : relance. 300 à 500
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à morenobr88.
+morenobr88 a remporté 450  lors du pot .
+morenobr88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Siège 1 : morenobr88 (bouton) (petite blind) a remporté (450)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237658253502 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/07/2022 15:19:09 CET [29/07/2022 9:19:09 ET]
+Table '3448425517 1' 4-max Siège #3 est au bouton.
+Place 1: morenobr88 (11470 en jetons) 
+Place 3: psychoman59 (8530 en jetons) 
+morenobr88 : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+morenobr88 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 8d]
+psychoman59 : relance. 450 à 650
+morenobr88 : suit. 450
+*** FLOP *** [5c Ac 4d]
+morenobr88 : parole 
+psychoman59 : mise. 1350
+morenobr88 : passe. 
+Personne n'a suivi. (1350) sont retournés à psychoman59.
+psychoman59 a remporté 1350  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1350 | Commission 0 
+Tableau [5c Ac 4d]
+Siège 1 : morenobr88 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (1350)
+
+
+
+Main PokerStars n°237658258277 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 29/07/2022 15:19:31 CET [29/07/2022 9:19:31 ET]
+Table '3448425517 1' 4-max Siège #1 est au bouton.
+Place 1: morenobr88 (10795 en jetons) 
+Place 3: psychoman59 (9205 en jetons) 
+morenobr88 : met l'ante. 30
+psychoman59 : met l'ante. 30
+morenobr88 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Ks]
+morenobr88 : relance. 375 à 625
+psychoman59 : suit. 375
+*** FLOP *** [8s 3s 3d]
+psychoman59 : parole 
+morenobr88 : parole 
+*** TOURNANT *** [8s 3s 3d] [5h]
+psychoman59 : parole 
+morenobr88 : parole 
+*** RIVIÈRE *** [8s 3s 3d 5h] [Kc]
+psychoman59 : mise. 1310
+morenobr88 : relance. 3690 à 5000
+psychoman59 : suit. 3690
+*** ABATTAGE ***
+morenobr88 : montre [3h 2d] (un brelan de Trois)
+psychoman59 : cache la main perdante. 
+morenobr88 a remporté 11310  lors du pot .
+*** SYNTHÈSE ***
+Pot total 11310 | Commission 0 
+Tableau [8s 3s 3d 5h Kc]
+Siège 1 : morenobr88 (bouton) (petite blind) a montré [3h 2d] et a gagné (11310) avec un brelan de Trois
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [Th Ks]
+
+
+
+Main PokerStars n°237658265896 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 29/07/2022 15:20:06 CET [29/07/2022 9:20:06 ET]
+Table '3448425517 1' 4-max Siège #3 est au bouton.
+Place 1: morenobr88 (16450 en jetons) 
+Place 3: psychoman59 (3550 en jetons) 
+morenobr88 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+morenobr88 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Kd]
+psychoman59 : relance. 3270 à 3520 et est all-in.
+morenobr88 : passe. 
+Personne n'a suivi. (3270) sont retournés à psychoman59.
+psychoman59 a remporté 560  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : morenobr88 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°237658267989 : Tournoi #3448425517, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 29/07/2022 15:20:16 CET [29/07/2022 9:20:16 ET]
+Table '3448425517 1' 4-max Siège #1 est au bouton.
+Place 1: morenobr88 (16170 en jetons) 
+Place 3: psychoman59 (3830 en jetons) 
+morenobr88 : met l'ante. 30
+psychoman59 : met l'ante. 30
+morenobr88 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 7d]
+morenobr88 : relance. 15890 à 16140 et est all-in.
+psychoman59 : suit. 3550 et est all-in.
+Personne n'a suivi. (12340) sont retournés à morenobr88.
+*** FLOP *** [Ac Tc Ah]
+*** TOURNANT *** [Ac Tc Ah] [4d]
+*** RIVIÈRE *** [Ac Tc Ah 4d] [Th]
+*** ABATTAGE ***
+psychoman59 : montre [Qd 7d] (double paire, As et Dix)
+morenobr88 : montre [Kd 9d] (double paire, As et Dix - Roi kicker)
+morenobr88 a remporté 7660  lors du pot .
+psychoman59 a fini le tournoi à la 2e place et a reçu 0.34 €.
+morenobr88 gagne le tournoi - félicitations !
+morenobr88 gagne un ticket " €1.50 PSPC Mega Path Ticket "
+*** SYNTHÈSE ***
+Pot total 7660 | Commission 0 
+Tableau [Ac Tc Ah 4d Th]
+Siège 1 : morenobr88 (bouton) (petite blind) a montré [Kd 9d] et a gagné (7660) avec double paire, As et Dix
+Siège 3 : psychoman59 (grosse blind) a montré [Qd 7d] et a perdu avec double paire, As et Dix
+
+
+

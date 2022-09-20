@@ -1,0 +1,104 @@
+﻿Main PokerStars n°237861124159 : Tournoi #3453172680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 11:36:07 CET [08/08/2022 5:36:07 ET]
+Table '3453172680 1' 4-max Siège #1 est au bouton.
+Place 1: EviL_FeeL (5000 en jetons) 
+Place 2: Numerus399 (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: perlaoro (5000 en jetons) 
+EviL_FeeL : met l'ante. 10
+Numerus399 : met l'ante. 10
+psychoman59 : met l'ante. 10
+perlaoro : met l'ante. 10
+Numerus399 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Ah]
+perlaoro : passe. 
+EviL_FeeL : passe. 
+Numerus399 : suit. 50
+psychoman59 : relance. 4890 à 4990 et est all-in.
+Numerus399 : passe. 
+Personne n'a suivi. (4890) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : EviL_FeeL (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Numerus399 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (240)
+Siège 4 : perlaoro s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237861126405 : Tournoi #3453172680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 11:36:22 CET [08/08/2022 5:36:22 ET]
+Table '3453172680 1' 4-max Siège #2 est au bouton.
+Place 1: EviL_FeeL (4990 en jetons) 
+Place 2: Numerus399 (4890 en jetons) 
+Place 3: psychoman59 (5130 en jetons) 
+Place 4: perlaoro (4990 en jetons) 
+EviL_FeeL : met l'ante. 10
+Numerus399 : met l'ante. 10
+psychoman59 : met l'ante. 10
+perlaoro : met l'ante. 10
+psychoman59 : met la petite blind. 50
+perlaoro : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 8h]
+EviL_FeeL : passe. 
+Numerus399 : relance. 100 à 200
+psychoman59 : relance. 4920 à 5120 et est all-in.
+perlaoro : passe. 
+Numerus399 : suit. 4680 et est all-in.
+Personne n'a suivi. (240) sont retournés à psychoman59.
+*** FLOP *** [5c Jh 9s]
+*** TOURNANT *** [5c Jh 9s] [Kh]
+*** RIVIÈRE *** [5c Jh 9s Kh] [5d]
+*** ABATTAGE ***
+psychoman59 : montre [8c 8h] (double paire, Huit et Cinq)
+Numerus399 : montre [9h 9c] (un full, full aux Neuf par les Cinq)
+Numerus399 a remporté 9900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9900 | Commission 0 
+Tableau [5c Jh 9s Kh 5d]
+Siège 1 : EviL_FeeL s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Numerus399 (bouton) a montré [9h 9c] et a gagné (9900) avec un full, full aux Neuf par les Cinq
+Siège 3 : psychoman59 (petite blind) a montré [8c 8h] et a perdu avec double paire, Huit et Cinq
+Siège 4 : perlaoro (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237861129932 : Tournoi #3453172680, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 11:36:46 CET [08/08/2022 5:36:46 ET]
+Table '3453172680 1' 4-max Siège #3 est au bouton.
+Place 1: EviL_FeeL (4980 en jetons) 
+Place 2: Numerus399 (9900 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+Place 4: perlaoro (4880 en jetons) 
+EviL_FeeL : met l'ante. 10
+Numerus399 : met l'ante. 10
+psychoman59 : met l'ante. 10
+perlaoro : met l'ante. 10
+perlaoro : met la petite blind. 50
+EviL_FeeL : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Ac]
+Numerus399 : passe. 
+psychoman59 : relance. 130 à 230 et est all-in.
+perlaoro : suit. 180
+EviL_FeeL : passe. 
+*** FLOP *** [9h Qc 8c]
+*** TOURNANT *** [9h Qc 8c] [Qh]
+*** RIVIÈRE *** [9h Qc 8c Qh] [4s]
+*** ABATTAGE ***
+perlaoro : montre [5s 5c] (double paire, Dames et Cinq)
+psychoman59 : montre [Td Ac] (une paire de Dames)
+perlaoro a remporté 600  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [9h Qc 8c Qh 4s]
+Siège 1 : EviL_FeeL (grosse blind) s'est couché. avant Flop
+Siège 2 : Numerus399 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) a montré [Td Ac] et a perdu avec une paire de Dames
+Siège 4 : perlaoro (petite blind) a montré [5s 5c] et a gagné (600) avec double paire, Dames et Cinq
+
+
+

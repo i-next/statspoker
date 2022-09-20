@@ -1,0 +1,1019 @@
+﻿Main PokerStars n°237800741616 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 13:33:47 CET [05/08/2022 7:33:47 ET]
+Table '3451752432 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 2: Miren460 (5000 en jetons) 
+Place 3: Hihiro77 (5000 en jetons) 
+Place 4: franckbri (5000 en jetons) 
+psychoman59 : met l'ante. 10
+Miren460 : met l'ante. 10
+Hihiro77 : met l'ante. 10
+franckbri : met l'ante. 10
+Miren460 : met la petite blind. 50
+Hihiro77 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 8c]
+franckbri : suit. 100
+psychoman59 : passe. 
+Miren460 : suit. 50
+Hihiro77 : parole 
+*** FLOP *** [Kd 9c Ac]
+Miren460 : mise. 100
+Hihiro77 : passe. 
+franckbri : passe. 
+Personne n'a suivi. (100) sont retournés à Miren460.
+Miren460 a remporté 340  lors du pot .
+Miren460 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [Kd 9c Ac]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Miren460 (petite blind) a remporté (340)
+Siège 3 : Hihiro77 (grosse blind) s'est couché. sur le Flop
+Siège 4 : franckbri s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237800744870 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 13:34:05 CET [05/08/2022 7:34:05 ET]
+Table '3451752432 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4990 en jetons) 
+Place 2: Miren460 (5230 en jetons) 
+Place 3: Hihiro77 (4890 en jetons) 
+Place 4: franckbri (4890 en jetons) 
+psychoman59 : met l'ante. 10
+Miren460 : met l'ante. 10
+Hihiro77 : met l'ante. 10
+franckbri : met l'ante. 10
+Hihiro77 : met la petite blind. 50
+franckbri : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Td]
+psychoman59 : passe. 
+Miren460 : passe. 
+Hihiro77 : suit. 50
+franckbri : parole 
+*** FLOP *** [4c Ad 6d]
+Hihiro77 : parole 
+franckbri : mise. 100
+Hihiro77 : suit. 100
+*** TOURNANT *** [4c Ad 6d] [6s]
+Hihiro77 : mise. 100
+franckbri : relance. 320 à 420
+Hihiro77 : passe. 
+Personne n'a suivi. (320) sont retournés à franckbri.
+franckbri a remporté 640  lors du pot .
+franckbri : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [4c Ad 6d 6s]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Miren460 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Hihiro77 (petite blind) s'est couché. sur le Tournant
+Siège 4 : franckbri (grosse blind) a remporté (640)
+
+
+
+Main PokerStars n°237800750926 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 13:34:36 CET [05/08/2022 7:34:36 ET]
+Table '3451752432 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4980 en jetons) 
+Place 2: Miren460 (5220 en jetons) 
+Place 3: Hihiro77 (4580 en jetons) 
+Place 4: franckbri (5220 en jetons) 
+psychoman59 : met l'ante. 10
+Miren460 : met l'ante. 10
+Hihiro77 : met l'ante. 10
+franckbri : met l'ante. 10
+franckbri : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 4s]
+Miren460 : relance. 100 à 200
+Hihiro77 : suit. 200
+franckbri : suit. 150
+psychoman59 : passe. 
+*** FLOP *** [Jc 5c Kh]
+franckbri : parole 
+Miren460 : mise. 300
+Hihiro77 : suit. 300
+franckbri : passe. 
+*** TOURNANT *** [Jc 5c Kh] [4d]
+Miren460 : mise. 900
+Hihiro77 : suit. 900
+*** RIVIÈRE *** [Jc 5c Kh 4d] [8s]
+Miren460 : mise. 3810 et est all-in.
+Hihiro77 : suit. 3170 et est all-in.
+Personne n'a suivi. (640) sont retournés à Miren460.
+*** ABATTAGE ***
+Miren460 : montre [Qd Kc] (une paire de Rois)
+Hihiro77 : montre [Ks 3c] (une paire de Rois - plus basse kicker)
+Miren460 a remporté 9480  lors du pot .
+Hihiro77 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 9480 | Commission 0 
+Tableau [Jc 5c Kh 4d 8s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Miren460 a montré [Qd Kc] et a gagné (9480) avec une paire de Rois
+Siège 3 : Hihiro77 (bouton) a montré [Ks 3c] et a perdu avec une paire de Rois
+Siège 4 : franckbri (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237800759328 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 13:35:21 CET [05/08/2022 7:35:21 ET]
+Table '3451752432 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4870 en jetons) 
+Place 2: Miren460 (10120 en jetons) 
+Place 4: franckbri (5010 en jetons) 
+psychoman59 : met l'ante. 10
+Miren460 : met l'ante. 10
+franckbri : met l'ante. 10
+psychoman59 : met la petite blind. 50
+Miren460 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 9c]
+franckbri : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à Miren460.
+Miren460 a remporté 130  lors du pot .
+Miren460 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Miren460 (grosse blind) a remporté (130)
+Siège 4 : franckbri (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237800761164 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 13:35:30 CET [05/08/2022 7:35:30 ET]
+Table '3451752432 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4810 en jetons) 
+Place 2: Miren460 (10190 en jetons) 
+Place 4: franckbri (5000 en jetons) 
+psychoman59 : met l'ante. 10
+Miren460 : met l'ante. 10
+franckbri : met l'ante. 10
+Miren460 : met la petite blind. 50
+franckbri : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 3s]
+psychoman59 : passe. 
+Miren460 : suit. 50
+franckbri : parole 
+*** FLOP *** [6d 6h Qc]
+Miren460 : parole 
+franckbri : parole 
+*** TOURNANT *** [6d 6h Qc] [Ks]
+Miren460 : mise. 100
+franckbri : passe. 
+Personne n'a suivi. (100) sont retournés à Miren460.
+Miren460 a remporté 230  lors du pot .
+Miren460 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 230 | Commission 0 
+Tableau [6d 6h Qc Ks]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Miren460 (petite blind) a remporté (230)
+Siège 4 : franckbri (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237800764479 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 13:35:48 CET [05/08/2022 7:35:48 ET]
+Table '3451752432 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4800 en jetons) 
+Place 2: Miren460 (10310 en jetons) 
+Place 4: franckbri (4890 en jetons) 
+psychoman59 : met l'ante. 10
+Miren460 : met l'ante. 10
+franckbri : met l'ante. 10
+franckbri : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9c]
+Miren460 : passe. 
+franckbri : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 130  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (130)
+Siège 2 : Miren460 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : franckbri (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237800766207 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 13:35:57 CET [05/08/2022 7:35:57 ET]
+Table '3451752432 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4870 en jetons) 
+Place 2: Miren460 (10300 en jetons) 
+Place 4: franckbri (4830 en jetons) 
+psychoman59 : met l'ante. 10
+Miren460 : met l'ante. 10
+franckbri : met l'ante. 10
+psychoman59 : met la petite blind. 50
+Miren460 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 4h]
+franckbri : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à Miren460.
+Miren460 a remporté 130  lors du pot .
+Miren460 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Miren460 (grosse blind) a remporté (130)
+Siège 4 : franckbri (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237800768179 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 13:36:07 CET [05/08/2022 7:36:07 ET]
+Table '3451752432 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4810 en jetons) 
+Place 2: Miren460 (10370 en jetons) 
+Place 4: franckbri (4820 en jetons) 
+psychoman59 : met l'ante. 10
+Miren460 : met l'ante. 10
+franckbri : met l'ante. 10
+Miren460 : met la petite blind. 50
+franckbri : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 4d]
+psychoman59 : passe. 
+Miren460 : suit. 50
+franckbri : parole 
+*** FLOP *** [Qd 2d Kh]
+Miren460 : parole 
+franckbri : parole 
+*** TOURNANT *** [Qd 2d Kh] [As]
+Miren460 : parole 
+franckbri : parole 
+*** RIVIÈRE *** [Qd 2d Kh As] [Jc]
+Miren460 : parole 
+franckbri : mise. 100
+Miren460 : relance. 100 à 200
+franckbri : relance. 100 à 300
+Miren460 : relance. 9960 à 10260 et est all-in.
+franckbri : suit. 4410 et est all-in.
+Personne n'a suivi. (5550) sont retournés à Miren460.
+*** ABATTAGE ***
+Miren460 : montre [4c Td] (une suite, Dix à As)
+franckbri : montre [Ts 4s] (une suite, Dix à As)
+Miren460 a remporté 4825  lors du pot .
+franckbri a remporté 4825  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9650 | Commission 0 
+Tableau [Qd 2d Kh As Jc]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Miren460 (petite blind) a montré [4c Td] et a gagné (4825) avec une suite, Dix à As
+Siège 4 : franckbri (grosse blind) a montré [Ts 4s] et a gagné (4825) avec une suite, Dix à As
+
+
+
+Main PokerStars n°237800774467 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 13:36:40 CET [05/08/2022 7:36:40 ET]
+Table '3451752432 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4800 en jetons) 
+Place 2: Miren460 (10375 en jetons) 
+Place 4: franckbri (4825 en jetons) 
+psychoman59 : met l'ante. 10
+Miren460 : met l'ante. 10
+franckbri : met l'ante. 10
+franckbri : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 9d]
+Miren460 : suit. 100
+franckbri : relance. 100 à 200
+psychoman59 : passe. 
+Miren460 : suit. 100
+*** FLOP *** [5d 8h 3h]
+franckbri : parole 
+Miren460 : parole 
+*** TOURNANT *** [5d 8h 3h] [8c]
+franckbri : mise. 530
+Miren460 : passe. 
+Personne n'a suivi. (530) sont retournés à franckbri.
+franckbri a remporté 530  lors du pot .
+franckbri : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 530 | Commission 0 
+Tableau [5d 8h 3h 8c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Miren460 (bouton) s'est couché. sur le Tournant
+Siège 4 : franckbri (petite blind) a remporté (530)
+
+
+
+Main PokerStars n°237800778969 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 13:37:04 CET [05/08/2022 7:37:04 ET]
+Table '3451752432 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4690 en jetons) 
+Place 2: Miren460 (10165 en jetons) 
+Place 4: franckbri (5145 en jetons) 
+psychoman59 : met l'ante. 15
+Miren460 : met l'ante. 15
+franckbri : met l'ante. 15
+psychoman59 : met la petite blind. 60
+Miren460 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 7d]
+franckbri : passe. 
+psychoman59 : relance. 120 à 240
+Miren460 : suit. 120
+*** FLOP *** [3d 4h 4c]
+psychoman59 : parole 
+Miren460 : mise. 600
+psychoman59 : passe. 
+Personne n'a suivi. (600) sont retournés à Miren460.
+Miren460 a remporté 525  lors du pot .
+Miren460 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 525 | Commission 0 
+Tableau [3d 4h 4c]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 2 : Miren460 (grosse blind) a remporté (525)
+Siège 4 : franckbri (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237800783791 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 13:37:29 CET [05/08/2022 7:37:29 ET]
+Table '3451752432 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4435 en jetons) 
+Place 2: Miren460 (10435 en jetons) 
+Place 4: franckbri (5130 en jetons) 
+psychoman59 : met l'ante. 15
+Miren460 : met l'ante. 15
+franckbri : met l'ante. 15
+Miren460 : met la petite blind. 60
+franckbri : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 7d]
+psychoman59 : suit. 120
+Miren460 : suit. 60
+franckbri : parole 
+*** FLOP *** [Qc Td 6h]
+Miren460 : parole 
+franckbri : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qc Td 6h] [8s]
+Miren460 : parole 
+franckbri : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qc Td 6h 8s] [3d]
+Miren460 : parole 
+franckbri : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Miren460 : montre [Js 3s] (une paire de Trois)
+franckbri : montre [8d Jh] (une paire de Huit)
+psychoman59 : cache la main perdante. 
+franckbri a remporté 405  lors du pot .
+*** SYNTHÈSE ***
+Pot total 405 | Commission 0 
+Tableau [Qc Td 6h 8s 3d]
+Siège 1 : psychoman59 (bouton) a caché la main perdante. [7c 7d]
+Siège 2 : Miren460 (petite blind) a montré [Js 3s] et a perdu avec une paire de Trois
+Siège 4 : franckbri (grosse blind) a montré [8d Jh] et a gagné (405) avec une paire de Huit
+
+
+
+Main PokerStars n°237800789702 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 13:38:00 CET [05/08/2022 7:38:00 ET]
+Table '3451752432 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4300 en jetons) 
+Place 2: Miren460 (10300 en jetons) 
+Place 4: franckbri (5400 en jetons) 
+psychoman59 : met l'ante. 15
+Miren460 : met l'ante. 15
+franckbri : met l'ante. 15
+franckbri : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 9h]
+Miren460 : relance. 120 à 240
+franckbri : passe. 
+psychoman59 : suit. 120
+*** FLOP *** [Tc 5s 8s]
+psychoman59 : parole 
+Miren460 : parole 
+*** TOURNANT *** [Tc 5s 8s] [Ts]
+psychoman59 : parole 
+Miren460 : mise. 240
+psychoman59 : suit. 240
+*** RIVIÈRE *** [Tc 5s 8s Ts] [Kh]
+psychoman59 : parole 
+Miren460 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Jc 9h] (une paire de Dix)
+Miren460 : montre [Js Kd] (double paire, Rois et Dix)
+Miren460 a remporté 1065  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1065 | Commission 0 
+Tableau [Tc 5s 8s Ts Kh]
+Siège 1 : psychoman59 (grosse blind) a montré [Jc 9h] et a perdu avec une paire de Dix
+Siège 2 : Miren460 (bouton) a montré [Js Kd] et a gagné (1065) avec double paire, Rois et Dix
+Siège 4 : franckbri (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237800795218 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 13:38:29 CET [05/08/2022 7:38:29 ET]
+Table '3451752432 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (3805 en jetons) 
+Place 2: Miren460 (10870 en jetons) 
+Place 4: franckbri (5325 en jetons) 
+psychoman59 : met l'ante. 15
+Miren460 : met l'ante. 15
+franckbri : met l'ante. 15
+psychoman59 : met la petite blind. 60
+Miren460 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Js]
+franckbri : relance. 120 à 240
+psychoman59 : passe. 
+Miren460 : suit. 120
+*** FLOP *** [6s 5s Ah]
+Miren460 : mise. 120
+franckbri : suit. 120
+*** TOURNANT *** [6s 5s Ah] [7s]
+Miren460 : parole 
+franckbri : mise. 120
+Miren460 : relance. 120 à 240
+franckbri : suit. 120
+*** RIVIÈRE *** [6s 5s Ah 7s] [6h]
+Miren460 : mise. 1680
+franckbri : suit. 1680
+*** ABATTAGE ***
+Miren460 : montre [Ks 3s] (une couleur, hauteur Roi)
+franckbri : cache la main perdante. 
+Miren460 a remporté 4665  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4665 | Commission 0 
+Tableau [6s 5s Ah 7s 6h]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Miren460 (grosse blind) a montré [Ks 3s] et a gagné (4665) avec une couleur, hauteur Roi
+Siège 4 : franckbri (bouton) a caché la main perdante. [3d Ad]
+
+
+
+Main PokerStars n°237800802149 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 13:39:06 CET [05/08/2022 7:39:06 ET]
+Table '3451752432 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (3730 en jetons) 
+Place 2: Miren460 (13240 en jetons) 
+Place 4: franckbri (3030 en jetons) 
+psychoman59 : met l'ante. 15
+Miren460 : met l'ante. 15
+franckbri : met l'ante. 15
+Miren460 : met la petite blind. 60
+franckbri : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 9h]
+psychoman59 : passe. 
+Miren460 : relance. 720 à 840
+franckbri : suit. 720
+*** FLOP *** [Ah As 3d]
+Miren460 : mise. 12385 et est all-in.
+franckbri : passe. 
+Personne n'a suivi. (12385) sont retournés à Miren460.
+Miren460 a remporté 1725  lors du pot .
+Miren460 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1725 | Commission 0 
+Tableau [Ah As 3d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Miren460 (petite blind) a remporté (1725)
+Siège 4 : franckbri (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237800805841 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 13:39:25 CET [05/08/2022 7:39:25 ET]
+Table '3451752432 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (3715 en jetons) 
+Place 2: Miren460 (14110 en jetons) 
+Place 4: franckbri (2175 en jetons) 
+psychoman59 : met l'ante. 15
+Miren460 : met l'ante. 15
+franckbri : met l'ante. 15
+franckbri : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 9d]
+Miren460 : suit. 120
+franckbri : relance. 405 à 525
+psychoman59 : passe. 
+Miren460 : suit. 405
+*** FLOP *** [7c 3d Tc]
+franckbri : mise. 1635 et est all-in.
+Miren460 : passe. 
+Personne n'a suivi. (1635) sont retournés à franckbri.
+franckbri a remporté 1215  lors du pot .
+franckbri : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1215 | Commission 0 
+Tableau [7c 3d Tc]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Miren460 (bouton) s'est couché. sur le Flop
+Siège 4 : franckbri (petite blind) a remporté (1215)
+
+
+
+Main PokerStars n°237800810125 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 13:39:48 CET [05/08/2022 7:39:48 ET]
+Table '3451752432 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (3580 en jetons) 
+Place 2: Miren460 (13570 en jetons) 
+Place 4: franckbri (2850 en jetons) 
+psychoman59 : met l'ante. 15
+Miren460 : met l'ante. 15
+franckbri : met l'ante. 15
+psychoman59 : met la petite blind. 60
+Miren460 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Ah]
+franckbri : relance. 2715 à 2835 et est all-in.
+psychoman59 : suit. 2775
+Miren460 : passe. 
+*** FLOP *** [Qd Tc Ts]
+*** TOURNANT *** [Qd Tc Ts] [3s]
+*** RIVIÈRE *** [Qd Tc Ts 3s] [7s]
+*** ABATTAGE ***
+psychoman59 : montre [7h Ah] (double paire, Dix et Sept)
+franckbri : montre [Ac 4c] (une paire de Dix)
+psychoman59 a remporté 5835  lors du pot .
+franckbri a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 5835 | Commission 0 
+Tableau [Qd Tc Ts 3s 7s]
+Siège 1 : psychoman59 (petite blind) a montré [7h Ah] et a gagné (5835) avec double paire, Dix et Sept
+Siège 2 : Miren460 (grosse blind) s'est couché. avant Flop
+Siège 4 : franckbri (bouton) a montré [Ac 4c] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°237800814274 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 13:40:09 CET [05/08/2022 7:40:09 ET]
+Table '3451752432 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (6565 en jetons) 
+Place 2: Miren460 (13435 en jetons) 
+psychoman59 : met l'ante. 20
+Miren460 : met l'ante. 20
+Miren460 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ts]
+Miren460 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [4s Ac Jc]
+psychoman59 : parole 
+Miren460 : mise. 150
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à Miren460.
+Miren460 a remporté 340  lors du pot .
+Miren460 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [4s Ac Jc]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Miren460 (bouton) (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°237800817909 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 13:40:29 CET [05/08/2022 7:40:29 ET]
+Table '3451752432 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (6395 en jetons) 
+Place 2: Miren460 (13605 en jetons) 
+psychoman59 : met l'ante. 20
+Miren460 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Miren460 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à Miren460.
+Miren460 a remporté 190  lors du pot .
+Miren460 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Miren460 (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°237800819467 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 13:40:37 CET [05/08/2022 7:40:37 ET]
+Table '3451752432 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (6300 en jetons) 
+Place 2: Miren460 (13700 en jetons) 
+psychoman59 : met l'ante. 20
+Miren460 : met l'ante. 20
+Miren460 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 5c]
+Miren460 : relance. 150 à 300
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à Miren460.
+Miren460 a remporté 340  lors du pot .
+Miren460 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Miren460 (bouton) (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°237800821287 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 13:40:46 CET [05/08/2022 7:40:46 ET]
+Table '3451752432 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (6130 en jetons) 
+Place 2: Miren460 (13870 en jetons) 
+psychoman59 : met l'ante. 20
+Miren460 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Miren460 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 9s]
+psychoman59 : suit. 75
+Miren460 : parole 
+*** FLOP *** [3d Ks 2d]
+Miren460 : mise. 150
+psychoman59 : relance. 640 à 790
+Miren460 : passe. 
+Personne n'a suivi. (640) sont retournés à psychoman59.
+psychoman59 a remporté 640  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [3d Ks 2d]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (640)
+Siège 2 : Miren460 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237800824623 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 13:41:03 CET [05/08/2022 7:41:03 ET]
+Table '3451752432 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (6450 en jetons) 
+Place 2: Miren460 (13550 en jetons) 
+psychoman59 : met l'ante. 20
+Miren460 : met l'ante. 20
+Miren460 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 3c]
+Miren460 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [As Js 9c]
+psychoman59 : parole 
+Miren460 : mise. 150
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à Miren460.
+Miren460 a remporté 340  lors du pot .
+Miren460 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [As Js 9c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Miren460 (bouton) (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°237800827610 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 13:41:19 CET [05/08/2022 7:41:19 ET]
+Table '3451752432 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (6280 en jetons) 
+Place 2: Miren460 (13720 en jetons) 
+psychoman59 : met l'ante. 20
+Miren460 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Miren460 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Kc]
+psychoman59 : relance. 150 à 300
+Miren460 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (340)
+Siège 2 : Miren460 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237800829691 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 13:41:30 CET [05/08/2022 7:41:30 ET]
+Table '3451752432 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (6450 en jetons) 
+Place 2: Miren460 (13550 en jetons) 
+psychoman59 : met l'ante. 20
+Miren460 : met l'ante. 20
+Miren460 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 5d]
+Miren460 : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 190  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (190)
+Siège 2 : Miren460 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237800831009 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 13:41:37 CET [05/08/2022 7:41:37 ET]
+Table '3451752432 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (6545 en jetons) 
+Place 2: Miren460 (13455 en jetons) 
+psychoman59 : met l'ante. 20
+Miren460 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Miren460 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Ah]
+psychoman59 : relance. 150 à 300
+Miren460 : suit. 150
+*** FLOP *** [Tc Qc Ts]
+Miren460 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Tc Qc Ts] [5h]
+Miren460 : mise. 600
+psychoman59 : suit. 600
+*** RIVIÈRE *** [Tc Qc Ts 5h] [Kd]
+Miren460 : parole 
+psychoman59 : mise. 1840
+Miren460 : passe. 
+Personne n'a suivi. (1840) sont retournés à psychoman59.
+psychoman59 a remporté 1840  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1840 | Commission 0 
+Tableau [Tc Qc Ts 5h Kd]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (1840)
+Siège 2 : Miren460 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237800837716 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 13:42:12 CET [05/08/2022 7:42:12 ET]
+Table '3451752432 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (7465 en jetons) 
+Place 2: Miren460 (12535 en jetons) 
+psychoman59 : met l'ante. 20
+Miren460 : met l'ante. 20
+Miren460 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Kc]
+Miren460 : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 190  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (190)
+Siège 2 : Miren460 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237800838999 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 13:42:19 CET [05/08/2022 7:42:19 ET]
+Table '3451752432 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (7560 en jetons) 
+Place 2: Miren460 (12440 en jetons) 
+psychoman59 : met l'ante. 20
+Miren460 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Miren460 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à Miren460.
+Miren460 a remporté 190  lors du pot .
+Miren460 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Miren460 (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°237800840538 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 13:42:27 CET [05/08/2022 7:42:27 ET]
+Table '3451752432 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (7465 en jetons) 
+Place 2: Miren460 (12535 en jetons) 
+psychoman59 : met l'ante. 20
+Miren460 : met l'ante. 20
+Miren460 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 4d]
+Miren460 : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 190  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (190)
+Siège 2 : Miren460 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237800841833 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 13:42:34 CET [05/08/2022 7:42:34 ET]
+Table '3451752432 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (7560 en jetons) 
+Place 2: Miren460 (12440 en jetons) 
+psychoman59 : met l'ante. 20
+Miren460 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Miren460 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à Miren460.
+Miren460 a remporté 190  lors du pot .
+Miren460 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Miren460 (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°237800843635 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 13:42:43 CET [05/08/2022 7:42:43 ET]
+Table '3451752432 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (7465 en jetons) 
+Place 2: Miren460 (12535 en jetons) 
+psychoman59 : met l'ante. 20
+Miren460 : met l'ante. 20
+Miren460 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 9s]
+Miren460 : relance. 600 à 750
+psychoman59 : relance. 6695 à 7445 et est all-in.
+Miren460 : passe. 
+Personne n'a suivi. (6695) sont retournés à psychoman59.
+psychoman59 a remporté 1540  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1540 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (1540)
+Siège 2 : Miren460 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237800847679 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 05/08/2022 13:43:04 CET [05/08/2022 7:43:04 ET]
+Table '3451752432 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8235 en jetons) 
+Place 2: Miren460 (11765 en jetons) 
+psychoman59 : met l'ante. 25
+Miren460 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+Miren460 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à Miren460.
+Miren460 a remporté 250  lors du pot .
+Miren460 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Miren460 (grosse blind) a remporté (250)
+
+
+
+Main PokerStars n°237800849197 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 05/08/2022 13:43:12 CET [05/08/2022 7:43:12 ET]
+Table '3451752432 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (8110 en jetons) 
+Place 2: Miren460 (11890 en jetons) 
+psychoman59 : met l'ante. 25
+Miren460 : met l'ante. 25
+Miren460 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ts]
+Miren460 : suit. 100
+psychoman59 : parole 
+*** FLOP *** [Qs 3s Kh]
+psychoman59 : parole 
+Miren460 : parole 
+*** TOURNANT *** [Qs 3s Kh] [Js]
+psychoman59 : parole 
+Miren460 : mise. 200
+psychoman59 : suit. 200
+*** RIVIÈRE *** [Qs 3s Kh Js] [7h]
+psychoman59 : parole 
+Miren460 : mise. 1400
+psychoman59 : suit. 1400
+*** ABATTAGE ***
+Miren460 : montre [2h 5c] (Hauteur Roi)
+psychoman59 : montre [9h Ts] (une suite, Neuf à Roi)
+psychoman59 a remporté 3650  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3650 | Commission 0 
+Tableau [Qs 3s Kh Js 7h]
+Siège 1 : psychoman59 (grosse blind) a montré [9h Ts] et a gagné (3650) avec une suite, Neuf à Roi
+Siège 2 : Miren460 (bouton) (petite blind) a montré [2h 5c] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°237800854494 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 05/08/2022 13:43:39 CET [05/08/2022 7:43:39 ET]
+Table '3451752432 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (9935 en jetons) 
+Place 2: Miren460 (10065 en jetons) 
+psychoman59 : met l'ante. 25
+Miren460 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+Miren460 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Td]
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à Miren460.
+Miren460 a remporté 250  lors du pot .
+Miren460 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Miren460 (grosse blind) a remporté (250)
+
+
+
+Main PokerStars n°237800855967 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 05/08/2022 13:43:47 CET [05/08/2022 7:43:47 ET]
+Table '3451752432 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (9810 en jetons) 
+Place 2: Miren460 (10190 en jetons) 
+psychoman59 : met l'ante. 25
+Miren460 : met l'ante. 25
+Miren460 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 2s]
+Miren460 : relance. 200 à 400
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à Miren460.
+Miren460 a remporté 450  lors du pot .
+Miren460 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Miren460 (bouton) (petite blind) a remporté (450)
+
+
+
+Main PokerStars n°237800858247 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 05/08/2022 13:43:59 CET [05/08/2022 7:43:59 ET]
+Table '3451752432 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (9585 en jetons) 
+Place 2: Miren460 (10415 en jetons) 
+psychoman59 : met l'ante. 25
+Miren460 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+Miren460 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 7d]
+psychoman59 : relance. 200 à 400
+Miren460 : relance. 9990 à 10390 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (9990) sont retournés à Miren460.
+Miren460 a remporté 850  lors du pot .
+Miren460 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 850 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Miren460 (grosse blind) a remporté (850)
+
+
+
+Main PokerStars n°237800861548 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 05/08/2022 13:44:16 CET [05/08/2022 7:44:16 ET]
+Table '3451752432 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (9160 en jetons) 
+Place 2: Miren460 (10840 en jetons) 
+psychoman59 : met l'ante. 25
+Miren460 : met l'ante. 25
+Miren460 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 5d]
+Miren460 : relance. 200 à 400
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à Miren460.
+Miren460 a remporté 450  lors du pot .
+Miren460 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Miren460 (bouton) (petite blind) a remporté (450)
+
+
+
+Main PokerStars n°237800863219 : Tournoi #3451752432, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 05/08/2022 13:44:25 CET [05/08/2022 7:44:25 ET]
+Table '3451752432 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8935 en jetons) 
+Place 2: Miren460 (11065 en jetons) 
+psychoman59 : met l'ante. 25
+Miren460 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+Miren460 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 2d]
+psychoman59 : relance. 8710 à 8910 et est all-in.
+Miren460 : passe. 
+Personne n'a suivi. (8710) sont retournés à psychoman59.
+psychoman59 a remporté 450  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (450)
+Siège 2 : Miren460 (grosse blind) s'est couché. avant Flop
+
+
+

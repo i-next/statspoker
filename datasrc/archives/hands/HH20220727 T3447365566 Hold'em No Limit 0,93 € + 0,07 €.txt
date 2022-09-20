@@ -1,0 +1,199 @@
+﻿Main PokerStars n°237614555626 : Tournoi #3447365566, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/07/2022 10:33:47 CET [27/07/2022 4:33:47 ET]
+Table '3447365566 1' 3-max Siège #1 est au bouton.
+Place 1: Carpiste523 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Rudboy50390 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Rudboy50390 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 5c]
+Carpiste523 : relance. 20 à 40
+psychoman59 : suit. 30
+Rudboy50390 : suit. 20
+*** FLOP *** [Qc Td 2d]
+psychoman59 : parole 
+Rudboy50390 : parole 
+Carpiste523 : mise. 20
+psychoman59 : suit. 20
+Rudboy50390 : suit. 20
+*** TOURNANT *** [Qc Td 2d] [5d]
+psychoman59 : parole 
+Rudboy50390 : parole 
+Carpiste523 : mise. 90
+psychoman59 : suit. 90
+Rudboy50390 : passe. 
+*** RIVIÈRE *** [Qc Td 2d 5d] [Ac]
+psychoman59 : parole 
+Carpiste523 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ad 5c] (double paire, As et Cinq)
+Carpiste523 : cache la main perdante. 
+psychoman59 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Qc Td 2d 5d Ac]
+Siège 1 : Carpiste523 (bouton) a caché la main perdante. [Js 8h]
+Siège 2 : psychoman59 (petite blind) a montré [Ad 5c] et a gagné (360) avec double paire, As et Cinq
+Siège 3 : Rudboy50390 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237614562079 : Tournoi #3447365566, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/07/2022 10:34:36 CET [27/07/2022 4:34:36 ET]
+Table '3447365566 1' 3-max Siège #2 est au bouton.
+Place 1: Carpiste523 (150 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+Place 3: Rudboy50390 (240 en jetons) 
+Rudboy50390 : met la petite blind. 10
+Carpiste523 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 8h]
+psychoman59 : passe. 
+Rudboy50390 : passe. 
+Personne n'a suivi. (10) sont retournés à Carpiste523.
+Carpiste523 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Carpiste523 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Rudboy50390 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237614563133 : Tournoi #3447365566, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/07/2022 10:34:45 CET [27/07/2022 4:34:45 ET]
+Table '3447365566 1' 3-max Siège #3 est au bouton.
+Place 1: Carpiste523 (160 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+Place 3: Rudboy50390 (230 en jetons) 
+Carpiste523 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 6d]
+Rudboy50390 : relance. 20 à 40
+Carpiste523 : passe. 
+psychoman59 : suit. 20
+*** FLOP *** [2s 8d Kh]
+psychoman59 : parole 
+Rudboy50390 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [2s 8d Kh] [Ks]
+psychoman59 : parole 
+Rudboy50390 : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [2s 8d Kh Ks] [As]
+psychoman59 : parole 
+Rudboy50390 : mise. 40
+psychoman59 : relance. 60 à 100
+Rudboy50390 : suit. 60
+*** ABATTAGE ***
+psychoman59 : montre [Kd 6d] (un brelan de Rois)
+Rudboy50390 : cache la main perdante. 
+psychoman59 a remporté 410  lors du pot .
+*** SYNTHÈSE ***
+Pot total 410 | Commission 0 
+Tableau [2s 8d Kh Ks As]
+Siège 1 : Carpiste523 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [Kd 6d] et a gagné (410) avec un brelan de Rois
+Siège 3 : Rudboy50390 (bouton) a caché la main perdante. [Ad 6c]
+
+
+
+Main PokerStars n°237614567798 : Tournoi #3447365566, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/07/2022 10:35:20 CET [27/07/2022 4:35:20 ET]
+Table '3447365566 1' 3-max Siège #1 est au bouton.
+Place 1: Carpiste523 (150 en jetons) 
+Place 2: psychoman59 (720 en jetons) 
+Place 3: Rudboy50390 (30 en jetons) 
+psychoman59 : met la petite blind. 15
+Rudboy50390 : met la grosse blind. 30 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 8d]
+Carpiste523 : relance. 75 à 105
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à Carpiste523.
+*** FLOP *** [4d 6s Qc]
+*** TOURNANT *** [4d 6s Qc] [9h]
+*** RIVIÈRE *** [4d 6s Qc 9h] [5d]
+*** ABATTAGE ***
+Rudboy50390 : montre [Ks Qh] (une paire de Dames)
+Carpiste523 : montre [Jc Qd] (une paire de Dames - plus basse kicker)
+Rudboy50390 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [4d 6s Qc 9h 5d]
+Siège 1 : Carpiste523 (bouton) a montré [Jc Qd] et a perdu avec une paire de Dames
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Rudboy50390 (grosse blind) a montré [Ks Qh] et a gagné (75) avec une paire de Dames
+
+
+
+Main PokerStars n°237614569494 : Tournoi #3447365566, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/07/2022 10:35:33 CET [27/07/2022 4:35:33 ET]
+Table '3447365566 1' 3-max Siège #2 est au bouton.
+Place 1: Carpiste523 (120 en jetons) 
+Place 2: psychoman59 (705 en jetons) 
+Place 3: Rudboy50390 (75 en jetons) 
+Rudboy50390 : met la petite blind. 15
+Carpiste523 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Kh]
+psychoman59 : relance. 30 à 60
+Rudboy50390 : passe. 
+Carpiste523 : suit. 30
+*** FLOP *** [3c Kc 6c]
+Carpiste523 : mise. 60 et est all-in.
+psychoman59 : suit. 60
+*** TOURNANT *** [3c Kc 6c] [3h]
+*** RIVIÈRE *** [3c Kc 6c 3h] [8s]
+*** ABATTAGE ***
+Carpiste523 : montre [7h Ts] (une paire de Trois)
+psychoman59 : montre [9c Kh] (double paire, Rois et Trois)
+psychoman59 a remporté 255  lors du pot .
+*** SYNTHÈSE ***
+Pot total 255 | Commission 0 
+Tableau [3c Kc 6c 3h 8s]
+Siège 1 : Carpiste523 (grosse blind) a montré [7h Ts] et a perdu avec une paire de Trois
+Siège 2 : psychoman59 (bouton) a montré [9c Kh] et a gagné (255) avec double paire, Rois et Trois
+Siège 3 : Rudboy50390 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237614572241 : Tournoi #3447365566, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 27/07/2022 10:35:55 CET [27/07/2022 4:35:55 ET]
+Table '3447365566 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (840 en jetons) 
+Place 3: Rudboy50390 (60 en jetons) 
+Rudboy50390 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Qd]
+Rudboy50390 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : Rudboy50390 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237614573100 : Tournoi #3447365566, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 27/07/2022 10:36:01 CET [27/07/2022 4:36:01 ET]
+Table '3447365566 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (860 en jetons) 
+Place 3: Rudboy50390 (40 en jetons) 
+psychoman59 : met la petite blind. 20
+Rudboy50390 : met la grosse blind. 40 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Th]
+psychoman59 : suit. 20
+*** FLOP *** [4d 2s Jc]
+*** TOURNANT *** [4d 2s Jc] [6s]
+*** RIVIÈRE *** [4d 2s Jc 6s] [9s]
+*** ABATTAGE ***
+Rudboy50390 : montre [Qs 8d] (Hauteur Dame)
+psychoman59 : montre [4h Th] (une paire de Quatre)
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4d 2s Jc 6s 9s]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [4h Th] et a gagné (80) avec une paire de Quatre
+Siège 3 : Rudboy50390 (grosse blind) a montré [Qs 8d] et a perdu avec Hauteur Dame
+
+
+

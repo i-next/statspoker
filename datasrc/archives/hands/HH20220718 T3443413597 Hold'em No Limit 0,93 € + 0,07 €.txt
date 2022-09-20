@@ -1,0 +1,428 @@
+﻿Main PokerStars n°237443132071 : Tournoi #3443413597, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 23:22:13 CET [18/07/2022 17:22:13 ET]
+Table '3443413597 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Aljairien.14 (300 en jetons) 
+Place 3: babass441 (300 en jetons) 
+Aljairien.14 : met la petite blind. 10
+babass441 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ts]
+psychoman59 : passe. 
+Aljairien.14 : suit. 10
+babass441 : parole 
+*** FLOP *** [Jc 9s 8h]
+Aljairien.14 : parole 
+babass441 : mise. 20
+Aljairien.14 : passe. 
+Personne n'a suivi. (20) sont retournés à babass441.
+babass441 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Jc 9s 8h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Aljairien.14 (petite blind) s'est couché. sur le Flop
+Siège 3 : babass441 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237443137621 : Tournoi #3443413597, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 23:22:27 CET [18/07/2022 17:22:27 ET]
+Table '3443413597 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Aljairien.14 (280 en jetons) 
+Place 3: babass441 (320 en jetons) 
+babass441 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 9d]
+Aljairien.14 : passe. 
+babass441 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2s 4d 8d]
+babass441 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2s 4d 8d] [2h]
+babass441 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [2s 4d 8d 2h] [Qh]
+babass441 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+babass441 : montre [7c Ad] (une paire de Deux)
+psychoman59 : cache la main perdante. 
+babass441 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2s 4d 8d 2h Qh]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [7d 9d]
+Siège 2 : Aljairien.14 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : babass441 (petite blind) a montré [7c Ad] et a gagné (40) avec une paire de Deux
+
+
+
+Main PokerStars n°237443150471 : Tournoi #3443413597, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 23:22:59 CET [18/07/2022 17:22:59 ET]
+Table '3443413597 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: Aljairien.14 (280 en jetons) 
+Place 3: babass441 (340 en jetons) 
+psychoman59 : met la petite blind. 10
+Aljairien.14 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 6s]
+babass441 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Aljairien.14.
+Aljairien.14 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Aljairien.14 (grosse blind) a remporté (20)
+Siège 3 : babass441 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237443153357 : Tournoi #3443413597, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 23:23:06 CET [18/07/2022 17:23:06 ET]
+Table '3443413597 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: Aljairien.14 (290 en jetons) 
+Place 3: babass441 (340 en jetons) 
+Aljairien.14 : met la petite blind. 10
+babass441 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 7h]
+psychoman59 : passe. 
+Aljairien.14 : suit. 10
+babass441 : parole 
+*** FLOP *** [9d Kc Th]
+Aljairien.14 : mise. 20
+babass441 : suit. 20
+*** TOURNANT *** [9d Kc Th] [Kh]
+Aljairien.14 : mise. 20
+babass441 : suit. 20
+*** RIVIÈRE *** [9d Kc Th Kh] [Qc]
+Aljairien.14 : mise. 20
+babass441 : suit. 20
+*** ABATTAGE ***
+Aljairien.14 : montre [6d 9s] (double paire, Rois et Neuf)
+babass441 : montre [Ts 8d] (double paire, Rois et Dix)
+babass441 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [9d Kc Th Kh Qc]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Aljairien.14 (petite blind) a montré [6d 9s] et a perdu avec double paire, Rois et Neuf
+Siège 3 : babass441 (grosse blind) a montré [Ts 8d] et a gagné (160) avec double paire, Rois et Dix
+
+
+
+Main PokerStars n°237443165964 : Tournoi #3443413597, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/07/2022 23:23:38 CET [18/07/2022 17:23:38 ET]
+Table '3443413597 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: Aljairien.14 (210 en jetons) 
+Place 3: babass441 (420 en jetons) 
+babass441 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 8d]
+Aljairien.14 : passe. 
+babass441 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : Aljairien.14 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : babass441 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237443168766 : Tournoi #3443413597, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/07/2022 23:23:45 CET [18/07/2022 17:23:45 ET]
+Table '3443413597 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (285 en jetons) 
+Place 2: Aljairien.14 (210 en jetons) 
+Place 3: babass441 (405 en jetons) 
+psychoman59 : met la petite blind. 15
+Aljairien.14 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3h]
+babass441 : suit. 30
+psychoman59 : passe. 
+Aljairien.14 : relance. 180 à 210 et est all-in.
+babass441 : suit. 180
+*** FLOP *** [9c 7h 6c]
+*** TOURNANT *** [9c 7h 6c] [9s]
+*** RIVIÈRE *** [9c 7h 6c 9s] [8h]
+*** ABATTAGE ***
+Aljairien.14 : montre [Tc Ad] (une suite, Six à Dix)
+babass441 : montre [Kc Qc] (une paire de Neuf)
+Aljairien.14 a remporté 435  lors du pot .
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Tableau [9c 7h 6c 9s 8h]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Aljairien.14 (grosse blind) a montré [Tc Ad] et a gagné (435) avec une suite, Six à Dix
+Siège 3 : babass441 (bouton) a montré [Kc Qc] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°237443175147 : Tournoi #3443413597, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/07/2022 23:24:01 CET [18/07/2022 17:24:01 ET]
+Table '3443413597 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: Aljairien.14 (435 en jetons) 
+Place 3: babass441 (195 en jetons) 
+Aljairien.14 : met la petite blind. 15
+babass441 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Jc]
+psychoman59 : passe. 
+Aljairien.14 : passe. 
+Personne n'a suivi. (15) sont retournés à babass441.
+babass441 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Aljairien.14 (petite blind) s'est couché. avant Flop
+Siège 3 : babass441 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237443177999 : Tournoi #3443413597, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/07/2022 23:24:09 CET [18/07/2022 17:24:09 ET]
+Table '3443413597 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: Aljairien.14 (420 en jetons) 
+Place 3: babass441 (210 en jetons) 
+babass441 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd As]
+Aljairien.14 : suit. 30
+babass441 : suit. 15
+psychoman59 : relance. 240 à 270 et est all-in.
+Aljairien.14 : passe. 
+babass441 : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (90)
+Siège 2 : Aljairien.14 (bouton) s'est couché. avant Flop
+Siège 3 : babass441 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237443186941 : Tournoi #3443413597, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/07/2022 23:24:32 CET [18/07/2022 17:24:32 ET]
+Table '3443413597 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: Aljairien.14 (390 en jetons) 
+Place 3: babass441 (180 en jetons) 
+psychoman59 : met la petite blind. 20
+Aljairien.14 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Ac]
+babass441 : passe. 
+psychoman59 : relance. 80 à 120
+Aljairien.14 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (80)
+Siège 2 : Aljairien.14 (grosse blind) s'est couché. avant Flop
+Siège 3 : babass441 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237443191548 : Tournoi #3443413597, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/07/2022 23:24:43 CET [18/07/2022 17:24:43 ET]
+Table '3443413597 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 2: Aljairien.14 (350 en jetons) 
+Place 3: babass441 (180 en jetons) 
+Aljairien.14 : met la petite blind. 20
+babass441 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 6d]
+psychoman59 : passe. 
+Aljairien.14 : relance. 310 à 350 et est all-in.
+babass441 : passe. 
+Personne n'a suivi. (310) sont retournés à Aljairien.14.
+Aljairien.14 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Aljairien.14 (petite blind) a remporté (80)
+Siège 3 : babass441 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237443201693 : Tournoi #3443413597, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/07/2022 23:24:55 CET [18/07/2022 17:24:55 ET]
+Table '3443413597 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 2: Aljairien.14 (390 en jetons) 
+Place 3: babass441 (140 en jetons) 
+babass441 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 4s]
+Aljairien.14 : suit. 40
+babass441 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Qc 7d 4h]
+psychoman59 : parole 
+Aljairien.14 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Aljairien.14.
+Aljairien.14 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [Qc 7d 4h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Aljairien.14 (bouton) a remporté (100)
+Siège 3 : babass441 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237443210543 : Tournoi #3443413597, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 18/07/2022 23:25:17 CET [18/07/2022 17:25:17 ET]
+Table '3443413597 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: Aljairien.14 (450 en jetons) 
+Place 3: babass441 (120 en jetons) 
+psychoman59 : met la petite blind. 30
+Aljairien.14 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 5s]
+babass441 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Aljairien.14.
+Aljairien.14 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Aljairien.14 (grosse blind) a remporté (60)
+Siège 3 : babass441 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237443212994 : Tournoi #3443413597, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 18/07/2022 23:25:23 CET [18/07/2022 17:25:23 ET]
+Table '3443413597 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Aljairien.14 (480 en jetons) 
+Place 3: babass441 (120 en jetons) 
+Aljairien.14 : met la petite blind. 30
+babass441 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 6s]
+psychoman59 : passe. 
+Aljairien.14 : suit. 30
+babass441 est déconnecté 
+babass441 a dépassé le temps imparti. pendant qu'il était déconnecté
+babass441 : parole 
+*** FLOP *** [Td Ac Th]
+Aljairien.14 : parole 
+babass441 a dépassé le temps imparti. pendant qu'il était déconnecté
+babass441 : parole 
+*** TOURNANT *** [Td Ac Th] [Kc]
+Aljairien.14 : parole 
+babass441 est connecté 
+babass441 est déconnecté 
+babass441 est connecté 
+babass441 a dépassé le temps imparti.
+babass441 : parole 
+*** RIVIÈRE *** [Td Ac Th Kc] [6c]
+Aljairien.14 : parole 
+babass441 : mise. 60 et est all-in.
+Aljairien.14 : passe. 
+Personne n'a suivi. (60) sont retournés à babass441.
+babass441 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Td Ac Th Kc 6c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Aljairien.14 (petite blind) s'est couché. sur le Rivière
+Siège 3 : babass441 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°237443246750 : Tournoi #3443413597, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 18/07/2022 23:26:50 CET [18/07/2022 17:26:50 ET]
+Table '3443413597 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Aljairien.14 (420 en jetons) 
+Place 3: babass441 (180 en jetons) 
+babass441 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 9c]
+Aljairien.14 : relance. 340 à 420 et est all-in.
+babass441 : suit. 140 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (240) sont retournés à Aljairien.14.
+*** FLOP *** [Ad 2c Qh]
+*** TOURNANT *** [Ad 2c Qh] [5c]
+*** RIVIÈRE *** [Ad 2c Qh 5c] [Ac]
+*** ABATTAGE ***
+babass441 : montre [Tc Qs] (double paire, As et Dames)
+Aljairien.14 : montre [9d Ks] (une paire de As)
+babass441 a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [Ad 2c Qh 5c Ac]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Aljairien.14 (bouton) a montré [9d Ks] et a perdu avec une paire de As
+Siège 3 : babass441 (petite blind) a montré [Tc Qs] et a gagné (440) avec double paire, As et Dames
+
+
+
+Main PokerStars n°237443252664 : Tournoi #3443413597, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 18/07/2022 23:27:05 CET [18/07/2022 17:27:05 ET]
+Table '3443413597 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (220 en jetons) 
+Place 2: Aljairien.14 (240 en jetons) 
+Place 3: babass441 (440 en jetons) 
+psychoman59 : met la petite blind. 40
+Aljairien.14 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 3s]
+babass441 : suit. 80
+psychoman59 : passe. 
+Aljairien.14 : parole 
+*** FLOP *** [6d 4s 3c]
+Aljairien.14 : mise. 160 et est all-in.
+babass441 : passe. 
+Personne n'a suivi. (160) sont retournés à Aljairien.14.
+Aljairien.14 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [6d 4s 3c]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Aljairien.14 (grosse blind) a remporté (200)
+Siège 3 : babass441 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237443262775 : Tournoi #3443413597, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 18/07/2022 23:27:30 CET [18/07/2022 17:27:30 ET]
+Table '3443413597 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (180 en jetons) 
+Place 2: Aljairien.14 (360 en jetons) 
+Place 3: babass441 (360 en jetons) 
+Aljairien.14 : met la petite blind. 50
+babass441 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Ks]
+psychoman59 : relance. 80 à 180 et est all-in.
+Aljairien.14 : relance. 180 à 360 et est all-in.
+babass441 : suit. 260 et est all-in.
+*** FLOP *** [Th 7s Ac]
+*** TOURNANT *** [Th 7s Ac] [6d]
+*** RIVIÈRE *** [Th 7s Ac 6d] [Jc]
+*** ABATTAGE ***
+Aljairien.14 : montre [9d Qd] (Hauteur As)
+babass441 : montre [Qs Kc] (une suite, Dix à As)
+babass441 a remporté 360  parallèle lors du pot .
+psychoman59 : montre [4d Ks] (Hauteur As)
+babass441 a remporté 540  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 Principal pot 540. Parallèle pot 360. | Commission 0 
+Tableau [Th 7s Ac 6d Jc]
+Siège 1 : psychoman59 (bouton) a montré [4d Ks] et a perdu avec Hauteur As
+Siège 2 : Aljairien.14 (petite blind) a montré [9d Qd] et a perdu avec Hauteur As
+Siège 3 : babass441 (grosse blind) a montré [Qs Kc] et a gagné (900) avec une suite, Dix à As
+
+
+

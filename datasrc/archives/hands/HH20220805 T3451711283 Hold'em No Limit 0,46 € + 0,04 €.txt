@@ -1,0 +1,126 @@
+﻿Main PokerStars n°237799329153 : Tournoi #3451711283, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 11:14:16 CET [05/08/2022 5:14:16 ET]
+Table '3451711283 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 2: papiloudu76 (5000 en jetons) 
+Place 3: xSarkey (5000 en jetons) 
+Place 4: lamarenie (5000 en jetons) 
+psychoman59 : met l'ante. 10
+papiloudu76 : met l'ante. 10
+xSarkey : met l'ante. 10
+lamarenie : met l'ante. 10
+papiloudu76 : met la petite blind. 50
+xSarkey : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 8c]
+lamarenie : suit. 100
+psychoman59 : suit. 100
+papiloudu76 : suit. 50
+xSarkey : parole 
+*** FLOP *** [4d Qc 8s]
+papiloudu76 : parole 
+xSarkey : parole 
+lamarenie : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4d Qc 8s] [9s]
+papiloudu76 : parole 
+xSarkey : parole 
+lamarenie : parole 
+psychoman59 : mise. 220
+papiloudu76 : passe. 
+xSarkey : passe. 
+lamarenie : passe. 
+Personne n'a suivi. (220) sont retournés à psychoman59.
+psychoman59 a remporté 440  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [4d Qc 8s 9s]
+Siège 1 : psychoman59 (bouton) a remporté (440)
+Siège 2 : papiloudu76 (petite blind) s'est couché. sur le Tournant
+Siège 3 : xSarkey (grosse blind) s'est couché. sur le Tournant
+Siège 4 : lamarenie s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237799336387 : Tournoi #3451711283, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 11:15:04 CET [05/08/2022 5:15:04 ET]
+Table '3451711283 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (5330 en jetons) 
+Place 2: papiloudu76 (4890 en jetons) 
+Place 3: xSarkey (4890 en jetons) 
+Place 4: lamarenie (4890 en jetons) 
+psychoman59 : met l'ante. 10
+papiloudu76 : met l'ante. 10
+xSarkey : met l'ante. 10
+lamarenie : met l'ante. 10
+xSarkey : met la petite blind. 50
+lamarenie : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 4h]
+psychoman59 : suit. 100
+papiloudu76 : passe. 
+xSarkey : suit. 50
+lamarenie : parole 
+*** FLOP *** [8c Ac 8h]
+xSarkey : mise. 170
+lamarenie : passe. 
+psychoman59 : suit. 170
+*** TOURNANT *** [8c Ac 8h] [9s]
+xSarkey : mise. 340
+psychoman59 : suit. 340
+*** RIVIÈRE *** [8c Ac 8h 9s] [2h]
+xSarkey : mise. 4270 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (4270) sont retournés à xSarkey.
+xSarkey a remporté 1360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1360 | Commission 0 
+Tableau [8c Ac 8h 9s 2h]
+Siège 1 : psychoman59 s'est couché. sur le Rivière
+Siège 2 : papiloudu76 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : xSarkey (petite blind) a remporté (1360)
+Siège 4 : lamarenie (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237799345556 : Tournoi #3451711283, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 11:16:05 CET [05/08/2022 5:16:05 ET]
+Table '3451711283 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4710 en jetons) 
+Place 2: papiloudu76 (4880 en jetons) 
+Place 3: xSarkey (5630 en jetons) 
+Place 4: lamarenie (4780 en jetons) 
+psychoman59 : met l'ante. 10
+papiloudu76 : met l'ante. 10
+xSarkey : met l'ante. 10
+lamarenie : met l'ante. 10
+lamarenie : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Ad]
+papiloudu76 : passe. 
+xSarkey : passe. 
+lamarenie : suit. 50
+psychoman59 : relance. 100 à 200
+lamarenie : suit. 100
+*** FLOP *** [7d Kc 6c]
+lamarenie : parole 
+psychoman59 : mise. 220
+lamarenie : relance. 4350 à 4570 et est all-in.
+psychoman59 : suit. 4280 et est all-in.
+Personne n'a suivi. (70) sont retournés à lamarenie.
+*** TOURNANT *** [7d Kc 6c] [5c]
+*** RIVIÈRE *** [7d Kc 6c 5c] [9s]
+*** ABATTAGE ***
+lamarenie : montre [7c 7h] (un brelan de Sept)
+psychoman59 : montre [As Ad] (une paire de As)
+lamarenie a remporté 9440  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 9440 | Commission 0 
+Tableau [7d Kc 6c 5c 9s]
+Siège 1 : psychoman59 (grosse blind) a montré [As Ad] et a perdu avec une paire de As
+Siège 2 : papiloudu76 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : xSarkey (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : lamarenie (petite blind) a montré [7c 7h] et a gagné (9440) avec un brelan de Sept
+
+
+

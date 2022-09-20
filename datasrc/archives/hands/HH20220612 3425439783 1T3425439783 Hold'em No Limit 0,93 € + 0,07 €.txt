@@ -1,0 +1,484 @@
+﻿Main PokerStars n°236725062649 : Tournoi #3425439783, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/06/2022 23:16:08 CET [12/06/2022 17:16:08 ET]
+Table '3425439783 1' 3-max Siège #1 est au bouton.
+Place 1: jaylass (300 en jetons) 
+Place 2: adrien882000 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+adrien882000 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Ah]
+jaylass : suit. 20
+adrien882000 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7s 3d Ac]
+adrien882000 : mise. 20
+psychoman59 : suit. 20
+jaylass : suit. 20
+*** TOURNANT *** [7s 3d Ac] [Jh]
+adrien882000 : parole 
+psychoman59 : parole 
+jaylass : parole 
+*** RIVIÈRE *** [7s 3d Ac Jh] [8d]
+adrien882000 : mise. 20
+psychoman59 : suit. 20
+jaylass : passe. 
+*** ABATTAGE ***
+adrien882000 : montre [9d As] (une paire de As)
+psychoman59 : cache la main perdante. 
+adrien882000 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [7s 3d Ac Jh 8d]
+Siège 1 : jaylass (bouton) s'est couché. sur le Rivière
+Siège 2 : adrien882000 (petite blind) a montré [9d As] et a gagné (160) avec une paire de As
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [4c Ah]
+
+
+
+Main PokerStars n°236725074575 : Tournoi #3425439783, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/06/2022 23:16:37 CET [12/06/2022 17:16:37 ET]
+Table '3425439783 1' 3-max Siège #2 est au bouton.
+Place 1: jaylass (260 en jetons) 
+Place 2: adrien882000 (400 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+psychoman59 : met la petite blind. 10
+jaylass : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 8c]
+adrien882000 : suit. 20
+psychoman59 : suit. 10
+jaylass : parole 
+*** FLOP *** [Qs 8d Kc]
+psychoman59 : parole 
+jaylass : parole 
+adrien882000 : parole 
+*** TOURNANT *** [Qs 8d Kc] [2h]
+psychoman59 : mise. 20
+jaylass : passe. 
+adrien882000 : suit. 20
+*** RIVIÈRE *** [Qs 8d Kc 2h] [5d]
+psychoman59 : mise. 50
+adrien882000 : relance. 50 à 100
+psychoman59 : suit. 50
+*** ABATTAGE ***
+adrien882000 : montre [Kh Jd] (une paire de Rois)
+psychoman59 : montre [Ks 8c] (double paire, Rois et Huit)
+psychoman59 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Qs 8d Kc 2h 5d]
+Siège 1 : jaylass (grosse blind) s'est couché. sur le Tournant
+Siège 2 : adrien882000 (bouton) a montré [Kh Jd] et a perdu avec une paire de Rois
+Siège 3 : psychoman59 (petite blind) a montré [Ks 8c] et a gagné (300) avec double paire, Rois et Huit
+
+
+
+Main PokerStars n°236725087457 : Tournoi #3425439783, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/06/2022 23:17:08 CET [12/06/2022 17:17:08 ET]
+Table '3425439783 1' 3-max Siège #3 est au bouton.
+Place 1: jaylass (240 en jetons) 
+Place 2: adrien882000 (260 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+jaylass : met la petite blind. 10
+adrien882000 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 4d]
+psychoman59 : passe. 
+jaylass : suit. 10
+adrien882000 : relance. 20 à 40
+jaylass : suit. 20
+*** FLOP *** [Js Th Ks]
+jaylass : parole 
+adrien882000 : mise. 220 et est all-in.
+jaylass : passe. 
+Personne n'a suivi. (220) sont retournés à adrien882000.
+adrien882000 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Js Th Ks]
+Siège 1 : jaylass (petite blind) s'est couché. sur le Flop
+Siège 2 : adrien882000 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°236725096850 : Tournoi #3425439783, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/06/2022 23:17:31 CET [12/06/2022 17:17:31 ET]
+Table '3425439783 1' 3-max Siège #1 est au bouton.
+Place 1: jaylass (200 en jetons) 
+Place 2: adrien882000 (300 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+adrien882000 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 9h]
+jaylass : passe. 
+adrien882000 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [3h Jh 2s]
+adrien882000 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [3h Jh 2s] [4d]
+adrien882000 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [3h Jh 2s 4d] [5h]
+adrien882000 : mise. 60
+psychoman59 : suit. 60
+*** ABATTAGE ***
+adrien882000 : montre [Ts 2c] (une paire de Deux)
+psychoman59 : montre [Qh 9h] (une couleur, hauteur Dame)
+psychoman59 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [3h Jh 2s 4d 5h]
+Siège 1 : jaylass (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : adrien882000 (petite blind) a montré [Ts 2c] et a perdu avec une paire de Deux
+Siège 3 : psychoman59 (grosse blind) a montré [Qh 9h] et a gagné (300) avec une couleur, hauteur Dame
+
+
+
+Main PokerStars n°236725107069 : Tournoi #3425439783, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/06/2022 23:17:56 CET [12/06/2022 17:17:56 ET]
+Table '3425439783 1' 3-max Siège #2 est au bouton.
+Place 1: jaylass (200 en jetons) 
+Place 2: adrien882000 (150 en jetons) 
+Place 3: psychoman59 (550 en jetons) 
+psychoman59 : met la petite blind. 15
+jaylass : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Js]
+adrien882000 : suit. 30
+psychoman59 : suit. 15
+jaylass : parole 
+*** FLOP *** [7h 7c Jc]
+psychoman59 : parole 
+jaylass : parole 
+adrien882000 : parole 
+*** TOURNANT *** [7h 7c Jc] [2d]
+psychoman59 : mise. 45
+jaylass : passe. 
+adrien882000 : passe. 
+Personne n'a suivi. (45) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [7h 7c Jc 2d]
+Siège 1 : jaylass (grosse blind) s'est couché. sur le Tournant
+Siège 2 : adrien882000 (bouton) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (petite blind) a remporté (90)
+
+
+
+Main PokerStars n°236725118828 : Tournoi #3425439783, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/06/2022 23:18:25 CET [12/06/2022 17:18:25 ET]
+Table '3425439783 1' 3-max Siège #3 est au bouton.
+Place 1: jaylass (170 en jetons) 
+Place 2: adrien882000 (120 en jetons) 
+Place 3: psychoman59 (610 en jetons) 
+jaylass : met la petite blind. 20
+adrien882000 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 6c]
+psychoman59 : suit. 40
+jaylass : suit. 20
+adrien882000 : parole 
+*** FLOP *** [9s Th Js]
+jaylass : mise. 130 et est all-in.
+adrien882000 : suit. 80 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à jaylass.
+*** TOURNANT *** [9s Th Js] [4c]
+*** RIVIÈRE *** [9s Th Js 4c] [2d]
+*** ABATTAGE ***
+jaylass : montre [5s Jh] (une paire de Valets)
+adrien882000 : montre [Qd 7h] (Hauteur Dame)
+jaylass a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [9s Th Js 4c 2d]
+Siège 1 : jaylass (petite blind) a montré [5s Jh] et a gagné (280) avec une paire de Valets
+Siège 2 : adrien882000 (grosse blind) a montré [Qd 7h] et a perdu avec Hauteur Dame
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°236725128523 : Tournoi #3425439783, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/06/2022 23:18:49 CET [12/06/2022 17:18:49 ET]
+Table '3425439783 1' 3-max Siège #1 est au bouton.
+Place 1: jaylass (330 en jetons) 
+Place 3: psychoman59 (570 en jetons) 
+jaylass : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 5s]
+jaylass : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Ks 6s 5h]
+psychoman59 : parole 
+jaylass : parole 
+*** TOURNANT *** [Ks 6s 5h] [Tc]
+psychoman59 : parole 
+jaylass : parole 
+*** RIVIÈRE *** [Ks 6s 5h Tc] [Qs]
+psychoman59 : parole 
+jaylass : parole 
+*** ABATTAGE ***
+psychoman59 : montre [2d 5s] (une paire de Cinq)
+jaylass : cache la main perdante. 
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ks 6s 5h Tc Qs]
+Siège 1 : jaylass (bouton) (petite blind) a caché la main perdante. [4d 9c]
+Siège 3 : psychoman59 (grosse blind) a montré [2d 5s] et a gagné (80) avec une paire de Cinq
+
+
+
+Main PokerStars n°236725135217 : Tournoi #3425439783, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/06/2022 23:19:05 CET [12/06/2022 17:19:05 ET]
+Table '3425439783 1' 3-max Siège #3 est au bouton.
+Place 1: jaylass (290 en jetons) 
+Place 3: psychoman59 (610 en jetons) 
+psychoman59 : met la petite blind. 20
+jaylass : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à jaylass.
+jaylass a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : jaylass (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236725138414 : Tournoi #3425439783, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/06/2022 23:19:13 CET [12/06/2022 17:19:13 ET]
+Table '3425439783 1' 3-max Siège #1 est au bouton.
+Place 1: jaylass (310 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+jaylass : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 9h]
+jaylass : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : jaylass (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°236725141935 : Tournoi #3425439783, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/06/2022 23:19:18 CET [12/06/2022 17:19:18 ET]
+Table '3425439783 1' 3-max Siège #3 est au bouton.
+Place 1: jaylass (280 en jetons) 
+Place 3: psychoman59 (620 en jetons) 
+psychoman59 : met la petite blind. 30
+jaylass : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à jaylass.
+jaylass a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : jaylass (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236725144321 : Tournoi #3425439783, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/06/2022 23:19:24 CET [12/06/2022 17:19:24 ET]
+Table '3425439783 1' 3-max Siège #1 est au bouton.
+Place 1: jaylass (310 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+jaylass : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 2h]
+jaylass : relance. 250 à 310 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à jaylass.
+jaylass a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : jaylass (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236725147397 : Tournoi #3425439783, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/06/2022 23:19:32 CET [12/06/2022 17:19:32 ET]
+Table '3425439783 1' 3-max Siège #3 est au bouton.
+Place 1: jaylass (370 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+psychoman59 : met la petite blind. 30
+jaylass : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ac]
+psychoman59 : relance. 470 à 530 et est all-in.
+jaylass : passe. 
+Personne n'a suivi. (470) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : jaylass (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°236725150713 : Tournoi #3425439783, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/06/2022 23:19:40 CET [12/06/2022 17:19:40 ET]
+Table '3425439783 1' 3-max Siège #1 est au bouton.
+Place 1: jaylass (310 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+jaylass : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 9s]
+jaylass : relance. 250 à 310 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à jaylass.
+jaylass a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : jaylass (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236725153962 : Tournoi #3425439783, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/06/2022 23:19:48 CET [12/06/2022 17:19:48 ET]
+Table '3425439783 1' 3-max Siège #3 est au bouton.
+Place 1: jaylass (370 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+psychoman59 : met la petite blind. 30
+jaylass : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Jd]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à jaylass.
+jaylass a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : jaylass (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236725160960 : Tournoi #3425439783, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/06/2022 23:19:53 CET [12/06/2022 17:19:53 ET]
+Table '3425439783 1' 3-max Siège #1 est au bouton.
+Place 1: jaylass (400 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+jaylass : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Qh]
+jaylass : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Jd 5d Tc]
+psychoman59 : parole 
+jaylass : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à jaylass.
+jaylass a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jd 5d Tc]
+Siège 1 : jaylass (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°236725166324 : Tournoi #3425439783, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/06/2022 23:20:06 CET [12/06/2022 17:20:06 ET]
+Table '3425439783 1' 3-max Siège #3 est au bouton.
+Place 1: jaylass (460 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+psychoman59 : met la petite blind. 30
+jaylass : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 7s]
+psychoman59 : suit. 30
+jaylass : parole 
+*** FLOP *** [9s Ts 6s]
+jaylass : parole 
+psychoman59 : mise. 120
+jaylass : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9s Ts 6s]
+Siège 1 : jaylass (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°236725172805 : Tournoi #3425439783, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/06/2022 23:20:23 CET [12/06/2022 17:20:23 ET]
+Table '3425439783 1' 3-max Siège #1 est au bouton.
+Place 1: jaylass (400 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+jaylass : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 4c]
+jaylass : suit. 40
+psychoman59 : parole 
+*** FLOP *** [5s 4d 8h]
+psychoman59 : parole 
+jaylass : parole 
+*** TOURNANT *** [5s 4d 8h] [9s]
+psychoman59 : parole 
+jaylass : parole 
+*** RIVIÈRE *** [5s 4d 8h 9s] [Ac]
+psychoman59 : mise. 80
+jaylass : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [5s 4d 8h 9s Ac]
+Siège 1 : jaylass (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°236725180307 : Tournoi #3425439783, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/06/2022 23:20:42 CET [12/06/2022 17:20:42 ET]
+Table '3425439783 1' 3-max Siège #3 est au bouton.
+Place 1: jaylass (320 en jetons) 
+Place 3: psychoman59 (580 en jetons) 
+psychoman59 : met la petite blind. 40
+jaylass : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à jaylass.
+jaylass a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : jaylass (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236725182353 : Tournoi #3425439783, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/06/2022 23:20:47 CET [12/06/2022 17:20:47 ET]
+Table '3425439783 1' 3-max Siège #1 est au bouton.
+Place 1: jaylass (360 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+jaylass : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Ts]
+jaylass : suit. 40
+psychoman59 : parole 
+*** FLOP *** [Qc 4c 5s]
+psychoman59 : parole 
+jaylass : mise. 80
+psychoman59 : relance. 160 à 240
+jaylass : relance. 40 à 280 et est all-in.
+psychoman59 : suit. 40
+*** TOURNANT *** [Qc 4c 5s] [3d]
+*** RIVIÈRE *** [Qc 4c 5s 3d] [9s]
+*** ABATTAGE ***
+psychoman59 : montre [Qd Ts] (une paire de Dames)
+jaylass : montre [Ac 9c] (une paire de Neuf)
+psychoman59 a remporté 720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [Qc 4c 5s 3d 9s]
+Siège 1 : jaylass (bouton) (petite blind) a montré [Ac 9c] et a perdu avec une paire de Neuf
+Siège 3 : psychoman59 (grosse blind) a montré [Qd Ts] et a gagné (720) avec une paire de Dames
+
+
+

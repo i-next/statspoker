@@ -1,0 +1,654 @@
+﻿Main PokerStars n°238304626839 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 30/08/2022 10:21:25 CET [30/08/2022 4:21:25 ET]
+Table '3463721311 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: tertiadia (300 en jetons) 
+Place 3: The'golas (300 en jetons) 
+tertiadia : met la petite blind. 10
+The'golas : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 7h]
+psychoman59 : relance. 20 à 40
+tertiadia : suit. 30
+The'golas : suit. 20
+*** FLOP *** [8c 2d 5h]
+tertiadia : parole 
+The'golas : parole 
+psychoman59 : mise. 60
+tertiadia : passe. 
+The'golas : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8c 2d 5h]
+Siège 1 : psychoman59 (bouton) a remporté (120)
+Siège 2 : tertiadia (petite blind) s'est couché. sur le Flop
+Siège 3 : The'golas (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238304630008 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 30/08/2022 10:21:52 CET [30/08/2022 4:21:52 ET]
+Table '3463721311 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 2: tertiadia (260 en jetons) 
+Place 3: The'golas (260 en jetons) 
+The'golas : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 4c]
+tertiadia : passe. 
+The'golas : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6c 9d Qh]
+The'golas : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à The'golas.
+The'golas a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [6c 9d Qh]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : tertiadia (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : The'golas (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°238304632761 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 30/08/2022 10:22:14 CET [30/08/2022 4:22:14 ET]
+Table '3463721311 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (360 en jetons) 
+Place 2: tertiadia (260 en jetons) 
+Place 3: The'golas (280 en jetons) 
+psychoman59 : met la petite blind. 10
+tertiadia : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 8h]
+The'golas : suit. 20
+psychoman59 : passe. 
+tertiadia : parole 
+*** FLOP *** [7d Td 7s]
+tertiadia : parole 
+The'golas : parole 
+*** TOURNANT *** [7d Td 7s] [Th]
+tertiadia : parole 
+The'golas : parole 
+*** RIVIÈRE *** [7d Td 7s Th] [6d]
+tertiadia : mise. 20
+The'golas : passe. 
+Personne n'a suivi. (20) sont retournés à tertiadia.
+tertiadia a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [7d Td 7s Th 6d]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : tertiadia (grosse blind) a remporté (50)
+Siège 3 : The'golas (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238304635702 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 30/08/2022 10:22:39 CET [30/08/2022 4:22:39 ET]
+Table '3463721311 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (350 en jetons) 
+Place 2: tertiadia (290 en jetons) 
+Place 3: The'golas (260 en jetons) 
+tertiadia : met la petite blind. 15
+The'golas : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 4h]
+psychoman59 : relance. 60 à 90
+tertiadia : passe. 
+The'golas : relance. 170 à 260 et est all-in.
+psychoman59 : suit. 170
+*** FLOP *** [4s Js As]
+*** TOURNANT *** [4s Js As] [6h]
+*** RIVIÈRE *** [4s Js As 6h] [Qh]
+*** ABATTAGE ***
+The'golas : montre [Kd Ac] (une paire de As)
+psychoman59 : montre [4c 4h] (un brelan de Quatre)
+psychoman59 a remporté 535  lors du pot .
+The'golas a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 535 | Commission 0 
+Tableau [4s Js As 6h Qh]
+Siège 1 : psychoman59 (bouton) a montré [4c 4h] et a gagné (535) avec un brelan de Quatre
+Siège 2 : tertiadia (petite blind) s'est couché. avant Flop
+Siège 3 : The'golas (grosse blind) a montré [Kd Ac] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°238304638229 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 30/08/2022 10:23:00 CET [30/08/2022 4:23:00 ET]
+Table '3463721311 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (625 en jetons) 
+Place 2: tertiadia (275 en jetons) 
+tertiadia : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 4c]
+tertiadia : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : tertiadia (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238304638898 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 30/08/2022 10:23:05 CET [30/08/2022 4:23:05 ET]
+Table '3463721311 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (640 en jetons) 
+Place 2: tertiadia (260 en jetons) 
+psychoman59 : met la petite blind. 15
+tertiadia : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 8c]
+psychoman59 : suit. 15
+tertiadia : parole 
+*** FLOP *** [6c 4d Ks]
+tertiadia : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6c 4d Ks] [2h]
+tertiadia : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6c 4d Ks 2h] [3c]
+tertiadia : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+tertiadia : montre [2s 7h] (une paire de Deux)
+psychoman59 : cache la main perdante. 
+tertiadia a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6c 4d Ks 2h 3c]
+Siège 1 : psychoman59 (bouton) (petite blind) a caché la main perdante. [9c 8c]
+Siège 2 : tertiadia (grosse blind) a montré [2s 7h] et a gagné (60) avec une paire de Deux
+
+
+
+Main PokerStars n°238304641971 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 30/08/2022 10:23:31 CET [30/08/2022 4:23:31 ET]
+Table '3463721311 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (610 en jetons) 
+Place 2: tertiadia (290 en jetons) 
+tertiadia : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 5s]
+tertiadia : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : tertiadia (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238304642702 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 30/08/2022 10:23:37 CET [30/08/2022 4:23:37 ET]
+Table '3463721311 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (630 en jetons) 
+Place 2: tertiadia (270 en jetons) 
+psychoman59 : met la petite blind. 20
+tertiadia : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Js]
+psychoman59 : suit. 20
+tertiadia : relance. 230 à 270 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (230) sont retournés à tertiadia.
+tertiadia a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : tertiadia (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°238304644054 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 30/08/2022 10:23:48 CET [30/08/2022 4:23:48 ET]
+Table '3463721311 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (590 en jetons) 
+Place 2: tertiadia (310 en jetons) 
+tertiadia : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 3s]
+tertiadia : suit. 20
+psychoman59 : parole 
+*** FLOP *** [3h Ah Jd]
+psychoman59 : parole 
+tertiadia : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [3h Ah Jd] [5h]
+psychoman59 : parole 
+tertiadia : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [3h Ah Jd 5h] [2s]
+psychoman59 : parole 
+tertiadia : mise. 40
+psychoman59 : suit. 40
+*** ABATTAGE ***
+tertiadia : montre [Ad 9d] (une paire de As)
+psychoman59 : montre [Jc 3s] (double paire, Valets et Trois)
+psychoman59 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [3h Ah Jd 5h 2s]
+Siège 1 : psychoman59 (grosse blind) a montré [Jc 3s] et a gagné (320) avec double paire, Valets et Trois
+Siège 2 : tertiadia (bouton) (petite blind) a montré [Ad 9d] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°238304646676 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 30/08/2022 10:24:09 CET [30/08/2022 4:24:09 ET]
+Table '3463721311 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (750 en jetons) 
+Place 2: tertiadia (150 en jetons) 
+psychoman59 : met la petite blind. 20
+tertiadia : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 9h]
+psychoman59 : relance. 40 à 80
+tertiadia : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : tertiadia (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238304647364 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 30/08/2022 10:24:14 CET [30/08/2022 4:24:14 ET]
+Table '3463721311 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (790 en jetons) 
+Place 2: tertiadia (110 en jetons) 
+tertiadia : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 5h]
+tertiadia : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Qs 8c 5d]
+psychoman59 : parole 
+tertiadia : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [Qs 8c 5d] [Th]
+psychoman59 : parole 
+tertiadia : mise. 30 et est all-in.
+psychoman59 : suit. 30
+*** RIVIÈRE *** [Qs 8c 5d Th] [Qd]
+*** ABATTAGE ***
+psychoman59 : montre [Kc 5h] (double paire, Dames et Cinq)
+tertiadia : montre [5c Qc] (un full, full aux Dames par les Cinq)
+tertiadia a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [Qs 8c 5d Th Qd]
+Siège 1 : psychoman59 (grosse blind) a montré [Kc 5h] et a perdu avec double paire, Dames et Cinq
+Siège 2 : tertiadia (bouton) (petite blind) a montré [5c Qc] et a gagné (220) avec un full, full aux Dames par les Cinq
+
+
+
+Main PokerStars n°238304650385 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/08/2022 10:24:39 CET [30/08/2022 4:24:39 ET]
+Table '3463721311 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (680 en jetons) 
+Place 2: tertiadia (220 en jetons) 
+psychoman59 : met la petite blind. 30
+tertiadia : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à tertiadia.
+tertiadia a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : tertiadia (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°238304651173 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/08/2022 10:24:46 CET [30/08/2022 4:24:46 ET]
+Table '3463721311 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (650 en jetons) 
+Place 2: tertiadia (250 en jetons) 
+tertiadia : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 9c]
+tertiadia : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : tertiadia (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238304651914 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/08/2022 10:24:52 CET [30/08/2022 4:24:52 ET]
+Table '3463721311 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (680 en jetons) 
+Place 2: tertiadia (220 en jetons) 
+psychoman59 : met la petite blind. 30
+tertiadia : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à tertiadia.
+tertiadia a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : tertiadia (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°238304652597 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/08/2022 10:24:57 CET [30/08/2022 4:24:57 ET]
+Table '3463721311 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (650 en jetons) 
+Place 2: tertiadia (250 en jetons) 
+tertiadia : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 8c]
+tertiadia : suit. 30
+psychoman59 : parole 
+*** FLOP *** [7c 3s Tc]
+psychoman59 : parole 
+tertiadia : mise. 190 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (190) sont retournés à tertiadia.
+tertiadia a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7c 3s Tc]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : tertiadia (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°238304654378 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/08/2022 10:25:11 CET [30/08/2022 4:25:11 ET]
+Table '3463721311 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (590 en jetons) 
+Place 2: tertiadia (310 en jetons) 
+psychoman59 : met la petite blind. 30
+tertiadia : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 4d]
+psychoman59 : relance. 530 à 590 et est all-in.
+tertiadia : suit. 250 et est all-in.
+Personne n'a suivi. (280) sont retournés à psychoman59.
+*** FLOP *** [Kh 8d 8c]
+*** TOURNANT *** [Kh 8d 8c] [7c]
+*** RIVIÈRE *** [Kh 8d 8c 7c] [Td]
+*** ABATTAGE ***
+tertiadia : montre [6d As] (une paire de Huit)
+psychoman59 : montre [Ac 4d] (une paire de Huit)
+tertiadia a remporté 310  lors du pot .
+psychoman59 a remporté 310  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Kh 8d 8c 7c Td]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Ac 4d] et a gagné (310) avec une paire de Huit
+Siège 2 : tertiadia (grosse blind) a montré [6d As] et a gagné (310) avec une paire de Huit
+
+
+
+Main PokerStars n°238304656230 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/08/2022 10:25:26 CET [30/08/2022 4:25:26 ET]
+Table '3463721311 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (590 en jetons) 
+Place 2: tertiadia (310 en jetons) 
+tertiadia : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 5d]
+tertiadia : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Jd Qs Qd]
+psychoman59 : parole 
+tertiadia : mise. 250 et est all-in.
+psychoman59 : suit. 250
+*** TOURNANT *** [Jd Qs Qd] [Ks]
+*** RIVIÈRE *** [Jd Qs Qd Ks] [8s]
+*** ABATTAGE ***
+psychoman59 : montre [6d 5d] (une paire de Dames)
+tertiadia : montre [Jc 9d] (double paire, Dames et Valets)
+tertiadia a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Jd Qs Qd Ks 8s]
+Siège 1 : psychoman59 (grosse blind) a montré [6d 5d] et a perdu avec une paire de Dames
+Siège 2 : tertiadia (bouton) (petite blind) a montré [Jc 9d] et a gagné (620) avec double paire, Dames et Valets
+
+
+
+Main PokerStars n°238304658828 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 30/08/2022 10:25:47 CET [30/08/2022 4:25:47 ET]
+Table '3463721311 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: tertiadia (620 en jetons) 
+psychoman59 : met la petite blind. 40
+tertiadia : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Kh]
+psychoman59 : relance. 200 à 280 et est all-in.
+tertiadia : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 2 : tertiadia (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238304659715 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 30/08/2022 10:25:54 CET [30/08/2022 4:25:54 ET]
+Table '3463721311 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (360 en jetons) 
+Place 2: tertiadia (540 en jetons) 
+tertiadia : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 7c]
+tertiadia : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : tertiadia (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238304660222 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 30/08/2022 10:25:59 CET [30/08/2022 4:25:59 ET]
+Table '3463721311 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: tertiadia (500 en jetons) 
+psychoman59 : met la petite blind. 40
+tertiadia : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Ac]
+psychoman59 : relance. 320 à 400 et est all-in.
+tertiadia : passe. 
+Personne n'a suivi. (320) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 2 : tertiadia (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238304661539 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 30/08/2022 10:26:09 CET [30/08/2022 4:26:09 ET]
+Table '3463721311 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: tertiadia (420 en jetons) 
+tertiadia : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 8s]
+tertiadia : suit. 40
+psychoman59 : parole 
+*** FLOP *** [6h Kc Ad]
+psychoman59 : parole 
+tertiadia : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à tertiadia.
+tertiadia a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [6h Kc Ad]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : tertiadia (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°238304663280 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 30/08/2022 10:26:23 CET [30/08/2022 4:26:23 ET]
+Table '3463721311 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: tertiadia (500 en jetons) 
+psychoman59 : met la petite blind. 40
+tertiadia : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 2d]
+psychoman59 : relance. 320 à 400 et est all-in.
+tertiadia : passe. 
+Personne n'a suivi. (320) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 2 : tertiadia (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238304664553 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VI (50/100) - 30/08/2022 10:26:33 CET [30/08/2022 4:26:33 ET]
+Table '3463721311 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: tertiadia (420 en jetons) 
+tertiadia : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 3d]
+tertiadia : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (100)
+Siège 2 : tertiadia (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238304665198 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VI (50/100) - 30/08/2022 10:26:39 CET [30/08/2022 4:26:39 ET]
+Table '3463721311 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 2: tertiadia (370 en jetons) 
+psychoman59 : met la petite blind. 50
+tertiadia : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ad]
+psychoman59 : relance. 430 à 530 et est all-in.
+tertiadia : passe. 
+Personne n'a suivi. (430) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (200)
+Siège 2 : tertiadia (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238304666106 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VI (50/100) - 30/08/2022 10:26:46 CET [30/08/2022 4:26:46 ET]
+Table '3463721311 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (630 en jetons) 
+Place 2: tertiadia (270 en jetons) 
+tertiadia : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Kh]
+tertiadia : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (100)
+Siège 2 : tertiadia (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238304666796 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VI (50/100) - 30/08/2022 10:26:52 CET [30/08/2022 4:26:52 ET]
+Table '3463721311 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (680 en jetons) 
+Place 2: tertiadia (220 en jetons) 
+psychoman59 : met la petite blind. 50
+tertiadia : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à tertiadia.
+tertiadia a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : tertiadia (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°238304667499 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VI (50/100) - 30/08/2022 10:26:57 CET [30/08/2022 4:26:57 ET]
+Table '3463721311 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (630 en jetons) 
+Place 2: tertiadia (270 en jetons) 
+tertiadia : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ah]
+tertiadia : suit. 50
+psychoman59 : relance. 530 à 630 et est all-in.
+tertiadia : passe. 
+Personne n'a suivi. (530) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (200)
+Siège 2 : tertiadia (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238304668515 : Tournoi #3463721311, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VI (50/100) - 30/08/2022 10:27:06 CET [30/08/2022 4:27:06 ET]
+Table '3463721311 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (730 en jetons) 
+Place 2: tertiadia (170 en jetons) 
+psychoman59 : met la petite blind. 50
+tertiadia : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 3h]
+psychoman59 : relance. 100 à 200
+tertiadia : suit. 70 et est all-in.
+Personne n'a suivi. (30) sont retournés à psychoman59.
+*** FLOP *** [Ks 5d 4h]
+*** TOURNANT *** [Ks 5d 4h] [3d]
+*** RIVIÈRE *** [Ks 5d 4h 3d] [Qc]
+*** ABATTAGE ***
+tertiadia : montre [Tc 7c] (Hauteur Roi)
+psychoman59 : montre [Ah 3h] (une paire de Trois)
+psychoman59 a remporté 340  lors du pot .
+tertiadia a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 6.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [Ks 5d 4h 3d Qc]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Ah 3h] et a gagné (340) avec une paire de Trois
+Siège 2 : tertiadia (grosse blind) a montré [Tc 7c] et a perdu avec Hauteur Roi
+
+
+

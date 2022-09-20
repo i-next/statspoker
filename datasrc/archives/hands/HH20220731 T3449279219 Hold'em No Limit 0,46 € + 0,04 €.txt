@@ -1,0 +1,445 @@
+﻿Main PokerStars n°237695480207 : Tournoi #3449279219, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 31/07/2022 9:51:40 CET [31/07/2022 3:51:40 ET]
+Table '3449279219 1' 4-max Siège #1 est au bouton.
+Place 1: mirochnic (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: colorstrap (5000 en jetons) 
+Place 4: jackym127 (5000 en jetons) 
+mirochnic : met l'ante. 10
+psychoman59 : met l'ante. 10
+colorstrap : met l'ante. 10
+jackym127 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+colorstrap : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Ac]
+jackym127 : suit. 100
+mirochnic : passe. 
+psychoman59 : suit. 50
+colorstrap est connecté 
+colorstrap est déconnecté 
+colorstrap est connecté 
+colorstrap : parole 
+*** FLOP *** [7h 8h 6s]
+psychoman59 : mise. 340
+colorstrap : suit. 340
+jackym127 : suit. 340
+*** TOURNANT *** [7h 8h 6s] [2d]
+psychoman59 : mise. 1360
+colorstrap : passe. 
+jackym127 : suit. 1360
+*** RIVIÈRE *** [7h 8h 6s 2d] [Ah]
+psychoman59 : mise. 3190 et est all-in.
+jackym127 : suit. 3190 et est all-in.
+*** ABATTAGE ***
+psychoman59 : montre [8d Ac] (double paire, As et Huit)
+jackym127 : montre [9s Kh] (Hauteur As)
+psychoman59 a remporté 10460  lors du pot .
+jackym127 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10460 | Commission 0 
+Tableau [7h 8h 6s 2d Ah]
+Siège 1 : mirochnic (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [8d Ac] et a gagné (10460) avec double paire, As et Huit
+Siège 3 : colorstrap (grosse blind) s'est couché. sur le Tournant
+Siège 4 : jackym127 a montré [9s Kh] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237695494169 : Tournoi #3449279219, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 31/07/2022 9:53:27 CET [31/07/2022 3:53:27 ET]
+Table '3449279219 1' 4-max Siège #2 est au bouton.
+Place 1: mirochnic (4990 en jetons) 
+Place 2: psychoman59 (10460 en jetons) 
+Place 3: colorstrap (4550 en jetons) 
+mirochnic : met l'ante. 10
+psychoman59 : met l'ante. 10
+colorstrap : met l'ante. 10
+colorstrap : met la petite blind. 50
+mirochnic : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Th]
+psychoman59 : relance. 280 à 380
+colorstrap : suit. 330
+mirochnic : suit. 280
+*** FLOP *** [Jc 8h Qh]
+colorstrap : parole 
+mirochnic : mise. 585
+psychoman59 : suit. 585
+colorstrap : passe. 
+*** TOURNANT *** [Jc 8h Qh] [7s]
+mirochnic : parole 
+psychoman59 : mise. 1170
+mirochnic : suit. 1170
+*** RIVIÈRE *** [Jc 8h Qh 7s] [3h]
+mirochnic : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+mirochnic : montre [Ts 8s] (une paire de Huit)
+psychoman59 : montre [Tc Th] (une paire de Dix)
+psychoman59 a remporté 4680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4680 | Commission 0 
+Tableau [Jc 8h Qh 7s 3h]
+Siège 1 : mirochnic (grosse blind) a montré [Ts 8s] et a perdu avec une paire de Huit
+Siège 2 : psychoman59 (bouton) a montré [Tc Th] et a gagné (4680) avec une paire de Dix
+Siège 3 : colorstrap (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237695502111 : Tournoi #3449279219, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 31/07/2022 9:54:28 CET [31/07/2022 3:54:28 ET]
+Table '3449279219 1' 4-max Siège #3 est au bouton.
+Place 1: mirochnic (2845 en jetons) 
+Place 2: psychoman59 (12995 en jetons) 
+Place 3: colorstrap (4160 en jetons) 
+mirochnic : met l'ante. 10
+psychoman59 : met l'ante. 10
+colorstrap : met l'ante. 10
+mirochnic : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 2h]
+colorstrap : passe. 
+mirochnic : suit. 50
+psychoman59 : parole 
+*** FLOP *** [7d As 6c]
+mirochnic : parole 
+psychoman59 : mise. 230
+mirochnic : passe. 
+Personne n'a suivi. (230) sont retournés à psychoman59.
+psychoman59 a remporté 230  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 230 | Commission 0 
+Tableau [7d As 6c]
+Siège 1 : mirochnic (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (230)
+Siège 3 : colorstrap (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237695508250 : Tournoi #3449279219, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 31/07/2022 9:55:14 CET [31/07/2022 3:55:14 ET]
+Table '3449279219 1' 4-max Siège #1 est au bouton.
+Place 1: mirochnic (2735 en jetons) 
+Place 2: psychoman59 (13115 en jetons) 
+Place 3: colorstrap (4150 en jetons) 
+mirochnic : met l'ante. 15
+psychoman59 : met l'ante. 15
+colorstrap : met l'ante. 15
+psychoman59 : met la petite blind. 60
+colorstrap : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Jd]
+mirochnic : suit. 120
+psychoman59 : suit. 60
+colorstrap : parole 
+*** FLOP *** [5s 8s 9d]
+psychoman59 : parole 
+colorstrap : parole 
+mirochnic : mise. 322
+psychoman59 : passe. 
+colorstrap : passe. 
+Personne n'a suivi. (322) sont retournés à mirochnic.
+mirochnic a remporté 405  lors du pot .
+mirochnic : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 405 | Commission 0 
+Tableau [5s 8s 9d]
+Siège 1 : mirochnic (bouton) a remporté (405)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : colorstrap (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237695512078 : Tournoi #3449279219, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 31/07/2022 9:55:47 CET [31/07/2022 3:55:47 ET]
+Table '3449279219 1' 4-max Siège #2 est au bouton.
+Place 1: mirochnic (3005 en jetons) 
+Place 2: psychoman59 (12980 en jetons) 
+Place 3: colorstrap (4015 en jetons) 
+mirochnic : met l'ante. 15
+psychoman59 : met l'ante. 15
+colorstrap : met l'ante. 15
+colorstrap : met la petite blind. 60
+mirochnic : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 4d]
+psychoman59 : suit. 120
+colorstrap : relance. 120 à 240
+mirochnic : relance. 645 à 885
+psychoman59 : passe. 
+colorstrap : suit. 645
+*** FLOP *** [Ts 7s 6d]
+colorstrap : mise. 3115 et est all-in.
+mirochnic : suit. 2105 et est all-in.
+Personne n'a suivi. (1010) sont retournés à colorstrap.
+*** TOURNANT *** [Ts 7s 6d] [Td]
+*** RIVIÈRE *** [Ts 7s 6d Td] [Ks]
+*** ABATTAGE ***
+colorstrap : montre [Tc Kh] (un full, full aux Dix par les Rois)
+mirochnic : montre [5d Ad] (une paire de Dix)
+colorstrap a remporté 6145  lors du pot .
+mirochnic a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 6145 | Commission 0 
+Tableau [Ts 7s 6d Td Ks]
+Siège 1 : mirochnic (grosse blind) a montré [5d Ad] et a perdu avec une paire de Dix
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 3 : colorstrap (petite blind) a montré [Tc Kh] et a gagné (6145) avec un full, full aux Dix par les Rois
+
+
+
+Main PokerStars n°237695517737 : Tournoi #3449279219, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 31/07/2022 9:56:36 CET [31/07/2022 3:56:36 ET]
+Table '3449279219 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (12845 en jetons) 
+Place 3: colorstrap (7155 en jetons) 
+psychoman59 : met l'ante. 15
+colorstrap : met l'ante. 15
+colorstrap : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 5s]
+colorstrap : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (150)
+Siège 3 : colorstrap (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237695519696 : Tournoi #3449279219, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 31/07/2022 9:56:53 CET [31/07/2022 3:56:53 ET]
+Table '3449279219 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (12920 en jetons) 
+Place 3: colorstrap (7080 en jetons) 
+psychoman59 : met l'ante. 15
+colorstrap : met l'ante. 15
+psychoman59 : met la petite blind. 60
+colorstrap : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 8c]
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à colorstrap.
+colorstrap a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : colorstrap (grosse blind) a remporté (150)
+
+
+
+Main PokerStars n°237695520771 : Tournoi #3449279219, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 31/07/2022 9:57:02 CET [31/07/2022 3:57:02 ET]
+Table '3449279219 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (12845 en jetons) 
+Place 3: colorstrap (7155 en jetons) 
+psychoman59 : met l'ante. 15
+colorstrap : met l'ante. 15
+colorstrap : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 8h]
+colorstrap : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (150)
+Siège 3 : colorstrap (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237695522541 : Tournoi #3449279219, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 31/07/2022 9:57:17 CET [31/07/2022 3:57:17 ET]
+Table '3449279219 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (12920 en jetons) 
+Place 3: colorstrap (7080 en jetons) 
+psychoman59 : met l'ante. 15
+colorstrap : met l'ante. 15
+psychoman59 : met la petite blind. 60
+colorstrap : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 3h]
+psychoman59 : relance. 12785 à 12905 et est all-in.
+colorstrap : passe. 
+Personne n'a suivi. (12785) sont retournés à psychoman59.
+psychoman59 a remporté 270  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (270)
+Siège 3 : colorstrap (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237695524839 : Tournoi #3449279219, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 31/07/2022 9:57:36 CET [31/07/2022 3:57:36 ET]
+Table '3449279219 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (13055 en jetons) 
+Place 3: colorstrap (6945 en jetons) 
+psychoman59 : met l'ante. 15
+colorstrap : met l'ante. 15
+colorstrap : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 9s]
+colorstrap : relance. 480 à 600
+psychoman59 : passe. 
+Personne n'a suivi. (480) sont retournés à colorstrap.
+colorstrap a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : colorstrap (bouton) (petite blind) a remporté (270)
+
+
+
+Main PokerStars n°237695527752 : Tournoi #3449279219, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 31/07/2022 9:58:01 CET [31/07/2022 3:58:01 ET]
+Table '3449279219 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (12920 en jetons) 
+Place 3: colorstrap (7080 en jetons) 
+psychoman59 : met l'ante. 20
+colorstrap : met l'ante. 20
+psychoman59 : met la petite blind. 75
+colorstrap : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à colorstrap.
+colorstrap a remporté 190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : colorstrap (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°237695530222 : Tournoi #3449279219, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 31/07/2022 9:58:21 CET [31/07/2022 3:58:21 ET]
+Table '3449279219 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (12825 en jetons) 
+Place 3: colorstrap (7175 en jetons) 
+psychoman59 : met l'ante. 20
+colorstrap : met l'ante. 20
+colorstrap : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 9s]
+colorstrap : relance. 150 à 300
+psychoman59 : suit. 150
+*** FLOP *** [Kd 4s Td]
+psychoman59 : parole 
+colorstrap : mise. 150
+psychoman59 : suit. 150
+*** TOURNANT *** [Kd 4s Td] [8h]
+psychoman59 : parole 
+colorstrap : mise. 450
+psychoman59 : passe. 
+Personne n'a suivi. (450) sont retournés à colorstrap.
+colorstrap a remporté 940  lors du pot .
+*** SYNTHÈSE ***
+Pot total 940 | Commission 0 
+Tableau [Kd 4s Td 8h]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : colorstrap (bouton) (petite blind) a remporté (940)
+
+
+
+Main PokerStars n°237695534768 : Tournoi #3449279219, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 31/07/2022 9:59:00 CET [31/07/2022 3:59:00 ET]
+Table '3449279219 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (12355 en jetons) 
+Place 3: colorstrap (7645 en jetons) 
+psychoman59 : met l'ante. 20
+colorstrap : met l'ante. 20
+psychoman59 : met la petite blind. 75
+colorstrap : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Kh]
+psychoman59 : relance. 340 à 490
+colorstrap : suit. 340
+*** FLOP *** [6h 5d 7h]
+colorstrap : mise. 150
+psychoman59 : relance. 660 à 810
+colorstrap : suit. 660
+*** TOURNANT *** [6h 5d 7h] [9d]
+colorstrap : mise. 6325 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (6325) sont retournés à colorstrap.
+colorstrap a remporté 2640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2640 | Commission 0 
+Tableau [6h 5d 7h 9d]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : colorstrap (grosse blind) a remporté (2640)
+
+
+
+Main PokerStars n°237695540873 : Tournoi #3449279219, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 31/07/2022 9:59:51 CET [31/07/2022 3:59:51 ET]
+Table '3449279219 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (11035 en jetons) 
+Place 3: colorstrap (8965 en jetons) 
+psychoman59 : met l'ante. 20
+colorstrap : met l'ante. 20
+colorstrap : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 5d]
+colorstrap : relance. 150 à 300
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à colorstrap.
+colorstrap a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : colorstrap (bouton) (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°237695542279 : Tournoi #3449279219, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 31/07/2022 10:00:03 CET [31/07/2022 4:00:03 ET]
+Table '3449279219 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (10865 en jetons) 
+Place 3: colorstrap (9135 en jetons) 
+psychoman59 : met l'ante. 20
+colorstrap : met l'ante. 20
+psychoman59 : met la petite blind. 75
+colorstrap : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à colorstrap.
+colorstrap a remporté 190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : colorstrap (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°237695543248 : Tournoi #3449279219, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 31/07/2022 10:00:12 CET [31/07/2022 4:00:12 ET]
+Table '3449279219 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (10770 en jetons) 
+Place 3: colorstrap (9230 en jetons) 
+psychoman59 : met l'ante. 20
+colorstrap : met l'ante. 20
+colorstrap : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Qc]
+colorstrap : relance. 150 à 300
+psychoman59 : relance. 10450 à 10750 et est all-in.
+colorstrap : suit. 8910 et est all-in.
+Personne n'a suivi. (1540) sont retournés à psychoman59.
+*** FLOP *** [Qs 5s 4s]
+*** TOURNANT *** [Qs 5s 4s] [Jh]
+*** RIVIÈRE *** [Qs 5s 4s Jh] [Th]
+*** ABATTAGE ***
+psychoman59 : montre [Kd Qc] (une paire de Dames)
+colorstrap : montre [6h 6d] (une paire de Six)
+psychoman59 a remporté 18460  lors du pot .
+colorstrap a fini le tournoi à la 2e place et a reçu 0.34 €.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " €1.50 PSPC Mega Path Ticket "
+*** SYNTHÈSE ***
+Pot total 18460 | Commission 0 
+Tableau [Qs 5s 4s Jh Th]
+Siège 2 : psychoman59 (grosse blind) a montré [Kd Qc] et a gagné (18460) avec une paire de Dames
+Siège 3 : colorstrap (bouton) (petite blind) a montré [6h 6d] et a perdu avec une paire de Six
+
+
+

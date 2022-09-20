@@ -1,0 +1,38 @@
+﻿Main PokerStars n°237885732672 : Tournoi #3453780217, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 09/08/2022 17:10:47 CET [09/08/2022 11:10:47 ET]
+Table '3453780217 1' 4-max Siège #1 est au bouton.
+Place 1: ultraolive75 (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: file1984 (5000 en jetons) 
+Place 4: persitrinidad (5000 en jetons) 
+ultraolive75 : met l'ante. 10
+psychoman59 : met l'ante. 10
+file1984 : met l'ante. 10
+persitrinidad : met l'ante. 10
+psychoman59 : met la petite blind. 50
+file1984 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 5s]
+persitrinidad est déconnecté 
+persitrinidad a dépassé le temps imparti. pendant qu'il était déconnecté
+persitrinidad : passe. 
+ultraolive75 : passe. 
+psychoman59 : relance. 4890 à 4990 et est all-in.
+file1984 : suit. 4890 et est all-in.
+*** FLOP *** [Ts 9s Th]
+*** TOURNANT *** [Ts 9s Th] [Ks]
+*** RIVIÈRE *** [Ts 9s Th Ks] [Qc]
+*** ABATTAGE ***
+psychoman59 : montre [5d 5s] (double paire, Dix et Cinq)
+file1984 : montre [Jh Jd] (une suite, Neuf à Roi)
+file1984 a remporté 10020  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10020 | Commission 0 
+Tableau [Ts 9s Th Ks Qc]
+Siège 1 : ultraolive75 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [5d 5s] et a perdu avec double paire, Dix et Cinq
+Siège 3 : file1984 (grosse blind) a montré [Jh Jd] et a gagné (10020) avec une suite, Neuf à Roi
+Siège 4 : persitrinidad s'est couché. avant Flop (n'a pas misé)
+
+
+

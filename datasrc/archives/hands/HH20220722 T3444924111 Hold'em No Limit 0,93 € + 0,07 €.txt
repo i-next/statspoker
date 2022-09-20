@@ -1,0 +1,192 @@
+﻿Main PokerStars n°237507956872 : Tournoi #3444924111, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 8:05:08 CET [22/07/2022 2:05:08 ET]
+Table '3444924111 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: lokoooo580 (300 en jetons) 
+Place 3: ElCharlyto (300 en jetons) 
+lokoooo580 : met la petite blind. 10
+ElCharlyto : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Kd]
+psychoman59 : suit. 20
+lokoooo580 : suit. 10
+ElCharlyto : parole 
+*** FLOP *** [2h 9s 6c]
+lokoooo580 : parole 
+ElCharlyto : parole 
+psychoman59 : mise. 60
+lokoooo580 : passe. 
+ElCharlyto : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2h 9s 6c]
+Siège 1 : psychoman59 (bouton) a remporté (60)
+Siège 2 : lokoooo580 (petite blind) s'est couché. sur le Flop
+Siège 3 : ElCharlyto (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237507959434 : Tournoi #3444924111, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 8:05:32 CET [22/07/2022 2:05:32 ET]
+Table '3444924111 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: lokoooo580 (280 en jetons) 
+Place 3: ElCharlyto (280 en jetons) 
+ElCharlyto : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 7c]
+lokoooo580 : suit. 20
+ElCharlyto : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qs 9d 9h]
+ElCharlyto : parole 
+psychoman59 : parole 
+lokoooo580 : parole 
+*** TOURNANT *** [Qs 9d 9h] [6d]
+ElCharlyto : parole 
+psychoman59 : parole 
+lokoooo580 : parole 
+*** RIVIÈRE *** [Qs 9d 9h 6d] [As]
+ElCharlyto : mise. 260 et est all-in.
+psychoman59 : passe. 
+lokoooo580 : suit. 260 et est all-in.
+*** ABATTAGE ***
+ElCharlyto : montre [Ad Kh] (double paire, As et Neuf)
+lokoooo580 : montre [Qd Ac] (double paire, As et Dames)
+lokoooo580 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [Qs 9d 9h 6d As]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : lokoooo580 (bouton) a montré [Qd Ac] et a gagné (580) avec double paire, As et Dames
+Siège 3 : ElCharlyto (petite blind) a montré [Ad Kh] et a perdu avec double paire, As et Neuf
+
+
+
+Main PokerStars n°237507962698 : Tournoi #3444924111, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 8:06:02 CET [22/07/2022 2:06:02 ET]
+Table '3444924111 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: lokoooo580 (580 en jetons) 
+psychoman59 : met la petite blind. 10
+lokoooo580 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Jh]
+psychoman59 : suit. 10
+lokoooo580 : parole 
+*** FLOP *** [Td 7s 7d]
+lokoooo580 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Td 7s 7d] [8c]
+lokoooo580 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Td 7s 7d 8c] [5d]
+lokoooo580 : mise. 200
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à lokoooo580.
+lokoooo580 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Td 7s 7d 8c 5d]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 2 : lokoooo580 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237507964844 : Tournoi #3444924111, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/07/2022 8:06:23 CET [22/07/2022 2:06:23 ET]
+Table '3444924111 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: lokoooo580 (600 en jetons) 
+lokoooo580 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 3s]
+lokoooo580 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qc 6s 5d]
+psychoman59 : parole 
+lokoooo580 : parole 
+*** TOURNANT *** [Qc 6s 5d] [2d]
+psychoman59 : parole 
+lokoooo580 : parole 
+*** RIVIÈRE *** [Qc 6s 5d 2d] [9s]
+psychoman59 : parole 
+lokoooo580 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5s 3s] (une paire de Cinq)
+lokoooo580 : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qc 6s 5d 2d 9s]
+Siège 1 : psychoman59 (grosse blind) a montré [5s 3s] et a gagné (60) avec une paire de Cinq
+Siège 2 : lokoooo580 (bouton) (petite blind) a caché la main perdante. [Tc 3c]
+
+
+
+Main PokerStars n°237507966397 : Tournoi #3444924111, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/07/2022 8:06:38 CET [22/07/2022 2:06:38 ET]
+Table '3444924111 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: lokoooo580 (570 en jetons) 
+psychoman59 : met la petite blind. 15
+lokoooo580 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Jd]
+psychoman59 : relance. 60 à 90
+lokoooo580 : suit. 60
+*** FLOP *** [Td 6c Js]
+lokoooo580 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Td 6c Js] [Ks]
+lokoooo580 : parole 
+psychoman59 : mise. 30
+lokoooo580 : suit. 30
+*** RIVIÈRE *** [Td 6c Js Ks] [9c]
+lokoooo580 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+lokoooo580 : montre [2h 6h] (une paire de Six)
+psychoman59 : montre [Jh Jd] (un brelan de Valets)
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Td 6c Js Ks 9c]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Jh Jd] et a gagné (240) avec un brelan de Valets
+Siège 2 : lokoooo580 (grosse blind) a montré [2h 6h] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°237507968148 : Tournoi #3444924111, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/07/2022 8:06:55 CET [22/07/2022 2:06:55 ET]
+Table '3444924111 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 2: lokoooo580 (450 en jetons) 
+lokoooo580 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Ks]
+lokoooo580 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9h 2c Kd]
+psychoman59 : parole 
+lokoooo580 : parole 
+*** TOURNANT *** [9h 2c Kd] [4s]
+psychoman59 : parole 
+lokoooo580 : parole 
+*** RIVIÈRE *** [9h 2c Kd 4s] [Jc]
+psychoman59 : mise. 90
+lokoooo580 : relance. 90 à 180
+psychoman59 : relance. 240 à 420 et est all-in.
+lokoooo580 : suit. 240 et est all-in.
+*** ABATTAGE ***
+psychoman59 : montre [4h Ks] (double paire, Rois et Quatre)
+lokoooo580 : montre [Kc 3h] (une paire de Rois)
+psychoman59 a remporté 900  lors du pot .
+lokoooo580 a fini le tournoi en 2e position.
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [9h 2c Kd 4s Jc]
+Siège 1 : psychoman59 (grosse blind) a montré [4h Ks] et a gagné (900) avec double paire, Rois et Quatre
+Siège 2 : lokoooo580 (bouton) (petite blind) a montré [Kc 3h] et a perdu avec une paire de Rois
+
+
+

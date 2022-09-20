@@ -1,0 +1,106 @@
+﻿Main PokerStars n°237229301417 : Tournoi #3438416349, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 9:12:44 CET [08/07/2022 3:12:44 ET]
+Table '3438416349 1' 3-max Siège #1 est au bouton.
+Place 1: MisterPNB (300 en jetons) 
+Place 2: Skyzer271 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Skyzer271 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 5c]
+MisterPNB : relance. 20 à 40
+Skyzer271 : suit. 30
+psychoman59 : suit. 20
+*** FLOP *** [4c Kd 4d]
+Skyzer271 : mise. 260 et est all-in.
+psychoman59 : passe. 
+MisterPNB : suit. 260 et est all-in.
+*** TOURNANT *** [4c Kd 4d] [8h]
+*** RIVIÈRE *** [4c Kd 4d 8h] [3c]
+*** ABATTAGE ***
+Skyzer271 : montre [7s Ah] (une paire de Quatre)
+MisterPNB : montre [5h 5d] (double paire, Cinq et Quatre)
+MisterPNB a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [4c Kd 4d 8h 3c]
+Siège 1 : MisterPNB (bouton) a montré [5h 5d] et a gagné (640) avec double paire, Cinq et Quatre
+Siège 2 : Skyzer271 (petite blind) a montré [7s Ah] et a perdu avec une paire de Quatre
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237229304356 : Tournoi #3438416349, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 9:13:11 CET [08/07/2022 3:13:11 ET]
+Table '3438416349 1' 3-max Siège #3 est au bouton.
+Place 1: MisterPNB (640 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+psychoman59 : met la petite blind. 10
+MisterPNB : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 3h]
+psychoman59 : relance. 240 à 260 et est all-in.
+MisterPNB : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : MisterPNB (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°237229305474 : Tournoi #3438416349, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 9:13:20 CET [08/07/2022 3:13:20 ET]
+Table '3438416349 1' 3-max Siège #1 est au bouton.
+Place 1: MisterPNB (620 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+MisterPNB : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ac]
+MisterPNB : relance. 20 à 40
+psychoman59 : relance. 240 à 280 et est all-in.
+MisterPNB : suit. 240
+*** FLOP *** [8h 2d 4d]
+*** TOURNANT *** [8h 2d 4d] [3c]
+*** RIVIÈRE *** [8h 2d 4d 3c] [6s]
+*** ABATTAGE ***
+psychoman59 : montre [8c Ac] (une paire de Huit)
+MisterPNB : montre [9s 7d] (Hauteur Neuf)
+psychoman59 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [8h 2d 4d 3c 6s]
+Siège 1 : MisterPNB (bouton) (petite blind) a montré [9s 7d] et a perdu avec Hauteur Neuf
+Siège 3 : psychoman59 (grosse blind) a montré [8c Ac] et a gagné (560) avec une paire de Huit
+
+
+
+Main PokerStars n°237229307090 : Tournoi #3438416349, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 9:13:34 CET [08/07/2022 3:13:34 ET]
+Table '3438416349 1' 3-max Siège #3 est au bouton.
+Place 1: MisterPNB (340 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+psychoman59 : met la petite blind. 10
+MisterPNB : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Qs]
+psychoman59 : relance. 40 à 60
+MisterPNB : relance. 40 à 100
+psychoman59 : suit. 40
+*** FLOP *** [Qd 9c Th]
+MisterPNB : mise. 20
+psychoman59 : relance. 240 à 260
+MisterPNB : suit. 220 et est all-in.
+Personne n'a suivi. (20) sont retournés à psychoman59.
+*** TOURNANT *** [Qd 9c Th] [9d]
+*** RIVIÈRE *** [Qd 9c Th 9d] [6h]
+*** ABATTAGE ***
+MisterPNB : montre [8c Qh] (double paire, Dames et Neuf)
+psychoman59 : montre [Js Qs] (double paire, Dames et Neuf - Valet kicker)
+psychoman59 a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [Qd 9c Th 9d 6h]
+Siège 1 : MisterPNB (grosse blind) a montré [8c Qh] et a perdu avec double paire, Dames et Neuf
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Js Qs] et a gagné (680) avec double paire, Dames et Neuf
+
+
+

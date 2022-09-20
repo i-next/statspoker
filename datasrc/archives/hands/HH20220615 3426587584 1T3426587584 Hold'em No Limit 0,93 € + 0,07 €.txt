@@ -1,0 +1,623 @@
+﻿Main PokerStars n°236773120166 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2022 16:40:55 CET [15/06/2022 10:40:55 ET]
+Table '3426587584 1' 3-max Siège #1 est au bouton.
+Place 1: Monik2mil (300 en jetons) 
+Place 2: arnaud3paV (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+arnaud3paV : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 6s]
+Monik2mil : passe. 
+arnaud3paV : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Monik2mil (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : arnaud3paV (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°236773122119 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2022 16:41:05 CET [15/06/2022 10:41:05 ET]
+Table '3426587584 1' 3-max Siège #2 est au bouton.
+Place 1: Monik2mil (300 en jetons) 
+Place 2: arnaud3paV (290 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 10
+Monik2mil : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 2s]
+arnaud3paV : relance. 40 à 60
+psychoman59 : passe. 
+Monik2mil : relance. 240 à 300 et est all-in.
+arnaud3paV : passe. 
+Personne n'a suivi. (240) sont retournés à Monik2mil.
+Monik2mil a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Siège 1 : Monik2mil (grosse blind) a remporté (130)
+Siège 2 : arnaud3paV (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773124136 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2022 16:41:15 CET [15/06/2022 10:41:15 ET]
+Table '3426587584 1' 3-max Siège #3 est au bouton.
+Place 1: Monik2mil (370 en jetons) 
+Place 2: arnaud3paV (230 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Monik2mil : met la petite blind. 10
+arnaud3paV : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ts]
+psychoman59 : passe. 
+Monik2mil : relance. 350 à 370 et est all-in.
+arnaud3paV : suit. 210 et est all-in.
+Personne n'a suivi. (140) sont retournés à Monik2mil.
+*** FLOP *** [4s Qh 9c]
+*** TOURNANT *** [4s Qh 9c] [Th]
+*** RIVIÈRE *** [4s Qh 9c Th] [6h]
+*** ABATTAGE ***
+Monik2mil : montre [8h Ad] (Hauteur As)
+arnaud3paV : montre [Kd Qs] (une paire de Dames)
+arnaud3paV a remporté 460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [4s Qh 9c Th 6h]
+Siège 1 : Monik2mil (petite blind) a montré [8h Ad] et a perdu avec Hauteur As
+Siège 2 : arnaud3paV (grosse blind) a montré [Kd Qs] et a gagné (460) avec une paire de Dames
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°236773127291 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2022 16:41:30 CET [15/06/2022 10:41:30 ET]
+Table '3426587584 1' 3-max Siège #1 est au bouton.
+Place 1: Monik2mil (140 en jetons) 
+Place 2: arnaud3paV (460 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+arnaud3paV : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 6h]
+Monik2mil : passe. 
+arnaud3paV : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [9d Jd 8s]
+arnaud3paV : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [9d Jd 8s] [4c]
+arnaud3paV : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [9d Jd 8s 4c] [Jc]
+arnaud3paV : parole 
+psychoman59 : mise. 200 et est all-in.
+arnaud3paV : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [9d Jd 8s 4c Jc]
+Siège 1 : Monik2mil (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : arnaud3paV (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (200)
+
+
+
+Main PokerStars n°236773133130 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2022 16:41:59 CET [15/06/2022 10:41:59 ET]
+Table '3426587584 1' 3-max Siège #2 est au bouton.
+Place 1: Monik2mil (140 en jetons) 
+Place 2: arnaud3paV (360 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+psychoman59 : met la petite blind. 15
+Monik2mil : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 8h]
+arnaud3paV : passe. 
+psychoman59 : relance. 60 à 90
+Monik2mil : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Monik2mil (grosse blind) s'est couché. avant Flop
+Siège 2 : arnaud3paV (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°236773135224 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2022 16:42:10 CET [15/06/2022 10:42:10 ET]
+Table '3426587584 1' 3-max Siège #3 est au bouton.
+Place 1: Monik2mil (110 en jetons) 
+Place 2: arnaud3paV (360 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+Monik2mil : met la petite blind. 15
+arnaud3paV : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 9h]
+psychoman59 : passe. 
+Monik2mil : relance. 80 à 110 et est all-in.
+arnaud3paV : suit. 80
+*** FLOP *** [6s 2h 7d]
+*** TOURNANT *** [6s 2h 7d] [2s]
+*** RIVIÈRE *** [6s 2h 7d 2s] [Qd]
+*** ABATTAGE ***
+Monik2mil : montre [Qs 5c] (double paire, Dames et Deux)
+arnaud3paV : montre [Ks Ad] (une paire de Deux)
+Monik2mil a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [6s 2h 7d 2s Qd]
+Siège 1 : Monik2mil (petite blind) a montré [Qs 5c] et a gagné (220) avec double paire, Dames et Deux
+Siège 2 : arnaud3paV (grosse blind) a montré [Ks Ad] et a perdu avec une paire de Deux
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°236773137999 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2022 16:42:23 CET [15/06/2022 10:42:23 ET]
+Table '3426587584 1' 3-max Siège #1 est au bouton.
+Place 1: Monik2mil (220 en jetons) 
+Place 2: arnaud3paV (250 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+arnaud3paV : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 5s]
+Monik2mil : passe. 
+arnaud3paV : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Monik2mil (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : arnaud3paV (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°236773138924 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2022 16:42:28 CET [15/06/2022 10:42:28 ET]
+Table '3426587584 1' 3-max Siège #2 est au bouton.
+Place 1: Monik2mil (220 en jetons) 
+Place 2: arnaud3paV (235 en jetons) 
+Place 3: psychoman59 (445 en jetons) 
+psychoman59 : met la petite blind. 15
+Monik2mil : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Qh]
+arnaud3paV : relance. 30 à 60
+psychoman59 : relance. 385 à 445 et est all-in.
+Monik2mil : passe. 
+arnaud3paV : passe. 
+Personne n'a suivi. (385) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : Monik2mil (grosse blind) s'est couché. avant Flop
+Siège 2 : arnaud3paV (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) a remporté (150)
+
+
+
+Main PokerStars n°236773142100 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2022 16:42:43 CET [15/06/2022 10:42:43 ET]
+Table '3426587584 1' 3-max Siège #3 est au bouton.
+Place 1: Monik2mil (190 en jetons) 
+Place 2: arnaud3paV (175 en jetons) 
+Place 3: psychoman59 (535 en jetons) 
+Monik2mil : met la petite blind. 15
+arnaud3paV : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Jh]
+psychoman59 : passe. 
+Monik2mil : passe. 
+Personne n'a suivi. (15) sont retournés à arnaud3paV.
+arnaud3paV a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Monik2mil (petite blind) s'est couché. avant Flop
+Siège 2 : arnaud3paV (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°236773143435 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2022 16:42:49 CET [15/06/2022 10:42:49 ET]
+Table '3426587584 1' 3-max Siège #1 est au bouton.
+Place 1: Monik2mil (175 en jetons) 
+Place 2: arnaud3paV (190 en jetons) 
+Place 3: psychoman59 (535 en jetons) 
+arnaud3paV : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 2h]
+Monik2mil : relance. 145 à 175 et est all-in.
+arnaud3paV : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (145) sont retournés à Monik2mil.
+Monik2mil a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : Monik2mil (bouton) a remporté (75)
+Siège 2 : arnaud3paV (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773145881 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 16:43:01 CET [15/06/2022 10:43:01 ET]
+Table '3426587584 1' 3-max Siège #2 est au bouton.
+Place 1: Monik2mil (220 en jetons) 
+Place 2: arnaud3paV (175 en jetons) 
+Place 3: psychoman59 (505 en jetons) 
+psychoman59 : met la petite blind. 20
+Monik2mil : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 9d]
+arnaud3paV : passe. 
+psychoman59 : relance. 80 à 120
+Monik2mil : relance. 100 à 220 et est all-in.
+psychoman59 : suit. 100
+*** FLOP *** [4h 9s Qh]
+*** TOURNANT *** [4h 9s Qh] [2h]
+*** RIVIÈRE *** [4h 9s Qh 2h] [Qd]
+*** ABATTAGE ***
+psychoman59 : montre [Ks 9d] (double paire, Dames et Neuf)
+Monik2mil : montre [Th As] (une paire de Dames)
+psychoman59 a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [4h 9s Qh 2h Qd]
+Siège 1 : Monik2mil (grosse blind) a montré [Th As] et a perdu avec une paire de Dames
+Siège 2 : arnaud3paV (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Ks 9d] et a gagné (440) avec double paire, Dames et Neuf
+
+
+
+Main PokerStars n°236773150177 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 16:43:21 CET [15/06/2022 10:43:21 ET]
+Table '3426587584 1' 3-max Siège #3 est au bouton.
+Place 2: arnaud3paV (175 en jetons) 
+Place 3: psychoman59 (725 en jetons) 
+psychoman59 : met la petite blind. 20
+arnaud3paV : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Kc]
+psychoman59 : relance. 80 à 120
+arnaud3paV : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : arnaud3paV (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°236773151667 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 16:43:29 CET [15/06/2022 10:43:29 ET]
+Table '3426587584 1' 3-max Siège #2 est au bouton.
+Place 2: arnaud3paV (135 en jetons) 
+Place 3: psychoman59 (765 en jetons) 
+arnaud3paV : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 5c]
+arnaud3paV : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : arnaud3paV (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°236773152549 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 16:43:33 CET [15/06/2022 10:43:33 ET]
+Table '3426587584 1' 3-max Siège #3 est au bouton.
+Place 2: arnaud3paV (115 en jetons) 
+Place 3: psychoman59 (785 en jetons) 
+psychoman59 : met la petite blind. 20
+arnaud3paV : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à arnaud3paV.
+arnaud3paV a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : arnaud3paV (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773153469 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 16:43:37 CET [15/06/2022 10:43:37 ET]
+Table '3426587584 1' 3-max Siège #2 est au bouton.
+Place 2: arnaud3paV (135 en jetons) 
+Place 3: psychoman59 (765 en jetons) 
+arnaud3paV : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Js]
+arnaud3paV : relance. 95 à 135 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (95) sont retournés à arnaud3paV.
+arnaud3paV a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : arnaud3paV (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773155059 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 16:43:45 CET [15/06/2022 10:43:45 ET]
+Table '3426587584 1' 3-max Siège #3 est au bouton.
+Place 2: arnaud3paV (175 en jetons) 
+Place 3: psychoman59 (725 en jetons) 
+psychoman59 : met la petite blind. 20
+arnaud3paV : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à arnaud3paV.
+arnaud3paV a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : arnaud3paV (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773156218 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 16:43:50 CET [15/06/2022 10:43:50 ET]
+Table '3426587584 1' 3-max Siège #2 est au bouton.
+Place 2: arnaud3paV (195 en jetons) 
+Place 3: psychoman59 (705 en jetons) 
+arnaud3paV : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 6d]
+arnaud3paV : relance. 155 à 195 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (155) sont retournés à arnaud3paV.
+arnaud3paV a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : arnaud3paV (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773158392 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 16:44:00 CET [15/06/2022 10:44:00 ET]
+Table '3426587584 1' 3-max Siège #3 est au bouton.
+Place 2: arnaud3paV (235 en jetons) 
+Place 3: psychoman59 (665 en jetons) 
+psychoman59 : met la petite blind. 30
+arnaud3paV : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à arnaud3paV.
+arnaud3paV a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : arnaud3paV (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773159361 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 16:44:04 CET [15/06/2022 10:44:04 ET]
+Table '3426587584 1' 3-max Siège #2 est au bouton.
+Place 2: arnaud3paV (265 en jetons) 
+Place 3: psychoman59 (635 en jetons) 
+arnaud3paV : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 9c]
+arnaud3paV : relance. 205 à 265 et est all-in.
+psychoman59 : suit. 205
+*** FLOP *** [6s 5c Jc]
+*** TOURNANT *** [6s 5c Jc] [2c]
+*** RIVIÈRE *** [6s 5c Jc 2c] [3d]
+*** ABATTAGE ***
+psychoman59 : montre [Ks 9c] (Hauteur Roi)
+arnaud3paV : montre [Js Kc] (une paire de Valets)
+arnaud3paV a remporté 530  lors du pot .
+*** SYNTHÈSE ***
+Pot total 530 | Commission 0 
+Tableau [6s 5c Jc 2c 3d]
+Siège 2 : arnaud3paV (bouton) (petite blind) a montré [Js Kc] et a gagné (530) avec une paire de Valets
+Siège 3 : psychoman59 (grosse blind) a montré [Ks 9c] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°236773162090 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 16:44:17 CET [15/06/2022 10:44:17 ET]
+Table '3426587584 1' 3-max Siège #3 est au bouton.
+Place 2: arnaud3paV (530 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+psychoman59 : met la petite blind. 30
+arnaud3paV : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à arnaud3paV.
+arnaud3paV a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : arnaud3paV (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773162955 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 16:44:22 CET [15/06/2022 10:44:22 ET]
+Table '3426587584 1' 3-max Siège #2 est au bouton.
+Place 2: arnaud3paV (560 en jetons) 
+Place 3: psychoman59 (340 en jetons) 
+arnaud3paV : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 3c]
+arnaud3paV : relance. 60 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à arnaud3paV.
+arnaud3paV a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : arnaud3paV (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773164817 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 16:44:30 CET [15/06/2022 10:44:30 ET]
+Table '3426587584 1' 3-max Siège #3 est au bouton.
+Place 2: arnaud3paV (620 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 30
+arnaud3paV : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à arnaud3paV.
+arnaud3paV a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : arnaud3paV (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773165767 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 16:44:34 CET [15/06/2022 10:44:34 ET]
+Table '3426587584 1' 3-max Siège #2 est au bouton.
+Place 2: arnaud3paV (650 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+arnaud3paV : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 3d]
+arnaud3paV : relance. 60 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à arnaud3paV.
+arnaud3paV a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : arnaud3paV (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773167124 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 16:44:41 CET [15/06/2022 10:44:41 ET]
+Table '3426587584 1' 3-max Siège #3 est au bouton.
+Place 2: arnaud3paV (710 en jetons) 
+Place 3: psychoman59 (190 en jetons) 
+psychoman59 : met la petite blind. 30
+arnaud3paV : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Ad]
+psychoman59 : relance. 130 à 190 et est all-in.
+arnaud3paV : suit. 130
+*** FLOP *** [6d 6h 2s]
+*** TOURNANT *** [6d 6h 2s] [7h]
+*** RIVIÈRE *** [6d 6h 2s 7h] [5c]
+*** ABATTAGE ***
+arnaud3paV : montre [8h Ac] (une paire de Six)
+psychoman59 : montre [Td Ad] (une paire de Six - As+Dix kicker)
+psychoman59 a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [6d 6h 2s 7h 5c]
+Siège 2 : arnaud3paV (grosse blind) a montré [8h Ac] et a perdu avec une paire de Six
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Td Ad] et a gagné (380) avec une paire de Six
+
+
+
+Main PokerStars n°236773169579 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 16:44:53 CET [15/06/2022 10:44:53 ET]
+Table '3426587584 1' 3-max Siège #2 est au bouton.
+Place 2: arnaud3paV (520 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+arnaud3paV : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Qs]
+arnaud3paV : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : arnaud3paV (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°236773171198 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 15/06/2022 16:45:00 CET [15/06/2022 10:45:00 ET]
+Table '3426587584 1' 3-max Siège #3 est au bouton.
+Place 2: arnaud3paV (490 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+psychoman59 : met la petite blind. 40
+arnaud3paV : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à arnaud3paV.
+arnaud3paV a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : arnaud3paV (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773172322 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 15/06/2022 16:45:05 CET [15/06/2022 10:45:05 ET]
+Table '3426587584 1' 3-max Siège #2 est au bouton.
+Place 2: arnaud3paV (530 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+arnaud3paV : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 3d]
+arnaud3paV : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : arnaud3paV (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°236773173221 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 15/06/2022 16:45:09 CET [15/06/2022 10:45:09 ET]
+Table '3426587584 1' 3-max Siège #3 est au bouton.
+Place 2: arnaud3paV (490 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+psychoman59 : met la petite blind. 40
+arnaud3paV : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 3d]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à arnaud3paV.
+arnaud3paV a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : arnaud3paV (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773174173 : Tournoi #3426587584, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 15/06/2022 16:45:14 CET [15/06/2022 10:45:14 ET]
+Table '3426587584 1' 3-max Siège #2 est au bouton.
+Place 2: arnaud3paV (530 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+arnaud3paV : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 6c]
+arnaud3paV : relance. 80 à 160
+psychoman59 : relance. 210 à 370 et est all-in.
+arnaud3paV : suit. 210
+*** FLOP *** [As Ac 2h]
+*** TOURNANT *** [As Ac 2h] [9d]
+*** RIVIÈRE *** [As Ac 2h 9d] [9h]
+*** ABATTAGE ***
+psychoman59 : montre [Kh 6c] (double paire, As et Neuf)
+arnaud3paV : montre [Ah 2d] (un full, full aux As par les Neuf)
+arnaud3paV a remporté 740  lors du pot .
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Tableau [As Ac 2h 9d 9h]
+Siège 2 : arnaud3paV (bouton) (petite blind) a montré [Ah 2d] et a gagné (740) avec un full, full aux As par les Neuf
+Siège 3 : psychoman59 (grosse blind) a montré [Kh 6c] et a perdu avec double paire, As et Neuf
+
+
+

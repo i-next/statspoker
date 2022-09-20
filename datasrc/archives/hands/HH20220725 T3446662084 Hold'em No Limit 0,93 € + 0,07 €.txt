@@ -1,0 +1,260 @@
+﻿Main PokerStars n°237584784513 : Tournoi #3446662084, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 22:48:22 CET [25/07/2022 16:48:22 ET]
+Table '3446662084 1' 3-max Siège #1 est au bouton.
+Place 1: shoupetta (300 en jetons) 
+Place 2: pupuce235 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+pupuce235 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Kc]
+shoupetta : relance. 20 à 40
+pupuce235 : suit. 30
+psychoman59 : relance. 260 à 300 et est all-in.
+shoupetta : suit. 260 et est all-in.
+pupuce235 : passe. 
+*** FLOP *** [6h Ac 5d]
+*** TOURNANT *** [6h Ac 5d] [3s]
+*** RIVIÈRE *** [6h Ac 5d 3s] [Tc]
+*** ABATTAGE ***
+psychoman59 : montre [Ks Kc] (une paire de Rois)
+shoupetta : montre [8d 9s] (Hauteur As)
+psychoman59 a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [6h Ac 5d 3s Tc]
+Siège 1 : shoupetta (bouton) a montré [8d 9s] et a perdu avec Hauteur As
+Siège 2 : pupuce235 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Ks Kc] et a gagné (640) avec une paire de Rois
+
+
+
+Main PokerStars n°237584795302 : Tournoi #3446662084, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 22:48:47 CET [25/07/2022 16:48:47 ET]
+Table '3446662084 1' 3-max Siège #3 est au bouton.
+Place 2: pupuce235 (260 en jetons) 
+Place 3: psychoman59 (640 en jetons) 
+psychoman59 : met la petite blind. 10
+pupuce235 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à pupuce235.
+pupuce235 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : pupuce235 (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237584797792 : Tournoi #3446662084, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 22:48:52 CET [25/07/2022 16:48:52 ET]
+Table '3446662084 1' 3-max Siège #2 est au bouton.
+Place 2: pupuce235 (270 en jetons) 
+Place 3: psychoman59 (630 en jetons) 
+pupuce235 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 6c]
+pupuce235 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Th Jc 8d]
+psychoman59 : parole 
+pupuce235 : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [Th Jc 8d] [4s]
+psychoman59 : parole 
+pupuce235 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à pupuce235.
+pupuce235 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Th Jc 8d 4s]
+Siège 2 : pupuce235 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237584809956 : Tournoi #3446662084, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 22:49:16 CET [25/07/2022 16:49:16 ET]
+Table '3446662084 1' 3-max Siège #3 est au bouton.
+Place 2: pupuce235 (330 en jetons) 
+Place 3: psychoman59 (570 en jetons) 
+psychoman59 : met la petite blind. 10
+pupuce235 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Ah]
+psychoman59 : relance. 40 à 60
+pupuce235 : relance. 120 à 180
+psychoman59 : relance. 160 à 340
+pupuce235 : suit. 150 et est all-in.
+Personne n'a suivi. (10) sont retournés à psychoman59.
+*** FLOP *** [Tc 5h Qd]
+*** TOURNANT *** [Tc 5h Qd] [As]
+*** RIVIÈRE *** [Tc 5h Qd As] [9s]
+*** ABATTAGE ***
+pupuce235 : montre [Qh Qs] (un brelan de Dames)
+psychoman59 : montre [Kh Ah] (une paire de As)
+pupuce235 a remporté 660  lors du pot .
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [Tc 5h Qd As 9s]
+Siège 2 : pupuce235 (grosse blind) a montré [Qh Qs] et a gagné (660) avec un brelan de Dames
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Kh Ah] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°237584825483 : Tournoi #3446662084, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 22:49:52 CET [25/07/2022 16:49:52 ET]
+Table '3446662084 1' 3-max Siège #2 est au bouton.
+Place 2: pupuce235 (660 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+pupuce235 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 8h]
+pupuce235 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : pupuce235 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237584828194 : Tournoi #3446662084, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 22:49:58 CET [25/07/2022 16:49:58 ET]
+Table '3446662084 1' 3-max Siège #3 est au bouton.
+Place 2: pupuce235 (645 en jetons) 
+Place 3: psychoman59 (255 en jetons) 
+psychoman59 : met la petite blind. 15
+pupuce235 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Ks]
+psychoman59 : relance. 225 à 255 et est all-in.
+pupuce235 : suit. 225
+*** FLOP *** [Jh 2h Ad]
+*** TOURNANT *** [Jh 2h Ad] [Kc]
+*** RIVIÈRE *** [Jh 2h Ad Kc] [4c]
+*** ABATTAGE ***
+pupuce235 : montre [Th Tc] (une paire de Dix)
+psychoman59 : montre [4h Ks] (double paire, Rois et Quatre)
+psychoman59 a remporté 510  lors du pot .
+*** SYNTHÈSE ***
+Pot total 510 | Commission 0 
+Tableau [Jh 2h Ad Kc 4c]
+Siège 2 : pupuce235 (grosse blind) a montré [Th Tc] et a perdu avec une paire de Dix
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [4h Ks] et a gagné (510) avec double paire, Rois et Quatre
+
+
+
+Main PokerStars n°237584835151 : Tournoi #3446662084, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 22:50:14 CET [25/07/2022 16:50:14 ET]
+Table '3446662084 1' 3-max Siège #2 est au bouton.
+Place 2: pupuce235 (390 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+pupuce235 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Td]
+pupuce235 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6c 4c Ks]
+psychoman59 : parole 
+pupuce235 : parole 
+*** TOURNANT *** [6c 4c Ks] [7h]
+psychoman59 : parole 
+pupuce235 : parole 
+*** RIVIÈRE *** [6c 4c Ks 7h] [9d]
+psychoman59 : parole 
+pupuce235 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qs Td] (Hauteur Roi)
+pupuce235 : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6c 4c Ks 7h 9d]
+Siège 2 : pupuce235 (bouton) (petite blind) a caché la main perdante. [3s Qh]
+Siège 3 : psychoman59 (grosse blind) a montré [Qs Td] et a gagné (60) avec Hauteur Roi
+
+
+
+Main PokerStars n°237584846913 : Tournoi #3446662084, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 25/07/2022 22:50:41 CET [25/07/2022 16:50:41 ET]
+Table '3446662084 1' 3-max Siège #3 est au bouton.
+Place 2: pupuce235 (360 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+psychoman59 : met la petite blind. 20
+pupuce235 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h As]
+psychoman59 : relance. 80 à 120
+pupuce235 : suit. 80
+*** FLOP *** [4s 8d Ks]
+pupuce235 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4s 8d Ks] [Ad]
+pupuce235 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4s 8d Ks Ad] [3c]
+pupuce235 : parole 
+psychoman59 : mise. 120
+pupuce235 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [4s 8d Ks Ad 3c]
+Siège 2 : pupuce235 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°237584858063 : Tournoi #3446662084, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 25/07/2022 22:51:07 CET [25/07/2022 16:51:07 ET]
+Table '3446662084 1' 3-max Siège #2 est au bouton.
+Place 2: pupuce235 (240 en jetons) 
+Place 3: psychoman59 (660 en jetons) 
+pupuce235 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s As]
+pupuce235 : relance. 200 à 240 et est all-in.
+psychoman59 : suit. 200
+*** FLOP *** [Qs Ts Jd]
+*** TOURNANT *** [Qs Ts Jd] [4d]
+*** RIVIÈRE *** [Qs Ts Jd 4d] [Qc]
+*** ABATTAGE ***
+psychoman59 : montre [3s As] (une paire de Dames)
+pupuce235 : montre [Ad 2h] (une paire de Dames)
+psychoman59 a remporté 240  lors du pot .
+pupuce235 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Qs Ts Jd 4d Qc]
+Siège 2 : pupuce235 (bouton) (petite blind) a montré [Ad 2h] et a gagné (240) avec une paire de Dames
+Siège 3 : psychoman59 (grosse blind) a montré [3s As] et a gagné (240) avec une paire de Dames
+
+
+
+Main PokerStars n°237584864886 : Tournoi #3446662084, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 25/07/2022 22:51:23 CET [25/07/2022 16:51:23 ET]
+Table '3446662084 1' 3-max Siège #3 est au bouton.
+Place 2: pupuce235 (240 en jetons) 
+Place 3: psychoman59 (660 en jetons) 
+psychoman59 : met la petite blind. 20
+pupuce235 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Td]
+psychoman59 : relance. 80 à 120
+pupuce235 : relance. 120 à 240 et est all-in.
+psychoman59 : suit. 120
+*** FLOP *** [9d 6s Kc]
+*** TOURNANT *** [9d 6s Kc] [Ad]
+*** RIVIÈRE *** [9d 6s Kc Ad] [6c]
+*** ABATTAGE ***
+pupuce235 : montre [3d Kd] (double paire, Rois et Six)
+psychoman59 : montre [As Td] (double paire, As et Six)
+psychoman59 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [9d 6s Kc Ad 6c]
+Siège 2 : pupuce235 (grosse blind) a montré [3d Kd] et a perdu avec double paire, Rois et Six
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [As Td] et a gagné (480) avec double paire, As et Six
+
+
+

@@ -1,0 +1,348 @@
+﻿Main PokerStars n°238595568823 : Tournoi #3470501440, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 8:57:19 CET [13/09/2022 2:57:19 ET]
+Table '3470501440 1' 3-max Siège #1 est au bouton.
+Place 1: Redkwim (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: greg0501 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+greg0501 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 2c]
+Redkwim : passe. 
+psychoman59 : suit. 10
+greg0501 : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [6c Qs Ks]
+psychoman59 : parole 
+greg0501 : parole 
+*** TOURNANT *** [6c Qs Ks] [6h]
+psychoman59 : mise. 80
+greg0501 : suit. 80
+*** RIVIÈRE *** [6c Qs Ks 6h] [3d]
+psychoman59 : mise. 120
+greg0501 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6c Qs Ks 6h 3d]
+Siège 1 : Redkwim (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (240)
+Siège 3 : greg0501 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238595571139 : Tournoi #3470501440, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 8:57:44 CET [13/09/2022 2:57:44 ET]
+Table '3470501440 1' 3-max Siège #2 est au bouton.
+Place 1: Redkwim (300 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+Place 3: greg0501 (180 en jetons) 
+greg0501 : met la petite blind. 10
+Redkwim : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 7s]
+psychoman59 : passe. 
+greg0501 : relance. 160 à 180 et est all-in.
+Redkwim : suit. 160
+*** FLOP *** [Kd 8h 9s]
+*** TOURNANT *** [Kd 8h 9s] [2d]
+*** RIVIÈRE *** [Kd 8h 9s 2d] [Kc]
+*** ABATTAGE ***
+greg0501 : montre [5d Ah] (une paire de Rois)
+Redkwim : montre [3s As] (une paire de Rois)
+greg0501 a remporté 180  lors du pot .
+Redkwim a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Kd 8h 9s 2d Kc]
+Siège 1 : Redkwim (grosse blind) a montré [3s As] et a gagné (180) avec une paire de Rois
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : greg0501 (petite blind) a montré [5d Ah] et a gagné (180) avec une paire de Rois
+
+
+
+Main PokerStars n°238595572443 : Tournoi #3470501440, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 8:57:58 CET [13/09/2022 2:57:58 ET]
+Table '3470501440 1' 3-max Siège #3 est au bouton.
+Place 1: Redkwim (300 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+Place 3: greg0501 (180 en jetons) 
+Redkwim : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 8h]
+greg0501 : relance. 160 à 180 et est all-in.
+Redkwim : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à greg0501.
+greg0501 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : Redkwim (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : greg0501 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°238595573215 : Tournoi #3470501440, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 8:58:06 CET [13/09/2022 2:58:06 ET]
+Table '3470501440 1' 3-max Siège #1 est au bouton.
+Place 1: Redkwim (290 en jetons) 
+Place 2: psychoman59 (400 en jetons) 
+Place 3: greg0501 (210 en jetons) 
+psychoman59 : met la petite blind. 10
+greg0501 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 8d]
+Redkwim : relance. 270 à 290 et est all-in.
+psychoman59 : suit. 280
+greg0501 : passe. 
+*** FLOP *** [7s Jh 3h]
+*** TOURNANT *** [7s Jh 3h] [Jc]
+*** RIVIÈRE *** [7s Jh 3h Jc] [5c]
+*** ABATTAGE ***
+psychoman59 : montre [8c 8d] (double paire, Valets et Huit)
+Redkwim : montre [Ad 2s] (une paire de Valets)
+psychoman59 a remporté 600  lors du pot .
+Redkwim a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [7s Jh 3h Jc 5c]
+Siège 1 : Redkwim (bouton) a montré [Ad 2s] et a perdu avec une paire de Valets
+Siège 2 : psychoman59 (petite blind) a montré [8c 8d] et a gagné (600) avec double paire, Valets et Huit
+Siège 3 : greg0501 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238595574924 : Tournoi #3470501440, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 8:58:24 CET [13/09/2022 2:58:24 ET]
+Table '3470501440 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (710 en jetons) 
+Place 3: greg0501 (190 en jetons) 
+greg0501 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 2h]
+greg0501 : relance. 160 à 190 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à greg0501.
+greg0501 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : greg0501 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°238595575518 : Tournoi #3470501440, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 8:58:30 CET [13/09/2022 2:58:30 ET]
+Table '3470501440 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (680 en jetons) 
+Place 3: greg0501 (220 en jetons) 
+psychoman59 : met la petite blind. 15
+greg0501 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à greg0501.
+greg0501 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : greg0501 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°238595576067 : Tournoi #3470501440, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 8:58:36 CET [13/09/2022 2:58:36 ET]
+Table '3470501440 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (665 en jetons) 
+Place 3: greg0501 (235 en jetons) 
+greg0501 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 6s]
+greg0501 : relance. 205 à 235 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (205) sont retournés à greg0501.
+greg0501 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : greg0501 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°238595576673 : Tournoi #3470501440, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 8:58:43 CET [13/09/2022 2:58:43 ET]
+Table '3470501440 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (635 en jetons) 
+Place 3: greg0501 (265 en jetons) 
+psychoman59 : met la petite blind. 15
+greg0501 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 8h]
+psychoman59 : relance. 30 à 60
+greg0501 : suit. 30
+*** FLOP *** [9c Jd 7s]
+greg0501 : mise. 60
+psychoman59 : relance. 240 à 300
+greg0501 : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [9c Jd 7s]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (240)
+Siège 3 : greg0501 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238595578310 : Tournoi #3470501440, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 8:59:00 CET [13/09/2022 2:59:00 ET]
+Table '3470501440 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (755 en jetons) 
+Place 3: greg0501 (145 en jetons) 
+greg0501 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Kc]
+greg0501 : relance. 115 à 145 et est all-in.
+psychoman59 : suit. 115
+*** FLOP *** [Qh Th 5h]
+*** TOURNANT *** [Qh Th 5h] [Ts]
+*** RIVIÈRE *** [Qh Th 5h Ts] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [2c Kc] (une paire de Dix)
+greg0501 : montre [6c Ks] (une paire de Dix)
+psychoman59 a remporté 145  lors du pot .
+greg0501 a remporté 145  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Tableau [Qh Th 5h Ts 9c]
+Siège 2 : psychoman59 (grosse blind) a montré [2c Kc] et a gagné (145) avec une paire de Dix
+Siège 3 : greg0501 (bouton) (petite blind) a montré [6c Ks] et a gagné (145) avec une paire de Dix
+
+
+
+Main PokerStars n°238595579425 : Tournoi #3470501440, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 8:59:12 CET [13/09/2022 2:59:12 ET]
+Table '3470501440 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (755 en jetons) 
+Place 3: greg0501 (145 en jetons) 
+psychoman59 : met la petite blind. 15
+greg0501 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 5c]
+psychoman59 : relance. 60 à 90
+greg0501 : relance. 55 à 145 et est all-in.
+psychoman59 : suit. 55
+*** FLOP *** [4c 9s 8c]
+*** TOURNANT *** [4c 9s 8c] [9d]
+*** RIVIÈRE *** [4c 9s 8c 9d] [6d]
+*** ABATTAGE ***
+greg0501 : montre [As Js] (une paire de Neuf)
+psychoman59 : montre [Qd 5c] (une paire de Neuf - plus basse kicker)
+greg0501 a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Tableau [4c 9s 8c 9d 6d]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Qd 5c] et a perdu avec une paire de Neuf
+Siège 3 : greg0501 (grosse blind) a montré [As Js] et a gagné (290) avec une paire de Neuf
+
+
+
+Main PokerStars n°238595581103 : Tournoi #3470501440, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 8:59:30 CET [13/09/2022 2:59:30 ET]
+Table '3470501440 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (610 en jetons) 
+Place 3: greg0501 (290 en jetons) 
+greg0501 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 6c]
+greg0501 : relance. 250 à 290 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à greg0501.
+greg0501 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : greg0501 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°238595581639 : Tournoi #3470501440, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 8:59:36 CET [13/09/2022 2:59:36 ET]
+Table '3470501440 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (570 en jetons) 
+Place 3: greg0501 (330 en jetons) 
+psychoman59 : met la petite blind. 20
+greg0501 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à greg0501.
+greg0501 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : greg0501 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238595582087 : Tournoi #3470501440, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 8:59:41 CET [13/09/2022 2:59:41 ET]
+Table '3470501440 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (550 en jetons) 
+Place 3: greg0501 (350 en jetons) 
+greg0501 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Ad]
+greg0501 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : greg0501 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238595582502 : Tournoi #3470501440, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 8:59:46 CET [13/09/2022 2:59:46 ET]
+Table '3470501440 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (570 en jetons) 
+Place 3: greg0501 (330 en jetons) 
+psychoman59 : met la petite blind. 20
+greg0501 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à greg0501.
+greg0501 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : greg0501 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238595582979 : Tournoi #3470501440, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 8:59:50 CET [13/09/2022 2:59:50 ET]
+Table '3470501440 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (550 en jetons) 
+Place 3: greg0501 (350 en jetons) 
+greg0501 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 9d]
+greg0501 : relance. 310 à 350 et est all-in.
+psychoman59 : suit. 310
+*** FLOP *** [As 4d 6s]
+*** TOURNANT *** [As 4d 6s] [6c]
+*** RIVIÈRE *** [As 4d 6s 6c] [Ts]
+*** ABATTAGE ***
+psychoman59 : montre [9s 9d] (double paire, Neuf et Six)
+greg0501 : montre [8d Qs] (une paire de Six)
+psychoman59 a remporté 700  lors du pot .
+greg0501 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 700 | Commission 0 
+Tableau [As 4d 6s 6c Ts]
+Siège 2 : psychoman59 (grosse blind) a montré [9s 9d] et a gagné (700) avec double paire, Neuf et Six
+Siège 3 : greg0501 (bouton) (petite blind) a montré [8d Qs] et a perdu avec une paire de Six
+
+
+

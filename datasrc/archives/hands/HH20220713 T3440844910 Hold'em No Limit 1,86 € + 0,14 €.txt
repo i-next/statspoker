@@ -1,0 +1,394 @@
+﻿Main PokerStars n°237332159933 : Tournoi #3440844910, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2022 14:22:53 CET [13/07/2022 8:22:53 ET]
+Table '3440844910 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: PokeAA067 (300 en jetons) 
+Place 3: fredloulou2406 (300 en jetons) 
+PokeAA067 : met la petite blind. 10
+fredloulou2406 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Js]
+psychoman59 : relance. 20 à 40
+PokeAA067 : suit. 30
+fredloulou2406 : suit. 20
+*** FLOP *** [Kc 9d 7c]
+PokeAA067 : parole 
+fredloulou2406 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Kc 9d 7c] [8c]
+PokeAA067 : mise. 20
+fredloulou2406 : passe. 
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Kc 9d 7c 8c] [8s]
+PokeAA067 : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+PokeAA067 : montre [9s Ks] (double paire, Rois et Neuf)
+psychoman59 : montre [Ts Js] (une suite, Sept à Valet)
+psychoman59 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Kc 9d 7c 8c 8s]
+Siège 1 : psychoman59 (bouton) a montré [Ts Js] et a gagné (200) avec une suite, Sept à Valet
+Siège 2 : PokeAA067 (petite blind) a montré [9s Ks] et a perdu avec double paire, Rois et Neuf
+Siège 3 : fredloulou2406 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237332164899 : Tournoi #3440844910, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2022 14:23:18 CET [13/07/2022 8:23:18 ET]
+Table '3440844910 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: PokeAA067 (220 en jetons) 
+Place 3: fredloulou2406 (260 en jetons) 
+fredloulou2406 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ts]
+PokeAA067 : passe. 
+fredloulou2406 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jc 4s 3h]
+fredloulou2406 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jc 4s 3h] [Jd]
+fredloulou2406 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Jc 4s 3h Jd] [5s]
+fredloulou2406 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+fredloulou2406 : montre [2h 8h] (une paire de Valets)
+psychoman59 : montre [7c Ts] (une paire de Valets - Dix kicker)
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Jc 4s 3h Jd 5s]
+Siège 1 : psychoman59 (grosse blind) a montré [7c Ts] et a gagné (40) avec une paire de Valets
+Siège 2 : PokeAA067 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : fredloulou2406 (petite blind) a montré [2h 8h] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°237332170831 : Tournoi #3440844910, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2022 14:23:48 CET [13/07/2022 8:23:48 ET]
+Table '3440844910 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 2: PokeAA067 (220 en jetons) 
+Place 3: fredloulou2406 (240 en jetons) 
+psychoman59 : met la petite blind. 10
+PokeAA067 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 7h]
+fredloulou2406 : suit. 20
+psychoman59 : suit. 10
+PokeAA067 : relance. 40 à 60
+fredloulou2406 : suit. 40
+psychoman59 : suit. 40
+*** FLOP *** [Jh As Tc]
+psychoman59 : parole 
+PokeAA067 : mise. 160 et est all-in.
+fredloulou2406 : relance. 20 à 180 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à fredloulou2406.
+*** TOURNANT *** [Jh As Tc] [2c]
+*** RIVIÈRE *** [Jh As Tc 2c] [9s]
+*** ABATTAGE ***
+PokeAA067 : montre [Ks Ad] (une paire de As)
+fredloulou2406 : montre [8c 9d] (une paire de Neuf)
+PokeAA067 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [Jh As Tc 2c 9s]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 2 : PokeAA067 (grosse blind) a montré [Ks Ad] et a gagné (500) avec une paire de As
+Siège 3 : fredloulou2406 (bouton) a montré [8c 9d] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°237332178163 : Tournoi #3440844910, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2022 14:24:25 CET [13/07/2022 8:24:25 ET]
+Table '3440844910 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 2: PokeAA067 (500 en jetons) 
+Place 3: fredloulou2406 (20 en jetons) 
+PokeAA067 : met la petite blind. 15
+fredloulou2406 : met la grosse blind. 20 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 7c]
+psychoman59 : relance. 40 à 60
+PokeAA067 : suit. 45
+*** FLOP *** [6h 2c Td]
+PokeAA067 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6h 2c Td] [2s]
+PokeAA067 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6h 2c Td 2s] [5s]
+PokeAA067 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à PokeAA067.
+*** ABATTAGE ***
+PokeAA067 : montre [Ac 8s] (une paire de Deux)
+PokeAA067 a remporté 80  parallèle lors du pot .
+fredloulou2406 : montre [3h Js] (une paire de Deux - plus basse kicker)
+PokeAA067 a remporté 60  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 Principal pot 60. Parallèle pot 80. | Commission 0 
+Tableau [6h 2c Td 2s 5s]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Rivière
+Siège 2 : PokeAA067 (petite blind) a montré [Ac 8s] et a gagné (140) avec une paire de Deux
+Siège 3 : fredloulou2406 (grosse blind) a montré [3h Js] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°237332192695 : Tournoi #3440844910, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2022 14:24:49 CET [13/07/2022 8:24:49 ET]
+Table '3440844910 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: PokeAA067 (580 en jetons) 
+PokeAA067 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 4c]
+PokeAA067 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : PokeAA067 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237332193680 : Tournoi #3440844910, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2022 14:24:53 CET [13/07/2022 8:24:53 ET]
+Table '3440844910 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (335 en jetons) 
+Place 2: PokeAA067 (565 en jetons) 
+psychoman59 : met la petite blind. 15
+PokeAA067 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 2c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à PokeAA067.
+PokeAA067 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : PokeAA067 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237332195205 : Tournoi #3440844910, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2022 14:25:01 CET [13/07/2022 8:25:01 ET]
+Table '3440844910 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: PokeAA067 (580 en jetons) 
+PokeAA067 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 5c]
+PokeAA067 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : PokeAA067 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237332196120 : Tournoi #3440844910, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2022 14:25:05 CET [13/07/2022 8:25:05 ET]
+Table '3440844910 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: PokeAA067 (560 en jetons) 
+psychoman59 : met la petite blind. 20
+PokeAA067 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à PokeAA067.
+PokeAA067 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : PokeAA067 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237332197008 : Tournoi #3440844910, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2022 14:25:10 CET [13/07/2022 8:25:10 ET]
+Table '3440844910 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: PokeAA067 (580 en jetons) 
+PokeAA067 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Jh]
+PokeAA067 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : PokeAA067 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237332197852 : Tournoi #3440844910, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2022 14:25:14 CET [13/07/2022 8:25:14 ET]
+Table '3440844910 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: PokeAA067 (560 en jetons) 
+psychoman59 : met la petite blind. 20
+PokeAA067 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 3h]
+psychoman59 : relance. 40 à 80
+PokeAA067 : suit. 40
+*** FLOP *** [As 9d Qs]
+PokeAA067 : parole 
+psychoman59 : mise. 160
+PokeAA067 : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [As 9d Qs]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 2 : PokeAA067 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237332200629 : Tournoi #3440844910, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2022 14:25:29 CET [13/07/2022 8:25:29 ET]
+Table '3440844910 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: PokeAA067 (480 en jetons) 
+PokeAA067 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Ts]
+PokeAA067 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Kd 2s Kc]
+psychoman59 : parole 
+PokeAA067 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à PokeAA067.
+PokeAA067 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Kd 2s Kc]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : PokeAA067 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237332202883 : Tournoi #3440844910, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2022 14:25:40 CET [13/07/2022 8:25:40 ET]
+Table '3440844910 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 2: PokeAA067 (520 en jetons) 
+psychoman59 : met la petite blind. 20
+PokeAA067 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d As]
+psychoman59 : relance. 340 à 380 et est all-in.
+PokeAA067 : passe. 
+Personne n'a suivi. (340) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : PokeAA067 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237332204162 : Tournoi #3440844910, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2022 14:25:46 CET [13/07/2022 8:25:46 ET]
+Table '3440844910 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: PokeAA067 (480 en jetons) 
+PokeAA067 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 6c]
+PokeAA067 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Td 6d 8d]
+psychoman59 : parole 
+PokeAA067 : parole 
+*** TOURNANT *** [Td 6d 8d] [As]
+psychoman59 : parole 
+PokeAA067 : parole 
+*** RIVIÈRE *** [Td 6d 8d As] [6s]
+psychoman59 : mise. 80
+PokeAA067 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Td 6d 8d As 6s]
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : PokeAA067 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237332210010 : Tournoi #3440844910, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/07/2022 14:26:16 CET [13/07/2022 8:26:16 ET]
+Table '3440844910 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: PokeAA067 (440 en jetons) 
+psychoman59 : met la petite blind. 30
+PokeAA067 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Jh]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à PokeAA067.
+PokeAA067 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : PokeAA067 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237332211136 : Tournoi #3440844910, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/07/2022 14:26:22 CET [13/07/2022 8:26:22 ET]
+Table '3440844910 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 2: PokeAA067 (470 en jetons) 
+PokeAA067 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Qh]
+PokeAA067 : relance. 120 à 180
+psychoman59 : relance. 250 à 430 et est all-in.
+PokeAA067 : suit. 250
+*** FLOP *** [Qs Kd Kc]
+*** TOURNANT *** [Qs Kd Kc] [3s]
+*** RIVIÈRE *** [Qs Kd Kc 3s] [2s]
+*** ABATTAGE ***
+psychoman59 : montre [Qc Qh] (un full, full aux Dames par les Rois)
+PokeAA067 : montre [Ts 9s] (une couleur, hauteur Dame)
+psychoman59 a remporté 860  lors du pot .
+*** SYNTHÈSE ***
+Pot total 860 | Commission 0 
+Tableau [Qs Kd Kc 3s 2s]
+Siège 1 : psychoman59 (grosse blind) a montré [Qc Qh] et a gagné (860) avec un full, full aux Dames par les Rois
+Siège 2 : PokeAA067 (bouton) (petite blind) a montré [Ts 9s] et a perdu avec une couleur, hauteur Dame
+
+
+
+Main PokerStars n°237332214873 : Tournoi #3440844910, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/07/2022 14:26:41 CET [13/07/2022 8:26:41 ET]
+Table '3440844910 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (860 en jetons) 
+Place 2: PokeAA067 (40 en jetons) 
+psychoman59 : met la petite blind. 30
+PokeAA067 : met la grosse blind. 40 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Ac]
+psychoman59 : suit. 10
+*** FLOP *** [Tc 7c Th]
+*** TOURNANT *** [Tc 7c Th] [4c]
+*** RIVIÈRE *** [Tc 7c Th 4c] [8d]
+*** ABATTAGE ***
+PokeAA067 : montre [Qh 5d] (une paire de Dix)
+psychoman59 : montre [8h Ac] (double paire, Dix et Huit)
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Tc 7c Th 4c 8d]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [8h Ac] et a gagné (80) avec double paire, Dix et Huit
+Siège 2 : PokeAA067 (grosse blind) a montré [Qh 5d] et a perdu avec une paire de Dix
+
+
+

@@ -1,0 +1,63 @@
+﻿Main PokerStars n°237718453177 : Tournoi #3449764634, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 01/08/2022 11:02:29 CET [01/08/2022 5:02:29 ET]
+Table '3449764634 1' 3-max Siège #1 est au bouton.
+Place 1: Ahzgo (300 en jetons) 
+Place 2: Pinoy94120 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Pinoy94120 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Th]
+Ahzgo : passe. 
+Pinoy94120 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qs Qc Tc]
+Pinoy94120 : mise. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [Qs Qc Tc] [2c]
+Pinoy94120 : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [Qs Qc Tc 2c] [Ad]
+Pinoy94120 : mise. 160 et est all-in.
+psychoman59 : suit. 160 et est all-in.
+*** ABATTAGE ***
+Pinoy94120 : montre [2s Kc] (double paire, Dames et Deux)
+psychoman59 : montre [Qd Th] (un full, full aux Dames par les Dix)
+psychoman59 a remporté 600  lors du pot .
+Pinoy94120 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [Qs Qc Tc 2c Ad]
+Siège 1 : Ahzgo (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Pinoy94120 (petite blind) a montré [2s Kc] et a perdu avec double paire, Dames et Deux
+Siège 3 : psychoman59 (grosse blind) a montré [Qd Th] et a gagné (600) avec un full, full aux Dames par les Dix
+
+
+
+Main PokerStars n°237718456990 : Tournoi #3449764634, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 01/08/2022 11:02:58 CET [01/08/2022 5:02:58 ET]
+Table '3449764634 1' 3-max Siège #3 est au bouton.
+Place 1: Ahzgo (300 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+psychoman59 : met la petite blind. 10
+Ahzgo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Tc]
+psychoman59 : relance. 580 à 600 et est all-in.
+Ahzgo : suit. 280 et est all-in.
+Personne n'a suivi. (300) sont retournés à psychoman59.
+*** FLOP *** [7d Jc 4d]
+*** TOURNANT *** [7d Jc 4d] [3c]
+*** RIVIÈRE *** [7d Jc 4d 3c] [3h]
+*** ABATTAGE ***
+Ahzgo : montre [2s 2d] (double paire, Trois et Deux)
+psychoman59 : montre [Ts Tc] (double paire, Dix et Trois)
+psychoman59 a remporté 600  lors du pot .
+Ahzgo a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [7d Jc 4d 3c 3h]
+Siège 1 : Ahzgo (grosse blind) a montré [2s 2d] et a perdu avec double paire, Trois et Deux
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ts Tc] et a gagné (600) avec double paire, Dix et Trois
+
+
+

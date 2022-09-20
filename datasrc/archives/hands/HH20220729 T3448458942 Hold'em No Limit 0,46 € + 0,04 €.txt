@@ -1,0 +1,183 @@
+﻿Main PokerStars n°237659439402 : Tournoi #3448458942, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 16:42:55 CET [29/07/2022 10:42:55 ET]
+Table '3448458942 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 2: dalloju (5000 en jetons) 
+Place 3: tapatapa88 (5000 en jetons) 
+Place 4: ludowampas (5000 en jetons) 
+psychoman59 : met l'ante. 10
+dalloju : met l'ante. 10
+tapatapa88 : met l'ante. 10
+ludowampas : met l'ante. 10
+dalloju : met la petite blind. 50
+tapatapa88 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Jd]
+ludowampas : suit. 100
+psychoman59 : passe. 
+dalloju : suit. 50
+tapatapa88 : parole 
+*** FLOP *** [Jc 5h 5c]
+dalloju : parole 
+tapatapa88 : parole 
+ludowampas : mise. 100
+dalloju : passe. 
+tapatapa88 : passe. 
+Personne n'a suivi. (100) sont retournés à ludowampas.
+ludowampas a remporté 340  lors du pot .
+ludowampas : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [Jc 5h 5c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : dalloju (petite blind) s'est couché. sur le Flop
+Siège 3 : tapatapa88 (grosse blind) s'est couché. sur le Flop
+Siège 4 : ludowampas a remporté (340)
+
+
+
+Main PokerStars n°237659447996 : Tournoi #3448458942, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 16:43:29 CET [29/07/2022 10:43:29 ET]
+Table '3448458942 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4990 en jetons) 
+Place 2: dalloju (4890 en jetons) 
+Place 3: tapatapa88 (4890 en jetons) 
+Place 4: ludowampas (5230 en jetons) 
+psychoman59 : met l'ante. 10
+dalloju : met l'ante. 10
+tapatapa88 : met l'ante. 10
+ludowampas : met l'ante. 10
+tapatapa88 : met la petite blind. 50
+ludowampas : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Ks]
+psychoman59 : relance. 100 à 200
+dalloju est déconnecté 
+dalloju est connecté 
+dalloju est déconnecté 
+dalloju est connecté 
+dalloju : passe. 
+tapatapa88 : relance. 540 à 740
+ludowampas : suit. 640
+psychoman59 : suit. 540
+*** FLOP *** [8c 7h 5h]
+tapatapa88 : mise. 4140 et est all-in.
+ludowampas : suit. 4140
+psychoman59 : passe. 
+*** TOURNANT *** [8c 7h 5h] [5d]
+*** RIVIÈRE *** [8c 7h 5h 5d] [6s]
+*** ABATTAGE ***
+tapatapa88 : montre [8d 6d] (double paire, Huit et Six)
+ludowampas : montre [9c Ac] (une suite, Cinq à Neuf)
+ludowampas a remporté 10540  lors du pot .
+tapatapa88 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10540 | Commission 0 
+Tableau [8c 7h 5h 5d 6s]
+Siège 1 : psychoman59 s'est couché. sur le Flop
+Siège 2 : dalloju (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : tapatapa88 (petite blind) a montré [8d 6d] et a perdu avec double paire, Huit et Six
+Siège 4 : ludowampas (grosse blind) a montré [9c Ac] et a gagné (10540) avec une suite, Cinq à Neuf
+
+
+
+Main PokerStars n°237659474108 : Tournoi #3448458942, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 16:44:59 CET [29/07/2022 10:44:59 ET]
+Table '3448458942 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4240 en jetons) 
+Place 2: dalloju (4880 en jetons) 
+Place 4: ludowampas (10880 en jetons) 
+psychoman59 : met l'ante. 10
+dalloju : met l'ante. 10
+ludowampas : met l'ante. 10
+psychoman59 : met la petite blind. 50
+dalloju : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 4h]
+ludowampas : suit. 100
+psychoman59 : passe. 
+dalloju : parole 
+*** FLOP *** [Jh 2h 6c]
+dalloju : parole 
+ludowampas : parole 
+*** TOURNANT *** [Jh 2h 6c] [7h]
+dalloju : parole 
+ludowampas : parole 
+*** RIVIÈRE *** [Jh 2h 6c 7h] [6h]
+dalloju : parole 
+ludowampas : parole 
+*** ABATTAGE ***
+dalloju : montre [8s 9h] (une couleur, hauteur Valet)
+ludowampas : cache la main perdante. 
+dalloju a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [Jh 2h 6c 7h 6h]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : dalloju (grosse blind) a montré [8s 9h] et a gagné (280) avec une couleur, hauteur Valet
+Siège 4 : ludowampas (bouton) a caché la main perdante. [Qs 9c]
+
+
+
+Main PokerStars n°237659479039 : Tournoi #3448458942, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 16:45:18 CET [29/07/2022 10:45:18 ET]
+Table '3448458942 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4180 en jetons) 
+Place 2: dalloju (5050 en jetons) 
+Place 4: ludowampas (10770 en jetons) 
+psychoman59 : met l'ante. 10
+dalloju : met l'ante. 10
+ludowampas : met l'ante. 10
+dalloju : met la petite blind. 50
+ludowampas : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Ah]
+psychoman59 : relance. 280 à 380
+dalloju : suit. 330
+ludowampas : passe. 
+*** FLOP *** [Kh 8h 7s]
+dalloju : parole 
+psychoman59 : mise. 890
+dalloju : relance. 3770 à 4660 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (3770) sont retournés à dalloju.
+dalloju a remporté 2670  lors du pot .
+dalloju : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2670 | Commission 0 
+Tableau [Kh 8h 7s]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : dalloju (petite blind) a remporté (2670)
+Siège 4 : ludowampas (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237659488149 : Tournoi #3448458942, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 16:45:54 CET [29/07/2022 10:45:54 ET]
+Table '3448458942 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (2900 en jetons) 
+Place 2: dalloju (6440 en jetons) 
+Place 4: ludowampas (10660 en jetons) 
+psychoman59 : met l'ante. 10
+dalloju : met l'ante. 10
+ludowampas : met l'ante. 10
+ludowampas : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ac]
+dalloju : suit. 100
+ludowampas : passe. 
+psychoman59 : relance. 2790 à 2890 et est all-in.
+dalloju : suit. 2790
+*** FLOP *** [5s 4d 3s]
+*** TOURNANT *** [5s 4d 3s] [Qh]
+*** RIVIÈRE *** [5s 4d 3s Qh] [5h]
+*** ABATTAGE ***
+psychoman59 : montre [7c Ac] (une paire de Cinq)
+dalloju : montre [Kd Kh] (double paire, Rois et Cinq)
+dalloju a remporté 5860  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 5860 | Commission 0 
+Tableau [5s 4d 3s Qh 5h]
+Siège 1 : psychoman59 (grosse blind) a montré [7c Ac] et a perdu avec une paire de Cinq
+Siège 2 : dalloju (bouton) a montré [Kd Kh] et a gagné (5860) avec double paire, Rois et Cinq
+Siège 4 : ludowampas (petite blind) s'est couché. avant Flop
+
+
+

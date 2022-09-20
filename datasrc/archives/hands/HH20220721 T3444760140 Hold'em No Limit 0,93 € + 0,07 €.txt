@@ -1,0 +1,128 @@
+﻿Main PokerStars n°237501002982 : Tournoi #3444760140, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/07/2022 23:17:44 CET [21/07/2022 17:17:44 ET]
+Table '3444760140 1' 3-max Siège #1 est au bouton.
+Place 1: martinonux (300 en jetons) 
+Place 2: iscoo42 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+iscoo42 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 6s]
+martinonux : relance. 20 à 40
+iscoo42 : suit. 30
+psychoman59 : passe. 
+*** FLOP *** [4c Qc 6c]
+iscoo42 : mise. 20
+martinonux : relance. 60 à 80
+iscoo42 : suit. 60
+*** TOURNANT *** [4c Qc 6c] [7d]
+iscoo42 : parole 
+martinonux : mise. 80
+iscoo42 : suit. 80
+*** RIVIÈRE *** [4c Qc 6c 7d] [8h]
+iscoo42 : parole 
+martinonux : parole 
+*** ABATTAGE ***
+iscoo42 : montre [Td 3c] (Hauteur Dame)
+martinonux : montre [3h Qh] (une paire de Dames)
+martinonux a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [4c Qc 6c 7d 8h]
+Siège 1 : martinonux (bouton) a montré [3h Qh] et a gagné (420) avec une paire de Dames
+Siège 2 : iscoo42 (petite blind) a montré [Td 3c] et a perdu avec Hauteur Dame
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237501013785 : Tournoi #3444760140, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/07/2022 23:18:12 CET [21/07/2022 17:18:12 ET]
+Table '3444760140 1' 3-max Siège #2 est au bouton.
+Place 1: martinonux (520 en jetons) 
+Place 2: iscoo42 (100 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+martinonux : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 3d]
+iscoo42 : relance. 20 à 40
+psychoman59 : passe. 
+martinonux : suit. 20
+*** FLOP *** [5d Qh 2s]
+martinonux : mise. 120
+iscoo42 : suit. 60 et est all-in.
+Personne n'a suivi. (60) sont retournés à martinonux.
+*** TOURNANT *** [5d Qh 2s] [Kd]
+*** RIVIÈRE *** [5d Qh 2s Kd] [4h]
+*** ABATTAGE ***
+martinonux : montre [4s Tc] (une paire de Quatre)
+iscoo42 : montre [Jc 3c] (Hauteur Roi)
+martinonux a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Tableau [5d Qh 2s Kd 4h]
+Siège 1 : martinonux (grosse blind) a montré [4s Tc] et a gagné (210) avec une paire de Quatre
+Siège 2 : iscoo42 (bouton) a montré [Jc 3c] et a perdu avec Hauteur Roi
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237501022183 : Tournoi #3444760140, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/07/2022 23:18:34 CET [21/07/2022 17:18:34 ET]
+Table '3444760140 1' 3-max Siège #1 est au bouton.
+Place 1: martinonux (630 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+martinonux : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Qh]
+martinonux : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jd 2c Qc]
+psychoman59 : parole 
+martinonux : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [Jd 2c Qc] [Kd]
+psychoman59 : parole 
+martinonux : parole 
+*** RIVIÈRE *** [Jd 2c Qc Kd] [3h]
+psychoman59 : mise. 60
+martinonux : relance. 60 à 120
+psychoman59 : suit. 60
+*** ABATTAGE ***
+martinonux : montre [2h 7c] (une paire de Deux)
+psychoman59 : montre [2d Qh] (double paire, Dames et Deux)
+psychoman59 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Jd 2c Qc Kd 3h]
+Siège 1 : martinonux (bouton) (petite blind) a montré [2h 7c] et a perdu avec une paire de Deux
+Siège 3 : psychoman59 (grosse blind) a montré [2d Qh] et a gagné (360) avec double paire, Dames et Deux
+
+
+
+Main PokerStars n°237501033701 : Tournoi #3444760140, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/07/2022 23:19:04 CET [21/07/2022 17:19:04 ET]
+Table '3444760140 1' 3-max Siège #3 est au bouton.
+Place 1: martinonux (450 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+psychoman59 : met la petite blind. 15
+martinonux : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc As]
+psychoman59 : relance. 30 à 60
+martinonux : relance. 90 à 150
+psychoman59 : relance. 300 à 450 et est all-in.
+martinonux : suit. 300 et est all-in.
+*** FLOP *** [2h 7c 8d]
+*** TOURNANT *** [2h 7c 8d] [8h]
+*** RIVIÈRE *** [2h 7c 8d 8h] [Kd]
+*** ABATTAGE ***
+martinonux : montre [8s Ks] (un full, full aux Huit par les Rois)
+psychoman59 : montre [Qc As] (une paire de Huit)
+martinonux a remporté 900  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [2h 7c 8d 8h Kd]
+Siège 1 : martinonux (grosse blind) a montré [8s Ks] et a gagné (900) avec un full, full aux Huit par les Rois
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Qc As] et a perdu avec une paire de Huit
+
+
+

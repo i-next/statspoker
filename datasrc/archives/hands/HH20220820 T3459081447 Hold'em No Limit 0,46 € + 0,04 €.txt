@@ -1,0 +1,2440 @@
+﻿Main PokerStars n°238106556549 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 17:23:24 CET [20/08/2022 11:23:24 ET]
+Table '3459081447 1' 4-max Siège #1 est au bouton.
+Place 1: JoseMG97 (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: doc63sb (5000 en jetons) 
+Place 4: doudou78000 (5000 en jetons) 
+JoseMG97 : met l'ante. 10
+psychoman59 : met l'ante. 10
+doc63sb : met l'ante. 10
+doudou78000 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+doc63sb : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 2d]
+doudou78000 : passe. 
+JoseMG97 : suit. 100
+psychoman59 : passe. 
+doc63sb : parole 
+*** FLOP *** [Js 9d 9s]
+doc63sb : parole 
+JoseMG97 : mise. 100
+doc63sb : relance. 200 à 300
+JoseMG97 : suit. 200
+*** TOURNANT *** [Js 9d 9s] [5d]
+doc63sb : mise. 700
+JoseMG97 : passe. 
+Personne n'a suivi. (700) sont retournés à doc63sb.
+doc63sb a remporté 890  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 890 | Commission 0 
+Tableau [Js 9d 9s 5d]
+Siège 1 : JoseMG97 (bouton) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : doc63sb (grosse blind) a remporté (890)
+Siège 4 : doudou78000 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238106573151 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 17:24:24 CET [20/08/2022 11:24:24 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 1: JoseMG97 (4590 en jetons) 
+Place 2: psychoman59 (4940 en jetons) 
+Place 3: doc63sb (5480 en jetons) 
+Place 4: doudou78000 (4990 en jetons) 
+JoseMG97 : met l'ante. 10
+psychoman59 : met l'ante. 10
+doc63sb : met l'ante. 10
+doudou78000 : met l'ante. 10
+doc63sb : met la petite blind. 50
+doudou78000 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 2c]
+JoseMG97 : relance. 100 à 200
+psychoman59 : passe. 
+doc63sb : passe. 
+doudou78000 : suit. 100
+*** FLOP *** [Js Ac 4s]
+doudou78000 : mise. 100
+JoseMG97 : suit. 100
+*** TOURNANT *** [Js Ac 4s] [8s]
+doudou78000 : parole 
+JoseMG97 : mise. 200
+doudou78000 : passe. 
+Personne n'a suivi. (200) sont retournés à JoseMG97.
+JoseMG97 a remporté 690  lors du pot .
+*** SYNTHÈSE ***
+Pot total 690 | Commission 0 
+Tableau [Js Ac 4s 8s]
+Siège 1 : JoseMG97 a remporté (690)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : doc63sb (petite blind) s'est couché. avant Flop
+Siège 4 : doudou78000 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238106585193 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 17:25:07 CET [20/08/2022 11:25:07 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 1: JoseMG97 (4970 en jetons) 
+Place 2: psychoman59 (4930 en jetons) 
+Place 3: doc63sb (5420 en jetons) 
+Place 4: doudou78000 (4680 en jetons) 
+JoseMG97 : met l'ante. 10
+psychoman59 : met l'ante. 10
+doc63sb : met l'ante. 10
+doudou78000 : met l'ante. 10
+doudou78000 : met la petite blind. 50
+JoseMG97 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 8d]
+psychoman59 : passe. 
+doc63sb : passe. 
+doudou78000 : suit. 50
+JoseMG97 : parole 
+*** FLOP *** [Qh Qd 3c]
+doudou78000 : mise. 100
+JoseMG97 : suit. 100
+*** TOURNANT *** [Qh Qd 3c] [4c]
+doudou78000 : mise. 100
+JoseMG97 : suit. 100
+*** RIVIÈRE *** [Qh Qd 3c 4c] [2s]
+doudou78000 : mise. 100
+JoseMG97 : suit. 100
+*** ABATTAGE ***
+doudou78000 : montre [2c As] (double paire, Dames et Deux)
+JoseMG97 : cache la main perdante. 
+doudou78000 a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [Qh Qd 3c 4c 2s]
+Siège 1 : JoseMG97 (grosse blind) a caché la main perdante. [Tc Ad]
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : doc63sb (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : doudou78000 (petite blind) a montré [2c As] et a gagné (840) avec double paire, Dames et Deux
+
+
+
+Main PokerStars n°238106593272 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 17:25:36 CET [20/08/2022 11:25:36 ET]
+Table '3459081447 1' 4-max Siège #4 est au bouton.
+Place 1: JoseMG97 (4560 en jetons) 
+Place 2: psychoman59 (4920 en jetons) 
+Place 3: doc63sb (5410 en jetons) 
+Place 4: doudou78000 (5110 en jetons) 
+JoseMG97 : met l'ante. 10
+psychoman59 : met l'ante. 10
+doc63sb : met l'ante. 10
+doudou78000 : met l'ante. 10
+JoseMG97 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 7c]
+doc63sb : passe. 
+doudou78000 : passe. 
+JoseMG97 : relance. 100 à 200
+psychoman59 : suit. 100
+*** FLOP *** [9h Ts 6s]
+JoseMG97 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9h Ts 6s] [7s]
+JoseMG97 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9h Ts 6s 7s] [5s]
+JoseMG97 : mise. 400
+psychoman59 : suit. 400
+*** ABATTAGE ***
+JoseMG97 : montre [Td Th] (un brelan de Dix)
+psychoman59 : cache la main perdante. 
+JoseMG97 a remporté 1240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1240 | Commission 0 
+Tableau [9h Ts 6s 7s 5s]
+Siège 1 : JoseMG97 (petite blind) a montré [Td Th] et a gagné (1240) avec un brelan de Dix
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [Qc 7c]
+Siège 3 : doc63sb s'est couché. avant Flop (n'a pas misé)
+Siège 4 : doudou78000 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238106601670 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 17:26:06 CET [20/08/2022 11:26:06 ET]
+Table '3459081447 1' 4-max Siège #1 est au bouton.
+Place 1: JoseMG97 (5190 en jetons) 
+Place 2: psychoman59 (4310 en jetons) 
+Place 3: doc63sb (5400 en jetons) 
+Place 4: doudou78000 (5100 en jetons) 
+JoseMG97 : met l'ante. 10
+psychoman59 : met l'ante. 10
+doc63sb : met l'ante. 10
+doudou78000 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+doc63sb : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 3h]
+doudou78000 : passe. 
+JoseMG97 : suit. 100
+psychoman59 : suit. 50
+doc63sb : parole 
+*** FLOP *** [Ad Jc 7d]
+psychoman59 : parole 
+doc63sb : parole 
+JoseMG97 : parole 
+*** TOURNANT *** [Ad Jc 7d] [Tc]
+psychoman59 : parole 
+doc63sb : parole 
+JoseMG97 : parole 
+*** RIVIÈRE *** [Ad Jc 7d Tc] [Kh]
+psychoman59 : parole 
+doc63sb : mise. 200
+JoseMG97 : relance. 200 à 400
+psychoman59 : passe. 
+doc63sb : relance. 600 à 1000
+JoseMG97 : suit. 600
+*** ABATTAGE ***
+doc63sb : montre [9c Qh] (une suite, Dix à As)
+JoseMG97 : cache la main perdante. 
+doc63sb a remporté 2340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2340 | Commission 0 
+Tableau [Ad Jc 7d Tc Kh]
+Siège 1 : JoseMG97 (bouton) a caché la main perdante. [Ah 5d]
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 3 : doc63sb (grosse blind) a montré [9c Qh] et a gagné (2340) avec une suite, Dix à As
+Siège 4 : doudou78000 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238106617251 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 17:27:02 CET [20/08/2022 11:27:02 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 1: JoseMG97 (4080 en jetons) 
+Place 2: psychoman59 (4200 en jetons) 
+Place 3: doc63sb (6630 en jetons) 
+Place 4: doudou78000 (5090 en jetons) 
+JoseMG97 : met l'ante. 15
+psychoman59 : met l'ante. 15
+doc63sb : met l'ante. 15
+doudou78000 : met l'ante. 15
+doc63sb : met la petite blind. 60
+doudou78000 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Kh]
+JoseMG97 : passe. 
+psychoman59 : suit. 120
+doc63sb : suit. 60
+doudou78000 : parole 
+*** FLOP *** [Jh 4s 8d]
+doc63sb : parole 
+doudou78000 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jh 4s 8d] [2h]
+doc63sb : parole 
+doudou78000 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Jh 4s 8d 2h] [Qh]
+doc63sb : parole 
+doudou78000 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+doc63sb : montre [7d 7s] (une paire de Sept)
+doudou78000 : cache la main perdante. 
+psychoman59 : cache la main perdante. 
+doc63sb a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [Jh 4s 8d 2h Qh]
+Siège 1 : JoseMG97 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (bouton) a caché la main perdante. [9s Kh]
+Siège 3 : doc63sb (petite blind) a montré [7d 7s] et a gagné (420) avec une paire de Sept
+Siège 4 : doudou78000 (grosse blind) a caché la main perdante. [4d 5h]
+
+
+
+Main PokerStars n°238106627555 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 17:27:38 CET [20/08/2022 11:27:38 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 1: JoseMG97 (4065 en jetons) 
+Place 2: psychoman59 (4065 en jetons) 
+Place 3: doc63sb (6915 en jetons) 
+Place 4: doudou78000 (4955 en jetons) 
+JoseMG97 : met l'ante. 15
+psychoman59 : met l'ante. 15
+doc63sb : met l'ante. 15
+doudou78000 : met l'ante. 15
+doudou78000 : met la petite blind. 60
+JoseMG97 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Qs]
+psychoman59 : passe. 
+doc63sb : passe. 
+doudou78000 : suit. 60
+JoseMG97 : parole 
+*** FLOP *** [8c Jc 2d]
+doudou78000 : mise. 120
+JoseMG97 : passe. 
+Personne n'a suivi. (120) sont retournés à doudou78000.
+doudou78000 a remporté 300  lors du pot .
+doudou78000 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [8c Jc 2d]
+Siège 1 : JoseMG97 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : doc63sb (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : doudou78000 (petite blind) a remporté (300)
+
+
+
+Main PokerStars n°238106633323 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 17:27:59 CET [20/08/2022 11:27:59 ET]
+Table '3459081447 1' 4-max Siège #4 est au bouton.
+Place 1: JoseMG97 (3930 en jetons) 
+Place 2: psychoman59 (4050 en jetons) 
+Place 3: doc63sb (6900 en jetons) 
+Place 4: doudou78000 (5120 en jetons) 
+JoseMG97 : met l'ante. 15
+psychoman59 : met l'ante. 15
+doc63sb : met l'ante. 15
+doudou78000 : met l'ante. 15
+JoseMG97 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Td]
+doc63sb : relance. 120 à 240
+doudou78000 : passe. 
+JoseMG97 : suit. 180
+psychoman59 : relance. 3795 à 4035 et est all-in.
+doc63sb : passe. 
+JoseMG97 : suit. 3675 et est all-in.
+Personne n'a suivi. (120) sont retournés à psychoman59.
+*** FLOP *** [6c Tc 6s]
+*** TOURNANT *** [6c Tc 6s] [As]
+*** RIVIÈRE *** [6c Tc 6s As] [5h]
+*** ABATTAGE ***
+JoseMG97 : montre [7c Jd] (une paire de Six)
+psychoman59 : montre [Ad Td] (double paire, As et Dix)
+psychoman59 a remporté 8130  lors du pot .
+JoseMG97 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 8130 | Commission 0 
+Tableau [6c Tc 6s As 5h]
+Siège 1 : JoseMG97 (petite blind) a montré [7c Jd] et a perdu avec une paire de Six
+Siège 2 : psychoman59 (grosse blind) a montré [Ad Td] et a gagné (8130) avec double paire, As et Dix
+Siège 3 : doc63sb s'est couché. avant Flop
+Siège 4 : doudou78000 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238106640587 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 17:28:26 CET [20/08/2022 11:28:26 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (8250 en jetons) 
+Place 3: doc63sb (6645 en jetons) 
+Place 4: doudou78000 (5105 en jetons) 
+psychoman59 : met l'ante. 15
+doc63sb : met l'ante. 15
+doudou78000 : met l'ante. 15
+doc63sb : met la petite blind. 60
+doudou78000 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 3s]
+psychoman59 : passe. 
+doc63sb : passe. 
+Personne n'a suivi. (60) sont retournés à doudou78000.
+doudou78000 a remporté 165  lors du pot .
+doudou78000 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : doc63sb (petite blind) s'est couché. avant Flop
+Siège 4 : doudou78000 (grosse blind) a remporté (165)
+
+
+
+Main PokerStars n°238106643187 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 17:28:35 CET [20/08/2022 11:28:35 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (8235 en jetons) 
+Place 3: doc63sb (6570 en jetons) 
+Place 4: doudou78000 (5195 en jetons) 
+psychoman59 : met l'ante. 15
+doc63sb : met l'ante. 15
+doudou78000 : met l'ante. 15
+doudou78000 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Tc]
+doc63sb : relance. 120 à 240
+doudou78000 : passe. 
+psychoman59 : suit. 120
+*** FLOP *** [9h Kc Td]
+psychoman59 : parole 
+doc63sb : mise. 420
+psychoman59 : suit. 420
+*** TOURNANT *** [9h Kc Td] [3d]
+psychoman59 : parole 
+doc63sb : parole 
+*** RIVIÈRE *** [9h Kc Td 3d] [3c]
+psychoman59 : mise. 712
+doc63sb : passe. 
+Personne n'a suivi. (712) sont retournés à psychoman59.
+psychoman59 a remporté 1425  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1425 | Commission 0 
+Tableau [9h Kc Td 3d 3c]
+Siège 2 : psychoman59 (grosse blind) a remporté (1425)
+Siège 3 : doc63sb (bouton) s'est couché. sur le Rivière
+Siège 4 : doudou78000 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238106654288 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 17:29:14 CET [20/08/2022 11:29:14 ET]
+Table '3459081447 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (8985 en jetons) 
+Place 3: doc63sb (5895 en jetons) 
+Place 4: doudou78000 (5120 en jetons) 
+psychoman59 : met l'ante. 15
+doc63sb : met l'ante. 15
+doudou78000 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+doc63sb : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Qs]
+doudou78000 : passe. 
+psychoman59 : suit. 60
+doc63sb : parole 
+*** FLOP *** [9c 8s 9h]
+psychoman59 : parole 
+doc63sb : parole 
+*** TOURNANT *** [9c 8s 9h] [4h]
+psychoman59 : parole 
+doc63sb : parole 
+*** RIVIÈRE *** [9c 8s 9h 4h] [Td]
+psychoman59 : parole 
+doc63sb : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à doc63sb.
+doc63sb a remporté 285  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Tableau [9c 8s 9h 4h Td]
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 3 : doc63sb (grosse blind) a remporté (285)
+Siège 4 : doudou78000 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238106663862 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 17:29:49 CET [20/08/2022 11:29:49 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (8850 en jetons) 
+Place 3: doc63sb (6045 en jetons) 
+Place 4: doudou78000 (5105 en jetons) 
+psychoman59 : met l'ante. 20
+doc63sb : met l'ante. 20
+doudou78000 : met l'ante. 20
+doc63sb : met la petite blind. 75
+doudou78000 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 9s]
+psychoman59 : passe. 
+doc63sb : suit. 75
+doudou78000 : parole 
+*** FLOP *** [Ks Td 5d]
+doc63sb : mise. 225
+doudou78000 : passe. 
+Personne n'a suivi. (225) sont retournés à doc63sb.
+doc63sb a remporté 360  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Ks Td 5d]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : doc63sb (petite blind) a remporté (360)
+Siège 4 : doudou78000 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238106671134 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 17:30:14 CET [20/08/2022 11:30:14 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (8830 en jetons) 
+Place 3: doc63sb (6235 en jetons) 
+Place 4: doudou78000 (4935 en jetons) 
+psychoman59 : met l'ante. 20
+doc63sb : met l'ante. 20
+doudou78000 : met l'ante. 20
+doudou78000 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 2c]
+doc63sb : relance. 150 à 300
+doudou78000 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à doc63sb.
+doc63sb a remporté 435  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : doc63sb (bouton) a remporté (435)
+Siège 4 : doudou78000 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238106675896 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 17:30:31 CET [20/08/2022 11:30:31 ET]
+Table '3459081447 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (8660 en jetons) 
+Place 3: doc63sb (6500 en jetons) 
+Place 4: doudou78000 (4840 en jetons) 
+psychoman59 : met l'ante. 20
+doc63sb : met l'ante. 20
+doudou78000 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+doc63sb : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Ts]
+doudou78000 : passe. 
+psychoman59 : suit. 75
+doc63sb : relance. 300 à 450
+psychoman59 : suit. 300
+*** FLOP *** [4h 9d Kh]
+psychoman59 : parole 
+doc63sb : mise. 600
+psychoman59 : suit. 600
+*** TOURNANT *** [4h 9d Kh] [8c]
+psychoman59 : parole 
+doc63sb : mise. 5430 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (5430) sont retournés à doc63sb.
+doc63sb a remporté 2160  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2160 | Commission 0 
+Tableau [4h 9d Kh 8c]
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 3 : doc63sb (grosse blind) a remporté (2160)
+Siège 4 : doudou78000 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238106687993 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 17:31:15 CET [20/08/2022 11:31:15 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (7590 en jetons) 
+Place 3: doc63sb (7590 en jetons) 
+Place 4: doudou78000 (4820 en jetons) 
+psychoman59 : met l'ante. 20
+doc63sb : met l'ante. 20
+doudou78000 : met l'ante. 20
+doc63sb : met la petite blind. 75
+doudou78000 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 6h]
+psychoman59 : suit. 150
+doc63sb : suit. 75
+doudou78000 : relance. 150 à 300
+psychoman59 : suit. 150
+doc63sb : suit. 150
+*** FLOP *** [Qh Ts Jh]
+doc63sb : parole 
+doudou78000 : mise. 150
+psychoman59 : suit. 150
+doc63sb : suit. 150
+*** TOURNANT *** [Qh Ts Jh] [2h]
+doc63sb : parole 
+doudou78000 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qh Ts Jh 2h] [9d]
+doc63sb : parole 
+doudou78000 : mise. 150
+psychoman59 : relance. 855 à 1005
+doc63sb : passe. 
+doudou78000 : suit. 855
+*** ABATTAGE ***
+psychoman59 : montre [Ks 6h] (une suite, Neuf à Roi)
+doudou78000 : cache la main perdante. 
+psychoman59 a remporté 3420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3420 | Commission 0 
+Tableau [Qh Ts Jh 2h 9d]
+Siège 2 : psychoman59 (bouton) a montré [Ks 6h] et a gagné (3420) avec une suite, Neuf à Roi
+Siège 3 : doc63sb (petite blind) s'est couché. sur le Rivière
+Siège 4 : doudou78000 (grosse blind) a caché la main perdante. [8d Td]
+
+
+
+Main PokerStars n°238106701259 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 17:32:03 CET [20/08/2022 11:32:03 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (9535 en jetons) 
+Place 3: doc63sb (7120 en jetons) 
+Place 4: doudou78000 (3345 en jetons) 
+psychoman59 : met l'ante. 20
+doc63sb : met l'ante. 20
+doudou78000 : met l'ante. 20
+doudou78000 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Tc]
+doc63sb : passe. 
+doudou78000 : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 210  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (210)
+Siège 3 : doc63sb (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : doudou78000 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238106703908 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 17:32:12 CET [20/08/2022 11:32:12 ET]
+Table '3459081447 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (9650 en jetons) 
+Place 3: doc63sb (7100 en jetons) 
+Place 4: doudou78000 (3250 en jetons) 
+psychoman59 : met l'ante. 20
+doc63sb : met l'ante. 20
+doudou78000 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+doc63sb : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Js]
+doudou78000 : suit. 150
+psychoman59 : suit. 75
+doc63sb : parole 
+*** FLOP *** [7c 3d 3h]
+psychoman59 : parole 
+doc63sb : parole 
+doudou78000 : parole 
+*** TOURNANT *** [7c 3d 3h] [Tc]
+psychoman59 : parole 
+doc63sb : parole 
+doudou78000 : parole 
+*** RIVIÈRE *** [7c 3d 3h Tc] [6c]
+psychoman59 : parole 
+doc63sb : mise. 150
+doudou78000 : passe. 
+psychoman59 : suit. 150
+*** ABATTAGE ***
+doc63sb : montre [Th 5s] (double paire, Dix et Trois)
+psychoman59 : cache la main perdante. 
+doc63sb a remporté 810  lors du pot .
+*** SYNTHÈSE ***
+Pot total 810 | Commission 0 
+Tableau [7c 3d 3h Tc 6c]
+Siège 2 : psychoman59 (petite blind) a caché la main perdante. [Kh Js]
+Siège 3 : doc63sb (grosse blind) a montré [Th 5s] et a gagné (810) avec double paire, Dix et Trois
+Siège 4 : doudou78000 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238106716079 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 20/08/2022 17:32:55 CET [20/08/2022 11:32:55 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (9330 en jetons) 
+Place 3: doc63sb (7590 en jetons) 
+Place 4: doudou78000 (3080 en jetons) 
+psychoman59 : met l'ante. 25
+doc63sb : met l'ante. 25
+doudou78000 : met l'ante. 25
+doc63sb : met la petite blind. 100
+doudou78000 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 2c]
+psychoman59 : passe. 
+doc63sb : relance. 7365 à 7565 et est all-in.
+doudou78000 : suit. 2855 et est all-in.
+Personne n'a suivi. (4510) sont retournés à doc63sb.
+*** FLOP *** [Jd 9h Ah]
+*** TOURNANT *** [Jd 9h Ah] [9d]
+*** RIVIÈRE *** [Jd 9h Ah 9d] [4d]
+*** ABATTAGE ***
+doc63sb : montre [9c Kd] (un brelan de Neuf)
+doudou78000 : montre [5c 5d] (double paire, Neuf et Cinq)
+doc63sb a remporté 6185  lors du pot .
+doudou78000 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 6185 | Commission 0 
+Tableau [Jd 9h Ah 9d 4d]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : doc63sb (petite blind) a montré [9c Kd] et a gagné (6185) avec un brelan de Neuf
+Siège 4 : doudou78000 (grosse blind) a montré [5c 5d] et a perdu avec double paire, Neuf et Cinq
+
+
+
+Main PokerStars n°238106721643 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 20/08/2022 17:33:15 CET [20/08/2022 11:33:15 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (9305 en jetons) 
+Place 3: doc63sb (10695 en jetons) 
+psychoman59 : met l'ante. 25
+doc63sb : met l'ante. 25
+doc63sb : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 3c]
+doc63sb : relance. 200 à 400
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à doc63sb.
+doc63sb a remporté 450  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : doc63sb (bouton) (petite blind) a remporté (450)
+
+
+
+Main PokerStars n°238106724616 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 20/08/2022 17:33:25 CET [20/08/2022 11:33:25 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (9080 en jetons) 
+Place 3: doc63sb (10920 en jetons) 
+psychoman59 : met l'ante. 25
+doc63sb : met l'ante. 25
+psychoman59 : met la petite blind. 100
+doc63sb : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 8s]
+psychoman59 : suit. 100
+doc63sb : parole 
+*** FLOP *** [Qd 9c Kd]
+doc63sb : parole 
+psychoman59 : mise. 450
+doc63sb : passe. 
+Personne n'a suivi. (450) sont retournés à psychoman59.
+psychoman59 a remporté 450  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [Qd 9c Kd]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (450)
+Siège 3 : doc63sb (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238106729676 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 20/08/2022 17:33:43 CET [20/08/2022 11:33:43 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (9305 en jetons) 
+Place 3: doc63sb (10695 en jetons) 
+psychoman59 : met l'ante. 25
+doc63sb : met l'ante. 25
+doc63sb : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Qd]
+doc63sb : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 250  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (250)
+Siège 3 : doc63sb (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238106731782 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 20/08/2022 17:33:51 CET [20/08/2022 11:33:51 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (9430 en jetons) 
+Place 3: doc63sb (10570 en jetons) 
+psychoman59 : met l'ante. 25
+doc63sb : met l'ante. 25
+psychoman59 : met la petite blind. 100
+doc63sb : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ad]
+psychoman59 : relance. 450 à 650
+doc63sb : suit. 450
+*** FLOP *** [Ac 9s 2d]
+doc63sb : parole 
+psychoman59 : mise. 675
+doc63sb : passe. 
+Personne n'a suivi. (675) sont retournés à psychoman59.
+psychoman59 a remporté 1350  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1350 | Commission 0 
+Tableau [Ac 9s 2d]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (1350)
+Siège 3 : doc63sb (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238106737641 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 20/08/2022 17:34:11 CET [20/08/2022 11:34:11 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (10105 en jetons) 
+Place 3: doc63sb (9895 en jetons) 
+psychoman59 : met l'ante. 25
+doc63sb : met l'ante. 25
+doc63sb : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 8h]
+doc63sb : relance. 200 à 400
+psychoman59 : suit. 200
+*** FLOP *** [6s Ac 9d]
+psychoman59 : parole 
+doc63sb : mise. 400
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à doc63sb.
+doc63sb a remporté 850  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 850 | Commission 0 
+Tableau [6s Ac 9d]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : doc63sb (bouton) (petite blind) a remporté (850)
+
+
+
+Main PokerStars n°238106743085 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 20/08/2022 17:34:31 CET [20/08/2022 11:34:31 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (9680 en jetons) 
+Place 3: doc63sb (10320 en jetons) 
+psychoman59 : met l'ante. 25
+doc63sb : met l'ante. 25
+psychoman59 : met la petite blind. 100
+doc63sb : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Kc]
+psychoman59 : relance. 450 à 650
+doc63sb : passe. 
+Personne n'a suivi. (450) sont retournés à psychoman59.
+psychoman59 a remporté 450  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (450)
+Siège 3 : doc63sb (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238106746407 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 20/08/2022 17:34:42 CET [20/08/2022 11:34:42 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (9905 en jetons) 
+Place 3: doc63sb (10095 en jetons) 
+psychoman59 : met l'ante. 25
+doc63sb : met l'ante. 25
+doc63sb : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Kh]
+doc63sb : relance. 200 à 400
+psychoman59 : suit. 200
+*** FLOP *** [4c 6h Qd]
+psychoman59 : parole 
+doc63sb : mise. 400
+psychoman59 : suit. 400
+*** TOURNANT *** [4c 6h Qd] [Ad]
+psychoman59 : parole 
+doc63sb : mise. 1200
+psychoman59 : passe. 
+Personne n'a suivi. (1200) sont retournés à doc63sb.
+doc63sb a remporté 1650  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1650 | Commission 0 
+Tableau [4c 6h Qd Ad]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : doc63sb (bouton) (petite blind) a remporté (1650)
+
+
+
+Main PokerStars n°238106757248 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 20/08/2022 17:35:21 CET [20/08/2022 11:35:21 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (9080 en jetons) 
+Place 3: doc63sb (10920 en jetons) 
+psychoman59 : met l'ante. 25
+doc63sb : met l'ante. 25
+psychoman59 : met la petite blind. 100
+doc63sb : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Js]
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à doc63sb.
+doc63sb a remporté 250  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : doc63sb (grosse blind) a remporté (250)
+
+
+
+Main PokerStars n°238106759958 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 20/08/2022 17:35:30 CET [20/08/2022 11:35:30 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (8955 en jetons) 
+Place 3: doc63sb (11045 en jetons) 
+psychoman59 : met l'ante. 30
+doc63sb : met l'ante. 30
+doc63sb : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 5s]
+doc63sb : relance. 250 à 500
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à doc63sb.
+doc63sb a remporté 560  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : doc63sb (bouton) (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°238106763222 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 20/08/2022 17:35:42 CET [20/08/2022 11:35:42 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (8675 en jetons) 
+Place 3: doc63sb (11325 en jetons) 
+psychoman59 : met l'ante. 30
+doc63sb : met l'ante. 30
+psychoman59 : met la petite blind. 125
+doc63sb : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 7d]
+psychoman59 : relance. 250 à 500
+doc63sb : suit. 250
+*** FLOP *** [5h 5s Js]
+doc63sb : parole 
+psychoman59 : mise. 530
+doc63sb : passe. 
+Personne n'a suivi. (530) sont retournés à psychoman59.
+psychoman59 a remporté 1060  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1060 | Commission 0 
+Tableau [5h 5s Js]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (1060)
+Siège 3 : doc63sb (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238106769177 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 20/08/2022 17:36:03 CET [20/08/2022 11:36:03 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (9205 en jetons) 
+Place 3: doc63sb (10795 en jetons) 
+psychoman59 : met l'ante. 30
+doc63sb : met l'ante. 30
+doc63sb : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 7s]
+doc63sb : passe. 
+Personne n'a suivi. (125) sont retournés à psychoman59.
+psychoman59 a remporté 310  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (310)
+Siège 3 : doc63sb (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238106772104 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 20/08/2022 17:36:13 CET [20/08/2022 11:36:13 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (9360 en jetons) 
+Place 3: doc63sb (10640 en jetons) 
+psychoman59 : met l'ante. 30
+doc63sb : met l'ante. 30
+psychoman59 : met la petite blind. 125
+doc63sb : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 3d]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à doc63sb.
+doc63sb a remporté 310  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : doc63sb (grosse blind) a remporté (310)
+
+
+
+Main PokerStars n°238106774294 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 20/08/2022 17:36:21 CET [20/08/2022 11:36:21 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (9205 en jetons) 
+Place 3: doc63sb (10795 en jetons) 
+psychoman59 : met l'ante. 30
+doc63sb : met l'ante. 30
+doc63sb : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Jd]
+doc63sb : relance. 250 à 500
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à doc63sb.
+doc63sb a remporté 560  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : doc63sb (bouton) (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°238106777806 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 20/08/2022 17:36:33 CET [20/08/2022 11:36:33 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (8925 en jetons) 
+Place 3: doc63sb (11075 en jetons) 
+psychoman59 : met l'ante. 30
+doc63sb : met l'ante. 30
+psychoman59 : met la petite blind. 125
+doc63sb : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Qc]
+psychoman59 : relance. 250 à 500
+doc63sb : suit. 250
+*** FLOP *** [Ad 7s 8h]
+doc63sb : parole 
+psychoman59 : mise. 1060
+doc63sb : passe. 
+Personne n'a suivi. (1060) sont retournés à psychoman59.
+psychoman59 a remporté 1060  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1060 | Commission 0 
+Tableau [Ad 7s 8h]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (1060)
+Siège 3 : doc63sb (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238106784674 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 20/08/2022 17:36:53 CET [20/08/2022 11:36:53 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (9455 en jetons) 
+Place 3: doc63sb (10545 en jetons) 
+psychoman59 : met l'ante. 30
+doc63sb : met l'ante. 30
+doc63sb : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 4c]
+doc63sb : suit. 125
+psychoman59 : parole 
+*** FLOP *** [7h Js 7c]
+psychoman59 : parole 
+doc63sb : mise. 250
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à doc63sb.
+doc63sb a remporté 560  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [7h Js 7c]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : doc63sb (bouton) (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°238106789966 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 20/08/2022 17:37:12 CET [20/08/2022 11:37:12 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (9175 en jetons) 
+Place 3: doc63sb (10825 en jetons) 
+psychoman59 : met l'ante. 30
+doc63sb : met l'ante. 30
+psychoman59 : met la petite blind. 125
+doc63sb : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à doc63sb.
+doc63sb a remporté 310  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : doc63sb (grosse blind) a remporté (310)
+
+
+
+Main PokerStars n°238106792177 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 20/08/2022 17:37:19 CET [20/08/2022 11:37:19 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (9020 en jetons) 
+Place 3: doc63sb (10980 en jetons) 
+psychoman59 : met l'ante. 30
+doc63sb : met l'ante. 30
+doc63sb : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Kh]
+doc63sb : relance. 250 à 500
+psychoman59 : suit. 250
+*** FLOP *** [6s Th 4s]
+psychoman59 : parole 
+doc63sb : mise. 424
+psychoman59 : passe. 
+Personne n'a suivi. (424) sont retournés à doc63sb.
+doc63sb a remporté 1060  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1060 | Commission 0 
+Tableau [6s Th 4s]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : doc63sb (bouton) (petite blind) a remporté (1060)
+
+
+
+Main PokerStars n°238106796968 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 20/08/2022 17:37:36 CET [20/08/2022 11:37:36 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (8490 en jetons) 
+Place 3: doc63sb (11510 en jetons) 
+psychoman59 : met l'ante. 30
+doc63sb : met l'ante. 30
+psychoman59 : met la petite blind. 125
+doc63sb : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Td]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à doc63sb.
+doc63sb a remporté 310  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : doc63sb (grosse blind) a remporté (310)
+
+
+
+Main PokerStars n°238106799053 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 20/08/2022 17:37:44 CET [20/08/2022 11:37:44 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (8335 en jetons) 
+Place 3: doc63sb (11665 en jetons) 
+psychoman59 : met l'ante. 30
+doc63sb : met l'ante. 30
+doc63sb : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Ts]
+doc63sb : relance. 250 à 500
+psychoman59 : suit. 250
+*** FLOP *** [Th 2c Ks]
+psychoman59 : parole 
+doc63sb : mise. 742
+psychoman59 : suit. 742
+*** TOURNANT *** [Th 2c Ks] [9h]
+psychoman59 : parole 
+doc63sb : parole 
+*** RIVIÈRE *** [Th 2c Ks 9h] [Jh]
+psychoman59 : mise. 2544
+doc63sb : passe. 
+Personne n'a suivi. (2544) sont retournés à psychoman59.
+psychoman59 a remporté 2544  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2544 | Commission 0 
+Tableau [Th 2c Ks 9h Jh]
+Siège 2 : psychoman59 (grosse blind) a remporté (2544)
+Siège 3 : doc63sb (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238106807464 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 20/08/2022 17:38:13 CET [20/08/2022 11:38:13 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (9607 en jetons) 
+Place 3: doc63sb (10393 en jetons) 
+psychoman59 : met l'ante. 30
+doc63sb : met l'ante. 30
+psychoman59 : met la petite blind. 125
+doc63sb : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Jh]
+psychoman59 : relance. 560 à 810
+doc63sb : passe. 
+Personne n'a suivi. (560) sont retournés à psychoman59.
+psychoman59 a remporté 560  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (560)
+Siège 3 : doc63sb (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238106810881 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 20/08/2022 17:38:25 CET [20/08/2022 11:38:25 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (9887 en jetons) 
+Place 3: doc63sb (10113 en jetons) 
+psychoman59 : met l'ante. 30
+doc63sb : met l'ante. 30
+doc63sb : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Kd]
+doc63sb : relance. 250 à 500
+psychoman59 : suit. 250
+*** FLOP *** [Ac 9d 2d]
+psychoman59 : parole 
+doc63sb : mise. 500
+psychoman59 : relance. 750 à 1250
+doc63sb : suit. 750
+*** TOURNANT *** [Ac 9d 2d] [6h]
+psychoman59 : mise. 1780
+doc63sb : passe. 
+Personne n'a suivi. (1780) sont retournés à psychoman59.
+psychoman59 a remporté 3560  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 3560 | Commission 0 
+Tableau [Ac 9d 2d 6h]
+Siège 2 : psychoman59 (grosse blind) a remporté (3560)
+Siège 3 : doc63sb (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238106822887 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 20/08/2022 17:39:07 CET [20/08/2022 11:39:07 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (11667 en jetons) 
+Place 3: doc63sb (8333 en jetons) 
+psychoman59 : met l'ante. 40
+doc63sb : met l'ante. 40
+psychoman59 : met la petite blind. 150
+doc63sb : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Js]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à doc63sb.
+doc63sb a remporté 380  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : doc63sb (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°238106825143 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 20/08/2022 17:39:15 CET [20/08/2022 11:39:15 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (11477 en jetons) 
+Place 3: doc63sb (8523 en jetons) 
+psychoman59 : met l'ante. 40
+doc63sb : met l'ante. 40
+doc63sb : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 7d]
+doc63sb : relance. 300 à 600
+psychoman59 : relance. 10837 à 11437 et est all-in.
+doc63sb : passe. [4h 4d]
+Personne n'a suivi. (10837) sont retournés à psychoman59.
+psychoman59 a remporté 1280  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1280 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (1280)
+Siège 3 : doc63sb (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238106830076 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 20/08/2022 17:39:32 CET [20/08/2022 11:39:32 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (12117 en jetons) 
+Place 3: doc63sb (7883 en jetons) 
+psychoman59 : met l'ante. 40
+doc63sb : met l'ante. 40
+psychoman59 : met la petite blind. 150
+doc63sb : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à doc63sb.
+doc63sb a remporté 380  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : doc63sb (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°238106832227 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 20/08/2022 17:39:40 CET [20/08/2022 11:39:40 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (11927 en jetons) 
+Place 3: doc63sb (8073 en jetons) 
+psychoman59 : met l'ante. 40
+doc63sb : met l'ante. 40
+doc63sb : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 8c]
+doc63sb : relance. 300 à 600
+psychoman59 : suit. 300
+*** FLOP *** [5c Ks Js]
+psychoman59 : parole 
+doc63sb : mise. 600
+psychoman59 : passe. 
+Personne n'a suivi. (600) sont retournés à doc63sb.
+doc63sb a remporté 1280  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1280 | Commission 0 
+Tableau [5c Ks Js]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : doc63sb (bouton) (petite blind) a remporté (1280)
+
+
+
+Main PokerStars n°238106837752 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 20/08/2022 17:39:59 CET [20/08/2022 11:39:59 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (11287 en jetons) 
+Place 3: doc63sb (8713 en jetons) 
+psychoman59 : met l'ante. 40
+doc63sb : met l'ante. 40
+psychoman59 : met la petite blind. 150
+doc63sb : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à doc63sb.
+doc63sb a remporté 380  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : doc63sb (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°238106840096 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 20/08/2022 17:40:07 CET [20/08/2022 11:40:07 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (11097 en jetons) 
+Place 3: doc63sb (8903 en jetons) 
+psychoman59 : met l'ante. 40
+doc63sb : met l'ante. 40
+doc63sb : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 9h]
+doc63sb : relance. 300 à 600
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à doc63sb.
+doc63sb a remporté 680  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : doc63sb (bouton) (petite blind) a remporté (680)
+
+
+
+Main PokerStars n°238106842980 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 20/08/2022 17:40:18 CET [20/08/2022 11:40:18 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (10757 en jetons) 
+Place 3: doc63sb (9243 en jetons) 
+psychoman59 : met l'ante. 40
+doc63sb : met l'ante. 40
+psychoman59 : met la petite blind. 150
+doc63sb : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ad]
+psychoman59 : relance. 10417 à 10717 et est all-in.
+doc63sb : passe. [As]
+Personne n'a suivi. (10417) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (680)
+Siège 3 : doc63sb (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238106846896 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 20/08/2022 17:40:31 CET [20/08/2022 11:40:31 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (11097 en jetons) 
+Place 3: doc63sb (8903 en jetons) 
+psychoman59 : met l'ante. 40
+doc63sb : met l'ante. 40
+doc63sb : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 5h]
+doc63sb : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 380  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (380)
+Siège 3 : doc63sb (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238106849096 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 20/08/2022 17:40:39 CET [20/08/2022 11:40:39 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (11287 en jetons) 
+Place 3: doc63sb (8713 en jetons) 
+psychoman59 : met l'ante. 40
+doc63sb : met l'ante. 40
+psychoman59 : met la petite blind. 150
+doc63sb : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Kh]
+psychoman59 : relance. 10947 à 11247 et est all-in.
+doc63sb : passe. 
+Personne n'a suivi. (10947) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (680)
+Siège 3 : doc63sb (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238106852602 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 20/08/2022 17:40:52 CET [20/08/2022 11:40:52 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (11627 en jetons) 
+Place 3: doc63sb (8373 en jetons) 
+psychoman59 : met l'ante. 40
+doc63sb : met l'ante. 40
+doc63sb : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Th]
+doc63sb : relance. 300 à 600
+psychoman59 : suit. 300
+*** FLOP *** [6h 3h 2s]
+psychoman59 : parole 
+doc63sb : parole 
+*** TOURNANT *** [6h 3h 2s] [9d]
+psychoman59 : parole 
+doc63sb : mise. 750
+psychoman59 : passe. 
+Personne n'a suivi. (750) sont retournés à doc63sb.
+doc63sb a remporté 1280  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1280 | Commission 0 
+Tableau [6h 3h 2s 9d]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : doc63sb (bouton) (petite blind) a remporté (1280)
+
+
+
+Main PokerStars n°238106865567 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 20/08/2022 17:41:18 CET [20/08/2022 11:41:18 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (10987 en jetons) 
+Place 3: doc63sb (9013 en jetons) 
+psychoman59 : met l'ante. 40
+doc63sb : met l'ante. 40
+psychoman59 : met la petite blind. 150
+doc63sb : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à doc63sb.
+doc63sb a remporté 380  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : doc63sb (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°238106868679 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 20/08/2022 17:41:29 CET [20/08/2022 11:41:29 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (10797 en jetons) 
+Place 3: doc63sb (9203 en jetons) 
+psychoman59 : met l'ante. 50
+doc63sb : met l'ante. 50
+doc63sb : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 4h]
+doc63sb : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 500  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (500)
+Siège 3 : doc63sb (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238106870878 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 20/08/2022 17:41:37 CET [20/08/2022 11:41:37 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (11047 en jetons) 
+Place 3: doc63sb (8953 en jetons) 
+psychoman59 : met l'ante. 50
+doc63sb : met l'ante. 50
+psychoman59 : met la petite blind. 200
+doc63sb : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à doc63sb.
+doc63sb a remporté 500  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : doc63sb (grosse blind) a remporté (500)
+
+
+
+Main PokerStars n°238106873174 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 20/08/2022 17:41:45 CET [20/08/2022 11:41:45 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (10797 en jetons) 
+Place 3: doc63sb (9203 en jetons) 
+psychoman59 : met l'ante. 50
+doc63sb : met l'ante. 50
+doc63sb : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 5h]
+doc63sb : suit. 200
+psychoman59 : parole 
+*** FLOP *** [Js 4c 2c]
+psychoman59 : parole 
+doc63sb : mise. 400
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à doc63sb.
+doc63sb a remporté 900  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [Js 4c 2c]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : doc63sb (bouton) (petite blind) a remporté (900)
+
+
+
+Main PokerStars n°238106880747 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 20/08/2022 17:42:12 CET [20/08/2022 11:42:12 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (10347 en jetons) 
+Place 3: doc63sb (9653 en jetons) 
+psychoman59 : met l'ante. 50
+doc63sb : met l'ante. 50
+psychoman59 : met la petite blind. 200
+doc63sb : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à doc63sb.
+doc63sb a remporté 500  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : doc63sb (grosse blind) a remporté (500)
+
+
+
+Main PokerStars n°238106883043 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 20/08/2022 17:42:20 CET [20/08/2022 11:42:20 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (10097 en jetons) 
+Place 3: doc63sb (9903 en jetons) 
+psychoman59 : met l'ante. 50
+doc63sb : met l'ante. 50
+doc63sb : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 4d]
+doc63sb : relance. 400 à 800
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à doc63sb.
+doc63sb a remporté 900  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : doc63sb (bouton) (petite blind) a remporté (900)
+
+
+
+Main PokerStars n°238106885787 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 20/08/2022 17:42:29 CET [20/08/2022 11:42:29 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (9647 en jetons) 
+Place 3: doc63sb (10353 en jetons) 
+psychoman59 : met l'ante. 50
+doc63sb : met l'ante. 50
+psychoman59 : met la petite blind. 200
+doc63sb : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à doc63sb.
+doc63sb a remporté 500  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : doc63sb (grosse blind) a remporté (500)
+
+
+
+Main PokerStars n°238106890008 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 20/08/2022 17:42:44 CET [20/08/2022 11:42:44 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (9397 en jetons) 
+Place 3: doc63sb (10603 en jetons) 
+psychoman59 : met l'ante. 50
+doc63sb : met l'ante. 50
+doc63sb : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Kh]
+doc63sb : relance. 400 à 800
+psychoman59 : suit. 400
+*** FLOP *** [Th Jc 6h]
+psychoman59 : mise. 8547 et est all-in.
+doc63sb : passe. 
+Personne n'a suivi. (8547) sont retournés à psychoman59.
+psychoman59 a remporté 1700  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1700 | Commission 0 
+Tableau [Th Jc 6h]
+Siège 2 : psychoman59 (grosse blind) a remporté (1700)
+Siège 3 : doc63sb (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238106894630 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 20/08/2022 17:43:00 CET [20/08/2022 11:43:00 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (10247 en jetons) 
+Place 3: doc63sb (9753 en jetons) 
+psychoman59 : met l'ante. 50
+doc63sb : met l'ante. 50
+psychoman59 : met la petite blind. 200
+doc63sb : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Kc]
+psychoman59 : relance. 900 à 1300
+doc63sb : passe. 
+Personne n'a suivi. (900) sont retournés à psychoman59.
+psychoman59 a remporté 900  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (900)
+Siège 3 : doc63sb (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238106898166 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 20/08/2022 17:43:12 CET [20/08/2022 11:43:12 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (10697 en jetons) 
+Place 3: doc63sb (9303 en jetons) 
+psychoman59 : met l'ante. 50
+doc63sb : met l'ante. 50
+doc63sb : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 4h]
+doc63sb : relance. 400 à 800
+psychoman59 : suit. 400
+*** FLOP *** [9c As Th]
+psychoman59 : parole 
+doc63sb : mise. 1200
+psychoman59 : passe. 
+Personne n'a suivi. (1200) sont retournés à doc63sb.
+doc63sb a remporté 1700  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1700 | Commission 0 
+Tableau [9c As Th]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : doc63sb (bouton) (petite blind) a remporté (1700)
+
+
+
+Main PokerStars n°238106905422 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 20/08/2022 17:43:37 CET [20/08/2022 11:43:37 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (9847 en jetons) 
+Place 3: doc63sb (10153 en jetons) 
+psychoman59 : met l'ante. 50
+doc63sb : met l'ante. 50
+psychoman59 : met la petite blind. 200
+doc63sb : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Jc]
+psychoman59 : relance. 900 à 1300
+doc63sb : passe. 
+Personne n'a suivi. (900) sont retournés à psychoman59.
+psychoman59 a remporté 900  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (900)
+Siège 3 : doc63sb (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238106909077 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 20/08/2022 17:43:50 CET [20/08/2022 11:43:50 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (10297 en jetons) 
+Place 3: doc63sb (9703 en jetons) 
+psychoman59 : met l'ante. 50
+doc63sb : met l'ante. 50
+doc63sb : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 9s]
+doc63sb : suit. 200
+psychoman59 : relance. 9847 à 10247 et est all-in.
+doc63sb : passe. 
+Personne n'a suivi. (9847) sont retournés à psychoman59.
+psychoman59 a remporté 900  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (900)
+Siège 3 : doc63sb (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238106912699 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 20/08/2022 17:44:02 CET [20/08/2022 11:44:02 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (10747 en jetons) 
+Place 3: doc63sb (9253 en jetons) 
+psychoman59 : met l'ante. 50
+doc63sb : met l'ante. 50
+psychoman59 : met la petite blind. 200
+doc63sb : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Jh]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à doc63sb.
+doc63sb a remporté 500  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : doc63sb (grosse blind) a remporté (500)
+
+
+
+Main PokerStars n°238106914982 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 20/08/2022 17:44:10 CET [20/08/2022 11:44:10 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (10497 en jetons) 
+Place 3: doc63sb (9503 en jetons) 
+psychoman59 : met l'ante. 50
+doc63sb : met l'ante. 50
+doc63sb : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 9d]
+doc63sb : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 500  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (500)
+Siège 3 : doc63sb (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238106917397 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 20/08/2022 17:44:18 CET [20/08/2022 11:44:18 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (10747 en jetons) 
+Place 3: doc63sb (9253 en jetons) 
+psychoman59 : met l'ante. 50
+doc63sb : met l'ante. 50
+psychoman59 : met la petite blind. 200
+doc63sb : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 9s]
+psychoman59 : suit. 200
+doc63sb : parole 
+*** FLOP *** [Ts 9d 2c]
+doc63sb : parole 
+psychoman59 : mise. 900
+doc63sb : passe. 
+Personne n'a suivi. (900) sont retournés à psychoman59.
+psychoman59 a remporté 900  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [Ts 9d 2c]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (900)
+Siège 3 : doc63sb (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238106924376 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 20/08/2022 17:44:43 CET [20/08/2022 11:44:43 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (11197 en jetons) 
+Place 3: doc63sb (8803 en jetons) 
+psychoman59 : met l'ante. 60
+doc63sb : met l'ante. 60
+doc63sb : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Jd]
+doc63sb : relance. 8243 à 8743 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (8243) sont retournés à doc63sb.
+doc63sb a remporté 1120  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : doc63sb (bouton) (petite blind) a remporté (1120)
+
+
+
+Main PokerStars n°238106927929 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 20/08/2022 17:44:55 CET [20/08/2022 11:44:55 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (10637 en jetons) 
+Place 3: doc63sb (9363 en jetons) 
+psychoman59 : met l'ante. 60
+doc63sb : met l'ante. 60
+psychoman59 : met la petite blind. 250
+doc63sb : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Js]
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à doc63sb.
+doc63sb a remporté 620  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : doc63sb (grosse blind) a remporté (620)
+
+
+
+Main PokerStars n°238106929987 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 20/08/2022 17:45:02 CET [20/08/2022 11:45:02 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (10327 en jetons) 
+Place 3: doc63sb (9673 en jetons) 
+psychoman59 : met l'ante. 60
+doc63sb : met l'ante. 60
+doc63sb : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 5d]
+doc63sb : suit. 250
+psychoman59 : parole 
+*** FLOP *** [As 8c 8s]
+psychoman59 : parole 
+doc63sb : parole 
+*** TOURNANT *** [As 8c 8s] [Th]
+psychoman59 : parole 
+doc63sb : parole 
+*** RIVIÈRE *** [As 8c 8s Th] [8d]
+psychoman59 : parole 
+doc63sb : mise. 750
+psychoman59 : passe. 
+Personne n'a suivi. (750) sont retournés à doc63sb.
+doc63sb a remporté 1120  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1120 | Commission 0 
+Tableau [As 8c 8s Th 8d]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : doc63sb (bouton) (petite blind) a remporté (1120)
+
+
+
+Main PokerStars n°238106939994 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 20/08/2022 17:45:35 CET [20/08/2022 11:45:35 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (9767 en jetons) 
+Place 3: doc63sb (10233 en jetons) 
+psychoman59 : met l'ante. 60
+doc63sb : met l'ante. 60
+psychoman59 : met la petite blind. 250
+doc63sb : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Qh]
+psychoman59 : suit. 250
+doc63sb : parole 
+*** FLOP *** [Ts 5c Qs]
+doc63sb : parole 
+psychoman59 : mise. 1120
+doc63sb : passe. 
+Personne n'a suivi. (1120) sont retournés à psychoman59.
+psychoman59 a remporté 1120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1120 | Commission 0 
+Tableau [Ts 5c Qs]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (1120)
+Siège 3 : doc63sb (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238106947321 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 20/08/2022 17:46:00 CET [20/08/2022 11:46:00 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (10327 en jetons) 
+Place 3: doc63sb (9673 en jetons) 
+psychoman59 : met l'ante. 60
+doc63sb : met l'ante. 60
+doc63sb : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 6d]
+doc63sb : suit. 250
+psychoman59 : parole 
+*** FLOP *** [7d Qh Js]
+psychoman59 : parole 
+doc63sb : mise. 500
+psychoman59 : relance. 1060 à 1560
+doc63sb : suit. 1060
+*** TOURNANT *** [7d Qh Js] [2c]
+psychoman59 : mise. 4240
+doc63sb : passe. 
+Personne n'a suivi. (4240) sont retournés à psychoman59.
+psychoman59 a remporté 4240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 4240 | Commission 0 
+Tableau [7d Qh Js 2c]
+Siège 2 : psychoman59 (grosse blind) a remporté (4240)
+Siège 3 : doc63sb (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238106959112 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 20/08/2022 17:46:40 CET [20/08/2022 11:46:40 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (12447 en jetons) 
+Place 3: doc63sb (7553 en jetons) 
+psychoman59 : met l'ante. 60
+doc63sb : met l'ante. 60
+psychoman59 : met la petite blind. 250
+doc63sb : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Kh]
+psychoman59 : suit. 250
+doc63sb : parole 
+*** FLOP *** [Kd Ah Th]
+doc63sb : parole 
+psychoman59 : mise. 1120
+doc63sb : passe. 
+Personne n'a suivi. (1120) sont retournés à psychoman59.
+psychoman59 a remporté 1120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1120 | Commission 0 
+Tableau [Kd Ah Th]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (1120)
+Siège 3 : doc63sb (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238106965394 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 20/08/2022 17:47:01 CET [20/08/2022 11:47:01 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (13007 en jetons) 
+Place 3: doc63sb (6993 en jetons) 
+psychoman59 : met l'ante. 60
+doc63sb : met l'ante. 60
+doc63sb : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 9d]
+doc63sb : relance. 6433 à 6933 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (6433) sont retournés à doc63sb.
+doc63sb a remporté 1120  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : doc63sb (bouton) (petite blind) a remporté (1120)
+
+
+
+Main PokerStars n°238106969942 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 20/08/2022 17:47:16 CET [20/08/2022 11:47:16 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (12447 en jetons) 
+Place 3: doc63sb (7553 en jetons) 
+psychoman59 : met l'ante. 60
+doc63sb : met l'ante. 60
+psychoman59 : met la petite blind. 250
+doc63sb : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Ks]
+psychoman59 : relance. 1120 à 1620
+doc63sb : passe. 
+Personne n'a suivi. (1120) sont retournés à psychoman59.
+psychoman59 a remporté 1120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1120 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (1120)
+Siège 3 : doc63sb (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238106974339 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 20/08/2022 17:47:31 CET [20/08/2022 11:47:31 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (13007 en jetons) 
+Place 3: doc63sb (6993 en jetons) 
+psychoman59 : met l'ante. 70
+doc63sb : met l'ante. 70
+doc63sb : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 6h]
+doc63sb : relance. 6323 à 6923 et est all-in.
+psychoman59 : suit. 6323
+*** FLOP *** [5h 3c Qc]
+*** TOURNANT *** [5h 3c Qc] [Jd]
+*** RIVIÈRE *** [5h 3c Qc Jd] [8d]
+*** ABATTAGE ***
+psychoman59 : montre [Kh 6h] (Hauteur Roi)
+doc63sb : montre [9s Ks] (Hauteur Roi - Dame+Valet+Neuf kicker)
+doc63sb a remporté 13986  lors du pot .
+*** SYNTHÈSE ***
+Pot total 13986 | Commission 0 
+Tableau [5h 3c Qc Jd 8d]
+Siège 2 : psychoman59 (grosse blind) a montré [Kh 6h] et a perdu avec Hauteur Roi
+Siège 3 : doc63sb (bouton) (petite blind) a montré [9s Ks] et a gagné (13986) avec Hauteur Roi
+
+
+
+Main PokerStars n°238106981527 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 20/08/2022 17:47:55 CET [20/08/2022 11:47:55 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (6014 en jetons) 
+Place 3: doc63sb (13986 en jetons) 
+psychoman59 : met l'ante. 70
+doc63sb : met l'ante. 70
+psychoman59 : met la petite blind. 300
+doc63sb : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Qs]
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à doc63sb.
+doc63sb a remporté 740  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : doc63sb (grosse blind) a remporté (740)
+
+
+
+Main PokerStars n°238106983676 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 20/08/2022 17:48:02 CET [20/08/2022 11:48:02 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (5644 en jetons) 
+Place 3: doc63sb (14356 en jetons) 
+psychoman59 : met l'ante. 70
+doc63sb : met l'ante. 70
+doc63sb : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 4h]
+doc63sb : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 740  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (740)
+Siège 3 : doc63sb (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238106986045 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 20/08/2022 17:48:10 CET [20/08/2022 11:48:10 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (6014 en jetons) 
+Place 3: doc63sb (13986 en jetons) 
+psychoman59 : met l'ante. 70
+doc63sb : met l'ante. 70
+psychoman59 : met la petite blind. 300
+doc63sb : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Ah]
+psychoman59 : relance. 600 à 1200
+doc63sb : passe. 
+Personne n'a suivi. (600) sont retournés à psychoman59.
+psychoman59 a remporté 1340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1340 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (1340)
+Siège 3 : doc63sb (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238106989425 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 20/08/2022 17:48:21 CET [20/08/2022 11:48:21 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (6684 en jetons) 
+Place 3: doc63sb (13316 en jetons) 
+psychoman59 : met l'ante. 70
+doc63sb : met l'ante. 70
+doc63sb : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 7s]
+doc63sb : relance. 12646 à 13246 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (12646) sont retournés à doc63sb.
+doc63sb a remporté 1340  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1340 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : doc63sb (bouton) (petite blind) a remporté (1340)
+
+
+
+Main PokerStars n°238106992560 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 20/08/2022 17:48:32 CET [20/08/2022 11:48:32 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (6014 en jetons) 
+Place 3: doc63sb (13986 en jetons) 
+psychoman59 : met l'ante. 70
+doc63sb : met l'ante. 70
+psychoman59 : met la petite blind. 300
+doc63sb : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à doc63sb.
+doc63sb a remporté 740  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : doc63sb (grosse blind) a remporté (740)
+
+
+
+Main PokerStars n°238106995411 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 20/08/2022 17:48:41 CET [20/08/2022 11:48:41 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (5644 en jetons) 
+Place 3: doc63sb (14356 en jetons) 
+psychoman59 : met l'ante. 70
+doc63sb : met l'ante. 70
+doc63sb : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 7c]
+doc63sb : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 740  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (740)
+Siège 3 : doc63sb (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238106998245 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 20/08/2022 17:48:51 CET [20/08/2022 11:48:51 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (6014 en jetons) 
+Place 3: doc63sb (13986 en jetons) 
+psychoman59 : met l'ante. 70
+doc63sb : met l'ante. 70
+psychoman59 : met la petite blind. 300
+doc63sb : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Td]
+psychoman59 : relance. 600 à 1200
+doc63sb : passe. 
+Personne n'a suivi. (600) sont retournés à psychoman59.
+psychoman59 a remporté 1340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1340 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (1340)
+Siège 3 : doc63sb (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238107002397 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 20/08/2022 17:49:05 CET [20/08/2022 11:49:05 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (6684 en jetons) 
+Place 3: doc63sb (13316 en jetons) 
+psychoman59 : met l'ante. 70
+doc63sb : met l'ante. 70
+doc63sb : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Jd]
+doc63sb : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 740  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (740)
+Siège 3 : doc63sb (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238107004532 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 20/08/2022 17:49:12 CET [20/08/2022 11:49:12 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (7054 en jetons) 
+Place 3: doc63sb (12946 en jetons) 
+psychoman59 : met l'ante. 70
+doc63sb : met l'ante. 70
+psychoman59 : met la petite blind. 300
+doc63sb : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à doc63sb.
+doc63sb a remporté 740  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : doc63sb (grosse blind) a remporté (740)
+
+
+
+Main PokerStars n°238107006984 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 20/08/2022 17:49:20 CET [20/08/2022 11:49:20 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (6684 en jetons) 
+Place 3: doc63sb (13316 en jetons) 
+psychoman59 : met l'ante. 70
+doc63sb : met l'ante. 70
+doc63sb : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 8d]
+doc63sb : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 740  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (740)
+Siège 3 : doc63sb (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238107009802 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 20/08/2022 17:49:30 CET [20/08/2022 11:49:30 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (7054 en jetons) 
+Place 3: doc63sb (12946 en jetons) 
+psychoman59 : met l'ante. 70
+doc63sb : met l'ante. 70
+psychoman59 : met la petite blind. 300
+doc63sb : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Kc]
+psychoman59 : relance. 6384 à 6984 et est all-in.
+doc63sb : passe. 
+Personne n'a suivi. (6384) sont retournés à psychoman59.
+psychoman59 a remporté 1340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1340 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (1340)
+Siège 3 : doc63sb (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238107013646 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 20/08/2022 17:49:43 CET [20/08/2022 11:49:43 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (7724 en jetons) 
+Place 3: doc63sb (12276 en jetons) 
+psychoman59 : met l'ante. 70
+doc63sb : met l'ante. 70
+doc63sb : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 9h]
+doc63sb : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 740  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (740)
+Siège 3 : doc63sb (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238107016339 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 20/08/2022 17:49:52 CET [20/08/2022 11:49:52 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (8094 en jetons) 
+Place 3: doc63sb (11906 en jetons) 
+psychoman59 : met l'ante. 70
+doc63sb : met l'ante. 70
+psychoman59 : met la petite blind. 300
+doc63sb : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Qh]
+psychoman59 : relance. 7424 à 8024 et est all-in.
+doc63sb : passe. 
+Personne n'a suivi. (7424) sont retournés à psychoman59.
+psychoman59 a remporté 1340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1340 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (1340)
+Siège 3 : doc63sb (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238107019734 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 20/08/2022 17:50:03 CET [20/08/2022 11:50:03 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (8764 en jetons) 
+Place 3: doc63sb (11236 en jetons) 
+psychoman59 : met l'ante. 70
+doc63sb : met l'ante. 70
+doc63sb : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 2d]
+doc63sb : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 740  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (740)
+Siège 3 : doc63sb (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238107022930 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 20/08/2022 17:50:14 CET [20/08/2022 11:50:14 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (9134 en jetons) 
+Place 3: doc63sb (10866 en jetons) 
+psychoman59 : met l'ante. 70
+doc63sb : met l'ante. 70
+psychoman59 : met la petite blind. 300
+doc63sb : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Kd]
+psychoman59 : suit. 300
+doc63sb : parole 
+*** FLOP *** [8c Jc Jh]
+doc63sb : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8c Jc Jh] [Ac]
+doc63sb : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [8c Jc Jh Ac] [7s]
+doc63sb : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+doc63sb : montre [4h 5c] (une paire de Valets)
+psychoman59 : montre [6h Kd] (une paire de Valets - As+Roi kicker)
+psychoman59 a remporté 1340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1340 | Commission 0 
+Tableau [8c Jc Jh Ac 7s]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [6h Kd] et a gagné (1340) avec une paire de Valets
+Siège 3 : doc63sb (grosse blind) a montré [4h 5c] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°238107032579 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 20/08/2022 17:50:47 CET [20/08/2022 11:50:47 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (9804 en jetons) 
+Place 3: doc63sb (10196 en jetons) 
+psychoman59 : met l'ante. 85
+doc63sb : met l'ante. 85
+doc63sb : met la petite blind. 350
+psychoman59 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 2s]
+doc63sb : relance. 9411 à 10111 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (9411) sont retournés à doc63sb.
+doc63sb a remporté 1570  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1570 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : doc63sb (bouton) (petite blind) a remporté (1570)
+
+
+
+Main PokerStars n°238107035464 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 20/08/2022 17:50:57 CET [20/08/2022 11:50:57 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (9019 en jetons) 
+Place 3: doc63sb (10981 en jetons) 
+psychoman59 : met l'ante. 85
+doc63sb : met l'ante. 85
+psychoman59 : met la petite blind. 350
+doc63sb : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 6d]
+psychoman59 : relance. 8234 à 8934 et est all-in.
+doc63sb : passe. 
+Personne n'a suivi. (8234) sont retournés à psychoman59.
+psychoman59 a remporté 1570  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1570 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (1570)
+Siège 3 : doc63sb (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238107038721 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 20/08/2022 17:51:08 CET [20/08/2022 11:51:08 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (9804 en jetons) 
+Place 3: doc63sb (10196 en jetons) 
+psychoman59 : met l'ante. 85
+doc63sb : met l'ante. 85
+doc63sb : met la petite blind. 350
+psychoman59 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 8h]
+doc63sb : relance. 9411 à 10111 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (9411) sont retournés à doc63sb.
+doc63sb a remporté 1570  lors du pot .
+doc63sb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1570 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : doc63sb (bouton) (petite blind) a remporté (1570)
+
+
+
+Main PokerStars n°238107042994 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 20/08/2022 17:51:22 CET [20/08/2022 11:51:22 ET]
+Table '3459081447 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (9019 en jetons) 
+Place 3: doc63sb (10981 en jetons) 
+psychoman59 : met l'ante. 85
+doc63sb : met l'ante. 85
+psychoman59 : met la petite blind. 350
+doc63sb : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Qd]
+psychoman59 : relance. 700 à 1400
+doc63sb : relance. 9496 à 10896 et est all-in.
+psychoman59 : suit. 7534 et est all-in.
+Personne n'a suivi. (1962) sont retournés à doc63sb.
+*** FLOP *** [7h 9h Ts]
+*** TOURNANT *** [7h 9h Ts] [Js]
+*** RIVIÈRE *** [7h 9h Ts Js] [Th]
+*** ABATTAGE ***
+doc63sb : montre [5h As] (une paire de Dix)
+psychoman59 : montre [Tc Qd] (un brelan de Dix)
+psychoman59 a remporté 18038  lors du pot .
+*** SYNTHÈSE ***
+Pot total 18038 | Commission 0 
+Tableau [7h 9h Ts Js Th]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Tc Qd] et a gagné (18038) avec un brelan de Dix
+Siège 3 : doc63sb (grosse blind) a montré [5h As] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°238107048790 : Tournoi #3459081447, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 20/08/2022 17:51:42 CET [20/08/2022 11:51:42 ET]
+Table '3459081447 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (18038 en jetons) 
+Place 3: doc63sb (1962 en jetons) 
+psychoman59 : met l'ante. 85
+doc63sb : met l'ante. 85
+doc63sb : met la petite blind. 350
+psychoman59 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Qc]
+doc63sb : relance. 1177 à 1877 et est all-in.
+psychoman59 : suit. 1177
+*** FLOP *** [2h 6s Ac]
+*** TOURNANT *** [2h 6s Ac] [2c]
+*** RIVIÈRE *** [2h 6s Ac 2c] [Ad]
+*** ABATTAGE ***
+psychoman59 : montre [9s Qc] (double paire, As et Deux)
+doc63sb : montre [4s Jd] (double paire, As et Deux - plus basse kicker)
+psychoman59 a remporté 3924  lors du pot .
+doc63sb a fini le tournoi à la 2e place et a reçu 0.34 €.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 3924 | Commission 0 
+Tableau [2h 6s Ac 2c Ad]
+Siège 2 : psychoman59 (grosse blind) a montré [9s Qc] et a gagné (3924) avec double paire, As et Deux
+Siège 3 : doc63sb (bouton) (petite blind) a montré [4s Jd] et a perdu avec double paire, As et Deux
+
+
+

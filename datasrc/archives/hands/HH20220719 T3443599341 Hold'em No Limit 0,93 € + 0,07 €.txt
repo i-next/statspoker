@@ -1,0 +1,300 @@
+﻿Main PokerStars n°237451016228 : Tournoi #3443599341, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 10:36:21 CET [19/07/2022 4:36:21 ET]
+Table '3443599341 1' 3-max Siège #1 est au bouton.
+Place 1: kekepokerstar (300 en jetons) 
+Place 2: Babi0409 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Babi0409 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 3s]
+kekepokerstar : passe. 
+Babi0409 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2c 7h 7d]
+Babi0409 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2c 7h 7d] [9s]
+Babi0409 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [2c 7h 7d 9s] [4h]
+Babi0409 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Babi0409 : montre [Kd 5s] (une paire de Sept)
+psychoman59 : cache la main perdante. 
+Babi0409 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2c 7h 7d 9s 4h]
+Siège 1 : kekepokerstar (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Babi0409 (petite blind) a montré [Kd 5s] et a gagné (40) avec une paire de Sept
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [Qc 3s]
+
+
+
+Main PokerStars n°237451018426 : Tournoi #3443599341, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 10:36:38 CET [19/07/2022 4:36:38 ET]
+Table '3443599341 1' 3-max Siège #2 est au bouton.
+Place 1: kekepokerstar (300 en jetons) 
+Place 2: Babi0409 (320 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+kekepokerstar : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Kh]
+Babi0409 : suit. 20
+psychoman59 : suit. 10
+kekepokerstar : parole 
+*** FLOP *** [9c 9s Kd]
+psychoman59 : parole 
+kekepokerstar : parole 
+Babi0409 : parole 
+*** TOURNANT *** [9c 9s Kd] [Ah]
+psychoman59 : parole 
+kekepokerstar : parole 
+Babi0409 : parole 
+*** RIVIÈRE *** [9c 9s Kd Ah] [2s]
+psychoman59 : mise. 60
+kekepokerstar : passe. 
+Babi0409 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9c 9s Kd Ah 2s]
+Siège 1 : kekepokerstar (grosse blind) s'est couché. sur le Rivière
+Siège 2 : Babi0409 (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237451020788 : Tournoi #3443599341, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 10:36:56 CET [19/07/2022 4:36:56 ET]
+Table '3443599341 1' 3-max Siège #3 est au bouton.
+Place 1: kekepokerstar (280 en jetons) 
+Place 2: Babi0409 (300 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+kekepokerstar : met la petite blind. 10
+Babi0409 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Jh]
+psychoman59 : relance. 300 à 320 et est all-in.
+kekepokerstar : passe. 
+Babi0409 : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : kekepokerstar (petite blind) s'est couché. avant Flop
+Siège 2 : Babi0409 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°237451021760 : Tournoi #3443599341, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 10:37:04 CET [19/07/2022 4:37:04 ET]
+Table '3443599341 1' 3-max Siège #1 est au bouton.
+Place 1: kekepokerstar (270 en jetons) 
+Place 2: Babi0409 (280 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+Babi0409 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Qs]
+kekepokerstar : relance. 40 à 60
+Babi0409 : suit. 50
+psychoman59 : relance. 290 à 350 et est all-in.
+kekepokerstar : passe. 
+Babi0409 : suit. 220 et est all-in.
+Personne n'a suivi. (70) sont retournés à psychoman59.
+*** FLOP *** [Th Td Ks]
+*** TOURNANT *** [Th Td Ks] [Jc]
+*** RIVIÈRE *** [Th Td Ks Jc] [9h]
+*** ABATTAGE ***
+Babi0409 : montre [As 4h] (une paire de Dix)
+psychoman59 : montre [Qh Qs] (une suite, Neuf à Roi)
+psychoman59 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Th Td Ks Jc 9h]
+Siège 1 : kekepokerstar (bouton) s'est couché. avant Flop
+Siège 2 : Babi0409 (petite blind) a montré [As 4h] et a perdu avec une paire de Dix
+Siège 3 : psychoman59 (grosse blind) a montré [Qh Qs] et a gagné (620) avec une suite, Neuf à Roi
+
+
+
+Main PokerStars n°237451024575 : Tournoi #3443599341, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 10:37:26 CET [19/07/2022 4:37:26 ET]
+Table '3443599341 1' 3-max Siège #3 est au bouton.
+Place 1: kekepokerstar (210 en jetons) 
+Place 3: psychoman59 (690 en jetons) 
+psychoman59 : met la petite blind. 15
+kekepokerstar : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à kekepokerstar.
+kekepokerstar a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : kekepokerstar (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237451025207 : Tournoi #3443599341, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 10:37:31 CET [19/07/2022 4:37:31 ET]
+Table '3443599341 1' 3-max Siège #1 est au bouton.
+Place 1: kekepokerstar (225 en jetons) 
+Place 3: psychoman59 (675 en jetons) 
+kekepokerstar : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 5d]
+kekepokerstar : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : kekepokerstar (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237451025774 : Tournoi #3443599341, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 10:37:36 CET [19/07/2022 4:37:36 ET]
+Table '3443599341 1' 3-max Siège #3 est au bouton.
+Place 1: kekepokerstar (210 en jetons) 
+Place 3: psychoman59 (690 en jetons) 
+psychoman59 : met la petite blind. 15
+kekepokerstar : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à kekepokerstar.
+kekepokerstar a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : kekepokerstar (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237451026336 : Tournoi #3443599341, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 10:37:40 CET [19/07/2022 4:37:40 ET]
+Table '3443599341 1' 3-max Siège #1 est au bouton.
+Place 1: kekepokerstar (225 en jetons) 
+Place 3: psychoman59 (675 en jetons) 
+kekepokerstar : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Qh]
+kekepokerstar : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : kekepokerstar (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237451026899 : Tournoi #3443599341, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 10:37:45 CET [19/07/2022 4:37:45 ET]
+Table '3443599341 1' 3-max Siège #3 est au bouton.
+Place 1: kekepokerstar (210 en jetons) 
+Place 3: psychoman59 (690 en jetons) 
+psychoman59 : met la petite blind. 15
+kekepokerstar : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à kekepokerstar.
+kekepokerstar a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : kekepokerstar (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237451027509 : Tournoi #3443599341, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 10:37:49 CET [19/07/2022 4:37:49 ET]
+Table '3443599341 1' 3-max Siège #1 est au bouton.
+Place 1: kekepokerstar (225 en jetons) 
+Place 3: psychoman59 (675 en jetons) 
+kekepokerstar : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Ac]
+kekepokerstar : relance. 60 à 90
+psychoman59 : relance. 180 à 270
+kekepokerstar : suit. 135 et est all-in.
+Personne n'a suivi. (45) sont retournés à psychoman59.
+*** FLOP *** [Ad 7s Qc]
+*** TOURNANT *** [Ad 7s Qc] [8d]
+*** RIVIÈRE *** [Ad 7s Qc 8d] [Qh]
+*** ABATTAGE ***
+psychoman59 : montre [Td Ac] (double paire, As et Dames)
+kekepokerstar : montre [Qs Jc] (un brelan de Dames)
+kekepokerstar a remporté 450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [Ad 7s Qc 8d Qh]
+Siège 1 : kekepokerstar (bouton) (petite blind) a montré [Qs Jc] et a gagné (450) avec un brelan de Dames
+Siège 3 : psychoman59 (grosse blind) a montré [Td Ac] et a perdu avec double paire, As et Dames
+
+
+
+Main PokerStars n°237451029524 : Tournoi #3443599341, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 10:38:05 CET [19/07/2022 4:38:05 ET]
+Table '3443599341 1' 3-max Siège #3 est au bouton.
+Place 1: kekepokerstar (450 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+psychoman59 : met la petite blind. 15
+kekepokerstar : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 9c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à kekepokerstar.
+kekepokerstar a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : kekepokerstar (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237451030144 : Tournoi #3443599341, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 10:38:10 CET [19/07/2022 4:38:10 ET]
+Table '3443599341 1' 3-max Siège #1 est au bouton.
+Place 1: kekepokerstar (465 en jetons) 
+Place 3: psychoman59 (435 en jetons) 
+kekepokerstar : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 3s]
+kekepokerstar : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : kekepokerstar (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237451030646 : Tournoi #3443599341, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 10:38:14 CET [19/07/2022 4:38:14 ET]
+Table '3443599341 1' 3-max Siège #3 est au bouton.
+Place 1: kekepokerstar (450 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+psychoman59 : met la petite blind. 15
+kekepokerstar : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 7s]
+psychoman59 : relance. 420 à 450 et est all-in.
+kekepokerstar : suit. 420 et est all-in.
+*** FLOP *** [9s 8c As]
+*** TOURNANT *** [9s 8c As] [Qh]
+*** RIVIÈRE *** [9s 8c As Qh] [4c]
+*** ABATTAGE ***
+kekepokerstar : montre [Kd Qd] (une paire de Dames)
+psychoman59 : montre [Ks 7s] (Hauteur As)
+kekepokerstar a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [9s 8c As Qh 4c]
+Siège 1 : kekepokerstar (grosse blind) a montré [Kd Qd] et a gagné (900) avec une paire de Dames
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ks 7s] et a perdu avec Hauteur As
+
+
+

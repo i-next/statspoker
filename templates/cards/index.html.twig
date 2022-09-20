@@ -1,0 +1,41 @@
+<div class="row">
+{%  for card in cards %}
+
+        {% set val = card.value %}
+        {% if val == "A" %}
+            {% set val = "ace" %}
+        {% elseif val == "K" %}
+            {% set val = "king" %}
+        {% elseif val == "Q" %}
+            {% set val = "queen" %}
+        {% elseif val == "J" %}
+            {% set val = "jack" %}
+        {% elseif val == "T" %}
+            {% set val = "10" %}
+        {% endif %}
+
+        {% if card.color == "s" %}
+            {% set color = "spades" %}
+        {% elseif card.color == "d" %}
+            {% set color = "diamonds" %}
+        {% elseif card.color == "c" %}
+            {% set color = "clubs" %}
+        {% else %}
+            {% set color = "hearts" %}
+        {% endif %}
+        {% set card_name = 'build/images/'~val~'_of_'~color~'.png' %}
+        <div class="card text-center col-sm-2 point5 d-flex align-content-center flex-wrap" >
+            <div class="card text-center" style="width: 120px;">
+                <img src="{{ asset(card_name) }}"  class="card-img-top" alt="{{ card_name }}">
+                <div class="card-body">
+                    <h5 class="card-title">{{ card.count }}</h5>
+                    {#<p class="card-text">flop:{{ card.flop }}<br>turn:{{ card.turn }}<br>river:{{ card.river }}</p>#}
+                </div>
+            </div>
+        </div>
+
+    {% if not loop.last and (loop.index%10 == 0) %}
+    </div><div class="row">
+    {% endif %}
+{% endfor %}
+</div>

@@ -1,0 +1,248 @@
+﻿Main PokerStars n°237289793163 : Tournoi #3439826196, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 8:59:59 CET [11/07/2022 2:59:59 ET]
+Table '3439826196 1' 3-max Siège #1 est au bouton.
+Place 1: Max62250 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: le percutant (300 en jetons) 
+psychoman59 : met la petite blind. 10
+le percutant : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Td]
+Max62250 : relance. 20 à 40
+psychoman59 : passe. 
+le percutant : suit. 20
+*** FLOP *** [As Jd Jh]
+le percutant : parole 
+Max62250 : mise. 90
+le percutant : passe. 
+Personne n'a suivi. (90) sont retournés à Max62250.
+Max62250 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [As Jd Jh]
+Siège 1 : Max62250 (bouton) a remporté (90)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : le percutant (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237289796251 : Tournoi #3439826196, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 9:00:34 CET [11/07/2022 3:00:34 ET]
+Table '3439826196 1' 3-max Siège #2 est au bouton.
+Place 1: Max62250 (350 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: le percutant (260 en jetons) 
+le percutant : met la petite blind. 10
+Max62250 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 3c]
+psychoman59 : passe. 
+le percutant : suit. 10
+Max62250 : relance. 40 à 60
+le percutant : suit. 40
+*** FLOP *** [Th 8c 6h]
+le percutant : mise. 60
+Max62250 : suit. 60
+*** TOURNANT *** [Th 8c 6h] [8d]
+le percutant : mise. 120
+Max62250 : suit. 120
+*** RIVIÈRE *** [Th 8c 6h 8d] [As]
+le percutant : parole 
+Max62250 : parole 
+*** ABATTAGE ***
+le percutant : montre [Jh 4h] (une paire de Huit)
+Max62250 : cache la main perdante. 
+le percutant a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Th 8c 6h 8d As]
+Siège 1 : Max62250 (grosse blind) a caché la main perdante. [4s 9s]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : le percutant (petite blind) a montré [Jh 4h] et a gagné (480) avec une paire de Huit
+
+
+
+Main PokerStars n°237289799122 : Tournoi #3439826196, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 9:01:04 CET [11/07/2022 3:01:04 ET]
+Table '3439826196 1' 3-max Siège #3 est au bouton.
+Place 1: Max62250 (110 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: le percutant (500 en jetons) 
+Max62250 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 7s]
+le percutant : passe. 
+Max62250 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6c Tc Th]
+Max62250 : parole 
+psychoman59 : mise. 60
+Max62250 : suit. 60
+*** TOURNANT *** [6c Tc Th] [Kh]
+Max62250 : mise. 20 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Max62250.
+Max62250 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [6c Tc Th Kh]
+Siège 1 : Max62250 (petite blind) a remporté (180)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : le percutant (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237289801116 : Tournoi #3439826196, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 9:01:25 CET [11/07/2022 3:01:25 ET]
+Table '3439826196 1' 3-max Siège #1 est au bouton.
+Place 1: Max62250 (200 en jetons) 
+Place 2: psychoman59 (200 en jetons) 
+Place 3: le percutant (500 en jetons) 
+psychoman59 : met la petite blind. 15
+le percutant : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 4d]
+Max62250 : relance. 30 à 60
+psychoman59 : passe. 
+le percutant : suit. 30
+*** FLOP *** [Ks Kd Ts]
+le percutant : mise. 30
+Max62250 : suit. 30
+*** TOURNANT *** [Ks Kd Ts] [4h]
+le percutant : parole 
+Max62250 : parole 
+*** RIVIÈRE *** [Ks Kd Ts 4h] [2d]
+le percutant : parole 
+Max62250 : mise. 97
+le percutant : passe. 
+Personne n'a suivi. (97) sont retournés à Max62250.
+Max62250 a remporté 195  lors du pot .
+*** SYNTHÈSE ***
+Pot total 195 | Commission 0 
+Tableau [Ks Kd Ts 4h 2d]
+Siège 1 : Max62250 (bouton) a remporté (195)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : le percutant (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237289806334 : Tournoi #3439826196, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 9:02:19 CET [11/07/2022 3:02:19 ET]
+Table '3439826196 1' 3-max Siège #2 est au bouton.
+Place 1: Max62250 (305 en jetons) 
+Place 2: psychoman59 (185 en jetons) 
+Place 3: le percutant (410 en jetons) 
+le percutant : met la petite blind. 20
+Max62250 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 7s]
+psychoman59 : passe. 
+le percutant : suit. 20
+Max62250 : parole 
+*** FLOP *** [9s 2d Ac]
+le percutant : parole 
+Max62250 : parole 
+*** TOURNANT *** [9s 2d Ac] [2h]
+le percutant : parole 
+Max62250 : mise. 80
+le percutant : passe. 
+Personne n'a suivi. (80) sont retournés à Max62250.
+Max62250 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9s 2d Ac 2h]
+Siège 1 : Max62250 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : le percutant (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237289808793 : Tournoi #3439826196, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 9:02:44 CET [11/07/2022 3:02:44 ET]
+Table '3439826196 1' 3-max Siège #3 est au bouton.
+Place 1: Max62250 (345 en jetons) 
+Place 2: psychoman59 (185 en jetons) 
+Place 3: le percutant (370 en jetons) 
+Max62250 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 4h]
+le percutant : relance. 40 à 80
+Max62250 : suit. 60
+psychoman59 : passe. 
+*** FLOP *** [5c 9s Th]
+Max62250 : parole 
+le percutant : mise. 40
+Max62250 : suit. 40
+*** TOURNANT *** [5c 9s Th] [Kd]
+Max62250 : parole 
+le percutant : mise. 40
+Max62250 : suit. 40
+*** RIVIÈRE *** [5c 9s Th Kd] [5d]
+Max62250 : parole 
+le percutant : mise. 40
+Max62250 : passe. 
+Personne n'a suivi. (40) sont retournés à le percutant.
+le percutant a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [5c 9s Th Kd 5d]
+Siège 1 : Max62250 (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : le percutant (bouton) a remporté (360)
+
+
+
+Main PokerStars n°237289811202 : Tournoi #3439826196, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 9:03:09 CET [11/07/2022 3:03:09 ET]
+Table '3439826196 1' 3-max Siège #1 est au bouton.
+Place 1: Max62250 (185 en jetons) 
+Place 2: psychoman59 (145 en jetons) 
+Place 3: le percutant (570 en jetons) 
+psychoman59 : met la petite blind. 30
+le percutant : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Ad]
+Max62250 : suit. 60
+psychoman59 : relance. 85 à 145 et est all-in.
+le percutant : suit. 85
+Max62250 : relance. 40 à 185 et est all-in.
+le percutant : suit. 40
+*** FLOP *** [2d 5h Jc]
+*** TOURNANT *** [2d 5h Jc] [7h]
+*** RIVIÈRE *** [2d 5h Jc 7h] [9s]
+*** ABATTAGE ***
+le percutant : montre [7d 8c] (une paire de Sept)
+Max62250 : montre [2h Ah] (une paire de Deux)
+le percutant a remporté 80  parallèle lors du pot .
+psychoman59 : montre [9c Ad] (une paire de Neuf)
+psychoman59 a remporté 435  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 515 Principal pot 435. Parallèle pot 80. | Commission 0 
+Tableau [2d 5h Jc 7h 9s]
+Siège 1 : Max62250 (bouton) a montré [2h Ah] et a perdu avec une paire de Deux
+Siège 2 : psychoman59 (petite blind) a montré [9c Ad] et a gagné (435) avec une paire de Neuf
+Siège 3 : le percutant (grosse blind) a montré [7d 8c] et a gagné (80) avec une paire de Sept
+
+
+
+Main PokerStars n°237289813665 : Tournoi #3439826196, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 9:03:34 CET [11/07/2022 3:03:34 ET]
+Table '3439826196 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (435 en jetons) 
+Place 3: le percutant (465 en jetons) 
+le percutant : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 7h]
+le percutant : relance. 405 à 465 et est all-in.
+psychoman59 : suit. 375 et est all-in.
+Personne n'a suivi. (30) sont retournés à le percutant.
+*** FLOP *** [6d 9s Kc]
+*** TOURNANT *** [6d 9s Kc] [5c]
+*** RIVIÈRE *** [6d 9s Kc 5c] [4d]
+*** ABATTAGE ***
+psychoman59 : montre [7c 7h] (une paire de Sept)
+le percutant : montre [Ks 9c] (double paire, Rois et Neuf)
+le percutant a remporté 870  lors du pot .
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Tableau [6d 9s Kc 5c 4d]
+Siège 2 : psychoman59 (grosse blind) a montré [7c 7h] et a perdu avec une paire de Sept
+Siège 3 : le percutant (bouton) (petite blind) a montré [Ks 9c] et a gagné (870) avec double paire, Rois et Neuf
+
+
+

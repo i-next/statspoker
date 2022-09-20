@@ -1,0 +1,34 @@
+﻿Main PokerStars n°238577425027 : Tournoi #3470093125, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/09/2022 14:05:40 CET [12/09/2022 8:05:40 ET]
+Table '3470093125 1' 3-max Siège #1 est au bouton.
+Place 1: JamesEBond007 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: bouuuba (300 en jetons) 
+psychoman59 : met la petite blind. 10
+bouuuba : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ah]
+JamesEBond007 : passe. 
+psychoman59 : relance. 20 à 40
+bouuuba : suit. 20
+*** FLOP *** [2c 7h 6c]
+psychoman59 : mise. 40
+bouuuba : suit. 40
+*** TOURNANT *** [2c 7h 6c] [8s]
+psychoman59 : mise. 160
+bouuuba : relance. 60 à 220 et est all-in.
+psychoman59 : suit. 60 et est all-in.
+*** RIVIÈRE *** [2c 7h 6c 8s] [Kc]
+*** ABATTAGE ***
+psychoman59 : montre [9h Ah] (Hauteur As)
+bouuuba : montre [Qc 8h] (une paire de Huit)
+bouuuba a remporté 600  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [2c 7h 6c 8s Kc]
+Siège 1 : JamesEBond007 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [9h Ah] et a perdu avec Hauteur As
+Siège 3 : bouuuba (grosse blind) a montré [Qc 8h] et a gagné (600) avec une paire de Huit
+
+
+

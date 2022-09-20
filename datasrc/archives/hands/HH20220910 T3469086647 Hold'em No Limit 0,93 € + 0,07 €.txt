@@ -1,0 +1,442 @@
+﻿Main PokerStars n°238532052737 : Tournoi #3469086647, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/09/2022 10:26:03 CET [10/09/2022 4:26:03 ET]
+Table '3469086647 1' 3-max Siège #1 est au bouton.
+Place 1: le parrain75 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Tibax (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Tibax : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 6s]
+le parrain75 : passe. 
+psychoman59 : suit. 10
+Tibax : parole 
+*** FLOP *** [7c 8s 5h]
+psychoman59 : mise. 40
+Tibax : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7c 8s 5h]
+Siège 1 : le parrain75 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : Tibax (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238532054572 : Tournoi #3469086647, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/09/2022 10:26:16 CET [10/09/2022 4:26:16 ET]
+Table '3469086647 1' 3-max Siège #2 est au bouton.
+Place 1: le parrain75 (300 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: Tibax (280 en jetons) 
+Tibax : met la petite blind. 10
+le parrain75 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 6d]
+psychoman59 : passe. 
+Tibax : relance. 40 à 60
+le parrain75 : suit. 40
+*** FLOP *** [5d 2d 4s]
+Tibax : mise. 60
+le parrain75 : passe. 
+Personne n'a suivi. (60) sont retournés à Tibax.
+Tibax a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5d 2d 4s]
+Siège 1 : le parrain75 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Tibax (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°238532056431 : Tournoi #3469086647, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/09/2022 10:26:30 CET [10/09/2022 4:26:30 ET]
+Table '3469086647 1' 3-max Siège #3 est au bouton.
+Place 1: le parrain75 (240 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: Tibax (340 en jetons) 
+le parrain75 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 6s]
+Tibax : relance. 40 à 60
+le parrain75 : suit. 50
+psychoman59 : passe. 
+*** FLOP *** [2d Qc 5h]
+le parrain75 : parole 
+Tibax : parole 
+*** TOURNANT *** [2d Qc 5h] [6d]
+le parrain75 : mise. 40
+Tibax : suit. 40
+*** RIVIÈRE *** [2d Qc 5h 6d] [8d]
+le parrain75 : mise. 20
+Tibax : suit. 20
+*** ABATTAGE ***
+le parrain75 : montre [6c Js] (une paire de Six)
+Tibax : montre [Ad 8h] (une paire de Huit)
+Tibax a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [2d Qc 5h 6d 8d]
+Siège 1 : le parrain75 (petite blind) a montré [6c Js] et a perdu avec une paire de Six
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Tibax (bouton) a montré [Ad 8h] et a gagné (260) avec une paire de Huit
+
+
+
+Main PokerStars n°238532059362 : Tournoi #3469086647, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/09/2022 10:26:51 CET [10/09/2022 4:26:51 ET]
+Table '3469086647 1' 3-max Siège #1 est au bouton.
+Place 1: le parrain75 (120 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Tibax (480 en jetons) 
+psychoman59 : met la petite blind. 10
+Tibax : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Js]
+le parrain75 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Tibax.
+Tibax a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : le parrain75 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Tibax (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°238532060460 : Tournoi #3469086647, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/09/2022 10:26:59 CET [10/09/2022 4:26:59 ET]
+Table '3469086647 1' 3-max Siège #2 est au bouton.
+Place 1: le parrain75 (120 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: Tibax (490 en jetons) 
+Tibax : met la petite blind. 10
+le parrain75 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ad]
+psychoman59 : relance. 270 à 290 et est all-in.
+Tibax : passe. 
+le parrain75 : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : le parrain75 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (50)
+Siège 3 : Tibax (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238532062175 : Tournoi #3469086647, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/09/2022 10:27:11 CET [10/09/2022 4:27:11 ET]
+Table '3469086647 1' 3-max Siège #3 est au bouton.
+Place 1: le parrain75 (100 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: Tibax (480 en jetons) 
+le parrain75 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Qc]
+Tibax : passe. 
+le parrain75 : relance. 70 à 100 et est all-in.
+psychoman59 : suit. 70
+*** FLOP *** [Tc 5s 2h]
+*** TOURNANT *** [Tc 5s 2h] [Th]
+*** RIVIÈRE *** [Tc 5s 2h Th] [8d]
+*** ABATTAGE ***
+le parrain75 : montre [As 4d] (une paire de Dix)
+psychoman59 : montre [3h Qc] (une paire de Dix - plus basse kicker)
+le parrain75 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Tc 5s 2h Th 8d]
+Siège 1 : le parrain75 (petite blind) a montré [As 4d] et a gagné (200) avec une paire de Dix
+Siège 2 : psychoman59 (grosse blind) a montré [3h Qc] et a perdu avec une paire de Dix
+Siège 3 : Tibax (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238532064327 : Tournoi #3469086647, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/09/2022 10:27:27 CET [10/09/2022 4:27:27 ET]
+Table '3469086647 1' 3-max Siège #1 est au bouton.
+Place 1: le parrain75 (200 en jetons) 
+Place 2: psychoman59 (220 en jetons) 
+Place 3: Tibax (480 en jetons) 
+psychoman59 : met la petite blind. 15
+Tibax : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Js]
+le parrain75 : relance. 170 à 200 et est all-in.
+psychoman59 : passe. 
+Tibax : suit. 170
+*** FLOP *** [Kh 5s 5c]
+*** TOURNANT *** [Kh 5s 5c] [Ks]
+*** RIVIÈRE *** [Kh 5s 5c Ks] [2d]
+*** ABATTAGE ***
+Tibax : montre [Kc Jc] (un full, full aux Rois par les Cinq)
+le parrain75 : montre [Ah 4h] (double paire, Rois et Cinq)
+Tibax a remporté 415  lors du pot .
+le parrain75 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 415 | Commission 0 
+Tableau [Kh 5s 5c Ks 2d]
+Siège 1 : le parrain75 (bouton) a montré [Ah 4h] et a perdu avec double paire, Rois et Cinq
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Tibax (grosse blind) a montré [Kc Jc] et a gagné (415) avec un full, full aux Rois par les Cinq
+
+
+
+Main PokerStars n°238532066567 : Tournoi #3469086647, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/09/2022 10:27:43 CET [10/09/2022 4:27:43 ET]
+Table '3469086647 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (205 en jetons) 
+Place 3: Tibax (695 en jetons) 
+Tibax : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7s]
+Tibax : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Tibax.
+Tibax a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Tibax (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°238532067554 : Tournoi #3469086647, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/09/2022 10:27:51 CET [10/09/2022 4:27:51 ET]
+Table '3469086647 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (175 en jetons) 
+Place 3: Tibax (725 en jetons) 
+psychoman59 : met la petite blind. 15
+Tibax : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Tibax.
+Tibax a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Tibax (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°238532068229 : Tournoi #3469086647, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/09/2022 10:27:55 CET [10/09/2022 4:27:55 ET]
+Table '3469086647 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (160 en jetons) 
+Place 3: Tibax (740 en jetons) 
+Tibax : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 3c]
+Tibax : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Tibax.
+Tibax a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Tibax (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°238532069115 : Tournoi #3469086647, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/09/2022 10:28:02 CET [10/09/2022 4:28:02 ET]
+Table '3469086647 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (130 en jetons) 
+Place 3: Tibax (770 en jetons) 
+psychoman59 : met la petite blind. 15
+Tibax : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Tibax.
+Tibax a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Tibax (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°238532070181 : Tournoi #3469086647, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/09/2022 10:28:09 CET [10/09/2022 4:28:09 ET]
+Table '3469086647 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (115 en jetons) 
+Place 3: Tibax (785 en jetons) 
+Tibax : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 9s]
+Tibax : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : Tibax (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238532070814 : Tournoi #3469086647, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/09/2022 10:28:14 CET [10/09/2022 4:28:14 ET]
+Table '3469086647 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (135 en jetons) 
+Place 3: Tibax (765 en jetons) 
+psychoman59 : met la petite blind. 20
+Tibax : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 7h]
+psychoman59 : relance. 95 à 135 et est all-in.
+Tibax : passe. 
+Personne n'a suivi. (95) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : Tibax (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238532071843 : Tournoi #3469086647, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/09/2022 10:28:21 CET [10/09/2022 4:28:21 ET]
+Table '3469086647 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (175 en jetons) 
+Place 3: Tibax (725 en jetons) 
+Tibax : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 5s]
+Tibax : relance. 40 à 80
+psychoman59 : relance. 95 à 175 et est all-in.
+Tibax : suit. 95
+*** FLOP *** [Qc 4d 3h]
+*** TOURNANT *** [Qc 4d 3h] [2s]
+*** RIVIÈRE *** [Qc 4d 3h 2s] [Jh]
+*** ABATTAGE ***
+psychoman59 : montre [Ac 5s] (une suite, As à Cinq)
+Tibax : montre [Qd Kh] (une paire de Dames)
+psychoman59 a remporté 350  lors du pot .
+*** SYNTHÈSE ***
+Pot total 350 | Commission 0 
+Tableau [Qc 4d 3h 2s Jh]
+Siège 2 : psychoman59 (grosse blind) a montré [Ac 5s] et a gagné (350) avec une suite, As à Cinq
+Siège 3 : Tibax (bouton) (petite blind) a montré [Qd Kh] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°238532074163 : Tournoi #3469086647, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/09/2022 10:28:39 CET [10/09/2022 4:28:39 ET]
+Table '3469086647 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (350 en jetons) 
+Place 3: Tibax (550 en jetons) 
+psychoman59 : met la petite blind. 20
+Tibax : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Tibax.
+Tibax a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Tibax (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238532074877 : Tournoi #3469086647, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/09/2022 10:28:44 CET [10/09/2022 4:28:44 ET]
+Table '3469086647 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (330 en jetons) 
+Place 3: Tibax (570 en jetons) 
+Tibax : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Qc]
+Tibax : suit. 20
+psychoman59 : parole 
+*** FLOP *** [6h 2s Ac]
+psychoman59 : parole 
+Tibax : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à Tibax.
+Tibax a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6h 2s Ac]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : Tibax (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°238532077160 : Tournoi #3469086647, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/09/2022 10:29:01 CET [10/09/2022 4:29:01 ET]
+Table '3469086647 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (290 en jetons) 
+Place 3: Tibax (610 en jetons) 
+psychoman59 : met la petite blind. 20
+Tibax : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ad]
+psychoman59 : relance. 250 à 290 et est all-in.
+Tibax : suit. 250
+*** FLOP *** [8h 9c 3c]
+*** TOURNANT *** [8h 9c 3c] [4s]
+*** RIVIÈRE *** [8h 9c 3c 4s] [7s]
+*** ABATTAGE ***
+Tibax : montre [Ks Jc] (Hauteur Roi)
+psychoman59 : montre [5c Ad] (Hauteur As)
+psychoman59 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [8h 9c 3c 4s 7s]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [5c Ad] et a gagné (580) avec Hauteur As
+Siège 3 : Tibax (grosse blind) a montré [Ks Jc] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°238532079367 : Tournoi #3469086647, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/09/2022 10:29:17 CET [10/09/2022 4:29:17 ET]
+Table '3469086647 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (580 en jetons) 
+Place 3: Tibax (320 en jetons) 
+Tibax : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 2c]
+Tibax : relance. 260 à 320 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (260) sont retournés à Tibax.
+Tibax a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Tibax (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°238532080378 : Tournoi #3469086647, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/09/2022 10:29:24 CET [10/09/2022 4:29:24 ET]
+Table '3469086647 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (520 en jetons) 
+Place 3: Tibax (380 en jetons) 
+psychoman59 : met la petite blind. 30
+Tibax : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ad]
+psychoman59 : relance. 120 à 180
+Tibax : suit. 120
+*** FLOP *** [5s 8c 7h]
+Tibax : mise. 200 et est all-in.
+psychoman59 : suit. 200
+*** TOURNANT *** [5s 8c 7h] [5c]
+*** RIVIÈRE *** [5s 8c 7h 5c] [8d]
+*** ABATTAGE ***
+Tibax : montre [3d Jd] (double paire, Huit et Cinq)
+psychoman59 : montre [Qh Ad] (double paire, Huit et Cinq - As kicker)
+psychoman59 a remporté 760  lors du pot .
+Tibax a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 760 | Commission 0 
+Tableau [5s 8c 7h 5c 8d]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Qh Ad] et a gagné (760) avec double paire, Huit et Cinq
+Siège 3 : Tibax (grosse blind) a montré [3d Jd] et a perdu avec double paire, Huit et Cinq
+
+
+

@@ -1,0 +1,107 @@
+﻿Main PokerStars n°236772246415 : Tournoi #3426561657, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2022 10:20:58 CET [15/06/2022 4:20:58 ET]
+Table '3426561657 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: misternuts360 (300 en jetons) 
+Place 3: leafillon (300 en jetons) 
+misternuts360 : met la petite blind. 10
+leafillon : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 4d]
+psychoman59 : suit. 20
+misternuts360 : relance. 40 à 60
+leafillon : passe. 
+psychoman59 : suit. 40
+*** FLOP *** [As Kd Jh]
+misternuts360 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à misternuts360.
+misternuts360 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [As Kd Jh]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : misternuts360 (petite blind) a remporté (140)
+Siège 3 : leafillon (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236772248871 : Tournoi #3426561657, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2022 10:21:20 CET [15/06/2022 4:21:20 ET]
+Table '3426561657 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (240 en jetons) 
+Place 2: misternuts360 (380 en jetons) 
+Place 3: leafillon (280 en jetons) 
+leafillon : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 9h]
+misternuts360 : passe. 
+leafillon : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [As Ah 2d]
+leafillon : parole 
+psychoman59 : parole 
+*** TOURNANT *** [As Ah 2d] [6d]
+leafillon : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à leafillon.
+leafillon a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [As Ah 2d 6d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : misternuts360 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : leafillon (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°236772251117 : Tournoi #3426561657, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2022 10:21:39 CET [15/06/2022 4:21:39 ET]
+Table '3426561657 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (200 en jetons) 
+Place 2: misternuts360 (380 en jetons) 
+Place 3: leafillon (320 en jetons) 
+psychoman59 : met la petite blind. 10
+misternuts360 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 6h]
+leafillon : relance. 20 à 40
+psychoman59 : passe. 
+misternuts360 : passe. 
+Personne n'a suivi. (20) sont retournés à leafillon.
+leafillon a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : misternuts360 (grosse blind) s'est couché. avant Flop
+Siège 3 : leafillon (bouton) a remporté (50)
+
+
+
+Main PokerStars n°236772252229 : Tournoi #3426561657, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2022 10:21:48 CET [15/06/2022 4:21:48 ET]
+Table '3426561657 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (190 en jetons) 
+Place 2: misternuts360 (360 en jetons) 
+Place 3: leafillon (350 en jetons) 
+misternuts360 : met la petite blind. 10
+leafillon : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Kh]
+psychoman59 : relance. 170 à 190 et est all-in.
+misternuts360 : relance. 170 à 360 et est all-in.
+leafillon : passe. 
+Personne n'a suivi. (170) sont retournés à misternuts360.
+*** FLOP *** [5c 3h 2c]
+*** TOURNANT *** [5c 3h 2c] [Kd]
+*** RIVIÈRE *** [5c 3h 2c Kd] [9d]
+*** ABATTAGE ***
+misternuts360 : montre [Ac As] (une paire de As)
+psychoman59 : montre [7h Kh] (une paire de Rois)
+misternuts360 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [5c 3h 2c Kd 9d]
+Siège 1 : psychoman59 (bouton) a montré [7h Kh] et a perdu avec une paire de Rois
+Siège 2 : misternuts360 (petite blind) a montré [Ac As] et a gagné (400) avec une paire de As
+Siège 3 : leafillon (grosse blind) s'est couché. avant Flop
+
+
+

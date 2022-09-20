@@ -1,0 +1,484 @@
+﻿Main PokerStars n°238544717995 : Tournoi #3469367265, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/09/2022 23:08:06 CET [10/09/2022 17:08:06 ET]
+Table '3469367265 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: souchet357 (300 en jetons) 
+Place 3: raptorstoronto (300 en jetons) 
+souchet357 : met la petite blind. 10
+raptorstoronto : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 6c]
+psychoman59 : passe. 
+souchet357 : passe. 
+Personne n'a suivi. (10) sont retournés à raptorstoronto.
+raptorstoronto a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : souchet357 (petite blind) s'est couché. avant Flop
+Siège 3 : raptorstoronto (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°238544721875 : Tournoi #3469367265, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/09/2022 23:08:15 CET [10/09/2022 17:08:15 ET]
+Table '3469367265 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: souchet357 (290 en jetons) 
+Place 3: raptorstoronto (310 en jetons) 
+raptorstoronto : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Td]
+souchet357 : passe. 
+raptorstoronto : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ts Qd 6c]
+raptorstoronto : parole 
+psychoman59 : mise. 40
+raptorstoronto : suit. 40
+*** TOURNANT *** [Ts Qd 6c] [9h]
+raptorstoronto : parole 
+psychoman59 : mise. 60
+raptorstoronto : suit. 60
+*** RIVIÈRE *** [Ts Qd 6c 9h] [2s]
+raptorstoronto : parole 
+psychoman59 : mise. 180 et est all-in.
+raptorstoronto : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Ts Qd 6c 9h 2s]
+Siège 1 : psychoman59 (grosse blind) a remporté (240)
+Siège 2 : souchet357 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : raptorstoronto (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238544736888 : Tournoi #3469367265, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/09/2022 23:08:52 CET [10/09/2022 17:08:52 ET]
+Table '3469367265 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: souchet357 (290 en jetons) 
+Place 3: raptorstoronto (190 en jetons) 
+psychoman59 : met la petite blind. 10
+souchet357 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ac]
+raptorstoronto : suit. 20
+psychoman59 : suit. 10
+souchet357 : parole 
+*** FLOP *** [7h 3s 7d]
+psychoman59 : parole 
+souchet357 : parole 
+raptorstoronto : parole 
+*** TOURNANT *** [7h 3s 7d] [2s]
+psychoman59 : parole 
+souchet357 : parole 
+raptorstoronto : parole 
+*** RIVIÈRE *** [7h 3s 7d 2s] [5c]
+psychoman59 : parole 
+souchet357 : parole 
+raptorstoronto : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9d Ac] (une paire de Sept)
+souchet357 : cache la main perdante. 
+raptorstoronto : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7h 3s 7d 2s 5c]
+Siège 1 : psychoman59 (petite blind) a montré [9d Ac] et a gagné (60) avec une paire de Sept
+Siège 2 : souchet357 (grosse blind) a caché la main perdante. [6h Qh]
+Siège 3 : raptorstoronto (bouton) a caché la main perdante. [8h Kh]
+
+
+
+Main PokerStars n°238544766434 : Tournoi #3469367265, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/09/2022 23:10:05 CET [10/09/2022 17:10:05 ET]
+Table '3469367265 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: souchet357 (270 en jetons) 
+Place 3: raptorstoronto (170 en jetons) 
+souchet357 : met la petite blind. 15
+raptorstoronto : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 7d]
+psychoman59 : passe. 
+souchet357 : suit. 15
+raptorstoronto : parole 
+*** FLOP *** [Kd 5d 8d]
+souchet357 : mise. 60
+raptorstoronto : passe. 
+Personne n'a suivi. (60) sont retournés à souchet357.
+souchet357 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Kd 5d 8d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : souchet357 (petite blind) a remporté (60)
+Siège 3 : raptorstoronto (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238544776422 : Tournoi #3469367265, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/09/2022 23:10:30 CET [10/09/2022 17:10:30 ET]
+Table '3469367265 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: souchet357 (300 en jetons) 
+Place 3: raptorstoronto (140 en jetons) 
+raptorstoronto : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 5d]
+souchet357 : passe. 
+raptorstoronto : suit. 20
+psychoman59 : parole 
+*** FLOP *** [9d 9c Jd]
+raptorstoronto : mise. 100 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à raptorstoronto.
+raptorstoronto a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9d 9c Jd]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : souchet357 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : raptorstoronto (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°238544783115 : Tournoi #3469367265, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/09/2022 23:10:47 CET [10/09/2022 17:10:47 ET]
+Table '3469367265 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: souchet357 (300 en jetons) 
+Place 3: raptorstoronto (180 en jetons) 
+psychoman59 : met la petite blind. 20
+souchet357 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 5d]
+raptorstoronto : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à souchet357.
+souchet357 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : souchet357 (grosse blind) a remporté (40)
+Siège 3 : raptorstoronto (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238544785775 : Tournoi #3469367265, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/09/2022 23:10:53 CET [10/09/2022 17:10:53 ET]
+Table '3469367265 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: souchet357 (320 en jetons) 
+Place 3: raptorstoronto (180 en jetons) 
+souchet357 : met la petite blind. 20
+raptorstoronto : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 3d]
+psychoman59 : passe. 
+souchet357 : suit. 20
+raptorstoronto : relance. 140 à 180 et est all-in.
+souchet357 : passe. 
+Personne n'a suivi. (140) sont retournés à raptorstoronto.
+raptorstoronto a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : souchet357 (petite blind) s'est couché. avant Flop
+Siège 3 : raptorstoronto (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°238544798511 : Tournoi #3469367265, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/09/2022 23:11:25 CET [10/09/2022 17:11:25 ET]
+Table '3469367265 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: souchet357 (280 en jetons) 
+Place 3: raptorstoronto (220 en jetons) 
+raptorstoronto : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 5s]
+souchet357 : suit. 60
+raptorstoronto : suit. 30
+psychoman59 : parole 
+*** FLOP *** [9s 4c 6h]
+raptorstoronto : parole 
+psychoman59 : parole 
+souchet357 : parole 
+*** TOURNANT *** [9s 4c 6h] [5d]
+raptorstoronto : parole 
+psychoman59 : mise. 180
+souchet357 : passe. 
+raptorstoronto : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [9s 4c 6h 5d]
+Siège 1 : psychoman59 (grosse blind) a remporté (180)
+Siège 2 : souchet357 (bouton) s'est couché. sur le Tournant
+Siège 3 : raptorstoronto (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238544817252 : Tournoi #3469367265, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 10/09/2022 23:12:12 CET [10/09/2022 17:12:12 ET]
+Table '3469367265 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: souchet357 (220 en jetons) 
+Place 3: raptorstoronto (160 en jetons) 
+psychoman59 : met la petite blind. 40
+souchet357 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8s]
+raptorstoronto : passe. 
+psychoman59 : suit. 40
+souchet357 : parole 
+*** FLOP *** [Qd 7c 6c]
+psychoman59 : mise. 160
+souchet357 : suit. 140 et est all-in.
+Personne n'a suivi. (20) sont retournés à psychoman59.
+*** TOURNANT *** [Qd 7c 6c] [9s]
+*** RIVIÈRE *** [Qd 7c 6c 9s] [7d]
+*** ABATTAGE ***
+psychoman59 : montre [Qs 8s] (double paire, Dames et Sept)
+souchet357 : montre [7h 4s] (un brelan de Sept)
+souchet357 a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [Qd 7c 6c 9s 7d]
+Siège 1 : psychoman59 (petite blind) a montré [Qs 8s] et a perdu avec double paire, Dames et Sept
+Siège 2 : souchet357 (grosse blind) a montré [7h 4s] et a gagné (440) avec un brelan de Sept
+Siège 3 : raptorstoronto (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238544829533 : Tournoi #3469367265, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 10/09/2022 23:12:42 CET [10/09/2022 17:12:42 ET]
+Table '3469367265 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: souchet357 (440 en jetons) 
+Place 3: raptorstoronto (160 en jetons) 
+souchet357 : met la petite blind. 40
+raptorstoronto : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 4d]
+psychoman59 : suit. 80
+souchet357 : relance. 80 à 160
+raptorstoronto : suit. 80 et est all-in.
+psychoman59 : suit. 80
+*** FLOP *** [2s 5c 6d]
+souchet357 : mise. 280 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (280) sont retournés à souchet357.
+*** TOURNANT *** [2s 5c 6d] [3s]
+*** RIVIÈRE *** [2s 5c 6d 3s] [2c]
+*** ABATTAGE ***
+souchet357 : montre [Ac Qh] (une paire de Deux)
+raptorstoronto : montre [9s Ah] (une paire de Deux - plus basse kicker)
+souchet357 a remporté 480  lors du pot .
+raptorstoronto a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [2s 5c 6d 3s 2c]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : souchet357 (petite blind) a montré [Ac Qh] et a gagné (480) avec une paire de Deux
+Siège 3 : raptorstoronto (grosse blind) a montré [9s Ah] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°238544840619 : Tournoi #3469367265, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 10/09/2022 23:13:09 CET [10/09/2022 17:13:09 ET]
+Table '3469367265 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (140 en jetons) 
+Place 2: souchet357 (760 en jetons) 
+souchet357 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Qh]
+souchet357 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : souchet357 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238544844307 : Tournoi #3469367265, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 10/09/2022 23:13:18 CET [10/09/2022 17:13:18 ET]
+Table '3469367265 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (180 en jetons) 
+Place 2: souchet357 (720 en jetons) 
+psychoman59 : met la petite blind. 50
+souchet357 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Jh]
+psychoman59 : relance. 80 à 180 et est all-in.
+souchet357 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (200)
+Siège 2 : souchet357 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238544848972 : Tournoi #3469367265, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 10/09/2022 23:13:30 CET [10/09/2022 17:13:30 ET]
+Table '3469367265 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: souchet357 (620 en jetons) 
+souchet357 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 2h]
+souchet357 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (100)
+Siège 2 : souchet357 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238544853491 : Tournoi #3469367265, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 10/09/2022 23:13:41 CET [10/09/2022 17:13:41 ET]
+Table '3469367265 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: souchet357 (570 en jetons) 
+psychoman59 : met la petite blind. 50
+souchet357 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à souchet357.
+souchet357 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : souchet357 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°238544856685 : Tournoi #3469367265, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 10/09/2022 23:13:49 CET [10/09/2022 17:13:49 ET]
+Table '3469367265 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: souchet357 (620 en jetons) 
+souchet357 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Jh]
+souchet357 : suit. 50
+psychoman59 : relance. 180 à 280 et est all-in.
+souchet357 : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (200)
+Siège 2 : souchet357 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238544865463 : Tournoi #3469367265, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 10/09/2022 23:14:11 CET [10/09/2022 17:14:11 ET]
+Table '3469367265 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 2: souchet357 (520 en jetons) 
+psychoman59 : met la petite blind. 60
+souchet357 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 7c]
+psychoman59 : relance. 260 à 380 et est all-in.
+souchet357 : suit. 260
+*** FLOP *** [Qs 8s Ts]
+*** TOURNANT *** [Qs 8s Ts] [9d]
+*** RIVIÈRE *** [Qs 8s Ts 9d] [As]
+*** ABATTAGE ***
+souchet357 : montre [5d 5c] (une paire de Cinq)
+psychoman59 : montre [7h 7c] (une paire de Sept)
+psychoman59 a remporté 760  lors du pot .
+*** SYNTHÈSE ***
+Pot total 760 | Commission 0 
+Tableau [Qs 8s Ts 9d As]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [7h 7c] et a gagné (760) avec une paire de Sept
+Siège 2 : souchet357 (grosse blind) a montré [5d 5c] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°238544871401 : Tournoi #3469367265, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 10/09/2022 23:14:26 CET [10/09/2022 17:14:26 ET]
+Table '3469367265 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (760 en jetons) 
+Place 2: souchet357 (140 en jetons) 
+souchet357 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Qs]
+souchet357 : suit. 60
+psychoman59 : relance. 120 à 240
+souchet357 : suit. 20 et est all-in.
+Personne n'a suivi. (100) sont retournés à psychoman59.
+*** FLOP *** [9c 8h 6h]
+*** TOURNANT *** [9c 8h 6h] [9h]
+*** RIVIÈRE *** [9c 8h 6h 9h] [4c]
+*** ABATTAGE ***
+psychoman59 : montre [Kd Qs] (une paire de Neuf)
+souchet357 : montre [9s 3s] (un brelan de Neuf)
+souchet357 a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [9c 8h 6h 9h 4c]
+Siège 1 : psychoman59 (grosse blind) a montré [Kd Qs] et a perdu avec une paire de Neuf
+Siège 2 : souchet357 (bouton) (petite blind) a montré [9s 3s] et a gagné (280) avec un brelan de Neuf
+
+
+
+Main PokerStars n°238544879418 : Tournoi #3469367265, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 10/09/2022 23:14:45 CET [10/09/2022 17:14:45 ET]
+Table '3469367265 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (620 en jetons) 
+Place 2: souchet357 (280 en jetons) 
+psychoman59 : met la petite blind. 60
+souchet357 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à souchet357.
+souchet357 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : souchet357 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°238544882199 : Tournoi #3469367265, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 10/09/2022 23:14:52 CET [10/09/2022 17:14:52 ET]
+Table '3469367265 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (560 en jetons) 
+Place 2: souchet357 (340 en jetons) 
+souchet357 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5h]
+souchet357 : relance. 120 à 240
+psychoman59 : relance. 320 à 560 et est all-in.
+souchet357 : suit. 100 et est all-in.
+Personne n'a suivi. (220) sont retournés à psychoman59.
+*** FLOP *** [4d 3s 8h]
+*** TOURNANT *** [4d 3s 8h] [Jd]
+*** RIVIÈRE *** [4d 3s 8h Jd] [Ad]
+*** ABATTAGE ***
+psychoman59 : montre [Ah 5h] (une paire de As)
+souchet357 : montre [5d 3h] (une paire de Trois)
+psychoman59 a remporté 680  lors du pot .
+souchet357 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 5.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [4d 3s 8h Jd Ad]
+Siège 1 : psychoman59 (grosse blind) a montré [Ah 5h] et a gagné (680) avec une paire de As
+Siège 2 : souchet357 (bouton) (petite blind) a montré [5d 3h] et a perdu avec une paire de Trois
+
+
+

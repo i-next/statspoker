@@ -1,0 +1,709 @@
+﻿Main PokerStars n°238024556536 : Tournoi #3457095625, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 16/08/2022 16:30:11 CET [16/08/2022 10:30:11 ET]
+Table '3457095625 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 2: NjD75 (5000 en jetons) 
+Place 3: DIEGOJSTAR (5000 en jetons) 
+Place 4: abelimt (5000 en jetons) 
+psychoman59 : met l'ante. 10
+NjD75 : met l'ante. 10
+DIEGOJSTAR : met l'ante. 10
+abelimt : met l'ante. 10
+NjD75 : met la petite blind. 50
+DIEGOJSTAR : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 4d]
+abelimt : suit. 100
+psychoman59 : passe. 
+NjD75 : suit. 50
+DIEGOJSTAR : parole 
+*** FLOP *** [Js 7c 8d]
+NjD75 : mise. 100
+DIEGOJSTAR : passe. 
+abelimt : passe. 
+Personne n'a suivi. (100) sont retournés à NjD75.
+NjD75 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [Js 7c 8d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : NjD75 (petite blind) a remporté (340)
+Siège 3 : DIEGOJSTAR (grosse blind) s'est couché. sur le Flop
+Siège 4 : abelimt s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238024566580 : Tournoi #3457095625, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 16/08/2022 16:30:49 CET [16/08/2022 10:30:49 ET]
+Table '3457095625 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4990 en jetons) 
+Place 2: NjD75 (5230 en jetons) 
+Place 3: DIEGOJSTAR (4890 en jetons) 
+Place 4: abelimt (4890 en jetons) 
+psychoman59 : met l'ante. 10
+NjD75 : met l'ante. 10
+DIEGOJSTAR : met l'ante. 10
+abelimt : met l'ante. 10
+DIEGOJSTAR : met la petite blind. 50
+abelimt : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Ad]
+psychoman59 : relance. 290 à 390
+NjD75 : passe. 
+DIEGOJSTAR : suit. 340
+abelimt : suit. 290
+*** FLOP *** [8c Kc Kd]
+DIEGOJSTAR : mise. 100
+abelimt : suit. 100
+psychoman59 : suit. 100
+*** TOURNANT *** [8c Kc Kd] [Qs]
+DIEGOJSTAR : mise. 100
+abelimt : suit. 100
+psychoman59 : suit. 100
+*** RIVIÈRE *** [8c Kc Kd Qs] [2c]
+DIEGOJSTAR : mise. 100
+abelimt : suit. 100
+psychoman59 : suit. 100
+*** ABATTAGE ***
+DIEGOJSTAR : montre [9c 9h] (double paire, Rois et Neuf)
+abelimt : montre [Qd 3d] (double paire, Rois et Dames)
+psychoman59 : montre [Ks Ad] (un brelan de Rois)
+psychoman59 a remporté 2110  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2110 | Commission 0 
+Tableau [8c Kc Kd Qs 2c]
+Siège 1 : psychoman59 a montré [Ks Ad] et a gagné (2110) avec un brelan de Rois
+Siège 2 : NjD75 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : DIEGOJSTAR (petite blind) a montré [9c 9h] et a perdu avec double paire, Rois et Neuf
+Siège 4 : abelimt (grosse blind) a montré [Qd 3d] et a perdu avec double paire, Rois et Dames
+
+
+
+Main PokerStars n°238024577088 : Tournoi #3457095625, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 16/08/2022 16:31:29 CET [16/08/2022 10:31:29 ET]
+Table '3457095625 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (6400 en jetons) 
+Place 2: NjD75 (5220 en jetons) 
+Place 3: DIEGOJSTAR (4190 en jetons) 
+Place 4: abelimt (4190 en jetons) 
+psychoman59 : met l'ante. 10
+NjD75 : met l'ante. 10
+DIEGOJSTAR : met l'ante. 10
+abelimt : met l'ante. 10
+abelimt : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 8h]
+NjD75 : relance. 100 à 200
+DIEGOJSTAR : passe. 
+abelimt : suit. 150
+psychoman59 : suit. 100
+*** FLOP *** [6h Js 2h]
+abelimt : mise. 100
+psychoman59 : suit. 100
+NjD75 : relance. 100 à 200
+abelimt : suit. 100
+psychoman59 : suit. 100
+*** TOURNANT *** [6h Js 2h] [Jc]
+abelimt : parole 
+psychoman59 : parole 
+NjD75 : parole 
+*** RIVIÈRE *** [6h Js 2h Jc] [Ts]
+abelimt : mise. 300
+psychoman59 : passe. 
+NjD75 : suit. 300
+*** ABATTAGE ***
+abelimt : montre [Ks Jd] (un brelan de Valets)
+NjD75 : cache la main perdante. 
+abelimt a remporté 1840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1840 | Commission 0 
+Tableau [6h Js 2h Jc Ts]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : NjD75 a caché la main perdante. [2s Ac]
+Siège 3 : DIEGOJSTAR (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : abelimt (petite blind) a montré [Ks Jd] et a gagné (1840) avec un brelan de Valets
+
+
+
+Main PokerStars n°238024588296 : Tournoi #3457095625, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 16/08/2022 16:32:12 CET [16/08/2022 10:32:12 ET]
+Table '3457095625 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (5990 en jetons) 
+Place 2: NjD75 (4510 en jetons) 
+Place 3: DIEGOJSTAR (4180 en jetons) 
+Place 4: abelimt (5320 en jetons) 
+psychoman59 : met l'ante. 10
+NjD75 : met l'ante. 10
+DIEGOJSTAR : met l'ante. 10
+abelimt : met l'ante. 10
+psychoman59 : met la petite blind. 50
+NjD75 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 7s]
+DIEGOJSTAR : passe. 
+abelimt : suit. 100
+psychoman59 : suit. 50
+NjD75 : parole 
+*** FLOP *** [Ts 7h 6s]
+psychoman59 : parole 
+NjD75 : parole 
+abelimt : parole 
+*** TOURNANT *** [Ts 7h 6s] [Tc]
+psychoman59 : parole 
+NjD75 : parole 
+abelimt : mise. 100
+psychoman59 : suit. 100
+NjD75 : passe. 
+*** RIVIÈRE *** [Ts 7h 6s Tc] [Ah]
+psychoman59 : parole 
+abelimt : mise. 300
+psychoman59 : suit. 300
+*** ABATTAGE ***
+abelimt : montre [Th Kd] (un brelan de Dix)
+psychoman59 : cache la main perdante. 
+abelimt a remporté 1140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1140 | Commission 0 
+Tableau [Ts 7h 6s Tc Ah]
+Siège 1 : psychoman59 (petite blind) a caché la main perdante. [Ks 7s]
+Siège 2 : NjD75 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : DIEGOJSTAR s'est couché. avant Flop (n'a pas misé)
+Siège 4 : abelimt (bouton) a montré [Th Kd] et a gagné (1140) avec un brelan de Dix
+
+
+
+Main PokerStars n°238024596826 : Tournoi #3457095625, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 16/08/2022 16:32:45 CET [16/08/2022 10:32:45 ET]
+Table '3457095625 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5480 en jetons) 
+Place 2: NjD75 (4400 en jetons) 
+Place 3: DIEGOJSTAR (4170 en jetons) 
+Place 4: abelimt (5950 en jetons) 
+psychoman59 : met l'ante. 10
+NjD75 : met l'ante. 10
+DIEGOJSTAR : met l'ante. 10
+abelimt : met l'ante. 10
+NjD75 : met la petite blind. 50
+DIEGOJSTAR : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Ah]
+abelimt : passe. 
+psychoman59 : relance. 5370 à 5470 et est all-in.
+NjD75 : passe. 
+DIEGOJSTAR : passe. 
+Personne n'a suivi. (5370) sont retournés à psychoman59.
+psychoman59 a remporté 290  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (290)
+Siège 2 : NjD75 (petite blind) s'est couché. avant Flop
+Siège 3 : DIEGOJSTAR (grosse blind) s'est couché. avant Flop
+Siège 4 : abelimt s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238024601688 : Tournoi #3457095625, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 16/08/2022 16:33:03 CET [16/08/2022 10:33:03 ET]
+Table '3457095625 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (5660 en jetons) 
+Place 2: NjD75 (4340 en jetons) 
+Place 3: DIEGOJSTAR (4060 en jetons) 
+Place 4: abelimt (5940 en jetons) 
+psychoman59 : met l'ante. 10
+NjD75 : met l'ante. 10
+DIEGOJSTAR : met l'ante. 10
+abelimt : met l'ante. 10
+DIEGOJSTAR : met la petite blind. 50
+abelimt : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 3s]
+psychoman59 : passe. 
+NjD75 : relance. 4230 à 4330 et est all-in.
+DIEGOJSTAR : passe. 
+abelimt : passe. 
+Personne n'a suivi. (4230) sont retournés à NjD75.
+NjD75 a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : NjD75 (bouton) a remporté (290)
+Siège 3 : DIEGOJSTAR (petite blind) s'est couché. avant Flop
+Siège 4 : abelimt (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238024607790 : Tournoi #3457095625, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 16/08/2022 16:33:26 CET [16/08/2022 10:33:26 ET]
+Table '3457095625 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (5650 en jetons) 
+Place 2: NjD75 (4520 en jetons) 
+Place 3: DIEGOJSTAR (4000 en jetons) 
+Place 4: abelimt (5830 en jetons) 
+psychoman59 : met l'ante. 15
+NjD75 : met l'ante. 15
+DIEGOJSTAR : met l'ante. 15
+abelimt : met l'ante. 15
+abelimt : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 6h]
+NjD75 : passe. 
+DIEGOJSTAR : relance. 3865 à 3985 et est all-in.
+abelimt : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (3865) sont retournés à DIEGOJSTAR.
+DIEGOJSTAR a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : NjD75 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : DIEGOJSTAR (bouton) a remporté (360)
+Siège 4 : abelimt (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238024611868 : Tournoi #3457095625, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 16/08/2022 16:33:42 CET [16/08/2022 10:33:42 ET]
+Table '3457095625 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (5515 en jetons) 
+Place 2: NjD75 (4505 en jetons) 
+Place 3: DIEGOJSTAR (4225 en jetons) 
+Place 4: abelimt (5755 en jetons) 
+psychoman59 : met l'ante. 15
+NjD75 : met l'ante. 15
+DIEGOJSTAR : met l'ante. 15
+abelimt : met l'ante. 15
+psychoman59 : met la petite blind. 60
+NjD75 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 9s]
+DIEGOJSTAR : passe. 
+abelimt : suit. 120
+psychoman59 : passe. 
+NjD75 : parole 
+*** FLOP *** [Js 5d 3d]
+NjD75 : parole 
+abelimt : parole 
+*** TOURNANT *** [Js 5d 3d] [Kh]
+NjD75 : parole 
+abelimt : parole 
+*** RIVIÈRE *** [Js 5d 3d Kh] [4h]
+NjD75 : parole 
+abelimt : parole 
+*** ABATTAGE ***
+NjD75 : montre [Td 4s] (une paire de Quatre)
+abelimt : cache la main perdante. 
+NjD75 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Js 5d 3d Kh 4h]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : NjD75 (grosse blind) a montré [Td 4s] et a gagné (360) avec une paire de Quatre
+Siège 3 : DIEGOJSTAR s'est couché. avant Flop (n'a pas misé)
+Siège 4 : abelimt (bouton) a caché la main perdante. [Tc 7d]
+
+
+
+Main PokerStars n°238024619263 : Tournoi #3457095625, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 16/08/2022 16:34:10 CET [16/08/2022 10:34:10 ET]
+Table '3457095625 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5440 en jetons) 
+Place 2: NjD75 (4730 en jetons) 
+Place 3: DIEGOJSTAR (4210 en jetons) 
+Place 4: abelimt (5620 en jetons) 
+psychoman59 : met l'ante. 15
+NjD75 : met l'ante. 15
+DIEGOJSTAR : met l'ante. 15
+abelimt : met l'ante. 15
+NjD75 : met la petite blind. 60
+DIEGOJSTAR : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 4h]
+abelimt : suit. 120
+psychoman59 : passe. 
+NjD75 : passe. 
+DIEGOJSTAR : parole 
+*** FLOP *** [Td 8h 4s]
+DIEGOJSTAR : mise. 4075 et est all-in.
+abelimt : passe. 
+Personne n'a suivi. (4075) sont retournés à DIEGOJSTAR.
+DIEGOJSTAR a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Td 8h 4s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : NjD75 (petite blind) s'est couché. avant Flop
+Siège 3 : DIEGOJSTAR (grosse blind) a remporté (360)
+Siège 4 : abelimt s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238024626699 : Tournoi #3457095625, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 16/08/2022 16:34:38 CET [16/08/2022 10:34:38 ET]
+Table '3457095625 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (5425 en jetons) 
+Place 2: NjD75 (4655 en jetons) 
+Place 3: DIEGOJSTAR (4435 en jetons) 
+Place 4: abelimt (5485 en jetons) 
+psychoman59 : met l'ante. 15
+NjD75 : met l'ante. 15
+DIEGOJSTAR : met l'ante. 15
+abelimt : met l'ante. 15
+DIEGOJSTAR : met la petite blind. 60
+abelimt : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ks]
+psychoman59 : suit. 120
+NjD75 : suit. 120
+DIEGOJSTAR : suit. 60
+abelimt : parole 
+*** FLOP *** [Kc 9c 4h]
+DIEGOJSTAR : parole 
+abelimt : parole 
+psychoman59 : parole 
+NjD75 : parole 
+*** TOURNANT *** [Kc 9c 4h] [4d]
+DIEGOJSTAR : parole 
+abelimt : parole 
+psychoman59 : mise. 120
+NjD75 : passe. 
+DIEGOJSTAR : passe. 
+abelimt : relance. 120 à 240
+psychoman59 : suit. 120
+*** RIVIÈRE *** [Kc 9c 4h 4d] [9d]
+abelimt : mise. 480
+psychoman59 : suit. 480
+*** ABATTAGE ***
+abelimt : montre [3c 4s] (un full, full aux Quatre par les Neuf)
+psychoman59 : cache la main perdante. 
+abelimt a remporté 1980  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1980 | Commission 0 
+Tableau [Kc 9c 4h 4d 9d]
+Siège 1 : psychoman59 a caché la main perdante. [6s Ks]
+Siège 2 : NjD75 (bouton) s'est couché. sur le Tournant
+Siège 3 : DIEGOJSTAR (petite blind) s'est couché. sur le Tournant
+Siège 4 : abelimt (grosse blind) a montré [3c 4s] et a gagné (1980) avec un full, full aux Quatre par les Neuf
+
+
+
+Main PokerStars n°238024640962 : Tournoi #3457095625, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 16/08/2022 16:35:31 CET [16/08/2022 10:35:31 ET]
+Table '3457095625 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4570 en jetons) 
+Place 2: NjD75 (4520 en jetons) 
+Place 3: DIEGOJSTAR (4300 en jetons) 
+Place 4: abelimt (6610 en jetons) 
+psychoman59 : met l'ante. 15
+NjD75 : met l'ante. 15
+DIEGOJSTAR : met l'ante. 15
+abelimt : met l'ante. 15
+abelimt : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 9h]
+NjD75 : relance. 4385 à 4505 et est all-in.
+DIEGOJSTAR : suit. 4285 et est all-in.
+abelimt : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (220) sont retournés à NjD75.
+*** FLOP *** [4d Qh 2s]
+*** TOURNANT *** [4d Qh 2s] [4c]
+*** RIVIÈRE *** [4d Qh 2s 4c] [Js]
+*** ABATTAGE ***
+NjD75 : montre [4s As] (un brelan de Quatre)
+DIEGOJSTAR : montre [Ah Jd] (double paire, Valets et Quatre)
+NjD75 a remporté 8810  lors du pot .
+DIEGOJSTAR a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 8810 | Commission 0 
+Tableau [4d Qh 2s 4c Js]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : NjD75 a montré [4s As] et a gagné (8810) avec un brelan de Quatre
+Siège 3 : DIEGOJSTAR (bouton) a montré [Ah Jd] et a perdu avec double paire, Valets et Quatre
+Siège 4 : abelimt (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238024646567 : Tournoi #3457095625, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 16/08/2022 16:35:51 CET [16/08/2022 10:35:51 ET]
+Table '3457095625 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4435 en jetons) 
+Place 2: NjD75 (9030 en jetons) 
+Place 4: abelimt (6535 en jetons) 
+psychoman59 : met l'ante. 15
+NjD75 : met l'ante. 15
+abelimt : met l'ante. 15
+psychoman59 : met la petite blind. 60
+NjD75 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 4c]
+abelimt : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à NjD75.
+NjD75 a remporté 165  lors du pot .
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : NjD75 (grosse blind) a remporté (165)
+Siège 4 : abelimt (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238024649430 : Tournoi #3457095625, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 16/08/2022 16:36:02 CET [16/08/2022 10:36:02 ET]
+Table '3457095625 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4360 en jetons) 
+Place 2: NjD75 (9120 en jetons) 
+Place 4: abelimt (6520 en jetons) 
+psychoman59 : met l'ante. 15
+NjD75 : met l'ante. 15
+abelimt : met l'ante. 15
+NjD75 : met la petite blind. 60
+abelimt : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 4s]
+psychoman59 : passe. 
+NjD75 : relance. 8985 à 9105 et est all-in.
+abelimt : suit. 6385 et est all-in.
+Personne n'a suivi. (2600) sont retournés à NjD75.
+*** FLOP *** [2s As 5d]
+*** TOURNANT *** [2s As 5d] [Td]
+*** RIVIÈRE *** [2s As 5d Td] [5h]
+*** ABATTAGE ***
+NjD75 : montre [Jc Ad] (double paire, As et Cinq)
+abelimt : montre [Ac 9c] (double paire, As et Cinq - plus basse kicker)
+NjD75 a remporté 13055  lors du pot .
+abelimt a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 13055 | Commission 0 
+Tableau [2s As 5d Td 5h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : NjD75 (petite blind) a montré [Jc Ad] et a gagné (13055) avec double paire, As et Cinq
+Siège 4 : abelimt (grosse blind) a montré [Ac 9c] et a perdu avec double paire, As et Cinq
+
+
+
+Main PokerStars n°238024658298 : Tournoi #3457095625, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 16/08/2022 16:36:35 CET [16/08/2022 10:36:35 ET]
+Table '3457095625 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4345 en jetons) 
+Place 2: NjD75 (15655 en jetons) 
+psychoman59 : met l'ante. 20
+NjD75 : met l'ante. 20
+NjD75 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Kh]
+NjD75 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [7h 9s Kd]
+psychoman59 : parole 
+NjD75 : mise. 150
+psychoman59 : suit. 150
+*** TOURNANT *** [7h 9s Kd] [As]
+psychoman59 : parole 
+NjD75 : mise. 450
+psychoman59 : suit. 450
+*** RIVIÈRE *** [7h 9s Kd As] [Ac]
+psychoman59 : parole 
+NjD75 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9d Kh] (double paire, As et Rois)
+NjD75 : montre [5d Kc] (double paire, As et Rois)
+psychoman59 a remporté 770  lors du pot .
+NjD75 a remporté 770  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1540 | Commission 0 
+Tableau [7h 9s Kd As Ac]
+Siège 1 : psychoman59 (grosse blind) a montré [9d Kh] et a gagné (770) avec double paire, As et Rois
+Siège 2 : NjD75 (bouton) (petite blind) a montré [5d Kc] et a gagné (770) avec double paire, As et Rois
+
+
+
+Main PokerStars n°238024666464 : Tournoi #3457095625, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 16/08/2022 16:37:05 CET [16/08/2022 10:37:05 ET]
+Table '3457095625 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4345 en jetons) 
+Place 2: NjD75 (15655 en jetons) 
+psychoman59 : met l'ante. 20
+NjD75 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+NjD75 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à NjD75.
+NjD75 a remporté 190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : NjD75 (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°238024668429 : Tournoi #3457095625, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 16/08/2022 16:37:13 CET [16/08/2022 10:37:13 ET]
+Table '3457095625 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4250 en jetons) 
+Place 2: NjD75 (15750 en jetons) 
+psychoman59 : met l'ante. 20
+NjD75 : met l'ante. 20
+NjD75 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Kh]
+NjD75 : suit. 75
+psychoman59 : relance. 4080 à 4230 et est all-in.
+NjD75 : passe. 
+Personne n'a suivi. (4080) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (340)
+Siège 2 : NjD75 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238024672177 : Tournoi #3457095625, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 16/08/2022 16:37:27 CET [16/08/2022 10:37:27 ET]
+Table '3457095625 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4420 en jetons) 
+Place 2: NjD75 (15580 en jetons) 
+psychoman59 : met l'ante. 20
+NjD75 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+NjD75 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Td]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à NjD75.
+NjD75 a remporté 190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : NjD75 (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°238024674267 : Tournoi #3457095625, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 16/08/2022 16:37:35 CET [16/08/2022 10:37:35 ET]
+Table '3457095625 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4325 en jetons) 
+Place 2: NjD75 (15675 en jetons) 
+psychoman59 : met l'ante. 20
+NjD75 : met l'ante. 20
+NjD75 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2c]
+NjD75 : relance. 15505 à 15655 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (15505) sont retournés à NjD75.
+NjD75 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : NjD75 (bouton) (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°238024677287 : Tournoi #3457095625, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 16/08/2022 16:37:46 CET [16/08/2022 10:37:46 ET]
+Table '3457095625 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4155 en jetons) 
+Place 2: NjD75 (15845 en jetons) 
+psychoman59 : met l'ante. 20
+NjD75 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+NjD75 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Js]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à NjD75.
+NjD75 a remporté 190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : NjD75 (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°238024679258 : Tournoi #3457095625, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 16/08/2022 16:37:53 CET [16/08/2022 10:37:53 ET]
+Table '3457095625 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4060 en jetons) 
+Place 2: NjD75 (15940 en jetons) 
+psychoman59 : met l'ante. 20
+NjD75 : met l'ante. 20
+NjD75 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 3s]
+NjD75 : suit. 75
+psychoman59 : relance. 3890 à 4040 et est all-in.
+NjD75 : passe. 
+Personne n'a suivi. (3890) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (340)
+Siège 2 : NjD75 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238024682771 : Tournoi #3457095625, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 16/08/2022 16:38:06 CET [16/08/2022 10:38:06 ET]
+Table '3457095625 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4230 en jetons) 
+Place 2: NjD75 (15770 en jetons) 
+psychoman59 : met l'ante. 20
+NjD75 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+NjD75 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à NjD75.
+NjD75 a remporté 190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : NjD75 (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°238024684850 : Tournoi #3457095625, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 16/08/2022 16:38:14 CET [16/08/2022 10:38:14 ET]
+Table '3457095625 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4135 en jetons) 
+Place 2: NjD75 (15865 en jetons) 
+psychoman59 : met l'ante. 20
+NjD75 : met l'ante. 20
+NjD75 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 5d]
+NjD75 : relance. 15695 à 15845 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (15695) sont retournés à NjD75.
+NjD75 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : NjD75 (bouton) (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°238024690669 : Tournoi #3457095625, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 16/08/2022 16:38:36 CET [16/08/2022 10:38:36 ET]
+Table '3457095625 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (3965 en jetons) 
+Place 2: NjD75 (16035 en jetons) 
+psychoman59 : met l'ante. 20
+NjD75 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+NjD75 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Kc]
+psychoman59 : relance. 3795 à 3945 et est all-in.
+NjD75 : suit. 3795
+*** FLOP *** [4h Jc Qc]
+*** TOURNANT *** [4h Jc Qc] [3d]
+*** RIVIÈRE *** [4h Jc Qc 3d] [Jd]
+*** ABATTAGE ***
+NjD75 : montre [As 9s] (une paire de Valets)
+psychoman59 : montre [2c Kc] (une paire de Valets - plus basse kicker)
+NjD75 a remporté 7930  lors du pot .
+psychoman59 a fini le tournoi à la 2e place et a reçu 0.34 €.
+NjD75 gagne le tournoi - félicitations !
+NjD75 gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 7930 | Commission 0 
+Tableau [4h Jc Qc 3d Jd]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [2c Kc] et a perdu avec une paire de Valets
+Siège 2 : NjD75 (grosse blind) a montré [As 9s] et a gagné (7930) avec une paire de Valets
+
+
+

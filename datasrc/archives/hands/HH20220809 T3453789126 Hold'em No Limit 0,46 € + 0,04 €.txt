@@ -1,0 +1,2080 @@
+﻿Main PokerStars n°237886127290 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 09/08/2022 17:32:39 CET [09/08/2022 11:32:39 ET]
+Table '3453789126 1' 4-max Siège #1 est au bouton.
+Place 1: Acearena (5000 en jetons) 
+Place 2: Er-manue13 (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: franck764 (5000 en jetons) 
+Acearena : met l'ante. 10
+Er-manue13 : met l'ante. 10
+psychoman59 : met l'ante. 10
+franck764 : met l'ante. 10
+Er-manue13 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 2d]
+franck764 : passe. 
+Acearena : passe. 
+Er-manue13 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [6h 4h Td]
+Er-manue13 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6h 4h Td] [5d]
+Er-manue13 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6h 4h Td 5d] [Qh]
+Er-manue13 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Er-manue13 : montre [8s 4c] (une paire de Quatre)
+psychoman59 : montre [5c 2d] (une paire de Cinq)
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6h 4h Td 5d Qh]
+Siège 1 : Acearena (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Er-manue13 (petite blind) a montré [8s 4c] et a perdu avec une paire de Quatre
+Siège 3 : psychoman59 (grosse blind) a montré [5c 2d] et a gagné (240) avec une paire de Cinq
+Siège 4 : franck764 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237886134481 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 09/08/2022 17:33:04 CET [09/08/2022 11:33:04 ET]
+Table '3453789126 1' 4-max Siège #2 est au bouton.
+Place 1: Acearena (4990 en jetons) 
+Place 2: Er-manue13 (4890 en jetons) 
+Place 3: psychoman59 (5130 en jetons) 
+Place 4: franck764 (4990 en jetons) 
+Acearena : met l'ante. 10
+Er-manue13 : met l'ante. 10
+psychoman59 : met l'ante. 10
+franck764 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+franck764 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ah]
+Acearena : passe. 
+Er-manue13 : suit. 100
+psychoman59 : relance. 5020 à 5120 et est all-in.
+franck764 : passe. 
+Er-manue13 : passe. 
+Personne n'a suivi. (5020) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : Acearena s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Er-manue13 (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) a remporté (340)
+Siège 4 : franck764 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886139558 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 09/08/2022 17:33:22 CET [09/08/2022 11:33:22 ET]
+Table '3453789126 1' 4-max Siège #3 est au bouton.
+Place 1: Acearena (4980 en jetons) 
+Place 2: Er-manue13 (4780 en jetons) 
+Place 3: psychoman59 (5360 en jetons) 
+Place 4: franck764 (4880 en jetons) 
+Acearena : met l'ante. 10
+Er-manue13 : met l'ante. 10
+psychoman59 : met l'ante. 10
+franck764 : met l'ante. 10
+franck764 : met la petite blind. 50
+Acearena : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 3h]
+Er-manue13 : suit. 100
+psychoman59 : passe. 
+franck764 : suit. 50
+Acearena : parole 
+*** FLOP *** [3s 5c 6c]
+franck764 : parole 
+Acearena : parole 
+Er-manue13 : parole 
+*** TOURNANT *** [3s 5c 6c] [9h]
+franck764 : parole 
+Acearena : parole 
+Er-manue13 : parole 
+*** RIVIÈRE *** [3s 5c 6c 9h] [Ks]
+franck764 : parole 
+Acearena : parole 
+Er-manue13 : parole 
+*** ABATTAGE ***
+franck764 : montre [Tc Js] (Hauteur Roi)
+Acearena : cache la main perdante. 
+Er-manue13 : montre [Qs 9s] (une paire de Neuf)
+Er-manue13 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [3s 5c 6c 9h Ks]
+Siège 1 : Acearena (grosse blind) a caché la main perdante. [2h Jh]
+Siège 2 : Er-manue13 a montré [Qs 9s] et a gagné (340) avec une paire de Neuf
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : franck764 (petite blind) a montré [Tc Js] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°237886148820 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 09/08/2022 17:33:54 CET [09/08/2022 11:33:54 ET]
+Table '3453789126 1' 4-max Siège #4 est au bouton.
+Place 1: Acearena (4870 en jetons) 
+Place 2: Er-manue13 (5010 en jetons) 
+Place 3: psychoman59 (5350 en jetons) 
+Place 4: franck764 (4770 en jetons) 
+Acearena : met l'ante. 10
+Er-manue13 : met l'ante. 10
+psychoman59 : met l'ante. 10
+franck764 : met l'ante. 10
+Acearena : met la petite blind. 50
+Er-manue13 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 8h]
+psychoman59 : suit. 100
+franck764 : passe. 
+Acearena : suit. 50
+Er-manue13 : parole 
+*** FLOP *** [Ts 7h Ad]
+Acearena : parole 
+Er-manue13 : parole 
+psychoman59 : mise. 340
+Acearena : suit. 340
+Er-manue13 : passe. 
+*** TOURNANT *** [Ts 7h Ad] [Js]
+Acearena : parole 
+psychoman59 : mise. 510
+Acearena : suit. 510
+*** RIVIÈRE *** [Ts 7h Ad Js] [Qd]
+Acearena : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Acearena : montre [7s 3d] (une paire de Sept)
+psychoman59 : montre [As 8h] (une paire de As)
+psychoman59 a remporté 2040  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2040 | Commission 0 
+Tableau [Ts 7h Ad Js Qd]
+Siège 1 : Acearena (petite blind) a montré [7s 3d] et a perdu avec une paire de Sept
+Siège 2 : Er-manue13 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 a montré [As 8h] et a gagné (2040) avec une paire de As
+Siège 4 : franck764 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237886160934 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 09/08/2022 17:34:37 CET [09/08/2022 11:34:37 ET]
+Table '3453789126 1' 4-max Siège #1 est au bouton.
+Place 1: Acearena (3910 en jetons) 
+Place 2: Er-manue13 (4900 en jetons) 
+Place 3: psychoman59 (6430 en jetons) 
+Place 4: franck764 (4760 en jetons) 
+Acearena : met l'ante. 10
+Er-manue13 : met l'ante. 10
+psychoman59 : met l'ante. 10
+franck764 : met l'ante. 10
+Er-manue13 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 7s]
+franck764 : passe. 
+Acearena : passe. 
+Er-manue13 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Td 9c 4d]
+Er-manue13 : parole 
+psychoman59 : mise. 240
+Er-manue13 : suit. 240
+*** TOURNANT *** [Td 9c 4d] [8s]
+Er-manue13 : parole 
+psychoman59 : mise. 360
+Er-manue13 : suit. 360
+*** RIVIÈRE *** [Td 9c 4d 8s] [8c]
+Er-manue13 : mise. 4190 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (4190) sont retournés à Er-manue13.
+Er-manue13 a remporté 1440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1440 | Commission 0 
+Tableau [Td 9c 4d 8s 8c]
+Siège 1 : Acearena (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Er-manue13 (petite blind) a remporté (1440)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 4 : franck764 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237886172325 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 09/08/2022 17:35:17 CET [09/08/2022 11:35:17 ET]
+Table '3453789126 1' 4-max Siège #2 est au bouton.
+Place 1: Acearena (3900 en jetons) 
+Place 2: Er-manue13 (5630 en jetons) 
+Place 3: psychoman59 (5720 en jetons) 
+Place 4: franck764 (4750 en jetons) 
+Acearena : met l'ante. 10
+Er-manue13 : met l'ante. 10
+psychoman59 : met l'ante. 10
+franck764 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+franck764 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 3c]
+Acearena : passe. 
+Er-manue13 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à franck764.
+franck764 a remporté 140  lors du pot .
+franck764 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Siège 1 : Acearena s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Er-manue13 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : franck764 (grosse blind) a remporté (140)
+
+
+
+Main PokerStars n°237886175409 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 09/08/2022 17:35:28 CET [09/08/2022 11:35:28 ET]
+Table '3453789126 1' 4-max Siège #3 est au bouton.
+Place 1: Acearena (3890 en jetons) 
+Place 2: Er-manue13 (5620 en jetons) 
+Place 3: psychoman59 (5660 en jetons) 
+Place 4: franck764 (4830 en jetons) 
+Acearena : met l'ante. 10
+Er-manue13 : met l'ante. 10
+psychoman59 : met l'ante. 10
+franck764 : met l'ante. 10
+franck764 : met la petite blind. 50
+Acearena : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 3c]
+Er-manue13 : passe. 
+psychoman59 : passe. 
+franck764 : suit. 50
+Acearena : parole 
+*** FLOP *** [6h Ts Th]
+franck764 : mise. 200
+Acearena : suit. 200
+*** TOURNANT *** [6h Ts Th] [Jc]
+franck764 : mise. 100
+Acearena : suit. 100
+*** RIVIÈRE *** [6h Ts Th Jc] [9c]
+franck764 : mise. 100
+Acearena : suit. 100
+*** ABATTAGE ***
+franck764 : montre [Qc 6s] (double paire, Dix et Six)
+Acearena : montre [7c 9h] (double paire, Dix et Neuf)
+Acearena a remporté 1040  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1040 | Commission 0 
+Tableau [6h Ts Th Jc 9c]
+Siège 1 : Acearena (grosse blind) a montré [7c 9h] et a gagné (1040) avec double paire, Dix et Neuf
+Siège 2 : Er-manue13 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : franck764 (petite blind) a montré [Qc 6s] et a perdu avec double paire, Dix et Six
+
+
+
+Main PokerStars n°237886184539 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 09/08/2022 17:36:00 CET [09/08/2022 11:36:00 ET]
+Table '3453789126 1' 4-max Siège #4 est au bouton.
+Place 1: Acearena (4420 en jetons) 
+Place 2: Er-manue13 (5610 en jetons) 
+Place 3: psychoman59 (5650 en jetons) 
+Place 4: franck764 (4320 en jetons) 
+Acearena : met l'ante. 15
+Er-manue13 : met l'ante. 15
+psychoman59 : met l'ante. 15
+franck764 : met l'ante. 15
+Acearena : met la petite blind. 60
+Er-manue13 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Qs]
+psychoman59 : passe. 
+franck764 : passe. 
+Acearena : relance. 144 à 264
+Er-manue13 : relance. 5331 à 5595 et est all-in.
+Acearena : passe. 
+Personne n'a suivi. (5331) sont retournés à Er-manue13.
+Er-manue13 a remporté 588  lors du pot .
+*** SYNTHÈSE ***
+Pot total 588 | Commission 0 
+Siège 1 : Acearena (petite blind) s'est couché. avant Flop
+Siège 2 : Er-manue13 (grosse blind) a remporté (588)
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : franck764 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237886190031 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 09/08/2022 17:36:20 CET [09/08/2022 11:36:20 ET]
+Table '3453789126 1' 4-max Siège #1 est au bouton.
+Place 1: Acearena (4141 en jetons) 
+Place 2: Er-manue13 (5919 en jetons) 
+Place 3: psychoman59 (5635 en jetons) 
+Place 4: franck764 (4305 en jetons) 
+Acearena : met l'ante. 15
+Er-manue13 : met l'ante. 15
+psychoman59 : met l'ante. 15
+franck764 : met l'ante. 15
+Er-manue13 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 6d]
+franck764 : suit. 120
+Acearena : relance. 480 à 600
+Er-manue13 : suit. 540
+psychoman59 : passe. 
+franck764 : suit. 480
+*** FLOP *** [Qd 4d 8d]
+Er-manue13 : mise. 5304 et est all-in.
+franck764 : suit. 3690 et est all-in.
+Acearena : passe. 
+Personne n'a suivi. (1614) sont retournés à Er-manue13.
+*** TOURNANT *** [Qd 4d 8d] [9d]
+*** RIVIÈRE *** [Qd 4d 8d 9d] [Ks]
+*** ABATTAGE ***
+Er-manue13 : montre [Td Qh] (une couleur, hauteur Dame)
+franck764 : montre [Jd Kd] (une couleur, hauteur Roi)
+franck764 a remporté 9360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9360 | Commission 0 
+Tableau [Qd 4d 8d 9d Ks]
+Siège 1 : Acearena (bouton) s'est couché. sur le Flop
+Siège 2 : Er-manue13 (petite blind) a montré [Td Qh] et a perdu avec une couleur, hauteur Dame
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : franck764 a montré [Jd Kd] et a gagné (9360) avec une couleur, hauteur Roi
+
+
+
+Main PokerStars n°237886198004 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 09/08/2022 17:36:48 CET [09/08/2022 11:36:48 ET]
+Table '3453789126 1' 4-max Siège #2 est au bouton.
+Place 1: Acearena (3526 en jetons) 
+Place 2: Er-manue13 (1614 en jetons) 
+Place 3: psychoman59 (5500 en jetons) 
+Place 4: franck764 (9360 en jetons) 
+Acearena : met l'ante. 15
+Er-manue13 : met l'ante. 15
+psychoman59 : met l'ante. 15
+franck764 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+franck764 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 9s]
+Acearena : passe. 
+Er-manue13 : relance. 1479 à 1599 et est all-in.
+psychoman59 : passe. 
+franck764 : passe. 
+Personne n'a suivi. (1479) sont retournés à Er-manue13.
+Er-manue13 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : Acearena s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Er-manue13 (bouton) a remporté (360)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : franck764 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886201824 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 09/08/2022 17:37:01 CET [09/08/2022 11:37:01 ET]
+Table '3453789126 1' 4-max Siège #3 est au bouton.
+Place 1: Acearena (3511 en jetons) 
+Place 2: Er-manue13 (1839 en jetons) 
+Place 3: psychoman59 (5425 en jetons) 
+Place 4: franck764 (9225 en jetons) 
+Acearena : met l'ante. 15
+Er-manue13 : met l'ante. 15
+psychoman59 : met l'ante. 15
+franck764 : met l'ante. 15
+franck764 : met la petite blind. 60
+Acearena : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 6c]
+Er-manue13 : suit. 120
+psychoman59 : passe. 
+franck764 : suit. 60
+Acearena : parole 
+*** FLOP *** [Qh 4c 5s]
+franck764 : mise. 120
+Acearena : suit. 120
+Er-manue13 : relance. 1584 à 1704 et est all-in.
+franck764 : passe. 
+Acearena : suit. 1584
+*** TOURNANT *** [Qh 4c 5s] [9c]
+*** RIVIÈRE *** [Qh 4c 5s 9c] [Ts]
+*** ABATTAGE ***
+Acearena : montre [Ad 2h] (Hauteur As)
+Er-manue13 : montre [Qs 8h] (une paire de Dames)
+Er-manue13 a remporté 3948  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3948 | Commission 0 
+Tableau [Qh 4c 5s 9c Ts]
+Siège 1 : Acearena (grosse blind) a montré [Ad 2h] et a perdu avec Hauteur As
+Siège 2 : Er-manue13 a montré [Qs 8h] et a gagné (3948) avec une paire de Dames
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : franck764 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237886209537 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 09/08/2022 17:37:28 CET [09/08/2022 11:37:28 ET]
+Table '3453789126 1' 4-max Siège #4 est au bouton.
+Place 1: Acearena (1672 en jetons) 
+Place 2: Er-manue13 (3948 en jetons) 
+Place 3: psychoman59 (5410 en jetons) 
+Place 4: franck764 (8970 en jetons) 
+Acearena : met l'ante. 15
+Er-manue13 : met l'ante. 15
+psychoman59 : met l'ante. 15
+franck764 : met l'ante. 15
+Acearena : met la petite blind. 60
+Er-manue13 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Ad]
+psychoman59 : suit. 120
+franck764 : passe. 
+Acearena : suit. 60
+Er-manue13 : parole 
+*** FLOP *** [3h 9s 5d]
+Acearena : parole 
+Er-manue13 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3h 9s 5d] [7c]
+Acearena : mise. 210
+Er-manue13 : suit. 210
+psychoman59 : suit. 210
+*** RIVIÈRE *** [3h 9s 5d 7c] [Qh]
+Acearena : parole 
+Er-manue13 : mise. 3603 et est all-in.
+psychoman59 : passe. 
+Acearena : passe. 
+Personne n'a suivi. (3603) sont retournés à Er-manue13.
+Er-manue13 a remporté 1050  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1050 | Commission 0 
+Tableau [3h 9s 5d 7c Qh]
+Siège 1 : Acearena (petite blind) s'est couché. sur le Rivière
+Siège 2 : Er-manue13 (grosse blind) a remporté (1050)
+Siège 3 : psychoman59 s'est couché. sur le Rivière
+Siège 4 : franck764 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237886220379 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 09/08/2022 17:38:06 CET [09/08/2022 11:38:06 ET]
+Table '3453789126 1' 4-max Siège #1 est au bouton.
+Place 1: Acearena (1327 en jetons) 
+Place 2: Er-manue13 (4653 en jetons) 
+Place 3: psychoman59 (5065 en jetons) 
+Place 4: franck764 (8955 en jetons) 
+Acearena : met l'ante. 15
+Er-manue13 : met l'ante. 15
+psychoman59 : met l'ante. 15
+franck764 : met l'ante. 15
+Er-manue13 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Jd]
+franck764 : suit. 120
+Acearena : relance. 240 à 360
+Er-manue13 : suit. 300
+psychoman59 : passe. 
+franck764 : suit. 240
+*** FLOP *** [9h 9c 3s]
+Er-manue13 : parole 
+franck764 : parole 
+Acearena : parole 
+*** TOURNANT *** [9h 9c 3s] [3d]
+Er-manue13 : parole 
+franck764 : mise. 120
+Acearena : relance. 120 à 240
+Er-manue13 : passe. 
+franck764 : suit. 120
+*** RIVIÈRE *** [9h 9c 3s 3d] [7h]
+franck764 : parole 
+Acearena : mise. 712 et est all-in.
+franck764 : passe. 
+Personne n'a suivi. (712) sont retournés à Acearena.
+Acearena a remporté 1740  lors du pot .
+Acearena : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1740 | Commission 0 
+Tableau [9h 9c 3s 3d 7h]
+Siège 1 : Acearena (bouton) a remporté (1740)
+Siège 2 : Er-manue13 (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : franck764 s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237886229928 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 09/08/2022 17:38:39 CET [09/08/2022 11:38:39 ET]
+Table '3453789126 1' 4-max Siège #2 est au bouton.
+Place 1: Acearena (2452 en jetons) 
+Place 2: Er-manue13 (4278 en jetons) 
+Place 3: psychoman59 (4930 en jetons) 
+Place 4: franck764 (8340 en jetons) 
+Acearena : met l'ante. 15
+Er-manue13 : met l'ante. 15
+psychoman59 : met l'ante. 15
+franck764 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+franck764 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 4h]
+Acearena : relance. 2317 à 2437 et est all-in.
+Er-manue13 : passe. 
+psychoman59 : passe. 
+franck764 : passe. 
+Personne n'a suivi. (2317) sont retournés à Acearena.
+Acearena a remporté 360  lors du pot .
+Acearena : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : Acearena a remporté (360)
+Siège 2 : Er-manue13 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : franck764 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886235266 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 09/08/2022 17:38:58 CET [09/08/2022 11:38:58 ET]
+Table '3453789126 1' 4-max Siège #3 est au bouton.
+Place 1: Acearena (2677 en jetons) 
+Place 2: Er-manue13 (4263 en jetons) 
+Place 3: psychoman59 (4855 en jetons) 
+Place 4: franck764 (8205 en jetons) 
+Acearena : met l'ante. 20
+Er-manue13 : met l'ante. 20
+psychoman59 : met l'ante. 20
+franck764 : met l'ante. 20
+franck764 : met la petite blind. 75
+Acearena : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Td]
+Er-manue13 : relance. 4093 à 4243 et est all-in.
+psychoman59 : passe. 
+franck764 : passe. 
+Acearena : passe. 
+Personne n'a suivi. (4093) sont retournés à Er-manue13.
+Er-manue13 a remporté 455  lors du pot .
+*** SYNTHÈSE ***
+Pot total 455 | Commission 0 
+Siège 1 : Acearena (grosse blind) s'est couché. avant Flop
+Siège 2 : Er-manue13 a remporté (455)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : franck764 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886238310 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 09/08/2022 17:39:09 CET [09/08/2022 11:39:09 ET]
+Table '3453789126 1' 4-max Siège #4 est au bouton.
+Place 1: Acearena (2507 en jetons) 
+Place 2: Er-manue13 (4548 en jetons) 
+Place 3: psychoman59 (4835 en jetons) 
+Place 4: franck764 (8110 en jetons) 
+Acearena : met l'ante. 20
+Er-manue13 : met l'ante. 20
+psychoman59 : met l'ante. 20
+franck764 : met l'ante. 20
+Acearena : met la petite blind. 75
+Er-manue13 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ts]
+psychoman59 : passe. 
+franck764 : passe. 
+Acearena : relance. 2337 à 2487 et est all-in.
+Er-manue13 : passe. 
+Personne n'a suivi. (2337) sont retournés à Acearena.
+Acearena a remporté 380  lors du pot .
+Acearena : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : Acearena (petite blind) a remporté (380)
+Siège 2 : Er-manue13 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : franck764 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237886241957 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 09/08/2022 17:39:22 CET [09/08/2022 11:39:22 ET]
+Table '3453789126 1' 4-max Siège #1 est au bouton.
+Place 1: Acearena (2717 en jetons) 
+Place 2: Er-manue13 (4378 en jetons) 
+Place 3: psychoman59 (4815 en jetons) 
+Place 4: franck764 (8090 en jetons) 
+Acearena : met l'ante. 20
+Er-manue13 : met l'ante. 20
+psychoman59 : met l'ante. 20
+franck764 : met l'ante. 20
+Er-manue13 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Tc]
+franck764 : passe. 
+Acearena : relance. 180 à 330
+Er-manue13 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (180) sont retournés à Acearena.
+Acearena a remporté 455  lors du pot .
+Acearena : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 455 | Commission 0 
+Siège 1 : Acearena (bouton) a remporté (455)
+Siège 2 : Er-manue13 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : franck764 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237886246008 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 09/08/2022 17:39:36 CET [09/08/2022 11:39:36 ET]
+Table '3453789126 1' 4-max Siège #2 est au bouton.
+Place 1: Acearena (3002 en jetons) 
+Place 2: Er-manue13 (4283 en jetons) 
+Place 3: psychoman59 (4645 en jetons) 
+Place 4: franck764 (8070 en jetons) 
+Acearena : met l'ante. 20
+Er-manue13 : met l'ante. 20
+psychoman59 : met l'ante. 20
+franck764 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+franck764 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 5s]
+Acearena : passe. 
+Er-manue13 : suit. 150
+psychoman59 : suit. 75
+franck764 : parole 
+*** FLOP *** [8c Th 9h]
+psychoman59 : parole 
+franck764 : mise. 150
+Er-manue13 : suit. 150
+psychoman59 : passe. 
+*** TOURNANT *** [8c Th 9h] [9s]
+franck764 : mise. 150
+Er-manue13 : suit. 150
+*** RIVIÈRE *** [8c Th 9h 9s] [Jh]
+franck764 : parole 
+Er-manue13 : mise. 3813 et est all-in.
+franck764 : passe. 
+Personne n'a suivi. (3813) sont retournés à Er-manue13.
+Er-manue13 a remporté 1130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1130 | Commission 0 
+Tableau [8c Th 9h 9s Jh]
+Siège 1 : Acearena s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Er-manue13 (bouton) a remporté (1130)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 4 : franck764 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237886256867 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 09/08/2022 17:40:15 CET [09/08/2022 11:40:15 ET]
+Table '3453789126 1' 4-max Siège #3 est au bouton.
+Place 1: Acearena (2982 en jetons) 
+Place 2: Er-manue13 (4943 en jetons) 
+Place 3: psychoman59 (4475 en jetons) 
+Place 4: franck764 (7600 en jetons) 
+Acearena : met l'ante. 20
+Er-manue13 : met l'ante. 20
+psychoman59 : met l'ante. 20
+franck764 : met l'ante. 20
+franck764 : met la petite blind. 75
+Acearena : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 7h]
+Er-manue13 : suit. 150
+psychoman59 : passe. 
+franck764 : suit. 75
+Acearena : relance. 2812 à 2962 et est all-in.
+Er-manue13 : passe. 
+franck764 : passe. 
+Personne n'a suivi. (2812) sont retournés à Acearena.
+Acearena a remporté 530  lors du pot .
+Acearena : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 530 | Commission 0 
+Siège 1 : Acearena (grosse blind) a remporté (530)
+Siège 2 : Er-manue13 s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : franck764 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886260845 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 09/08/2022 17:40:29 CET [09/08/2022 11:40:29 ET]
+Table '3453789126 1' 4-max Siège #4 est au bouton.
+Place 1: Acearena (3342 en jetons) 
+Place 2: Er-manue13 (4773 en jetons) 
+Place 3: psychoman59 (4455 en jetons) 
+Place 4: franck764 (7430 en jetons) 
+Acearena : met l'ante. 20
+Er-manue13 : met l'ante. 20
+psychoman59 : met l'ante. 20
+franck764 : met l'ante. 20
+Acearena : met la petite blind. 75
+Er-manue13 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 3c]
+psychoman59 : relance. 300 à 450
+franck764 : suit. 450
+Acearena : passe. 
+Er-manue13 : passe. 
+*** FLOP *** [8h 6c 6d]
+psychoman59 : parole 
+franck764 : parole 
+*** TOURNANT *** [8h 6c 6d] [Kc]
+psychoman59 : parole 
+franck764 : parole 
+*** RIVIÈRE *** [8h 6c 6d Kc] [Ts]
+psychoman59 : parole 
+franck764 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [As 3c] (une paire de Six)
+franck764 : cache la main perdante. 
+psychoman59 a remporté 1205  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1205 | Commission 0 
+Tableau [8h 6c 6d Kc Ts]
+Siège 1 : Acearena (petite blind) s'est couché. avant Flop
+Siège 2 : Er-manue13 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 a montré [As 3c] et a gagné (1205) avec une paire de Six
+Siège 4 : franck764 (bouton) a caché la main perdante. [Qd Js]
+
+
+
+Main PokerStars n°237886269691 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 09/08/2022 17:41:00 CET [09/08/2022 11:41:00 ET]
+Table '3453789126 1' 4-max Siège #1 est au bouton.
+Place 1: Acearena (3247 en jetons) 
+Place 2: Er-manue13 (4603 en jetons) 
+Place 3: psychoman59 (5190 en jetons) 
+Place 4: franck764 (6960 en jetons) 
+Acearena : met l'ante. 20
+Er-manue13 : met l'ante. 20
+psychoman59 : met l'ante. 20
+franck764 : met l'ante. 20
+Er-manue13 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 5s]
+franck764 : passe. 
+Acearena : passe. 
+Er-manue13 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [Js 6d Qc]
+Er-manue13 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Js 6d Qc] [4h]
+Er-manue13 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Js 6d Qc 4h] [Jd]
+Er-manue13 : parole 
+psychoman59 : mise. 380
+Er-manue13 : passe. 
+Personne n'a suivi. (380) sont retournés à psychoman59.
+psychoman59 a remporté 380  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [Js 6d Qc 4h Jd]
+Siège 1 : Acearena (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Er-manue13 (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (380)
+Siège 4 : franck764 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237886277404 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 09/08/2022 17:41:27 CET [09/08/2022 11:41:27 ET]
+Table '3453789126 1' 4-max Siège #2 est au bouton.
+Place 1: Acearena (3227 en jetons) 
+Place 2: Er-manue13 (4433 en jetons) 
+Place 3: psychoman59 (5400 en jetons) 
+Place 4: franck764 (6940 en jetons) 
+Acearena : met l'ante. 20
+Er-manue13 : met l'ante. 20
+psychoman59 : met l'ante. 20
+franck764 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+franck764 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Kc]
+Acearena : relance. 3057 à 3207 et est all-in.
+Er-manue13 : passe. 
+psychoman59 : relance. 2173 à 5380 et est all-in.
+franck764 : passe. 
+Personne n'a suivi. (2173) sont retournés à psychoman59.
+*** FLOP *** [7d 7h 2d]
+*** TOURNANT *** [7d 7h 2d] [Qh]
+*** RIVIÈRE *** [7d 7h 2d Qh] [Qc]
+*** ABATTAGE ***
+psychoman59 : montre [Kh Kc] (double paire, Rois et Dames)
+Acearena : montre [6h Ad] (double paire, Dames et Sept)
+psychoman59 a remporté 6644  lors du pot .
+Acearena a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 6644 | Commission 0 
+Tableau [7d 7h 2d Qh Qc]
+Siège 1 : Acearena a montré [6h Ad] et a perdu avec double paire, Dames et Sept
+Siège 2 : Er-manue13 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Kh Kc] et a gagné (6644) avec double paire, Rois et Dames
+Siège 4 : franck764 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886284141 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 09/08/2022 17:41:51 CET [09/08/2022 11:41:51 ET]
+Table '3453789126 1' 4-max Siège #3 est au bouton.
+Place 2: Er-manue13 (4413 en jetons) 
+Place 3: psychoman59 (8817 en jetons) 
+Place 4: franck764 (6770 en jetons) 
+Er-manue13 : met l'ante. 25
+psychoman59 : met l'ante. 25
+franck764 : met l'ante. 25
+franck764 : met la petite blind. 100
+Er-manue13 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 9d]
+psychoman59 : passe. 
+franck764 : passe. 
+Personne n'a suivi. (100) sont retournés à Er-manue13.
+Er-manue13 a remporté 275  lors du pot .
+*** SYNTHÈSE ***
+Pot total 275 | Commission 0 
+Siège 2 : Er-manue13 (grosse blind) a remporté (275)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : franck764 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886287625 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 09/08/2022 17:42:03 CET [09/08/2022 11:42:03 ET]
+Table '3453789126 1' 4-max Siège #4 est au bouton.
+Place 2: Er-manue13 (4563 en jetons) 
+Place 3: psychoman59 (8792 en jetons) 
+Place 4: franck764 (6645 en jetons) 
+Er-manue13 : met l'ante. 25
+psychoman59 : met l'ante. 25
+franck764 : met l'ante. 25
+Er-manue13 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Qs]
+franck764 : suit. 200
+Er-manue13 : suit. 100
+psychoman59 : parole 
+*** FLOP *** [3h 4h Tc]
+Er-manue13 : mise. 200
+psychoman59 : relance. 1075 à 1275
+franck764 : passe. 
+Er-manue13 : passe. 
+Personne n'a suivi. (1075) sont retournés à psychoman59.
+psychoman59 a remporté 1075  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1075 | Commission 0 
+Tableau [3h 4h Tc]
+Siège 2 : Er-manue13 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (1075)
+Siège 4 : franck764 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237886294652 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 09/08/2022 17:42:28 CET [09/08/2022 11:42:28 ET]
+Table '3453789126 1' 4-max Siège #2 est au bouton.
+Place 2: Er-manue13 (4138 en jetons) 
+Place 3: psychoman59 (9442 en jetons) 
+Place 4: franck764 (6420 en jetons) 
+Er-manue13 : met l'ante. 25
+psychoman59 : met l'ante. 25
+franck764 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+franck764 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 7s]
+Er-manue13 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à franck764.
+franck764 a remporté 275  lors du pot .
+franck764 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 275 | Commission 0 
+Siège 2 : Er-manue13 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : franck764 (grosse blind) a remporté (275)
+
+
+
+Main PokerStars n°237886297244 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 09/08/2022 17:42:37 CET [09/08/2022 11:42:37 ET]
+Table '3453789126 1' 4-max Siège #3 est au bouton.
+Place 2: Er-manue13 (4113 en jetons) 
+Place 3: psychoman59 (9317 en jetons) 
+Place 4: franck764 (6570 en jetons) 
+Er-manue13 : met l'ante. 25
+psychoman59 : met l'ante. 25
+franck764 : met l'ante. 25
+franck764 : met la petite blind. 100
+Er-manue13 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Kh]
+psychoman59 : passe. 
+franck764 : suit. 100
+Er-manue13 : parole 
+*** FLOP *** [6s Kc 7s]
+franck764 : parole 
+Er-manue13 : mise. 200
+franck764 : suit. 200
+*** TOURNANT *** [6s Kc 7s] [Kd]
+franck764 : parole 
+Er-manue13 : mise. 200
+franck764 : suit. 200
+*** RIVIÈRE *** [6s Kc 7s Kd] [5c]
+franck764 : parole 
+Er-manue13 : parole 
+*** ABATTAGE ***
+franck764 : montre [Jd Ts] (une paire de Rois)
+Er-manue13 : montre [7d Ac] (double paire, Rois et Sept)
+Er-manue13 a remporté 1275  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1275 | Commission 0 
+Tableau [6s Kc 7s Kd 5c]
+Siège 2 : Er-manue13 (grosse blind) a montré [7d Ac] et a gagné (1275) avec double paire, Rois et Sept
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : franck764 (petite blind) a montré [Jd Ts] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°237886303541 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 09/08/2022 17:43:00 CET [09/08/2022 11:43:00 ET]
+Table '3453789126 1' 4-max Siège #4 est au bouton.
+Place 2: Er-manue13 (4763 en jetons) 
+Place 3: psychoman59 (9292 en jetons) 
+Place 4: franck764 (5945 en jetons) 
+Er-manue13 : met l'ante. 25
+psychoman59 : met l'ante. 25
+franck764 : met l'ante. 25
+Er-manue13 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ac]
+franck764 : passe. 
+Er-manue13 : relance. 200 à 400
+psychoman59 : relance. 8867 à 9267 et est all-in.
+Er-manue13 : suit. 4338 et est all-in.
+Personne n'a suivi. (4529) sont retournés à psychoman59.
+*** FLOP *** [2c 7d 5s]
+*** TOURNANT *** [2c 7d 5s] [Ks]
+*** RIVIÈRE *** [2c 7d 5s Ks] [5h]
+*** ABATTAGE ***
+Er-manue13 : montre [Jd Jh] (double paire, Valets et Cinq)
+psychoman59 : montre [3c Ac] (une paire de Cinq)
+Er-manue13 a remporté 9551  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9551 | Commission 0 
+Tableau [2c 7d 5s Ks 5h]
+Siège 2 : Er-manue13 (petite blind) a montré [Jd Jh] et a gagné (9551) avec double paire, Valets et Cinq
+Siège 3 : psychoman59 (grosse blind) a montré [3c Ac] et a perdu avec une paire de Cinq
+Siège 4 : franck764 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237886309013 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 09/08/2022 17:43:19 CET [09/08/2022 11:43:19 ET]
+Table '3453789126 1' 4-max Siège #2 est au bouton.
+Place 2: Er-manue13 (9551 en jetons) 
+Place 3: psychoman59 (4529 en jetons) 
+Place 4: franck764 (5920 en jetons) 
+Er-manue13 : met l'ante. 25
+psychoman59 : met l'ante. 25
+franck764 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+franck764 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 9d]
+Er-manue13 : passe. 
+psychoman59 : relance. 4304 à 4504 et est all-in.
+franck764 : passe. 
+Personne n'a suivi. (4304) sont retournés à psychoman59.
+psychoman59 a remporté 475  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Siège 2 : Er-manue13 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (475)
+Siège 4 : franck764 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886312453 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 09/08/2022 17:43:31 CET [09/08/2022 11:43:31 ET]
+Table '3453789126 1' 4-max Siège #3 est au bouton.
+Place 2: Er-manue13 (9526 en jetons) 
+Place 3: psychoman59 (4779 en jetons) 
+Place 4: franck764 (5695 en jetons) 
+Er-manue13 : met l'ante. 25
+psychoman59 : met l'ante. 25
+franck764 : met l'ante. 25
+franck764 : met la petite blind. 100
+Er-manue13 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Th]
+psychoman59 : passe. 
+franck764 : suit. 100
+Er-manue13 : parole 
+*** FLOP *** [Jh Ah 3c]
+franck764 : parole 
+Er-manue13 : parole 
+*** TOURNANT *** [Jh Ah 3c] [7c]
+franck764 : parole 
+Er-manue13 : parole 
+*** RIVIÈRE *** [Jh Ah 3c 7c] [8h]
+franck764 : parole 
+Er-manue13 : parole 
+*** ABATTAGE ***
+franck764 : montre [Ks 6s] (Hauteur As)
+Er-manue13 : cache la main perdante. 
+franck764 a remporté 475  lors du pot .
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Tableau [Jh Ah 3c 7c 8h]
+Siège 2 : Er-manue13 (grosse blind) a caché la main perdante. [Td 2h]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : franck764 (petite blind) a montré [Ks 6s] et a gagné (475) avec Hauteur As
+
+
+
+Main PokerStars n°237886324241 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 09/08/2022 17:44:13 CET [09/08/2022 11:44:13 ET]
+Table '3453789126 1' 4-max Siège #4 est au bouton.
+Place 2: Er-manue13 (9301 en jetons) 
+Place 3: psychoman59 (4754 en jetons) 
+Place 4: franck764 (5945 en jetons) 
+Er-manue13 : met l'ante. 25
+psychoman59 : met l'ante. 25
+franck764 : met l'ante. 25
+Er-manue13 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 3h]
+franck764 : passe. 
+Er-manue13 : suit. 100
+psychoman59 : parole 
+*** FLOP *** [4c 3s 2c]
+Er-manue13 : mise. 200
+psychoman59 : suit. 200
+*** TOURNANT *** [4c 3s 2c] [Ks]
+Er-manue13 : mise. 200
+psychoman59 : suit. 200
+*** RIVIÈRE *** [4c 3s 2c Ks] [8d]
+Er-manue13 : mise. 200
+psychoman59 : relance. 1675 à 1875
+Er-manue13 : passe. 
+Personne n'a suivi. (1675) sont retournés à psychoman59.
+psychoman59 a remporté 1675  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1675 | Commission 0 
+Tableau [4c 3s 2c Ks 8d]
+Siège 2 : Er-manue13 (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (1675)
+Siège 4 : franck764 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237886330676 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 09/08/2022 17:44:35 CET [09/08/2022 11:44:35 ET]
+Table '3453789126 1' 4-max Siège #2 est au bouton.
+Place 2: Er-manue13 (8476 en jetons) 
+Place 3: psychoman59 (5604 en jetons) 
+Place 4: franck764 (5920 en jetons) 
+Er-manue13 : met l'ante. 25
+psychoman59 : met l'ante. 25
+franck764 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+franck764 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 9c]
+Er-manue13 : suit. 200
+psychoman59 : suit. 100
+franck764 : parole 
+*** FLOP *** [6s 2s Th]
+psychoman59 : parole 
+franck764 : mise. 200
+Er-manue13 : passe. 
+psychoman59 : suit. 200
+*** TOURNANT *** [6s 2s Th] [5c]
+psychoman59 : parole 
+franck764 : mise. 200
+psychoman59 : suit. 200
+*** RIVIÈRE *** [6s 2s Th 5c] [Ad]
+psychoman59 : parole 
+franck764 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7d 9c] (Hauteur As)
+franck764 : montre [3c 3h] (une paire de Trois)
+franck764 a remporté 1475  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1475 | Commission 0 
+Tableau [6s 2s Th 5c Ad]
+Siège 2 : Er-manue13 (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) a montré [7d 9c] et a perdu avec Hauteur As
+Siège 4 : franck764 (grosse blind) a montré [3c 3h] et a gagné (1475) avec une paire de Trois
+
+
+
+Main PokerStars n°237886343832 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 09/08/2022 17:45:20 CET [09/08/2022 11:45:20 ET]
+Table '3453789126 1' 4-max Siège #3 est au bouton.
+Place 2: Er-manue13 (8251 en jetons) 
+Place 3: psychoman59 (4979 en jetons) 
+Place 4: franck764 (6770 en jetons) 
+Er-manue13 : met l'ante. 30
+psychoman59 : met l'ante. 30
+franck764 : met l'ante. 30
+franck764 : met la petite blind. 125
+Er-manue13 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ad]
+psychoman59 : relance. 715 à 965
+franck764 : passe. 
+Er-manue13 : passe. 
+Personne n'a suivi. (715) sont retournés à psychoman59.
+psychoman59 a remporté 715  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 715 | Commission 0 
+Siège 2 : Er-manue13 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (715)
+Siège 4 : franck764 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886347033 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 09/08/2022 17:45:31 CET [09/08/2022 11:45:31 ET]
+Table '3453789126 1' 4-max Siège #4 est au bouton.
+Place 2: Er-manue13 (7971 en jetons) 
+Place 3: psychoman59 (5414 en jetons) 
+Place 4: franck764 (6615 en jetons) 
+Er-manue13 : met l'ante. 30
+psychoman59 : met l'ante. 30
+franck764 : met l'ante. 30
+Er-manue13 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ks]
+franck764 : passe. 
+Er-manue13 : suit. 125
+psychoman59 : parole 
+*** FLOP *** [Qs Qd 7d]
+Er-manue13 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qs Qd 7d] [6d]
+Er-manue13 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qs Qd 7d 6d] [7s]
+Er-manue13 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Er-manue13 : montre [Ac 3c] (double paire, Dames et Sept)
+psychoman59 : cache la main perdante. 
+Er-manue13 a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [Qs Qd 7d 6d 7s]
+Siège 2 : Er-manue13 (petite blind) a montré [Ac 3c] et a gagné (590) avec double paire, Dames et Sept
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [9h Ks]
+Siège 4 : franck764 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237886355856 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 09/08/2022 17:46:01 CET [09/08/2022 11:46:01 ET]
+Table '3453789126 1' 4-max Siège #2 est au bouton.
+Place 2: Er-manue13 (8281 en jetons) 
+Place 3: psychoman59 (5134 en jetons) 
+Place 4: franck764 (6585 en jetons) 
+Er-manue13 : met l'ante. 30
+psychoman59 : met l'ante. 30
+franck764 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+franck764 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 5d]
+Er-manue13 : suit. 250
+psychoman59 : passe. 
+franck764 : parole 
+*** FLOP *** [8d Jc 9d]
+franck764 : mise. 250
+Er-manue13 : passe. 
+Personne n'a suivi. (250) sont retournés à franck764.
+franck764 a remporté 715  lors du pot .
+franck764 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 715 | Commission 0 
+Tableau [8d Jc 9d]
+Siège 2 : Er-manue13 (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : franck764 (grosse blind) a remporté (715)
+
+
+
+Main PokerStars n°237886359505 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 09/08/2022 17:46:14 CET [09/08/2022 11:46:14 ET]
+Table '3453789126 1' 4-max Siège #3 est au bouton.
+Place 2: Er-manue13 (8001 en jetons) 
+Place 3: psychoman59 (4979 en jetons) 
+Place 4: franck764 (7020 en jetons) 
+Er-manue13 : met l'ante. 30
+psychoman59 : met l'ante. 30
+franck764 : met l'ante. 30
+franck764 : met la petite blind. 125
+Er-manue13 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Tc]
+psychoman59 : passe. 
+franck764 : suit. 125
+Er-manue13 : parole 
+*** FLOP *** [3c 4h 6h]
+franck764 : parole 
+Er-manue13 : parole 
+*** TOURNANT *** [3c 4h 6h] [Kh]
+franck764 : mise. 250
+Er-manue13 : suit. 250
+*** RIVIÈRE *** [3c 4h 6h Kh] [9s]
+franck764 : parole 
+Er-manue13 : parole 
+*** ABATTAGE ***
+franck764 : montre [2d 2c] (une paire de Deux)
+Er-manue13 : montre [9c Ah] (une paire de Neuf)
+Er-manue13 a remporté 1090  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1090 | Commission 0 
+Tableau [3c 4h 6h Kh 9s]
+Siège 2 : Er-manue13 (grosse blind) a montré [9c Ah] et a gagné (1090) avec une paire de Neuf
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : franck764 (petite blind) a montré [2d 2c] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°237886364589 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 09/08/2022 17:46:32 CET [09/08/2022 11:46:32 ET]
+Table '3453789126 1' 4-max Siège #4 est au bouton.
+Place 2: Er-manue13 (8561 en jetons) 
+Place 3: psychoman59 (4949 en jetons) 
+Place 4: franck764 (6490 en jetons) 
+Er-manue13 : met l'ante. 30
+psychoman59 : met l'ante. 30
+franck764 : met l'ante. 30
+Er-manue13 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 2s]
+franck764 : passe. 
+Er-manue13 : suit. 125
+psychoman59 : parole 
+*** FLOP *** [5h 7s 4s]
+Er-manue13 : mise. 250
+psychoman59 : suit. 250
+*** TOURNANT *** [5h 7s 4s] [Ad]
+Er-manue13 : mise. 250
+psychoman59 : suit. 250
+*** RIVIÈRE *** [5h 7s 4s Ad] [3s]
+Er-manue13 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Er-manue13 : montre [5s 9h] (une paire de Cinq)
+psychoman59 : montre [4d 2s] (une suite, As à Cinq)
+psychoman59 a remporté 1590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1590 | Commission 0 
+Tableau [5h 7s 4s Ad 3s]
+Siège 2 : Er-manue13 (petite blind) a montré [5s 9h] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (grosse blind) a montré [4d 2s] et a gagné (1590) avec une suite, As à Cinq
+Siège 4 : franck764 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237886375943 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 09/08/2022 17:47:05 CET [09/08/2022 11:47:05 ET]
+Table '3453789126 1' 4-max Siège #2 est au bouton.
+Place 2: Er-manue13 (7781 en jetons) 
+Place 3: psychoman59 (5759 en jetons) 
+Place 4: franck764 (6460 en jetons) 
+Er-manue13 : met l'ante. 30
+psychoman59 : met l'ante. 30
+franck764 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+franck764 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 9h]
+Er-manue13 : suit. 250
+psychoman59 : passe. 
+franck764 : parole 
+*** FLOP *** [Ks Ts 4d]
+franck764 : parole 
+Er-manue13 : mise. 250
+franck764 : passe. 
+Personne n'a suivi. (250) sont retournés à Er-manue13.
+Er-manue13 a remporté 715  lors du pot .
+*** SYNTHÈSE ***
+Pot total 715 | Commission 0 
+Tableau [Ks Ts 4d]
+Siège 2 : Er-manue13 (bouton) a remporté (715)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : franck764 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237886379917 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 09/08/2022 17:47:19 CET [09/08/2022 11:47:19 ET]
+Table '3453789126 1' 4-max Siège #3 est au bouton.
+Place 2: Er-manue13 (8216 en jetons) 
+Place 3: psychoman59 (5604 en jetons) 
+Place 4: franck764 (6180 en jetons) 
+Er-manue13 : met l'ante. 30
+psychoman59 : met l'ante. 30
+franck764 : met l'ante. 30
+franck764 : met la petite blind. 125
+Er-manue13 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 7h]
+psychoman59 : passe. 
+franck764 : suit. 125
+Er-manue13 : parole 
+*** FLOP *** [Th 3h 6c]
+franck764 : mise. 250
+Er-manue13 : suit. 250
+*** TOURNANT *** [Th 3h 6c] [9s]
+franck764 : mise. 250
+Er-manue13 : suit. 250
+*** RIVIÈRE *** [Th 3h 6c 9s] [4d]
+franck764 : parole 
+Er-manue13 : parole 
+*** ABATTAGE ***
+franck764 : montre [5d 5h] (une paire de Cinq)
+Er-manue13 : cache la main perdante. 
+franck764 a remporté 1590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1590 | Commission 0 
+Tableau [Th 3h 6c 9s 4d]
+Siège 2 : Er-manue13 (grosse blind) a caché la main perdante. [3s Jd]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : franck764 (petite blind) a montré [5d 5h] et a gagné (1590) avec une paire de Cinq
+
+
+
+Main PokerStars n°237886386532 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 09/08/2022 17:47:41 CET [09/08/2022 11:47:41 ET]
+Table '3453789126 1' 4-max Siège #4 est au bouton.
+Place 2: Er-manue13 (7436 en jetons) 
+Place 3: psychoman59 (5574 en jetons) 
+Place 4: franck764 (6990 en jetons) 
+Er-manue13 : met l'ante. 30
+psychoman59 : met l'ante. 30
+franck764 : met l'ante. 30
+Er-manue13 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 2s]
+franck764 : passe. 
+Er-manue13 : suit. 125
+psychoman59 : parole 
+*** FLOP *** [9d Ah 5s]
+Er-manue13 : mise. 250
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à Er-manue13.
+Er-manue13 a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [9d Ah 5s]
+Siège 2 : Er-manue13 (petite blind) a remporté (590)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 4 : franck764 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237886391493 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 09/08/2022 17:47:58 CET [09/08/2022 11:47:58 ET]
+Table '3453789126 1' 4-max Siège #2 est au bouton.
+Place 2: Er-manue13 (7746 en jetons) 
+Place 3: psychoman59 (5294 en jetons) 
+Place 4: franck764 (6960 en jetons) 
+Er-manue13 : met l'ante. 40
+psychoman59 : met l'ante. 40
+franck764 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+franck764 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 6c]
+Er-manue13 : suit. 300
+psychoman59 : passe. 
+franck764 : parole 
+*** FLOP *** [Jd Td 4h]
+franck764 : parole 
+Er-manue13 : parole 
+*** TOURNANT *** [Jd Td 4h] [5d]
+franck764 : mise. 300
+Er-manue13 : passe. 
+Personne n'a suivi. (300) sont retournés à franck764.
+franck764 a remporté 870  lors du pot .
+franck764 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Tableau [Jd Td 4h 5d]
+Siège 2 : Er-manue13 (bouton) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : franck764 (grosse blind) a remporté (870)
+
+
+
+Main PokerStars n°237886396017 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 09/08/2022 17:48:13 CET [09/08/2022 11:48:13 ET]
+Table '3453789126 1' 4-max Siège #3 est au bouton.
+Place 2: Er-manue13 (7406 en jetons) 
+Place 3: psychoman59 (5104 en jetons) 
+Place 4: franck764 (7490 en jetons) 
+Er-manue13 : met l'ante. 40
+psychoman59 : met l'ante. 40
+franck764 : met l'ante. 40
+franck764 : met la petite blind. 150
+Er-manue13 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 8h]
+psychoman59 : passe. 
+franck764 : suit. 150
+Er-manue13 : parole 
+*** FLOP *** [As 3c Ts]
+franck764 : mise. 300
+Er-manue13 : suit. 300
+*** TOURNANT *** [As 3c Ts] [8d]
+franck764 : mise. 300
+Er-manue13 : suit. 300
+*** RIVIÈRE *** [As 3c Ts 8d] [Td]
+franck764 : parole 
+Er-manue13 : mise. 6466 et est all-in.
+franck764 : passe. 
+Personne n'a suivi. (6466) sont retournés à Er-manue13.
+Er-manue13 a remporté 1920  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1920 | Commission 0 
+Tableau [As 3c Ts 8d Td]
+Siège 2 : Er-manue13 (grosse blind) a remporté (1920)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : franck764 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237886402390 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 09/08/2022 17:48:35 CET [09/08/2022 11:48:35 ET]
+Table '3453789126 1' 4-max Siège #4 est au bouton.
+Place 2: Er-manue13 (8386 en jetons) 
+Place 3: psychoman59 (5064 en jetons) 
+Place 4: franck764 (6550 en jetons) 
+Er-manue13 : met l'ante. 40
+psychoman59 : met l'ante. 40
+franck764 : met l'ante. 40
+Er-manue13 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 8h]
+franck764 : passe. 
+Er-manue13 : suit. 150
+psychoman59 : relance. 4724 à 5024 et est all-in.
+Er-manue13 : passe. 
+Personne n'a suivi. (4724) sont retournés à psychoman59.
+psychoman59 a remporté 720  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Siège 2 : Er-manue13 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (720)
+Siège 4 : franck764 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237886405697 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 09/08/2022 17:48:46 CET [09/08/2022 11:48:46 ET]
+Table '3453789126 1' 4-max Siège #2 est au bouton.
+Place 2: Er-manue13 (8046 en jetons) 
+Place 3: psychoman59 (5444 en jetons) 
+Place 4: franck764 (6510 en jetons) 
+Er-manue13 : met l'ante. 40
+psychoman59 : met l'ante. 40
+franck764 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+franck764 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Js]
+Er-manue13 : passe. 
+psychoman59 : relance. 5104 à 5404 et est all-in.
+franck764 : passe. 
+Personne n'a suivi. (5104) sont retournés à psychoman59.
+psychoman59 a remporté 720  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Siège 2 : Er-manue13 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (720)
+Siège 4 : franck764 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886408787 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 09/08/2022 17:48:57 CET [09/08/2022 11:48:57 ET]
+Table '3453789126 1' 4-max Siège #3 est au bouton.
+Place 2: Er-manue13 (8006 en jetons) 
+Place 3: psychoman59 (5824 en jetons) 
+Place 4: franck764 (6170 en jetons) 
+Er-manue13 : met l'ante. 40
+psychoman59 : met l'ante. 40
+franck764 : met l'ante. 40
+franck764 : met la petite blind. 150
+Er-manue13 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 7c]
+psychoman59 : passe. 
+franck764 : passe. 
+Personne n'a suivi. (150) sont retournés à Er-manue13.
+Er-manue13 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Siège 2 : Er-manue13 (grosse blind) a remporté (420)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : franck764 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886411069 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 09/08/2022 17:49:05 CET [09/08/2022 11:49:05 ET]
+Table '3453789126 1' 4-max Siège #4 est au bouton.
+Place 2: Er-manue13 (8236 en jetons) 
+Place 3: psychoman59 (5784 en jetons) 
+Place 4: franck764 (5980 en jetons) 
+Er-manue13 : met l'ante. 40
+psychoman59 : met l'ante. 40
+franck764 : met l'ante. 40
+Er-manue13 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Ks]
+franck764 : suit. 300
+Er-manue13 : suit. 150
+psychoman59 : relance. 5444 à 5744 et est all-in.
+franck764 : passe. 
+Er-manue13 : suit. 5444
+*** FLOP *** [Qs 3d Ac]
+*** TOURNANT *** [Qs 3d Ac] [Js]
+*** RIVIÈRE *** [Qs 3d Ac Js] [Kd]
+*** ABATTAGE ***
+Er-manue13 : montre [7h As] (une paire de As)
+psychoman59 : montre [Jh Ks] (double paire, Rois et Valets)
+psychoman59 a remporté 11908  lors du pot .
+*** SYNTHÈSE ***
+Pot total 11908 | Commission 0 
+Tableau [Qs 3d Ac Js Kd]
+Siège 2 : Er-manue13 (petite blind) a montré [7h As] et a perdu avec une paire de As
+Siège 3 : psychoman59 (grosse blind) a montré [Jh Ks] et a gagné (11908) avec double paire, Rois et Valets
+Siège 4 : franck764 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886418031 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 09/08/2022 17:49:29 CET [09/08/2022 11:49:29 ET]
+Table '3453789126 1' 4-max Siège #2 est au bouton.
+Place 2: Er-manue13 (2452 en jetons) 
+Place 3: psychoman59 (11908 en jetons) 
+Place 4: franck764 (5640 en jetons) 
+Er-manue13 : met l'ante. 40
+psychoman59 : met l'ante. 40
+franck764 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+franck764 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Jh]
+Er-manue13 : passe. 
+psychoman59 : relance. 720 à 1020
+franck764 : passe. 
+Personne n'a suivi. (720) sont retournés à psychoman59.
+psychoman59 a remporté 720  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Siège 2 : Er-manue13 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (720)
+Siège 4 : franck764 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886421194 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 09/08/2022 17:49:40 CET [09/08/2022 11:49:40 ET]
+Table '3453789126 1' 4-max Siège #3 est au bouton.
+Place 2: Er-manue13 (2412 en jetons) 
+Place 3: psychoman59 (12288 en jetons) 
+Place 4: franck764 (5300 en jetons) 
+Er-manue13 : met l'ante. 40
+psychoman59 : met l'ante. 40
+franck764 : met l'ante. 40
+franck764 : met la petite blind. 150
+Er-manue13 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 8s]
+psychoman59 : passe. 
+franck764 : passe. 
+Personne n'a suivi. (150) sont retournés à Er-manue13.
+Er-manue13 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Siège 2 : Er-manue13 (grosse blind) a remporté (420)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : franck764 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886424198 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 09/08/2022 17:49:50 CET [09/08/2022 11:49:50 ET]
+Table '3453789126 1' 4-max Siège #4 est au bouton.
+Place 2: Er-manue13 (2642 en jetons) 
+Place 3: psychoman59 (12248 en jetons) 
+Place 4: franck764 (5110 en jetons) 
+Er-manue13 : met l'ante. 40
+psychoman59 : met l'ante. 40
+franck764 : met l'ante. 40
+Er-manue13 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 5s]
+franck764 : suit. 300
+Er-manue13 : suit. 150
+psychoman59 : parole 
+*** FLOP *** [Ts 9d 4c]
+Er-manue13 : parole 
+psychoman59 : parole 
+franck764 : mise. 510
+Er-manue13 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (510) sont retournés à franck764.
+franck764 a remporté 1020  lors du pot .
+franck764 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [Ts 9d 4c]
+Siège 2 : Er-manue13 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 4 : franck764 (bouton) a remporté (1020)
+
+
+
+Main PokerStars n°237886431004 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 09/08/2022 17:50:14 CET [09/08/2022 11:50:14 ET]
+Table '3453789126 1' 4-max Siège #2 est au bouton.
+Place 2: Er-manue13 (2302 en jetons) 
+Place 3: psychoman59 (11908 en jetons) 
+Place 4: franck764 (5790 en jetons) 
+Er-manue13 : met l'ante. 40
+psychoman59 : met l'ante. 40
+franck764 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+franck764 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 9h]
+Er-manue13 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à franck764.
+franck764 a remporté 420  lors du pot .
+franck764 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Siège 2 : Er-manue13 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : franck764 (grosse blind) a remporté (420)
+
+
+
+Main PokerStars n°237886433572 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 09/08/2022 17:50:23 CET [09/08/2022 11:50:23 ET]
+Table '3453789126 1' 4-max Siège #3 est au bouton.
+Place 2: Er-manue13 (2262 en jetons) 
+Place 3: psychoman59 (11718 en jetons) 
+Place 4: franck764 (6020 en jetons) 
+Er-manue13 : met l'ante. 40
+psychoman59 : met l'ante. 40
+franck764 : met l'ante. 40
+franck764 : met la petite blind. 150
+Er-manue13 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 2h]
+psychoman59 : suit. 300
+franck764 : suit. 150
+Er-manue13 : parole 
+*** FLOP *** [Jc 9s 2c]
+franck764 : parole 
+Er-manue13 : mise. 1922 et est all-in.
+psychoman59 : passe. 
+franck764 : passe. 
+Personne n'a suivi. (1922) sont retournés à Er-manue13.
+Er-manue13 a remporté 1020  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [Jc 9s 2c]
+Siège 2 : Er-manue13 (grosse blind) a remporté (1020)
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 4 : franck764 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237886440924 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 09/08/2022 17:50:48 CET [09/08/2022 11:50:48 ET]
+Table '3453789126 1' 4-max Siège #4 est au bouton.
+Place 2: Er-manue13 (2942 en jetons) 
+Place 3: psychoman59 (11378 en jetons) 
+Place 4: franck764 (5680 en jetons) 
+Er-manue13 : met l'ante. 50
+psychoman59 : met l'ante. 50
+franck764 : met l'ante. 50
+Er-manue13 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Jc]
+franck764 : suit. 400
+Er-manue13 : suit. 200
+psychoman59 : relance. 10928 à 11328 et est all-in.
+franck764 : passe. 
+Er-manue13 : passe. 
+Personne n'a suivi. (10928) sont retournés à psychoman59.
+psychoman59 a remporté 1350  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1350 | Commission 0 
+Siège 2 : Er-manue13 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (1350)
+Siège 4 : franck764 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886444927 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 09/08/2022 17:51:02 CET [09/08/2022 11:51:02 ET]
+Table '3453789126 1' 4-max Siège #2 est au bouton.
+Place 2: Er-manue13 (2492 en jetons) 
+Place 3: psychoman59 (12278 en jetons) 
+Place 4: franck764 (5230 en jetons) 
+Er-manue13 : met l'ante. 50
+psychoman59 : met l'ante. 50
+franck764 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+franck764 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 4c]
+Er-manue13 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à franck764.
+franck764 a remporté 550  lors du pot .
+franck764 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 550 | Commission 0 
+Siège 2 : Er-manue13 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : franck764 (grosse blind) a remporté (550)
+
+
+
+Main PokerStars n°237886447375 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 09/08/2022 17:51:10 CET [09/08/2022 11:51:10 ET]
+Table '3453789126 1' 4-max Siège #3 est au bouton.
+Place 2: Er-manue13 (2442 en jetons) 
+Place 3: psychoman59 (12028 en jetons) 
+Place 4: franck764 (5530 en jetons) 
+Er-manue13 : met l'ante. 50
+psychoman59 : met l'ante. 50
+franck764 : met l'ante. 50
+franck764 : met la petite blind. 200
+Er-manue13 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 5c]
+psychoman59 : passe. 
+franck764 : suit. 200
+Er-manue13 : parole 
+*** FLOP *** [5d 5h Qh]
+franck764 : parole 
+Er-manue13 : parole 
+*** TOURNANT *** [5d 5h Qh] [Th]
+franck764 : parole 
+Er-manue13 : parole 
+*** RIVIÈRE *** [5d 5h Qh Th] [Tc]
+franck764 : parole 
+Er-manue13 : parole 
+*** ABATTAGE ***
+franck764 : montre [4c 7d] (double paire, Dix et Cinq)
+Er-manue13 : montre [3c Jc] (double paire, Dix et Cinq)
+franck764 a remporté 475  lors du pot .
+Er-manue13 a remporté 475  lors du pot .
+*** SYNTHÈSE ***
+Pot total 950 | Commission 0 
+Tableau [5d 5h Qh Th Tc]
+Siège 2 : Er-manue13 (grosse blind) a montré [3c Jc] et a gagné (475) avec double paire, Dix et Cinq
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : franck764 (petite blind) a montré [4c 7d] et a gagné (475) avec double paire, Dix et Cinq
+
+
+
+Main PokerStars n°237886452478 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 09/08/2022 17:51:28 CET [09/08/2022 11:51:28 ET]
+Table '3453789126 1' 4-max Siège #4 est au bouton.
+Place 2: Er-manue13 (2467 en jetons) 
+Place 3: psychoman59 (11978 en jetons) 
+Place 4: franck764 (5555 en jetons) 
+Er-manue13 : met l'ante. 50
+psychoman59 : met l'ante. 50
+franck764 : met l'ante. 50
+Er-manue13 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 5d]
+franck764 : passe. 
+Er-manue13 : relance. 2017 à 2417 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (2017) sont retournés à Er-manue13.
+Er-manue13 a remporté 950  lors du pot .
+*** SYNTHÈSE ***
+Pot total 950 | Commission 0 
+Siège 2 : Er-manue13 (petite blind) a remporté (950)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : franck764 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237886455534 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 09/08/2022 17:51:38 CET [09/08/2022 11:51:38 ET]
+Table '3453789126 1' 4-max Siège #2 est au bouton.
+Place 2: Er-manue13 (2967 en jetons) 
+Place 3: psychoman59 (11528 en jetons) 
+Place 4: franck764 (5505 en jetons) 
+Er-manue13 : met l'ante. 50
+psychoman59 : met l'ante. 50
+franck764 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+franck764 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 7d]
+Er-manue13 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à franck764.
+franck764 a remporté 550  lors du pot .
+franck764 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 550 | Commission 0 
+Siège 2 : Er-manue13 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : franck764 (grosse blind) a remporté (550)
+
+
+
+Main PokerStars n°237886458907 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 09/08/2022 17:51:50 CET [09/08/2022 11:51:50 ET]
+Table '3453789126 1' 4-max Siège #3 est au bouton.
+Place 2: Er-manue13 (2917 en jetons) 
+Place 3: psychoman59 (11278 en jetons) 
+Place 4: franck764 (5805 en jetons) 
+Er-manue13 : met l'ante. 50
+psychoman59 : met l'ante. 50
+franck764 : met l'ante. 50
+franck764 : met la petite blind. 200
+Er-manue13 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Kc]
+psychoman59 : suit. 400
+franck764 : suit. 200
+Er-manue13 : relance. 2467 à 2867 et est all-in.
+psychoman59 : suit. 2467
+franck764 : passe. 
+*** FLOP *** [2c 8d 2s]
+*** TOURNANT *** [2c 8d 2s] [4s]
+*** RIVIÈRE *** [2c 8d 2s 4s] [Ts]
+*** ABATTAGE ***
+Er-manue13 : montre [Ac Ah] (double paire, As et Deux)
+psychoman59 : montre [7c Kc] (une paire de Deux)
+Er-manue13 a remporté 6284  lors du pot .
+*** SYNTHÈSE ***
+Pot total 6284 | Commission 0 
+Tableau [2c 8d 2s 4s Ts]
+Siège 2 : Er-manue13 (grosse blind) a montré [Ac Ah] et a gagné (6284) avec double paire, As et Deux
+Siège 3 : psychoman59 (bouton) a montré [7c Kc] et a perdu avec une paire de Deux
+Siège 4 : franck764 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886465123 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 09/08/2022 17:52:11 CET [09/08/2022 11:52:11 ET]
+Table '3453789126 1' 4-max Siège #4 est au bouton.
+Place 2: Er-manue13 (6284 en jetons) 
+Place 3: psychoman59 (8361 en jetons) 
+Place 4: franck764 (5355 en jetons) 
+Er-manue13 : met l'ante. 50
+psychoman59 : met l'ante. 50
+franck764 : met l'ante. 50
+Er-manue13 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 4h]
+franck764 : passe. 
+Er-manue13 : suit. 200
+psychoman59 : parole 
+*** FLOP *** [3s Ks 2s]
+Er-manue13 : mise. 400
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à Er-manue13.
+Er-manue13 a remporté 950  lors du pot .
+*** SYNTHÈSE ***
+Pot total 950 | Commission 0 
+Tableau [3s Ks 2s]
+Siège 2 : Er-manue13 (petite blind) a remporté (950)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 4 : franck764 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237886469421 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 09/08/2022 17:52:26 CET [09/08/2022 11:52:26 ET]
+Table '3453789126 1' 4-max Siège #2 est au bouton.
+Place 2: Er-manue13 (6784 en jetons) 
+Place 3: psychoman59 (7911 en jetons) 
+Place 4: franck764 (5305 en jetons) 
+Er-manue13 : met l'ante. 50
+psychoman59 : met l'ante. 50
+franck764 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+franck764 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Qd]
+Er-manue13 : passe. 
+psychoman59 : relance. 400 à 800
+franck764 : suit. 400
+*** FLOP *** [8h Ah 5d]
+psychoman59 : parole 
+franck764 : parole 
+*** TOURNANT *** [8h Ah 5d] [5h]
+psychoman59 : parole 
+franck764 : parole 
+*** RIVIÈRE *** [8h Ah 5d 5h] [Js]
+psychoman59 : parole 
+franck764 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Th Qd] (une paire de Cinq)
+franck764 : montre [9d Ks] (une paire de Cinq - As+Roi kicker)
+franck764 a remporté 1750  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1750 | Commission 0 
+Tableau [8h Ah 5d 5h Js]
+Siège 2 : Er-manue13 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Th Qd] et a perdu avec une paire de Cinq
+Siège 4 : franck764 (grosse blind) a montré [9d Ks] et a gagné (1750) avec une paire de Cinq
+
+
+
+Main PokerStars n°237886476953 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 09/08/2022 17:52:52 CET [09/08/2022 11:52:52 ET]
+Table '3453789126 1' 4-max Siège #3 est au bouton.
+Place 2: Er-manue13 (6734 en jetons) 
+Place 3: psychoman59 (7061 en jetons) 
+Place 4: franck764 (6205 en jetons) 
+Er-manue13 : met l'ante. 50
+psychoman59 : met l'ante. 50
+franck764 : met l'ante. 50
+franck764 : met la petite blind. 200
+Er-manue13 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Ad]
+psychoman59 : relance. 400 à 800
+franck764 : suit. 600
+Er-manue13 : passe. 
+*** FLOP *** [9s 8d 9c]
+franck764 : mise. 1075
+psychoman59 : passe. 
+Personne n'a suivi. (1075) sont retournés à franck764.
+franck764 a remporté 2150  lors du pot .
+franck764 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2150 | Commission 0 
+Tableau [9s 8d 9c]
+Siège 2 : Er-manue13 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 4 : franck764 (petite blind) a remporté (2150)
+
+
+
+Main PokerStars n°237886481975 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 09/08/2022 17:53:09 CET [09/08/2022 11:53:09 ET]
+Table '3453789126 1' 4-max Siège #4 est au bouton.
+Place 2: Er-manue13 (6284 en jetons) 
+Place 3: psychoman59 (6211 en jetons) 
+Place 4: franck764 (7505 en jetons) 
+Er-manue13 : met l'ante. 50
+psychoman59 : met l'ante. 50
+franck764 : met l'ante. 50
+Er-manue13 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Ad]
+franck764 : suit. 400
+Er-manue13 : suit. 200
+psychoman59 : relance. 800 à 1200
+franck764 : suit. 800
+Er-manue13 : suit. 800
+*** FLOP *** [Kh 4s Jc]
+Er-manue13 : mise. 5034 et est all-in.
+psychoman59 : suit. 4961 et est all-in.
+franck764 : suit. 5034
+*** TOURNANT *** [Kh 4s Jc] [Kc]
+*** RIVIÈRE *** [Kh 4s Jc Kc] [As]
+*** ABATTAGE ***
+Er-manue13 : montre [Ks Tc] (un brelan de Rois)
+franck764 : montre [Qs Ts] (une suite, Dix à As)
+franck764 a remporté 146  parallèle lors du pot .
+psychoman59 : montre [Ah Ad] (un full, full aux As par les Rois)
+psychoman59 a remporté 18633  principal lors du pot .
+Er-manue13 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 18779 Principal pot 18633. Parallèle pot 146. | Commission 0 
+Tableau [Kh 4s Jc Kc As]
+Siège 2 : Er-manue13 (petite blind) a montré [Ks Tc] et a perdu avec un brelan de Rois
+Siège 3 : psychoman59 (grosse blind) a montré [Ah Ad] et a gagné (18633) avec un full, full aux As par les Rois
+Siège 4 : franck764 (bouton) a montré [Qs Ts] et a gagné (146) avec une suite, Dix à As
+
+
+
+Main PokerStars n°237886489985 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 09/08/2022 17:53:37 CET [09/08/2022 11:53:37 ET]
+Table '3453789126 1' 4-max Siège #3 est au bouton.
+Place 3: psychoman59 (18633 en jetons) 
+Place 4: franck764 (1367 en jetons) 
+psychoman59 : met l'ante. 50
+franck764 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+franck764 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ac]
+psychoman59 : relance. 900 à 1300
+franck764 : passe. 
+Personne n'a suivi. (900) sont retournés à psychoman59.
+psychoman59 a remporté 900  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (900)
+Siège 4 : franck764 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237886494259 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 09/08/2022 17:53:52 CET [09/08/2022 11:53:52 ET]
+Table '3453789126 1' 4-max Siège #4 est au bouton.
+Place 3: psychoman59 (19083 en jetons) 
+Place 4: franck764 (917 en jetons) 
+psychoman59 : met l'ante. 60
+franck764 : met l'ante. 60
+franck764 : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 3h]
+franck764 : suit. 250
+psychoman59 : parole 
+*** FLOP *** [5s 2c 8h]
+psychoman59 : parole 
+franck764 : mise. 357 et est all-in.
+psychoman59 : suit. 357
+*** TOURNANT *** [5s 2c 8h] [6h]
+*** RIVIÈRE *** [5s 2c 8h 6h] [2s]
+*** ABATTAGE ***
+psychoman59 : montre [Qc 3h] (une paire de Deux)
+franck764 : montre [9h 5h] (double paire, Cinq et Deux)
+franck764 a remporté 1834  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1834 | Commission 0 
+Tableau [5s 2c 8h 6h 2s]
+Siège 3 : psychoman59 (grosse blind) a montré [Qc 3h] et a perdu avec une paire de Deux
+Siège 4 : franck764 (bouton) (petite blind) a montré [9h 5h] et a gagné (1834) avec double paire, Cinq et Deux
+
+
+
+Main PokerStars n°237886499711 : Tournoi #3453789126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 09/08/2022 17:54:11 CET [09/08/2022 11:54:11 ET]
+Table '3453789126 1' 4-max Siège #3 est au bouton.
+Place 3: psychoman59 (18166 en jetons) 
+Place 4: franck764 (1834 en jetons) 
+psychoman59 : met l'ante. 60
+franck764 : met l'ante. 60
+psychoman59 : met la petite blind. 250
+franck764 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 4s]
+psychoman59 : relance. 500 à 1000
+franck764 : suit. 500
+*** FLOP *** [9d 7d 8s]
+franck764 : mise. 774 et est all-in.
+psychoman59 : suit. 774
+*** TOURNANT *** [9d 7d 8s] [Tc]
+*** RIVIÈRE *** [9d 7d 8s Tc] [9h]
+*** ABATTAGE ***
+franck764 : montre [Ah 5d] (une paire de Neuf)
+psychoman59 : montre [Jh 4s] (une suite, Sept à Valet)
+psychoman59 a remporté 3668  lors du pot .
+franck764 a fini le tournoi à la 2e place et a reçu 0.34 €.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 3668 | Commission 0 
+Tableau [9d 7d 8s Tc 9h]
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Jh 4s] et a gagné (3668) avec une suite, Sept à Valet
+Siège 4 : franck764 (grosse blind) a montré [Ah 5d] et a perdu avec une paire de Neuf
+
+
+

@@ -1,0 +1,407 @@
+﻿Main PokerStars n°237718754882 : Tournoi #3449772703, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 01/08/2022 11:38:34 CET [01/08/2022 5:38:34 ET]
+Table '3449772703 1' 3-max Siège #1 est au bouton.
+Place 1: TonneauAgile (300 en jetons) 
+Place 2: realidadecruel (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+realidadecruel : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ad]
+TonneauAgile : passe. 
+realidadecruel : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [4d Tc 8d]
+realidadecruel : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4d Tc 8d] [8h]
+realidadecruel : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4d Tc 8d 8h] [7h]
+realidadecruel : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+realidadecruel : montre [Ac 2c] (une paire de Huit)
+psychoman59 : montre [7s Ad] (double paire, Huit et Sept)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4d Tc 8d 8h 7h]
+Siège 1 : TonneauAgile (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : realidadecruel (petite blind) a montré [Ac 2c] et a perdu avec une paire de Huit
+Siège 3 : psychoman59 (grosse blind) a montré [7s Ad] et a gagné (120) avec double paire, Huit et Sept
+
+
+
+Main PokerStars n°237718759893 : Tournoi #3449772703, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 01/08/2022 11:39:07 CET [01/08/2022 5:39:07 ET]
+Table '3449772703 1' 3-max Siège #2 est au bouton.
+Place 1: TonneauAgile (300 en jetons) 
+Place 2: realidadecruel (240 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+psychoman59 : met la petite blind. 10
+TonneauAgile : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 5d]
+realidadecruel : relance. 20 à 40
+psychoman59 : suit. 30
+TonneauAgile : passe. 
+*** FLOP *** [9s 5c 9c]
+psychoman59 : mise. 100
+realidadecruel : relance. 100 à 200 et est all-in.
+psychoman59 : suit. 100
+*** TOURNANT *** [9s 5c 9c] [3s]
+*** RIVIÈRE *** [9s 5c 9c 3s] [8d]
+*** ABATTAGE ***
+psychoman59 : montre [Ad 5d] (double paire, Neuf et Cinq)
+realidadecruel : montre [As Jh] (une paire de Neuf)
+psychoman59 a remporté 500  lors du pot .
+realidadecruel a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [9s 5c 9c 3s 8d]
+Siège 1 : TonneauAgile (grosse blind) s'est couché. avant Flop
+Siège 2 : realidadecruel (bouton) a montré [As Jh] et a perdu avec une paire de Neuf
+Siège 3 : psychoman59 (petite blind) a montré [Ad 5d] et a gagné (500) avec double paire, Neuf et Cinq
+
+
+
+Main PokerStars n°237718765587 : Tournoi #3449772703, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 01/08/2022 11:39:46 CET [01/08/2022 5:39:46 ET]
+Table '3449772703 1' 3-max Siège #1 est au bouton.
+Place 1: TonneauAgile (280 en jetons) 
+Place 3: psychoman59 (620 en jetons) 
+TonneauAgile : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Kh]
+TonneauAgile : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : TonneauAgile (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237718766257 : Tournoi #3449772703, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 01/08/2022 11:39:50 CET [01/08/2022 5:39:50 ET]
+Table '3449772703 1' 3-max Siège #3 est au bouton.
+Place 1: TonneauAgile (265 en jetons) 
+Place 3: psychoman59 (635 en jetons) 
+psychoman59 : met la petite blind. 15
+TonneauAgile : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à TonneauAgile.
+TonneauAgile a remporté 30  lors du pot .
+TonneauAgile : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : TonneauAgile (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237718767048 : Tournoi #3449772703, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 01/08/2022 11:39:55 CET [01/08/2022 5:39:55 ET]
+Table '3449772703 1' 3-max Siège #1 est au bouton.
+Place 1: TonneauAgile (280 en jetons) 
+Place 3: psychoman59 (620 en jetons) 
+TonneauAgile : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Qh]
+TonneauAgile : relance. 60 à 90
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à TonneauAgile.
+TonneauAgile a remporté 60  lors du pot .
+TonneauAgile : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : TonneauAgile (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237718768469 : Tournoi #3449772703, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 01/08/2022 11:40:05 CET [01/08/2022 5:40:05 ET]
+Table '3449772703 1' 3-max Siège #3 est au bouton.
+Place 1: TonneauAgile (310 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+psychoman59 : met la petite blind. 15
+TonneauAgile : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à TonneauAgile.
+TonneauAgile a remporté 30  lors du pot .
+TonneauAgile : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : TonneauAgile (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237718769128 : Tournoi #3449772703, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 01/08/2022 11:40:09 CET [01/08/2022 5:40:09 ET]
+Table '3449772703 1' 3-max Siège #1 est au bouton.
+Place 1: TonneauAgile (325 en jetons) 
+Place 3: psychoman59 (575 en jetons) 
+TonneauAgile : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 7d]
+TonneauAgile : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [Jd 3s 9d]
+psychoman59 : parole 
+TonneauAgile : mise. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [Jd 3s 9d] [Td]
+psychoman59 : parole 
+TonneauAgile : parole 
+*** RIVIÈRE *** [Jd 3s 9d Td] [5s]
+psychoman59 : mise. 120
+TonneauAgile : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Jd 3s 9d Td 5s]
+Siège 1 : TonneauAgile (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (240)
+
+
+
+Main PokerStars n°237718772924 : Tournoi #3449772703, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 01/08/2022 11:40:35 CET [01/08/2022 5:40:35 ET]
+Table '3449772703 1' 3-max Siège #3 est au bouton.
+Place 1: TonneauAgile (205 en jetons) 
+Place 3: psychoman59 (695 en jetons) 
+psychoman59 : met la petite blind. 15
+TonneauAgile : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 4s]
+psychoman59 : suit. 15
+TonneauAgile : parole 
+*** FLOP *** [Jc Jd 3d]
+TonneauAgile : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jc Jd 3d] [Ad]
+TonneauAgile : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Jc Jd 3d Ad] [8h]
+TonneauAgile : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à TonneauAgile.
+TonneauAgile a remporté 60  lors du pot .
+TonneauAgile : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Jc Jd 3d Ad 8h]
+Siège 1 : TonneauAgile (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237718777889 : Tournoi #3449772703, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 01/08/2022 11:41:08 CET [01/08/2022 5:41:08 ET]
+Table '3449772703 1' 3-max Siège #1 est au bouton.
+Place 1: TonneauAgile (235 en jetons) 
+Place 3: psychoman59 (665 en jetons) 
+TonneauAgile : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 6d]
+TonneauAgile : relance. 40 à 80
+psychoman59 : suit. 40
+*** FLOP *** [Ac 4c Ad]
+psychoman59 : parole 
+TonneauAgile : parole 
+*** TOURNANT *** [Ac 4c Ad] [Kh]
+psychoman59 : parole 
+TonneauAgile : mise. 155 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (155) sont retournés à TonneauAgile.
+TonneauAgile a remporté 160  lors du pot .
+TonneauAgile : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Ac 4c Ad Kh]
+Siège 1 : TonneauAgile (bouton) (petite blind) a remporté (160)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237718780771 : Tournoi #3449772703, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 01/08/2022 11:41:28 CET [01/08/2022 5:41:28 ET]
+Table '3449772703 1' 3-max Siège #3 est au bouton.
+Place 1: TonneauAgile (315 en jetons) 
+Place 3: psychoman59 (585 en jetons) 
+psychoman59 : met la petite blind. 20
+TonneauAgile : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 7c]
+psychoman59 : relance. 545 à 585 et est all-in.
+TonneauAgile : passe. 
+Personne n'a suivi. (545) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : TonneauAgile (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237718782367 : Tournoi #3449772703, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/08/2022 11:41:39 CET [01/08/2022 5:41:39 ET]
+Table '3449772703 1' 3-max Siège #1 est au bouton.
+Place 1: TonneauAgile (275 en jetons) 
+Place 3: psychoman59 (625 en jetons) 
+TonneauAgile : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td As]
+TonneauAgile : relance. 60 à 120
+psychoman59 : relance. 240 à 360
+TonneauAgile : suit. 155 et est all-in.
+Personne n'a suivi. (85) sont retournés à psychoman59.
+*** FLOP *** [5h Kc 9c]
+*** TOURNANT *** [5h Kc 9c] [6d]
+*** RIVIÈRE *** [5h Kc 9c 6d] [4s]
+*** ABATTAGE ***
+psychoman59 : montre [Td As] (Hauteur As)
+TonneauAgile : montre [Jh Ac] (Hauteur As - Roi+Valet kicker)
+TonneauAgile a remporté 550  lors du pot .
+*** SYNTHÈSE ***
+Pot total 550 | Commission 0 
+Tableau [5h Kc 9c 6d 4s]
+Siège 1 : TonneauAgile (bouton) (petite blind) a montré [Jh Ac] et a gagné (550) avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [Td As] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237718784763 : Tournoi #3449772703, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/08/2022 11:41:54 CET [01/08/2022 5:41:54 ET]
+Table '3449772703 1' 3-max Siège #3 est au bouton.
+Place 1: TonneauAgile (550 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 30
+TonneauAgile : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à TonneauAgile.
+TonneauAgile a remporté 60  lors du pot .
+TonneauAgile : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : TonneauAgile (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237718785504 : Tournoi #3449772703, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/08/2022 11:41:59 CET [01/08/2022 5:41:59 ET]
+Table '3449772703 1' 3-max Siège #1 est au bouton.
+Place 1: TonneauAgile (580 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+TonneauAgile : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Ah]
+TonneauAgile : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : TonneauAgile (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237718786174 : Tournoi #3449772703, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/08/2022 11:42:04 CET [01/08/2022 5:42:04 ET]
+Table '3449772703 1' 3-max Siège #3 est au bouton.
+Place 1: TonneauAgile (550 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 30
+TonneauAgile : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à TonneauAgile.
+TonneauAgile a remporté 60  lors du pot .
+TonneauAgile : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : TonneauAgile (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237718786826 : Tournoi #3449772703, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/08/2022 11:42:09 CET [01/08/2022 5:42:09 ET]
+Table '3449772703 1' 3-max Siège #1 est au bouton.
+Place 1: TonneauAgile (580 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+TonneauAgile : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 8d]
+TonneauAgile : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : TonneauAgile (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237718787420 : Tournoi #3449772703, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/08/2022 11:42:13 CET [01/08/2022 5:42:13 ET]
+Table '3449772703 1' 3-max Siège #3 est au bouton.
+Place 1: TonneauAgile (550 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 30
+TonneauAgile : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Kh]
+psychoman59 : relance. 290 à 350 et est all-in.
+TonneauAgile : suit. 290
+*** FLOP *** [3h Ah 6h]
+*** TOURNANT *** [3h Ah 6h] [9d]
+*** RIVIÈRE *** [3h Ah 6h 9d] [5h]
+*** ABATTAGE ***
+TonneauAgile : montre [Ad 7d] (une paire de As)
+psychoman59 : montre [Qs Kh] (une couleur, hauteur As)
+psychoman59 a remporté 700  lors du pot .
+*** SYNTHÈSE ***
+Pot total 700 | Commission 0 
+Tableau [3h Ah 6h 9d 5h]
+Siège 1 : TonneauAgile (grosse blind) a montré [Ad 7d] et a perdu avec une paire de As
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Qs Kh] et a gagné (700) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°237718789339 : Tournoi #3449772703, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/08/2022 11:42:26 CET [01/08/2022 5:42:26 ET]
+Table '3449772703 1' 3-max Siège #1 est au bouton.
+Place 1: TonneauAgile (200 en jetons) 
+Place 3: psychoman59 (700 en jetons) 
+TonneauAgile : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Ac]
+TonneauAgile : relance. 140 à 200 et est all-in.
+psychoman59 : suit. 140
+*** FLOP *** [9s 8s 5s]
+*** TOURNANT *** [9s 8s 5s] [Kc]
+*** RIVIÈRE *** [9s 8s 5s Kc] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [9c Ac] (une paire de Neuf)
+TonneauAgile : montre [Th 7h] (Hauteur Roi)
+psychoman59 a remporté 400  lors du pot .
+TonneauAgile a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [9s 8s 5s Kc 2h]
+Siège 1 : TonneauAgile (bouton) (petite blind) a montré [Th 7h] et a perdu avec Hauteur Roi
+Siège 3 : psychoman59 (grosse blind) a montré [9c Ac] et a gagné (400) avec une paire de Neuf
+
+
+

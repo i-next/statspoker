@@ -1,0 +1,92 @@
+﻿Main PokerStars n°237522190778 : Tournoi #3445262808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 23:56:39 CET [22/07/2022 17:56:39 ET]
+Table '3445262808 1' 3-max Siège #1 est au bouton.
+Place 1: Polux313 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: N°1My'As® (300 en jetons) 
+psychoman59 : met la petite blind. 10
+N°1My'As® : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 8s]
+Polux313 : suit. 20
+psychoman59 : relance. 60 à 80
+N°1My'As® : suit. 60
+Polux313 : suit. 60
+*** FLOP *** [Qd 4s Kd]
+psychoman59 : parole 
+N°1My'As® : mise. 20
+Polux313 : suit. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [Qd 4s Kd] [5h]
+psychoman59 : parole 
+N°1My'As® : mise. 20
+Polux313 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à N°1My'As®.
+N°1My'As® a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Qd 4s Kd 5h]
+Siège 1 : Polux313 (bouton) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 3 : N°1My'As® (grosse blind) a remporté (300)
+
+
+
+Main PokerStars n°237522199096 : Tournoi #3445262808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 23:57:10 CET [22/07/2022 17:57:10 ET]
+Table '3445262808 1' 3-max Siège #2 est au bouton.
+Place 1: Polux313 (200 en jetons) 
+Place 2: psychoman59 (200 en jetons) 
+Place 3: N°1My'As® (500 en jetons) 
+N°1My'As® : met la petite blind. 10
+Polux313 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Qh]
+psychoman59 : passe. 
+N°1My'As® : relance. 20 à 40
+Polux313 : passe. 
+Personne n'a suivi. (20) sont retournés à N°1My'As®.
+N°1My'As® a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Polux313 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : N°1My'As® (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°237522201654 : Tournoi #3445262808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 23:57:19 CET [22/07/2022 17:57:19 ET]
+Table '3445262808 1' 3-max Siège #3 est au bouton.
+Place 1: Polux313 (180 en jetons) 
+Place 2: psychoman59 (200 en jetons) 
+Place 3: N°1My'As® (520 en jetons) 
+Polux313 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Kh]
+N°1My'As® : suit. 20
+Polux313 : passe. 
+psychoman59 : relance. 20 à 40
+N°1My'As® : suit. 20
+*** FLOP *** [7s 6h 6d]
+psychoman59 : parole 
+N°1My'As® : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [7s 6h 6d] [Ts]
+psychoman59 : parole 
+N°1My'As® : mise. 80
+psychoman59 : relance. 60 à 140 et est all-in.
+N°1My'As® : suit. 60
+*** RIVIÈRE *** [7s 6h 6d Ts] [2s]
+*** ABATTAGE ***
+psychoman59 : montre [Kd Kh] (double paire, Rois et Six)
+N°1My'As® : montre [8h 9s] (une suite, Six à Dix)
+N°1My'As® a remporté 410  lors du pot .
+*** SYNTHÈSE ***
+Pot total 410 | Commission 0 
+Tableau [7s 6h 6d Ts 2s]
+Siège 1 : Polux313 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [Kd Kh] et a perdu avec double paire, Rois et Six
+Siège 3 : N°1My'As® (bouton) a montré [8h 9s] et a gagné (410) avec une suite, Six à Dix
+
+
+

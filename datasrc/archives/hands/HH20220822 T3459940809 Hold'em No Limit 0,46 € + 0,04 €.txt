@@ -1,0 +1,400 @@
+﻿Main PokerStars n°238144424295 : Tournoi #3459940809, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 22/08/2022 13:29:33 CET [22/08/2022 7:29:33 ET]
+Table '3459940809 1' 4-max Siège #1 est au bouton.
+Place 1: Malékith (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: nuriaesther (5000 en jetons) 
+Place 4: Fragone44 (5000 en jetons) 
+Malékith : met l'ante. 10
+psychoman59 : met l'ante. 10
+nuriaesther : met l'ante. 10
+Fragone44 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+nuriaesther : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 7d]
+Fragone44 : passe. 
+Malékith : suit. 100
+psychoman59 : suit. 50
+nuriaesther : relance. 100 à 200
+Malékith : suit. 100
+psychoman59 : suit. 100
+*** FLOP *** [2d As 3c]
+psychoman59 : parole 
+nuriaesther : parole 
+Malékith : parole 
+*** TOURNANT *** [2d As 3c] [5c]
+psychoman59 : parole 
+nuriaesther : parole 
+Malékith : parole 
+*** RIVIÈRE *** [2d As 3c 5c] [Kh]
+psychoman59 : parole 
+nuriaesther : mise. 100
+Malékith : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à nuriaesther.
+nuriaesther a remporté 640  lors du pot .
+nuriaesther : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [2d As 3c 5c Kh]
+Siège 1 : Malékith (bouton) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 3 : nuriaesther (grosse blind) a remporté (640)
+Siège 4 : Fragone44 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238144438589 : Tournoi #3459940809, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 22/08/2022 13:30:49 CET [22/08/2022 7:30:49 ET]
+Table '3459940809 1' 4-max Siège #2 est au bouton.
+Place 1: Malékith (4790 en jetons) 
+Place 2: psychoman59 (4790 en jetons) 
+Place 3: nuriaesther (5430 en jetons) 
+Place 4: Fragone44 (4990 en jetons) 
+Malékith : met l'ante. 10
+psychoman59 : met l'ante. 10
+nuriaesther : met l'ante. 10
+Fragone44 : met l'ante. 10
+nuriaesther : met la petite blind. 50
+Fragone44 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Qs]
+Malékith : passe. 
+psychoman59 : suit. 100
+nuriaesther : suit. 50
+Fragone44 : parole 
+*** FLOP *** [7d Jd 2c]
+nuriaesther : parole 
+Fragone44 : mise. 100
+psychoman59 : passe. 
+nuriaesther : suit. 100
+*** TOURNANT *** [7d Jd 2c] [2s]
+nuriaesther : parole 
+Fragone44 : parole 
+*** RIVIÈRE *** [7d Jd 2c 2s] [Ks]
+nuriaesther : mise. 200
+Fragone44 : relance. 200 à 400
+nuriaesther : relance. 300 à 700
+Fragone44 : relance. 970 à 1670
+nuriaesther : suit. 970
+*** ABATTAGE ***
+Fragone44 : montre [2d 3c] (un brelan de Deux)
+nuriaesther : montre [5d 2h] (un brelan de Deux)
+nuriaesther a remporté 1940  lors du pot .
+Fragone44 a remporté 1940  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3880 | Commission 0 
+Tableau [7d Jd 2c 2s Ks]
+Siège 1 : Malékith s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 3 : nuriaesther (petite blind) a montré [5d 2h] et a gagné (1940) avec un brelan de Deux
+Siège 4 : Fragone44 (grosse blind) a montré [2d 3c] et a gagné (1940) avec un brelan de Deux
+
+
+
+Main PokerStars n°238144450451 : Tournoi #3459940809, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 22/08/2022 13:31:52 CET [22/08/2022 7:31:52 ET]
+Table '3459940809 1' 4-max Siège #3 est au bouton.
+Place 1: Malékith (4780 en jetons) 
+Place 2: psychoman59 (4680 en jetons) 
+Place 3: nuriaesther (5490 en jetons) 
+Place 4: Fragone44 (5050 en jetons) 
+Malékith : met l'ante. 10
+psychoman59 : met l'ante. 10
+nuriaesther : met l'ante. 10
+Fragone44 : met l'ante. 10
+Fragone44 : met la petite blind. 50
+Malékith : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Qd]
+psychoman59 : passe. 
+nuriaesther : suit. 100
+Fragone44 : relance. 200 à 300
+Malékith : passe. 
+nuriaesther : suit. 200
+*** FLOP *** [9d Td 8d]
+Fragone44 : parole 
+nuriaesther : mise. 200
+Fragone44 : suit. 200
+*** TOURNANT *** [9d Td 8d] [3c]
+Fragone44 : mise. 100
+nuriaesther : relance. 300 à 400
+Fragone44 : suit. 300
+*** RIVIÈRE *** [9d Td 8d 3c] [As]
+Fragone44 : mise. 100
+nuriaesther : suit. 100
+*** ABATTAGE ***
+Fragone44 : montre [6d 6s] (une paire de Six)
+nuriaesther : montre [9c 7h] (une paire de Neuf)
+nuriaesther a remporté 2140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2140 | Commission 0 
+Tableau [9d Td 8d 3c As]
+Siège 1 : Malékith (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : nuriaesther (bouton) a montré [9c 7h] et a gagné (2140) avec une paire de Neuf
+Siège 4 : Fragone44 (petite blind) a montré [6d 6s] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°238144464154 : Tournoi #3459940809, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 22/08/2022 13:33:06 CET [22/08/2022 7:33:06 ET]
+Table '3459940809 1' 4-max Siège #4 est au bouton.
+Place 1: Malékith (4670 en jetons) 
+Place 2: psychoman59 (4670 en jetons) 
+Place 3: nuriaesther (6620 en jetons) 
+Place 4: Fragone44 (4040 en jetons) 
+Malékith : met l'ante. 15
+psychoman59 : met l'ante. 15
+nuriaesther : met l'ante. 15
+Fragone44 : met l'ante. 15
+Malékith : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 4c]
+nuriaesther : suit. 120
+Fragone44 : suit. 120
+Malékith : passe. 
+psychoman59 : parole 
+*** FLOP *** [Th 6d 7h]
+psychoman59 : parole 
+nuriaesther : mise. 120
+Fragone44 : suit. 120
+psychoman59 : passe. 
+*** TOURNANT *** [Th 6d 7h] [7c]
+nuriaesther : mise. 240
+Fragone44 : suit. 240
+*** RIVIÈRE *** [Th 6d 7h 7c] [2c]
+nuriaesther : mise. 480
+Fragone44 : suit. 480
+*** ABATTAGE ***
+nuriaesther : montre [7s Td] (un full, full aux Sept par les Dix)
+Fragone44 : cache la main perdante. 
+nuriaesther a remporté 2160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2160 | Commission 0 
+Tableau [Th 6d 7h 7c 2c]
+Siège 1 : Malékith (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : nuriaesther a montré [7s Td] et a gagné (2160) avec un full, full aux Sept par les Dix
+Siège 4 : Fragone44 (bouton) a caché la main perdante. [6c 9d]
+
+
+
+Main PokerStars n°238144472333 : Tournoi #3459940809, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 22/08/2022 13:33:49 CET [22/08/2022 7:33:49 ET]
+Table '3459940809 1' 4-max Siège #1 est au bouton.
+Place 1: Malékith (4595 en jetons) 
+Place 2: psychoman59 (4535 en jetons) 
+Place 3: nuriaesther (7805 en jetons) 
+Place 4: Fragone44 (3065 en jetons) 
+Malékith : met l'ante. 15
+psychoman59 : met l'ante. 15
+nuriaesther : met l'ante. 15
+Fragone44 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+nuriaesther : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 9d]
+Fragone44 : relance. 2930 à 3050 et est all-in.
+Malékith : relance. 1530 à 4580 et est all-in.
+psychoman59 : passe. 
+nuriaesther : passe. 
+Personne n'a suivi. (1530) sont retournés à Malékith.
+*** FLOP *** [5s 8c Td]
+*** TOURNANT *** [5s 8c Td] [7s]
+*** RIVIÈRE *** [5s 8c Td 7s] [As]
+*** ABATTAGE ***
+Fragone44 : montre [Ac Th] (double paire, As et Dix)
+Malékith : montre [Ah Ks] (une paire de As)
+Fragone44 a remporté 6340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 6340 | Commission 0 
+Tableau [5s 8c Td 7s As]
+Siège 1 : Malékith (bouton) a montré [Ah Ks] et a perdu avec une paire de As
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : nuriaesther (grosse blind) s'est couché. avant Flop
+Siège 4 : Fragone44 a montré [Ac Th] et a gagné (6340) avec double paire, As et Dix
+
+
+
+Main PokerStars n°238144478828 : Tournoi #3459940809, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 22/08/2022 13:34:24 CET [22/08/2022 7:34:24 ET]
+Table '3459940809 1' 4-max Siège #2 est au bouton.
+Place 1: Malékith (1530 en jetons) 
+Place 2: psychoman59 (4460 en jetons) 
+Place 3: nuriaesther (7670 en jetons) 
+Place 4: Fragone44 (6340 en jetons) 
+Malékith : met l'ante. 15
+psychoman59 : met l'ante. 15
+nuriaesther : met l'ante. 15
+Fragone44 : met l'ante. 15
+nuriaesther : met la petite blind. 60
+Fragone44 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 9h]
+Malékith : passe. 
+psychoman59 : passe. 
+nuriaesther : relance. 120 à 240
+Fragone44 : suit. 120
+*** FLOP *** [Qd 3s 2s]
+nuriaesther : mise. 240
+Fragone44 : passe. 
+Personne n'a suivi. (240) sont retournés à nuriaesther.
+nuriaesther a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [Qd 3s 2s]
+Siège 1 : Malékith s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : nuriaesther (petite blind) a remporté (540)
+Siège 4 : Fragone44 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238144487943 : Tournoi #3459940809, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 22/08/2022 13:35:12 CET [22/08/2022 7:35:12 ET]
+Table '3459940809 1' 4-max Siège #3 est au bouton.
+Place 1: Malékith (1515 en jetons) 
+Place 2: psychoman59 (4445 en jetons) 
+Place 3: nuriaesther (7955 en jetons) 
+Place 4: Fragone44 (6085 en jetons) 
+Malékith : met l'ante. 15
+psychoman59 : met l'ante. 15
+nuriaesther : met l'ante. 15
+Fragone44 : met l'ante. 15
+Fragone44 : met la petite blind. 60
+Malékith : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ad]
+psychoman59 : relance. 120 à 240
+nuriaesther : passe. 
+Fragone44 : suit. 180
+Malékith : passe. 
+*** FLOP *** [5d 9c 5c]
+Fragone44 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5d 9c 5c] [Qh]
+Fragone44 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5d 9c 5c Qh] [Th]
+Fragone44 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Fragone44 : montre [3s 8s] (une paire de Cinq)
+psychoman59 : montre [6d Ad] (une paire de Cinq - As kicker)
+psychoman59 a remporté 660  lors du pot .
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [5d 9c 5c Qh Th]
+Siège 1 : Malékith (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 a montré [6d Ad] et a gagné (660) avec une paire de Cinq
+Siège 3 : nuriaesther (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Fragone44 (petite blind) a montré [3s 8s] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°238144501848 : Tournoi #3459940809, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 22/08/2022 13:36:26 CET [22/08/2022 7:36:26 ET]
+Table '3459940809 1' 4-max Siège #4 est au bouton.
+Place 1: Malékith (1380 en jetons) 
+Place 2: psychoman59 (4850 en jetons) 
+Place 3: nuriaesther (7940 en jetons) 
+Place 4: Fragone44 (5830 en jetons) 
+Malékith : met l'ante. 20
+psychoman59 : met l'ante. 20
+nuriaesther : met l'ante. 20
+Fragone44 : met l'ante. 20
+Malékith : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 5c]
+nuriaesther : passe. 
+Fragone44 a dépassé le temps imparti.
+Fragone44 : passe. 
+Fragone44 ne joue pas.
+Malékith : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 230  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 230 | Commission 0 
+Siège 1 : Malékith (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (230)
+Siège 3 : nuriaesther s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Fragone44 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238144508868 : Tournoi #3459940809, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 22/08/2022 13:37:03 CET [22/08/2022 7:37:03 ET]
+Table '3459940809 1' 4-max Siège #1 est au bouton.
+Place 1: Malékith (1285 en jetons) 
+Place 2: psychoman59 (4985 en jetons) 
+Place 3: nuriaesther (7920 en jetons) 
+Place 4: Fragone44 (5810 en jetons) ne joue pas.
+Malékith : met l'ante. 20
+psychoman59 : met l'ante. 20
+nuriaesther : met l'ante. 20
+Fragone44 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+nuriaesther : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 9h]
+Fragone44 : passe. 
+Malékith : passe. 
+psychoman59 : relance. 150 à 300
+nuriaesther : suit. 150
+*** FLOP *** [Ks 8h Jc]
+psychoman59 : parole 
+nuriaesther : mise. 300
+psychoman59 : suit. 300
+*** TOURNANT *** [Ks 8h Jc] [Kd]
+psychoman59 : parole 
+nuriaesther : parole 
+*** RIVIÈRE *** [Ks 8h Jc Kd] [4s]
+Fragone44 est revenu.
+psychoman59 : mise. 640
+nuriaesther : suit. 640
+*** ABATTAGE ***
+psychoman59 : montre [As 9h] (une paire de Rois)
+nuriaesther : montre [8s 4c] (double paire, Rois et Huit)
+nuriaesther a remporté 2560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2560 | Commission 0 
+Tableau [Ks 8h Jc Kd 4s]
+Siège 1 : Malékith (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [As 9h] et a perdu avec une paire de Rois
+Siège 3 : nuriaesther (grosse blind) a montré [8s 4c] et a gagné (2560) avec double paire, Rois et Huit
+Siège 4 : Fragone44 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238144515087 : Tournoi #3459940809, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 22/08/2022 13:37:36 CET [22/08/2022 7:37:36 ET]
+Table '3459940809 1' 4-max Siège #2 est au bouton.
+Place 1: Malékith (1265 en jetons) 
+Place 2: psychoman59 (3725 en jetons) 
+Place 3: nuriaesther (9220 en jetons) 
+Place 4: Fragone44 (5790 en jetons) 
+Malékith : met l'ante. 20
+psychoman59 : met l'ante. 20
+nuriaesther : met l'ante. 20
+Fragone44 : met l'ante. 20
+nuriaesther : met la petite blind. 75
+Fragone44 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Jd]
+Malékith : passe. 
+psychoman59 : relance. 3555 à 3705 et est all-in.
+nuriaesther : passe. 
+Fragone44 : suit. 3555
+*** FLOP *** [Td 8h 8s]
+*** TOURNANT *** [Td 8h 8s] [9d]
+*** RIVIÈRE *** [Td 8h 8s 9d] [6s]
+*** ABATTAGE ***
+Fragone44 : montre [6c 9c] (double paire, Neuf et Huit)
+psychoman59 : montre [Ad Jd] (une paire de Huit)
+Fragone44 a remporté 7565  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 7565 | Commission 0 
+Tableau [Td 8h 8s 9d 6s]
+Siège 1 : Malékith s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (bouton) a montré [Ad Jd] et a perdu avec une paire de Huit
+Siège 3 : nuriaesther (petite blind) s'est couché. avant Flop
+Siège 4 : Fragone44 (grosse blind) a montré [6c 9c] et a gagné (7565) avec double paire, Neuf et Huit
+
+
+

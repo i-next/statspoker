@@ -1,0 +1,73 @@
+﻿Main PokerStars n°237606441871 : Tournoi #3447170384, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 23:15:19 CET [26/07/2022 17:15:19 ET]
+Table '3447170384 1' 3-max Siège #1 est au bouton.
+Place 1: chelasd91 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: TheHCCDR (300 en jetons) 
+psychoman59 : met la petite blind. 10
+TheHCCDR : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 2c]
+chelasd91 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à TheHCCDR.
+TheHCCDR a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : chelasd91 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : TheHCCDR (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237606444807 : Tournoi #3447170384, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 23:15:26 CET [26/07/2022 17:15:26 ET]
+Table '3447170384 1' 3-max Siège #2 est au bouton.
+Place 1: chelasd91 (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: TheHCCDR (310 en jetons) 
+TheHCCDR : met la petite blind. 10
+chelasd91 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5s]
+psychoman59 : relance. 20 à 40
+TheHCCDR : passe. 
+chelasd91 : relance. 260 à 300 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (260) sont retournés à chelasd91.
+chelasd91 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Siège 1 : chelasd91 (grosse blind) a remporté (90)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 3 : TheHCCDR (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237606453090 : Tournoi #3447170384, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 23:15:47 CET [26/07/2022 17:15:47 ET]
+Table '3447170384 1' 3-max Siège #3 est au bouton.
+Place 1: chelasd91 (350 en jetons) 
+Place 2: psychoman59 (250 en jetons) 
+Place 3: TheHCCDR (300 en jetons) 
+chelasd91 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 6s]
+TheHCCDR : passe. 
+chelasd91 : suit. 10
+psychoman59 : relance. 230 à 250 et est all-in.
+chelasd91 : suit. 230
+*** FLOP *** [Qs 9s 6d]
+*** TOURNANT *** [Qs 9s 6d] [2h]
+*** RIVIÈRE *** [Qs 9s 6d 2h] [2s]
+*** ABATTAGE ***
+chelasd91 : montre [9d Kd] (double paire, Neuf et Deux)
+psychoman59 : montre [Ac 6s] (double paire, Six et Deux)
+chelasd91 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [Qs 9s 6d 2h 2s]
+Siège 1 : chelasd91 (petite blind) a montré [9d Kd] et a gagné (500) avec double paire, Neuf et Deux
+Siège 2 : psychoman59 (grosse blind) a montré [Ac 6s] et a perdu avec double paire, Six et Deux
+Siège 3 : TheHCCDR (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+

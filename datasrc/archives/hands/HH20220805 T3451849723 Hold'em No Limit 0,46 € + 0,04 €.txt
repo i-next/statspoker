@@ -1,0 +1,37 @@
+﻿Main PokerStars n°237804221306 : Tournoi #3451849723, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 17:41:29 CET [05/08/2022 11:41:29 ET]
+Table '3451849723 1' 4-max Siège #1 est au bouton.
+Place 1: ste010495 (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: Mechazos14 (5000 en jetons) 
+Place 4: TinouBinou (5000 en jetons) 
+ste010495 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Mechazos14 : met l'ante. 10
+TinouBinou : met l'ante. 10
+psychoman59 : met la petite blind. 50
+Mechazos14 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 3h]
+TinouBinou : passe. 
+ste010495 : suit. 100
+psychoman59 : relance. 4890 à 4990 et est all-in.
+Mechazos14 : suit. 4890 et est all-in.
+ste010495 : passe. 
+*** FLOP *** [9h 2d 9c]
+*** TOURNANT *** [9h 2d 9c] [Jc]
+*** RIVIÈRE *** [9h 2d 9c Jc] [Js]
+*** ABATTAGE ***
+psychoman59 : montre [3s 3h] (double paire, Valets et Neuf)
+Mechazos14 : montre [Kd Qh] (double paire, Valets et Neuf - Roi kicker)
+Mechazos14 a remporté 10120  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10120 | Commission 0 
+Tableau [9h 2d 9c Jc Js]
+Siège 1 : ste010495 (bouton) s'est couché. avant Flop
+Siège 2 : psychoman59 (petite blind) a montré [3s 3h] et a perdu avec double paire, Valets et Neuf
+Siège 3 : Mechazos14 (grosse blind) a montré [Kd Qh] et a gagné (10120) avec double paire, Valets et Neuf
+Siège 4 : TinouBinou s'est couché. avant Flop (n'a pas misé)
+
+
+

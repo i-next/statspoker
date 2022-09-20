@@ -1,0 +1,1739 @@
+﻿Main PokerStars n°237943079800 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 14:46:22 CET [12/08/2022 8:46:22 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 2: EA5 EBS (5000 en jetons) 
+Place 3: JORGE GAL404 (5000 en jetons) 
+Place 4: Diego_ac716 (5000 en jetons) 
+psychoman59 : met l'ante. 10
+EA5 EBS : met l'ante. 10
+JORGE GAL404 : met l'ante. 10
+Diego_ac716 : met l'ante. 10
+EA5 EBS : met la petite blind. 50
+JORGE GAL404 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Qc]
+Diego_ac716 : passe. 
+psychoman59 : suit. 100
+EA5 EBS : suit. 50
+JORGE GAL404 : relance. 340 à 440
+psychoman59 : suit. 340
+EA5 EBS : suit. 340
+*** FLOP *** [Qd Kc 9d]
+EA5 EBS : parole 
+JORGE GAL404 : mise. 1360
+psychoman59 : passe. 
+EA5 EBS : passe. 
+Personne n'a suivi. (1360) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 1360  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1360 | Commission 0 
+Tableau [Qd Kc 9d]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : EA5 EBS (petite blind) s'est couché. sur le Flop
+Siège 3 : JORGE GAL404 (grosse blind) a remporté (1360)
+Siège 4 : Diego_ac716 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237943090519 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 14:47:10 CET [12/08/2022 8:47:10 ET]
+Table '3455168547 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4550 en jetons) 
+Place 2: EA5 EBS (4550 en jetons) 
+Place 3: JORGE GAL404 (5910 en jetons) 
+Place 4: Diego_ac716 (4990 en jetons) 
+psychoman59 : met l'ante. 10
+EA5 EBS : met l'ante. 10
+JORGE GAL404 : met l'ante. 10
+Diego_ac716 : met l'ante. 10
+JORGE GAL404 : met la petite blind. 50
+Diego_ac716 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 3s]
+psychoman59 : passe. 
+EA5 EBS : suit. 100
+JORGE GAL404 : suit. 50
+Diego_ac716 : parole 
+*** FLOP *** [Jc 6c 4h]
+JORGE GAL404 : mise. 340
+Diego_ac716 : suit. 340
+EA5 EBS : suit. 340
+*** TOURNANT *** [Jc 6c 4h] [5h]
+JORGE GAL404 : mise. 680
+Diego_ac716 : suit. 680
+EA5 EBS : suit. 680
+*** RIVIÈRE *** [Jc 6c 4h 5h] [Kc]
+JORGE GAL404 : parole 
+Diego_ac716 : parole 
+EA5 EBS : parole 
+*** ABATTAGE ***
+JORGE GAL404 : montre [8h 6s] (une paire de Six)
+Diego_ac716 : cache la main perdante. 
+EA5 EBS : montre [6d Qh] (une paire de Six - Roi+Dame kicker)
+EA5 EBS a remporté 3400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3400 | Commission 0 
+Tableau [Jc 6c 4h 5h Kc]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : EA5 EBS (bouton) a montré [6d Qh] et a gagné (3400) avec une paire de Six
+Siège 3 : JORGE GAL404 (petite blind) a montré [8h 6s] et a perdu avec une paire de Six
+Siège 4 : Diego_ac716 (grosse blind) a caché la main perdante. [2s 6h]
+
+
+
+Main PokerStars n°237943102915 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 14:48:05 CET [12/08/2022 8:48:05 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4540 en jetons) 
+Place 2: EA5 EBS (6820 en jetons) 
+Place 3: JORGE GAL404 (4780 en jetons) 
+Place 4: Diego_ac716 (3860 en jetons) 
+psychoman59 : met l'ante. 10
+EA5 EBS : met l'ante. 10
+JORGE GAL404 : met l'ante. 10
+Diego_ac716 : met l'ante. 10
+Diego_ac716 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Jh]
+EA5 EBS : suit. 100
+JORGE GAL404 : passe. 
+Diego_ac716 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Jd Td 5h]
+psychoman59 : parole 
+EA5 EBS : mise. 100
+psychoman59 : suit. 100
+*** TOURNANT *** [Jd Td 5h] [4c]
+psychoman59 : parole 
+EA5 EBS : parole 
+*** RIVIÈRE *** [Jd Td 5h 4c] [4d]
+psychoman59 : mise. 245
+EA5 EBS : suit. 245
+*** ABATTAGE ***
+psychoman59 : montre [Kd Jh] (double paire, Valets et Quatre)
+EA5 EBS : cache la main perdante. 
+psychoman59 a remporté 980  lors du pot .
+*** SYNTHÈSE ***
+Pot total 980 | Commission 0 
+Tableau [Jd Td 5h 4c 4d]
+Siège 1 : psychoman59 (grosse blind) a montré [Kd Jh] et a gagné (980) avec double paire, Valets et Quatre
+Siège 2 : EA5 EBS a caché la main perdante. [6h 6s]
+Siège 3 : JORGE GAL404 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Diego_ac716 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237943110201 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 14:48:37 CET [12/08/2022 8:48:37 ET]
+Table '3455168547 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (5065 en jetons) 
+Place 2: EA5 EBS (6365 en jetons) 
+Place 3: JORGE GAL404 (4770 en jetons) 
+Place 4: Diego_ac716 (3800 en jetons) 
+psychoman59 : met l'ante. 10
+EA5 EBS : met l'ante. 10
+JORGE GAL404 : met l'ante. 10
+Diego_ac716 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+EA5 EBS : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Jh]
+JORGE GAL404 : relance. 100 à 200
+Diego_ac716 : suit. 200
+psychoman59 : passe. 
+EA5 EBS : suit. 100
+*** FLOP *** [2s 6h 9h]
+EA5 EBS : parole 
+JORGE GAL404 : mise. 345
+Diego_ac716 : suit. 345
+EA5 EBS : suit. 345
+*** TOURNANT *** [2s 6h 9h] [Jc]
+EA5 EBS : parole 
+JORGE GAL404 : mise. 862
+Diego_ac716 : passe. 
+EA5 EBS : suit. 862
+*** RIVIÈRE *** [2s 6h 9h Jc] [2h]
+EA5 EBS : parole 
+JORGE GAL404 : parole 
+*** ABATTAGE ***
+EA5 EBS : montre [Th Qd] (une paire de Deux)
+JORGE GAL404 : montre [Js Tc] (double paire, Valets et Deux)
+JORGE GAL404 a remporté 3449  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3449 | Commission 0 
+Tableau [2s 6h 9h Jc 2h]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : EA5 EBS (grosse blind) a montré [Th Qd] et a perdu avec une paire de Deux
+Siège 3 : JORGE GAL404 a montré [Js Tc] et a gagné (3449) avec double paire, Valets et Deux
+Siège 4 : Diego_ac716 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237943120435 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 14:49:23 CET [12/08/2022 8:49:23 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5005 en jetons) 
+Place 2: EA5 EBS (4948 en jetons) 
+Place 3: JORGE GAL404 (6802 en jetons) 
+Place 4: Diego_ac716 (3245 en jetons) 
+psychoman59 : met l'ante. 10
+EA5 EBS : met l'ante. 10
+JORGE GAL404 : met l'ante. 10
+Diego_ac716 : met l'ante. 10
+EA5 EBS : met la petite blind. 50
+JORGE GAL404 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8d]
+Diego_ac716 : passe. 
+psychoman59 : passe. 
+EA5 EBS : relance. 100 à 200
+JORGE GAL404 : suit. 100
+*** FLOP *** [4c 8s Ts]
+EA5 EBS : mise. 440
+JORGE GAL404 : passe. 
+Personne n'a suivi. (440) sont retournés à EA5 EBS.
+EA5 EBS a remporté 440  lors du pot .
+EA5 EBS : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [4c 8s Ts]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : EA5 EBS (petite blind) a remporté (440)
+Siège 3 : JORGE GAL404 (grosse blind) s'est couché. sur le Flop
+Siège 4 : Diego_ac716 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237943125605 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 14:49:46 CET [12/08/2022 8:49:46 ET]
+Table '3455168547 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4995 en jetons) 
+Place 2: EA5 EBS (5178 en jetons) 
+Place 3: JORGE GAL404 (6592 en jetons) 
+Place 4: Diego_ac716 (3235 en jetons) 
+psychoman59 : met l'ante. 15
+EA5 EBS : met l'ante. 15
+JORGE GAL404 : met l'ante. 15
+Diego_ac716 : met l'ante. 15
+JORGE GAL404 : met la petite blind. 60
+Diego_ac716 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 4h]
+psychoman59 : passe. 
+EA5 EBS : suit. 120
+JORGE GAL404 : suit. 60
+Diego_ac716 : relance. 3100 à 3220 et est all-in.
+EA5 EBS : passe. 
+JORGE GAL404 : passe. 
+Personne n'a suivi. (3100) sont retournés à Diego_ac716.
+Diego_ac716 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : EA5 EBS (bouton) s'est couché. avant Flop
+Siège 3 : JORGE GAL404 (petite blind) s'est couché. avant Flop
+Siège 4 : Diego_ac716 (grosse blind) a remporté (420)
+
+
+
+Main PokerStars n°237943130437 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 14:50:07 CET [12/08/2022 8:50:07 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4980 en jetons) 
+Place 2: EA5 EBS (5043 en jetons) 
+Place 3: JORGE GAL404 (6457 en jetons) 
+Place 4: Diego_ac716 (3520 en jetons) 
+psychoman59 : met l'ante. 15
+EA5 EBS : met l'ante. 15
+JORGE GAL404 : met l'ante. 15
+Diego_ac716 : met l'ante. 15
+Diego_ac716 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 5h]
+EA5 EBS : suit. 120
+JORGE GAL404 : suit. 120
+Diego_ac716 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [3d 4c Th]
+Diego_ac716 : parole 
+psychoman59 : parole 
+EA5 EBS : mise. 120
+JORGE GAL404 : passe. 
+Diego_ac716 : suit. 120
+psychoman59 : suit. 120
+*** TOURNANT *** [3d 4c Th] [6h]
+Diego_ac716 : parole 
+psychoman59 : parole 
+EA5 EBS : parole 
+*** RIVIÈRE *** [3d 4c Th 6h] [7d]
+Diego_ac716 : parole 
+psychoman59 : mise. 450
+EA5 EBS : passe. 
+Diego_ac716 : passe. 
+Personne n'a suivi. (450) sont retournés à psychoman59.
+psychoman59 a remporté 900  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [3d 4c Th 6h 7d]
+Siège 1 : psychoman59 (grosse blind) a remporté (900)
+Siège 2 : EA5 EBS s'est couché. sur le Rivière
+Siège 3 : JORGE GAL404 (bouton) s'est couché. sur le Flop
+Siège 4 : Diego_ac716 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237943144791 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 14:51:11 CET [12/08/2022 8:51:11 ET]
+Table '3455168547 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (5625 en jetons) 
+Place 2: EA5 EBS (4788 en jetons) 
+Place 3: JORGE GAL404 (6322 en jetons) 
+Place 4: Diego_ac716 (3265 en jetons) 
+psychoman59 : met l'ante. 15
+EA5 EBS : met l'ante. 15
+JORGE GAL404 : met l'ante. 15
+Diego_ac716 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+EA5 EBS : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Qc]
+JORGE GAL404 : passe. 
+Diego_ac716 : passe. 
+psychoman59 : suit. 60
+EA5 EBS : parole 
+*** FLOP *** [Kd 8c 4d]
+psychoman59 : parole 
+EA5 EBS : mise. 120
+psychoman59 : suit. 120
+*** TOURNANT *** [Kd 8c 4d] [Ad]
+psychoman59 : parole 
+EA5 EBS : mise. 120
+psychoman59 : suit. 120
+*** RIVIÈRE *** [Kd 8c 4d Ad] [Kc]
+psychoman59 : parole 
+EA5 EBS : mise. 120
+psychoman59 : relance. 510 à 630
+EA5 EBS : suit. 510
+*** ABATTAGE ***
+psychoman59 : montre [Kh Qc] (un brelan de Rois)
+EA5 EBS : cache la main perdante. 
+psychoman59 a remporté 2040  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2040 | Commission 0 
+Tableau [Kd 8c 4d Ad Kc]
+Siège 1 : psychoman59 (petite blind) a montré [Kh Qc] et a gagné (2040) avec un brelan de Rois
+Siège 2 : EA5 EBS (grosse blind) a caché la main perdante. [Tc 8s]
+Siège 3 : JORGE GAL404 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Diego_ac716 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237943151755 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 14:51:42 CET [12/08/2022 8:51:42 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (6660 en jetons) 
+Place 2: EA5 EBS (3783 en jetons) 
+Place 3: JORGE GAL404 (6307 en jetons) 
+Place 4: Diego_ac716 (3250 en jetons) 
+psychoman59 : met l'ante. 15
+EA5 EBS : met l'ante. 15
+JORGE GAL404 : met l'ante. 15
+Diego_ac716 : met l'ante. 15
+EA5 EBS : met la petite blind. 60
+JORGE GAL404 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 8h]
+Diego_ac716 : passe. 
+psychoman59 : passe. 
+EA5 EBS : suit. 60
+JORGE GAL404 : relance. 300 à 420
+EA5 EBS : suit. 300
+*** FLOP *** [6c 9d Ah]
+EA5 EBS : parole 
+JORGE GAL404 : mise. 450
+EA5 EBS : passe. 
+Personne n'a suivi. (450) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 900  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [6c 9d Ah]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : EA5 EBS (petite blind) s'est couché. sur le Flop
+Siège 3 : JORGE GAL404 (grosse blind) a remporté (900)
+Siège 4 : Diego_ac716 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237943158638 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 14:52:13 CET [12/08/2022 8:52:13 ET]
+Table '3455168547 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (6645 en jetons) 
+Place 2: EA5 EBS (3348 en jetons) 
+Place 3: JORGE GAL404 (6772 en jetons) 
+Place 4: Diego_ac716 (3235 en jetons) 
+psychoman59 : met l'ante. 15
+EA5 EBS : met l'ante. 15
+JORGE GAL404 : met l'ante. 15
+Diego_ac716 : met l'ante. 15
+JORGE GAL404 : met la petite blind. 60
+Diego_ac716 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Qc]
+psychoman59 : suit. 120
+EA5 EBS : passe. 
+JORGE GAL404 : suit. 60
+Diego_ac716 : parole 
+*** FLOP *** [7d 6d 8d]
+JORGE GAL404 : mise. 420
+Diego_ac716 : passe. 
+psychoman59 : suit. 420
+*** TOURNANT *** [7d 6d 8d] [5s]
+JORGE GAL404 : mise. 630
+psychoman59 : suit. 630
+*** RIVIÈRE *** [7d 6d 8d 5s] [3d]
+JORGE GAL404 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+JORGE GAL404 : montre [9h Th] (une suite, Six à Dix)
+psychoman59 : montre [9d Qc] (une couleur, hauteur Neuf)
+psychoman59 a remporté 2520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2520 | Commission 0 
+Tableau [7d 6d 8d 5s 3d]
+Siège 1 : psychoman59 a montré [9d Qc] et a gagné (2520) avec une couleur, hauteur Neuf
+Siège 2 : EA5 EBS (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : JORGE GAL404 (petite blind) a montré [9h Th] et a perdu avec une suite, Six à Dix
+Siège 4 : Diego_ac716 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237943169498 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 14:53:01 CET [12/08/2022 8:53:01 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (7980 en jetons) 
+Place 2: EA5 EBS (3333 en jetons) 
+Place 3: JORGE GAL404 (5587 en jetons) 
+Place 4: Diego_ac716 (3100 en jetons) 
+psychoman59 : met l'ante. 20
+EA5 EBS : met l'ante. 20
+JORGE GAL404 : met l'ante. 20
+Diego_ac716 : met l'ante. 20
+Diego_ac716 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 7c]
+EA5 EBS : suit. 150
+JORGE GAL404 : relance. 300 à 450
+Diego_ac716 : passe. 
+psychoman59 : passe. 
+EA5 EBS : suit. 300
+*** FLOP *** [Js Kc Ah]
+EA5 EBS : parole 
+JORGE GAL404 : mise. 602
+EA5 EBS : suit. 602
+*** TOURNANT *** [Js Kc Ah] [3s]
+EA5 EBS : parole 
+JORGE GAL404 : mise. 1204
+EA5 EBS : passe. 
+Personne n'a suivi. (1204) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 2409  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2409 | Commission 0 
+Tableau [Js Kc Ah 3s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : EA5 EBS s'est couché. sur le Tournant
+Siège 3 : JORGE GAL404 (bouton) a remporté (2409)
+Siège 4 : Diego_ac716 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237943176996 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 14:53:34 CET [12/08/2022 8:53:34 ET]
+Table '3455168547 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (7810 en jetons) 
+Place 2: EA5 EBS (2261 en jetons) 
+Place 3: JORGE GAL404 (6924 en jetons) 
+Place 4: Diego_ac716 (3005 en jetons) 
+psychoman59 : met l'ante. 20
+EA5 EBS : met l'ante. 20
+JORGE GAL404 : met l'ante. 20
+Diego_ac716 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+EA5 EBS : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 6d]
+JORGE GAL404 : relance. 150 à 300
+Diego_ac716 : relance. 300 à 600
+psychoman59 : passe. 
+EA5 EBS : passe. 
+JORGE GAL404 : suit. 300
+*** FLOP *** [2s Ah Kc]
+JORGE GAL404 : mise. 752
+Diego_ac716 : suit. 752
+*** TOURNANT *** [2s Ah Kc] [Th]
+JORGE GAL404 : mise. 150
+Diego_ac716 : suit. 150
+*** RIVIÈRE *** [2s Ah Kc Th] [6s]
+JORGE GAL404 : mise. 150
+Diego_ac716 : suit. 150
+*** ABATTAGE ***
+JORGE GAL404 : montre [7s Ks] (une paire de Rois)
+Diego_ac716 : montre [Qc Qd] (une paire de Dames)
+JORGE GAL404 a remporté 3609  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3609 | Commission 0 
+Tableau [2s Ah Kc Th 6s]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : EA5 EBS (grosse blind) s'est couché. avant Flop
+Siège 3 : JORGE GAL404 a montré [7s Ks] et a gagné (3609) avec une paire de Rois
+Siège 4 : Diego_ac716 (bouton) a montré [Qc Qd] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°237943189428 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 14:54:29 CET [12/08/2022 8:54:29 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (7715 en jetons) 
+Place 2: EA5 EBS (2091 en jetons) 
+Place 3: JORGE GAL404 (8861 en jetons) 
+Place 4: Diego_ac716 (1333 en jetons) 
+psychoman59 : met l'ante. 20
+EA5 EBS : met l'ante. 20
+JORGE GAL404 : met l'ante. 20
+Diego_ac716 : met l'ante. 20
+EA5 EBS : met la petite blind. 75
+JORGE GAL404 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Kh]
+Diego_ac716 : relance. 1163 à 1313 et est all-in.
+psychoman59 : passe. 
+EA5 EBS : passe. 
+JORGE GAL404 : passe. 
+Personne n'a suivi. (1163) sont retournés à Diego_ac716.
+Diego_ac716 a remporté 455  lors du pot .
+*** SYNTHÈSE ***
+Pot total 455 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : EA5 EBS (petite blind) s'est couché. avant Flop
+Siège 3 : JORGE GAL404 (grosse blind) s'est couché. avant Flop
+Siège 4 : Diego_ac716 a remporté (455)
+
+
+
+Main PokerStars n°237943202526 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 14:54:50 CET [12/08/2022 8:54:50 ET]
+Table '3455168547 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (7695 en jetons) 
+Place 2: EA5 EBS (1996 en jetons) 
+Place 3: JORGE GAL404 (8691 en jetons) 
+Place 4: Diego_ac716 (1618 en jetons) 
+psychoman59 : met l'ante. 20
+EA5 EBS : met l'ante. 20
+JORGE GAL404 : met l'ante. 20
+Diego_ac716 : met l'ante. 20
+JORGE GAL404 : met la petite blind. 75
+Diego_ac716 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Td]
+psychoman59 : passe. 
+EA5 EBS : suit. 150
+JORGE GAL404 : passe. 
+Diego_ac716 : relance. 1448 à 1598 et est all-in.
+EA5 EBS : suit. 1448
+*** FLOP *** [Js Jd Ah]
+*** TOURNANT *** [Js Jd Ah] [7s]
+*** RIVIÈRE *** [Js Jd Ah 7s] [2s]
+*** ABATTAGE ***
+Diego_ac716 : montre [8h Qc] (une paire de Valets)
+EA5 EBS : montre [3c Jc] (un brelan de Valets)
+EA5 EBS a remporté 3351  lors du pot .
+Diego_ac716 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 3351 | Commission 0 
+Tableau [Js Jd Ah 7s 2s]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : EA5 EBS (bouton) a montré [3c Jc] et a gagné (3351) avec un brelan de Valets
+Siège 3 : JORGE GAL404 (petite blind) s'est couché. avant Flop
+Siège 4 : Diego_ac716 (grosse blind) a montré [8h Qc] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°237943208157 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 14:55:16 CET [12/08/2022 8:55:16 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (7675 en jetons) 
+Place 2: EA5 EBS (3729 en jetons) 
+Place 3: JORGE GAL404 (8596 en jetons) 
+psychoman59 : met l'ante. 20
+EA5 EBS : met l'ante. 20
+JORGE GAL404 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+EA5 EBS : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Ac]
+JORGE GAL404 : relance. 300 à 450
+psychoman59 : suit. 375
+EA5 EBS : suit. 300
+*** FLOP *** [5h As 6c]
+psychoman59 : parole 
+EA5 EBS : parole 
+JORGE GAL404 : mise. 705
+psychoman59 : suit. 705
+EA5 EBS : passe. 
+*** TOURNANT *** [5h As 6c] [5c]
+psychoman59 : parole 
+JORGE GAL404 : mise. 300
+psychoman59 : suit. 300
+*** RIVIÈRE *** [5h As 6c 5c] [7h]
+psychoman59 : mise. 1710
+JORGE GAL404 : passe. 
+Personne n'a suivi. (1710) sont retournés à psychoman59.
+psychoman59 a remporté 3420  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 3420 | Commission 0 
+Tableau [5h As 6c 5c 7h]
+Siège 1 : psychoman59 (petite blind) a remporté (3420)
+Siège 2 : EA5 EBS (grosse blind) s'est couché. sur le Flop
+Siège 3 : JORGE GAL404 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237943216527 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 14:56:00 CET [12/08/2022 8:56:00 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (9620 en jetons) 
+Place 2: EA5 EBS (3259 en jetons) 
+Place 3: JORGE GAL404 (7121 en jetons) 
+psychoman59 : met l'ante. 25
+EA5 EBS : met l'ante. 25
+JORGE GAL404 : met l'ante. 25
+EA5 EBS : met la petite blind. 100
+JORGE GAL404 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 9c]
+psychoman59 : passe. 
+EA5 EBS : suit. 100
+JORGE GAL404 : parole 
+*** FLOP *** [Jc Qd 5h]
+EA5 EBS : parole 
+JORGE GAL404 : parole 
+*** TOURNANT *** [Jc Qd 5h] [6h]
+EA5 EBS : mise. 200
+JORGE GAL404 : suit. 200
+*** RIVIÈRE *** [Jc Qd 5h 6h] [5s]
+EA5 EBS : parole 
+JORGE GAL404 : parole 
+*** ABATTAGE ***
+EA5 EBS : montre [2c 7d] (une paire de Cinq)
+JORGE GAL404 : montre [6d 8h] (double paire, Six et Cinq)
+JORGE GAL404 a remporté 875  lors du pot .
+*** SYNTHÈSE ***
+Pot total 875 | Commission 0 
+Tableau [Jc Qd 5h 6h 5s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : EA5 EBS (petite blind) a montré [2c 7d] et a perdu avec une paire de Cinq
+Siège 3 : JORGE GAL404 (grosse blind) a montré [6d 8h] et a gagné (875) avec double paire, Six et Cinq
+
+
+
+Main PokerStars n°237943222619 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 14:56:33 CET [12/08/2022 8:56:33 ET]
+Table '3455168547 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (9595 en jetons) 
+Place 2: EA5 EBS (2834 en jetons) 
+Place 3: JORGE GAL404 (7571 en jetons) 
+psychoman59 : met l'ante. 25
+EA5 EBS : met l'ante. 25
+JORGE GAL404 : met l'ante. 25
+JORGE GAL404 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 8d]
+EA5 EBS : suit. 200
+JORGE GAL404 : passe. 
+psychoman59 : parole 
+*** FLOP *** [As Th 7c]
+psychoman59 : parole 
+EA5 EBS : mise. 200
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à EA5 EBS.
+EA5 EBS a remporté 575  lors du pot .
+EA5 EBS : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 575 | Commission 0 
+Tableau [As Th 7c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : EA5 EBS (bouton) a remporté (575)
+Siège 3 : JORGE GAL404 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237943226520 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 14:56:53 CET [12/08/2022 8:56:53 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (9370 en jetons) 
+Place 2: EA5 EBS (3184 en jetons) 
+Place 3: JORGE GAL404 (7446 en jetons) 
+psychoman59 : met l'ante. 25
+EA5 EBS : met l'ante. 25
+JORGE GAL404 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+EA5 EBS : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Qh]
+JORGE GAL404 : relance. 200 à 400
+psychoman59 : suit. 300
+EA5 EBS : suit. 200
+*** FLOP *** [7c Jc Jh]
+psychoman59 : parole 
+EA5 EBS : parole 
+JORGE GAL404 : parole 
+*** TOURNANT *** [7c Jc Jh] [5c]
+psychoman59 : parole 
+EA5 EBS : parole 
+JORGE GAL404 : parole 
+*** RIVIÈRE *** [7c Jc Jh 5c] [3d]
+psychoman59 : parole 
+EA5 EBS : parole 
+JORGE GAL404 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Td Qh] (une paire de Valets)
+EA5 EBS : montre [8h 3c] (double paire, Valets et Trois)
+JORGE GAL404 : montre [Kh 3h] (double paire, Valets et Trois - Roi kicker)
+JORGE GAL404 a remporté 1275  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1275 | Commission 0 
+Tableau [7c Jc Jh 5c 3d]
+Siège 1 : psychoman59 (petite blind) a montré [Td Qh] et a perdu avec une paire de Valets
+Siège 2 : EA5 EBS (grosse blind) a montré [8h 3c] et a perdu avec double paire, Valets et Trois
+Siège 3 : JORGE GAL404 (bouton) a montré [Kh 3h] et a gagné (1275) avec double paire, Valets et Trois
+
+
+
+Main PokerStars n°237943236233 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 14:57:44 CET [12/08/2022 8:57:44 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8945 en jetons) 
+Place 2: EA5 EBS (2759 en jetons) 
+Place 3: JORGE GAL404 (8296 en jetons) 
+psychoman59 : met l'ante. 25
+EA5 EBS : met l'ante. 25
+JORGE GAL404 : met l'ante. 25
+EA5 EBS : met la petite blind. 100
+JORGE GAL404 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 4d]
+psychoman59 : passe. 
+EA5 EBS : suit. 100
+JORGE GAL404 : parole 
+*** FLOP *** [Kh 8d 3c]
+EA5 EBS : mise. 475
+JORGE GAL404 : suit. 475
+*** TOURNANT *** [Kh 8d 3c] [Th]
+EA5 EBS : mise. 2059 et est all-in.
+JORGE GAL404 : suit. 2059
+*** RIVIÈRE *** [Kh 8d 3c Th] [5c]
+*** ABATTAGE ***
+EA5 EBS : montre [Ks 2h] (une paire de Rois)
+JORGE GAL404 : montre [Ts 8s] (double paire, Dix et Huit)
+JORGE GAL404 a remporté 5543  lors du pot .
+EA5 EBS a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 5543 | Commission 0 
+Tableau [Kh 8d 3c Th 5c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : EA5 EBS (petite blind) a montré [Ks 2h] et a perdu avec une paire de Rois
+Siège 3 : JORGE GAL404 (grosse blind) a montré [Ts 8s] et a gagné (5543) avec double paire, Dix et Huit
+
+
+
+Main PokerStars n°237943243417 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 14:58:22 CET [12/08/2022 8:58:22 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (8920 en jetons) 
+Place 3: JORGE GAL404 (11080 en jetons) 
+psychoman59 : met l'ante. 25
+JORGE GAL404 : met l'ante. 25
+JORGE GAL404 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 8c]
+JORGE GAL404 : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 250  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (250)
+Siège 3 : JORGE GAL404 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237943245393 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 14:58:33 CET [12/08/2022 8:58:33 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (9045 en jetons) 
+Place 3: JORGE GAL404 (10955 en jetons) 
+psychoman59 : met l'ante. 30
+JORGE GAL404 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+JORGE GAL404 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Td]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 310  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : JORGE GAL404 (grosse blind) a remporté (310)
+
+
+
+Main PokerStars n°237943246852 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 14:58:40 CET [12/08/2022 8:58:40 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (8890 en jetons) 
+Place 3: JORGE GAL404 (11110 en jetons) 
+psychoman59 : met l'ante. 30
+JORGE GAL404 : met l'ante. 30
+JORGE GAL404 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Th]
+JORGE GAL404 : relance. 560 à 810
+psychoman59 : passe. 
+Personne n'a suivi. (560) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 560  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : JORGE GAL404 (bouton) (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°237943249428 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 14:58:54 CET [12/08/2022 8:58:54 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8610 en jetons) 
+Place 3: JORGE GAL404 (11390 en jetons) 
+psychoman59 : met l'ante. 30
+JORGE GAL404 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+JORGE GAL404 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 310  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : JORGE GAL404 (grosse blind) a remporté (310)
+
+
+
+Main PokerStars n°237943251181 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 14:59:03 CET [12/08/2022 8:59:03 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (8455 en jetons) 
+Place 3: JORGE GAL404 (11545 en jetons) 
+psychoman59 : met l'ante. 30
+JORGE GAL404 : met l'ante. 30
+JORGE GAL404 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 8s]
+JORGE GAL404 : passe. 
+Personne n'a suivi. (125) sont retournés à psychoman59.
+psychoman59 a remporté 310  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (310)
+Siège 3 : JORGE GAL404 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237943252953 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 14:59:12 CET [12/08/2022 8:59:12 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8610 en jetons) 
+Place 3: JORGE GAL404 (11390 en jetons) 
+psychoman59 : met l'ante. 30
+JORGE GAL404 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+JORGE GAL404 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 310  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : JORGE GAL404 (grosse blind) a remporté (310)
+
+
+
+Main PokerStars n°237943254600 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 14:59:20 CET [12/08/2022 8:59:20 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (8455 en jetons) 
+Place 3: JORGE GAL404 (11545 en jetons) 
+psychoman59 : met l'ante. 30
+JORGE GAL404 : met l'ante. 30
+JORGE GAL404 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ah]
+JORGE GAL404 : relance. 560 à 810
+psychoman59 : passe. 
+Personne n'a suivi. (560) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 560  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : JORGE GAL404 (bouton) (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°237943256992 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 14:59:33 CET [12/08/2022 8:59:33 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8175 en jetons) 
+Place 3: JORGE GAL404 (11825 en jetons) 
+psychoman59 : met l'ante. 30
+JORGE GAL404 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+JORGE GAL404 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 310  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : JORGE GAL404 (grosse blind) a remporté (310)
+
+
+
+Main PokerStars n°237943258576 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 14:59:41 CET [12/08/2022 8:59:41 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (8020 en jetons) 
+Place 3: JORGE GAL404 (11980 en jetons) 
+psychoman59 : met l'ante. 30
+JORGE GAL404 : met l'ante. 30
+JORGE GAL404 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 7c]
+JORGE GAL404 : relance. 500 à 750
+psychoman59 : passe. 
+Personne n'a suivi. (500) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 560  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : JORGE GAL404 (bouton) (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°237943260795 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 14:59:53 CET [12/08/2022 8:59:53 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (7740 en jetons) 
+Place 3: JORGE GAL404 (12260 en jetons) 
+psychoman59 : met l'ante. 30
+JORGE GAL404 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+JORGE GAL404 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 310  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : JORGE GAL404 (grosse blind) a remporté (310)
+
+
+
+Main PokerStars n°237943262448 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 15:00:02 CET [12/08/2022 9:00:02 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (7585 en jetons) 
+Place 3: JORGE GAL404 (12415 en jetons) 
+psychoman59 : met l'ante. 30
+JORGE GAL404 : met l'ante. 30
+JORGE GAL404 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 7h]
+JORGE GAL404 : suit. 125
+psychoman59 : relance. 7305 à 7555 et est all-in.
+JORGE GAL404 : passe. 
+Personne n'a suivi. (7305) sont retournés à psychoman59.
+psychoman59 a remporté 560  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (560)
+Siège 3 : JORGE GAL404 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237943265127 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 15:00:16 CET [12/08/2022 9:00:16 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (7865 en jetons) 
+Place 3: JORGE GAL404 (12135 en jetons) 
+psychoman59 : met l'ante. 30
+JORGE GAL404 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+JORGE GAL404 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 4s]
+psychoman59 : suit. 125
+JORGE GAL404 : parole 
+*** FLOP *** [2h 5c 6d]
+JORGE GAL404 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2h 5c 6d] [3h]
+JORGE GAL404 : mise. 560
+psychoman59 : suit. 560
+*** RIVIÈRE *** [2h 5c 6d 3h] [9s]
+JORGE GAL404 : parole 
+psychoman59 : mise. 840
+JORGE GAL404 : suit. 840
+*** ABATTAGE ***
+psychoman59 : montre [3s 4s] (une suite, Deux à Six)
+JORGE GAL404 : cache la main perdante. 
+psychoman59 a remporté 3360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3360 | Commission 0 
+Tableau [2h 5c 6d 3h 9s]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [3s 4s] et a gagné (3360) avec une suite, Deux à Six
+Siège 3 : JORGE GAL404 (grosse blind) a caché la main perdante. [3c 6c]
+
+
+
+Main PokerStars n°237943273042 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 15:00:55 CET [12/08/2022 9:00:55 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (9545 en jetons) 
+Place 3: JORGE GAL404 (10455 en jetons) 
+psychoman59 : met l'ante. 30
+JORGE GAL404 : met l'ante. 30
+JORGE GAL404 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Tc]
+JORGE GAL404 : suit. 125
+psychoman59 : parole 
+*** FLOP *** [As 2c 2s]
+psychoman59 : parole 
+JORGE GAL404 : mise. 250
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 560  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [As 2c 2s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : JORGE GAL404 (bouton) (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°237943276798 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 15:01:12 CET [12/08/2022 9:01:12 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (9265 en jetons) 
+Place 3: JORGE GAL404 (10735 en jetons) 
+psychoman59 : met l'ante. 30
+JORGE GAL404 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+JORGE GAL404 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 5d]
+psychoman59 : suit. 125
+JORGE GAL404 : parole 
+*** FLOP *** [Qd Qh Td]
+JORGE GAL404 : mise. 560
+psychoman59 : suit. 560
+*** TOURNANT *** [Qd Qh Td] [2s]
+JORGE GAL404 : mise. 840
+psychoman59 : suit. 840
+*** RIVIÈRE *** [Qd Qh Td 2s] [6d]
+JORGE GAL404 : parole 
+psychoman59 : mise. 1680
+JORGE GAL404 : passe. 
+Personne n'a suivi. (1680) sont retournés à psychoman59.
+psychoman59 a remporté 3360  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 3360 | Commission 0 
+Tableau [Qd Qh Td 2s 6d]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (3360)
+Siège 3 : JORGE GAL404 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237943285056 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 12/08/2022 15:01:49 CET [12/08/2022 9:01:49 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (10945 en jetons) 
+Place 3: JORGE GAL404 (9055 en jetons) 
+psychoman59 : met l'ante. 40
+JORGE GAL404 : met l'ante. 40
+JORGE GAL404 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 9s]
+JORGE GAL404 : suit. 150
+psychoman59 : parole 
+*** FLOP *** [Ac 3c Ts]
+psychoman59 : parole 
+JORGE GAL404 : mise. 600
+psychoman59 : passe. 
+Personne n'a suivi. (600) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 680  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [Ac 3c Ts]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : JORGE GAL404 (bouton) (petite blind) a remporté (680)
+
+
+
+Main PokerStars n°237943290662 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 12/08/2022 15:02:14 CET [12/08/2022 9:02:14 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (10605 en jetons) 
+Place 3: JORGE GAL404 (9395 en jetons) 
+psychoman59 : met l'ante. 40
+JORGE GAL404 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+JORGE GAL404 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 380  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : JORGE GAL404 (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°237943292509 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 12/08/2022 15:02:22 CET [12/08/2022 9:02:22 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (10415 en jetons) 
+Place 3: JORGE GAL404 (9585 en jetons) 
+psychoman59 : met l'ante. 40
+JORGE GAL404 : met l'ante. 40
+JORGE GAL404 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 9c]
+JORGE GAL404 : suit. 150
+psychoman59 : parole 
+*** FLOP *** [Qd 4s 5d]
+psychoman59 : parole 
+JORGE GAL404 : mise. 300
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 680  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [Qd 4s 5d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : JORGE GAL404 (bouton) (petite blind) a remporté (680)
+
+
+
+Main PokerStars n°237943299912 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 12/08/2022 15:02:55 CET [12/08/2022 9:02:55 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (10075 en jetons) 
+Place 3: JORGE GAL404 (9925 en jetons) 
+psychoman59 : met l'ante. 40
+JORGE GAL404 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+JORGE GAL404 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Td]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 380  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : JORGE GAL404 (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°237943302401 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 12/08/2022 15:03:07 CET [12/08/2022 9:03:07 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (9885 en jetons) 
+Place 3: JORGE GAL404 (10115 en jetons) 
+psychoman59 : met l'ante. 40
+JORGE GAL404 : met l'ante. 40
+JORGE GAL404 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Kd]
+JORGE GAL404 : suit. 150
+psychoman59 : parole 
+*** FLOP *** [Ac 6c 9s]
+psychoman59 : parole 
+JORGE GAL404 : mise. 300
+psychoman59 : suit. 300
+*** TOURNANT *** [Ac 6c 9s] [As]
+psychoman59 : parole 
+JORGE GAL404 : parole 
+*** RIVIÈRE *** [Ac 6c 9s As] [Qh]
+psychoman59 : parole 
+JORGE GAL404 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7h Kd] (une paire de As)
+JORGE GAL404 : cache la main perdante. 
+psychoman59 a remporté 1280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1280 | Commission 0 
+Tableau [Ac 6c 9s As Qh]
+Siège 1 : psychoman59 (grosse blind) a montré [7h Kd] et a gagné (1280) avec une paire de As
+Siège 3 : JORGE GAL404 (bouton) (petite blind) a caché la main perdante. [4s 5d]
+
+
+
+Main PokerStars n°237943309946 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 12/08/2022 15:03:40 CET [12/08/2022 9:03:40 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (10525 en jetons) 
+Place 3: JORGE GAL404 (9475 en jetons) 
+psychoman59 : met l'ante. 40
+JORGE GAL404 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+JORGE GAL404 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Tc]
+psychoman59 : relance. 300 à 600
+JORGE GAL404 : relance. 1280 à 1880
+psychoman59 : passe. 
+Personne n'a suivi. (1280) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 1280  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1280 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : JORGE GAL404 (grosse blind) a remporté (1280)
+
+
+
+Main PokerStars n°237943313769 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 12/08/2022 15:03:57 CET [12/08/2022 9:03:57 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (9885 en jetons) 
+Place 3: JORGE GAL404 (10115 en jetons) 
+psychoman59 : met l'ante. 40
+JORGE GAL404 : met l'ante. 40
+JORGE GAL404 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Jh]
+JORGE GAL404 : relance. 300 à 600
+psychoman59 : suit. 300
+*** FLOP *** [2s 7c 8d]
+psychoman59 : parole 
+JORGE GAL404 : parole 
+*** TOURNANT *** [2s 7c 8d] [Ks]
+psychoman59 : parole 
+JORGE GAL404 : mise. 640
+psychoman59 : passe. 
+Personne n'a suivi. (640) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 1280  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1280 | Commission 0 
+Tableau [2s 7c 8d Ks]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : JORGE GAL404 (bouton) (petite blind) a remporté (1280)
+
+
+
+Main PokerStars n°237943323494 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 12/08/2022 15:04:39 CET [12/08/2022 9:04:39 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (9245 en jetons) 
+Place 3: JORGE GAL404 (10755 en jetons) 
+psychoman59 : met l'ante. 50
+JORGE GAL404 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+JORGE GAL404 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Kd]
+psychoman59 : relance. 900 à 1300
+JORGE GAL404 : suit. 900
+*** FLOP *** [5d Ac Th]
+JORGE GAL404 : parole 
+psychoman59 : mise. 1350
+JORGE GAL404 : passe. 
+Personne n'a suivi. (1350) sont retournés à psychoman59.
+psychoman59 a remporté 2700  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2700 | Commission 0 
+Tableau [5d Ac Th]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (2700)
+Siège 3 : JORGE GAL404 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237943330045 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 12/08/2022 15:05:07 CET [12/08/2022 9:05:07 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (10595 en jetons) 
+Place 3: JORGE GAL404 (9405 en jetons) 
+psychoman59 : met l'ante. 50
+JORGE GAL404 : met l'ante. 50
+JORGE GAL404 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 3c]
+JORGE GAL404 : relance. 400 à 800
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : JORGE GAL404 (bouton) (petite blind) a remporté (900)
+
+
+
+Main PokerStars n°237943332461 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 12/08/2022 15:05:18 CET [12/08/2022 9:05:18 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (10145 en jetons) 
+Place 3: JORGE GAL404 (9855 en jetons) 
+psychoman59 : met l'ante. 50
+JORGE GAL404 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+JORGE GAL404 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 6c]
+psychoman59 : relance. 800 à 1200
+JORGE GAL404 : passe. 
+Personne n'a suivi. (800) sont retournés à psychoman59.
+psychoman59 a remporté 900  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (900)
+Siège 3 : JORGE GAL404 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237943335328 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 12/08/2022 15:05:31 CET [12/08/2022 9:05:31 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (10595 en jetons) 
+Place 3: JORGE GAL404 (9405 en jetons) 
+psychoman59 : met l'ante. 50
+JORGE GAL404 : met l'ante. 50
+JORGE GAL404 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Td]
+JORGE GAL404 : suit. 200
+psychoman59 : parole 
+*** FLOP *** [4c 8d 6c]
+psychoman59 : parole 
+JORGE GAL404 : mise. 400
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 900  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [4c 8d 6c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : JORGE GAL404 (bouton) (petite blind) a remporté (900)
+
+
+
+Main PokerStars n°237943340815 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 12/08/2022 15:05:54 CET [12/08/2022 9:05:54 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (10145 en jetons) 
+Place 3: JORGE GAL404 (9855 en jetons) 
+psychoman59 : met l'ante. 50
+JORGE GAL404 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+JORGE GAL404 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : JORGE GAL404 (grosse blind) a remporté (500)
+
+
+
+Main PokerStars n°237943342935 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 12/08/2022 15:06:04 CET [12/08/2022 9:06:04 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (9895 en jetons) 
+Place 3: JORGE GAL404 (10105 en jetons) 
+psychoman59 : met l'ante. 50
+JORGE GAL404 : met l'ante. 50
+JORGE GAL404 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 7h]
+JORGE GAL404 : relance. 900 à 1300
+psychoman59 : passe. 
+Personne n'a suivi. (900) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 900  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : JORGE GAL404 (bouton) (petite blind) a remporté (900)
+
+
+
+Main PokerStars n°237943345840 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 12/08/2022 15:06:16 CET [12/08/2022 9:06:16 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (9445 en jetons) 
+Place 3: JORGE GAL404 (10555 en jetons) 
+psychoman59 : met l'ante. 50
+JORGE GAL404 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+JORGE GAL404 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 500  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : JORGE GAL404 (grosse blind) a remporté (500)
+
+
+
+Main PokerStars n°237943347528 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 12/08/2022 15:06:23 CET [12/08/2022 9:06:23 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (9195 en jetons) 
+Place 3: JORGE GAL404 (10805 en jetons) 
+psychoman59 : met l'ante. 50
+JORGE GAL404 : met l'ante. 50
+JORGE GAL404 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 5c]
+JORGE GAL404 : relance. 900 à 1300
+psychoman59 : passe. 
+Personne n'a suivi. (900) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 900  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : JORGE GAL404 (bouton) (petite blind) a remporté (900)
+
+
+
+Main PokerStars n°237943350067 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 12/08/2022 15:06:34 CET [12/08/2022 9:06:34 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8745 en jetons) 
+Place 3: JORGE GAL404 (11255 en jetons) 
+psychoman59 : met l'ante. 50
+JORGE GAL404 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+JORGE GAL404 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 500  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : JORGE GAL404 (grosse blind) a remporté (500)
+
+
+
+Main PokerStars n°237943352004 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 12/08/2022 15:06:43 CET [12/08/2022 9:06:43 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (8495 en jetons) 
+Place 3: JORGE GAL404 (11505 en jetons) 
+psychoman59 : met l'ante. 50
+JORGE GAL404 : met l'ante. 50
+JORGE GAL404 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 2c]
+JORGE GAL404 : relance. 400 à 800
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 900  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : JORGE GAL404 (bouton) (petite blind) a remporté (900)
+
+
+
+Main PokerStars n°237943354271 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 12/08/2022 15:06:53 CET [12/08/2022 9:06:53 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8045 en jetons) 
+Place 3: JORGE GAL404 (11955 en jetons) 
+psychoman59 : met l'ante. 50
+JORGE GAL404 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+JORGE GAL404 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Kc]
+psychoman59 : relance. 400 à 800
+JORGE GAL404 : relance. 400 à 1200
+psychoman59 : relance. 2500 à 3700
+JORGE GAL404 : suit. 2500
+*** FLOP *** [4d 5h 6h]
+JORGE GAL404 : parole 
+psychoman59 : mise. 3750
+JORGE GAL404 : passe. 
+Personne n'a suivi. (3750) sont retournés à psychoman59.
+psychoman59 a remporté 7500  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 7500 | Commission 0 
+Tableau [4d 5h 6h]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (7500)
+Siège 3 : JORGE GAL404 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237943362170 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VIII (250/500) - 12/08/2022 15:07:27 CET [12/08/2022 9:07:27 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (11795 en jetons) 
+Place 3: JORGE GAL404 (8205 en jetons) 
+psychoman59 : met l'ante. 60
+JORGE GAL404 : met l'ante. 60
+JORGE GAL404 : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 4d]
+JORGE GAL404 : relance. 500 à 1000
+psychoman59 : suit. 500
+*** FLOP *** [As 9c 6d]
+psychoman59 : parole 
+JORGE GAL404 : mise. 1060
+psychoman59 : passe. 
+Personne n'a suivi. (1060) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 2120  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2120 | Commission 0 
+Tableau [As 9c 6d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : JORGE GAL404 (bouton) (petite blind) a remporté (2120)
+
+
+
+Main PokerStars n°237943367042 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VIII (250/500) - 12/08/2022 15:07:48 CET [12/08/2022 9:07:48 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (10735 en jetons) 
+Place 3: JORGE GAL404 (9265 en jetons) 
+psychoman59 : met l'ante. 60
+JORGE GAL404 : met l'ante. 60
+psychoman59 : met la petite blind. 250
+JORGE GAL404 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Qh]
+psychoman59 : relance. 500 à 1000
+JORGE GAL404 : suit. 500
+*** FLOP *** [8c Ad 5s]
+JORGE GAL404 : mise. 500
+psychoman59 : relance. 1560 à 2060
+JORGE GAL404 : suit. 1560
+*** TOURNANT *** [8c Ad 5s] [Ah]
+JORGE GAL404 : mise. 1500
+psychoman59 : relance. 4620 à 6120
+JORGE GAL404 : passe. 
+Personne n'a suivi. (4620) sont retournés à psychoman59.
+psychoman59 a remporté 9240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 9240 | Commission 0 
+Tableau [8c Ad 5s Ah]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (9240)
+Siège 3 : JORGE GAL404 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237943376214 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VIII (250/500) - 12/08/2022 15:08:28 CET [12/08/2022 9:08:28 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (15355 en jetons) 
+Place 3: JORGE GAL404 (4645 en jetons) 
+psychoman59 : met l'ante. 60
+JORGE GAL404 : met l'ante. 60
+JORGE GAL404 : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 3c]
+JORGE GAL404 : relance. 500 à 1000
+psychoman59 : suit. 500
+*** FLOP *** [2d 2c 7h]
+psychoman59 : parole 
+JORGE GAL404 : parole 
+*** TOURNANT *** [2d 2c 7h] [Ah]
+psychoman59 : parole 
+JORGE GAL404 : parole 
+*** RIVIÈRE *** [2d 2c 7h Ah] [8d]
+psychoman59 : parole 
+JORGE GAL404 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Jc 3c] (une paire de Deux)
+JORGE GAL404 : montre [Qc Jh] (une paire de Deux - As+Dame kicker)
+JORGE GAL404 a remporté 2120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2120 | Commission 0 
+Tableau [2d 2c 7h Ah 8d]
+Siège 1 : psychoman59 (grosse blind) a montré [Jc 3c] et a perdu avec une paire de Deux
+Siège 3 : JORGE GAL404 (bouton) (petite blind) a montré [Qc Jh] et a gagné (2120) avec une paire de Deux
+
+
+
+Main PokerStars n°237943385135 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VIII (250/500) - 12/08/2022 15:09:07 CET [12/08/2022 9:09:07 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (14295 en jetons) 
+Place 3: JORGE GAL404 (5705 en jetons) 
+psychoman59 : met l'ante. 60
+JORGE GAL404 : met l'ante. 60
+psychoman59 : met la petite blind. 250
+JORGE GAL404 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 620  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : JORGE GAL404 (grosse blind) a remporté (620)
+
+
+
+Main PokerStars n°237943387013 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VIII (250/500) - 12/08/2022 15:09:15 CET [12/08/2022 9:09:15 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (13985 en jetons) 
+Place 3: JORGE GAL404 (6015 en jetons) 
+psychoman59 : met l'ante. 60
+JORGE GAL404 : met l'ante. 60
+JORGE GAL404 : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 9h]
+JORGE GAL404 : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 620  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (620)
+Siège 3 : JORGE GAL404 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237943389436 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VIII (250/500) - 12/08/2022 15:09:25 CET [12/08/2022 9:09:25 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (14295 en jetons) 
+Place 3: JORGE GAL404 (5705 en jetons) 
+psychoman59 : met l'ante. 60
+JORGE GAL404 : met l'ante. 60
+psychoman59 : met la petite blind. 250
+JORGE GAL404 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Kh]
+psychoman59 : suit. 250
+JORGE GAL404 : relance. 5145 à 5645 et est all-in.
+psychoman59 : suit. 5145
+*** FLOP *** [7h 8c Jd]
+*** TOURNANT *** [7h 8c Jd] [Th]
+*** RIVIÈRE *** [7h 8c Jd Th] [Ac]
+*** ABATTAGE ***
+JORGE GAL404 : montre [8s 8h] (un brelan de Huit)
+psychoman59 : montre [Ts Kh] (une paire de Dix)
+JORGE GAL404 a remporté 11410  lors du pot .
+*** SYNTHÈSE ***
+Pot total 11410 | Commission 0 
+Tableau [7h 8c Jd Th Ac]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Ts Kh] et a perdu avec une paire de Dix
+Siège 3 : JORGE GAL404 (grosse blind) a montré [8s 8h] et a gagné (11410) avec un brelan de Huit
+
+
+
+Main PokerStars n°237943395298 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VIII (250/500) - 12/08/2022 15:09:51 CET [12/08/2022 9:09:51 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (8590 en jetons) 
+Place 3: JORGE GAL404 (11410 en jetons) 
+psychoman59 : met l'ante. 60
+JORGE GAL404 : met l'ante. 60
+JORGE GAL404 : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Th]
+JORGE GAL404 : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 620  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (620)
+Siège 3 : JORGE GAL404 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237943397955 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VIII (250/500) - 12/08/2022 15:10:02 CET [12/08/2022 9:10:02 ET]
+Table '3455168547 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8900 en jetons) 
+Place 3: JORGE GAL404 (11100 en jetons) 
+psychoman59 : met l'ante. 60
+JORGE GAL404 : met l'ante. 60
+psychoman59 : met la petite blind. 250
+JORGE GAL404 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Jh]
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à JORGE GAL404.
+JORGE GAL404 a remporté 620  lors du pot .
+JORGE GAL404 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : JORGE GAL404 (grosse blind) a remporté (620)
+
+
+
+Main PokerStars n°237943401516 : Tournoi #3455168547, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VIII (250/500) - 12/08/2022 15:10:18 CET [12/08/2022 9:10:18 ET]
+Table '3455168547 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (8590 en jetons) 
+Place 3: JORGE GAL404 (11410 en jetons) 
+psychoman59 : met l'ante. 60
+JORGE GAL404 : met l'ante. 60
+JORGE GAL404 : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ah]
+JORGE GAL404 : relance. 500 à 1000
+psychoman59 : relance. 7530 à 8530 et est all-in.
+JORGE GAL404 : suit. 7530
+*** FLOP *** [3c 9h 3s]
+*** TOURNANT *** [3c 9h 3s] [Ks]
+*** RIVIÈRE *** [3c 9h 3s Ks] [Jc]
+*** ABATTAGE ***
+psychoman59 : montre [9d Ah] (double paire, Neuf et Trois)
+JORGE GAL404 : montre [Qd Kc] (double paire, Rois et Trois)
+JORGE GAL404 a remporté 17180  lors du pot .
+psychoman59 a fini le tournoi à la 2e place et a reçu 0.52 €.
+JORGE GAL404 gagne le tournoi - félicitations !
+JORGE GAL404 gagne les frais d'entrée pour le tournoi #3450746431
+*** SYNTHÈSE ***
+Pot total 17180 | Commission 0 
+Tableau [3c 9h 3s Ks Jc]
+Siège 1 : psychoman59 (grosse blind) a montré [9d Ah] et a perdu avec double paire, Neuf et Trois
+Siège 3 : JORGE GAL404 (bouton) (petite blind) a montré [Qd Kc] et a gagné (17180) avec double paire, Rois et Trois
+
+
+

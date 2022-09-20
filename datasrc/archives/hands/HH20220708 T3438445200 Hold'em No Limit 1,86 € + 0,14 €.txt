@@ -1,0 +1,427 @@
+﻿Main PokerStars n°237230215100 : Tournoi #3438445200, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 11:14:31 CET [08/07/2022 5:14:31 ET]
+Table '3438445200 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: nabila29 (300 en jetons) 
+Place 3: dodey79 (300 en jetons) 
+nabila29 : met la petite blind. 10
+dodey79 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 6c]
+psychoman59 : passe. 
+nabila29 : suit. 10
+dodey79 : parole 
+*** FLOP *** [5c 8h 6s]
+nabila29 : mise. 20
+dodey79 : suit. 20
+*** TOURNANT *** [5c 8h 6s] [3s]
+nabila29 : mise. 20
+dodey79 : suit. 20
+*** RIVIÈRE *** [5c 8h 6s 3s] [5h]
+nabila29 : mise. 60
+dodey79 : passe. 
+Personne n'a suivi. (60) sont retournés à nabila29.
+nabila29 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5c 8h 6s 3s 5h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : nabila29 (petite blind) a remporté (120)
+Siège 3 : dodey79 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237230219524 : Tournoi #3438445200, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 11:15:02 CET [08/07/2022 5:15:02 ET]
+Table '3438445200 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: nabila29 (360 en jetons) 
+Place 3: dodey79 (240 en jetons) 
+dodey79 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 8d]
+nabila29 : suit. 20
+dodey79 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9d Th 5d]
+dodey79 : mise. 60
+psychoman59 : passe. 
+nabila29 : suit. 60
+*** TOURNANT *** [9d Th 5d] [4h]
+dodey79 : mise. 160 et est all-in.
+nabila29 : suit. 160
+*** RIVIÈRE *** [9d Th 5d 4h] [9c]
+*** ABATTAGE ***
+dodey79 : montre [6c Ts] (double paire, Dix et Neuf)
+nabila29 : montre [6h 5h] (double paire, Neuf et Cinq)
+dodey79 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [9d Th 5d 4h 9c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : nabila29 (bouton) a montré [6h 5h] et a perdu avec double paire, Neuf et Cinq
+Siège 3 : dodey79 (petite blind) a montré [6c Ts] et a gagné (500) avec double paire, Dix et Neuf
+
+
+
+Main PokerStars n°237230222746 : Tournoi #3438445200, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 11:15:25 CET [08/07/2022 5:15:25 ET]
+Table '3438445200 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: nabila29 (120 en jetons) 
+Place 3: dodey79 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+nabila29 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Ac]
+dodey79 : passe. 
+psychoman59 : relance. 20 à 40
+nabila29 : suit. 20
+*** FLOP *** [4s Kc Jh]
+psychoman59 : parole 
+nabila29 : parole 
+*** TOURNANT *** [4s Kc Jh] [5c]
+psychoman59 : mise. 20
+nabila29 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4s Kc Jh 5c]
+Siège 1 : psychoman59 (petite blind) a remporté (80)
+Siège 2 : nabila29 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : dodey79 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237230226060 : Tournoi #3438445200, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2022 11:15:48 CET [08/07/2022 5:15:48 ET]
+Table '3438445200 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: nabila29 (80 en jetons) 
+Place 3: dodey79 (500 en jetons) 
+nabila29 : met la petite blind. 15
+dodey79 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Js]
+psychoman59 : passe. 
+nabila29 : relance. 50 à 80 et est all-in.
+dodey79 : suit. 50
+*** FLOP *** [4c 6h 5c]
+*** TOURNANT *** [4c 6h 5c] [2c]
+*** RIVIÈRE *** [4c 6h 5c 2c] [7h]
+*** ABATTAGE ***
+nabila29 : montre [8s 4s] (une suite, Quatre à Huit)
+dodey79 : montre [6c Ah] (une paire de Six)
+nabila29 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [4c 6h 5c 2c 7h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : nabila29 (petite blind) a montré [8s 4s] et a gagné (160) avec une suite, Quatre à Huit
+Siège 3 : dodey79 (grosse blind) a montré [6c Ah] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°237230228112 : Tournoi #3438445200, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2022 11:16:02 CET [08/07/2022 5:16:02 ET]
+Table '3438445200 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: nabila29 (160 en jetons) 
+Place 3: dodey79 (420 en jetons) 
+dodey79 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Kd]
+nabila29 : relance. 130 à 160 et est all-in.
+dodey79 : relance. 130 à 290
+psychoman59 : passe. 
+Personne n'a suivi. (130) sont retournés à dodey79.
+*** FLOP *** [7d As 6d]
+*** TOURNANT *** [7d As 6d] [Kh]
+*** RIVIÈRE *** [7d As 6d Kh] [5c]
+*** ABATTAGE ***
+dodey79 : montre [Jc Jd] (une paire de Valets)
+nabila29 : montre [4h 4d] (une paire de Quatre)
+dodey79 a remporté 350  lors du pot .
+*** SYNTHÈSE ***
+Pot total 350 | Commission 0 
+Tableau [7d As 6d Kh 5c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : nabila29 (bouton) a montré [4h 4d] et a perdu avec une paire de Quatre
+Siège 3 : dodey79 (petite blind) a montré [Jc Jd] et a gagné (350) avec une paire de Valets
+
+
+
+Main PokerStars n°237230231131 : Tournoi #3438445200, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2022 11:16:23 CET [08/07/2022 5:16:23 ET]
+Table '3438445200 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 3: dodey79 (610 en jetons) 
+psychoman59 : met la petite blind. 15
+dodey79 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ah]
+psychoman59 : relance. 260 à 290 et est all-in.
+dodey79 : passe. 
+Personne n'a suivi. (260) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : dodey79 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237230232382 : Tournoi #3438445200, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2022 11:16:32 CET [08/07/2022 5:16:32 ET]
+Table '3438445200 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 3: dodey79 (580 en jetons) 
+dodey79 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 9c]
+dodey79 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qh 6h 3c]
+psychoman59 : parole 
+dodey79 : parole 
+*** TOURNANT *** [Qh 6h 3c] [Ad]
+psychoman59 : parole 
+dodey79 : parole 
+*** RIVIÈRE *** [Qh 6h 3c Ad] [8c]
+psychoman59 : parole 
+dodey79 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à dodey79.
+dodey79 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qh 6h 3c Ad 8c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : dodey79 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237230237441 : Tournoi #3438445200, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 11:17:09 CET [08/07/2022 5:17:09 ET]
+Table '3438445200 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 3: dodey79 (610 en jetons) 
+psychoman59 : met la petite blind. 20
+dodey79 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Qc]
+psychoman59 : relance. 250 à 290 et est all-in.
+dodey79 : suit. 250
+*** FLOP *** [3s Qd 2c]
+*** TOURNANT *** [3s Qd 2c] [2s]
+*** RIVIÈRE *** [3s Qd 2c 2s] [Ac]
+*** ABATTAGE ***
+dodey79 : montre [6h Qh] (double paire, Dames et Deux)
+psychoman59 : montre [8s Qc] (double paire, Dames et Deux)
+dodey79 a remporté 290  lors du pot .
+psychoman59 a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [3s Qd 2c 2s Ac]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [8s Qc] et a gagné (290) avec double paire, Dames et Deux
+Siège 3 : dodey79 (grosse blind) a montré [6h Qh] et a gagné (290) avec double paire, Dames et Deux
+
+
+
+Main PokerStars n°237230240086 : Tournoi #3438445200, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 11:17:27 CET [08/07/2022 5:17:27 ET]
+Table '3438445200 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 3: dodey79 (610 en jetons) 
+dodey79 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Qc]
+dodey79 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [6h 8c Th]
+psychoman59 : mise. 250 et est all-in.
+dodey79 : suit. 250
+*** TOURNANT *** [6h 8c Th] [5d]
+*** RIVIÈRE *** [6h 8c Th 5d] [9d]
+*** ABATTAGE ***
+psychoman59 : montre [8d Qc] (une paire de Huit)
+dodey79 : montre [8s Jh] (une paire de Huit - plus basse kicker)
+psychoman59 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [6h 8c Th 5d 9d]
+Siège 1 : psychoman59 (grosse blind) a montré [8d Qc] et a gagné (580) avec une paire de Huit
+Siège 3 : dodey79 (bouton) (petite blind) a montré [8s Jh] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°237230244373 : Tournoi #3438445200, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/07/2022 11:17:58 CET [08/07/2022 5:17:58 ET]
+Table '3438445200 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 3: dodey79 (320 en jetons) 
+psychoman59 : met la petite blind. 30
+dodey79 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à dodey79.
+dodey79 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : dodey79 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237230245045 : Tournoi #3438445200, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/07/2022 11:18:03 CET [08/07/2022 5:18:03 ET]
+Table '3438445200 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (550 en jetons) 
+Place 3: dodey79 (350 en jetons) 
+dodey79 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 8h]
+dodey79 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : dodey79 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237230245668 : Tournoi #3438445200, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/07/2022 11:18:07 CET [08/07/2022 5:18:07 ET]
+Table '3438445200 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 3: dodey79 (320 en jetons) 
+psychoman59 : met la petite blind. 30
+dodey79 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ks]
+psychoman59 : relance. 120 à 180
+dodey79 : relance. 140 à 320 et est all-in.
+psychoman59 : suit. 140
+*** FLOP *** [Kh 6h Qs]
+*** TOURNANT *** [Kh 6h Qs] [Th]
+*** RIVIÈRE *** [Kh 6h Qs Th] [3c]
+*** ABATTAGE ***
+dodey79 : montre [9d Jd] (une suite, Neuf à Roi)
+psychoman59 : montre [6d Ks] (double paire, Rois et Six)
+dodey79 a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [Kh 6h Qs Th 3c]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [6d Ks] et a perdu avec double paire, Rois et Six
+Siège 3 : dodey79 (grosse blind) a montré [9d Jd] et a gagné (640) avec une suite, Neuf à Roi
+
+
+
+Main PokerStars n°237230247943 : Tournoi #3438445200, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/07/2022 11:18:23 CET [08/07/2022 5:18:23 ET]
+Table '3438445200 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 3: dodey79 (640 en jetons) 
+dodey79 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8d]
+dodey79 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : dodey79 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237230248566 : Tournoi #3438445200, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/07/2022 11:18:28 CET [08/07/2022 5:18:28 ET]
+Table '3438445200 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 3: dodey79 (610 en jetons) 
+psychoman59 : met la petite blind. 30
+dodey79 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ad]
+psychoman59 : relance. 230 à 290 et est all-in.
+dodey79 : suit. 230
+*** FLOP *** [2h 2d Kc]
+*** TOURNANT *** [2h 2d Kc] [Ts]
+*** RIVIÈRE *** [2h 2d Kc Ts] [7s]
+*** ABATTAGE ***
+dodey79 : montre [4c As] (une paire de Deux)
+psychoman59 : montre [9d Ad] (une paire de Deux)
+dodey79 a remporté 290  lors du pot .
+psychoman59 a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [2h 2d Kc Ts 7s]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [9d Ad] et a gagné (290) avec une paire de Deux
+Siège 3 : dodey79 (grosse blind) a montré [4c As] et a gagné (290) avec une paire de Deux
+
+
+
+Main PokerStars n°237230250769 : Tournoi #3438445200, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 08/07/2022 11:18:43 CET [08/07/2022 5:18:43 ET]
+Table '3438445200 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 3: dodey79 (610 en jetons) 
+dodey79 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 5s]
+dodey79 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [Jc 6d Ac]
+psychoman59 : mise. 210 et est all-in.
+dodey79 : passe. 
+Personne n'a suivi. (210) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Jc 6d Ac]
+Siège 1 : psychoman59 (grosse blind) a remporté (160)
+Siège 3 : dodey79 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237230252342 : Tournoi #3438445200, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 08/07/2022 11:18:54 CET [08/07/2022 5:18:54 ET]
+Table '3438445200 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 3: dodey79 (530 en jetons) 
+psychoman59 : met la petite blind. 40
+dodey79 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à dodey79.
+dodey79 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : dodey79 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237230253027 : Tournoi #3438445200, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 08/07/2022 11:18:59 CET [08/07/2022 5:18:59 ET]
+Table '3438445200 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 3: dodey79 (570 en jetons) 
+dodey79 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 6c]
+dodey79 : relance. 80 à 160
+psychoman59 : suit. 80
+*** FLOP *** [Qc 2d 3h]
+psychoman59 : mise. 170 et est all-in.
+dodey79 : suit. 170
+*** TOURNANT *** [Qc 2d 3h] [9s]
+*** RIVIÈRE *** [Qc 2d 3h 9s] [Kc]
+*** ABATTAGE ***
+psychoman59 : montre [5c 6c] (Hauteur Roi)
+dodey79 : montre [4c Kd] (une paire de Rois)
+dodey79 a remporté 660  lors du pot .
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [Qc 2d 3h 9s Kc]
+Siège 1 : psychoman59 (grosse blind) a montré [5c 6c] et a perdu avec Hauteur Roi
+Siège 3 : dodey79 (bouton) (petite blind) a montré [4c Kd] et a gagné (660) avec une paire de Rois
+
+
+

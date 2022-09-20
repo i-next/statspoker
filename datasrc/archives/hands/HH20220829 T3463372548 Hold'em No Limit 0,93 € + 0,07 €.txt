@@ -1,0 +1,366 @@
+﻿Main PokerStars n°238289224419 : Tournoi #3463372548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/08/2022 16:58:24 CET [29/08/2022 10:58:24 ET]
+Table '3463372548 1' 3-max Siège #1 est au bouton.
+Place 1: loukane99 (300 en jetons) 
+Place 2: pignoufer (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+pignoufer : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 5c]
+loukane99 : relance. 280 à 300 et est all-in.
+pignoufer : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (280) sont retournés à loukane99.
+loukane99 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : loukane99 (bouton) a remporté (50)
+Siège 2 : pignoufer (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238289226157 : Tournoi #3463372548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/08/2022 16:58:33 CET [29/08/2022 10:58:33 ET]
+Table '3463372548 1' 3-max Siège #2 est au bouton.
+Place 1: loukane99 (330 en jetons) 
+Place 2: pignoufer (290 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+loukane99 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 9s]
+pignoufer : relance. 20 à 40
+psychoman59 : passe. 
+loukane99 : relance. 290 à 330 et est all-in.
+pignoufer : passe. 
+Personne n'a suivi. (290) sont retournés à loukane99.
+loukane99 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Siège 1 : loukane99 (grosse blind) a remporté (90)
+Siège 2 : pignoufer (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238289229827 : Tournoi #3463372548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/08/2022 16:58:50 CET [29/08/2022 10:58:50 ET]
+Table '3463372548 1' 3-max Siège #3 est au bouton.
+Place 1: loukane99 (380 en jetons) 
+Place 2: pignoufer (250 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+loukane99 : met la petite blind. 10
+pignoufer : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 4s]
+psychoman59 : passe. 
+loukane99 : relance. 360 à 380 et est all-in.
+pignoufer : suit. 230 et est all-in.
+Personne n'a suivi. (130) sont retournés à loukane99.
+*** FLOP *** [6d As 2h]
+*** TOURNANT *** [6d As 2h] [6h]
+*** RIVIÈRE *** [6d As 2h 6h] [Jh]
+*** ABATTAGE ***
+loukane99 : montre [Ah Tc] (double paire, As et Six)
+pignoufer : montre [2d Ad] (double paire, As et Six)
+loukane99 a remporté 250  lors du pot .
+pignoufer a remporté 250  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [6d As 2h 6h Jh]
+Siège 1 : loukane99 (petite blind) a montré [Ah Tc] et a gagné (250) avec double paire, As et Six
+Siège 2 : pignoufer (grosse blind) a montré [2d Ad] et a gagné (250) avec double paire, As et Six
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238289235463 : Tournoi #3463372548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/08/2022 16:59:17 CET [29/08/2022 10:59:17 ET]
+Table '3463372548 1' 3-max Siège #1 est au bouton.
+Place 1: loukane99 (380 en jetons) 
+Place 2: pignoufer (250 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+pignoufer : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Qs]
+loukane99 : relance. 360 à 380 et est all-in.
+pignoufer : passe. 
+psychoman59 : suit. 250 et est all-in.
+Personne n'a suivi. (110) sont retournés à loukane99.
+*** FLOP *** [Jh 8s 2c]
+*** TOURNANT *** [Jh 8s 2c] [4s]
+*** RIVIÈRE *** [Jh 8s 2c 4s] [Kh]
+*** ABATTAGE ***
+psychoman59 : montre [Qd Qs] (une paire de Dames)
+loukane99 : montre [Qh Qc] (une paire de Dames)
+psychoman59 a remporté 275  lors du pot .
+loukane99 a remporté 275  lors du pot .
+*** SYNTHÈSE ***
+Pot total 550 | Commission 0 
+Tableau [Jh 8s 2c 4s Kh]
+Siège 1 : loukane99 (bouton) a montré [Qh Qc] et a gagné (275) avec une paire de Dames
+Siège 2 : pignoufer (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Qd Qs] et a gagné (275) avec une paire de Dames
+
+
+
+Main PokerStars n°238289239568 : Tournoi #3463372548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/08/2022 16:59:36 CET [29/08/2022 10:59:36 ET]
+Table '3463372548 1' 3-max Siège #2 est au bouton.
+Place 1: loukane99 (385 en jetons) 
+Place 2: pignoufer (240 en jetons) 
+Place 3: psychoman59 (275 en jetons) 
+psychoman59 : met la petite blind. 15
+loukane99 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 6s]
+pignoufer : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à loukane99.
+loukane99 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : loukane99 (grosse blind) a remporté (30)
+Siège 2 : pignoufer (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238289241109 : Tournoi #3463372548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/08/2022 16:59:44 CET [29/08/2022 10:59:44 ET]
+Table '3463372548 1' 3-max Siège #3 est au bouton.
+Place 1: loukane99 (400 en jetons) 
+Place 2: pignoufer (240 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+loukane99 : met la petite blind. 15
+pignoufer : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 7c]
+psychoman59 : passe. 
+loukane99 : relance. 370 à 400 et est all-in.
+pignoufer : passe. 
+Personne n'a suivi. (370) sont retournés à loukane99.
+loukane99 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : loukane99 (petite blind) a remporté (60)
+Siège 2 : pignoufer (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238289243377 : Tournoi #3463372548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/08/2022 16:59:54 CET [29/08/2022 10:59:54 ET]
+Table '3463372548 1' 3-max Siège #1 est au bouton.
+Place 1: loukane99 (430 en jetons) 
+Place 2: pignoufer (210 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+pignoufer : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Jd]
+loukane99 : relance. 400 à 430 et est all-in.
+pignoufer : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à loukane99.
+loukane99 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : loukane99 (bouton) a remporté (75)
+Siège 2 : pignoufer (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238289245634 : Tournoi #3463372548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/08/2022 17:00:05 CET [29/08/2022 11:00:05 ET]
+Table '3463372548 1' 3-max Siège #2 est au bouton.
+Place 1: loukane99 (475 en jetons) 
+Place 2: pignoufer (195 en jetons) 
+Place 3: psychoman59 (230 en jetons) 
+psychoman59 : met la petite blind. 15
+loukane99 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 5s]
+pignoufer : relance. 30 à 60
+psychoman59 : passe. 
+loukane99 : suit. 30
+*** FLOP *** [8h Ah 5h]
+loukane99 : parole 
+pignoufer : parole 
+*** TOURNANT *** [8h Ah 5h] [5d]
+loukane99 : mise. 30
+pignoufer : suit. 30
+*** RIVIÈRE *** [8h Ah 5h 5d] [9s]
+loukane99 : parole 
+pignoufer : parole 
+*** ABATTAGE ***
+loukane99 : montre [Jc Tc] (une paire de Cinq)
+pignoufer : montre [2d Kh] (une paire de Cinq - As+Roi kicker)
+pignoufer a remporté 195  lors du pot .
+*** SYNTHÈSE ***
+Pot total 195 | Commission 0 
+Tableau [8h Ah 5h 5d 9s]
+Siège 1 : loukane99 (grosse blind) a montré [Jc Tc] et a perdu avec une paire de Cinq
+Siège 2 : pignoufer (bouton) a montré [2d Kh] et a gagné (195) avec une paire de Cinq
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238289251740 : Tournoi #3463372548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/08/2022 17:00:33 CET [29/08/2022 11:00:33 ET]
+Table '3463372548 1' 3-max Siège #3 est au bouton.
+Place 1: loukane99 (385 en jetons) 
+Place 2: pignoufer (300 en jetons) 
+Place 3: psychoman59 (215 en jetons) 
+loukane99 : met la petite blind. 20
+pignoufer : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 5d]
+psychoman59 : passe. 
+loukane99 : passe. 
+Personne n'a suivi. (20) sont retournés à pignoufer.
+pignoufer a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : loukane99 (petite blind) s'est couché. avant Flop
+Siège 2 : pignoufer (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238289253455 : Tournoi #3463372548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/08/2022 17:00:40 CET [29/08/2022 11:00:40 ET]
+Table '3463372548 1' 3-max Siège #1 est au bouton.
+Place 1: loukane99 (365 en jetons) 
+Place 2: pignoufer (320 en jetons) 
+Place 3: psychoman59 (215 en jetons) 
+pignoufer : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 3s]
+loukane99 : passe. 
+pignoufer : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Jd 5c Kh]
+pignoufer : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à pignoufer.
+pignoufer a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Jd 5c Kh]
+Siège 1 : loukane99 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : pignoufer (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238289257426 : Tournoi #3463372548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/08/2022 17:00:58 CET [29/08/2022 11:00:58 ET]
+Table '3463372548 1' 3-max Siège #2 est au bouton.
+Place 1: loukane99 (365 en jetons) 
+Place 2: pignoufer (360 en jetons) 
+Place 3: psychoman59 (175 en jetons) 
+psychoman59 : met la petite blind. 20
+loukane99 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 5c]
+pignoufer : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à loukane99.
+loukane99 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : loukane99 (grosse blind) a remporté (40)
+Siège 2 : pignoufer (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238289258921 : Tournoi #3463372548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/08/2022 17:01:04 CET [29/08/2022 11:01:04 ET]
+Table '3463372548 1' 3-max Siège #3 est au bouton.
+Place 1: loukane99 (385 en jetons) 
+Place 2: pignoufer (360 en jetons) 
+Place 3: psychoman59 (155 en jetons) 
+loukane99 : met la petite blind. 20
+pignoufer : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 8s]
+psychoman59 : passe. 
+loukane99 : relance. 345 à 385 et est all-in.
+pignoufer : passe. 
+Personne n'a suivi. (345) sont retournés à loukane99.
+loukane99 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : loukane99 (petite blind) a remporté (80)
+Siège 2 : pignoufer (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238289261971 : Tournoi #3463372548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/08/2022 17:01:16 CET [29/08/2022 11:01:16 ET]
+Table '3463372548 1' 3-max Siège #1 est au bouton.
+Place 1: loukane99 (425 en jetons) 
+Place 2: pignoufer (320 en jetons) 
+Place 3: psychoman59 (155 en jetons) 
+pignoufer : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Jc]
+loukane99 : passe. 
+pignoufer : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : loukane99 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : pignoufer (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238289263441 : Tournoi #3463372548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/08/2022 17:01:23 CET [29/08/2022 11:01:23 ET]
+Table '3463372548 1' 3-max Siège #2 est au bouton.
+Place 1: loukane99 (425 en jetons) 
+Place 2: pignoufer (300 en jetons) 
+Place 3: psychoman59 (175 en jetons) 
+psychoman59 : met la petite blind. 20
+loukane99 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 3h]
+pignoufer : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à loukane99.
+loukane99 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : loukane99 (grosse blind) a remporté (40)
+Siège 2 : pignoufer (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238289265933 : Tournoi #3463372548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/08/2022 17:01:33 CET [29/08/2022 11:01:33 ET]
+Table '3463372548 1' 3-max Siège #3 est au bouton.
+Place 1: loukane99 (445 en jetons) 
+Place 2: pignoufer (300 en jetons) 
+Place 3: psychoman59 (155 en jetons) 
+loukane99 : met la petite blind. 30
+pignoufer : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 2d]
+psychoman59 : relance. 95 à 155 et est all-in.
+loukane99 : passe. 
+pignoufer : suit. 95
+*** FLOP *** [8h 4s 5d]
+*** TOURNANT *** [8h 4s 5d] [Ad]
+*** RIVIÈRE *** [8h 4s 5d Ad] [7h]
+*** ABATTAGE ***
+pignoufer : montre [6c 4c] (une suite, Quatre à Huit)
+psychoman59 : montre [Kh 2d] (Hauteur As)
+pignoufer a remporté 340  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [8h 4s 5d Ad 7h]
+Siège 1 : loukane99 (petite blind) s'est couché. avant Flop
+Siège 2 : pignoufer (grosse blind) a montré [6c 4c] et a gagné (340) avec une suite, Quatre à Huit
+Siège 3 : psychoman59 (bouton) a montré [Kh 2d] et a perdu avec Hauteur As
+
+
+

@@ -1,0 +1,97 @@
+﻿Main PokerStars n°237367577610 : Tournoi #3441688449, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/07/2022 8:02:42 CET [15/07/2022 2:02:42 ET]
+Table '3441688449 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: afewt (300 en jetons) 
+Place 3: nonobelge38 (300 en jetons) 
+afewt : met la petite blind. 10
+nonobelge38 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Ah]
+psychoman59 : relance. 50 à 70
+afewt : passe. 
+nonobelge38 : suit. 50
+*** FLOP *** [3c 9s Kd]
+nonobelge38 : mise. 75
+psychoman59 : relance. 75 à 150
+nonobelge38 : relance. 80 à 230 et est all-in.
+psychoman59 : suit. 80 et est all-in.
+*** TOURNANT *** [3c 9s Kd] [Jc]
+*** RIVIÈRE *** [3c 9s Kd Jc] [3d]
+*** ABATTAGE ***
+nonobelge38 : montre [9c Ac] (double paire, Neuf et Trois)
+psychoman59 : montre [Ad Ah] (double paire, As et Trois)
+psychoman59 a remporté 610  lors du pot .
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [3c 9s Kd Jc 3d]
+Siège 1 : psychoman59 (bouton) a montré [Ad Ah] et a gagné (610) avec double paire, As et Trois
+Siège 2 : afewt (petite blind) s'est couché. avant Flop
+Siège 3 : nonobelge38 (grosse blind) a montré [9c Ac] et a perdu avec double paire, Neuf et Trois
+
+
+
+Main PokerStars n°237367590561 : Tournoi #3441688449, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/07/2022 8:03:13 CET [15/07/2022 2:03:13 ET]
+Table '3441688449 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (610 en jetons) 
+Place 2: afewt (290 en jetons) 
+afewt : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Ac]
+afewt : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (20)
+Siège 2 : afewt (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237367591023 : Tournoi #3441688449, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/07/2022 8:03:18 CET [15/07/2022 2:03:18 ET]
+Table '3441688449 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (620 en jetons) 
+Place 2: afewt (280 en jetons) 
+psychoman59 : met la petite blind. 10
+afewt : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à afewt.
+afewt a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : afewt (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237367591784 : Tournoi #3441688449, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/07/2022 8:03:25 CET [15/07/2022 2:03:25 ET]
+Table '3441688449 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (610 en jetons) 
+Place 2: afewt (290 en jetons) 
+afewt : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Ad]
+afewt : suit. 10
+psychoman59 : relance. 40 à 60
+afewt : suit. 40
+*** FLOP *** [Jd Qc 4s]
+psychoman59 : parole 
+afewt : mise. 230 et est all-in.
+psychoman59 : suit. 230
+*** TOURNANT *** [Jd Qc 4s] [Ac]
+*** RIVIÈRE *** [Jd Qc 4s Ac] [Qd]
+*** ABATTAGE ***
+psychoman59 : montre [Kd Ad] (double paire, As et Dames)
+afewt : montre [Ts Tc] (double paire, Dames et Dix)
+psychoman59 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [Jd Qc 4s Ac Qd]
+Siège 1 : psychoman59 (grosse blind) a montré [Kd Ad] et a gagné (580) avec double paire, As et Dames
+Siège 2 : afewt (bouton) (petite blind) a montré [Ts Tc] et a perdu avec double paire, Dames et Dix
+
+
+

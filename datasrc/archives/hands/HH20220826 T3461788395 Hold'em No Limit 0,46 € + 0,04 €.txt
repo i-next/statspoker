@@ -1,0 +1,126 @@
+﻿Main PokerStars n°238222100204 : Tournoi #3461788395, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 26/08/2022 9:31:26 CET [26/08/2022 3:31:26 ET]
+Table '3461788395 1' 4-max Siège #1 est au bouton.
+Place 1: Debo2703 (5000 en jetons) 
+Place 2: Divuge (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: lepiemontais13 (5000 en jetons) 
+Debo2703 : met l'ante. 10
+Divuge : met l'ante. 10
+psychoman59 : met l'ante. 10
+lepiemontais13 : met l'ante. 10
+Divuge : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 3s]
+Debo2703 est déconnecté 
+Debo2703 est déconnecté 
+lepiemontais13 : passe. 
+Debo2703 est connecté 
+Debo2703 est déconnecté 
+Debo2703 est connecté 
+Debo2703 : passe. 
+Divuge : suit. 50
+psychoman59 : parole 
+*** FLOP *** [6d 4d 6h]
+Divuge : mise. 100
+psychoman59 : suit. 100
+*** TOURNANT *** [6d 4d 6h] [8c]
+Divuge : mise. 100
+psychoman59 : suit. 100
+*** RIVIÈRE *** [6d 4d 6h 8c] [Qd]
+Divuge : mise. 640
+psychoman59 : passe. 
+Personne n'a suivi. (640) sont retournés à Divuge.
+Divuge a remporté 640  lors du pot .
+Divuge : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [6d 4d 6h 8c Qd]
+Siège 1 : Debo2703 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Divuge (petite blind) a remporté (640)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 4 : lepiemontais13 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238222108058 : Tournoi #3461788395, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 26/08/2022 9:32:26 CET [26/08/2022 3:32:26 ET]
+Table '3461788395 1' 4-max Siège #2 est au bouton.
+Place 1: Debo2703 (4990 en jetons) 
+Place 2: Divuge (5330 en jetons) 
+Place 3: psychoman59 (4690 en jetons) 
+Place 4: lepiemontais13 (4990 en jetons) 
+Debo2703 : met l'ante. 10
+Divuge : met l'ante. 10
+psychoman59 : met l'ante. 10
+lepiemontais13 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+lepiemontais13 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 7s]
+Debo2703 : passe. 
+Divuge : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à lepiemontais13.
+lepiemontais13 a remporté 140  lors du pot .
+lepiemontais13 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Siège 1 : Debo2703 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Divuge (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : lepiemontais13 (grosse blind) a remporté (140)
+
+
+
+Main PokerStars n°238222110613 : Tournoi #3461788395, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 26/08/2022 9:32:45 CET [26/08/2022 3:32:45 ET]
+Table '3461788395 1' 4-max Siège #3 est au bouton.
+Place 1: Debo2703 (4980 en jetons) 
+Place 2: Divuge (5320 en jetons) 
+Place 3: psychoman59 (4630 en jetons) 
+Place 4: lepiemontais13 (5070 en jetons) 
+Debo2703 : met l'ante. 10
+Divuge : met l'ante. 10
+psychoman59 : met l'ante. 10
+lepiemontais13 : met l'ante. 10
+lepiemontais13 : met la petite blind. 50
+Debo2703 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 3c]
+Divuge : suit. 100
+psychoman59 : suit. 100
+lepiemontais13 : suit. 50
+Debo2703 : parole 
+*** FLOP *** [8s 3s 4d]
+lepiemontais13 : parole 
+Debo2703 : parole 
+Divuge : parole 
+psychoman59 : mise. 100
+lepiemontais13 : suit. 100
+Debo2703 : suit. 100
+Divuge : suit. 100
+*** TOURNANT *** [8s 3s 4d] [2h]
+lepiemontais13 : parole 
+Debo2703 : parole 
+Divuge : parole 
+psychoman59 : mise. 420
+lepiemontais13 : passe. 
+Debo2703 : passe. 
+Divuge : relance. 4690 à 5110 et est all-in.
+psychoman59 : suit. 4000 et est all-in.
+Personne n'a suivi. (690) sont retournés à Divuge.
+*** RIVIÈRE *** [8s 3s 4d 2h] [Tc]
+*** ABATTAGE ***
+Divuge : montre [5h As] (une suite, As à Cinq)
+psychoman59 : montre [2c 3c] (double paire, Trois et Deux)
+Divuge a remporté 9680  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 9680 | Commission 0 
+Tableau [8s 3s 4d 2h Tc]
+Siège 1 : Debo2703 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : Divuge a montré [5h As] et a gagné (9680) avec une suite, As à Cinq
+Siège 3 : psychoman59 (bouton) a montré [2c 3c] et a perdu avec double paire, Trois et Deux
+Siège 4 : lepiemontais13 (petite blind) s'est couché. sur le Tournant
+
+
+

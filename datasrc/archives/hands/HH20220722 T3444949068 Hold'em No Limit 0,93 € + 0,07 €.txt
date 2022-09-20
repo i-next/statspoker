@@ -1,0 +1,662 @@
+﻿Main PokerStars n°237508908308 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 10:18:41 CET [22/07/2022 4:18:41 ET]
+Table '3444949068 1' 3-max Siège #1 est au bouton.
+Place 1: xNoLimitfrx (300 en jetons) 
+Place 2: fabio01111 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+fabio01111 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Ah]
+xNoLimitfrx : passe. 
+fabio01111 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jd Th 2d]
+fabio01111 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jd Th 2d] [3c]
+fabio01111 : parole 
+psychoman59 : mise. 40
+fabio01111 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Jd Th 2d 3c]
+Siège 1 : xNoLimitfrx (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : fabio01111 (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237508911481 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 10:19:07 CET [22/07/2022 4:19:07 ET]
+Table '3444949068 1' 3-max Siège #2 est au bouton.
+Place 1: xNoLimitfrx (300 en jetons) 
+Place 2: fabio01111 (280 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 10
+xNoLimitfrx : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Qs]
+fabio01111 : relance. 40 à 60
+psychoman59 : passe. 
+xNoLimitfrx : suit. 40
+*** FLOP *** [Qd 7c Ac]
+xNoLimitfrx : parole 
+fabio01111 : mise. 100
+xNoLimitfrx : passe. 
+Personne n'a suivi. (100) sont retournés à fabio01111.
+fabio01111 a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [Qd 7c Ac]
+Siège 1 : xNoLimitfrx (grosse blind) s'est couché. sur le Flop
+Siège 2 : fabio01111 (bouton) a remporté (130)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237508914489 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 10:19:31 CET [22/07/2022 4:19:31 ET]
+Table '3444949068 1' 3-max Siège #3 est au bouton.
+Place 1: xNoLimitfrx (240 en jetons) 
+Place 2: fabio01111 (350 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+xNoLimitfrx : met la petite blind. 10
+fabio01111 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 2s]
+psychoman59 : passe. 
+xNoLimitfrx : relance. 20 à 40
+fabio01111 : suit. 20
+*** FLOP *** [3c Js 5d]
+xNoLimitfrx : parole 
+fabio01111 : mise. 40
+xNoLimitfrx : suit. 40
+*** TOURNANT *** [3c Js 5d] [4h]
+xNoLimitfrx : parole 
+fabio01111 : mise. 60
+xNoLimitfrx : suit. 60
+*** RIVIÈRE *** [3c Js 5d 4h] [4d]
+xNoLimitfrx : mise. 100 et est all-in.
+fabio01111 : suit. 100
+*** ABATTAGE ***
+xNoLimitfrx : montre [4c Qc] (un brelan de Quatre)
+fabio01111 : montre [6s 5h] (double paire, Cinq et Quatre)
+xNoLimitfrx a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [3c Js 5d 4h 4d]
+Siège 1 : xNoLimitfrx (petite blind) a montré [4c Qc] et a gagné (480) avec un brelan de Quatre
+Siège 2 : fabio01111 (grosse blind) a montré [6s 5h] et a perdu avec double paire, Cinq et Quatre
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237508919990 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/07/2022 10:20:15 CET [22/07/2022 4:20:15 ET]
+Table '3444949068 1' 3-max Siège #1 est au bouton.
+Place 1: xNoLimitfrx (480 en jetons) 
+Place 2: fabio01111 (110 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+fabio01111 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ts]
+xNoLimitfrx : passe. 
+fabio01111 : relance. 80 à 110 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à fabio01111.
+fabio01111 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : xNoLimitfrx (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : fabio01111 (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237508921658 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/07/2022 10:20:28 CET [22/07/2022 4:20:28 ET]
+Table '3444949068 1' 3-max Siège #2 est au bouton.
+Place 1: xNoLimitfrx (480 en jetons) 
+Place 2: fabio01111 (140 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 15
+xNoLimitfrx : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Jc]
+fabio01111 : relance. 110 à 140 et est all-in.
+psychoman59 : passe. 
+xNoLimitfrx : suit. 110
+*** FLOP *** [Kc 6s 3d]
+*** TOURNANT *** [Kc 6s 3d] [5s]
+*** RIVIÈRE *** [Kc 6s 3d 5s] [7d]
+*** ABATTAGE ***
+xNoLimitfrx : montre [Ac Kd] (une paire de Rois)
+fabio01111 : montre [Qs 9h] (Hauteur Roi)
+xNoLimitfrx a remporté 295  lors du pot .
+*** SYNTHÈSE ***
+Pot total 295 | Commission 0 
+Tableau [Kc 6s 3d 5s 7d]
+Siège 1 : xNoLimitfrx (grosse blind) a montré [Ac Kd] et a gagné (295) avec une paire de Rois
+Siège 2 : fabio01111 (bouton) a montré [Qs 9h] et a perdu avec Hauteur Roi
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237508924594 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/07/2022 10:20:51 CET [22/07/2022 4:20:51 ET]
+Table '3444949068 1' 3-max Siège #1 est au bouton.
+Place 1: xNoLimitfrx (635 en jetons) 
+Place 3: psychoman59 (265 en jetons) 
+xNoLimitfrx : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 9h]
+xNoLimitfrx : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : xNoLimitfrx (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237508925550 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/07/2022 10:20:59 CET [22/07/2022 4:20:59 ET]
+Table '3444949068 1' 3-max Siège #3 est au bouton.
+Place 1: xNoLimitfrx (615 en jetons) 
+Place 3: psychoman59 (285 en jetons) 
+psychoman59 : met la petite blind. 20
+xNoLimitfrx : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à xNoLimitfrx.
+xNoLimitfrx a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : xNoLimitfrx (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237508926749 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/07/2022 10:21:08 CET [22/07/2022 4:21:08 ET]
+Table '3444949068 1' 3-max Siège #1 est au bouton.
+Place 1: xNoLimitfrx (635 en jetons) 
+Place 3: psychoman59 (265 en jetons) 
+xNoLimitfrx : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 5d]
+xNoLimitfrx : suit. 20
+psychoman59 : parole 
+*** FLOP *** [5c 2c 4s]
+psychoman59 : mise. 225 et est all-in.
+xNoLimitfrx : suit. 225
+*** TOURNANT *** [5c 2c 4s] [9h]
+*** RIVIÈRE *** [5c 2c 4s 9h] [Qh]
+*** ABATTAGE ***
+psychoman59 : montre [Js 5d] (une paire de Cinq)
+xNoLimitfrx : montre [8c 4c] (une paire de Quatre)
+psychoman59 a remporté 530  lors du pot .
+*** SYNTHÈSE ***
+Pot total 530 | Commission 0 
+Tableau [5c 2c 4s 9h Qh]
+Siège 1 : xNoLimitfrx (bouton) (petite blind) a montré [8c 4c] et a perdu avec une paire de Quatre
+Siège 3 : psychoman59 (grosse blind) a montré [Js 5d] et a gagné (530) avec une paire de Cinq
+
+
+
+Main PokerStars n°237508929703 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/07/2022 10:21:31 CET [22/07/2022 4:21:31 ET]
+Table '3444949068 1' 3-max Siège #3 est au bouton.
+Place 1: xNoLimitfrx (370 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+psychoman59 : met la petite blind. 20
+xNoLimitfrx : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 5d]
+psychoman59 : relance. 490 à 530 et est all-in.
+xNoLimitfrx : passe. 
+Personne n'a suivi. (490) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : xNoLimitfrx (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237508930906 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/07/2022 10:21:41 CET [22/07/2022 4:21:41 ET]
+Table '3444949068 1' 3-max Siège #1 est au bouton.
+Place 1: xNoLimitfrx (330 en jetons) 
+Place 3: psychoman59 (570 en jetons) 
+xNoLimitfrx : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 8h]
+xNoLimitfrx : relance. 290 à 330 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (290) sont retournés à xNoLimitfrx.
+xNoLimitfrx a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : xNoLimitfrx (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237508932872 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/07/2022 10:21:56 CET [22/07/2022 4:21:56 ET]
+Table '3444949068 1' 3-max Siège #3 est au bouton.
+Place 1: xNoLimitfrx (370 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+psychoman59 : met la petite blind. 30
+xNoLimitfrx : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à xNoLimitfrx.
+xNoLimitfrx a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : xNoLimitfrx (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237508933735 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/07/2022 10:22:03 CET [22/07/2022 4:22:03 ET]
+Table '3444949068 1' 3-max Siège #1 est au bouton.
+Place 1: xNoLimitfrx (400 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+xNoLimitfrx : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Qc]
+xNoLimitfrx : suit. 30
+psychoman59 : relance. 440 à 500 et est all-in.
+xNoLimitfrx : passe. 
+Personne n'a suivi. (440) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : xNoLimitfrx (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°237508935410 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/07/2022 10:22:16 CET [22/07/2022 4:22:16 ET]
+Table '3444949068 1' 3-max Siège #3 est au bouton.
+Place 1: xNoLimitfrx (340 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+psychoman59 : met la petite blind. 30
+xNoLimitfrx : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Tc]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à xNoLimitfrx.
+xNoLimitfrx a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : xNoLimitfrx (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237508936008 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/07/2022 10:22:21 CET [22/07/2022 4:22:21 ET]
+Table '3444949068 1' 3-max Siège #1 est au bouton.
+Place 1: xNoLimitfrx (370 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+xNoLimitfrx : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 4h]
+xNoLimitfrx : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : xNoLimitfrx (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237508936783 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/07/2022 10:22:27 CET [22/07/2022 4:22:27 ET]
+Table '3444949068 1' 3-max Siège #3 est au bouton.
+Place 1: xNoLimitfrx (340 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+psychoman59 : met la petite blind. 30
+xNoLimitfrx : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à xNoLimitfrx.
+xNoLimitfrx a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : xNoLimitfrx (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237508937759 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/07/2022 10:22:34 CET [22/07/2022 4:22:34 ET]
+Table '3444949068 1' 3-max Siège #1 est au bouton.
+Place 1: xNoLimitfrx (370 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+xNoLimitfrx : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s As]
+xNoLimitfrx : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : xNoLimitfrx (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237508938498 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/07/2022 10:22:40 CET [22/07/2022 4:22:40 ET]
+Table '3444949068 1' 3-max Siège #3 est au bouton.
+Place 1: xNoLimitfrx (340 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+psychoman59 : met la petite blind. 30
+xNoLimitfrx : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à xNoLimitfrx.
+xNoLimitfrx a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : xNoLimitfrx (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237508939531 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 22/07/2022 10:22:48 CET [22/07/2022 4:22:48 ET]
+Table '3444949068 1' 3-max Siège #1 est au bouton.
+Place 1: xNoLimitfrx (370 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+xNoLimitfrx : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Qs]
+xNoLimitfrx : relance. 290 à 370 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (290) sont retournés à xNoLimitfrx.
+xNoLimitfrx a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : xNoLimitfrx (bouton) (petite blind) a remporté (160)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237508940577 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 22/07/2022 10:22:56 CET [22/07/2022 4:22:56 ET]
+Table '3444949068 1' 3-max Siège #3 est au bouton.
+Place 1: xNoLimitfrx (450 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+psychoman59 : met la petite blind. 40
+xNoLimitfrx : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 9h]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à xNoLimitfrx.
+xNoLimitfrx a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : xNoLimitfrx (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237508941310 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 22/07/2022 10:23:01 CET [22/07/2022 4:23:01 ET]
+Table '3444949068 1' 3-max Siège #1 est au bouton.
+Place 1: xNoLimitfrx (490 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+xNoLimitfrx : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Jc]
+xNoLimitfrx : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : xNoLimitfrx (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237508942041 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 22/07/2022 10:23:07 CET [22/07/2022 4:23:07 ET]
+Table '3444949068 1' 3-max Siège #3 est au bouton.
+Place 1: xNoLimitfrx (450 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+psychoman59 : met la petite blind. 40
+xNoLimitfrx : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Qd]
+psychoman59 : relance. 370 à 450 et est all-in.
+xNoLimitfrx : passe. 
+Personne n'a suivi. (370) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : xNoLimitfrx (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°237508943136 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 22/07/2022 10:23:16 CET [22/07/2022 4:23:16 ET]
+Table '3444949068 1' 3-max Siège #1 est au bouton.
+Place 1: xNoLimitfrx (370 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+xNoLimitfrx : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 8h]
+xNoLimitfrx : relance. 290 à 370 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (290) sont retournés à xNoLimitfrx.
+xNoLimitfrx a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : xNoLimitfrx (bouton) (petite blind) a remporté (160)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237508944372 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 22/07/2022 10:23:25 CET [22/07/2022 4:23:25 ET]
+Table '3444949068 1' 3-max Siège #3 est au bouton.
+Place 1: xNoLimitfrx (450 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+psychoman59 : met la petite blind. 40
+xNoLimitfrx : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à xNoLimitfrx.
+xNoLimitfrx a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : xNoLimitfrx (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237508944892 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 22/07/2022 10:23:29 CET [22/07/2022 4:23:29 ET]
+Table '3444949068 1' 3-max Siège #1 est au bouton.
+Place 1: xNoLimitfrx (490 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+xNoLimitfrx : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 6s]
+xNoLimitfrx : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : xNoLimitfrx (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237508945619 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 22/07/2022 10:23:35 CET [22/07/2022 4:23:35 ET]
+Table '3444949068 1' 3-max Siège #3 est au bouton.
+Place 1: xNoLimitfrx (450 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+psychoman59 : met la petite blind. 40
+xNoLimitfrx : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Tc]
+psychoman59 : relance. 370 à 450 et est all-in.
+xNoLimitfrx : passe. 
+Personne n'a suivi. (370) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : xNoLimitfrx (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°237508947239 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 22/07/2022 10:23:47 CET [22/07/2022 4:23:47 ET]
+Table '3444949068 1' 3-max Siège #1 est au bouton.
+Place 1: xNoLimitfrx (370 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+xNoLimitfrx : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 3d]
+xNoLimitfrx : relance. 270 à 370 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (270) sont retournés à xNoLimitfrx.
+xNoLimitfrx a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : xNoLimitfrx (bouton) (petite blind) a remporté (200)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237508948330 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 22/07/2022 10:23:56 CET [22/07/2022 4:23:56 ET]
+Table '3444949068 1' 3-max Siège #3 est au bouton.
+Place 1: xNoLimitfrx (470 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 50
+xNoLimitfrx : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à xNoLimitfrx.
+xNoLimitfrx a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : xNoLimitfrx (grosse blind) a remporté (100)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237508948949 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 22/07/2022 10:24:01 CET [22/07/2022 4:24:01 ET]
+Table '3444949068 1' 3-max Siège #1 est au bouton.
+Place 1: xNoLimitfrx (520 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+xNoLimitfrx : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 7d]
+xNoLimitfrx : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : xNoLimitfrx (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°237508949696 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 22/07/2022 10:24:06 CET [22/07/2022 4:24:06 ET]
+Table '3444949068 1' 3-max Siège #3 est au bouton.
+Place 1: xNoLimitfrx (470 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 50
+xNoLimitfrx : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à xNoLimitfrx.
+xNoLimitfrx a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : xNoLimitfrx (grosse blind) a remporté (100)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237508950342 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 22/07/2022 10:24:11 CET [22/07/2022 4:24:11 ET]
+Table '3444949068 1' 3-max Siège #1 est au bouton.
+Place 1: xNoLimitfrx (520 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+xNoLimitfrx : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Kc]
+xNoLimitfrx : relance. 420 à 520 et est all-in.
+psychoman59 : suit. 280 et est all-in.
+Personne n'a suivi. (140) sont retournés à xNoLimitfrx.
+*** FLOP *** [Ah Js 5h]
+*** TOURNANT *** [Ah Js 5h] [Jh]
+*** RIVIÈRE *** [Ah Js 5h Jh] [7h]
+*** ABATTAGE ***
+psychoman59 : montre [As Kc] (double paire, As et Valets)
+xNoLimitfrx : montre [3d 3s] (double paire, Valets et Trois)
+psychoman59 a remporté 760  lors du pot .
+*** SYNTHÈSE ***
+Pot total 760 | Commission 0 
+Tableau [Ah Js 5h Jh 7h]
+Siège 1 : xNoLimitfrx (bouton) (petite blind) a montré [3d 3s] et a perdu avec double paire, Valets et Trois
+Siège 3 : psychoman59 (grosse blind) a montré [As Kc] et a gagné (760) avec double paire, As et Valets
+
+
+
+Main PokerStars n°237508952286 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 22/07/2022 10:24:26 CET [22/07/2022 4:24:26 ET]
+Table '3444949068 1' 3-max Siège #3 est au bouton.
+Place 1: xNoLimitfrx (140 en jetons) 
+Place 3: psychoman59 (760 en jetons) 
+psychoman59 : met la petite blind. 50
+xNoLimitfrx : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à xNoLimitfrx.
+xNoLimitfrx a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : xNoLimitfrx (grosse blind) a remporté (100)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237508953431 : Tournoi #3444949068, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 22/07/2022 10:24:35 CET [22/07/2022 4:24:35 ET]
+Table '3444949068 1' 3-max Siège #1 est au bouton.
+Place 1: xNoLimitfrx (190 en jetons) 
+Place 3: psychoman59 (710 en jetons) 
+xNoLimitfrx : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 8s]
+xNoLimitfrx : relance. 90 à 190 et est all-in.
+psychoman59 : suit. 90
+*** FLOP *** [8d Td Jh]
+*** TOURNANT *** [8d Td Jh] [Ts]
+*** RIVIÈRE *** [8d Td Jh Ts] [7s]
+*** ABATTAGE ***
+psychoman59 : montre [9c 8s] (une suite, Sept à Valet)
+xNoLimitfrx : montre [6s 6h] (double paire, Dix et Six)
+psychoman59 a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [8d Td Jh Ts 7s]
+Siège 1 : xNoLimitfrx (bouton) (petite blind) a montré [6s 6h] et a perdu avec double paire, Dix et Six
+Siège 3 : psychoman59 (grosse blind) a montré [9c 8s] et a gagné (380) avec une suite, Sept à Valet
+
+
+

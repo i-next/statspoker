@@ -1,0 +1,517 @@
+﻿Main PokerStars n°237332057929 : Tournoi #3440842269, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2022 14:14:10 CET [13/07/2022 8:14:10 ET]
+Table '3440842269 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: The'golas (300 en jetons) 
+Place 3: Augustin57 (300 en jetons) 
+The'golas : met la petite blind. 10
+Augustin57 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 5d]
+psychoman59 : passe. 
+The'golas : suit. 10
+Augustin57 : parole 
+*** FLOP *** [7h 7d 9d]
+The'golas : parole 
+Augustin57 : parole 
+*** TOURNANT *** [7h 7d 9d] [5c]
+The'golas : mise. 20
+Augustin57 : passe. 
+Personne n'a suivi. (20) sont retournés à The'golas.
+The'golas a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7h 7d 9d 5c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : The'golas (petite blind) a remporté (40)
+Siège 3 : Augustin57 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237332061659 : Tournoi #3440842269, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2022 14:14:29 CET [13/07/2022 8:14:29 ET]
+Table '3440842269 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: The'golas (320 en jetons) 
+Place 3: Augustin57 (280 en jetons) 
+Augustin57 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 4c]
+The'golas : suit. 20
+Augustin57 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3h 8s 3c]
+Augustin57 : parole 
+psychoman59 : parole 
+The'golas : parole 
+*** TOURNANT *** [3h 8s 3c] [4d]
+Augustin57 : parole 
+psychoman59 : mise. 60
+The'golas : suit. 60
+Augustin57 : passe. 
+*** RIVIÈRE *** [3h 8s 3c 4d] [2c]
+psychoman59 : mise. 90
+The'golas : suit. 90
+*** ABATTAGE ***
+psychoman59 : montre [6c 4c] (double paire, Quatre et Trois)
+The'golas : montre [4s Ad] (double paire, Quatre et Trois - As kicker)
+The'golas a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [3h 8s 3c 4d 2c]
+Siège 1 : psychoman59 (grosse blind) a montré [6c 4c] et a perdu avec double paire, Quatre et Trois
+Siège 2 : The'golas (bouton) a montré [4s Ad] et a gagné (360) avec double paire, Quatre et Trois
+Siège 3 : Augustin57 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237332069553 : Tournoi #3440842269, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2022 14:15:10 CET [13/07/2022 8:15:10 ET]
+Table '3440842269 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (130 en jetons) 
+Place 2: The'golas (510 en jetons) 
+Place 3: Augustin57 (260 en jetons) 
+psychoman59 : met la petite blind. 10
+The'golas : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 9c]
+Augustin57 : suit. 20
+psychoman59 : suit. 10
+The'golas : parole 
+*** FLOP *** [7d 9h Qh]
+psychoman59 : mise. 110 et est all-in.
+The'golas : passe. 
+Augustin57 : suit. 110
+*** TOURNANT *** [7d 9h Qh] [8s]
+*** RIVIÈRE *** [7d 9h Qh 8s] [3h]
+*** ABATTAGE ***
+psychoman59 : montre [8c 9c] (double paire, Neuf et Huit)
+Augustin57 : montre [Jh Qd] (une paire de Dames)
+psychoman59 a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [7d 9h Qh 8s 3h]
+Siège 1 : psychoman59 (petite blind) a montré [8c 9c] et a gagné (280) avec double paire, Neuf et Huit
+Siège 2 : The'golas (grosse blind) s'est couché. sur le Flop
+Siège 3 : Augustin57 (bouton) a montré [Jh Qd] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°237332075471 : Tournoi #3440842269, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2022 14:15:41 CET [13/07/2022 8:15:41 ET]
+Table '3440842269 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: The'golas (490 en jetons) 
+Place 3: Augustin57 (130 en jetons) 
+The'golas : met la petite blind. 15
+Augustin57 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 9s]
+psychoman59 : passe. 
+The'golas : suit. 15
+Augustin57 : parole 
+*** FLOP *** [8d 3s Qs]
+The'golas : parole 
+Augustin57 : mise. 100 et est all-in.
+The'golas : passe. 
+Personne n'a suivi. (100) sont retournés à Augustin57.
+Augustin57 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8d 3s Qs]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : The'golas (petite blind) s'est couché. sur le Flop
+Siège 3 : Augustin57 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237332078242 : Tournoi #3440842269, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2022 14:15:55 CET [13/07/2022 8:15:55 ET]
+Table '3440842269 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: The'golas (460 en jetons) 
+Place 3: Augustin57 (160 en jetons) 
+Augustin57 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 4c]
+The'golas : passe. 
+Augustin57 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [3s 5c Tc]
+Augustin57 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3s 5c Tc] [Qd]
+Augustin57 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3s 5c Tc Qd] [2h]
+Augustin57 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Augustin57 : montre [5h 8s] (une paire de Cinq)
+psychoman59 : cache la main perdante. 
+Augustin57 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3s 5c Tc Qd 2h]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [Ks 4c]
+Siège 2 : The'golas (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Augustin57 (petite blind) a montré [5h 8s] et a gagné (60) avec une paire de Cinq
+
+
+
+Main PokerStars n°237332083409 : Tournoi #3440842269, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2022 14:16:22 CET [13/07/2022 8:16:22 ET]
+Table '3440842269 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 2: The'golas (460 en jetons) 
+Place 3: Augustin57 (190 en jetons) 
+psychoman59 : met la petite blind. 20
+The'golas : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 5d]
+Augustin57 : relance. 150 à 190 et est all-in.
+psychoman59 : passe. 
+The'golas : suit. 150
+*** FLOP *** [3c Jc Kc]
+*** TOURNANT *** [3c Jc Kc] [3d]
+*** RIVIÈRE *** [3c Jc Kc 3d] [9s]
+*** ABATTAGE ***
+The'golas : montre [6s Ks] (double paire, Rois et Trois)
+Augustin57 : montre [As 4c] (une paire de Trois)
+The'golas a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [3c Jc Kc 3d 9s]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : The'golas (grosse blind) a montré [6s Ks] et a gagné (400) avec double paire, Rois et Trois
+Siège 3 : Augustin57 (bouton) a montré [As 4c] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°237332087257 : Tournoi #3440842269, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2022 14:16:42 CET [13/07/2022 8:16:42 ET]
+Table '3440842269 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (230 en jetons) 
+Place 2: The'golas (670 en jetons) 
+The'golas : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 9d]
+The'golas : relance. 630 à 670 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (630) sont retournés à The'golas.
+The'golas a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : The'golas (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237332088630 : Tournoi #3440842269, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2022 14:16:49 CET [13/07/2022 8:16:49 ET]
+Table '3440842269 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (190 en jetons) 
+Place 2: The'golas (710 en jetons) 
+psychoman59 : met la petite blind. 20
+The'golas : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à The'golas.
+The'golas a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : The'golas (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237332089445 : Tournoi #3440842269, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2022 14:16:53 CET [13/07/2022 8:16:53 ET]
+Table '3440842269 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (170 en jetons) 
+Place 2: The'golas (730 en jetons) 
+The'golas : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 9s]
+The'golas : suit. 20
+psychoman59 : parole 
+*** FLOP *** [6h 5s Ad]
+psychoman59 : mise. 130 et est all-in.
+The'golas : passe. 
+Personne n'a suivi. (130) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6h 5s Ad]
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : The'golas (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237332092006 : Tournoi #3440842269, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2022 14:17:06 CET [13/07/2022 8:17:06 ET]
+Table '3440842269 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (210 en jetons) 
+Place 2: The'golas (690 en jetons) 
+psychoman59 : met la petite blind. 20
+The'golas : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Qc]
+psychoman59 : relance. 170 à 210 et est all-in.
+The'golas : passe. 
+Personne n'a suivi. (170) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : The'golas (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237332094080 : Tournoi #3440842269, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/07/2022 14:17:17 CET [13/07/2022 8:17:17 ET]
+Table '3440842269 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 2: The'golas (650 en jetons) 
+The'golas : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 7d]
+The'golas : relance. 60 à 120
+psychoman59 : suit. 60
+*** FLOP *** [Ac 4c 3d]
+psychoman59 : parole 
+The'golas : mise. 180
+psychoman59 : passe. 
+Personne n'a suivi. (180) sont retournés à The'golas.
+The'golas a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Ac 4c 3d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : The'golas (bouton) (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°237332098080 : Tournoi #3440842269, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/07/2022 14:17:38 CET [13/07/2022 8:17:38 ET]
+Table '3440842269 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (130 en jetons) 
+Place 2: The'golas (770 en jetons) 
+psychoman59 : met la petite blind. 30
+The'golas : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à The'golas.
+The'golas a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : The'golas (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237332098875 : Tournoi #3440842269, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/07/2022 14:17:42 CET [13/07/2022 8:17:42 ET]
+Table '3440842269 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (100 en jetons) 
+Place 2: The'golas (800 en jetons) 
+The'golas : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Tc]
+The'golas : suit. 30
+psychoman59 : parole 
+*** FLOP *** [9h 3d Th]
+psychoman59 : mise. 40 et est all-in.
+The'golas : suit. 40
+*** TOURNANT *** [9h 3d Th] [8h]
+*** RIVIÈRE *** [9h 3d Th 8h] [Jc]
+*** ABATTAGE ***
+psychoman59 : montre [7d Tc] (une suite, Sept à Valet)
+The'golas : montre [2d Ts] (une paire de Dix)
+psychoman59 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [9h 3d Th 8h Jc]
+Siège 1 : psychoman59 (grosse blind) a montré [7d Tc] et a gagné (200) avec une suite, Sept à Valet
+Siège 2 : The'golas (bouton) (petite blind) a montré [2d Ts] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°237332101974 : Tournoi #3440842269, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/07/2022 14:17:58 CET [13/07/2022 8:17:58 ET]
+Table '3440842269 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (200 en jetons) 
+Place 2: The'golas (700 en jetons) 
+psychoman59 : met la petite blind. 30
+The'golas : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9d]
+psychoman59 : relance. 140 à 200 et est all-in.
+The'golas : passe. 
+Personne n'a suivi. (140) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 2 : The'golas (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237332103639 : Tournoi #3440842269, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/07/2022 14:18:06 CET [13/07/2022 8:18:06 ET]
+Table '3440842269 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: The'golas (640 en jetons) 
+The'golas : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 2c]
+The'golas : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Qs 9c 3h]
+psychoman59 : mise. 200 et est all-in.
+The'golas : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qs 9c 3h]
+Siège 1 : psychoman59 (grosse blind) a remporté (120)
+Siège 2 : The'golas (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237332106284 : Tournoi #3440842269, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 13/07/2022 14:18:20 CET [13/07/2022 8:18:20 ET]
+Table '3440842269 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: The'golas (580 en jetons) 
+psychoman59 : met la petite blind. 40
+The'golas : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à The'golas.
+The'golas a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : The'golas (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237332107238 : Tournoi #3440842269, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 13/07/2022 14:18:25 CET [13/07/2022 8:18:25 ET]
+Table '3440842269 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: The'golas (620 en jetons) 
+The'golas : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 4h]
+The'golas : suit. 40
+psychoman59 : parole 
+*** FLOP *** [Th Js 5s]
+psychoman59 : parole 
+The'golas : parole 
+*** TOURNANT *** [Th Js 5s] [Ad]
+psychoman59 : parole 
+The'golas : parole 
+*** RIVIÈRE *** [Th Js 5s Ad] [3c]
+psychoman59 : parole 
+The'golas : mise. 160
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à The'golas.
+The'golas a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Th Js 5s Ad 3c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : The'golas (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°237332111453 : Tournoi #3440842269, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 13/07/2022 14:18:46 CET [13/07/2022 8:18:46 ET]
+Table '3440842269 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (200 en jetons) 
+Place 2: The'golas (700 en jetons) 
+psychoman59 : met la petite blind. 40
+The'golas : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Jh]
+psychoman59 : relance. 120 à 200 et est all-in.
+The'golas : suit. 120
+*** FLOP *** [2s 6h Js]
+*** TOURNANT *** [2s 6h Js] [Qd]
+*** RIVIÈRE *** [2s 6h Js Qd] [5d]
+*** ABATTAGE ***
+The'golas : montre [8c As] (Hauteur As)
+psychoman59 : montre [7h Jh] (une paire de Valets)
+psychoman59 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [2s 6h Js Qd 5d]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [7h Jh] et a gagné (400) avec une paire de Valets
+Siège 2 : The'golas (grosse blind) a montré [8c As] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237332114701 : Tournoi #3440842269, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 13/07/2022 14:19:03 CET [13/07/2022 8:19:03 ET]
+Table '3440842269 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: The'golas (500 en jetons) 
+The'golas : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 7c]
+The'golas : suit. 40
+psychoman59 : relance. 320 à 400 et est all-in.
+The'golas : passe. 
+Personne n'a suivi. (320) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (160)
+Siège 2 : The'golas (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237332117366 : Tournoi #3440842269, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VI (50/100) - 13/07/2022 14:19:17 CET [13/07/2022 8:19:17 ET]
+Table '3440842269 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: The'golas (420 en jetons) 
+psychoman59 : met la petite blind. 50
+The'golas : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Tc]
+psychoman59 : relance. 250 à 350
+The'golas : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (200)
+Siège 2 : The'golas (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237332119386 : Tournoi #3440842269, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VI (50/100) - 13/07/2022 14:19:27 CET [13/07/2022 8:19:27 ET]
+Table '3440842269 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 2: The'golas (320 en jetons) 
+The'golas : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Kc]
+The'golas : suit. 50
+psychoman59 : relance. 200 à 300
+The'golas : suit. 200
+*** FLOP *** [6c Jd 6s]
+psychoman59 : mise. 100
+The'golas : suit. 20 et est all-in.
+Personne n'a suivi. (80) sont retournés à psychoman59.
+*** TOURNANT *** [6c Jd 6s] [6h]
+*** RIVIÈRE *** [6c Jd 6s 6h] [5h]
+*** ABATTAGE ***
+psychoman59 : montre [Js Kc] (un full, full aux Six par les Valets)
+The'golas : montre [8d 9d] (un brelan de Six)
+psychoman59 a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [6c Jd 6s 6h 5h]
+Siège 1 : psychoman59 (grosse blind) a montré [Js Kc] et a gagné (640) avec un full, full aux Six par les Valets
+Siège 2 : The'golas (bouton) (petite blind) a montré [8d 9d] et a perdu avec un brelan de Six
+
+
+

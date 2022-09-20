@@ -1,0 +1,2485 @@
+﻿Main PokerStars n°237862544496 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 13:57:19 CET [08/08/2022 7:57:19 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 2: sanes_1991 (5000 en jetons) 
+Place 3: chipie1962 (5000 en jetons) 
+Place 4: thiberde (5000 en jetons) 
+psychoman59 : met l'ante. 10
+sanes_1991 : met l'ante. 10
+chipie1962 : met l'ante. 10
+thiberde : met l'ante. 10
+sanes_1991 : met la petite blind. 50
+chipie1962 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Qd]
+thiberde : passe. 
+psychoman59 : passe. 
+sanes_1991 : suit. 50
+chipie1962 : parole 
+*** FLOP *** [9h Jh 9s]
+sanes_1991 : parole 
+chipie1962 : mise. 100
+sanes_1991 : suit. 100
+*** TOURNANT *** [9h Jh 9s] [Ah]
+sanes_1991 : parole 
+chipie1962 : parole 
+*** RIVIÈRE *** [9h Jh 9s Ah] [Ac]
+sanes_1991 : parole 
+chipie1962 : parole 
+*** ABATTAGE ***
+sanes_1991 : montre [8d 7h] (double paire, As et Neuf)
+chipie1962 : montre [Jd 4s] (double paire, As et Valets)
+chipie1962 a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [9h Jh 9s Ah Ac]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : sanes_1991 (petite blind) a montré [8d 7h] et a perdu avec double paire, As et Neuf
+Siège 3 : chipie1962 (grosse blind) a montré [Jd 4s] et a gagné (440) avec double paire, As et Valets
+Siège 4 : thiberde s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237862562906 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 13:59:12 CET [08/08/2022 7:59:12 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4990 en jetons) 
+Place 2: sanes_1991 (4790 en jetons) 
+Place 3: chipie1962 (5230 en jetons) 
+Place 4: thiberde (4990 en jetons) 
+psychoman59 : met l'ante. 10
+sanes_1991 : met l'ante. 10
+chipie1962 : met l'ante. 10
+thiberde : met l'ante. 10
+chipie1962 : met la petite blind. 50
+thiberde : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 4s]
+psychoman59 : passe. 
+sanes_1991 : passe. 
+chipie1962 : suit. 50
+thiberde : relance. 200 à 300
+chipie1962 : suit. 200
+*** FLOP *** [2c 7c 9h]
+chipie1962 : parole 
+thiberde : parole 
+*** TOURNANT *** [2c 7c 9h] [Ks]
+chipie1962 : parole 
+thiberde : mise. 640
+chipie1962 : passe. 
+Personne n'a suivi. (640) sont retournés à thiberde.
+thiberde a remporté 640  lors du pot .
+thiberde : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [2c 7c 9h Ks]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : sanes_1991 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : chipie1962 (petite blind) s'est couché. sur le Tournant
+Siège 4 : thiberde (grosse blind) a remporté (640)
+
+
+
+Main PokerStars n°237862569032 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 13:59:48 CET [08/08/2022 7:59:48 ET]
+Table '3453211901 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4980 en jetons) 
+Place 2: sanes_1991 (4780 en jetons) 
+Place 3: chipie1962 (4920 en jetons) 
+Place 4: thiberde (5320 en jetons) 
+psychoman59 : met l'ante. 10
+sanes_1991 : met l'ante. 10
+chipie1962 : met l'ante. 10
+thiberde : met l'ante. 10
+thiberde : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Qs]
+sanes_1991 : passe. 
+chipie1962 : suit. 100
+thiberde : suit. 50
+psychoman59 : parole 
+*** FLOP *** [7s 2s As]
+thiberde : parole 
+psychoman59 : parole 
+chipie1962 : parole 
+*** TOURNANT *** [7s 2s As] [3c]
+thiberde : parole 
+psychoman59 : parole 
+chipie1962 : parole 
+*** RIVIÈRE *** [7s 2s As 3c] [6s]
+thiberde : parole 
+psychoman59 : mise. 100
+chipie1962 : passe. 
+thiberde : suit. 100
+*** ABATTAGE ***
+psychoman59 : montre [8s Qs] (une couleur, hauteur As)
+thiberde : cache la main perdante. 
+psychoman59 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [7s 2s As 3c 6s]
+Siège 1 : psychoman59 (grosse blind) a montré [8s Qs] et a gagné (540) avec une couleur, hauteur As
+Siège 2 : sanes_1991 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : chipie1962 (bouton) s'est couché. sur le Rivière
+Siège 4 : thiberde (petite blind) a caché la main perdante. [3s 7d]
+
+
+
+Main PokerStars n°237862574446 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 08/08/2022 14:00:20 CET [08/08/2022 8:00:20 ET]
+Table '3453211901 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (5310 en jetons) 
+Place 2: sanes_1991 (4770 en jetons) 
+Place 3: chipie1962 (4810 en jetons) 
+Place 4: thiberde (5110 en jetons) 
+psychoman59 : met l'ante. 10
+sanes_1991 : met l'ante. 10
+chipie1962 : met l'ante. 10
+thiberde : met l'ante. 10
+psychoman59 : met la petite blind. 50
+sanes_1991 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 6d]
+chipie1962 : passe. 
+thiberde : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à sanes_1991.
+sanes_1991 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (grosse blind) a remporté (140)
+Siège 3 : chipie1962 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : thiberde (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237862576420 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 08/08/2022 14:00:31 CET [08/08/2022 8:00:31 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5250 en jetons) 
+Place 2: sanes_1991 (4850 en jetons) 
+Place 3: chipie1962 (4800 en jetons) 
+Place 4: thiberde (5100 en jetons) 
+psychoman59 : met l'ante. 15
+sanes_1991 : met l'ante. 15
+chipie1962 : met l'ante. 15
+thiberde : met l'ante. 15
+sanes_1991 : met la petite blind. 60
+chipie1962 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Jc]
+thiberde : suit. 120
+psychoman59 : passe. 
+sanes_1991 : suit. 60
+chipie1962 : parole 
+*** FLOP *** [Ac Qs Qc]
+sanes_1991 : parole 
+chipie1962 : parole 
+thiberde : parole 
+*** TOURNANT *** [Ac Qs Qc] [Js]
+sanes_1991 : mise. 360
+chipie1962 : passe. 
+thiberde : passe. 
+Personne n'a suivi. (360) sont retournés à sanes_1991.
+sanes_1991 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [Ac Qs Qc Js]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : sanes_1991 (petite blind) a remporté (420)
+Siège 3 : chipie1962 (grosse blind) s'est couché. sur le Tournant
+Siège 4 : thiberde s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237862584132 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 08/08/2022 14:01:14 CET [08/08/2022 8:01:14 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (5235 en jetons) 
+Place 2: sanes_1991 (5135 en jetons) 
+Place 3: chipie1962 (4665 en jetons) 
+Place 4: thiberde (4965 en jetons) 
+psychoman59 : met l'ante. 15
+sanes_1991 : met l'ante. 15
+chipie1962 : met l'ante. 15
+thiberde : met l'ante. 15
+chipie1962 : met la petite blind. 60
+thiberde : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Th]
+psychoman59 : suit. 120
+sanes_1991 : passe. 
+chipie1962 : suit. 60
+thiberde : parole 
+*** FLOP *** [As 6d 8d]
+chipie1962 : mise. 120
+thiberde : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à chipie1962.
+chipie1962 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [As 6d 8d]
+Siège 1 : psychoman59 s'est couché. sur le Flop
+Siège 2 : sanes_1991 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : chipie1962 (petite blind) a remporté (420)
+Siège 4 : thiberde (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237862591594 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 08/08/2022 14:01:54 CET [08/08/2022 8:01:54 ET]
+Table '3453211901 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (5100 en jetons) 
+Place 2: sanes_1991 (5120 en jetons) 
+Place 3: chipie1962 (4950 en jetons) 
+Place 4: thiberde (4830 en jetons) 
+psychoman59 : met l'ante. 15
+sanes_1991 : met l'ante. 15
+chipie1962 : met l'ante. 15
+thiberde : met l'ante. 15
+thiberde : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 3d]
+sanes_1991 : suit. 120
+chipie1962 : passe. 
+thiberde : relance. 240 à 360
+psychoman59 : passe. 
+sanes_1991 : suit. 240
+*** FLOP *** [Ah 5d 8c]
+thiberde : mise. 900
+sanes_1991 : suit. 900
+*** TOURNANT *** [Ah 5d 8c] [6c]
+thiberde : parole 
+sanes_1991 : parole 
+*** RIVIÈRE *** [Ah 5d 8c 6c] [Kd]
+thiberde : parole 
+sanes_1991 : parole 
+*** ABATTAGE ***
+thiberde : montre [Js Qh] (Hauteur As)
+sanes_1991 : montre [4s As] (une paire de As)
+sanes_1991 a remporté 2700  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2700 | Commission 0 
+Tableau [Ah 5d 8c 6c Kd]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 a montré [4s As] et a gagné (2700) avec une paire de As
+Siège 3 : chipie1962 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : thiberde (petite blind) a montré [Js Qh] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237862599247 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 08/08/2022 14:02:34 CET [08/08/2022 8:02:34 ET]
+Table '3453211901 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4965 en jetons) 
+Place 2: sanes_1991 (6545 en jetons) 
+Place 3: chipie1962 (4935 en jetons) 
+Place 4: thiberde (3555 en jetons) 
+psychoman59 : met l'ante. 15
+sanes_1991 : met l'ante. 15
+chipie1962 : met l'ante. 15
+thiberde : met l'ante. 15
+psychoman59 : met la petite blind. 60
+sanes_1991 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Ad]
+chipie1962 : suit. 120
+thiberde : suit. 120
+psychoman59 : relance. 4830 à 4950 et est all-in.
+sanes_1991 : passe. 
+chipie1962 : passe. 
+thiberde : passe. 
+Personne n'a suivi. (4830) sont retournés à psychoman59.
+psychoman59 a remporté 540  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (540)
+Siège 2 : sanes_1991 (grosse blind) s'est couché. avant Flop
+Siège 3 : chipie1962 s'est couché. avant Flop
+Siège 4 : thiberde (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862602661 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 08/08/2022 14:02:52 CET [08/08/2022 8:02:52 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5370 en jetons) 
+Place 2: sanes_1991 (6410 en jetons) 
+Place 3: chipie1962 (4800 en jetons) 
+Place 4: thiberde (3420 en jetons) 
+psychoman59 : met l'ante. 15
+sanes_1991 : met l'ante. 15
+chipie1962 : met l'ante. 15
+thiberde : met l'ante. 15
+sanes_1991 : met la petite blind. 60
+chipie1962 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 4h]
+thiberde : passe. 
+psychoman59 : passe. 
+sanes_1991 : suit. 60
+chipie1962 : parole 
+*** FLOP *** [6s Jh 6c]
+sanes_1991 : parole 
+chipie1962 : parole 
+*** TOURNANT *** [6s Jh 6c] [Jd]
+sanes_1991 : parole 
+chipie1962 : parole 
+*** RIVIÈRE *** [6s Jh 6c Jd] [Tc]
+sanes_1991 : parole 
+chipie1962 : parole 
+*** ABATTAGE ***
+sanes_1991 : montre [Qc 5h] (double paire, Valets et Six)
+chipie1962 : montre [Kh 2h] (double paire, Valets et Six - Roi kicker)
+chipie1962 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [6s Jh 6c Jd Tc]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : sanes_1991 (petite blind) a montré [Qc 5h] et a perdu avec double paire, Valets et Six
+Siège 3 : chipie1962 (grosse blind) a montré [Kh 2h] et a gagné (300) avec double paire, Valets et Six
+Siège 4 : thiberde s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237862617652 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 08/08/2022 14:03:52 CET [08/08/2022 8:03:52 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (5355 en jetons) 
+Place 2: sanes_1991 (6275 en jetons) 
+Place 3: chipie1962 (4965 en jetons) 
+Place 4: thiberde (3405 en jetons) 
+psychoman59 : met l'ante. 20
+sanes_1991 : met l'ante. 20
+chipie1962 : met l'ante. 20
+thiberde : met l'ante. 20
+chipie1962 : met la petite blind. 75
+thiberde : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 4d]
+psychoman59 : passe. 
+sanes_1991 : suit. 150
+chipie1962 : suit. 75
+thiberde : parole 
+*** FLOP *** [Qd 4s 6s]
+chipie1962 : parole 
+thiberde : parole 
+sanes_1991 : parole 
+*** TOURNANT *** [Qd 4s 6s] [3d]
+chipie1962 : parole 
+thiberde : mise. 150
+sanes_1991 : passe. 
+chipie1962 : passe. 
+Personne n'a suivi. (150) sont retournés à thiberde.
+thiberde a remporté 530  lors du pot .
+thiberde : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 530 | Commission 0 
+Tableau [Qd 4s 6s 3d]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : sanes_1991 (bouton) s'est couché. sur le Tournant
+Siège 3 : chipie1962 (petite blind) s'est couché. sur le Tournant
+Siège 4 : thiberde (grosse blind) a remporté (530)
+
+
+
+Main PokerStars n°237862625810 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 08/08/2022 14:04:34 CET [08/08/2022 8:04:34 ET]
+Table '3453211901 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (5335 en jetons) 
+Place 2: sanes_1991 (6105 en jetons) 
+Place 3: chipie1962 (4795 en jetons) 
+Place 4: thiberde (3765 en jetons) 
+psychoman59 : met l'ante. 20
+sanes_1991 : met l'ante. 20
+chipie1962 : met l'ante. 20
+thiberde : met l'ante. 20
+thiberde : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Kd]
+sanes_1991 : passe. 
+chipie1962 : passe. 
+thiberde : suit. 75
+psychoman59 : parole 
+*** FLOP *** [6h 8d Th]
+thiberde : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6h 8d Th] [5h]
+thiberde : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6h 8d Th 5h] [8h]
+thiberde : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+thiberde : montre [2d 5s] (double paire, Huit et Cinq)
+psychoman59 : cache la main perdante. 
+thiberde a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [6h 8d Th 5h 8h]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [9c Kd]
+Siège 2 : sanes_1991 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : chipie1962 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : thiberde (petite blind) a montré [2d 5s] et a gagné (380) avec double paire, Huit et Cinq
+
+
+
+Main PokerStars n°237862631471 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 08/08/2022 14:05:03 CET [08/08/2022 8:05:03 ET]
+Table '3453211901 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (5165 en jetons) 
+Place 2: sanes_1991 (6085 en jetons) 
+Place 3: chipie1962 (4775 en jetons) 
+Place 4: thiberde (3975 en jetons) 
+psychoman59 : met l'ante. 20
+sanes_1991 : met l'ante. 20
+chipie1962 : met l'ante. 20
+thiberde : met l'ante. 20
+psychoman59 : met la petite blind. 75
+sanes_1991 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd As]
+chipie1962 : passe. 
+thiberde : passe. 
+psychoman59 : relance. 4995 à 5145 et est all-in.
+sanes_1991 : passe. 
+Personne n'a suivi. (4995) sont retournés à psychoman59.
+psychoman59 a remporté 380  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (380)
+Siège 2 : sanes_1991 (grosse blind) s'est couché. avant Flop
+Siège 3 : chipie1962 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : thiberde (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237862636524 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 08/08/2022 14:05:28 CET [08/08/2022 8:05:28 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5375 en jetons) 
+Place 2: sanes_1991 (5915 en jetons) 
+Place 3: chipie1962 (4755 en jetons) 
+Place 4: thiberde (3955 en jetons) 
+psychoman59 : met l'ante. 20
+sanes_1991 : met l'ante. 20
+chipie1962 : met l'ante. 20
+thiberde : met l'ante. 20
+sanes_1991 : met la petite blind. 75
+chipie1962 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Td]
+thiberde : passe. 
+psychoman59 : suit. 150
+sanes_1991 : suit. 75
+chipie1962 : parole 
+*** FLOP *** [7h As 8s]
+sanes_1991 : parole 
+chipie1962 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7h As 8s] [Kd]
+sanes_1991 : parole 
+chipie1962 : parole 
+psychoman59 : mise. 265
+sanes_1991 : passe. 
+chipie1962 : passe. 
+Personne n'a suivi. (265) sont retournés à psychoman59.
+psychoman59 a remporté 530  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 530 | Commission 0 
+Tableau [7h As 8s Kd]
+Siège 1 : psychoman59 (bouton) a remporté (530)
+Siège 2 : sanes_1991 (petite blind) s'est couché. sur le Tournant
+Siège 3 : chipie1962 (grosse blind) s'est couché. sur le Tournant
+Siège 4 : thiberde s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237862643228 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 08/08/2022 14:06:02 CET [08/08/2022 8:06:02 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (5735 en jetons) 
+Place 2: sanes_1991 (5745 en jetons) 
+Place 3: chipie1962 (4585 en jetons) 
+Place 4: thiberde (3935 en jetons) 
+psychoman59 : met l'ante. 20
+sanes_1991 : met l'ante. 20
+chipie1962 : met l'ante. 20
+thiberde : met l'ante. 20
+chipie1962 : met la petite blind. 75
+thiberde : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Ks]
+psychoman59 : passe. 
+sanes_1991 : relance. 300 à 450
+chipie1962 : suit. 375
+thiberde : passe. 
+*** FLOP *** [Jd 9s 2d]
+chipie1962 : parole 
+sanes_1991 : mise. 565
+chipie1962 : suit. 565
+*** TOURNANT *** [Jd 9s 2d] [Kc]
+chipie1962 : mise. 150
+sanes_1991 : suit. 150
+*** RIVIÈRE *** [Jd 9s 2d Kc] [6h]
+chipie1962 : mise. 150
+sanes_1991 : suit. 150
+*** ABATTAGE ***
+chipie1962 : montre [Kh 4d] (une paire de Rois)
+sanes_1991 : cache la main perdante. 
+chipie1962 a remporté 2860  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2860 | Commission 0 
+Tableau [Jd 9s 2d Kc 6h]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : sanes_1991 (bouton) a caché la main perdante. [Jc Ad]
+Siège 3 : chipie1962 (petite blind) a montré [Kh 4d] et a gagné (2860) avec une paire de Rois
+Siège 4 : thiberde (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862655633 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 08/08/2022 14:07:06 CET [08/08/2022 8:07:06 ET]
+Table '3453211901 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (5715 en jetons) 
+Place 2: sanes_1991 (4410 en jetons) 
+Place 3: chipie1962 (6110 en jetons) 
+Place 4: thiberde (3765 en jetons) 
+psychoman59 : met l'ante. 25
+sanes_1991 : met l'ante. 25
+chipie1962 : met l'ante. 25
+thiberde : met l'ante. 25
+thiberde : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Td]
+sanes_1991 : passe. 
+chipie1962 : passe. 
+thiberde : suit. 100
+psychoman59 : parole 
+*** FLOP *** [As Kc 7c]
+thiberde : parole 
+psychoman59 : parole 
+*** TOURNANT *** [As Kc 7c] [6c]
+thiberde : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [As Kc 7c 6c] [2h]
+thiberde : mise. 200
+psychoman59 : suit. 200
+*** ABATTAGE ***
+thiberde : montre [2c 5h] (une paire de Deux)
+psychoman59 : montre [7h Td] (une paire de Sept)
+psychoman59 a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [As Kc 7c 6c 2h]
+Siège 1 : psychoman59 (grosse blind) a montré [7h Td] et a gagné (900) avec une paire de Sept
+Siège 2 : sanes_1991 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : chipie1962 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : thiberde (petite blind) a montré [2c 5h] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°237862661951 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 08/08/2022 14:07:38 CET [08/08/2022 8:07:38 ET]
+Table '3453211901 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (6190 en jetons) 
+Place 2: sanes_1991 (4385 en jetons) 
+Place 3: chipie1962 (6085 en jetons) 
+Place 4: thiberde (3340 en jetons) 
+psychoman59 : met l'ante. 25
+sanes_1991 : met l'ante. 25
+chipie1962 : met l'ante. 25
+thiberde : met l'ante. 25
+psychoman59 : met la petite blind. 100
+sanes_1991 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Qh]
+chipie1962 : suit. 200
+thiberde : passe. 
+psychoman59 : relance. 5965 à 6165 et est all-in.
+sanes_1991 : passe. 
+chipie1962 : suit. 5860 et est all-in.
+Personne n'a suivi. (105) sont retournés à psychoman59.
+*** FLOP *** [Kh Qc 6s]
+*** TOURNANT *** [Kh Qc 6s] [6h]
+*** RIVIÈRE *** [Kh Qc 6s 6h] [6d]
+*** ABATTAGE ***
+psychoman59 : montre [Ah Qh] (un full, full aux Six par les Dames)
+chipie1962 : montre [Th Ts] (un full, full aux Six par les Dix)
+psychoman59 a remporté 12420  lors du pot .
+chipie1962 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 12420 | Commission 0 
+Tableau [Kh Qc 6s 6h 6d]
+Siège 1 : psychoman59 (petite blind) a montré [Ah Qh] et a gagné (12420) avec un full, full aux Six par les Dames
+Siège 2 : sanes_1991 (grosse blind) s'est couché. avant Flop
+Siège 3 : chipie1962 a montré [Th Ts] et a perdu avec un full, full aux Six par les Dix
+Siège 4 : thiberde (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237862666539 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 08/08/2022 14:08:01 CET [08/08/2022 8:08:01 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (12525 en jetons) 
+Place 2: sanes_1991 (4160 en jetons) 
+Place 4: thiberde (3315 en jetons) 
+psychoman59 : met l'ante. 25
+sanes_1991 : met l'ante. 25
+thiberde : met l'ante. 25
+sanes_1991 : met la petite blind. 100
+thiberde : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Th]
+psychoman59 : suit. 200
+sanes_1991 : passe. 
+thiberde : parole 
+*** FLOP *** [3d 9c 4d]
+thiberde : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3d 9c 4d] [5s]
+thiberde : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3d 9c 4d 5s] [6c]
+thiberde : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+thiberde : montre [3s 6h] (double paire, Six et Trois)
+psychoman59 : cache la main perdante. 
+thiberde a remporté 575  lors du pot .
+*** SYNTHÈSE ***
+Pot total 575 | Commission 0 
+Tableau [3d 9c 4d 5s 6c]
+Siège 1 : psychoman59 (bouton) a caché la main perdante. [Qd Th]
+Siège 2 : sanes_1991 (petite blind) s'est couché. avant Flop
+Siège 4 : thiberde (grosse blind) a montré [3s 6h] et a gagné (575) avec double paire, Six et Trois
+
+
+
+Main PokerStars n°237862670011 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 08/08/2022 14:08:19 CET [08/08/2022 8:08:19 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (12300 en jetons) 
+Place 2: sanes_1991 (4035 en jetons) 
+Place 4: thiberde (3665 en jetons) 
+psychoman59 : met l'ante. 25
+sanes_1991 : met l'ante. 25
+thiberde : met l'ante. 25
+thiberde : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 4c]
+sanes_1991 : passe. 
+thiberde : suit. 100
+psychoman59 : parole 
+*** FLOP *** [5d Qh 2d]
+thiberde : mise. 475
+psychoman59 : passe. 
+Personne n'a suivi. (475) sont retournés à thiberde.
+thiberde a remporté 475  lors du pot .
+thiberde : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Tableau [5d Qh 2d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : sanes_1991 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : thiberde (petite blind) a remporté (475)
+
+
+
+Main PokerStars n°237862673213 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 08/08/2022 14:08:35 CET [08/08/2022 8:08:35 ET]
+Table '3453211901 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (12075 en jetons) 
+Place 2: sanes_1991 (4010 en jetons) 
+Place 4: thiberde (3915 en jetons) 
+psychoman59 : met l'ante. 25
+sanes_1991 : met l'ante. 25
+thiberde : met l'ante. 25
+psychoman59 : met la petite blind. 100
+sanes_1991 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 2h]
+thiberde : suit. 200
+psychoman59 : suit. 100
+sanes_1991 : parole 
+*** FLOP *** [Kd Ad Qc]
+psychoman59 : parole 
+sanes_1991 : parole 
+thiberde : mise. 400
+psychoman59 : suit. 400
+sanes_1991 : passe. 
+*** TOURNANT *** [Kd Ad Qc] [3d]
+psychoman59 : parole 
+thiberde : parole 
+*** RIVIÈRE *** [Kd Ad Qc 3d] [Kc]
+psychoman59 : mise. 737
+thiberde : suit. 737
+*** ABATTAGE ***
+psychoman59 : montre [Ac 2h] (double paire, As et Rois)
+thiberde : cache la main perdante. 
+psychoman59 a remporté 2949  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2949 | Commission 0 
+Tableau [Kd Ad Qc 3d Kc]
+Siège 1 : psychoman59 (petite blind) a montré [Ac 2h] et a gagné (2949) avec double paire, As et Rois
+Siège 2 : sanes_1991 (grosse blind) s'est couché. sur le Flop
+Siège 4 : thiberde (bouton) a caché la main perdante. [Qh Th]
+
+
+
+Main PokerStars n°237862680965 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 08/08/2022 14:09:14 CET [08/08/2022 8:09:14 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (13662 en jetons) 
+Place 2: sanes_1991 (3785 en jetons) 
+Place 4: thiberde (2553 en jetons) 
+psychoman59 : met l'ante. 25
+sanes_1991 : met l'ante. 25
+thiberde : met l'ante. 25
+sanes_1991 : met la petite blind. 100
+thiberde : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 9h]
+psychoman59 : passe. 
+sanes_1991 : relance. 200 à 400
+thiberde : suit. 200
+*** FLOP *** [3c 3h 2h]
+sanes_1991 : mise. 400
+thiberde : passe. 
+Personne n'a suivi. (400) sont retournés à sanes_1991.
+sanes_1991 a remporté 875  lors du pot .
+*** SYNTHÈSE ***
+Pot total 875 | Commission 0 
+Tableau [3c 3h 2h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : sanes_1991 (petite blind) a remporté (875)
+Siège 4 : thiberde (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237862685442 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 08/08/2022 14:09:37 CET [08/08/2022 8:09:37 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (13637 en jetons) 
+Place 2: sanes_1991 (4235 en jetons) 
+Place 4: thiberde (2128 en jetons) 
+psychoman59 : met l'ante. 30
+sanes_1991 : met l'ante. 30
+thiberde : met l'ante. 30
+thiberde : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ad]
+sanes_1991 : passe. 
+thiberde : passe. 
+Personne n'a suivi. (125) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (340)
+Siège 2 : sanes_1991 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : thiberde (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862687955 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 08/08/2022 14:09:49 CET [08/08/2022 8:09:49 ET]
+Table '3453211901 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (13822 en jetons) 
+Place 2: sanes_1991 (4205 en jetons) 
+Place 4: thiberde (1973 en jetons) 
+psychoman59 : met l'ante. 30
+sanes_1991 : met l'ante. 30
+thiberde : met l'ante. 30
+psychoman59 : met la petite blind. 125
+sanes_1991 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 3c]
+thiberde : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à sanes_1991.
+sanes_1991 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (grosse blind) a remporté (340)
+Siège 4 : thiberde (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237862689960 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 08/08/2022 14:10:00 CET [08/08/2022 8:10:00 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (13667 en jetons) 
+Place 2: sanes_1991 (4390 en jetons) 
+Place 4: thiberde (1943 en jetons) 
+psychoman59 : met l'ante. 30
+sanes_1991 : met l'ante. 30
+thiberde : met l'ante. 30
+sanes_1991 : met la petite blind. 125
+thiberde : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 4h]
+psychoman59 : passe. 
+sanes_1991 : suit. 125
+thiberde : relance. 1663 à 1913 et est all-in.
+sanes_1991 : passe. 
+Personne n'a suivi. (1663) sont retournés à thiberde.
+thiberde a remporté 590  lors du pot .
+thiberde : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : sanes_1991 (petite blind) s'est couché. avant Flop
+Siège 4 : thiberde (grosse blind) a remporté (590)
+
+
+
+Main PokerStars n°237862693206 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 08/08/2022 14:10:16 CET [08/08/2022 8:10:16 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (13637 en jetons) 
+Place 2: sanes_1991 (4110 en jetons) 
+Place 4: thiberde (2253 en jetons) 
+psychoman59 : met l'ante. 30
+sanes_1991 : met l'ante. 30
+thiberde : met l'ante. 30
+thiberde : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Td]
+sanes_1991 : relance. 250 à 500
+thiberde : suit. 375
+psychoman59 : passe. 
+*** FLOP *** [4d 2d Ad]
+thiberde : parole 
+sanes_1991 : mise. 500
+thiberde : passe. 
+Personne n'a suivi. (500) sont retournés à sanes_1991.
+sanes_1991 a remporté 1340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1340 | Commission 0 
+Tableau [4d 2d Ad]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (bouton) a remporté (1340)
+Siège 4 : thiberde (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237862697774 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 08/08/2022 14:10:39 CET [08/08/2022 8:10:39 ET]
+Table '3453211901 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (13357 en jetons) 
+Place 2: sanes_1991 (4920 en jetons) 
+Place 4: thiberde (1723 en jetons) 
+psychoman59 : met l'ante. 30
+sanes_1991 : met l'ante. 30
+thiberde : met l'ante. 30
+psychoman59 : met la petite blind. 125
+sanes_1991 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 9h]
+thiberde : relance. 1443 à 1693 et est all-in.
+psychoman59 : suit. 1568
+sanes_1991 : passe. 
+*** FLOP *** [2s Qs 9s]
+*** TOURNANT *** [2s Qs 9s] [Qd]
+*** RIVIÈRE *** [2s Qs 9s Qd] [Td]
+*** ABATTAGE ***
+psychoman59 : montre [Ah 9h] (double paire, Dames et Neuf)
+thiberde : montre [Kd 8d] (une paire de Dames)
+psychoman59 a remporté 3726  lors du pot .
+thiberde a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 3726 | Commission 0 
+Tableau [2s Qs 9s Qd Td]
+Siège 1 : psychoman59 (petite blind) a montré [Ah 9h] et a gagné (3726) avec double paire, Dames et Neuf
+Siège 2 : sanes_1991 (grosse blind) s'est couché. avant Flop
+Siège 4 : thiberde (bouton) a montré [Kd 8d] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°237862701780 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 08/08/2022 14:10:59 CET [08/08/2022 8:10:59 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (15360 en jetons) 
+Place 2: sanes_1991 (4640 en jetons) 
+psychoman59 : met l'ante. 30
+sanes_1991 : met l'ante. 30
+sanes_1991 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 3s]
+sanes_1991 : suit. 125
+psychoman59 : parole 
+*** FLOP *** [Ad Jh Ts]
+psychoman59 : parole 
+sanes_1991 : parole 
+*** TOURNANT *** [Ad Jh Ts] [5h]
+psychoman59 : parole 
+sanes_1991 : parole 
+*** RIVIÈRE *** [Ad Jh Ts 5h] [4s]
+psychoman59 : mise. 250
+sanes_1991 : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 560  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Ad Jh Ts 5h 4s]
+Siège 1 : psychoman59 (grosse blind) a remporté (560)
+Siège 2 : sanes_1991 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237862709024 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 08/08/2022 14:11:36 CET [08/08/2022 8:11:36 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (15640 en jetons) 
+Place 2: sanes_1991 (4360 en jetons) 
+psychoman59 : met l'ante. 30
+sanes_1991 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+sanes_1991 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Kh]
+psychoman59 : suit. 125
+sanes_1991 : relance. 250 à 500
+psychoman59 : suit. 250
+*** FLOP *** [2h 4c Kc]
+sanes_1991 : mise. 500
+psychoman59 : suit. 500
+*** TOURNANT *** [2h 4c Kc] [4d]
+sanes_1991 : mise. 1000
+psychoman59 : suit. 1000
+*** RIVIÈRE *** [2h 4c Kc 4d] [9s]
+sanes_1991 : mise. 2330 et est all-in.
+psychoman59 : suit. 2330
+*** ABATTAGE ***
+sanes_1991 : montre [Ah Ac] (double paire, As et Quatre)
+psychoman59 : montre [5s Kh] (double paire, Rois et Quatre)
+sanes_1991 a remporté 8720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 8720 | Commission 0 
+Tableau [2h 4c Kc 4d 9s]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [5s Kh] et a perdu avec double paire, Rois et Quatre
+Siège 2 : sanes_1991 (grosse blind) a montré [Ah Ac] et a gagné (8720) avec double paire, As et Quatre
+
+
+
+Main PokerStars n°237862717017 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 08/08/2022 14:12:15 CET [08/08/2022 8:12:15 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (11280 en jetons) 
+Place 2: sanes_1991 (8720 en jetons) 
+psychoman59 : met l'ante. 30
+sanes_1991 : met l'ante. 30
+sanes_1991 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Kc]
+sanes_1991 : suit. 125
+psychoman59 : parole 
+*** FLOP *** [Ah As 6d]
+psychoman59 : parole 
+sanes_1991 : mise. 250
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à sanes_1991.
+sanes_1991 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Ah As 6d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : sanes_1991 (bouton) (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°237862722573 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 08/08/2022 14:12:42 CET [08/08/2022 8:12:42 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (11000 en jetons) 
+Place 2: sanes_1991 (9000 en jetons) 
+psychoman59 : met l'ante. 40
+sanes_1991 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+sanes_1991 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à sanes_1991.
+sanes_1991 a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°237862724105 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 08/08/2022 14:12:50 CET [08/08/2022 8:12:50 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (10810 en jetons) 
+Place 2: sanes_1991 (9190 en jetons) 
+psychoman59 : met l'ante. 40
+sanes_1991 : met l'ante. 40
+sanes_1991 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 7h]
+sanes_1991 : suit. 150
+psychoman59 : relance. 10470 à 10770 et est all-in.
+sanes_1991 : passe. 
+Personne n'a suivi. (10470) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (680)
+Siège 2 : sanes_1991 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862727096 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 08/08/2022 14:13:05 CET [08/08/2022 8:13:05 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (11150 en jetons) 
+Place 2: sanes_1991 (8850 en jetons) 
+psychoman59 : met l'ante. 40
+sanes_1991 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+sanes_1991 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à sanes_1991.
+sanes_1991 a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°237862728779 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 08/08/2022 14:13:13 CET [08/08/2022 8:13:13 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (10960 en jetons) 
+Place 2: sanes_1991 (9040 en jetons) 
+psychoman59 : met l'ante. 40
+sanes_1991 : met l'ante. 40
+sanes_1991 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 5s]
+sanes_1991 : suit. 150
+psychoman59 : parole 
+*** FLOP *** [6c 6d Qd]
+psychoman59 : parole 
+sanes_1991 : mise. 300
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à sanes_1991.
+sanes_1991 a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [6c 6d Qd]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : sanes_1991 (bouton) (petite blind) a remporté (680)
+
+
+
+Main PokerStars n°237862737822 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 08/08/2022 14:13:57 CET [08/08/2022 8:13:57 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (10620 en jetons) 
+Place 2: sanes_1991 (9380 en jetons) 
+psychoman59 : met l'ante. 40
+sanes_1991 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+sanes_1991 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Tc]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à sanes_1991.
+sanes_1991 a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°237862739415 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 08/08/2022 14:14:05 CET [08/08/2022 8:14:05 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (10430 en jetons) 
+Place 2: sanes_1991 (9570 en jetons) 
+psychoman59 : met l'ante. 40
+sanes_1991 : met l'ante. 40
+sanes_1991 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 5c]
+sanes_1991 : suit. 150
+psychoman59 : parole 
+*** FLOP *** [Th Kd Qd]
+psychoman59 : parole 
+sanes_1991 : parole 
+*** TOURNANT *** [Th Kd Qd] [9h]
+psychoman59 : parole 
+sanes_1991 : mise. 300
+psychoman59 : suit. 300
+*** RIVIÈRE *** [Th Kd Qd 9h] [Qs]
+psychoman59 : parole 
+sanes_1991 : mise. 300
+psychoman59 : suit. 300
+*** ABATTAGE ***
+sanes_1991 : montre [9c 8s] (double paire, Dames et Neuf)
+psychoman59 : montre [Td 5c] (double paire, Dames et Dix)
+psychoman59 a remporté 1880  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1880 | Commission 0 
+Tableau [Th Kd Qd 9h Qs]
+Siège 1 : psychoman59 (grosse blind) a montré [Td 5c] et a gagné (1880) avec double paire, Dames et Dix
+Siège 2 : sanes_1991 (bouton) (petite blind) a montré [9c 8s] et a perdu avec double paire, Dames et Neuf
+
+
+
+Main PokerStars n°237862746504 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 08/08/2022 14:14:39 CET [08/08/2022 8:14:39 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (11370 en jetons) 
+Place 2: sanes_1991 (8630 en jetons) 
+psychoman59 : met l'ante. 40
+sanes_1991 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+sanes_1991 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 2s]
+psychoman59 : relance. 11030 à 11330 et est all-in.
+sanes_1991 : passe. 
+Personne n'a suivi. (11030) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (680)
+Siège 2 : sanes_1991 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862749293 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 08/08/2022 14:14:53 CET [08/08/2022 8:14:53 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (11710 en jetons) 
+Place 2: sanes_1991 (8290 en jetons) 
+psychoman59 : met l'ante. 40
+sanes_1991 : met l'ante. 40
+sanes_1991 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 9c]
+sanes_1991 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 380  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (380)
+Siège 2 : sanes_1991 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862750718 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 08/08/2022 14:15:00 CET [08/08/2022 8:15:00 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (11900 en jetons) 
+Place 2: sanes_1991 (8100 en jetons) 
+psychoman59 : met l'ante. 40
+sanes_1991 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+sanes_1991 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à sanes_1991.
+sanes_1991 a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°237862752272 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 08/08/2022 14:15:08 CET [08/08/2022 8:15:08 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (11710 en jetons) 
+Place 2: sanes_1991 (8290 en jetons) 
+psychoman59 : met l'ante. 40
+sanes_1991 : met l'ante. 40
+sanes_1991 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Js]
+sanes_1991 : relance. 300 à 600
+psychoman59 : suit. 300
+*** FLOP *** [Qc 8h 4d]
+psychoman59 : parole 
+sanes_1991 : mise. 600
+psychoman59 : passe. 
+Personne n'a suivi. (600) sont retournés à sanes_1991.
+sanes_1991 a remporté 1280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1280 | Commission 0 
+Tableau [Qc 8h 4d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : sanes_1991 (bouton) (petite blind) a remporté (1280)
+
+
+
+Main PokerStars n°237862756749 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 08/08/2022 14:15:30 CET [08/08/2022 8:15:30 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (11070 en jetons) 
+Place 2: sanes_1991 (8930 en jetons) 
+psychoman59 : met l'ante. 50
+sanes_1991 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+sanes_1991 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Kd]
+psychoman59 : relance. 400 à 800
+sanes_1991 : suit. 400
+*** FLOP *** [9c 8c 5h]
+sanes_1991 : parole 
+psychoman59 : mise. 850
+sanes_1991 : suit. 850
+*** TOURNANT *** [9c 8c 5h] [8d]
+sanes_1991 : parole 
+psychoman59 : mise. 1700
+sanes_1991 : passe. 
+Personne n'a suivi. (1700) sont retournés à psychoman59.
+psychoman59 a remporté 3400  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 3400 | Commission 0 
+Tableau [9c 8c 5h 8d]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (3400)
+Siège 2 : sanes_1991 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237862762625 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 08/08/2022 14:15:58 CET [08/08/2022 8:15:58 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (12770 en jetons) 
+Place 2: sanes_1991 (7230 en jetons) 
+psychoman59 : met l'ante. 50
+sanes_1991 : met l'ante. 50
+sanes_1991 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 5h]
+sanes_1991 : relance. 900 à 1300
+psychoman59 : passe. 
+Personne n'a suivi. (900) sont retournés à sanes_1991.
+sanes_1991 a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (bouton) (petite blind) a remporté (900)
+
+
+
+Main PokerStars n°237862765384 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 08/08/2022 14:16:12 CET [08/08/2022 8:16:12 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (12320 en jetons) 
+Place 2: sanes_1991 (7680 en jetons) 
+psychoman59 : met l'ante. 50
+sanes_1991 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+sanes_1991 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 3d]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à sanes_1991.
+sanes_1991 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (grosse blind) a remporté (500)
+
+
+
+Main PokerStars n°237862766927 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 08/08/2022 14:16:19 CET [08/08/2022 8:16:19 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (12070 en jetons) 
+Place 2: sanes_1991 (7930 en jetons) 
+psychoman59 : met l'ante. 50
+sanes_1991 : met l'ante. 50
+sanes_1991 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 9c]
+sanes_1991 : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 500  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (500)
+Siège 2 : sanes_1991 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862768343 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 08/08/2022 14:16:26 CET [08/08/2022 8:16:26 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (12320 en jetons) 
+Place 2: sanes_1991 (7680 en jetons) 
+psychoman59 : met l'ante. 50
+sanes_1991 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+sanes_1991 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à sanes_1991.
+sanes_1991 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (grosse blind) a remporté (500)
+
+
+
+Main PokerStars n°237862769878 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 08/08/2022 14:16:34 CET [08/08/2022 8:16:34 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (12070 en jetons) 
+Place 2: sanes_1991 (7930 en jetons) 
+psychoman59 : met l'ante. 50
+sanes_1991 : met l'ante. 50
+sanes_1991 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Qc]
+sanes_1991 : relance. 400 à 800
+psychoman59 : suit. 400
+*** FLOP *** [6h Jd 7h]
+psychoman59 : parole 
+sanes_1991 : mise. 800
+psychoman59 : suit. 800
+*** TOURNANT *** [6h Jd 7h] [Tc]
+psychoman59 : parole 
+sanes_1991 : parole 
+*** RIVIÈRE *** [6h Jd 7h Tc] [8d]
+psychoman59 : mise. 3300
+sanes_1991 : passe. 
+Personne n'a suivi. (3300) sont retournés à psychoman59.
+psychoman59 a remporté 3300  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 3300 | Commission 0 
+Tableau [6h Jd 7h Tc 8d]
+Siège 1 : psychoman59 (grosse blind) a remporté (3300)
+Siège 2 : sanes_1991 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237862776149 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 08/08/2022 14:17:05 CET [08/08/2022 8:17:05 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (13720 en jetons) 
+Place 2: sanes_1991 (6280 en jetons) 
+psychoman59 : met l'ante. 50
+sanes_1991 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+sanes_1991 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à sanes_1991.
+sanes_1991 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (grosse blind) a remporté (500)
+
+
+
+Main PokerStars n°237862777811 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 08/08/2022 14:17:13 CET [08/08/2022 8:17:13 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (13470 en jetons) 
+Place 2: sanes_1991 (6530 en jetons) 
+psychoman59 : met l'ante. 50
+sanes_1991 : met l'ante. 50
+sanes_1991 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 4h]
+sanes_1991 : suit. 200
+psychoman59 : parole 
+*** FLOP *** [4s 7c Qh]
+psychoman59 : parole 
+sanes_1991 : mise. 800
+psychoman59 : passe. 
+Personne n'a suivi. (800) sont retournés à sanes_1991.
+sanes_1991 a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [4s 7c Qh]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : sanes_1991 (bouton) (petite blind) a remporté (900)
+
+
+
+Main PokerStars n°237862782154 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 08/08/2022 14:17:35 CET [08/08/2022 8:17:35 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (13020 en jetons) 
+Place 2: sanes_1991 (6980 en jetons) 
+psychoman59 : met l'ante. 50
+sanes_1991 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+sanes_1991 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à sanes_1991.
+sanes_1991 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (grosse blind) a remporté (500)
+
+
+
+Main PokerStars n°237862783775 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 08/08/2022 14:17:42 CET [08/08/2022 8:17:42 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (12770 en jetons) 
+Place 2: sanes_1991 (7230 en jetons) 
+psychoman59 : met l'ante. 50
+sanes_1991 : met l'ante. 50
+sanes_1991 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 3d]
+sanes_1991 : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 500  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (500)
+Siège 2 : sanes_1991 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862787234 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 08/08/2022 14:17:59 CET [08/08/2022 8:17:59 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (13020 en jetons) 
+Place 2: sanes_1991 (6980 en jetons) 
+psychoman59 : met l'ante. 50
+sanes_1991 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+sanes_1991 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 5c]
+psychoman59 : suit. 200
+sanes_1991 : parole 
+*** FLOP *** [Ah Jc 2h]
+sanes_1991 : parole 
+psychoman59 : mise. 900
+sanes_1991 : passe. 
+Personne n'a suivi. (900) sont retournés à psychoman59.
+psychoman59 a remporté 900  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [Ah Jc 2h]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (900)
+Siège 2 : sanes_1991 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237862796213 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 08/08/2022 14:18:43 CET [08/08/2022 8:18:43 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (13470 en jetons) 
+Place 2: sanes_1991 (6530 en jetons) 
+psychoman59 : met l'ante. 60
+sanes_1991 : met l'ante. 60
+sanes_1991 : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 5d]
+sanes_1991 : suit. 250
+psychoman59 : parole 
+*** FLOP *** [Ad Ks 7h]
+psychoman59 : parole 
+sanes_1991 : mise. 500
+psychoman59 : passe. 
+Personne n'a suivi. (500) sont retournés à sanes_1991.
+sanes_1991 a remporté 1120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1120 | Commission 0 
+Tableau [Ad Ks 7h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : sanes_1991 (bouton) (petite blind) a remporté (1120)
+
+
+
+Main PokerStars n°237862799949 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 08/08/2022 14:19:02 CET [08/08/2022 8:19:02 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (12910 en jetons) 
+Place 2: sanes_1991 (7090 en jetons) 
+psychoman59 : met l'ante. 60
+sanes_1991 : met l'ante. 60
+psychoman59 : met la petite blind. 250
+sanes_1991 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Th]
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à sanes_1991.
+sanes_1991 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (grosse blind) a remporté (620)
+
+
+
+Main PokerStars n°237862801521 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 08/08/2022 14:19:10 CET [08/08/2022 8:19:10 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (12600 en jetons) 
+Place 2: sanes_1991 (7400 en jetons) 
+psychoman59 : met l'ante. 60
+sanes_1991 : met l'ante. 60
+sanes_1991 : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 5c]
+sanes_1991 : suit. 250
+psychoman59 : parole 
+*** FLOP *** [2h Ac 4h]
+psychoman59 : parole 
+sanes_1991 : parole 
+*** TOURNANT *** [2h Ac 4h] [3s]
+psychoman59 : parole 
+sanes_1991 : parole 
+*** RIVIÈRE *** [2h Ac 4h 3s] [Th]
+psychoman59 : parole 
+sanes_1991 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qd 5c] (une suite, As à Cinq)
+sanes_1991 : cache la main perdante. 
+psychoman59 a remporté 1120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1120 | Commission 0 
+Tableau [2h Ac 4h 3s Th]
+Siège 1 : psychoman59 (grosse blind) a montré [Qd 5c] et a gagné (1120) avec une suite, As à Cinq
+Siège 2 : sanes_1991 (bouton) (petite blind) a caché la main perdante. [8c Jd]
+
+
+
+Main PokerStars n°237862808683 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 08/08/2022 14:19:44 CET [08/08/2022 8:19:44 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (13160 en jetons) 
+Place 2: sanes_1991 (6840 en jetons) 
+psychoman59 : met l'ante. 60
+sanes_1991 : met l'ante. 60
+psychoman59 : met la petite blind. 250
+sanes_1991 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 8d]
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à sanes_1991.
+sanes_1991 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (grosse blind) a remporté (620)
+
+
+
+Main PokerStars n°237862810366 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 08/08/2022 14:19:53 CET [08/08/2022 8:19:53 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (12850 en jetons) 
+Place 2: sanes_1991 (7150 en jetons) 
+psychoman59 : met l'ante. 60
+sanes_1991 : met l'ante. 60
+sanes_1991 : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 9s]
+sanes_1991 : suit. 250
+psychoman59 : relance. 12290 à 12790 et est all-in.
+sanes_1991 : passe. 
+Personne n'a suivi. (12290) sont retournés à psychoman59.
+psychoman59 a remporté 1120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (1120)
+Siège 2 : sanes_1991 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862813043 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 08/08/2022 14:20:06 CET [08/08/2022 8:20:06 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (13410 en jetons) 
+Place 2: sanes_1991 (6590 en jetons) 
+psychoman59 : met l'ante. 60
+sanes_1991 : met l'ante. 60
+psychoman59 : met la petite blind. 250
+sanes_1991 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9s]
+psychoman59 : relance. 1120 à 1620
+sanes_1991 : passe. 
+Personne n'a suivi. (1120) sont retournés à psychoman59.
+psychoman59 a remporté 1120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (1120)
+Siège 2 : sanes_1991 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862820169 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 08/08/2022 14:20:24 CET [08/08/2022 8:20:24 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (13970 en jetons) 
+Place 2: sanes_1991 (6030 en jetons) 
+psychoman59 : met l'ante. 60
+sanes_1991 : met l'ante. 60
+sanes_1991 : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Jh]
+sanes_1991 : suit. 250
+psychoman59 : parole 
+*** FLOP *** [Qc Ts Kh]
+psychoman59 : parole 
+sanes_1991 : mise. 500
+psychoman59 : suit. 500
+*** TOURNANT *** [Qc Ts Kh] [6h]
+psychoman59 : parole 
+sanes_1991 : mise. 500
+psychoman59 : suit. 500
+*** RIVIÈRE *** [Qc Ts Kh 6h] [5c]
+psychoman59 : parole 
+sanes_1991 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3d Jh] (Hauteur Roi)
+sanes_1991 : montre [Th Jc] (une paire de Dix)
+sanes_1991 a remporté 3120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3120 | Commission 0 
+Tableau [Qc Ts Kh 6h 5c]
+Siège 1 : psychoman59 (grosse blind) a montré [3d Jh] et a perdu avec Hauteur Roi
+Siège 2 : sanes_1991 (bouton) (petite blind) a montré [Th Jc] et a gagné (3120) avec une paire de Dix
+
+
+
+Main PokerStars n°237862826143 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 08/08/2022 14:20:53 CET [08/08/2022 8:20:53 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (12410 en jetons) 
+Place 2: sanes_1991 (7590 en jetons) 
+psychoman59 : met l'ante. 60
+sanes_1991 : met l'ante. 60
+psychoman59 : met la petite blind. 250
+sanes_1991 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h As]
+psychoman59 : relance. 11850 à 12350 et est all-in.
+sanes_1991 : passe. 
+Personne n'a suivi. (11850) sont retournés à psychoman59.
+psychoman59 a remporté 1120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (1120)
+Siège 2 : sanes_1991 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862829465 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 08/08/2022 14:21:09 CET [08/08/2022 8:21:09 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (12970 en jetons) 
+Place 2: sanes_1991 (7030 en jetons) 
+psychoman59 : met l'ante. 60
+sanes_1991 : met l'ante. 60
+sanes_1991 : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 2s]
+sanes_1991 : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 620  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (620)
+Siège 2 : sanes_1991 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862830940 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 08/08/2022 14:21:16 CET [08/08/2022 8:21:16 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (13280 en jetons) 
+Place 2: sanes_1991 (6720 en jetons) 
+psychoman59 : met l'ante. 60
+sanes_1991 : met l'ante. 60
+psychoman59 : met la petite blind. 250
+sanes_1991 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Js]
+psychoman59 : relance. 1120 à 1620
+sanes_1991 : passe. 
+Personne n'a suivi. (1120) sont retournés à psychoman59.
+psychoman59 a remporté 1120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (1120)
+Siège 2 : sanes_1991 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862838887 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 08/08/2022 14:21:54 CET [08/08/2022 8:21:54 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (13840 en jetons) 
+Place 2: sanes_1991 (6160 en jetons) 
+psychoman59 : met l'ante. 70
+sanes_1991 : met l'ante. 70
+sanes_1991 : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Jh]
+sanes_1991 : relance. 1200 à 1800
+psychoman59 : suit. 1200
+*** FLOP *** [Ah 9c 7c]
+psychoman59 : mise. 11970 et est all-in.
+sanes_1991 : suit. 4290 et est all-in.
+Personne n'a suivi. (7680) sont retournés à psychoman59.
+*** TOURNANT *** [Ah 9c 7c] [9s]
+*** RIVIÈRE *** [Ah 9c 7c 9s] [As]
+*** ABATTAGE ***
+psychoman59 : montre [9h Jh] (un full, full aux Neuf par les As)
+sanes_1991 : montre [Ac Th] (un full, full aux As par les Neuf)
+sanes_1991 a remporté 12320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 12320 | Commission 0 
+Tableau [Ah 9c 7c 9s As]
+Siège 1 : psychoman59 (grosse blind) a montré [9h Jh] et a perdu avec un full, full aux Neuf par les As
+Siège 2 : sanes_1991 (bouton) (petite blind) a montré [Ac Th] et a gagné (12320) avec un full, full aux As par les Neuf
+
+
+
+Main PokerStars n°237862844110 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 08/08/2022 14:22:19 CET [08/08/2022 8:22:19 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (7680 en jetons) 
+Place 2: sanes_1991 (12320 en jetons) 
+psychoman59 : met l'ante. 70
+sanes_1991 : met l'ante. 70
+psychoman59 : met la petite blind. 300
+sanes_1991 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Jd]
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à sanes_1991.
+sanes_1991 a remporté 740  lors du pot .
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (grosse blind) a remporté (740)
+
+
+
+Main PokerStars n°237862845579 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 08/08/2022 14:22:26 CET [08/08/2022 8:22:26 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (7310 en jetons) 
+Place 2: sanes_1991 (12690 en jetons) 
+psychoman59 : met l'ante. 70
+sanes_1991 : met l'ante. 70
+sanes_1991 : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 9d]
+sanes_1991 : suit. 300
+psychoman59 : parole 
+*** FLOP *** [9c Qc 5s]
+psychoman59 : mise. 6640 et est all-in.
+sanes_1991 : passe. 
+Personne n'a suivi. (6640) sont retournés à psychoman59.
+psychoman59 a remporté 1340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1340 | Commission 0 
+Tableau [9c Qc 5s]
+Siège 1 : psychoman59 (grosse blind) a remporté (1340)
+Siège 2 : sanes_1991 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237862848833 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 08/08/2022 14:22:41 CET [08/08/2022 8:22:41 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (7980 en jetons) 
+Place 2: sanes_1991 (12020 en jetons) 
+psychoman59 : met l'ante. 70
+sanes_1991 : met l'ante. 70
+psychoman59 : met la petite blind. 300
+sanes_1991 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à sanes_1991.
+sanes_1991 a remporté 740  lors du pot .
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (grosse blind) a remporté (740)
+
+
+
+Main PokerStars n°237862852053 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 08/08/2022 14:22:57 CET [08/08/2022 8:22:57 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (7610 en jetons) 
+Place 2: sanes_1991 (12390 en jetons) 
+psychoman59 : met l'ante. 70
+sanes_1991 : met l'ante. 70
+sanes_1991 : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Qh]
+sanes_1991 : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 740  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (740)
+Siège 2 : sanes_1991 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862853831 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 08/08/2022 14:23:05 CET [08/08/2022 8:23:05 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (7980 en jetons) 
+Place 2: sanes_1991 (12020 en jetons) 
+psychoman59 : met l'ante. 70
+sanes_1991 : met l'ante. 70
+psychoman59 : met la petite blind. 300
+sanes_1991 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8h]
+psychoman59 : relance. 7310 à 7910 et est all-in.
+sanes_1991 : passe. 
+Personne n'a suivi. (7310) sont retournés à psychoman59.
+psychoman59 a remporté 1340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1340 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (1340)
+Siège 2 : sanes_1991 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862856133 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 08/08/2022 14:23:16 CET [08/08/2022 8:23:16 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (8650 en jetons) 
+Place 2: sanes_1991 (11350 en jetons) 
+psychoman59 : met l'ante. 70
+sanes_1991 : met l'ante. 70
+sanes_1991 : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Qs]
+sanes_1991 : suit. 300
+psychoman59 : parole 
+*** FLOP *** [Qc 9c 8d]
+psychoman59 : parole 
+sanes_1991 : mise. 600
+psychoman59 : relance. 7380 à 7980 et est all-in.
+sanes_1991 : passe. 
+Personne n'a suivi. (7380) sont retournés à psychoman59.
+psychoman59 a remporté 2540  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2540 | Commission 0 
+Tableau [Qc 9c 8d]
+Siège 1 : psychoman59 (grosse blind) a remporté (2540)
+Siège 2 : sanes_1991 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237862861711 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 08/08/2022 14:23:43 CET [08/08/2022 8:23:43 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (9920 en jetons) 
+Place 2: sanes_1991 (10080 en jetons) 
+psychoman59 : met l'ante. 70
+sanes_1991 : met l'ante. 70
+psychoman59 : met la petite blind. 300
+sanes_1991 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh As]
+psychoman59 : relance. 9250 à 9850 et est all-in.
+sanes_1991 : passe. 
+Personne n'a suivi. (9250) sont retournés à psychoman59.
+psychoman59 a remporté 1340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1340 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (1340)
+Siège 2 : sanes_1991 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862866171 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 08/08/2022 14:24:03 CET [08/08/2022 8:24:03 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (10590 en jetons) 
+Place 2: sanes_1991 (9410 en jetons) 
+psychoman59 : met l'ante. 70
+sanes_1991 : met l'ante. 70
+sanes_1991 : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Kc]
+sanes_1991 : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 740  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (740)
+Siège 2 : sanes_1991 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862867783 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 08/08/2022 14:24:11 CET [08/08/2022 8:24:11 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (10960 en jetons) 
+Place 2: sanes_1991 (9040 en jetons) 
+psychoman59 : met l'ante. 70
+sanes_1991 : met l'ante. 70
+psychoman59 : met la petite blind. 300
+sanes_1991 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 9s]
+psychoman59 : relance. 10290 à 10890 et est all-in.
+sanes_1991 : passe. 
+Personne n'a suivi. (10290) sont retournés à psychoman59.
+psychoman59 a remporté 1340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1340 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (1340)
+Siège 2 : sanes_1991 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862871702 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 08/08/2022 14:24:29 CET [08/08/2022 8:24:29 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (11630 en jetons) 
+Place 2: sanes_1991 (8370 en jetons) 
+psychoman59 : met l'ante. 85
+sanes_1991 : met l'ante. 85
+sanes_1991 : met la petite blind. 350
+psychoman59 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 6c]
+sanes_1991 : suit. 350
+psychoman59 : parole 
+*** FLOP *** [Jc 9h As]
+psychoman59 : parole 
+sanes_1991 : mise. 700
+psychoman59 : passe. 
+Personne n'a suivi. (700) sont retournés à sanes_1991.
+sanes_1991 a remporté 1570  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1570 | Commission 0 
+Tableau [Jc 9h As]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : sanes_1991 (bouton) (petite blind) a remporté (1570)
+
+
+
+Main PokerStars n°237862876236 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 08/08/2022 14:24:50 CET [08/08/2022 8:24:50 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (10845 en jetons) 
+Place 2: sanes_1991 (9155 en jetons) 
+psychoman59 : met l'ante. 85
+sanes_1991 : met l'ante. 85
+psychoman59 : met la petite blind. 350
+sanes_1991 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (350) sont retournés à sanes_1991.
+sanes_1991 a remporté 870  lors du pot .
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (grosse blind) a remporté (870)
+
+
+
+Main PokerStars n°237862877812 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 08/08/2022 14:24:58 CET [08/08/2022 8:24:58 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (10410 en jetons) 
+Place 2: sanes_1991 (9590 en jetons) 
+psychoman59 : met l'ante. 85
+sanes_1991 : met l'ante. 85
+sanes_1991 : met la petite blind. 350
+psychoman59 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 2c]
+sanes_1991 : passe. 
+Personne n'a suivi. (350) sont retournés à psychoman59.
+psychoman59 a remporté 870  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (870)
+Siège 2 : sanes_1991 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862879216 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 08/08/2022 14:25:04 CET [08/08/2022 8:25:04 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (10845 en jetons) 
+Place 2: sanes_1991 (9155 en jetons) 
+psychoman59 : met l'ante. 85
+sanes_1991 : met l'ante. 85
+psychoman59 : met la petite blind. 350
+sanes_1991 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 2c]
+psychoman59 : passe. 
+Personne n'a suivi. (350) sont retournés à sanes_1991.
+sanes_1991 a remporté 870  lors du pot .
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (grosse blind) a remporté (870)
+
+
+
+Main PokerStars n°237862881070 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 08/08/2022 14:25:13 CET [08/08/2022 8:25:13 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (10410 en jetons) 
+Place 2: sanes_1991 (9590 en jetons) 
+psychoman59 : met l'ante. 85
+sanes_1991 : met l'ante. 85
+sanes_1991 : met la petite blind. 350
+psychoman59 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 8d]
+sanes_1991 : passe. 
+Personne n'a suivi. (350) sont retournés à psychoman59.
+psychoman59 a remporté 870  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (870)
+Siège 2 : sanes_1991 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862882477 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 08/08/2022 14:25:20 CET [08/08/2022 8:25:20 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (10845 en jetons) 
+Place 2: sanes_1991 (9155 en jetons) 
+psychoman59 : met l'ante. 85
+sanes_1991 : met l'ante. 85
+psychoman59 : met la petite blind. 350
+sanes_1991 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Jd]
+psychoman59 : passe. 
+Personne n'a suivi. (350) sont retournés à sanes_1991.
+sanes_1991 a remporté 870  lors du pot .
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (grosse blind) a remporté (870)
+
+
+
+Main PokerStars n°237862884326 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 08/08/2022 14:25:28 CET [08/08/2022 8:25:28 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (10410 en jetons) 
+Place 2: sanes_1991 (9590 en jetons) 
+psychoman59 : met l'ante. 85
+sanes_1991 : met l'ante. 85
+sanes_1991 : met la petite blind. 350
+psychoman59 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 8d]
+sanes_1991 : relance. 700 à 1400
+psychoman59 : suit. 700
+*** FLOP *** [9h 4h 3s]
+psychoman59 : parole 
+sanes_1991 : parole 
+*** TOURNANT *** [9h 4h 3s] [Kd]
+psychoman59 : parole 
+sanes_1991 : parole 
+*** RIVIÈRE *** [9h 4h 3s Kd] [Th]
+psychoman59 : parole 
+sanes_1991 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qh 8d] (Hauteur Roi)
+sanes_1991 : montre [As Jc] (Hauteur As)
+sanes_1991 a remporté 2970  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2970 | Commission 0 
+Tableau [9h 4h 3s Kd Th]
+Siège 1 : psychoman59 (grosse blind) a montré [Qh 8d] et a perdu avec Hauteur Roi
+Siège 2 : sanes_1991 (bouton) (petite blind) a montré [As Jc] et a gagné (2970) avec Hauteur As
+
+
+
+Main PokerStars n°237862889545 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 08/08/2022 14:25:53 CET [08/08/2022 8:25:53 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8925 en jetons) 
+Place 2: sanes_1991 (11075 en jetons) 
+psychoman59 : met l'ante. 85
+sanes_1991 : met l'ante. 85
+psychoman59 : met la petite blind. 350
+sanes_1991 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 2c]
+psychoman59 : suit. 350
+sanes_1991 : relance. 10290 à 10990 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (10290) sont retournés à sanes_1991.
+sanes_1991 a remporté 1570  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1570 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (grosse blind) a remporté (1570)
+
+
+
+Main PokerStars n°237862892319 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 08/08/2022 14:26:06 CET [08/08/2022 8:26:06 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (8140 en jetons) 
+Place 2: sanes_1991 (11860 en jetons) 
+psychoman59 : met l'ante. 85
+sanes_1991 : met l'ante. 85
+sanes_1991 : met la petite blind. 350
+psychoman59 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Jh]
+sanes_1991 : passe. 
+Personne n'a suivi. (350) sont retournés à psychoman59.
+psychoman59 a remporté 870  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (870)
+Siège 2 : sanes_1991 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862895965 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 08/08/2022 14:26:23 CET [08/08/2022 8:26:23 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8575 en jetons) 
+Place 2: sanes_1991 (11425 en jetons) 
+psychoman59 : met l'ante. 85
+sanes_1991 : met l'ante. 85
+psychoman59 : met la petite blind. 350
+sanes_1991 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (350) sont retournés à sanes_1991.
+sanes_1991 a remporté 870  lors du pot .
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (grosse blind) a remporté (870)
+
+
+
+Main PokerStars n°237862897584 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 08/08/2022 14:26:31 CET [08/08/2022 8:26:31 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (8140 en jetons) 
+Place 2: sanes_1991 (11860 en jetons) 
+psychoman59 : met l'ante. 85
+sanes_1991 : met l'ante. 85
+sanes_1991 : met la petite blind. 350
+psychoman59 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Jh]
+sanes_1991 : passe. 
+Personne n'a suivi. (350) sont retournés à psychoman59.
+psychoman59 a remporté 870  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (870)
+Siège 2 : sanes_1991 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862899173 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 08/08/2022 14:26:39 CET [08/08/2022 8:26:39 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8575 en jetons) 
+Place 2: sanes_1991 (11425 en jetons) 
+psychoman59 : met l'ante. 85
+sanes_1991 : met l'ante. 85
+psychoman59 : met la petite blind. 350
+sanes_1991 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Jc]
+psychoman59 : relance. 7790 à 8490 et est all-in.
+sanes_1991 : suit. 7790
+*** FLOP *** [8d 7c 3d]
+*** TOURNANT *** [8d 7c 3d] [2h]
+*** RIVIÈRE *** [8d 7c 3d 2h] [Jd]
+*** ABATTAGE ***
+sanes_1991 : montre [Kc As] (Hauteur As)
+psychoman59 : montre [Qc Jc] (une paire de Valets)
+psychoman59 a remporté 17150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 17150 | Commission 0 
+Tableau [8d 7c 3d 2h Jd]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Qc Jc] et a gagné (17150) avec une paire de Valets
+Siège 2 : sanes_1991 (grosse blind) a montré [Kc As] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237862902644 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 08/08/2022 14:26:55 CET [08/08/2022 8:26:55 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (17150 en jetons) 
+Place 2: sanes_1991 (2850 en jetons) 
+psychoman59 : met l'ante. 85
+sanes_1991 : met l'ante. 85
+sanes_1991 : met la petite blind. 350
+psychoman59 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 9c]
+sanes_1991 : relance. 2065 à 2765 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (2065) sont retournés à sanes_1991.
+sanes_1991 a remporté 1570  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1570 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (bouton) (petite blind) a remporté (1570)
+
+
+
+Main PokerStars n°237862904495 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 08/08/2022 14:27:04 CET [08/08/2022 8:27:04 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (16365 en jetons) 
+Place 2: sanes_1991 (3635 en jetons) 
+psychoman59 : met l'ante. 85
+sanes_1991 : met l'ante. 85
+psychoman59 : met la petite blind. 350
+sanes_1991 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 9c]
+psychoman59 : relance. 1570 à 2270
+sanes_1991 : relance. 1280 à 3550 et est all-in.
+psychoman59 : suit. 1280
+*** FLOP *** [Ac 4h Td]
+*** TOURNANT *** [Ac 4h Td] [7h]
+*** RIVIÈRE *** [Ac 4h Td 7h] [Jh]
+*** ABATTAGE ***
+sanes_1991 : montre [Ks 7d] (une paire de Sept)
+psychoman59 : montre [Qh 9c] (Hauteur As)
+sanes_1991 a remporté 7270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 7270 | Commission 0 
+Tableau [Ac 4h Td 7h Jh]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Qh 9c] et a perdu avec Hauteur As
+Siège 2 : sanes_1991 (grosse blind) a montré [Ks 7d] et a gagné (7270) avec une paire de Sept
+
+
+
+Main PokerStars n°237862909105 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XI (400/800) - 08/08/2022 14:27:26 CET [08/08/2022 8:27:26 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (12730 en jetons) 
+Place 2: sanes_1991 (7270 en jetons) 
+psychoman59 : met l'ante. 100
+sanes_1991 : met l'ante. 100
+sanes_1991 : met la petite blind. 400
+psychoman59 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 6h]
+sanes_1991 : passe. 
+Personne n'a suivi. (400) sont retournés à psychoman59.
+psychoman59 a remporté 1000  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (1000)
+Siège 2 : sanes_1991 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862910548 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XI (400/800) - 08/08/2022 14:27:32 CET [08/08/2022 8:27:32 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (13230 en jetons) 
+Place 2: sanes_1991 (6770 en jetons) 
+psychoman59 : met l'ante. 100
+sanes_1991 : met l'ante. 100
+psychoman59 : met la petite blind. 400
+sanes_1991 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Kh]
+psychoman59 : relance. 12330 à 13130 et est all-in.
+sanes_1991 : passe. 
+Personne n'a suivi. (12330) sont retournés à psychoman59.
+psychoman59 a remporté 1800  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1800 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (1800)
+Siège 2 : sanes_1991 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862912652 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XI (400/800) - 08/08/2022 14:27:42 CET [08/08/2022 8:27:42 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (14130 en jetons) 
+Place 2: sanes_1991 (5870 en jetons) 
+psychoman59 : met l'ante. 100
+sanes_1991 : met l'ante. 100
+sanes_1991 : met la petite blind. 400
+psychoman59 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Jc]
+sanes_1991 : suit. 400
+psychoman59 : parole 
+*** FLOP *** [Jh 7c 2h]
+psychoman59 : parole 
+sanes_1991 : parole 
+*** TOURNANT *** [Jh 7c 2h] [9c]
+psychoman59 : mise. 13230 et est all-in.
+sanes_1991 : passe. 
+Personne n'a suivi. (13230) sont retournés à psychoman59.
+psychoman59 a remporté 1800  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1800 | Commission 0 
+Tableau [Jh 7c 2h 9c]
+Siège 1 : psychoman59 (grosse blind) a remporté (1800)
+Siège 2 : sanes_1991 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237862915907 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XI (400/800) - 08/08/2022 14:27:58 CET [08/08/2022 8:27:58 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (15030 en jetons) 
+Place 2: sanes_1991 (4970 en jetons) 
+psychoman59 : met l'ante. 100
+sanes_1991 : met l'ante. 100
+psychoman59 : met la petite blind. 400
+sanes_1991 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Th]
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à sanes_1991.
+sanes_1991 a remporté 1000  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (grosse blind) a remporté (1000)
+
+
+
+Main PokerStars n°237862917542 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XI (400/800) - 08/08/2022 14:28:05 CET [08/08/2022 8:28:05 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (14530 en jetons) 
+Place 2: sanes_1991 (5470 en jetons) 
+psychoman59 : met l'ante. 100
+sanes_1991 : met l'ante. 100
+sanes_1991 : met la petite blind. 400
+psychoman59 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 5d]
+sanes_1991 : passe. 
+Personne n'a suivi. (400) sont retournés à psychoman59.
+psychoman59 a remporté 1000  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (1000)
+Siège 2 : sanes_1991 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237862919011 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XI (400/800) - 08/08/2022 14:28:12 CET [08/08/2022 8:28:12 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (15030 en jetons) 
+Place 2: sanes_1991 (4970 en jetons) 
+psychoman59 : met l'ante. 100
+sanes_1991 : met l'ante. 100
+psychoman59 : met la petite blind. 400
+sanes_1991 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à sanes_1991.
+sanes_1991 a remporté 1000  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (grosse blind) a remporté (1000)
+
+
+
+Main PokerStars n°237862920626 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XI (400/800) - 08/08/2022 14:28:20 CET [08/08/2022 8:28:20 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (14530 en jetons) 
+Place 2: sanes_1991 (5470 en jetons) 
+psychoman59 : met l'ante. 100
+sanes_1991 : met l'ante. 100
+sanes_1991 : met la petite blind. 400
+psychoman59 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 7c]
+sanes_1991 : suit. 400
+psychoman59 : parole 
+*** FLOP *** [Qc Ac 3c]
+psychoman59 : parole 
+sanes_1991 : parole 
+*** TOURNANT *** [Qc Ac 3c] [Qh]
+psychoman59 : parole 
+sanes_1991 : parole 
+*** RIVIÈRE *** [Qc Ac 3c Qh] [2c]
+psychoman59 : mise. 1800
+sanes_1991 : passe. 
+Personne n'a suivi. (1800) sont retournés à psychoman59.
+psychoman59 a remporté 1800  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1800 | Commission 0 
+Tableau [Qc Ac 3c Qh 2c]
+Siège 1 : psychoman59 (grosse blind) a remporté (1800)
+Siège 2 : sanes_1991 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237862924726 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XI (400/800) - 08/08/2022 14:28:39 CET [08/08/2022 8:28:39 ET]
+Table '3453211901 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (15430 en jetons) 
+Place 2: sanes_1991 (4570 en jetons) 
+psychoman59 : met l'ante. 100
+sanes_1991 : met l'ante. 100
+psychoman59 : met la petite blind. 400
+sanes_1991 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à sanes_1991.
+sanes_1991 a remporté 1000  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : sanes_1991 (grosse blind) a remporté (1000)
+
+
+
+Main PokerStars n°237862926438 : Tournoi #3453211901, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XI (400/800) - 08/08/2022 14:28:47 CET [08/08/2022 8:28:47 ET]
+Table '3453211901 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (14930 en jetons) 
+Place 2: sanes_1991 (5070 en jetons) 
+psychoman59 : met l'ante. 100
+sanes_1991 : met l'ante. 100
+sanes_1991 : met la petite blind. 400
+psychoman59 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Ah]
+sanes_1991 : relance. 4170 à 4970 et est all-in.
+psychoman59 : suit. 4170
+*** FLOP *** [5d Qs Ks]
+*** TOURNANT *** [5d Qs Ks] [4c]
+*** RIVIÈRE *** [5d Qs Ks 4c] [8s]
+*** ABATTAGE ***
+psychoman59 : montre [Jd Ah] (Hauteur As)
+sanes_1991 : montre [Tc Ac] (Hauteur As - plus basse kicker)
+psychoman59 a remporté 10140  lors du pot .
+sanes_1991 a fini le tournoi à la 2e place et a reçu 0.34 €.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 10140 | Commission 0 
+Tableau [5d Qs Ks 4c 8s]
+Siège 1 : psychoman59 (grosse blind) a montré [Jd Ah] et a gagné (10140) avec Hauteur As
+Siège 2 : sanes_1991 (bouton) (petite blind) a montré [Tc Ac] et a perdu avec Hauteur As
+
+
+

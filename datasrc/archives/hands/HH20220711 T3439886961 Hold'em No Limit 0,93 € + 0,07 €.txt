@@ -1,0 +1,282 @@
+﻿Main PokerStars n°237292081845 : Tournoi #3439886961, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 13:39:45 CET [11/07/2022 7:39:45 ET]
+Table '3439886961 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: babas94420 (300 en jetons) 
+Place 3: ppyt556 (300 en jetons) 
+babas94420 : met la petite blind. 10
+ppyt556 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 4c]
+psychoman59 : passe. 
+babas94420 : suit. 10
+ppyt556 : parole 
+*** FLOP *** [Jc Ac As]
+babas94420 : mise. 20
+ppyt556 : suit. 20
+*** TOURNANT *** [Jc Ac As] [6s]
+babas94420 : mise. 20
+ppyt556 : suit. 20
+*** RIVIÈRE *** [Jc Ac As 6s] [Td]
+babas94420 : parole 
+ppyt556 : parole 
+*** ABATTAGE ***
+babas94420 : montre [9s Qs] (une paire de As)
+ppyt556 : montre [9c 6h] (double paire, As et Six)
+ppyt556 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jc Ac As 6s Td]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : babas94420 (petite blind) a montré [9s Qs] et a perdu avec une paire de As
+Siège 3 : ppyt556 (grosse blind) a montré [9c 6h] et a gagné (120) avec double paire, As et Six
+
+
+
+Main PokerStars n°237292087977 : Tournoi #3439886961, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 13:40:20 CET [11/07/2022 7:40:20 ET]
+Table '3439886961 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: babas94420 (240 en jetons) 
+Place 3: ppyt556 (360 en jetons) 
+ppyt556 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 9c]
+babas94420 : suit. 20
+ppyt556 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6h Qd 8d]
+ppyt556 : parole 
+psychoman59 : parole 
+babas94420 : mise. 20
+ppyt556 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à babas94420.
+babas94420 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6h Qd 8d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : babas94420 (bouton) a remporté (60)
+Siège 3 : ppyt556 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237292093480 : Tournoi #3439886961, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 13:40:50 CET [11/07/2022 7:40:50 ET]
+Table '3439886961 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: babas94420 (280 en jetons) 
+Place 3: ppyt556 (340 en jetons) 
+psychoman59 : met la petite blind. 15
+babas94420 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Qs]
+ppyt556 : passe. 
+psychoman59 : relance. 30 à 60
+babas94420 : relance. 60 à 120
+psychoman59 : suit. 60
+*** FLOP *** [Jd 4d 6d]
+psychoman59 : parole 
+babas94420 : mise. 160 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à babas94420.
+babas94420 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Jd 4d 6d]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 2 : babas94420 (grosse blind) a remporté (240)
+Siège 3 : ppyt556 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237292099799 : Tournoi #3439886961, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 13:41:25 CET [11/07/2022 7:41:25 ET]
+Table '3439886961 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (160 en jetons) 
+Place 2: babas94420 (400 en jetons) 
+Place 3: ppyt556 (340 en jetons) 
+babas94420 : met la petite blind. 15
+ppyt556 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 5h]
+psychoman59 : passe. 
+babas94420 : relance. 30 à 60
+ppyt556 : passe. 
+Personne n'a suivi. (30) sont retournés à babas94420.
+babas94420 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : babas94420 (petite blind) a remporté (60)
+Siège 3 : ppyt556 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237292102952 : Tournoi #3439886961, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 13:41:43 CET [11/07/2022 7:41:43 ET]
+Table '3439886961 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (160 en jetons) 
+Place 2: babas94420 (430 en jetons) 
+Place 3: ppyt556 (310 en jetons) 
+ppyt556 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 2d]
+babas94420 : relance. 60 à 90
+ppyt556 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à babas94420.
+babas94420 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : babas94420 (bouton) a remporté (75)
+Siège 3 : ppyt556 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237292105157 : Tournoi #3439886961, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 13:41:55 CET [11/07/2022 7:41:55 ET]
+Table '3439886961 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (130 en jetons) 
+Place 2: babas94420 (475 en jetons) 
+Place 3: ppyt556 (295 en jetons) 
+psychoman59 : met la petite blind. 20
+babas94420 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 3c]
+ppyt556 : suit. 40
+psychoman59 : passe. 
+babas94420 : parole 
+*** FLOP *** [5d 6s Td]
+babas94420 : parole 
+ppyt556 : parole 
+*** TOURNANT *** [5d 6s Td] [Jd]
+babas94420 : parole 
+ppyt556 : parole 
+*** RIVIÈRE *** [5d 6s Td Jd] [8s]
+babas94420 : parole 
+ppyt556 : parole 
+*** ABATTAGE ***
+babas94420 : montre [Qc 3s] (Hauteur Dame)
+ppyt556 : montre [Kh Ah] (Hauteur As)
+ppyt556 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [5d 6s Td Jd 8s]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : babas94420 (grosse blind) a montré [Qc 3s] et a perdu avec Hauteur Dame
+Siège 3 : ppyt556 (bouton) a montré [Kh Ah] et a gagné (100) avec Hauteur As
+
+
+
+Main PokerStars n°237292111595 : Tournoi #3439886961, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 13:42:31 CET [11/07/2022 7:42:31 ET]
+Table '3439886961 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (110 en jetons) 
+Place 2: babas94420 (435 en jetons) 
+Place 3: ppyt556 (355 en jetons) 
+babas94420 : met la petite blind. 20
+ppyt556 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 2c]
+psychoman59 : passe. 
+babas94420 : relance. 395 à 435 et est all-in.
+ppyt556 : suit. 315 et est all-in.
+Personne n'a suivi. (80) sont retournés à babas94420.
+*** FLOP *** [Qc 2h 5d]
+*** TOURNANT *** [Qc 2h 5d] [2d]
+*** RIVIÈRE *** [Qc 2h 5d 2d] [9h]
+*** ABATTAGE ***
+babas94420 : montre [As 6c] (une paire de Deux)
+ppyt556 : montre [8s 8d] (double paire, Huit et Deux)
+ppyt556 a remporté 710  lors du pot .
+*** SYNTHÈSE ***
+Pot total 710 | Commission 0 
+Tableau [Qc 2h 5d 2d 9h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : babas94420 (petite blind) a montré [As 6c] et a perdu avec une paire de Deux
+Siège 3 : ppyt556 (grosse blind) a montré [8s 8d] et a gagné (710) avec double paire, Huit et Deux
+
+
+
+Main PokerStars n°237292115790 : Tournoi #3439886961, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 13:42:55 CET [11/07/2022 7:42:55 ET]
+Table '3439886961 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (110 en jetons) 
+Place 2: babas94420 (80 en jetons) 
+Place 3: ppyt556 (710 en jetons) 
+ppyt556 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Tc]
+babas94420 : relance. 20 à 80 et est all-in.
+ppyt556 : passe. 
+psychoman59 : suit. 20
+*** FLOP *** [Jc Qh 4d]
+*** TOURNANT *** [Jc Qh 4d] [3s]
+*** RIVIÈRE *** [Jc Qh 4d 3s] [7d]
+*** ABATTAGE ***
+psychoman59 : montre [4c Tc] (une paire de Quatre)
+babas94420 : montre [Jh Kc] (une paire de Valets)
+babas94420 a remporté 190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Tableau [Jc Qh 4d 3s 7d]
+Siège 1 : psychoman59 (grosse blind) a montré [4c Tc] et a perdu avec une paire de Quatre
+Siège 2 : babas94420 (bouton) a montré [Jh Kc] et a gagné (190) avec une paire de Valets
+Siège 3 : ppyt556 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237292119141 : Tournoi #3439886961, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 13:43:13 CET [11/07/2022 7:43:13 ET]
+Table '3439886961 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (30 en jetons) 
+Place 2: babas94420 (190 en jetons) 
+Place 3: ppyt556 (680 en jetons) 
+psychoman59 : met la petite blind. 30 et est all-in.
+babas94420 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Ad]
+ppyt556 : suit. 60
+babas94420 : parole 
+*** FLOP *** [Kc Ts 5c]
+babas94420 : mise. 130 et est all-in.
+ppyt556 : suit. 130
+*** TOURNANT *** [Kc Ts 5c] [Ah]
+*** RIVIÈRE *** [Kc Ts 5c Ah] [3c]
+*** ABATTAGE ***
+babas94420 : montre [6s Qc] (Hauteur As)
+ppyt556 : montre [Kh 3h] (double paire, Rois et Trois)
+ppyt556 a remporté 320  parallèle lors du pot .
+psychoman59 : montre [Th Ad] (double paire, As et Dix)
+psychoman59 a remporté 90  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 410 Principal pot 90. Parallèle pot 320. | Commission 0 
+Tableau [Kc Ts 5c Ah 3c]
+Siège 1 : psychoman59 (petite blind) a montré [Th Ad] et a gagné (90) avec double paire, As et Dix
+Siège 2 : babas94420 (grosse blind) a montré [6s Qc] et a perdu avec Hauteur As
+Siège 3 : ppyt556 (bouton) a montré [Kh 3h] et a gagné (320) avec double paire, Rois et Trois
+
+
+
+Main PokerStars n°237292123097 : Tournoi #3439886961, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 13:43:35 CET [11/07/2022 7:43:35 ET]
+Table '3439886961 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (90 en jetons) 
+Place 3: ppyt556 (810 en jetons) 
+psychoman59 : met la petite blind. 30
+ppyt556 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 8h]
+psychoman59 : relance. 30 à 90 et est all-in.
+ppyt556 : suit. 30
+*** FLOP *** [Th Ad 9s]
+*** TOURNANT *** [Th Ad 9s] [Qd]
+*** RIVIÈRE *** [Th Ad 9s Qd] [Jd]
+*** ABATTAGE ***
+ppyt556 : montre [Kh 3s] (une suite, Dix à As)
+psychoman59 : montre [Td 8h] (une suite, Huit à Dame)
+ppyt556 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Th Ad 9s Qd Jd]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Td 8h] et a perdu avec une suite, Huit à Dame
+Siège 3 : ppyt556 (grosse blind) a montré [Kh 3s] et a gagné (180) avec une suite, Dix à As
+
+
+

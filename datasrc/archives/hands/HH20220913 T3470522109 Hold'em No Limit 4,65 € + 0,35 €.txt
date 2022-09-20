@@ -1,0 +1,231 @@
+﻿Main PokerStars n°238596282265 : Tournoi #3470522109, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 10:40:41 CET [13/09/2022 4:40:41 ET]
+Table '3470522109 1' 3-max Siège #1 est au bouton.
+Place 1: imvardo (300 en jetons) 
+Place 2: kojer18 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+kojer18 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 5s]
+imvardo : passe. 
+kojer18 : relance. 280 à 300 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (280) sont retournés à kojer18.
+kojer18 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : imvardo (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : kojer18 (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238596283427 : Tournoi #3470522109, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 10:40:49 CET [13/09/2022 4:40:49 ET]
+Table '3470522109 1' 3-max Siège #2 est au bouton.
+Place 1: imvardo (300 en jetons) 
+Place 2: kojer18 (320 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+imvardo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Tc]
+kojer18 : relance. 20 à 40
+psychoman59 : passe. 
+imvardo : suit. 20
+*** FLOP *** [7s 3h Qc]
+imvardo : parole 
+kojer18 : parole 
+*** TOURNANT *** [7s 3h Qc] [2s]
+imvardo : mise. 20
+kojer18 : passe. 
+Personne n'a suivi. (20) sont retournés à imvardo.
+imvardo a remporté 90  lors du pot .
+imvardo : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [7s 3h Qc 2s]
+Siège 1 : imvardo (grosse blind) a remporté (90)
+Siège 2 : kojer18 (bouton) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238596286122 : Tournoi #3470522109, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 10:41:09 CET [13/09/2022 4:41:09 ET]
+Table '3470522109 1' 3-max Siège #3 est au bouton.
+Place 1: imvardo (350 en jetons) 
+Place 2: kojer18 (280 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+imvardo : met la petite blind. 10
+kojer18 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Ac]
+psychoman59 : suit. 20
+imvardo : passe. 
+kojer18 : relance. 260 à 280 et est all-in.
+psychoman59 : suit. 250 et est all-in.
+Personne n'a suivi. (10) sont retournés à kojer18.
+*** FLOP *** [7d 3h 8c]
+*** TOURNANT *** [7d 3h 8c] [8s]
+*** RIVIÈRE *** [7d 3h 8c 8s] [2c]
+*** ABATTAGE ***
+kojer18 : montre [Ad Ks] (une paire de Huit)
+psychoman59 : montre [3s Ac] (double paire, Huit et Trois)
+psychoman59 a remporté 550  lors du pot .
+*** SYNTHÈSE ***
+Pot total 550 | Commission 0 
+Tableau [7d 3h 8c 8s 2c]
+Siège 1 : imvardo (petite blind) s'est couché. avant Flop
+Siège 2 : kojer18 (grosse blind) a montré [Ad Ks] et a perdu avec une paire de Huit
+Siège 3 : psychoman59 (bouton) a montré [3s Ac] et a gagné (550) avec double paire, Huit et Trois
+
+
+
+Main PokerStars n°238596289487 : Tournoi #3470522109, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 10:41:35 CET [13/09/2022 4:41:35 ET]
+Table '3470522109 1' 3-max Siège #1 est au bouton.
+Place 1: imvardo (340 en jetons) 
+Place 2: kojer18 (10 en jetons) 
+Place 3: psychoman59 (550 en jetons) 
+kojer18 : met la petite blind. 10 et est all-in.
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 3d]
+imvardo : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+*** FLOP *** [8c 4s Th]
+*** TOURNANT *** [8c 4s Th] [Jd]
+*** RIVIÈRE *** [8c 4s Th Jd] [2c]
+*** ABATTAGE ***
+kojer18 : montre [6d 5s] (Hauteur Valet)
+psychoman59 : montre [8d 3d] (une paire de Huit)
+psychoman59 a remporté 20  lors du pot .
+kojer18 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Tableau [8c 4s Th Jd 2c]
+Siège 1 : imvardo (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : kojer18 (petite blind) a montré [6d 5s] et a perdu avec Hauteur Valet
+Siège 3 : psychoman59 (grosse blind) a montré [8d 3d] et a gagné (20) avec une paire de Huit
+
+
+
+Main PokerStars n°238596291352 : Tournoi #3470522109, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 10:41:48 CET [13/09/2022 4:41:48 ET]
+Table '3470522109 1' 3-max Siège #3 est au bouton.
+Place 1: imvardo (340 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+psychoman59 : met la petite blind. 15
+imvardo : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qh]
+psychoman59 : relance. 530 à 560 et est all-in.
+imvardo : passe. 
+Personne n'a suivi. (530) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : imvardo (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°238596293520 : Tournoi #3470522109, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 10:42:05 CET [13/09/2022 4:42:05 ET]
+Table '3470522109 1' 3-max Siège #1 est au bouton.
+Place 1: imvardo (310 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+imvardo : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Qs]
+imvardo : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : imvardo (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°238596294520 : Tournoi #3470522109, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 10:42:12 CET [13/09/2022 4:42:12 ET]
+Table '3470522109 1' 3-max Siège #3 est au bouton.
+Place 1: imvardo (295 en jetons) 
+Place 3: psychoman59 (605 en jetons) 
+psychoman59 : met la petite blind. 15
+imvardo : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Qd]
+psychoman59 : suit. 15
+imvardo : relance. 265 à 295 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (265) sont retournés à imvardo.
+imvardo a remporté 60  lors du pot .
+imvardo : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : imvardo (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238596295818 : Tournoi #3470522109, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 10:42:22 CET [13/09/2022 4:42:22 ET]
+Table '3470522109 1' 3-max Siège #1 est au bouton.
+Place 1: imvardo (325 en jetons) 
+Place 3: psychoman59 (575 en jetons) 
+imvardo : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Qd]
+imvardo : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9s Td 5s]
+psychoman59 : parole 
+imvardo : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [9s Td 5s] [8c]
+psychoman59 : parole 
+imvardo : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [9s Td 5s 8c] [6d]
+psychoman59 : parole 
+imvardo : mise. 235 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (235) sont retournés à imvardo.
+imvardo a remporté 180  lors du pot .
+imvardo : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [9s Td 5s 8c 6d]
+Siège 1 : imvardo (bouton) (petite blind) a remporté (180)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238596300117 : Tournoi #3470522109, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 10:42:54 CET [13/09/2022 4:42:54 ET]
+Table '3470522109 1' 3-max Siège #3 est au bouton.
+Place 1: imvardo (415 en jetons) 
+Place 3: psychoman59 (485 en jetons) 
+psychoman59 : met la petite blind. 20
+imvardo : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ac]
+psychoman59 : relance. 445 à 485 et est all-in.
+imvardo : suit. 375 et est all-in.
+Personne n'a suivi. (70) sont retournés à psychoman59.
+*** FLOP *** [2s 8d 6d]
+*** TOURNANT *** [2s 8d 6d] [7s]
+*** RIVIÈRE *** [2s 8d 6d 7s] [3s]
+*** ABATTAGE ***
+imvardo : montre [9d Kh] (Hauteur Roi)
+psychoman59 : montre [5c Ac] (Hauteur As)
+psychoman59 a remporté 830  lors du pot .
+imvardo a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 10.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 830 | Commission 0 
+Tableau [2s 8d 6d 7s 3s]
+Siège 1 : imvardo (grosse blind) a montré [9d Kh] et a perdu avec Hauteur Roi
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [5c Ac] et a gagné (830) avec Hauteur As
+
+
+

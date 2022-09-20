@@ -1,0 +1,438 @@
+﻿Main PokerStars n°238105101647 : Tournoi #3459045742, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 15:54:25 CET [20/08/2022 9:54:25 ET]
+Table '3459045742 1' 4-max Siège #1 est au bouton.
+Place 1: luciani9 (5000 en jetons) 
+Place 2: Bessari32 (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: dimoni888 (5000 en jetons) 
+luciani9 : met l'ante. 10
+Bessari32 : met l'ante. 10
+psychoman59 : met l'ante. 10
+dimoni888 : met l'ante. 10
+Bessari32 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Ah]
+dimoni888 : passe. 
+luciani9 : suit. 100
+Bessari32 : relance. 100 à 200
+psychoman59 : suit. 100
+luciani9 : suit. 100
+*** FLOP *** [Kh 6s Qh]
+Bessari32 : parole 
+psychoman59 : parole 
+luciani9 : mise. 320
+Bessari32 : suit. 320
+psychoman59 : passe. 
+*** TOURNANT *** [Kh 6s Qh] [Td]
+Bessari32 : mise. 840
+luciani9 : suit. 840
+*** RIVIÈRE *** [Kh 6s Qh Td] [6d]
+Bessari32 : mise. 1380
+luciani9 : suit. 1380
+*** ABATTAGE ***
+Bessari32 : montre [Ks 4s] (double paire, Rois et Six)
+luciani9 : montre [Kc Ts] (double paire, Rois et Dix)
+luciani9 a remporté 5720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5720 | Commission 0 
+Tableau [Kh 6s Qh Td 6d]
+Siège 1 : luciani9 (bouton) a montré [Kc Ts] et a gagné (5720) avec double paire, Rois et Dix
+Siège 2 : Bessari32 (petite blind) a montré [Ks 4s] et a perdu avec double paire, Rois et Six
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 4 : dimoni888 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238105120883 : Tournoi #3459045742, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 15:55:49 CET [20/08/2022 9:55:49 ET]
+Table '3459045742 1' 4-max Siège #2 est au bouton.
+Place 1: luciani9 (7970 en jetons) 
+Place 2: Bessari32 (2250 en jetons) 
+Place 3: psychoman59 (4790 en jetons) 
+Place 4: dimoni888 (4990 en jetons) 
+luciani9 : met l'ante. 10
+Bessari32 : met l'ante. 10
+psychoman59 : met l'ante. 10
+dimoni888 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+dimoni888 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Kc]
+luciani9 : passe. 
+Bessari32 : passe. 
+psychoman59 : relance. 240 à 340
+dimoni888 : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : luciani9 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Bessari32 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (240)
+Siège 4 : dimoni888 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238105129402 : Tournoi #3459045742, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 15:56:29 CET [20/08/2022 9:56:29 ET]
+Table '3459045742 1' 4-max Siège #3 est au bouton.
+Place 1: luciani9 (7960 en jetons) 
+Place 2: Bessari32 (2240 en jetons) 
+Place 3: psychoman59 (4920 en jetons) 
+Place 4: dimoni888 (4880 en jetons) 
+luciani9 : met l'ante. 10
+Bessari32 : met l'ante. 10
+psychoman59 : met l'ante. 10
+dimoni888 : met l'ante. 10
+dimoni888 : met la petite blind. 50
+luciani9 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 8c]
+Bessari32 : relance. 100 à 200
+psychoman59 : passe. 
+dimoni888 : passe. 
+luciani9 : suit. 100
+*** FLOP *** [7s 6s 9d]
+luciani9 : parole 
+Bessari32 : mise. 490
+luciani9 : suit. 490
+*** TOURNANT *** [7s 6s 9d] [Ts]
+luciani9 : parole 
+Bessari32 : mise. 1470
+luciani9 : suit. 1470
+*** RIVIÈRE *** [7s 6s 9d Ts] [Qs]
+luciani9 : parole 
+Bessari32 : mise. 70 et est all-in.
+luciani9 : suit. 70
+*** ABATTAGE ***
+Bessari32 : montre [As Ad] (une couleur, hauteur As)
+luciani9 : montre [Qc Th] (double paire, Dames et Dix)
+Bessari32 a remporté 4550  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4550 | Commission 0 
+Tableau [7s 6s 9d Ts Qs]
+Siège 1 : luciani9 (grosse blind) a montré [Qc Th] et a perdu avec double paire, Dames et Dix
+Siège 2 : Bessari32 a montré [As Ad] et a gagné (4550) avec une couleur, hauteur As
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : dimoni888 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238105139086 : Tournoi #3459045742, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 15:57:15 CET [20/08/2022 9:57:15 ET]
+Table '3459045742 1' 4-max Siège #4 est au bouton.
+Place 1: luciani9 (5720 en jetons) 
+Place 2: Bessari32 (4550 en jetons) 
+Place 3: psychoman59 (4910 en jetons) 
+Place 4: dimoni888 (4820 en jetons) 
+luciani9 : met l'ante. 10
+Bessari32 : met l'ante. 10
+psychoman59 : met l'ante. 10
+dimoni888 : met l'ante. 10
+luciani9 : met la petite blind. 50
+Bessari32 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 9s]
+psychoman59 : suit. 100
+dimoni888 : passe. 
+luciani9 : suit. 50
+Bessari32 : parole 
+*** FLOP *** [9h Qs Jd]
+luciani9 : mise. 5610 et est all-in.
+Bessari32 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (5610) sont retournés à luciani9.
+luciani9 a remporté 340  lors du pot .
+luciani9 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [9h Qs Jd]
+Siège 1 : luciani9 (petite blind) a remporté (340)
+Siège 2 : Bessari32 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 s'est couché. sur le Flop
+Siège 4 : dimoni888 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238105146422 : Tournoi #3459045742, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 15:57:51 CET [20/08/2022 9:57:51 ET]
+Table '3459045742 1' 4-max Siège #1 est au bouton.
+Place 1: luciani9 (5950 en jetons) 
+Place 2: Bessari32 (4440 en jetons) 
+Place 3: psychoman59 (4800 en jetons) 
+Place 4: dimoni888 (4810 en jetons) 
+luciani9 : met l'ante. 15
+Bessari32 : met l'ante. 15
+psychoman59 : met l'ante. 15
+dimoni888 : met l'ante. 15
+Bessari32 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 3d]
+dimoni888 : passe. 
+luciani9 : relance. 5815 à 5935 et est all-in.
+Bessari32 : suit. 4365 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (1510) sont retournés à luciani9.
+*** FLOP *** [7d 6h 2c]
+*** TOURNANT *** [7d 6h 2c] [3c]
+*** RIVIÈRE *** [7d 6h 2c 3c] [4h]
+*** ABATTAGE ***
+Bessari32 : montre [Ad 8h] (Hauteur As)
+luciani9 : montre [Td Tc] (une paire de Dix)
+luciani9 a remporté 9030  lors du pot .
+Bessari32 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 9030 | Commission 0 
+Tableau [7d 6h 2c 3c 4h]
+Siège 1 : luciani9 (bouton) a montré [Td Tc] et a gagné (9030) avec une paire de Dix
+Siège 2 : Bessari32 (petite blind) a montré [Ad 8h] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : dimoni888 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238105151553 : Tournoi #3459045742, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 15:58:15 CET [20/08/2022 9:58:15 ET]
+Table '3459045742 1' 4-max Siège #3 est au bouton.
+Place 1: luciani9 (10540 en jetons) 
+Place 3: psychoman59 (4665 en jetons) 
+Place 4: dimoni888 (4795 en jetons) 
+luciani9 : met l'ante. 15
+psychoman59 : met l'ante. 15
+dimoni888 : met l'ante. 15
+dimoni888 : met la petite blind. 60
+luciani9 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 4d]
+psychoman59 : passe. 
+dimoni888 : relance. 240 à 360
+luciani9 : suit. 240
+*** FLOP *** [9c Kh Qh]
+dimoni888 : parole 
+luciani9 : parole 
+*** TOURNANT *** [9c Kh Qh] [9d]
+dimoni888 : parole 
+luciani9 : parole 
+*** RIVIÈRE *** [9c Kh Qh 9d] [Kc]
+dimoni888 : mise. 765
+luciani9 : passe. 
+Personne n'a suivi. (765) sont retournés à dimoni888.
+dimoni888 a remporté 765  lors du pot .
+*** SYNTHÈSE ***
+Pot total 765 | Commission 0 
+Tableau [9c Kh Qh 9d Kc]
+Siège 1 : luciani9 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : dimoni888 (petite blind) a remporté (765)
+
+
+
+Main PokerStars n°238105159486 : Tournoi #3459045742, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 15:58:53 CET [20/08/2022 9:58:53 ET]
+Table '3459045742 1' 4-max Siège #4 est au bouton.
+Place 1: luciani9 (10165 en jetons) 
+Place 3: psychoman59 (4650 en jetons) 
+Place 4: dimoni888 (5185 en jetons) 
+luciani9 : met l'ante. 15
+psychoman59 : met l'ante. 15
+dimoni888 : met l'ante. 15
+luciani9 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 6d]
+dimoni888 : relance. 120 à 240
+luciani9 : passe. 
+psychoman59 : relance. 4395 à 4635 et est all-in.
+dimoni888 : passe. 
+Personne n'a suivi. (4395) sont retournés à psychoman59.
+psychoman59 a remporté 585  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 585 | Commission 0 
+Siège 1 : luciani9 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (585)
+Siège 4 : dimoni888 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238105163015 : Tournoi #3459045742, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 15:59:10 CET [20/08/2022 9:59:10 ET]
+Table '3459045742 1' 4-max Siège #1 est au bouton.
+Place 1: luciani9 (10090 en jetons) 
+Place 3: psychoman59 (4980 en jetons) 
+Place 4: dimoni888 (4930 en jetons) 
+luciani9 : met l'ante. 15
+psychoman59 : met l'ante. 15
+dimoni888 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+dimoni888 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Td]
+luciani9 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à dimoni888.
+dimoni888 a remporté 165  lors du pot .
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : luciani9 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : dimoni888 (grosse blind) a remporté (165)
+
+
+
+Main PokerStars n°238105165137 : Tournoi #3459045742, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 15:59:21 CET [20/08/2022 9:59:21 ET]
+Table '3459045742 1' 4-max Siège #3 est au bouton.
+Place 1: luciani9 (10075 en jetons) 
+Place 3: psychoman59 (4905 en jetons) 
+Place 4: dimoni888 (5020 en jetons) 
+luciani9 : met l'ante. 15
+psychoman59 : met l'ante. 15
+dimoni888 : met l'ante. 15
+dimoni888 : met la petite blind. 60
+luciani9 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 6d]
+psychoman59 : relance. 240 à 360
+dimoni888 : passe. 
+luciani9 : suit. 240
+*** FLOP *** [2h 4d Td]
+luciani9 : parole 
+psychoman59 : mise. 412
+luciani9 : passe. 
+Personne n'a suivi. (412) sont retournés à psychoman59.
+psychoman59 a remporté 825  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 825 | Commission 0 
+Tableau [2h 4d Td]
+Siège 1 : luciani9 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a remporté (825)
+Siège 4 : dimoni888 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238105171233 : Tournoi #3459045742, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 15:59:49 CET [20/08/2022 9:59:49 ET]
+Table '3459045742 1' 4-max Siège #4 est au bouton.
+Place 1: luciani9 (9700 en jetons) 
+Place 3: psychoman59 (5355 en jetons) 
+Place 4: dimoni888 (4945 en jetons) 
+luciani9 : met l'ante. 15
+psychoman59 : met l'ante. 15
+dimoni888 : met l'ante. 15
+luciani9 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 9h]
+dimoni888 : passe. 
+luciani9 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [Js Ad 2d]
+luciani9 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Js Ad 2d] [Kc]
+luciani9 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Js Ad 2d Kc] [Jd]
+luciani9 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+luciani9 : montre [Qc 8d] (une paire de Valets)
+psychoman59 : cache la main perdante. 
+luciani9 a remporté 285  lors du pot .
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Tableau [Js Ad 2d Kc Jd]
+Siège 1 : luciani9 (petite blind) a montré [Qc 8d] et a gagné (285) avec une paire de Valets
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [6c 9h]
+Siège 4 : dimoni888 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238105175929 : Tournoi #3459045742, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 16:00:12 CET [20/08/2022 10:00:12 ET]
+Table '3459045742 1' 4-max Siège #1 est au bouton.
+Place 1: luciani9 (9850 en jetons) 
+Place 3: psychoman59 (5220 en jetons) 
+Place 4: dimoni888 (4930 en jetons) 
+luciani9 : met l'ante. 15
+psychoman59 : met l'ante. 15
+dimoni888 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+dimoni888 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Tc]
+luciani9 : suit. 120
+psychoman59 : passe. 
+dimoni888 : relance. 240 à 360
+luciani9 : suit. 240
+*** FLOP *** [Ac 8d 8c]
+dimoni888 : mise. 240
+luciani9 : suit. 240
+*** TOURNANT *** [Ac 8d 8c] [Jh]
+dimoni888 : parole 
+luciani9 : mise. 652
+dimoni888 : passe. 
+Personne n'a suivi. (652) sont retournés à luciani9.
+luciani9 a remporté 1305  lors du pot .
+luciani9 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1305 | Commission 0 
+Tableau [Ac 8d 8c Jh]
+Siège 1 : luciani9 (bouton) a remporté (1305)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : dimoni888 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238105185267 : Tournoi #3459045742, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 16:00:52 CET [20/08/2022 10:00:52 ET]
+Table '3459045742 1' 4-max Siège #3 est au bouton.
+Place 1: luciani9 (10540 en jetons) 
+Place 3: psychoman59 (5145 en jetons) 
+Place 4: dimoni888 (4315 en jetons) 
+luciani9 : met l'ante. 20
+psychoman59 : met l'ante. 20
+dimoni888 : met l'ante. 20
+dimoni888 : met la petite blind. 75
+luciani9 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 5h]
+psychoman59 : passe. 
+dimoni888 : passe. 
+Personne n'a suivi. (75) sont retournés à luciani9.
+luciani9 a remporté 210  lors du pot .
+luciani9 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 1 : luciani9 (grosse blind) a remporté (210)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : dimoni888 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238105187483 : Tournoi #3459045742, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 16:01:01 CET [20/08/2022 10:01:01 ET]
+Table '3459045742 1' 4-max Siège #4 est au bouton.
+Place 1: luciani9 (10655 en jetons) 
+Place 3: psychoman59 (5125 en jetons) 
+Place 4: dimoni888 (4220 en jetons) 
+luciani9 : met l'ante. 20
+psychoman59 : met l'ante. 20
+dimoni888 : met l'ante. 20
+luciani9 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Js]
+dimoni888 : passe. 
+luciani9 : relance. 150 à 300
+psychoman59 : relance. 4805 à 5105 et est all-in.
+luciani9 : suit. 4805
+*** FLOP *** [Qs Ac 6h]
+*** TOURNANT *** [Qs Ac 6h] [Qh]
+*** RIVIÈRE *** [Qs Ac 6h Qh] [As]
+*** ABATTAGE ***
+luciani9 : montre [Qd Ks] (un full, full aux Dames par les As)
+psychoman59 : montre [Kh Js] (double paire, As et Dames)
+luciani9 a remporté 10270  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 10270 | Commission 0 
+Tableau [Qs Ac 6h Qh As]
+Siège 1 : luciani9 (petite blind) a montré [Qd Ks] et a gagné (10270) avec un full, full aux Dames par les As
+Siège 3 : psychoman59 (grosse blind) a montré [Kh Js] et a perdu avec double paire, As et Dames
+Siège 4 : dimoni888 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+

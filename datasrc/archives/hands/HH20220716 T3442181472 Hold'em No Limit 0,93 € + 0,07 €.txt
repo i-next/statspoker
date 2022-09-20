@@ -1,0 +1,126 @@
+﻿Main PokerStars n°237387561143 : Tournoi #3442181472, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2022 8:28:19 CET [16/07/2022 2:28:19 ET]
+Table '3442181472 1' 3-max Siège #1 est au bouton.
+Place 1: nanox72100 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: jetevois1 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+jetevois1 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Qd]
+nanox72100 : suit. 20
+psychoman59 : passe. 
+jetevois1 : parole 
+*** FLOP *** [5s 4h Ks]
+jetevois1 : parole 
+nanox72100 : parole 
+*** TOURNANT *** [5s 4h Ks] [5c]
+jetevois1 : mise. 20
+nanox72100 : suit. 20
+*** RIVIÈRE *** [5s 4h Ks 5c] [Kc]
+jetevois1 : mise. 20
+nanox72100 : suit. 20
+*** ABATTAGE ***
+jetevois1 : montre [9c 9h] (double paire, Rois et Neuf)
+nanox72100 : cache la main perdante. 
+jetevois1 a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [5s 4h Ks 5c Kc]
+Siège 1 : nanox72100 (bouton) a caché la main perdante. [9s Ac]
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : jetevois1 (grosse blind) a montré [9c 9h] et a gagné (130) avec double paire, Rois et Neuf
+
+
+
+Main PokerStars n°237387565818 : Tournoi #3442181472, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2022 8:28:58 CET [16/07/2022 2:28:58 ET]
+Table '3442181472 1' 3-max Siège #2 est au bouton.
+Place 1: nanox72100 (240 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: jetevois1 (370 en jetons) 
+jetevois1 : met la petite blind. 10
+nanox72100 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Tc]
+psychoman59 : relance. 50 à 70
+jetevois1 : passe. 
+nanox72100 : suit. 50
+*** FLOP *** [8s 3h As]
+nanox72100 : parole 
+psychoman59 : mise. 75
+nanox72100 : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [8s 3h As]
+Siège 1 : nanox72100 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) a remporté (150)
+Siège 3 : jetevois1 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237387569112 : Tournoi #3442181472, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 8:29:26 CET [16/07/2022 2:29:26 ET]
+Table '3442181472 1' 3-max Siège #3 est au bouton.
+Place 1: nanox72100 (170 en jetons) 
+Place 2: psychoman59 (370 en jetons) 
+Place 3: jetevois1 (360 en jetons) 
+nanox72100 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 5h]
+jetevois1 : passe. 
+nanox72100 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [8s Kd 6h]
+nanox72100 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [8s Kd 6h] [8c]
+nanox72100 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [8s Kd 6h 8c] [Qh]
+nanox72100 : mise. 60
+psychoman59 : relance. 60 à 120
+nanox72100 : suit. 20 et est all-in.
+Personne n'a suivi. (40) sont retournés à psychoman59.
+*** ABATTAGE ***
+psychoman59 : montre [8d 5h] (un brelan de Huit)
+nanox72100 : montre [8h Qc] (un full, full aux Huit par les Dames)
+nanox72100 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [8s Kd 6h 8c Qh]
+Siège 1 : nanox72100 (petite blind) a montré [8h Qc] et a gagné (340) avec un full, full aux Huit par les Dames
+Siège 2 : psychoman59 (grosse blind) a montré [8d 5h] et a perdu avec un brelan de Huit
+Siège 3 : jetevois1 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237387572774 : Tournoi #3442181472, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 8:29:56 CET [16/07/2022 2:29:56 ET]
+Table '3442181472 1' 3-max Siège #1 est au bouton.
+Place 1: nanox72100 (340 en jetons) 
+Place 2: psychoman59 (200 en jetons) 
+Place 3: jetevois1 (360 en jetons) 
+psychoman59 : met la petite blind. 15
+jetevois1 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c As]
+nanox72100 : suit. 30
+psychoman59 : relance. 170 à 200 et est all-in.
+jetevois1 : suit. 170
+nanox72100 : passe. 
+*** FLOP *** [8h 6d 7h]
+*** TOURNANT *** [8h 6d 7h] [Kh]
+*** RIVIÈRE *** [8h 6d 7h Kh] [4d]
+*** ABATTAGE ***
+psychoman59 : montre [7c As] (une paire de Sept)
+jetevois1 : montre [7d 7s] (un brelan de Sept)
+jetevois1 a remporté 430  lors du pot .
+*** SYNTHÈSE ***
+Pot total 430 | Commission 0 
+Tableau [8h 6d 7h Kh 4d]
+Siège 1 : nanox72100 (bouton) s'est couché. avant Flop
+Siège 2 : psychoman59 (petite blind) a montré [7c As] et a perdu avec une paire de Sept
+Siège 3 : jetevois1 (grosse blind) a montré [7d 7s] et a gagné (430) avec un brelan de Sept
+
+
+

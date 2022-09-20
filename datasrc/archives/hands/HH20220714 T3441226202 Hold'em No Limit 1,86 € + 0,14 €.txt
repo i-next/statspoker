@@ -1,0 +1,187 @@
+﻿Main PokerStars n°237348572975 : Tournoi #3441226202, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 14/07/2022 8:48:27 CET [14/07/2022 2:48:27 ET]
+Table '3441226202 1' 3-max Siège #1 est au bouton.
+Place 1: siomararey (300 en jetons) 
+Place 2: pApAchAngA (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+pApAchAngA : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Qs]
+siomararey : suit. 20
+pApAchAngA : suit. 10
+psychoman59 : relance. 280 à 300 et est all-in.
+siomararey : passe. 
+pApAchAngA : suit. 280 et est all-in.
+*** FLOP *** [5s 3s 4d]
+*** TOURNANT *** [5s 3s 4d] [Td]
+*** RIVIÈRE *** [5s 3s 4d Td] [Js]
+*** ABATTAGE ***
+pApAchAngA : montre [Ac Jd] (une paire de Valets)
+psychoman59 : montre [As Qs] (une couleur, hauteur As)
+psychoman59 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [5s 3s 4d Td Js]
+Siège 1 : siomararey (bouton) s'est couché. avant Flop
+Siège 2 : pApAchAngA (petite blind) a montré [Ac Jd] et a perdu avec une paire de Valets
+Siège 3 : psychoman59 (grosse blind) a montré [As Qs] et a gagné (620) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°237348576361 : Tournoi #3441226202, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 14/07/2022 8:48:59 CET [14/07/2022 2:48:59 ET]
+Table '3441226202 1' 3-max Siège #3 est au bouton.
+Place 1: siomararey (280 en jetons) 
+Place 3: psychoman59 (620 en jetons) 
+psychoman59 : met la petite blind. 10
+siomararey : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 9h]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à siomararey.
+siomararey a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : siomararey (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237348577331 : Tournoi #3441226202, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 14/07/2022 8:49:08 CET [14/07/2022 2:49:08 ET]
+Table '3441226202 1' 3-max Siège #1 est au bouton.
+Place 1: siomararey (290 en jetons) 
+Place 3: psychoman59 (610 en jetons) 
+siomararey : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Ad]
+siomararey : relance. 20 à 40
+psychoman59 : relance. 570 à 610 et est all-in.
+siomararey : suit. 250 et est all-in.
+Personne n'a suivi. (320) sont retournés à psychoman59.
+*** FLOP *** [7h 4d 3s]
+*** TOURNANT *** [7h 4d 3s] [Kh]
+*** RIVIÈRE *** [7h 4d 3s Kh] [Qh]
+*** ABATTAGE ***
+psychoman59 : montre [2h Ad] (Hauteur As)
+siomararey : montre [5s Ah] (Hauteur As - Roi+Dame+Sept+Cinq kicker)
+siomararey a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [7h 4d 3s Kh Qh]
+Siège 1 : siomararey (bouton) (petite blind) a montré [5s Ah] et a gagné (580) avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [2h Ad] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237348578835 : Tournoi #3441226202, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 14/07/2022 8:49:23 CET [14/07/2022 2:49:23 ET]
+Table '3441226202 1' 3-max Siège #3 est au bouton.
+Place 1: siomararey (580 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 10
+siomararey : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Ah]
+psychoman59 : relance. 300 à 320 et est all-in.
+siomararey : suit. 300
+*** FLOP *** [3d 8s 7s]
+*** TOURNANT *** [3d 8s 7s] [3h]
+*** RIVIÈRE *** [3d 8s 7s 3h] [Qd]
+*** ABATTAGE ***
+siomararey : montre [Tc Js] (une paire de Trois)
+psychoman59 : montre [3s Ah] (un brelan de Trois)
+psychoman59 a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [3d 8s 7s 3h Qd]
+Siège 1 : siomararey (grosse blind) a montré [Tc Js] et a perdu avec une paire de Trois
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [3s Ah] et a gagné (640) avec un brelan de Trois
+
+
+
+Main PokerStars n°237348580566 : Tournoi #3441226202, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 14/07/2022 8:49:39 CET [14/07/2022 2:49:39 ET]
+Table '3441226202 1' 3-max Siège #1 est au bouton.
+Place 1: siomararey (260 en jetons) 
+Place 3: psychoman59 (640 en jetons) 
+siomararey : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Qh]
+siomararey : relance. 60 à 90
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à siomararey.
+siomararey a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : siomararey (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237348581534 : Tournoi #3441226202, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 14/07/2022 8:49:48 CET [14/07/2022 2:49:48 ET]
+Table '3441226202 1' 3-max Siège #3 est au bouton.
+Place 1: siomararey (290 en jetons) 
+Place 3: psychoman59 (610 en jetons) 
+psychoman59 : met la petite blind. 15
+siomararey : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à siomararey.
+siomararey a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : siomararey (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237348581985 : Tournoi #3441226202, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 14/07/2022 8:49:52 CET [14/07/2022 2:49:52 ET]
+Table '3441226202 1' 3-max Siège #1 est au bouton.
+Place 1: siomararey (305 en jetons) 
+Place 3: psychoman59 (595 en jetons) 
+siomararey : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 9d]
+siomararey : suit. 15
+psychoman59 : parole 
+*** FLOP *** [3s Th Ts]
+psychoman59 : parole 
+siomararey : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à siomararey.
+siomararey a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3s Th Ts]
+Siège 1 : siomararey (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237348583343 : Tournoi #3441226202, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 14/07/2022 8:50:05 CET [14/07/2022 2:50:05 ET]
+Table '3441226202 1' 3-max Siège #3 est au bouton.
+Place 1: siomararey (335 en jetons) 
+Place 3: psychoman59 (565 en jetons) 
+psychoman59 : met la petite blind. 15
+siomararey : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Th]
+psychoman59 : relance. 535 à 565 et est all-in.
+siomararey : suit. 305 et est all-in.
+Personne n'a suivi. (230) sont retournés à psychoman59.
+*** FLOP *** [Qd 4c Kh]
+*** TOURNANT *** [Qd 4c Kh] [Js]
+*** RIVIÈRE *** [Qd 4c Kh Js] [8h]
+*** ABATTAGE ***
+siomararey : montre [3c Ac] (Hauteur As)
+psychoman59 : montre [Td Th] (une paire de Dix)
+psychoman59 a remporté 670  lors du pot .
+*** SYNTHÈSE ***
+Pot total 670 | Commission 0 
+Tableau [Qd 4c Kh Js 8h]
+Siège 1 : siomararey (grosse blind) a montré [3c Ac] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Td Th] et a gagné (670) avec une paire de Dix
+
+
+

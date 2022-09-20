@@ -1,0 +1,64 @@
+﻿Main PokerStars n°237614585803 : Tournoi #3447366479, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/07/2022 10:37:39 CET [27/07/2022 4:37:39 ET]
+Table '3447366479 1' 3-max Siège #1 est au bouton.
+Place 1: stella76550 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: 3emBiberon (300 en jetons) 
+psychoman59 : met la petite blind. 10
+3emBiberon : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 7d]
+stella76550 : relance. 20 à 40
+psychoman59 : suit. 30
+3emBiberon : suit. 20
+*** FLOP *** [9h 3c 3s]
+psychoman59 : parole 
+3emBiberon : parole 
+stella76550 : mise. 20
+psychoman59 : passe. 
+3emBiberon : suit. 20
+*** TOURNANT *** [9h 3c 3s] [9s]
+3emBiberon : parole 
+stella76550 : mise. 240 et est all-in.
+3emBiberon : passe. 
+Personne n'a suivi. (240) sont retournés à stella76550.
+stella76550 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [9h 3c 3s 9s]
+Siège 1 : stella76550 (bouton) a remporté (160)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : 3emBiberon (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237614590030 : Tournoi #3447366479, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/07/2022 10:38:12 CET [27/07/2022 4:38:12 ET]
+Table '3447366479 1' 3-max Siège #2 est au bouton.
+Place 1: stella76550 (400 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+Place 3: 3emBiberon (240 en jetons) 
+3emBiberon : met la petite blind. 10
+stella76550 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Jd]
+psychoman59 : relance. 50 à 70
+3emBiberon : passe. 
+stella76550 : relance. 50 à 120
+psychoman59 : relance. 140 à 260 et est all-in.
+stella76550 : suit. 140
+*** FLOP *** [Qs 3c 2s]
+*** TOURNANT *** [Qs 3c 2s] [7d]
+*** RIVIÈRE *** [Qs 3c 2s 7d] [5c]
+*** ABATTAGE ***
+stella76550 : montre [Td Qd] (une paire de Dames)
+psychoman59 : montre [As Jd] (Hauteur As)
+stella76550 a remporté 530  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 530 | Commission 0 
+Tableau [Qs 3c 2s 7d 5c]
+Siège 1 : stella76550 (grosse blind) a montré [Td Qd] et a gagné (530) avec une paire de Dames
+Siège 2 : psychoman59 (bouton) a montré [As Jd] et a perdu avec Hauteur As
+Siège 3 : 3emBiberon (petite blind) s'est couché. avant Flop
+
+
+

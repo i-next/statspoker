@@ -1,0 +1,589 @@
+﻿Main PokerStars n°238308057759 : Tournoi #3463815123, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 30/08/2022 15:52:01 CET [30/08/2022 9:52:01 ET]
+Table '3463815123 1' 4-max Siège #1 est au bouton.
+Place 1: val0ou83 (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: nuriaesther (5000 en jetons) 
+Place 4: Maverick72k (5000 en jetons) 
+val0ou83 : met l'ante. 10
+psychoman59 : met l'ante. 10
+nuriaesther : met l'ante. 10
+Maverick72k : met l'ante. 10
+psychoman59 : met la petite blind. 50
+nuriaesther : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 8s]
+Maverick72k : relance. 200 à 300
+val0ou83 : passe. 
+psychoman59 : passe. 
+nuriaesther : passe. 
+Personne n'a suivi. (200) sont retournés à Maverick72k.
+Maverick72k a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : val0ou83 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : nuriaesther (grosse blind) s'est couché. avant Flop
+Siège 4 : Maverick72k a remporté (290)
+
+
+
+Main PokerStars n°238308061103 : Tournoi #3463815123, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 30/08/2022 15:52:15 CET [30/08/2022 9:52:15 ET]
+Table '3463815123 1' 4-max Siège #2 est au bouton.
+Place 1: val0ou83 (4990 en jetons) 
+Place 2: psychoman59 (4940 en jetons) 
+Place 3: nuriaesther (4890 en jetons) 
+Place 4: Maverick72k (5180 en jetons) 
+val0ou83 : met l'ante. 10
+psychoman59 : met l'ante. 10
+nuriaesther : met l'ante. 10
+Maverick72k : met l'ante. 10
+nuriaesther : met la petite blind. 50
+Maverick72k : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 2c]
+val0ou83 : suit. 100
+psychoman59 : passe. 
+nuriaesther : suit. 50
+Maverick72k : relance. 540 à 640
+val0ou83 : suit. 540
+nuriaesther : passe. 
+*** FLOP *** [9h Th 4h]
+Maverick72k : mise. 300
+val0ou83 : suit. 300
+*** TOURNANT *** [9h Th 4h] [7s]
+Maverick72k : mise. 700
+val0ou83 : suit. 700
+*** RIVIÈRE *** [9h Th 4h 7s] [8d]
+Maverick72k : mise. 1300
+val0ou83 : passe. 
+Personne n'a suivi. (1300) sont retournés à Maverick72k.
+Maverick72k a remporté 3420  lors du pot .
+Maverick72k : montre [7h 7c] (un brelan de Sept)
+*** SYNTHÈSE ***
+Pot total 3420 | Commission 0 
+Tableau [9h Th 4h 7s 8d]
+Siège 1 : val0ou83 s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : nuriaesther (petite blind) s'est couché. avant Flop
+Siège 4 : Maverick72k (grosse blind) a remporté (3420)
+
+
+
+Main PokerStars n°238308079057 : Tournoi #3463815123, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 30/08/2022 15:53:32 CET [30/08/2022 9:53:32 ET]
+Table '3463815123 1' 4-max Siège #3 est au bouton.
+Place 1: val0ou83 (3340 en jetons) 
+Place 2: psychoman59 (4930 en jetons) 
+Place 3: nuriaesther (4780 en jetons) 
+Place 4: Maverick72k (6950 en jetons) 
+val0ou83 : met l'ante. 10
+psychoman59 : met l'ante. 10
+nuriaesther : met l'ante. 10
+Maverick72k : met l'ante. 10
+Maverick72k : met la petite blind. 50
+val0ou83 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c As]
+psychoman59 : relance. 100 à 200
+nuriaesther : passe. 
+Maverick72k : relance. 400 à 600
+val0ou83 : relance. 400 à 1000
+psychoman59 : passe. 
+Maverick72k : suit. 400
+*** FLOP *** [9s 8s 4s]
+Maverick72k : parole 
+val0ou83 : parole 
+*** TOURNANT *** [9s 8s 4s] [Kc]
+Maverick72k : mise. 400
+val0ou83 : suit. 400
+*** RIVIÈRE *** [9s 8s 4s Kc] [Ad]
+Maverick72k : mise. 400
+val0ou83 : relance. 400 à 800
+Maverick72k : suit. 400
+*** ABATTAGE ***
+val0ou83 : montre [6s Jc] (Hauteur As)
+Maverick72k : montre [Ah Jd] (une paire de As)
+Maverick72k a remporté 4640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4640 | Commission 0 
+Tableau [9s 8s 4s Kc Ad]
+Siège 1 : val0ou83 (grosse blind) a montré [6s Jc] et a perdu avec Hauteur As
+Siège 2 : psychoman59 s'est couché. avant Flop
+Siège 3 : nuriaesther (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Maverick72k (petite blind) a montré [Ah Jd] et a gagné (4640) avec une paire de As
+
+
+
+Main PokerStars n°238308094125 : Tournoi #3463815123, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 30/08/2022 15:54:37 CET [30/08/2022 9:54:37 ET]
+Table '3463815123 1' 4-max Siège #4 est au bouton.
+Place 1: val0ou83 (1130 en jetons) 
+Place 2: psychoman59 (4720 en jetons) 
+Place 3: nuriaesther (4770 en jetons) 
+Place 4: Maverick72k (9380 en jetons) 
+val0ou83 : met l'ante. 10
+psychoman59 : met l'ante. 10
+nuriaesther : met l'ante. 10
+Maverick72k : met l'ante. 10
+val0ou83 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 2d]
+nuriaesther a dépassé le temps imparti.
+nuriaesther : passe. 
+nuriaesther ne joue pas.
+Maverick72k : relance. 200 à 300
+nuriaesther est revenu.
+val0ou83 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à Maverick72k.
+Maverick72k a remporté 290  lors du pot .
+Maverick72k : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : val0ou83 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : nuriaesther s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Maverick72k (bouton) a remporté (290)
+
+
+
+Main PokerStars n°238308104900 : Tournoi #3463815123, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 30/08/2022 15:55:27 CET [30/08/2022 9:55:27 ET]
+Table '3463815123 1' 4-max Siège #1 est au bouton.
+Place 1: val0ou83 (1070 en jetons) 
+Place 2: psychoman59 (4610 en jetons) 
+Place 3: nuriaesther (4760 en jetons) 
+Place 4: Maverick72k (9560 en jetons) 
+val0ou83 : met l'ante. 15
+psychoman59 : met l'ante. 15
+nuriaesther : met l'ante. 15
+Maverick72k : met l'ante. 15
+psychoman59 : met la petite blind. 60
+nuriaesther : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 8c]
+Maverick72k : passe. 
+val0ou83 : suit. 120
+psychoman59 : passe. 
+nuriaesther : relance. 120 à 240
+val0ou83 : suit. 120
+*** FLOP *** [Tc Ah Jc]
+nuriaesther : mise. 240
+val0ou83 : suit. 240
+*** TOURNANT *** [Tc Ah Jc] [5h]
+nuriaesther : parole 
+val0ou83 : mise. 120
+nuriaesther : suit. 120
+*** RIVIÈRE *** [Tc Ah Jc 5h] [Td]
+nuriaesther : parole 
+val0ou83 : mise. 120
+nuriaesther : relance. 720 à 840
+val0ou83 : passe. 
+Personne n'a suivi. (720) sont retournés à nuriaesther.
+nuriaesther a remporté 1560  lors du pot .
+nuriaesther : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1560 | Commission 0 
+Tableau [Tc Ah Jc 5h Td]
+Siège 1 : val0ou83 (bouton) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : nuriaesther (grosse blind) a remporté (1560)
+Siège 4 : Maverick72k s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238308115072 : Tournoi #3463815123, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 30/08/2022 15:56:18 CET [30/08/2022 9:56:18 ET]
+Table '3463815123 1' 4-max Siège #2 est au bouton.
+Place 1: val0ou83 (335 en jetons) 
+Place 2: psychoman59 (4535 en jetons) 
+Place 3: nuriaesther (5585 en jetons) 
+Place 4: Maverick72k (9545 en jetons) 
+val0ou83 : met l'ante. 15
+psychoman59 : met l'ante. 15
+nuriaesther : met l'ante. 15
+Maverick72k : met l'ante. 15
+nuriaesther : met la petite blind. 60
+Maverick72k : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 5s]
+val0ou83 : suit. 120
+psychoman59 : passe. 
+nuriaesther : suit. 60
+Maverick72k : relance. 120 à 240
+val0ou83 : suit. 120
+nuriaesther : suit. 120
+*** FLOP *** [6h 6d 8h]
+nuriaesther : parole 
+Maverick72k : mise. 360
+val0ou83 : passe. 
+nuriaesther : passe. 
+Personne n'a suivi. (360) sont retournés à Maverick72k.
+Maverick72k a remporté 780  lors du pot .
+*** SYNTHÈSE ***
+Pot total 780 | Commission 0 
+Tableau [6h 6d 8h]
+Siège 1 : val0ou83 s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : nuriaesther (petite blind) s'est couché. sur le Flop
+Siège 4 : Maverick72k (grosse blind) a remporté (780)
+
+
+
+Main PokerStars n°238308122902 : Tournoi #3463815123, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 30/08/2022 15:56:57 CET [30/08/2022 9:56:57 ET]
+Table '3463815123 1' 4-max Siège #3 est au bouton.
+Place 1: val0ou83 (80 en jetons) 
+Place 2: psychoman59 (4520 en jetons) 
+Place 3: nuriaesther (5330 en jetons) 
+Place 4: Maverick72k (10070 en jetons) 
+val0ou83 : met l'ante. 15
+psychoman59 : met l'ante. 15
+nuriaesther : met l'ante. 15
+Maverick72k : met l'ante. 15
+Maverick72k : met la petite blind. 60
+val0ou83 : met la grosse blind. 65 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 5h]
+psychoman59 : relance. 175 à 240
+nuriaesther : passe. 
+Maverick72k : passe. 
+Personne n'a suivi. (175) sont retournés à psychoman59.
+*** FLOP *** [Jd 8c 7c]
+*** TOURNANT *** [Jd 8c 7c] [Jc]
+*** RIVIÈRE *** [Jd 8c 7c Jc] [6c]
+*** ABATTAGE ***
+val0ou83 : montre [Kd 2d] (une paire de Valets)
+psychoman59 : montre [5c 5h] (une couleur, hauteur Valet)
+psychoman59 a remporté 250  lors du pot .
+val0ou83 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Tableau [Jd 8c 7c Jc 6c]
+Siège 1 : val0ou83 (grosse blind) a montré [Kd 2d] et a perdu avec une paire de Valets
+Siège 2 : psychoman59 a montré [5c 5h] et a gagné (250) avec une couleur, hauteur Valet
+Siège 3 : nuriaesther (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Maverick72k (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238308126527 : Tournoi #3463815123, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 30/08/2022 15:57:15 CET [30/08/2022 9:57:15 ET]
+Table '3463815123 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (4690 en jetons) 
+Place 3: nuriaesther (5315 en jetons) 
+Place 4: Maverick72k (9995 en jetons) 
+psychoman59 : met l'ante. 15
+nuriaesther : met l'ante. 15
+Maverick72k : met l'ante. 15
+psychoman59 : met la petite blind. 60
+nuriaesther : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 9c]
+Maverick72k : relance. 345 à 465
+psychoman59 : suit. 405
+nuriaesther : suit. 345
+*** FLOP *** [Kh 3d Qc]
+psychoman59 : parole 
+nuriaesther : parole 
+Maverick72k : mise. 1440
+psychoman59 : passe. 
+nuriaesther : passe. 
+Personne n'a suivi. (1440) sont retournés à Maverick72k.
+Maverick72k a remporté 1440  lors du pot .
+Maverick72k : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1440 | Commission 0 
+Tableau [Kh 3d Qc]
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : nuriaesther (grosse blind) s'est couché. sur le Flop
+Siège 4 : Maverick72k (bouton) a remporté (1440)
+
+
+
+Main PokerStars n°238308133333 : Tournoi #3463815123, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 30/08/2022 15:57:48 CET [30/08/2022 9:57:48 ET]
+Table '3463815123 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (4210 en jetons) 
+Place 3: nuriaesther (4835 en jetons) 
+Place 4: Maverick72k (10955 en jetons) 
+psychoman59 : met l'ante. 15
+nuriaesther : met l'ante. 15
+Maverick72k : met l'ante. 15
+nuriaesther : met la petite blind. 60
+Maverick72k : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 7h]
+psychoman59 : passe. 
+nuriaesther : suit. 60
+Maverick72k : relance. 120 à 240
+nuriaesther : suit. 120
+*** FLOP *** [Ac Jc 2d]
+nuriaesther : parole 
+Maverick72k : parole 
+*** TOURNANT *** [Ac Jc 2d] [7s]
+nuriaesther : mise. 240
+Maverick72k : passe. 
+Personne n'a suivi. (240) sont retournés à nuriaesther.
+nuriaesther a remporté 525  lors du pot .
+nuriaesther : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 525 | Commission 0 
+Tableau [Ac Jc 2d 7s]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : nuriaesther (petite blind) a remporté (525)
+Siège 4 : Maverick72k (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238308139831 : Tournoi #3463815123, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 30/08/2022 15:58:21 CET [30/08/2022 9:58:21 ET]
+Table '3463815123 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (4195 en jetons) 
+Place 3: nuriaesther (5105 en jetons) 
+Place 4: Maverick72k (10700 en jetons) 
+psychoman59 : met l'ante. 20
+nuriaesther : met l'ante. 20
+Maverick72k : met l'ante. 20
+Maverick72k : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 3d]
+nuriaesther : relance. 150 à 300
+Maverick72k : passe. 
+psychoman59 : relance. 3875 à 4175 et est all-in.
+nuriaesther : passe. 
+Personne n'a suivi. (3875) sont retournés à psychoman59.
+psychoman59 a remporté 735  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 735 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (735)
+Siège 3 : nuriaesther (bouton) s'est couché. avant Flop
+Siège 4 : Maverick72k (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238308142477 : Tournoi #3463815123, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 30/08/2022 15:58:34 CET [30/08/2022 9:58:34 ET]
+Table '3463815123 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (4610 en jetons) 
+Place 3: nuriaesther (4785 en jetons) 
+Place 4: Maverick72k (10605 en jetons) 
+psychoman59 : met l'ante. 20
+nuriaesther : met l'ante. 20
+Maverick72k : met l'ante. 20
+psychoman59 : met la petite blind. 75
+nuriaesther : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8c]
+Maverick72k : relance. 300 à 450
+psychoman59 : passe. 
+nuriaesther : relance. 4315 à 4765 et est all-in.
+Maverick72k : suit. 4315
+*** FLOP *** [3c 3s Qd]
+*** TOURNANT *** [3c 3s Qd] [Jd]
+*** RIVIÈRE *** [3c 3s Qd Jd] [Th]
+*** ABATTAGE ***
+nuriaesther : montre [Jh Ad] (double paire, Valets et Trois)
+Maverick72k : montre [Ks Qs] (double paire, Dames et Trois)
+Maverick72k a remporté 9665  lors du pot .
+nuriaesther a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 9665 | Commission 0 
+Tableau [3c 3s Qd Jd Th]
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : nuriaesther (grosse blind) a montré [Jh Ad] et a perdu avec double paire, Valets et Trois
+Siège 4 : Maverick72k (bouton) a montré [Ks Qs] et a gagné (9665) avec double paire, Dames et Trois
+
+
+
+Main PokerStars n°238308147701 : Tournoi #3463815123, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 30/08/2022 15:59:00 CET [30/08/2022 9:59:00 ET]
+Table '3463815123 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (4515 en jetons) 
+Place 4: Maverick72k (15485 en jetons) 
+psychoman59 : met l'ante. 20
+Maverick72k : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Maverick72k : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ts]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à Maverick72k.
+Maverick72k a remporté 190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : Maverick72k (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°238308149281 : Tournoi #3463815123, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 30/08/2022 15:59:08 CET [30/08/2022 9:59:08 ET]
+Table '3463815123 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (4420 en jetons) 
+Place 4: Maverick72k (15580 en jetons) 
+psychoman59 : met l'ante. 20
+Maverick72k : met l'ante. 20
+Maverick72k : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 9h]
+Maverick72k : relance. 1240 à 1390
+psychoman59 : passe. 
+Personne n'a suivi. (1240) sont retournés à Maverick72k.
+Maverick72k a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : Maverick72k (bouton) (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°238308151932 : Tournoi #3463815123, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 30/08/2022 15:59:21 CET [30/08/2022 9:59:21 ET]
+Table '3463815123 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (4250 en jetons) 
+Place 4: Maverick72k (15750 en jetons) 
+psychoman59 : met l'ante. 20
+Maverick72k : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Maverick72k : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Jh]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à Maverick72k.
+Maverick72k a remporté 190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : Maverick72k (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°238308153615 : Tournoi #3463815123, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 30/08/2022 15:59:29 CET [30/08/2022 9:59:29 ET]
+Table '3463815123 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (4155 en jetons) 
+Place 4: Maverick72k (15845 en jetons) 
+psychoman59 : met l'ante. 20
+Maverick72k : met l'ante. 20
+Maverick72k : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Ts]
+Maverick72k : relance. 15675 à 15825 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (15675) sont retournés à Maverick72k.
+Maverick72k a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : Maverick72k (bouton) (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°238308156476 : Tournoi #3463815123, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 30/08/2022 15:59:43 CET [30/08/2022 9:59:43 ET]
+Table '3463815123 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (3985 en jetons) 
+Place 4: Maverick72k (16015 en jetons) 
+psychoman59 : met l'ante. 20
+Maverick72k : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Maverick72k : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Qh]
+psychoman59 : relance. 3815 à 3965 et est all-in.
+Maverick72k : passe. 
+Personne n'a suivi. (3815) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (340)
+Siège 4 : Maverick72k (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238308158555 : Tournoi #3463815123, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 30/08/2022 15:59:53 CET [30/08/2022 9:59:53 ET]
+Table '3463815123 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (4155 en jetons) 
+Place 4: Maverick72k (15845 en jetons) 
+psychoman59 : met l'ante. 20
+Maverick72k : met l'ante. 20
+Maverick72k : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 7s]
+Maverick72k : relance. 15675 à 15825 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (15675) sont retournés à Maverick72k.
+Maverick72k a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : Maverick72k (bouton) (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°238308160861 : Tournoi #3463815123, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 30/08/2022 16:00:05 CET [30/08/2022 10:00:05 ET]
+Table '3463815123 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (3985 en jetons) 
+Place 4: Maverick72k (16015 en jetons) 
+psychoman59 : met l'ante. 20
+Maverick72k : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Maverick72k : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à Maverick72k.
+Maverick72k a remporté 190  lors du pot .
+Maverick72k : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : Maverick72k (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°238308162317 : Tournoi #3463815123, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 30/08/2022 16:00:12 CET [30/08/2022 10:00:12 ET]
+Table '3463815123 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (3890 en jetons) 
+Place 4: Maverick72k (16110 en jetons) 
+psychoman59 : met l'ante. 20
+Maverick72k : met l'ante. 20
+Maverick72k : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 4s]
+Maverick72k : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 190  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (190)
+Siège 4 : Maverick72k (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238308163801 : Tournoi #3463815123, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 30/08/2022 16:00:19 CET [30/08/2022 10:00:19 ET]
+Table '3463815123 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (3985 en jetons) 
+Place 4: Maverick72k (16015 en jetons) 
+psychoman59 : met l'ante. 20
+Maverick72k : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Maverick72k : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ah]
+psychoman59 : relance. 3815 à 3965 et est all-in.
+Maverick72k : suit. 3815
+*** FLOP *** [4c 6d Jh]
+*** TOURNANT *** [4c 6d Jh] [Qd]
+*** RIVIÈRE *** [4c 6d Jh Qd] [3d]
+*** ABATTAGE ***
+Maverick72k : montre [Qh Jc] (double paire, Dames et Valets)
+psychoman59 : montre [9d Ah] (Hauteur As)
+Maverick72k a remporté 7970  lors du pot .
+psychoman59 a fini le tournoi à la 2e place et a reçu 0.34 €.
+Maverick72k gagne le tournoi - félicitations !
+Maverick72k gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 7970 | Commission 0 
+Tableau [4c 6d Jh Qd 3d]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [9d Ah] et a perdu avec Hauteur As
+Siège 4 : Maverick72k (grosse blind) a montré [Qh Jc] et a gagné (7970) avec double paire, Dames et Valets
+
+
+

@@ -1,0 +1,181 @@
+﻿Main PokerStars n°237738023105 : Tournoi #3450230109, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/08/2022 9:05:23 CET [02/08/2022 3:05:23 ET]
+Table '3450230109 1' 3-max Siège #1 est au bouton.
+Place 1: zdmc (300 en jetons) 
+Place 2: lucas38140st (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+lucas38140st : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 8h]
+zdmc : suit. 20
+lucas38140st : relance. 20 à 40
+psychoman59 : suit. 20
+zdmc : suit. 20
+*** FLOP *** [9h 7h Qs]
+lucas38140st : parole 
+psychoman59 : parole 
+zdmc : mise. 40
+lucas38140st : passe. 
+psychoman59 : suit. 40
+*** TOURNANT *** [9h 7h Qs] [9c]
+psychoman59 : parole 
+zdmc : mise. 80
+psychoman59 : suit. 80
+*** RIVIÈRE *** [9h 7h Qs 9c] [3c]
+psychoman59 : parole 
+zdmc : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qh 8h] (double paire, Dames et Neuf)
+zdmc : cache la main perdante. 
+psychoman59 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [9h 7h Qs 9c 3c]
+Siège 1 : zdmc (bouton) a caché la main perdante. [Kd 7c]
+Siège 2 : lucas38140st (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Qh 8h] et a gagné (360) avec double paire, Dames et Neuf
+
+
+
+Main PokerStars n°237738027902 : Tournoi #3450230109, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/08/2022 9:06:08 CET [02/08/2022 3:06:08 ET]
+Table '3450230109 1' 3-max Siège #2 est au bouton.
+Place 1: zdmc (140 en jetons) 
+Place 2: lucas38140st (260 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+zdmc : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 7h]
+lucas38140st : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à zdmc.
+zdmc a remporté 20  lors du pot .
+zdmc : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : zdmc (grosse blind) a remporté (20)
+Siège 2 : lucas38140st (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237738028578 : Tournoi #3450230109, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/08/2022 9:06:15 CET [02/08/2022 3:06:15 ET]
+Table '3450230109 1' 3-max Siège #3 est au bouton.
+Place 1: zdmc (150 en jetons) 
+Place 2: lucas38140st (260 en jetons) 
+Place 3: psychoman59 (490 en jetons) 
+zdmc : met la petite blind. 10
+lucas38140st : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 4h]
+psychoman59 : passe. 
+zdmc : passe. 
+Personne n'a suivi. (10) sont retournés à lucas38140st.
+lucas38140st a remporté 20  lors du pot .
+lucas38140st : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : zdmc (petite blind) s'est couché. avant Flop
+Siège 2 : lucas38140st (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237738029531 : Tournoi #3450230109, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/08/2022 9:06:24 CET [02/08/2022 3:06:24 ET]
+Table '3450230109 1' 3-max Siège #1 est au bouton.
+Place 1: zdmc (140 en jetons) 
+Place 2: lucas38140st (270 en jetons) 
+Place 3: psychoman59 (490 en jetons) 
+lucas38140st : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 7d]
+zdmc : suit. 20
+lucas38140st : relance. 250 à 270 et est all-in.
+psychoman59 : passe. 
+zdmc : suit. 120 et est all-in.
+Personne n'a suivi. (130) sont retournés à lucas38140st.
+*** FLOP *** [4s Qh 2h]
+*** TOURNANT *** [4s Qh 2h] [Ad]
+*** RIVIÈRE *** [4s Qh 2h Ad] [Th]
+*** ABATTAGE ***
+lucas38140st : montre [Qc 9c] (une paire de Dames)
+zdmc : montre [8d Jh] (Hauteur As)
+lucas38140st a remporté 300  lors du pot .
+zdmc a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [4s Qh 2h Ad Th]
+Siège 1 : zdmc (bouton) a montré [8d Jh] et a perdu avec Hauteur As
+Siège 2 : lucas38140st (petite blind) a montré [Qc 9c] et a gagné (300) avec une paire de Dames
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237738031636 : Tournoi #3450230109, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/08/2022 9:06:44 CET [02/08/2022 3:06:44 ET]
+Table '3450230109 1' 3-max Siège #3 est au bouton.
+Place 2: lucas38140st (430 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+psychoman59 : met la petite blind. 15
+lucas38140st : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Ah]
+psychoman59 : relance. 440 à 470 et est all-in.
+lucas38140st : passe. 
+Personne n'a suivi. (440) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : lucas38140st (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237738032683 : Tournoi #3450230109, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/08/2022 9:06:53 CET [02/08/2022 3:06:53 ET]
+Table '3450230109 1' 3-max Siège #2 est au bouton.
+Place 2: lucas38140st (400 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+lucas38140st : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Kh]
+lucas38140st : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : lucas38140st (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237738033150 : Tournoi #3450230109, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/08/2022 9:06:57 CET [02/08/2022 3:06:57 ET]
+Table '3450230109 1' 3-max Siège #3 est au bouton.
+Place 2: lucas38140st (385 en jetons) 
+Place 3: psychoman59 (515 en jetons) 
+psychoman59 : met la petite blind. 15
+lucas38140st : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 5s]
+psychoman59 : relance. 30 à 60
+lucas38140st : relance. 325 à 385 et est all-in.
+psychoman59 : suit. 325
+*** FLOP *** [5c 2s Kc]
+*** TOURNANT *** [5c 2s Kc] [5d]
+*** RIVIÈRE *** [5c 2s Kc 5d] [7h]
+*** ABATTAGE ***
+lucas38140st : montre [As Qc] (une paire de Cinq)
+psychoman59 : montre [Kd 5s] (un full, full aux Cinq par les Rois)
+psychoman59 a remporté 770  lors du pot .
+lucas38140st a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 770 | Commission 0 
+Tableau [5c 2s Kc 5d 7h]
+Siège 2 : lucas38140st (grosse blind) a montré [As Qc] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Kd 5s] et a gagné (770) avec un full, full aux Cinq par les Rois
+
+
+

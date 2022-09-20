@@ -1,0 +1,557 @@
+﻿Main PokerStars n°237450314289 : Tournoi #3443580794, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 8:54:45 CET [19/07/2022 2:54:45 ET]
+Table '3443580794 1' 3-max Siège #1 est au bouton.
+Place 1: Winarnax (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: INHO61 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+INHO61 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 6d]
+Winarnax : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à INHO61.
+INHO61 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Winarnax (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : INHO61 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237450315025 : Tournoi #3443580794, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 8:54:52 CET [19/07/2022 2:54:52 ET]
+Table '3443580794 1' 3-max Siège #2 est au bouton.
+Place 1: Winarnax (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: INHO61 (310 en jetons) 
+INHO61 : met la petite blind. 10
+Winarnax : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Qh]
+psychoman59 : passe. 
+INHO61 : passe. 
+Personne n'a suivi. (10) sont retournés à Winarnax.
+Winarnax a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Winarnax (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : INHO61 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237450315490 : Tournoi #3443580794, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 8:54:57 CET [19/07/2022 2:54:57 ET]
+Table '3443580794 1' 3-max Siège #3 est au bouton.
+Place 1: Winarnax (310 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: INHO61 (300 en jetons) 
+Winarnax : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Jd]
+INHO61 : suit. 20
+Winarnax : passe. 
+psychoman59 : parole 
+*** FLOP *** [7h Qd 4c]
+psychoman59 : parole 
+INHO61 : parole 
+*** TOURNANT *** [7h Qd 4c] [8s]
+psychoman59 : parole 
+INHO61 : parole 
+*** RIVIÈRE *** [7h Qd 4c 8s] [Kh]
+psychoman59 : parole 
+INHO61 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qh Jd] (une paire de Dames)
+INHO61 : cache la main perdante. 
+psychoman59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [7h Qd 4c 8s Kh]
+Siège 1 : Winarnax (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [Qh Jd] et a gagné (50) avec une paire de Dames
+Siège 3 : INHO61 (bouton) a caché la main perdante. [9s Ad]
+
+
+
+Main PokerStars n°237450316844 : Tournoi #3443580794, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 8:55:11 CET [19/07/2022 2:55:11 ET]
+Table '3443580794 1' 3-max Siège #1 est au bouton.
+Place 1: Winarnax (300 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: INHO61 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+INHO61 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 7s]
+Winarnax : passe. 
+psychoman59 : suit. 10
+INHO61 : parole 
+*** FLOP *** [3s Kc 2h]
+psychoman59 : mise. 20
+INHO61 : suit. 20
+*** TOURNANT *** [3s Kc 2h] [6s]
+psychoman59 : mise. 20
+INHO61 : suit. 20
+*** RIVIÈRE *** [3s Kc 2h 6s] [Jd]
+psychoman59 : mise. 60
+INHO61 : suit. 60
+*** ABATTAGE ***
+psychoman59 : montre [Jc 7s] (une paire de Valets)
+INHO61 : montre [Ks 9d] (une paire de Rois)
+INHO61 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [3s Kc 2h 6s Jd]
+Siège 1 : Winarnax (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Jc 7s] et a perdu avec une paire de Valets
+Siège 3 : INHO61 (grosse blind) a montré [Ks 9d] et a gagné (240) avec une paire de Rois
+
+
+
+Main PokerStars n°237450318371 : Tournoi #3443580794, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 8:55:28 CET [19/07/2022 2:55:28 ET]
+Table '3443580794 1' 3-max Siège #2 est au bouton.
+Place 1: Winarnax (300 en jetons) 
+Place 2: psychoman59 (200 en jetons) 
+Place 3: INHO61 (400 en jetons) 
+INHO61 : met la petite blind. 10
+Winarnax : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 2c]
+psychoman59 : passe. 
+INHO61 : suit. 10
+Winarnax : parole 
+*** FLOP *** [Kd 4s Ts]
+INHO61 : mise. 20
+Winarnax : suit. 20
+*** TOURNANT *** [Kd 4s Ts] [7s]
+INHO61 : parole 
+Winarnax : parole 
+*** RIVIÈRE *** [Kd 4s Ts 7s] [4h]
+INHO61 : parole 
+Winarnax : parole 
+*** ABATTAGE ***
+INHO61 : montre [Qh Jc] (une paire de Quatre)
+Winarnax : montre [6h Th] (double paire, Dix et Quatre)
+Winarnax a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Kd 4s Ts 7s 4h]
+Siège 1 : Winarnax (grosse blind) a montré [6h Th] et a gagné (80) avec double paire, Dix et Quatre
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : INHO61 (petite blind) a montré [Qh Jc] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°237450321695 : Tournoi #3443580794, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 8:56:04 CET [19/07/2022 2:56:04 ET]
+Table '3443580794 1' 3-max Siège #3 est au bouton.
+Place 1: Winarnax (340 en jetons) 
+Place 2: psychoman59 (200 en jetons) 
+Place 3: INHO61 (360 en jetons) 
+Winarnax : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 5h]
+INHO61 : suit. 30
+Winarnax : passe. 
+psychoman59 : parole 
+*** FLOP *** [4d 4h 2c]
+psychoman59 : parole 
+INHO61 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [4d 4h 2c] [Kh]
+psychoman59 : parole 
+INHO61 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [4d 4h 2c Kh] [Jh]
+psychoman59 : parole 
+INHO61 : mise. 97
+psychoman59 : relance. 13 à 110 et est all-in.
+INHO61 : suit. 13
+*** ABATTAGE ***
+psychoman59 : montre [7h 5h] (une couleur, hauteur Roi)
+INHO61 : montre [4c Ah] (un brelan de Quatre)
+psychoman59 a remporté 415  lors du pot .
+*** SYNTHÈSE ***
+Pot total 415 | Commission 0 
+Tableau [4d 4h 2c Kh Jh]
+Siège 1 : Winarnax (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [7h 5h] et a gagné (415) avec une couleur, hauteur Roi
+Siège 3 : INHO61 (bouton) a montré [4c Ah] et a perdu avec un brelan de Quatre
+
+
+
+Main PokerStars n°237450324109 : Tournoi #3443580794, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 8:56:31 CET [19/07/2022 2:56:31 ET]
+Table '3443580794 1' 3-max Siège #1 est au bouton.
+Place 1: Winarnax (325 en jetons) 
+Place 2: psychoman59 (415 en jetons) 
+Place 3: INHO61 (160 en jetons) 
+psychoman59 : met la petite blind. 15
+INHO61 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s As]
+Winarnax : relance. 295 à 325 et est all-in.
+psychoman59 : suit. 310
+INHO61 : suit. 130 et est all-in.
+*** FLOP *** [Js Th Td]
+*** TOURNANT *** [Js Th Td] [8h]
+*** RIVIÈRE *** [Js Th Td 8h] [5s]
+*** ABATTAGE ***
+psychoman59 : montre [9s As] (une paire de Dix)
+Winarnax : montre [Tc Kc] (un brelan de Dix)
+Winarnax a remporté 330  parallèle lors du pot .
+INHO61 : montre [2d Ad] (une paire de Dix)
+Winarnax a remporté 480  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 810 Principal pot 480. Parallèle pot 330. | Commission 0 
+Tableau [Js Th Td 8h 5s]
+Siège 1 : Winarnax (bouton) a montré [Tc Kc] et a gagné (810) avec un brelan de Dix
+Siège 2 : psychoman59 (petite blind) a montré [9s As] et a perdu avec une paire de Dix
+Siège 3 : INHO61 (grosse blind) a montré [2d Ad] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°237450326093 : Tournoi #3443580794, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 8:56:51 CET [19/07/2022 2:56:51 ET]
+Table '3443580794 1' 3-max Siège #2 est au bouton.
+Place 1: Winarnax (810 en jetons) 
+Place 2: psychoman59 (90 en jetons) 
+psychoman59 : met la petite blind. 20
+Winarnax : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Td]
+psychoman59 : relance. 50 à 90 et est all-in.
+Winarnax : suit. 50
+*** FLOP *** [Tc 9d Qh]
+*** TOURNANT *** [Tc 9d Qh] [6h]
+*** RIVIÈRE *** [Tc 9d Qh 6h] [Jh]
+*** ABATTAGE ***
+Winarnax : montre [2d 5d] (Hauteur Dame)
+psychoman59 : montre [Qs Td] (double paire, Dames et Dix)
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Tc 9d Qh 6h Jh]
+Siège 1 : Winarnax (grosse blind) a montré [2d 5d] et a perdu avec Hauteur Dame
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Qs Td] et a gagné (180) avec double paire, Dames et Dix
+
+
+
+Main PokerStars n°237450327557 : Tournoi #3443580794, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 8:57:07 CET [19/07/2022 2:57:07 ET]
+Table '3443580794 1' 3-max Siège #1 est au bouton.
+Place 1: Winarnax (720 en jetons) 
+Place 2: psychoman59 (180 en jetons) 
+Winarnax : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 8h]
+Winarnax : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Winarnax (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237450328115 : Tournoi #3443580794, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 8:57:12 CET [19/07/2022 2:57:12 ET]
+Table '3443580794 1' 3-max Siège #2 est au bouton.
+Place 1: Winarnax (700 en jetons) 
+Place 2: psychoman59 (200 en jetons) 
+psychoman59 : met la petite blind. 20
+Winarnax : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 2d]
+psychoman59 : relance. 160 à 200 et est all-in.
+Winarnax : suit. 160
+*** FLOP *** [6s 5c 2c]
+*** TOURNANT *** [6s 5c 2c] [6c]
+*** RIVIÈRE *** [6s 5c 2c 6c] [Jh]
+*** ABATTAGE ***
+Winarnax : montre [Qh 3c] (une paire de Six)
+psychoman59 : montre [Ah 2d] (double paire, Six et Deux)
+psychoman59 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [6s 5c 2c 6c Jh]
+Siège 1 : Winarnax (grosse blind) a montré [Qh 3c] et a perdu avec une paire de Six
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ah 2d] et a gagné (400) avec double paire, Six et Deux
+
+
+
+Main PokerStars n°237450329484 : Tournoi #3443580794, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 8:57:26 CET [19/07/2022 2:57:26 ET]
+Table '3443580794 1' 3-max Siège #1 est au bouton.
+Place 1: Winarnax (500 en jetons) 
+Place 2: psychoman59 (400 en jetons) 
+Winarnax : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 7d]
+Winarnax : suit. 20
+psychoman59 : parole 
+*** FLOP *** [7h 6s 4c]
+psychoman59 : mise. 360 et est all-in.
+Winarnax : suit. 360
+*** TOURNANT *** [7h 6s 4c] [3h]
+*** RIVIÈRE *** [7h 6s 4c 3h] [Ks]
+*** ABATTAGE ***
+psychoman59 : montre [Jh 7d] (une paire de Sept)
+Winarnax : montre [7s 9d] (une paire de Sept - plus basse kicker)
+psychoman59 a remporté 800  lors du pot .
+*** SYNTHÈSE ***
+Pot total 800 | Commission 0 
+Tableau [7h 6s 4c 3h Ks]
+Siège 1 : Winarnax (bouton) (petite blind) a montré [7s 9d] et a perdu avec une paire de Sept
+Siège 2 : psychoman59 (grosse blind) a montré [Jh 7d] et a gagné (800) avec une paire de Sept
+
+
+
+Main PokerStars n°237450331185 : Tournoi #3443580794, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 8:57:44 CET [19/07/2022 2:57:44 ET]
+Table '3443580794 1' 3-max Siège #2 est au bouton.
+Place 1: Winarnax (100 en jetons) 
+Place 2: psychoman59 (800 en jetons) 
+psychoman59 : met la petite blind. 20
+Winarnax : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 8d]
+psychoman59 : relance. 40 à 80
+Winarnax : relance. 20 à 100 et est all-in.
+psychoman59 : suit. 20
+*** FLOP *** [As 9c 8h]
+*** TOURNANT *** [As 9c 8h] [3c]
+*** RIVIÈRE *** [As 9c 8h 3c] [6s]
+*** ABATTAGE ***
+Winarnax : montre [3s 9h] (double paire, Neuf et Trois)
+psychoman59 : montre [Qc 8d] (une paire de Huit)
+Winarnax a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [As 9c 8h 3c 6s]
+Siège 1 : Winarnax (grosse blind) a montré [3s 9h] et a gagné (200) avec double paire, Neuf et Trois
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Qc 8d] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°237450332860 : Tournoi #3443580794, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 8:58:02 CET [19/07/2022 2:58:02 ET]
+Table '3443580794 1' 3-max Siège #1 est au bouton.
+Place 1: Winarnax (200 en jetons) 
+Place 2: psychoman59 (700 en jetons) 
+Winarnax : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 6c]
+Winarnax : relance. 140 à 200 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (140) sont retournés à Winarnax.
+Winarnax a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : Winarnax (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237450333493 : Tournoi #3443580794, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 8:58:08 CET [19/07/2022 2:58:08 ET]
+Table '3443580794 1' 3-max Siège #2 est au bouton.
+Place 1: Winarnax (260 en jetons) 
+Place 2: psychoman59 (640 en jetons) 
+psychoman59 : met la petite blind. 30
+Winarnax : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ad]
+psychoman59 : relance. 580 à 640 et est all-in.
+Winarnax : suit. 200 et est all-in.
+Personne n'a suivi. (380) sont retournés à psychoman59.
+*** FLOP *** [3c 4s 7c]
+*** TOURNANT *** [3c 4s 7c] [8d]
+*** RIVIÈRE *** [3c 4s 7c 8d] [4h]
+*** ABATTAGE ***
+Winarnax : montre [4c Kc] (un brelan de Quatre)
+psychoman59 : montre [5c Ad] (une paire de Quatre)
+Winarnax a remporté 520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [3c 4s 7c 8d 4h]
+Siège 1 : Winarnax (grosse blind) a montré [4c Kc] et a gagné (520) avec un brelan de Quatre
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [5c Ad] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°237450334801 : Tournoi #3443580794, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 8:58:22 CET [19/07/2022 2:58:22 ET]
+Table '3443580794 1' 3-max Siège #1 est au bouton.
+Place 1: Winarnax (520 en jetons) 
+Place 2: psychoman59 (380 en jetons) 
+Winarnax : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 8c]
+Winarnax : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Winarnax (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237450335122 : Tournoi #3443580794, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 8:58:26 CET [19/07/2022 2:58:26 ET]
+Table '3443580794 1' 3-max Siège #2 est au bouton.
+Place 1: Winarnax (490 en jetons) 
+Place 2: psychoman59 (410 en jetons) 
+psychoman59 : met la petite blind. 30
+Winarnax : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Winarnax.
+Winarnax a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Winarnax (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237450335595 : Tournoi #3443580794, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 8:58:31 CET [19/07/2022 2:58:31 ET]
+Table '3443580794 1' 3-max Siège #1 est au bouton.
+Place 1: Winarnax (520 en jetons) 
+Place 2: psychoman59 (380 en jetons) 
+Winarnax : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 8h]
+Winarnax : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Winarnax (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237450335978 : Tournoi #3443580794, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 8:58:35 CET [19/07/2022 2:58:35 ET]
+Table '3443580794 1' 3-max Siège #2 est au bouton.
+Place 1: Winarnax (490 en jetons) 
+Place 2: psychoman59 (410 en jetons) 
+psychoman59 : met la petite blind. 30
+Winarnax : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Winarnax.
+Winarnax a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Winarnax (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237450336390 : Tournoi #3443580794, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 8:58:39 CET [19/07/2022 2:58:39 ET]
+Table '3443580794 1' 3-max Siège #1 est au bouton.
+Place 1: Winarnax (520 en jetons) 
+Place 2: psychoman59 (380 en jetons) 
+Winarnax : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 3h]
+Winarnax : relance. 460 à 520 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (460) sont retournés à Winarnax.
+Winarnax a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : Winarnax (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237450336938 : Tournoi #3443580794, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 8:58:45 CET [19/07/2022 2:58:45 ET]
+Table '3443580794 1' 3-max Siège #2 est au bouton.
+Place 1: Winarnax (580 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 30
+Winarnax : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 8c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Winarnax.
+Winarnax a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Winarnax (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237450337658 : Tournoi #3443580794, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 19/07/2022 8:58:53 CET [19/07/2022 2:58:53 ET]
+Table '3443580794 1' 3-max Siège #1 est au bouton.
+Place 1: Winarnax (610 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Winarnax : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 5h]
+Winarnax : relance. 530 à 610 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (530) sont retournés à Winarnax.
+Winarnax a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : Winarnax (bouton) (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237450338724 : Tournoi #3443580794, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 19/07/2022 8:59:04 CET [19/07/2022 2:59:04 ET]
+Table '3443580794 1' 3-max Siège #2 est au bouton.
+Place 1: Winarnax (690 en jetons) 
+Place 2: psychoman59 (210 en jetons) 
+psychoman59 : met la petite blind. 40
+Winarnax : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Td]
+psychoman59 : relance. 130 à 210 et est all-in.
+Winarnax : suit. 130
+*** FLOP *** [5s 9h Qd]
+*** TOURNANT *** [5s 9h Qd] [8d]
+*** RIVIÈRE *** [5s 9h Qd 8d] [9d]
+*** ABATTAGE ***
+Winarnax : montre [Qs 8h] (double paire, Dames et Neuf)
+psychoman59 : montre [6d Td] (une couleur, hauteur Dame)
+psychoman59 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [5s 9h Qd 8d 9d]
+Siège 1 : Winarnax (grosse blind) a montré [Qs 8h] et a perdu avec double paire, Dames et Neuf
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [6d Td] et a gagné (420) avec une couleur, hauteur Dame
+
+
+
+Main PokerStars n°237450340187 : Tournoi #3443580794, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 19/07/2022 8:59:19 CET [19/07/2022 2:59:19 ET]
+Table '3443580794 1' 3-max Siège #1 est au bouton.
+Place 1: Winarnax (480 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+Winarnax : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 6c]
+Winarnax : relance. 400 à 480 et est all-in.
+psychoman59 : suit. 340 et est all-in.
+Personne n'a suivi. (60) sont retournés à Winarnax.
+*** FLOP *** [2s 5h Js]
+*** TOURNANT *** [2s 5h Js] [As]
+*** RIVIÈRE *** [2s 5h Js As] [Td]
+*** ABATTAGE ***
+psychoman59 : montre [6h 6c] (une paire de Six)
+Winarnax : montre [Ac 6d] (une paire de As)
+Winarnax a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [2s 5h Js As Td]
+Siège 1 : Winarnax (bouton) (petite blind) a montré [Ac 6d] et a gagné (840) avec une paire de As
+Siège 2 : psychoman59 (grosse blind) a montré [6h 6c] et a perdu avec une paire de Six
+
+
+

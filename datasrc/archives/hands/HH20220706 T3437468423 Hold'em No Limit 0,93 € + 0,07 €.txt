@@ -1,0 +1,285 @@
+﻿Main PokerStars n°237189622358 : Tournoi #3437468423, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/07/2022 8:08:50 CET [06/07/2022 2:08:50 ET]
+Table '3437468423 1' 3-max Siège #1 est au bouton.
+Place 1: didier419 (300 en jetons) 
+Place 2: milko31 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+milko31 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 5d]
+didier419 : suit. 20
+milko31 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6d Jc Jh]
+milko31 : parole 
+psychoman59 : parole 
+didier419 : parole 
+*** TOURNANT *** [6d Jc Jh] [Qs]
+milko31 : parole 
+psychoman59 : parole 
+didier419 : mise. 40
+milko31 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à didier419.
+didier419 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6d Jc Jh Qs]
+Siège 1 : didier419 (bouton) a remporté (60)
+Siège 2 : milko31 (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237189626859 : Tournoi #3437468423, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/07/2022 8:09:32 CET [06/07/2022 2:09:32 ET]
+Table '3437468423 1' 3-max Siège #2 est au bouton.
+Place 1: didier419 (340 en jetons) 
+Place 2: milko31 (280 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+didier419 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 3d]
+milko31 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à didier419.
+didier419 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : didier419 (grosse blind) a remporté (20)
+Siège 2 : milko31 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237189627930 : Tournoi #3437468423, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/07/2022 8:09:42 CET [06/07/2022 2:09:42 ET]
+Table '3437468423 1' 3-max Siège #3 est au bouton.
+Place 1: didier419 (350 en jetons) 
+Place 2: milko31 (280 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+didier419 : met la petite blind. 10
+milko31 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 5h]
+psychoman59 : passe. 
+didier419 : suit. 10
+milko31 : parole 
+*** FLOP *** [2s Jh 9d]
+didier419 : mise. 20
+milko31 : passe. 
+Personne n'a suivi. (20) sont retournés à didier419.
+didier419 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2s Jh 9d]
+Siège 1 : didier419 (petite blind) a remporté (40)
+Siège 2 : milko31 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237189629830 : Tournoi #3437468423, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 06/07/2022 8:10:00 CET [06/07/2022 2:10:00 ET]
+Table '3437468423 1' 3-max Siège #1 est au bouton.
+Place 1: didier419 (370 en jetons) 
+Place 2: milko31 (260 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+milko31 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 8d]
+didier419 : suit. 30
+milko31 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Td Ac 8c]
+psychoman59 : parole 
+didier419 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [Td Ac 8c] [Kd]
+psychoman59 : parole 
+didier419 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [Td Ac 8c Kd] [5c]
+psychoman59 : parole 
+didier419 : mise. 90
+psychoman59 : suit. 90
+*** ABATTAGE ***
+didier419 : montre [Th 3s] (une paire de Dix)
+psychoman59 : cache la main perdante. 
+didier419 a remporté 375  lors du pot .
+*** SYNTHÈSE ***
+Pot total 375 | Commission 0 
+Tableau [Td Ac 8c Kd 5c]
+Siège 1 : didier419 (bouton) a montré [Th 3s] et a gagné (375) avec une paire de Dix
+Siège 2 : milko31 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [Qh 8d]
+
+
+
+Main PokerStars n°237189633215 : Tournoi #3437468423, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 06/07/2022 8:10:31 CET [06/07/2022 2:10:31 ET]
+Table '3437468423 1' 3-max Siège #2 est au bouton.
+Place 1: didier419 (565 en jetons) 
+Place 2: milko31 (245 en jetons) 
+Place 3: psychoman59 (90 en jetons) 
+psychoman59 : met la petite blind. 15
+didier419 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Kc]
+milko31 : relance. 215 à 245 et est all-in.
+psychoman59 : passe. 
+didier419 : passe. 
+Personne n'a suivi. (215) sont retournés à milko31.
+milko31 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : didier419 (grosse blind) s'est couché. avant Flop
+Siège 2 : milko31 (bouton) a remporté (75)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237189634171 : Tournoi #3437468423, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 06/07/2022 8:10:40 CET [06/07/2022 2:10:40 ET]
+Table '3437468423 1' 3-max Siège #3 est au bouton.
+Place 1: didier419 (535 en jetons) 
+Place 2: milko31 (290 en jetons) 
+Place 3: psychoman59 (75 en jetons) 
+didier419 : met la petite blind. 15
+milko31 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7c]
+psychoman59 : relance. 45 à 75 et est all-in.
+didier419 : passe. 
+milko31 : suit. 45
+*** FLOP *** [7d Ts 3c]
+*** TOURNANT *** [7d Ts 3c] [4c]
+*** RIVIÈRE *** [7d Ts 3c 4c] [Qs]
+*** ABATTAGE ***
+milko31 : montre [2h 2s] (une paire de Deux)
+psychoman59 : montre [Kc 7c] (une paire de Sept)
+psychoman59 a remporté 165  lors du pot .
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Tableau [7d Ts 3c 4c Qs]
+Siège 1 : didier419 (petite blind) s'est couché. avant Flop
+Siège 2 : milko31 (grosse blind) a montré [2h 2s] et a perdu avec une paire de Deux
+Siège 3 : psychoman59 (bouton) a montré [Kc 7c] et a gagné (165) avec une paire de Sept
+
+
+
+Main PokerStars n°237189636421 : Tournoi #3437468423, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 06/07/2022 8:11:01 CET [06/07/2022 2:11:01 ET]
+Table '3437468423 1' 3-max Siège #1 est au bouton.
+Place 1: didier419 (520 en jetons) 
+Place 2: milko31 (215 en jetons) 
+Place 3: psychoman59 (165 en jetons) 
+milko31 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ac]
+didier419 : suit. 40
+milko31 : passe. 
+psychoman59 : relance. 125 à 165 et est all-in.
+didier419 : passe. 
+Personne n'a suivi. (125) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : didier419 (bouton) s'est couché. avant Flop
+Siège 2 : milko31 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°237189637743 : Tournoi #3437468423, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 06/07/2022 8:11:14 CET [06/07/2022 2:11:14 ET]
+Table '3437468423 1' 3-max Siège #2 est au bouton.
+Place 1: didier419 (480 en jetons) 
+Place 2: milko31 (195 en jetons) 
+Place 3: psychoman59 (225 en jetons) 
+psychoman59 : met la petite blind. 20
+didier419 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 9c]
+milko31 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à didier419.
+didier419 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : didier419 (grosse blind) a remporté (40)
+Siège 2 : milko31 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237189638440 : Tournoi #3437468423, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 06/07/2022 8:11:21 CET [06/07/2022 2:11:21 ET]
+Table '3437468423 1' 3-max Siège #3 est au bouton.
+Place 1: didier419 (500 en jetons) 
+Place 2: milko31 (195 en jetons) 
+Place 3: psychoman59 (205 en jetons) 
+didier419 : met la petite blind. 20
+milko31 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ad]
+psychoman59 : relance. 165 à 205 et est all-in.
+didier419 : passe. 
+milko31 : passe. 
+Personne n'a suivi. (165) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : didier419 (petite blind) s'est couché. avant Flop
+Siège 2 : milko31 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (100)
+
+
+
+Main PokerStars n°237189639746 : Tournoi #3437468423, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 06/07/2022 8:11:33 CET [06/07/2022 2:11:33 ET]
+Table '3437468423 1' 3-max Siège #1 est au bouton.
+Place 1: didier419 (480 en jetons) 
+Place 2: milko31 (155 en jetons) 
+Place 3: psychoman59 (265 en jetons) 
+milko31 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 7s]
+didier419 : suit. 40
+milko31 : relance. 115 à 155 et est all-in.
+psychoman59 : passe. 
+didier419 : passe. 
+Personne n'a suivi. (115) sont retournés à milko31.
+milko31 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : didier419 (bouton) s'est couché. avant Flop
+Siège 2 : milko31 (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237189642146 : Tournoi #3437468423, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/07/2022 8:11:55 CET [06/07/2022 2:11:55 ET]
+Table '3437468423 1' 3-max Siège #2 est au bouton.
+Place 1: didier419 (440 en jetons) 
+Place 2: milko31 (235 en jetons) 
+Place 3: psychoman59 (225 en jetons) 
+psychoman59 : met la petite blind. 30
+didier419 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Ks]
+milko31 : relance. 175 à 235 et est all-in.
+psychoman59 : suit. 195 et est all-in.
+didier419 : passe. 
+Personne n'a suivi. (10) sont retournés à milko31.
+*** FLOP *** [5c 4d 2h]
+*** TOURNANT *** [5c 4d 2h] [7h]
+*** RIVIÈRE *** [5c 4d 2h 7h] [8s]
+*** ABATTAGE ***
+psychoman59 : montre [Th Ks] (Hauteur Roi)
+milko31 : montre [8d 9c] (une paire de Huit)
+milko31 a remporté 510  lors du pot .
+*** SYNTHÈSE ***
+Pot total 510 | Commission 0 
+Tableau [5c 4d 2h 7h 8s]
+Siège 1 : didier419 (grosse blind) s'est couché. avant Flop
+Siège 2 : milko31 (bouton) a montré [8d 9c] et a gagné (510) avec une paire de Huit
+Siège 3 : psychoman59 (petite blind) a montré [Th Ks] et a perdu avec Hauteur Roi
+
+
+

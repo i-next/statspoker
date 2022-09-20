@@ -1,0 +1,495 @@
+﻿Main PokerStars n°237522433350 : Tournoi #3445269415, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/07/2022 0:09:19 CET [22/07/2022 18:09:19 ET]
+Table '3445269415 1' 3-max Siège #1 est au bouton.
+Place 1: THZ0707 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: chivac123 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+chivac123 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5c]
+THZ0707 : relance. 20 à 40
+psychoman59 : passe. 
+chivac123 : suit. 20
+*** FLOP *** [Qh 5s Jh]
+chivac123 : parole 
+THZ0707 : mise. 45
+chivac123 : passe. 
+Personne n'a suivi. (45) sont retournés à THZ0707.
+THZ0707 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Qh 5s Jh]
+Siège 1 : THZ0707 (bouton) a remporté (90)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : chivac123 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237522440061 : Tournoi #3445269415, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/07/2022 0:09:39 CET [22/07/2022 18:09:39 ET]
+Table '3445269415 1' 3-max Siège #2 est au bouton.
+Place 1: THZ0707 (350 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: chivac123 (260 en jetons) 
+chivac123 : met la petite blind. 10
+THZ0707 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 6d]
+psychoman59 : passe. 
+chivac123 : suit. 10
+THZ0707 : parole 
+*** FLOP *** [Ac Kc Ad]
+chivac123 : parole 
+THZ0707 : parole 
+*** TOURNANT *** [Ac Kc Ad] [Ah]
+chivac123 : parole 
+THZ0707 : parole 
+*** RIVIÈRE *** [Ac Kc Ad Ah] [8h]
+chivac123 : mise. 20
+THZ0707 : suit. 20
+*** ABATTAGE ***
+chivac123 : montre [5c 6h] (un brelan de As)
+THZ0707 : montre [2d 9c] (un brelan de As - Roi+Neuf kicker)
+THZ0707 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ac Kc Ad Ah 8h]
+Siège 1 : THZ0707 (grosse blind) a montré [2d 9c] et a gagné (80) avec un brelan de As
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : chivac123 (petite blind) a montré [5c 6h] et a perdu avec un brelan de As
+
+
+
+Main PokerStars n°237522449152 : Tournoi #3445269415, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/07/2022 0:10:06 CET [22/07/2022 18:10:06 ET]
+Table '3445269415 1' 3-max Siège #3 est au bouton.
+Place 1: THZ0707 (390 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: chivac123 (220 en jetons) 
+THZ0707 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 5s]
+chivac123 : suit. 20
+THZ0707 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qs Qd Kh]
+THZ0707 : parole 
+psychoman59 : parole 
+chivac123 : parole 
+*** TOURNANT *** [Qs Qd Kh] [6h]
+THZ0707 : mise. 20
+psychoman59 : passe. 
+chivac123 : suit. 20
+*** RIVIÈRE *** [Qs Qd Kh 6h] [3h]
+THZ0707 : mise. 20
+chivac123 : relance. 20 à 40
+THZ0707 : relance. 310 à 350 et est all-in.
+chivac123 : passe. 
+Personne n'a suivi. (310) sont retournés à THZ0707.
+THZ0707 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Qs Qd Kh 6h 3h]
+Siège 1 : THZ0707 (petite blind) a remporté (180)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : chivac123 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237522465756 : Tournoi #3445269415, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 23/07/2022 0:10:55 CET [22/07/2022 18:10:55 ET]
+Table '3445269415 1' 3-max Siège #1 est au bouton.
+Place 1: THZ0707 (490 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: chivac123 (140 en jetons) 
+psychoman59 : met la petite blind. 15
+chivac123 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Ah]
+THZ0707 : relance. 30 à 60
+psychoman59 : suit. 45
+chivac123 : suit. 30
+*** FLOP *** [4s Tc 3c]
+psychoman59 : parole 
+chivac123 : parole 
+THZ0707 : parole 
+*** TOURNANT *** [4s Tc 3c] [7s]
+psychoman59 : mise. 90
+chivac123 : suit. 80 et est all-in.
+THZ0707 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+*** RIVIÈRE *** [4s Tc 3c 7s] [8c]
+*** ABATTAGE ***
+psychoman59 : montre [4c Ah] (une paire de Quatre)
+chivac123 : montre [2h 3h] (une paire de Trois)
+psychoman59 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [4s Tc 3c 7s 8c]
+Siège 1 : THZ0707 (bouton) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (petite blind) a montré [4c Ah] et a gagné (340) avec une paire de Quatre
+Siège 3 : chivac123 (grosse blind) a montré [2h 3h] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°237522489369 : Tournoi #3445269415, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 23/07/2022 0:11:40 CET [22/07/2022 18:11:40 ET]
+Table '3445269415 1' 3-max Siège #2 est au bouton.
+Place 1: THZ0707 (430 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+psychoman59 : met la petite blind. 20
+THZ0707 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Jh]
+psychoman59 : relance. 80 à 120
+THZ0707 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : THZ0707 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237522493567 : Tournoi #3445269415, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 23/07/2022 0:11:52 CET [22/07/2022 18:11:52 ET]
+Table '3445269415 1' 3-max Siège #1 est au bouton.
+Place 1: THZ0707 (390 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+THZ0707 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 3c]
+THZ0707 : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à THZ0707.
+THZ0707 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : THZ0707 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237522496350 : Tournoi #3445269415, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 23/07/2022 0:12:01 CET [22/07/2022 18:12:01 ET]
+Table '3445269415 1' 3-max Siège #2 est au bouton.
+Place 1: THZ0707 (430 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+psychoman59 : met la petite blind. 20
+THZ0707 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Ac]
+psychoman59 : relance. 430 à 470 et est all-in.
+THZ0707 : passe. 
+Personne n'a suivi. (430) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : THZ0707 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237522499995 : Tournoi #3445269415, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 23/07/2022 0:12:11 CET [22/07/2022 18:12:11 ET]
+Table '3445269415 1' 3-max Siège #1 est au bouton.
+Place 1: THZ0707 (390 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+THZ0707 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 6d]
+THZ0707 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Ac 7s Jh]
+psychoman59 : parole 
+THZ0707 : parole 
+*** TOURNANT *** [Ac 7s Jh] [Jd]
+psychoman59 : parole 
+THZ0707 : parole 
+*** RIVIÈRE *** [Ac 7s Jh Jd] [2c]
+psychoman59 : parole 
+THZ0707 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4h 6d] (une paire de Valets)
+THZ0707 : montre [2h Ks] (double paire, Valets et Deux)
+THZ0707 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ac 7s Jh Jd 2c]
+Siège 1 : THZ0707 (bouton) (petite blind) a montré [2h Ks] et a gagné (80) avec double paire, Valets et Deux
+Siège 2 : psychoman59 (grosse blind) a montré [4h 6d] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°237522509294 : Tournoi #3445269415, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/07/2022 0:12:39 CET [22/07/2022 18:12:39 ET]
+Table '3445269415 1' 3-max Siège #2 est au bouton.
+Place 1: THZ0707 (430 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+psychoman59 : met la petite blind. 30
+THZ0707 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à THZ0707.
+THZ0707 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : THZ0707 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237522511018 : Tournoi #3445269415, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/07/2022 0:12:44 CET [22/07/2022 18:12:44 ET]
+Table '3445269415 1' 3-max Siège #1 est au bouton.
+Place 1: THZ0707 (460 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+THZ0707 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3c]
+THZ0707 : relance. 400 à 460 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à THZ0707.
+THZ0707 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : THZ0707 (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237522514690 : Tournoi #3445269415, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/07/2022 0:12:54 CET [22/07/2022 18:12:54 ET]
+Table '3445269415 1' 3-max Siège #2 est au bouton.
+Place 1: THZ0707 (520 en jetons) 
+Place 2: psychoman59 (380 en jetons) 
+psychoman59 : met la petite blind. 30
+THZ0707 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ks]
+psychoman59 : relance. 320 à 380 et est all-in.
+THZ0707 : passe. 
+Personne n'a suivi. (320) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : THZ0707 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237522517985 : Tournoi #3445269415, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/07/2022 0:13:04 CET [22/07/2022 18:13:04 ET]
+Table '3445269415 1' 3-max Siège #1 est au bouton.
+Place 1: THZ0707 (460 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+THZ0707 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 9d]
+THZ0707 : relance. 400 à 460 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à THZ0707.
+THZ0707 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : THZ0707 (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237522522520 : Tournoi #3445269415, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/07/2022 0:13:17 CET [22/07/2022 18:13:17 ET]
+Table '3445269415 1' 3-max Siège #2 est au bouton.
+Place 1: THZ0707 (520 en jetons) 
+Place 2: psychoman59 (380 en jetons) 
+psychoman59 : met la petite blind. 30
+THZ0707 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Jd]
+psychoman59 : relance. 320 à 380 et est all-in.
+THZ0707 : passe. 
+Personne n'a suivi. (320) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : THZ0707 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237522526114 : Tournoi #3445269415, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 23/07/2022 0:13:28 CET [22/07/2022 18:13:28 ET]
+Table '3445269415 1' 3-max Siège #1 est au bouton.
+Place 1: THZ0707 (460 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+THZ0707 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 2d]
+THZ0707 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : THZ0707 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237522528559 : Tournoi #3445269415, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 23/07/2022 0:13:35 CET [22/07/2022 18:13:35 ET]
+Table '3445269415 1' 3-max Siège #2 est au bouton.
+Place 1: THZ0707 (420 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 40
+THZ0707 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 8s]
+psychoman59 : relance. 400 à 480 et est all-in.
+THZ0707 : passe. 
+Personne n'a suivi. (400) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : THZ0707 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°237522531084 : Tournoi #3445269415, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 23/07/2022 0:13:43 CET [22/07/2022 18:13:43 ET]
+Table '3445269415 1' 3-max Siège #1 est au bouton.
+Place 1: THZ0707 (340 en jetons) 
+Place 2: psychoman59 (560 en jetons) 
+THZ0707 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Js]
+THZ0707 : relance. 260 à 340 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (260) sont retournés à THZ0707.
+THZ0707 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : THZ0707 (bouton) (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237522535643 : Tournoi #3445269415, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 23/07/2022 0:13:56 CET [22/07/2022 18:13:56 ET]
+Table '3445269415 1' 3-max Siège #2 est au bouton.
+Place 1: THZ0707 (420 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 40
+THZ0707 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à THZ0707.
+THZ0707 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : THZ0707 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237522537265 : Tournoi #3445269415, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 23/07/2022 0:14:01 CET [22/07/2022 18:14:01 ET]
+Table '3445269415 1' 3-max Siège #1 est au bouton.
+Place 1: THZ0707 (460 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+THZ0707 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 9c]
+THZ0707 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [7s 2c As]
+psychoman59 : mise. 160
+THZ0707 : relance. 220 à 380 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (220) sont retournés à THZ0707.
+THZ0707 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [7s 2c As]
+Siège 1 : THZ0707 (bouton) (petite blind) a remporté (480)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237522545744 : Tournoi #3445269415, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 23/07/2022 0:14:27 CET [22/07/2022 18:14:27 ET]
+Table '3445269415 1' 3-max Siège #2 est au bouton.
+Place 1: THZ0707 (700 en jetons) 
+Place 2: psychoman59 (200 en jetons) 
+psychoman59 : met la petite blind. 50
+THZ0707 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Kh]
+psychoman59 : relance. 100 à 200 et est all-in.
+THZ0707 : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : THZ0707 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (200)
+
+
+
+Main PokerStars n°237522548072 : Tournoi #3445269415, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 23/07/2022 0:14:34 CET [22/07/2022 18:14:34 ET]
+Table '3445269415 1' 3-max Siège #1 est au bouton.
+Place 1: THZ0707 (600 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+THZ0707 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 5d]
+THZ0707 : relance. 500 à 600 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (500) sont retournés à THZ0707.
+THZ0707 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : THZ0707 (bouton) (petite blind) a remporté (200)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237522551696 : Tournoi #3445269415, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 23/07/2022 0:14:44 CET [22/07/2022 18:14:44 ET]
+Table '3445269415 1' 3-max Siège #2 est au bouton.
+Place 1: THZ0707 (700 en jetons) 
+Place 2: psychoman59 (200 en jetons) 
+psychoman59 : met la petite blind. 50
+THZ0707 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Th]
+psychoman59 : relance. 100 à 200 et est all-in.
+THZ0707 : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : THZ0707 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (200)
+
+
+
+Main PokerStars n°237522553835 : Tournoi #3445269415, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 23/07/2022 0:14:50 CET [22/07/2022 18:14:50 ET]
+Table '3445269415 1' 3-max Siège #1 est au bouton.
+Place 1: THZ0707 (600 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+THZ0707 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Js]
+THZ0707 : relance. 500 à 600 et est all-in.
+psychoman59 : suit. 200 et est all-in.
+Personne n'a suivi. (300) sont retournés à THZ0707.
+*** FLOP *** [9s Ac Qc]
+*** TOURNANT *** [9s Ac Qc] [Ts]
+*** RIVIÈRE *** [9s Ac Qc Ts] [Tc]
+*** ABATTAGE ***
+psychoman59 : montre [4s Js] (une paire de Dix)
+THZ0707 : montre [4d Qd] (double paire, Dames et Dix)
+THZ0707 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [9s Ac Qc Ts Tc]
+Siège 1 : THZ0707 (bouton) (petite blind) a montré [4d Qd] et a gagné (600) avec double paire, Dames et Dix
+Siège 2 : psychoman59 (grosse blind) a montré [4s Js] et a perdu avec une paire de Dix
+
+
+

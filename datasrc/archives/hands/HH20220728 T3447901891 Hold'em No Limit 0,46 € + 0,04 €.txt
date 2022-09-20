@@ -1,0 +1,66 @@
+﻿Main PokerStars n°237636895295 : Tournoi #3447901891, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 28/07/2022 13:58:03 CET [28/07/2022 7:58:03 ET]
+Table '3447901891 1' 4-max Siège #1 est au bouton.
+Place 1: elkaiserbcn (5000 en jetons) 
+Place 2: Uxermozo (5000 en jetons) 
+Place 3: wittelberg78 (5000 en jetons) 
+Place 4: psychoman59 (5000 en jetons) 
+elkaiserbcn : met l'ante. 10
+Uxermozo : met l'ante. 10
+wittelberg78 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Uxermozo : met la petite blind. 50
+wittelberg78 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 6h]
+psychoman59 : passe. 
+elkaiserbcn : passe. 
+Uxermozo : passe. 
+Personne n'a suivi. (50) sont retournés à wittelberg78.
+wittelberg78 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Siège 1 : elkaiserbcn (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Uxermozo (petite blind) s'est couché. avant Flop
+Siège 3 : wittelberg78 (grosse blind) a remporté (140)
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237636898452 : Tournoi #3447901891, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 28/07/2022 13:58:22 CET [28/07/2022 7:58:22 ET]
+Table '3447901891 1' 4-max Siège #2 est au bouton.
+Place 1: elkaiserbcn (4990 en jetons) 
+Place 2: Uxermozo (4940 en jetons) 
+Place 3: wittelberg78 (5080 en jetons) 
+Place 4: psychoman59 (4990 en jetons) 
+elkaiserbcn : met l'ante. 10
+Uxermozo : met l'ante. 10
+wittelberg78 : met l'ante. 10
+psychoman59 : met l'ante. 10
+wittelberg78 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Jd]
+elkaiserbcn : passe. 
+Uxermozo : passe. 
+wittelberg78 : relance. 100 à 200
+psychoman59 : relance. 440 à 640
+wittelberg78 : relance. 4430 à 5070 et est all-in.
+psychoman59 : suit. 4340 et est all-in.
+Personne n'a suivi. (90) sont retournés à wittelberg78.
+*** FLOP *** [Ac Qh 7c]
+*** TOURNANT *** [Ac Qh 7c] [Qc]
+*** RIVIÈRE *** [Ac Qh 7c Qc] [2d]
+*** ABATTAGE ***
+wittelberg78 : montre [8h 8c] (double paire, Dames et Huit)
+psychoman59 : montre [Kd Jd] (une paire de Dames)
+wittelberg78 a remporté 10000  lors du pot .
+*** SYNTHÈSE ***
+Pot total 10000 | Commission 0 
+Tableau [Ac Qh 7c Qc 2d]
+Siège 1 : elkaiserbcn s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Uxermozo (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : wittelberg78 (petite blind) a montré [8h 8c] et a gagné (10000) avec double paire, Dames et Huit
+Siège 4 : psychoman59 (grosse blind) a montré [Kd Jd] et a perdu avec une paire de Dames
+
+
+

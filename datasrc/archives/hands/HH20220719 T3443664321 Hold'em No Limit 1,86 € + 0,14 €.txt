@@ -1,0 +1,52 @@
+﻿Main PokerStars n°237453326915 : Tournoi #3443664321, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 14:28:54 CET [19/07/2022 8:28:54 ET]
+Table '3443664321 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Gus Goodman (300 en jetons) 
+Place 3: Winarnax (300 en jetons) 
+Gus Goodman : met la petite blind. 10
+Winarnax : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Td]
+psychoman59 : suit. 20
+Gus Goodman : suit. 10
+Winarnax : relance. 280 à 300 et est all-in.
+psychoman59 : passe. 
+Gus Goodman : passe. 
+Personne n'a suivi. (280) sont retournés à Winarnax.
+Winarnax a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : Gus Goodman (petite blind) s'est couché. avant Flop
+Siège 3 : Winarnax (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237453330290 : Tournoi #3443664321, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 14:29:10 CET [19/07/2022 8:29:10 ET]
+Table '3443664321 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: Gus Goodman (280 en jetons) 
+Place 3: Winarnax (340 en jetons) 
+Winarnax : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Kh]
+Gus Goodman : relance. 260 à 280 et est all-in.
+Winarnax : passe. 
+psychoman59 : suit. 260 et est all-in.
+*** FLOP *** [Ac 2s 7s]
+*** TOURNANT *** [Ac 2s 7s] [6h]
+*** RIVIÈRE *** [Ac 2s 7s 6h] [7h]
+*** ABATTAGE ***
+psychoman59 : montre [Jc Kh] (une paire de Sept)
+Gus Goodman : montre [4c 4s] (double paire, Sept et Quatre)
+Gus Goodman a remporté 570  lors du pot .
+*** SYNTHÈSE ***
+Pot total 570 | Commission 0 
+Tableau [Ac 2s 7s 6h 7h]
+Siège 1 : psychoman59 (grosse blind) a montré [Jc Kh] et a perdu avec une paire de Sept
+Siège 2 : Gus Goodman (bouton) a montré [4c 4s] et a gagné (570) avec double paire, Sept et Quatre
+Siège 3 : Winarnax (petite blind) s'est couché. avant Flop
+
+
+

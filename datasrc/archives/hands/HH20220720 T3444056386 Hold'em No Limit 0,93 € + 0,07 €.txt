@@ -1,0 +1,429 @@
+﻿Main PokerStars n°237470854503 : Tournoi #3444056386, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/07/2022 9:03:00 CET [20/07/2022 3:03:00 ET]
+Table '3444056386 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: pupuce235 (300 en jetons) 
+Place 3: MisterFlo81 (300 en jetons) 
+pupuce235 : met la petite blind. 10
+MisterFlo81 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ks]
+psychoman59 : relance. 20 à 40
+pupuce235 : relance. 260 à 300 et est all-in.
+MisterFlo81 : suit. 280 et est all-in.
+psychoman59 : passe. 
+*** FLOP *** [5c Ts 6d]
+*** TOURNANT *** [5c Ts 6d] [2c]
+*** RIVIÈRE *** [5c Ts 6d 2c] [3d]
+*** ABATTAGE ***
+pupuce235 : montre [As 9d] (Hauteur As)
+MisterFlo81 : montre [Ac Js] (Hauteur As - Valet kicker)
+MisterFlo81 a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [5c Ts 6d 2c 3d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : pupuce235 (petite blind) a montré [As 9d] et a perdu avec Hauteur As
+Siège 3 : MisterFlo81 (grosse blind) a montré [Ac Js] et a gagné (640) avec Hauteur As
+
+
+
+Main PokerStars n°237470856757 : Tournoi #3444056386, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/07/2022 9:03:21 CET [20/07/2022 3:03:21 ET]
+Table '3444056386 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 3: MisterFlo81 (640 en jetons) 
+MisterFlo81 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Qc]
+MisterFlo81 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4h Ac 2s]
+psychoman59 : parole 
+MisterFlo81 : parole 
+*** TOURNANT *** [4h Ac 2s] [2h]
+psychoman59 : mise. 40
+MisterFlo81 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [4h Ac 2s 2h]
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : MisterFlo81 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237470858758 : Tournoi #3444056386, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/07/2022 9:03:40 CET [20/07/2022 3:03:40 ET]
+Table '3444056386 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 3: MisterFlo81 (620 en jetons) 
+psychoman59 : met la petite blind. 10
+MisterFlo81 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à MisterFlo81.
+MisterFlo81 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : MisterFlo81 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237470859258 : Tournoi #3444056386, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/07/2022 9:03:44 CET [20/07/2022 3:03:44 ET]
+Table '3444056386 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 3: MisterFlo81 (630 en jetons) 
+MisterFlo81 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Ad]
+MisterFlo81 : suit. 10
+psychoman59 : relance. 250 à 270 et est all-in.
+MisterFlo81 : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : MisterFlo81 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237470860672 : Tournoi #3444056386, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/07/2022 9:03:57 CET [20/07/2022 3:03:57 ET]
+Table '3444056386 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 3: MisterFlo81 (610 en jetons) 
+psychoman59 : met la petite blind. 10
+MisterFlo81 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 9s]
+psychoman59 : suit. 10
+MisterFlo81 : parole 
+*** FLOP *** [Ad 4c 9h]
+MisterFlo81 : parole 
+psychoman59 : mise. 40
+MisterFlo81 : suit. 40
+*** TOURNANT *** [Ad 4c 9h] [4d]
+MisterFlo81 : parole 
+psychoman59 : mise. 60
+MisterFlo81 : relance. 60 à 120
+psychoman59 : suit. 60
+*** RIVIÈRE *** [Ad 4c 9h 4d] [Js]
+MisterFlo81 : mise. 180
+psychoman59 : passe. 
+Personne n'a suivi. (180) sont retournés à MisterFlo81.
+MisterFlo81 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Ad 4c 9h 4d Js]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : MisterFlo81 (grosse blind) a remporté (360)
+
+
+
+Main PokerStars n°237470865220 : Tournoi #3444056386, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/07/2022 9:04:40 CET [20/07/2022 3:04:40 ET]
+Table '3444056386 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (110 en jetons) 
+Place 3: MisterFlo81 (790 en jetons) 
+MisterFlo81 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3d]
+MisterFlo81 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qs 3c 6s]
+psychoman59 : mise. 80 et est all-in.
+MisterFlo81 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qs 3c 6s]
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : MisterFlo81 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237470867120 : Tournoi #3444056386, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/07/2022 9:04:57 CET [20/07/2022 3:04:57 ET]
+Table '3444056386 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (140 en jetons) 
+Place 3: MisterFlo81 (760 en jetons) 
+psychoman59 : met la petite blind. 15
+MisterFlo81 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 7h]
+psychoman59 : relance. 110 à 140 et est all-in.
+MisterFlo81 : suit. 110
+*** FLOP *** [8d 3h 5s]
+*** TOURNANT *** [8d 3h 5s] [Qh]
+*** RIVIÈRE *** [8d 3h 5s Qh] [Qs]
+*** ABATTAGE ***
+MisterFlo81 : montre [9c As] (une paire de Dames)
+psychoman59 : montre [Qd 7h] (un brelan de Dames)
+psychoman59 a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [8d 3h 5s Qh Qs]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Qd 7h] et a gagné (280) avec un brelan de Dames
+Siège 3 : MisterFlo81 (grosse blind) a montré [9c As] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°237470869128 : Tournoi #3444056386, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/07/2022 9:05:16 CET [20/07/2022 3:05:16 ET]
+Table '3444056386 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 3: MisterFlo81 (620 en jetons) 
+MisterFlo81 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 3s]
+MisterFlo81 : relance. 40 à 80
+psychoman59 : suit. 40
+*** FLOP *** [6s 3h Kc]
+psychoman59 : parole 
+MisterFlo81 : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [6s 3h Kc] [5s]
+psychoman59 : parole 
+MisterFlo81 : parole 
+*** RIVIÈRE *** [6s 3h Kc 5s] [9c]
+psychoman59 : mise. 120
+MisterFlo81 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6s 3h Kc 5s 9c]
+Siège 1 : psychoman59 (grosse blind) a remporté (240)
+Siège 3 : MisterFlo81 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237470871347 : Tournoi #3444056386, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/07/2022 9:05:37 CET [20/07/2022 3:05:37 ET]
+Table '3444056386 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 3: MisterFlo81 (500 en jetons) 
+psychoman59 : met la petite blind. 20
+MisterFlo81 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à MisterFlo81.
+MisterFlo81 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : MisterFlo81 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237470871798 : Tournoi #3444056386, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/07/2022 9:05:42 CET [20/07/2022 3:05:42 ET]
+Table '3444056386 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 3: MisterFlo81 (520 en jetons) 
+MisterFlo81 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Tc]
+MisterFlo81 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [7s 3s 4c]
+psychoman59 : parole 
+MisterFlo81 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à MisterFlo81.
+MisterFlo81 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [7s 3s 4c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : MisterFlo81 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237470873237 : Tournoi #3444056386, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/07/2022 9:05:55 CET [20/07/2022 3:05:55 ET]
+Table '3444056386 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 3: MisterFlo81 (560 en jetons) 
+psychoman59 : met la petite blind. 20
+MisterFlo81 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ah]
+psychoman59 : relance. 300 à 340 et est all-in.
+MisterFlo81 : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : MisterFlo81 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237470874455 : Tournoi #3444056386, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/07/2022 9:06:07 CET [20/07/2022 3:06:07 ET]
+Table '3444056386 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 3: MisterFlo81 (520 en jetons) 
+MisterFlo81 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 3d]
+MisterFlo81 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [6s 9s 8h]
+psychoman59 : parole 
+MisterFlo81 : parole 
+*** TOURNANT *** [6s 9s 8h] [As]
+psychoman59 : parole 
+MisterFlo81 : parole 
+*** RIVIÈRE *** [6s 9s 8h As] [7s]
+psychoman59 : mise. 120
+MisterFlo81 : suit. 120
+*** ABATTAGE ***
+psychoman59 : montre [Ks 3d] (une couleur, hauteur As)
+MisterFlo81 : cache la main perdante. 
+psychoman59 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [6s 9s 8h As 7s]
+Siège 1 : psychoman59 (grosse blind) a montré [Ks 3d] et a gagné (360) avec une couleur, hauteur As
+Siège 3 : MisterFlo81 (bouton) (petite blind) a caché la main perdante. [4c 5c]
+
+
+
+Main PokerStars n°237470877006 : Tournoi #3444056386, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/07/2022 9:06:31 CET [20/07/2022 3:06:31 ET]
+Table '3444056386 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (560 en jetons) 
+Place 3: MisterFlo81 (340 en jetons) 
+psychoman59 : met la petite blind. 30
+MisterFlo81 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à MisterFlo81.
+MisterFlo81 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : MisterFlo81 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237470877466 : Tournoi #3444056386, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/07/2022 9:06:35 CET [20/07/2022 3:06:35 ET]
+Table '3444056386 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 3: MisterFlo81 (370 en jetons) 
+MisterFlo81 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 8d]
+MisterFlo81 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : MisterFlo81 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237470878269 : Tournoi #3444056386, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/07/2022 9:06:42 CET [20/07/2022 3:06:42 ET]
+Table '3444056386 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (560 en jetons) 
+Place 3: MisterFlo81 (340 en jetons) 
+psychoman59 : met la petite blind. 30
+MisterFlo81 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à MisterFlo81.
+MisterFlo81 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : MisterFlo81 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237470878800 : Tournoi #3444056386, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/07/2022 9:06:48 CET [20/07/2022 3:06:48 ET]
+Table '3444056386 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 3: MisterFlo81 (370 en jetons) 
+MisterFlo81 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 8h]
+MisterFlo81 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : MisterFlo81 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237470879424 : Tournoi #3444056386, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/07/2022 9:06:54 CET [20/07/2022 3:06:54 ET]
+Table '3444056386 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (560 en jetons) 
+Place 3: MisterFlo81 (340 en jetons) 
+psychoman59 : met la petite blind. 30
+MisterFlo81 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 9c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à MisterFlo81.
+MisterFlo81 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : MisterFlo81 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237470879934 : Tournoi #3444056386, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/07/2022 9:06:58 CET [20/07/2022 3:06:58 ET]
+Table '3444056386 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 3: MisterFlo81 (370 en jetons) 
+MisterFlo81 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 3c]
+MisterFlo81 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : MisterFlo81 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237470880861 : Tournoi #3444056386, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 20/07/2022 9:07:07 CET [20/07/2022 3:07:07 ET]
+Table '3444056386 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (560 en jetons) 
+Place 3: MisterFlo81 (340 en jetons) 
+psychoman59 : met la petite blind. 40
+MisterFlo81 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c As]
+psychoman59 : relance. 160 à 240
+MisterFlo81 : relance. 100 à 340 et est all-in.
+psychoman59 : suit. 100
+*** FLOP *** [Tc 5h Ks]
+*** TOURNANT *** [Tc 5h Ks] [8d]
+*** RIVIÈRE *** [Tc 5h Ks 8d] [Td]
+*** ABATTAGE ***
+MisterFlo81 : montre [9s Qc] (une paire de Dix)
+psychoman59 : montre [5c As] (double paire, Dix et Cinq)
+psychoman59 a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [Tc 5h Ks 8d Td]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [5c As] et a gagné (680) avec double paire, Dix et Cinq
+Siège 3 : MisterFlo81 (grosse blind) a montré [9s Qc] et a perdu avec une paire de Dix
+
+
+

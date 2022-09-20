@@ -1,0 +1,51 @@
+﻿Main PokerStars n°238578612868 : Tournoi #3470123793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/09/2022 15:39:28 CET [12/09/2022 9:39:28 ET]
+Table '3470123793 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: luciinda630 (300 en jetons) 
+Place 3: keylorette (300 en jetons) 
+luciinda630 : met la petite blind. 10
+keylorette : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 2d]
+psychoman59 : passe. 
+luciinda630 : passe. 
+Personne n'a suivi. (10) sont retournés à keylorette.
+keylorette a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : luciinda630 (petite blind) s'est couché. avant Flop
+Siège 3 : keylorette (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°238578614286 : Tournoi #3470123793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/09/2022 15:39:35 CET [12/09/2022 9:39:35 ET]
+Table '3470123793 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: luciinda630 (290 en jetons) 
+Place 3: keylorette (310 en jetons) 
+keylorette : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Th]
+luciinda630 : passe. 
+keylorette : relance. 40 à 60
+psychoman59 : relance. 240 à 300 et est all-in.
+keylorette : suit. 240
+*** FLOP *** [Kh 8c 4s]
+*** TOURNANT *** [Kh 8c 4s] [2d]
+*** RIVIÈRE *** [Kh 8c 4s 2d] [8h]
+*** ABATTAGE ***
+keylorette : montre [Kc Tc] (double paire, Rois et Huit)
+psychoman59 : montre [Td Th] (double paire, Dix et Huit)
+keylorette a remporté 600  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [Kh 8c 4s 2d 8h]
+Siège 1 : psychoman59 (grosse blind) a montré [Td Th] et a perdu avec double paire, Dix et Huit
+Siège 2 : luciinda630 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : keylorette (petite blind) a montré [Kc Tc] et a gagné (600) avec double paire, Rois et Huit
+
+
+

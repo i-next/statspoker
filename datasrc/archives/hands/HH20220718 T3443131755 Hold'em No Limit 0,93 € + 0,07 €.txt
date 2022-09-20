@@ -1,0 +1,439 @@
+﻿Main PokerStars n°237430488309 : Tournoi #3443131755, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 10:53:46 CET [18/07/2022 4:53:46 ET]
+Table '3443131755 1' 3-max Siège #1 est au bouton.
+Place 1: Creature5484 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: mike88100 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+mike88100 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 7d]
+Creature5484 : suit. 20
+psychoman59 : passe. 
+mike88100 : parole 
+*** FLOP *** [Kd 4s 2d]
+mike88100 : mise. 20
+Creature5484 : passe. 
+Personne n'a suivi. (20) sont retournés à mike88100.
+mike88100 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Kd 4s 2d]
+Siège 1 : Creature5484 (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : mike88100 (grosse blind) a remporté (50)
+
+
+
+Main PokerStars n°237430490545 : Tournoi #3443131755, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 10:54:03 CET [18/07/2022 4:54:03 ET]
+Table '3443131755 1' 3-max Siège #2 est au bouton.
+Place 1: Creature5484 (280 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: mike88100 (330 en jetons) 
+mike88100 : met la petite blind. 10
+Creature5484 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Th]
+psychoman59 : passe. 
+mike88100 : suit. 10
+Creature5484 : relance. 40 à 60
+mike88100 : suit. 40
+*** FLOP *** [Jd Jh 3c]
+mike88100 : parole 
+Creature5484 : mise. 60
+mike88100 : passe. 
+Personne n'a suivi. (60) sont retournés à Creature5484.
+Creature5484 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jd Jh 3c]
+Siège 1 : Creature5484 (grosse blind) a remporté (120)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : mike88100 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237430493802 : Tournoi #3443131755, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 10:54:27 CET [18/07/2022 4:54:27 ET]
+Table '3443131755 1' 3-max Siège #3 est au bouton.
+Place 1: Creature5484 (340 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: mike88100 (270 en jetons) 
+Creature5484 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 9s]
+mike88100 : suit. 20
+Creature5484 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Ad 4c 8c]
+psychoman59 : parole 
+mike88100 : parole 
+*** TOURNANT *** [Ad 4c 8c] [6c]
+psychoman59 : parole 
+mike88100 : parole 
+*** RIVIÈRE *** [Ad 4c 8c 6c] [Jd]
+psychoman59 : parole 
+mike88100 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3s 9s] (Hauteur As)
+mike88100 : montre [Qd 2d] (Hauteur As - Dame kicker)
+mike88100 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Ad 4c 8c 6c Jd]
+Siège 1 : Creature5484 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [3s 9s] et a perdu avec Hauteur As
+Siège 3 : mike88100 (bouton) a montré [Qd 2d] et a gagné (50) avec Hauteur As
+
+
+
+Main PokerStars n°237430497395 : Tournoi #3443131755, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/07/2022 10:54:54 CET [18/07/2022 4:54:54 ET]
+Table '3443131755 1' 3-max Siège #1 est au bouton.
+Place 1: Creature5484 (330 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: mike88100 (300 en jetons) 
+psychoman59 : met la petite blind. 15
+mike88100 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Kh]
+Creature5484 : suit. 30
+psychoman59 : suit. 15
+mike88100 : parole 
+*** FLOP *** [Qs 7s Ad]
+psychoman59 : parole 
+mike88100 : parole 
+Creature5484 : parole 
+*** TOURNANT *** [Qs 7s Ad] [9d]
+psychoman59 : parole 
+mike88100 : parole 
+Creature5484 : parole 
+*** RIVIÈRE *** [Qs 7s Ad 9d] [3h]
+psychoman59 : parole 
+mike88100 : parole 
+Creature5484 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [2d Kh] (Hauteur As)
+mike88100 : cache la main perdante. 
+Creature5484 : montre [7h 8d] (une paire de Sept)
+Creature5484 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Qs 7s Ad 9d 3h]
+Siège 1 : Creature5484 (bouton) a montré [7h 8d] et a gagné (90) avec une paire de Sept
+Siège 2 : psychoman59 (petite blind) a montré [2d Kh] et a perdu avec Hauteur As
+Siège 3 : mike88100 (grosse blind) a caché la main perdante. [6d 5d]
+
+
+
+Main PokerStars n°237430501849 : Tournoi #3443131755, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/07/2022 10:55:32 CET [18/07/2022 4:55:32 ET]
+Table '3443131755 1' 3-max Siège #2 est au bouton.
+Place 1: Creature5484 (390 en jetons) 
+Place 2: psychoman59 (240 en jetons) 
+Place 3: mike88100 (270 en jetons) 
+mike88100 : met la petite blind. 15
+Creature5484 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Js]
+psychoman59 : passe. 
+mike88100 : passe. 
+Personne n'a suivi. (15) sont retournés à Creature5484.
+Creature5484 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Creature5484 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : mike88100 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237430502432 : Tournoi #3443131755, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/07/2022 10:55:37 CET [18/07/2022 4:55:37 ET]
+Table '3443131755 1' 3-max Siège #3 est au bouton.
+Place 1: Creature5484 (405 en jetons) 
+Place 2: psychoman59 (240 en jetons) 
+Place 3: mike88100 (255 en jetons) 
+Creature5484 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 3c]
+mike88100 : passe. 
+Creature5484 : suit. 15
+psychoman59 : relance. 210 à 240 et est all-in.
+Creature5484 : passe. 
+Personne n'a suivi. (210) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Creature5484 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : mike88100 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237430505561 : Tournoi #3443131755, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/07/2022 10:56:04 CET [18/07/2022 4:56:04 ET]
+Table '3443131755 1' 3-max Siège #1 est au bouton.
+Place 1: Creature5484 (375 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: mike88100 (255 en jetons) 
+psychoman59 : met la petite blind. 20
+mike88100 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Th]
+Creature5484 : relance. 40 à 80
+psychoman59 : suit. 60
+mike88100 : suit. 40
+*** FLOP *** [7d 2d Ad]
+psychoman59 : parole 
+mike88100 : parole 
+Creature5484 : parole 
+*** TOURNANT *** [7d 2d Ad] [3h]
+psychoman59 : parole 
+mike88100 : parole 
+Creature5484 : parole 
+*** RIVIÈRE *** [7d 2d Ad 3h] [5d]
+psychoman59 : parole 
+mike88100 : mise. 175 et est all-in.
+Creature5484 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (175) sont retournés à mike88100.
+mike88100 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [7d 2d Ad 3h 5d]
+Siège 1 : Creature5484 (bouton) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 3 : mike88100 (grosse blind) a remporté (240)
+
+
+
+Main PokerStars n°237430509540 : Tournoi #3443131755, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/07/2022 10:56:39 CET [18/07/2022 4:56:39 ET]
+Table '3443131755 1' 3-max Siège #2 est au bouton.
+Place 1: Creature5484 (295 en jetons) 
+Place 2: psychoman59 (190 en jetons) 
+Place 3: mike88100 (415 en jetons) 
+mike88100 : met la petite blind. 20
+Creature5484 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Jh]
+psychoman59 : passe. 
+mike88100 : suit. 20
+Creature5484 : parole 
+*** FLOP *** [4h Qh 9d]
+mike88100 : parole 
+Creature5484 : parole 
+*** TOURNANT *** [4h Qh 9d] [Ks]
+mike88100 : parole 
+Creature5484 : parole 
+*** RIVIÈRE *** [4h Qh 9d Ks] [Tc]
+mike88100 : parole 
+Creature5484 : parole 
+*** ABATTAGE ***
+mike88100 : montre [4d 7c] (une paire de Quatre)
+Creature5484 : cache la main perdante. 
+mike88100 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4h Qh 9d Ks Tc]
+Siège 1 : Creature5484 (grosse blind) a caché la main perdante. [8c 6s]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : mike88100 (petite blind) a montré [4d 7c] et a gagné (80) avec une paire de Quatre
+
+
+
+Main PokerStars n°237430512835 : Tournoi #3443131755, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 18/07/2022 10:57:07 CET [18/07/2022 4:57:07 ET]
+Table '3443131755 1' 3-max Siège #3 est au bouton.
+Place 1: Creature5484 (255 en jetons) 
+Place 2: psychoman59 (190 en jetons) 
+Place 3: mike88100 (455 en jetons) 
+Creature5484 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 8d]
+mike88100 : suit. 60
+Creature5484 : passe. 
+psychoman59 : parole 
+*** FLOP *** [9c 7d Th]
+psychoman59 : mise. 130 et est all-in.
+mike88100 : passe. 
+Personne n'a suivi. (130) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [9c 7d Th]
+Siège 1 : Creature5484 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (150)
+Siège 3 : mike88100 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237430514863 : Tournoi #3443131755, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 18/07/2022 10:57:25 CET [18/07/2022 4:57:25 ET]
+Table '3443131755 1' 3-max Siège #1 est au bouton.
+Place 1: Creature5484 (225 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+Place 3: mike88100 (395 en jetons) 
+psychoman59 : met la petite blind. 30
+mike88100 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 3c]
+Creature5484 : relance. 60 à 120
+psychoman59 : passe. 
+mike88100 : suit. 60
+*** FLOP *** [7s 7h 4d]
+mike88100 : parole 
+Creature5484 : mise. 105 et est all-in.
+mike88100 : suit. 105
+*** TOURNANT *** [7s 7h 4d] [8d]
+*** RIVIÈRE *** [7s 7h 4d 8d] [2d]
+*** ABATTAGE ***
+mike88100 : montre [Qd As] (une paire de Sept)
+Creature5484 : montre [6d Ad] (une couleur, hauteur As)
+Creature5484 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [7s 7h 4d 8d 2d]
+Siège 1 : Creature5484 (bouton) a montré [6d Ad] et a gagné (480) avec une couleur, hauteur As
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : mike88100 (grosse blind) a montré [Qd As] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°237430518293 : Tournoi #3443131755, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 18/07/2022 10:57:54 CET [18/07/2022 4:57:54 ET]
+Table '3443131755 1' 3-max Siège #2 est au bouton.
+Place 1: Creature5484 (480 en jetons) 
+Place 2: psychoman59 (250 en jetons) 
+Place 3: mike88100 (170 en jetons) 
+mike88100 : met la petite blind. 40
+Creature5484 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 6c]
+psychoman59 : passe. 
+mike88100 : suit. 40
+Creature5484 : parole 
+*** FLOP *** [As Kh Td]
+mike88100 : parole 
+Creature5484 : parole 
+*** TOURNANT *** [As Kh Td] [8s]
+mike88100 : parole 
+Creature5484 : parole 
+*** RIVIÈRE *** [As Kh Td 8s] [5c]
+mike88100 : parole 
+Creature5484 : parole 
+*** ABATTAGE ***
+mike88100 : montre [4d 7c] (Hauteur As)
+Creature5484 : montre [Qd 2c] (Hauteur As - Roi+Dame kicker)
+Creature5484 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [As Kh Td 8s 5c]
+Siège 1 : Creature5484 (grosse blind) a montré [Qd 2c] et a gagné (160) avec Hauteur As
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : mike88100 (petite blind) a montré [4d 7c] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237430521590 : Tournoi #3443131755, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 18/07/2022 10:58:23 CET [18/07/2022 4:58:23 ET]
+Table '3443131755 1' 3-max Siège #3 est au bouton.
+Place 1: Creature5484 (560 en jetons) 
+Place 2: psychoman59 (250 en jetons) 
+Place 3: mike88100 (90 en jetons) 
+Creature5484 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Tc]
+mike88100 : relance. 10 à 90 et est all-in.
+Creature5484 : suit. 50
+psychoman59 : suit. 10
+*** FLOP *** [Kc Th 8c]
+Creature5484 : parole 
+psychoman59 : mise. 160 et est all-in.
+Creature5484 : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+*** TOURNANT *** [Kc Th 8c] [Kd]
+*** RIVIÈRE *** [Kc Th 8c Kd] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [3d Tc] (double paire, Rois et Dix)
+mike88100 : montre [6h Qs] (une paire de Rois)
+psychoman59 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [Kc Th 8c Kd 9c]
+Siège 1 : Creature5484 (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a montré [3d Tc] et a gagné (270) avec double paire, Rois et Dix
+Siège 3 : mike88100 (bouton) a montré [6h Qs] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°237430525064 : Tournoi #3443131755, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 18/07/2022 10:58:52 CET [18/07/2022 4:58:52 ET]
+Table '3443131755 1' 3-max Siège #2 est au bouton.
+Place 1: Creature5484 (470 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 50
+Creature5484 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 2h]
+psychoman59 : relance. 100 à 200
+Creature5484 : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : Creature5484 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (200)
+
+
+
+Main PokerStars n°237430526323 : Tournoi #3443131755, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 18/07/2022 10:59:03 CET [18/07/2022 4:59:03 ET]
+Table '3443131755 1' 3-max Siège #1 est au bouton.
+Place 1: Creature5484 (370 en jetons) 
+Place 2: psychoman59 (530 en jetons) 
+Creature5484 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 6s]
+Creature5484 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Tc Kh Js]
+psychoman59 : parole 
+Creature5484 : parole 
+*** TOURNANT *** [Tc Kh Js] [9h]
+psychoman59 : parole 
+Creature5484 : parole 
+*** RIVIÈRE *** [Tc Kh Js 9h] [9s]
+psychoman59 : mise. 100
+Creature5484 : suit. 100
+*** ABATTAGE ***
+psychoman59 : montre [Qs 6s] (une suite, Neuf à Roi)
+Creature5484 : cache la main perdante. 
+psychoman59 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [Tc Kh Js 9h 9s]
+Siège 1 : Creature5484 (bouton) (petite blind) a caché la main perdante. [7s Th]
+Siège 2 : psychoman59 (grosse blind) a montré [Qs 6s] et a gagné (400) avec une suite, Neuf à Roi
+
+
+
+Main PokerStars n°237430528793 : Tournoi #3443131755, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 18/07/2022 10:59:24 CET [18/07/2022 4:59:24 ET]
+Table '3443131755 1' 3-max Siège #2 est au bouton.
+Place 1: Creature5484 (170 en jetons) 
+Place 2: psychoman59 (730 en jetons) 
+psychoman59 : met la petite blind. 50
+Creature5484 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Qs]
+psychoman59 : suit. 50
+Creature5484 : relance. 70 à 170 et est all-in.
+psychoman59 : suit. 70
+*** FLOP *** [6d 7s 4d]
+*** TOURNANT *** [6d 7s 4d] [2s]
+*** RIVIÈRE *** [6d 7s 4d 2s] [3c]
+*** ABATTAGE ***
+Creature5484 : montre [Th Jc] (Hauteur Valet)
+psychoman59 : montre [7c Qs] (une paire de Sept)
+psychoman59 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [6d 7s 4d 2s 3c]
+Siège 1 : Creature5484 (grosse blind) a montré [Th Jc] et a perdu avec Hauteur Valet
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [7c Qs] et a gagné (340) avec une paire de Sept
+
+
+

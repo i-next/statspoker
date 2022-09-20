@@ -1,0 +1,82 @@
+﻿Main PokerStars n°237210114460 : Tournoi #3437958922, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2022 10:25:29 CET [07/07/2022 4:25:29 ET]
+Table '3437958922 1' 3-max Siège #1 est au bouton.
+Place 1: Winarnax (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: torin995 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+torin995 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 7d]
+Winarnax : passe. 
+psychoman59 : suit. 10
+torin995 : parole 
+*** FLOP *** [Jd Jh Ks]
+psychoman59 : mise. 40
+torin995 : suit. 40
+*** TOURNANT *** [Jd Jh Ks] [5d]
+psychoman59 : mise. 60
+torin995 : relance. 180 à 240 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (180) sont retournés à torin995.
+torin995 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Jd Jh Ks 5d]
+Siège 1 : Winarnax (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 3 : torin995 (grosse blind) a remporté (240)
+
+
+
+Main PokerStars n°237210117776 : Tournoi #3437958922, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2022 10:25:55 CET [07/07/2022 4:25:55 ET]
+Table '3437958922 1' 3-max Siège #2 est au bouton.
+Place 1: Winarnax (300 en jetons) 
+Place 2: psychoman59 (180 en jetons) 
+Place 3: torin995 (420 en jetons) 
+torin995 : met la petite blind. 10
+Winarnax : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 2c]
+psychoman59 : passe. 
+torin995 : suit. 10
+Winarnax : relance. 280 à 300 et est all-in.
+torin995 : passe. 
+Personne n'a suivi. (280) sont retournés à Winarnax.
+Winarnax a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Winarnax (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : torin995 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237210119062 : Tournoi #3437958922, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2022 10:26:05 CET [07/07/2022 4:26:05 ET]
+Table '3437958922 1' 3-max Siège #3 est au bouton.
+Place 1: Winarnax (320 en jetons) 
+Place 2: psychoman59 (180 en jetons) 
+Place 3: torin995 (400 en jetons) 
+Winarnax : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 9c]
+torin995 : passe. 
+Winarnax : relance. 300 à 320 et est all-in.
+psychoman59 : suit. 160 et est all-in.
+Personne n'a suivi. (140) sont retournés à Winarnax.
+*** FLOP *** [Ah 2s 4s]
+*** TOURNANT *** [Ah 2s 4s] [Qc]
+*** RIVIÈRE *** [Ah 2s 4s Qc] [8s]
+*** ABATTAGE ***
+Winarnax : montre [Qs 7s] (une couleur, hauteur Dame)
+psychoman59 : montre [Kc 9c] (Hauteur As)
+Winarnax a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Ah 2s 4s Qc 8s]
+Siège 1 : Winarnax (petite blind) a montré [Qs 7s] et a gagné (360) avec une couleur, hauteur Dame
+Siège 2 : psychoman59 (grosse blind) a montré [Kc 9c] et a perdu avec Hauteur As
+Siège 3 : torin995 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+

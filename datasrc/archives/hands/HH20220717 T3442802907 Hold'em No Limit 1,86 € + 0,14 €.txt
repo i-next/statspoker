@@ -1,0 +1,109 @@
+﻿Main PokerStars n°237413935268 : Tournoi #3442802907, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 17/07/2022 17:43:10 CET [17/07/2022 11:43:10 ET]
+Table '3442802907 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Winarnax (300 en jetons) 
+Place 3: agustynatal (300 en jetons) 
+Winarnax : met la petite blind. 10
+agustynatal : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 7d]
+psychoman59 : passe. 
+Winarnax : passe. 
+Personne n'a suivi. (10) sont retournés à agustynatal.
+agustynatal a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Winarnax (petite blind) s'est couché. avant Flop
+Siège 3 : agustynatal (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237413938312 : Tournoi #3442802907, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 17/07/2022 17:43:18 CET [17/07/2022 11:43:18 ET]
+Table '3442802907 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Winarnax (290 en jetons) 
+Place 3: agustynatal (310 en jetons) 
+agustynatal : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 6h]
+Winarnax : relance. 270 à 290 et est all-in.
+agustynatal : suit. 280
+psychoman59 : passe. 
+*** FLOP *** [8c Qh 9s]
+*** TOURNANT *** [8c Qh 9s] [8h]
+*** RIVIÈRE *** [8c Qh 9s 8h] [Ah]
+*** ABATTAGE ***
+agustynatal : montre [Kh 9h] (une couleur, hauteur As)
+Winarnax : montre [Ac Jd] (double paire, As et Huit)
+agustynatal a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [8c Qh 9s 8h Ah]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Winarnax (bouton) a montré [Ac Jd] et a perdu avec double paire, As et Huit
+Siège 3 : agustynatal (petite blind) a montré [Kh 9h] et a gagné (600) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°237413944923 : Tournoi #3442802907, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 17/07/2022 17:43:36 CET [17/07/2022 11:43:36 ET]
+Table '3442802907 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 3: agustynatal (620 en jetons) 
+psychoman59 : met la petite blind. 10
+agustynatal : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Qs]
+psychoman59 : relance. 20 à 40
+agustynatal : suit. 20
+*** FLOP *** [Ad Ac As]
+agustynatal : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ad Ac As] [4c]
+agustynatal : mise. 80
+psychoman59 : suit. 80
+*** RIVIÈRE *** [Ad Ac As 4c] [Kc]
+agustynatal : parole 
+psychoman59 : mise. 160 et est all-in.
+agustynatal : suit. 160
+*** ABATTAGE ***
+psychoman59 : montre [Qc Qs] (un full, full aux As par les Dames)
+agustynatal : montre [Tc Qd] (un brelan de As)
+psychoman59 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Ad Ac As 4c Kc]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Qc Qs] et a gagné (560) avec un full, full aux As par les Dames
+Siège 3 : agustynatal (grosse blind) a montré [Tc Qd] et a perdu avec un brelan de As
+
+
+
+Main PokerStars n°237413959110 : Tournoi #3442802907, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 17/07/2022 17:44:16 CET [17/07/2022 11:44:16 ET]
+Table '3442802907 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (560 en jetons) 
+Place 3: agustynatal (340 en jetons) 
+agustynatal : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 9h]
+agustynatal : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9d Ks Qc]
+psychoman59 : parole 
+agustynatal : mise. 90
+psychoman59 : suit. 90
+*** TOURNANT *** [9d Ks Qc] [6d]
+psychoman59 : parole 
+agustynatal : mise. 180
+psychoman59 : passe. 
+Personne n'a suivi. (180) sont retournés à agustynatal.
+agustynatal a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [9d Ks Qc 6d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : agustynatal (bouton) (petite blind) a remporté (240)
+
+
+

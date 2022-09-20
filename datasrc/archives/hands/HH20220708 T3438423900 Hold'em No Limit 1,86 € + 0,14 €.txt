@@ -1,0 +1,123 @@
+﻿Main PokerStars n°237229567409 : Tournoi #3438423900, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 9:51:24 CET [08/07/2022 3:51:24 ET]
+Table '3438423900 1' 3-max Siège #1 est au bouton.
+Place 1: cornel402 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: albatort (300 en jetons) 
+psychoman59 : met la petite blind. 10
+albatort : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 7h]
+cornel402 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à albatort.
+albatort a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : cornel402 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : albatort (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237229570579 : Tournoi #3438423900, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 9:51:32 CET [08/07/2022 3:51:32 ET]
+Table '3438423900 1' 3-max Siège #2 est au bouton.
+Place 1: cornel402 (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: albatort (310 en jetons) 
+albatort : met la petite blind. 10
+cornel402 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 2s]
+psychoman59 : passe. 
+albatort : passe. 
+Personne n'a suivi. (10) sont retournés à cornel402.
+cornel402 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : cornel402 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : albatort (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237229571762 : Tournoi #3438423900, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 9:51:43 CET [08/07/2022 3:51:43 ET]
+Table '3438423900 1' 3-max Siège #3 est au bouton.
+Place 1: cornel402 (310 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: albatort (300 en jetons) 
+cornel402 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Js]
+albatort : passe. 
+cornel402 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jh Ad 3d]
+cornel402 : parole 
+psychoman59 : mise. 40
+cornel402 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Jh Ad 3d]
+Siège 1 : cornel402 (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : albatort (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237229574648 : Tournoi #3438423900, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 9:52:07 CET [08/07/2022 3:52:07 ET]
+Table '3438423900 1' 3-max Siège #1 est au bouton.
+Place 1: cornel402 (290 en jetons) 
+Place 2: psychoman59 (310 en jetons) 
+Place 3: albatort (300 en jetons) 
+psychoman59 : met la petite blind. 10
+albatort : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Kd]
+cornel402 : relance. 270 à 290 et est all-in.
+psychoman59 : passe. 
+albatort : suit. 270
+*** FLOP *** [As Th Jh]
+*** TOURNANT *** [As Th Jh] [Ts]
+*** RIVIÈRE *** [As Th Jh Ts] [Ah]
+*** ABATTAGE ***
+albatort : montre [Qc Qs] (double paire, As et Dames)
+cornel402 : montre [4d 4c] (double paire, As et Dix)
+albatort a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [As Th Jh Ts Ah]
+Siège 1 : cornel402 (bouton) a montré [4d 4c] et a perdu avec double paire, As et Dix
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : albatort (grosse blind) a montré [Qc Qs] et a gagné (590) avec double paire, As et Dames
+
+
+
+Main PokerStars n°237229577084 : Tournoi #3438423900, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2022 9:52:28 CET [08/07/2022 3:52:28 ET]
+Table '3438423900 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (300 en jetons) 
+Place 3: albatort (600 en jetons) 
+albatort : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qd]
+albatort : relance. 30 à 60
+psychoman59 : relance. 240 à 300 et est all-in.
+albatort : suit. 240
+*** FLOP *** [2d 6d 8h]
+*** TOURNANT *** [2d 6d 8h] [4h]
+*** RIVIÈRE *** [2d 6d 8h 4h] [Jh]
+*** ABATTAGE ***
+psychoman59 : montre [Ac Qd] (Hauteur As)
+albatort : montre [As 4d] (une paire de Quatre)
+albatort a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [2d 6d 8h 4h Jh]
+Siège 2 : psychoman59 (grosse blind) a montré [Ac Qd] et a perdu avec Hauteur As
+Siège 3 : albatort (bouton) (petite blind) a montré [As 4d] et a gagné (600) avec une paire de Quatre
+
+
+

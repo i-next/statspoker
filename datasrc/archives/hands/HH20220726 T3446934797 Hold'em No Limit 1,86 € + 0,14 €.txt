@@ -1,0 +1,369 @@
+﻿Main PokerStars n°237595828715 : Tournoi #3446934797, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 14:12:54 CET [26/07/2022 8:12:54 ET]
+Table '3446934797 1' 3-max Siège #1 est au bouton.
+Place 1: HendrixKB9 (300 en jetons) 
+Place 2: roadrim74 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+roadrim74 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 3c]
+HendrixKB9 : suit. 20
+roadrim74 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Qh 4d Ks]
+psychoman59 : parole 
+HendrixKB9 : parole 
+*** TOURNANT *** [Qh 4d Ks] [Qd]
+psychoman59 : parole 
+HendrixKB9 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Qh 4d Ks Qd] [8h]
+psychoman59 : parole 
+HendrixKB9 : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+HendrixKB9 : montre [Tc Jc] (une paire de Dames)
+psychoman59 : montre [Kh 3c] (double paire, Rois et Dames)
+psychoman59 a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [Qh 4d Ks Qd 8h]
+Siège 1 : HendrixKB9 (bouton) a montré [Tc Jc] et a perdu avec une paire de Dames
+Siège 2 : roadrim74 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Kh 3c] et a gagné (130) avec double paire, Rois et Dames
+
+
+
+Main PokerStars n°237595834432 : Tournoi #3446934797, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 14:13:22 CET [26/07/2022 8:13:22 ET]
+Table '3446934797 1' 3-max Siège #2 est au bouton.
+Place 1: HendrixKB9 (240 en jetons) 
+Place 2: roadrim74 (290 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+psychoman59 : met la petite blind. 10
+HendrixKB9 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Kd]
+roadrim74 : passe. 
+psychoman59 : suit. 10
+HendrixKB9 : parole 
+*** FLOP *** [7s Ad 9d]
+psychoman59 : parole 
+HendrixKB9 : parole 
+*** TOURNANT *** [7s Ad 9d] [2d]
+psychoman59 : parole 
+HendrixKB9 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [7s Ad 9d 2d] [8d]
+psychoman59 : mise. 80
+HendrixKB9 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [7s Ad 9d 2d 8d]
+Siège 1 : HendrixKB9 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : roadrim74 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237595839404 : Tournoi #3446934797, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 14:13:47 CET [26/07/2022 8:13:47 ET]
+Table '3446934797 1' 3-max Siège #3 est au bouton.
+Place 1: HendrixKB9 (200 en jetons) 
+Place 2: roadrim74 (290 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+HendrixKB9 : met la petite blind. 10
+roadrim74 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 3c]
+psychoman59 : passe. 
+HendrixKB9 : suit. 10
+roadrim74 : parole 
+*** FLOP *** [As 2h Jd]
+HendrixKB9 : parole 
+roadrim74 : parole 
+*** TOURNANT *** [As 2h Jd] [4h]
+HendrixKB9 : mise. 20
+roadrim74 : passe. 
+Personne n'a suivi. (20) sont retournés à HendrixKB9.
+HendrixKB9 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [As 2h Jd 4h]
+Siège 1 : HendrixKB9 (petite blind) a remporté (40)
+Siège 2 : roadrim74 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237595844608 : Tournoi #3446934797, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 26/07/2022 14:14:13 CET [26/07/2022 8:14:13 ET]
+Table '3446934797 1' 3-max Siège #1 est au bouton.
+Place 1: HendrixKB9 (220 en jetons) 
+Place 2: roadrim74 (270 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+roadrim74 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Qh]
+HendrixKB9 : suit. 30
+roadrim74 : passe. 
+psychoman59 : relance. 380 à 410 et est all-in.
+HendrixKB9 : passe. 
+Personne n'a suivi. (380) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : HendrixKB9 (bouton) s'est couché. avant Flop
+Siège 2 : roadrim74 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (75)
+
+
+
+Main PokerStars n°237595847466 : Tournoi #3446934797, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 26/07/2022 14:14:26 CET [26/07/2022 8:14:26 ET]
+Table '3446934797 1' 3-max Siège #2 est au bouton.
+Place 1: HendrixKB9 (190 en jetons) 
+Place 2: roadrim74 (255 en jetons) 
+Place 3: psychoman59 (455 en jetons) 
+psychoman59 : met la petite blind. 15
+HendrixKB9 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 2c]
+roadrim74 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à HendrixKB9.
+HendrixKB9 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : HendrixKB9 (grosse blind) a remporté (30)
+Siège 2 : roadrim74 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237595849089 : Tournoi #3446934797, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 26/07/2022 14:14:34 CET [26/07/2022 8:14:34 ET]
+Table '3446934797 1' 3-max Siège #3 est au bouton.
+Place 1: HendrixKB9 (205 en jetons) 
+Place 2: roadrim74 (255 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+HendrixKB9 : met la petite blind. 15
+roadrim74 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Jc]
+psychoman59 : passe. 
+HendrixKB9 : suit. 15
+roadrim74 : parole 
+*** FLOP *** [6s Qs 6d]
+HendrixKB9 : parole 
+roadrim74 : parole 
+*** TOURNANT *** [6s Qs 6d] [9c]
+HendrixKB9 : mise. 30
+roadrim74 : passe. 
+Personne n'a suivi. (30) sont retournés à HendrixKB9.
+HendrixKB9 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6s Qs 6d 9c]
+Siège 1 : HendrixKB9 (petite blind) a remporté (60)
+Siège 2 : roadrim74 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237595856143 : Tournoi #3446934797, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 14:15:09 CET [26/07/2022 8:15:09 ET]
+Table '3446934797 1' 3-max Siège #1 est au bouton.
+Place 1: HendrixKB9 (235 en jetons) 
+Place 2: roadrim74 (225 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+roadrim74 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 8d]
+HendrixKB9 : suit. 40
+roadrim74 : passe. 
+psychoman59 : parole 
+*** FLOP *** [6h 4c Td]
+psychoman59 : parole 
+HendrixKB9 : parole 
+*** TOURNANT *** [6h 4c Td] [3h]
+psychoman59 : parole 
+HendrixKB9 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à HendrixKB9.
+HendrixKB9 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [6h 4c Td 3h]
+Siège 1 : HendrixKB9 (bouton) a remporté (100)
+Siège 2 : roadrim74 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237595861747 : Tournoi #3446934797, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 14:15:36 CET [26/07/2022 8:15:36 ET]
+Table '3446934797 1' 3-max Siège #2 est au bouton.
+Place 1: HendrixKB9 (295 en jetons) 
+Place 2: roadrim74 (205 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+psychoman59 : met la petite blind. 20
+HendrixKB9 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ks]
+roadrim74 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à HendrixKB9.
+HendrixKB9 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : HendrixKB9 (grosse blind) a remporté (40)
+Siège 2 : roadrim74 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237595863099 : Tournoi #3446934797, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 14:15:43 CET [26/07/2022 8:15:43 ET]
+Table '3446934797 1' 3-max Siège #3 est au bouton.
+Place 1: HendrixKB9 (315 en jetons) 
+Place 2: roadrim74 (205 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+HendrixKB9 : met la petite blind. 20
+roadrim74 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Kd]
+psychoman59 : relance. 80 à 120
+HendrixKB9 : passe. 
+roadrim74 : relance. 85 à 205 et est all-in.
+psychoman59 : suit. 85
+*** FLOP *** [5s Jh 8d]
+*** TOURNANT *** [5s Jh 8d] [Ah]
+*** RIVIÈRE *** [5s Jh 8d Ah] [5d]
+*** ABATTAGE ***
+roadrim74 : montre [Jc Ks] (double paire, Valets et Cinq)
+psychoman59 : montre [Jd Kd] (double paire, Valets et Cinq)
+roadrim74 a remporté 215  lors du pot .
+psychoman59 a remporté 215  lors du pot .
+*** SYNTHÈSE ***
+Pot total 430 | Commission 0 
+Tableau [5s Jh 8d Ah 5d]
+Siège 1 : HendrixKB9 (petite blind) s'est couché. avant Flop
+Siège 2 : roadrim74 (grosse blind) a montré [Jc Ks] et a gagné (215) avec double paire, Valets et Cinq
+Siège 3 : psychoman59 (bouton) a montré [Jd Kd] et a gagné (215) avec double paire, Valets et Cinq
+
+
+
+Main PokerStars n°237595869974 : Tournoi #3446934797, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 26/07/2022 14:16:16 CET [26/07/2022 8:16:16 ET]
+Table '3446934797 1' 3-max Siège #1 est au bouton.
+Place 1: HendrixKB9 (295 en jetons) 
+Place 2: roadrim74 (215 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+roadrim74 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Ks]
+HendrixKB9 : suit. 60
+roadrim74 : relance. 155 à 215 et est all-in.
+psychoman59 : passe. 
+HendrixKB9 : suit. 155
+*** FLOP *** [5h 6d Ts]
+*** TOURNANT *** [5h 6d Ts] [3c]
+*** RIVIÈRE *** [5h 6d Ts 3c] [Qc]
+*** ABATTAGE ***
+roadrim74 : montre [Jh Th] (une paire de Dix)
+HendrixKB9 : montre [Ad As] (une paire de As)
+HendrixKB9 a remporté 490  lors du pot .
+roadrim74 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 490 | Commission 0 
+Tableau [5h 6d Ts 3c Qc]
+Siège 1 : HendrixKB9 (bouton) a montré [Ad As] et a gagné (490) avec une paire de As
+Siège 2 : roadrim74 (petite blind) a montré [Jh Th] et a perdu avec une paire de Dix
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237595875091 : Tournoi #3446934797, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 26/07/2022 14:16:41 CET [26/07/2022 8:16:41 ET]
+Table '3446934797 1' 3-max Siège #3 est au bouton.
+Place 1: HendrixKB9 (570 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+psychoman59 : met la petite blind. 30
+HendrixKB9 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à HendrixKB9.
+HendrixKB9 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : HendrixKB9 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237595876262 : Tournoi #3446934797, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 26/07/2022 14:16:47 CET [26/07/2022 8:16:47 ET]
+Table '3446934797 1' 3-max Siège #1 est au bouton.
+Place 1: HendrixKB9 (600 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+HendrixKB9 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 7d]
+HendrixKB9 : suit. 30
+psychoman59 : relance. 240 à 300 et est all-in.
+HendrixKB9 : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : HendrixKB9 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°237595878916 : Tournoi #3446934797, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 26/07/2022 14:17:00 CET [26/07/2022 8:17:00 ET]
+Table '3446934797 1' 3-max Siège #3 est au bouton.
+Place 1: HendrixKB9 (540 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+psychoman59 : met la petite blind. 40
+HendrixKB9 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Qd]
+psychoman59 : relance. 80 à 160
+HendrixKB9 : suit. 80
+*** FLOP *** [Ks 4h Kh]
+HendrixKB9 : mise. 380 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (380) sont retournés à HendrixKB9.
+HendrixKB9 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Ks 4h Kh]
+Siège 1 : HendrixKB9 (grosse blind) a remporté (320)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237595882528 : Tournoi #3446934797, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 26/07/2022 14:17:18 CET [26/07/2022 8:17:18 ET]
+Table '3446934797 1' 3-max Siège #1 est au bouton.
+Place 1: HendrixKB9 (700 en jetons) 
+Place 3: psychoman59 (200 en jetons) 
+HendrixKB9 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ac]
+HendrixKB9 : relance. 620 à 700 et est all-in.
+psychoman59 : suit. 120 et est all-in.
+Personne n'a suivi. (500) sont retournés à HendrixKB9.
+*** FLOP *** [Ks 2c 7s]
+*** TOURNANT *** [Ks 2c 7s] [4c]
+*** RIVIÈRE *** [Ks 2c 7s 4c] [9d]
+*** ABATTAGE ***
+psychoman59 : montre [7c Ac] (une paire de Sept)
+HendrixKB9 : montre [3c Kd] (une paire de Rois)
+HendrixKB9 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [Ks 2c 7s 4c 9d]
+Siège 1 : HendrixKB9 (bouton) (petite blind) a montré [3c Kd] et a gagné (400) avec une paire de Rois
+Siège 3 : psychoman59 (grosse blind) a montré [7c Ac] et a perdu avec une paire de Sept
+
+
+

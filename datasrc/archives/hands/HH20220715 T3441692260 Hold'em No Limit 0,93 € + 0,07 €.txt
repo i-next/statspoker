@@ -1,0 +1,378 @@
+﻿Main PokerStars n°237367721603 : Tournoi #3441692260, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/07/2022 8:23:01 CET [15/07/2022 2:23:01 ET]
+Table '3441692260 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: jacklamot18 (300 en jetons) 
+Place 3: valoche34410 (300 en jetons) 
+jacklamot18 : met la petite blind. 10
+valoche34410 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 3c]
+psychoman59 : passe. 
+jacklamot18 : suit. 10
+valoche34410 : parole 
+*** FLOP *** [6s 8d 5c]
+jacklamot18 : mise. 40
+valoche34410 : passe. 
+Personne n'a suivi. (40) sont retournés à jacklamot18.
+jacklamot18 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [6s 8d 5c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jacklamot18 (petite blind) a remporté (40)
+Siège 3 : valoche34410 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237367722782 : Tournoi #3441692260, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/07/2022 8:23:11 CET [15/07/2022 2:23:11 ET]
+Table '3441692260 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: jacklamot18 (320 en jetons) 
+Place 3: valoche34410 (280 en jetons) 
+valoche34410 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Qd]
+jacklamot18 : suit. 20
+valoche34410 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6d Td 7h]
+valoche34410 : parole 
+psychoman59 : parole 
+jacklamot18 : parole 
+*** TOURNANT *** [6d Td 7h] [6h]
+valoche34410 : parole 
+psychoman59 : parole 
+jacklamot18 : parole 
+*** RIVIÈRE *** [6d Td 7h 6h] [4s]
+valoche34410 : parole 
+psychoman59 : parole 
+jacklamot18 : parole 
+*** ABATTAGE ***
+valoche34410 : montre [3h Kd] (une paire de Six)
+psychoman59 : montre [Ks Qd] (une paire de Six - Roi+Dame kicker)
+jacklamot18 : montre [Ad 7s] (double paire, Sept et Six)
+jacklamot18 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6d Td 7h 6h 4s]
+Siège 1 : psychoman59 (grosse blind) a montré [Ks Qd] et a perdu avec une paire de Six
+Siège 2 : jacklamot18 (bouton) a montré [Ad 7s] et a gagné (60) avec double paire, Sept et Six
+Siège 3 : valoche34410 (petite blind) a montré [3h Kd] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°237367725230 : Tournoi #3441692260, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/07/2022 8:23:35 CET [15/07/2022 2:23:35 ET]
+Table '3441692260 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: jacklamot18 (360 en jetons) 
+Place 3: valoche34410 (260 en jetons) 
+psychoman59 : met la petite blind. 10
+jacklamot18 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7d]
+valoche34410 : passe. 
+psychoman59 : suit. 10
+jacklamot18 : parole 
+*** FLOP *** [5s Tc 5h]
+psychoman59 : parole 
+jacklamot18 : parole 
+*** TOURNANT *** [5s Tc 5h] [Td]
+psychoman59 : parole 
+jacklamot18 : parole 
+*** RIVIÈRE *** [5s Tc 5h Td] [7s]
+psychoman59 : mise. 40
+jacklamot18 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5s Tc 5h Td 7s]
+Siège 1 : psychoman59 (petite blind) a remporté (40)
+Siège 2 : jacklamot18 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : valoche34410 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237367727057 : Tournoi #3441692260, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/07/2022 8:23:53 CET [15/07/2022 2:23:53 ET]
+Table '3441692260 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: jacklamot18 (340 en jetons) 
+Place 3: valoche34410 (260 en jetons) 
+jacklamot18 : met la petite blind. 10
+valoche34410 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Kh]
+psychoman59 : passe. 
+jacklamot18 : suit. 10
+valoche34410 : parole 
+*** FLOP *** [Qc 2c 3s]
+jacklamot18 : parole 
+valoche34410 : parole 
+*** TOURNANT *** [Qc 2c 3s] [4c]
+jacklamot18 : parole 
+valoche34410 : parole 
+*** RIVIÈRE *** [Qc 2c 3s 4c] [3d]
+jacklamot18 : parole 
+valoche34410 : parole 
+*** ABATTAGE ***
+jacklamot18 : montre [9d Ah] (une paire de Trois)
+valoche34410 : cache la main perdante. 
+jacklamot18 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qc 2c 3s 4c 3d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jacklamot18 (petite blind) a montré [9d Ah] et a gagné (40) avec une paire de Trois
+Siège 3 : valoche34410 (grosse blind) a caché la main perdante. [Jc 9s]
+
+
+
+Main PokerStars n°237367730400 : Tournoi #3441692260, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/07/2022 8:24:25 CET [15/07/2022 2:24:25 ET]
+Table '3441692260 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: jacklamot18 (360 en jetons) 
+Place 3: valoche34410 (240 en jetons) 
+valoche34410 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 8h]
+jacklamot18 : suit. 30
+valoche34410 : relance. 30 à 60
+psychoman59 : suit. 30
+jacklamot18 : suit. 30
+*** FLOP *** [Qh 2c 3h]
+valoche34410 : parole 
+psychoman59 : parole 
+jacklamot18 : parole 
+*** TOURNANT *** [Qh 2c 3h] [Tc]
+valoche34410 : parole 
+psychoman59 : parole 
+jacklamot18 : parole 
+*** RIVIÈRE *** [Qh 2c 3h Tc] [5d]
+valoche34410 : parole 
+psychoman59 : parole 
+jacklamot18 : parole 
+*** ABATTAGE ***
+valoche34410 : montre [Kh As] (Hauteur As)
+psychoman59 : cache la main perdante. 
+jacklamot18 : montre [6c 5c] (une paire de Cinq)
+jacklamot18 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Qh 2c 3h Tc 5d]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [9h 8h]
+Siège 2 : jacklamot18 (bouton) a montré [6c 5c] et a gagné (180) avec une paire de Cinq
+Siège 3 : valoche34410 (petite blind) a montré [Kh As] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237367733422 : Tournoi #3441692260, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/07/2022 8:24:53 CET [15/07/2022 2:24:53 ET]
+Table '3441692260 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (240 en jetons) 
+Place 2: jacklamot18 (480 en jetons) 
+Place 3: valoche34410 (180 en jetons) 
+psychoman59 : met la petite blind. 15
+jacklamot18 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 6s]
+valoche34410 : relance. 30 à 60
+psychoman59 : passe. 
+jacklamot18 : suit. 30
+*** FLOP *** [3d Ah 9s]
+jacklamot18 : parole 
+valoche34410 : mise. 120 et est all-in.
+jacklamot18 : passe. 
+Personne n'a suivi. (120) sont retournés à valoche34410.
+valoche34410 a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [3d Ah 9s]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : jacklamot18 (grosse blind) s'est couché. sur le Flop
+Siège 3 : valoche34410 (bouton) a remporté (135)
+
+
+
+Main PokerStars n°237367735313 : Tournoi #3441692260, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/07/2022 8:25:11 CET [15/07/2022 2:25:11 ET]
+Table '3441692260 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (225 en jetons) 
+Place 2: jacklamot18 (420 en jetons) 
+Place 3: valoche34410 (255 en jetons) 
+jacklamot18 : met la petite blind. 20
+valoche34410 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Qc]
+psychoman59 : passe. 
+jacklamot18 : suit. 20
+valoche34410 : parole 
+*** FLOP *** [Td 8d Js]
+jacklamot18 : parole 
+valoche34410 : parole 
+*** TOURNANT *** [Td 8d Js] [2h]
+jacklamot18 : parole 
+valoche34410 : parole 
+*** RIVIÈRE *** [Td 8d Js 2h] [Tc]
+jacklamot18 : parole 
+valoche34410 : parole 
+*** ABATTAGE ***
+jacklamot18 : montre [Qs 7h] (une paire de Dix)
+valoche34410 : montre [8h 3d] (double paire, Dix et Huit)
+valoche34410 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Td 8d Js 2h Tc]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jacklamot18 (petite blind) a montré [Qs 7h] et a perdu avec une paire de Dix
+Siège 3 : valoche34410 (grosse blind) a montré [8h 3d] et a gagné (80) avec double paire, Dix et Huit
+
+
+
+Main PokerStars n°237367737698 : Tournoi #3441692260, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/07/2022 8:25:33 CET [15/07/2022 2:25:33 ET]
+Table '3441692260 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (225 en jetons) 
+Place 2: jacklamot18 (380 en jetons) 
+Place 3: valoche34410 (295 en jetons) 
+valoche34410 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 4s]
+jacklamot18 : passe. 
+valoche34410 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Qs Ks 9s]
+valoche34410 : mise. 255 et est all-in.
+psychoman59 : suit. 185 et est all-in.
+Personne n'a suivi. (70) sont retournés à valoche34410.
+*** TOURNANT *** [Qs Ks 9s] [5c]
+*** RIVIÈRE *** [Qs Ks 9s 5c] [Ad]
+*** ABATTAGE ***
+valoche34410 : montre [Qc Kh] (double paire, Rois et Dames)
+psychoman59 : montre [Js 4s] (une couleur, hauteur Roi)
+psychoman59 a remporté 450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [Qs Ks 9s 5c Ad]
+Siège 1 : psychoman59 (grosse blind) a montré [Js 4s] et a gagné (450) avec une couleur, hauteur Roi
+Siège 2 : jacklamot18 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : valoche34410 (petite blind) a montré [Qc Kh] et a perdu avec double paire, Rois et Dames
+
+
+
+Main PokerStars n°237367739599 : Tournoi #3441692260, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/07/2022 8:25:51 CET [15/07/2022 2:25:51 ET]
+Table '3441692260 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 2: jacklamot18 (380 en jetons) 
+Place 3: valoche34410 (70 en jetons) 
+psychoman59 : met la petite blind. 20
+jacklamot18 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Jh]
+valoche34410 : relance. 30 à 70 et est all-in.
+psychoman59 : passe. 
+jacklamot18 : passe. 
+Personne n'a suivi. (30) sont retournés à valoche34410.
+valoche34410 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : jacklamot18 (grosse blind) s'est couché. avant Flop
+Siège 3 : valoche34410 (bouton) a remporté (100)
+
+
+
+Main PokerStars n°237367740550 : Tournoi #3441692260, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/07/2022 8:26:01 CET [15/07/2022 2:26:01 ET]
+Table '3441692260 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 2: jacklamot18 (340 en jetons) 
+Place 3: valoche34410 (130 en jetons) 
+jacklamot18 : met la petite blind. 20
+valoche34410 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Qd]
+psychoman59 : passe. 
+jacklamot18 : suit. 20
+valoche34410 : parole 
+*** FLOP *** [7c 3c 9c]
+jacklamot18 : parole 
+valoche34410 : parole 
+*** TOURNANT *** [7c 3c 9c] [2d]
+jacklamot18 : parole 
+valoche34410 : parole 
+*** RIVIÈRE *** [7c 3c 9c 2d] [Qc]
+jacklamot18 : parole 
+valoche34410 : parole 
+*** ABATTAGE ***
+jacklamot18 : montre [Ts 2c] (une couleur, hauteur Dame)
+valoche34410 : cache la main perdante. 
+jacklamot18 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [7c 3c 9c 2d Qc]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jacklamot18 (petite blind) a montré [Ts 2c] et a gagné (80) avec une couleur, hauteur Dame
+Siège 3 : valoche34410 (grosse blind) a caché la main perdante. [Td Jd]
+
+
+
+Main PokerStars n°237367743168 : Tournoi #3441692260, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/07/2022 8:26:25 CET [15/07/2022 2:26:25 ET]
+Table '3441692260 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 2: jacklamot18 (380 en jetons) 
+Place 3: valoche34410 (90 en jetons) 
+valoche34410 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 6c]
+jacklamot18 : suit. 60
+valoche34410 : passe. 
+psychoman59 : parole 
+*** FLOP *** [8h 9d 9c]
+psychoman59 : parole 
+jacklamot18 : parole 
+*** TOURNANT *** [8h 9d 9c] [5d]
+psychoman59 : parole 
+jacklamot18 : parole 
+*** RIVIÈRE *** [8h 9d 9c 5d] [Jh]
+psychoman59 : parole 
+jacklamot18 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à jacklamot18.
+jacklamot18 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [8h 9d 9c 5d Jh]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : jacklamot18 (bouton) a remporté (150)
+Siège 3 : valoche34410 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237367745602 : Tournoi #3441692260, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/07/2022 8:26:49 CET [15/07/2022 2:26:49 ET]
+Table '3441692260 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 2: jacklamot18 (470 en jetons) 
+Place 3: valoche34410 (60 en jetons) 
+psychoman59 : met la petite blind. 30
+jacklamot18 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Ad]
+valoche34410 : passe. 
+psychoman59 : relance. 310 à 370 et est all-in.
+jacklamot18 : suit. 310
+*** FLOP *** [Kh 9h Td]
+*** TOURNANT *** [Kh 9h Td] [4h]
+*** RIVIÈRE *** [Kh 9h Td 4h] [4c]
+*** ABATTAGE ***
+psychoman59 : montre [Qd Ad] (une paire de Quatre)
+jacklamot18 : montre [Kc 5s] (double paire, Rois et Quatre)
+jacklamot18 a remporté 740  lors du pot .
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Tableau [Kh 9h Td 4h 4c]
+Siège 1 : psychoman59 (petite blind) a montré [Qd Ad] et a perdu avec une paire de Quatre
+Siège 2 : jacklamot18 (grosse blind) a montré [Kc 5s] et a gagné (740) avec double paire, Rois et Quatre
+Siège 3 : valoche34410 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+

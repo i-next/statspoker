@@ -1,0 +1,568 @@
+﻿Main PokerStars n°237331892517 : Tournoi #3440837614, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2022 13:59:16 CET [13/07/2022 7:59:16 ET]
+Table '3440837614 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: MaitreYodAS (300 en jetons) 
+Place 3: regle1 (300 en jetons) 
+MaitreYodAS : met la petite blind. 10
+regle1 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 8c]
+psychoman59 : suit. 20
+MaitreYodAS : suit. 10
+regle1 : parole 
+*** FLOP *** [5c Tc 5h]
+MaitreYodAS : parole 
+regle1 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5c Tc 5h] [7c]
+MaitreYodAS : parole 
+regle1 : parole 
+psychoman59 : mise. 20
+MaitreYodAS : suit. 20
+regle1 : suit. 20
+*** RIVIÈRE *** [5c Tc 5h 7c] [6h]
+MaitreYodAS : parole 
+regle1 : parole 
+psychoman59 : mise. 120
+MaitreYodAS : passe. 
+regle1 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5c Tc 5h 7c 6h]
+Siège 1 : psychoman59 (bouton) a remporté (120)
+Siège 2 : MaitreYodAS (petite blind) s'est couché. sur le Rivière
+Siège 3 : regle1 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237331898496 : Tournoi #3440837614, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2022 13:59:53 CET [13/07/2022 7:59:53 ET]
+Table '3440837614 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 2: MaitreYodAS (260 en jetons) 
+Place 3: regle1 (260 en jetons) 
+regle1 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 7h]
+MaitreYodAS : suit. 20
+regle1 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Tc 3d 9c]
+regle1 : parole 
+psychoman59 : parole 
+MaitreYodAS : mise. 20
+regle1 : suit. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [Tc 3d 9c] [4s]
+regle1 : parole 
+psychoman59 : parole 
+MaitreYodAS : parole 
+*** RIVIÈRE *** [Tc 3d 9c 4s] [4d]
+regle1 : parole 
+psychoman59 : parole 
+MaitreYodAS : parole 
+*** ABATTAGE ***
+regle1 : montre [Jd Kd] (une paire de Quatre)
+psychoman59 : montre [9d 7h] (double paire, Neuf et Quatre)
+MaitreYodAS : cache la main perdante. 
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Tc 3d 9c 4s 4d]
+Siège 1 : psychoman59 (grosse blind) a montré [9d 7h] et a gagné (120) avec double paire, Neuf et Quatre
+Siège 2 : MaitreYodAS (bouton) a caché la main perdante. [3s Ks]
+Siège 3 : regle1 (petite blind) a montré [Jd Kd] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°237331904528 : Tournoi #3440837614, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2022 14:00:28 CET [13/07/2022 8:00:28 ET]
+Table '3440837614 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: MaitreYodAS (220 en jetons) 
+Place 3: regle1 (220 en jetons) 
+psychoman59 : met la petite blind. 15
+MaitreYodAS : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Jc]
+regle1 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à MaitreYodAS.
+MaitreYodAS a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : MaitreYodAS (grosse blind) a remporté (30)
+Siège 3 : regle1 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237331905746 : Tournoi #3440837614, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2022 14:00:35 CET [13/07/2022 8:00:35 ET]
+Table '3440837614 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (445 en jetons) 
+Place 2: MaitreYodAS (235 en jetons) 
+Place 3: regle1 (220 en jetons) 
+MaitreYodAS : met la petite blind. 15
+regle1 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 5h]
+psychoman59 : passe. 
+MaitreYodAS : suit. 15
+regle1 : parole 
+*** FLOP *** [Jd Kh 9h]
+MaitreYodAS : parole 
+regle1 : parole 
+*** TOURNANT *** [Jd Kh 9h] [4d]
+MaitreYodAS : parole 
+regle1 : parole 
+*** RIVIÈRE *** [Jd Kh 9h 4d] [9c]
+MaitreYodAS : parole 
+regle1 : parole 
+*** ABATTAGE ***
+MaitreYodAS : montre [6s 4s] (double paire, Neuf et Quatre)
+regle1 : cache la main perdante. 
+MaitreYodAS a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Jd Kh 9h 4d 9c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : MaitreYodAS (petite blind) a montré [6s 4s] et a gagné (60) avec double paire, Neuf et Quatre
+Siège 3 : regle1 (grosse blind) a caché la main perdante. [As 3c]
+
+
+
+Main PokerStars n°237331909617 : Tournoi #3440837614, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2022 14:00:57 CET [13/07/2022 8:00:57 ET]
+Table '3440837614 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (445 en jetons) 
+Place 2: MaitreYodAS (265 en jetons) 
+Place 3: regle1 (190 en jetons) 
+regle1 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ac]
+MaitreYodAS : suit. 30
+regle1 : passe. 
+psychoman59 : relance. 415 à 445 et est all-in.
+MaitreYodAS : passe. 
+Personne n'a suivi. (415) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (75)
+Siège 2 : MaitreYodAS (bouton) s'est couché. avant Flop
+Siège 3 : regle1 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237331913083 : Tournoi #3440837614, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2022 14:01:16 CET [13/07/2022 8:01:16 ET]
+Table '3440837614 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (490 en jetons) 
+Place 2: MaitreYodAS (235 en jetons) 
+Place 3: regle1 (175 en jetons) 
+psychoman59 : met la petite blind. 15
+MaitreYodAS : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Td]
+regle1 : suit. 30
+psychoman59 : passe. 
+MaitreYodAS : parole 
+*** FLOP *** [3c Jd 8c]
+MaitreYodAS : parole 
+regle1 : parole 
+*** TOURNANT *** [3c Jd 8c] [8d]
+MaitreYodAS : mise. 60
+regle1 : passe. 
+Personne n'a suivi. (60) sont retournés à MaitreYodAS.
+MaitreYodAS a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [3c Jd 8c 8d]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : MaitreYodAS (grosse blind) a remporté (75)
+Siège 3 : regle1 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237331917018 : Tournoi #3440837614, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2022 14:01:37 CET [13/07/2022 8:01:37 ET]
+Table '3440837614 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (475 en jetons) 
+Place 2: MaitreYodAS (280 en jetons) 
+Place 3: regle1 (145 en jetons) 
+MaitreYodAS : met la petite blind. 20
+regle1 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 2d]
+psychoman59 : passe. 
+MaitreYodAS : suit. 20
+regle1 : parole 
+*** FLOP *** [Ad Tc Kd]
+MaitreYodAS : parole 
+regle1 : parole 
+*** TOURNANT *** [Ad Tc Kd] [4s]
+MaitreYodAS : mise. 80
+regle1 : passe. 
+Personne n'a suivi. (80) sont retournés à MaitreYodAS.
+MaitreYodAS a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ad Tc Kd 4s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : MaitreYodAS (petite blind) a remporté (80)
+Siège 3 : regle1 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237331920236 : Tournoi #3440837614, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2022 14:01:54 CET [13/07/2022 8:01:54 ET]
+Table '3440837614 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (475 en jetons) 
+Place 2: MaitreYodAS (320 en jetons) 
+Place 3: regle1 (105 en jetons) 
+regle1 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 2s]
+MaitreYodAS : passe. 
+regle1 : relance. 65 à 105 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (65) sont retournés à regle1.
+regle1 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : MaitreYodAS (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : regle1 (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237331921838 : Tournoi #3440837614, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2022 14:02:03 CET [13/07/2022 8:02:03 ET]
+Table '3440837614 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (435 en jetons) 
+Place 2: MaitreYodAS (320 en jetons) 
+Place 3: regle1 (145 en jetons) 
+psychoman59 : met la petite blind. 20
+MaitreYodAS : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Qs]
+regle1 : passe. 
+psychoman59 : relance. 80 à 120
+MaitreYodAS : relance. 200 à 320 et est all-in.
+psychoman59 : suit. 200
+*** FLOP *** [Jd 6h 4d]
+*** TOURNANT *** [Jd 6h 4d] [Kd]
+*** RIVIÈRE *** [Jd 6h 4d Kd] [5s]
+*** ABATTAGE ***
+psychoman59 : montre [Tc Qs] (Hauteur Roi)
+MaitreYodAS : montre [Td Ah] (Hauteur As)
+MaitreYodAS a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [Jd 6h 4d Kd 5s]
+Siège 1 : psychoman59 (petite blind) a montré [Tc Qs] et a perdu avec Hauteur Roi
+Siège 2 : MaitreYodAS (grosse blind) a montré [Td Ah] et a gagné (640) avec Hauteur As
+Siège 3 : regle1 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237331926293 : Tournoi #3440837614, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/07/2022 14:02:27 CET [13/07/2022 8:02:27 ET]
+Table '3440837614 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (115 en jetons) 
+Place 2: MaitreYodAS (640 en jetons) 
+Place 3: regle1 (145 en jetons) 
+MaitreYodAS : met la petite blind. 30
+regle1 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ks]
+psychoman59 : relance. 55 à 115 et est all-in.
+MaitreYodAS : passe. 
+regle1 : passe. 
+Personne n'a suivi. (55) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (150)
+Siège 2 : MaitreYodAS (petite blind) s'est couché. avant Flop
+Siège 3 : regle1 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237331927942 : Tournoi #3440837614, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/07/2022 14:02:36 CET [13/07/2022 8:02:36 ET]
+Table '3440837614 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (205 en jetons) 
+Place 2: MaitreYodAS (610 en jetons) 
+Place 3: regle1 (85 en jetons) 
+regle1 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ac]
+MaitreYodAS : suit. 60
+regle1 : relance. 25 à 85 et est all-in.
+psychoman59 : relance. 120 à 205 et est all-in.
+MaitreYodAS : suit. 145
+*** FLOP *** [Qc 6d 9c]
+*** TOURNANT *** [Qc 6d 9c] [Ad]
+*** RIVIÈRE *** [Qc 6d 9c Ad] [4h]
+*** ABATTAGE ***
+psychoman59 : montre [5h Ac] (une paire de As)
+MaitreYodAS : montre [6c Ks] (une paire de Six)
+psychoman59 a remporté 240  parallèle lors du pot .
+regle1 : montre [3c Ts] (Hauteur As)
+psychoman59 a remporté 255  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 495 Principal pot 255. Parallèle pot 240. | Commission 0 
+Tableau [Qc 6d 9c Ad 4h]
+Siège 1 : psychoman59 (grosse blind) a montré [5h Ac] et a gagné (495) avec une paire de As
+Siège 2 : MaitreYodAS (bouton) a montré [6c Ks] et a perdu avec une paire de Six
+Siège 3 : regle1 (petite blind) a montré [3c Ts] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237331931767 : Tournoi #3440837614, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/07/2022 14:02:57 CET [13/07/2022 8:02:57 ET]
+Table '3440837614 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (495 en jetons) 
+Place 2: MaitreYodAS (405 en jetons) 
+psychoman59 : met la petite blind. 30
+MaitreYodAS : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Js]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à MaitreYodAS.
+MaitreYodAS a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : MaitreYodAS (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237331932790 : Tournoi #3440837614, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/07/2022 14:03:03 CET [13/07/2022 8:03:03 ET]
+Table '3440837614 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (465 en jetons) 
+Place 2: MaitreYodAS (435 en jetons) 
+MaitreYodAS : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Tc]
+MaitreYodAS : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : MaitreYodAS (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237331933550 : Tournoi #3440837614, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/07/2022 14:03:07 CET [13/07/2022 8:03:07 ET]
+Table '3440837614 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (495 en jetons) 
+Place 2: MaitreYodAS (405 en jetons) 
+psychoman59 : met la petite blind. 30
+MaitreYodAS : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à MaitreYodAS.
+MaitreYodAS a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : MaitreYodAS (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237331934555 : Tournoi #3440837614, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/07/2022 14:03:12 CET [13/07/2022 8:03:12 ET]
+Table '3440837614 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (465 en jetons) 
+Place 2: MaitreYodAS (435 en jetons) 
+MaitreYodAS : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 4d]
+MaitreYodAS : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : MaitreYodAS (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237331935476 : Tournoi #3440837614, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/07/2022 14:03:17 CET [13/07/2022 8:03:17 ET]
+Table '3440837614 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (495 en jetons) 
+Place 2: MaitreYodAS (405 en jetons) 
+psychoman59 : met la petite blind. 30
+MaitreYodAS : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à MaitreYodAS.
+MaitreYodAS a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : MaitreYodAS (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237331937105 : Tournoi #3440837614, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 13/07/2022 14:03:25 CET [13/07/2022 8:03:25 ET]
+Table '3440837614 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (465 en jetons) 
+Place 2: MaitreYodAS (435 en jetons) 
+MaitreYodAS : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 7d]
+MaitreYodAS : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : MaitreYodAS (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237331938008 : Tournoi #3440837614, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 13/07/2022 14:03:30 CET [13/07/2022 8:03:30 ET]
+Table '3440837614 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (505 en jetons) 
+Place 2: MaitreYodAS (395 en jetons) 
+psychoman59 : met la petite blind. 40
+MaitreYodAS : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 8c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à MaitreYodAS.
+MaitreYodAS a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : MaitreYodAS (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237331938931 : Tournoi #3440837614, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 13/07/2022 14:03:35 CET [13/07/2022 8:03:35 ET]
+Table '3440837614 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (465 en jetons) 
+Place 2: MaitreYodAS (435 en jetons) 
+MaitreYodAS : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td As]
+MaitreYodAS : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : MaitreYodAS (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237331939840 : Tournoi #3440837614, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 13/07/2022 14:03:40 CET [13/07/2022 8:03:40 ET]
+Table '3440837614 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (505 en jetons) 
+Place 2: MaitreYodAS (395 en jetons) 
+psychoman59 : met la petite blind. 40
+MaitreYodAS : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Jh]
+psychoman59 : relance. 160 à 240
+MaitreYodAS : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 2 : MaitreYodAS (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237331942065 : Tournoi #3440837614, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 13/07/2022 14:03:52 CET [13/07/2022 8:03:52 ET]
+Table '3440837614 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (585 en jetons) 
+Place 2: MaitreYodAS (315 en jetons) 
+MaitreYodAS : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 5s]
+MaitreYodAS : relance. 235 à 315 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (235) sont retournés à MaitreYodAS.
+MaitreYodAS a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : MaitreYodAS (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°237331943962 : Tournoi #3440837614, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 13/07/2022 14:04:03 CET [13/07/2022 8:04:03 ET]
+Table '3440837614 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (505 en jetons) 
+Place 2: MaitreYodAS (395 en jetons) 
+psychoman59 : met la petite blind. 40
+MaitreYodAS : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Tc]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à MaitreYodAS.
+MaitreYodAS a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : MaitreYodAS (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237331944918 : Tournoi #3440837614, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 13/07/2022 14:04:08 CET [13/07/2022 8:04:08 ET]
+Table '3440837614 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (465 en jetons) 
+Place 2: MaitreYodAS (435 en jetons) 
+MaitreYodAS : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 7h]
+MaitreYodAS : suit. 40
+psychoman59 : parole 
+*** FLOP *** [8h 9d Ts]
+psychoman59 : mise. 385 et est all-in.
+MaitreYodAS : passe. 
+Personne n'a suivi. (385) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [8h 9d Ts]
+Siège 1 : psychoman59 (grosse blind) a remporté (160)
+Siège 2 : MaitreYodAS (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237331948186 : Tournoi #3440837614, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VI (50/100) - 13/07/2022 14:04:26 CET [13/07/2022 8:04:26 ET]
+Table '3440837614 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (545 en jetons) 
+Place 2: MaitreYodAS (355 en jetons) 
+psychoman59 : met la petite blind. 50
+MaitreYodAS : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Ks]
+psychoman59 : relance. 200 à 300
+MaitreYodAS : relance. 55 à 355 et est all-in.
+psychoman59 : suit. 55
+*** FLOP *** [4c 8s 3h]
+*** TOURNANT *** [4c 8s 3h] [Qd]
+*** RIVIÈRE *** [4c 8s 3h Qd] [Td]
+*** ABATTAGE ***
+MaitreYodAS : montre [Ac 2s] (Hauteur As)
+psychoman59 : montre [4d Ks] (une paire de Quatre)
+psychoman59 a remporté 710  lors du pot .
+*** SYNTHÈSE ***
+Pot total 710 | Commission 0 
+Tableau [4c 8s 3h Qd Td]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [4d Ks] et a gagné (710) avec une paire de Quatre
+Siège 2 : MaitreYodAS (grosse blind) a montré [Ac 2s] et a perdu avec Hauteur As
+
+
+

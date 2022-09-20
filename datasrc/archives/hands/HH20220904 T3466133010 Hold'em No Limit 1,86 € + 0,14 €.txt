@@ -1,0 +1,613 @@
+﻿Main PokerStars n°238404415114 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 04/09/2022 10:13:51 CET [04/09/2022 4:13:51 ET]
+Table '3466133010 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: SLD20 (300 en jetons) 
+Place 3: LaMontagne974 (300 en jetons) 
+SLD20 : met la petite blind. 10
+LaMontagne974 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Tc]
+psychoman59 : passe. 
+SLD20 : suit. 10
+LaMontagne974 : relance. 20 à 40
+SLD20 : suit. 20
+*** FLOP *** [Qs 7h 5d]
+SLD20 : parole 
+LaMontagne974 : mise. 80
+SLD20 : suit. 80
+*** TOURNANT *** [Qs 7h 5d] [Jc]
+SLD20 : parole 
+LaMontagne974 : parole 
+*** RIVIÈRE *** [Qs 7h 5d Jc] [6d]
+SLD20 : mise. 80
+LaMontagne974 : passe. 
+Personne n'a suivi. (80) sont retournés à SLD20.
+SLD20 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Qs 7h 5d Jc 6d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : SLD20 (petite blind) a remporté (240)
+Siège 3 : LaMontagne974 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238404421903 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 04/09/2022 10:14:38 CET [04/09/2022 4:14:38 ET]
+Table '3466133010 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: SLD20 (420 en jetons) 
+Place 3: LaMontagne974 (180 en jetons) 
+LaMontagne974 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 4c]
+SLD20 : relance. 20 à 40
+LaMontagne974 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à SLD20.
+SLD20 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : SLD20 (bouton) a remporté (50)
+Siège 3 : LaMontagne974 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238404423750 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 04/09/2022 10:14:51 CET [04/09/2022 4:14:51 ET]
+Table '3466133010 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: SLD20 (450 en jetons) 
+Place 3: LaMontagne974 (170 en jetons) 
+psychoman59 : met la petite blind. 10
+SLD20 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 8h]
+LaMontagne974 : relance. 20 à 40
+psychoman59 : passe. 
+SLD20 : relance. 20 à 60
+LaMontagne974 : relance. 20 à 80
+SLD20 : suit. 20
+*** FLOP *** [Th 2c 6h]
+SLD20 : mise. 370 et est all-in.
+LaMontagne974 : suit. 90 et est all-in.
+Personne n'a suivi. (280) sont retournés à SLD20.
+*** TOURNANT *** [Th 2c 6h] [3d]
+*** RIVIÈRE *** [Th 2c 6h 3d] [Kh]
+*** ABATTAGE ***
+SLD20 : montre [6s Ad] (une paire de Six)
+LaMontagne974 : montre [6d Ks] (double paire, Rois et Six)
+LaMontagne974 a remporté 350  lors du pot .
+*** SYNTHÈSE ***
+Pot total 350 | Commission 0 
+Tableau [Th 2c 6h 3d Kh]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : SLD20 (grosse blind) a montré [6s Ad] et a perdu avec une paire de Six
+Siège 3 : LaMontagne974 (bouton) a montré [6d Ks] et a gagné (350) avec double paire, Rois et Six
+
+
+
+Main PokerStars n°238404427592 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 04/09/2022 10:15:18 CET [04/09/2022 4:15:18 ET]
+Table '3466133010 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: SLD20 (280 en jetons) 
+Place 3: LaMontagne974 (350 en jetons) 
+SLD20 : met la petite blind. 15
+LaMontagne974 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 7c]
+psychoman59 : relance. 60 à 90
+SLD20 : suit. 75
+LaMontagne974 : relance. 260 à 350 et est all-in.
+psychoman59 : suit. 180 et est all-in.
+SLD20 : passe. 
+Personne n'a suivi. (80) sont retournés à LaMontagne974.
+*** FLOP *** [7h 2c 3d]
+*** TOURNANT *** [7h 2c 3d] [9c]
+*** RIVIÈRE *** [7h 2c 3d 9c] [Js]
+*** ABATTAGE ***
+LaMontagne974 : montre [Jh Qd] (une paire de Valets)
+psychoman59 : montre [7d 7c] (un brelan de Sept)
+psychoman59 a remporté 630  lors du pot .
+*** SYNTHÈSE ***
+Pot total 630 | Commission 0 
+Tableau [7h 2c 3d 9c Js]
+Siège 1 : psychoman59 (bouton) a montré [7d 7c] et a gagné (630) avec un brelan de Sept
+Siège 2 : SLD20 (petite blind) s'est couché. avant Flop
+Siège 3 : LaMontagne974 (grosse blind) a montré [Jh Qd] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°238404431079 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 04/09/2022 10:15:42 CET [04/09/2022 4:15:42 ET]
+Table '3466133010 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (630 en jetons) 
+Place 2: SLD20 (190 en jetons) 
+Place 3: LaMontagne974 (80 en jetons) 
+LaMontagne974 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 7s]
+SLD20 : suit. 30
+LaMontagne974 : passe. 
+psychoman59 : parole 
+*** FLOP *** [8h Th Kd]
+psychoman59 : parole 
+SLD20 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à SLD20.
+SLD20 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [8h Th Kd]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : SLD20 (bouton) a remporté (75)
+Siège 3 : LaMontagne974 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238404434235 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 04/09/2022 10:16:04 CET [04/09/2022 4:16:04 ET]
+Table '3466133010 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: SLD20 (235 en jetons) 
+Place 3: LaMontagne974 (65 en jetons) 
+psychoman59 : met la petite blind. 20
+SLD20 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 7s]
+LaMontagne974 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à SLD20.
+SLD20 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : SLD20 (grosse blind) a remporté (40)
+Siège 3 : LaMontagne974 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238404435385 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 04/09/2022 10:16:12 CET [04/09/2022 4:16:12 ET]
+Table '3466133010 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 2: SLD20 (255 en jetons) 
+Place 3: LaMontagne974 (65 en jetons) 
+SLD20 : met la petite blind. 20
+LaMontagne974 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 5h]
+psychoman59 : relance. 100 à 140
+SLD20 : passe. 
+LaMontagne974 : suit. 25 et est all-in.
+Personne n'a suivi. (75) sont retournés à psychoman59.
+*** FLOP *** [Kc 7s 3s]
+*** TOURNANT *** [Kc 7s 3s] [2d]
+*** RIVIÈRE *** [Kc 7s 3s 2d] [9c]
+*** ABATTAGE ***
+LaMontagne974 : montre [Js Jh] (une paire de Valets)
+psychoman59 : montre [5d 5h] (une paire de Cinq)
+LaMontagne974 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [Kc 7s 3s 2d 9c]
+Siège 1 : psychoman59 (bouton) a montré [5d 5h] et a perdu avec une paire de Cinq
+Siège 2 : SLD20 (petite blind) s'est couché. avant Flop
+Siège 3 : LaMontagne974 (grosse blind) a montré [Js Jh] et a gagné (150) avec une paire de Valets
+
+
+
+Main PokerStars n°238404437793 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 04/09/2022 10:16:29 CET [04/09/2022 4:16:29 ET]
+Table '3466133010 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (515 en jetons) 
+Place 2: SLD20 (235 en jetons) 
+Place 3: LaMontagne974 (150 en jetons) 
+LaMontagne974 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 8h]
+SLD20 : relance. 40 à 80
+LaMontagne974 : relance. 70 à 150 et est all-in.
+psychoman59 : passe. 
+SLD20 : suit. 70
+*** FLOP *** [5s Kh Ks]
+*** TOURNANT *** [5s Kh Ks] [9d]
+*** RIVIÈRE *** [5s Kh Ks 9d] [Ts]
+*** ABATTAGE ***
+LaMontagne974 : montre [8d Qh] (une paire de Rois)
+SLD20 : montre [Jc Ac] (une paire de Rois - As kicker)
+SLD20 a remporté 340  lors du pot .
+LaMontagne974 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [5s Kh Ks 9d Ts]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : SLD20 (bouton) a montré [Jc Ac] et a gagné (340) avec une paire de Rois
+Siège 3 : LaMontagne974 (petite blind) a montré [8d Qh] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°238404440783 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 04/09/2022 10:16:50 CET [04/09/2022 4:16:50 ET]
+Table '3466133010 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (475 en jetons) 
+Place 2: SLD20 (425 en jetons) 
+psychoman59 : met la petite blind. 20
+SLD20 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8h]
+psychoman59 : relance. 40 à 80
+SLD20 : suit. 40
+*** FLOP *** [Th 2d 8d]
+SLD20 : parole 
+psychoman59 : mise. 160
+SLD20 : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Th 2d 8d]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 2 : SLD20 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238404444278 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/09/2022 10:17:15 CET [04/09/2022 4:17:15 ET]
+Table '3466133010 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (555 en jetons) 
+Place 2: SLD20 (345 en jetons) 
+SLD20 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 8h]
+SLD20 : relance. 60 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à SLD20.
+SLD20 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : SLD20 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°238404445222 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/09/2022 10:17:22 CET [04/09/2022 4:17:22 ET]
+Table '3466133010 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (495 en jetons) 
+Place 2: SLD20 (405 en jetons) 
+psychoman59 : met la petite blind. 30
+SLD20 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Kh]
+psychoman59 : relance. 435 à 495 et est all-in.
+SLD20 : passe. 
+Personne n'a suivi. (435) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 2 : SLD20 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238404447299 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/09/2022 10:17:36 CET [04/09/2022 4:17:36 ET]
+Table '3466133010 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (555 en jetons) 
+Place 2: SLD20 (345 en jetons) 
+SLD20 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 4c]
+SLD20 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [7c 4h 2s]
+psychoman59 : parole 
+SLD20 : mise. 60
+psychoman59 : relance. 240 à 300
+SLD20 : suit. 225 et est all-in.
+Personne n'a suivi. (15) sont retournés à psychoman59.
+*** TOURNANT *** [7c 4h 2s] [7d]
+*** RIVIÈRE *** [7c 4h 2s 7d] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [Tc 4c] (double paire, Sept et Quatre)
+SLD20 : montre [7h 6c] (un full, full aux Sept par les Deux)
+SLD20 a remporté 690  lors du pot .
+*** SYNTHÈSE ***
+Pot total 690 | Commission 0 
+Tableau [7c 4h 2s 7d 2h]
+Siège 1 : psychoman59 (grosse blind) a montré [Tc 4c] et a perdu avec double paire, Sept et Quatre
+Siège 2 : SLD20 (bouton) (petite blind) a montré [7h 6c] et a gagné (690) avec un full, full aux Sept par les Deux
+
+
+
+Main PokerStars n°238404452443 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 04/09/2022 10:18:12 CET [04/09/2022 4:18:12 ET]
+Table '3466133010 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (210 en jetons) 
+Place 2: SLD20 (690 en jetons) 
+psychoman59 : met la petite blind. 40
+SLD20 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ac]
+psychoman59 : relance. 130 à 210 et est all-in.
+SLD20 : suit. 130
+*** FLOP *** [Jh 7s 9s]
+*** TOURNANT *** [Jh 7s 9s] [9c]
+*** RIVIÈRE *** [Jh 7s 9s 9c] [Ad]
+*** ABATTAGE ***
+SLD20 : montre [Qs 8h] (une paire de Neuf)
+psychoman59 : montre [3c Ac] (double paire, As et Neuf)
+psychoman59 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [Jh 7s 9s 9c Ad]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [3c Ac] et a gagné (420) avec double paire, As et Neuf
+Siège 2 : SLD20 (grosse blind) a montré [Qs 8h] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°238404454451 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 04/09/2022 10:18:26 CET [04/09/2022 4:18:26 ET]
+Table '3466133010 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: SLD20 (480 en jetons) 
+SLD20 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 4d]
+SLD20 : suit. 40
+psychoman59 : relance. 340 à 420 et est all-in.
+SLD20 : passe. 
+Personne n'a suivi. (340) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (160)
+Siège 2 : SLD20 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238404455761 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 04/09/2022 10:18:35 CET [04/09/2022 4:18:35 ET]
+Table '3466133010 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: SLD20 (400 en jetons) 
+psychoman59 : met la petite blind. 40
+SLD20 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Js]
+psychoman59 : relance. 420 à 500 et est all-in.
+SLD20 : passe. 
+Personne n'a suivi. (420) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 2 : SLD20 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238404457016 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 04/09/2022 10:18:44 CET [04/09/2022 4:18:44 ET]
+Table '3466133010 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 2: SLD20 (320 en jetons) 
+SLD20 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Qd]
+SLD20 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [8h 6d 7s]
+psychoman59 : mise. 500 et est all-in.
+SLD20 : suit. 240 et est all-in.
+Personne n'a suivi. (260) sont retournés à psychoman59.
+*** TOURNANT *** [8h 6d 7s] [Qc]
+*** RIVIÈRE *** [8h 6d 7s Qc] [5c]
+*** ABATTAGE ***
+psychoman59 : montre [9c Qd] (une suite, Cinq à Neuf)
+SLD20 : montre [9d 6h] (une suite, Cinq à Neuf)
+psychoman59 a remporté 320  lors du pot .
+SLD20 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [8h 6d 7s Qc 5c]
+Siège 1 : psychoman59 (grosse blind) a montré [9c Qd] et a gagné (320) avec une suite, Cinq à Neuf
+Siège 2 : SLD20 (bouton) (petite blind) a montré [9d 6h] et a gagné (320) avec une suite, Cinq à Neuf
+
+
+
+Main PokerStars n°238404460288 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VI (50/100) - 04/09/2022 10:19:07 CET [04/09/2022 4:19:07 ET]
+Table '3466133010 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 2: SLD20 (320 en jetons) 
+psychoman59 : met la petite blind. 50
+SLD20 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ad]
+psychoman59 : relance. 480 à 580 et est all-in.
+SLD20 : suit. 220 et est all-in.
+Personne n'a suivi. (260) sont retournés à psychoman59.
+*** FLOP *** [2h 5c 9s]
+*** TOURNANT *** [2h 5c 9s] [Jc]
+*** RIVIÈRE *** [2h 5c 9s Jc] [Kc]
+*** ABATTAGE ***
+SLD20 : montre [8c 8s] (une paire de Huit)
+psychoman59 : montre [5d Ad] (une paire de Cinq)
+SLD20 a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [2h 5c 9s Jc Kc]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [5d Ad] et a perdu avec une paire de Cinq
+Siège 2 : SLD20 (grosse blind) a montré [8c 8s] et a gagné (640) avec une paire de Huit
+
+
+
+Main PokerStars n°238404462674 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VI (50/100) - 04/09/2022 10:19:23 CET [04/09/2022 4:19:23 ET]
+Table '3466133010 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: SLD20 (640 en jetons) 
+SLD20 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Ac]
+SLD20 : relance. 100 à 200
+psychoman59 : relance. 60 à 260 et est all-in.
+SLD20 : suit. 60
+*** FLOP *** [8d Kc 3h]
+*** TOURNANT *** [8d Kc 3h] [2d]
+*** RIVIÈRE *** [8d Kc 3h 2d] [Kd]
+*** ABATTAGE ***
+psychoman59 : montre [As Ac] (double paire, As et Rois)
+SLD20 : montre [5s Jh] (une paire de Rois)
+psychoman59 a remporté 520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [8d Kc 3h 2d Kd]
+Siège 1 : psychoman59 (grosse blind) a montré [As Ac] et a gagné (520) avec double paire, As et Rois
+Siège 2 : SLD20 (bouton) (petite blind) a montré [5s Jh] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°238404464560 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VI (50/100) - 04/09/2022 10:19:37 CET [04/09/2022 4:19:37 ET]
+Table '3466133010 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: SLD20 (380 en jetons) 
+psychoman59 : met la petite blind. 50
+SLD20 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 8d]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à SLD20.
+SLD20 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : SLD20 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°238404465457 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VI (50/100) - 04/09/2022 10:19:43 CET [04/09/2022 4:19:43 ET]
+Table '3466133010 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (470 en jetons) 
+Place 2: SLD20 (430 en jetons) 
+SLD20 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 6d]
+SLD20 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Jh 7d Kh]
+psychoman59 : parole 
+SLD20 : mise. 100
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à SLD20.
+SLD20 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Jh 7d Kh]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : SLD20 (bouton) (petite blind) a remporté (200)
+
+
+
+Main PokerStars n°238404467673 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VII (60/120) - 04/09/2022 10:19:59 CET [04/09/2022 4:19:59 ET]
+Table '3466133010 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 2: SLD20 (530 en jetons) 
+psychoman59 : met la petite blind. 60
+SLD20 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à SLD20.
+SLD20 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : SLD20 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°238404468373 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VII (60/120) - 04/09/2022 10:20:04 CET [04/09/2022 4:20:04 ET]
+Table '3466133010 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: SLD20 (590 en jetons) 
+SLD20 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Kc]
+SLD20 : suit. 60
+psychoman59 : relance. 190 à 310 et est all-in.
+SLD20 : passe. 
+Personne n'a suivi. (190) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (240)
+Siège 2 : SLD20 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238404469734 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VII (60/120) - 04/09/2022 10:20:13 CET [04/09/2022 4:20:13 ET]
+Table '3466133010 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 2: SLD20 (470 en jetons) 
+psychoman59 : met la petite blind. 60
+SLD20 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à SLD20.
+SLD20 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : SLD20 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°238404470460 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VII (60/120) - 04/09/2022 10:20:19 CET [04/09/2022 4:20:19 ET]
+Table '3466133010 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 2: SLD20 (530 en jetons) 
+SLD20 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Jd]
+SLD20 : relance. 120 à 240
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à SLD20.
+SLD20 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : SLD20 (bouton) (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°238404472218 : Tournoi #3466133010, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VII (60/120) - 04/09/2022 10:20:30 CET [04/09/2022 4:20:30 ET]
+Table '3466133010 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 2: SLD20 (650 en jetons) 
+psychoman59 : met la petite blind. 60
+SLD20 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 2c]
+psychoman59 : relance. 130 à 250 et est all-in.
+SLD20 : suit. 130
+*** FLOP *** [4s Jh 5h]
+*** TOURNANT *** [4s Jh 5h] [6d]
+*** RIVIÈRE *** [4s Jh 5h 6d] [4c]
+*** ABATTAGE ***
+SLD20 : montre [Js 7c] (double paire, Valets et Quatre)
+psychoman59 : montre [5c 2c] (double paire, Cinq et Quatre)
+SLD20 a remporté 500  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+SLD20 remporte le tournoi et reçoit 4.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [4s Jh 5h 6d 4c]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [5c 2c] et a perdu avec double paire, Cinq et Quatre
+Siège 2 : SLD20 (grosse blind) a montré [Js 7c] et a gagné (500) avec double paire, Valets et Quatre
+
+
+

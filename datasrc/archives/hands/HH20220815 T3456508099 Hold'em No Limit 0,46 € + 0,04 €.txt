@@ -1,0 +1,114 @@
+﻿Main PokerStars n°238000607487 : Tournoi #3456508099, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 15/08/2022 11:01:46 CET [15/08/2022 5:01:46 ET]
+Table '3456508099 1' 4-max Siège #1 est au bouton.
+Place 1: PierreMondy80 (5000 en jetons) 
+Place 2: ArnaudS2273 (5000 en jetons) 
+Place 3: sam240603 (5000 en jetons) 
+Place 4: psychoman59 (5000 en jetons) 
+PierreMondy80 : met l'ante. 10
+ArnaudS2273 : met l'ante. 10
+sam240603 : met l'ante. 10
+psychoman59 : met l'ante. 10
+ArnaudS2273 : met la petite blind. 50
+sam240603 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8d]
+psychoman59 : passe. 
+PierreMondy80 : relance. 200 à 300
+ArnaudS2273 : passe. 
+sam240603 : suit. 200
+*** FLOP *** [Kh 7d 4c]
+sam240603 : mise. 4690 et est all-in.
+PierreMondy80 : suit. 4690 et est all-in.
+*** TOURNANT *** [Kh 7d 4c] [9s]
+*** RIVIÈRE *** [Kh 7d 4c 9s] [Ah]
+*** ABATTAGE ***
+sam240603 : montre [9c 7c] (double paire, Neuf et Sept)
+PierreMondy80 : montre [4h 4d] (un brelan de Quatre)
+PierreMondy80 a remporté 10070  lors du pot .
+sam240603 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10070 | Commission 0 
+Tableau [Kh 7d 4c 9s Ah]
+Siège 1 : PierreMondy80 (bouton) a montré [4h 4d] et a gagné (10070) avec un brelan de Quatre
+Siège 2 : ArnaudS2273 (petite blind) s'est couché. avant Flop
+Siège 3 : sam240603 (grosse blind) a montré [9c 7c] et a perdu avec double paire, Neuf et Sept
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238000611938 : Tournoi #3456508099, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 15/08/2022 11:02:16 CET [15/08/2022 5:02:16 ET]
+Table '3456508099 1' 4-max Siège #2 est au bouton.
+Place 1: PierreMondy80 (10070 en jetons) 
+Place 2: ArnaudS2273 (4940 en jetons) 
+Place 4: psychoman59 (4990 en jetons) 
+PierreMondy80 : met l'ante. 10
+ArnaudS2273 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+PierreMondy80 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Td]
+ArnaudS2273 : suit. 100
+psychoman59 : suit. 50
+PierreMondy80 : parole 
+*** FLOP *** [Ks Js Qc]
+psychoman59 : parole 
+PierreMondy80 : parole 
+ArnaudS2273 : mise. 165
+psychoman59 : suit. 165
+PierreMondy80 : passe. 
+*** TOURNANT *** [Ks Js Qc] [2h]
+psychoman59 : parole 
+ArnaudS2273 : mise. 330
+psychoman59 : suit. 330
+*** RIVIÈRE *** [Ks Js Qc 2h] [6s]
+psychoman59 : parole 
+ArnaudS2273 : mise. 660
+psychoman59 : passe. 
+Personne n'a suivi. (660) sont retournés à ArnaudS2273.
+ArnaudS2273 a remporté 1320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1320 | Commission 0 
+Tableau [Ks Js Qc 2h 6s]
+Siège 1 : PierreMondy80 (grosse blind) s'est couché. sur le Flop
+Siège 2 : ArnaudS2273 (bouton) a remporté (1320)
+Siège 4 : psychoman59 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238000620495 : Tournoi #3456508099, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 15/08/2022 11:03:11 CET [15/08/2022 5:03:11 ET]
+Table '3456508099 1' 4-max Siège #4 est au bouton.
+Place 1: PierreMondy80 (9960 en jetons) 
+Place 2: ArnaudS2273 (5655 en jetons) 
+Place 4: psychoman59 (4385 en jetons) 
+PierreMondy80 : met l'ante. 10
+ArnaudS2273 : met l'ante. 10
+psychoman59 : met l'ante. 10
+PierreMondy80 : met la petite blind. 50
+ArnaudS2273 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Qd]
+psychoman59 : suit. 100
+PierreMondy80 : passe. 
+ArnaudS2273 : relance. 380 à 480
+psychoman59 : suit. 380
+*** FLOP *** [8d 3d Tc]
+ArnaudS2273 : mise. 520
+psychoman59 : relance. 3375 à 3895 et est all-in.
+ArnaudS2273 : suit. 3375
+*** TOURNANT *** [8d 3d Tc] [2s]
+*** RIVIÈRE *** [8d 3d Tc 2s] [8c]
+*** ABATTAGE ***
+ArnaudS2273 : montre [Th Ts] (un full, full aux Dix par les Huit)
+psychoman59 : montre [7d Qd] (une paire de Huit)
+ArnaudS2273 a remporté 8830  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 8830 | Commission 0 
+Tableau [8d 3d Tc 2s 8c]
+Siège 1 : PierreMondy80 (petite blind) s'est couché. avant Flop
+Siège 2 : ArnaudS2273 (grosse blind) a montré [Th Ts] et a gagné (8830) avec un full, full aux Dix par les Huit
+Siège 4 : psychoman59 (bouton) a montré [7d Qd] et a perdu avec une paire de Huit
+
+
+

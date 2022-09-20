@@ -1,0 +1,292 @@
+﻿Main PokerStars n°237333730569 : Tournoi #3440886335, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2022 16:22:34 CET [13/07/2022 10:22:34 ET]
+Table '3440886335 1' 3-max Siège #1 est au bouton.
+Place 1: ddubut (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Aleex RO (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Aleex RO : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 2d]
+ddubut : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Aleex RO.
+Aleex RO a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : ddubut (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Aleex RO (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237333733381 : Tournoi #3440886335, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2022 16:22:45 CET [13/07/2022 10:22:45 ET]
+Table '3440886335 1' 3-max Siège #2 est au bouton.
+Place 1: ddubut (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: Aleex RO (310 en jetons) 
+Aleex RO : met la petite blind. 10
+ddubut : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 6h]
+psychoman59 : passe. 
+Aleex RO : relance. 20 à 40
+ddubut : suit. 20
+*** FLOP *** [Tc Js 5c]
+Aleex RO : mise. 20
+ddubut : relance. 60 à 80
+Aleex RO : suit. 60
+*** TOURNANT *** [Tc Js 5c] [2d]
+Aleex RO : parole 
+ddubut : mise. 100
+Aleex RO : relance. 90 à 190 et est all-in.
+ddubut : suit. 80 et est all-in.
+Personne n'a suivi. (10) sont retournés à Aleex RO.
+*** RIVIÈRE *** [Tc Js 5c 2d] [3c]
+*** ABATTAGE ***
+Aleex RO : montre [Td Kd] (une paire de Dix)
+ddubut : montre [Jh 7h] (une paire de Valets)
+ddubut a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [Tc Js 5c 2d 3c]
+Siège 1 : ddubut (grosse blind) a montré [Jh 7h] et a gagné (600) avec une paire de Valets
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Aleex RO (petite blind) a montré [Td Kd] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°237333741151 : Tournoi #3440886335, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2022 16:23:17 CET [13/07/2022 10:23:17 ET]
+Table '3440886335 1' 3-max Siège #3 est au bouton.
+Place 1: ddubut (600 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: Aleex RO (10 en jetons) 
+ddubut : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Qs]
+Aleex RO : suit. 10 et est all-in.
+ddubut : suit. 10
+psychoman59 : relance. 270 à 290 et est all-in.
+ddubut : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+*** FLOP *** [6s Ac As]
+*** TOURNANT *** [6s Ac As] [6c]
+*** RIVIÈRE *** [6s Ac As 6c] [6d]
+*** ABATTAGE ***
+psychoman59 : montre [Qd Qs] (un full, full aux Six par les As)
+psychoman59 a remporté 20  parallèle lors du pot .
+Aleex RO : montre [3d Js] (un full, full aux Six par les As)
+psychoman59 a remporté 15  principal lors du pot .
+Aleex RO a remporté 15  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 Principal pot 30. Parallèle pot 20. | Commission 0 
+Tableau [6s Ac As 6c 6d]
+Siège 1 : ddubut (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [Qd Qs] et a gagné (35) avec un full, full aux Six par les As
+Siège 3 : Aleex RO (bouton) a montré [3d Js] et a gagné (15) avec un full, full aux Six par les As
+
+
+
+Main PokerStars n°237333747267 : Tournoi #3440886335, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2022 16:23:43 CET [13/07/2022 10:23:43 ET]
+Table '3440886335 1' 3-max Siège #1 est au bouton.
+Place 1: ddubut (580 en jetons) 
+Place 2: psychoman59 (305 en jetons) 
+Place 3: Aleex RO (15 en jetons) 
+psychoman59 : met la petite blind. 15
+Aleex RO : met la grosse blind. 15 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ks]
+ddubut : passe. 
+*** FLOP *** [3c 2c Kh]
+*** TOURNANT *** [3c 2c Kh] [8s]
+*** RIVIÈRE *** [3c 2c Kh 8s] [3h]
+*** ABATTAGE ***
+psychoman59 : montre [7d Ks] (double paire, Rois et Trois)
+Aleex RO : montre [4s 8c] (double paire, Huit et Trois)
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Tableau [3c 2c Kh 8s 3h]
+Siège 1 : ddubut (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [7d Ks] et a gagné (30) avec double paire, Rois et Trois
+Siège 3 : Aleex RO (grosse blind) a montré [4s 8c] et a perdu avec double paire, Huit et Trois
+
+
+
+Main PokerStars n°237333750644 : Tournoi #3440886335, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2022 16:23:57 CET [13/07/2022 10:23:57 ET]
+Table '3440886335 1' 3-max Siège #2 est au bouton.
+Place 1: ddubut (580 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 15
+ddubut : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 3h]
+psychoman59 : relance. 30 à 60
+ddubut : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : ddubut (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237333752393 : Tournoi #3440886335, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2022 16:24:04 CET [13/07/2022 10:24:04 ET]
+Table '3440886335 1' 3-max Siège #1 est au bouton.
+Place 1: ddubut (550 en jetons) 
+Place 2: psychoman59 (350 en jetons) 
+ddubut : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 2h]
+ddubut : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Tc 7s 6h]
+psychoman59 : parole 
+ddubut : parole 
+*** TOURNANT *** [Tc 7s 6h] [Jh]
+psychoman59 : parole 
+ddubut : parole 
+*** RIVIÈRE *** [Tc 7s 6h Jh] [7d]
+psychoman59 : parole 
+ddubut : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4d 2h] (une paire de Sept)
+ddubut : montre [Ah Qs] (une paire de Sept - As kicker)
+ddubut a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Tc 7s 6h Jh 7d]
+Siège 1 : ddubut (bouton) (petite blind) a montré [Ah Qs] et a gagné (60) avec une paire de Sept
+Siège 2 : psychoman59 (grosse blind) a montré [4d 2h] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°237333757231 : Tournoi #3440886335, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2022 16:24:24 CET [13/07/2022 10:24:24 ET]
+Table '3440886335 1' 3-max Siège #2 est au bouton.
+Place 1: ddubut (580 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 15
+ddubut : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à ddubut.
+ddubut a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : ddubut (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237333758375 : Tournoi #3440886335, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2022 16:24:29 CET [13/07/2022 10:24:29 ET]
+Table '3440886335 1' 3-max Siège #1 est au bouton.
+Place 1: ddubut (595 en jetons) 
+Place 2: psychoman59 (305 en jetons) 
+ddubut : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 3c]
+ddubut : suit. 15
+psychoman59 : parole 
+*** FLOP *** [8h 6h 5h]
+psychoman59 : parole 
+ddubut : parole 
+*** TOURNANT *** [8h 6h 5h] [Jc]
+psychoman59 : mise. 60
+ddubut : suit. 60
+*** RIVIÈRE *** [8h 6h 5h Jc] [Ac]
+psychoman59 : mise. 90
+ddubut : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [8h 6h 5h Jc Ac]
+Siège 1 : ddubut (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) a remporté (180)
+
+
+
+Main PokerStars n°237333764536 : Tournoi #3440886335, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2022 16:24:55 CET [13/07/2022 10:24:55 ET]
+Table '3440886335 1' 3-max Siège #2 est au bouton.
+Place 1: ddubut (505 en jetons) 
+Place 2: psychoman59 (395 en jetons) 
+psychoman59 : met la petite blind. 20
+ddubut : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à ddubut.
+ddubut a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : ddubut (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237333765844 : Tournoi #3440886335, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2022 16:25:00 CET [13/07/2022 10:25:00 ET]
+Table '3440886335 1' 3-max Siège #1 est au bouton.
+Place 1: ddubut (525 en jetons) 
+Place 2: psychoman59 (375 en jetons) 
+ddubut : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Kc]
+ddubut : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : ddubut (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237333766970 : Tournoi #3440886335, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2022 16:25:04 CET [13/07/2022 10:25:04 ET]
+Table '3440886335 1' 3-max Siège #2 est au bouton.
+Place 1: ddubut (505 en jetons) 
+Place 2: psychoman59 (395 en jetons) 
+psychoman59 : met la petite blind. 20
+ddubut : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Qh]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à ddubut.
+ddubut a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : ddubut (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237333768330 : Tournoi #3440886335, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2022 16:25:10 CET [13/07/2022 10:25:10 ET]
+Table '3440886335 1' 3-max Siège #1 est au bouton.
+Place 1: ddubut (525 en jetons) 
+Place 2: psychoman59 (375 en jetons) 
+ddubut : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Ad]
+ddubut : suit. 20
+psychoman59 : relance. 335 à 375 et est all-in.
+ddubut : suit. 335
+*** FLOP *** [8h Qs Kh]
+*** TOURNANT *** [8h Qs Kh] [4s]
+*** RIVIÈRE *** [8h Qs Kh 4s] [8c]
+*** ABATTAGE ***
+psychoman59 : montre [3h Ad] (une paire de Huit)
+ddubut : montre [5d 5s] (double paire, Huit et Cinq)
+ddubut a remporté 750  lors du pot .
+*** SYNTHÈSE ***
+Pot total 750 | Commission 0 
+Tableau [8h Qs Kh 4s 8c]
+Siège 1 : ddubut (bouton) (petite blind) a montré [5d 5s] et a gagné (750) avec double paire, Huit et Cinq
+Siège 2 : psychoman59 (grosse blind) a montré [3h Ad] et a perdu avec une paire de Huit
+
+
+

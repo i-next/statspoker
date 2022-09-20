@@ -1,0 +1,1738 @@
+﻿Main PokerStars n°238427935051 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 05/09/2022 10:43:23 CET [05/09/2022 4:43:23 ET]
+Table '3466623549 1' 4-max Siège #1 est au bouton.
+Place 1: rhai25 (5000 en jetons) 
+Place 2: 6stephy8 (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: ChanceMage (5000 en jetons) 
+rhai25 : met l'ante. 10
+6stephy8 : met l'ante. 10
+psychoman59 : met l'ante. 10
+ChanceMage : met l'ante. 10
+6stephy8 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 3s]
+ChanceMage : passe. 
+rhai25 : suit. 100
+6stephy8 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [4h 6s Qh]
+6stephy8 : mise. 170
+psychoman59 : passe. 
+rhai25 : suit. 170
+*** TOURNANT *** [4h 6s Qh] [5s]
+6stephy8 : mise. 680
+rhai25 : suit. 680
+*** RIVIÈRE *** [4h 6s Qh 5s] [4c]
+6stephy8 : parole 
+rhai25 : parole 
+*** ABATTAGE ***
+6stephy8 : montre [2d Qc] (double paire, Dames et Quatre)
+rhai25 : cache la main perdante. 
+6stephy8 a remporté 2040  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2040 | Commission 0 
+Tableau [4h 6s Qh 5s 4c]
+Siège 1 : rhai25 (bouton) a caché la main perdante. [6d 8d]
+Siège 2 : 6stephy8 (petite blind) a montré [2d Qc] et a gagné (2040) avec double paire, Dames et Quatre
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 4 : ChanceMage s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238427941270 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 05/09/2022 10:44:09 CET [05/09/2022 4:44:09 ET]
+Table '3466623549 1' 4-max Siège #2 est au bouton.
+Place 1: rhai25 (4040 en jetons) 
+Place 2: 6stephy8 (6080 en jetons) 
+Place 3: psychoman59 (4890 en jetons) 
+Place 4: ChanceMage (4990 en jetons) 
+rhai25 : met l'ante. 10
+6stephy8 : met l'ante. 10
+psychoman59 : met l'ante. 10
+ChanceMage : met l'ante. 10
+psychoman59 : met la petite blind. 50
+ChanceMage : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 9s]
+rhai25 : suit. 100
+6stephy8 : suit. 100
+psychoman59 : passe. 
+ChanceMage : parole 
+*** FLOP *** [8h 9h 7s]
+ChanceMage : parole 
+rhai25 : parole 
+6stephy8 : parole 
+*** TOURNANT *** [8h 9h 7s] [4c]
+ChanceMage : parole 
+rhai25 : mise. 100
+6stephy8 : suit. 100
+ChanceMage : suit. 100
+*** RIVIÈRE *** [8h 9h 7s 4c] [Qh]
+ChanceMage : parole 
+rhai25 : parole 
+6stephy8 : parole 
+*** ABATTAGE ***
+ChanceMage : montre [Th Kh] (une couleur, hauteur Roi)
+rhai25 : cache la main perdante. 
+6stephy8 : cache la main perdante. 
+ChanceMage a remporté 690  lors du pot .
+*** SYNTHÈSE ***
+Pot total 690 | Commission 0 
+Tableau [8h 9h 7s 4c Qh]
+Siège 1 : rhai25 a caché la main perdante. [Jd 8d]
+Siège 2 : 6stephy8 (bouton) a caché la main perdante. [Ad 6c]
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : ChanceMage (grosse blind) a montré [Th Kh] et a gagné (690) avec une couleur, hauteur Roi
+
+
+
+Main PokerStars n°238427946695 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 05/09/2022 10:44:49 CET [05/09/2022 4:44:49 ET]
+Table '3466623549 1' 4-max Siège #3 est au bouton.
+Place 1: rhai25 (3830 en jetons) 
+Place 2: 6stephy8 (5870 en jetons) 
+Place 3: psychoman59 (4830 en jetons) 
+Place 4: ChanceMage (5470 en jetons) 
+rhai25 : met l'ante. 10
+6stephy8 : met l'ante. 10
+psychoman59 : met l'ante. 10
+ChanceMage : met l'ante. 10
+ChanceMage : met la petite blind. 50
+rhai25 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Qh]
+6stephy8 : passe. 
+psychoman59 : passe. 
+ChanceMage : suit. 50
+rhai25 : parole 
+*** FLOP *** [Ad 8h 2s]
+ChanceMage : parole 
+rhai25 : parole 
+*** TOURNANT *** [Ad 8h 2s] [9s]
+ChanceMage : mise. 100
+rhai25 : suit. 100
+*** RIVIÈRE *** [Ad 8h 2s 9s] [Ts]
+ChanceMage : parole 
+rhai25 : parole 
+*** ABATTAGE ***
+ChanceMage : montre [Ks 3c] (Hauteur As)
+rhai25 : montre [2d 6h] (une paire de Deux)
+rhai25 a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [Ad 8h 2s 9s Ts]
+Siège 1 : rhai25 (grosse blind) a montré [2d 6h] et a gagné (440) avec une paire de Deux
+Siège 2 : 6stephy8 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : ChanceMage (petite blind) a montré [Ks 3c] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°238427951965 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 05/09/2022 10:45:28 CET [05/09/2022 4:45:28 ET]
+Table '3466623549 1' 4-max Siège #4 est au bouton.
+Place 1: rhai25 (4060 en jetons) 
+Place 2: 6stephy8 (5860 en jetons) 
+Place 3: psychoman59 (4820 en jetons) 
+Place 4: ChanceMage (5260 en jetons) 
+rhai25 : met l'ante. 10
+6stephy8 : met l'ante. 10
+psychoman59 : met l'ante. 10
+ChanceMage : met l'ante. 10
+rhai25 : met la petite blind. 50
+6stephy8 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Jh]
+psychoman59 : relance. 100 à 200
+ChanceMage : passe. 
+rhai25 : suit. 150
+6stephy8 : passe. 
+*** FLOP *** [7c 6s 5c]
+rhai25 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7c 6s 5c] [6d]
+rhai25 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7c 6s 5c 6d] [Ad]
+rhai25 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+rhai25 : montre [2h Kh] (une paire de Six)
+psychoman59 : montre [Kd Jh] (une paire de Six - As+Roi+Valet kicker)
+psychoman59 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [7c 6s 5c 6d Ad]
+Siège 1 : rhai25 (petite blind) a montré [2h Kh] et a perdu avec une paire de Six
+Siège 2 : 6stephy8 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 a montré [Kd Jh] et a gagné (540) avec une paire de Six
+Siège 4 : ChanceMage (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238427957926 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 05/09/2022 10:46:11 CET [05/09/2022 4:46:11 ET]
+Table '3466623549 1' 4-max Siège #1 est au bouton.
+Place 1: rhai25 (3850 en jetons) 
+Place 2: 6stephy8 (5750 en jetons) 
+Place 3: psychoman59 (5150 en jetons) 
+Place 4: ChanceMage (5250 en jetons) 
+rhai25 : met l'ante. 10
+6stephy8 : met l'ante. 10
+psychoman59 : met l'ante. 10
+ChanceMage : met l'ante. 10
+6stephy8 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ks]
+ChanceMage : passe. 
+rhai25 : passe. 
+6stephy8 : relance. 100 à 200
+psychoman59 : suit. 100
+*** FLOP *** [Jh 4c 4s]
+6stephy8 : mise. 220
+psychoman59 : passe. 
+Personne n'a suivi. (220) sont retournés à 6stephy8.
+6stephy8 a remporté 440  lors du pot .
+6stephy8 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [Jh 4c 4s]
+Siège 1 : rhai25 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 6stephy8 (petite blind) a remporté (440)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 4 : ChanceMage s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238427962252 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 05/09/2022 10:46:43 CET [05/09/2022 4:46:43 ET]
+Table '3466623549 1' 4-max Siège #2 est au bouton.
+Place 1: rhai25 (3840 en jetons) 
+Place 2: 6stephy8 (5980 en jetons) 
+Place 3: psychoman59 (4940 en jetons) 
+Place 4: ChanceMage (5240 en jetons) 
+rhai25 : met l'ante. 15
+6stephy8 : met l'ante. 15
+psychoman59 : met l'ante. 15
+ChanceMage : met l'ante. 15
+psychoman59 : met la petite blind. 60
+ChanceMage : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Qs]
+rhai25 : passe. 
+6stephy8 : suit. 120
+psychoman59 : suit. 60
+ChanceMage : parole 
+*** FLOP *** [8h Th 7c]
+psychoman59 : parole 
+ChanceMage : mise. 210
+6stephy8 : suit. 210
+psychoman59 : passe. 
+*** TOURNANT *** [8h Th 7c] [8d]
+ChanceMage : mise. 360
+6stephy8 : passe. 
+Personne n'a suivi. (360) sont retournés à ChanceMage.
+ChanceMage a remporté 840  lors du pot .
+ChanceMage : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [8h Th 7c 8d]
+Siège 1 : rhai25 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 6stephy8 (bouton) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 4 : ChanceMage (grosse blind) a remporté (840)
+
+
+
+Main PokerStars n°238427967413 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 05/09/2022 10:47:22 CET [05/09/2022 4:47:22 ET]
+Table '3466623549 1' 4-max Siège #3 est au bouton.
+Place 1: rhai25 (3825 en jetons) 
+Place 2: 6stephy8 (5635 en jetons) 
+Place 3: psychoman59 (4805 en jetons) 
+Place 4: ChanceMage (5735 en jetons) 
+rhai25 : met l'ante. 15
+6stephy8 : met l'ante. 15
+psychoman59 : met l'ante. 15
+ChanceMage : met l'ante. 15
+ChanceMage : met la petite blind. 60
+rhai25 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 7h]
+6stephy8 : passe. 
+psychoman59 : passe. 
+ChanceMage : suit. 60
+rhai25 : parole 
+*** FLOP *** [Ah Ts Th]
+ChanceMage : mise. 120
+rhai25 : passe. 
+Personne n'a suivi. (120) sont retournés à ChanceMage.
+ChanceMage a remporté 300  lors du pot .
+ChanceMage : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Ah Ts Th]
+Siège 1 : rhai25 (grosse blind) s'est couché. sur le Flop
+Siège 2 : 6stephy8 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : ChanceMage (petite blind) a remporté (300)
+
+
+
+Main PokerStars n°238427970064 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 05/09/2022 10:47:41 CET [05/09/2022 4:47:41 ET]
+Table '3466623549 1' 4-max Siège #4 est au bouton.
+Place 1: rhai25 (3690 en jetons) 
+Place 2: 6stephy8 (5620 en jetons) 
+Place 3: psychoman59 (4790 en jetons) 
+Place 4: ChanceMage (5900 en jetons) 
+rhai25 : met l'ante. 15
+6stephy8 : met l'ante. 15
+psychoman59 : met l'ante. 15
+ChanceMage : met l'ante. 15
+rhai25 : met la petite blind. 60
+6stephy8 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 8s]
+psychoman59 : relance. 120 à 240
+ChanceMage : passe. 
+rhai25 : passe. 
+6stephy8 : suit. 120
+*** FLOP *** [6s 6c Qh]
+6stephy8 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6s 6c Qh] [4s]
+6stephy8 : parole 
+psychoman59 : mise. 120
+6stephy8 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 600  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [6s 6c Qh 4s]
+Siège 1 : rhai25 (petite blind) s'est couché. avant Flop
+Siège 2 : 6stephy8 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 a remporté (600)
+Siège 4 : ChanceMage (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238427974758 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 05/09/2022 10:48:15 CET [05/09/2022 4:48:15 ET]
+Table '3466623549 1' 4-max Siège #1 est au bouton.
+Place 1: rhai25 (3615 en jetons) 
+Place 2: 6stephy8 (5365 en jetons) 
+Place 3: psychoman59 (5135 en jetons) 
+Place 4: ChanceMage (5885 en jetons) 
+rhai25 : met l'ante. 15
+6stephy8 : met l'ante. 15
+psychoman59 : met l'ante. 15
+ChanceMage : met l'ante. 15
+6stephy8 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 2c]
+ChanceMage : passe. 
+rhai25 : passe. 
+6stephy8 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : rhai25 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 6stephy8 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (180)
+Siège 4 : ChanceMage s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238427976237 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 05/09/2022 10:48:26 CET [05/09/2022 4:48:26 ET]
+Table '3466623549 1' 4-max Siège #2 est au bouton.
+Place 1: rhai25 (3600 en jetons) 
+Place 2: 6stephy8 (5290 en jetons) 
+Place 3: psychoman59 (5240 en jetons) 
+Place 4: ChanceMage (5870 en jetons) 
+rhai25 : met l'ante. 15
+6stephy8 : met l'ante. 15
+psychoman59 : met l'ante. 15
+ChanceMage : met l'ante. 15
+psychoman59 : met la petite blind. 60
+ChanceMage : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 8d]
+rhai25 : relance. 240 à 360
+6stephy8 : passe. 
+psychoman59 : passe. 
+ChanceMage : relance. 5495 à 5855 et est all-in.
+rhai25 : suit. 3225 et est all-in.
+Personne n'a suivi. (2270) sont retournés à ChanceMage.
+*** FLOP *** [Qd 8c 4d]
+*** TOURNANT *** [Qd 8c 4d] [9d]
+*** RIVIÈRE *** [Qd 8c 4d 9d] [4h]
+*** ABATTAGE ***
+ChanceMage : montre [Kh Kc] (double paire, Rois et Quatre)
+rhai25 : montre [9s 9c] (un full, full aux Neuf par les Quatre)
+rhai25 a remporté 7290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 7290 | Commission 0 
+Tableau [Qd 8c 4d 9d 4h]
+Siège 1 : rhai25 a montré [9s 9c] et a gagné (7290) avec un full, full aux Neuf par les Quatre
+Siège 2 : 6stephy8 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : ChanceMage (grosse blind) a montré [Kh Kc] et a perdu avec double paire, Rois et Quatre
+
+
+
+Main PokerStars n°238427980774 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 05/09/2022 10:48:59 CET [05/09/2022 4:48:59 ET]
+Table '3466623549 1' 4-max Siège #3 est au bouton.
+Place 1: rhai25 (7290 en jetons) 
+Place 2: 6stephy8 (5275 en jetons) 
+Place 3: psychoman59 (5165 en jetons) 
+Place 4: ChanceMage (2270 en jetons) 
+rhai25 : met l'ante. 15
+6stephy8 : met l'ante. 15
+psychoman59 : met l'ante. 15
+ChanceMage : met l'ante. 15
+ChanceMage : met la petite blind. 60
+rhai25 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 5c]
+6stephy8 : passe. 
+psychoman59 : passe. 
+ChanceMage : suit. 60
+rhai25 : parole 
+*** FLOP *** [Ts Qh 3d]
+ChanceMage : parole 
+rhai25 : mise. 120
+ChanceMage : passe. 
+Personne n'a suivi. (120) sont retournés à rhai25.
+rhai25 a remporté 300  lors du pot .
+rhai25 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Ts Qh 3d]
+Siège 1 : rhai25 (grosse blind) a remporté (300)
+Siège 2 : 6stephy8 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : ChanceMage (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238427984044 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 05/09/2022 10:49:23 CET [05/09/2022 4:49:23 ET]
+Table '3466623549 1' 4-max Siège #4 est au bouton.
+Place 1: rhai25 (7455 en jetons) 
+Place 2: 6stephy8 (5260 en jetons) 
+Place 3: psychoman59 (5150 en jetons) 
+Place 4: ChanceMage (2135 en jetons) 
+rhai25 : met l'ante. 15
+6stephy8 : met l'ante. 15
+psychoman59 : met l'ante. 15
+ChanceMage : met l'ante. 15
+rhai25 : met la petite blind. 60
+6stephy8 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 9s]
+psychoman59 : passe. 
+ChanceMage : relance. 2000 à 2120 et est all-in.
+rhai25 : passe. 
+6stephy8 : passe. 
+Personne n'a suivi. (2000) sont retournés à ChanceMage.
+ChanceMage a remporté 360  lors du pot .
+ChanceMage : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : rhai25 (petite blind) s'est couché. avant Flop
+Siège 2 : 6stephy8 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : ChanceMage (bouton) a remporté (360)
+
+
+
+Main PokerStars n°238427986213 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 05/09/2022 10:49:39 CET [05/09/2022 4:49:39 ET]
+Table '3466623549 1' 4-max Siège #1 est au bouton.
+Place 1: rhai25 (7380 en jetons) 
+Place 2: 6stephy8 (5125 en jetons) 
+Place 3: psychoman59 (5135 en jetons) 
+Place 4: ChanceMage (2360 en jetons) 
+rhai25 : met l'ante. 20
+6stephy8 : met l'ante. 20
+psychoman59 : met l'ante. 20
+ChanceMage : met l'ante. 20
+6stephy8 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 3c]
+ChanceMage : passe. 
+rhai25 : relance. 150 à 300
+6stephy8 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à rhai25.
+rhai25 a remporté 455  lors du pot .
+rhai25 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 455 | Commission 0 
+Siège 1 : rhai25 (bouton) a remporté (455)
+Siège 2 : 6stephy8 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : ChanceMage s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238427988398 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 05/09/2022 10:49:55 CET [05/09/2022 4:49:55 ET]
+Table '3466623549 1' 4-max Siège #2 est au bouton.
+Place 1: rhai25 (7665 en jetons) 
+Place 2: 6stephy8 (5030 en jetons) 
+Place 3: psychoman59 (4965 en jetons) 
+Place 4: ChanceMage (2340 en jetons) 
+rhai25 : met l'ante. 20
+6stephy8 : met l'ante. 20
+psychoman59 : met l'ante. 20
+ChanceMage : met l'ante. 20
+psychoman59 : met la petite blind. 75
+ChanceMage : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 4d]
+rhai25 : suit. 150
+6stephy8 : relance. 300 à 450
+psychoman59 : passe. 
+ChanceMage : passe. 
+rhai25 : suit. 300
+*** FLOP *** [8d Ks Kh]
+rhai25 : parole 
+6stephy8 : mise. 150
+rhai25 : suit. 150
+*** TOURNANT *** [8d Ks Kh] [Qd]
+rhai25 : parole 
+6stephy8 : mise. 752
+rhai25 : passe. 
+Personne n'a suivi. (752) sont retournés à 6stephy8.
+6stephy8 a remporté 1505  lors du pot .
+6stephy8 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1505 | Commission 0 
+Tableau [8d Ks Kh Qd]
+Siège 1 : rhai25 s'est couché. sur le Tournant
+Siège 2 : 6stephy8 (bouton) a remporté (1505)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : ChanceMage (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238427993780 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 05/09/2022 10:50:34 CET [05/09/2022 4:50:34 ET]
+Table '3466623549 1' 4-max Siège #3 est au bouton.
+Place 1: rhai25 (7045 en jetons) 
+Place 2: 6stephy8 (5915 en jetons) 
+Place 3: psychoman59 (4870 en jetons) 
+Place 4: ChanceMage (2170 en jetons) 
+rhai25 : met l'ante. 20
+6stephy8 : met l'ante. 20
+psychoman59 : met l'ante. 20
+ChanceMage : met l'ante. 20
+ChanceMage : met la petite blind. 75
+rhai25 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 4s]
+6stephy8 : passe. 
+psychoman59 : passe. 
+ChanceMage : relance. 2000 à 2150 et est all-in.
+rhai25 : passe. 
+Personne n'a suivi. (2000) sont retournés à ChanceMage.
+ChanceMage a remporté 380  lors du pot .
+ChanceMage : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : rhai25 (grosse blind) s'est couché. avant Flop
+Siège 2 : 6stephy8 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : ChanceMage (petite blind) a remporté (380)
+
+
+
+Main PokerStars n°238427995941 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 05/09/2022 10:50:50 CET [05/09/2022 4:50:50 ET]
+Table '3466623549 1' 4-max Siège #4 est au bouton.
+Place 1: rhai25 (6875 en jetons) 
+Place 2: 6stephy8 (5895 en jetons) 
+Place 3: psychoman59 (4850 en jetons) 
+Place 4: ChanceMage (2380 en jetons) 
+rhai25 : met l'ante. 20
+6stephy8 : met l'ante. 20
+psychoman59 : met l'ante. 20
+ChanceMage : met l'ante. 20
+rhai25 : met la petite blind. 75
+6stephy8 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ks]
+psychoman59 : passe. 
+ChanceMage : relance. 2210 à 2360 et est all-in.
+rhai25 : passe. 
+6stephy8 : passe. 
+Personne n'a suivi. (2210) sont retournés à ChanceMage.
+ChanceMage a remporté 455  lors du pot .
+ChanceMage : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 455 | Commission 0 
+Siège 1 : rhai25 (petite blind) s'est couché. avant Flop
+Siège 2 : 6stephy8 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : ChanceMage (bouton) a remporté (455)
+
+
+
+Main PokerStars n°238427998174 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 05/09/2022 10:51:06 CET [05/09/2022 4:51:06 ET]
+Table '3466623549 1' 4-max Siège #1 est au bouton.
+Place 1: rhai25 (6780 en jetons) 
+Place 2: 6stephy8 (5725 en jetons) 
+Place 3: psychoman59 (4830 en jetons) 
+Place 4: ChanceMage (2665 en jetons) 
+rhai25 : met l'ante. 20
+6stephy8 : met l'ante. 20
+psychoman59 : met l'ante. 20
+ChanceMage : met l'ante. 20
+6stephy8 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 3s]
+ChanceMage : passe. 
+rhai25 : suit. 150
+6stephy8 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [Ad Ks Jh]
+6stephy8 : parole 
+psychoman59 : parole 
+rhai25 : parole 
+*** TOURNANT *** [Ad Ks Jh] [5s]
+6stephy8 : mise. 150
+psychoman59 : passe. 
+rhai25 : suit. 150
+*** RIVIÈRE *** [Ad Ks Jh 5s] [7d]
+6stephy8 : mise. 150
+rhai25 : passe. 
+Personne n'a suivi. (150) sont retournés à 6stephy8.
+6stephy8 a remporté 830  lors du pot .
+6stephy8 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 830 | Commission 0 
+Tableau [Ad Ks Jh 5s 7d]
+Siège 1 : rhai25 (bouton) s'est couché. sur le Rivière
+Siège 2 : 6stephy8 (petite blind) a remporté (830)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 4 : ChanceMage s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238428002803 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 05/09/2022 10:51:39 CET [05/09/2022 4:51:39 ET]
+Table '3466623549 1' 4-max Siège #2 est au bouton.
+Place 1: rhai25 (6460 en jetons) 
+Place 2: 6stephy8 (6235 en jetons) 
+Place 3: psychoman59 (4660 en jetons) 
+Place 4: ChanceMage (2645 en jetons) 
+rhai25 : met l'ante. 20
+6stephy8 : met l'ante. 20
+psychoman59 : met l'ante. 20
+ChanceMage : met l'ante. 20
+psychoman59 : met la petite blind. 75
+ChanceMage : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 8c]
+rhai25 : suit. 150
+6stephy8 : suit. 150
+psychoman59 : suit. 75
+ChanceMage : parole 
+*** FLOP *** [2h 2s 6h]
+psychoman59 : parole 
+ChanceMage : parole 
+rhai25 : parole 
+6stephy8 : parole 
+*** TOURNANT *** [2h 2s 6h] [9c]
+psychoman59 : parole 
+ChanceMage : parole 
+rhai25 : parole 
+6stephy8 : parole 
+*** RIVIÈRE *** [2h 2s 6h 9c] [Kh]
+psychoman59 : parole 
+ChanceMage : parole 
+rhai25 : parole 
+6stephy8 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Jc 8c] (une paire de Deux)
+ChanceMage : montre [Ah Tc] (une paire de Deux - As kicker)
+rhai25 : cache la main perdante. 
+6stephy8 : montre [Qh Ks] (double paire, Rois et Deux)
+6stephy8 a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [2h 2s 6h 9c Kh]
+Siège 1 : rhai25 a caché la main perdante. [4s As]
+Siège 2 : 6stephy8 (bouton) a montré [Qh Ks] et a gagné (680) avec double paire, Rois et Deux
+Siège 3 : psychoman59 (petite blind) a montré [Jc 8c] et a perdu avec une paire de Deux
+Siège 4 : ChanceMage (grosse blind) a montré [Ah Tc] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°238428011508 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 05/09/2022 10:52:42 CET [05/09/2022 4:52:42 ET]
+Table '3466623549 1' 4-max Siège #3 est au bouton.
+Place 1: rhai25 (6290 en jetons) 
+Place 2: 6stephy8 (6745 en jetons) 
+Place 3: psychoman59 (4490 en jetons) 
+Place 4: ChanceMage (2475 en jetons) 
+rhai25 : met l'ante. 25
+6stephy8 : met l'ante. 25
+psychoman59 : met l'ante. 25
+ChanceMage : met l'ante. 25
+ChanceMage : met la petite blind. 100
+rhai25 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Kc]
+6stephy8 : passe. 
+psychoman59 : relance. 200 à 400
+ChanceMage : relance. 2050 à 2450 et est all-in.
+rhai25 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (2050) sont retournés à ChanceMage.
+ChanceMage a remporté 1100  lors du pot .
+ChanceMage : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1100 | Commission 0 
+Siège 1 : rhai25 (grosse blind) s'est couché. avant Flop
+Siège 2 : 6stephy8 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 4 : ChanceMage (petite blind) a remporté (1100)
+
+
+
+Main PokerStars n°238428015043 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 05/09/2022 10:53:08 CET [05/09/2022 4:53:08 ET]
+Table '3466623549 1' 4-max Siège #4 est au bouton.
+Place 1: rhai25 (6065 en jetons) 
+Place 2: 6stephy8 (6720 en jetons) 
+Place 3: psychoman59 (4065 en jetons) 
+Place 4: ChanceMage (3150 en jetons) 
+rhai25 : met l'ante. 25
+6stephy8 : met l'ante. 25
+psychoman59 : met l'ante. 25
+ChanceMage : met l'ante. 25
+rhai25 : met la petite blind. 100
+6stephy8 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 7h]
+psychoman59 : passe. 
+ChanceMage : relance. 2925 à 3125 et est all-in.
+rhai25 : passe. 
+6stephy8 : passe. 
+Personne n'a suivi. (2925) sont retournés à ChanceMage.
+ChanceMage a remporté 600  lors du pot .
+ChanceMage : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Siège 1 : rhai25 (petite blind) s'est couché. avant Flop
+Siège 2 : 6stephy8 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : ChanceMage (bouton) a remporté (600)
+
+
+
+Main PokerStars n°238428017200 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 05/09/2022 10:53:23 CET [05/09/2022 4:53:23 ET]
+Table '3466623549 1' 4-max Siège #1 est au bouton.
+Place 1: rhai25 (5940 en jetons) 
+Place 2: 6stephy8 (6495 en jetons) 
+Place 3: psychoman59 (4040 en jetons) 
+Place 4: ChanceMage (3525 en jetons) 
+rhai25 : met l'ante. 25
+6stephy8 : met l'ante. 25
+psychoman59 : met l'ante. 25
+ChanceMage : met l'ante. 25
+6stephy8 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Jh]
+ChanceMage : passe. 
+rhai25 : suit. 200
+6stephy8 : suit. 100
+psychoman59 : relance. 3815 à 4015 et est all-in.
+rhai25 : passe. 
+6stephy8 : passe. 
+Personne n'a suivi. (3815) sont retournés à psychoman59.
+psychoman59 a remporté 700  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 700 | Commission 0 
+Siège 1 : rhai25 (bouton) s'est couché. avant Flop
+Siège 2 : 6stephy8 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (700)
+Siège 4 : ChanceMage s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238428019971 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 05/09/2022 10:53:43 CET [05/09/2022 4:53:43 ET]
+Table '3466623549 1' 4-max Siège #2 est au bouton.
+Place 1: rhai25 (5715 en jetons) 
+Place 2: 6stephy8 (6270 en jetons) 
+Place 3: psychoman59 (4515 en jetons) 
+Place 4: ChanceMage (3500 en jetons) 
+rhai25 : met l'ante. 25
+6stephy8 : met l'ante. 25
+psychoman59 : met l'ante. 25
+ChanceMage : met l'ante. 25
+psychoman59 : met la petite blind. 100
+ChanceMage : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8c]
+rhai25 : suit. 200
+6stephy8 : passe. 
+psychoman59 : passe. 
+ChanceMage : parole 
+*** FLOP *** [3d 5h 2c]
+ChanceMage : mise. 200
+rhai25 : passe. 
+Personne n'a suivi. (200) sont retournés à ChanceMage.
+ChanceMage a remporté 600  lors du pot .
+ChanceMage : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [3d 5h 2c]
+Siège 1 : rhai25 s'est couché. sur le Flop
+Siège 2 : 6stephy8 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : ChanceMage (grosse blind) a remporté (600)
+
+
+
+Main PokerStars n°238428023215 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 05/09/2022 10:54:07 CET [05/09/2022 4:54:07 ET]
+Table '3466623549 1' 4-max Siège #3 est au bouton.
+Place 1: rhai25 (5490 en jetons) 
+Place 2: 6stephy8 (6245 en jetons) 
+Place 3: psychoman59 (4390 en jetons) 
+Place 4: ChanceMage (3875 en jetons) 
+rhai25 : met l'ante. 25
+6stephy8 : met l'ante. 25
+psychoman59 : met l'ante. 25
+ChanceMage : met l'ante. 25
+ChanceMage : met la petite blind. 100
+rhai25 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Td]
+6stephy8 : passe. 
+psychoman59 : passe. 
+ChanceMage : suit. 100
+rhai25 : parole 
+*** FLOP *** [9c 2c Ad]
+ChanceMage : mise. 600
+rhai25 : passe. 
+Personne n'a suivi. (600) sont retournés à ChanceMage.
+ChanceMage a remporté 500  lors du pot .
+ChanceMage : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [9c 2c Ad]
+Siège 1 : rhai25 (grosse blind) s'est couché. sur le Flop
+Siège 2 : 6stephy8 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : ChanceMage (petite blind) a remporté (500)
+
+
+
+Main PokerStars n°238428027424 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 05/09/2022 10:54:37 CET [05/09/2022 4:54:37 ET]
+Table '3466623549 1' 4-max Siège #4 est au bouton.
+Place 1: rhai25 (5265 en jetons) 
+Place 2: 6stephy8 (6220 en jetons) 
+Place 3: psychoman59 (4365 en jetons) 
+Place 4: ChanceMage (4150 en jetons) 
+rhai25 : met l'ante. 25
+6stephy8 : met l'ante. 25
+psychoman59 : met l'ante. 25
+ChanceMage : met l'ante. 25
+rhai25 : met la petite blind. 100
+6stephy8 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 5h]
+psychoman59 : passe. 
+ChanceMage : passe. 
+rhai25 : passe. 
+Personne n'a suivi. (100) sont retournés à 6stephy8.
+6stephy8 a remporté 300  lors du pot .
+6stephy8 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Siège 1 : rhai25 (petite blind) s'est couché. avant Flop
+Siège 2 : 6stephy8 (grosse blind) a remporté (300)
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : ChanceMage (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238428029698 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 05/09/2022 10:54:55 CET [05/09/2022 4:54:55 ET]
+Table '3466623549 1' 4-max Siège #1 est au bouton.
+Place 1: rhai25 (5140 en jetons) 
+Place 2: 6stephy8 (6395 en jetons) 
+Place 3: psychoman59 (4340 en jetons) 
+Place 4: ChanceMage (4125 en jetons) 
+rhai25 : met l'ante. 25
+6stephy8 : met l'ante. 25
+psychoman59 : met l'ante. 25
+ChanceMage : met l'ante. 25
+6stephy8 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 5c]
+ChanceMage : relance. 3900 à 4100 et est all-in.
+rhai25 : passe. 
+6stephy8 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (3900) sont retournés à ChanceMage.
+ChanceMage a remporté 600  lors du pot .
+ChanceMage : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Siège 1 : rhai25 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 6stephy8 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : ChanceMage a remporté (600)
+
+
+
+Main PokerStars n°238428031810 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 05/09/2022 10:55:11 CET [05/09/2022 4:55:11 ET]
+Table '3466623549 1' 4-max Siège #2 est au bouton.
+Place 1: rhai25 (5115 en jetons) 
+Place 2: 6stephy8 (6270 en jetons) 
+Place 3: psychoman59 (4115 en jetons) 
+Place 4: ChanceMage (4500 en jetons) 
+rhai25 : met l'ante. 25
+6stephy8 : met l'ante. 25
+psychoman59 : met l'ante. 25
+ChanceMage : met l'ante. 25
+psychoman59 : met la petite blind. 100
+ChanceMage : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 7d]
+rhai25 : relance. 400 à 600
+6stephy8 : passe. 
+psychoman59 : passe. 
+ChanceMage : suit. 400
+*** FLOP *** [3c Ts Qc]
+ChanceMage : parole 
+rhai25 : parole 
+*** TOURNANT *** [3c Ts Qc] [4d]
+ChanceMage : parole 
+rhai25 : parole 
+*** RIVIÈRE *** [3c Ts Qc 4d] [9d]
+ChanceMage : mise. 3875 et est all-in.
+rhai25 : passe. 
+Personne n'a suivi. (3875) sont retournés à ChanceMage.
+ChanceMage a remporté 1400  lors du pot .
+ChanceMage : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1400 | Commission 0 
+Tableau [3c Ts Qc 4d 9d]
+Siège 1 : rhai25 s'est couché. sur le Rivière
+Siège 2 : 6stephy8 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : ChanceMage (grosse blind) a remporté (1400)
+
+
+
+Main PokerStars n°238428035890 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 05/09/2022 10:55:48 CET [05/09/2022 4:55:48 ET]
+Table '3466623549 1' 4-max Siège #3 est au bouton.
+Place 1: rhai25 (4490 en jetons) 
+Place 2: 6stephy8 (6245 en jetons) 
+Place 3: psychoman59 (3990 en jetons) 
+Place 4: ChanceMage (5275 en jetons) 
+rhai25 : met l'ante. 30
+6stephy8 : met l'ante. 30
+psychoman59 : met l'ante. 30
+ChanceMage : met l'ante. 30
+ChanceMage : met la petite blind. 125
+rhai25 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Qd]
+6stephy8 : passe. 
+psychoman59 : relance. 250 à 500
+ChanceMage : relance. 4745 à 5245 et est all-in.
+rhai25 : passe. 
+psychoman59 : suit. 3460 et est all-in.
+Personne n'a suivi. (1285) sont retournés à ChanceMage.
+*** FLOP *** [Kd As Jh]
+*** TOURNANT *** [Kd As Jh] [8s]
+*** RIVIÈRE *** [Kd As Jh 8s] [8c]
+*** ABATTAGE ***
+ChanceMage : montre [Kh Jd] (double paire, Rois et Valets)
+psychoman59 : montre [Th Qd] (une suite, Dix à As)
+psychoman59 a remporté 8290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 8290 | Commission 0 
+Tableau [Kd As Jh 8s 8c]
+Siège 1 : rhai25 (grosse blind) s'est couché. avant Flop
+Siège 2 : 6stephy8 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) a montré [Th Qd] et a gagné (8290) avec une suite, Dix à As
+Siège 4 : ChanceMage (petite blind) a montré [Kh Jd] et a perdu avec double paire, Rois et Valets
+
+
+
+Main PokerStars n°238428038350 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 05/09/2022 10:56:09 CET [05/09/2022 4:56:09 ET]
+Table '3466623549 1' 4-max Siège #4 est au bouton.
+Place 1: rhai25 (4210 en jetons) 
+Place 2: 6stephy8 (6215 en jetons) 
+Place 3: psychoman59 (8290 en jetons) 
+Place 4: ChanceMage (1285 en jetons) 
+rhai25 : met l'ante. 30
+6stephy8 : met l'ante. 30
+psychoman59 : met l'ante. 30
+ChanceMage : met l'ante. 30
+rhai25 : met la petite blind. 125
+6stephy8 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 2h]
+psychoman59 : passe. 
+ChanceMage : relance. 1005 à 1255 et est all-in.
+rhai25 : suit. 1130
+6stephy8 : suit. 1005
+*** FLOP *** [4h Jh 2s]
+rhai25 : parole 
+6stephy8 : parole 
+*** TOURNANT *** [4h Jh 2s] [5s]
+rhai25 : parole 
+6stephy8 : parole 
+*** RIVIÈRE *** [4h Jh 2s 5s] [Td]
+rhai25 : parole 
+6stephy8 : parole 
+*** ABATTAGE ***
+rhai25 : montre [7h Ac] (Hauteur As)
+6stephy8 : montre [Tc 9d] (une paire de Dix)
+ChanceMage : cache la main perdante. 
+6stephy8 a remporté 3885  lors du pot .
+ChanceMage a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 3885 | Commission 0 
+Tableau [4h Jh 2s 5s Td]
+Siège 1 : rhai25 (petite blind) a montré [7h Ac] et a perdu avec Hauteur As
+Siège 2 : 6stephy8 (grosse blind) a montré [Tc 9d] et a gagné (3885) avec une paire de Dix
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : ChanceMage (bouton) a caché la main perdante. [Qd As]
+
+
+
+Main PokerStars n°238428041627 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 05/09/2022 10:56:37 CET [05/09/2022 4:56:37 ET]
+Table '3466623549 1' 4-max Siège #1 est au bouton.
+Place 1: rhai25 (2925 en jetons) 
+Place 2: 6stephy8 (8815 en jetons) 
+Place 3: psychoman59 (8260 en jetons) 
+rhai25 : met l'ante. 30
+6stephy8 : met l'ante. 30
+psychoman59 : met l'ante. 30
+6stephy8 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ad]
+rhai25 : passe. 
+6stephy8 : passe. 
+Personne n'a suivi. (125) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : rhai25 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 6stephy8 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (340)
+
+
+
+Main PokerStars n°238428042715 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 05/09/2022 10:56:46 CET [05/09/2022 4:56:46 ET]
+Table '3466623549 1' 4-max Siège #2 est au bouton.
+Place 1: rhai25 (2895 en jetons) 
+Place 2: 6stephy8 (8660 en jetons) 
+Place 3: psychoman59 (8445 en jetons) 
+rhai25 : met l'ante. 30
+6stephy8 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+rhai25 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 6h]
+6stephy8 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à rhai25.
+rhai25 a remporté 340  lors du pot .
+rhai25 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : rhai25 (grosse blind) a remporté (340)
+Siège 2 : 6stephy8 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238428043675 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 05/09/2022 10:56:54 CET [05/09/2022 4:56:54 ET]
+Table '3466623549 1' 4-max Siège #3 est au bouton.
+Place 1: rhai25 (3080 en jetons) 
+Place 2: 6stephy8 (8630 en jetons) 
+Place 3: psychoman59 (8290 en jetons) 
+rhai25 : met l'ante. 30
+6stephy8 : met l'ante. 30
+psychoman59 : met l'ante. 30
+rhai25 : met la petite blind. 125
+6stephy8 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Qs]
+psychoman59 : relance. 715 à 965
+rhai25 : passe. 
+6stephy8 : passe. 
+Personne n'a suivi. (715) sont retournés à psychoman59.
+psychoman59 a remporté 715  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 715 | Commission 0 
+Siège 1 : rhai25 (petite blind) s'est couché. avant Flop
+Siège 2 : 6stephy8 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (715)
+
+
+
+Main PokerStars n°238428045138 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 05/09/2022 10:57:07 CET [05/09/2022 4:57:07 ET]
+Table '3466623549 1' 4-max Siège #1 est au bouton.
+Place 1: rhai25 (2925 en jetons) 
+Place 2: 6stephy8 (8350 en jetons) 
+Place 3: psychoman59 (8725 en jetons) 
+rhai25 : met l'ante. 30
+6stephy8 : met l'ante. 30
+psychoman59 : met l'ante. 30
+6stephy8 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 5h]
+rhai25 : passe. 
+6stephy8 : passe. 
+Personne n'a suivi. (125) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : rhai25 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 6stephy8 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (340)
+
+
+
+Main PokerStars n°238428046017 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 05/09/2022 10:57:14 CET [05/09/2022 4:57:14 ET]
+Table '3466623549 1' 4-max Siège #2 est au bouton.
+Place 1: rhai25 (2895 en jetons) 
+Place 2: 6stephy8 (8195 en jetons) 
+Place 3: psychoman59 (8910 en jetons) 
+rhai25 : met l'ante. 30
+6stephy8 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+rhai25 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 6s]
+6stephy8 : relance. 250 à 500
+psychoman59 : passe. 
+rhai25 : relance. 2365 à 2865 et est all-in.
+6stephy8 : suit. 2365
+*** FLOP *** [7d Qd Qc]
+*** TOURNANT *** [7d Qd Qc] [8c]
+*** RIVIÈRE *** [7d Qd Qc 8c] [Th]
+*** ABATTAGE ***
+rhai25 : montre [Ks Ah] (une paire de Dames)
+6stephy8 : montre [Qh Ts] (un full, full aux Dames par les Dix)
+6stephy8 a remporté 5945  lors du pot .
+rhai25 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 5945 | Commission 0 
+Tableau [7d Qd Qc 8c Th]
+Siège 1 : rhai25 (grosse blind) a montré [Ks Ah] et a perdu avec une paire de Dames
+Siège 2 : 6stephy8 (bouton) a montré [Qh Ts] et a gagné (5945) avec un full, full aux Dames par les Dix
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238428048713 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 05/09/2022 10:57:37 CET [05/09/2022 4:57:37 ET]
+Table '3466623549 1' 4-max Siège #3 est au bouton.
+Place 2: 6stephy8 (11245 en jetons) 
+Place 3: psychoman59 (8755 en jetons) 
+6stephy8 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+6stephy8 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Kh]
+psychoman59 : suit. 125
+6stephy8 : relance. 250 à 500
+psychoman59 : suit. 250
+*** FLOP *** [Qc 3h 6d]
+6stephy8 : mise. 530
+psychoman59 : passe. 
+Personne n'a suivi. (530) sont retournés à 6stephy8.
+6stephy8 a remporté 1060  lors du pot .
+6stephy8 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1060 | Commission 0 
+Tableau [Qc 3h 6d]
+Siège 2 : 6stephy8 (grosse blind) a remporté (1060)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238428050911 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 05/09/2022 10:57:55 CET [05/09/2022 4:57:55 ET]
+Table '3466623549 1' 4-max Siège #2 est au bouton.
+Place 2: 6stephy8 (11775 en jetons) 
+Place 3: psychoman59 (8225 en jetons) 
+6stephy8 : met l'ante. 30
+psychoman59 : met l'ante. 30
+6stephy8 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 2c]
+6stephy8 : passe. 
+Personne n'a suivi. (125) sont retournés à psychoman59.
+psychoman59 a remporté 310  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 2 : 6stephy8 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (310)
+
+
+
+Main PokerStars n°238428051860 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 05/09/2022 10:58:04 CET [05/09/2022 4:58:04 ET]
+Table '3466623549 1' 4-max Siège #3 est au bouton.
+Place 2: 6stephy8 (11620 en jetons) 
+Place 3: psychoman59 (8380 en jetons) 
+6stephy8 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+6stephy8 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à 6stephy8.
+6stephy8 a remporté 310  lors du pot .
+6stephy8 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 2 : 6stephy8 (grosse blind) a remporté (310)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238428052653 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 05/09/2022 10:58:10 CET [05/09/2022 4:58:10 ET]
+Table '3466623549 1' 4-max Siège #2 est au bouton.
+Place 2: 6stephy8 (11775 en jetons) 
+Place 3: psychoman59 (8225 en jetons) 
+6stephy8 : met l'ante. 30
+psychoman59 : met l'ante. 30
+6stephy8 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Ks]
+6stephy8 : passe. 
+Personne n'a suivi. (125) sont retournés à psychoman59.
+psychoman59 a remporté 310  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 2 : 6stephy8 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (310)
+
+
+
+Main PokerStars n°238428053564 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 05/09/2022 10:58:18 CET [05/09/2022 4:58:18 ET]
+Table '3466623549 1' 4-max Siège #3 est au bouton.
+Place 2: 6stephy8 (11620 en jetons) 
+Place 3: psychoman59 (8380 en jetons) 
+6stephy8 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+6stephy8 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 8h]
+psychoman59 : suit. 125
+6stephy8 : parole 
+*** FLOP *** [Jd 8c Td]
+6stephy8 : parole 
+psychoman59 : mise. 560
+6stephy8 : suit. 560
+*** TOURNANT *** [Jd 8c Td] [4h]
+6stephy8 : parole 
+psychoman59 : mise. 840
+6stephy8 : suit. 840
+*** RIVIÈRE *** [Jd 8c Td 4h] [7c]
+6stephy8 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+6stephy8 : montre [7h 8d] (double paire, Huit et Sept)
+psychoman59 : montre [Th 8h] (double paire, Dix et Huit)
+psychoman59 a remporté 3360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3360 | Commission 0 
+Tableau [Jd 8c Td 4h 7c]
+Siège 2 : 6stephy8 (grosse blind) a montré [7h 8d] et a perdu avec double paire, Huit et Sept
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Th 8h] et a gagné (3360) avec double paire, Dix et Huit
+
+
+
+Main PokerStars n°238428057284 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 05/09/2022 10:58:50 CET [05/09/2022 4:58:50 ET]
+Table '3466623549 1' 4-max Siège #2 est au bouton.
+Place 2: 6stephy8 (9940 en jetons) 
+Place 3: psychoman59 (10060 en jetons) 
+6stephy8 : met l'ante. 40
+psychoman59 : met l'ante. 40
+6stephy8 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ac]
+6stephy8 : suit. 150
+psychoman59 : relance. 9720 à 10020 et est all-in.
+6stephy8 : passe. 
+Personne n'a suivi. (9720) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 2 : 6stephy8 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (680)
+
+
+
+Main PokerStars n°238428058791 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 05/09/2022 10:59:03 CET [05/09/2022 4:59:03 ET]
+Table '3466623549 1' 4-max Siège #3 est au bouton.
+Place 2: 6stephy8 (9600 en jetons) 
+Place 3: psychoman59 (10400 en jetons) 
+6stephy8 : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+6stephy8 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Td]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à 6stephy8.
+6stephy8 a remporté 380  lors du pot .
+6stephy8 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 2 : 6stephy8 (grosse blind) a remporté (380)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238428059675 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 05/09/2022 10:59:11 CET [05/09/2022 4:59:11 ET]
+Table '3466623549 1' 4-max Siège #2 est au bouton.
+Place 2: 6stephy8 (9790 en jetons) 
+Place 3: psychoman59 (10210 en jetons) 
+6stephy8 : met l'ante. 40
+psychoman59 : met l'ante. 40
+6stephy8 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 8c]
+6stephy8 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 380  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 2 : 6stephy8 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°238428060566 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 05/09/2022 10:59:18 CET [05/09/2022 4:59:18 ET]
+Table '3466623549 1' 4-max Siège #3 est au bouton.
+Place 2: 6stephy8 (9600 en jetons) 
+Place 3: psychoman59 (10400 en jetons) 
+6stephy8 : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+6stephy8 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 9s]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à 6stephy8.
+6stephy8 a remporté 380  lors du pot .
+6stephy8 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 2 : 6stephy8 (grosse blind) a remporté (380)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238428061377 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 05/09/2022 10:59:25 CET [05/09/2022 4:59:25 ET]
+Table '3466623549 1' 4-max Siège #2 est au bouton.
+Place 2: 6stephy8 (9790 en jetons) 
+Place 3: psychoman59 (10210 en jetons) 
+6stephy8 : met l'ante. 40
+psychoman59 : met l'ante. 40
+6stephy8 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 4s]
+6stephy8 : suit. 150
+psychoman59 : parole 
+*** FLOP *** [7d 5h Js]
+psychoman59 : parole 
+6stephy8 : mise. 300
+psychoman59 : suit. 300
+*** TOURNANT *** [7d 5h Js] [3h]
+psychoman59 : parole 
+6stephy8 : parole 
+*** RIVIÈRE *** [7d 5h Js 3h] [9h]
+psychoman59 : mise. 640
+6stephy8 : passe. 
+Personne n'a suivi. (640) sont retournés à psychoman59.
+psychoman59 a remporté 1280  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1280 | Commission 0 
+Tableau [7d 5h Js 3h 9h]
+Siège 2 : 6stephy8 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (1280)
+
+
+
+Main PokerStars n°238428064563 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 05/09/2022 10:59:52 CET [05/09/2022 4:59:52 ET]
+Table '3466623549 1' 4-max Siège #3 est au bouton.
+Place 2: 6stephy8 (9150 en jetons) 
+Place 3: psychoman59 (10850 en jetons) 
+6stephy8 : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+6stephy8 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à 6stephy8.
+6stephy8 a remporté 380  lors du pot .
+6stephy8 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 2 : 6stephy8 (grosse blind) a remporté (380)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238428065614 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 05/09/2022 11:00:01 CET [05/09/2022 5:00:01 ET]
+Table '3466623549 1' 4-max Siège #2 est au bouton.
+Place 2: 6stephy8 (9340 en jetons) 
+Place 3: psychoman59 (10660 en jetons) 
+6stephy8 : met l'ante. 40
+psychoman59 : met l'ante. 40
+6stephy8 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Qh]
+6stephy8 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 380  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 2 : 6stephy8 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°238428066551 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 05/09/2022 11:00:09 CET [05/09/2022 5:00:09 ET]
+Table '3466623549 1' 4-max Siège #3 est au bouton.
+Place 2: 6stephy8 (9150 en jetons) 
+Place 3: psychoman59 (10850 en jetons) 
+6stephy8 : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+6stephy8 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Td]
+psychoman59 : relance. 300 à 600
+6stephy8 : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 2 : 6stephy8 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (680)
+
+
+
+Main PokerStars n°238428067694 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 05/09/2022 11:00:19 CET [05/09/2022 5:00:19 ET]
+Table '3466623549 1' 4-max Siège #2 est au bouton.
+Place 2: 6stephy8 (8810 en jetons) 
+Place 3: psychoman59 (11190 en jetons) 
+6stephy8 : met l'ante. 40
+psychoman59 : met l'ante. 40
+6stephy8 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 9h]
+6stephy8 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 380  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 2 : 6stephy8 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°238428068628 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 05/09/2022 11:00:27 CET [05/09/2022 5:00:27 ET]
+Table '3466623549 1' 4-max Siège #3 est au bouton.
+Place 2: 6stephy8 (8620 en jetons) 
+Place 3: psychoman59 (11380 en jetons) 
+6stephy8 : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+6stephy8 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 9s]
+psychoman59 : suit. 150
+6stephy8 : parole 
+*** FLOP *** [7c 6s 2s]
+6stephy8 : mise. 300
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à 6stephy8.
+6stephy8 a remporté 680  lors du pot .
+6stephy8 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [7c 6s 2s]
+Siège 2 : 6stephy8 (grosse blind) a remporté (680)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238428071126 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 05/09/2022 11:00:46 CET [05/09/2022 5:00:46 ET]
+Table '3466623549 1' 4-max Siège #2 est au bouton.
+Place 2: 6stephy8 (8960 en jetons) 
+Place 3: psychoman59 (11040 en jetons) 
+6stephy8 : met l'ante. 40
+psychoman59 : met l'ante. 40
+6stephy8 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Kh]
+6stephy8 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 380  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 2 : 6stephy8 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°238428072284 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 05/09/2022 11:00:55 CET [05/09/2022 5:00:55 ET]
+Table '3466623549 1' 4-max Siège #3 est au bouton.
+Place 2: 6stephy8 (8770 en jetons) 
+Place 3: psychoman59 (11230 en jetons) 
+6stephy8 : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+6stephy8 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à 6stephy8.
+6stephy8 a remporté 380  lors du pot .
+6stephy8 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 2 : 6stephy8 (grosse blind) a remporté (380)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238428073512 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 05/09/2022 11:01:04 CET [05/09/2022 5:01:04 ET]
+Table '3466623549 1' 4-max Siège #2 est au bouton.
+Place 2: 6stephy8 (8960 en jetons) 
+Place 3: psychoman59 (11040 en jetons) 
+6stephy8 : met l'ante. 40
+psychoman59 : met l'ante. 40
+6stephy8 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Qd]
+6stephy8 : relance. 300 à 600
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à 6stephy8.
+6stephy8 a remporté 680  lors du pot .
+6stephy8 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 2 : 6stephy8 (bouton) (petite blind) a remporté (680)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238428074994 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 05/09/2022 11:01:15 CET [05/09/2022 5:01:15 ET]
+Table '3466623549 1' 4-max Siège #3 est au bouton.
+Place 2: 6stephy8 (9300 en jetons) 
+Place 3: psychoman59 (10700 en jetons) 
+6stephy8 : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+6stephy8 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 4d]
+psychoman59 : relance. 300 à 600
+6stephy8 : suit. 300
+*** FLOP *** [Jc 5c 6d]
+6stephy8 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jc 5c 6d] [4c]
+6stephy8 : mise. 640
+psychoman59 : suit. 640
+*** RIVIÈRE *** [Jc 5c 6d 4c] [5s]
+6stephy8 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+6stephy8 : montre [9c 7d] (une paire de Cinq)
+psychoman59 : montre [Ad 4d] (double paire, Cinq et Quatre)
+psychoman59 a remporté 2560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2560 | Commission 0 
+Tableau [Jc 5c 6d 4c 5s]
+Siège 2 : 6stephy8 (grosse blind) a montré [9c 7d] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ad 4d] et a gagné (2560) avec double paire, Cinq et Quatre
+
+
+
+Main PokerStars n°238428079967 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 05/09/2022 11:01:52 CET [05/09/2022 5:01:52 ET]
+Table '3466623549 1' 4-max Siège #2 est au bouton.
+Place 2: 6stephy8 (8020 en jetons) 
+Place 3: psychoman59 (11980 en jetons) 
+6stephy8 : met l'ante. 50
+psychoman59 : met l'ante. 50
+6stephy8 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 2h]
+6stephy8 : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 500  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 2 : 6stephy8 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (500)
+
+
+
+Main PokerStars n°238428081029 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 05/09/2022 11:02:00 CET [05/09/2022 5:02:00 ET]
+Table '3466623549 1' 4-max Siège #3 est au bouton.
+Place 2: 6stephy8 (7770 en jetons) 
+Place 3: psychoman59 (12230 en jetons) 
+6stephy8 : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+6stephy8 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ts]
+psychoman59 : suit. 200
+6stephy8 : relance. 7320 à 7720 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (7320) sont retournés à 6stephy8.
+6stephy8 a remporté 900  lors du pot .
+6stephy8 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 2 : 6stephy8 (grosse blind) a remporté (900)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238428083151 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 05/09/2022 11:02:16 CET [05/09/2022 5:02:16 ET]
+Table '3466623549 1' 4-max Siège #2 est au bouton.
+Place 2: 6stephy8 (8220 en jetons) 
+Place 3: psychoman59 (11780 en jetons) 
+6stephy8 : met l'ante. 50
+psychoman59 : met l'ante. 50
+6stephy8 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 4d]
+6stephy8 : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 500  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 2 : 6stephy8 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (500)
+
+
+
+Main PokerStars n°238428084252 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 05/09/2022 11:02:24 CET [05/09/2022 5:02:24 ET]
+Table '3466623549 1' 4-max Siège #3 est au bouton.
+Place 2: 6stephy8 (7970 en jetons) 
+Place 3: psychoman59 (12030 en jetons) 
+6stephy8 : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+6stephy8 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à 6stephy8.
+6stephy8 a remporté 500  lors du pot .
+6stephy8 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 2 : 6stephy8 (grosse blind) a remporté (500)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238428085211 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 05/09/2022 11:02:31 CET [05/09/2022 5:02:31 ET]
+Table '3466623549 1' 4-max Siège #2 est au bouton.
+Place 2: 6stephy8 (8220 en jetons) 
+Place 3: psychoman59 (11780 en jetons) 
+6stephy8 : met l'ante. 50
+psychoman59 : met l'ante. 50
+6stephy8 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Kh]
+6stephy8 : relance. 400 à 800
+psychoman59 : relance. 10930 à 11730 et est all-in.
+6stephy8 : suit. 7370 et est all-in.
+Personne n'a suivi. (3560) sont retournés à psychoman59.
+*** FLOP *** [3s 4s 5d]
+*** TOURNANT *** [3s 4s 5d] [6c]
+*** RIVIÈRE *** [3s 4s 5d 6c] [9h]
+*** ABATTAGE ***
+psychoman59 : montre [Ac Kh] (Hauteur As)
+6stephy8 : montre [As 2c] (une suite, Deux à Six)
+6stephy8 a remporté 16440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 16440 | Commission 0 
+Tableau [3s 4s 5d 6c 9h]
+Siège 2 : 6stephy8 (bouton) (petite blind) a montré [As 2c] et a gagné (16440) avec une suite, Deux à Six
+Siège 3 : psychoman59 (grosse blind) a montré [Ac Kh] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°238428087840 : Tournoi #3466623549, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VII (200/400) - 05/09/2022 11:02:50 CET [05/09/2022 5:02:50 ET]
+Table '3466623549 1' 4-max Siège #3 est au bouton.
+Place 2: 6stephy8 (16440 en jetons) 
+Place 3: psychoman59 (3560 en jetons) 
+6stephy8 : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+6stephy8 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Qh]
+psychoman59 : relance. 3110 à 3510 et est all-in.
+6stephy8 : suit. 3110
+*** FLOP *** [Kc 4h 5c]
+*** TOURNANT *** [Kc 4h 5c] [9d]
+*** RIVIÈRE *** [Kc 4h 5c 9d] [8s]
+*** ABATTAGE ***
+6stephy8 : montre [As 4s] (une paire de Quatre)
+psychoman59 : montre [Js Qh] (Hauteur Roi)
+6stephy8 a remporté 7120  lors du pot .
+psychoman59 a fini le tournoi à la 2e place et a reçu 0.52 €.
+6stephy8 gagne le tournoi - félicitations !
+6stephy8 gagne les frais d'entrée pour le tournoi #3450746458
+*** SYNTHÈSE ***
+Pot total 7120 | Commission 0 
+Tableau [Kc 4h 5c 9d 8s]
+Siège 2 : 6stephy8 (grosse blind) a montré [As 4s] et a gagné (7120) avec une paire de Quatre
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Js Qh] et a perdu avec Hauteur Roi
+
+
+

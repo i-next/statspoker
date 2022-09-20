@@ -1,0 +1,363 @@
+﻿Main PokerStars n°236752610650 : Tournoi #3426087255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/06/2022 10:32:07 CET [14/06/2022 4:32:07 ET]
+Table '3426087255 1' 3-max Siège #1 est au bouton.
+Place 1: EwJaOu (300 en jetons) 
+Place 2: hishh1 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+hishh1 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 2h]
+EwJaOu : passe. 
+hishh1 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2d 5d Tc]
+hishh1 a dépassé le temps imparti.
+hishh1 : parole 
+psychoman59 : mise. 40
+hishh1 : suit. 40
+*** TOURNANT *** [2d 5d Tc] [3c]
+hishh1 a dépassé le temps imparti.
+hishh1 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [2d 5d Tc 3c] [5s]
+hishh1 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+hishh1 : montre [4h Kh] (une paire de Cinq)
+psychoman59 : montre [6h 2h] (double paire, Cinq et Deux)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2d 5d Tc 3c 5s]
+Siège 1 : EwJaOu (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : hishh1 (petite blind) a montré [4h Kh] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (grosse blind) a montré [6h 2h] et a gagné (120) avec double paire, Cinq et Deux
+
+
+
+Main PokerStars n°236752621674 : Tournoi #3426087255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 14/06/2022 10:33:39 CET [14/06/2022 4:33:39 ET]
+Table '3426087255 1' 3-max Siège #2 est au bouton.
+Place 1: EwJaOu (300 en jetons) 
+Place 2: hishh1 (240 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+psychoman59 : met la petite blind. 15
+EwJaOu : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 2c]
+hishh1 : suit. 30
+psychoman59 : suit. 15
+EwJaOu : relance. 270 à 300 et est all-in.
+hishh1 : suit. 210 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à EwJaOu.
+*** FLOP *** [Jh 3d 9c]
+*** TOURNANT *** [Jh 3d 9c] [3s]
+*** RIVIÈRE *** [Jh 3d 9c 3s] [Tc]
+*** ABATTAGE ***
+EwJaOu : montre [Ad 8d] (une paire de Trois)
+hishh1 : montre [Kd 6h] (une paire de Trois - plus basse kicker)
+EwJaOu a remporté 510  lors du pot .
+*** SYNTHÈSE ***
+Pot total 510 | Commission 0 
+Tableau [Jh 3d 9c 3s Tc]
+Siège 1 : EwJaOu (grosse blind) a montré [Ad 8d] et a gagné (510) avec une paire de Trois
+Siège 2 : hishh1 (bouton) a montré [Kd 6h] et a perdu avec une paire de Trois
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236752625799 : Tournoi #3426087255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 14/06/2022 10:34:13 CET [14/06/2022 4:34:13 ET]
+Table '3426087255 1' 3-max Siège #1 est au bouton.
+Place 1: EwJaOu (570 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+EwJaOu : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Jh]
+EwJaOu : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : EwJaOu (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°236752626338 : Tournoi #3426087255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 14/06/2022 10:34:17 CET [14/06/2022 4:34:17 ET]
+Table '3426087255 1' 3-max Siège #3 est au bouton.
+Place 1: EwJaOu (550 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 20
+EwJaOu : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Jc]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à EwJaOu.
+EwJaOu a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : EwJaOu (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236752626947 : Tournoi #3426087255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 14/06/2022 10:34:22 CET [14/06/2022 4:34:22 ET]
+Table '3426087255 1' 3-max Siège #1 est au bouton.
+Place 1: EwJaOu (570 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+EwJaOu : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 8s]
+EwJaOu : suit. 20
+psychoman59 : parole 
+*** FLOP *** [8c 2d Jd]
+psychoman59 : parole 
+EwJaOu : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à EwJaOu.
+EwJaOu a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8c 2d Jd]
+Siège 1 : EwJaOu (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°236752628728 : Tournoi #3426087255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 14/06/2022 10:34:37 CET [14/06/2022 4:34:37 ET]
+Table '3426087255 1' 3-max Siège #3 est au bouton.
+Place 1: EwJaOu (610 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+psychoman59 : met la petite blind. 20
+EwJaOu : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 5h]
+psychoman59 : relance. 250 à 290 et est all-in.
+EwJaOu : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : EwJaOu (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°236752629602 : Tournoi #3426087255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 14/06/2022 10:34:44 CET [14/06/2022 4:34:44 ET]
+Table '3426087255 1' 3-max Siège #1 est au bouton.
+Place 1: EwJaOu (570 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+EwJaOu : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Qs]
+EwJaOu : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : EwJaOu (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°236752630076 : Tournoi #3426087255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 14/06/2022 10:34:48 CET [14/06/2022 4:34:48 ET]
+Table '3426087255 1' 3-max Siège #3 est au bouton.
+Place 1: EwJaOu (550 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 20
+EwJaOu : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à EwJaOu.
+EwJaOu a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : EwJaOu (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236752631001 : Tournoi #3426087255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 14/06/2022 10:34:55 CET [14/06/2022 4:34:55 ET]
+Table '3426087255 1' 3-max Siège #1 est au bouton.
+Place 1: EwJaOu (570 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+EwJaOu : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Qs]
+EwJaOu : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : EwJaOu (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°236752631631 : Tournoi #3426087255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 14/06/2022 10:35:00 CET [14/06/2022 4:35:00 ET]
+Table '3426087255 1' 3-max Siège #3 est au bouton.
+Place 1: EwJaOu (550 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 20
+EwJaOu : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 9h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à EwJaOu.
+EwJaOu a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : EwJaOu (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236752632645 : Tournoi #3426087255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 14/06/2022 10:35:08 CET [14/06/2022 4:35:08 ET]
+Table '3426087255 1' 3-max Siège #1 est au bouton.
+Place 1: EwJaOu (570 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+EwJaOu : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Th]
+EwJaOu : suit. 20
+psychoman59 : relance. 290 à 330 et est all-in.
+EwJaOu : passe. 
+Personne n'a suivi. (290) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : EwJaOu (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°236752634396 : Tournoi #3426087255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/06/2022 10:35:23 CET [14/06/2022 4:35:23 ET]
+Table '3426087255 1' 3-max Siège #3 est au bouton.
+Place 1: EwJaOu (530 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+psychoman59 : met la petite blind. 30
+EwJaOu : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ts]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à EwJaOu.
+EwJaOu a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : EwJaOu (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236752635579 : Tournoi #3426087255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/06/2022 10:35:34 CET [14/06/2022 4:35:34 ET]
+Table '3426087255 1' 3-max Siège #1 est au bouton.
+Place 1: EwJaOu (560 en jetons) 
+Place 3: psychoman59 (340 en jetons) 
+EwJaOu : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 5d]
+EwJaOu : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : EwJaOu (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°236752636182 : Tournoi #3426087255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/06/2022 10:35:38 CET [14/06/2022 4:35:38 ET]
+Table '3426087255 1' 3-max Siège #3 est au bouton.
+Place 1: EwJaOu (530 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+psychoman59 : met la petite blind. 30
+EwJaOu : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à EwJaOu.
+EwJaOu a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : EwJaOu (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236752636721 : Tournoi #3426087255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/06/2022 10:35:43 CET [14/06/2022 4:35:43 ET]
+Table '3426087255 1' 3-max Siège #1 est au bouton.
+Place 1: EwJaOu (560 en jetons) 
+Place 3: psychoman59 (340 en jetons) 
+EwJaOu : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Tc]
+EwJaOu : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : EwJaOu (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°236752637346 : Tournoi #3426087255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/06/2022 10:35:48 CET [14/06/2022 4:35:48 ET]
+Table '3426087255 1' 3-max Siège #3 est au bouton.
+Place 1: EwJaOu (530 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+psychoman59 : met la petite blind. 30
+EwJaOu : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Js]
+psychoman59 : suit. 30
+EwJaOu : relance. 470 à 530 et est all-in.
+psychoman59 : suit. 310 et est all-in.
+Personne n'a suivi. (160) sont retournés à EwJaOu.
+*** FLOP *** [Qh Kh 6s]
+*** TOURNANT *** [Qh Kh 6s] [Ah]
+*** RIVIÈRE *** [Qh Kh 6s Ah] [9h]
+*** ABATTAGE ***
+EwJaOu : montre [7d Ac] (une paire de As)
+psychoman59 : montre [Th Js] (une couleur, hauteur As)
+psychoman59 a remporté 740  lors du pot .
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Tableau [Qh Kh 6s Ah 9h]
+Siège 1 : EwJaOu (grosse blind) a montré [7d Ac] et a perdu avec une paire de As
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Th Js] et a gagné (740) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°236752639576 : Tournoi #3426087255, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/06/2022 10:36:06 CET [14/06/2022 4:36:06 ET]
+Table '3426087255 1' 3-max Siège #1 est au bouton.
+Place 1: EwJaOu (160 en jetons) 
+Place 3: psychoman59 (740 en jetons) 
+EwJaOu : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 2h]
+EwJaOu : relance. 100 à 160 et est all-in.
+psychoman59 : suit. 100
+*** FLOP *** [2d As Kc]
+*** TOURNANT *** [2d As Kc] [5d]
+*** RIVIÈRE *** [2d As Kc 5d] [Kd]
+*** ABATTAGE ***
+psychoman59 : montre [Qd 2h] (double paire, Rois et Deux)
+EwJaOu : montre [Js 9c] (une paire de Rois)
+psychoman59 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [2d As Kc 5d Kd]
+Siège 1 : EwJaOu (bouton) (petite blind) a montré [Js 9c] et a perdu avec une paire de Rois
+Siège 3 : psychoman59 (grosse blind) a montré [Qd 2h] et a gagné (320) avec double paire, Rois et Deux
+
+
+

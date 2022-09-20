@@ -1,0 +1,121 @@
+﻿Main PokerStars n°237548824605 : Tournoi #3445875696, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/07/2022 7:34:38 CET [24/07/2022 1:34:38 ET]
+Table '3445875696 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: bulbiced (300 en jetons) 
+Place 3: Litzdit (300 en jetons) 
+bulbiced : met la petite blind. 10
+Litzdit : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Kd]
+psychoman59 : passe. 
+bulbiced : suit. 10
+Litzdit : parole 
+*** FLOP *** [6h 9c 2d]
+bulbiced : parole 
+Litzdit : mise. 40
+bulbiced : suit. 40
+*** TOURNANT *** [6h 9c 2d] [9h]
+bulbiced : parole 
+Litzdit : mise. 240 et est all-in.
+bulbiced : passe. 
+Personne n'a suivi. (240) sont retournés à Litzdit.
+Litzdit a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6h 9c 2d 9h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : bulbiced (petite blind) s'est couché. sur le Tournant
+Siège 3 : Litzdit (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°237548827430 : Tournoi #3445875696, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/07/2022 7:35:03 CET [24/07/2022 1:35:03 ET]
+Table '3445875696 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: bulbiced (240 en jetons) 
+Place 3: Litzdit (360 en jetons) 
+Litzdit : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 2d]
+bulbiced : passe. 
+Litzdit : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8d Td 9c]
+Litzdit : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Litzdit.
+Litzdit a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [8d Td 9c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : bulbiced (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Litzdit (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°237548829483 : Tournoi #3445875696, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/07/2022 7:35:21 CET [24/07/2022 1:35:21 ET]
+Table '3445875696 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: bulbiced (240 en jetons) 
+Place 3: Litzdit (380 en jetons) 
+psychoman59 : met la petite blind. 10
+bulbiced : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Kd]
+Litzdit : passe. 
+psychoman59 : relance. 40 à 60
+bulbiced : suit. 40
+*** FLOP *** [9s 5d 2s]
+psychoman59 : parole 
+bulbiced : mise. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [9s 5d 2s] [7s]
+psychoman59 : parole 
+bulbiced : parole 
+*** RIVIÈRE *** [9s 5d 2s 7s] [Tc]
+psychoman59 : mise. 120
+bulbiced : suit. 120 et est all-in.
+*** ABATTAGE ***
+psychoman59 : montre [Kc Kd] (une paire de Rois)
+bulbiced : montre [As 2d] (une paire de Deux)
+psychoman59 a remporté 480  lors du pot .
+bulbiced a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [9s 5d 2s 7s Tc]
+Siège 1 : psychoman59 (petite blind) a montré [Kc Kd] et a gagné (480) avec une paire de Rois
+Siège 2 : bulbiced (grosse blind) a montré [As 2d] et a perdu avec une paire de Deux
+Siège 3 : Litzdit (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237548833647 : Tournoi #3445875696, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/07/2022 7:35:57 CET [24/07/2022 1:35:57 ET]
+Table '3445875696 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 3: Litzdit (380 en jetons) 
+psychoman59 : met la petite blind. 15
+Litzdit : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Tc]
+psychoman59 : relance. 60 à 90
+Litzdit : relance. 60 à 150
+psychoman59 : relance. 370 à 520 et est all-in.
+Litzdit : suit. 230 et est all-in.
+Personne n'a suivi. (140) sont retournés à psychoman59.
+*** FLOP *** [8d 7c 9d]
+*** TOURNANT *** [8d 7c 9d] [8c]
+*** RIVIÈRE *** [8d 7c 9d 8c] [2h]
+*** ABATTAGE ***
+Litzdit : montre [4s Qc] (une paire de Huit)
+psychoman59 : montre [Ts Tc] (double paire, Dix et Huit)
+psychoman59 a remporté 760  lors du pot .
+*** SYNTHÈSE ***
+Pot total 760 | Commission 0 
+Tableau [8d 7c 9d 8c 2h]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Ts Tc] et a gagné (760) avec double paire, Dix et Huit
+Siège 3 : Litzdit (grosse blind) a montré [4s Qc] et a perdu avec une paire de Huit
+
+
+

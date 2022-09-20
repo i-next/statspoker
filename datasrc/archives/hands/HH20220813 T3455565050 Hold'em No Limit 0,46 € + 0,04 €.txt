@@ -1,0 +1,3186 @@
+﻿Main PokerStars n°237959700148 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 13/08/2022 9:22:26 CET [13/08/2022 3:22:26 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (5000 en jetons) 
+Place 2: chipie1962 (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: perlaoro (5000 en jetons) 
+ypp01 : met l'ante. 10
+chipie1962 : met l'ante. 10
+psychoman59 : met l'ante. 10
+perlaoro : met l'ante. 10
+chipie1962 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Th]
+perlaoro : passe. 
+ypp01 : suit. 100
+chipie1962 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [3h 5h 7d]
+chipie1962 : mise. 100
+psychoman59 : suit. 100
+ypp01 : passe. 
+*** TOURNANT *** [3h 5h 7d] [Jh]
+chipie1962 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3h 5h 7d Jh] [8d]
+chipie1962 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+chipie1962 : montre [As 7c] (une paire de Sept)
+psychoman59 : montre [8c Th] (une paire de Huit)
+psychoman59 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [3h 5h 7d Jh 8d]
+Siège 1 : ypp01 (bouton) s'est couché. sur le Flop
+Siège 2 : chipie1962 (petite blind) a montré [As 7c] et a perdu avec une paire de Sept
+Siège 3 : psychoman59 (grosse blind) a montré [8c Th] et a gagné (540) avec une paire de Huit
+Siège 4 : perlaoro s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237959705899 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 13/08/2022 9:23:14 CET [13/08/2022 3:23:14 ET]
+Table '3455565050 1' 4-max Siège #2 est au bouton.
+Place 1: ypp01 (4890 en jetons) 
+Place 2: chipie1962 (4790 en jetons) 
+Place 3: psychoman59 (5330 en jetons) 
+Place 4: perlaoro (4990 en jetons) 
+ypp01 : met l'ante. 10
+chipie1962 : met l'ante. 10
+psychoman59 : met l'ante. 10
+perlaoro : met l'ante. 10
+psychoman59 : met la petite blind. 50
+perlaoro : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 7c]
+ypp01 : suit. 100
+chipie1962 : passe. 
+psychoman59 : suit. 50
+perlaoro : parole 
+*** FLOP *** [Tc 8d 3s]
+psychoman59 : parole 
+perlaoro : parole 
+ypp01 : parole 
+*** TOURNANT *** [Tc 8d 3s] [9d]
+psychoman59 : parole 
+perlaoro : mise. 200
+ypp01 : suit. 200
+psychoman59 : passe. 
+*** RIVIÈRE *** [Tc 8d 3s 9d] [Kc]
+perlaoro : mise. 200
+ypp01 : suit. 200
+*** ABATTAGE ***
+perlaoro : montre [9c 3h] (double paire, Neuf et Trois)
+ypp01 : cache la main perdante. 
+perlaoro a remporté 1140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1140 | Commission 0 
+Tableau [Tc 8d 3s 9d Kc]
+Siège 1 : ypp01 a caché la main perdante. [Qh 9h]
+Siège 2 : chipie1962 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 4 : perlaoro (grosse blind) a montré [9c 3h] et a gagné (1140) avec double paire, Neuf et Trois
+
+
+
+Main PokerStars n°237959710970 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 13/08/2022 9:23:57 CET [13/08/2022 3:23:57 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (4380 en jetons) 
+Place 2: chipie1962 (4780 en jetons) 
+Place 3: psychoman59 (5220 en jetons) 
+Place 4: perlaoro (5620 en jetons) 
+ypp01 : met l'ante. 10
+chipie1962 : met l'ante. 10
+psychoman59 : met l'ante. 10
+perlaoro : met l'ante. 10
+perlaoro : met la petite blind. 50
+ypp01 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 2h]
+chipie1962 : passe. 
+psychoman59 : passe. 
+perlaoro : passe. 
+Personne n'a suivi. (50) sont retournés à ypp01.
+ypp01 a remporté 140  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Siège 1 : ypp01 (grosse blind) a remporté (140)
+Siège 2 : chipie1962 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : perlaoro (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959712232 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 13/08/2022 9:24:07 CET [13/08/2022 3:24:07 ET]
+Table '3455565050 1' 4-max Siège #4 est au bouton.
+Place 1: ypp01 (4460 en jetons) 
+Place 2: chipie1962 (4770 en jetons) 
+Place 3: psychoman59 (5210 en jetons) 
+Place 4: perlaoro (5560 en jetons) 
+ypp01 : met l'ante. 10
+chipie1962 : met l'ante. 10
+psychoman59 : met l'ante. 10
+perlaoro : met l'ante. 10
+ypp01 : met la petite blind. 50
+chipie1962 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 6h]
+psychoman59 : passe. 
+perlaoro : passe. 
+ypp01 : suit. 50
+chipie1962 : parole 
+*** FLOP *** [5d 7s Qd]
+ypp01 : mise. 300
+chipie1962 : suit. 300
+*** TOURNANT *** [5d 7s Qd] [Jc]
+ypp01 : mise. 200
+chipie1962 : suit. 200
+*** RIVIÈRE *** [5d 7s Qd Jc] [4h]
+ypp01 : mise. 100
+chipie1962 : suit. 100
+*** ABATTAGE ***
+ypp01 : montre [6d Qc] (une paire de Dames)
+chipie1962 : cache la main perdante. 
+ypp01 a remporté 1440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1440 | Commission 0 
+Tableau [5d 7s Qd Jc 4h]
+Siège 1 : ypp01 (petite blind) a montré [6d Qc] et a gagné (1440) avec une paire de Dames
+Siège 2 : chipie1962 (grosse blind) a caché la main perdante. [Td Jh]
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : perlaoro (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237959715875 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 13/08/2022 9:24:37 CET [13/08/2022 3:24:37 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (5190 en jetons) 
+Place 2: chipie1962 (4060 en jetons) 
+Place 3: psychoman59 (5200 en jetons) 
+Place 4: perlaoro (5550 en jetons) 
+ypp01 : met l'ante. 10
+chipie1962 : met l'ante. 10
+psychoman59 : met l'ante. 10
+perlaoro : met l'ante. 10
+chipie1962 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qh]
+perlaoro : passe. 
+ypp01 : passe. 
+chipie1962 : suit. 50
+psychoman59 : relance. 240 à 340
+chipie1962 : suit. 240
+*** FLOP *** [2s 6h Tc]
+chipie1962 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2s 6h Tc] [Qs]
+chipie1962 : mise. 100
+psychoman59 : suit. 100
+*** RIVIÈRE *** [2s 6h Tc Qs] [Ts]
+chipie1962 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+chipie1962 : montre [7s Qc] (double paire, Dames et Dix)
+psychoman59 : montre [Ac Qh] (double paire, Dames et Dix - As kicker)
+psychoman59 a remporté 920  lors du pot .
+*** SYNTHÈSE ***
+Pot total 920 | Commission 0 
+Tableau [2s 6h Tc Qs Ts]
+Siège 1 : ypp01 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : chipie1962 (petite blind) a montré [7s Qc] et a perdu avec double paire, Dames et Dix
+Siège 3 : psychoman59 (grosse blind) a montré [Ac Qh] et a gagné (920) avec double paire, Dames et Dix
+Siège 4 : perlaoro s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237959722072 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 13/08/2022 9:25:28 CET [13/08/2022 3:25:28 ET]
+Table '3455565050 1' 4-max Siège #2 est au bouton.
+Place 1: ypp01 (5180 en jetons) 
+Place 2: chipie1962 (3610 en jetons) 
+Place 3: psychoman59 (5670 en jetons) 
+Place 4: perlaoro (5540 en jetons) 
+ypp01 : met l'ante. 10
+chipie1962 : met l'ante. 10
+psychoman59 : met l'ante. 10
+perlaoro : met l'ante. 10
+psychoman59 : met la petite blind. 50
+perlaoro : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 3d]
+ypp01 : suit. 100
+chipie1962 : suit. 100
+psychoman59 : suit. 50
+perlaoro : parole 
+*** FLOP *** [9c 2h Td]
+psychoman59 : parole 
+perlaoro : parole 
+ypp01 : parole 
+chipie1962 : parole 
+*** TOURNANT *** [9c 2h Td] [Qd]
+psychoman59 : parole 
+perlaoro : parole 
+ypp01 : parole 
+chipie1962 : parole 
+*** RIVIÈRE *** [9c 2h Td Qd] [6h]
+psychoman59 : parole 
+perlaoro : parole 
+ypp01 : parole 
+chipie1962 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7d 3d] (Hauteur Dame)
+perlaoro : montre [Jd 7h] (Hauteur Dame - Valet kicker)
+ypp01 : montre [8d Kc] (Hauteur Roi)
+chipie1962 : montre [Jc Jh] (une paire de Valets)
+chipie1962 a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [9c 2h Td Qd 6h]
+Siège 1 : ypp01 a montré [8d Kc] et a perdu avec Hauteur Roi
+Siège 2 : chipie1962 (bouton) a montré [Jc Jh] et a gagné (440) avec une paire de Valets
+Siège 3 : psychoman59 (petite blind) a montré [7d 3d] et a perdu avec Hauteur Dame
+Siège 4 : perlaoro (grosse blind) a montré [Jd 7h] et a perdu avec Hauteur Dame
+
+
+
+Main PokerStars n°237959726520 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 13/08/2022 9:26:04 CET [13/08/2022 3:26:04 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (5070 en jetons) 
+Place 2: chipie1962 (3940 en jetons) 
+Place 3: psychoman59 (5560 en jetons) 
+Place 4: perlaoro (5430 en jetons) 
+ypp01 : met l'ante. 15
+chipie1962 : met l'ante. 15
+psychoman59 : met l'ante. 15
+perlaoro : met l'ante. 15
+perlaoro : met la petite blind. 60
+ypp01 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Td]
+chipie1962 : passe. 
+psychoman59 : passe. 
+perlaoro : passe. 
+Personne n'a suivi. (60) sont retournés à ypp01.
+ypp01 a remporté 180  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : ypp01 (grosse blind) a remporté (180)
+Siège 2 : chipie1962 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : perlaoro (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959728189 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 13/08/2022 9:26:18 CET [13/08/2022 3:26:18 ET]
+Table '3455565050 1' 4-max Siège #4 est au bouton.
+Place 1: ypp01 (5175 en jetons) 
+Place 2: chipie1962 (3925 en jetons) 
+Place 3: psychoman59 (5545 en jetons) 
+Place 4: perlaoro (5355 en jetons) 
+ypp01 : met l'ante. 15
+chipie1962 : met l'ante. 15
+psychoman59 : met l'ante. 15
+perlaoro : met l'ante. 15
+ypp01 : met la petite blind. 60
+chipie1962 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 4c]
+psychoman59 : passe. 
+perlaoro : suit. 120
+ypp01 : suit. 60
+chipie1962 : parole 
+*** FLOP *** [Js 3h Ts]
+ypp01 : mise. 360
+chipie1962 : passe. 
+perlaoro : passe. 
+Personne n'a suivi. (360) sont retournés à ypp01.
+ypp01 a remporté 420  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [Js 3h Ts]
+Siège 1 : ypp01 (petite blind) a remporté (420)
+Siège 2 : chipie1962 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : perlaoro (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237959730281 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 13/08/2022 9:26:35 CET [13/08/2022 3:26:35 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (5460 en jetons) 
+Place 2: chipie1962 (3790 en jetons) 
+Place 3: psychoman59 (5530 en jetons) 
+Place 4: perlaoro (5220 en jetons) 
+ypp01 : met l'ante. 15
+chipie1962 : met l'ante. 15
+psychoman59 : met l'ante. 15
+perlaoro : met l'ante. 15
+chipie1962 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 4h]
+perlaoro : passe. 
+ypp01 : passe. 
+chipie1962 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : ypp01 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : chipie1962 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (180)
+Siège 4 : perlaoro s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237959731232 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 13/08/2022 9:26:44 CET [13/08/2022 3:26:44 ET]
+Table '3455565050 1' 4-max Siège #2 est au bouton.
+Place 1: ypp01 (5445 en jetons) 
+Place 2: chipie1962 (3715 en jetons) 
+Place 3: psychoman59 (5635 en jetons) 
+Place 4: perlaoro (5205 en jetons) 
+ypp01 : met l'ante. 15
+chipie1962 : met l'ante. 15
+psychoman59 : met l'ante. 15
+perlaoro : met l'ante. 15
+psychoman59 : met la petite blind. 60
+perlaoro : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Qh]
+ypp01 : suit. 120
+chipie1962 : suit. 120
+psychoman59 : passe. 
+perlaoro : parole 
+*** FLOP *** [Qs Jc 5h]
+perlaoro : parole 
+ypp01 : parole 
+chipie1962 : parole 
+*** TOURNANT *** [Qs Jc 5h] [6h]
+perlaoro : parole 
+ypp01 : parole 
+chipie1962 : parole 
+*** RIVIÈRE *** [Qs Jc 5h 6h] [2s]
+perlaoro : parole 
+ypp01 : parole 
+chipie1962 : parole 
+*** ABATTAGE ***
+perlaoro : montre [Kh 6s] (une paire de Six)
+ypp01 : cache la main perdante. 
+chipie1962 : cache la main perdante. 
+perlaoro a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Qs Jc 5h 6h 2s]
+Siège 1 : ypp01 a caché la main perdante. [Ks 9h]
+Siège 2 : chipie1962 (bouton) a caché la main perdante. [Kd Th]
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : perlaoro (grosse blind) a montré [Kh 6s] et a gagné (480) avec une paire de Six
+
+
+
+Main PokerStars n°237959735115 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 13/08/2022 9:27:16 CET [13/08/2022 3:27:16 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (5310 en jetons) 
+Place 2: chipie1962 (3580 en jetons) 
+Place 3: psychoman59 (5560 en jetons) 
+Place 4: perlaoro (5550 en jetons) 
+ypp01 : met l'ante. 15
+chipie1962 : met l'ante. 15
+psychoman59 : met l'ante. 15
+perlaoro : met l'ante. 15
+perlaoro : met la petite blind. 60
+ypp01 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Qc]
+chipie1962 : suit. 120
+psychoman59 : relance. 480 à 600
+perlaoro : passe. 
+ypp01 : passe. 
+chipie1962 : suit. 480
+*** FLOP *** [3c Tc 9d]
+chipie1962 : parole 
+psychoman59 : mise. 720
+chipie1962 : suit. 720
+*** TOURNANT *** [3c Tc 9d] [7d]
+chipie1962 : parole 
+psychoman59 : mise. 2880
+chipie1962 : passe. 
+Personne n'a suivi. (2880) sont retournés à psychoman59.
+psychoman59 a remporté 2880  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2880 | Commission 0 
+Tableau [3c Tc 9d 7d]
+Siège 1 : ypp01 (grosse blind) s'est couché. avant Flop
+Siège 2 : chipie1962 s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) a remporté (2880)
+Siège 4 : perlaoro (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959741069 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 13/08/2022 9:28:05 CET [13/08/2022 3:28:05 ET]
+Table '3455565050 1' 4-max Siège #4 est au bouton.
+Place 1: ypp01 (5175 en jetons) 
+Place 2: chipie1962 (2245 en jetons) 
+Place 3: psychoman59 (7105 en jetons) 
+Place 4: perlaoro (5475 en jetons) 
+ypp01 : met l'ante. 15
+chipie1962 : met l'ante. 15
+psychoman59 : met l'ante. 15
+perlaoro : met l'ante. 15
+ypp01 : met la petite blind. 60
+chipie1962 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Kh]
+psychoman59 : passe. 
+perlaoro : passe. 
+ypp01 : passe. 
+Personne n'a suivi. (60) sont retournés à chipie1962.
+chipie1962 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : ypp01 (petite blind) s'est couché. avant Flop
+Siège 2 : chipie1962 (grosse blind) a remporté (180)
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : perlaoro (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237959742815 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 13/08/2022 9:28:19 CET [13/08/2022 3:28:19 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (5100 en jetons) 
+Place 2: chipie1962 (2350 en jetons) 
+Place 3: psychoman59 (7090 en jetons) 
+Place 4: perlaoro (5460 en jetons) 
+ypp01 : met l'ante. 15
+chipie1962 : met l'ante. 15
+psychoman59 : met l'ante. 15
+perlaoro : met l'ante. 15
+chipie1962 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 7s]
+perlaoro : passe. 
+ypp01 : passe. 
+chipie1962 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [Ac Kd 2d]
+chipie1962 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ac Kd 2d] [6c]
+chipie1962 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Ac Kd 2d 6c] [Td]
+chipie1962 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+chipie1962 : montre [9d 8h] (Hauteur As)
+psychoman59 : cache la main perdante. 
+chipie1962 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Ac Kd 2d 6c Td]
+Siège 1 : ypp01 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : chipie1962 (petite blind) a montré [9d 8h] et a gagné (300) avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [5d 7s]
+Siège 4 : perlaoro s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237959747789 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 13/08/2022 9:29:01 CET [13/08/2022 3:29:01 ET]
+Table '3455565050 1' 4-max Siège #2 est au bouton.
+Place 1: ypp01 (5085 en jetons) 
+Place 2: chipie1962 (2515 en jetons) 
+Place 3: psychoman59 (6955 en jetons) 
+Place 4: perlaoro (5445 en jetons) 
+ypp01 : met l'ante. 20
+chipie1962 : met l'ante. 20
+psychoman59 : met l'ante. 20
+perlaoro : met l'ante. 20
+psychoman59 : met la petite blind. 75
+perlaoro : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 5s]
+ypp01 : relance. 150 à 300
+chipie1962 : suit. 300
+psychoman59 : passe. 
+perlaoro : suit. 150
+*** FLOP *** [2s 8s 4h]
+perlaoro : parole 
+ypp01 : mise. 150
+chipie1962 : suit. 150
+perlaoro : passe. 
+*** TOURNANT *** [2s 8s 4h] [Ks]
+ypp01 : mise. 150
+chipie1962 : suit. 150
+*** RIVIÈRE *** [2s 8s 4h Ks] [2d]
+ypp01 : mise. 150
+chipie1962 : passe. 
+Personne n'a suivi. (150) sont retournés à ypp01.
+ypp01 a remporté 1655  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1655 | Commission 0 
+Tableau [2s 8s 4h Ks 2d]
+Siège 1 : ypp01 a remporté (1655)
+Siège 2 : chipie1962 (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : perlaoro (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237959753347 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 13/08/2022 9:29:46 CET [13/08/2022 3:29:46 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (6120 en jetons) 
+Place 2: chipie1962 (1895 en jetons) 
+Place 3: psychoman59 (6860 en jetons) 
+Place 4: perlaoro (5125 en jetons) 
+ypp01 : met l'ante. 20
+chipie1962 : met l'ante. 20
+psychoman59 : met l'ante. 20
+perlaoro : met l'ante. 20
+perlaoro : met la petite blind. 75
+ypp01 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ah]
+chipie1962 : passe. 
+psychoman59 : relance. 150 à 300
+perlaoro : passe. 
+ypp01 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 455  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 455 | Commission 0 
+Siège 1 : ypp01 (grosse blind) s'est couché. avant Flop
+Siège 2 : chipie1962 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) a remporté (455)
+Siège 4 : perlaoro (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959754833 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 13/08/2022 9:29:58 CET [13/08/2022 3:29:58 ET]
+Table '3455565050 1' 4-max Siège #4 est au bouton.
+Place 1: ypp01 (5950 en jetons) 
+Place 2: chipie1962 (1875 en jetons) 
+Place 3: psychoman59 (7145 en jetons) 
+Place 4: perlaoro (5030 en jetons) 
+ypp01 : met l'ante. 20
+chipie1962 : met l'ante. 20
+psychoman59 : met l'ante. 20
+perlaoro : met l'ante. 20
+ypp01 : met la petite blind. 75
+chipie1962 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 5d]
+psychoman59 : passe. 
+perlaoro : passe. 
+ypp01 : suit. 75
+chipie1962 : parole 
+*** FLOP *** [Jc 3h 5c]
+ypp01 : mise. 150
+chipie1962 : suit. 150
+*** TOURNANT *** [Jc 3h 5c] [9h]
+ypp01 : mise. 150
+chipie1962 : suit. 150
+*** RIVIÈRE *** [Jc 3h 5c 9h] [Kc]
+ypp01 : mise. 150
+chipie1962 : passe. 
+Personne n'a suivi. (150) sont retournés à ypp01.
+ypp01 a remporté 980  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 980 | Commission 0 
+Tableau [Jc 3h 5c 9h Kc]
+Siège 1 : ypp01 (petite blind) a remporté (980)
+Siège 2 : chipie1962 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : perlaoro (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237959757671 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 13/08/2022 9:30:21 CET [13/08/2022 3:30:21 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (6460 en jetons) 
+Place 2: chipie1962 (1405 en jetons) 
+Place 3: psychoman59 (7125 en jetons) 
+Place 4: perlaoro (5010 en jetons) 
+ypp01 : met l'ante. 20
+chipie1962 : met l'ante. 20
+psychoman59 : met l'ante. 20
+perlaoro : met l'ante. 20
+chipie1962 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 8c]
+perlaoro : suit. 150
+ypp01 : passe. 
+chipie1962 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [Kh Th 6c]
+chipie1962 : parole 
+psychoman59 : parole 
+perlaoro : mise. 750
+chipie1962 : suit. 750
+psychoman59 : passe. 
+*** TOURNANT *** [Kh Th 6c] [Ks]
+chipie1962 : parole 
+perlaoro : parole 
+*** RIVIÈRE *** [Kh Th 6c Ks] [4s]
+chipie1962 : parole 
+perlaoro : mise. 150
+chipie1962 : passe. 
+Personne n'a suivi. (150) sont retournés à perlaoro.
+perlaoro a remporté 2030  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2030 | Commission 0 
+Tableau [Kh Th 6c Ks 4s]
+Siège 1 : ypp01 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : chipie1962 (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 4 : perlaoro a remporté (2030)
+
+
+
+Main PokerStars n°237959763241 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 13/08/2022 9:31:06 CET [13/08/2022 3:31:06 ET]
+Table '3455565050 1' 4-max Siège #2 est au bouton.
+Place 1: ypp01 (6440 en jetons) 
+Place 2: chipie1962 (485 en jetons) 
+Place 3: psychoman59 (6955 en jetons) 
+Place 4: perlaoro (6120 en jetons) 
+ypp01 : met l'ante. 20
+chipie1962 : met l'ante. 20
+psychoman59 : met l'ante. 20
+perlaoro : met l'ante. 20
+psychoman59 : met la petite blind. 75
+perlaoro : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qh]
+ypp01 : passe. 
+chipie1962 : suit. 150
+psychoman59 : suit. 75
+perlaoro : parole 
+*** FLOP *** [Kd 6s 2c]
+psychoman59 : parole 
+perlaoro : parole 
+chipie1962 : parole 
+*** TOURNANT *** [Kd 6s 2c] [4h]
+psychoman59 : parole 
+perlaoro : parole 
+chipie1962 : parole 
+*** RIVIÈRE *** [Kd 6s 2c 4h] [Tc]
+psychoman59 : parole 
+perlaoro : parole 
+chipie1962 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [8h Qh] (Hauteur Roi)
+perlaoro : montre [7c 2d] (une paire de Deux)
+chipie1962 : montre [Th Qs] (une paire de Dix)
+chipie1962 a remporté 530  lors du pot .
+*** SYNTHÈSE ***
+Pot total 530 | Commission 0 
+Tableau [Kd 6s 2c 4h Tc]
+Siège 1 : ypp01 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : chipie1962 (bouton) a montré [Th Qs] et a gagné (530) avec une paire de Dix
+Siège 3 : psychoman59 (petite blind) a montré [8h Qh] et a perdu avec Hauteur Roi
+Siège 4 : perlaoro (grosse blind) a montré [7c 2d] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°237959770837 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 13/08/2022 9:32:08 CET [13/08/2022 3:32:08 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (6420 en jetons) 
+Place 2: chipie1962 (845 en jetons) 
+Place 3: psychoman59 (6785 en jetons) 
+Place 4: perlaoro (5950 en jetons) 
+ypp01 : met l'ante. 25
+chipie1962 : met l'ante. 25
+psychoman59 : met l'ante. 25
+perlaoro : met l'ante. 25
+perlaoro : met la petite blind. 100
+ypp01 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Kh]
+chipie1962 : passe. 
+psychoman59 : suit. 200
+perlaoro : suit. 100
+ypp01 : parole 
+*** FLOP *** [Qc 2c 4s]
+perlaoro : parole 
+ypp01 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qc 2c 4s] [As]
+perlaoro : parole 
+ypp01 : parole 
+psychoman59 : mise. 350
+perlaoro : passe. 
+ypp01 : passe. 
+Personne n'a suivi. (350) sont retournés à psychoman59.
+psychoman59 a remporté 700  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 700 | Commission 0 
+Tableau [Qc 2c 4s As]
+Siège 1 : ypp01 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : chipie1962 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) a remporté (700)
+Siège 4 : perlaoro (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237959774640 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 13/08/2022 9:32:38 CET [13/08/2022 3:32:38 ET]
+Table '3455565050 1' 4-max Siège #4 est au bouton.
+Place 1: ypp01 (6195 en jetons) 
+Place 2: chipie1962 (820 en jetons) 
+Place 3: psychoman59 (7260 en jetons) 
+Place 4: perlaoro (5725 en jetons) 
+ypp01 : met l'ante. 25
+chipie1962 : met l'ante. 25
+psychoman59 : met l'ante. 25
+perlaoro : met l'ante. 25
+ypp01 : met la petite blind. 100
+chipie1962 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs As]
+psychoman59 : relance. 600 à 800
+perlaoro : passe. 
+ypp01 : suit. 700
+chipie1962 : passe. 
+*** FLOP *** [Kc Js 5h]
+ypp01 : mise. 600
+psychoman59 : suit. 600
+*** TOURNANT *** [Kc Js 5h] [7d]
+ypp01 : mise. 200
+psychoman59 : suit. 200
+*** RIVIÈRE *** [Kc Js 5h 7d] [8h]
+ypp01 : mise. 800
+psychoman59 : passe. 
+Personne n'a suivi. (800) sont retournés à ypp01.
+ypp01 a remporté 3500  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 3500 | Commission 0 
+Tableau [Kc Js 5h 7d 8h]
+Siège 1 : ypp01 (petite blind) a remporté (3500)
+Siège 2 : chipie1962 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 s'est couché. sur le Rivière
+Siège 4 : perlaoro (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237959779038 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 13/08/2022 9:33:14 CET [13/08/2022 3:33:14 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (8070 en jetons) 
+Place 2: chipie1962 (595 en jetons) 
+Place 3: psychoman59 (5635 en jetons) 
+Place 4: perlaoro (5700 en jetons) 
+ypp01 : met l'ante. 25
+chipie1962 : met l'ante. 25
+psychoman59 : met l'ante. 25
+perlaoro : met l'ante. 25
+chipie1962 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 4h]
+perlaoro : passe. 
+ypp01 : passe. 
+chipie1962 : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 300  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Siège 1 : ypp01 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : chipie1962 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (300)
+Siège 4 : perlaoro s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237959781072 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 13/08/2022 9:33:30 CET [13/08/2022 3:33:30 ET]
+Table '3455565050 1' 4-max Siège #2 est au bouton.
+Place 1: ypp01 (8045 en jetons) 
+Place 2: chipie1962 (470 en jetons) 
+Place 3: psychoman59 (5810 en jetons) 
+Place 4: perlaoro (5675 en jetons) 
+ypp01 : met l'ante. 25
+chipie1962 : met l'ante. 25
+psychoman59 : met l'ante. 25
+perlaoro : met l'ante. 25
+psychoman59 : met la petite blind. 100
+perlaoro : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 6d]
+ypp01 : passe. 
+chipie1962 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à perlaoro.
+perlaoro a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Siège 1 : ypp01 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : chipie1962 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : perlaoro (grosse blind) a remporté (300)
+
+
+
+Main PokerStars n°237959784214 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 13/08/2022 9:33:55 CET [13/08/2022 3:33:55 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (8020 en jetons) 
+Place 2: chipie1962 (445 en jetons) 
+Place 3: psychoman59 (5685 en jetons) 
+Place 4: perlaoro (5850 en jetons) 
+ypp01 : met l'ante. 25
+chipie1962 : met l'ante. 25
+psychoman59 : met l'ante. 25
+perlaoro : met l'ante. 25
+perlaoro : met la petite blind. 100
+ypp01 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 8h]
+chipie1962 : suit. 200
+psychoman59 : passe. 
+perlaoro : suit. 100
+ypp01 : parole 
+*** FLOP *** [9c 5c Th]
+perlaoro : parole 
+ypp01 : parole 
+chipie1962 : parole 
+*** TOURNANT *** [9c 5c Th] [Ts]
+perlaoro : parole 
+ypp01 : parole 
+chipie1962 : parole 
+*** RIVIÈRE *** [9c 5c Th Ts] [Jh]
+perlaoro : parole 
+ypp01 : parole 
+chipie1962 : parole 
+*** ABATTAGE ***
+perlaoro : montre [Qc 6h] (une paire de Dix)
+ypp01 : montre [Qs 4c] (une paire de Dix)
+chipie1962 : montre [Qd 5s] (double paire, Dix et Cinq)
+chipie1962 a remporté 700  lors du pot .
+*** SYNTHÈSE ***
+Pot total 700 | Commission 0 
+Tableau [9c 5c Th Ts Jh]
+Siège 1 : ypp01 (grosse blind) a montré [Qs 4c] et a perdu avec une paire de Dix
+Siège 2 : chipie1962 a montré [Qd 5s] et a gagné (700) avec double paire, Dix et Cinq
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : perlaoro (petite blind) a montré [Qc 6h] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°237959788873 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 13/08/2022 9:34:32 CET [13/08/2022 3:34:32 ET]
+Table '3455565050 1' 4-max Siège #4 est au bouton.
+Place 1: ypp01 (7795 en jetons) 
+Place 2: chipie1962 (920 en jetons) 
+Place 3: psychoman59 (5660 en jetons) 
+Place 4: perlaoro (5625 en jetons) 
+ypp01 : met l'ante. 30
+chipie1962 : met l'ante. 30
+psychoman59 : met l'ante. 30
+perlaoro : met l'ante. 30
+ypp01 : met la petite blind. 125
+chipie1962 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ac]
+psychoman59 : relance. 250 à 500
+perlaoro : passe. 
+ypp01 : passe. 
+chipie1962 : suit. 250
+*** FLOP *** [Ts Kh 8c]
+chipie1962 : parole 
+psychoman59 : mise. 622
+chipie1962 : suit. 390 et est all-in.
+Personne n'a suivi. (232) sont retournés à psychoman59.
+*** TOURNANT *** [Ts Kh 8c] [Kd]
+*** RIVIÈRE *** [Ts Kh 8c Kd] [4c]
+*** ABATTAGE ***
+chipie1962 : montre [Js Qh] (une paire de Rois)
+psychoman59 : montre [6s Ac] (une paire de Rois - As kicker)
+psychoman59 a remporté 2025  lors du pot .
+chipie1962 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 2025 | Commission 0 
+Tableau [Ts Kh 8c Kd 4c]
+Siège 1 : ypp01 (petite blind) s'est couché. avant Flop
+Siège 2 : chipie1962 (grosse blind) a montré [Js Qh] et a perdu avec une paire de Rois
+Siège 3 : psychoman59 a montré [6s Ac] et a gagné (2025) avec une paire de Rois
+Siège 4 : perlaoro (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237959792188 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 13/08/2022 9:34:58 CET [13/08/2022 3:34:58 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (7640 en jetons) 
+Place 3: psychoman59 (6765 en jetons) 
+Place 4: perlaoro (5595 en jetons) 
+ypp01 : met l'ante. 30
+psychoman59 : met l'ante. 30
+perlaoro : met l'ante. 30
+psychoman59 : met la petite blind. 125
+perlaoro : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd As]
+ypp01 : passe. 
+psychoman59 : relance. 590 à 840
+perlaoro : passe. 
+Personne n'a suivi. (590) sont retournés à psychoman59.
+psychoman59 a remporté 590  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Siège 1 : ypp01 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (590)
+Siège 4 : perlaoro (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959793935 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 13/08/2022 9:35:12 CET [13/08/2022 3:35:12 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (7610 en jetons) 
+Place 3: psychoman59 (7075 en jetons) 
+Place 4: perlaoro (5315 en jetons) 
+ypp01 : met l'ante. 30
+psychoman59 : met l'ante. 30
+perlaoro : met l'ante. 30
+perlaoro : met la petite blind. 125
+ypp01 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 8s]
+psychoman59 : passe. 
+perlaoro : suit. 125
+ypp01 : parole 
+*** FLOP *** [Qs 9s Jd]
+perlaoro : parole 
+ypp01 : parole 
+*** TOURNANT *** [Qs 9s Jd] [6c]
+perlaoro : parole 
+ypp01 : parole 
+*** RIVIÈRE *** [Qs 9s Jd 6c] [6s]
+perlaoro : parole 
+ypp01 : parole 
+*** ABATTAGE ***
+perlaoro : montre [Kd 4d] (une paire de Six)
+ypp01 : montre [8c Kh] (une paire de Six)
+perlaoro a remporté 295  lors du pot .
+ypp01 a remporté 295  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [Qs 9s Jd 6c 6s]
+Siège 1 : ypp01 (grosse blind) a montré [8c Kh] et a gagné (295) avec une paire de Six
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : perlaoro (petite blind) a montré [Kd 4d] et a gagné (295) avec une paire de Six
+
+
+
+Main PokerStars n°237959796799 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 13/08/2022 9:35:35 CET [13/08/2022 3:35:35 ET]
+Table '3455565050 1' 4-max Siège #4 est au bouton.
+Place 1: ypp01 (7625 en jetons) 
+Place 3: psychoman59 (7045 en jetons) 
+Place 4: perlaoro (5330 en jetons) 
+ypp01 : met l'ante. 30
+psychoman59 : met l'ante. 30
+perlaoro : met l'ante. 30
+ypp01 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 7c]
+perlaoro : passe. 
+ypp01 : suit. 125
+psychoman59 : parole 
+*** FLOP *** [5h As Ts]
+ypp01 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5h As Ts] [2s]
+ypp01 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5h As Ts 2s] [Ks]
+ypp01 : mise. 250
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à ypp01.
+ypp01 a remporté 590  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [5h As Ts 2s Ks]
+Siège 1 : ypp01 (petite blind) a remporté (590)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 4 : perlaoro (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237959799502 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 13/08/2022 9:35:57 CET [13/08/2022 3:35:57 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (7935 en jetons) 
+Place 3: psychoman59 (6765 en jetons) 
+Place 4: perlaoro (5300 en jetons) 
+ypp01 : met l'ante. 30
+psychoman59 : met l'ante. 30
+perlaoro : met l'ante. 30
+psychoman59 : met la petite blind. 125
+perlaoro : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Jh]
+ypp01 : suit. 250
+psychoman59 : passe. 
+perlaoro : parole 
+*** FLOP *** [3s 7d 9s]
+perlaoro : parole 
+ypp01 : parole 
+*** TOURNANT *** [3s 7d 9s] [As]
+perlaoro : parole 
+ypp01 : parole 
+*** RIVIÈRE *** [3s 7d 9s As] [Qc]
+perlaoro : parole 
+ypp01 : parole 
+*** ABATTAGE ***
+perlaoro : montre [7s Jd] (une paire de Sept)
+ypp01 : cache la main perdante. 
+perlaoro a remporté 715  lors du pot .
+*** SYNTHÈSE ***
+Pot total 715 | Commission 0 
+Tableau [3s 7d 9s As Qc]
+Siège 1 : ypp01 (bouton) a caché la main perdante. [6h Ks]
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : perlaoro (grosse blind) a montré [7s Jd] et a gagné (715) avec une paire de Sept
+
+
+
+Main PokerStars n°237959802231 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 13/08/2022 9:36:18 CET [13/08/2022 3:36:18 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (7655 en jetons) 
+Place 3: psychoman59 (6610 en jetons) 
+Place 4: perlaoro (5735 en jetons) 
+ypp01 : met l'ante. 30
+psychoman59 : met l'ante. 30
+perlaoro : met l'ante. 30
+perlaoro : met la petite blind. 125
+ypp01 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Th]
+psychoman59 : relance. 715 à 965
+perlaoro : passe. 
+ypp01 : passe. 
+Personne n'a suivi. (715) sont retournés à psychoman59.
+psychoman59 a remporté 715  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 715 | Commission 0 
+Siège 1 : ypp01 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (715)
+Siège 4 : perlaoro (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959803711 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 13/08/2022 9:36:30 CET [13/08/2022 3:36:30 ET]
+Table '3455565050 1' 4-max Siège #4 est au bouton.
+Place 1: ypp01 (7375 en jetons) 
+Place 3: psychoman59 (7045 en jetons) 
+Place 4: perlaoro (5580 en jetons) 
+ypp01 : met l'ante. 30
+psychoman59 : met l'ante. 30
+perlaoro : met l'ante. 30
+ypp01 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Kc]
+perlaoro : passe. 
+ypp01 : suit. 125
+psychoman59 : relance. 590 à 840
+ypp01 : suit. 590
+*** FLOP *** [Kh Ah 5h]
+ypp01 : parole 
+psychoman59 : mise. 885
+ypp01 : passe. 
+Personne n'a suivi. (885) sont retournés à psychoman59.
+psychoman59 a remporté 1770  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1770 | Commission 0 
+Tableau [Kh Ah 5h]
+Siège 1 : ypp01 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (1770)
+Siège 4 : perlaoro (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237959806686 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 13/08/2022 9:36:54 CET [13/08/2022 3:36:54 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (6505 en jetons) 
+Place 3: psychoman59 (7945 en jetons) 
+Place 4: perlaoro (5550 en jetons) 
+ypp01 : met l'ante. 30
+psychoman59 : met l'ante. 30
+perlaoro : met l'ante. 30
+psychoman59 : met la petite blind. 125
+perlaoro : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd As]
+ypp01 : suit. 250
+psychoman59 : relance. 7665 à 7915 et est all-in.
+perlaoro : passe. 
+ypp01 : passe. 
+Personne n'a suivi. (7665) sont retournés à psychoman59.
+psychoman59 a remporté 840  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Siège 1 : ypp01 (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) a remporté (840)
+Siège 4 : perlaoro (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959808401 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 13/08/2022 9:37:07 CET [13/08/2022 3:37:07 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (6225 en jetons) 
+Place 3: psychoman59 (8505 en jetons) 
+Place 4: perlaoro (5270 en jetons) 
+ypp01 : met l'ante. 30
+psychoman59 : met l'ante. 30
+perlaoro : met l'ante. 30
+perlaoro : met la petite blind. 125
+ypp01 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Qd]
+psychoman59 : passe. 
+perlaoro : suit. 125
+ypp01 : parole 
+*** FLOP *** [7s 2h 2s]
+perlaoro : parole 
+ypp01 : parole 
+*** TOURNANT *** [7s 2h 2s] [Kd]
+perlaoro : parole 
+ypp01 : parole 
+*** RIVIÈRE *** [7s 2h 2s Kd] [2c]
+perlaoro : mise. 250
+ypp01 : suit. 250
+*** ABATTAGE ***
+perlaoro : montre [Qh 7c] (un full, full aux Deux par les Sept)
+ypp01 : cache la main perdante. 
+perlaoro a remporté 1090  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1090 | Commission 0 
+Tableau [7s 2h 2s Kd 2c]
+Siège 1 : ypp01 (grosse blind) a caché la main perdante. [5h Js]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : perlaoro (petite blind) a montré [Qh 7c] et a gagné (1090) avec un full, full aux Deux par les Sept
+
+
+
+Main PokerStars n°237959810951 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 13/08/2022 9:37:28 CET [13/08/2022 3:37:28 ET]
+Table '3455565050 1' 4-max Siège #4 est au bouton.
+Place 1: ypp01 (5695 en jetons) 
+Place 3: psychoman59 (8475 en jetons) 
+Place 4: perlaoro (5830 en jetons) 
+ypp01 : met l'ante. 30
+psychoman59 : met l'ante. 30
+perlaoro : met l'ante. 30
+ypp01 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Qc]
+perlaoro : suit. 250
+ypp01 : suit. 125
+psychoman59 : parole 
+*** FLOP *** [Ac 8c 2s]
+ypp01 : parole 
+psychoman59 : parole 
+perlaoro : parole 
+*** TOURNANT *** [Ac 8c 2s] [6s]
+ypp01 : parole 
+psychoman59 : parole 
+perlaoro : mise. 250
+ypp01 : passe. 
+psychoman59 : suit. 250
+*** RIVIÈRE *** [Ac 8c 2s 6s] [Ad]
+psychoman59 : parole 
+perlaoro : mise. 250
+psychoman59 : suit. 250
+*** ABATTAGE ***
+perlaoro : montre [6d 6c] (un full, full aux Six par les As)
+psychoman59 : cache la main perdante. 
+perlaoro a remporté 1840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1840 | Commission 0 
+Tableau [Ac 8c 2s 6s Ad]
+Siège 1 : ypp01 (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [Kd Qc]
+Siège 4 : perlaoro (bouton) a montré [6d 6c] et a gagné (1840) avec un full, full aux Six par les As
+
+
+
+Main PokerStars n°237959815234 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 13/08/2022 9:38:02 CET [13/08/2022 3:38:02 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (5415 en jetons) 
+Place 3: psychoman59 (7695 en jetons) 
+Place 4: perlaoro (6890 en jetons) 
+ypp01 : met l'ante. 40
+psychoman59 : met l'ante. 40
+perlaoro : met l'ante. 40
+psychoman59 : met la petite blind. 150
+perlaoro : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 4h]
+ypp01 : relance. 300 à 600
+psychoman59 : passe. 
+perlaoro : passe. 
+Personne n'a suivi. (300) sont retournés à ypp01.
+ypp01 a remporté 870  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Siège 1 : ypp01 (bouton) a remporté (870)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : perlaoro (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959816577 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 13/08/2022 9:38:12 CET [13/08/2022 3:38:12 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (5945 en jetons) 
+Place 3: psychoman59 (7505 en jetons) 
+Place 4: perlaoro (6550 en jetons) 
+ypp01 : met l'ante. 40
+psychoman59 : met l'ante. 40
+perlaoro : met l'ante. 40
+perlaoro : met la petite blind. 150
+ypp01 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 8c]
+psychoman59 : passe. 
+perlaoro : suit. 150
+ypp01 : parole 
+*** FLOP *** [7d 4s Qs]
+perlaoro : parole 
+ypp01 : parole 
+*** TOURNANT *** [7d 4s Qs] [8h]
+perlaoro : parole 
+ypp01 : parole 
+*** RIVIÈRE *** [7d 4s Qs 8h] [9s]
+perlaoro : parole 
+ypp01 : parole 
+*** ABATTAGE ***
+perlaoro : montre [7c 6h] (une paire de Sept)
+ypp01 : cache la main perdante. 
+perlaoro a remporté 720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [7d 4s Qs 8h 9s]
+Siège 1 : ypp01 (grosse blind) a caché la main perdante. [Jd 2c]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : perlaoro (petite blind) a montré [7c 6h] et a gagné (720) avec une paire de Sept
+
+
+
+Main PokerStars n°237959818950 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 13/08/2022 9:38:31 CET [13/08/2022 3:38:31 ET]
+Table '3455565050 1' 4-max Siège #4 est au bouton.
+Place 1: ypp01 (5605 en jetons) 
+Place 3: psychoman59 (7465 en jetons) 
+Place 4: perlaoro (6930 en jetons) 
+ypp01 : met l'ante. 40
+psychoman59 : met l'ante. 40
+perlaoro : met l'ante. 40
+ypp01 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 9h]
+perlaoro : passe. 
+ypp01 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 420  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Siège 1 : ypp01 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (420)
+Siège 4 : perlaoro (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237959819821 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 13/08/2022 9:38:38 CET [13/08/2022 3:38:38 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (5415 en jetons) 
+Place 3: psychoman59 (7695 en jetons) 
+Place 4: perlaoro (6890 en jetons) 
+ypp01 : met l'ante. 40
+psychoman59 : met l'ante. 40
+perlaoro : met l'ante. 40
+psychoman59 : met la petite blind. 150
+perlaoro : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 9h]
+ypp01 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à perlaoro.
+perlaoro a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Siège 1 : ypp01 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : perlaoro (grosse blind) a remporté (420)
+
+
+
+Main PokerStars n°237959820949 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 13/08/2022 9:38:47 CET [13/08/2022 3:38:47 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (5375 en jetons) 
+Place 3: psychoman59 (7505 en jetons) 
+Place 4: perlaoro (7120 en jetons) 
+ypp01 : met l'ante. 40
+psychoman59 : met l'ante. 40
+perlaoro : met l'ante. 40
+perlaoro : met la petite blind. 150
+ypp01 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Kc]
+psychoman59 : suit. 300
+perlaoro : suit. 150
+ypp01 : relance. 300 à 600
+psychoman59 : suit. 300
+perlaoro : suit. 300
+*** FLOP *** [2c Ac Ts]
+perlaoro : parole 
+ypp01 : mise. 300
+psychoman59 : passe. 
+perlaoro : suit. 300
+*** TOURNANT *** [2c Ac Ts] [9c]
+perlaoro : parole 
+ypp01 : mise. 600
+perlaoro : suit. 600
+*** RIVIÈRE *** [2c Ac Ts 9c] [7h]
+perlaoro : parole 
+ypp01 : mise. 1200
+perlaoro : passe. 
+Personne n'a suivi. (1200) sont retournés à ypp01.
+ypp01 a remporté 3720  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 3720 | Commission 0 
+Tableau [2c Ac Ts 9c 7h]
+Siège 1 : ypp01 (grosse blind) a remporté (3720)
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 4 : perlaoro (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237959825416 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 13/08/2022 9:39:22 CET [13/08/2022 3:39:22 ET]
+Table '3455565050 1' 4-max Siège #4 est au bouton.
+Place 1: ypp01 (7555 en jetons) 
+Place 3: psychoman59 (6865 en jetons) 
+Place 4: perlaoro (5580 en jetons) 
+ypp01 : met l'ante. 40
+psychoman59 : met l'ante. 40
+perlaoro : met l'ante. 40
+ypp01 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Kc]
+perlaoro : passe. 
+ypp01 : suit. 150
+psychoman59 : parole 
+*** FLOP *** [3d Jc 7d]
+ypp01 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3d Jc 7d] [Qs]
+ypp01 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3d Jc 7d Qs] [9c]
+ypp01 : mise. 600
+psychoman59 : passe. 
+Personne n'a suivi. (600) sont retournés à ypp01.
+ypp01 a remporté 720  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [3d Jc 7d Qs 9c]
+Siège 1 : ypp01 (petite blind) a remporté (720)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 4 : perlaoro (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237959828436 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 13/08/2022 9:39:46 CET [13/08/2022 3:39:46 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (7935 en jetons) 
+Place 3: psychoman59 (6525 en jetons) 
+Place 4: perlaoro (5540 en jetons) 
+ypp01 : met l'ante. 40
+psychoman59 : met l'ante. 40
+perlaoro : met l'ante. 40
+psychoman59 : met la petite blind. 150
+perlaoro : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Jh]
+ypp01 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à perlaoro.
+perlaoro a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Siège 1 : ypp01 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : perlaoro (grosse blind) a remporté (420)
+
+
+
+Main PokerStars n°237959829453 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 13/08/2022 9:39:54 CET [13/08/2022 3:39:54 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (7895 en jetons) 
+Place 3: psychoman59 (6335 en jetons) 
+Place 4: perlaoro (5770 en jetons) 
+ypp01 : met l'ante. 40
+psychoman59 : met l'ante. 40
+perlaoro : met l'ante. 40
+perlaoro : met la petite blind. 150
+ypp01 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Kh]
+psychoman59 : relance. 300 à 600
+perlaoro : passe. 
+ypp01 : suit. 300
+*** FLOP *** [5h 7d 4d]
+ypp01 : mise. 300
+psychoman59 : suit. 300
+*** TOURNANT *** [5h 7d 4d] [8c]
+ypp01 : mise. 300
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à ypp01.
+ypp01 a remporté 2070  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2070 | Commission 0 
+Tableau [5h 7d 4d 8c]
+Siège 1 : ypp01 (grosse blind) a remporté (2070)
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Tournant
+Siège 4 : perlaoro (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959832098 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 13/08/2022 9:40:15 CET [13/08/2022 3:40:15 ET]
+Table '3455565050 1' 4-max Siège #4 est au bouton.
+Place 1: ypp01 (9025 en jetons) 
+Place 3: psychoman59 (5395 en jetons) 
+Place 4: perlaoro (5580 en jetons) 
+ypp01 : met l'ante. 40
+psychoman59 : met l'ante. 40
+perlaoro : met l'ante. 40
+ypp01 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ah]
+perlaoro : passe. 
+ypp01 : suit. 150
+psychoman59 : relance. 5055 à 5355 et est all-in.
+ypp01 : passe. 
+Personne n'a suivi. (5055) sont retournés à psychoman59.
+psychoman59 a remporté 720  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Siège 1 : ypp01 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (720)
+Siège 4 : perlaoro (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237959833828 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 13/08/2022 9:40:28 CET [13/08/2022 3:40:28 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (8685 en jetons) 
+Place 3: psychoman59 (5775 en jetons) 
+Place 4: perlaoro (5540 en jetons) 
+ypp01 : met l'ante. 40
+psychoman59 : met l'ante. 40
+perlaoro : met l'ante. 40
+psychoman59 : met la petite blind. 150
+perlaoro : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Th]
+ypp01 : relance. 1200 à 1500
+psychoman59 : passe. 
+perlaoro : passe. 
+Personne n'a suivi. (1200) sont retournés à ypp01.
+ypp01 a remporté 870  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Siège 1 : ypp01 (bouton) a remporté (870)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : perlaoro (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959835604 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 13/08/2022 9:40:42 CET [13/08/2022 3:40:42 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (9215 en jetons) 
+Place 3: psychoman59 (5585 en jetons) 
+Place 4: perlaoro (5200 en jetons) 
+ypp01 : met l'ante. 50
+psychoman59 : met l'ante. 50
+perlaoro : met l'ante. 50
+perlaoro : met la petite blind. 200
+ypp01 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 5h]
+psychoman59 : passe. 
+perlaoro : suit. 200
+ypp01 : parole 
+*** FLOP *** [3d Tc 2d]
+perlaoro : parole 
+ypp01 : parole 
+*** TOURNANT *** [3d Tc 2d] [As]
+perlaoro : parole 
+ypp01 : mise. 400
+perlaoro : passe. 
+Personne n'a suivi. (400) sont retournés à ypp01.
+ypp01 a remporté 950  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 950 | Commission 0 
+Tableau [3d Tc 2d As]
+Siège 1 : ypp01 (grosse blind) a remporté (950)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : perlaoro (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237959837837 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 13/08/2022 9:40:59 CET [13/08/2022 3:40:59 ET]
+Table '3455565050 1' 4-max Siège #4 est au bouton.
+Place 1: ypp01 (9715 en jetons) 
+Place 3: psychoman59 (5535 en jetons) 
+Place 4: perlaoro (4750 en jetons) 
+ypp01 : met l'ante. 50
+psychoman59 : met l'ante. 50
+perlaoro : met l'ante. 50
+ypp01 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 3h]
+perlaoro : passe. 
+ypp01 : suit. 200
+psychoman59 : parole 
+*** FLOP *** [8d 8s 7s]
+ypp01 : mise. 1200
+psychoman59 : passe. 
+Personne n'a suivi. (1200) sont retournés à ypp01.
+ypp01 a remporté 950  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 950 | Commission 0 
+Tableau [8d 8s 7s]
+Siège 1 : ypp01 (petite blind) a remporté (950)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 4 : perlaoro (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237959839769 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 13/08/2022 9:41:15 CET [13/08/2022 3:41:15 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (10215 en jetons) 
+Place 3: psychoman59 (5085 en jetons) 
+Place 4: perlaoro (4700 en jetons) 
+ypp01 : met l'ante. 50
+psychoman59 : met l'ante. 50
+perlaoro : met l'ante. 50
+psychoman59 : met la petite blind. 200
+perlaoro : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Qh]
+ypp01 : passe. 
+psychoman59 : suit. 200
+perlaoro : parole 
+*** FLOP *** [3d 4d 8s]
+psychoman59 : parole 
+perlaoro : parole 
+*** TOURNANT *** [3d 4d 8s] [Ks]
+psychoman59 : parole 
+perlaoro : parole 
+*** RIVIÈRE *** [3d 4d 8s Ks] [9c]
+psychoman59 : parole 
+perlaoro : mise. 400
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à perlaoro.
+perlaoro a remporté 950  lors du pot .
+*** SYNTHÈSE ***
+Pot total 950 | Commission 0 
+Tableau [3d 4d 8s Ks 9c]
+Siège 1 : ypp01 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 4 : perlaoro (grosse blind) a remporté (950)
+
+
+
+Main PokerStars n°237959843282 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 13/08/2022 9:41:42 CET [13/08/2022 3:41:42 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (10165 en jetons) 
+Place 3: psychoman59 (4635 en jetons) 
+Place 4: perlaoro (5200 en jetons) 
+ypp01 : met l'ante. 50
+psychoman59 : met l'ante. 50
+perlaoro : met l'ante. 50
+perlaoro : met la petite blind. 200
+ypp01 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 9s]
+psychoman59 : passe. 
+perlaoro : suit. 200
+ypp01 : relance. 400 à 800
+perlaoro : suit. 400
+*** FLOP *** [7s As 2d]
+perlaoro : parole 
+ypp01 : mise. 400
+perlaoro : passe. 
+Personne n'a suivi. (400) sont retournés à ypp01.
+ypp01 a remporté 1750  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1750 | Commission 0 
+Tableau [7s As 2d]
+Siège 1 : ypp01 (grosse blind) a remporté (1750)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : perlaoro (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237959845650 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 13/08/2022 9:42:00 CET [13/08/2022 3:42:00 ET]
+Table '3455565050 1' 4-max Siège #4 est au bouton.
+Place 1: ypp01 (11065 en jetons) 
+Place 3: psychoman59 (4585 en jetons) 
+Place 4: perlaoro (4350 en jetons) 
+ypp01 : met l'ante. 50
+psychoman59 : met l'ante. 50
+perlaoro : met l'ante. 50
+ypp01 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 8d]
+perlaoro : suit. 400
+ypp01 : suit. 200
+psychoman59 : parole 
+*** FLOP *** [Qs Qh 4c]
+ypp01 : parole 
+psychoman59 : parole 
+perlaoro : parole 
+*** TOURNANT *** [Qs Qh 4c] [5s]
+ypp01 : parole 
+psychoman59 : parole 
+perlaoro : parole 
+*** RIVIÈRE *** [Qs Qh 4c 5s] [Jc]
+ypp01 : parole 
+psychoman59 : parole 
+perlaoro : parole 
+*** ABATTAGE ***
+ypp01 : montre [9s Ac] (une paire de Dames)
+psychoman59 : montre [5c 8d] (double paire, Dames et Cinq)
+perlaoro : montre [7s 7h] (double paire, Dames et Sept)
+perlaoro a remporté 1350  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1350 | Commission 0 
+Tableau [Qs Qh 4c 5s Jc]
+Siège 1 : ypp01 (petite blind) a montré [9s Ac] et a perdu avec une paire de Dames
+Siège 3 : psychoman59 (grosse blind) a montré [5c 8d] et a perdu avec double paire, Dames et Cinq
+Siège 4 : perlaoro (bouton) a montré [7s 7h] et a gagné (1350) avec double paire, Dames et Sept
+
+
+
+Main PokerStars n°237959849480 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 13/08/2022 9:42:30 CET [13/08/2022 3:42:30 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (10615 en jetons) 
+Place 3: psychoman59 (4135 en jetons) 
+Place 4: perlaoro (5250 en jetons) 
+ypp01 : met l'ante. 50
+psychoman59 : met l'ante. 50
+perlaoro : met l'ante. 50
+psychoman59 : met la petite blind. 200
+perlaoro : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 2d]
+ypp01 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à perlaoro.
+perlaoro a remporté 550  lors du pot .
+*** SYNTHÈSE ***
+Pot total 550 | Commission 0 
+Siège 1 : ypp01 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : perlaoro (grosse blind) a remporté (550)
+
+
+
+Main PokerStars n°237959850578 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 13/08/2022 9:42:38 CET [13/08/2022 3:42:38 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (10565 en jetons) 
+Place 3: psychoman59 (3885 en jetons) 
+Place 4: perlaoro (5550 en jetons) 
+ypp01 : met l'ante. 50
+psychoman59 : met l'ante. 50
+perlaoro : met l'ante. 50
+perlaoro : met la petite blind. 200
+ypp01 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 5h]
+psychoman59 : relance. 3435 à 3835 et est all-in.
+perlaoro : passe. 
+ypp01 : passe. 
+Personne n'a suivi. (3435) sont retournés à psychoman59.
+psychoman59 a remporté 1150  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1150 | Commission 0 
+Siège 1 : ypp01 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (1150)
+Siège 4 : perlaoro (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959855485 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 13/08/2022 9:43:16 CET [13/08/2022 3:43:16 ET]
+Table '3455565050 1' 4-max Siège #4 est au bouton.
+Place 1: ypp01 (10115 en jetons) 
+Place 3: psychoman59 (4585 en jetons) 
+Place 4: perlaoro (5300 en jetons) 
+ypp01 : met l'ante. 50
+psychoman59 : met l'ante. 50
+perlaoro : met l'ante. 50
+ypp01 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Td]
+perlaoro : passe. 
+ypp01 : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 550  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 550 | Commission 0 
+Siège 1 : ypp01 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (550)
+Siège 4 : perlaoro (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237959857407 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 13/08/2022 9:43:31 CET [13/08/2022 3:43:31 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (9865 en jetons) 
+Place 3: psychoman59 (4885 en jetons) 
+Place 4: perlaoro (5250 en jetons) 
+ypp01 : met l'ante. 60
+psychoman59 : met l'ante. 60
+perlaoro : met l'ante. 60
+psychoman59 : met la petite blind. 250
+perlaoro : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Jh]
+ypp01 : passe. 
+psychoman59 : relance. 500 à 1000
+perlaoro : passe. 
+Personne n'a suivi. (500) sont retournés à psychoman59.
+psychoman59 a remporté 1180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1180 | Commission 0 
+Siège 1 : ypp01 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (1180)
+Siège 4 : perlaoro (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959858809 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 13/08/2022 9:43:42 CET [13/08/2022 3:43:42 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (9805 en jetons) 
+Place 3: psychoman59 (5505 en jetons) 
+Place 4: perlaoro (4690 en jetons) 
+ypp01 : met l'ante. 60
+psychoman59 : met l'ante. 60
+perlaoro : met l'ante. 60
+perlaoro : met la petite blind. 250
+ypp01 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 3h]
+psychoman59 : passe. 
+perlaoro : suit. 250
+ypp01 : parole 
+*** FLOP *** [9s Ad 4h]
+perlaoro : parole 
+ypp01 : parole 
+*** TOURNANT *** [9s Ad 4h] [5h]
+perlaoro : parole 
+ypp01 : parole 
+*** RIVIÈRE *** [9s Ad 4h 5h] [4c]
+perlaoro : parole 
+ypp01 : parole 
+*** ABATTAGE ***
+perlaoro : montre [Ks Jc] (une paire de Quatre)
+ypp01 : cache la main perdante. 
+perlaoro a remporté 1180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1180 | Commission 0 
+Tableau [9s Ad 4h 5h 4c]
+Siège 1 : ypp01 (grosse blind) a caché la main perdante. [6s Td]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : perlaoro (petite blind) a montré [Ks Jc] et a gagné (1180) avec une paire de Quatre
+
+
+
+Main PokerStars n°237959870953 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 13/08/2022 9:44:03 CET [13/08/2022 3:44:03 ET]
+Table '3455565050 1' 4-max Siège #4 est au bouton.
+Place 1: ypp01 (9245 en jetons) 
+Place 3: psychoman59 (5445 en jetons) 
+Place 4: perlaoro (5310 en jetons) 
+ypp01 : met l'ante. 60
+psychoman59 : met l'ante. 60
+perlaoro : met l'ante. 60
+ypp01 : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 6d]
+perlaoro : passe. 
+ypp01 : suit. 250
+psychoman59 : relance. 4885 à 5385 et est all-in.
+ypp01 : passe. 
+Personne n'a suivi. (4885) sont retournés à psychoman59.
+psychoman59 a remporté 1180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1180 | Commission 0 
+Siège 1 : ypp01 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (1180)
+Siège 4 : perlaoro (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237959872485 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 13/08/2022 9:44:15 CET [13/08/2022 3:44:15 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (8685 en jetons) 
+Place 3: psychoman59 (6065 en jetons) 
+Place 4: perlaoro (5250 en jetons) 
+ypp01 : met l'ante. 60
+psychoman59 : met l'ante. 60
+perlaoro : met l'ante. 60
+psychoman59 : met la petite blind. 250
+perlaoro : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 8s]
+ypp01 : suit. 500
+psychoman59 : passe. 
+perlaoro : parole 
+*** FLOP *** [4s 2c 7h]
+perlaoro : parole 
+ypp01 : parole 
+*** TOURNANT *** [4s 2c 7h] [8d]
+perlaoro : parole 
+ypp01 : mise. 1000
+perlaoro : passe. 
+Personne n'a suivi. (1000) sont retournés à ypp01.
+ypp01 a remporté 1430  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1430 | Commission 0 
+Tableau [4s 2c 7h 8d]
+Siège 1 : ypp01 (bouton) a remporté (1430)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : perlaoro (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237959875684 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 13/08/2022 9:44:40 CET [13/08/2022 3:44:40 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (9555 en jetons) 
+Place 3: psychoman59 (5755 en jetons) 
+Place 4: perlaoro (4690 en jetons) 
+ypp01 : met l'ante. 60
+psychoman59 : met l'ante. 60
+perlaoro : met l'ante. 60
+perlaoro : met la petite blind. 250
+ypp01 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Qs]
+psychoman59 : passe. 
+perlaoro : suit. 250
+ypp01 : parole 
+*** FLOP *** [Jh 3h 6s]
+perlaoro : parole 
+ypp01 : parole 
+*** TOURNANT *** [Jh 3h 6s] [9d]
+perlaoro : parole 
+ypp01 : parole 
+*** RIVIÈRE *** [Jh 3h 6s 9d] [4d]
+perlaoro : parole 
+ypp01 : parole 
+*** ABATTAGE ***
+perlaoro : montre [Ad Tc] (Hauteur As)
+ypp01 : cache la main perdante. 
+perlaoro a remporté 1180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1180 | Commission 0 
+Tableau [Jh 3h 6s 9d 4d]
+Siège 1 : ypp01 (grosse blind) a caché la main perdante. [5h Ks]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : perlaoro (petite blind) a montré [Ad Tc] et a gagné (1180) avec Hauteur As
+
+
+
+Main PokerStars n°237959878160 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 13/08/2022 9:45:00 CET [13/08/2022 3:45:00 ET]
+Table '3455565050 1' 4-max Siège #4 est au bouton.
+Place 1: ypp01 (8995 en jetons) 
+Place 3: psychoman59 (5695 en jetons) 
+Place 4: perlaoro (5310 en jetons) 
+ypp01 : met l'ante. 60
+psychoman59 : met l'ante. 60
+perlaoro : met l'ante. 60
+ypp01 : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 8c]
+perlaoro : passe. 
+ypp01 : suit. 250
+psychoman59 : parole 
+*** FLOP *** [6s Kc 6d]
+ypp01 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6s Kc 6d] [5h]
+ypp01 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6s Kc 6d 5h] [9s]
+ypp01 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+ypp01 : montre [Th 2d] (une paire de Six)
+psychoman59 : montre [9c 8c] (double paire, Neuf et Six)
+psychoman59 a remporté 1180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1180 | Commission 0 
+Tableau [6s Kc 6d 5h 9s]
+Siège 1 : ypp01 (petite blind) a montré [Th 2d] et a perdu avec une paire de Six
+Siège 3 : psychoman59 (grosse blind) a montré [9c 8c] et a gagné (1180) avec double paire, Neuf et Six
+Siège 4 : perlaoro (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237959881479 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 13/08/2022 9:45:26 CET [13/08/2022 3:45:26 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (8435 en jetons) 
+Place 3: psychoman59 (6315 en jetons) 
+Place 4: perlaoro (5250 en jetons) 
+ypp01 : met l'ante. 60
+psychoman59 : met l'ante. 60
+perlaoro : met l'ante. 60
+psychoman59 : met la petite blind. 250
+perlaoro : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Kc]
+ypp01 : passe. 
+psychoman59 : suit. 250
+perlaoro : parole 
+*** FLOP *** [3h 2h Qc]
+psychoman59 : parole 
+perlaoro : mise. 500
+psychoman59 : passe. 
+Personne n'a suivi. (500) sont retournés à perlaoro.
+perlaoro a remporté 1180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1180 | Commission 0 
+Tableau [3h 2h Qc]
+Siège 1 : ypp01 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 4 : perlaoro (grosse blind) a remporté (1180)
+
+
+
+Main PokerStars n°237959883843 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 13/08/2022 9:45:45 CET [13/08/2022 3:45:45 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (8375 en jetons) 
+Place 3: psychoman59 (5755 en jetons) 
+Place 4: perlaoro (5870 en jetons) 
+ypp01 : met l'ante. 60
+psychoman59 : met l'ante. 60
+perlaoro : met l'ante. 60
+perlaoro : met la petite blind. 250
+ypp01 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ac]
+psychoman59 : relance. 5195 à 5695 et est all-in.
+perlaoro : passe. 
+ypp01 : passe. 
+Personne n'a suivi. (5195) sont retournés à psychoman59.
+psychoman59 a remporté 1430  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1430 | Commission 0 
+Siège 1 : ypp01 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (1430)
+Siège 4 : perlaoro (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959885315 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 13/08/2022 9:45:56 CET [13/08/2022 3:45:56 ET]
+Table '3455565050 1' 4-max Siège #4 est au bouton.
+Place 1: ypp01 (7815 en jetons) 
+Place 3: psychoman59 (6625 en jetons) 
+Place 4: perlaoro (5560 en jetons) 
+ypp01 : met l'ante. 60
+psychoman59 : met l'ante. 60
+perlaoro : met l'ante. 60
+ypp01 : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 7h]
+perlaoro : passe. 
+ypp01 : suit. 250
+psychoman59 : parole 
+*** FLOP *** [2h 2c 3h]
+ypp01 : parole 
+psychoman59 : mise. 6065 et est all-in.
+ypp01 : passe. 
+Personne n'a suivi. (6065) sont retournés à psychoman59.
+psychoman59 a remporté 1180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1180 | Commission 0 
+Tableau [2h 2c 3h]
+Siège 1 : ypp01 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (1180)
+Siège 4 : perlaoro (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237959887542 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 13/08/2022 9:46:14 CET [13/08/2022 3:46:14 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (7255 en jetons) 
+Place 3: psychoman59 (7245 en jetons) 
+Place 4: perlaoro (5500 en jetons) 
+ypp01 : met l'ante. 60
+psychoman59 : met l'ante. 60
+perlaoro : met l'ante. 60
+psychoman59 : met la petite blind. 250
+perlaoro : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 3h]
+ypp01 : suit. 500
+psychoman59 : passe. 
+perlaoro : parole 
+*** FLOP *** [4h 6c 8d]
+perlaoro : parole 
+ypp01 : mise. 500
+perlaoro : relance. 2000 à 2500
+ypp01 : passe. 
+Personne n'a suivi. (2000) sont retournés à perlaoro.
+perlaoro a remporté 2430  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2430 | Commission 0 
+Tableau [4h 6c 8d]
+Siège 1 : ypp01 (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : perlaoro (grosse blind) a remporté (2430)
+
+
+
+Main PokerStars n°237959890190 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 13/08/2022 9:46:34 CET [13/08/2022 3:46:34 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (6195 en jetons) 
+Place 3: psychoman59 (6935 en jetons) 
+Place 4: perlaoro (6870 en jetons) 
+ypp01 : met l'ante. 70
+psychoman59 : met l'ante. 70
+perlaoro : met l'ante. 70
+perlaoro : met la petite blind. 300
+ypp01 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Ks]
+psychoman59 : passe. 
+perlaoro : suit. 300
+ypp01 : parole 
+*** FLOP *** [Ac Kc 6d]
+perlaoro : parole 
+ypp01 : parole 
+*** TOURNANT *** [Ac Kc 6d] [2c]
+perlaoro : parole 
+ypp01 : parole 
+*** RIVIÈRE *** [Ac Kc 6d 2c] [Jd]
+perlaoro : parole 
+ypp01 : parole 
+*** ABATTAGE ***
+perlaoro : montre [9c Td] (Hauteur As)
+ypp01 : cache la main perdante. 
+perlaoro a remporté 1410  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1410 | Commission 0 
+Tableau [Ac Kc 6d 2c Jd]
+Siège 1 : ypp01 (grosse blind) a caché la main perdante. [8c 9s]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : perlaoro (petite blind) a montré [9c Td] et a gagné (1410) avec Hauteur As
+
+
+
+Main PokerStars n°237959893396 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 13/08/2022 9:46:59 CET [13/08/2022 3:46:59 ET]
+Table '3455565050 1' 4-max Siège #4 est au bouton.
+Place 1: ypp01 (5525 en jetons) 
+Place 3: psychoman59 (6865 en jetons) 
+Place 4: perlaoro (7610 en jetons) 
+ypp01 : met l'ante. 70
+psychoman59 : met l'ante. 70
+perlaoro : met l'ante. 70
+ypp01 : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Js]
+perlaoro : passe. 
+ypp01 : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 810  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 810 | Commission 0 
+Siège 1 : ypp01 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (810)
+Siège 4 : perlaoro (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237959894440 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 13/08/2022 9:47:07 CET [13/08/2022 3:47:07 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (5155 en jetons) 
+Place 3: psychoman59 (7305 en jetons) 
+Place 4: perlaoro (7540 en jetons) 
+ypp01 : met l'ante. 70
+psychoman59 : met l'ante. 70
+perlaoro : met l'ante. 70
+psychoman59 : met la petite blind. 300
+perlaoro : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 4c]
+ypp01 : suit. 600
+psychoman59 : suit. 300
+perlaoro : parole 
+*** FLOP *** [Ah 2h 8h]
+psychoman59 : parole 
+perlaoro : parole 
+ypp01 : parole 
+*** TOURNANT *** [Ah 2h 8h] [6c]
+psychoman59 : parole 
+perlaoro : parole 
+ypp01 : mise. 600
+psychoman59 : passe. 
+perlaoro : suit. 600
+*** RIVIÈRE *** [Ah 2h 8h 6c] [Td]
+perlaoro : parole 
+ypp01 : mise. 2400
+perlaoro : passe. 
+Personne n'a suivi. (2400) sont retournés à ypp01.
+ypp01 a remporté 3210  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 3210 | Commission 0 
+Tableau [Ah 2h 8h 6c Td]
+Siège 1 : ypp01 (bouton) a remporté (3210)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 4 : perlaoro (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237959898445 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 13/08/2022 9:47:38 CET [13/08/2022 3:47:38 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (7095 en jetons) 
+Place 3: psychoman59 (6635 en jetons) 
+Place 4: perlaoro (6270 en jetons) 
+ypp01 : met l'ante. 70
+psychoman59 : met l'ante. 70
+perlaoro : met l'ante. 70
+perlaoro : met la petite blind. 300
+ypp01 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Jc]
+psychoman59 : relance. 1710 à 2310
+perlaoro : passe. 
+ypp01 : suit. 1710
+*** FLOP *** [Qh Kc 8c]
+ypp01 : mise. 600
+psychoman59 : relance. 3655 à 4255 et est all-in.
+ypp01 : passe. 
+Personne n'a suivi. (3655) sont retournés à psychoman59.
+psychoman59 a remporté 6330  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 6330 | Commission 0 
+Tableau [Qh Kc 8c]
+Siège 1 : ypp01 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a remporté (6330)
+Siège 4 : perlaoro (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959901127 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 13/08/2022 9:47:59 CET [13/08/2022 3:47:59 ET]
+Table '3455565050 1' 4-max Siège #4 est au bouton.
+Place 1: ypp01 (4115 en jetons) 
+Place 3: psychoman59 (9985 en jetons) 
+Place 4: perlaoro (5900 en jetons) 
+ypp01 : met l'ante. 70
+psychoman59 : met l'ante. 70
+perlaoro : met l'ante. 70
+ypp01 : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 6h]
+perlaoro : passe. 
+ypp01 : suit. 300
+psychoman59 : parole 
+*** FLOP *** [Ah Qs 3h]
+ypp01 : mise. 1200
+psychoman59 : passe. 
+Personne n'a suivi. (1200) sont retournés à ypp01.
+ypp01 a remporté 1410  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1410 | Commission 0 
+Tableau [Ah Qs 3h]
+Siège 1 : ypp01 (petite blind) a remporté (1410)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 4 : perlaoro (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237959902867 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 13/08/2022 9:48:12 CET [13/08/2022 3:48:12 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (4855 en jetons) 
+Place 3: psychoman59 (9315 en jetons) 
+Place 4: perlaoro (5830 en jetons) 
+ypp01 : met l'ante. 70
+psychoman59 : met l'ante. 70
+perlaoro : met l'ante. 70
+psychoman59 : met la petite blind. 300
+perlaoro : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Kc]
+ypp01 : suit. 600
+psychoman59 : passe. 
+perlaoro : parole 
+*** FLOP *** [7s 4s Ad]
+perlaoro : parole 
+ypp01 : parole 
+*** TOURNANT *** [7s 4s Ad] [5c]
+perlaoro : parole 
+ypp01 : parole 
+*** RIVIÈRE *** [7s 4s Ad 5c] [5d]
+perlaoro : mise. 600
+ypp01 : passe. 
+Personne n'a suivi. (600) sont retournés à perlaoro.
+perlaoro a remporté 1710  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1710 | Commission 0 
+Tableau [7s 4s Ad 5c 5d]
+Siège 1 : ypp01 (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : perlaoro (grosse blind) a remporté (1710)
+
+
+
+Main PokerStars n°237959905713 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 13/08/2022 9:48:34 CET [13/08/2022 3:48:34 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (4185 en jetons) 
+Place 3: psychoman59 (8945 en jetons) 
+Place 4: perlaoro (6870 en jetons) 
+ypp01 : met l'ante. 70
+psychoman59 : met l'ante. 70
+perlaoro : met l'ante. 70
+perlaoro : met la petite blind. 300
+ypp01 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qc]
+psychoman59 : passe. 
+perlaoro : passe. 
+Personne n'a suivi. (300) sont retournés à ypp01.
+ypp01 a remporté 810  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 810 | Commission 0 
+Siège 1 : ypp01 (grosse blind) a remporté (810)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : perlaoro (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959906668 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 13/08/2022 9:48:41 CET [13/08/2022 3:48:41 ET]
+Table '3455565050 1' 4-max Siège #4 est au bouton.
+Place 1: ypp01 (4625 en jetons) 
+Place 3: psychoman59 (8875 en jetons) 
+Place 4: perlaoro (6500 en jetons) 
+ypp01 : met l'ante. 70
+psychoman59 : met l'ante. 70
+perlaoro : met l'ante. 70
+ypp01 : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 9c]
+perlaoro : passe. 
+ypp01 : relance. 3955 à 4555 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (3955) sont retournés à ypp01.
+ypp01 a remporté 1410  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1410 | Commission 0 
+Siège 1 : ypp01 (petite blind) a remporté (1410)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : perlaoro (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237959908271 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 13/08/2022 9:48:54 CET [13/08/2022 3:48:54 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (5365 en jetons) 
+Place 3: psychoman59 (8205 en jetons) 
+Place 4: perlaoro (6430 en jetons) 
+ypp01 : met l'ante. 70
+psychoman59 : met l'ante. 70
+perlaoro : met l'ante. 70
+psychoman59 : met la petite blind. 300
+perlaoro : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Jh]
+ypp01 : suit. 600
+psychoman59 : suit. 300
+perlaoro : parole 
+*** FLOP *** [3d 7s 4c]
+psychoman59 : parole 
+perlaoro : parole 
+ypp01 : parole 
+*** TOURNANT *** [3d 7s 4c] [6s]
+psychoman59 : parole 
+perlaoro : parole 
+ypp01 : mise. 1200
+psychoman59 : passe. 
+perlaoro : passe. 
+Personne n'a suivi. (1200) sont retournés à ypp01.
+ypp01 a remporté 2010  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2010 | Commission 0 
+Tableau [3d 7s 4c 6s]
+Siège 1 : ypp01 (bouton) a remporté (2010)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 4 : perlaoro (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237959912268 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 13/08/2022 9:49:25 CET [13/08/2022 3:49:25 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (6705 en jetons) 
+Place 3: psychoman59 (7535 en jetons) 
+Place 4: perlaoro (5760 en jetons) 
+ypp01 : met l'ante. 70
+psychoman59 : met l'ante. 70
+perlaoro : met l'ante. 70
+perlaoro : met la petite blind. 300
+ypp01 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 9h]
+psychoman59 : passe. 
+perlaoro : suit. 300
+ypp01 : parole 
+*** FLOP *** [7c 3c Jh]
+perlaoro : parole 
+ypp01 : mise. 1200
+perlaoro : relance. 3890 à 5090 et est all-in.
+ypp01 : suit. 3890
+*** TOURNANT *** [7c 3c Jh] [Td]
+*** RIVIÈRE *** [7c 3c Jh Td] [5d]
+*** ABATTAGE ***
+perlaoro : montre [Js 7s] (double paire, Valets et Sept)
+ypp01 : montre [Ts Jd] (double paire, Valets et Dix)
+ypp01 a remporté 11590  lors du pot .
+perlaoro a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 11590 | Commission 0 
+Tableau [7c 3c Jh Td 5d]
+Siège 1 : ypp01 (grosse blind) a montré [Ts Jd] et a gagné (11590) avec double paire, Valets et Dix
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : perlaoro (petite blind) a montré [Js 7s] et a perdu avec double paire, Valets et Sept
+
+
+
+Main PokerStars n°237959915538 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 13/08/2022 9:49:49 CET [13/08/2022 3:49:49 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (12535 en jetons) 
+Place 3: psychoman59 (7465 en jetons) 
+ypp01 : met l'ante. 85
+psychoman59 : met l'ante. 85
+ypp01 : met la petite blind. 350
+psychoman59 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Qc]
+ypp01 : suit. 350
+psychoman59 : relance. 6680 à 7380 et est all-in.
+ypp01 : passe. 
+Personne n'a suivi. (6680) sont retournés à psychoman59.
+psychoman59 a remporté 1570  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1570 | Commission 0 
+Siège 1 : ypp01 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (1570)
+
+
+
+Main PokerStars n°237959917173 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 13/08/2022 9:50:02 CET [13/08/2022 3:50:02 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (11750 en jetons) 
+Place 3: psychoman59 (8250 en jetons) 
+ypp01 : met l'ante. 85
+psychoman59 : met l'ante. 85
+psychoman59 : met la petite blind. 350
+ypp01 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Ah]
+psychoman59 : relance. 1570 à 2270
+ypp01 : passe. 
+Personne n'a suivi. (1570) sont retournés à psychoman59.
+psychoman59 a remporté 1570  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1570 | Commission 0 
+Siège 1 : ypp01 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (1570)
+
+
+
+Main PokerStars n°237959918289 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 13/08/2022 9:50:11 CET [13/08/2022 3:50:11 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (10965 en jetons) 
+Place 3: psychoman59 (9035 en jetons) 
+ypp01 : met l'ante. 85
+psychoman59 : met l'ante. 85
+ypp01 : met la petite blind. 350
+psychoman59 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 5s]
+ypp01 : suit. 350
+psychoman59 : parole 
+*** FLOP *** [2s 5d Kd]
+psychoman59 : parole 
+ypp01 : parole 
+*** TOURNANT *** [2s 5d Kd] [Qd]
+psychoman59 : parole 
+ypp01 : mise. 700
+psychoman59 : passe. 
+Personne n'a suivi. (700) sont retournés à ypp01.
+ypp01 a remporté 1570  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1570 | Commission 0 
+Tableau [2s 5d Kd Qd]
+Siège 1 : ypp01 (bouton) (petite blind) a remporté (1570)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237959920693 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 13/08/2022 9:50:29 CET [13/08/2022 3:50:29 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (11750 en jetons) 
+Place 3: psychoman59 (8250 en jetons) 
+ypp01 : met l'ante. 85
+psychoman59 : met l'ante. 85
+psychoman59 : met la petite blind. 350
+ypp01 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 4d]
+psychoman59 : relance. 7465 à 8165 et est all-in.
+ypp01 : passe. 
+Personne n'a suivi. (7465) sont retournés à psychoman59.
+psychoman59 a remporté 1570  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1570 | Commission 0 
+Siège 1 : ypp01 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (1570)
+
+
+
+Main PokerStars n°237959921894 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 13/08/2022 9:50:38 CET [13/08/2022 3:50:38 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (10965 en jetons) 
+Place 3: psychoman59 (9035 en jetons) 
+ypp01 : met l'ante. 85
+psychoman59 : met l'ante. 85
+ypp01 : met la petite blind. 350
+psychoman59 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 4s]
+ypp01 : suit. 350
+psychoman59 : parole 
+*** FLOP *** [Jd 8h 9d]
+psychoman59 : parole 
+ypp01 : mise. 2100
+psychoman59 : relance. 6150 à 8250 et est all-in.
+ypp01 : suit. 6150
+*** TOURNANT *** [Jd 8h 9d] [8s]
+*** RIVIÈRE *** [Jd 8h 9d 8s] [Ac]
+*** ABATTAGE ***
+psychoman59 : montre [Js 4s] (double paire, Valets et Huit)
+ypp01 : montre [3h Jh] (double paire, Valets et Huit)
+psychoman59 a remporté 9035  lors du pot .
+ypp01 a remporté 9035  lors du pot .
+*** SYNTHÈSE ***
+Pot total 18070 | Commission 0 
+Tableau [Jd 8h 9d 8s Ac]
+Siège 1 : ypp01 (bouton) (petite blind) a montré [3h Jh] et a gagné (9035) avec double paire, Valets et Huit
+Siège 3 : psychoman59 (grosse blind) a montré [Js 4s] et a gagné (9035) avec double paire, Valets et Huit
+
+
+
+Main PokerStars n°237959925035 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 13/08/2022 9:51:03 CET [13/08/2022 3:51:03 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (10965 en jetons) 
+Place 3: psychoman59 (9035 en jetons) 
+ypp01 : met l'ante. 85
+psychoman59 : met l'ante. 85
+psychoman59 : met la petite blind. 350
+ypp01 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 9h]
+psychoman59 : suit. 350
+ypp01 : parole 
+*** FLOP *** [Ah Qh 5c]
+ypp01 : parole 
+psychoman59 : mise. 1570
+ypp01 : passe. 
+Personne n'a suivi. (1570) sont retournés à psychoman59.
+psychoman59 a remporté 1570  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1570 | Commission 0 
+Tableau [Ah Qh 5c]
+Siège 1 : ypp01 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (1570)
+
+
+
+Main PokerStars n°237959927039 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 13/08/2022 9:51:18 CET [13/08/2022 3:51:18 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (10180 en jetons) 
+Place 3: psychoman59 (9820 en jetons) 
+ypp01 : met l'ante. 85
+psychoman59 : met l'ante. 85
+ypp01 : met la petite blind. 350
+psychoman59 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Jd]
+ypp01 : passe. 
+Personne n'a suivi. (350) sont retournés à psychoman59.
+psychoman59 a remporté 870  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Siège 1 : ypp01 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (870)
+
+
+
+Main PokerStars n°237959927964 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 13/08/2022 9:51:26 CET [13/08/2022 3:51:26 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (9745 en jetons) 
+Place 3: psychoman59 (10255 en jetons) 
+ypp01 : met l'ante. 85
+psychoman59 : met l'ante. 85
+psychoman59 : met la petite blind. 350
+ypp01 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (350) sont retournés à ypp01.
+ypp01 a remporté 870  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Siège 1 : ypp01 (grosse blind) a remporté (870)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959928766 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 13/08/2022 9:51:32 CET [13/08/2022 3:51:32 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (10180 en jetons) 
+Place 3: psychoman59 (9820 en jetons) 
+ypp01 : met l'ante. 85
+psychoman59 : met l'ante. 85
+ypp01 : met la petite blind. 350
+psychoman59 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 5s]
+ypp01 : suit. 350
+psychoman59 : parole 
+*** FLOP *** [As 4d Jd]
+psychoman59 : parole 
+ypp01 : mise. 700
+psychoman59 : passe. 
+Personne n'a suivi. (700) sont retournés à ypp01.
+ypp01 a remporté 1570  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1570 | Commission 0 
+Tableau [As 4d Jd]
+Siège 1 : ypp01 (bouton) (petite blind) a remporté (1570)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237959930648 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 13/08/2022 9:51:46 CET [13/08/2022 3:51:46 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (10965 en jetons) 
+Place 3: psychoman59 (9035 en jetons) 
+ypp01 : met l'ante. 85
+psychoman59 : met l'ante. 85
+psychoman59 : met la petite blind. 350
+ypp01 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 9h]
+psychoman59 : passe. 
+Personne n'a suivi. (350) sont retournés à ypp01.
+ypp01 a remporté 870  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Siège 1 : ypp01 (grosse blind) a remporté (870)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959931967 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 13/08/2022 9:51:56 CET [13/08/2022 3:51:56 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (11400 en jetons) 
+Place 3: psychoman59 (8600 en jetons) 
+ypp01 : met l'ante. 85
+psychoman59 : met l'ante. 85
+ypp01 : met la petite blind. 350
+psychoman59 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 2d]
+ypp01 : suit. 350
+psychoman59 : parole 
+*** FLOP *** [4c 5s 8h]
+psychoman59 : parole 
+ypp01 : parole 
+*** TOURNANT *** [4c 5s 8h] [4s]
+psychoman59 : parole 
+ypp01 : parole 
+*** RIVIÈRE *** [4c 5s 8h 4s] [5h]
+psychoman59 : parole 
+ypp01 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qd 2d] (double paire, Cinq et Quatre)
+ypp01 : montre [Kd 3c] (double paire, Cinq et Quatre - Roi kicker)
+ypp01 a remporté 1570  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1570 | Commission 0 
+Tableau [4c 5s 8h 4s 5h]
+Siège 1 : ypp01 (bouton) (petite blind) a montré [Kd 3c] et a gagné (1570) avec double paire, Cinq et Quatre
+Siège 3 : psychoman59 (grosse blind) a montré [Qd 2d] et a perdu avec double paire, Cinq et Quatre
+
+
+
+Main PokerStars n°237959934978 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 13/08/2022 9:52:20 CET [13/08/2022 3:52:20 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (12185 en jetons) 
+Place 3: psychoman59 (7815 en jetons) 
+ypp01 : met l'ante. 85
+psychoman59 : met l'ante. 85
+psychoman59 : met la petite blind. 350
+ypp01 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 6d]
+psychoman59 : suit. 350
+ypp01 : parole 
+*** FLOP *** [Qc 5d 8d]
+ypp01 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qc 5d 8d] [7s]
+ypp01 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qc 5d 8d 7s] [Tc]
+ypp01 : mise. 2100
+psychoman59 : suit. 2100
+*** ABATTAGE ***
+ypp01 : montre [Ts 6h] (une paire de Dix)
+psychoman59 : montre [Td 6d] (une paire de Dix)
+ypp01 a remporté 2885  lors du pot .
+psychoman59 a remporté 2885  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5770 | Commission 0 
+Tableau [Qc 5d 8d 7s Tc]
+Siège 1 : ypp01 (grosse blind) a montré [Ts 6h] et a gagné (2885) avec une paire de Dix
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Td 6d] et a gagné (2885) avec une paire de Dix
+
+
+
+Main PokerStars n°237959937897 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XI (400/800) - 13/08/2022 9:52:43 CET [13/08/2022 3:52:43 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (12185 en jetons) 
+Place 3: psychoman59 (7815 en jetons) 
+ypp01 : met l'ante. 100
+psychoman59 : met l'ante. 100
+ypp01 : met la petite blind. 400
+psychoman59 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 3d]
+ypp01 : relance. 800 à 1600
+psychoman59 : passe. 
+Personne n'a suivi. (800) sont retournés à ypp01.
+ypp01 a remporté 1800  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1800 | Commission 0 
+Siège 1 : ypp01 (bouton) (petite blind) a remporté (1800)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959938974 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XI (400/800) - 13/08/2022 9:52:51 CET [13/08/2022 3:52:51 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (13085 en jetons) 
+Place 3: psychoman59 (6915 en jetons) 
+ypp01 : met l'ante. 100
+psychoman59 : met l'ante. 100
+psychoman59 : met la petite blind. 400
+ypp01 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Th]
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à ypp01.
+ypp01 a remporté 1000  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Siège 1 : ypp01 (grosse blind) a remporté (1000)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959939928 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XI (400/800) - 13/08/2022 9:52:58 CET [13/08/2022 3:52:58 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (13585 en jetons) 
+Place 3: psychoman59 (6415 en jetons) 
+ypp01 : met l'ante. 100
+psychoman59 : met l'ante. 100
+ypp01 : met la petite blind. 400
+psychoman59 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 5d]
+ypp01 : suit. 400
+psychoman59 : parole 
+*** FLOP *** [Ac 5c 5s]
+psychoman59 : parole 
+ypp01 : parole 
+*** TOURNANT *** [Ac 5c 5s] [Qd]
+psychoman59 : parole 
+ypp01 : parole 
+*** RIVIÈRE *** [Ac 5c 5s Qd] [6s]
+psychoman59 : mise. 900
+ypp01 : suit. 900
+*** ABATTAGE ***
+psychoman59 : montre [3d 5d] (un brelan de Cinq)
+ypp01 : cache la main perdante. 
+psychoman59 a remporté 3600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3600 | Commission 0 
+Tableau [Ac 5c 5s Qd 6s]
+Siège 1 : ypp01 (bouton) (petite blind) a caché la main perdante. [6d 7d]
+Siège 3 : psychoman59 (grosse blind) a montré [3d 5d] et a gagné (3600) avec un brelan de Cinq
+
+
+
+Main PokerStars n°237959942803 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XI (400/800) - 13/08/2022 9:53:20 CET [13/08/2022 3:53:20 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (11785 en jetons) 
+Place 3: psychoman59 (8215 en jetons) 
+ypp01 : met l'ante. 100
+psychoman59 : met l'ante. 100
+psychoman59 : met la petite blind. 400
+ypp01 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à ypp01.
+ypp01 a remporté 1000  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Siège 1 : ypp01 (grosse blind) a remporté (1000)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959943737 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XI (400/800) - 13/08/2022 9:53:28 CET [13/08/2022 3:53:28 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (12285 en jetons) 
+Place 3: psychoman59 (7715 en jetons) 
+ypp01 : met l'ante. 100
+psychoman59 : met l'ante. 100
+ypp01 : met la petite blind. 400
+psychoman59 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ad]
+ypp01 : relance. 800 à 1600
+psychoman59 : relance. 6015 à 7615 et est all-in.
+ypp01 : suit. 6015
+*** FLOP *** [Ts Kh Qd]
+*** TOURNANT *** [Ts Kh Qd] [3s]
+*** RIVIÈRE *** [Ts Kh Qd 3s] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [Tc Ad] (une paire de Dix)
+ypp01 : montre [8c 8h] (une paire de Huit)
+psychoman59 a remporté 15430  lors du pot .
+*** SYNTHÈSE ***
+Pot total 15430 | Commission 0 
+Tableau [Ts Kh Qd 3s 9c]
+Siège 1 : ypp01 (bouton) (petite blind) a montré [8c 8h] et a perdu avec une paire de Huit
+Siège 3 : psychoman59 (grosse blind) a montré [Tc Ad] et a gagné (15430) avec une paire de Dix
+
+
+
+Main PokerStars n°237959945926 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XI (400/800) - 13/08/2022 9:53:45 CET [13/08/2022 3:53:45 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (4570 en jetons) 
+Place 3: psychoman59 (15430 en jetons) 
+ypp01 : met l'ante. 100
+psychoman59 : met l'ante. 100
+psychoman59 : met la petite blind. 400
+ypp01 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à ypp01.
+ypp01 a remporté 1000  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Siège 1 : ypp01 (grosse blind) a remporté (1000)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959946857 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XI (400/800) - 13/08/2022 9:53:52 CET [13/08/2022 3:53:52 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (5070 en jetons) 
+Place 3: psychoman59 (14930 en jetons) 
+ypp01 : met l'ante. 100
+psychoman59 : met l'ante. 100
+ypp01 : met la petite blind. 400
+psychoman59 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 2s]
+ypp01 : relance. 4170 à 4970 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (4170) sont retournés à ypp01.
+ypp01 a remporté 1800  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1800 | Commission 0 
+Siège 1 : ypp01 (bouton) (petite blind) a remporté (1800)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959948020 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XI (400/800) - 13/08/2022 9:54:02 CET [13/08/2022 3:54:02 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (5970 en jetons) 
+Place 3: psychoman59 (14030 en jetons) 
+ypp01 : met l'ante. 100
+psychoman59 : met l'ante. 100
+psychoman59 : met la petite blind. 400
+ypp01 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Js]
+psychoman59 : relance. 1800 à 2600
+ypp01 : passe. 
+Personne n'a suivi. (1800) sont retournés à psychoman59.
+psychoman59 a remporté 1800  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1800 | Commission 0 
+Siège 1 : ypp01 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (1800)
+
+
+
+Main PokerStars n°237959949267 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XI (400/800) - 13/08/2022 9:54:11 CET [13/08/2022 3:54:11 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (5070 en jetons) 
+Place 3: psychoman59 (14930 en jetons) 
+ypp01 : met l'ante. 100
+psychoman59 : met l'ante. 100
+ypp01 : met la petite blind. 400
+psychoman59 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Qh]
+ypp01 : passe. 
+Personne n'a suivi. (400) sont retournés à psychoman59.
+psychoman59 a remporté 1000  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Siège 1 : ypp01 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (1000)
+
+
+
+Main PokerStars n°237959950138 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XI (400/800) - 13/08/2022 9:54:18 CET [13/08/2022 3:54:18 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (4570 en jetons) 
+Place 3: psychoman59 (15430 en jetons) 
+ypp01 : met l'ante. 100
+psychoman59 : met l'ante. 100
+psychoman59 : met la petite blind. 400
+ypp01 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à ypp01.
+ypp01 a remporté 1000  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Siège 1 : ypp01 (grosse blind) a remporté (1000)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959951045 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XI (400/800) - 13/08/2022 9:54:26 CET [13/08/2022 3:54:26 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (5070 en jetons) 
+Place 3: psychoman59 (14930 en jetons) 
+ypp01 : met l'ante. 100
+psychoman59 : met l'ante. 100
+ypp01 : met la petite blind. 400
+psychoman59 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 2d]
+ypp01 : suit. 400
+psychoman59 : parole 
+*** FLOP *** [9d Js 2c]
+psychoman59 : parole 
+ypp01 : mise. 800
+psychoman59 : suit. 800
+*** TOURNANT *** [9d Js 2c] [4s]
+psychoman59 : parole 
+ypp01 : parole 
+*** RIVIÈRE *** [9d Js 2c 4s] [Jd]
+psychoman59 : mise. 1700
+ypp01 : passe. 
+Personne n'a suivi. (1700) sont retournés à psychoman59.
+psychoman59 a remporté 3400  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 3400 | Commission 0 
+Tableau [9d Js 2c 4s Jd]
+Siège 1 : ypp01 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (3400)
+
+
+
+Main PokerStars n°237959954181 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XI (400/800) - 13/08/2022 9:54:50 CET [13/08/2022 3:54:50 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (3370 en jetons) 
+Place 3: psychoman59 (16630 en jetons) 
+ypp01 : met l'ante. 100
+psychoman59 : met l'ante. 100
+psychoman59 : met la petite blind. 400
+ypp01 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Jc]
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à ypp01.
+ypp01 a remporté 1000  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Siège 1 : ypp01 (grosse blind) a remporté (1000)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959955150 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XI (400/800) - 13/08/2022 9:54:57 CET [13/08/2022 3:54:57 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (3870 en jetons) 
+Place 3: psychoman59 (16130 en jetons) 
+ypp01 : met l'ante. 100
+psychoman59 : met l'ante. 100
+ypp01 : met la petite blind. 400
+psychoman59 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 8h]
+ypp01 : relance. 2970 à 3770 et est all-in.
+psychoman59 : suit. 2970
+*** FLOP *** [Jc Tc Jd]
+*** TOURNANT *** [Jc Tc Jd] [4d]
+*** RIVIÈRE *** [Jc Tc Jd 4d] [7c]
+*** ABATTAGE ***
+psychoman59 : montre [Ah 8h] (une paire de Valets)
+ypp01 : montre [5d 5s] (double paire, Valets et Cinq)
+ypp01 a remporté 7740  lors du pot .
+*** SYNTHÈSE ***
+Pot total 7740 | Commission 0 
+Tableau [Jc Tc Jd 4d 7c]
+Siège 1 : ypp01 (bouton) (petite blind) a montré [5d 5s] et a gagné (7740) avec double paire, Valets et Cinq
+Siège 3 : psychoman59 (grosse blind) a montré [Ah 8h] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°237959957165 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XI (400/800) - 13/08/2022 9:55:13 CET [13/08/2022 3:55:13 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (7740 en jetons) 
+Place 3: psychoman59 (12260 en jetons) 
+ypp01 : met l'ante. 100
+psychoman59 : met l'ante. 100
+psychoman59 : met la petite blind. 400
+ypp01 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à ypp01.
+ypp01 a remporté 1000  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Siège 1 : ypp01 (grosse blind) a remporté (1000)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237959958028 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XI (400/800) - 13/08/2022 9:55:21 CET [13/08/2022 3:55:21 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (8240 en jetons) 
+Place 3: psychoman59 (11760 en jetons) 
+ypp01 : met l'ante. 100
+psychoman59 : met l'ante. 100
+ypp01 : met la petite blind. 400
+psychoman59 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 8s]
+ypp01 : suit. 400
+psychoman59 : parole 
+*** FLOP *** [4h 5h As]
+psychoman59 : parole 
+ypp01 : mise. 800
+psychoman59 : passe. 
+Personne n'a suivi. (800) sont retournés à ypp01.
+ypp01 a remporté 1800  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1800 | Commission 0 
+Tableau [4h 5h As]
+Siège 1 : ypp01 (bouton) (petite blind) a remporté (1800)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237959959994 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XII (500/1000) - 13/08/2022 9:55:38 CET [13/08/2022 3:55:38 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (9140 en jetons) 
+Place 3: psychoman59 (10860 en jetons) 
+ypp01 : met l'ante. 125
+psychoman59 : met l'ante. 125
+psychoman59 : met la petite blind. 500
+ypp01 : met la grosse blind. 1000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 4s]
+psychoman59 : suit. 500
+ypp01 : parole 
+*** FLOP *** [3d 7d Tc]
+ypp01 : mise. 3000
+psychoman59 : passe. 
+Personne n'a suivi. (3000) sont retournés à ypp01.
+ypp01 a remporté 2250  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2250 | Commission 0 
+Tableau [3d 7d Tc]
+Siège 1 : ypp01 (grosse blind) a remporté (2250)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237959961587 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XII (500/1000) - 13/08/2022 9:55:52 CET [13/08/2022 3:55:52 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (10265 en jetons) 
+Place 3: psychoman59 (9735 en jetons) 
+ypp01 : met l'ante. 125
+psychoman59 : met l'ante. 125
+ypp01 : met la petite blind. 500
+psychoman59 : met la grosse blind. 1000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Ac]
+ypp01 : suit. 500
+psychoman59 : relance. 8610 à 9610 et est all-in.
+ypp01 : passe. 
+Personne n'a suivi. (8610) sont retournés à psychoman59.
+psychoman59 a remporté 2250  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2250 | Commission 0 
+Siège 1 : ypp01 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (2250)
+
+
+
+Main PokerStars n°237959962863 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XII (500/1000) - 13/08/2022 9:56:03 CET [13/08/2022 3:56:03 ET]
+Table '3455565050 1' 4-max Siège #3 est au bouton.
+Place 1: ypp01 (9140 en jetons) 
+Place 3: psychoman59 (10860 en jetons) 
+ypp01 : met l'ante. 125
+psychoman59 : met l'ante. 125
+psychoman59 : met la petite blind. 500
+ypp01 : met la grosse blind. 1000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 5c]
+psychoman59 : suit. 500
+ypp01 : parole 
+*** FLOP *** [2c Ts 7s]
+ypp01 : mise. 2000
+psychoman59 : passe. 
+Personne n'a suivi. (2000) sont retournés à ypp01.
+ypp01 a remporté 2250  lors du pot .
+ypp01 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2250 | Commission 0 
+Tableau [2c Ts 7s]
+Siège 1 : ypp01 (grosse blind) a remporté (2250)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237959964653 : Tournoi #3455565050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau XII (500/1000) - 13/08/2022 9:56:19 CET [13/08/2022 3:56:19 ET]
+Table '3455565050 1' 4-max Siège #1 est au bouton.
+Place 1: ypp01 (10265 en jetons) 
+Place 3: psychoman59 (9735 en jetons) 
+ypp01 : met l'ante. 125
+psychoman59 : met l'ante. 125
+ypp01 : met la petite blind. 500
+psychoman59 : met la grosse blind. 1000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 9d]
+ypp01 : suit. 500
+psychoman59 : parole 
+*** FLOP *** [6h 4h 5h]
+psychoman59 : mise. 8610 et est all-in.
+ypp01 : suit. 8610
+*** TOURNANT *** [6h 4h 5h] [Qh]
+*** RIVIÈRE *** [6h 4h 5h Qh] [Qd]
+*** ABATTAGE ***
+psychoman59 : montre [4c 9d] (double paire, Dames et Quatre)
+ypp01 : montre [Jh 6c] (une couleur, hauteur Dame)
+ypp01 a remporté 19470  lors du pot .
+psychoman59 a fini le tournoi à la 2e place et a reçu 0.34 €.
+ypp01 gagne le tournoi - félicitations !
+ypp01 gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 19470 | Commission 0 
+Tableau [6h 4h 5h Qh Qd]
+Siège 1 : ypp01 (bouton) (petite blind) a montré [Jh 6c] et a gagné (19470) avec une couleur, hauteur Dame
+Siège 3 : psychoman59 (grosse blind) a montré [4c 9d] et a perdu avec double paire, Dames et Quatre
+
+
+

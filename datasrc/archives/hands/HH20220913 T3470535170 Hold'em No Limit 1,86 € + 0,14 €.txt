@@ -1,0 +1,475 @@
+﻿Main PokerStars n°238596776228 : Tournoi #3470535170, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 11:39:18 CET [13/09/2022 5:39:18 ET]
+Table '3470535170 1' 3-max Siège #1 est au bouton.
+Place 1: aure14570 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: ShaqAyanami (300 en jetons) 
+psychoman59 : met la petite blind. 10
+ShaqAyanami : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Kh]
+aure14570 : suit. 20
+psychoman59 : suit. 10
+ShaqAyanami : parole 
+*** FLOP *** [2d 7d Jh]
+psychoman59 : parole 
+ShaqAyanami : parole 
+aure14570 : mise. 20
+psychoman59 : suit. 20
+ShaqAyanami : suit. 20
+*** TOURNANT *** [2d 7d Jh] [5s]
+psychoman59 : parole 
+ShaqAyanami : parole 
+aure14570 : parole 
+*** RIVIÈRE *** [2d 7d Jh 5s] [Ac]
+psychoman59 : parole 
+ShaqAyanami : parole 
+aure14570 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3h Kh] (Hauteur As)
+ShaqAyanami : montre [5d 9d] (une paire de Cinq)
+aure14570 : cache la main perdante. 
+ShaqAyanami a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2d 7d Jh 5s Ac]
+Siège 1 : aure14570 (bouton) a caché la main perdante. [Td 9s]
+Siège 2 : psychoman59 (petite blind) a montré [3h Kh] et a perdu avec Hauteur As
+Siège 3 : ShaqAyanami (grosse blind) a montré [5d 9d] et a gagné (120) avec une paire de Cinq
+
+
+
+Main PokerStars n°238596782722 : Tournoi #3470535170, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 11:40:02 CET [13/09/2022 5:40:02 ET]
+Table '3470535170 1' 3-max Siège #2 est au bouton.
+Place 1: aure14570 (260 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+Place 3: ShaqAyanami (380 en jetons) 
+ShaqAyanami : met la petite blind. 10
+aure14570 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Ah]
+psychoman59 : relance. 240 à 260 et est all-in.
+ShaqAyanami : passe. 
+aure14570 : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : aure14570 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (50)
+Siège 3 : ShaqAyanami (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238596784352 : Tournoi #3470535170, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 11:40:13 CET [13/09/2022 5:40:13 ET]
+Table '3470535170 1' 3-max Siège #3 est au bouton.
+Place 1: aure14570 (240 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: ShaqAyanami (370 en jetons) 
+aure14570 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 2d]
+ShaqAyanami : passe. 
+aure14570 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Kh Th Kc]
+aure14570 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Kh Th Kc] [Tc]
+aure14570 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Kh Th Kc Tc] [6s]
+aure14570 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+aure14570 : montre [7h 6h] (double paire, Rois et Dix)
+psychoman59 : montre [Qc 2d] (double paire, Rois et Dix - Dame kicker)
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Kh Th Kc Tc 6s]
+Siège 1 : aure14570 (petite blind) a montré [7h 6h] et a perdu avec double paire, Rois et Dix
+Siège 2 : psychoman59 (grosse blind) a montré [Qc 2d] et a gagné (40) avec double paire, Rois et Dix
+Siège 3 : ShaqAyanami (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238596788206 : Tournoi #3470535170, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 11:40:38 CET [13/09/2022 5:40:38 ET]
+Table '3470535170 1' 3-max Siège #1 est au bouton.
+Place 1: aure14570 (220 en jetons) 
+Place 2: psychoman59 (310 en jetons) 
+Place 3: ShaqAyanami (370 en jetons) 
+psychoman59 : met la petite blind. 15
+ShaqAyanami : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 9d]
+aure14570 : suit. 30
+psychoman59 : passe. 
+ShaqAyanami : relance. 340 à 370 et est all-in.
+aure14570 : suit. 190 et est all-in.
+Personne n'a suivi. (150) sont retournés à ShaqAyanami.
+*** FLOP *** [Tc 8c 9c]
+*** TOURNANT *** [Tc 8c 9c] [Qs]
+*** RIVIÈRE *** [Tc 8c 9c Qs] [8d]
+*** ABATTAGE ***
+ShaqAyanami : montre [7s 7d] (double paire, Huit et Sept)
+aure14570 : montre [Kc 2c] (une couleur, hauteur Roi)
+aure14570 a remporté 455  lors du pot .
+*** SYNTHÈSE ***
+Pot total 455 | Commission 0 
+Tableau [Tc 8c 9c Qs 8d]
+Siège 1 : aure14570 (bouton) a montré [Kc 2c] et a gagné (455) avec une couleur, hauteur Roi
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : ShaqAyanami (grosse blind) a montré [7s 7d] et a perdu avec double paire, Huit et Sept
+
+
+
+Main PokerStars n°238596790642 : Tournoi #3470535170, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 11:40:55 CET [13/09/2022 5:40:55 ET]
+Table '3470535170 1' 3-max Siège #2 est au bouton.
+Place 1: aure14570 (455 en jetons) 
+Place 2: psychoman59 (295 en jetons) 
+Place 3: ShaqAyanami (150 en jetons) 
+ShaqAyanami : met la petite blind. 15
+aure14570 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 8h]
+psychoman59 : passe. 
+ShaqAyanami : passe. 
+Personne n'a suivi. (15) sont retournés à aure14570.
+aure14570 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : aure14570 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ShaqAyanami (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238596791529 : Tournoi #3470535170, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 11:41:01 CET [13/09/2022 5:41:01 ET]
+Table '3470535170 1' 3-max Siège #3 est au bouton.
+Place 1: aure14570 (470 en jetons) 
+Place 2: psychoman59 (295 en jetons) 
+Place 3: ShaqAyanami (135 en jetons) 
+aure14570 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Tc]
+ShaqAyanami : passe. 
+aure14570 : relance. 60 à 90
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à aure14570.
+aure14570 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : aure14570 (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : ShaqAyanami (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238596792930 : Tournoi #3470535170, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 11:41:10 CET [13/09/2022 5:41:10 ET]
+Table '3470535170 1' 3-max Siège #1 est au bouton.
+Place 1: aure14570 (500 en jetons) 
+Place 2: psychoman59 (265 en jetons) 
+Place 3: ShaqAyanami (135 en jetons) 
+psychoman59 : met la petite blind. 15
+ShaqAyanami : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Jh]
+aure14570 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à ShaqAyanami.
+ShaqAyanami a remporté 30  lors du pot .
+ShaqAyanami : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : aure14570 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : ShaqAyanami (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°238596793937 : Tournoi #3470535170, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/09/2022 11:41:17 CET [13/09/2022 5:41:17 ET]
+Table '3470535170 1' 3-max Siège #2 est au bouton.
+Place 1: aure14570 (500 en jetons) 
+Place 2: psychoman59 (250 en jetons) 
+Place 3: ShaqAyanami (150 en jetons) 
+ShaqAyanami : met la petite blind. 15
+aure14570 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 2h]
+psychoman59 : suit. 30
+ShaqAyanami : passe. 
+aure14570 : parole 
+*** FLOP *** [5s Js Jd]
+aure14570 : parole 
+psychoman59 : mise. 220 et est all-in.
+aure14570 : passe. 
+Personne n'a suivi. (220) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [5s Js Jd]
+Siège 1 : aure14570 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) a remporté (75)
+Siège 3 : ShaqAyanami (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238596796844 : Tournoi #3470535170, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 11:41:37 CET [13/09/2022 5:41:37 ET]
+Table '3470535170 1' 3-max Siège #3 est au bouton.
+Place 1: aure14570 (470 en jetons) 
+Place 2: psychoman59 (295 en jetons) 
+Place 3: ShaqAyanami (135 en jetons) 
+aure14570 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 3d]
+ShaqAyanami : passe. 
+aure14570 : relance. 80 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à aure14570.
+aure14570 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : aure14570 (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : ShaqAyanami (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238596798180 : Tournoi #3470535170, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 11:41:46 CET [13/09/2022 5:41:46 ET]
+Table '3470535170 1' 3-max Siège #1 est au bouton.
+Place 1: aure14570 (510 en jetons) 
+Place 2: psychoman59 (255 en jetons) 
+Place 3: ShaqAyanami (135 en jetons) 
+psychoman59 : met la petite blind. 20
+ShaqAyanami : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 2d]
+aure14570 : relance. 100 à 140
+psychoman59 : passe. 
+ShaqAyanami : suit. 95 et est all-in.
+Personne n'a suivi. (5) sont retournés à aure14570.
+*** FLOP *** [6s 6h Kd]
+*** TOURNANT *** [6s 6h Kd] [Qh]
+*** RIVIÈRE *** [6s 6h Kd Qh] [4h]
+*** ABATTAGE ***
+ShaqAyanami : montre [Kh Ah] (une couleur, hauteur As)
+aure14570 : montre [Jd Ks] (double paire, Rois et Six)
+ShaqAyanami a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Tableau [6s 6h Kd Qh 4h]
+Siège 1 : aure14570 (bouton) a montré [Jd Ks] et a perdu avec double paire, Rois et Six
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : ShaqAyanami (grosse blind) a montré [Kh Ah] et a gagné (290) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°238596800177 : Tournoi #3470535170, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/09/2022 11:41:59 CET [13/09/2022 5:41:59 ET]
+Table '3470535170 1' 3-max Siège #2 est au bouton.
+Place 1: aure14570 (375 en jetons) 
+Place 2: psychoman59 (235 en jetons) 
+Place 3: ShaqAyanami (290 en jetons) 
+ShaqAyanami : met la petite blind. 20
+aure14570 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 9s]
+psychoman59 : relance. 195 à 235 et est all-in.
+ShaqAyanami : passe. 
+aure14570 : suit. 195
+*** FLOP *** [4h Ac 9d]
+*** TOURNANT *** [4h Ac 9d] [6d]
+*** RIVIÈRE *** [4h Ac 9d 6d] [Jd]
+*** ABATTAGE ***
+aure14570 : montre [Tc Qc] (Hauteur As)
+psychoman59 : montre [Ad 9s] (double paire, As et Neuf)
+psychoman59 a remporté 490  lors du pot .
+*** SYNTHÈSE ***
+Pot total 490 | Commission 0 
+Tableau [4h Ac 9d 6d Jd]
+Siège 1 : aure14570 (grosse blind) a montré [Tc Qc] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (bouton) a montré [Ad 9s] et a gagné (490) avec double paire, As et Neuf
+Siège 3 : ShaqAyanami (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238596804038 : Tournoi #3470535170, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/09/2022 11:42:25 CET [13/09/2022 5:42:25 ET]
+Table '3470535170 1' 3-max Siège #3 est au bouton.
+Place 1: aure14570 (140 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: ShaqAyanami (270 en jetons) 
+aure14570 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Jc]
+ShaqAyanami : passe. 
+aure14570 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : aure14570 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : ShaqAyanami (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238596804786 : Tournoi #3470535170, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/09/2022 11:42:30 CET [13/09/2022 5:42:30 ET]
+Table '3470535170 1' 3-max Siège #1 est au bouton.
+Place 1: aure14570 (110 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: ShaqAyanami (270 en jetons) 
+psychoman59 : met la petite blind. 30
+ShaqAyanami : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Qh]
+aure14570 : relance. 50 à 110 et est all-in.
+psychoman59 : passe. 
+ShaqAyanami : suit. 50
+*** FLOP *** [4d 3h Ah]
+*** TOURNANT *** [4d 3h Ah] [Kc]
+*** RIVIÈRE *** [4d 3h Ah Kc] [7d]
+*** ABATTAGE ***
+ShaqAyanami : montre [Jd Qd] (Hauteur As)
+aure14570 : montre [Tc 8h] (Hauteur As - plus basse kicker)
+ShaqAyanami a remporté 250  lors du pot .
+aure14570 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Tableau [4d 3h Ah Kc 7d]
+Siège 1 : aure14570 (bouton) a montré [Tc 8h] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : ShaqAyanami (grosse blind) a montré [Jd Qd] et a gagné (250) avec Hauteur As
+
+
+
+Main PokerStars n°238596807785 : Tournoi #3470535170, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/09/2022 11:42:49 CET [13/09/2022 5:42:49 ET]
+Table '3470535170 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (490 en jetons) 
+Place 3: ShaqAyanami (410 en jetons) 
+ShaqAyanami : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Ad]
+ShaqAyanami : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : ShaqAyanami (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238596809134 : Tournoi #3470535170, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/09/2022 11:42:58 CET [13/09/2022 5:42:58 ET]
+Table '3470535170 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (520 en jetons) 
+Place 3: ShaqAyanami (380 en jetons) 
+psychoman59 : met la petite blind. 30
+ShaqAyanami : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à ShaqAyanami.
+ShaqAyanami a remporté 60  lors du pot .
+ShaqAyanami : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : ShaqAyanami (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°238596810110 : Tournoi #3470535170, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/09/2022 11:43:04 CET [13/09/2022 5:43:04 ET]
+Table '3470535170 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (490 en jetons) 
+Place 3: ShaqAyanami (410 en jetons) 
+ShaqAyanami : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Jd]
+ShaqAyanami : suit. 30
+psychoman59 : relance. 430 à 490 et est all-in.
+ShaqAyanami : passe. 
+Personne n'a suivi. (430) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : ShaqAyanami (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238596811539 : Tournoi #3470535170, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/09/2022 11:43:14 CET [13/09/2022 5:43:14 ET]
+Table '3470535170 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (550 en jetons) 
+Place 3: ShaqAyanami (350 en jetons) 
+psychoman59 : met la petite blind. 30
+ShaqAyanami : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 9s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à ShaqAyanami.
+ShaqAyanami a remporté 60  lors du pot .
+ShaqAyanami : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : ShaqAyanami (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°238596812370 : Tournoi #3470535170, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/09/2022 11:43:19 CET [13/09/2022 5:43:19 ET]
+Table '3470535170 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (520 en jetons) 
+Place 3: ShaqAyanami (380 en jetons) 
+ShaqAyanami : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Qc]
+ShaqAyanami : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : ShaqAyanami (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238596813510 : Tournoi #3470535170, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 13/09/2022 11:43:26 CET [13/09/2022 5:43:26 ET]
+Table '3470535170 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (550 en jetons) 
+Place 3: ShaqAyanami (350 en jetons) 
+psychoman59 : met la petite blind. 40
+ShaqAyanami : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Kc]
+psychoman59 : relance. 80 à 160
+ShaqAyanami : relance. 190 à 350 et est all-in.
+psychoman59 : suit. 190
+*** FLOP *** [8c 2h 9c]
+*** TOURNANT *** [8c 2h 9c] [7c]
+*** RIVIÈRE *** [8c 2h 9c 7c] [Ac]
+*** ABATTAGE ***
+ShaqAyanami : montre [6h 6d] (une paire de Six)
+psychoman59 : montre [Qs Kc] (une couleur, hauteur As)
+psychoman59 a remporté 700  lors du pot .
+ShaqAyanami a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 6.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 700 | Commission 0 
+Tableau [8c 2h 9c 7c Ac]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Qs Kc] et a gagné (700) avec une couleur, hauteur As
+Siège 3 : ShaqAyanami (grosse blind) a montré [6h 6d] et a perdu avec une paire de Six
+
+
+

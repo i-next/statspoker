@@ -1,0 +1,347 @@
+﻿Main PokerStars n°237302219898 : Tournoi #3440125070, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 23:08:15 CET [11/07/2022 17:08:15 ET]
+Table '3440125070 1' 3-max Siège #1 est au bouton.
+Place 1: 34Sirina (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: scot30320 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+scot30320 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Qc]
+34Sirina : passe. 
+psychoman59 : relance. 40 à 60
+scot30320 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : 34Sirina (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : scot30320 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237302226766 : Tournoi #3440125070, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 23:08:33 CET [11/07/2022 17:08:33 ET]
+Table '3440125070 1' 3-max Siège #2 est au bouton.
+Place 1: 34Sirina (300 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: scot30320 (280 en jetons) 
+scot30320 : met la petite blind. 10
+34Sirina : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 5d]
+psychoman59 : passe. 
+scot30320 : suit. 10
+34Sirina : parole 
+*** FLOP *** [9d 4d Qc]
+scot30320 : parole 
+34Sirina : parole 
+*** TOURNANT *** [9d 4d Qc] [Jd]
+scot30320 : parole 
+34Sirina : parole 
+*** RIVIÈRE *** [9d 4d Qc Jd] [Ts]
+scot30320 : parole 
+34Sirina : mise. 20
+scot30320 : passe. 
+Personne n'a suivi. (20) sont retournés à 34Sirina.
+34Sirina a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9d 4d Qc Jd Ts]
+Siège 1 : 34Sirina (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : scot30320 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237302238900 : Tournoi #3440125070, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 23:09:05 CET [11/07/2022 17:09:05 ET]
+Table '3440125070 1' 3-max Siège #3 est au bouton.
+Place 1: 34Sirina (320 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: scot30320 (260 en jetons) 
+34Sirina : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 6s]
+scot30320 : passe. 
+34Sirina : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qd Ac Js]
+34Sirina : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qd Ac Js] [5c]
+34Sirina : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qd Ac Js 5c] [3d]
+34Sirina : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+34Sirina : montre [8h Kh] (Hauteur As)
+psychoman59 : cache la main perdante. 
+34Sirina a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qd Ac Js 5c 3d]
+Siège 1 : 34Sirina (petite blind) a montré [8h Kh] et a gagné (40) avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [4c 6s]
+Siège 3 : scot30320 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237302249224 : Tournoi #3440125070, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 23:09:32 CET [11/07/2022 17:09:32 ET]
+Table '3440125070 1' 3-max Siège #1 est au bouton.
+Place 1: 34Sirina (340 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: scot30320 (260 en jetons) 
+psychoman59 : met la petite blind. 15
+scot30320 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 8c]
+34Sirina : passe. 
+psychoman59 : suit. 15
+scot30320 : parole 
+*** FLOP *** [7c Ks 7d]
+psychoman59 : parole 
+scot30320 : parole 
+*** TOURNANT *** [7c Ks 7d] [Kd]
+psychoman59 : parole 
+scot30320 : parole 
+*** RIVIÈRE *** [7c Ks 7d Kd] [Qh]
+psychoman59 : parole 
+scot30320 : mise. 30
+psychoman59 : suit. 30
+*** ABATTAGE ***
+scot30320 : montre [9d 4c] (double paire, Rois et Sept)
+psychoman59 : montre [As 8c] (double paire, Rois et Sept - As kicker)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7c Ks 7d Kd Qh]
+Siège 1 : 34Sirina (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [As 8c] et a gagné (120) avec double paire, Rois et Sept
+Siège 3 : scot30320 (grosse blind) a montré [9d 4c] et a perdu avec double paire, Rois et Sept
+
+
+
+Main PokerStars n°237302264053 : Tournoi #3440125070, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 23:10:10 CET [11/07/2022 17:10:10 ET]
+Table '3440125070 1' 3-max Siège #2 est au bouton.
+Place 1: 34Sirina (340 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+Place 3: scot30320 (200 en jetons) 
+scot30320 : met la petite blind. 15
+34Sirina : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 6s]
+psychoman59 : passe. 
+scot30320 : passe. 
+Personne n'a suivi. (15) sont retournés à 34Sirina.
+34Sirina a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : 34Sirina (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : scot30320 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237302266479 : Tournoi #3440125070, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 23:10:16 CET [11/07/2022 17:10:16 ET]
+Table '3440125070 1' 3-max Siège #3 est au bouton.
+Place 1: 34Sirina (355 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+Place 3: scot30320 (185 en jetons) 
+34Sirina : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 3s]
+scot30320 : passe. 
+34Sirina : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : 34Sirina (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : scot30320 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237302269640 : Tournoi #3440125070, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 23:10:25 CET [11/07/2022 17:10:25 ET]
+Table '3440125070 1' 3-max Siège #1 est au bouton.
+Place 1: 34Sirina (340 en jetons) 
+Place 2: psychoman59 (375 en jetons) 
+Place 3: scot30320 (185 en jetons) 
+psychoman59 : met la petite blind. 20
+scot30320 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Td]
+34Sirina : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à scot30320.
+scot30320 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : 34Sirina (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : scot30320 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237302272439 : Tournoi #3440125070, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 23:10:32 CET [11/07/2022 17:10:32 ET]
+Table '3440125070 1' 3-max Siège #2 est au bouton.
+Place 1: 34Sirina (340 en jetons) 
+Place 2: psychoman59 (355 en jetons) 
+Place 3: scot30320 (205 en jetons) 
+scot30320 : met la petite blind. 20
+34Sirina : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Qc]
+psychoman59 : passe. 
+scot30320 : suit. 20
+34Sirina : parole 
+*** FLOP *** [2h 2s Ad]
+scot30320 : parole 
+34Sirina : parole 
+*** TOURNANT *** [2h 2s Ad] [3s]
+scot30320 : parole 
+34Sirina : mise. 40
+scot30320 : passe. 
+Personne n'a suivi. (40) sont retournés à 34Sirina.
+34Sirina a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2h 2s Ad 3s]
+Siège 1 : 34Sirina (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : scot30320 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237302279056 : Tournoi #3440125070, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 23:10:49 CET [11/07/2022 17:10:49 ET]
+Table '3440125070 1' 3-max Siège #3 est au bouton.
+Place 1: 34Sirina (380 en jetons) 
+Place 2: psychoman59 (355 en jetons) 
+Place 3: scot30320 (165 en jetons) 
+34Sirina : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Qs]
+scot30320 : relance. 125 à 165 et est all-in.
+34Sirina : suit. 145
+psychoman59 : suit. 125
+*** FLOP *** [6d 9h Jh]
+34Sirina : mise. 215 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (215) sont retournés à 34Sirina.
+*** TOURNANT *** [6d 9h Jh] [Ts]
+*** RIVIÈRE *** [6d 9h Jh Ts] [Tc]
+*** ABATTAGE ***
+34Sirina : montre [Kc Jc] (double paire, Valets et Dix)
+scot30320 : montre [Js Th] (un full, full aux Dix par les Valets)
+scot30320 a remporté 495  lors du pot .
+*** SYNTHÈSE ***
+Pot total 495 | Commission 0 
+Tableau [6d 9h Jh Ts Tc]
+Siège 1 : 34Sirina (petite blind) a montré [Kc Jc] et a perdu avec double paire, Valets et Dix
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : scot30320 (bouton) a montré [Js Th] et a gagné (495) avec un full, full aux Dix par les Valets
+
+
+
+Main PokerStars n°237302287654 : Tournoi #3440125070, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 23:11:11 CET [11/07/2022 17:11:11 ET]
+Table '3440125070 1' 3-max Siège #1 est au bouton.
+Place 1: 34Sirina (215 en jetons) 
+Place 2: psychoman59 (190 en jetons) 
+Place 3: scot30320 (495 en jetons) 
+psychoman59 : met la petite blind. 20
+scot30320 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 8c]
+34Sirina : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à scot30320.
+scot30320 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : 34Sirina (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : scot30320 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237302290921 : Tournoi #3440125070, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 23:11:20 CET [11/07/2022 17:11:20 ET]
+Table '3440125070 1' 3-max Siège #2 est au bouton.
+Place 1: 34Sirina (215 en jetons) 
+Place 2: psychoman59 (170 en jetons) 
+Place 3: scot30320 (515 en jetons) 
+scot30320 : met la petite blind. 30
+34Sirina : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Jd]
+psychoman59 : relance. 110 à 170 et est all-in.
+scot30320 : passe. 
+34Sirina : passe. 
+Personne n'a suivi. (110) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : 34Sirina (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (150)
+Siège 3 : scot30320 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237302294841 : Tournoi #3440125070, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 23:11:30 CET [11/07/2022 17:11:30 ET]
+Table '3440125070 1' 3-max Siège #3 est au bouton.
+Place 1: 34Sirina (155 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+Place 3: scot30320 (485 en jetons) 
+34Sirina : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 9d]
+scot30320 : passe. 
+34Sirina : relance. 95 à 155 et est all-in.
+psychoman59 : suit. 95
+*** FLOP *** [5c 4s Jd]
+*** TOURNANT *** [5c 4s Jd] [Td]
+*** RIVIÈRE *** [5c 4s Jd Td] [2c]
+*** ABATTAGE ***
+34Sirina : montre [Tc Js] (double paire, Valets et Dix)
+psychoman59 : montre [9h 9d] (une paire de Neuf)
+34Sirina a remporté 310  lors du pot .
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Tableau [5c 4s Jd Td 2c]
+Siège 1 : 34Sirina (petite blind) a montré [Tc Js] et a gagné (310) avec double paire, Valets et Dix
+Siège 2 : psychoman59 (grosse blind) a montré [9h 9d] et a perdu avec une paire de Neuf
+Siège 3 : scot30320 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237302301754 : Tournoi #3440125070, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 23:11:48 CET [11/07/2022 17:11:48 ET]
+Table '3440125070 1' 3-max Siège #1 est au bouton.
+Place 1: 34Sirina (310 en jetons) 
+Place 2: psychoman59 (105 en jetons) 
+Place 3: scot30320 (485 en jetons) 
+psychoman59 : met la petite blind. 30
+scot30320 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Kh]
+34Sirina : passe. 
+psychoman59 : relance. 45 à 105 et est all-in.
+scot30320 : suit. 45
+*** FLOP *** [6h Ts Qh]
+*** TOURNANT *** [6h Ts Qh] [2s]
+*** RIVIÈRE *** [6h Ts Qh 2s] [9s]
+*** ABATTAGE ***
+psychoman59 : montre [5h Kh] (Hauteur Roi)
+scot30320 : montre [Qc 6d] (double paire, Dames et Six)
+scot30320 a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Tableau [6h Ts Qh 2s 9s]
+Siège 1 : 34Sirina (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [5h Kh] et a perdu avec Hauteur Roi
+Siège 3 : scot30320 (grosse blind) a montré [Qc 6d] et a gagné (210) avec double paire, Dames et Six
+
+
+

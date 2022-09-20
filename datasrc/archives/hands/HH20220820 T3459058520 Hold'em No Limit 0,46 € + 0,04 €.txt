@@ -1,0 +1,565 @@
+﻿Main PokerStars n°238105584306 : Tournoi #3459058520, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 16:25:38 CET [20/08/2022 10:25:38 ET]
+Table '3459058520 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 2: blackwolf35000 (5000 en jetons) 
+Place 3: pescailla515 (5000 en jetons) 
+Place 4: flashencote25 (5000 en jetons) 
+psychoman59 : met l'ante. 10
+blackwolf35000 : met l'ante. 10
+pescailla515 : met l'ante. 10
+flashencote25 : met l'ante. 10
+blackwolf35000 : met la petite blind. 50
+pescailla515 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 9d]
+flashencote25 : passe. 
+psychoman59 : passe. 
+blackwolf35000 : suit. 50
+pescailla515 : parole 
+*** FLOP *** [Qd Ac 3d]
+blackwolf35000 : mise. 240
+pescailla515 : passe. 
+Personne n'a suivi. (240) sont retournés à blackwolf35000.
+blackwolf35000 a remporté 240  lors du pot .
+blackwolf35000 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Qd Ac 3d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : blackwolf35000 (petite blind) a remporté (240)
+Siège 3 : pescailla515 (grosse blind) s'est couché. sur le Flop
+Siège 4 : flashencote25 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238105595106 : Tournoi #3459058520, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 16:25:59 CET [20/08/2022 10:25:59 ET]
+Table '3459058520 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4990 en jetons) 
+Place 2: blackwolf35000 (5130 en jetons) 
+Place 3: pescailla515 (4890 en jetons) 
+Place 4: flashencote25 (4990 en jetons) 
+psychoman59 : met l'ante. 10
+blackwolf35000 : met l'ante. 10
+pescailla515 : met l'ante. 10
+flashencote25 : met l'ante. 10
+pescailla515 : met la petite blind. 50
+flashencote25 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Td]
+psychoman59 : passe. 
+blackwolf35000 : passe. 
+pescailla515 : suit. 50
+flashencote25 : parole 
+*** FLOP *** [2h 6h Qc]
+pescailla515 : mise. 240
+flashencote25 : suit. 240
+*** TOURNANT *** [2h 6h Qc] [Qs]
+pescailla515 : mise. 720
+flashencote25 : suit. 720
+*** RIVIÈRE *** [2h 6h Qc Qs] [Ah]
+pescailla515 : parole 
+flashencote25 : parole 
+*** ABATTAGE ***
+pescailla515 : montre [Jh Qd] (un brelan de Dames)
+flashencote25 : cache la main perdante. 
+pescailla515 a remporté 2160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2160 | Commission 0 
+Tableau [2h 6h Qc Qs Ah]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : blackwolf35000 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : pescailla515 (petite blind) a montré [Jh Qd] et a gagné (2160) avec un brelan de Dames
+Siège 4 : flashencote25 (grosse blind) a caché la main perdante. [8c 6s]
+
+
+
+Main PokerStars n°238105606369 : Tournoi #3459058520, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 16:26:42 CET [20/08/2022 10:26:42 ET]
+Table '3459058520 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4980 en jetons) 
+Place 2: blackwolf35000 (5120 en jetons) 
+Place 3: pescailla515 (5980 en jetons) 
+Place 4: flashencote25 (3920 en jetons) 
+psychoman59 : met l'ante. 10
+blackwolf35000 : met l'ante. 10
+pescailla515 : met l'ante. 10
+flashencote25 : met l'ante. 10
+flashencote25 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 5d]
+blackwolf35000 : suit. 100
+pescailla515 : passe. 
+flashencote25 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Th 8h Qc]
+psychoman59 : parole 
+blackwolf35000 : parole 
+*** TOURNANT *** [Th 8h Qc] [Ac]
+psychoman59 : parole 
+blackwolf35000 : parole 
+*** RIVIÈRE *** [Th 8h Qc Ac] [2c]
+psychoman59 : parole 
+blackwolf35000 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7s 5d] (Hauteur As)
+blackwolf35000 : montre [9s Kh] (Hauteur As - Roi kicker)
+blackwolf35000 a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Tableau [Th 8h Qc Ac 2c]
+Siège 1 : psychoman59 (grosse blind) a montré [7s 5d] et a perdu avec Hauteur As
+Siège 2 : blackwolf35000 a montré [9s Kh] et a gagné (290) avec Hauteur As
+Siège 3 : pescailla515 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : flashencote25 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238105616160 : Tournoi #3459058520, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 16:27:19 CET [20/08/2022 10:27:19 ET]
+Table '3459058520 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4870 en jetons) 
+Place 2: blackwolf35000 (5300 en jetons) 
+Place 3: pescailla515 (5970 en jetons) 
+Place 4: flashencote25 (3860 en jetons) 
+psychoman59 : met l'ante. 10
+blackwolf35000 : met l'ante. 10
+pescailla515 : met l'ante. 10
+flashencote25 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+blackwolf35000 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Td]
+pescailla515 : suit. 100
+flashencote25 : passe. 
+psychoman59 : relance. 4760 à 4860 et est all-in.
+blackwolf35000 : passe. 
+pescailla515 : passe. 
+Personne n'a suivi. (4760) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (340)
+Siège 2 : blackwolf35000 (grosse blind) s'est couché. avant Flop
+Siège 3 : pescailla515 s'est couché. avant Flop
+Siège 4 : flashencote25 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238105623707 : Tournoi #3459058520, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 16:27:47 CET [20/08/2022 10:27:47 ET]
+Table '3459058520 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5100 en jetons) 
+Place 2: blackwolf35000 (5190 en jetons) 
+Place 3: pescailla515 (5860 en jetons) 
+Place 4: flashencote25 (3850 en jetons) 
+psychoman59 : met l'ante. 10
+blackwolf35000 : met l'ante. 10
+pescailla515 : met l'ante. 10
+flashencote25 : met l'ante. 10
+blackwolf35000 : met la petite blind. 50
+pescailla515 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 7c]
+flashencote25 : relance. 120 à 220
+psychoman59 : suit. 220
+blackwolf35000 : passe. 
+pescailla515 : suit. 120
+*** FLOP *** [8h 3h 3s]
+pescailla515 : parole 
+flashencote25 : mise. 375
+psychoman59 : passe. 
+pescailla515 : suit. 375
+*** TOURNANT *** [8h 3h 3s] [6c]
+pescailla515 : parole 
+flashencote25 : mise. 1125
+pescailla515 : relance. 1875 à 3000
+flashencote25 : suit. 1875
+*** RIVIÈRE *** [8h 3h 3s 6c] [6h]
+pescailla515 : mise. 2255 et est all-in.
+flashencote25 : suit. 245 et est all-in.
+Personne n'a suivi. (2010) sont retournés à pescailla515.
+*** ABATTAGE ***
+pescailla515 : montre [4s 3c] (un full, full aux Trois par les Six)
+flashencote25 : montre [Ac As] (double paire, As et Six)
+pescailla515 a remporté 7990  lors du pot .
+flashencote25 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 7990 | Commission 0 
+Tableau [8h 3h 3s 6c 6h]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : blackwolf35000 (petite blind) s'est couché. avant Flop
+Siège 3 : pescailla515 (grosse blind) a montré [4s 3c] et a gagné (7990) avec un full, full aux Trois par les Six
+Siège 4 : flashencote25 a montré [Ac As] et a perdu avec double paire, As et Six
+
+
+
+Main PokerStars n°238105642667 : Tournoi #3459058520, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 16:28:59 CET [20/08/2022 10:28:59 ET]
+Table '3459058520 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4870 en jetons) 
+Place 2: blackwolf35000 (5130 en jetons) 
+Place 3: pescailla515 (10000 en jetons) 
+psychoman59 : met l'ante. 15
+blackwolf35000 : met l'ante. 15
+pescailla515 : met l'ante. 15
+pescailla515 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 8d]
+blackwolf35000 : passe. 
+pescailla515 : relance. 120 à 240
+psychoman59 : suit. 120
+*** FLOP *** [Jd As 6c]
+pescailla515 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jd As 6c] [Jh]
+pescailla515 : mise. 262
+psychoman59 : passe. 
+Personne n'a suivi. (262) sont retournés à pescailla515.
+pescailla515 a remporté 525  lors du pot .
+*** SYNTHÈSE ***
+Pot total 525 | Commission 0 
+Tableau [Jd As 6c Jh]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : blackwolf35000 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : pescailla515 (petite blind) a remporté (525)
+
+
+
+Main PokerStars n°238105649054 : Tournoi #3459058520, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 16:29:23 CET [20/08/2022 10:29:23 ET]
+Table '3459058520 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4615 en jetons) 
+Place 2: blackwolf35000 (5115 en jetons) 
+Place 3: pescailla515 (10270 en jetons) 
+psychoman59 : met l'ante. 15
+blackwolf35000 : met l'ante. 15
+pescailla515 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+blackwolf35000 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 8c]
+pescailla515 : suit. 120
+psychoman59 : suit. 60
+blackwolf35000 : parole 
+*** FLOP *** [2h 5d 6d]
+psychoman59 : parole 
+blackwolf35000 : parole 
+pescailla515 : mise. 120
+psychoman59 : suit. 120
+blackwolf35000 : suit. 120
+*** TOURNANT *** [2h 5d 6d] [4d]
+psychoman59 : parole 
+blackwolf35000 : mise. 765
+pescailla515 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (765) sont retournés à blackwolf35000.
+blackwolf35000 a remporté 765  lors du pot .
+blackwolf35000 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 765 | Commission 0 
+Tableau [2h 5d 6d 4d]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 2 : blackwolf35000 (grosse blind) a remporté (765)
+Siège 3 : pescailla515 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238105659475 : Tournoi #3459058520, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 16:30:03 CET [20/08/2022 10:30:03 ET]
+Table '3459058520 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4360 en jetons) 
+Place 2: blackwolf35000 (5625 en jetons) 
+Place 3: pescailla515 (10015 en jetons) 
+psychoman59 : met l'ante. 15
+blackwolf35000 : met l'ante. 15
+pescailla515 : met l'ante. 15
+blackwolf35000 : met la petite blind. 60
+pescailla515 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 6d]
+psychoman59 : suit. 120
+blackwolf35000 : suit. 60
+pescailla515 : parole 
+*** FLOP *** [7h 6h 9d]
+blackwolf35000 : parole 
+pescailla515 : mise. 405
+psychoman59 : suit. 405
+blackwolf35000 : passe. 
+*** TOURNANT *** [7h 6h 9d] [Kc]
+pescailla515 : parole 
+psychoman59 : mise. 3820 et est all-in.
+pescailla515 : passe. 
+Personne n'a suivi. (3820) sont retournés à psychoman59.
+psychoman59 a remporté 1215  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1215 | Commission 0 
+Tableau [7h 6h 9d Kc]
+Siège 1 : psychoman59 (bouton) a remporté (1215)
+Siège 2 : blackwolf35000 (petite blind) s'est couché. sur le Flop
+Siège 3 : pescailla515 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238105670377 : Tournoi #3459058520, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 16:30:43 CET [20/08/2022 10:30:43 ET]
+Table '3459058520 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (5035 en jetons) 
+Place 2: blackwolf35000 (5490 en jetons) 
+Place 3: pescailla515 (9475 en jetons) 
+psychoman59 : met l'ante. 15
+blackwolf35000 : met l'ante. 15
+pescailla515 : met l'ante. 15
+pescailla515 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 2s]
+blackwolf35000 : passe. 
+pescailla515 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [Qh Ac 3c]
+pescailla515 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qh Ac 3c] [4d]
+pescailla515 : mise. 120
+psychoman59 : suit. 120
+*** RIVIÈRE *** [Qh Ac 3c 4d] [2h]
+pescailla515 : mise. 525
+psychoman59 : suit. 525
+*** ABATTAGE ***
+pescailla515 : montre [Jh 6s] (Hauteur As)
+psychoman59 : montre [4c 2s] (double paire, Quatre et Deux)
+psychoman59 a remporté 1575  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1575 | Commission 0 
+Tableau [Qh Ac 3c 4d 2h]
+Siège 1 : psychoman59 (grosse blind) a montré [4c 2s] et a gagné (1575) avec double paire, Quatre et Deux
+Siège 2 : blackwolf35000 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : pescailla515 (petite blind) a montré [Jh 6s] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°238105681866 : Tournoi #3459058520, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 16:31:26 CET [20/08/2022 10:31:26 ET]
+Table '3459058520 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (5830 en jetons) 
+Place 2: blackwolf35000 (5475 en jetons) 
+Place 3: pescailla515 (8695 en jetons) 
+psychoman59 : met l'ante. 15
+blackwolf35000 : met l'ante. 15
+pescailla515 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+blackwolf35000 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Kc]
+pescailla515 : relance. 120 à 240
+psychoman59 : passe. 
+blackwolf35000 : suit. 120
+*** FLOP *** [Kd 7c Ah]
+blackwolf35000 : parole 
+pescailla515 : mise. 120
+blackwolf35000 : passe. 
+Personne n'a suivi. (120) sont retournés à pescailla515.
+pescailla515 a remporté 585  lors du pot .
+*** SYNTHÈSE ***
+Pot total 585 | Commission 0 
+Tableau [Kd 7c Ah]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : blackwolf35000 (grosse blind) s'est couché. sur le Flop
+Siège 3 : pescailla515 (bouton) a remporté (585)
+
+
+
+Main PokerStars n°238105687339 : Tournoi #3459058520, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 16:31:46 CET [20/08/2022 10:31:46 ET]
+Table '3459058520 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5755 en jetons) 
+Place 2: blackwolf35000 (5220 en jetons) 
+Place 3: pescailla515 (9025 en jetons) 
+psychoman59 : met l'ante. 20
+blackwolf35000 : met l'ante. 20
+pescailla515 : met l'ante. 20
+blackwolf35000 : met la petite blind. 75
+pescailla515 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 7d]
+psychoman59 : passe. 
+blackwolf35000 : suit. 75
+pescailla515 : parole 
+*** FLOP *** [3c Ks Qc]
+blackwolf35000 : parole 
+pescailla515 : parole 
+*** TOURNANT *** [3c Ks Qc] [Th]
+blackwolf35000 : parole 
+pescailla515 : parole 
+*** RIVIÈRE *** [3c Ks Qc Th] [Ad]
+blackwolf35000 : parole 
+pescailla515 : parole 
+*** ABATTAGE ***
+blackwolf35000 : montre [Qs 6c] (une paire de Dames)
+pescailla515 : cache la main perdante. 
+blackwolf35000 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [3c Ks Qc Th Ad]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : blackwolf35000 (petite blind) a montré [Qs 6c] et a gagné (360) avec une paire de Dames
+Siège 3 : pescailla515 (grosse blind) a caché la main perdante. [9c 7c]
+
+
+
+Main PokerStars n°238105694606 : Tournoi #3459058520, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 16:32:13 CET [20/08/2022 10:32:13 ET]
+Table '3459058520 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (5735 en jetons) 
+Place 2: blackwolf35000 (5410 en jetons) 
+Place 3: pescailla515 (8855 en jetons) 
+psychoman59 : met l'ante. 20
+blackwolf35000 : met l'ante. 20
+pescailla515 : met l'ante. 20
+pescailla515 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 4h]
+blackwolf35000 : suit. 150
+pescailla515 : relance. 300 à 450
+psychoman59 : passe. 
+blackwolf35000 : suit. 300
+*** FLOP *** [2d Jh 8s]
+pescailla515 : parole 
+blackwolf35000 : parole 
+*** TOURNANT *** [2d Jh 8s] [Ks]
+pescailla515 : parole 
+blackwolf35000 : parole 
+*** RIVIÈRE *** [2d Jh 8s Ks] [6d]
+pescailla515 : mise. 1110
+blackwolf35000 : passe. 
+Personne n'a suivi. (1110) sont retournés à pescailla515.
+pescailla515 a remporté 1110  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1110 | Commission 0 
+Tableau [2d Jh 8s Ks 6d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : blackwolf35000 (bouton) s'est couché. sur le Rivière
+Siège 3 : pescailla515 (petite blind) a remporté (1110)
+
+
+
+Main PokerStars n°238105708166 : Tournoi #3459058520, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 16:32:46 CET [20/08/2022 10:32:46 ET]
+Table '3459058520 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (5565 en jetons) 
+Place 2: blackwolf35000 (4940 en jetons) 
+Place 3: pescailla515 (9495 en jetons) 
+psychoman59 : met l'ante. 20
+blackwolf35000 : met l'ante. 20
+pescailla515 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+blackwolf35000 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Td]
+pescailla515 : passe. 
+psychoman59 : suit. 75
+blackwolf35000 : parole 
+*** FLOP *** [5h 4h 2s]
+psychoman59 : parole 
+blackwolf35000 : parole 
+*** TOURNANT *** [5h 4h 2s] [Qh]
+psychoman59 : parole 
+blackwolf35000 : parole 
+*** RIVIÈRE *** [5h 4h 2s Qh] [7h]
+psychoman59 : parole 
+blackwolf35000 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9d Td] (Hauteur Dame)
+blackwolf35000 : montre [8s As] (Hauteur As)
+blackwolf35000 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [5h 4h 2s Qh 7h]
+Siège 1 : psychoman59 (petite blind) a montré [9d Td] et a perdu avec Hauteur Dame
+Siège 2 : blackwolf35000 (grosse blind) a montré [8s As] et a gagné (360) avec Hauteur As
+Siège 3 : pescailla515 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238105716981 : Tournoi #3459058520, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 16:33:19 CET [20/08/2022 10:33:19 ET]
+Table '3459058520 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5395 en jetons) 
+Place 2: blackwolf35000 (5130 en jetons) 
+Place 3: pescailla515 (9475 en jetons) 
+psychoman59 : met l'ante. 20
+blackwolf35000 : met l'ante. 20
+pescailla515 : met l'ante. 20
+blackwolf35000 : met la petite blind. 75
+pescailla515 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 6c]
+psychoman59 : relance. 435 à 585
+blackwolf35000 : passe. 
+pescailla515 : passe. 
+Personne n'a suivi. (435) sont retournés à psychoman59.
+psychoman59 a remporté 435  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (435)
+Siège 2 : blackwolf35000 (petite blind) s'est couché. avant Flop
+Siège 3 : pescailla515 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238105721350 : Tournoi #3459058520, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 16:33:35 CET [20/08/2022 10:33:35 ET]
+Table '3459058520 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (5660 en jetons) 
+Place 2: blackwolf35000 (5035 en jetons) 
+Place 3: pescailla515 (9305 en jetons) 
+psychoman59 : met l'ante. 20
+blackwolf35000 : met l'ante. 20
+pescailla515 : met l'ante. 20
+pescailla515 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Jh]
+blackwolf35000 : passe. 
+pescailla515 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [Ah 8s 3h]
+pescailla515 : mise. 150
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à pescailla515.
+pescailla515 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Ah 8s 3h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : blackwolf35000 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : pescailla515 (petite blind) a remporté (360)
+
+
+
+Main PokerStars n°238105727269 : Tournoi #3459058520, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 16:33:57 CET [20/08/2022 10:33:57 ET]
+Table '3459058520 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (5490 en jetons) 
+Place 2: blackwolf35000 (5015 en jetons) 
+Place 3: pescailla515 (9495 en jetons) 
+psychoman59 : met l'ante. 20
+blackwolf35000 : met l'ante. 20
+pescailla515 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+blackwolf35000 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ac]
+pescailla515 : relance. 150 à 300
+psychoman59 : relance. 5170 à 5470 et est all-in.
+blackwolf35000 : passe. 
+pescailla515 : suit. 5170
+*** FLOP *** [7d 6d 8c]
+*** TOURNANT *** [7d 6d 8c] [8d]
+*** RIVIÈRE *** [7d 6d 8c 8d] [7s]
+*** ABATTAGE ***
+psychoman59 : montre [Tc Ac] (double paire, Huit et Sept)
+pescailla515 : montre [9h 9d] (double paire, Neuf et Huit)
+pescailla515 a remporté 11150  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 11150 | Commission 0 
+Tableau [7d 6d 8c 8d 7s]
+Siège 1 : psychoman59 (petite blind) a montré [Tc Ac] et a perdu avec double paire, Huit et Sept
+Siège 2 : blackwolf35000 (grosse blind) s'est couché. avant Flop
+Siège 3 : pescailla515 (bouton) a montré [9h 9d] et a gagné (11150) avec double paire, Neuf et Huit
+
+
+

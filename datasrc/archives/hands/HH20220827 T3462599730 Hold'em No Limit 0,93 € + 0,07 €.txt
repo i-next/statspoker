@@ -1,0 +1,363 @@
+﻿Main PokerStars n°238255640901 : Tournoi #3462599730, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/08/2022 23:30:20 CET [27/08/2022 17:30:20 ET]
+Table '3462599730 1' 3-max Siège #1 est au bouton.
+Place 1: cam73300 (300 en jetons) 
+Place 2: laklan694 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+laklan694 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ac]
+cam73300 : suit. 20
+laklan694 : relance. 40 à 60
+psychoman59 : suit. 40
+cam73300 : suit. 40
+*** FLOP *** [3c 7d Qs]
+laklan694 : parole 
+psychoman59 : parole 
+cam73300 : parole 
+*** TOURNANT *** [3c 7d Qs] [Js]
+laklan694 : mise. 40
+psychoman59 : passe. 
+cam73300 : suit. 40
+*** RIVIÈRE *** [3c 7d Qs Js] [4h]
+laklan694 : mise. 80
+cam73300 : suit. 80
+*** ABATTAGE ***
+laklan694 : montre [Th Ah] (Hauteur As)
+cam73300 : montre [6h Jh] (une paire de Valets)
+cam73300 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [3c 7d Qs Js 4h]
+Siège 1 : cam73300 (bouton) a montré [6h Jh] et a gagné (420) avec une paire de Valets
+Siège 2 : laklan694 (petite blind) a montré [Th Ah] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238255654859 : Tournoi #3462599730, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/08/2022 23:31:01 CET [27/08/2022 17:31:01 ET]
+Table '3462599730 1' 3-max Siège #2 est au bouton.
+Place 1: cam73300 (540 en jetons) 
+Place 2: laklan694 (120 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+psychoman59 : met la petite blind. 10
+cam73300 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Kc]
+laklan694 : relance. 20 à 40
+psychoman59 : passe. 
+cam73300 : suit. 20
+*** FLOP *** [Jh Tc 8s]
+cam73300 : mise. 20
+laklan694 : passe. 
+Personne n'a suivi. (20) sont retournés à cam73300.
+cam73300 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Jh Tc 8s]
+Siège 1 : cam73300 (grosse blind) a remporté (90)
+Siège 2 : laklan694 (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238255662638 : Tournoi #3462599730, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/08/2022 23:31:24 CET [27/08/2022 17:31:24 ET]
+Table '3462599730 1' 3-max Siège #3 est au bouton.
+Place 1: cam73300 (590 en jetons) 
+Place 2: laklan694 (80 en jetons) 
+Place 3: psychoman59 (230 en jetons) 
+cam73300 : met la petite blind. 15
+laklan694 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Td]
+psychoman59 : passe. 
+cam73300 : passe. 
+Personne n'a suivi. (15) sont retournés à laklan694.
+laklan694 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : cam73300 (petite blind) s'est couché. avant Flop
+Siège 2 : laklan694 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238255665388 : Tournoi #3462599730, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/08/2022 23:31:32 CET [27/08/2022 17:31:32 ET]
+Table '3462599730 1' 3-max Siège #1 est au bouton.
+Place 1: cam73300 (575 en jetons) 
+Place 2: laklan694 (95 en jetons) 
+Place 3: psychoman59 (230 en jetons) 
+laklan694 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Jd]
+cam73300 : suit. 30
+laklan694 : relance. 65 à 95 et est all-in.
+psychoman59 : passe. 
+cam73300 : suit. 65
+*** FLOP *** [5d 6s 8d]
+*** TOURNANT *** [5d 6s 8d] [7c]
+*** RIVIÈRE *** [5d 6s 8d 7c] [Ac]
+*** ABATTAGE ***
+laklan694 : montre [Qc 3c] (Hauteur As)
+cam73300 : montre [Qs 7s] (une paire de Sept)
+cam73300 a remporté 220  lors du pot .
+laklan694 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [5d 6s 8d 7c Ac]
+Siège 1 : cam73300 (bouton) a montré [Qs 7s] et a gagné (220) avec une paire de Sept
+Siège 2 : laklan694 (petite blind) a montré [Qc 3c] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238255675776 : Tournoi #3462599730, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/08/2022 23:32:03 CET [27/08/2022 17:32:03 ET]
+Table '3462599730 1' 3-max Siège #3 est au bouton.
+Place 1: cam73300 (700 en jetons) 
+Place 3: psychoman59 (200 en jetons) 
+psychoman59 : met la petite blind. 15
+cam73300 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Kd]
+psychoman59 : suit. 15
+cam73300 : parole 
+*** FLOP *** [3d Ah Jc]
+cam73300 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à cam73300.
+cam73300 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3d Ah Jc]
+Siège 1 : cam73300 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238255683568 : Tournoi #3462599730, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 27/08/2022 23:32:26 CET [27/08/2022 17:32:26 ET]
+Table '3462599730 1' 3-max Siège #1 est au bouton.
+Place 1: cam73300 (730 en jetons) 
+Place 3: psychoman59 (170 en jetons) 
+cam73300 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 2s]
+cam73300 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Ah Tc 4s]
+psychoman59 : parole 
+cam73300 : parole 
+*** TOURNANT *** [Ah Tc 4s] [Kh]
+psychoman59 : parole 
+cam73300 : parole 
+*** RIVIÈRE *** [Ah Tc 4s Kh] [4c]
+psychoman59 : parole 
+cam73300 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Jd 2s] (une paire de Quatre)
+cam73300 : cache la main perdante. 
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ah Tc 4s Kh 4c]
+Siège 1 : cam73300 (bouton) (petite blind) a caché la main perdante. [6c 3d]
+Siège 3 : psychoman59 (grosse blind) a montré [Jd 2s] et a gagné (80) avec une paire de Quatre
+
+
+
+Main PokerStars n°238255694698 : Tournoi #3462599730, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 27/08/2022 23:33:00 CET [27/08/2022 17:33:00 ET]
+Table '3462599730 1' 3-max Siège #3 est au bouton.
+Place 1: cam73300 (690 en jetons) 
+Place 3: psychoman59 (210 en jetons) 
+psychoman59 : met la petite blind. 20
+cam73300 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Qh]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à cam73300.
+cam73300 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : cam73300 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238255696904 : Tournoi #3462599730, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 27/08/2022 23:33:06 CET [27/08/2022 17:33:06 ET]
+Table '3462599730 1' 3-max Siège #1 est au bouton.
+Place 1: cam73300 (710 en jetons) 
+Place 3: psychoman59 (190 en jetons) 
+cam73300 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 8h]
+cam73300 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [2c 2s 2h]
+psychoman59 : parole 
+cam73300 : parole 
+*** TOURNANT *** [2c 2s 2h] [5d]
+psychoman59 : parole 
+cam73300 : parole 
+*** RIVIÈRE *** [2c 2s 2h 5d] [6c]
+psychoman59 : mise. 80
+cam73300 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2c 2s 2h 5d 6c]
+Siège 1 : cam73300 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°238255710954 : Tournoi #3462599730, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 27/08/2022 23:33:48 CET [27/08/2022 17:33:48 ET]
+Table '3462599730 1' 3-max Siège #3 est au bouton.
+Place 1: cam73300 (670 en jetons) 
+Place 3: psychoman59 (230 en jetons) 
+psychoman59 : met la petite blind. 30
+cam73300 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à cam73300.
+cam73300 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : cam73300 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238255713140 : Tournoi #3462599730, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 27/08/2022 23:33:55 CET [27/08/2022 17:33:55 ET]
+Table '3462599730 1' 3-max Siège #1 est au bouton.
+Place 1: cam73300 (700 en jetons) 
+Place 3: psychoman59 (200 en jetons) 
+cam73300 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 3h]
+cam73300 : relance. 120 à 180
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à cam73300.
+cam73300 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : cam73300 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238255716476 : Tournoi #3462599730, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 27/08/2022 23:34:05 CET [27/08/2022 17:34:05 ET]
+Table '3462599730 1' 3-max Siège #3 est au bouton.
+Place 1: cam73300 (760 en jetons) 
+Place 3: psychoman59 (140 en jetons) 
+psychoman59 : met la petite blind. 30
+cam73300 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à cam73300.
+cam73300 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : cam73300 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238255718107 : Tournoi #3462599730, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 27/08/2022 23:34:10 CET [27/08/2022 17:34:10 ET]
+Table '3462599730 1' 3-max Siège #1 est au bouton.
+Place 1: cam73300 (790 en jetons) 
+Place 3: psychoman59 (110 en jetons) 
+cam73300 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Ad]
+cam73300 : suit. 30
+psychoman59 : relance. 50 à 110 et est all-in.
+cam73300 : suit. 50
+*** FLOP *** [Kh 3d 9d]
+*** TOURNANT *** [Kh 3d 9d] [4h]
+*** RIVIÈRE *** [Kh 3d 9d 4h] [5d]
+*** ABATTAGE ***
+psychoman59 : montre [Jc Ad] (Hauteur As)
+cam73300 : montre [7c 8d] (Hauteur Roi)
+psychoman59 a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [Kh 3d 9d 4h 5d]
+Siège 1 : cam73300 (bouton) (petite blind) a montré [7c 8d] et a perdu avec Hauteur Roi
+Siège 3 : psychoman59 (grosse blind) a montré [Jc Ad] et a gagné (220) avec Hauteur As
+
+
+
+Main PokerStars n°238255725611 : Tournoi #3462599730, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 27/08/2022 23:34:32 CET [27/08/2022 17:34:32 ET]
+Table '3462599730 1' 3-max Siège #3 est au bouton.
+Place 1: cam73300 (680 en jetons) 
+Place 3: psychoman59 (220 en jetons) 
+psychoman59 : met la petite blind. 40
+cam73300 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à cam73300.
+cam73300 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : cam73300 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238255728227 : Tournoi #3462599730, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 27/08/2022 23:34:40 CET [27/08/2022 17:34:40 ET]
+Table '3462599730 1' 3-max Siège #1 est au bouton.
+Place 1: cam73300 (720 en jetons) 
+Place 3: psychoman59 (180 en jetons) 
+cam73300 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 5d]
+cam73300 : suit. 40
+psychoman59 : relance. 100 à 180 et est all-in.
+cam73300 : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : cam73300 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°238255735467 : Tournoi #3462599730, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 27/08/2022 23:35:02 CET [27/08/2022 17:35:02 ET]
+Table '3462599730 1' 3-max Siège #3 est au bouton.
+Place 1: cam73300 (640 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+psychoman59 : met la petite blind. 40
+cam73300 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 9c]
+psychoman59 : relance. 180 à 260 et est all-in.
+cam73300 : suit. 180
+*** FLOP *** [7h 9d 4d]
+*** TOURNANT *** [7h 9d 4d] [5c]
+*** RIVIÈRE *** [7h 9d 4d 5c] [8s]
+*** ABATTAGE ***
+cam73300 : montre [Js Jd] (une paire de Valets)
+psychoman59 : montre [Qs 9c] (une paire de Neuf)
+cam73300 a remporté 520  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+cam73300 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [7h 9d 4d 5c 8s]
+Siège 1 : cam73300 (grosse blind) a montré [Js Jd] et a gagné (520) avec une paire de Valets
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Qs 9c] et a perdu avec une paire de Neuf
+
+
+

@@ -1,0 +1,349 @@
+﻿Main PokerStars n°237455314608 : Tournoi #3443712430, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 16:48:13 CET [19/07/2022 10:48:13 ET]
+Table '3443712430 1' 3-max Siège #1 est au bouton.
+Place 1: prulgo5 (300 en jetons) 
+Place 2: freitaspa370 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+freitaspa370 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 3h]
+prulgo5 : passe. 
+freitaspa370 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Js Qh 2s]
+freitaspa370 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Js Qh 2s] [Td]
+freitaspa370 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Js Qh 2s Td] [Tc]
+freitaspa370 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+freitaspa370 : montre [Th 9c] (un brelan de Dix)
+psychoman59 : cache la main perdante. 
+freitaspa370 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Js Qh 2s Td Tc]
+Siège 1 : prulgo5 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : freitaspa370 (petite blind) a montré [Th 9c] et a gagné (40) avec un brelan de Dix
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [6d 3h]
+
+
+
+Main PokerStars n°237455320936 : Tournoi #3443712430, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 16:48:37 CET [19/07/2022 10:48:37 ET]
+Table '3443712430 1' 3-max Siège #2 est au bouton.
+Place 1: prulgo5 (300 en jetons) 
+Place 2: freitaspa370 (320 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+prulgo5 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8s]
+freitaspa370 : suit. 20
+psychoman59 : passe. 
+prulgo5 : parole 
+*** FLOP *** [4c Ts 6d]
+prulgo5 : parole 
+freitaspa370 : parole 
+*** TOURNANT *** [4c Ts 6d] [Qh]
+prulgo5 : parole 
+freitaspa370 : parole 
+*** RIVIÈRE *** [4c Ts 6d Qh] [Qd]
+prulgo5 : parole 
+freitaspa370 : parole 
+*** ABATTAGE ***
+prulgo5 : montre [3h 7c] (une paire de Dames)
+freitaspa370 : montre [8h 4h] (double paire, Dames et Quatre)
+freitaspa370 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [4c Ts 6d Qh Qd]
+Siège 1 : prulgo5 (grosse blind) a montré [3h 7c] et a perdu avec une paire de Dames
+Siège 2 : freitaspa370 (bouton) a montré [8h 4h] et a gagné (50) avec double paire, Dames et Quatre
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237455329257 : Tournoi #3443712430, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 16:49:08 CET [19/07/2022 10:49:08 ET]
+Table '3443712430 1' 3-max Siège #3 est au bouton.
+Place 1: prulgo5 (280 en jetons) 
+Place 2: freitaspa370 (350 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+prulgo5 : met la petite blind. 10
+freitaspa370 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Qc]
+psychoman59 : passe. 
+prulgo5 a dépassé le temps imparti.
+prulgo5 : passe. 
+prulgo5 ne joue pas.
+Personne n'a suivi. (10) sont retournés à freitaspa370.
+freitaspa370 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : prulgo5 (petite blind) s'est couché. avant Flop
+Siège 2 : freitaspa370 (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237455338335 : Tournoi #3443712430, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 16:49:43 CET [19/07/2022 10:49:43 ET]
+Table '3443712430 1' 3-max Siège #1 est au bouton.
+Place 1: prulgo5 (270 en jetons) ne joue pas.
+Place 2: freitaspa370 (360 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+freitaspa370 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 3c]
+prulgo5 : passe. 
+freitaspa370 : suit. 15
+prulgo5 est revenu.
+psychoman59 : parole 
+*** FLOP *** [7h As 4s]
+freitaspa370 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7h As 4s] [Kc]
+freitaspa370 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7h As 4s Kc] [4d]
+freitaspa370 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+freitaspa370 : montre [5s 9d] (une paire de Quatre)
+psychoman59 : cache la main perdante. 
+freitaspa370 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7h As 4s Kc 4d]
+Siège 1 : prulgo5 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : freitaspa370 (petite blind) a montré [5s 9d] et a gagné (60) avec une paire de Quatre
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [6c 3c]
+
+
+
+Main PokerStars n°237455345099 : Tournoi #3443712430, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 16:50:09 CET [19/07/2022 10:50:09 ET]
+Table '3443712430 1' 3-max Siège #2 est au bouton.
+Place 1: prulgo5 (270 en jetons) 
+Place 2: freitaspa370 (390 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+psychoman59 : met la petite blind. 15
+prulgo5 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7h]
+freitaspa370 : suit. 30
+psychoman59 : passe. 
+prulgo5 : relance. 240 à 270 et est all-in.
+freitaspa370 : suit. 240
+*** FLOP *** [Jh 9h Js]
+*** TOURNANT *** [Jh 9h Js] [5c]
+*** RIVIÈRE *** [Jh 9h Js 5c] [Qs]
+*** ABATTAGE ***
+prulgo5 : montre [3c Ah] (une paire de Valets)
+freitaspa370 : montre [6h Qh] (double paire, Dames et Valets)
+freitaspa370 a remporté 555  lors du pot .
+*** SYNTHÈSE ***
+Pot total 555 | Commission 0 
+Tableau [Jh 9h Js 5c Qs]
+Siège 1 : prulgo5 (grosse blind) a montré [3c Ah] et a perdu avec une paire de Valets
+Siège 2 : freitaspa370 (bouton) a montré [6h Qh] et a gagné (555) avec double paire, Dames et Valets
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237455354328 : Tournoi #3443712430, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 16:50:44 CET [19/07/2022 10:50:44 ET]
+Table '3443712430 1' 3-max Siège #3 est au bouton.
+Place 2: freitaspa370 (675 en jetons) 
+Place 3: psychoman59 (225 en jetons) 
+psychoman59 : met la petite blind. 20
+freitaspa370 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Jc]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à freitaspa370.
+freitaspa370 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : freitaspa370 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237455356071 : Tournoi #3443712430, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 16:50:51 CET [19/07/2022 10:50:51 ET]
+Table '3443712430 1' 3-max Siège #2 est au bouton.
+Place 2: freitaspa370 (695 en jetons) 
+Place 3: psychoman59 (205 en jetons) 
+freitaspa370 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 9c]
+freitaspa370 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [3d 6d Kc]
+psychoman59 : parole 
+freitaspa370 : parole 
+*** TOURNANT *** [3d 6d Kc] [3h]
+psychoman59 : parole 
+freitaspa370 : parole 
+*** RIVIÈRE *** [3d 6d Kc 3h] [2c]
+psychoman59 : parole 
+freitaspa370 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ts 9c] (une paire de Trois)
+freitaspa370 : montre [9s Ah] (une paire de Trois - As kicker)
+freitaspa370 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3d 6d Kc 3h 2c]
+Siège 2 : freitaspa370 (bouton) (petite blind) a montré [9s Ah] et a gagné (80) avec une paire de Trois
+Siège 3 : psychoman59 (grosse blind) a montré [Ts 9c] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°237455366306 : Tournoi #3443712430, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 16:51:31 CET [19/07/2022 10:51:31 ET]
+Table '3443712430 1' 3-max Siège #3 est au bouton.
+Place 2: freitaspa370 (735 en jetons) 
+Place 3: psychoman59 (165 en jetons) 
+psychoman59 : met la petite blind. 30
+freitaspa370 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Jh]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à freitaspa370.
+freitaspa370 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : freitaspa370 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237455368006 : Tournoi #3443712430, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 16:51:37 CET [19/07/2022 10:51:37 ET]
+Table '3443712430 1' 3-max Siège #2 est au bouton.
+Place 2: freitaspa370 (765 en jetons) 
+Place 3: psychoman59 (135 en jetons) 
+freitaspa370 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Jc]
+freitaspa370 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Kc 5s Jh]
+psychoman59 : mise. 75 et est all-in.
+freitaspa370 : suit. 75
+*** TOURNANT *** [Kc 5s Jh] [9c]
+*** RIVIÈRE *** [Kc 5s Jh 9c] [3c]
+*** ABATTAGE ***
+psychoman59 : montre [6s Jc] (une paire de Valets)
+freitaspa370 : montre [Tc 9d] (une paire de Neuf)
+psychoman59 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [Kc 5s Jh 9c 3c]
+Siège 2 : freitaspa370 (bouton) (petite blind) a montré [Tc 9d] et a perdu avec une paire de Neuf
+Siège 3 : psychoman59 (grosse blind) a montré [6s Jc] et a gagné (270) avec une paire de Valets
+
+
+
+Main PokerStars n°237455373710 : Tournoi #3443712430, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 16:51:59 CET [19/07/2022 10:51:59 ET]
+Table '3443712430 1' 3-max Siège #3 est au bouton.
+Place 2: freitaspa370 (630 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+psychoman59 : met la petite blind. 30
+freitaspa370 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 7d]
+psychoman59 : relance. 210 à 270 et est all-in.
+freitaspa370 : passe. 
+Personne n'a suivi. (210) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : freitaspa370 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237455376047 : Tournoi #3443712430, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 16:52:08 CET [19/07/2022 10:52:08 ET]
+Table '3443712430 1' 3-max Siège #2 est au bouton.
+Place 2: freitaspa370 (570 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+freitaspa370 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 8d]
+freitaspa370 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [8h 7h Ts]
+psychoman59 : parole 
+freitaspa370 : parole 
+*** TOURNANT *** [8h 7h Ts] [5h]
+psychoman59 : parole 
+freitaspa370 : parole 
+*** RIVIÈRE *** [8h 7h Ts 5h] [Kd]
+psychoman59 : parole 
+freitaspa370 : mise. 60
+psychoman59 : suit. 60
+*** ABATTAGE ***
+freitaspa370 : montre [Tc Kh] (double paire, Rois et Dix)
+psychoman59 : cache la main perdante. 
+freitaspa370 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [8h 7h Ts 5h Kd]
+Siège 2 : freitaspa370 (bouton) (petite blind) a montré [Tc Kh] et a gagné (240) avec double paire, Rois et Dix
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [Qc 8d]
+
+
+
+Main PokerStars n°237455382085 : Tournoi #3443712430, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 19/07/2022 16:52:31 CET [19/07/2022 10:52:31 ET]
+Table '3443712430 1' 3-max Siège #3 est au bouton.
+Place 2: freitaspa370 (690 en jetons) 
+Place 3: psychoman59 (210 en jetons) 
+psychoman59 : met la petite blind. 40
+freitaspa370 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à freitaspa370.
+freitaspa370 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : freitaspa370 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237455384033 : Tournoi #3443712430, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 19/07/2022 16:52:39 CET [19/07/2022 10:52:39 ET]
+Table '3443712430 1' 3-max Siège #2 est au bouton.
+Place 2: freitaspa370 (730 en jetons) 
+Place 3: psychoman59 (170 en jetons) 
+freitaspa370 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Td]
+freitaspa370 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [8d Ts 5h]
+psychoman59 : parole 
+freitaspa370 : parole 
+*** TOURNANT *** [8d Ts 5h] [Ah]
+psychoman59 : mise. 80
+freitaspa370 : suit. 80
+*** RIVIÈRE *** [8d Ts 5h Ah] [9d]
+psychoman59 : mise. 10 et est all-in.
+freitaspa370 : suit. 10
+*** ABATTAGE ***
+psychoman59 : montre [5c Td] (double paire, Dix et Cinq)
+freitaspa370 : montre [5s Ad] (double paire, As et Cinq)
+freitaspa370 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [8d Ts 5h Ah 9d]
+Siège 2 : freitaspa370 (bouton) (petite blind) a montré [5s Ad] et a gagné (340) avec double paire, As et Cinq
+Siège 3 : psychoman59 (grosse blind) a montré [5c Td] et a perdu avec double paire, Dix et Cinq
+
+
+

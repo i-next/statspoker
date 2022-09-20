@@ -1,0 +1,165 @@
+﻿Main PokerStars n°237230190733 : Tournoi #3438444009, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 11:11:38 CET [08/07/2022 5:11:38 ET]
+Table '3438444009 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Winarnax (300 en jetons) 
+Place 3: noemi0388 (300 en jetons) 
+Winarnax : met la petite blind. 10
+noemi0388 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 5s]
+psychoman59 : passe. 
+Winarnax : relance. 280 à 300 et est all-in.
+noemi0388 : passe. 
+Personne n'a suivi. (280) sont retournés à Winarnax.
+Winarnax a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Winarnax (petite blind) a remporté (40)
+Siège 3 : noemi0388 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237230192284 : Tournoi #3438444009, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 11:11:50 CET [08/07/2022 5:11:50 ET]
+Table '3438444009 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Winarnax (320 en jetons) 
+Place 3: noemi0388 (280 en jetons) 
+noemi0388 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 2c]
+Winarnax : relance. 20 à 40
+noemi0388 : suit. 30
+psychoman59 : passe. 
+*** FLOP *** [4d Ts Ac]
+noemi0388 : mise. 60
+Winarnax : suit. 60
+*** TOURNANT *** [4d Ts Ac] [Ah]
+noemi0388 : mise. 60
+Winarnax : relance. 160 à 220 et est all-in.
+noemi0388 : suit. 120 et est all-in.
+Personne n'a suivi. (40) sont retournés à Winarnax.
+*** RIVIÈRE *** [4d Ts Ac Ah] [5d]
+*** ABATTAGE ***
+noemi0388 : montre [Ad Jc] (un brelan de As)
+Winarnax : montre [Qc Qd] (double paire, As et Dames)
+noemi0388 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [4d Ts Ac Ah 5d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Winarnax (bouton) a montré [Qc Qd] et a perdu avec double paire, As et Dames
+Siège 3 : noemi0388 (petite blind) a montré [Ad Jc] et a gagné (580) avec un brelan de As
+
+
+
+Main PokerStars n°237230197956 : Tournoi #3438444009, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 11:12:30 CET [08/07/2022 5:12:30 ET]
+Table '3438444009 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: Winarnax (40 en jetons) 
+Place 3: noemi0388 (580 en jetons) 
+psychoman59 : met la petite blind. 10
+Winarnax : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8d]
+noemi0388 : suit. 20
+psychoman59 : passe. 
+Winarnax : relance. 20 à 40 et est all-in.
+noemi0388 : suit. 20
+*** FLOP *** [9c 3c 2d]
+*** TOURNANT *** [9c 3c 2d] [2s]
+*** RIVIÈRE *** [9c 3c 2d 2s] [Tc]
+*** ABATTAGE ***
+Winarnax : montre [3s Js] (double paire, Trois et Deux)
+noemi0388 : montre [Qd 4d] (une paire de Deux)
+Winarnax a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [9c 3c 2d 2s Tc]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Winarnax (grosse blind) a montré [3s Js] et a gagné (90) avec double paire, Trois et Deux
+Siège 3 : noemi0388 (bouton) a montré [Qd 4d] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°237230202199 : Tournoi #3438444009, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2022 11:13:00 CET [08/07/2022 5:13:00 ET]
+Table '3438444009 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: Winarnax (90 en jetons) 
+Place 3: noemi0388 (540 en jetons) 
+Winarnax : met la petite blind. 15
+noemi0388 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Ah]
+psychoman59 : relance. 60 à 90
+Winarnax : suit. 75 et est all-in.
+noemi0388 : passe. 
+*** FLOP *** [3s 8h 6d]
+*** TOURNANT *** [3s 8h 6d] [3d]
+*** RIVIÈRE *** [3s 8h 6d 3d] [3c]
+*** ABATTAGE ***
+Winarnax : montre [Tc Qh] (un brelan de Trois)
+psychoman59 : montre [As Ah] (un full, full aux Trois par les As)
+psychoman59 a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Tableau [3s 8h 6d 3d 3c]
+Siège 1 : psychoman59 (bouton) a montré [As Ah] et a gagné (210) avec un full, full aux Trois par les As
+Siège 2 : Winarnax (petite blind) a montré [Tc Qh] et a perdu avec un brelan de Trois
+Siège 3 : noemi0388 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237230206493 : Tournoi #3438444009, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2022 11:13:30 CET [08/07/2022 5:13:30 ET]
+Table '3438444009 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (390 en jetons) 
+Place 3: noemi0388 (510 en jetons) 
+noemi0388 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Tc]
+noemi0388 : suit. 15
+psychoman59 : relance. 360 à 390 et est all-in.
+noemi0388 : suit. 360
+*** FLOP *** [Jh 9s 3d]
+*** TOURNANT *** [Jh 9s 3d] [Kh]
+*** RIVIÈRE *** [Jh 9s 3d Kh] [6h]
+*** ABATTAGE ***
+psychoman59 : montre [Th Tc] (une paire de Dix)
+noemi0388 : montre [Ah 3s] (une paire de Trois)
+psychoman59 a remporté 780  lors du pot .
+*** SYNTHÈSE ***
+Pot total 780 | Commission 0 
+Tableau [Jh 9s 3d Kh 6h]
+Siège 1 : psychoman59 (grosse blind) a montré [Th Tc] et a gagné (780) avec une paire de Dix
+Siège 3 : noemi0388 (bouton) (petite blind) a montré [Ah 3s] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°237230209623 : Tournoi #3438444009, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 11:13:53 CET [08/07/2022 5:13:53 ET]
+Table '3438444009 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (780 en jetons) 
+Place 3: noemi0388 (120 en jetons) 
+psychoman59 : met la petite blind. 20
+noemi0388 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 9h]
+psychoman59 : relance. 40 à 80
+noemi0388 : relance. 40 à 120 et est all-in.
+psychoman59 : suit. 40
+*** FLOP *** [9c 3h 5d]
+*** TOURNANT *** [9c 3h 5d] [7h]
+*** RIVIÈRE *** [9c 3h 5d 7h] [Kc]
+*** ABATTAGE ***
+noemi0388 : montre [Ad Jd] (Hauteur As)
+psychoman59 : montre [Jh 9h] (une paire de Neuf)
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [9c 3h 5d 7h Kc]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Jh 9h] et a gagné (240) avec une paire de Neuf
+Siège 3 : noemi0388 (grosse blind) a montré [Ad Jd] et a perdu avec Hauteur As
+
+
+

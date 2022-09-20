@@ -1,0 +1,128 @@
+﻿Main PokerStars n°236710575317 : Tournoi #3425118065, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/06/2022 8:06:59 CET [12/06/2022 2:06:59 ET]
+Table '3425118065 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: dodo71310 (300 en jetons) 
+Place 3: pythales (300 en jetons) 
+dodo71310 : met la petite blind. 10
+pythales : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 5s]
+psychoman59 : passe. 
+dodo71310 : relance. 280 à 300 et est all-in.
+pythales : passe. 
+Personne n'a suivi. (280) sont retournés à dodo71310.
+dodo71310 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : dodo71310 (petite blind) a remporté (40)
+Siège 3 : pythales (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236710576602 : Tournoi #3425118065, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/06/2022 8:07:11 CET [12/06/2022 2:07:11 ET]
+Table '3425118065 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: dodo71310 (320 en jetons) 
+Place 3: pythales (280 en jetons) 
+pythales : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ad]
+dodo71310 : passe. 
+pythales : suit. 10
+psychoman59 : relance. 280 à 300 et est all-in.
+pythales : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : dodo71310 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : pythales (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236710578364 : Tournoi #3425118065, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/06/2022 8:07:26 CET [12/06/2022 2:07:26 ET]
+Table '3425118065 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: dodo71310 (320 en jetons) 
+Place 3: pythales (260 en jetons) 
+psychoman59 : met la petite blind. 10
+dodo71310 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 8h]
+pythales : relance. 20 à 40
+psychoman59 : passe. 
+dodo71310 : suit. 20
+*** FLOP *** [2s 3c 3d]
+dodo71310 : parole 
+pythales : mise. 45
+dodo71310 : passe. 
+Personne n'a suivi. (45) sont retournés à pythales.
+pythales a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [2s 3c 3d]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : dodo71310 (grosse blind) s'est couché. sur le Flop
+Siège 3 : pythales (bouton) a remporté (90)
+
+
+
+Main PokerStars n°236710580726 : Tournoi #3425118065, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/06/2022 8:07:46 CET [12/06/2022 2:07:46 ET]
+Table '3425118065 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: dodo71310 (280 en jetons) 
+Place 3: pythales (310 en jetons) 
+dodo71310 : met la petite blind. 10
+pythales : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 8c]
+psychoman59 : relance. 40 à 60
+dodo71310 : relance. 220 à 280 et est all-in.
+pythales : passe. 
+psychoman59 : suit. 220
+*** FLOP *** [7d 2h 6h]
+*** TOURNANT *** [7d 2h 6h] [9c]
+*** RIVIÈRE *** [7d 2h 6h 9c] [3d]
+*** ABATTAGE ***
+dodo71310 : montre [Ts As] (Hauteur As)
+psychoman59 : montre [Ah 8c] (Hauteur As - plus basse kicker)
+dodo71310 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [7d 2h 6h 9c 3d]
+Siège 1 : psychoman59 (bouton) a montré [Ah 8c] et a perdu avec Hauteur As
+Siège 2 : dodo71310 (petite blind) a montré [Ts As] et a gagné (580) avec Hauteur As
+Siège 3 : pythales (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236710583329 : Tournoi #3425118065, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/06/2022 8:08:09 CET [12/06/2022 2:08:09 ET]
+Table '3425118065 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (30 en jetons) 
+Place 2: dodo71310 (580 en jetons) 
+Place 3: pythales (290 en jetons) 
+pythales : met la petite blind. 15
+psychoman59 : met la grosse blind. 30 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 8c]
+dodo71310 : passe. 
+pythales : suit. 15
+*** FLOP *** [3c 6d Ac]
+*** TOURNANT *** [3c 6d Ac] [2h]
+*** RIVIÈRE *** [3c 6d Ac 2h] [6h]
+*** ABATTAGE ***
+pythales : montre [Kh 7s] (une paire de Six)
+psychoman59 : montre [5s 8c] (une paire de Six - plus basse kicker)
+pythales a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3c 6d Ac 2h 6h]
+Siège 1 : psychoman59 (grosse blind) a montré [5s 8c] et a perdu avec une paire de Six
+Siège 2 : dodo71310 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : pythales (petite blind) a montré [Kh 7s] et a gagné (60) avec une paire de Six
+
+
+

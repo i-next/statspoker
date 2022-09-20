@@ -1,0 +1,293 @@
+﻿Main PokerStars n°238304943393 : Tournoi #3463729179, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 30/08/2022 11:03:09 CET [30/08/2022 5:03:09 ET]
+Table '3463729179 1' 4-max Siège #1 est au bouton.
+Place 1: kalagan23 (5000 en jetons) 
+Place 2: theboss62700 (5000 en jetons) 
+Place 3: tony77cv (5000 en jetons) 
+Place 4: psychoman59 (5000 en jetons) 
+kalagan23 : met l'ante. 10
+theboss62700 : met l'ante. 10
+tony77cv : met l'ante. 10
+psychoman59 : met l'ante. 10
+theboss62700 : met la petite blind. 50
+tony77cv : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 3c]
+psychoman59 : passe. 
+kalagan23 : relance. 290 à 390
+theboss62700 : relance. 4600 à 4990 et est all-in.
+tony77cv : passe. 
+kalagan23 : suit. 4600 et est all-in.
+*** FLOP *** [Ks 5c Qs]
+*** TOURNANT *** [Ks 5c Qs] [Tc]
+*** RIVIÈRE *** [Ks 5c Qs Tc] [3s]
+*** ABATTAGE ***
+theboss62700 : montre [Kc Th] (double paire, Rois et Dix)
+kalagan23 : montre [Ah 6s] (Hauteur As)
+theboss62700 a remporté 10120  lors du pot .
+kalagan23 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10120 | Commission 0 
+Tableau [Ks 5c Qs Tc 3s]
+Siège 1 : kalagan23 (bouton) a montré [Ah 6s] et a perdu avec Hauteur As
+Siège 2 : theboss62700 (petite blind) a montré [Kc Th] et a gagné (10120) avec double paire, Rois et Dix
+Siège 3 : tony77cv (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238304946880 : Tournoi #3463729179, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 30/08/2022 11:03:35 CET [30/08/2022 5:03:35 ET]
+Table '3463729179 1' 4-max Siège #2 est au bouton.
+Place 2: theboss62700 (10120 en jetons) 
+Place 3: tony77cv (4890 en jetons) 
+Place 4: psychoman59 (4990 en jetons) 
+theboss62700 : met l'ante. 10
+tony77cv : met l'ante. 10
+psychoman59 : met l'ante. 10
+tony77cv : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 9c]
+theboss62700 : passe. 
+tony77cv : suit. 50
+psychoman59 : parole 
+*** FLOP *** [9d 5s Ks]
+tony77cv : parole 
+psychoman59 : mise. 115
+tony77cv : relance. 115 à 230
+psychoman59 : suit. 115
+*** TOURNANT *** [9d 5s Ks] [Kd]
+tony77cv : parole 
+psychoman59 : mise. 345
+tony77cv : relance. 345 à 690
+psychoman59 : suit. 345
+*** RIVIÈRE *** [9d 5s Ks Kd] [2d]
+tony77cv : mise. 3860 et est all-in.
+psychoman59 : suit. 3860
+*** ABATTAGE ***
+tony77cv : montre [7d Kc] (un brelan de Rois)
+psychoman59 : montre [3h 9c] (double paire, Rois et Neuf)
+tony77cv a remporté 9790  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9790 | Commission 0 
+Tableau [9d 5s Ks Kd 2d]
+Siège 2 : theboss62700 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : tony77cv (petite blind) a montré [7d Kc] et a gagné (9790) avec un brelan de Rois
+Siège 4 : psychoman59 (grosse blind) a montré [3h 9c] et a perdu avec double paire, Rois et Neuf
+
+
+
+Main PokerStars n°238304954721 : Tournoi #3463729179, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 30/08/2022 11:04:32 CET [30/08/2022 5:04:32 ET]
+Table '3463729179 1' 4-max Siège #3 est au bouton.
+Place 2: theboss62700 (10110 en jetons) 
+Place 3: tony77cv (9790 en jetons) 
+Place 4: psychoman59 (100 en jetons) 
+theboss62700 : met l'ante. 10
+tony77cv : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+theboss62700 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 8d]
+tony77cv : suit. 100
+psychoman59 : suit. 40 et est all-in.
+theboss62700 : parole 
+*** FLOP *** [7h Kd Qh]
+theboss62700 : mise. 100
+tony77cv : passe. 
+Personne n'a suivi. (100) sont retournés à theboss62700.
+*** TOURNANT *** [7h Kd Qh] [5h]
+*** RIVIÈRE *** [7h Kd Qh 5h] [2c]
+*** ABATTAGE ***
+theboss62700 : montre [7c Jh] (une paire de Sept)
+theboss62700 a remporté 20  parallèle lors du pot .
+psychoman59 : montre [Qc 8d] (une paire de Dames)
+psychoman59 a remporté 300  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 Principal pot 300. Parallèle pot 20. | Commission 0 
+Tableau [7h Kd Qh 5h 2c]
+Siège 2 : theboss62700 (grosse blind) a montré [7c Jh] et a gagné (20) avec une paire de Sept
+Siège 3 : tony77cv (bouton) s'est couché. sur le Flop
+Siège 4 : psychoman59 (petite blind) a montré [Qc 8d] et a gagné (300) avec une paire de Dames
+
+
+
+Main PokerStars n°238304958146 : Tournoi #3463729179, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 30/08/2022 11:04:57 CET [30/08/2022 5:04:57 ET]
+Table '3463729179 1' 4-max Siège #4 est au bouton.
+Place 2: theboss62700 (10020 en jetons) 
+Place 3: tony77cv (9680 en jetons) 
+Place 4: psychoman59 (300 en jetons) 
+theboss62700 : met l'ante. 10
+tony77cv : met l'ante. 10
+psychoman59 : met l'ante. 10
+theboss62700 : met la petite blind. 50
+tony77cv : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 2s]
+psychoman59 : relance. 190 à 290 et est all-in.
+theboss62700 : suit. 240
+tony77cv : suit. 190
+*** FLOP *** [3d Td 9h]
+theboss62700 : parole 
+tony77cv : parole 
+*** TOURNANT *** [3d Td 9h] [Th]
+theboss62700 : parole 
+tony77cv : parole 
+*** RIVIÈRE *** [3d Td 9h Th] [Ts]
+theboss62700 : parole 
+tony77cv : parole 
+*** ABATTAGE ***
+theboss62700 : montre [5h Qh] (un brelan de Dix)
+tony77cv : montre [7d Kc] (un brelan de Dix - Roi kicker)
+psychoman59 : montre [Kh 2s] (un brelan de Dix)
+tony77cv a remporté 450  lors du pot .
+psychoman59 a remporté 450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [3d Td 9h Th Ts]
+Siège 2 : theboss62700 (petite blind) a montré [5h Qh] et a perdu avec un brelan de Dix
+Siège 3 : tony77cv (grosse blind) a montré [7d Kc] et a gagné (450) avec un brelan de Dix
+Siège 4 : psychoman59 (bouton) a montré [Kh 2s] et a gagné (450) avec un brelan de Dix
+
+
+
+Main PokerStars n°238304960735 : Tournoi #3463729179, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 30/08/2022 11:05:16 CET [30/08/2022 5:05:16 ET]
+Table '3463729179 1' 4-max Siège #2 est au bouton.
+Place 2: theboss62700 (9720 en jetons) 
+Place 3: tony77cv (9830 en jetons) 
+Place 4: psychoman59 (450 en jetons) 
+theboss62700 : met l'ante. 10
+tony77cv : met l'ante. 10
+psychoman59 : met l'ante. 10
+tony77cv : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 4c]
+theboss62700 : relance. 200 à 300
+tony77cv : relance. 200 à 500
+psychoman59 : passe. 
+theboss62700 : suit. 200
+*** FLOP *** [Th 4d 9d]
+tony77cv : parole 
+theboss62700 : mise. 565
+tony77cv : relance. 565 à 1130
+theboss62700 : suit. 565
+*** TOURNANT *** [Th 4d 9d] [3h]
+tony77cv : mise. 3390
+theboss62700 : passe. 
+Personne n'a suivi. (3390) sont retournés à tony77cv.
+tony77cv a remporté 3390  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3390 | Commission 0 
+Tableau [Th 4d 9d 3h]
+Siège 2 : theboss62700 (bouton) s'est couché. sur le Tournant
+Siège 3 : tony77cv (petite blind) a remporté (3390)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238304965777 : Tournoi #3463729179, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 30/08/2022 11:05:52 CET [30/08/2022 5:05:52 ET]
+Table '3463729179 1' 4-max Siège #3 est au bouton.
+Place 2: theboss62700 (8080 en jetons) 
+Place 3: tony77cv (11580 en jetons) 
+Place 4: psychoman59 (340 en jetons) 
+theboss62700 : met l'ante. 10
+tony77cv : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+theboss62700 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 4h]
+tony77cv : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à theboss62700.
+theboss62700 a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Siège 2 : theboss62700 (grosse blind) a remporté (130)
+Siège 3 : tony77cv (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238304967375 : Tournoi #3463729179, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 30/08/2022 11:06:03 CET [30/08/2022 5:06:03 ET]
+Table '3463729179 1' 4-max Siège #4 est au bouton.
+Place 2: theboss62700 (8150 en jetons) 
+Place 3: tony77cv (11570 en jetons) 
+Place 4: psychoman59 (280 en jetons) 
+theboss62700 : met l'ante. 10
+tony77cv : met l'ante. 10
+psychoman59 : met l'ante. 10
+theboss62700 : met la petite blind. 50
+tony77cv : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 2c]
+psychoman59 : relance. 170 à 270 et est all-in.
+theboss62700 : suit. 220
+tony77cv : suit. 170
+*** FLOP *** [3d Jh Qh]
+theboss62700 : mise. 420
+tony77cv : suit. 420
+*** TOURNANT *** [3d Jh Qh] [Qd]
+theboss62700 : mise. 840
+tony77cv : suit. 840
+*** RIVIÈRE *** [3d Jh Qh Qd] [3s]
+theboss62700 : mise. 6610 et est all-in.
+tony77cv : suit. 6610
+*** ABATTAGE ***
+theboss62700 : montre [Qs 6s] (un full, full aux Dames par les Trois)
+tony77cv : montre [5s 3h] (un full, full aux Trois par les Dames)
+theboss62700 a remporté 15740  parallèle lors du pot .
+psychoman59 : montre [Qc 2c] (un full, full aux Dames par les Trois)
+theboss62700 a remporté 420  principal lors du pot .
+psychoman59 a remporté 420  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 16580 Principal pot 840. Parallèle pot 15740. | Commission 0 
+Tableau [3d Jh Qh Qd 3s]
+Siège 2 : theboss62700 (petite blind) a montré [Qs 6s] et a gagné (16160) avec un full, full aux Dames par les Trois
+Siège 3 : tony77cv (grosse blind) a montré [5s 3h] et a perdu avec un full, full aux Trois par les Dames
+Siège 4 : psychoman59 (bouton) a montré [Qc 2c] et a gagné (420) avec un full, full aux Dames par les Trois
+
+
+
+Main PokerStars n°238304972866 : Tournoi #3463729179, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 30/08/2022 11:06:43 CET [30/08/2022 5:06:43 ET]
+Table '3463729179 1' 4-max Siège #2 est au bouton.
+Place 2: theboss62700 (16160 en jetons) 
+Place 3: tony77cv (3420 en jetons) 
+Place 4: psychoman59 (420 en jetons) 
+theboss62700 : met l'ante. 15
+tony77cv : met l'ante. 15
+psychoman59 : met l'ante. 15
+tony77cv : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Js]
+theboss62700 : relance. 240 à 360
+tony77cv : suit. 300
+psychoman59 : suit. 240
+*** FLOP *** [7s 3s 7h]
+tony77cv : parole 
+psychoman59 : mise. 45 et est all-in.
+theboss62700 : relance. 608 à 653
+tony77cv : suit. 653
+*** TOURNANT *** [7s 3s 7h] [6c]
+tony77cv : parole 
+theboss62700 : parole 
+*** RIVIÈRE *** [7s 3s 7h 6c] [Td]
+tony77cv : parole 
+theboss62700 : parole 
+*** ABATTAGE ***
+tony77cv : montre [8d Kd] (une paire de Sept)
+theboss62700 : montre [2h Ac] (une paire de Sept - As kicker)
+theboss62700 a remporté 1216  parallèle lors du pot .
+psychoman59 : cache la main perdante. 
+theboss62700 a remporté 1260  principal lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 2476 Principal pot 1260. Parallèle pot 1216. | Commission 0 
+Tableau [7s 3s 7h 6c Td]
+Siège 2 : theboss62700 (bouton) a montré [2h Ac] et a gagné (2476) avec une paire de Sept
+Siège 3 : tony77cv (petite blind) a montré [8d Kd] et a perdu avec une paire de Sept
+Siège 4 : psychoman59 (grosse blind) a caché la main perdante. [Qs Js]
+
+
+

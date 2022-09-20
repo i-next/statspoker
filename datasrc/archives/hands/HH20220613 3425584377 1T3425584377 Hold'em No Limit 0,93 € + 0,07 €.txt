@@ -1,0 +1,360 @@
+﻿Main PokerStars n°236731762030 : Tournoi #3425584377, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/06/2022 7:51:10 CET [13/06/2022 1:51:10 ET]
+Table '3425584377 1' 3-max Siège #1 est au bouton.
+Place 1: MadMaxSml (300 en jetons) 
+Place 2: steff280278 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+steff280278 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 6h]
+MadMaxSml : suit. 20
+steff280278 : passe. 
+psychoman59 : parole 
+*** FLOP *** [4s 9c 8c]
+psychoman59 : parole 
+MadMaxSml : parole 
+*** TOURNANT *** [4s 9c 8c] [2s]
+psychoman59 : parole 
+MadMaxSml : parole 
+*** RIVIÈRE *** [4s 9c 8c 2s] [Td]
+psychoman59 : mise. 50
+MadMaxSml : suit. 50
+*** ABATTAGE ***
+psychoman59 : montre [7c 6h] (une suite, Six à Dix)
+MadMaxSml : cache la main perdante. 
+psychoman59 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [4s 9c 8c 2s Td]
+Siège 1 : MadMaxSml (bouton) a caché la main perdante. [Qc 8d]
+Siège 2 : steff280278 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [7c 6h] et a gagné (150) avec une suite, Six à Dix
+
+
+
+Main PokerStars n°236731765066 : Tournoi #3425584377, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/06/2022 7:51:44 CET [13/06/2022 1:51:44 ET]
+Table '3425584377 1' 3-max Siège #2 est au bouton.
+Place 1: MadMaxSml (230 en jetons) 
+Place 2: steff280278 (290 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+psychoman59 : met la petite blind. 10
+MadMaxSml : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Jc]
+steff280278 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à MadMaxSml.
+MadMaxSml a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : MadMaxSml (grosse blind) a remporté (20)
+Siège 2 : steff280278 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236731765750 : Tournoi #3425584377, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/06/2022 7:51:51 CET [13/06/2022 1:51:51 ET]
+Table '3425584377 1' 3-max Siège #3 est au bouton.
+Place 1: MadMaxSml (240 en jetons) 
+Place 2: steff280278 (290 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+MadMaxSml : met la petite blind. 10
+steff280278 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 3h]
+psychoman59 : suit. 20
+MadMaxSml : passe. 
+steff280278 : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [3c Qh 6s]
+steff280278 : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [3c Qh 6s] [Qs]
+steff280278 : parole 
+psychoman59 : mise. 85
+steff280278 : passe. 
+Personne n'a suivi. (85) sont retournés à psychoman59.
+psychoman59 a remporté 170  lors du pot .
+*** SYNTHÈSE ***
+Pot total 170 | Commission 0 
+Tableau [3c Qh 6s Qs]
+Siège 1 : MadMaxSml (petite blind) s'est couché. avant Flop
+Siège 2 : steff280278 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) a remporté (170)
+
+
+
+Main PokerStars n°236731768729 : Tournoi #3425584377, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/06/2022 7:52:24 CET [13/06/2022 1:52:24 ET]
+Table '3425584377 1' 3-max Siège #1 est au bouton.
+Place 1: MadMaxSml (230 en jetons) 
+Place 2: steff280278 (210 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+steff280278 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 9d]
+MadMaxSml : suit. 30
+steff280278 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Ad 8d Td]
+psychoman59 : parole 
+MadMaxSml : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [Ad 8d Td] [Jd]
+psychoman59 : parole 
+MadMaxSml : mise. 170 et est all-in.
+psychoman59 : suit. 170
+*** RIVIÈRE *** [Ad 8d Td Jd] [Th]
+*** ABATTAGE ***
+psychoman59 : montre [5h 9d] (une couleur, hauteur As)
+MadMaxSml : montre [Qc Qh] (double paire, Dames et Dix)
+psychoman59 a remporté 475  lors du pot .
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Tableau [Ad 8d Td Jd Th]
+Siège 1 : MadMaxSml (bouton) a montré [Qc Qh] et a perdu avec double paire, Dames et Dix
+Siège 2 : steff280278 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [5h 9d] et a gagné (475) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°236731780750 : Tournoi #3425584377, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/06/2022 7:52:51 CET [13/06/2022 1:52:51 ET]
+Table '3425584377 1' 3-max Siège #3 est au bouton.
+Place 2: steff280278 (195 en jetons) 
+Place 3: psychoman59 (705 en jetons) 
+psychoman59 : met la petite blind. 15
+steff280278 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Qd]
+psychoman59 : suit. 15
+steff280278 : relance. 165 à 195 et est all-in.
+psychoman59 : suit. 165
+*** FLOP *** [3h Js Kc]
+*** TOURNANT *** [3h Js Kc] [5h]
+*** RIVIÈRE *** [3h Js Kc 5h] [4c]
+*** ABATTAGE ***
+steff280278 : montre [6d Ah] (Hauteur As)
+psychoman59 : montre [8c Qd] (Hauteur Roi)
+steff280278 a remporté 390  lors du pot .
+*** SYNTHÈSE ***
+Pot total 390 | Commission 0 
+Tableau [3h Js Kc 5h 4c]
+Siège 2 : steff280278 (grosse blind) a montré [6d Ah] et a gagné (390) avec Hauteur As
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [8c Qd] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°236731782251 : Tournoi #3425584377, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/06/2022 7:53:08 CET [13/06/2022 1:53:08 ET]
+Table '3425584377 1' 3-max Siège #2 est au bouton.
+Place 2: steff280278 (390 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+steff280278 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 4s]
+steff280278 : relance. 360 à 390 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (360) sont retournés à steff280278.
+steff280278 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : steff280278 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236731783810 : Tournoi #3425584377, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/06/2022 7:53:26 CET [13/06/2022 1:53:26 ET]
+Table '3425584377 1' 3-max Siège #3 est au bouton.
+Place 2: steff280278 (420 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 20
+steff280278 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Jc]
+psychoman59 : relance. 440 à 480 et est all-in.
+steff280278 : suit. 380 et est all-in.
+Personne n'a suivi. (60) sont retournés à psychoman59.
+*** FLOP *** [3s As Th]
+*** TOURNANT *** [3s As Th] [5s]
+*** RIVIÈRE *** [3s As Th 5s] [8c]
+*** ABATTAGE ***
+steff280278 : montre [6s Ad] (une paire de As)
+psychoman59 : montre [Kh Jc] (Hauteur As)
+steff280278 a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [3s As Th 5s 8c]
+Siège 2 : steff280278 (grosse blind) a montré [6s Ad] et a gagné (840) avec une paire de As
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Kh Jc] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°236731784991 : Tournoi #3425584377, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/06/2022 7:53:39 CET [13/06/2022 1:53:39 ET]
+Table '3425584377 1' 3-max Siège #2 est au bouton.
+Place 2: steff280278 (840 en jetons) 
+Place 3: psychoman59 (60 en jetons) 
+steff280278 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 6d]
+steff280278 : relance. 800 à 840 et est all-in.
+psychoman59 : suit. 20 et est all-in.
+Personne n'a suivi. (780) sont retournés à steff280278.
+*** FLOP *** [5c 4c Qh]
+*** TOURNANT *** [5c 4c Qh] [2h]
+*** RIVIÈRE *** [5c 4c Qh 2h] [As]
+*** ABATTAGE ***
+psychoman59 : montre [6s 6d] (une paire de Six)
+steff280278 : montre [Kc 8d] (Hauteur As)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5c 4c Qh 2h As]
+Siège 2 : steff280278 (bouton) (petite blind) a montré [Kc 8d] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [6s 6d] et a gagné (120) avec une paire de Six
+
+
+
+Main PokerStars n°236731786151 : Tournoi #3425584377, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/06/2022 7:53:52 CET [13/06/2022 1:53:52 ET]
+Table '3425584377 1' 3-max Siège #3 est au bouton.
+Place 2: steff280278 (780 en jetons) 
+Place 3: psychoman59 (120 en jetons) 
+psychoman59 : met la petite blind. 20
+steff280278 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 6c]
+psychoman59 : relance. 80 à 120 et est all-in.
+steff280278 : suit. 80
+*** FLOP *** [9s Jd 4d]
+*** TOURNANT *** [9s Jd 4d] [6s]
+*** RIVIÈRE *** [9s Jd 4d 6s] [2c]
+*** ABATTAGE ***
+steff280278 : montre [4c 6d] (double paire, Six et Quatre)
+psychoman59 : montre [9c 6c] (double paire, Neuf et Six)
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [9s Jd 4d 6s 2c]
+Siège 2 : steff280278 (grosse blind) a montré [4c 6d] et a perdu avec double paire, Six et Quatre
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [9c 6c] et a gagné (240) avec double paire, Neuf et Six
+
+
+
+Main PokerStars n°236731787450 : Tournoi #3425584377, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/06/2022 7:54:07 CET [13/06/2022 1:54:07 ET]
+Table '3425584377 1' 3-max Siège #2 est au bouton.
+Place 2: steff280278 (660 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+steff280278 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Js]
+steff280278 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : steff280278 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°236731787831 : Tournoi #3425584377, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/06/2022 7:54:11 CET [13/06/2022 1:54:11 ET]
+Table '3425584377 1' 3-max Siège #3 est au bouton.
+Place 2: steff280278 (640 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+psychoman59 : met la petite blind. 20
+steff280278 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 7h]
+psychoman59 : relance. 220 à 260 et est all-in.
+steff280278 : passe. 
+Personne n'a suivi. (220) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : steff280278 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°236731789460 : Tournoi #3425584377, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/06/2022 7:54:29 CET [13/06/2022 1:54:29 ET]
+Table '3425584377 1' 3-max Siège #2 est au bouton.
+Place 2: steff280278 (600 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+steff280278 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Qc]
+steff280278 : relance. 540 à 600 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (540) sont retournés à steff280278.
+steff280278 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : steff280278 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236731790434 : Tournoi #3425584377, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/06/2022 7:54:40 CET [13/06/2022 1:54:40 ET]
+Table '3425584377 1' 3-max Siège #3 est au bouton.
+Place 2: steff280278 (660 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+psychoman59 : met la petite blind. 30
+steff280278 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 9s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à steff280278.
+steff280278 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : steff280278 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236731790883 : Tournoi #3425584377, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/06/2022 7:54:45 CET [13/06/2022 1:54:45 ET]
+Table '3425584377 1' 3-max Siège #2 est au bouton.
+Place 2: steff280278 (690 en jetons) 
+Place 3: psychoman59 (210 en jetons) 
+steff280278 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 4d]
+steff280278 : relance. 630 à 690 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (630) sont retournés à steff280278.
+steff280278 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : steff280278 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236731792384 : Tournoi #3425584377, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/06/2022 7:55:04 CET [13/06/2022 1:55:04 ET]
+Table '3425584377 1' 3-max Siège #3 est au bouton.
+Place 2: steff280278 (750 en jetons) 
+Place 3: psychoman59 (150 en jetons) 
+psychoman59 : met la petite blind. 30
+steff280278 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Jh]
+psychoman59 : relance. 90 à 150 et est all-in.
+steff280278 : suit. 90
+*** FLOP *** [3d Ks 6s]
+*** TOURNANT *** [3d Ks 6s] [Qc]
+*** RIVIÈRE *** [3d Ks 6s Qc] [4c]
+*** ABATTAGE ***
+steff280278 : montre [9d Qs] (une paire de Dames)
+psychoman59 : montre [6c Jh] (une paire de Six)
+steff280278 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [3d Ks 6s Qc 4c]
+Siège 2 : steff280278 (grosse blind) a montré [9d Qs] et a gagné (300) avec une paire de Dames
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [6c Jh] et a perdu avec une paire de Six
+
+
+

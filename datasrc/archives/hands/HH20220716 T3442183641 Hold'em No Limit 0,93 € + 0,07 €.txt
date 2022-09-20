@@ -1,0 +1,311 @@
+﻿Main PokerStars n°237387623433 : Tournoi #3442183641, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2022 8:37:05 CET [16/07/2022 2:37:05 ET]
+Table '3442183641 1' 3-max Siège #1 est au bouton.
+Place 1: willy3838 (300 en jetons) 
+Place 2: MonRSAtaBR (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+MonRSAtaBR : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 9c]
+willy3838 : passe. 
+MonRSAtaBR : relance. 20 à 40
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à MonRSAtaBR.
+MonRSAtaBR a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : willy3838 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : MonRSAtaBR (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237387624671 : Tournoi #3442183641, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2022 8:37:15 CET [16/07/2022 2:37:15 ET]
+Table '3442183641 1' 3-max Siège #2 est au bouton.
+Place 1: willy3838 (300 en jetons) 
+Place 2: MonRSAtaBR (320 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+willy3838 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Ac]
+MonRSAtaBR : passe. 
+psychoman59 : relance. 40 à 60
+willy3838 : suit. 40
+*** FLOP *** [6d Th 9s]
+psychoman59 : parole 
+willy3838 : parole 
+*** TOURNANT *** [6d Th 9s] [Ad]
+psychoman59 : mise. 60
+willy3838 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6d Th 9s Ad]
+Siège 1 : willy3838 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : MonRSAtaBR (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237387627026 : Tournoi #3442183641, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2022 8:37:35 CET [16/07/2022 2:37:35 ET]
+Table '3442183641 1' 3-max Siège #3 est au bouton.
+Place 1: willy3838 (240 en jetons) 
+Place 2: MonRSAtaBR (320 en jetons) 
+Place 3: psychoman59 (340 en jetons) 
+willy3838 : met la petite blind. 10
+MonRSAtaBR : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ah]
+psychoman59 : suit. 20
+willy3838 : suit. 10
+MonRSAtaBR : parole 
+*** FLOP *** [Kc 9c Js]
+willy3838 : parole 
+MonRSAtaBR : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Kc 9c Js] [4s]
+willy3838 : mise. 20
+MonRSAtaBR : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à willy3838.
+willy3838 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Kc 9c Js 4s]
+Siège 1 : willy3838 (petite blind) a remporté (60)
+Siège 2 : MonRSAtaBR (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237387629321 : Tournoi #3442183641, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2022 8:37:55 CET [16/07/2022 2:37:55 ET]
+Table '3442183641 1' 3-max Siège #1 est au bouton.
+Place 1: willy3838 (280 en jetons) 
+Place 2: MonRSAtaBR (300 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+MonRSAtaBR : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 5h]
+willy3838 : suit. 20
+MonRSAtaBR : passe. 
+psychoman59 : parole 
+*** FLOP *** [9c 5c Jh]
+psychoman59 : parole 
+willy3838 : parole 
+*** TOURNANT *** [9c 5c Jh] [8h]
+psychoman59 : parole 
+willy3838 : parole 
+*** RIVIÈRE *** [9c 5c Jh 8h] [6h]
+psychoman59 : parole 
+willy3838 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Js 5h] (double paire, Valets et Cinq)
+willy3838 : cache la main perdante. 
+psychoman59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [9c 5c Jh 8h 6h]
+Siège 1 : willy3838 (bouton) a caché la main perdante. [3s Kc]
+Siège 2 : MonRSAtaBR (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Js 5h] et a gagné (50) avec double paire, Valets et Cinq
+
+
+
+Main PokerStars n°237387632073 : Tournoi #3442183641, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 8:38:18 CET [16/07/2022 2:38:18 ET]
+Table '3442183641 1' 3-max Siège #2 est au bouton.
+Place 1: willy3838 (260 en jetons) 
+Place 2: MonRSAtaBR (290 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 15
+willy3838 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 7c]
+MonRSAtaBR : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à willy3838.
+willy3838 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : willy3838 (grosse blind) a remporté (30)
+Siège 2 : MonRSAtaBR (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237387632866 : Tournoi #3442183641, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 8:38:24 CET [16/07/2022 2:38:24 ET]
+Table '3442183641 1' 3-max Siège #3 est au bouton.
+Place 1: willy3838 (275 en jetons) 
+Place 2: MonRSAtaBR (290 en jetons) 
+Place 3: psychoman59 (335 en jetons) 
+willy3838 : met la petite blind. 15
+MonRSAtaBR : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 8c]
+psychoman59 : passe. 
+willy3838 : suit. 15
+MonRSAtaBR : parole 
+*** FLOP *** [3h Ad 7h]
+willy3838 : parole 
+MonRSAtaBR : parole 
+*** TOURNANT *** [3h Ad 7h] [8s]
+willy3838 : mise. 30
+MonRSAtaBR : passe. 
+Personne n'a suivi. (30) sont retournés à willy3838.
+willy3838 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3h Ad 7h 8s]
+Siège 1 : willy3838 (petite blind) a remporté (60)
+Siège 2 : MonRSAtaBR (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237387636058 : Tournoi #3442183641, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 8:38:51 CET [16/07/2022 2:38:51 ET]
+Table '3442183641 1' 3-max Siège #1 est au bouton.
+Place 1: willy3838 (305 en jetons) 
+Place 2: MonRSAtaBR (260 en jetons) 
+Place 3: psychoman59 (335 en jetons) 
+MonRSAtaBR : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 3c]
+willy3838 : passe. 
+MonRSAtaBR : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : willy3838 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : MonRSAtaBR (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237387636820 : Tournoi #3442183641, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 8:38:57 CET [16/07/2022 2:38:57 ET]
+Table '3442183641 1' 3-max Siège #2 est au bouton.
+Place 1: willy3838 (305 en jetons) 
+Place 2: MonRSAtaBR (245 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 15
+willy3838 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 9c]
+MonRSAtaBR : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à willy3838.
+willy3838 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : willy3838 (grosse blind) a remporté (30)
+Siège 2 : MonRSAtaBR (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237387637463 : Tournoi #3442183641, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 8:39:02 CET [16/07/2022 2:39:02 ET]
+Table '3442183641 1' 3-max Siège #3 est au bouton.
+Place 1: willy3838 (320 en jetons) 
+Place 2: MonRSAtaBR (245 en jetons) 
+Place 3: psychoman59 (335 en jetons) 
+willy3838 : met la petite blind. 15
+MonRSAtaBR : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Ac]
+psychoman59 : suit. 30
+willy3838 : suit. 15
+MonRSAtaBR : parole 
+*** FLOP *** [8h Kd Td]
+willy3838 : parole 
+MonRSAtaBR : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8h Kd Td] [Qs]
+willy3838 : parole 
+MonRSAtaBR : parole 
+psychoman59 : mise. 90
+willy3838 : passe. 
+MonRSAtaBR : suit. 90
+*** RIVIÈRE *** [8h Kd Td Qs] [Ad]
+MonRSAtaBR : mise. 125 et est all-in.
+psychoman59 : suit. 125
+*** ABATTAGE ***
+MonRSAtaBR : montre [2d 9d] (une couleur, hauteur As)
+psychoman59 : montre [6h Ac] (une paire de As)
+MonRSAtaBR a remporté 520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [8h Kd Td Qs Ad]
+Siège 1 : willy3838 (petite blind) s'est couché. sur le Tournant
+Siège 2 : MonRSAtaBR (grosse blind) a montré [2d 9d] et a gagné (520) avec une couleur, hauteur As
+Siège 3 : psychoman59 (bouton) a montré [6h Ac] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°237387642466 : Tournoi #3442183641, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/07/2022 8:39:44 CET [16/07/2022 2:39:44 ET]
+Table '3442183641 1' 3-max Siège #1 est au bouton.
+Place 1: willy3838 (290 en jetons) 
+Place 2: MonRSAtaBR (520 en jetons) 
+Place 3: psychoman59 (90 en jetons) 
+MonRSAtaBR : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Th]
+willy3838 : suit. 40
+MonRSAtaBR : passe. 
+psychoman59 : parole 
+*** FLOP *** [2h Jc 4d]
+psychoman59 : parole 
+willy3838 : parole 
+*** TOURNANT *** [2h Jc 4d] [7d]
+psychoman59 : parole 
+willy3838 : parole 
+*** RIVIÈRE *** [2h Jc 4d 7d] [8s]
+psychoman59 : parole 
+willy3838 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3d Th] (Hauteur Valet)
+willy3838 : montre [9c Qc] (Hauteur Dame)
+willy3838 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [2h Jc 4d 7d 8s]
+Siège 1 : willy3838 (bouton) a montré [9c Qc] et a gagné (100) avec Hauteur Dame
+Siège 2 : MonRSAtaBR (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [3d Th] et a perdu avec Hauteur Valet
+
+
+
+Main PokerStars n°237387646622 : Tournoi #3442183641, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/07/2022 8:40:18 CET [16/07/2022 2:40:18 ET]
+Table '3442183641 1' 3-max Siège #2 est au bouton.
+Place 1: willy3838 (350 en jetons) 
+Place 2: MonRSAtaBR (500 en jetons) 
+Place 3: psychoman59 (50 en jetons) 
+psychoman59 : met la petite blind. 30
+willy3838 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 9d]
+MonRSAtaBR : relance. 60 à 120
+psychoman59 : suit. 20 et est all-in.
+willy3838 : relance. 230 à 350 et est all-in.
+MonRSAtaBR : suit. 230
+*** FLOP *** [5h Td 4s]
+*** TOURNANT *** [5h Td 4s] [Kh]
+*** RIVIÈRE *** [5h Td 4s Kh] [8c]
+*** ABATTAGE ***
+willy3838 : montre [Ad Ac] (une paire de As)
+MonRSAtaBR : montre [Jd Kd] (une paire de Rois)
+willy3838 a remporté 600  parallèle lors du pot .
+psychoman59 : montre [Qh 9d] (Hauteur Roi)
+willy3838 a remporté 150  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 750 Principal pot 150. Parallèle pot 600. | Commission 0 
+Tableau [5h Td 4s Kh 8c]
+Siège 1 : willy3838 (grosse blind) a montré [Ad Ac] et a gagné (750) avec une paire de As
+Siège 2 : MonRSAtaBR (bouton) a montré [Jd Kd] et a perdu avec une paire de Rois
+Siège 3 : psychoman59 (petite blind) a montré [Qh 9d] et a perdu avec Hauteur Roi
+
+
+

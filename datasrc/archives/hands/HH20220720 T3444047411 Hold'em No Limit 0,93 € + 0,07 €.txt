@@ -1,0 +1,607 @@
+﻿Main PokerStars n°237470514265 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/07/2022 8:12:14 CET [20/07/2022 2:12:14 ET]
+Table '3444047411 1' 3-max Siège #1 est au bouton.
+Place 1: notrevisite (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: joss622 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+joss622 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Qc]
+notrevisite : passe. 
+psychoman59 : suit. 10
+joss622 : parole 
+*** FLOP *** [7c 9s 5d]
+psychoman59 : parole 
+joss622 : parole 
+*** TOURNANT *** [7c 9s 5d] [4d]
+psychoman59 : parole 
+joss622 : parole 
+*** RIVIÈRE *** [7c 9s 5d 4d] [4h]
+psychoman59 : parole 
+joss622 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Jd Qc] (une paire de Quatre)
+joss622 : cache la main perdante. 
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7c 9s 5d 4d 4h]
+Siège 1 : notrevisite (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Jd Qc] et a gagné (40) avec une paire de Quatre
+Siège 3 : joss622 (grosse blind) a caché la main perdante. [Qd 2s]
+
+
+
+Main PokerStars n°237470516191 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/07/2022 8:12:33 CET [20/07/2022 2:12:33 ET]
+Table '3444047411 1' 3-max Siège #2 est au bouton.
+Place 1: notrevisite (300 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: joss622 (280 en jetons) 
+joss622 : met la petite blind. 10
+notrevisite : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 6c]
+psychoman59 : suit. 20
+joss622 : passe. 
+notrevisite : parole 
+*** FLOP *** [Qc Ts 2s]
+notrevisite : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qc Ts 2s] [7d]
+notrevisite : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qc Ts 2s 7d] [5d]
+notrevisite : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+notrevisite : montre [4d 5s] (une paire de Cinq)
+psychoman59 : cache la main perdante. 
+notrevisite a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Qc Ts 2s 7d 5d]
+Siège 1 : notrevisite (grosse blind) a montré [4d 5s] et a gagné (50) avec une paire de Cinq
+Siège 2 : psychoman59 (bouton) a caché la main perdante. [Ah 6c]
+Siège 3 : joss622 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237470519005 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/07/2022 8:12:59 CET [20/07/2022 2:12:59 ET]
+Table '3444047411 1' 3-max Siège #3 est au bouton.
+Place 1: notrevisite (330 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: joss622 (270 en jetons) 
+notrevisite : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 7d]
+joss622 : passe. 
+notrevisite : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : notrevisite (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+Siège 3 : joss622 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237470519818 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/07/2022 8:13:07 CET [20/07/2022 2:13:07 ET]
+Table '3444047411 1' 3-max Siège #1 est au bouton.
+Place 1: notrevisite (320 en jetons) 
+Place 2: psychoman59 (310 en jetons) 
+Place 3: joss622 (270 en jetons) 
+psychoman59 : met la petite blind. 10
+joss622 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 6c]
+notrevisite : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à joss622.
+joss622 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : notrevisite (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : joss622 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237470520683 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/07/2022 8:13:15 CET [20/07/2022 2:13:15 ET]
+Table '3444047411 1' 3-max Siège #2 est au bouton.
+Place 1: notrevisite (320 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: joss622 (280 en jetons) 
+joss622 : met la petite blind. 10
+notrevisite : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 6d]
+psychoman59 : passe. 
+joss622 : suit. 10
+notrevisite : relance. 20 à 40
+joss622 : suit. 20
+*** FLOP *** [8s 2h 2s]
+joss622 : mise. 40
+notrevisite : suit. 40
+*** TOURNANT *** [8s 2h 2s] [7c]
+joss622 : mise. 80
+notrevisite : suit. 80
+*** RIVIÈRE *** [8s 2h 2s 7c] [Kh]
+joss622 : mise. 120 et est all-in.
+notrevisite : suit. 120
+*** ABATTAGE ***
+joss622 : montre [8d 7d] (double paire, Huit et Sept)
+notrevisite : montre [Js Ts] (une paire de Deux)
+joss622 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [8s 2h 2s 7c Kh]
+Siège 1 : notrevisite (grosse blind) a montré [Js Ts] et a perdu avec une paire de Deux
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : joss622 (petite blind) a montré [8d 7d] et a gagné (560) avec double paire, Huit et Sept
+
+
+
+Main PokerStars n°237470524248 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/07/2022 8:13:47 CET [20/07/2022 2:13:47 ET]
+Table '3444047411 1' 3-max Siège #3 est au bouton.
+Place 1: notrevisite (40 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: joss622 (560 en jetons) 
+notrevisite : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 4s]
+joss622 : passe. 
+notrevisite : relance. 10 à 40 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à notrevisite.
+notrevisite a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : notrevisite (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : joss622 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237470525295 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/07/2022 8:13:57 CET [20/07/2022 2:13:57 ET]
+Table '3444047411 1' 3-max Siège #1 est au bouton.
+Place 1: notrevisite (70 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: joss622 (560 en jetons) 
+psychoman59 : met la petite blind. 15
+joss622 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 6d]
+notrevisite : relance. 40 à 70 et est all-in.
+psychoman59 : passe. 
+joss622 : suit. 40
+*** FLOP *** [Qd 6s Kc]
+*** TOURNANT *** [Qd 6s Kc] [9s]
+*** RIVIÈRE *** [Qd 6s Kc 9s] [5c]
+*** ABATTAGE ***
+joss622 : montre [3c 4h] (Hauteur Roi)
+notrevisite : montre [2h Th] (Hauteur Roi - Dame+Dix kicker)
+notrevisite a remporté 155  lors du pot .
+*** SYNTHÈSE ***
+Pot total 155 | Commission 0 
+Tableau [Qd 6s Kc 9s 5c]
+Siège 1 : notrevisite (bouton) a montré [2h Th] et a gagné (155) avec Hauteur Roi
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : joss622 (grosse blind) a montré [3c 4h] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°237470527140 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/07/2022 8:14:14 CET [20/07/2022 2:14:14 ET]
+Table '3444047411 1' 3-max Siège #2 est au bouton.
+Place 1: notrevisite (155 en jetons) 
+Place 2: psychoman59 (255 en jetons) 
+Place 3: joss622 (490 en jetons) 
+joss622 : met la petite blind. 15
+notrevisite : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d As]
+psychoman59 : relance. 30 à 60
+joss622 : suit. 45
+notrevisite : relance. 95 à 155 et est all-in.
+psychoman59 : suit. 95
+joss622 : suit. 95
+*** FLOP *** [Ad 7s Th]
+joss622 : parole 
+psychoman59 : mise. 100 et est all-in.
+joss622 : suit. 100
+*** TOURNANT *** [Ad 7s Th] [Tc]
+*** RIVIÈRE *** [Ad 7s Th Tc] [7c]
+*** ABATTAGE ***
+joss622 : montre [Kd Jh] (double paire, Dix et Sept)
+psychoman59 : montre [6d As] (double paire, As et Dix)
+psychoman59 a remporté 200  parallèle lors du pot .
+notrevisite : montre [Qc Qd] (double paire, Dames et Dix)
+psychoman59 a remporté 465  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 665 Principal pot 465. Parallèle pot 200. | Commission 0 
+Tableau [Ad 7s Th Tc 7c]
+Siège 1 : notrevisite (grosse blind) a montré [Qc Qd] et a perdu avec double paire, Dames et Dix
+Siège 2 : psychoman59 (bouton) a montré [6d As] et a gagné (665) avec double paire, As et Dix
+Siège 3 : joss622 (petite blind) a montré [Kd Jh] et a perdu avec double paire, Dix et Sept
+
+
+
+Main PokerStars n°237470530784 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/07/2022 8:14:49 CET [20/07/2022 2:14:49 ET]
+Table '3444047411 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (665 en jetons) 
+Place 3: joss622 (235 en jetons) 
+joss622 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 8c]
+joss622 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : joss622 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237470531286 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/07/2022 8:14:54 CET [20/07/2022 2:14:54 ET]
+Table '3444047411 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (685 en jetons) 
+Place 3: joss622 (215 en jetons) 
+psychoman59 : met la petite blind. 20
+joss622 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à joss622.
+joss622 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : joss622 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237470532013 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/07/2022 8:15:01 CET [20/07/2022 2:15:01 ET]
+Table '3444047411 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (665 en jetons) 
+Place 3: joss622 (235 en jetons) 
+joss622 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 3c]
+joss622 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : joss622 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237470532559 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/07/2022 8:15:06 CET [20/07/2022 2:15:06 ET]
+Table '3444047411 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (685 en jetons) 
+Place 3: joss622 (215 en jetons) 
+psychoman59 : met la petite blind. 20
+joss622 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à joss622.
+joss622 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : joss622 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237470533219 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/07/2022 8:15:12 CET [20/07/2022 2:15:12 ET]
+Table '3444047411 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (665 en jetons) 
+Place 3: joss622 (235 en jetons) 
+joss622 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 6h]
+joss622 : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à joss622.
+joss622 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : joss622 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237470534287 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/07/2022 8:15:22 CET [20/07/2022 2:15:22 ET]
+Table '3444047411 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (625 en jetons) 
+Place 3: joss622 (275 en jetons) 
+psychoman59 : met la petite blind. 30
+joss622 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à joss622.
+joss622 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : joss622 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237470534797 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/07/2022 8:15:28 CET [20/07/2022 2:15:28 ET]
+Table '3444047411 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (595 en jetons) 
+Place 3: joss622 (305 en jetons) 
+joss622 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 6d]
+joss622 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [2h 3d 5h]
+psychoman59 : parole 
+joss622 : parole 
+*** TOURNANT *** [2h 3d 5h] [Td]
+psychoman59 : mise. 60
+joss622 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2h 3d 5h Td]
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : joss622 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237470536983 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/07/2022 8:15:48 CET [20/07/2022 2:15:48 ET]
+Table '3444047411 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (655 en jetons) 
+Place 3: joss622 (245 en jetons) 
+psychoman59 : met la petite blind. 30
+joss622 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à joss622.
+joss622 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : joss622 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237470537487 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/07/2022 8:15:53 CET [20/07/2022 2:15:53 ET]
+Table '3444047411 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (625 en jetons) 
+Place 3: joss622 (275 en jetons) 
+joss622 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 6d]
+joss622 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [4s 5d 3c]
+psychoman59 : parole 
+joss622 : parole 
+*** TOURNANT *** [4s 5d 3c] [7d]
+psychoman59 : mise. 60
+joss622 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4s 5d 3c 7d]
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : joss622 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237470539503 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/07/2022 8:16:12 CET [20/07/2022 2:16:12 ET]
+Table '3444047411 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (685 en jetons) 
+Place 3: joss622 (215 en jetons) 
+psychoman59 : met la petite blind. 30
+joss622 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à joss622.
+joss622 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : joss622 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237470540366 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 20/07/2022 8:16:20 CET [20/07/2022 2:16:20 ET]
+Table '3444047411 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (655 en jetons) 
+Place 3: joss622 (245 en jetons) 
+joss622 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 2c]
+joss622 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : joss622 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237470540927 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 20/07/2022 8:16:25 CET [20/07/2022 2:16:25 ET]
+Table '3444047411 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (695 en jetons) 
+Place 3: joss622 (205 en jetons) 
+psychoman59 : met la petite blind. 40
+joss622 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à joss622.
+joss622 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : joss622 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237470541486 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 20/07/2022 8:16:31 CET [20/07/2022 2:16:31 ET]
+Table '3444047411 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (655 en jetons) 
+Place 3: joss622 (245 en jetons) 
+joss622 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 5c]
+joss622 : relance. 80 à 160
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à joss622.
+joss622 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : joss622 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°237470542297 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 20/07/2022 8:16:38 CET [20/07/2022 2:16:38 ET]
+Table '3444047411 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (575 en jetons) 
+Place 3: joss622 (325 en jetons) 
+psychoman59 : met la petite blind. 40
+joss622 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ts]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à joss622.
+joss622 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : joss622 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237470542792 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 20/07/2022 8:16:43 CET [20/07/2022 2:16:43 ET]
+Table '3444047411 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (535 en jetons) 
+Place 3: joss622 (365 en jetons) 
+joss622 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 7d]
+joss622 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : joss622 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237470543280 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 20/07/2022 8:16:47 CET [20/07/2022 2:16:47 ET]
+Table '3444047411 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (575 en jetons) 
+Place 3: joss622 (325 en jetons) 
+psychoman59 : met la petite blind. 40
+joss622 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à joss622.
+joss622 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : joss622 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237470543843 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 20/07/2022 8:16:53 CET [20/07/2022 2:16:53 ET]
+Table '3444047411 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (535 en jetons) 
+Place 3: joss622 (365 en jetons) 
+joss622 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 5c]
+joss622 : relance. 80 à 160
+psychoman59 : relance. 375 à 535 et est all-in.
+joss622 : suit. 205 et est all-in.
+Personne n'a suivi. (170) sont retournés à psychoman59.
+*** FLOP *** [2s Td Ks]
+*** TOURNANT *** [2s Td Ks] [Ad]
+*** RIVIÈRE *** [2s Td Ks Ad] [8d]
+*** ABATTAGE ***
+psychoman59 : montre [5d 5c] (une paire de Cinq)
+joss622 : montre [Kh Jd] (une paire de Rois)
+joss622 a remporté 730  lors du pot .
+*** SYNTHÈSE ***
+Pot total 730 | Commission 0 
+Tableau [2s Td Ks Ad 8d]
+Siège 2 : psychoman59 (grosse blind) a montré [5d 5c] et a perdu avec une paire de Cinq
+Siège 3 : joss622 (bouton) (petite blind) a montré [Kh Jd] et a gagné (730) avec une paire de Rois
+
+
+
+Main PokerStars n°237470545410 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 20/07/2022 8:17:07 CET [20/07/2022 2:17:07 ET]
+Table '3444047411 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (170 en jetons) 
+Place 3: joss622 (730 en jetons) 
+psychoman59 : met la petite blind. 40
+joss622 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Th]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à joss622.
+joss622 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : joss622 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237470545957 : Tournoi #3444047411, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 20/07/2022 8:17:12 CET [20/07/2022 2:17:12 ET]
+Table '3444047411 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (130 en jetons) 
+Place 3: joss622 (770 en jetons) 
+joss622 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Jh]
+joss622 : relance. 80 à 160
+psychoman59 : suit. 50 et est all-in.
+Personne n'a suivi. (30) sont retournés à joss622.
+*** FLOP *** [6d 2d Ah]
+*** TOURNANT *** [6d 2d Ah] [8h]
+*** RIVIÈRE *** [6d 2d Ah 8h] [8s]
+*** ABATTAGE ***
+psychoman59 : montre [Qs Jh] (une paire de Huit)
+joss622 : montre [As 6c] (double paire, As et Huit)
+joss622 a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [6d 2d Ah 8h 8s]
+Siège 2 : psychoman59 (grosse blind) a montré [Qs Jh] et a perdu avec une paire de Huit
+Siège 3 : joss622 (bouton) (petite blind) a montré [As 6c] et a gagné (260) avec double paire, As et Huit
+
+
+

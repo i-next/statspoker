@@ -1,0 +1,461 @@
+﻿Main PokerStars n°236705098282 : Tournoi #3424988422, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/06/2022 0:19:00 CET [11/06/2022 18:19:00 ET]
+Table '3424988422 1' 3-max Siège #1 est au bouton.
+Place 1: la-poker-fesse (300 en jetons) 
+Place 2: manosk13 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+manosk13 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 5c]
+la-poker-fesse : passe. 
+manosk13 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : la-poker-fesse (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : manosk13 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°236705101139 : Tournoi #3424988422, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/06/2022 0:19:09 CET [11/06/2022 18:19:09 ET]
+Table '3424988422 1' 3-max Siège #2 est au bouton.
+Place 1: la-poker-fesse (300 en jetons) 
+Place 2: manosk13 (290 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 10
+la-poker-fesse : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 5c]
+manosk13 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à la-poker-fesse.
+la-poker-fesse a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : la-poker-fesse (grosse blind) a remporté (20)
+Siège 2 : manosk13 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236705103417 : Tournoi #3424988422, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/06/2022 0:19:17 CET [11/06/2022 18:19:17 ET]
+Table '3424988422 1' 3-max Siège #3 est au bouton.
+Place 1: la-poker-fesse (310 en jetons) 
+Place 2: manosk13 (290 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+la-poker-fesse : met la petite blind. 10
+manosk13 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 2h]
+psychoman59 : passe. 
+la-poker-fesse : suit. 10
+manosk13 : parole 
+*** FLOP *** [Kc 4c Tc]
+la-poker-fesse : parole 
+manosk13 : mise. 20
+la-poker-fesse : suit. 20
+*** TOURNANT *** [Kc 4c Tc] [Qs]
+la-poker-fesse : mise. 270 et est all-in.
+manosk13 : passe. 
+Personne n'a suivi. (270) sont retournés à la-poker-fesse.
+la-poker-fesse a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Kc 4c Tc Qs]
+Siège 1 : la-poker-fesse (petite blind) a remporté (80)
+Siège 2 : manosk13 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°236705119672 : Tournoi #3424988422, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/06/2022 0:20:10 CET [11/06/2022 18:20:10 ET]
+Table '3424988422 1' 3-max Siège #1 est au bouton.
+Place 1: la-poker-fesse (350 en jetons) 
+Place 2: manosk13 (250 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+manosk13 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 6d]
+la-poker-fesse : suit. 30
+manosk13 : passe. 
+psychoman59 : relance. 270 à 300 et est all-in.
+la-poker-fesse : suit. 270
+*** FLOP *** [9s 4c 7h]
+*** TOURNANT *** [9s 4c 7h] [Kc]
+*** RIVIÈRE *** [9s 4c 7h Kc] [2d]
+*** ABATTAGE ***
+psychoman59 : montre [6s 6d] (une paire de Six)
+la-poker-fesse : montre [6h 3h] (Hauteur Roi)
+psychoman59 a remporté 615  lors du pot .
+*** SYNTHÈSE ***
+Pot total 615 | Commission 0 
+Tableau [9s 4c 7h Kc 2d]
+Siège 1 : la-poker-fesse (bouton) a montré [6h 3h] et a perdu avec Hauteur Roi
+Siège 2 : manosk13 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [6s 6d] et a gagné (615) avec une paire de Six
+
+
+
+Main PokerStars n°236705129928 : Tournoi #3424988422, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/06/2022 0:20:44 CET [11/06/2022 18:20:44 ET]
+Table '3424988422 1' 3-max Siège #2 est au bouton.
+Place 1: la-poker-fesse (50 en jetons) 
+Place 2: manosk13 (235 en jetons) 
+Place 3: psychoman59 (615 en jetons) 
+psychoman59 : met la petite blind. 15
+la-poker-fesse : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 4h]
+manosk13 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à la-poker-fesse.
+la-poker-fesse a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : la-poker-fesse (grosse blind) a remporté (30)
+Siège 2 : manosk13 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236705132154 : Tournoi #3424988422, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/06/2022 0:20:50 CET [11/06/2022 18:20:50 ET]
+Table '3424988422 1' 3-max Siège #3 est au bouton.
+Place 1: la-poker-fesse (65 en jetons) 
+Place 2: manosk13 (235 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+la-poker-fesse : met la petite blind. 15
+manosk13 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 3h]
+psychoman59 : passe. 
+la-poker-fesse : relance. 30 à 60
+manosk13 : relance. 175 à 235 et est all-in.
+la-poker-fesse : suit. 5 et est all-in.
+Personne n'a suivi. (170) sont retournés à manosk13.
+*** FLOP *** [Ks 6c 8s]
+*** TOURNANT *** [Ks 6c 8s] [7h]
+*** RIVIÈRE *** [Ks 6c 8s 7h] [8d]
+*** ABATTAGE ***
+la-poker-fesse : montre [Td 5d] (une paire de Huit)
+manosk13 : montre [5c As] (une paire de Huit - As kicker)
+manosk13 a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [Ks 6c 8s 7h 8d]
+Siège 1 : la-poker-fesse (petite blind) a montré [Td 5d] et a perdu avec une paire de Huit
+Siège 2 : manosk13 (grosse blind) a montré [5c As] et a gagné (130) avec une paire de Huit
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°236705142294 : Tournoi #3424988422, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/06/2022 0:21:23 CET [11/06/2022 18:21:23 ET]
+Table '3424988422 1' 3-max Siège #2 est au bouton.
+Place 2: manosk13 (300 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+manosk13 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Qc]
+manosk13 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : manosk13 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°236705144084 : Tournoi #3424988422, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/06/2022 0:21:29 CET [11/06/2022 18:21:29 ET]
+Table '3424988422 1' 3-max Siège #3 est au bouton.
+Place 2: manosk13 (280 en jetons) 
+Place 3: psychoman59 (620 en jetons) 
+psychoman59 : met la petite blind. 20
+manosk13 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 5s]
+psychoman59 : relance. 80 à 120
+manosk13 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : manosk13 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°236705148344 : Tournoi #3424988422, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/06/2022 0:21:43 CET [11/06/2022 18:21:43 ET]
+Table '3424988422 1' 3-max Siège #2 est au bouton.
+Place 2: manosk13 (240 en jetons) 
+Place 3: psychoman59 (660 en jetons) 
+manosk13 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Ac]
+manosk13 : relance. 40 à 80
+psychoman59 : relance. 160 à 240
+manosk13 : suit. 160 et est all-in.
+*** FLOP *** [Qd 4s 6h]
+*** TOURNANT *** [Qd 4s 6h] [3h]
+*** RIVIÈRE *** [Qd 4s 6h 3h] [2c]
+*** ABATTAGE ***
+psychoman59 : montre [8s Ac] (Hauteur As)
+manosk13 : montre [Jd Js] (une paire de Valets)
+manosk13 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Qd 4s 6h 3h 2c]
+Siège 2 : manosk13 (bouton) (petite blind) a montré [Jd Js] et a gagné (480) avec une paire de Valets
+Siège 3 : psychoman59 (grosse blind) a montré [8s Ac] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°236705158127 : Tournoi #3424988422, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/06/2022 0:22:16 CET [11/06/2022 18:22:16 ET]
+Table '3424988422 1' 3-max Siège #3 est au bouton.
+Place 2: manosk13 (480 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+psychoman59 : met la petite blind. 30
+manosk13 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à manosk13.
+manosk13 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : manosk13 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236705160216 : Tournoi #3424988422, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/06/2022 0:22:23 CET [11/06/2022 18:22:23 ET]
+Table '3424988422 1' 3-max Siège #2 est au bouton.
+Place 2: manosk13 (510 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+manosk13 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 3s]
+manosk13 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : manosk13 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°236705163470 : Tournoi #3424988422, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/06/2022 0:22:34 CET [11/06/2022 18:22:34 ET]
+Table '3424988422 1' 3-max Siège #3 est au bouton.
+Place 2: manosk13 (480 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+psychoman59 : met la petite blind. 30
+manosk13 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à manosk13.
+manosk13 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : manosk13 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236705164990 : Tournoi #3424988422, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/06/2022 0:22:39 CET [11/06/2022 18:22:39 ET]
+Table '3424988422 1' 3-max Siège #2 est au bouton.
+Place 2: manosk13 (510 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+manosk13 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 7s]
+manosk13 : suit. 30
+psychoman59 : relance. 330 à 390 et est all-in.
+manosk13 : passe. 
+Personne n'a suivi. (330) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : manosk13 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°236705170612 : Tournoi #3424988422, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/06/2022 0:22:58 CET [11/06/2022 18:22:58 ET]
+Table '3424988422 1' 3-max Siège #3 est au bouton.
+Place 2: manosk13 (450 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+psychoman59 : met la petite blind. 30
+manosk13 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Qd]
+psychoman59 : relance. 390 à 450 et est all-in.
+manosk13 : passe. 
+Personne n'a suivi. (390) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : manosk13 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°236705175444 : Tournoi #3424988422, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/06/2022 0:23:13 CET [11/06/2022 18:23:13 ET]
+Table '3424988422 1' 3-max Siège #2 est au bouton.
+Place 2: manosk13 (390 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+manosk13 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 5d]
+manosk13 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : manosk13 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°236705177145 : Tournoi #3424988422, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/06/2022 0:23:19 CET [11/06/2022 18:23:19 ET]
+Table '3424988422 1' 3-max Siège #3 est au bouton.
+Place 2: manosk13 (350 en jetons) 
+Place 3: psychoman59 (550 en jetons) 
+psychoman59 : met la petite blind. 40
+manosk13 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 9c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à manosk13.
+manosk13 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : manosk13 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236705178898 : Tournoi #3424988422, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/06/2022 0:23:25 CET [11/06/2022 18:23:25 ET]
+Table '3424988422 1' 3-max Siège #2 est au bouton.
+Place 2: manosk13 (390 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+manosk13 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 6d]
+manosk13 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : manosk13 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°236705181227 : Tournoi #3424988422, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/06/2022 0:23:32 CET [11/06/2022 18:23:32 ET]
+Table '3424988422 1' 3-max Siège #3 est au bouton.
+Place 2: manosk13 (350 en jetons) 
+Place 3: psychoman59 (550 en jetons) 
+psychoman59 : met la petite blind. 40
+manosk13 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 9h]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à manosk13.
+manosk13 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : manosk13 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236705182809 : Tournoi #3424988422, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/06/2022 0:23:38 CET [11/06/2022 18:23:38 ET]
+Table '3424988422 1' 3-max Siège #2 est au bouton.
+Place 2: manosk13 (390 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+manosk13 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 4s]
+manosk13 : relance. 310 à 390 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (310) sont retournés à manosk13.
+manosk13 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : manosk13 (bouton) (petite blind) a remporté (160)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236705187800 : Tournoi #3424988422, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/06/2022 0:23:54 CET [11/06/2022 18:23:54 ET]
+Table '3424988422 1' 3-max Siège #3 est au bouton.
+Place 2: manosk13 (470 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 40
+manosk13 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à manosk13.
+manosk13 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : manosk13 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236705190892 : Tournoi #3424988422, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 12/06/2022 0:24:05 CET [11/06/2022 18:24:05 ET]
+Table '3424988422 1' 3-max Siège #2 est au bouton.
+Place 2: manosk13 (510 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+manosk13 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 6h]
+manosk13 : relance. 410 à 510 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (410) sont retournés à manosk13.
+manosk13 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 2 : manosk13 (bouton) (petite blind) a remporté (200)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236705194305 : Tournoi #3424988422, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 12/06/2022 0:24:16 CET [11/06/2022 18:24:16 ET]
+Table '3424988422 1' 3-max Siège #3 est au bouton.
+Place 2: manosk13 (610 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+psychoman59 : met la petite blind. 50
+manosk13 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 3c]
+psychoman59 : relance. 190 à 290 et est all-in.
+manosk13 : suit. 190
+*** FLOP *** [Kh Js 5s]
+*** TOURNANT *** [Kh Js 5s] [8d]
+*** RIVIÈRE *** [Kh Js 5s 8d] [Ah]
+*** ABATTAGE ***
+manosk13 : montre [5h Ks] (double paire, Rois et Cinq)
+psychoman59 : montre [4c 3c] (Hauteur As)
+manosk13 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [Kh Js 5s 8d Ah]
+Siège 2 : manosk13 (grosse blind) a montré [5h Ks] et a gagné (580) avec double paire, Rois et Cinq
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [4c 3c] et a perdu avec Hauteur As
+
+
+

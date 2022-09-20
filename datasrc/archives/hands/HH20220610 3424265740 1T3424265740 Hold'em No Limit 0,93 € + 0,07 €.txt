@@ -1,0 +1,99 @@
+﻿Main PokerStars n°236674228285 : Tournoi #3424265740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/06/2022 14:52:19 CET [10/06/2022 8:52:19 ET]
+Table '3424265740 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: nicosch24 (300 en jetons) 
+Place 3: mTazor70 (300 en jetons) 
+nicosch24 : met la petite blind. 10
+mTazor70 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 9h]
+psychoman59 : passe. 
+nicosch24 : relance. 20 à 40
+mTazor70 : passe. 
+Personne n'a suivi. (20) sont retournés à nicosch24.
+nicosch24 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : nicosch24 (petite blind) a remporté (40)
+Siège 3 : mTazor70 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236674230089 : Tournoi #3424265740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/06/2022 14:52:27 CET [10/06/2022 8:52:27 ET]
+Table '3424265740 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: nicosch24 (320 en jetons) 
+Place 3: mTazor70 (280 en jetons) 
+mTazor70 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 3s]
+nicosch24 : passe. 
+mTazor70 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (20)
+Siège 2 : nicosch24 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : mTazor70 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236674232033 : Tournoi #3424265740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/06/2022 14:52:35 CET [10/06/2022 8:52:35 ET]
+Table '3424265740 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: nicosch24 (320 en jetons) 
+Place 3: mTazor70 (270 en jetons) 
+psychoman59 : met la petite blind. 10
+nicosch24 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Td]
+mTazor70 : relance. 250 à 270 et est all-in.
+psychoman59 : suit. 260
+nicosch24 : suit. 250
+*** FLOP *** [8c 6d Qd]
+psychoman59 : mise. 40 et est all-in.
+nicosch24 : suit. 40
+*** TOURNANT *** [8c 6d Qd] [5d]
+*** RIVIÈRE *** [8c 6d Qd 5d] [3d]
+*** ABATTAGE ***
+psychoman59 : montre [Ts Td] (une couleur, hauteur Dame)
+nicosch24 : montre [9h Kc] (Hauteur Roi)
+psychoman59 a remporté 80  parallèle lors du pot .
+mTazor70 : montre [As 4c] (Hauteur As)
+psychoman59 a remporté 810  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 890 Principal pot 810. Parallèle pot 80. | Commission 0 
+Tableau [8c 6d Qd 5d 3d]
+Siège 1 : psychoman59 (petite blind) a montré [Ts Td] et a gagné (890) avec une couleur, hauteur Dame
+Siège 2 : nicosch24 (grosse blind) a montré [9h Kc] et a perdu avec Hauteur Roi
+Siège 3 : mTazor70 (bouton) a montré [As 4c] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°236674237743 : Tournoi #3424265740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/06/2022 14:53:01 CET [10/06/2022 8:53:01 ET]
+Table '3424265740 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (890 en jetons) 
+Place 2: nicosch24 (10 en jetons) 
+nicosch24 : met la petite blind. 10 et est all-in.
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 2s]
+Personne n'a suivi. (10) sont retournés à psychoman59.
+*** FLOP *** [5h 7s 9c]
+*** TOURNANT *** [5h 7s 9c] [3d]
+*** RIVIÈRE *** [5h 7s 9c 3d] [2d]
+*** ABATTAGE ***
+psychoman59 : montre [6s 2s] (une paire de Deux)
+nicosch24 : montre [Th 4s] (Hauteur Dix)
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Tableau [5h 7s 9c 3d 2d]
+Siège 1 : psychoman59 (grosse blind) a montré [6s 2s] et a gagné (20) avec une paire de Deux
+Siège 2 : nicosch24 (bouton) (petite blind) a montré [Th 4s] et a perdu avec Hauteur Dix
+
+
+

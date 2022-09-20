@@ -1,0 +1,882 @@
+﻿Main PokerStars n°238167636366 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 23/08/2022 16:51:24 CET [23/08/2022 10:51:24 ET]
+Table '3460505259 1' 4-max Siège #1 est au bouton.
+Place 1: Ansinus (5000 en jetons) 
+Place 2: Juan Ba 24 (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: kilacarta (5000 en jetons) 
+Ansinus : met l'ante. 10
+Juan Ba 24 : met l'ante. 10
+psychoman59 : met l'ante. 10
+kilacarta : met l'ante. 10
+Juan Ba 24 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5h]
+kilacarta : suit. 100
+Ansinus : suit. 100
+Juan Ba 24 : suit. 50
+psychoman59 : relance. 100 à 200
+kilacarta : suit. 100
+Ansinus : suit. 100
+Juan Ba 24 : suit. 100
+*** FLOP *** [Kc Ad Qs]
+Juan Ba 24 : parole 
+psychoman59 : parole 
+kilacarta : mise. 420
+Ansinus : passe. 
+Juan Ba 24 : passe. 
+psychoman59 : suit. 420
+*** TOURNANT *** [Kc Ad Qs] [3h]
+psychoman59 : parole 
+kilacarta : parole 
+*** RIVIÈRE *** [Kc Ad Qs 3h] [2s]
+psychoman59 : mise. 1680
+kilacarta : passe. 
+Personne n'a suivi. (1680) sont retournés à psychoman59.
+psychoman59 a remporté 1680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1680 | Commission 0 
+Tableau [Kc Ad Qs 3h 2s]
+Siège 1 : Ansinus (bouton) s'est couché. sur le Flop
+Siège 2 : Juan Ba 24 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (1680)
+Siège 4 : kilacarta s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238167660948 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 23/08/2022 16:52:55 CET [23/08/2022 10:52:55 ET]
+Table '3460505259 1' 4-max Siège #2 est au bouton.
+Place 1: Ansinus (4790 en jetons) 
+Place 2: Juan Ba 24 (4790 en jetons) 
+Place 3: psychoman59 (6050 en jetons) 
+Place 4: kilacarta (4370 en jetons) 
+Ansinus : met l'ante. 10
+Juan Ba 24 : met l'ante. 10
+psychoman59 : met l'ante. 10
+kilacarta : met l'ante. 10
+psychoman59 : met la petite blind. 50
+kilacarta : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 8c]
+Ansinus : passe. 
+Juan Ba 24 : relance. 150 à 250
+psychoman59 : passe. 
+kilacarta : suit. 150
+*** FLOP *** [2h 6c 3d]
+kilacarta : parole 
+Juan Ba 24 : parole 
+*** TOURNANT *** [2h 6c 3d] [6h]
+kilacarta : parole 
+Juan Ba 24 : mise. 195
+kilacarta : suit. 195
+*** RIVIÈRE *** [2h 6c 3d 6h] [Jc]
+kilacarta : parole 
+Juan Ba 24 : parole 
+*** ABATTAGE ***
+kilacarta : montre [5s 2d] (double paire, Six et Deux)
+Juan Ba 24 : cache la main perdante. 
+kilacarta a remporté 980  lors du pot .
+*** SYNTHÈSE ***
+Pot total 980 | Commission 0 
+Tableau [2h 6c 3d 6h Jc]
+Siège 1 : Ansinus s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Juan Ba 24 (bouton) a caché la main perdante. [5d Ad]
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : kilacarta (grosse blind) a montré [5s 2d] et a gagné (980) avec double paire, Six et Deux
+
+
+
+Main PokerStars n°238167681075 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 23/08/2022 16:54:09 CET [23/08/2022 10:54:09 ET]
+Table '3460505259 1' 4-max Siège #3 est au bouton.
+Place 1: Ansinus (4780 en jetons) 
+Place 2: Juan Ba 24 (4335 en jetons) 
+Place 3: psychoman59 (5990 en jetons) 
+Place 4: kilacarta (4895 en jetons) 
+Ansinus : met l'ante. 10
+Juan Ba 24 : met l'ante. 10
+psychoman59 : met l'ante. 10
+kilacarta : met l'ante. 10
+kilacarta : met la petite blind. 50
+Ansinus : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 8c]
+Juan Ba 24 : passe. 
+psychoman59 : passe. 
+kilacarta : suit. 50
+Ansinus : relance. 4670 à 4770 et est all-in.
+kilacarta : passe. 
+Personne n'a suivi. (4670) sont retournés à Ansinus.
+Ansinus a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : Ansinus (grosse blind) a remporté (240)
+Siège 2 : Juan Ba 24 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : kilacarta (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238167687577 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 23/08/2022 16:54:33 CET [23/08/2022 10:54:33 ET]
+Table '3460505259 1' 4-max Siège #4 est au bouton.
+Place 1: Ansinus (4910 en jetons) 
+Place 2: Juan Ba 24 (4325 en jetons) 
+Place 3: psychoman59 (5980 en jetons) 
+Place 4: kilacarta (4785 en jetons) 
+Ansinus : met l'ante. 15
+Juan Ba 24 : met l'ante. 15
+psychoman59 : met l'ante. 15
+kilacarta : met l'ante. 15
+Ansinus : met la petite blind. 60
+Juan Ba 24 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 2h]
+psychoman59 : passe. 
+kilacarta : passe. 
+Ansinus : passe. 
+Personne n'a suivi. (60) sont retournés à Juan Ba 24.
+Juan Ba 24 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : Ansinus (petite blind) s'est couché. avant Flop
+Siège 2 : Juan Ba 24 (grosse blind) a remporté (180)
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : kilacarta (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238167690365 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 23/08/2022 16:54:43 CET [23/08/2022 10:54:43 ET]
+Table '3460505259 1' 4-max Siège #1 est au bouton.
+Place 1: Ansinus (4835 en jetons) 
+Place 2: Juan Ba 24 (4430 en jetons) 
+Place 3: psychoman59 (5965 en jetons) 
+Place 4: kilacarta (4770 en jetons) 
+Ansinus : met l'ante. 15
+Juan Ba 24 : met l'ante. 15
+psychoman59 : met l'ante. 15
+kilacarta : met l'ante. 15
+Juan Ba 24 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 4h]
+kilacarta : passe. 
+Ansinus : passe. 
+Juan Ba 24 : relance. 120 à 240
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à Juan Ba 24.
+Juan Ba 24 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Siège 1 : Ansinus (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Juan Ba 24 (petite blind) a remporté (300)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : kilacarta s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238167694371 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 23/08/2022 16:54:58 CET [23/08/2022 10:54:58 ET]
+Table '3460505259 1' 4-max Siège #2 est au bouton.
+Place 1: Ansinus (4820 en jetons) 
+Place 2: Juan Ba 24 (4595 en jetons) 
+Place 3: psychoman59 (5830 en jetons) 
+Place 4: kilacarta (4755 en jetons) 
+Ansinus : met l'ante. 15
+Juan Ba 24 : met l'ante. 15
+psychoman59 : met l'ante. 15
+kilacarta : met l'ante. 15
+psychoman59 : met la petite blind. 60
+kilacarta : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 3c]
+Ansinus : relance. 240 à 360
+Juan Ba 24 : passe. 
+psychoman59 : suit. 300
+kilacarta : passe. 
+*** FLOP *** [5s 3d 7s]
+psychoman59 : parole 
+Ansinus : mise. 900
+psychoman59 : relance. 4555 à 5455 et est all-in.
+Ansinus : suit. 3545 et est all-in.
+Personne n'a suivi. (1010) sont retournés à psychoman59.
+*** TOURNANT *** [5s 3d 7s] [Ks]
+*** RIVIÈRE *** [5s 3d 7s Ks] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [Ac 3c] (une paire de Trois)
+Ansinus : montre [7h Ad] (une paire de Sept)
+Ansinus a remporté 9790  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9790 | Commission 0 
+Tableau [5s 3d 7s Ks 2h]
+Siège 1 : Ansinus a montré [7h Ad] et a gagné (9790) avec une paire de Sept
+Siège 2 : Juan Ba 24 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Ac 3c] et a perdu avec une paire de Trois
+Siège 4 : kilacarta (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238167708955 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 23/08/2022 16:55:59 CET [23/08/2022 10:55:59 ET]
+Table '3460505259 1' 4-max Siège #3 est au bouton.
+Place 1: Ansinus (9790 en jetons) 
+Place 2: Juan Ba 24 (4580 en jetons) 
+Place 3: psychoman59 (1010 en jetons) 
+Place 4: kilacarta (4620 en jetons) 
+Ansinus : met l'ante. 15
+Juan Ba 24 : met l'ante. 15
+psychoman59 : met l'ante. 15
+kilacarta : met l'ante. 15
+kilacarta : met la petite blind. 60
+Ansinus : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Qh]
+Juan Ba 24 : relance. 120 à 240
+psychoman59 : suit. 240
+kilacarta : suit. 180
+Ansinus : suit. 120
+*** FLOP *** [2c Kh Js]
+kilacarta : parole 
+Ansinus : parole 
+Juan Ba 24 : parole 
+psychoman59 : mise. 755 et est all-in.
+kilacarta : passe. 
+Ansinus : passe. 
+Juan Ba 24 : passe. 
+Personne n'a suivi. (755) sont retournés à psychoman59.
+psychoman59 a remporté 1020  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [2c Kh Js]
+Siège 1 : Ansinus (grosse blind) s'est couché. sur le Flop
+Siège 2 : Juan Ba 24 s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a remporté (1020)
+Siège 4 : kilacarta (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238167725598 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 23/08/2022 16:57:11 CET [23/08/2022 10:57:11 ET]
+Table '3460505259 1' 4-max Siège #4 est au bouton.
+Place 1: Ansinus (9535 en jetons) 
+Place 2: Juan Ba 24 (4325 en jetons) 
+Place 3: psychoman59 (1775 en jetons) 
+Place 4: kilacarta (4365 en jetons) 
+Ansinus : met l'ante. 15
+Juan Ba 24 : met l'ante. 15
+psychoman59 : met l'ante. 15
+kilacarta : met l'ante. 15
+Ansinus : met la petite blind. 60
+Juan Ba 24 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 9h]
+psychoman59 : passe. 
+kilacarta : passe. 
+Ansinus : passe. 
+Personne n'a suivi. (60) sont retournés à Juan Ba 24.
+Juan Ba 24 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : Ansinus (petite blind) s'est couché. avant Flop
+Siège 2 : Juan Ba 24 (grosse blind) a remporté (180)
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : kilacarta (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238167728426 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 23/08/2022 16:57:24 CET [23/08/2022 10:57:24 ET]
+Table '3460505259 1' 4-max Siège #1 est au bouton.
+Place 1: Ansinus (9460 en jetons) 
+Place 2: Juan Ba 24 (4430 en jetons) 
+Place 3: psychoman59 (1760 en jetons) 
+Place 4: kilacarta (4350 en jetons) 
+Ansinus : met l'ante. 15
+Juan Ba 24 : met l'ante. 15
+psychoman59 : met l'ante. 15
+kilacarta : met l'ante. 15
+Juan Ba 24 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 9d]
+kilacarta : passe. 
+Ansinus : relance. 240 à 360
+Juan Ba 24 : passe. 
+psychoman59 : suit. 240
+*** FLOP *** [Qc Tc As]
+psychoman59 : mise. 1385 et est all-in.
+Ansinus : passe. 
+Personne n'a suivi. (1385) sont retournés à psychoman59.
+psychoman59 a remporté 840  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [Qc Tc As]
+Siège 1 : Ansinus (bouton) s'est couché. sur le Flop
+Siège 2 : Juan Ba 24 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (840)
+Siège 4 : kilacarta s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238167737765 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 23/08/2022 16:58:05 CET [23/08/2022 10:58:05 ET]
+Table '3460505259 1' 4-max Siège #2 est au bouton.
+Place 1: Ansinus (9085 en jetons) 
+Place 2: Juan Ba 24 (4355 en jetons) 
+Place 3: psychoman59 (2225 en jetons) 
+Place 4: kilacarta (4335 en jetons) 
+Ansinus : met l'ante. 20
+Juan Ba 24 : met l'ante. 20
+psychoman59 : met l'ante. 20
+kilacarta : met l'ante. 20
+psychoman59 : met la petite blind. 75
+kilacarta : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Ah]
+Ansinus : relance. 150 à 300
+Juan Ba 24 : passe. 
+psychoman59 : relance. 300 à 600
+kilacarta : relance. 1580 à 2180
+Ansinus : passe. 
+psychoman59 : relance. 25 à 2205 et est all-in.
+kilacarta : suit. 25
+*** FLOP *** [Qh Kc 9h]
+*** TOURNANT *** [Qh Kc 9h] [5h]
+*** RIVIÈRE *** [Qh Kc 9h 5h] [4c]
+*** ABATTAGE ***
+psychoman59 : montre [Ac Ah] (une paire de As)
+kilacarta : montre [Jd Ad] (Hauteur As)
+psychoman59 a remporté 4790  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4790 | Commission 0 
+Tableau [Qh Kc 9h 5h 4c]
+Siège 1 : Ansinus s'est couché. avant Flop
+Siège 2 : Juan Ba 24 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Ac Ah] et a gagné (4790) avec une paire de As
+Siège 4 : kilacarta (grosse blind) a montré [Jd Ad] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°238167748808 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 23/08/2022 16:58:52 CET [23/08/2022 10:58:52 ET]
+Table '3460505259 1' 4-max Siège #3 est au bouton.
+Place 1: Ansinus (8765 en jetons) 
+Place 2: Juan Ba 24 (4335 en jetons) 
+Place 3: psychoman59 (4790 en jetons) 
+Place 4: kilacarta (2110 en jetons) 
+Ansinus : met l'ante. 20
+Juan Ba 24 : met l'ante. 20
+psychoman59 : met l'ante. 20
+kilacarta : met l'ante. 20
+kilacarta : met la petite blind. 75
+Ansinus : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 3s]
+Juan Ba 24 : passe. 
+psychoman59 : suit. 150
+kilacarta : suit. 75
+Ansinus : parole 
+*** FLOP *** [9c Jh 6d]
+kilacarta : mise. 530
+Ansinus : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (530) sont retournés à kilacarta.
+kilacarta a remporté 530  lors du pot .
+kilacarta : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 530 | Commission 0 
+Tableau [9c Jh 6d]
+Siège 1 : Ansinus (grosse blind) s'est couché. sur le Flop
+Siège 2 : Juan Ba 24 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 4 : kilacarta (petite blind) a remporté (530)
+
+
+
+Main PokerStars n°238167758045 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 23/08/2022 16:59:33 CET [23/08/2022 10:59:33 ET]
+Table '3460505259 1' 4-max Siège #4 est au bouton.
+Place 1: Ansinus (8595 en jetons) 
+Place 2: Juan Ba 24 (4315 en jetons) 
+Place 3: psychoman59 (4620 en jetons) 
+Place 4: kilacarta (2470 en jetons) 
+Ansinus : met l'ante. 20
+Juan Ba 24 : met l'ante. 20
+psychoman59 : met l'ante. 20
+kilacarta : met l'ante. 20
+Ansinus : met la petite blind. 75
+Juan Ba 24 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Qc]
+psychoman59 : passe. 
+kilacarta : passe. 
+Ansinus : relance. 150 à 300
+Juan Ba 24 : passe. 
+Personne n'a suivi. (150) sont retournés à Ansinus.
+Ansinus a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : Ansinus (petite blind) a remporté (380)
+Siège 2 : Juan Ba 24 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : kilacarta (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238167762262 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 23/08/2022 16:59:51 CET [23/08/2022 10:59:51 ET]
+Table '3460505259 1' 4-max Siège #1 est au bouton.
+Place 1: Ansinus (8805 en jetons) 
+Place 2: Juan Ba 24 (4145 en jetons) 
+Place 3: psychoman59 (4600 en jetons) 
+Place 4: kilacarta (2450 en jetons) 
+Ansinus : met l'ante. 20
+Juan Ba 24 : met l'ante. 20
+psychoman59 : met l'ante. 20
+kilacarta : met l'ante. 20
+Juan Ba 24 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 4h]
+kilacarta : passe. 
+Ansinus : passe. 
+Juan Ba 24 : relance. 150 à 300
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à Juan Ba 24.
+Juan Ba 24 a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : Ansinus (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Juan Ba 24 (petite blind) a remporté (380)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : kilacarta s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238167765412 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 23/08/2022 17:00:05 CET [23/08/2022 11:00:05 ET]
+Table '3460505259 1' 4-max Siège #2 est au bouton.
+Place 1: Ansinus (8785 en jetons) 
+Place 2: Juan Ba 24 (4355 en jetons) 
+Place 3: psychoman59 (4430 en jetons) 
+Place 4: kilacarta (2430 en jetons) 
+Ansinus : met l'ante. 20
+Juan Ba 24 : met l'ante. 20
+psychoman59 : met l'ante. 20
+kilacarta : met l'ante. 20
+psychoman59 : met la petite blind. 75
+kilacarta : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 5h]
+Ansinus : passe. 
+Juan Ba 24 : relance. 150 à 300
+psychoman59 : passe. 
+kilacarta : suit. 150
+*** FLOP *** [4d Jh 4h]
+kilacarta : parole 
+Juan Ba 24 : mise. 377
+kilacarta : passe. 
+Personne n'a suivi. (377) sont retournés à Juan Ba 24.
+Juan Ba 24 a remporté 755  lors du pot .
+*** SYNTHÈSE ***
+Pot total 755 | Commission 0 
+Tableau [4d Jh 4h]
+Siège 1 : Ansinus s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Juan Ba 24 (bouton) a remporté (755)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : kilacarta (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238167770283 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 23/08/2022 17:00:26 CET [23/08/2022 11:00:26 ET]
+Table '3460505259 1' 4-max Siège #3 est au bouton.
+Place 1: Ansinus (8765 en jetons) 
+Place 2: Juan Ba 24 (4790 en jetons) 
+Place 3: psychoman59 (4335 en jetons) 
+Place 4: kilacarta (2110 en jetons) 
+Ansinus : met l'ante. 20
+Juan Ba 24 : met l'ante. 20
+psychoman59 : met l'ante. 20
+kilacarta : met l'ante. 20
+kilacarta : met la petite blind. 75
+Ansinus : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Ts]
+Juan Ba 24 : passe. 
+psychoman59 : relance. 455 à 605
+kilacarta : passe. 
+Ansinus : passe. 
+Personne n'a suivi. (455) sont retournés à psychoman59.
+psychoman59 a remporté 455  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 455 | Commission 0 
+Siège 1 : Ansinus (grosse blind) s'est couché. avant Flop
+Siège 2 : Juan Ba 24 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) a remporté (455)
+Siège 4 : kilacarta (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238167776781 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 23/08/2022 17:00:52 CET [23/08/2022 11:00:52 ET]
+Table '3460505259 1' 4-max Siège #4 est au bouton.
+Place 1: Ansinus (8595 en jetons) 
+Place 2: Juan Ba 24 (4770 en jetons) 
+Place 3: psychoman59 (4620 en jetons) 
+Place 4: kilacarta (2015 en jetons) 
+Ansinus : met l'ante. 25
+Juan Ba 24 : met l'ante. 25
+psychoman59 : met l'ante. 25
+kilacarta : met l'ante. 25
+Ansinus : met la petite blind. 100
+Juan Ba 24 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Td]
+psychoman59 : passe. 
+kilacarta : passe. 
+Ansinus : relance. 200 à 400
+Juan Ba 24 : relance. 1000 à 1400
+Ansinus : passe. 
+Personne n'a suivi. (1000) sont retournés à Juan Ba 24.
+Juan Ba 24 a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 1 : Ansinus (petite blind) s'est couché. avant Flop
+Siège 2 : Juan Ba 24 (grosse blind) a remporté (900)
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : kilacarta (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238167782758 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 23/08/2022 17:01:16 CET [23/08/2022 11:01:16 ET]
+Table '3460505259 1' 4-max Siège #1 est au bouton.
+Place 1: Ansinus (8170 en jetons) 
+Place 2: Juan Ba 24 (5245 en jetons) 
+Place 3: psychoman59 (4595 en jetons) 
+Place 4: kilacarta (1990 en jetons) 
+Ansinus : met l'ante. 25
+Juan Ba 24 : met l'ante. 25
+psychoman59 : met l'ante. 25
+kilacarta : met l'ante. 25
+Juan Ba 24 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Qc]
+kilacarta : suit. 200
+Ansinus : passe. 
+Juan Ba 24 : passe. 
+psychoman59 : parole 
+*** FLOP *** [2d 5d 7h]
+psychoman59 : parole 
+kilacarta : mise. 300
+psychoman59 : suit. 300
+*** TOURNANT *** [2d 5d 7h] [2c]
+psychoman59 : parole 
+kilacarta : parole 
+*** RIVIÈRE *** [2d 5d 7h 2c] [3s]
+psychoman59 : mise. 200
+kilacarta : relance. 1265 à 1465 et est all-in.
+psychoman59 : suit. 1265
+*** ABATTAGE ***
+kilacarta : montre [Ad 2h] (un brelan de Deux)
+psychoman59 : montre [2s Qc] (un brelan de Deux - plus basse kicker)
+kilacarta a remporté 4130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4130 | Commission 0 
+Tableau [2d 5d 7h 2c 3s]
+Siège 1 : Ansinus (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Juan Ba 24 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [2s Qc] et a perdu avec un brelan de Deux
+Siège 4 : kilacarta a montré [Ad 2h] et a gagné (4130) avec un brelan de Deux
+
+
+
+Main PokerStars n°238167805178 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 23/08/2022 17:02:14 CET [23/08/2022 11:02:14 ET]
+Table '3460505259 1' 4-max Siège #2 est au bouton.
+Place 1: Ansinus (8145 en jetons) 
+Place 2: Juan Ba 24 (5120 en jetons) 
+Place 3: psychoman59 (2605 en jetons) 
+Place 4: kilacarta (4130 en jetons) 
+Ansinus : met l'ante. 25
+Juan Ba 24 : met l'ante. 25
+psychoman59 : met l'ante. 25
+kilacarta : met l'ante. 25
+psychoman59 : met la petite blind. 100
+kilacarta : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 2h]
+Ansinus : passe. 
+Juan Ba 24 : passe. 
+psychoman59 : relance. 2380 à 2580 et est all-in.
+kilacarta : passe. 
+Personne n'a suivi. (2380) sont retournés à psychoman59.
+psychoman59 a remporté 500  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 1 : Ansinus s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Juan Ba 24 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (500)
+Siège 4 : kilacarta (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238167808843 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 23/08/2022 17:02:28 CET [23/08/2022 11:02:28 ET]
+Table '3460505259 1' 4-max Siège #3 est au bouton.
+Place 1: Ansinus (8120 en jetons) 
+Place 2: Juan Ba 24 (5095 en jetons) 
+Place 3: psychoman59 (2880 en jetons) 
+Place 4: kilacarta (3905 en jetons) 
+Ansinus : met l'ante. 25
+Juan Ba 24 : met l'ante. 25
+psychoman59 : met l'ante. 25
+kilacarta : met l'ante. 25
+kilacarta : met la petite blind. 100
+Ansinus : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 5h]
+Juan Ba 24 : passe. 
+psychoman59 : suit. 200
+kilacarta : suit. 100
+Ansinus : parole 
+*** FLOP *** [5c Ks 3s]
+kilacarta : mise. 350
+Ansinus : relance. 1400 à 1750
+psychoman59 : passe. 
+kilacarta : passe. 
+Personne n'a suivi. (1400) sont retournés à Ansinus.
+Ansinus a remporté 1400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1400 | Commission 0 
+Tableau [5c Ks 3s]
+Siège 1 : Ansinus (grosse blind) a remporté (1400)
+Siège 2 : Juan Ba 24 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 4 : kilacarta (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238167818690 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 23/08/2022 17:03:05 CET [23/08/2022 11:03:05 ET]
+Table '3460505259 1' 4-max Siège #4 est au bouton.
+Place 1: Ansinus (8945 en jetons) 
+Place 2: Juan Ba 24 (5070 en jetons) 
+Place 3: psychoman59 (2655 en jetons) 
+Place 4: kilacarta (3330 en jetons) 
+Ansinus : met l'ante. 25
+Juan Ba 24 : met l'ante. 25
+psychoman59 : met l'ante. 25
+kilacarta : met l'ante. 25
+Ansinus : met la petite blind. 100
+Juan Ba 24 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Qd]
+psychoman59 : passe. 
+kilacarta : passe. 
+Ansinus : passe. 
+Personne n'a suivi. (100) sont retournés à Juan Ba 24.
+Juan Ba 24 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Siège 1 : Ansinus (petite blind) s'est couché. avant Flop
+Siège 2 : Juan Ba 24 (grosse blind) a remporté (300)
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : kilacarta (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238167821631 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 23/08/2022 17:03:16 CET [23/08/2022 11:03:16 ET]
+Table '3460505259 1' 4-max Siège #1 est au bouton.
+Place 1: Ansinus (8820 en jetons) 
+Place 2: Juan Ba 24 (5245 en jetons) 
+Place 3: psychoman59 (2630 en jetons) 
+Place 4: kilacarta (3305 en jetons) 
+Ansinus : met l'ante. 25
+Juan Ba 24 : met l'ante. 25
+psychoman59 : met l'ante. 25
+kilacarta : met l'ante. 25
+Juan Ba 24 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Td]
+kilacarta : passe. 
+Ansinus : passe. 
+Juan Ba 24 : relance. 200 à 400
+psychoman59 : relance. 2205 à 2605 et est all-in.
+Juan Ba 24 : passe. 
+Personne n'a suivi. (2205) sont retournés à psychoman59.
+psychoman59 a remporté 900  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 1 : Ansinus (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Juan Ba 24 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (900)
+Siège 4 : kilacarta s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238167829706 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 23/08/2022 17:03:46 CET [23/08/2022 11:03:46 ET]
+Table '3460505259 1' 4-max Siège #2 est au bouton.
+Place 1: Ansinus (8795 en jetons) 
+Place 2: Juan Ba 24 (4820 en jetons) 
+Place 3: psychoman59 (3105 en jetons) 
+Place 4: kilacarta (3280 en jetons) 
+Ansinus : met l'ante. 30
+Juan Ba 24 : met l'ante. 30
+psychoman59 : met l'ante. 30
+kilacarta : met l'ante. 30
+psychoman59 : met la petite blind. 125
+kilacarta : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 7s]
+Ansinus : passe. 
+Juan Ba 24 : passe. 
+psychoman59 : suit. 125
+kilacarta : parole 
+*** FLOP *** [6c Qh Jd]
+psychoman59 : parole 
+kilacarta : parole 
+*** TOURNANT *** [6c Qh Jd] [2s]
+psychoman59 : mise. 310
+kilacarta : suit. 310
+*** RIVIÈRE *** [6c Qh Jd 2s] [6h]
+psychoman59 : mise. 620
+kilacarta : passe. 
+Personne n'a suivi. (620) sont retournés à psychoman59.
+psychoman59 a remporté 1240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1240 | Commission 0 
+Tableau [6c Qh Jd 2s 6h]
+Siège 1 : Ansinus s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Juan Ba 24 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (1240)
+Siège 4 : kilacarta (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238167839864 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 23/08/2022 17:04:24 CET [23/08/2022 11:04:24 ET]
+Table '3460505259 1' 4-max Siège #3 est au bouton.
+Place 1: Ansinus (8765 en jetons) 
+Place 2: Juan Ba 24 (4790 en jetons) 
+Place 3: psychoman59 (3755 en jetons) 
+Place 4: kilacarta (2690 en jetons) 
+Ansinus : met l'ante. 30
+Juan Ba 24 : met l'ante. 30
+psychoman59 : met l'ante. 30
+kilacarta : met l'ante. 30
+kilacarta : met la petite blind. 125
+Ansinus : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Qs]
+Juan Ba 24 : relance. 250 à 500
+psychoman59 : passe. 
+kilacarta : passe. 
+Ansinus : passe. 
+Personne n'a suivi. (250) sont retournés à Juan Ba 24.
+Juan Ba 24 a remporté 745  lors du pot .
+*** SYNTHÈSE ***
+Pot total 745 | Commission 0 
+Siège 1 : Ansinus (grosse blind) s'est couché. avant Flop
+Siège 2 : Juan Ba 24 a remporté (745)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : kilacarta (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238167847615 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 23/08/2022 17:04:53 CET [23/08/2022 11:04:53 ET]
+Table '3460505259 1' 4-max Siège #4 est au bouton.
+Place 1: Ansinus (8485 en jetons) 
+Place 2: Juan Ba 24 (5255 en jetons) 
+Place 3: psychoman59 (3725 en jetons) 
+Place 4: kilacarta (2535 en jetons) 
+Ansinus : met l'ante. 30
+Juan Ba 24 : met l'ante. 30
+psychoman59 : met l'ante. 30
+kilacarta : met l'ante. 30
+Ansinus : met la petite blind. 125
+Juan Ba 24 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 2d]
+psychoman59 : passe. 
+kilacarta : passe. 
+Ansinus : relance. 250 à 500
+Juan Ba 24 : relance. 1750 à 2250
+Ansinus : passe. 
+Personne n'a suivi. (1750) sont retournés à Juan Ba 24.
+Juan Ba 24 a remporté 1120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1120 | Commission 0 
+Siège 1 : Ansinus (petite blind) s'est couché. avant Flop
+Siège 2 : Juan Ba 24 (grosse blind) a remporté (1120)
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : kilacarta (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238167857210 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 23/08/2022 17:05:27 CET [23/08/2022 11:05:27 ET]
+Table '3460505259 1' 4-max Siège #1 est au bouton.
+Place 1: Ansinus (7955 en jetons) 
+Place 2: Juan Ba 24 (5845 en jetons) 
+Place 3: psychoman59 (3695 en jetons) 
+Place 4: kilacarta (2505 en jetons) 
+Ansinus : met l'ante. 30
+Juan Ba 24 : met l'ante. 30
+psychoman59 : met l'ante. 30
+kilacarta : met l'ante. 30
+Juan Ba 24 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 3h]
+kilacarta : suit. 250
+Ansinus : passe. 
+Juan Ba 24 : relance. 5565 à 5815 et est all-in.
+psychoman59 : passe. 
+kilacarta : suit. 2225 et est all-in.
+Personne n'a suivi. (3340) sont retournés à Juan Ba 24.
+*** FLOP *** [Qc 6h 3c]
+*** TOURNANT *** [Qc 6h 3c] [Td]
+*** RIVIÈRE *** [Qc 6h 3c Td] [5s]
+*** ABATTAGE ***
+Juan Ba 24 : montre [Ah 7h] (Hauteur As)
+kilacarta : montre [4s 7s] (une suite, Trois à Sept)
+kilacarta a remporté 5320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5320 | Commission 0 
+Tableau [Qc 6h 3c Td 5s]
+Siège 1 : Ansinus (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Juan Ba 24 (petite blind) a montré [Ah 7h] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : kilacarta a montré [4s 7s] et a gagné (5320) avec une suite, Trois à Sept
+
+
+
+Main PokerStars n°238167868643 : Tournoi #3460505259, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 23/08/2022 17:06:06 CET [23/08/2022 11:06:06 ET]
+Table '3460505259 1' 4-max Siège #2 est au bouton.
+Place 1: Ansinus (7925 en jetons) 
+Place 2: Juan Ba 24 (3340 en jetons) 
+Place 3: psychoman59 (3415 en jetons) 
+Place 4: kilacarta (5320 en jetons) 
+Ansinus : met l'ante. 30
+Juan Ba 24 : met l'ante. 30
+psychoman59 : met l'ante. 30
+kilacarta : met l'ante. 30
+psychoman59 : met la petite blind. 125
+kilacarta : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Ac]
+Ansinus : relance. 500 à 750
+Juan Ba 24 : passe. 
+psychoman59 : relance. 2635 à 3385 et est all-in.
+kilacarta : passe. 
+Ansinus : suit. 2635
+*** FLOP *** [8d Td 4c]
+*** TOURNANT *** [8d Td 4c] [6c]
+*** RIVIÈRE *** [8d Td 4c 6c] [Jd]
+*** ABATTAGE ***
+psychoman59 : montre [Qc Ac] (Hauteur As)
+Ansinus : montre [6h 6s] (un brelan de Six)
+Ansinus a remporté 7140  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 7140 | Commission 0 
+Tableau [8d Td 4c 6c Jd]
+Siège 1 : Ansinus a montré [6h 6s] et a gagné (7140) avec un brelan de Six
+Siège 2 : Juan Ba 24 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Qc Ac] et a perdu avec Hauteur As
+Siège 4 : kilacarta (grosse blind) s'est couché. avant Flop
+
+
+

@@ -1,0 +1,80 @@
+﻿Main PokerStars n°237619802147 : Tournoi #3447498162, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 27/07/2022 17:41:09 CET [27/07/2022 11:41:09 ET]
+Table '3447498162 1' 4-max Siège #1 est au bouton.
+Place 1: Baaell (5000 en jetons) 
+Place 2: castigneau1 (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: guss627 (5000 en jetons) 
+Baaell : met l'ante. 10
+castigneau1 : met l'ante. 10
+psychoman59 : met l'ante. 10
+guss627 : met l'ante. 10
+castigneau1 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 5s]
+guss627 a dépassé le temps imparti.
+guss627 : passe. 
+guss627 ne joue pas.
+Baaell : suit. 100
+castigneau1 : relance. 100 à 200
+psychoman59 : suit. 100
+Baaell : suit. 100
+*** FLOP *** [Ts 7h 5h]
+castigneau1 : mise. 320
+psychoman59 : passe. 
+Baaell : passe. 
+Personne n'a suivi. (320) sont retournés à castigneau1.
+castigneau1 a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [Ts 7h 5h]
+Siège 1 : Baaell (bouton) s'est couché. sur le Flop
+Siège 2 : castigneau1 (petite blind) a remporté (640)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 4 : guss627 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237619824241 : Tournoi #3447498162, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 27/07/2022 17:42:24 CET [27/07/2022 11:42:24 ET]
+Table '3447498162 1' 4-max Siège #2 est au bouton.
+Place 1: Baaell (4790 en jetons) 
+Place 2: castigneau1 (5430 en jetons) 
+Place 3: psychoman59 (4790 en jetons) 
+Place 4: guss627 (4990 en jetons) ne joue pas.
+Baaell : met l'ante. 10
+castigneau1 : met l'ante. 10
+psychoman59 : met l'ante. 10
+guss627 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+guss627 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Kc]
+Baaell : passe. 
+castigneau1 : relance. 100 à 200
+psychoman59 : relance. 540 à 740
+guss627 : passe. 
+guss627 est revenu.
+castigneau1 : relance. 540 à 1280
+psychoman59 : suit. 540
+*** FLOP *** [3h 3d 9s]
+psychoman59 : mise. 2700
+castigneau1 : relance. 1440 à 4140 et est all-in.
+psychoman59 : suit. 800 et est all-in.
+Personne n'a suivi. (640) sont retournés à castigneau1.
+*** TOURNANT *** [3h 3d 9s] [7h]
+*** RIVIÈRE *** [3h 3d 9s 7h] [4s]
+*** ABATTAGE ***
+psychoman59 : montre [Qh Kc] (une paire de Trois)
+castigneau1 : montre [8s 8c] (double paire, Huit et Trois)
+castigneau1 a remporté 9700  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 9700 | Commission 0 
+Tableau [3h 3d 9s 7h 4s]
+Siège 1 : Baaell s'est couché. avant Flop (n'a pas misé)
+Siège 2 : castigneau1 (bouton) a montré [8s 8c] et a gagné (9700) avec double paire, Huit et Trois
+Siège 3 : psychoman59 (petite blind) a montré [Qh Kc] et a perdu avec une paire de Trois
+Siège 4 : guss627 (grosse blind) s'est couché. avant Flop
+
+
+

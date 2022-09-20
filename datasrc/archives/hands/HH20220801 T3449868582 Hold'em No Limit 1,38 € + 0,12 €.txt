@@ -1,0 +1,1460 @@
+﻿Main PokerStars n°237722458215 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 01/08/2022 16:46:06 CET [01/08/2022 10:46:06 ET]
+Table '3449868582 1' 4-max Siège #1 est au bouton.
+Place 1: etxenike5 (5000 en jetons) 
+Place 2: Paellamix (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: mamannboss (5000 en jetons) 
+etxenike5 : met l'ante. 10
+Paellamix : met l'ante. 10
+psychoman59 : met l'ante. 10
+mamannboss : met l'ante. 10
+Paellamix : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 2s]
+mamannboss : passe. 
+etxenike5 : passe. 
+Paellamix : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Qh Ah Qc]
+Paellamix : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qh Ah Qc] [Jd]
+Paellamix : mise. 100
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à Paellamix.
+Paellamix a remporté 240  lors du pot .
+Paellamix : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Qh Ah Qc Jd]
+Siège 1 : etxenike5 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Paellamix (petite blind) a remporté (240)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 4 : mamannboss s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237722467442 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 01/08/2022 16:46:41 CET [01/08/2022 10:46:41 ET]
+Table '3449868582 1' 4-max Siège #2 est au bouton.
+Place 1: etxenike5 (4990 en jetons) 
+Place 2: Paellamix (5130 en jetons) 
+Place 3: psychoman59 (4890 en jetons) 
+Place 4: mamannboss (4990 en jetons) 
+etxenike5 : met l'ante. 10
+Paellamix : met l'ante. 10
+psychoman59 : met l'ante. 10
+mamannboss : met l'ante. 10
+psychoman59 : met la petite blind. 50
+mamannboss : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 4s]
+etxenike5 : relance. 100 à 200
+Paellamix : passe. 
+psychoman59 : passe. 
+mamannboss : passe. 
+Personne n'a suivi. (100) sont retournés à etxenike5.
+etxenike5 a remporté 290  lors du pot .
+etxenike5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : etxenike5 a remporté (290)
+Siège 2 : Paellamix (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : mamannboss (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237722472991 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 01/08/2022 16:47:02 CET [01/08/2022 10:47:02 ET]
+Table '3449868582 1' 4-max Siège #3 est au bouton.
+Place 1: etxenike5 (5170 en jetons) 
+Place 2: Paellamix (5120 en jetons) 
+Place 3: psychoman59 (4830 en jetons) 
+Place 4: mamannboss (4880 en jetons) 
+etxenike5 : met l'ante. 10
+Paellamix : met l'ante. 10
+psychoman59 : met l'ante. 10
+mamannboss : met l'ante. 10
+mamannboss : met la petite blind. 50
+etxenike5 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qs]
+Paellamix : relance. 100 à 200
+psychoman59 : relance. 300 à 500
+mamannboss : passe. 
+etxenike5 : suit. 400
+Paellamix : suit. 300
+*** FLOP *** [Js 7h 3s]
+etxenike5 : parole 
+Paellamix : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Js 7h 3s] [Qh]
+etxenike5 : parole 
+Paellamix : parole 
+psychoman59 : mise. 795
+etxenike5 : suit. 795
+Paellamix : passe. 
+*** RIVIÈRE *** [Js 7h 3s Qh] [6h]
+etxenike5 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+etxenike5 : montre [Td Kd] (Hauteur Roi)
+psychoman59 : montre [Ac Qs] (une paire de Dames)
+psychoman59 a remporté 3180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3180 | Commission 0 
+Tableau [Js 7h 3s Qh 6h]
+Siège 1 : etxenike5 (grosse blind) a montré [Td Kd] et a perdu avec Hauteur Roi
+Siège 2 : Paellamix s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) a montré [Ac Qs] et a gagné (3180) avec une paire de Dames
+Siège 4 : mamannboss (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237722489626 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 01/08/2022 16:48:06 CET [01/08/2022 10:48:06 ET]
+Table '3449868582 1' 4-max Siège #4 est au bouton.
+Place 1: etxenike5 (3865 en jetons) 
+Place 2: Paellamix (4610 en jetons) 
+Place 3: psychoman59 (6705 en jetons) 
+Place 4: mamannboss (4820 en jetons) 
+etxenike5 : met l'ante. 10
+Paellamix : met l'ante. 10
+psychoman59 : met l'ante. 10
+mamannboss : met l'ante. 10
+etxenike5 : met la petite blind. 50
+Paellamix : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 8c]
+psychoman59 : passe. 
+mamannboss : passe. 
+etxenike5 : passe. 
+Personne n'a suivi. (50) sont retournés à Paellamix.
+Paellamix a remporté 140  lors du pot .
+Paellamix : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Siège 1 : etxenike5 (petite blind) s'est couché. avant Flop
+Siège 2 : Paellamix (grosse blind) a remporté (140)
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : mamannboss (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237722494424 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 01/08/2022 16:48:25 CET [01/08/2022 10:48:25 ET]
+Table '3449868582 1' 4-max Siège #1 est au bouton.
+Place 1: etxenike5 (3805 en jetons) 
+Place 2: Paellamix (4690 en jetons) 
+Place 3: psychoman59 (6695 en jetons) 
+Place 4: mamannboss (4810 en jetons) 
+etxenike5 : met l'ante. 10
+Paellamix : met l'ante. 10
+psychoman59 : met l'ante. 10
+mamannboss : met l'ante. 10
+Paellamix : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Td]
+mamannboss : relance. 200 à 300
+etxenike5 : passe. 
+Paellamix : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à mamannboss.
+mamannboss a remporté 290  lors du pot .
+mamannboss : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : etxenike5 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Paellamix (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : mamannboss a remporté (290)
+
+
+
+Main PokerStars n°237722501821 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 01/08/2022 16:48:53 CET [01/08/2022 10:48:53 ET]
+Table '3449868582 1' 4-max Siège #2 est au bouton.
+Place 1: etxenike5 (3795 en jetons) 
+Place 2: Paellamix (4630 en jetons) 
+Place 3: psychoman59 (6585 en jetons) 
+Place 4: mamannboss (4990 en jetons) 
+etxenike5 : met l'ante. 10
+Paellamix : met l'ante. 10
+psychoman59 : met l'ante. 10
+mamannboss : met l'ante. 10
+psychoman59 : met la petite blind. 50
+mamannboss : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 6s]
+etxenike5 : passe. 
+Paellamix : suit. 100
+psychoman59 : passe. 
+mamannboss : parole 
+*** FLOP *** [2c Ks 9c]
+mamannboss : parole 
+Paellamix : parole 
+*** TOURNANT *** [2c Ks 9c] [9d]
+mamannboss : parole 
+Paellamix : parole 
+*** RIVIÈRE *** [2c Ks 9c 9d] [As]
+mamannboss : parole 
+Paellamix : parole 
+*** ABATTAGE ***
+mamannboss : montre [4s Jc] (une paire de Neuf)
+Paellamix : montre [Qd 8d] (une paire de Neuf - As+Roi+Dame kicker)
+Paellamix a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Tableau [2c Ks 9c 9d As]
+Siège 1 : etxenike5 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Paellamix (bouton) a montré [Qd 8d] et a gagné (290) avec une paire de Neuf
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : mamannboss (grosse blind) a montré [4s Jc] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°237722512092 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 01/08/2022 16:49:32 CET [01/08/2022 10:49:32 ET]
+Table '3449868582 1' 4-max Siège #3 est au bouton.
+Place 1: etxenike5 (3785 en jetons) 
+Place 2: Paellamix (4810 en jetons) 
+Place 3: psychoman59 (6525 en jetons) 
+Place 4: mamannboss (4880 en jetons) 
+etxenike5 : met l'ante. 15
+Paellamix : met l'ante. 15
+psychoman59 : met l'ante. 15
+mamannboss : met l'ante. 15
+mamannboss : met la petite blind. 60
+etxenike5 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 4h]
+Paellamix : suit. 120
+psychoman59 : passe. 
+mamannboss : passe. 
+etxenike5 : parole 
+*** FLOP *** [Td Ah 9h]
+etxenike5 : parole 
+Paellamix : mise. 120
+etxenike5 : passe. 
+Personne n'a suivi. (120) sont retournés à Paellamix.
+Paellamix a remporté 360  lors du pot .
+Paellamix : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Td Ah 9h]
+Siège 1 : etxenike5 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Paellamix a remporté (360)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : mamannboss (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237722521261 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 01/08/2022 16:50:08 CET [01/08/2022 10:50:08 ET]
+Table '3449868582 1' 4-max Siège #4 est au bouton.
+Place 1: etxenike5 (3650 en jetons) 
+Place 2: Paellamix (5035 en jetons) 
+Place 3: psychoman59 (6510 en jetons) 
+Place 4: mamannboss (4805 en jetons) 
+etxenike5 : met l'ante. 15
+Paellamix : met l'ante. 15
+psychoman59 : met l'ante. 15
+mamannboss : met l'ante. 15
+etxenike5 : met la petite blind. 60
+Paellamix : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 2d]
+psychoman59 : passe. 
+mamannboss : suit. 120
+etxenike5 : suit. 60
+Paellamix : parole 
+*** FLOP *** [7s 3c 5s]
+etxenike5 : parole 
+Paellamix : parole 
+mamannboss : mise. 210
+etxenike5 : passe. 
+Paellamix : suit. 210
+*** TOURNANT *** [7s 3c 5s] [Qs]
+Paellamix : parole 
+mamannboss : parole 
+*** RIVIÈRE *** [7s 3c 5s Qs] [As]
+Paellamix : mise. 240
+mamannboss : passe. 
+Personne n'a suivi. (240) sont retournés à Paellamix.
+Paellamix a remporté 840  lors du pot .
+Paellamix : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [7s 3c 5s Qs As]
+Siège 1 : etxenike5 (petite blind) s'est couché. sur le Flop
+Siège 2 : Paellamix (grosse blind) a remporté (840)
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : mamannboss (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237722535367 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 01/08/2022 16:51:03 CET [01/08/2022 10:51:03 ET]
+Table '3449868582 1' 4-max Siège #1 est au bouton.
+Place 1: etxenike5 (3515 en jetons) 
+Place 2: Paellamix (5530 en jetons) 
+Place 3: psychoman59 (6495 en jetons) 
+Place 4: mamannboss (4460 en jetons) 
+etxenike5 : met l'ante. 15
+Paellamix : met l'ante. 15
+psychoman59 : met l'ante. 15
+mamannboss : met l'ante. 15
+Paellamix : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 5c]
+mamannboss : passe. 
+etxenike5 : suit. 120
+Paellamix : suit. 60
+psychoman59 : parole 
+*** FLOP *** [5s Td 8s]
+Paellamix : mise. 120
+psychoman59 : suit. 120
+etxenike5 : suit. 120
+*** TOURNANT *** [5s Td 8s] [As]
+Paellamix : parole 
+psychoman59 : parole 
+etxenike5 : parole 
+*** RIVIÈRE *** [5s Td 8s As] [9h]
+Paellamix : mise. 120
+psychoman59 : suit. 120
+etxenike5 : passe. 
+*** ABATTAGE ***
+Paellamix : montre [Kh Th] (une paire de Dix)
+psychoman59 : montre [8d 5c] (double paire, Huit et Cinq)
+psychoman59 a remporté 1020  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [5s Td 8s As 9h]
+Siège 1 : etxenike5 (bouton) s'est couché. sur le Rivière
+Siège 2 : Paellamix (petite blind) a montré [Kh Th] et a perdu avec une paire de Dix
+Siège 3 : psychoman59 (grosse blind) a montré [8d 5c] et a gagné (1020) avec double paire, Huit et Cinq
+Siège 4 : mamannboss s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237722545065 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 01/08/2022 16:51:41 CET [01/08/2022 10:51:41 ET]
+Table '3449868582 1' 4-max Siège #2 est au bouton.
+Place 1: etxenike5 (3260 en jetons) 
+Place 2: Paellamix (5155 en jetons) 
+Place 3: psychoman59 (7140 en jetons) 
+Place 4: mamannboss (4445 en jetons) 
+etxenike5 : met l'ante. 15
+Paellamix : met l'ante. 15
+psychoman59 : met l'ante. 15
+mamannboss : met l'ante. 15
+psychoman59 : met la petite blind. 60
+mamannboss : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 2d]
+etxenike5 : passe. 
+Paellamix : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à mamannboss.
+mamannboss a remporté 180  lors du pot .
+mamannboss : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : etxenike5 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Paellamix (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : mamannboss (grosse blind) a remporté (180)
+
+
+
+Main PokerStars n°237722547975 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 01/08/2022 16:51:51 CET [01/08/2022 10:51:51 ET]
+Table '3449868582 1' 4-max Siège #3 est au bouton.
+Place 1: etxenike5 (3245 en jetons) 
+Place 2: Paellamix (5140 en jetons) 
+Place 3: psychoman59 (7065 en jetons) 
+Place 4: mamannboss (4550 en jetons) 
+etxenike5 : met l'ante. 15
+Paellamix : met l'ante. 15
+psychoman59 : met l'ante. 15
+mamannboss : met l'ante. 15
+mamannboss : met la petite blind. 60
+etxenike5 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 7s]
+Paellamix : passe. 
+psychoman59 : passe. 
+mamannboss : passe. 
+Personne n'a suivi. (60) sont retournés à etxenike5.
+etxenike5 a remporté 180  lors du pot .
+etxenike5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : etxenike5 (grosse blind) a remporté (180)
+Siège 2 : Paellamix s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : mamannboss (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237722551357 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 01/08/2022 16:52:05 CET [01/08/2022 10:52:05 ET]
+Table '3449868582 1' 4-max Siège #4 est au bouton.
+Place 1: etxenike5 (3350 en jetons) 
+Place 2: Paellamix (5125 en jetons) 
+Place 3: psychoman59 (7050 en jetons) 
+Place 4: mamannboss (4475 en jetons) 
+etxenike5 : met l'ante. 15
+Paellamix : met l'ante. 15
+psychoman59 : met l'ante. 15
+mamannboss : met l'ante. 15
+etxenike5 : met la petite blind. 60
+Paellamix : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 4s]
+psychoman59 : passe. 
+mamannboss : passe. 
+etxenike5 : suit. 60
+Paellamix : parole 
+*** FLOP *** [Tc Kc 4c]
+etxenike5 : mise. 120
+Paellamix : passe. 
+Personne n'a suivi. (120) sont retournés à etxenike5.
+etxenike5 a remporté 300  lors du pot .
+etxenike5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Tc Kc 4c]
+Siège 1 : etxenike5 (petite blind) a remporté (300)
+Siège 2 : Paellamix (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : mamannboss (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237722556322 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 01/08/2022 16:52:24 CET [01/08/2022 10:52:24 ET]
+Table '3449868582 1' 4-max Siège #1 est au bouton.
+Place 1: etxenike5 (3515 en jetons) 
+Place 2: Paellamix (4990 en jetons) 
+Place 3: psychoman59 (7035 en jetons) 
+Place 4: mamannboss (4460 en jetons) 
+etxenike5 : met l'ante. 20
+Paellamix : met l'ante. 20
+psychoman59 : met l'ante. 20
+mamannboss : met l'ante. 20
+Paellamix : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 7h]
+mamannboss : passe. 
+etxenike5 : relance. 150 à 300
+Paellamix : passe. 
+psychoman59 : suit. 150
+*** FLOP *** [Js 2c 9c]
+psychoman59 : parole 
+etxenike5 : mise. 300
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à etxenike5.
+etxenike5 a remporté 755  lors du pot .
+etxenike5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 755 | Commission 0 
+Tableau [Js 2c 9c]
+Siège 1 : etxenike5 (bouton) a remporté (755)
+Siège 2 : Paellamix (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 4 : mamannboss s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237722564122 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 01/08/2022 16:52:54 CET [01/08/2022 10:52:54 ET]
+Table '3449868582 1' 4-max Siège #2 est au bouton.
+Place 1: etxenike5 (3950 en jetons) 
+Place 2: Paellamix (4895 en jetons) 
+Place 3: psychoman59 (6715 en jetons) 
+Place 4: mamannboss (4440 en jetons) 
+etxenike5 : met l'ante. 20
+Paellamix : met l'ante. 20
+psychoman59 : met l'ante. 20
+mamannboss : met l'ante. 20
+psychoman59 : met la petite blind. 75
+mamannboss : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Qs]
+etxenike5 : relance. 150 à 300
+Paellamix : passe. 
+psychoman59 : passe. 
+mamannboss : suit. 150
+*** FLOP *** [3h 5h 4d]
+mamannboss : mise. 377
+etxenike5 : relance. 827 à 1204
+mamannboss : passe. 
+Personne n'a suivi. (827) sont retournés à etxenike5.
+etxenike5 a remporté 1509  lors du pot .
+etxenike5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1509 | Commission 0 
+Tableau [3h 5h 4d]
+Siège 1 : etxenike5 a remporté (1509)
+Siège 2 : Paellamix (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : mamannboss (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237722572499 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 01/08/2022 16:53:26 CET [01/08/2022 10:53:26 ET]
+Table '3449868582 1' 4-max Siège #3 est au bouton.
+Place 1: etxenike5 (4762 en jetons) 
+Place 2: Paellamix (4875 en jetons) 
+Place 3: psychoman59 (6620 en jetons) 
+Place 4: mamannboss (3743 en jetons) 
+etxenike5 : met l'ante. 20
+Paellamix : met l'ante. 20
+psychoman59 : met l'ante. 20
+mamannboss : met l'ante. 20
+mamannboss : met la petite blind. 75
+etxenike5 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 4d]
+Paellamix : passe. 
+psychoman59 : passe. 
+mamannboss : relance. 300 à 450
+etxenike5 : passe. 
+Personne n'a suivi. (300) sont retournés à mamannboss.
+mamannboss a remporté 380  lors du pot .
+mamannboss : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : etxenike5 (grosse blind) s'est couché. avant Flop
+Siège 2 : Paellamix s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : mamannboss (petite blind) a remporté (380)
+
+
+
+Main PokerStars n°237722578732 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 01/08/2022 16:53:51 CET [01/08/2022 10:53:51 ET]
+Table '3449868582 1' 4-max Siège #4 est au bouton.
+Place 1: etxenike5 (4592 en jetons) 
+Place 2: Paellamix (4855 en jetons) 
+Place 3: psychoman59 (6600 en jetons) 
+Place 4: mamannboss (3953 en jetons) 
+etxenike5 : met l'ante. 20
+Paellamix : met l'ante. 20
+psychoman59 : met l'ante. 20
+mamannboss : met l'ante. 20
+etxenike5 : met la petite blind. 75
+Paellamix : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 7d]
+psychoman59 : passe. 
+mamannboss : suit. 150
+etxenike5 : relance. 300 à 450
+Paellamix : passe. 
+mamannboss : suit. 300
+*** FLOP *** [3d 5d 5h]
+etxenike5 : mise. 450
+mamannboss : relance. 1015 à 1465
+etxenike5 : relance. 2657 à 4122 et est all-in.
+mamannboss : suit. 2018 et est all-in.
+Personne n'a suivi. (639) sont retournés à etxenike5.
+*** TOURNANT *** [3d 5d 5h] [8d]
+*** RIVIÈRE *** [3d 5d 5h 8d] [8h]
+*** ABATTAGE ***
+etxenike5 : montre [Kc Ks] (double paire, Rois et Huit)
+mamannboss : montre [As Qc] (double paire, Huit et Cinq)
+etxenike5 a remporté 8096  lors du pot .
+mamannboss a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 8096 | Commission 0 
+Tableau [3d 5d 5h 8d 8h]
+Siège 1 : etxenike5 (petite blind) a montré [Kc Ks] et a gagné (8096) avec double paire, Rois et Huit
+Siège 2 : Paellamix (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : mamannboss (bouton) a montré [As Qc] et a perdu avec double paire, Huit et Cinq
+
+
+
+Main PokerStars n°237722594471 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 01/08/2022 16:54:52 CET [01/08/2022 10:54:52 ET]
+Table '3449868582 1' 4-max Siège #1 est au bouton.
+Place 1: etxenike5 (8735 en jetons) 
+Place 2: Paellamix (4685 en jetons) 
+Place 3: psychoman59 (6580 en jetons) 
+etxenike5 : met l'ante. 20
+Paellamix : met l'ante. 20
+psychoman59 : met l'ante. 20
+Paellamix : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 8c]
+etxenike5 : relance. 150 à 300
+Paellamix : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à etxenike5.
+etxenike5 a remporté 435  lors du pot .
+etxenike5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Siège 1 : etxenike5 (bouton) a remporté (435)
+Siège 2 : Paellamix (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237722597898 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 01/08/2022 16:55:05 CET [01/08/2022 10:55:05 ET]
+Table '3449868582 1' 4-max Siège #2 est au bouton.
+Place 1: etxenike5 (9000 en jetons) 
+Place 2: Paellamix (4590 en jetons) 
+Place 3: psychoman59 (6410 en jetons) 
+etxenike5 : met l'ante. 20
+Paellamix : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+etxenike5 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 5h]
+Paellamix : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à etxenike5.
+etxenike5 a remporté 210  lors du pot .
+etxenike5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 1 : etxenike5 (grosse blind) a remporté (210)
+Siège 2 : Paellamix (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237722600398 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 01/08/2022 16:55:17 CET [01/08/2022 10:55:17 ET]
+Table '3449868582 1' 4-max Siège #3 est au bouton.
+Place 1: etxenike5 (9115 en jetons) 
+Place 2: Paellamix (4570 en jetons) 
+Place 3: psychoman59 (6315 en jetons) 
+etxenike5 : met l'ante. 25
+Paellamix : met l'ante. 25
+psychoman59 : met l'ante. 25
+etxenike5 : met la petite blind. 100
+Paellamix : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 9s]
+psychoman59 : passe. 
+etxenike5 : relance. 200 à 400
+Paellamix : suit. 200
+*** FLOP *** [Jc Th 4c]
+etxenike5 : mise. 600
+Paellamix : suit. 600
+*** TOURNANT *** [Jc Th 4c] [7h]
+etxenike5 : parole 
+Paellamix : mise. 1037
+etxenike5 : passe. 
+Personne n'a suivi. (1037) sont retournés à Paellamix.
+Paellamix a remporté 2075  lors du pot .
+Paellamix : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2075 | Commission 0 
+Tableau [Jc Th 4c 7h]
+Siège 1 : etxenike5 (petite blind) s'est couché. sur le Tournant
+Siège 2 : Paellamix (grosse blind) a remporté (2075)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237722605696 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 01/08/2022 16:55:41 CET [01/08/2022 10:55:41 ET]
+Table '3449868582 1' 4-max Siège #1 est au bouton.
+Place 1: etxenike5 (8090 en jetons) 
+Place 2: Paellamix (5620 en jetons) 
+Place 3: psychoman59 (6290 en jetons) 
+etxenike5 : met l'ante. 25
+Paellamix : met l'ante. 25
+psychoman59 : met l'ante. 25
+Paellamix : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 2s]
+etxenike5 : suit. 200
+Paellamix : passe. 
+psychoman59 : relance. 6065 à 6265 et est all-in.
+etxenike5 : passe. 
+Personne n'a suivi. (6065) sont retournés à psychoman59.
+psychoman59 a remporté 575  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 575 | Commission 0 
+Siège 1 : etxenike5 (bouton) s'est couché. avant Flop
+Siège 2 : Paellamix (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (575)
+
+
+
+Main PokerStars n°237722609114 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 01/08/2022 16:55:57 CET [01/08/2022 10:55:57 ET]
+Table '3449868582 1' 4-max Siège #2 est au bouton.
+Place 1: etxenike5 (7865 en jetons) 
+Place 2: Paellamix (5495 en jetons) 
+Place 3: psychoman59 (6640 en jetons) 
+etxenike5 : met l'ante. 25
+Paellamix : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+etxenike5 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 9d]
+Paellamix : suit. 200
+psychoman59 : passe. 
+etxenike5 : parole 
+*** FLOP *** [3h Qd 4d]
+etxenike5 : parole 
+Paellamix : mise. 200
+etxenike5 : passe. 
+Personne n'a suivi. (200) sont retournés à Paellamix.
+Paellamix a remporté 575  lors du pot .
+Paellamix : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 575 | Commission 0 
+Tableau [3h Qd 4d]
+Siège 1 : etxenike5 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Paellamix (bouton) a remporté (575)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237722612343 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 01/08/2022 16:56:11 CET [01/08/2022 10:56:11 ET]
+Table '3449868582 1' 4-max Siège #3 est au bouton.
+Place 1: etxenike5 (7640 en jetons) 
+Place 2: Paellamix (5845 en jetons) 
+Place 3: psychoman59 (6515 en jetons) 
+etxenike5 : met l'ante. 25
+Paellamix : met l'ante. 25
+psychoman59 : met l'ante. 25
+etxenike5 : met la petite blind. 100
+Paellamix : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 2h]
+psychoman59 : passe. 
+etxenike5 : relance. 400 à 600
+Paellamix : passe. 
+Personne n'a suivi. (400) sont retournés à etxenike5.
+etxenike5 a remporté 475  lors du pot .
+etxenike5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Siège 1 : etxenike5 (petite blind) a remporté (475)
+Siège 2 : Paellamix (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237722614847 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 01/08/2022 16:56:23 CET [01/08/2022 10:56:23 ET]
+Table '3449868582 1' 4-max Siège #1 est au bouton.
+Place 1: etxenike5 (7890 en jetons) 
+Place 2: Paellamix (5620 en jetons) 
+Place 3: psychoman59 (6490 en jetons) 
+etxenike5 : met l'ante. 25
+Paellamix : met l'ante. 25
+psychoman59 : met l'ante. 25
+Paellamix : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Qs]
+etxenike5 : passe. 
+Paellamix : suit. 100
+psychoman59 : relance. 6265 à 6465 et est all-in.
+Paellamix : passe. 
+Personne n'a suivi. (6265) sont retournés à psychoman59.
+psychoman59 a remporté 475  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Siège 1 : etxenike5 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Paellamix (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (475)
+
+
+
+Main PokerStars n°237722617971 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 01/08/2022 16:56:37 CET [01/08/2022 10:56:37 ET]
+Table '3449868582 1' 4-max Siège #2 est au bouton.
+Place 1: etxenike5 (7865 en jetons) 
+Place 2: Paellamix (5395 en jetons) 
+Place 3: psychoman59 (6740 en jetons) 
+etxenike5 : met l'ante. 25
+Paellamix : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+etxenike5 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 8c]
+Paellamix : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à etxenike5.
+etxenike5 a remporté 275  lors du pot .
+etxenike5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 275 | Commission 0 
+Siège 1 : etxenike5 (grosse blind) a remporté (275)
+Siège 2 : Paellamix (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237722619778 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 01/08/2022 16:56:45 CET [01/08/2022 10:56:45 ET]
+Table '3449868582 1' 4-max Siège #3 est au bouton.
+Place 1: etxenike5 (8015 en jetons) 
+Place 2: Paellamix (5370 en jetons) 
+Place 3: psychoman59 (6615 en jetons) 
+etxenike5 : met l'ante. 25
+Paellamix : met l'ante. 25
+psychoman59 : met l'ante. 25
+etxenike5 : met la petite blind. 100
+Paellamix : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 3d]
+psychoman59 : passe. 
+etxenike5 : suit. 100
+Paellamix : parole 
+*** FLOP *** [Jd Qh Ad]
+etxenike5 : parole 
+Paellamix : parole 
+*** TOURNANT *** [Jd Qh Ad] [As]
+etxenike5 : parole 
+Paellamix : parole 
+*** RIVIÈRE *** [Jd Qh Ad As] [7c]
+etxenike5 : parole 
+Paellamix : parole 
+*** ABATTAGE ***
+etxenike5 : montre [Td 4h] (une paire de As)
+Paellamix : montre [2s 2d] (double paire, As et Deux)
+Paellamix a remporté 475  lors du pot .
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Tableau [Jd Qh Ad As 7c]
+Siège 1 : etxenike5 (petite blind) a montré [Td 4h] et a perdu avec une paire de As
+Siège 2 : Paellamix (grosse blind) a montré [2s 2d] et a gagné (475) avec double paire, As et Deux
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237722623794 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 01/08/2022 16:57:04 CET [01/08/2022 10:57:04 ET]
+Table '3449868582 1' 4-max Siège #1 est au bouton.
+Place 1: etxenike5 (7790 en jetons) 
+Place 2: Paellamix (5620 en jetons) 
+Place 3: psychoman59 (6590 en jetons) 
+etxenike5 : met l'ante. 25
+Paellamix : met l'ante. 25
+psychoman59 : met l'ante. 25
+Paellamix : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 6h]
+etxenike5 : passe. 
+Paellamix : suit. 100
+psychoman59 : parole 
+*** FLOP *** [7d 9c 8c]
+Paellamix : parole 
+psychoman59 : mise. 200
+Paellamix : suit. 200
+*** TOURNANT *** [7d 9c 8c] [Qh]
+Paellamix : parole 
+psychoman59 : mise. 200
+Paellamix : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 875  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 875 | Commission 0 
+Tableau [7d 9c 8c Qh]
+Siège 1 : etxenike5 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Paellamix (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a remporté (875)
+
+
+
+Main PokerStars n°237722630832 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 01/08/2022 16:57:35 CET [01/08/2022 10:57:35 ET]
+Table '3449868582 1' 4-max Siège #2 est au bouton.
+Place 1: etxenike5 (7765 en jetons) 
+Place 2: Paellamix (5195 en jetons) 
+Place 3: psychoman59 (7040 en jetons) 
+etxenike5 : met l'ante. 25
+Paellamix : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+etxenike5 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 4c]
+Paellamix : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à etxenike5.
+etxenike5 a remporté 275  lors du pot .
+etxenike5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 275 | Commission 0 
+Siège 1 : etxenike5 (grosse blind) a remporté (275)
+Siège 2 : Paellamix (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237722632754 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 01/08/2022 16:57:44 CET [01/08/2022 10:57:44 ET]
+Table '3449868582 1' 4-max Siège #3 est au bouton.
+Place 1: etxenike5 (7915 en jetons) 
+Place 2: Paellamix (5170 en jetons) 
+Place 3: psychoman59 (6915 en jetons) 
+etxenike5 : met l'ante. 25
+Paellamix : met l'ante. 25
+psychoman59 : met l'ante. 25
+etxenike5 : met la petite blind. 100
+Paellamix : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Qs]
+psychoman59 : relance. 200 à 400
+etxenike5 : passe. 
+Paellamix : suit. 200
+*** FLOP *** [Jd Kd 4c]
+Paellamix : parole 
+psychoman59 : mise. 975
+Paellamix : passe. 
+Personne n'a suivi. (975) sont retournés à psychoman59.
+psychoman59 a remporté 975  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 975 | Commission 0 
+Tableau [Jd Kd 4c]
+Siège 1 : etxenike5 (petite blind) s'est couché. avant Flop
+Siège 2 : Paellamix (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a remporté (975)
+
+
+
+Main PokerStars n°237722636611 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 01/08/2022 16:58:01 CET [01/08/2022 10:58:01 ET]
+Table '3449868582 1' 4-max Siège #1 est au bouton.
+Place 1: etxenike5 (7790 en jetons) 
+Place 2: Paellamix (4745 en jetons) 
+Place 3: psychoman59 (7465 en jetons) 
+etxenike5 : met l'ante. 25
+Paellamix : met l'ante. 25
+psychoman59 : met l'ante. 25
+Paellamix : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ah]
+etxenike5 : suit. 200
+Paellamix : suit. 100
+psychoman59 : parole 
+*** FLOP *** [Jc 4d 8s]
+Paellamix : parole 
+psychoman59 : parole 
+etxenike5 : mise. 400
+Paellamix : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à etxenike5.
+etxenike5 a remporté 675  lors du pot .
+etxenike5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 675 | Commission 0 
+Tableau [Jc 4d 8s]
+Siège 1 : etxenike5 (bouton) a remporté (675)
+Siège 2 : Paellamix (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237722642906 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 01/08/2022 16:58:30 CET [01/08/2022 10:58:30 ET]
+Table '3449868582 1' 4-max Siège #2 est au bouton.
+Place 1: etxenike5 (8240 en jetons) 
+Place 2: Paellamix (4520 en jetons) 
+Place 3: psychoman59 (7240 en jetons) 
+etxenike5 : met l'ante. 30
+Paellamix : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+etxenike5 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 7s]
+Paellamix : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à etxenike5.
+etxenike5 a remporté 340  lors du pot .
+etxenike5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : etxenike5 (grosse blind) a remporté (340)
+Siège 2 : Paellamix (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237722644820 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 01/08/2022 16:58:39 CET [01/08/2022 10:58:39 ET]
+Table '3449868582 1' 4-max Siège #3 est au bouton.
+Place 1: etxenike5 (8425 en jetons) 
+Place 2: Paellamix (4490 en jetons) 
+Place 3: psychoman59 (7085 en jetons) 
+etxenike5 : met l'ante. 30
+Paellamix : met l'ante. 30
+psychoman59 : met l'ante. 30
+etxenike5 : met la petite blind. 125
+Paellamix : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 2h]
+psychoman59 : passe. 
+etxenike5 : suit. 125
+Paellamix : relance. 4210 à 4460 et est all-in.
+etxenike5 : passe. 
+Personne n'a suivi. (4210) sont retournés à Paellamix.
+Paellamix a remporté 590  lors du pot .
+Paellamix : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Siège 1 : etxenike5 (petite blind) s'est couché. avant Flop
+Siège 2 : Paellamix (grosse blind) a remporté (590)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237722648337 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 01/08/2022 16:58:55 CET [01/08/2022 10:58:55 ET]
+Table '3449868582 1' 4-max Siège #1 est au bouton.
+Place 1: etxenike5 (8145 en jetons) 
+Place 2: Paellamix (4800 en jetons) 
+Place 3: psychoman59 (7055 en jetons) 
+etxenike5 : met l'ante. 30
+Paellamix : met l'ante. 30
+psychoman59 : met l'ante. 30
+Paellamix : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Ad]
+etxenike5 : suit. 250
+Paellamix : suit. 125
+psychoman59 : parole 
+*** FLOP *** [7h 2c 9d]
+Paellamix : mise. 250
+psychoman59 : suit. 250
+etxenike5 : suit. 250
+*** TOURNANT *** [7h 2c 9d] [3c]
+Paellamix : mise. 500
+psychoman59 : passe. 
+etxenike5 : suit. 500
+*** RIVIÈRE *** [7h 2c 9d 3c] [Kh]
+Paellamix : parole 
+etxenike5 : mise. 1500
+Paellamix : suit. 1500
+*** ABATTAGE ***
+etxenike5 : montre [4d 6d] (Hauteur Roi)
+Paellamix : montre [Td 9s] (une paire de Neuf)
+Paellamix a remporté 5590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5590 | Commission 0 
+Tableau [7h 2c 9d 3c Kh]
+Siège 1 : etxenike5 (bouton) a montré [4d 6d] et a perdu avec Hauteur Roi
+Siège 2 : Paellamix (petite blind) a montré [Td 9s] et a gagné (5590) avec une paire de Neuf
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237722655140 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 01/08/2022 16:59:25 CET [01/08/2022 10:59:25 ET]
+Table '3449868582 1' 4-max Siège #2 est au bouton.
+Place 1: etxenike5 (5615 en jetons) 
+Place 2: Paellamix (7860 en jetons) 
+Place 3: psychoman59 (6525 en jetons) 
+etxenike5 : met l'ante. 30
+Paellamix : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+etxenike5 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c As]
+Paellamix : passe. 
+psychoman59 : relance. 250 à 500
+etxenike5 : suit. 250
+*** FLOP *** [2d 6d Qd]
+psychoman59 : mise. 1090
+etxenike5 : suit. 1090
+*** TOURNANT *** [2d 6d Qd] [8d]
+psychoman59 : mise. 1635
+etxenike5 : suit. 1635
+*** RIVIÈRE *** [2d 6d Qd 8d] [5c]
+psychoman59 : mise. 3270 et est all-in.
+etxenike5 : suit. 2360 et est all-in.
+Personne n'a suivi. (910) sont retournés à psychoman59.
+*** ABATTAGE ***
+psychoman59 : montre [2c As] (une paire de Deux)
+etxenike5 : montre [5d Th] (une couleur, hauteur Dame)
+etxenike5 a remporté 11260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 11260 | Commission 0 
+Tableau [2d 6d Qd 8d 5c]
+Siège 1 : etxenike5 (grosse blind) a montré [5d Th] et a gagné (11260) avec une couleur, hauteur Dame
+Siège 2 : Paellamix (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [2c As] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°237722662983 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 01/08/2022 17:00:01 CET [01/08/2022 11:00:01 ET]
+Table '3449868582 1' 4-max Siège #3 est au bouton.
+Place 1: etxenike5 (11260 en jetons) 
+Place 2: Paellamix (7830 en jetons) 
+Place 3: psychoman59 (910 en jetons) 
+etxenike5 : met l'ante. 30
+Paellamix : met l'ante. 30
+psychoman59 : met l'ante. 30
+etxenike5 : met la petite blind. 125
+Paellamix : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 2s]
+psychoman59 : passe. 
+etxenike5 : passe. 
+Personne n'a suivi. (125) sont retournés à Paellamix.
+Paellamix a remporté 340  lors du pot .
+Paellamix : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : etxenike5 (petite blind) s'est couché. avant Flop
+Siège 2 : Paellamix (grosse blind) a remporté (340)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237722665441 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 01/08/2022 17:00:12 CET [01/08/2022 11:00:12 ET]
+Table '3449868582 1' 4-max Siège #1 est au bouton.
+Place 1: etxenike5 (11105 en jetons) 
+Place 2: Paellamix (8015 en jetons) 
+Place 3: psychoman59 (880 en jetons) 
+etxenike5 : met l'ante. 30
+Paellamix : met l'ante. 30
+psychoman59 : met l'ante. 30
+Paellamix : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Ad]
+etxenike5 : passe. 
+Paellamix : suit. 125
+psychoman59 : relance. 600 à 850 et est all-in.
+Paellamix : suit. 600
+*** FLOP *** [6c Qd 9h]
+*** TOURNANT *** [6c Qd 9h] [Ah]
+*** RIVIÈRE *** [6c Qd 9h Ah] [Jd]
+*** ABATTAGE ***
+Paellamix : montre [8c 4d] (Hauteur As)
+psychoman59 : montre [8h Ad] (une paire de As)
+psychoman59 a remporté 1790  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1790 | Commission 0 
+Tableau [6c Qd 9h Ah Jd]
+Siège 1 : etxenike5 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Paellamix (petite blind) a montré [8c 4d] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [8h Ad] et a gagné (1790) avec une paire de As
+
+
+
+Main PokerStars n°237722670353 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 01/08/2022 17:00:33 CET [01/08/2022 11:00:33 ET]
+Table '3449868582 1' 4-max Siège #2 est au bouton.
+Place 1: etxenike5 (11075 en jetons) 
+Place 2: Paellamix (7135 en jetons) 
+Place 3: psychoman59 (1790 en jetons) 
+etxenike5 : met l'ante. 30
+Paellamix : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+etxenike5 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 7c]
+Paellamix : suit. 250
+psychoman59 : relance. 1510 à 1760 et est all-in.
+etxenike5 : passe. 
+Paellamix : suit. 1510
+*** FLOP *** [Qc 2c Ad]
+*** TOURNANT *** [Qc 2c Ad] [Jd]
+*** RIVIÈRE *** [Qc 2c Ad Jd] [4d]
+*** ABATTAGE ***
+psychoman59 : montre [Ah 7c] (une paire de As)
+Paellamix : montre [Jc Kd] (une paire de Valets)
+psychoman59 a remporté 3860  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3860 | Commission 0 
+Tableau [Qc 2c Ad Jd 4d]
+Siège 1 : etxenike5 (grosse blind) s'est couché. avant Flop
+Siège 2 : Paellamix (bouton) a montré [Jc Kd] et a perdu avec une paire de Valets
+Siège 3 : psychoman59 (petite blind) a montré [Ah 7c] et a gagné (3860) avec une paire de As
+
+
+
+Main PokerStars n°237722674776 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 01/08/2022 17:00:52 CET [01/08/2022 11:00:52 ET]
+Table '3449868582 1' 4-max Siège #3 est au bouton.
+Place 1: etxenike5 (10795 en jetons) 
+Place 2: Paellamix (5345 en jetons) 
+Place 3: psychoman59 (3860 en jetons) 
+etxenike5 : met l'ante. 30
+Paellamix : met l'ante. 30
+psychoman59 : met l'ante. 30
+etxenike5 : met la petite blind. 125
+Paellamix : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Jc]
+psychoman59 : passe. 
+etxenike5 : relance. 250 à 500
+Paellamix : suit. 250
+*** FLOP *** [Th Tc 7d]
+etxenike5 : mise. 500
+Paellamix : suit. 500
+*** TOURNANT *** [Th Tc 7d] [Qh]
+etxenike5 : mise. 750
+Paellamix : passe. 
+Personne n'a suivi. (750) sont retournés à etxenike5.
+etxenike5 a remporté 2090  lors du pot .
+etxenike5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2090 | Commission 0 
+Tableau [Th Tc 7d Qh]
+Siège 1 : etxenike5 (petite blind) a remporté (2090)
+Siège 2 : Paellamix (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237722681382 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 01/08/2022 17:01:18 CET [01/08/2022 11:01:18 ET]
+Table '3449868582 1' 4-max Siège #1 est au bouton.
+Place 1: etxenike5 (11855 en jetons) 
+Place 2: Paellamix (4315 en jetons) 
+Place 3: psychoman59 (3830 en jetons) 
+etxenike5 : met l'ante. 40
+Paellamix : met l'ante. 40
+psychoman59 : met l'ante. 40
+Paellamix : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 9h]
+etxenike5 : suit. 300
+Paellamix : suit. 150
+psychoman59 : parole 
+*** FLOP *** [2c 5c Ts]
+Paellamix : parole 
+psychoman59 : parole 
+etxenike5 : parole 
+*** TOURNANT *** [2c 5c Ts] [3c]
+Paellamix : mise. 300
+psychoman59 : passe. 
+etxenike5 : passe. 
+Personne n'a suivi. (300) sont retournés à Paellamix.
+Paellamix a remporté 1020  lors du pot .
+Paellamix : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [2c 5c Ts 3c]
+Siège 1 : etxenike5 (bouton) s'est couché. sur le Tournant
+Siège 2 : Paellamix (petite blind) a remporté (1020)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237722686669 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 01/08/2022 17:01:40 CET [01/08/2022 11:01:40 ET]
+Table '3449868582 1' 4-max Siège #2 est au bouton.
+Place 1: etxenike5 (11515 en jetons) 
+Place 2: Paellamix (4995 en jetons) 
+Place 3: psychoman59 (3490 en jetons) 
+etxenike5 : met l'ante. 40
+Paellamix : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+etxenike5 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Qh]
+Paellamix : passe. 
+psychoman59 : relance. 720 à 1020
+etxenike5 : passe. 
+Personne n'a suivi. (720) sont retournés à psychoman59.
+psychoman59 a remporté 720  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Siège 1 : etxenike5 (grosse blind) s'est couché. avant Flop
+Siège 2 : Paellamix (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (720)
+
+
+
+Main PokerStars n°237722690995 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 01/08/2022 17:01:58 CET [01/08/2022 11:01:58 ET]
+Table '3449868582 1' 4-max Siège #3 est au bouton.
+Place 1: etxenike5 (11175 en jetons) 
+Place 2: Paellamix (4955 en jetons) 
+Place 3: psychoman59 (3870 en jetons) 
+etxenike5 : met l'ante. 40
+Paellamix : met l'ante. 40
+psychoman59 : met l'ante. 40
+etxenike5 : met la petite blind. 150
+Paellamix : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Qd]
+psychoman59 : passe. 
+etxenike5 : suit. 150
+Paellamix : relance. 4615 à 4915 et est all-in.
+etxenike5 : passe. 
+Personne n'a suivi. (4615) sont retournés à Paellamix.
+Paellamix a remporté 720  lors du pot .
+Paellamix : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Siège 1 : etxenike5 (petite blind) s'est couché. avant Flop
+Siège 2 : Paellamix (grosse blind) a remporté (720)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237722700805 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 01/08/2022 17:02:10 CET [01/08/2022 11:02:10 ET]
+Table '3449868582 1' 4-max Siège #1 est au bouton.
+Place 1: etxenike5 (10835 en jetons) 
+Place 2: Paellamix (5335 en jetons) 
+Place 3: psychoman59 (3830 en jetons) 
+etxenike5 : met l'ante. 40
+Paellamix : met l'ante. 40
+psychoman59 : met l'ante. 40
+Paellamix : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Ad]
+etxenike5 : relance. 300 à 600
+Paellamix : passe. 
+psychoman59 : relance. 3190 à 3790 et est all-in.
+etxenike5 : suit. 3190
+*** FLOP *** [5d 4d Kc]
+*** TOURNANT *** [5d 4d Kc] [2s]
+*** RIVIÈRE *** [5d 4d Kc 2s] [6s]
+*** ABATTAGE ***
+psychoman59 : montre [9c Ad] (Hauteur As)
+etxenike5 : montre [Th Qh] (Hauteur Roi)
+psychoman59 a remporté 7850  lors du pot .
+*** SYNTHÈSE ***
+Pot total 7850 | Commission 0 
+Tableau [5d 4d Kc 2s 6s]
+Siège 1 : etxenike5 (bouton) a montré [Th Qh] et a perdu avec Hauteur Roi
+Siège 2 : Paellamix (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [9c Ad] et a gagné (7850) avec Hauteur As
+
+
+
+Main PokerStars n°237722705638 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 01/08/2022 17:02:29 CET [01/08/2022 11:02:29 ET]
+Table '3449868582 1' 4-max Siège #2 est au bouton.
+Place 1: etxenike5 (7005 en jetons) 
+Place 2: Paellamix (5145 en jetons) 
+Place 3: psychoman59 (7850 en jetons) 
+etxenike5 : met l'ante. 40
+Paellamix : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+etxenike5 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Ac]
+Paellamix : passe. 
+psychoman59 : relance. 7510 à 7810 et est all-in.
+etxenike5 : suit. 6665 et est all-in.
+Personne n'a suivi. (845) sont retournés à psychoman59.
+*** FLOP *** [9s 3h Ks]
+*** TOURNANT *** [9s 3h Ks] [5c]
+*** RIVIÈRE *** [9s 3h Ks 5c] [2c]
+*** ABATTAGE ***
+psychoman59 : montre [6c Ac] (Hauteur As)
+etxenike5 : montre [Jh Th] (Hauteur Roi)
+psychoman59 a remporté 14050  lors du pot .
+etxenike5 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 14050 | Commission 0 
+Tableau [9s 3h Ks 5c 2c]
+Siège 1 : etxenike5 (grosse blind) a montré [Jh Th] et a perdu avec Hauteur Roi
+Siège 2 : Paellamix (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [6c Ac] et a gagné (14050) avec Hauteur As
+
+
+
+Main PokerStars n°237722711061 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 01/08/2022 17:02:50 CET [01/08/2022 11:02:50 ET]
+Table '3449868582 1' 4-max Siège #3 est au bouton.
+Place 2: Paellamix (5105 en jetons) 
+Place 3: psychoman59 (14895 en jetons) 
+Paellamix : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+Paellamix : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à Paellamix.
+Paellamix a remporté 380  lors du pot .
+Paellamix : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 2 : Paellamix (grosse blind) a remporté (380)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237722712863 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 01/08/2022 17:02:57 CET [01/08/2022 11:02:57 ET]
+Table '3449868582 1' 4-max Siège #2 est au bouton.
+Place 2: Paellamix (5295 en jetons) 
+Place 3: psychoman59 (14705 en jetons) 
+Paellamix : met l'ante. 40
+psychoman59 : met l'ante. 40
+Paellamix : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Ac]
+Paellamix : suit. 150
+psychoman59 : relance. 680 à 980
+Paellamix : suit. 680
+*** FLOP *** [9c Td Qs]
+psychoman59 : mise. 1020
+Paellamix : relance. 3255 à 4275 et est all-in.
+psychoman59 : suit. 3255
+*** TOURNANT *** [9c Td Qs] [4h]
+*** RIVIÈRE *** [9c Td Qs 4h] [8d]
+*** ABATTAGE ***
+psychoman59 : montre [Kc Ac] (Hauteur As)
+Paellamix : montre [Qc Ts] (double paire, Dames et Dix)
+Paellamix a remporté 10590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 10590 | Commission 0 
+Tableau [9c Td Qs 4h 8d]
+Siège 2 : Paellamix (bouton) (petite blind) a montré [Qc Ts] et a gagné (10590) avec double paire, Dames et Dix
+Siège 3 : psychoman59 (grosse blind) a montré [Kc Ac] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237722719476 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 01/08/2022 17:03:23 CET [01/08/2022 11:03:23 ET]
+Table '3449868582 1' 4-max Siège #3 est au bouton.
+Place 2: Paellamix (10590 en jetons) 
+Place 3: psychoman59 (9410 en jetons) 
+Paellamix : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+Paellamix : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 9h]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à Paellamix.
+Paellamix a remporté 380  lors du pot .
+Paellamix : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 2 : Paellamix (grosse blind) a remporté (380)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237722721324 : Tournoi #3449868582, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau VI (150/300) - 01/08/2022 17:03:30 CET [01/08/2022 11:03:30 ET]
+Table '3449868582 1' 4-max Siège #2 est au bouton.
+Place 2: Paellamix (10780 en jetons) 
+Place 3: psychoman59 (9220 en jetons) 
+Paellamix : met l'ante. 40
+psychoman59 : met l'ante. 40
+Paellamix : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ad]
+Paellamix : relance. 10440 à 10740 et est all-in.
+psychoman59 : suit. 8880 et est all-in.
+Personne n'a suivi. (1560) sont retournés à Paellamix.
+*** FLOP *** [3s 6h 4d]
+*** TOURNANT *** [3s 6h 4d] [6c]
+*** RIVIÈRE *** [3s 6h 4d 6c] [7d]
+*** ABATTAGE ***
+psychoman59 : montre [9h Ad] (une paire de Six)
+Paellamix : montre [As 3d] (double paire, Six et Trois)
+Paellamix a remporté 18440  lors du pot .
+psychoman59 a fini le tournoi à la 2e place et a reçu 0.52 €.
+Paellamix gagne le tournoi - félicitations !
+Paellamix gagne les frais d'entrée pour le tournoi #3436563171
+*** SYNTHÈSE ***
+Pot total 18440 | Commission 0 
+Tableau [3s 6h 4d 6c 7d]
+Siège 2 : Paellamix (bouton) (petite blind) a montré [As 3d] et a gagné (18440) avec double paire, Six et Trois
+Siège 3 : psychoman59 (grosse blind) a montré [9h Ad] et a perdu avec une paire de Six
+
+
+

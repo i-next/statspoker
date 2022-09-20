@@ -1,0 +1,310 @@
+﻿Main PokerStars n°237572599834 : Tournoi #3446387140, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 10:45:00 CET [25/07/2022 4:45:00 ET]
+Table '3446387140 1' 3-max Siège #1 est au bouton.
+Place 1: TheMulet (300 en jetons) 
+Place 2: Bench/Cigar (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Bench/Cigar : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 3c]
+TheMulet : passe. 
+Bench/Cigar : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4d 3h 2s]
+Bench/Cigar : mise. 20
+psychoman59 : relance. 260 à 280 et est all-in.
+Bench/Cigar : passe. 
+Personne n'a suivi. (260) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4d 3h 2s]
+Siège 1 : TheMulet (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Bench/Cigar (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237572602297 : Tournoi #3446387140, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 10:45:18 CET [25/07/2022 4:45:18 ET]
+Table '3446387140 1' 3-max Siège #2 est au bouton.
+Place 1: TheMulet (300 en jetons) 
+Place 2: Bench/Cigar (260 en jetons) 
+Place 3: psychoman59 (340 en jetons) 
+psychoman59 : met la petite blind. 10
+TheMulet : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Qd]
+Bench/Cigar : suit. 20
+psychoman59 : relance. 60 à 80
+TheMulet : relance. 220 à 300 et est all-in.
+Bench/Cigar : passe. 
+psychoman59 : suit. 220
+*** FLOP *** [Td 6c Th]
+*** TOURNANT *** [Td 6c Th] [3d]
+*** RIVIÈRE *** [Td 6c Th 3d] [As]
+*** ABATTAGE ***
+psychoman59 : montre [Qc Qd] (double paire, Dames et Dix)
+TheMulet : montre [Kd Jh] (une paire de Dix)
+psychoman59 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Td 6c Th 3d As]
+Siège 1 : TheMulet (grosse blind) a montré [Kd Jh] et a perdu avec une paire de Dix
+Siège 2 : Bench/Cigar (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) a montré [Qc Qd] et a gagné (620) avec double paire, Dames et Dix
+
+
+
+Main PokerStars n°237572606112 : Tournoi #3446387140, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 10:45:46 CET [25/07/2022 4:45:46 ET]
+Table '3446387140 1' 3-max Siège #3 est au bouton.
+Place 2: Bench/Cigar (240 en jetons) 
+Place 3: psychoman59 (660 en jetons) 
+psychoman59 : met la petite blind. 10
+Bench/Cigar : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Ah]
+psychoman59 : relance. 100 à 120
+Bench/Cigar : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : Bench/Cigar (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°237572607478 : Tournoi #3446387140, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 10:45:56 CET [25/07/2022 4:45:56 ET]
+Table '3446387140 1' 3-max Siège #2 est au bouton.
+Place 2: Bench/Cigar (220 en jetons) 
+Place 3: psychoman59 (680 en jetons) 
+Bench/Cigar : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Qs]
+Bench/Cigar : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7h 2c Ac]
+psychoman59 : parole 
+Bench/Cigar : parole 
+*** TOURNANT *** [7h 2c Ac] [3s]
+psychoman59 : parole 
+Bench/Cigar : parole 
+*** RIVIÈRE *** [7h 2c Ac 3s] [3c]
+psychoman59 : parole 
+Bench/Cigar : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Tc Qs] (une paire de Trois)
+Bench/Cigar : cache la main perdante. 
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7h 2c Ac 3s 3c]
+Siège 2 : Bench/Cigar (bouton) (petite blind) a caché la main perdante. [5d Qh]
+Siège 3 : psychoman59 (grosse blind) a montré [Tc Qs] et a gagné (40) avec une paire de Trois
+
+
+
+Main PokerStars n°237572610229 : Tournoi #3446387140, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 10:46:16 CET [25/07/2022 4:46:16 ET]
+Table '3446387140 1' 3-max Siège #3 est au bouton.
+Place 2: Bench/Cigar (200 en jetons) 
+Place 3: psychoman59 (700 en jetons) 
+psychoman59 : met la petite blind. 15
+Bench/Cigar : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 8d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Bench/Cigar.
+Bench/Cigar a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : Bench/Cigar (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237572610897 : Tournoi #3446387140, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 10:46:21 CET [25/07/2022 4:46:21 ET]
+Table '3446387140 1' 3-max Siège #2 est au bouton.
+Place 2: Bench/Cigar (215 en jetons) 
+Place 3: psychoman59 (685 en jetons) 
+Bench/Cigar : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 7s]
+Bench/Cigar : suit. 15
+psychoman59 : parole 
+*** FLOP *** [As Qh 6h]
+psychoman59 : parole 
+Bench/Cigar : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Bench/Cigar.
+Bench/Cigar a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [As Qh 6h]
+Siège 2 : Bench/Cigar (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237572612583 : Tournoi #3446387140, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 10:46:33 CET [25/07/2022 4:46:33 ET]
+Table '3446387140 1' 3-max Siège #3 est au bouton.
+Place 2: Bench/Cigar (245 en jetons) 
+Place 3: psychoman59 (655 en jetons) 
+psychoman59 : met la petite blind. 15
+Bench/Cigar : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 9h]
+psychoman59 : relance. 625 à 655 et est all-in.
+Bench/Cigar : passe. 
+Personne n'a suivi. (625) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : Bench/Cigar (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237572613587 : Tournoi #3446387140, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 10:46:40 CET [25/07/2022 4:46:40 ET]
+Table '3446387140 1' 3-max Siège #2 est au bouton.
+Place 2: Bench/Cigar (215 en jetons) 
+Place 3: psychoman59 (685 en jetons) 
+Bench/Cigar : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ks]
+Bench/Cigar : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Tc Th Td]
+psychoman59 : parole 
+Bench/Cigar : parole 
+*** TOURNANT *** [Tc Th Td] [4d]
+psychoman59 : parole 
+Bench/Cigar : parole 
+*** RIVIÈRE *** [Tc Th Td 4d] [5c]
+psychoman59 : parole 
+Bench/Cigar : mise. 30
+psychoman59 : suit. 30
+*** ABATTAGE ***
+Bench/Cigar : montre [6h 5h] (un full, full aux Dix par les Cinq)
+psychoman59 : cache la main perdante. 
+Bench/Cigar a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Tc Th Td 4d 5c]
+Siège 2 : Bench/Cigar (bouton) (petite blind) a montré [6h 5h] et a gagné (120) avec un full, full aux Dix par les Cinq
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [9d Ks]
+
+
+
+Main PokerStars n°237572616875 : Tournoi #3446387140, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 25/07/2022 10:47:04 CET [25/07/2022 4:47:04 ET]
+Table '3446387140 1' 3-max Siège #3 est au bouton.
+Place 2: Bench/Cigar (275 en jetons) 
+Place 3: psychoman59 (625 en jetons) 
+psychoman59 : met la petite blind. 20
+Bench/Cigar : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Jh]
+psychoman59 : relance. 585 à 625 et est all-in.
+Bench/Cigar : passe. 
+Personne n'a suivi. (585) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : Bench/Cigar (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237572617933 : Tournoi #3446387140, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 25/07/2022 10:47:12 CET [25/07/2022 4:47:12 ET]
+Table '3446387140 1' 3-max Siège #2 est au bouton.
+Place 2: Bench/Cigar (235 en jetons) 
+Place 3: psychoman59 (665 en jetons) 
+Bench/Cigar : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Td]
+Bench/Cigar : suit. 20
+psychoman59 : parole 
+*** FLOP *** [2h Qs Ah]
+psychoman59 : parole 
+Bench/Cigar : parole 
+*** TOURNANT *** [2h Qs Ah] [7c]
+psychoman59 : parole 
+Bench/Cigar : parole 
+*** RIVIÈRE *** [2h Qs Ah 7c] [Js]
+psychoman59 : mise. 80
+Bench/Cigar : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2h Qs Ah 7c Js]
+Siège 2 : Bench/Cigar (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237572621159 : Tournoi #3446387140, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 25/07/2022 10:47:36 CET [25/07/2022 4:47:36 ET]
+Table '3446387140 1' 3-max Siège #3 est au bouton.
+Place 2: Bench/Cigar (195 en jetons) 
+Place 3: psychoman59 (705 en jetons) 
+psychoman59 : met la petite blind. 20
+Bench/Cigar : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Jd]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Bench/Cigar.
+Bench/Cigar a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : Bench/Cigar (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237572621766 : Tournoi #3446387140, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 25/07/2022 10:47:41 CET [25/07/2022 4:47:41 ET]
+Table '3446387140 1' 3-max Siège #2 est au bouton.
+Place 2: Bench/Cigar (215 en jetons) 
+Place 3: psychoman59 (685 en jetons) 
+Bench/Cigar : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 8h]
+Bench/Cigar : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : Bench/Cigar (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237572622383 : Tournoi #3446387140, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 25/07/2022 10:47:45 CET [25/07/2022 4:47:45 ET]
+Table '3446387140 1' 3-max Siège #3 est au bouton.
+Place 2: Bench/Cigar (195 en jetons) 
+Place 3: psychoman59 (705 en jetons) 
+psychoman59 : met la petite blind. 20
+Bench/Cigar : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Th]
+psychoman59 : relance. 665 à 705 et est all-in.
+Bench/Cigar : suit. 155 et est all-in.
+Personne n'a suivi. (510) sont retournés à psychoman59.
+*** FLOP *** [3h 7c 9d]
+*** TOURNANT *** [3h 7c 9d] [Ah]
+*** RIVIÈRE *** [3h 7c 9d Ah] [7d]
+*** ABATTAGE ***
+Bench/Cigar : montre [5d Qh] (une paire de Sept)
+psychoman59 : montre [Ad Th] (double paire, As et Sept)
+psychoman59 a remporté 390  lors du pot .
+*** SYNTHÈSE ***
+Pot total 390 | Commission 0 
+Tableau [3h 7c 9d Ah 7d]
+Siège 2 : Bench/Cigar (grosse blind) a montré [5d Qh] et a perdu avec une paire de Sept
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ad Th] et a gagné (390) avec double paire, As et Sept
+
+
+

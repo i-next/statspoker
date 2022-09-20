@@ -1,0 +1,29 @@
+﻿Main PokerStars n°238600975487 : Tournoi #3470651569, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 17:19:25 CET [13/09/2022 11:19:25 ET]
+Table '3470651569 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: mrdrocha (300 en jetons) 
+Place 3: qe2903 (300 en jetons) 
+mrdrocha : met la petite blind. 10
+qe2903 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 6d]
+psychoman59 : relance. 280 à 300 et est all-in.
+mrdrocha : passe. 
+qe2903 : suit. 280 et est all-in.
+*** FLOP *** [2c 8h 6c]
+*** TOURNANT *** [2c 8h 6c] [Jc]
+*** RIVIÈRE *** [2c 8h 6c Jc] [8s]
+*** ABATTAGE ***
+qe2903 : montre [Jd Js] (un full, full aux Valets par les Huit)
+psychoman59 : montre [6s 6d] (un full, full aux Six par les Huit)
+qe2903 a remporté 610  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [2c 8h 6c Jc 8s]
+Siège 1 : psychoman59 (bouton) a montré [6s 6d] et a perdu avec un full, full aux Six par les Huit
+Siège 2 : mrdrocha (petite blind) s'est couché. avant Flop
+Siège 3 : qe2903 (grosse blind) a montré [Jd Js] et a gagné (610) avec un full, full aux Valets par les Huit
+
+
+

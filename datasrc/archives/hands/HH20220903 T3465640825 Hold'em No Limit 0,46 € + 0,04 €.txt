@@ -1,0 +1,44 @@
+﻿Main PokerStars n°238383623849 : Tournoi #3465640825, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 03/09/2022 9:24:00 CET [03/09/2022 3:24:00 ET]
+Table '3465640825 1' 4-max Siège #1 est au bouton.
+Place 1: cañoness (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: deadfox04 (5000 en jetons) 
+Place 4: phurraco (5000 en jetons) 
+cañoness : met l'ante. 10
+psychoman59 : met l'ante. 10
+deadfox04 : met l'ante. 10
+phurraco : met l'ante. 10
+psychoman59 : met la petite blind. 50
+deadfox04 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 5d]
+deadfox04 est déconnecté 
+deadfox04 est déconnecté 
+phurraco a dépassé le temps imparti.
+phurraco : passe. 
+phurraco ne joue pas.
+cañoness : relance. 290 à 390
+phurraco est revenu.
+psychoman59 : relance. 4600 à 4990 et est all-in.
+deadfox04 : suit. 4890 et est all-in.
+cañoness : suit. 4600 et est all-in.
+*** FLOP *** [9d Qs Ac]
+*** TOURNANT *** [9d Qs Ac] [Ks]
+*** RIVIÈRE *** [9d Qs Ac Ks] [3d]
+*** ABATTAGE ***
+psychoman59 : montre [5c 5d] (une paire de Cinq)
+deadfox04 : montre [As Kc] (double paire, As et Rois)
+cañoness : montre [9h 3h] (double paire, Neuf et Trois)
+deadfox04 a remporté 15010  lors du pot .
+cañoness a fini le tournoi en 3e position.
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 15010 | Commission 0 
+Tableau [9d Qs Ac Ks 3d]
+Siège 1 : cañoness (bouton) a montré [9h 3h] et a perdu avec double paire, Neuf et Trois
+Siège 2 : psychoman59 (petite blind) a montré [5c 5d] et a perdu avec une paire de Cinq
+Siège 3 : deadfox04 (grosse blind) a montré [As Kc] et a gagné (15010) avec double paire, As et Rois
+Siège 4 : phurraco s'est couché. avant Flop (n'a pas misé)
+
+
+

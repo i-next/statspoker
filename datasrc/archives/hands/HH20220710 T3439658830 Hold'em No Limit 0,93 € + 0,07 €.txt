@@ -1,0 +1,249 @@
+﻿Main PokerStars n°237282286205 : Tournoi #3439658830, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2022 22:57:00 CET [10/07/2022 16:57:00 ET]
+Table '3439658830 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Nico01200 (300 en jetons) 
+Place 3: teshoes (300 en jetons) 
+Nico01200 : met la petite blind. 10
+teshoes : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ad]
+psychoman59 : relance. 280 à 300 et est all-in.
+Nico01200 : passe. 
+teshoes : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (50)
+Siège 2 : Nico01200 (petite blind) s'est couché. avant Flop
+Siège 3 : teshoes (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237282289856 : Tournoi #3439658830, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2022 22:57:14 CET [10/07/2022 16:57:14 ET]
+Table '3439658830 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: Nico01200 (290 en jetons) 
+Place 3: teshoes (280 en jetons) 
+teshoes : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 7h]
+Nico01200 : relance. 20 à 40
+teshoes : suit. 30
+psychoman59 : passe. 
+*** FLOP *** [5c 3s Kc]
+teshoes : mise. 20
+Nico01200 : passe. 
+Personne n'a suivi. (20) sont retournés à teshoes.
+teshoes a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [5c 3s Kc]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Nico01200 (bouton) s'est couché. sur le Flop
+Siège 3 : teshoes (petite blind) a remporté (100)
+
+
+
+Main PokerStars n°237282294469 : Tournoi #3439658830, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2022 22:57:30 CET [10/07/2022 16:57:30 ET]
+Table '3439658830 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: Nico01200 (250 en jetons) 
+Place 3: teshoes (340 en jetons) 
+psychoman59 : met la petite blind. 10
+Nico01200 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 8h]
+teshoes : suit. 20
+psychoman59 : relance. 100 à 120
+Nico01200 : relance. 130 à 250 et est all-in.
+teshoes : passe. 
+psychoman59 : suit. 130
+*** FLOP *** [Ah Ts 7h]
+*** TOURNANT *** [Ah Ts 7h] [4c]
+*** RIVIÈRE *** [Ah Ts 7h 4c] [9h]
+*** ABATTAGE ***
+psychoman59 : montre [8s 8h] (une paire de Huit)
+Nico01200 : montre [Th Ad] (double paire, As et Dix)
+Nico01200 a remporté 520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [Ah Ts 7h 4c 9h]
+Siège 1 : psychoman59 (petite blind) a montré [8s 8h] et a perdu avec une paire de Huit
+Siège 2 : Nico01200 (grosse blind) a montré [Th Ad] et a gagné (520) avec double paire, As et Dix
+Siège 3 : teshoes (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237282302760 : Tournoi #3439658830, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2022 22:58:00 CET [10/07/2022 16:58:00 ET]
+Table '3439658830 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (60 en jetons) 
+Place 2: Nico01200 (520 en jetons) 
+Place 3: teshoes (320 en jetons) 
+Nico01200 : met la petite blind. 10
+teshoes : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 8d]
+psychoman59 : relance. 40 à 60 et est all-in.
+Nico01200 : relance. 460 à 520 et est all-in.
+teshoes : passe. 
+Personne n'a suivi. (460) sont retournés à Nico01200.
+*** FLOP *** [6c 7c 5c]
+*** TOURNANT *** [6c 7c 5c] [9s]
+*** RIVIÈRE *** [6c 7c 5c 9s] [5h]
+*** ABATTAGE ***
+Nico01200 : montre [Ac Js] (une paire de Cinq)
+psychoman59 : montre [Qd 8d] (une suite, Cinq à Neuf)
+psychoman59 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [6c 7c 5c 9s 5h]
+Siège 1 : psychoman59 (bouton) a montré [Qd 8d] et a gagné (140) avec une suite, Cinq à Neuf
+Siège 2 : Nico01200 (petite blind) a montré [Ac Js] et a perdu avec une paire de Cinq
+Siège 3 : teshoes (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237282308873 : Tournoi #3439658830, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/07/2022 22:58:21 CET [10/07/2022 16:58:21 ET]
+Table '3439658830 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (140 en jetons) 
+Place 2: Nico01200 (460 en jetons) 
+Place 3: teshoes (300 en jetons) 
+teshoes : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 6h]
+Nico01200 : relance. 430 à 460 et est all-in.
+teshoes : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (430) sont retournés à Nico01200.
+Nico01200 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Nico01200 (bouton) a remporté (75)
+Siège 3 : teshoes (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237282311229 : Tournoi #3439658830, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/07/2022 22:58:30 CET [10/07/2022 16:58:30 ET]
+Table '3439658830 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (110 en jetons) 
+Place 2: Nico01200 (505 en jetons) 
+Place 3: teshoes (285 en jetons) 
+psychoman59 : met la petite blind. 15
+Nico01200 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 3h]
+teshoes : suit. 30
+psychoman59 : passe. 
+Nico01200 : parole 
+*** FLOP *** [Qh 6h Qs]
+Nico01200 : mise. 30
+teshoes : relance. 225 à 255 et est all-in.
+Nico01200 : suit. 225
+*** TOURNANT *** [Qh 6h Qs] [As]
+*** RIVIÈRE *** [Qh 6h Qs As] [9d]
+*** ABATTAGE ***
+Nico01200 : montre [5d 5s] (double paire, Dames et Cinq)
+teshoes : montre [7c Ks] (une paire de Dames)
+Nico01200 a remporté 585  lors du pot .
+*** SYNTHÈSE ***
+Pot total 585 | Commission 0 
+Tableau [Qh 6h Qs As 9d]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Nico01200 (grosse blind) a montré [5d 5s] et a gagné (585) avec double paire, Dames et Cinq
+Siège 3 : teshoes (bouton) a montré [7c Ks] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°237282317906 : Tournoi #3439658830, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/07/2022 22:58:54 CET [10/07/2022 16:58:54 ET]
+Table '3439658830 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (95 en jetons) 
+Place 2: Nico01200 (805 en jetons) 
+Nico01200 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Js]
+Nico01200 : relance. 775 à 805 et est all-in.
+psychoman59 : suit. 65 et est all-in.
+Personne n'a suivi. (710) sont retournés à Nico01200.
+*** FLOP *** [6s Jd 6c]
+*** TOURNANT *** [6s Jd 6c] [9h]
+*** RIVIÈRE *** [6s Jd 6c 9h] [Qs]
+*** ABATTAGE ***
+psychoman59 : montre [2s Js] (double paire, Valets et Six)
+Nico01200 : montre [Kh 8h] (une paire de Six)
+psychoman59 a remporté 190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Tableau [6s Jd 6c 9h Qs]
+Siège 1 : psychoman59 (grosse blind) a montré [2s Js] et a gagné (190) avec double paire, Valets et Six
+Siège 2 : Nico01200 (bouton) (petite blind) a montré [Kh 8h] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°237282322423 : Tournoi #3439658830, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/07/2022 22:59:10 CET [10/07/2022 16:59:10 ET]
+Table '3439658830 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (190 en jetons) 
+Place 2: Nico01200 (710 en jetons) 
+psychoman59 : met la petite blind. 20
+Nico01200 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Th]
+psychoman59 : relance. 150 à 190 et est all-in.
+Nico01200 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : Nico01200 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237282325275 : Tournoi #3439658830, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/07/2022 22:59:20 CET [10/07/2022 16:59:20 ET]
+Table '3439658830 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (230 en jetons) 
+Place 2: Nico01200 (670 en jetons) 
+Nico01200 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 2h]
+Nico01200 : relance. 630 à 670 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (630) sont retournés à Nico01200.
+Nico01200 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Nico01200 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237282327312 : Tournoi #3439658830, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/07/2022 22:59:27 CET [10/07/2022 16:59:27 ET]
+Table '3439658830 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (190 en jetons) 
+Place 2: Nico01200 (710 en jetons) 
+psychoman59 : met la petite blind. 20
+Nico01200 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 7c]
+psychoman59 : relance. 150 à 190 et est all-in.
+Nico01200 : suit. 150
+*** FLOP *** [Ah 9h 3h]
+*** TOURNANT *** [Ah 9h 3h] [9s]
+*** RIVIÈRE *** [Ah 9h 3h 9s] [2c]
+*** ABATTAGE ***
+Nico01200 : montre [4d 9d] (un brelan de Neuf)
+psychoman59 : montre [4c 7c] (une paire de Neuf)
+Nico01200 a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [Ah 9h 3h 9s 2c]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [4c 7c] et a perdu avec une paire de Neuf
+Siège 2 : Nico01200 (grosse blind) a montré [4d 9d] et a gagné (380) avec un brelan de Neuf
+
+
+

@@ -1,0 +1,674 @@
+﻿Main PokerStars n°237799703371 : Tournoi #3451722126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 11:53:59 CET [05/08/2022 5:53:59 ET]
+Table '3451722126 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 2: xeric88 (5000 en jetons) 
+Place 3: Beni11230 (5000 en jetons) 
+Place 4: PAPI14510 (5000 en jetons) 
+psychoman59 : met l'ante. 10
+xeric88 : met l'ante. 10
+Beni11230 : met l'ante. 10
+PAPI14510 : met l'ante. 10
+xeric88 : met la petite blind. 50
+Beni11230 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7d]
+PAPI14510 a dépassé le temps imparti.
+PAPI14510 : passe. 
+PAPI14510 ne joue pas.
+psychoman59 : suit. 100
+xeric88 : suit. 50
+Beni11230 : relance. 340 à 440
+psychoman59 : passe. 
+xeric88 : suit. 340
+*** FLOP *** [8d 9d 5c]
+xeric88 : parole 
+Beni11230 : mise. 1020
+xeric88 : relance. 3530 à 4550 et est all-in.
+Beni11230 : suit. 3530 et est all-in.
+*** TOURNANT *** [8d 9d 5c] [8h]
+*** RIVIÈRE *** [8d 9d 5c 8h] [Js]
+*** ABATTAGE ***
+xeric88 : montre [7s 9h] (double paire, Neuf et Huit)
+Beni11230 : montre [Tc Jc] (double paire, Valets et Huit)
+Beni11230 a remporté 10120  lors du pot .
+xeric88 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10120 | Commission 0 
+Tableau [8d 9d 5c 8h Js]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : xeric88 (petite blind) a montré [7s 9h] et a perdu avec double paire, Neuf et Huit
+Siège 3 : Beni11230 (grosse blind) a montré [Tc Jc] et a gagné (10120) avec double paire, Valets et Huit
+Siège 4 : PAPI14510 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237799717536 : Tournoi #3451722126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 11:55:30 CET [05/08/2022 5:55:30 ET]
+Table '3451722126 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4890 en jetons) 
+Place 3: Beni11230 (10120 en jetons) 
+Place 4: PAPI14510 (4990 en jetons) ne joue pas.
+psychoman59 : met l'ante. 10
+Beni11230 : met l'ante. 10
+PAPI14510 : met l'ante. 10
+PAPI14510 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 8d]
+Beni11230 : relance. 280 à 380
+PAPI14510 : passe. 
+psychoman59 : suit. 280
+*** FLOP *** [6c 4h Th]
+psychoman59 : parole 
+Beni11230 : parole 
+*** TOURNANT *** [6c 4h Th] [9d]
+psychoman59 : parole 
+Beni11230 : mise. 840
+psychoman59 : suit. 840
+*** RIVIÈRE *** [6c 4h Th 9d] [5h]
+PAPI14510 est revenu.
+psychoman59 : parole 
+Beni11230 : mise. 1260
+psychoman59 : passe. 
+Personne n'a suivi. (1260) sont retournés à Beni11230.
+Beni11230 a remporté 2520  lors du pot .
+Beni11230 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2520 | Commission 0 
+Tableau [6c 4h Th 9d 5h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : Beni11230 (bouton) a remporté (2520)
+Siège 4 : PAPI14510 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237799722569 : Tournoi #3451722126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 11:56:06 CET [05/08/2022 5:56:06 ET]
+Table '3451722126 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (3660 en jetons) 
+Place 3: Beni11230 (11410 en jetons) 
+Place 4: PAPI14510 (4930 en jetons) 
+psychoman59 : met l'ante. 10
+Beni11230 : met l'ante. 10
+PAPI14510 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+Beni11230 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 8h]
+PAPI14510 : suit. 100
+psychoman59 : suit. 50
+Beni11230 : relance. 330 à 430
+PAPI14510 : suit. 330
+psychoman59 : suit. 330
+*** FLOP *** [7c Kc 5h]
+psychoman59 : parole 
+Beni11230 : parole 
+PAPI14510 : parole 
+*** TOURNANT *** [7c Kc 5h] [Kh]
+psychoman59 : parole 
+Beni11230 : mise. 660
+PAPI14510 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (660) sont retournés à Beni11230.
+Beni11230 a remporté 1320  lors du pot .
+Beni11230 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1320 | Commission 0 
+Tableau [7c Kc 5h Kh]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 3 : Beni11230 (grosse blind) a remporté (1320)
+Siège 4 : PAPI14510 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237799730183 : Tournoi #3451722126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 11:57:00 CET [05/08/2022 5:57:00 ET]
+Table '3451722126 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (3220 en jetons) 
+Place 3: Beni11230 (12290 en jetons) 
+Place 4: PAPI14510 (4490 en jetons) 
+psychoman59 : met l'ante. 10
+Beni11230 : met l'ante. 10
+PAPI14510 : met l'ante. 10
+Beni11230 : met la petite blind. 50
+PAPI14510 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Kc]
+psychoman59 : suit. 100
+Beni11230 : passe. 
+PAPI14510 a dépassé le temps imparti.
+PAPI14510 : parole 
+*** FLOP *** [2h 8h 2d]
+PAPI14510 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2h 8h 2d] [5c]
+PAPI14510 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [2h 8h 2d 5c] [5h]
+PAPI14510 : mise. 4380 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (4380) sont retournés à PAPI14510.
+PAPI14510 a remporté 280  lors du pot .
+PAPI14510 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [2h 8h 2d 5c 5h]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Rivière
+Siège 3 : Beni11230 (petite blind) s'est couché. avant Flop
+Siège 4 : PAPI14510 (grosse blind) a remporté (280)
+
+
+
+Main PokerStars n°237799742009 : Tournoi #3451722126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 11:58:26 CET [05/08/2022 5:58:26 ET]
+Table '3451722126 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (3110 en jetons) 
+Place 3: Beni11230 (12230 en jetons) 
+Place 4: PAPI14510 (4660 en jetons) 
+psychoman59 : met l'ante. 15
+Beni11230 : met l'ante. 15
+PAPI14510 : met l'ante. 15
+PAPI14510 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 6h]
+Beni11230 : suit. 120
+PAPI14510 : suit. 60
+psychoman59 : relance. 2975 à 3095 et est all-in.
+Beni11230 : passe. 
+PAPI14510 : passe. 
+Personne n'a suivi. (2975) sont retournés à psychoman59.
+psychoman59 a remporté 405  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 405 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (405)
+Siège 3 : Beni11230 (bouton) s'est couché. avant Flop
+Siège 4 : PAPI14510 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237799745675 : Tournoi #3451722126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 11:58:52 CET [05/08/2022 5:58:52 ET]
+Table '3451722126 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (3380 en jetons) 
+Place 3: Beni11230 (12095 en jetons) 
+Place 4: PAPI14510 (4525 en jetons) 
+psychoman59 : met l'ante. 15
+Beni11230 : met l'ante. 15
+PAPI14510 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+Beni11230 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 2c]
+PAPI14510 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Beni11230.
+Beni11230 a remporté 165  lors du pot .
+Beni11230 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Beni11230 (grosse blind) a remporté (165)
+Siège 4 : PAPI14510 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237799747955 : Tournoi #3451722126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 11:59:09 CET [05/08/2022 5:59:09 ET]
+Table '3451722126 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (3305 en jetons) 
+Place 3: Beni11230 (12185 en jetons) 
+Place 4: PAPI14510 (4510 en jetons) 
+psychoman59 : met l'ante. 15
+Beni11230 : met l'ante. 15
+PAPI14510 : met l'ante. 15
+Beni11230 : met la petite blind. 60
+PAPI14510 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ts]
+psychoman59 : passe. 
+Beni11230 : passe. 
+Personne n'a suivi. (60) sont retournés à PAPI14510.
+PAPI14510 a remporté 165  lors du pot .
+PAPI14510 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Beni11230 (petite blind) s'est couché. avant Flop
+Siège 4 : PAPI14510 (grosse blind) a remporté (165)
+
+
+
+Main PokerStars n°237799749622 : Tournoi #3451722126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 11:59:21 CET [05/08/2022 5:59:21 ET]
+Table '3451722126 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (3290 en jetons) 
+Place 3: Beni11230 (12110 en jetons) 
+Place 4: PAPI14510 (4600 en jetons) 
+psychoman59 : met l'ante. 15
+Beni11230 : met l'ante. 15
+PAPI14510 : met l'ante. 15
+PAPI14510 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 8d]
+Beni11230 : passe. 
+PAPI14510 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [5s 9c 4s]
+PAPI14510 : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à PAPI14510.
+PAPI14510 a remporté 285  lors du pot .
+PAPI14510 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Tableau [5s 9c 4s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : Beni11230 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : PAPI14510 (petite blind) a remporté (285)
+
+
+
+Main PokerStars n°237799752247 : Tournoi #3451722126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 11:59:40 CET [05/08/2022 5:59:40 ET]
+Table '3451722126 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (3155 en jetons) 
+Place 3: Beni11230 (12095 en jetons) 
+Place 4: PAPI14510 (4750 en jetons) 
+psychoman59 : met l'ante. 15
+Beni11230 : met l'ante. 15
+PAPI14510 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+Beni11230 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 5h]
+PAPI14510 : suit. 120
+psychoman59 : passe. 
+Beni11230 : parole 
+*** FLOP *** [Js Th 2c]
+Beni11230 : parole 
+PAPI14510 : mise. 120
+Beni11230 : passe. 
+Personne n'a suivi. (120) sont retournés à PAPI14510.
+PAPI14510 a remporté 345  lors du pot .
+PAPI14510 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 345 | Commission 0 
+Tableau [Js Th 2c]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Beni11230 (grosse blind) s'est couché. sur le Flop
+Siège 4 : PAPI14510 (bouton) a remporté (345)
+
+
+
+Main PokerStars n°237799757391 : Tournoi #3451722126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 12:00:17 CET [05/08/2022 6:00:17 ET]
+Table '3451722126 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (3080 en jetons) 
+Place 3: Beni11230 (11960 en jetons) 
+Place 4: PAPI14510 (4960 en jetons) 
+psychoman59 : met l'ante. 20
+Beni11230 : met l'ante. 20
+PAPI14510 : met l'ante. 20
+Beni11230 : met la petite blind. 75
+PAPI14510 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 9c]
+psychoman59 : suit. 150
+Beni11230 : relance. 150 à 300
+PAPI14510 : passe. 
+psychoman59 : suit. 150
+*** FLOP *** [5h Ks 9d]
+Beni11230 : mise. 405
+psychoman59 : suit. 405
+*** TOURNANT *** [5h Ks 9d] [2c]
+Beni11230 : parole 
+psychoman59 : mise. 810
+Beni11230 : passe. 
+Personne n'a suivi. (810) sont retournés à psychoman59.
+psychoman59 a remporté 1620  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1620 | Commission 0 
+Tableau [5h Ks 9d 2c]
+Siège 1 : psychoman59 (bouton) a remporté (1620)
+Siège 3 : Beni11230 (petite blind) s'est couché. sur le Tournant
+Siège 4 : PAPI14510 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237799764223 : Tournoi #3451722126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 12:01:03 CET [05/08/2022 6:01:03 ET]
+Table '3451722126 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (3975 en jetons) 
+Place 3: Beni11230 (11235 en jetons) 
+Place 4: PAPI14510 (4790 en jetons) 
+psychoman59 : met l'ante. 20
+Beni11230 : met l'ante. 20
+PAPI14510 : met l'ante. 20
+PAPI14510 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 5s]
+Beni11230 : suit. 150
+PAPI14510 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [Qc Qd 9h]
+PAPI14510 : parole 
+psychoman59 : parole 
+Beni11230 : mise. 510
+PAPI14510 : relance. 4110 à 4620 et est all-in.
+psychoman59 : passe. 
+Beni11230 : suit. 4110
+*** TOURNANT *** [Qc Qd 9h] [5h]
+*** RIVIÈRE *** [Qc Qd 9h 5h] [7d]
+*** ABATTAGE ***
+PAPI14510 : montre [Qs 3s] (un brelan de Dames)
+Beni11230 : montre [Js 9d] (double paire, Dames et Neuf)
+PAPI14510 a remporté 9750  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9750 | Commission 0 
+Tableau [Qc Qd 9h 5h 7d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : Beni11230 (bouton) a montré [Js 9d] et a perdu avec double paire, Dames et Neuf
+Siège 4 : PAPI14510 (petite blind) a montré [Qs 3s] et a gagné (9750) avec un brelan de Dames
+
+
+
+Main PokerStars n°237799770201 : Tournoi #3451722126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 12:01:41 CET [05/08/2022 6:01:41 ET]
+Table '3451722126 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (3805 en jetons) 
+Place 3: Beni11230 (6445 en jetons) 
+Place 4: PAPI14510 (9750 en jetons) 
+psychoman59 : met l'ante. 20
+Beni11230 : met l'ante. 20
+PAPI14510 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Beni11230 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 9h]
+PAPI14510 : suit. 150
+psychoman59 : suit. 75
+Beni11230 : parole 
+*** FLOP *** [4c 8s Jc]
+psychoman59 : parole 
+Beni11230 : parole 
+PAPI14510 : parole 
+*** TOURNANT *** [4c 8s Jc] [Ac]
+psychoman59 : parole 
+Beni11230 : mise. 510
+PAPI14510 : suit. 510
+psychoman59 : passe. 
+*** RIVIÈRE *** [4c 8s Jc Ac] [5c]
+Beni11230 : mise. 5765 et est all-in.
+PAPI14510 : passe. 
+Personne n'a suivi. (5765) sont retournés à Beni11230.
+Beni11230 a remporté 1530  lors du pot .
+Beni11230 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1530 | Commission 0 
+Tableau [4c 8s Jc Ac 5c]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 3 : Beni11230 (grosse blind) a remporté (1530)
+Siège 4 : PAPI14510 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237799778674 : Tournoi #3451722126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 12:02:36 CET [05/08/2022 6:02:36 ET]
+Table '3451722126 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (3635 en jetons) 
+Place 3: Beni11230 (7295 en jetons) 
+Place 4: PAPI14510 (9070 en jetons) 
+psychoman59 : met l'ante. 20
+Beni11230 : met l'ante. 20
+PAPI14510 : met l'ante. 20
+Beni11230 : met la petite blind. 75
+PAPI14510 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 9h]
+psychoman59 : passe. 
+Beni11230 : suit. 75
+PAPI14510 : relance. 150 à 300
+Beni11230 : suit. 150
+*** FLOP *** [Ts 8c Ks]
+Beni11230 : mise. 660
+PAPI14510 : relance. 8090 à 8750 et est all-in.
+Beni11230 : passe. 
+Personne n'a suivi. (8090) sont retournés à PAPI14510.
+PAPI14510 a remporté 1980  lors du pot .
+PAPI14510 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1980 | Commission 0 
+Tableau [Ts 8c Ks]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Beni11230 (petite blind) s'est couché. sur le Flop
+Siège 4 : PAPI14510 (grosse blind) a remporté (1980)
+
+
+
+Main PokerStars n°237799785529 : Tournoi #3451722126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 05/08/2022 12:03:20 CET [05/08/2022 6:03:20 ET]
+Table '3451722126 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (3615 en jetons) 
+Place 3: Beni11230 (6315 en jetons) 
+Place 4: PAPI14510 (10070 en jetons) 
+psychoman59 : met l'ante. 25
+Beni11230 : met l'ante. 25
+PAPI14510 : met l'ante. 25
+PAPI14510 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Kd]
+Beni11230 : relance. 6090 à 6290 et est all-in.
+PAPI14510 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (6090) sont retournés à Beni11230.
+Beni11230 a remporté 575  lors du pot .
+Beni11230 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 575 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Beni11230 (bouton) a remporté (575)
+Siège 4 : PAPI14510 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237799788455 : Tournoi #3451722126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 05/08/2022 12:03:39 CET [05/08/2022 6:03:39 ET]
+Table '3451722126 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (3390 en jetons) 
+Place 3: Beni11230 (6665 en jetons) 
+Place 4: PAPI14510 (9945 en jetons) 
+psychoman59 : met l'ante. 25
+Beni11230 : met l'ante. 25
+PAPI14510 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+Beni11230 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Qh]
+PAPI14510 : suit. 200
+psychoman59 : suit. 100
+Beni11230 : relance. 675 à 875
+PAPI14510 : suit. 675
+psychoman59 : suit. 675
+*** FLOP *** [2c Qc Js]
+psychoman59 : parole 
+Beni11230 : parole 
+PAPI14510 : mise. 1350
+psychoman59 : relance. 1140 à 2490 et est all-in.
+Beni11230 : passe. 
+PAPI14510 : suit. 1140
+*** TOURNANT *** [2c Qc Js] [Qs]
+*** RIVIÈRE *** [2c Qc Js Qs] [3c]
+*** ABATTAGE ***
+psychoman59 : montre [Jc Qh] (un full, full aux Dames par les Valets)
+PAPI14510 : montre [Kc Ts] (une paire de Dames)
+psychoman59 a remporté 7680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 7680 | Commission 0 
+Tableau [2c Qc Js Qs 3c]
+Siège 1 : psychoman59 (petite blind) a montré [Jc Qh] et a gagné (7680) avec un full, full aux Dames par les Valets
+Siège 3 : Beni11230 (grosse blind) s'est couché. sur le Flop
+Siège 4 : PAPI14510 (bouton) a montré [Kc Ts] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°237799798261 : Tournoi #3451722126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 05/08/2022 12:04:41 CET [05/08/2022 6:04:41 ET]
+Table '3451722126 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (7680 en jetons) 
+Place 3: Beni11230 (5765 en jetons) 
+Place 4: PAPI14510 (6555 en jetons) 
+psychoman59 : met l'ante. 25
+Beni11230 : met l'ante. 25
+PAPI14510 : met l'ante. 25
+Beni11230 : met la petite blind. 100
+PAPI14510 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 6d]
+psychoman59 : suit. 200
+Beni11230 : suit. 100
+PAPI14510 : parole 
+*** FLOP *** [3s 8h Qd]
+Beni11230 : parole 
+PAPI14510 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3s 8h Qd] [5h]
+Beni11230 : mise. 675
+PAPI14510 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (675) sont retournés à Beni11230.
+Beni11230 a remporté 675  lors du pot .
+Beni11230 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 675 | Commission 0 
+Tableau [3s 8h Qd 5h]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Tournant
+Siège 3 : Beni11230 (petite blind) a remporté (675)
+Siège 4 : PAPI14510 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237799804328 : Tournoi #3451722126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 05/08/2022 12:05:19 CET [05/08/2022 6:05:19 ET]
+Table '3451722126 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (7455 en jetons) 
+Place 3: Beni11230 (6215 en jetons) 
+Place 4: PAPI14510 (6330 en jetons) 
+psychoman59 : met l'ante. 25
+Beni11230 : met l'ante. 25
+PAPI14510 : met l'ante. 25
+PAPI14510 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Js]
+Beni11230 : suit. 200
+PAPI14510 : suit. 100
+psychoman59 : parole 
+*** FLOP *** [Ts 6h Kc]
+PAPI14510 : parole 
+psychoman59 : parole 
+Beni11230 : parole 
+*** TOURNANT *** [Ts 6h Kc] [Qh]
+PAPI14510 : parole 
+psychoman59 : parole 
+Beni11230 : parole 
+*** RIVIÈRE *** [Ts 6h Kc Qh] [4c]
+PAPI14510 : parole 
+psychoman59 : parole 
+Beni11230 : mise. 200
+PAPI14510 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à Beni11230.
+Beni11230 a remporté 675  lors du pot .
+Beni11230 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 675 | Commission 0 
+Tableau [Ts 6h Kc Qh 4c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : Beni11230 (bouton) a remporté (675)
+Siège 4 : PAPI14510 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237799817880 : Tournoi #3451722126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 05/08/2022 12:06:46 CET [05/08/2022 6:06:46 ET]
+Table '3451722126 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (7230 en jetons) 
+Place 3: Beni11230 (6665 en jetons) 
+Place 4: PAPI14510 (6105 en jetons) 
+psychoman59 : met l'ante. 30
+Beni11230 : met l'ante. 30
+PAPI14510 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+Beni11230 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Jc]
+PAPI14510 : suit. 250
+psychoman59 : relance. 6950 à 7200 et est all-in.
+Beni11230 : suit. 6385 et est all-in.
+PAPI14510 : suit. 5825 et est all-in.
+Personne n'a suivi. (565) sont retournés à psychoman59.
+*** FLOP *** [3h Ac 6c]
+*** TOURNANT *** [3h Ac 6c] [6h]
+*** RIVIÈRE *** [3h Ac 6c 6h] [Qh]
+*** ABATTAGE ***
+psychoman59 : montre [Jd Jc] (double paire, Valets et Six)
+Beni11230 : montre [Tc 8s] (une paire de Six)
+psychoman59 a remporté 1120  parallèle lors du pot .
+PAPI14510 : montre [Ad 8d] (double paire, As et Six)
+PAPI14510 a remporté 18315  principal lors du pot .
+Beni11230 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 19435 Principal pot 18315. Parallèle pot 1120. | Commission 0 
+Tableau [3h Ac 6c 6h Qh]
+Siège 1 : psychoman59 (petite blind) a montré [Jd Jc] et a gagné (1120) avec double paire, Valets et Six
+Siège 3 : Beni11230 (grosse blind) a montré [Tc 8s] et a perdu avec une paire de Six
+Siège 4 : PAPI14510 (bouton) a montré [Ad 8d] et a gagné (18315) avec double paire, As et Six
+
+
+
+Main PokerStars n°237799823352 : Tournoi #3451722126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 05/08/2022 12:07:22 CET [05/08/2022 6:07:22 ET]
+Table '3451722126 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (1685 en jetons) 
+Place 4: PAPI14510 (18315 en jetons) 
+psychoman59 : met l'ante. 30
+PAPI14510 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+PAPI14510 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à PAPI14510.
+PAPI14510 a remporté 310  lors du pot .
+PAPI14510 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : PAPI14510 (grosse blind) a remporté (310)
+
+
+
+Main PokerStars n°237799824592 : Tournoi #3451722126, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 05/08/2022 12:07:29 CET [05/08/2022 6:07:29 ET]
+Table '3451722126 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (1530 en jetons) 
+Place 4: PAPI14510 (18470 en jetons) 
+psychoman59 : met l'ante. 30
+PAPI14510 : met l'ante. 30
+PAPI14510 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 2d]
+PAPI14510 : suit. 125
+psychoman59 : parole 
+*** FLOP *** [6d Qs Ac]
+psychoman59 : parole 
+PAPI14510 : parole 
+*** TOURNANT *** [6d Qs Ac] [4c]
+psychoman59 : mise. 750
+PAPI14510 : relance. 750 à 1500
+psychoman59 : suit. 500 et est all-in.
+Personne n'a suivi. (250) sont retournés à PAPI14510.
+*** RIVIÈRE *** [6d Qs Ac 4c] [5d]
+*** ABATTAGE ***
+psychoman59 : montre [4s 2d] (une paire de Quatre)
+PAPI14510 : montre [8c Qc] (une paire de Dames)
+PAPI14510 a remporté 3060  lors du pot .
+psychoman59 a fini le tournoi à la 2e place et a reçu 0.34 €.
+PAPI14510 gagne le tournoi - félicitations !
+PAPI14510 gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 3060 | Commission 0 
+Tableau [6d Qs Ac 4c 5d]
+Siège 1 : psychoman59 (grosse blind) a montré [4s 2d] et a perdu avec une paire de Quatre
+Siège 4 : PAPI14510 (bouton) (petite blind) a montré [8c Qc] et a gagné (3060) avec une paire de Dames
+
+
+

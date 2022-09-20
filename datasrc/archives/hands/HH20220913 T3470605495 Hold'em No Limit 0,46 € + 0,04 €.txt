@@ -1,0 +1,1699 @@
+﻿Main PokerStars n°238599253378 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 13/09/2022 15:24:09 CET [13/09/2022 9:24:09 ET]
+Table '3470605495 1' 4-max Siège #1 est au bouton.
+Place 1: A.h.432 (5000 en jetons) 
+Place 2: Flo 1779 (5000 en jetons) 
+Place 3: beewoulfiing (5000 en jetons) 
+Place 4: psychoman59 (5000 en jetons) 
+A.h.432 : met l'ante. 10
+Flo 1779 : met l'ante. 10
+beewoulfiing : met l'ante. 10
+psychoman59 : met l'ante. 10
+Flo 1779 : met la petite blind. 50
+beewoulfiing : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Ac]
+psychoman59 : suit. 100
+A.h.432 : suit. 100
+Flo 1779 : relance. 100 à 200
+beewoulfiing : passe. 
+psychoman59 : suit. 100
+A.h.432 : suit. 100
+*** FLOP *** [4c Kd 9d]
+Flo 1779 : mise. 4790 et est all-in.
+psychoman59 : passe. 
+A.h.432 : suit. 4790 et est all-in.
+*** TOURNANT *** [4c Kd 9d] [2s]
+*** RIVIÈRE *** [4c Kd 9d 2s] [6h]
+*** ABATTAGE ***
+Flo 1779 : montre [6s Qd] (une paire de Six)
+A.h.432 : montre [Kh Jc] (une paire de Rois)
+A.h.432 a remporté 10320  lors du pot .
+Flo 1779 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10320 | Commission 0 
+Tableau [4c Kd 9d 2s 6h]
+Siège 1 : A.h.432 (bouton) a montré [Kh Jc] et a gagné (10320) avec une paire de Rois
+Siège 2 : Flo 1779 (petite blind) a montré [6s Qd] et a perdu avec une paire de Six
+Siège 3 : beewoulfiing (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238599259703 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 13/09/2022 15:24:37 CET [13/09/2022 9:24:37 ET]
+Table '3470605495 1' 4-max Siège #3 est au bouton.
+Place 1: A.h.432 (10320 en jetons) 
+Place 3: beewoulfiing (4890 en jetons) 
+Place 4: psychoman59 (4790 en jetons) 
+A.h.432 : met l'ante. 10
+beewoulfiing : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+A.h.432 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Qd]
+beewoulfiing : relance. 100 à 200
+psychoman59 : passe. 
+A.h.432 : suit. 100
+*** FLOP *** [8s Js 6s]
+A.h.432 : mise. 100
+beewoulfiing : suit. 100
+*** TOURNANT *** [8s Js 6s] [Ts]
+A.h.432 : mise. 100
+beewoulfiing : suit. 100
+*** RIVIÈRE *** [8s Js 6s Ts] [Ks]
+A.h.432 : mise. 100
+beewoulfiing : relance. 500 à 600
+A.h.432 : suit. 500
+*** ABATTAGE ***
+beewoulfiing : montre [Ad 3d] (une couleur, hauteur Roi)
+A.h.432 : montre [8d 6d] (une couleur, hauteur Roi)
+A.h.432 a remporté 1040  lors du pot .
+beewoulfiing a remporté 1040  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2080 | Commission 0 
+Tableau [8s Js 6s Ts Ks]
+Siège 1 : A.h.432 (grosse blind) a montré [8d 6d] et a gagné (1040) avec une couleur, hauteur Roi
+Siège 3 : beewoulfiing (bouton) a montré [Ad 3d] et a gagné (1040) avec une couleur, hauteur Roi
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238599266556 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 13/09/2022 15:25:07 CET [13/09/2022 9:25:07 ET]
+Table '3470605495 1' 4-max Siège #4 est au bouton.
+Place 1: A.h.432 (10350 en jetons) 
+Place 3: beewoulfiing (4920 en jetons) 
+Place 4: psychoman59 (4730 en jetons) 
+A.h.432 : met l'ante. 10
+beewoulfiing : met l'ante. 10
+psychoman59 : met l'ante. 10
+A.h.432 : met la petite blind. 50
+beewoulfiing : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 5h]
+psychoman59 : relance. 280 à 380
+A.h.432 : passe. 
+beewoulfiing : suit. 280
+*** FLOP *** [Qd Tc As]
+beewoulfiing : parole 
+psychoman59 : mise. 840
+beewoulfiing : suit. 840
+*** TOURNANT *** [Qd Tc As] [Ad]
+beewoulfiing : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qd Tc As Ad] [Qs]
+beewoulfiing : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+beewoulfiing : montre [Kh Ks] (double paire, As et Rois)
+psychoman59 : cache la main perdante. 
+beewoulfiing a remporté 2520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2520 | Commission 0 
+Tableau [Qd Tc As Ad Qs]
+Siège 1 : A.h.432 (petite blind) s'est couché. avant Flop
+Siège 3 : beewoulfiing (grosse blind) a montré [Kh Ks] et a gagné (2520) avec double paire, As et Rois
+Siège 4 : psychoman59 (bouton) a caché la main perdante. [5d 5h]
+
+
+
+Main PokerStars n°238599273321 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 13/09/2022 15:25:36 CET [13/09/2022 9:25:36 ET]
+Table '3470605495 1' 4-max Siège #1 est au bouton.
+Place 1: A.h.432 (10290 en jetons) 
+Place 3: beewoulfiing (6210 en jetons) 
+Place 4: psychoman59 (3500 en jetons) 
+A.h.432 : met l'ante. 10
+beewoulfiing : met l'ante. 10
+psychoman59 : met l'ante. 10
+beewoulfiing : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 8s]
+A.h.432 : suit. 100
+beewoulfiing : suit. 50
+psychoman59 : parole 
+*** FLOP *** [6s Jc As]
+beewoulfiing : parole 
+psychoman59 : parole 
+A.h.432 : parole 
+*** TOURNANT *** [6s Jc As] [4h]
+beewoulfiing : mise. 300
+psychoman59 : suit. 300
+A.h.432 : passe. 
+*** RIVIÈRE *** [6s Jc As 4h] [9s]
+beewoulfiing : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+beewoulfiing : montre [6c Qd] (une paire de Six)
+psychoman59 : montre [Ad 8s] (une paire de As)
+psychoman59 a remporté 930  lors du pot .
+*** SYNTHÈSE ***
+Pot total 930 | Commission 0 
+Tableau [6s Jc As 4h 9s]
+Siège 1 : A.h.432 (bouton) s'est couché. sur le Tournant
+Siège 3 : beewoulfiing (petite blind) a montré [6c Qd] et a perdu avec une paire de Six
+Siège 4 : psychoman59 (grosse blind) a montré [Ad 8s] et a gagné (930) avec une paire de As
+
+
+
+Main PokerStars n°238599280639 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 13/09/2022 15:26:08 CET [13/09/2022 9:26:08 ET]
+Table '3470605495 1' 4-max Siège #3 est au bouton.
+Place 1: A.h.432 (10180 en jetons) 
+Place 3: beewoulfiing (5800 en jetons) 
+Place 4: psychoman59 (4020 en jetons) 
+A.h.432 : met l'ante. 10
+beewoulfiing : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+A.h.432 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 5s]
+beewoulfiing : passe. 
+psychoman59 : suit. 50
+A.h.432 : parole 
+*** FLOP *** [4s 9c 3d]
+psychoman59 : parole 
+A.h.432 : parole 
+*** TOURNANT *** [4s 9c 3d] [Jh]
+psychoman59 : mise. 100
+A.h.432 : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 230  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 230 | Commission 0 
+Tableau [4s 9c 3d Jh]
+Siège 1 : A.h.432 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : beewoulfiing (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) a remporté (230)
+
+
+
+Main PokerStars n°238599291875 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 13/09/2022 15:26:58 CET [13/09/2022 9:26:58 ET]
+Table '3470605495 1' 4-max Siège #4 est au bouton.
+Place 1: A.h.432 (10070 en jetons) 
+Place 3: beewoulfiing (5790 en jetons) 
+Place 4: psychoman59 (4140 en jetons) 
+A.h.432 : met l'ante. 10
+beewoulfiing : met l'ante. 10
+psychoman59 : met l'ante. 10
+A.h.432 : met la petite blind. 50
+beewoulfiing : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Qh]
+psychoman59 : passe. 
+A.h.432 : passe. 
+Personne n'a suivi. (50) sont retournés à beewoulfiing.
+beewoulfiing a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Siège 1 : A.h.432 (petite blind) s'est couché. avant Flop
+Siège 3 : beewoulfiing (grosse blind) a remporté (130)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238599294781 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 13/09/2022 15:27:10 CET [13/09/2022 9:27:10 ET]
+Table '3470605495 1' 4-max Siège #1 est au bouton.
+Place 1: A.h.432 (10010 en jetons) 
+Place 3: beewoulfiing (5860 en jetons) 
+Place 4: psychoman59 (4130 en jetons) 
+A.h.432 : met l'ante. 10
+beewoulfiing : met l'ante. 10
+psychoman59 : met l'ante. 10
+beewoulfiing : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 4d]
+A.h.432 : suit. 100
+beewoulfiing : relance. 330 à 430
+psychoman59 : passe. 
+A.h.432 : suit. 330
+*** FLOP *** [6h Kc 8d]
+beewoulfiing : mise. 495
+A.h.432 : passe. 
+Personne n'a suivi. (495) sont retournés à beewoulfiing.
+beewoulfiing a remporté 990  lors du pot .
+*** SYNTHÈSE ***
+Pot total 990 | Commission 0 
+Tableau [6h Kc 8d]
+Siège 1 : A.h.432 (bouton) s'est couché. sur le Flop
+Siège 3 : beewoulfiing (petite blind) a remporté (990)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238599301401 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 13/09/2022 15:27:39 CET [13/09/2022 9:27:39 ET]
+Table '3470605495 1' 4-max Siège #3 est au bouton.
+Place 1: A.h.432 (9570 en jetons) 
+Place 3: beewoulfiing (6410 en jetons) 
+Place 4: psychoman59 (4020 en jetons) 
+A.h.432 : met l'ante. 15
+beewoulfiing : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+A.h.432 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 4s]
+beewoulfiing : suit. 120
+psychoman59 : passe. 
+A.h.432 : parole 
+*** FLOP *** [Qs Ac 7c]
+A.h.432 : parole 
+beewoulfiing : mise. 240
+A.h.432 : suit. 240
+*** TOURNANT *** [Qs Ac 7c] [3s]
+A.h.432 : parole 
+beewoulfiing : parole 
+*** RIVIÈRE *** [Qs Ac 7c 3s] [3c]
+A.h.432 : mise. 600
+beewoulfiing : passe. 
+Personne n'a suivi. (600) sont retournés à A.h.432.
+A.h.432 a remporté 825  lors du pot .
+*** SYNTHÈSE ***
+Pot total 825 | Commission 0 
+Tableau [Qs Ac 7c 3s 3c]
+Siège 1 : A.h.432 (grosse blind) a remporté (825)
+Siège 3 : beewoulfiing (bouton) s'est couché. sur le Rivière
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238599308486 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 13/09/2022 15:28:09 CET [13/09/2022 9:28:09 ET]
+Table '3470605495 1' 4-max Siège #4 est au bouton.
+Place 1: A.h.432 (10020 en jetons) 
+Place 3: beewoulfiing (6035 en jetons) 
+Place 4: psychoman59 (3945 en jetons) 
+A.h.432 : met l'ante. 15
+beewoulfiing : met l'ante. 15
+psychoman59 : met l'ante. 15
+A.h.432 : met la petite blind. 60
+beewoulfiing : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 6c]
+psychoman59 : passe. 
+A.h.432 : passe. 
+Personne n'a suivi. (60) sont retournés à beewoulfiing.
+beewoulfiing a remporté 165  lors du pot .
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : A.h.432 (petite blind) s'est couché. avant Flop
+Siège 3 : beewoulfiing (grosse blind) a remporté (165)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238599311640 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 13/09/2022 15:28:23 CET [13/09/2022 9:28:23 ET]
+Table '3470605495 1' 4-max Siège #1 est au bouton.
+Place 1: A.h.432 (9945 en jetons) 
+Place 3: beewoulfiing (6125 en jetons) 
+Place 4: psychoman59 (3930 en jetons) 
+A.h.432 : met l'ante. 15
+beewoulfiing : met l'ante. 15
+psychoman59 : met l'ante. 15
+beewoulfiing : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ah]
+A.h.432 : passe. 
+beewoulfiing : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 165  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : A.h.432 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : beewoulfiing (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (165)
+
+
+
+Main PokerStars n°238599313702 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 13/09/2022 15:28:31 CET [13/09/2022 9:28:31 ET]
+Table '3470605495 1' 4-max Siège #3 est au bouton.
+Place 1: A.h.432 (9930 en jetons) 
+Place 3: beewoulfiing (6050 en jetons) 
+Place 4: psychoman59 (4020 en jetons) 
+A.h.432 : met l'ante. 15
+beewoulfiing : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+A.h.432 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 5c]
+beewoulfiing : suit. 120
+psychoman59 : passe. 
+A.h.432 : parole 
+*** FLOP *** [7h 2s 6d]
+A.h.432 : parole 
+beewoulfiing : mise. 345
+A.h.432 : passe. 
+Personne n'a suivi. (345) sont retournés à beewoulfiing.
+beewoulfiing a remporté 345  lors du pot .
+*** SYNTHÈSE ***
+Pot total 345 | Commission 0 
+Tableau [7h 2s 6d]
+Siège 1 : A.h.432 (grosse blind) s'est couché. sur le Flop
+Siège 3 : beewoulfiing (bouton) a remporté (345)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238599319168 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 13/09/2022 15:28:56 CET [13/09/2022 9:28:56 ET]
+Table '3470605495 1' 4-max Siège #4 est au bouton.
+Place 1: A.h.432 (9795 en jetons) 
+Place 3: beewoulfiing (6260 en jetons) 
+Place 4: psychoman59 (3945 en jetons) 
+A.h.432 : met l'ante. 15
+beewoulfiing : met l'ante. 15
+psychoman59 : met l'ante. 15
+A.h.432 : met la petite blind. 60
+beewoulfiing : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Kc]
+psychoman59 : passe. 
+A.h.432 : suit. 60
+beewoulfiing : relance. 240 à 360
+A.h.432 : suit. 240
+*** FLOP *** [Ah 3c 3s]
+A.h.432 : parole 
+beewoulfiing : parole 
+*** TOURNANT *** [Ah 3c 3s] [Qc]
+A.h.432 : parole 
+beewoulfiing : mise. 480
+A.h.432 : passe. 
+Personne n'a suivi. (480) sont retournés à beewoulfiing.
+beewoulfiing a remporté 765  lors du pot .
+beewoulfiing : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 765 | Commission 0 
+Tableau [Ah 3c 3s Qc]
+Siège 1 : A.h.432 (petite blind) s'est couché. sur le Tournant
+Siège 3 : beewoulfiing (grosse blind) a remporté (765)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238599326297 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 13/09/2022 15:29:27 CET [13/09/2022 9:29:27 ET]
+Table '3470605495 1' 4-max Siège #1 est au bouton.
+Place 1: A.h.432 (9420 en jetons) 
+Place 3: beewoulfiing (6650 en jetons) 
+Place 4: psychoman59 (3930 en jetons) 
+A.h.432 : met l'ante. 15
+beewoulfiing : met l'ante. 15
+psychoman59 : met l'ante. 15
+beewoulfiing : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 4h]
+A.h.432 : passe. 
+beewoulfiing : relance. 120 à 240
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à beewoulfiing.
+beewoulfiing a remporté 285  lors du pot .
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Siège 1 : A.h.432 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : beewoulfiing (petite blind) a remporté (285)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238599329392 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 13/09/2022 15:29:40 CET [13/09/2022 9:29:40 ET]
+Table '3470605495 1' 4-max Siège #3 est au bouton.
+Place 1: A.h.432 (9405 en jetons) 
+Place 3: beewoulfiing (6800 en jetons) 
+Place 4: psychoman59 (3795 en jetons) 
+A.h.432 : met l'ante. 15
+beewoulfiing : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+A.h.432 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 9h]
+beewoulfiing : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à A.h.432.
+A.h.432 a remporté 165  lors du pot .
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : A.h.432 (grosse blind) a remporté (165)
+Siège 3 : beewoulfiing (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238599331717 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 13/09/2022 15:29:50 CET [13/09/2022 9:29:50 ET]
+Table '3470605495 1' 4-max Siège #4 est au bouton.
+Place 1: A.h.432 (9495 en jetons) 
+Place 3: beewoulfiing (6785 en jetons) 
+Place 4: psychoman59 (3720 en jetons) 
+A.h.432 : met l'ante. 15
+beewoulfiing : met l'ante. 15
+psychoman59 : met l'ante. 15
+A.h.432 : met la petite blind. 60
+beewoulfiing : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Jh]
+psychoman59 : relance. 345 à 465
+A.h.432 : suit. 405
+beewoulfiing : passe. 
+*** FLOP *** [Js Kd 4h]
+A.h.432 : parole 
+psychoman59 : mise. 120
+A.h.432 : suit. 120
+*** TOURNANT *** [Js Kd 4h] [3c]
+A.h.432 : parole 
+psychoman59 : mise. 120
+A.h.432 : suit. 120
+*** RIVIÈRE *** [Js Kd 4h 3c] [3s]
+A.h.432 : parole 
+psychoman59 : mise. 787
+A.h.432 : suit. 787
+*** ABATTAGE ***
+psychoman59 : montre [Kc Jh] (double paire, Rois et Valets)
+A.h.432 : cache la main perdante. 
+psychoman59 a remporté 3149  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3149 | Commission 0 
+Tableau [Js Kd 4h 3c 3s]
+Siège 1 : A.h.432 (petite blind) a caché la main perdante. [Tc Th]
+Siège 3 : beewoulfiing (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) a montré [Kc Jh] et a gagné (3149) avec double paire, Rois et Valets
+
+
+
+Main PokerStars n°238599340492 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 13/09/2022 15:30:28 CET [13/09/2022 9:30:28 ET]
+Table '3470605495 1' 4-max Siège #1 est au bouton.
+Place 1: A.h.432 (7988 en jetons) 
+Place 3: beewoulfiing (6650 en jetons) 
+Place 4: psychoman59 (5362 en jetons) 
+A.h.432 : met l'ante. 20
+beewoulfiing : met l'ante. 20
+psychoman59 : met l'ante. 20
+beewoulfiing : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 4h]
+A.h.432 : suit. 150
+beewoulfiing : passe. 
+psychoman59 : parole 
+*** FLOP *** [8c Qc Kc]
+psychoman59 : parole 
+A.h.432 : parole 
+*** TOURNANT *** [8c Qc Kc] [Qh]
+psychoman59 : parole 
+A.h.432 : mise. 600
+psychoman59 : passe. 
+Personne n'a suivi. (600) sont retournés à A.h.432.
+A.h.432 a remporté 435  lors du pot .
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Tableau [8c Qc Kc Qh]
+Siège 1 : A.h.432 (bouton) a remporté (435)
+Siège 3 : beewoulfiing (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238599348474 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 13/09/2022 15:31:02 CET [13/09/2022 9:31:02 ET]
+Table '3470605495 1' 4-max Siège #3 est au bouton.
+Place 1: A.h.432 (8253 en jetons) 
+Place 3: beewoulfiing (6555 en jetons) 
+Place 4: psychoman59 (5192 en jetons) 
+A.h.432 : met l'ante. 20
+beewoulfiing : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+A.h.432 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Jc]
+beewoulfiing : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à A.h.432.
+A.h.432 a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 1 : A.h.432 (grosse blind) a remporté (210)
+Siège 3 : beewoulfiing (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238599351189 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 13/09/2022 15:31:14 CET [13/09/2022 9:31:14 ET]
+Table '3470605495 1' 4-max Siège #4 est au bouton.
+Place 1: A.h.432 (8368 en jetons) 
+Place 3: beewoulfiing (6535 en jetons) 
+Place 4: psychoman59 (5097 en jetons) 
+A.h.432 : met l'ante. 20
+beewoulfiing : met l'ante. 20
+psychoman59 : met l'ante. 20
+A.h.432 : met la petite blind. 75
+beewoulfiing : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Jd]
+psychoman59 : passe. 
+A.h.432 : suit. 75
+beewoulfiing : parole 
+*** FLOP *** [Ad Jc Qs]
+A.h.432 : parole 
+beewoulfiing : mise. 360
+A.h.432 : passe. 
+Personne n'a suivi. (360) sont retournés à beewoulfiing.
+beewoulfiing a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Ad Jc Qs]
+Siège 1 : A.h.432 (petite blind) s'est couché. sur le Flop
+Siège 3 : beewoulfiing (grosse blind) a remporté (360)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238599356496 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 13/09/2022 15:31:38 CET [13/09/2022 9:31:38 ET]
+Table '3470605495 1' 4-max Siège #1 est au bouton.
+Place 1: A.h.432 (8198 en jetons) 
+Place 3: beewoulfiing (6725 en jetons) 
+Place 4: psychoman59 (5077 en jetons) 
+A.h.432 : met l'ante. 20
+beewoulfiing : met l'ante. 20
+psychoman59 : met l'ante. 20
+beewoulfiing : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Kh]
+A.h.432 : passe. 
+beewoulfiing : suit. 75
+psychoman59 : relance. 4907 à 5057 et est all-in.
+beewoulfiing : passe. 
+Personne n'a suivi. (4907) sont retournés à psychoman59.
+psychoman59 a remporté 360  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : A.h.432 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : beewoulfiing (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (360)
+
+
+
+Main PokerStars n°238599359498 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 13/09/2022 15:31:50 CET [13/09/2022 9:31:50 ET]
+Table '3470605495 1' 4-max Siège #3 est au bouton.
+Place 1: A.h.432 (8178 en jetons) 
+Place 3: beewoulfiing (6555 en jetons) 
+Place 4: psychoman59 (5267 en jetons) 
+A.h.432 : met l'ante. 20
+beewoulfiing : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+A.h.432 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Th]
+beewoulfiing : relance. 150 à 300
+psychoman59 : passe. 
+A.h.432 : suit. 150
+*** FLOP *** [5c 5h Kc]
+A.h.432 : mise. 150
+beewoulfiing : suit. 150
+*** TOURNANT *** [5c 5h Kc] [8s]
+A.h.432 : mise. 150
+beewoulfiing : suit. 150
+*** RIVIÈRE *** [5c 5h Kc 8s] [6c]
+A.h.432 : mise. 150
+beewoulfiing : suit. 150
+*** ABATTAGE ***
+A.h.432 : montre [Jd 3c] (une paire de Cinq)
+beewoulfiing : montre [7s 6s] (double paire, Six et Cinq)
+beewoulfiing a remporté 1635  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1635 | Commission 0 
+Tableau [5c 5h Kc 8s 6c]
+Siège 1 : A.h.432 (grosse blind) a montré [Jd 3c] et a perdu avec une paire de Cinq
+Siège 3 : beewoulfiing (bouton) a montré [7s 6s] et a gagné (1635) avec double paire, Six et Cinq
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238599364071 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 13/09/2022 15:32:10 CET [13/09/2022 9:32:10 ET]
+Table '3470605495 1' 4-max Siège #4 est au bouton.
+Place 1: A.h.432 (7408 en jetons) 
+Place 3: beewoulfiing (7420 en jetons) 
+Place 4: psychoman59 (5172 en jetons) 
+A.h.432 : met l'ante. 20
+beewoulfiing : met l'ante. 20
+psychoman59 : met l'ante. 20
+A.h.432 : met la petite blind. 75
+beewoulfiing : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Qs]
+psychoman59 : passe. 
+A.h.432 : suit. 75
+beewoulfiing : relance. 300 à 450
+A.h.432 : suit. 300
+*** FLOP *** [Js Qh 6d]
+A.h.432 : parole 
+beewoulfiing : parole 
+*** TOURNANT *** [Js Qh 6d] [9c]
+A.h.432 : mise. 150
+beewoulfiing : suit. 150
+*** RIVIÈRE *** [Js Qh 6d 9c] [9s]
+A.h.432 : mise. 600
+beewoulfiing : suit. 600
+*** ABATTAGE ***
+A.h.432 : montre [7c Jh] (double paire, Valets et Neuf)
+beewoulfiing : cache la main perdante. 
+A.h.432 a remporté 2460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2460 | Commission 0 
+Tableau [Js Qh 6d 9c 9s]
+Siège 1 : A.h.432 (petite blind) a montré [7c Jh] et a gagné (2460) avec double paire, Valets et Neuf
+Siège 3 : beewoulfiing (grosse blind) a caché la main perdante. [8s Ah]
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238599370574 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 13/09/2022 15:32:38 CET [13/09/2022 9:32:38 ET]
+Table '3470605495 1' 4-max Siège #1 est au bouton.
+Place 1: A.h.432 (8648 en jetons) 
+Place 3: beewoulfiing (6200 en jetons) 
+Place 4: psychoman59 (5152 en jetons) 
+A.h.432 : met l'ante. 20
+beewoulfiing : met l'ante. 20
+psychoman59 : met l'ante. 20
+beewoulfiing : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 4h]
+A.h.432 : suit. 150
+beewoulfiing : passe. 
+psychoman59 : relance. 4982 à 5132 et est all-in.
+A.h.432 : passe. 
+Personne n'a suivi. (4982) sont retournés à psychoman59.
+psychoman59 a remporté 435  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Siège 1 : A.h.432 (bouton) s'est couché. avant Flop
+Siège 3 : beewoulfiing (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (435)
+
+
+
+Main PokerStars n°238599373748 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 13/09/2022 15:32:52 CET [13/09/2022 9:32:52 ET]
+Table '3470605495 1' 4-max Siège #3 est au bouton.
+Place 1: A.h.432 (8478 en jetons) 
+Place 3: beewoulfiing (6105 en jetons) 
+Place 4: psychoman59 (5417 en jetons) 
+A.h.432 : met l'ante. 20
+beewoulfiing : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+A.h.432 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Th]
+beewoulfiing : relance. 300 à 450
+psychoman59 : passe. 
+A.h.432 : suit. 300
+*** FLOP *** [Tc Js 4s]
+A.h.432 : parole 
+beewoulfiing : parole 
+*** TOURNANT *** [Tc Js 4s] [Qd]
+A.h.432 : parole 
+beewoulfiing : parole 
+*** RIVIÈRE *** [Tc Js 4s Qd] [Qh]
+A.h.432 : mise. 150
+beewoulfiing : relance. 600 à 750
+A.h.432 : passe. 
+Personne n'a suivi. (600) sont retournés à beewoulfiing.
+beewoulfiing a remporté 1335  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1335 | Commission 0 
+Tableau [Tc Js 4s Qd Qh]
+Siège 1 : A.h.432 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : beewoulfiing (bouton) a remporté (1335)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238599380593 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 13/09/2022 15:33:22 CET [13/09/2022 9:33:22 ET]
+Table '3470605495 1' 4-max Siège #4 est au bouton.
+Place 1: A.h.432 (7858 en jetons) 
+Place 3: beewoulfiing (6820 en jetons) 
+Place 4: psychoman59 (5322 en jetons) 
+A.h.432 : met l'ante. 25
+beewoulfiing : met l'ante. 25
+psychoman59 : met l'ante. 25
+A.h.432 : met la petite blind. 100
+beewoulfiing : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Ts]
+psychoman59 : passe. 
+A.h.432 : suit. 100
+beewoulfiing : parole 
+*** FLOP *** [8c Th Qs]
+A.h.432 : mise. 200
+beewoulfiing : suit. 200
+*** TOURNANT *** [8c Th Qs] [Kd]
+A.h.432 : mise. 200
+beewoulfiing : suit. 200
+*** RIVIÈRE *** [8c Th Qs Kd] [Tc]
+A.h.432 : mise. 200
+beewoulfiing : suit. 200
+*** ABATTAGE ***
+A.h.432 : montre [Jd Ad] (une suite, Dix à As)
+beewoulfiing : cache la main perdante. 
+A.h.432 a remporté 1675  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1675 | Commission 0 
+Tableau [8c Th Qs Kd Tc]
+Siège 1 : A.h.432 (petite blind) a montré [Jd Ad] et a gagné (1675) avec une suite, Dix à As
+Siège 3 : beewoulfiing (grosse blind) a caché la main perdante. [5s As]
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238599386229 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 13/09/2022 15:33:46 CET [13/09/2022 9:33:46 ET]
+Table '3470605495 1' 4-max Siège #1 est au bouton.
+Place 1: A.h.432 (8708 en jetons) 
+Place 3: beewoulfiing (5995 en jetons) 
+Place 4: psychoman59 (5297 en jetons) 
+A.h.432 : met l'ante. 25
+beewoulfiing : met l'ante. 25
+psychoman59 : met l'ante. 25
+beewoulfiing : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 7d]
+A.h.432 : passe. 
+beewoulfiing : suit. 100
+psychoman59 : parole 
+*** FLOP *** [5c 2s Jd]
+beewoulfiing : mise. 200
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à beewoulfiing.
+beewoulfiing a remporté 475  lors du pot .
+beewoulfiing : montre [4d 4s] (une paire de Quatre)
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Tableau [5c 2s Jd]
+Siège 1 : A.h.432 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : beewoulfiing (petite blind) a remporté (475)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238599391008 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 13/09/2022 15:34:07 CET [13/09/2022 9:34:07 ET]
+Table '3470605495 1' 4-max Siège #3 est au bouton.
+Place 1: A.h.432 (8683 en jetons) 
+Place 3: beewoulfiing (6245 en jetons) 
+Place 4: psychoman59 (5072 en jetons) 
+A.h.432 : met l'ante. 25
+beewoulfiing : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+A.h.432 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Qs]
+beewoulfiing : passe. 
+psychoman59 : relance. 475 à 675
+A.h.432 : passe. 
+Personne n'a suivi. (475) sont retournés à psychoman59.
+psychoman59 a remporté 475  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Siège 1 : A.h.432 (grosse blind) s'est couché. avant Flop
+Siège 3 : beewoulfiing (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) a remporté (475)
+
+
+
+Main PokerStars n°238599393979 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 13/09/2022 15:34:19 CET [13/09/2022 9:34:19 ET]
+Table '3470605495 1' 4-max Siège #4 est au bouton.
+Place 1: A.h.432 (8458 en jetons) 
+Place 3: beewoulfiing (6220 en jetons) 
+Place 4: psychoman59 (5322 en jetons) 
+A.h.432 : met l'ante. 25
+beewoulfiing : met l'ante. 25
+psychoman59 : met l'ante. 25
+A.h.432 : met la petite blind. 100
+beewoulfiing : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Th]
+psychoman59 : relance. 5097 à 5297 et est all-in.
+A.h.432 : passe. 
+beewoulfiing : passe. 
+Personne n'a suivi. (5097) sont retournés à psychoman59.
+psychoman59 a remporté 575  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 575 | Commission 0 
+Siège 1 : A.h.432 (petite blind) s'est couché. avant Flop
+Siège 3 : beewoulfiing (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) a remporté (575)
+
+
+
+Main PokerStars n°238599396720 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 13/09/2022 15:34:31 CET [13/09/2022 9:34:31 ET]
+Table '3470605495 1' 4-max Siège #1 est au bouton.
+Place 1: A.h.432 (8333 en jetons) 
+Place 3: beewoulfiing (5995 en jetons) 
+Place 4: psychoman59 (5672 en jetons) 
+A.h.432 : met l'ante. 25
+beewoulfiing : met l'ante. 25
+psychoman59 : met l'ante. 25
+beewoulfiing : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 2d]
+A.h.432 : passe. 
+beewoulfiing : relance. 475 à 675
+psychoman59 : passe. 
+Personne n'a suivi. (475) sont retournés à beewoulfiing.
+beewoulfiing a remporté 475  lors du pot .
+beewoulfiing : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Siège 1 : A.h.432 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : beewoulfiing (petite blind) a remporté (475)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238599399995 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 13/09/2022 15:34:45 CET [13/09/2022 9:34:45 ET]
+Table '3470605495 1' 4-max Siège #3 est au bouton.
+Place 1: A.h.432 (8308 en jetons) 
+Place 3: beewoulfiing (6245 en jetons) 
+Place 4: psychoman59 (5447 en jetons) 
+A.h.432 : met l'ante. 25
+beewoulfiing : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+A.h.432 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Ts]
+beewoulfiing : suit. 200
+psychoman59 : passe. 
+A.h.432 : parole 
+*** FLOP *** [Td 7s 5c]
+A.h.432 : parole 
+beewoulfiing : mise. 400
+A.h.432 : suit. 400
+*** TOURNANT *** [Td 7s 5c] [8c]
+A.h.432 : parole 
+beewoulfiing : parole 
+*** RIVIÈRE *** [Td 7s 5c 8c] [Ac]
+A.h.432 : mise. 600
+beewoulfiing : relance. 800 à 1400
+A.h.432 : passe. 
+Personne n'a suivi. (800) sont retournés à beewoulfiing.
+beewoulfiing a remporté 2575  lors du pot .
+beewoulfiing : montre [5d Qd] (une paire de Cinq)
+*** SYNTHÈSE ***
+Pot total 2575 | Commission 0 
+Tableau [Td 7s 5c 8c Ac]
+Siège 1 : A.h.432 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : beewoulfiing (bouton) a remporté (2575)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238599407970 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 13/09/2022 15:35:20 CET [13/09/2022 9:35:20 ET]
+Table '3470605495 1' 4-max Siège #4 est au bouton.
+Place 1: A.h.432 (7083 en jetons) 
+Place 3: beewoulfiing (7595 en jetons) 
+Place 4: psychoman59 (5322 en jetons) 
+A.h.432 : met l'ante. 25
+beewoulfiing : met l'ante. 25
+psychoman59 : met l'ante. 25
+A.h.432 : met la petite blind. 100
+beewoulfiing : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 6c]
+psychoman59 : passe. 
+A.h.432 : suit. 100
+beewoulfiing : parole 
+*** FLOP *** [3s 7d 2c]
+A.h.432 : parole 
+beewoulfiing : parole 
+*** TOURNANT *** [3s 7d 2c] [5h]
+A.h.432 : parole 
+beewoulfiing : parole 
+*** RIVIÈRE *** [3s 7d 2c 5h] [4c]
+A.h.432 : parole 
+beewoulfiing : parole 
+*** ABATTAGE ***
+A.h.432 : montre [Qd 8d] (Hauteur Dame)
+beewoulfiing : montre [9c Kc] (Hauteur Roi)
+beewoulfiing a remporté 475  lors du pot .
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Tableau [3s 7d 2c 5h 4c]
+Siège 1 : A.h.432 (petite blind) a montré [Qd 8d] et a perdu avec Hauteur Dame
+Siège 3 : beewoulfiing (grosse blind) a montré [9c Kc] et a gagné (475) avec Hauteur Roi
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238599412711 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 13/09/2022 15:35:40 CET [13/09/2022 9:35:40 ET]
+Table '3470605495 1' 4-max Siège #1 est au bouton.
+Place 1: A.h.432 (6858 en jetons) 
+Place 3: beewoulfiing (7845 en jetons) 
+Place 4: psychoman59 (5297 en jetons) 
+A.h.432 : met l'ante. 25
+beewoulfiing : met l'ante. 25
+psychoman59 : met l'ante. 25
+beewoulfiing : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8c]
+A.h.432 : suit. 200
+beewoulfiing : suit. 100
+psychoman59 : parole 
+*** FLOP *** [6h Jh 2d]
+beewoulfiing : mise. 675
+psychoman59 : passe. 
+A.h.432 : passe. 
+Personne n'a suivi. (675) sont retournés à beewoulfiing.
+beewoulfiing a remporté 675  lors du pot .
+*** SYNTHÈSE ***
+Pot total 675 | Commission 0 
+Tableau [6h Jh 2d]
+Siège 1 : A.h.432 (bouton) s'est couché. sur le Flop
+Siège 3 : beewoulfiing (petite blind) a remporté (675)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238599424388 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 13/09/2022 15:36:30 CET [13/09/2022 9:36:30 ET]
+Table '3470605495 1' 4-max Siège #3 est au bouton.
+Place 1: A.h.432 (6633 en jetons) 
+Place 3: beewoulfiing (8295 en jetons) 
+Place 4: psychoman59 (5072 en jetons) 
+A.h.432 : met l'ante. 30
+beewoulfiing : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+A.h.432 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 9d]
+beewoulfiing : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à A.h.432.
+A.h.432 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : A.h.432 (grosse blind) a remporté (340)
+Siège 3 : beewoulfiing (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238599426665 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 13/09/2022 15:36:40 CET [13/09/2022 9:36:40 ET]
+Table '3470605495 1' 4-max Siège #4 est au bouton.
+Place 1: A.h.432 (6818 en jetons) 
+Place 3: beewoulfiing (8265 en jetons) 
+Place 4: psychoman59 (4917 en jetons) 
+A.h.432 : met l'ante. 30
+beewoulfiing : met l'ante. 30
+psychoman59 : met l'ante. 30
+A.h.432 : met la petite blind. 125
+beewoulfiing : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 9h]
+psychoman59 : passe. 
+A.h.432 : suit. 125
+beewoulfiing : relance. 590 à 840
+A.h.432 : suit. 590
+*** FLOP *** [Th 4c 7c]
+A.h.432 : parole 
+beewoulfiing : parole 
+*** TOURNANT *** [Th 4c 7c] [Kh]
+A.h.432 : mise. 250
+beewoulfiing : suit. 250
+*** RIVIÈRE *** [Th 4c 7c Kh] [2c]
+A.h.432 : mise. 250
+beewoulfiing : suit. 250
+*** ABATTAGE ***
+A.h.432 : montre [Qh 8d] (Hauteur Roi)
+beewoulfiing : montre [3d 4d] (une paire de Quatre)
+beewoulfiing a remporté 2770  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2770 | Commission 0 
+Tableau [Th 4c 7c Kh 2c]
+Siège 1 : A.h.432 (petite blind) a montré [Qh 8d] et a perdu avec Hauteur Roi
+Siège 3 : beewoulfiing (grosse blind) a montré [3d 4d] et a gagné (2770) avec une paire de Quatre
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238599432034 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 13/09/2022 15:37:03 CET [13/09/2022 9:37:03 ET]
+Table '3470605495 1' 4-max Siège #1 est au bouton.
+Place 1: A.h.432 (5448 en jetons) 
+Place 3: beewoulfiing (9665 en jetons) 
+Place 4: psychoman59 (4887 en jetons) 
+A.h.432 : met l'ante. 30
+beewoulfiing : met l'ante. 30
+psychoman59 : met l'ante. 30
+beewoulfiing : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 6c]
+A.h.432 : suit. 250
+beewoulfiing : suit. 125
+psychoman59 : parole 
+*** FLOP *** [5s Kd 2c]
+beewoulfiing : parole 
+psychoman59 : parole 
+A.h.432 : parole 
+*** TOURNANT *** [5s Kd 2c] [4h]
+beewoulfiing : parole 
+psychoman59 : parole 
+A.h.432 : parole 
+*** RIVIÈRE *** [5s Kd 2c 4h] [Ah]
+beewoulfiing : parole 
+psychoman59 : parole 
+A.h.432 : parole 
+*** ABATTAGE ***
+beewoulfiing : montre [9h Th] (Hauteur As)
+psychoman59 : montre [2h 6c] (une paire de Deux)
+A.h.432 : montre [5h Jd] (une paire de Cinq)
+A.h.432 a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [5s Kd 2c 4h Ah]
+Siège 1 : A.h.432 (bouton) a montré [5h Jd] et a gagné (840) avec une paire de Cinq
+Siège 3 : beewoulfiing (petite blind) a montré [9h Th] et a perdu avec Hauteur As
+Siège 4 : psychoman59 (grosse blind) a montré [2h 6c] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°238599444413 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 13/09/2022 15:37:56 CET [13/09/2022 9:37:56 ET]
+Table '3470605495 1' 4-max Siège #3 est au bouton.
+Place 1: A.h.432 (6008 en jetons) 
+Place 3: beewoulfiing (9385 en jetons) 
+Place 4: psychoman59 (4607 en jetons) 
+A.h.432 : met l'ante. 30
+beewoulfiing : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+A.h.432 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Ks]
+beewoulfiing : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à A.h.432.
+A.h.432 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : A.h.432 (grosse blind) a remporté (340)
+Siège 3 : beewoulfiing (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238599447294 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 13/09/2022 15:38:08 CET [13/09/2022 9:38:08 ET]
+Table '3470605495 1' 4-max Siège #4 est au bouton.
+Place 1: A.h.432 (6193 en jetons) 
+Place 3: beewoulfiing (9355 en jetons) 
+Place 4: psychoman59 (4452 en jetons) 
+A.h.432 : met l'ante. 30
+beewoulfiing : met l'ante. 30
+psychoman59 : met l'ante. 30
+A.h.432 : met la petite blind. 125
+beewoulfiing : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Qd]
+psychoman59 : passe. 
+A.h.432 : relance. 250 à 500
+beewoulfiing : suit. 250
+*** FLOP *** [Ah Ad 5h]
+A.h.432 : parole 
+beewoulfiing : parole 
+*** TOURNANT *** [Ah Ad 5h] [3h]
+A.h.432 : mise. 250
+beewoulfiing : suit. 250
+*** RIVIÈRE *** [Ah Ad 5h 3h] [2s]
+A.h.432 : mise. 5413 et est all-in.
+beewoulfiing : passe. 
+Personne n'a suivi. (5413) sont retournés à A.h.432.
+A.h.432 a remporté 1590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1590 | Commission 0 
+Tableau [Ah Ad 5h 3h 2s]
+Siège 1 : A.h.432 (petite blind) a remporté (1590)
+Siège 3 : beewoulfiing (grosse blind) s'est couché. sur le Rivière
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238599456988 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 13/09/2022 15:38:51 CET [13/09/2022 9:38:51 ET]
+Table '3470605495 1' 4-max Siège #1 est au bouton.
+Place 1: A.h.432 (7003 en jetons) 
+Place 3: beewoulfiing (8575 en jetons) 
+Place 4: psychoman59 (4422 en jetons) 
+A.h.432 : met l'ante. 30
+beewoulfiing : met l'ante. 30
+psychoman59 : met l'ante. 30
+beewoulfiing : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Ts]
+A.h.432 : relance. 250 à 500
+beewoulfiing : suit. 375
+psychoman59 : suit. 250
+*** FLOP *** [8s 3h Ad]
+beewoulfiing : parole 
+psychoman59 : parole 
+A.h.432 : parole 
+*** TOURNANT *** [8s 3h Ad] [9d]
+beewoulfiing : parole 
+psychoman59 : parole 
+A.h.432 : mise. 250
+beewoulfiing : suit. 250
+psychoman59 : suit. 250
+*** RIVIÈRE *** [8s 3h Ad 9d] [5d]
+beewoulfiing : parole 
+psychoman59 : parole 
+A.h.432 : mise. 750
+beewoulfiing : suit. 750
+psychoman59 : passe. 
+*** ABATTAGE ***
+A.h.432 : montre [Tc As] (une paire de As)
+beewoulfiing : cache la main perdante. 
+A.h.432 a remporté 3840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3840 | Commission 0 
+Tableau [8s 3h Ad 9d 5d]
+Siège 1 : A.h.432 (bouton) a montré [Tc As] et a gagné (3840) avec une paire de As
+Siège 3 : beewoulfiing (petite blind) a caché la main perdante. [5c 6h]
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238599468295 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 13/09/2022 15:39:40 CET [13/09/2022 9:39:40 ET]
+Table '3470605495 1' 4-max Siège #3 est au bouton.
+Place 1: A.h.432 (9313 en jetons) 
+Place 3: beewoulfiing (7045 en jetons) 
+Place 4: psychoman59 (3642 en jetons) 
+A.h.432 : met l'ante. 40
+beewoulfiing : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+A.h.432 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 2d]
+beewoulfiing : relance. 300 à 600
+psychoman59 : relance. 3002 à 3602 et est all-in.
+A.h.432 : passe. 
+beewoulfiing : suit. 3002
+*** FLOP *** [7d Qd Ts]
+*** TOURNANT *** [7d Qd Ts] [3d]
+*** RIVIÈRE *** [7d Qd Ts 3d] [Js]
+*** ABATTAGE ***
+psychoman59 : montre [2h 2d] (une paire de Deux)
+beewoulfiing : montre [As 6s] (Hauteur As)
+psychoman59 a remporté 7624  lors du pot .
+*** SYNTHÈSE ***
+Pot total 7624 | Commission 0 
+Tableau [7d Qd Ts 3d Js]
+Siège 1 : A.h.432 (grosse blind) s'est couché. avant Flop
+Siège 3 : beewoulfiing (bouton) a montré [As 6s] et a perdu avec Hauteur As
+Siège 4 : psychoman59 (petite blind) a montré [2h 2d] et a gagné (7624) avec une paire de Deux
+
+
+
+Main PokerStars n°238599473595 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 13/09/2022 15:40:02 CET [13/09/2022 9:40:02 ET]
+Table '3470605495 1' 4-max Siège #4 est au bouton.
+Place 1: A.h.432 (8973 en jetons) 
+Place 3: beewoulfiing (3403 en jetons) 
+Place 4: psychoman59 (7624 en jetons) 
+A.h.432 : met l'ante. 40
+beewoulfiing : met l'ante. 40
+psychoman59 : met l'ante. 40
+A.h.432 : met la petite blind. 150
+beewoulfiing : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 7c]
+psychoman59 : passe. 
+A.h.432 : suit. 150
+beewoulfiing : parole 
+*** FLOP *** [4d 4h As]
+A.h.432 : parole 
+beewoulfiing : parole 
+*** TOURNANT *** [4d 4h As] [2s]
+A.h.432 : parole 
+beewoulfiing : parole 
+*** RIVIÈRE *** [4d 4h As 2s] [Jc]
+A.h.432 : parole 
+beewoulfiing : mise. 720
+A.h.432 : passe. 
+Personne n'a suivi. (720) sont retournés à beewoulfiing.
+beewoulfiing a remporté 720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [4d 4h As 2s Jc]
+Siège 1 : A.h.432 (petite blind) s'est couché. sur le Rivière
+Siège 3 : beewoulfiing (grosse blind) a remporté (720)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238599480542 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 13/09/2022 15:40:32 CET [13/09/2022 9:40:32 ET]
+Table '3470605495 1' 4-max Siège #1 est au bouton.
+Place 1: A.h.432 (8633 en jetons) 
+Place 3: beewoulfiing (3783 en jetons) 
+Place 4: psychoman59 (7584 en jetons) 
+A.h.432 : met l'ante. 40
+beewoulfiing : met l'ante. 40
+psychoman59 : met l'ante. 40
+beewoulfiing : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 7s]
+A.h.432 : passe. 
+beewoulfiing : relance. 300 à 600
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à beewoulfiing.
+beewoulfiing a remporté 720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Siège 1 : A.h.432 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : beewoulfiing (petite blind) a remporté (720)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238599483441 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 13/09/2022 15:40:45 CET [13/09/2022 9:40:45 ET]
+Table '3470605495 1' 4-max Siège #3 est au bouton.
+Place 1: A.h.432 (8593 en jetons) 
+Place 3: beewoulfiing (4163 en jetons) 
+Place 4: psychoman59 (7244 en jetons) 
+A.h.432 : met l'ante. 40
+beewoulfiing : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+A.h.432 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 4s]
+beewoulfiing a dépassé le temps imparti.
+beewoulfiing : passe. 
+beewoulfiing ne joue pas.
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à A.h.432.
+A.h.432 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Siège 1 : A.h.432 (grosse blind) a remporté (420)
+Siège 3 : beewoulfiing (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238599490017 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 13/09/2022 15:41:13 CET [13/09/2022 9:41:13 ET]
+Table '3470605495 1' 4-max Siège #4 est au bouton.
+Place 1: A.h.432 (8823 en jetons) 
+Place 3: beewoulfiing (4123 en jetons) ne joue pas.
+Place 4: psychoman59 (7054 en jetons) 
+A.h.432 : met l'ante. 40
+beewoulfiing : met l'ante. 40
+psychoman59 : met l'ante. 40
+A.h.432 : met la petite blind. 150
+beewoulfiing : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 6s]
+psychoman59 : passe. 
+A.h.432 : suit. 150
+beewoulfiing : passe. 
+beewoulfiing est revenu.
+A.h.432 a remporté 720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Siège 1 : A.h.432 (petite blind) a remporté (720)
+Siège 3 : beewoulfiing (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238599492380 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 13/09/2022 15:41:23 CET [13/09/2022 9:41:23 ET]
+Table '3470605495 1' 4-max Siège #1 est au bouton.
+Place 1: A.h.432 (9203 en jetons) 
+Place 3: beewoulfiing (3783 en jetons) 
+Place 4: psychoman59 (7014 en jetons) 
+A.h.432 : met l'ante. 40
+beewoulfiing : met l'ante. 40
+psychoman59 : met l'ante. 40
+beewoulfiing : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 5s]
+A.h.432 : suit. 300
+beewoulfiing : relance. 600 à 900
+psychoman59 : passe. 
+A.h.432 : suit. 600
+*** FLOP *** [Jc 5d 5h]
+beewoulfiing : parole 
+A.h.432 : parole 
+*** TOURNANT *** [Jc 5d 5h] [Td]
+beewoulfiing : parole 
+A.h.432 : parole 
+*** RIVIÈRE *** [Jc 5d 5h Td] [5c]
+beewoulfiing : parole 
+A.h.432 : parole 
+*** ABATTAGE ***
+beewoulfiing : montre [Ks Qs] (un brelan de Cinq)
+A.h.432 : cache la main perdante. 
+beewoulfiing a remporté 2220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2220 | Commission 0 
+Tableau [Jc 5d 5h Td 5c]
+Siège 1 : A.h.432 (bouton) a caché la main perdante. [Kh 6h]
+Siège 3 : beewoulfiing (petite blind) a montré [Ks Qs] et a gagné (2220) avec un brelan de Cinq
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238599503743 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 13/09/2022 15:42:11 CET [13/09/2022 9:42:11 ET]
+Table '3470605495 1' 4-max Siège #3 est au bouton.
+Place 1: A.h.432 (8263 en jetons) 
+Place 3: beewoulfiing (5063 en jetons) 
+Place 4: psychoman59 (6674 en jetons) 
+A.h.432 : met l'ante. 40
+beewoulfiing : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+A.h.432 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Td]
+beewoulfiing : relance. 300 à 600
+psychoman59 : suit. 450
+A.h.432 : passe. 
+*** FLOP *** [Qs Kh 3h]
+psychoman59 : parole 
+beewoulfiing : mise. 300
+psychoman59 : relance. 5734 à 6034 et est all-in.
+beewoulfiing : passe. 
+Personne n'a suivi. (5734) sont retournés à psychoman59.
+psychoman59 a remporté 2220  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2220 | Commission 0 
+Tableau [Qs Kh 3h]
+Siège 1 : A.h.432 (grosse blind) s'est couché. avant Flop
+Siège 3 : beewoulfiing (bouton) s'est couché. sur le Flop
+Siège 4 : psychoman59 (petite blind) a remporté (2220)
+
+
+
+Main PokerStars n°238599509560 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 13/09/2022 15:42:36 CET [13/09/2022 9:42:36 ET]
+Table '3470605495 1' 4-max Siège #4 est au bouton.
+Place 1: A.h.432 (7923 en jetons) 
+Place 3: beewoulfiing (4123 en jetons) 
+Place 4: psychoman59 (7954 en jetons) 
+A.h.432 : met l'ante. 50
+beewoulfiing : met l'ante. 50
+psychoman59 : met l'ante. 50
+A.h.432 : met la petite blind. 200
+beewoulfiing : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ah]
+psychoman59 : suit. 400
+A.h.432 : passe. 
+beewoulfiing : parole 
+*** FLOP *** [Jh Td 6c]
+beewoulfiing : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jh Td 6c] [9d]
+beewoulfiing : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Jh Td 6c 9d] [5d]
+beewoulfiing : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+beewoulfiing : montre [3s 5s] (une paire de Cinq)
+psychoman59 : montre [5h Ah] (une paire de Cinq - As kicker)
+psychoman59 a remporté 1150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1150 | Commission 0 
+Tableau [Jh Td 6c 9d 5d]
+Siège 1 : A.h.432 (petite blind) s'est couché. avant Flop
+Siège 3 : beewoulfiing (grosse blind) a montré [3s 5s] et a perdu avec une paire de Cinq
+Siège 4 : psychoman59 (bouton) a montré [5h Ah] et a gagné (1150) avec une paire de Cinq
+
+
+
+Main PokerStars n°238599515159 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 13/09/2022 15:42:59 CET [13/09/2022 9:42:59 ET]
+Table '3470605495 1' 4-max Siège #1 est au bouton.
+Place 1: A.h.432 (7673 en jetons) 
+Place 3: beewoulfiing (3673 en jetons) 
+Place 4: psychoman59 (8654 en jetons) 
+A.h.432 : met l'ante. 50
+beewoulfiing : met l'ante. 50
+psychoman59 : met l'ante. 50
+beewoulfiing : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 6d]
+A.h.432 : suit. 400
+beewoulfiing a dépassé le temps imparti.
+beewoulfiing : passe. 
+beewoulfiing ne joue pas.
+psychoman59 : parole 
+*** FLOP *** [Ts Jc Th]
+psychoman59 : parole 
+A.h.432 : parole 
+*** TOURNANT *** [Ts Jc Th] [5d]
+psychoman59 : parole 
+A.h.432 : mise. 400
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à A.h.432.
+A.h.432 a remporté 1150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1150 | Commission 0 
+Tableau [Ts Jc Th 5d]
+Siège 1 : A.h.432 (bouton) a remporté (1150)
+Siège 3 : beewoulfiing (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238599526754 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 13/09/2022 15:43:49 CET [13/09/2022 9:43:49 ET]
+Table '3470605495 1' 4-max Siège #3 est au bouton.
+Place 1: A.h.432 (8373 en jetons) 
+Place 3: beewoulfiing (3423 en jetons) ne joue pas.
+Place 4: psychoman59 (8204 en jetons) 
+A.h.432 : met l'ante. 50
+beewoulfiing : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+A.h.432 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 5s]
+beewoulfiing : passe. 
+psychoman59 : relance. 7754 à 8154 et est all-in.
+A.h.432 : passe. 
+Personne n'a suivi. (7754) sont retournés à psychoman59.
+psychoman59 a remporté 950  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 950 | Commission 0 
+Siège 1 : A.h.432 (grosse blind) s'est couché. avant Flop
+Siège 3 : beewoulfiing (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) a remporté (950)
+
+
+
+Main PokerStars n°238599530067 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 13/09/2022 15:44:03 CET [13/09/2022 9:44:03 ET]
+Table '3470605495 1' 4-max Siège #4 est au bouton.
+Place 1: A.h.432 (7923 en jetons) 
+Place 3: beewoulfiing (3373 en jetons) ne joue pas.
+Place 4: psychoman59 (8704 en jetons) 
+A.h.432 : met l'ante. 50
+beewoulfiing : met l'ante. 50
+psychoman59 : met l'ante. 50
+A.h.432 : met la petite blind. 200
+beewoulfiing : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 6h]
+psychoman59 : passe. 
+A.h.432 : relance. 400 à 800
+beewoulfiing : passe. 
+Personne n'a suivi. (400) sont retournés à A.h.432.
+A.h.432 a remporté 950  lors du pot .
+*** SYNTHÈSE ***
+Pot total 950 | Commission 0 
+Siège 1 : A.h.432 (petite blind) a remporté (950)
+Siège 3 : beewoulfiing (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238599532569 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 13/09/2022 15:44:14 CET [13/09/2022 9:44:14 ET]
+Table '3470605495 1' 4-max Siège #1 est au bouton.
+Place 1: A.h.432 (8423 en jetons) 
+Place 3: beewoulfiing (2923 en jetons) ne joue pas.
+Place 4: psychoman59 (8654 en jetons) 
+A.h.432 : met l'ante. 50
+beewoulfiing : met l'ante. 50
+psychoman59 : met l'ante. 50
+beewoulfiing : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 7d]
+A.h.432 : suit. 400
+beewoulfiing : passe. 
+beewoulfiing est revenu.
+psychoman59 : parole 
+*** FLOP *** [7c 4s 8h]
+psychoman59 : mise. 1150
+A.h.432 : passe. 
+Personne n'a suivi. (1150) sont retournés à psychoman59.
+psychoman59 a remporté 1150  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1150 | Commission 0 
+Tableau [7c 4s 8h]
+Siège 1 : A.h.432 (bouton) s'est couché. sur le Flop
+Siège 3 : beewoulfiing (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (1150)
+
+
+
+Main PokerStars n°238599538559 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 13/09/2022 15:44:40 CET [13/09/2022 9:44:40 ET]
+Table '3470605495 1' 4-max Siège #3 est au bouton.
+Place 1: A.h.432 (7973 en jetons) 
+Place 3: beewoulfiing (2673 en jetons) 
+Place 4: psychoman59 (9354 en jetons) 
+A.h.432 : met l'ante. 50
+beewoulfiing : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+A.h.432 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Qs]
+beewoulfiing : relance. 2223 à 2623 et est all-in.
+psychoman59 : passe. 
+A.h.432 : passe. 
+Personne n'a suivi. (2223) sont retournés à beewoulfiing.
+beewoulfiing a remporté 1150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1150 | Commission 0 
+Siège 1 : A.h.432 (grosse blind) s'est couché. avant Flop
+Siège 3 : beewoulfiing (bouton) a remporté (1150)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238599543614 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 13/09/2022 15:45:02 CET [13/09/2022 9:45:02 ET]
+Table '3470605495 1' 4-max Siège #4 est au bouton.
+Place 1: A.h.432 (7523 en jetons) 
+Place 3: beewoulfiing (3373 en jetons) 
+Place 4: psychoman59 (9104 en jetons) 
+A.h.432 : met l'ante. 50
+beewoulfiing : met l'ante. 50
+psychoman59 : met l'ante. 50
+A.h.432 : met la petite blind. 200
+beewoulfiing : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Tc]
+psychoman59 : relance. 1150 à 1550
+A.h.432 : suit. 1350
+beewoulfiing : passe. 
+*** FLOP *** [7h 3h Td]
+A.h.432 : mise. 800
+psychoman59 : relance. 5250 à 6050
+A.h.432 : suit. 5123 et est all-in.
+Personne n'a suivi. (127) sont retournés à psychoman59.
+*** TOURNANT *** [7h 3h Td] [9s]
+*** RIVIÈRE *** [7h 3h Td 9s] [9c]
+*** ABATTAGE ***
+A.h.432 : montre [7d As] (double paire, Neuf et Sept)
+psychoman59 : montre [Ks Tc] (double paire, Dix et Neuf)
+psychoman59 a remporté 15496  lors du pot .
+A.h.432 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 15496 | Commission 0 
+Tableau [7h 3h Td 9s 9c]
+Siège 1 : A.h.432 (petite blind) a montré [7d As] et a perdu avec double paire, Neuf et Sept
+Siège 3 : beewoulfiing (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) a montré [Ks Tc] et a gagné (15496) avec double paire, Dix et Neuf
+
+
+
+Main PokerStars n°238599550924 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 13/09/2022 15:45:33 CET [13/09/2022 9:45:33 ET]
+Table '3470605495 1' 4-max Siège #3 est au bouton.
+Place 3: beewoulfiing (2923 en jetons) 
+Place 4: psychoman59 (17077 en jetons) 
+beewoulfiing : met l'ante. 60
+psychoman59 : met l'ante. 60
+beewoulfiing : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 7d]
+beewoulfiing : relance. 2363 à 2863 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (2363) sont retournés à beewoulfiing.
+beewoulfiing a remporté 1120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1120 | Commission 0 
+Siège 3 : beewoulfiing (bouton) (petite blind) a remporté (1120)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238599553753 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 13/09/2022 15:45:45 CET [13/09/2022 9:45:45 ET]
+Table '3470605495 1' 4-max Siège #4 est au bouton.
+Place 3: beewoulfiing (3483 en jetons) 
+Place 4: psychoman59 (16517 en jetons) 
+beewoulfiing : met l'ante. 60
+psychoman59 : met l'ante. 60
+psychoman59 : met la petite blind. 250
+beewoulfiing : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Ac]
+psychoman59 : relance. 500 à 1000
+beewoulfiing : relance. 2423 à 3423 et est all-in.
+psychoman59 : suit. 2423
+*** FLOP *** [Th 3s 3c]
+*** TOURNANT *** [Th 3s 3c] [4c]
+*** RIVIÈRE *** [Th 3s 3c 4c] [Kc]
+*** ABATTAGE ***
+beewoulfiing : montre [9c 3d] (un brelan de Trois)
+psychoman59 : montre [Ah Ac] (double paire, As et Trois)
+beewoulfiing a remporté 6966  lors du pot .
+*** SYNTHÈSE ***
+Pot total 6966 | Commission 0 
+Tableau [Th 3s 3c 4c Kc]
+Siège 3 : beewoulfiing (grosse blind) a montré [9c 3d] et a gagné (6966) avec un brelan de Trois
+Siège 4 : psychoman59 (bouton) (petite blind) a montré [Ah Ac] et a perdu avec double paire, As et Trois
+
+
+
+Main PokerStars n°238599559166 : Tournoi #3470605495, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 13/09/2022 15:46:09 CET [13/09/2022 9:46:09 ET]
+Table '3470605495 1' 4-max Siège #3 est au bouton.
+Place 3: beewoulfiing (6966 en jetons) 
+Place 4: psychoman59 (13034 en jetons) 
+beewoulfiing : met l'ante. 60
+psychoman59 : met l'ante. 60
+beewoulfiing : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qc]
+beewoulfiing : relance. 6406 à 6906 et est all-in.
+psychoman59 : suit. 6406
+*** FLOP *** [2d 8h 3c]
+*** TOURNANT *** [2d 8h 3c] [9c]
+*** RIVIÈRE *** [2d 8h 3c 9c] [8c]
+*** ABATTAGE ***
+psychoman59 : montre [Ac Qc] (une couleur, hauteur As)
+beewoulfiing : montre [4c 9s] (double paire, Neuf et Huit)
+psychoman59 a remporté 13932  lors du pot .
+beewoulfiing a fini le tournoi à la 2e place et a reçu 0.34 €.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 13932 | Commission 0 
+Tableau [2d 8h 3c 9c 8c]
+Siège 3 : beewoulfiing (bouton) (petite blind) a montré [4c 9s] et a perdu avec double paire, Neuf et Huit
+Siège 4 : psychoman59 (grosse blind) a montré [Ac Qc] et a gagné (13932) avec une couleur, hauteur As
+
+
+

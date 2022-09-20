@@ -1,0 +1,487 @@
+﻿Main PokerStars n°237249272882 : Tournoi #3438909343, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2022 9:55:30 CET [09/07/2022 3:55:30 ET]
+Table '3438909343 1' 3-max Siège #1 est au bouton.
+Place 1: jennyascoeur (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: chtal62 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+chtal62 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 5c]
+jennyascoeur : suit. 20
+psychoman59 : passe. 
+chtal62 : parole 
+*** FLOP *** [Qh Jd 2s]
+chtal62 : parole 
+jennyascoeur : mise. 60
+chtal62 : passe. 
+Personne n'a suivi. (60) sont retournés à jennyascoeur.
+jennyascoeur a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Qh Jd 2s]
+Siège 1 : jennyascoeur (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : chtal62 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237249274927 : Tournoi #3438909343, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2022 9:55:48 CET [09/07/2022 3:55:48 ET]
+Table '3438909343 1' 3-max Siège #2 est au bouton.
+Place 1: jennyascoeur (330 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: chtal62 (280 en jetons) 
+chtal62 : met la petite blind. 10
+jennyascoeur : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 6s]
+psychoman59 : passe. 
+chtal62 : suit. 10
+jennyascoeur : parole 
+*** FLOP *** [Ah 4h 6c]
+chtal62 : parole 
+jennyascoeur : mise. 20
+chtal62 : suit. 20
+*** TOURNANT *** [Ah 4h 6c] [Td]
+chtal62 : parole 
+jennyascoeur : mise. 20
+chtal62 : suit. 20
+*** RIVIÈRE *** [Ah 4h 6c Td] [9h]
+chtal62 : parole 
+jennyascoeur : parole 
+*** ABATTAGE ***
+chtal62 : montre [As 8d] (une paire de As)
+jennyascoeur : cache la main perdante. 
+chtal62 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ah 4h 6c Td 9h]
+Siège 1 : jennyascoeur (grosse blind) a caché la main perdante. [7c 3s]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : chtal62 (petite blind) a montré [As 8d] et a gagné (120) avec une paire de As
+
+
+
+Main PokerStars n°237249278619 : Tournoi #3438909343, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2022 9:56:22 CET [09/07/2022 3:56:22 ET]
+Table '3438909343 1' 3-max Siège #3 est au bouton.
+Place 1: jennyascoeur (270 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: chtal62 (340 en jetons) 
+jennyascoeur : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 5c]
+chtal62 : suit. 20
+jennyascoeur : relance. 20 à 40
+psychoman59 : suit. 20
+chtal62 : suit. 20
+*** FLOP *** [Jh Jc As]
+jennyascoeur : mise. 40
+psychoman59 : suit. 40
+chtal62 : passe. 
+*** TOURNANT *** [Jh Jc As] [9s]
+jennyascoeur : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [Jh Jc As 9s] [4s]
+jennyascoeur : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+jennyascoeur : montre [Qc 9c] (double paire, Valets et Neuf)
+psychoman59 : montre [Ad 5c] (double paire, As et Valets)
+psychoman59 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Jh Jc As 9s 4s]
+Siège 1 : jennyascoeur (petite blind) a montré [Qc 9c] et a perdu avec double paire, Valets et Neuf
+Siège 2 : psychoman59 (grosse blind) a montré [Ad 5c] et a gagné (320) avec double paire, As et Valets
+Siège 3 : chtal62 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237249283516 : Tournoi #3438909343, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2022 9:57:06 CET [09/07/2022 3:57:06 ET]
+Table '3438909343 1' 3-max Siège #1 est au bouton.
+Place 1: jennyascoeur (130 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+Place 3: chtal62 (300 en jetons) 
+psychoman59 : met la petite blind. 15
+chtal62 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 8c]
+jennyascoeur : relance. 100 à 130 et est all-in.
+psychoman59 : passe. 
+chtal62 : passe. 
+Personne n'a suivi. (100) sont retournés à jennyascoeur.
+jennyascoeur a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : jennyascoeur (bouton) a remporté (75)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : chtal62 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237249285094 : Tournoi #3438909343, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2022 9:57:20 CET [09/07/2022 3:57:20 ET]
+Table '3438909343 1' 3-max Siège #2 est au bouton.
+Place 1: jennyascoeur (175 en jetons) 
+Place 2: psychoman59 (455 en jetons) 
+Place 3: chtal62 (270 en jetons) 
+chtal62 : met la petite blind. 15
+jennyascoeur : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 5s]
+psychoman59 : passe. 
+chtal62 : suit. 15
+jennyascoeur : parole 
+*** FLOP *** [Ad 6h Ks]
+chtal62 : mise. 60
+jennyascoeur : passe. 
+Personne n'a suivi. (60) sont retournés à chtal62.
+chtal62 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ad 6h Ks]
+Siège 1 : jennyascoeur (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : chtal62 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237249287501 : Tournoi #3438909343, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2022 9:57:40 CET [09/07/2022 3:57:40 ET]
+Table '3438909343 1' 3-max Siège #3 est au bouton.
+Place 1: jennyascoeur (145 en jetons) 
+Place 2: psychoman59 (455 en jetons) 
+Place 3: chtal62 (300 en jetons) 
+jennyascoeur : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 7s]
+chtal62 : passe. 
+jennyascoeur : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : jennyascoeur (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : chtal62 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237249288366 : Tournoi #3438909343, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2022 9:57:48 CET [09/07/2022 3:57:48 ET]
+Table '3438909343 1' 3-max Siège #1 est au bouton.
+Place 1: jennyascoeur (125 en jetons) 
+Place 2: psychoman59 (475 en jetons) 
+Place 3: chtal62 (300 en jetons) 
+psychoman59 : met la petite blind. 20
+chtal62 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 4s]
+jennyascoeur : suit. 40
+psychoman59 : passe. 
+chtal62 : parole 
+*** FLOP *** [3s 9h 9s]
+chtal62 : parole 
+jennyascoeur : parole 
+*** TOURNANT *** [3s 9h 9s] [5s]
+chtal62 : parole 
+jennyascoeur : mise. 40
+chtal62 : suit. 40
+*** RIVIÈRE *** [3s 9h 9s 5s] [6h]
+chtal62 : mise. 80
+jennyascoeur : passe. 
+Personne n'a suivi. (80) sont retournés à chtal62.
+chtal62 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [3s 9h 9s 5s 6h]
+Siège 1 : jennyascoeur (bouton) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : chtal62 (grosse blind) a remporté (180)
+
+
+
+Main PokerStars n°237249291484 : Tournoi #3438909343, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2022 9:58:15 CET [09/07/2022 3:58:15 ET]
+Table '3438909343 1' 3-max Siège #2 est au bouton.
+Place 1: jennyascoeur (45 en jetons) 
+Place 2: psychoman59 (455 en jetons) 
+Place 3: chtal62 (400 en jetons) 
+chtal62 : met la petite blind. 20
+jennyascoeur : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2h]
+psychoman59 : passe. 
+chtal62 : relance. 40 à 80
+jennyascoeur : suit. 5 et est all-in.
+Personne n'a suivi. (35) sont retournés à chtal62.
+*** FLOP *** [5c Jd Ah]
+*** TOURNANT *** [5c Jd Ah] [3s]
+*** RIVIÈRE *** [5c Jd Ah 3s] [9h]
+*** ABATTAGE ***
+chtal62 : montre [Ad Td] (une paire de As)
+jennyascoeur : montre [Kc 8d] (Hauteur As)
+chtal62 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [5c Jd Ah 3s 9h]
+Siège 1 : jennyascoeur (grosse blind) a montré [Kc 8d] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : chtal62 (petite blind) a montré [Ad Td] et a gagné (90) avec une paire de As
+
+
+
+Main PokerStars n°237249293691 : Tournoi #3438909343, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2022 9:58:34 CET [09/07/2022 3:58:34 ET]
+Table '3438909343 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (455 en jetons) 
+Place 3: chtal62 (445 en jetons) 
+chtal62 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 9d]
+chtal62 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [9c Qc Ac]
+psychoman59 : parole 
+chtal62 : parole 
+*** TOURNANT *** [9c Qc Ac] [7c]
+psychoman59 : parole 
+chtal62 : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [9c Qc Ac 7c] [3d]
+psychoman59 : parole 
+chtal62 : mise. 160
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à chtal62.
+chtal62 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [9c Qc Ac 7c 3d]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : chtal62 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°237249297575 : Tournoi #3438909343, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2022 9:59:08 CET [09/07/2022 3:59:08 ET]
+Table '3438909343 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (375 en jetons) 
+Place 3: chtal62 (525 en jetons) 
+psychoman59 : met la petite blind. 30
+chtal62 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Js]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à chtal62.
+chtal62 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : chtal62 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237249298162 : Tournoi #3438909343, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2022 9:59:12 CET [09/07/2022 3:59:12 ET]
+Table '3438909343 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (345 en jetons) 
+Place 3: chtal62 (555 en jetons) 
+chtal62 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Qd]
+chtal62 : relance. 240 à 300
+psychoman59 : passe. 
+Personne n'a suivi. (240) sont retournés à chtal62.
+chtal62 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : chtal62 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237249299237 : Tournoi #3438909343, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2022 9:59:22 CET [09/07/2022 3:59:22 ET]
+Table '3438909343 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (285 en jetons) 
+Place 3: chtal62 (615 en jetons) 
+psychoman59 : met la petite blind. 30
+chtal62 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à chtal62.
+chtal62 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : chtal62 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237249299823 : Tournoi #3438909343, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2022 9:59:27 CET [09/07/2022 3:59:27 ET]
+Table '3438909343 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (255 en jetons) 
+Place 3: chtal62 (645 en jetons) 
+chtal62 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Jc]
+chtal62 : suit. 30
+psychoman59 : relance. 195 à 255 et est all-in.
+chtal62 : passe. 
+Personne n'a suivi. (195) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : chtal62 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237249301336 : Tournoi #3438909343, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 09/07/2022 9:59:40 CET [09/07/2022 3:59:40 ET]
+Table '3438909343 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (315 en jetons) 
+Place 3: chtal62 (585 en jetons) 
+psychoman59 : met la petite blind. 40
+chtal62 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Kc]
+psychoman59 : relance. 235 à 315 et est all-in.
+chtal62 : passe. 
+Personne n'a suivi. (235) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 3 : chtal62 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237249302324 : Tournoi #3438909343, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 09/07/2022 9:59:48 CET [09/07/2022 3:59:48 ET]
+Table '3438909343 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (395 en jetons) 
+Place 3: chtal62 (505 en jetons) 
+chtal62 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Jd]
+chtal62 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [Ad 8s Ah]
+psychoman59 : mise. 315 et est all-in.
+chtal62 : passe. 
+Personne n'a suivi. (315) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Ad 8s Ah]
+Siège 2 : psychoman59 (grosse blind) a remporté (160)
+Siège 3 : chtal62 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237249304765 : Tournoi #3438909343, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 09/07/2022 10:00:09 CET [09/07/2022 4:00:09 ET]
+Table '3438909343 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (475 en jetons) 
+Place 3: chtal62 (425 en jetons) 
+psychoman59 : met la petite blind. 40
+chtal62 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Qs]
+psychoman59 : relance. 80 à 160
+chtal62 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 3 : chtal62 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237249305651 : Tournoi #3438909343, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 09/07/2022 10:00:17 CET [09/07/2022 4:00:17 ET]
+Table '3438909343 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (555 en jetons) 
+Place 3: chtal62 (345 en jetons) 
+chtal62 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Ks]
+chtal62 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : chtal62 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237249306333 : Tournoi #3438909343, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 09/07/2022 10:00:22 CET [09/07/2022 4:00:22 ET]
+Table '3438909343 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (595 en jetons) 
+Place 3: chtal62 (305 en jetons) 
+psychoman59 : met la petite blind. 40
+chtal62 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 2h]
+psychoman59 : relance. 80 à 160
+chtal62 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 3 : chtal62 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237249308649 : Tournoi #3438909343, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 09/07/2022 10:00:41 CET [09/07/2022 4:00:41 ET]
+Table '3438909343 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (675 en jetons) 
+Place 3: chtal62 (225 en jetons) 
+chtal62 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Kc]
+chtal62 : relance. 100 à 200
+psychoman59 : suit. 100
+*** FLOP *** [3h 5d 7h]
+psychoman59 : mise. 100
+chtal62 : suit. 25 et est all-in.
+Personne n'a suivi. (75) sont retournés à psychoman59.
+*** TOURNANT *** [3h 5d 7h] [Qc]
+*** RIVIÈRE *** [3h 5d 7h Qc] [Js]
+*** ABATTAGE ***
+psychoman59 : montre [Th Kc] (Hauteur Roi)
+chtal62 : montre [8d Jd] (une paire de Valets)
+chtal62 a remporté 450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [3h 5d 7h Qc Js]
+Siège 2 : psychoman59 (grosse blind) a montré [Th Kc] et a perdu avec Hauteur Roi
+Siège 3 : chtal62 (bouton) (petite blind) a montré [8d Jd] et a gagné (450) avec une paire de Valets
+
+
+
+Main PokerStars n°237249311691 : Tournoi #3438909343, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 09/07/2022 10:01:06 CET [09/07/2022 4:01:06 ET]
+Table '3438909343 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (450 en jetons) 
+Place 3: chtal62 (450 en jetons) 
+psychoman59 : met la petite blind. 50
+chtal62 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Ah]
+psychoman59 : relance. 350 à 450 et est all-in.
+chtal62 : suit. 350 et est all-in.
+*** FLOP *** [7h Qc 7c]
+*** TOURNANT *** [7h Qc 7c] [6s]
+*** RIVIÈRE *** [7h Qc 7c 6s] [Jd]
+*** ABATTAGE ***
+chtal62 : montre [8s 8d] (double paire, Huit et Sept)
+psychoman59 : montre [Kd Ah] (une paire de Sept)
+chtal62 a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [7h Qc 7c 6s Jd]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Kd Ah] et a perdu avec une paire de Sept
+Siège 3 : chtal62 (grosse blind) a montré [8s 8d] et a gagné (900) avec double paire, Huit et Sept
+
+
+

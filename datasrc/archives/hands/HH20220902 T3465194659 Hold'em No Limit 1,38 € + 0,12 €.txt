@@ -1,0 +1,139 @@
+﻿Main PokerStars n°238365202613 : Tournoi #3465194659, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 02/09/2022 13:42:38 CET [02/09/2022 7:42:38 ET]
+Table '3465194659 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 2: Debo2703 (5000 en jetons) 
+Place 3: DSven23 (5000 en jetons) 
+Place 4: kiko2406 (5000 en jetons) 
+psychoman59 : met l'ante. 10
+Debo2703 : met l'ante. 10
+DSven23 : met l'ante. 10
+kiko2406 : met l'ante. 10
+Debo2703 : met la petite blind. 50
+DSven23 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 5s]
+kiko2406 : relance. 100 à 200
+psychoman59 : passe. 
+Debo2703 : relance. 540 à 740
+DSven23 : passe. 
+kiko2406 : relance. 4250 à 4990 et est all-in.
+Debo2703 : suit. 4250 et est all-in.
+*** FLOP *** [7s Td Ad]
+*** TOURNANT *** [7s Td Ad] [3c]
+*** RIVIÈRE *** [7s Td Ad 3c] [9s]
+*** ABATTAGE ***
+Debo2703 : montre [Js Jc] (une paire de Valets)
+kiko2406 : montre [8h 8c] (une paire de Huit)
+Debo2703 a remporté 10120  lors du pot .
+kiko2406 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10120 | Commission 0 
+Tableau [7s Td Ad 3c 9s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Debo2703 (petite blind) a montré [Js Jc] et a gagné (10120) avec une paire de Valets
+Siège 3 : DSven23 (grosse blind) s'est couché. avant Flop
+Siège 4 : kiko2406 a montré [8h 8c] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°238365212508 : Tournoi #3465194659, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 02/09/2022 13:43:30 CET [02/09/2022 7:43:30 ET]
+Table '3465194659 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4990 en jetons) 
+Place 2: Debo2703 (10120 en jetons) 
+Place 3: DSven23 (4890 en jetons) 
+psychoman59 : met l'ante. 10
+Debo2703 : met l'ante. 10
+DSven23 : met l'ante. 10
+DSven23 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Jc]
+Debo2703 : passe. 
+DSven23 : relance. 200 à 300
+psychoman59 : relance. 4680 à 4980 et est all-in.
+DSven23 : suit. 4580 et est all-in.
+Personne n'a suivi. (100) sont retournés à psychoman59.
+*** FLOP *** [8h 2s 3d]
+*** TOURNANT *** [8h 2s 3d] [9c]
+*** RIVIÈRE *** [8h 2s 3d 9c] [8s]
+*** ABATTAGE ***
+DSven23 : montre [Ac Kc] (une paire de Huit)
+psychoman59 : montre [Ah Jc] (une paire de Huit - plus basse kicker)
+DSven23 a remporté 9790  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9790 | Commission 0 
+Tableau [8h 2s 3d 9c 8s]
+Siège 1 : psychoman59 (grosse blind) a montré [Ah Jc] et a perdu avec une paire de Huit
+Siège 2 : Debo2703 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : DSven23 (petite blind) a montré [Ac Kc] et a gagné (9790) avec une paire de Huit
+
+
+
+Main PokerStars n°238365217608 : Tournoi #3465194659, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 02/09/2022 13:43:57 CET [02/09/2022 7:43:57 ET]
+Table '3465194659 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (100 en jetons) 
+Place 2: Debo2703 (10110 en jetons) 
+Place 3: DSven23 (9790 en jetons) 
+psychoman59 : met l'ante. 10
+Debo2703 : met l'ante. 10
+DSven23 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+Debo2703 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 8c]
+DSven23 : relance. 100 à 200
+psychoman59 : suit. 40 et est all-in.
+Debo2703 : passe. 
+Personne n'a suivi. (100) sont retournés à DSven23.
+*** FLOP *** [Ks Js 8h]
+*** TOURNANT *** [Ks Js 8h] [Ts]
+*** RIVIÈRE *** [Ks Js 8h Ts] [5c]
+*** ABATTAGE ***
+DSven23 : montre [3h As] (Hauteur As)
+DSven23 a remporté 20  parallèle lors du pot .
+psychoman59 : montre [Td 8c] (double paire, Dix et Huit)
+psychoman59 a remporté 300  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 Principal pot 300. Parallèle pot 20. | Commission 0 
+Tableau [Ks Js 8h Ts 5c]
+Siège 1 : psychoman59 (petite blind) a montré [Td 8c] et a gagné (300) avec double paire, Dix et Huit
+Siège 2 : Debo2703 (grosse blind) s'est couché. avant Flop
+Siège 3 : DSven23 (bouton) a montré [3h As] et a gagné (20) avec Hauteur As
+
+
+
+Main PokerStars n°238365221315 : Tournoi #3465194659, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 02/09/2022 13:44:16 CET [02/09/2022 7:44:16 ET]
+Table '3465194659 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Debo2703 (10000 en jetons) 
+Place 3: DSven23 (9700 en jetons) 
+psychoman59 : met l'ante. 10
+Debo2703 : met l'ante. 10
+DSven23 : met l'ante. 10
+Debo2703 : met la petite blind. 50
+DSven23 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 7d]
+psychoman59 : relance. 190 à 290 et est all-in.
+Debo2703 : suit. 240
+DSven23 : suit. 190
+*** FLOP *** [4c Ks Kc]
+Debo2703 : mise. 450
+DSven23 : passe. 
+Personne n'a suivi. (450) sont retournés à Debo2703.
+*** TOURNANT *** [4c Ks Kc] [Jd]
+*** RIVIÈRE *** [4c Ks Kc Jd] [Jc]
+*** ABATTAGE ***
+Debo2703 : montre [Kd Js] (un full, full aux Rois par les Valets)
+psychoman59 : montre [Qc 7d] (double paire, Rois et Valets)
+Debo2703 a remporté 900  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [4c Ks Kc Jd Jc]
+Siège 1 : psychoman59 (bouton) a montré [Qc 7d] et a perdu avec double paire, Rois et Valets
+Siège 2 : Debo2703 (petite blind) a montré [Kd Js] et a gagné (900) avec un full, full aux Rois par les Valets
+Siège 3 : DSven23 (grosse blind) s'est couché. sur le Flop
+
+
+

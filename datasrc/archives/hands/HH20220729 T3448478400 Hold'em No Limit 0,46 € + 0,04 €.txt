@@ -1,0 +1,369 @@
+﻿Main PokerStars n°237660330743 : Tournoi #3448478400, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 17:37:56 CET [29/07/2022 11:37:56 ET]
+Table '3448478400 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 2: Sat2140 (5000 en jetons) 
+Place 3: nobrain974 (5000 en jetons) 
+Place 4: JcUys (5000 en jetons) 
+psychoman59 : met l'ante. 10
+Sat2140 : met l'ante. 10
+nobrain974 : met l'ante. 10
+JcUys : met l'ante. 10
+Sat2140 : met la petite blind. 50
+nobrain974 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 4s]
+JcUys : relance. 300 à 400
+psychoman59 : passe. 
+Sat2140 : suit. 350
+nobrain974 : suit. 300
+*** FLOP *** [3c Kc 9h]
+Sat2140 : mise. 300
+nobrain974 : passe. 
+JcUys : relance. 1000 à 1300
+Sat2140 : suit. 1000
+*** TOURNANT *** [3c Kc 9h] [9d]
+Sat2140 : parole 
+JcUys : mise. 3290 et est all-in.
+Sat2140 : suit. 3290 et est all-in.
+*** RIVIÈRE *** [3c Kc 9h 9d] [2h]
+*** ABATTAGE ***
+Sat2140 : montre [Td Ts] (double paire, Dix et Neuf)
+JcUys : montre [Tc Ks] (double paire, Rois et Neuf)
+JcUys a remporté 10420  lors du pot .
+Sat2140 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10420 | Commission 0 
+Tableau [3c Kc 9h 9d 2h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Sat2140 (petite blind) a montré [Td Ts] et a perdu avec double paire, Dix et Neuf
+Siège 3 : nobrain974 (grosse blind) s'est couché. sur le Flop
+Siège 4 : JcUys a montré [Tc Ks] et a gagné (10420) avec double paire, Rois et Neuf
+
+
+
+Main PokerStars n°237660353185 : Tournoi #3448478400, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 17:39:18 CET [29/07/2022 11:39:18 ET]
+Table '3448478400 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4990 en jetons) 
+Place 3: nobrain974 (4590 en jetons) 
+Place 4: JcUys (10420 en jetons) 
+psychoman59 : met l'ante. 10
+nobrain974 : met l'ante. 10
+JcUys : met l'ante. 10
+JcUys : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Ad]
+nobrain974 : relance. 100 à 200
+JcUys : suit. 150
+psychoman59 : suit. 100
+*** FLOP *** [Qc Jh 2h]
+JcUys : parole 
+psychoman59 : parole 
+nobrain974 : mise. 315
+JcUys : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (315) sont retournés à nobrain974.
+nobrain974 a remporté 630  lors du pot .
+nobrain974 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 630 | Commission 0 
+Tableau [Qc Jh 2h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : nobrain974 (bouton) a remporté (630)
+Siège 4 : JcUys (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237660360501 : Tournoi #3448478400, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 17:39:45 CET [29/07/2022 11:39:45 ET]
+Table '3448478400 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4780 en jetons) 
+Place 3: nobrain974 (5010 en jetons) 
+Place 4: JcUys (10210 en jetons) 
+psychoman59 : met l'ante. 10
+nobrain974 : met l'ante. 10
+JcUys : met l'ante. 10
+psychoman59 : met la petite blind. 50
+nobrain974 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 3h]
+JcUys : suit. 100
+psychoman59 : suit. 50
+nobrain974 : parole 
+*** FLOP *** [Kd 2s 8d]
+psychoman59 : parole 
+nobrain974 : parole 
+JcUys : parole 
+*** TOURNANT *** [Kd 2s 8d] [7d]
+psychoman59 : parole 
+nobrain974 : parole 
+JcUys : parole 
+*** RIVIÈRE *** [Kd 2s 8d 7d] [Kc]
+psychoman59 : parole 
+nobrain974 : parole 
+JcUys : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ah 3h] (une paire de Rois)
+nobrain974 : cache la main perdante. 
+JcUys : cache la main perdante. 
+psychoman59 a remporté 330  lors du pot .
+*** SYNTHÈSE ***
+Pot total 330 | Commission 0 
+Tableau [Kd 2s 8d 7d Kc]
+Siège 1 : psychoman59 (petite blind) a montré [Ah 3h] et a gagné (330) avec une paire de Rois
+Siège 3 : nobrain974 (grosse blind) a caché la main perdante. [9h 4h]
+Siège 4 : JcUys (bouton) a caché la main perdante. [3d 4s]
+
+
+
+Main PokerStars n°237660369549 : Tournoi #3448478400, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 17:40:17 CET [29/07/2022 11:40:17 ET]
+Table '3448478400 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 3: nobrain974 (4900 en jetons) 
+Place 4: JcUys (10100 en jetons) 
+psychoman59 : met l'ante. 10
+nobrain974 : met l'ante. 10
+JcUys : met l'ante. 10
+nobrain974 : met la petite blind. 50
+JcUys : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 5h]
+psychoman59 : passe. 
+nobrain974 : suit. 50
+JcUys : parole 
+*** FLOP *** [3c 8c 4c]
+nobrain974 : parole 
+JcUys : parole 
+*** TOURNANT *** [3c 8c 4c] [Kc]
+nobrain974 : mise. 200
+JcUys : passe. 
+Personne n'a suivi. (200) sont retournés à nobrain974.
+nobrain974 a remporté 230  lors du pot .
+nobrain974 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 230 | Commission 0 
+Tableau [3c 8c 4c Kc]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : nobrain974 (petite blind) a remporté (230)
+Siège 4 : JcUys (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237660379711 : Tournoi #3448478400, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/07/2022 17:40:55 CET [29/07/2022 11:40:55 ET]
+Table '3448478400 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4990 en jetons) 
+Place 3: nobrain974 (5020 en jetons) 
+Place 4: JcUys (9990 en jetons) 
+psychoman59 : met l'ante. 10
+nobrain974 : met l'ante. 10
+JcUys : met l'ante. 10
+JcUys : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Ad]
+nobrain974 : suit. 100
+JcUys : relance. 500 à 600
+psychoman59 : passe. 
+nobrain974 : suit. 500
+*** FLOP *** [5s 6h 6d]
+JcUys : mise. 1330
+nobrain974 : suit. 1330
+*** TOURNANT *** [5s 6h 6d] [Ah]
+JcUys : mise. 3990
+nobrain974 : passe. 
+Personne n'a suivi. (3990) sont retournés à JcUys.
+JcUys a remporté 3990  lors du pot .
+JcUys : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 3990 | Commission 0 
+Tableau [5s 6h 6d Ah]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : nobrain974 (bouton) s'est couché. sur le Tournant
+Siège 4 : JcUys (petite blind) a remporté (3990)
+
+
+
+Main PokerStars n°237660388322 : Tournoi #3448478400, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/07/2022 17:41:26 CET [29/07/2022 11:41:26 ET]
+Table '3448478400 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4880 en jetons) 
+Place 3: nobrain974 (3080 en jetons) 
+Place 4: JcUys (12040 en jetons) 
+psychoman59 : met l'ante. 15
+nobrain974 : met l'ante. 15
+JcUys : met l'ante. 15
+psychoman59 : met la petite blind. 60
+nobrain974 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Jd]
+JcUys : relance. 240 à 360
+psychoman59 : passe. 
+nobrain974 : suit. 240
+*** FLOP *** [9h 4s 7c]
+nobrain974 : parole 
+JcUys : mise. 412
+nobrain974 : suit. 412
+*** TOURNANT *** [9h 4s 7c] [As]
+nobrain974 : parole 
+JcUys : parole 
+*** RIVIÈRE *** [9h 4s 7c As] [Qs]
+nobrain974 : mise. 824
+JcUys : relance. 3297 à 4121
+nobrain974 : passe. 
+Personne n'a suivi. (3297) sont retournés à JcUys.
+JcUys a remporté 3297  lors du pot .
+JcUys : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 3297 | Commission 0 
+Tableau [9h 4s 7c As Qs]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : nobrain974 (grosse blind) s'est couché. sur le Rivière
+Siège 4 : JcUys (bouton) a remporté (3297)
+
+
+
+Main PokerStars n°237660396428 : Tournoi #3448478400, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/07/2022 17:41:55 CET [29/07/2022 11:41:55 ET]
+Table '3448478400 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4805 en jetons) 
+Place 3: nobrain974 (1469 en jetons) 
+Place 4: JcUys (13726 en jetons) 
+psychoman59 : met l'ante. 15
+nobrain974 : met l'ante. 15
+JcUys : met l'ante. 15
+nobrain974 : met la petite blind. 60
+JcUys : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Jh]
+psychoman59 : relance. 345 à 465
+nobrain974 : relance. 989 à 1454 et est all-in.
+JcUys : passe. 
+psychoman59 : suit. 989
+*** FLOP *** [9d Ks 7h]
+*** TOURNANT *** [9d Ks 7h] [3s]
+*** RIVIÈRE *** [9d Ks 7h 3s] [Jc]
+*** ABATTAGE ***
+nobrain974 : montre [Kd Kh] (un brelan de Rois)
+psychoman59 : montre [Ad Jh] (une paire de Valets)
+nobrain974 a remporté 3073  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3073 | Commission 0 
+Tableau [9d Ks 7h 3s Jc]
+Siège 1 : psychoman59 (bouton) a montré [Ad Jh] et a perdu avec une paire de Valets
+Siège 3 : nobrain974 (petite blind) a montré [Kd Kh] et a gagné (3073) avec un brelan de Rois
+Siège 4 : JcUys (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237660403671 : Tournoi #3448478400, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/07/2022 17:42:22 CET [29/07/2022 11:42:22 ET]
+Table '3448478400 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (3336 en jetons) 
+Place 3: nobrain974 (3073 en jetons) 
+Place 4: JcUys (13591 en jetons) 
+psychoman59 : met l'ante. 15
+nobrain974 : met l'ante. 15
+JcUys : met l'ante. 15
+JcUys : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 4d]
+nobrain974 : passe. 
+JcUys : relance. 285 à 405
+psychoman59 : passe. 
+Personne n'a suivi. (285) sont retournés à JcUys.
+JcUys a remporté 285  lors du pot .
+JcUys : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : nobrain974 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : JcUys (petite blind) a remporté (285)
+
+
+
+Main PokerStars n°237660410778 : Tournoi #3448478400, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/07/2022 17:42:40 CET [29/07/2022 11:42:40 ET]
+Table '3448478400 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (3201 en jetons) 
+Place 3: nobrain974 (3058 en jetons) 
+Place 4: JcUys (13741 en jetons) 
+psychoman59 : met l'ante. 15
+nobrain974 : met l'ante. 15
+JcUys : met l'ante. 15
+psychoman59 : met la petite blind. 60
+nobrain974 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 9c]
+JcUys : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à nobrain974.
+nobrain974 a remporté 165  lors du pot .
+nobrain974 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : nobrain974 (grosse blind) a remporté (165)
+Siège 4 : JcUys (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237660414048 : Tournoi #3448478400, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/07/2022 17:42:52 CET [29/07/2022 11:42:52 ET]
+Table '3448478400 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (3126 en jetons) 
+Place 3: nobrain974 (3148 en jetons) 
+Place 4: JcUys (13726 en jetons) 
+psychoman59 : met l'ante. 15
+nobrain974 : met l'ante. 15
+JcUys : met l'ante. 15
+nobrain974 : met la petite blind. 60
+JcUys : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 6h]
+psychoman59 : passe. 
+nobrain974 : suit. 60
+JcUys : relance. 240 à 360
+nobrain974 : suit. 240
+*** FLOP *** [Ac 4d Jd]
+nobrain974 : mise. 240
+JcUys : passe. 
+Personne n'a suivi. (240) sont retournés à nobrain974.
+nobrain974 a remporté 765  lors du pot .
+nobrain974 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 765 | Commission 0 
+Tableau [Ac 4d Jd]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : nobrain974 (petite blind) a remporté (765)
+Siège 4 : JcUys (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237660419660 : Tournoi #3448478400, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/07/2022 17:43:12 CET [29/07/2022 11:43:12 ET]
+Table '3448478400 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (3111 en jetons) 
+Place 3: nobrain974 (3538 en jetons) 
+Place 4: JcUys (13351 en jetons) 
+psychoman59 : met l'ante. 15
+nobrain974 : met l'ante. 15
+JcUys : met l'ante. 15
+JcUys : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ac]
+nobrain974 : relance. 120 à 240
+JcUys : passe. 
+psychoman59 : relance. 2856 à 3096 et est all-in.
+nobrain974 : suit. 2856
+*** FLOP *** [3d Td Ts]
+*** TOURNANT *** [3d Td Ts] [Jd]
+*** RIVIÈRE *** [3d Td Ts Jd] [7h]
+*** ABATTAGE ***
+psychoman59 : montre [9d Ac] (une paire de Dix)
+nobrain974 : montre [Ah Qs] (une paire de Dix - As+Dame kicker)
+nobrain974 a remporté 6297  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 6297 | Commission 0 
+Tableau [3d Td Ts Jd 7h]
+Siège 1 : psychoman59 (grosse blind) a montré [9d Ac] et a perdu avec une paire de Dix
+Siège 3 : nobrain974 (bouton) a montré [Ah Qs] et a gagné (6297) avec une paire de Dix
+Siège 4 : JcUys (petite blind) s'est couché. avant Flop
+
+
+

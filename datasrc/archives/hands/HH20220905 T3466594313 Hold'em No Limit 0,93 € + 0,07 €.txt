@@ -1,0 +1,233 @@
+﻿Main PokerStars n°238426331344 : Tournoi #3466594313, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/09/2022 7:53:50 CET [05/09/2022 1:53:50 ET]
+Table '3466594313 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: 18alex93 (300 en jetons) 
+Place 3: mimilooser (300 en jetons) 
+18alex93 : met la petite blind. 10
+mimilooser : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 5s]
+psychoman59 : passe. 
+18alex93 : relance. 20 à 40
+mimilooser : suit. 20
+*** FLOP *** [Kc 5d 8s]
+18alex93 : mise. 40
+mimilooser : passe. 
+Personne n'a suivi. (40) sont retournés à 18alex93.
+18alex93 a remporté 80  lors du pot .
+18alex93 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Kc 5d 8s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 18alex93 (petite blind) a remporté (80)
+Siège 3 : mimilooser (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238426332645 : Tournoi #3466594313, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/09/2022 7:54:03 CET [05/09/2022 1:54:03 ET]
+Table '3466594313 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: 18alex93 (340 en jetons) 
+Place 3: mimilooser (260 en jetons) 
+mimilooser : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8d]
+18alex93 : passe. 
+mimilooser : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Th Tc 8h]
+mimilooser : parole 
+psychoman59 : mise. 40
+mimilooser : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Th Tc 8h]
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : 18alex93 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : mimilooser (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238426334235 : Tournoi #3466594313, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/09/2022 7:54:18 CET [05/09/2022 1:54:18 ET]
+Table '3466594313 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: 18alex93 (340 en jetons) 
+Place 3: mimilooser (240 en jetons) 
+psychoman59 : met la petite blind. 10
+18alex93 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 9d]
+mimilooser : relance. 20 à 40
+psychoman59 : passe. 
+18alex93 : suit. 20
+*** FLOP *** [Ah Qh 3s]
+18alex93 : parole 
+mimilooser : parole 
+*** TOURNANT *** [Ah Qh 3s] [3c]
+18alex93 : parole 
+mimilooser : parole 
+*** RIVIÈRE *** [Ah Qh 3s 3c] [Qc]
+18alex93 : mise. 45
+mimilooser : relance. 45 à 90
+18alex93 : suit. 45
+*** ABATTAGE ***
+mimilooser : montre [Ad As] (un full, full aux As par les Dames)
+18alex93 : cache la main perdante. 
+mimilooser a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [Ah Qh 3s 3c Qc]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : 18alex93 (grosse blind) a caché la main perdante. [2c Jc]
+Siège 3 : mimilooser (bouton) a montré [Ad As] et a gagné (270) avec un full, full aux As par les Dames
+
+
+
+Main PokerStars n°238426336725 : Tournoi #3466594313, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/09/2022 7:54:42 CET [05/09/2022 1:54:42 ET]
+Table '3466594313 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: 18alex93 (210 en jetons) 
+Place 3: mimilooser (380 en jetons) 
+18alex93 : met la petite blind. 10
+mimilooser : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 7h]
+psychoman59 : relance. 290 à 310 et est all-in.
+18alex93 : passe. 
+mimilooser : passe. 
+Personne n'a suivi. (290) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (50)
+Siège 2 : 18alex93 (petite blind) s'est couché. avant Flop
+Siège 3 : mimilooser (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238426338094 : Tournoi #3466594313, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/09/2022 7:54:56 CET [05/09/2022 1:54:56 ET]
+Table '3466594313 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: 18alex93 (200 en jetons) 
+Place 3: mimilooser (360 en jetons) 
+mimilooser : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Qs]
+18alex93 : relance. 170 à 200 et est all-in.
+mimilooser : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (170) sont retournés à 18alex93.
+18alex93 a remporté 75  lors du pot .
+18alex93 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : 18alex93 (bouton) a remporté (75)
+Siège 3 : mimilooser (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238426339417 : Tournoi #3466594313, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/09/2022 7:55:09 CET [05/09/2022 1:55:09 ET]
+Table '3466594313 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: 18alex93 (245 en jetons) 
+Place 3: mimilooser (345 en jetons) 
+psychoman59 : met la petite blind. 15
+18alex93 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 4h]
+mimilooser : relance. 30 à 60
+psychoman59 : passe. 
+18alex93 : passe. 
+Personne n'a suivi. (30) sont retournés à mimilooser.
+mimilooser a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : 18alex93 (grosse blind) s'est couché. avant Flop
+Siège 3 : mimilooser (bouton) a remporté (75)
+
+
+
+Main PokerStars n°238426340302 : Tournoi #3466594313, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/09/2022 7:55:19 CET [05/09/2022 1:55:19 ET]
+Table '3466594313 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (295 en jetons) 
+Place 2: 18alex93 (215 en jetons) 
+Place 3: mimilooser (390 en jetons) 
+18alex93 : met la petite blind. 15
+mimilooser : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 7s]
+psychoman59 : passe. 
+18alex93 : relance. 185 à 215 et est all-in.
+mimilooser : suit. 185
+*** FLOP *** [7d Kh 8d]
+*** TOURNANT *** [7d Kh 8d] [Tc]
+*** RIVIÈRE *** [7d Kh 8d Tc] [5h]
+*** ABATTAGE ***
+18alex93 : montre [3s 6s] (Hauteur Roi)
+mimilooser : montre [9d Ac] (Hauteur As)
+mimilooser a remporté 430  lors du pot .
+18alex93 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 430 | Commission 0 
+Tableau [7d Kh 8d Tc 5h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 18alex93 (petite blind) a montré [3s 6s] et a perdu avec Hauteur Roi
+Siège 3 : mimilooser (grosse blind) a montré [9d Ac] et a gagné (430) avec Hauteur As
+
+
+
+Main PokerStars n°238426341962 : Tournoi #3466594313, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/09/2022 7:55:38 CET [05/09/2022 1:55:38 ET]
+Table '3466594313 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (295 en jetons) 
+Place 3: mimilooser (605 en jetons) 
+mimilooser : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 9h]
+mimilooser : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : mimilooser (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238426342367 : Tournoi #3466594313, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/09/2022 7:55:43 CET [05/09/2022 1:55:43 ET]
+Table '3466594313 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 3: mimilooser (590 en jetons) 
+psychoman59 : met la petite blind. 15
+mimilooser : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Ah]
+psychoman59 : relance. 280 à 310 et est all-in.
+mimilooser : suit. 280
+*** FLOP *** [Ad 4h 7c]
+*** TOURNANT *** [Ad 4h 7c] [Kd]
+*** RIVIÈRE *** [Ad 4h 7c Kd] [Jd]
+*** ABATTAGE ***
+mimilooser : montre [As Ac] (un brelan de As)
+psychoman59 : montre [2h Ah] (une paire de As)
+mimilooser a remporté 620  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+mimilooser remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Ad 4h 7c Kd Jd]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [2h Ah] et a perdu avec une paire de As
+Siège 3 : mimilooser (grosse blind) a montré [As Ac] et a gagné (620) avec un brelan de As
+
+
+

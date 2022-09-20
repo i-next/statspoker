@@ -1,0 +1,320 @@
+﻿Main PokerStars n°237249689431 : Tournoi #3438920033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2022 10:46:33 CET [09/07/2022 4:46:33 ET]
+Table '3438920033 1' 3-max Siège #1 est au bouton.
+Place 1: Negatif63 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: joce83120 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+joce83120 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Ah]
+Negatif63 : passe. 
+psychoman59 : relance. 20 à 40
+joce83120 : suit. 20
+*** FLOP *** [Qc Ts Jd]
+psychoman59 : mise. 80
+joce83120 : suit. 80
+*** TOURNANT *** [Qc Ts Jd] [5s]
+psychoman59 : mise. 120
+joce83120 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Qc Ts Jd 5s]
+Siège 1 : Negatif63 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (240)
+Siège 3 : joce83120 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237249695550 : Tournoi #3438920033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2022 10:47:16 CET [09/07/2022 4:47:16 ET]
+Table '3438920033 1' 3-max Siège #2 est au bouton.
+Place 1: Negatif63 (300 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+Place 3: joce83120 (180 en jetons) 
+joce83120 : met la petite blind. 10
+Negatif63 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7d]
+psychoman59 : passe. 
+joce83120 : suit. 10
+Negatif63 : parole 
+*** FLOP *** [Kh 5d 8c]
+joce83120 : parole 
+Negatif63 : mise. 40
+joce83120 : passe. 
+Personne n'a suivi. (40) sont retournés à Negatif63.
+Negatif63 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Kh 5d 8c]
+Siège 1 : Negatif63 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : joce83120 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237249698639 : Tournoi #3438920033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2022 10:47:37 CET [09/07/2022 4:47:37 ET]
+Table '3438920033 1' 3-max Siège #3 est au bouton.
+Place 1: Negatif63 (320 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+Place 3: joce83120 (160 en jetons) 
+Negatif63 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ac]
+joce83120 : suit. 30
+Negatif63 : passe. 
+psychoman59 : relance. 390 à 420 et est all-in.
+joce83120 : suit. 130 et est all-in.
+Personne n'a suivi. (260) sont retournés à psychoman59.
+*** FLOP *** [4s 3h 4d]
+*** TOURNANT *** [4s 3h 4d] [4c]
+*** RIVIÈRE *** [4s 3h 4d 4c] [Kd]
+*** ABATTAGE ***
+psychoman59 : montre [Tc Ac] (un brelan de Quatre)
+joce83120 : montre [Ks Qh] (un full, full aux Quatre par les Rois)
+joce83120 a remporté 335  lors du pot .
+*** SYNTHÈSE ***
+Pot total 335 | Commission 0 
+Tableau [4s 3h 4d 4c Kd]
+Siège 1 : Negatif63 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [Tc Ac] et a perdu avec un brelan de Quatre
+Siège 3 : joce83120 (bouton) a montré [Ks Qh] et a gagné (335) avec un full, full aux Quatre par les Rois
+
+
+
+Main PokerStars n°237249701195 : Tournoi #3438920033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2022 10:47:55 CET [09/07/2022 4:47:55 ET]
+Table '3438920033 1' 3-max Siège #1 est au bouton.
+Place 1: Negatif63 (305 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+Place 3: joce83120 (335 en jetons) 
+psychoman59 : met la petite blind. 15
+joce83120 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Ah]
+Negatif63 : passe. 
+psychoman59 : relance. 230 à 260 et est all-in.
+joce83120 : suit. 230
+*** FLOP *** [3s Jh 3h]
+*** TOURNANT *** [3s Jh 3h] [2h]
+*** RIVIÈRE *** [3s Jh 3h 2h] [8s]
+*** ABATTAGE ***
+psychoman59 : montre [Qc Ah] (une paire de Trois)
+joce83120 : montre [As Td] (une paire de Trois - plus basse kicker)
+psychoman59 a remporté 520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [3s Jh 3h 2h 8s]
+Siège 1 : Negatif63 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Qc Ah] et a gagné (520) avec une paire de Trois
+Siège 3 : joce83120 (grosse blind) a montré [As Td] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°237249703511 : Tournoi #3438920033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2022 10:48:11 CET [09/07/2022 4:48:11 ET]
+Table '3438920033 1' 3-max Siège #2 est au bouton.
+Place 1: Negatif63 (305 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: joce83120 (75 en jetons) 
+joce83120 : met la petite blind. 15
+Negatif63 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 2d]
+psychoman59 : relance. 30 à 60
+joce83120 : relance. 15 à 75 et est all-in.
+Negatif63 : passe. 
+psychoman59 : suit. 15
+*** FLOP *** [5c Qs Th]
+*** TOURNANT *** [5c Qs Th] [3h]
+*** RIVIÈRE *** [5c Qs Th 3h] [3c]
+*** ABATTAGE ***
+joce83120 : montre [7c As] (une paire de Trois)
+psychoman59 : montre [2h 2d] (double paire, Trois et Deux)
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [5c Qs Th 3h 3c]
+Siège 1 : Negatif63 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a montré [2h 2d] et a gagné (180) avec double paire, Trois et Deux
+Siège 3 : joce83120 (petite blind) a montré [7c As] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°237249706410 : Tournoi #3438920033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2022 10:48:32 CET [09/07/2022 4:48:32 ET]
+Table '3438920033 1' 3-max Siège #1 est au bouton.
+Place 1: Negatif63 (275 en jetons) 
+Place 2: psychoman59 (625 en jetons) 
+Negatif63 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Ad]
+Negatif63 : relance. 30 à 60
+psychoman59 : relance. 120 à 180
+Negatif63 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : Negatif63 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°237249708491 : Tournoi #3438920033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2022 10:48:46 CET [09/07/2022 4:48:46 ET]
+Table '3438920033 1' 3-max Siège #2 est au bouton.
+Place 1: Negatif63 (215 en jetons) 
+Place 2: psychoman59 (685 en jetons) 
+psychoman59 : met la petite blind. 20
+Negatif63 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Qd]
+psychoman59 : suit. 20
+Negatif63 : parole 
+*** FLOP *** [3c 8c Tc]
+Negatif63 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3c 8c Tc] [2s]
+Negatif63 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Negatif63.
+Negatif63 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3c 8c Tc 2s]
+Siège 1 : Negatif63 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237249711278 : Tournoi #3438920033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2022 10:49:06 CET [09/07/2022 4:49:06 ET]
+Table '3438920033 1' 3-max Siège #1 est au bouton.
+Place 1: Negatif63 (255 en jetons) 
+Place 2: psychoman59 (645 en jetons) 
+Negatif63 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Jc]
+Negatif63 : relance. 40 à 80
+psychoman59 : relance. 160 à 240
+Negatif63 : relance. 15 à 255 et est all-in.
+psychoman59 : suit. 15
+*** FLOP *** [Qs Jh 5c]
+*** TOURNANT *** [Qs Jh 5c] [Kd]
+*** RIVIÈRE *** [Qs Jh 5c Kd] [Ad]
+*** ABATTAGE ***
+psychoman59 : montre [Js Jc] (un brelan de Valets)
+Negatif63 : montre [Td Kc] (une suite, Dix à As)
+Negatif63 a remporté 510  lors du pot .
+*** SYNTHÈSE ***
+Pot total 510 | Commission 0 
+Tableau [Qs Jh 5c Kd Ad]
+Siège 1 : Negatif63 (bouton) (petite blind) a montré [Td Kc] et a gagné (510) avec une suite, Dix à As
+Siège 2 : psychoman59 (grosse blind) a montré [Js Jc] et a perdu avec un brelan de Valets
+
+
+
+Main PokerStars n°237249714346 : Tournoi #3438920033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2022 10:49:27 CET [09/07/2022 4:49:27 ET]
+Table '3438920033 1' 3-max Siège #2 est au bouton.
+Place 1: Negatif63 (510 en jetons) 
+Place 2: psychoman59 (390 en jetons) 
+psychoman59 : met la petite blind. 20
+Negatif63 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Negatif63.
+Negatif63 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Negatif63 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237249715024 : Tournoi #3438920033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2022 10:49:32 CET [09/07/2022 4:49:32 ET]
+Table '3438920033 1' 3-max Siège #1 est au bouton.
+Place 1: Negatif63 (530 en jetons) 
+Place 2: psychoman59 (370 en jetons) 
+Negatif63 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 9c]
+Negatif63 : suit. 20
+psychoman59 : relance. 330 à 370 et est all-in.
+Negatif63 : passe. 
+Personne n'a suivi. (330) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Negatif63 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237249716892 : Tournoi #3438920033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2022 10:49:45 CET [09/07/2022 4:49:45 ET]
+Table '3438920033 1' 3-max Siège #2 est au bouton.
+Place 1: Negatif63 (490 en jetons) 
+Place 2: psychoman59 (410 en jetons) 
+psychoman59 : met la petite blind. 30
+Negatif63 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 3h]
+psychoman59 : suit. 30
+Negatif63 : parole 
+*** FLOP *** [6s Ks 9d]
+Negatif63 : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à Negatif63.
+Negatif63 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6s Ks 9d]
+Siège 1 : Negatif63 (grosse blind) a remporté (120)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237249719336 : Tournoi #3438920033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2022 10:50:02 CET [09/07/2022 4:50:02 ET]
+Table '3438920033 1' 3-max Siège #1 est au bouton.
+Place 1: Negatif63 (550 en jetons) 
+Place 2: psychoman59 (350 en jetons) 
+Negatif63 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ah]
+Negatif63 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Negatif63 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237249720153 : Tournoi #3438920033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2022 10:50:07 CET [09/07/2022 4:50:07 ET]
+Table '3438920033 1' 3-max Siège #2 est au bouton.
+Place 1: Negatif63 (520 en jetons) 
+Place 2: psychoman59 (380 en jetons) 
+psychoman59 : met la petite blind. 30
+Negatif63 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ac]
+psychoman59 : relance. 320 à 380 et est all-in.
+Negatif63 : suit. 320
+*** FLOP *** [Th 8c 2d]
+*** TOURNANT *** [Th 8c 2d] [2c]
+*** RIVIÈRE *** [Th 8c 2d 2c] [7c]
+*** ABATTAGE ***
+Negatif63 : montre [6c 6s] (double paire, Six et Deux)
+psychoman59 : montre [9h Ac] (une paire de Deux)
+Negatif63 a remporté 760  lors du pot .
+*** SYNTHÈSE ***
+Pot total 760 | Commission 0 
+Tableau [Th 8c 2d 2c 7c]
+Siège 1 : Negatif63 (grosse blind) a montré [6c 6s] et a gagné (760) avec double paire, Six et Deux
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [9h Ac] et a perdu avec une paire de Deux
+
+
+

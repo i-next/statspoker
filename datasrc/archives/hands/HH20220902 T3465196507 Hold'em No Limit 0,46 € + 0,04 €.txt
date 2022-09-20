@@ -1,0 +1,94 @@
+﻿Main PokerStars n°238365157467 : Tournoi #3465196507, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/09/2022 13:38:38 CET [02/09/2022 7:38:38 ET]
+Table '3465196507 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 2: poutine212 (5000 en jetons) ne joue pas.
+Place 3: BopiumB (5000 en jetons) 
+Place 4: TilT_BoY$$27 (5000 en jetons) 
+psychoman59 : met l'ante. 10
+poutine212 : met l'ante. 10
+BopiumB : met l'ante. 10
+TilT_BoY$$27 : met l'ante. 10
+poutine212 : met la petite blind. 50
+BopiumB : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 2s]
+TilT_BoY$$27 : passe. 
+psychoman59 : passe. 
+poutine212 : passe. 
+Personne n'a suivi. (50) sont retournés à BopiumB.
+BopiumB a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : poutine212 (petite blind) s'est couché. avant Flop
+Siège 3 : BopiumB (grosse blind) a remporté (140)
+Siège 4 : TilT_BoY$$27 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238365160259 : Tournoi #3465196507, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/09/2022 13:38:53 CET [02/09/2022 7:38:53 ET]
+Table '3465196507 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4990 en jetons) 
+Place 2: poutine212 (4940 en jetons) ne joue pas.
+Place 3: BopiumB (5080 en jetons) 
+Place 4: TilT_BoY$$27 (4990 en jetons) 
+psychoman59 : met l'ante. 10
+poutine212 : met l'ante. 10
+BopiumB : met l'ante. 10
+TilT_BoY$$27 : met l'ante. 10
+BopiumB : met la petite blind. 50
+TilT_BoY$$27 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Js]
+psychoman59 : passe. 
+poutine212 : passe. 
+BopiumB : passe. 
+Personne n'a suivi. (50) sont retournés à TilT_BoY$$27.
+TilT_BoY$$27 a remporté 140  lors du pot .
+TilT_BoY$$27 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : poutine212 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : BopiumB (petite blind) s'est couché. avant Flop
+Siège 4 : TilT_BoY$$27 (grosse blind) a remporté (140)
+
+
+
+Main PokerStars n°238365163307 : Tournoi #3465196507, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/09/2022 13:39:09 CET [02/09/2022 7:39:09 ET]
+Table '3465196507 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4980 en jetons) 
+Place 2: poutine212 (4930 en jetons) ne joue pas.
+Place 3: BopiumB (5020 en jetons) 
+Place 4: TilT_BoY$$27 (5070 en jetons) 
+psychoman59 : met l'ante. 10
+poutine212 : met l'ante. 10
+BopiumB : met l'ante. 10
+TilT_BoY$$27 : met l'ante. 10
+TilT_BoY$$27 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 7s]
+poutine212 : passe. 
+BopiumB : passe. 
+TilT_BoY$$27 : suit. 50
+psychoman59 : relance. 4870 à 4970 et est all-in.
+TilT_BoY$$27 : suit. 4870
+*** FLOP *** [Tc 2h 4d]
+*** TOURNANT *** [Tc 2h 4d] [9c]
+*** RIVIÈRE *** [Tc 2h 4d 9c] [Jd]
+*** ABATTAGE ***
+TilT_BoY$$27 : montre [Jh 7h] (une paire de Valets)
+psychoman59 : montre [As 7s] (Hauteur As)
+TilT_BoY$$27 a remporté 9980  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 9980 | Commission 0 
+Tableau [Tc 2h 4d 9c Jd]
+Siège 1 : psychoman59 (grosse blind) a montré [As 7s] et a perdu avec Hauteur As
+Siège 2 : poutine212 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : BopiumB (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : TilT_BoY$$27 (petite blind) a montré [Jh 7h] et a gagné (9980) avec une paire de Valets
+
+
+

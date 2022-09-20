@@ -1,0 +1,673 @@
+﻿Main PokerStars n°236773048165 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2022 16:35:17 CET [15/06/2022 10:35:17 ET]
+Table '3426585464 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: cparisnoel (300 en jetons) 
+Place 3: valoche34410 (300 en jetons) 
+cparisnoel : met la petite blind. 10
+valoche34410 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 8c]
+psychoman59 : passe. 
+cparisnoel : suit. 10
+valoche34410 : parole 
+*** FLOP *** [Td Ah Kd]
+cparisnoel : parole 
+valoche34410 : parole 
+*** TOURNANT *** [Td Ah Kd] [7d]
+cparisnoel : parole 
+valoche34410 : mise. 20
+cparisnoel : suit. 20
+*** RIVIÈRE *** [Td Ah Kd 7d] [2d]
+cparisnoel : parole 
+valoche34410 : parole 
+*** ABATTAGE ***
+cparisnoel : montre [Jd 9c] (une couleur, hauteur Roi)
+valoche34410 : cache la main perdante. 
+cparisnoel a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Td Ah Kd 7d 2d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : cparisnoel (petite blind) a montré [Jd 9c] et a gagné (80) avec une couleur, hauteur Roi
+Siège 3 : valoche34410 (grosse blind) a caché la main perdante. [7c 4h]
+
+
+
+Main PokerStars n°236773054512 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2022 16:35:53 CET [15/06/2022 10:35:53 ET]
+Table '3426585464 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: cparisnoel (340 en jetons) 
+Place 3: valoche34410 (260 en jetons) 
+valoche34410 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Jh]
+cparisnoel : passe. 
+valoche34410 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (20)
+Siège 2 : cparisnoel (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : valoche34410 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773055320 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2022 16:35:57 CET [15/06/2022 10:35:57 ET]
+Table '3426585464 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: cparisnoel (340 en jetons) 
+Place 3: valoche34410 (250 en jetons) 
+psychoman59 : met la petite blind. 10
+cparisnoel : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 5h]
+valoche34410 : relance. 20 à 40
+psychoman59 : suit. 30
+cparisnoel : relance. 20 à 60
+valoche34410 : suit. 20
+psychoman59 : suit. 20
+*** FLOP *** [9s 4d 6s]
+psychoman59 : parole 
+cparisnoel : parole 
+valoche34410 : mise. 100
+psychoman59 : passe. 
+cparisnoel : passe. 
+Personne n'a suivi. (100) sont retournés à valoche34410.
+valoche34410 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [9s 4d 6s]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 2 : cparisnoel (grosse blind) s'est couché. sur le Flop
+Siège 3 : valoche34410 (bouton) a remporté (180)
+
+
+
+Main PokerStars n°236773060436 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2022 16:36:26 CET [15/06/2022 10:36:26 ET]
+Table '3426585464 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 2: cparisnoel (280 en jetons) 
+Place 3: valoche34410 (370 en jetons) 
+cparisnoel : met la petite blind. 15
+valoche34410 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Th]
+psychoman59 : passe. 
+cparisnoel : relance. 60 à 90
+valoche34410 : relance. 90 à 180
+cparisnoel : relance. 90 à 270
+valoche34410 : suit. 90
+*** FLOP *** [9h Jc Kh]
+cparisnoel : mise. 10 et est all-in.
+valoche34410 : suit. 10
+*** TOURNANT *** [9h Jc Kh] [5d]
+*** RIVIÈRE *** [9h Jc Kh 5d] [Td]
+*** ABATTAGE ***
+cparisnoel : montre [Qd 4d] (une suite, Neuf à Roi)
+valoche34410 : montre [Ah Qc] (une suite, Dix à As)
+valoche34410 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [9h Jc Kh 5d Td]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : cparisnoel (petite blind) a montré [Qd 4d] et a perdu avec une suite, Neuf à Roi
+Siège 3 : valoche34410 (grosse blind) a montré [Ah Qc] et a gagné (560) avec une suite, Dix à As
+
+
+
+Main PokerStars n°236773067152 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2022 16:37:02 CET [15/06/2022 10:37:02 ET]
+Table '3426585464 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 3: valoche34410 (650 en jetons) 
+valoche34410 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 7d]
+valoche34410 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : valoche34410 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773067919 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2022 16:37:06 CET [15/06/2022 10:37:06 ET]
+Table '3426585464 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (265 en jetons) 
+Place 3: valoche34410 (635 en jetons) 
+psychoman59 : met la petite blind. 15
+valoche34410 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 9h]
+psychoman59 : relance. 235 à 265 et est all-in.
+valoche34410 : passe. 
+Personne n'a suivi. (235) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : valoche34410 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773069127 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2022 16:37:13 CET [15/06/2022 10:37:13 ET]
+Table '3426585464 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (295 en jetons) 
+Place 3: valoche34410 (605 en jetons) 
+valoche34410 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 3d]
+valoche34410 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : valoche34410 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773069861 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2022 16:37:17 CET [15/06/2022 10:37:17 ET]
+Table '3426585464 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 3: valoche34410 (590 en jetons) 
+psychoman59 : met la petite blind. 15
+valoche34410 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à valoche34410.
+valoche34410 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : valoche34410 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°236773071324 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 16:37:25 CET [15/06/2022 10:37:25 ET]
+Table '3426585464 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (295 en jetons) 
+Place 3: valoche34410 (605 en jetons) 
+valoche34410 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 6d]
+valoche34410 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : valoche34410 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773072033 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 16:37:29 CET [15/06/2022 10:37:29 ET]
+Table '3426585464 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (315 en jetons) 
+Place 3: valoche34410 (585 en jetons) 
+psychoman59 : met la petite blind. 20
+valoche34410 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 9s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à valoche34410.
+valoche34410 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : valoche34410 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°236773072909 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 16:37:33 CET [15/06/2022 10:37:33 ET]
+Table '3426585464 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (295 en jetons) 
+Place 3: valoche34410 (605 en jetons) 
+valoche34410 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Ah]
+valoche34410 : relance. 40 à 80
+psychoman59 : relance. 215 à 295 et est all-in.
+valoche34410 : suit. 215
+*** FLOP *** [5d Ks 6h]
+*** TOURNANT *** [5d Ks 6h] [Kd]
+*** RIVIÈRE *** [5d Ks 6h Kd] [7h]
+*** ABATTAGE ***
+psychoman59 : montre [Kh Ah] (un brelan de Rois)
+valoche34410 : montre [4d Ac] (une paire de Rois)
+psychoman59 a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [5d Ks 6h Kd 7h]
+Siège 1 : psychoman59 (grosse blind) a montré [Kh Ah] et a gagné (590) avec un brelan de Rois
+Siège 3 : valoche34410 (bouton) (petite blind) a montré [4d Ac] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°236773075591 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 16:37:47 CET [15/06/2022 10:37:47 ET]
+Table '3426585464 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (590 en jetons) 
+Place 3: valoche34410 (310 en jetons) 
+psychoman59 : met la petite blind. 20
+valoche34410 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 7s]
+psychoman59 : relance. 550 à 590 et est all-in.
+valoche34410 : passe. 
+Personne n'a suivi. (550) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : valoche34410 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773076905 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 16:37:54 CET [15/06/2022 10:37:54 ET]
+Table '3426585464 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (630 en jetons) 
+Place 3: valoche34410 (270 en jetons) 
+valoche34410 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 4d]
+valoche34410 : relance. 40 à 80
+psychoman59 : relance. 160 à 240
+valoche34410 : relance. 30 à 270 et est all-in.
+psychoman59 : suit. 30
+*** FLOP *** [9d Kc 8s]
+*** TOURNANT *** [9d Kc 8s] [Qs]
+*** RIVIÈRE *** [9d Kc 8s Qs] [Ts]
+*** ABATTAGE ***
+psychoman59 : montre [4c 4d] (une paire de Quatre)
+valoche34410 : montre [6h Kd] (une paire de Rois)
+valoche34410 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [9d Kc 8s Qs Ts]
+Siège 1 : psychoman59 (grosse blind) a montré [4c 4d] et a perdu avec une paire de Quatre
+Siège 3 : valoche34410 (bouton) (petite blind) a montré [6h Kd] et a gagné (540) avec une paire de Rois
+
+
+
+Main PokerStars n°236773079966 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2022 16:38:11 CET [15/06/2022 10:38:11 ET]
+Table '3426585464 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (360 en jetons) 
+Place 3: valoche34410 (540 en jetons) 
+psychoman59 : met la petite blind. 20
+valoche34410 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 8c]
+psychoman59 : relance. 320 à 360 et est all-in.
+valoche34410 : passe. 
+Personne n'a suivi. (320) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : valoche34410 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773083170 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 16:38:28 CET [15/06/2022 10:38:28 ET]
+Table '3426585464 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 3: valoche34410 (500 en jetons) 
+valoche34410 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 2h]
+valoche34410 : relance. 60 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à valoche34410.
+valoche34410 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : valoche34410 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°236773084379 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 16:38:34 CET [15/06/2022 10:38:34 ET]
+Table '3426585464 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 3: valoche34410 (560 en jetons) 
+psychoman59 : met la petite blind. 30
+valoche34410 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Qs]
+psychoman59 : relance. 280 à 340 et est all-in.
+valoche34410 : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : valoche34410 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773085631 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 16:38:41 CET [15/06/2022 10:38:41 ET]
+Table '3426585464 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 3: valoche34410 (500 en jetons) 
+valoche34410 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 4c]
+valoche34410 : relance. 60 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à valoche34410.
+valoche34410 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : valoche34410 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°236773086906 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 16:38:47 CET [15/06/2022 10:38:47 ET]
+Table '3426585464 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 3: valoche34410 (560 en jetons) 
+psychoman59 : met la petite blind. 30
+valoche34410 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 6h]
+psychoman59 : relance. 280 à 340 et est all-in.
+valoche34410 : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : valoche34410 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773088137 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 16:38:54 CET [15/06/2022 10:38:54 ET]
+Table '3426585464 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 3: valoche34410 (500 en jetons) 
+valoche34410 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 3s]
+valoche34410 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : valoche34410 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773088881 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 16:38:57 CET [15/06/2022 10:38:57 ET]
+Table '3426585464 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 3: valoche34410 (470 en jetons) 
+psychoman59 : met la petite blind. 30
+valoche34410 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à valoche34410.
+valoche34410 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : valoche34410 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°236773089682 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 16:39:02 CET [15/06/2022 10:39:02 ET]
+Table '3426585464 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 3: valoche34410 (500 en jetons) 
+valoche34410 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 7h]
+valoche34410 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [5d Qc 5h]
+psychoman59 : parole 
+valoche34410 : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à valoche34410.
+valoche34410 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5d Qc 5h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : valoche34410 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°236773091917 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 16:39:13 CET [15/06/2022 10:39:13 ET]
+Table '3426585464 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 3: valoche34410 (560 en jetons) 
+psychoman59 : met la petite blind. 30
+valoche34410 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à valoche34410.
+valoche34410 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : valoche34410 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°236773092777 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2022 16:39:17 CET [15/06/2022 10:39:17 ET]
+Table '3426585464 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 3: valoche34410 (590 en jetons) 
+valoche34410 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 2h]
+valoche34410 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : valoche34410 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773094002 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 15/06/2022 16:39:24 CET [15/06/2022 10:39:24 ET]
+Table '3426585464 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 3: valoche34410 (560 en jetons) 
+psychoman59 : met la petite blind. 40
+valoche34410 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à valoche34410.
+valoche34410 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : valoche34410 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°236773094951 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 15/06/2022 16:39:29 CET [15/06/2022 10:39:29 ET]
+Table '3426585464 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 3: valoche34410 (600 en jetons) 
+valoche34410 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Js]
+valoche34410 : relance. 80 à 160
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à valoche34410.
+valoche34410 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : valoche34410 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°236773097081 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 15/06/2022 16:39:39 CET [15/06/2022 10:39:39 ET]
+Table '3426585464 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (220 en jetons) 
+Place 3: valoche34410 (680 en jetons) 
+psychoman59 : met la petite blind. 40
+valoche34410 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à valoche34410.
+valoche34410 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : valoche34410 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°236773097803 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 15/06/2022 16:39:43 CET [15/06/2022 10:39:43 ET]
+Table '3426585464 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (180 en jetons) 
+Place 3: valoche34410 (720 en jetons) 
+valoche34410 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Kd]
+valoche34410 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : valoche34410 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773098653 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 15/06/2022 16:39:47 CET [15/06/2022 10:39:47 ET]
+Table '3426585464 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (220 en jetons) 
+Place 3: valoche34410 (680 en jetons) 
+psychoman59 : met la petite blind. 40
+valoche34410 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ad]
+psychoman59 : relance. 140 à 220 et est all-in.
+valoche34410 : passe. 
+Personne n'a suivi. (140) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 3 : valoche34410 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773099857 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 15/06/2022 16:39:53 CET [15/06/2022 10:39:53 ET]
+Table '3426585464 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 3: valoche34410 (600 en jetons) 
+valoche34410 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 6d]
+valoche34410 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : valoche34410 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773100610 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 15/06/2022 16:39:57 CET [15/06/2022 10:39:57 ET]
+Table '3426585464 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 3: valoche34410 (560 en jetons) 
+psychoman59 : met la petite blind. 40
+valoche34410 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 5s]
+psychoman59 : relance. 260 à 340 et est all-in.
+valoche34410 : passe. 
+Personne n'a suivi. (260) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 3 : valoche34410 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236773101870 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 15/06/2022 16:40:03 CET [15/06/2022 10:40:03 ET]
+Table '3426585464 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 3: valoche34410 (480 en jetons) 
+valoche34410 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Qs]
+valoche34410 : relance. 80 à 160
+psychoman59 : suit. 80
+*** FLOP *** [8c 2s Qc]
+psychoman59 : parole 
+valoche34410 : mise. 80
+psychoman59 : relance. 180 à 260 et est all-in.
+valoche34410 : suit. 180
+*** TOURNANT *** [8c 2s Qc] [9c]
+*** RIVIÈRE *** [8c 2s Qc 9c] [7d]
+*** ABATTAGE ***
+psychoman59 : montre [Ts Qs] (une paire de Dames)
+valoche34410 : montre [Ad 4c] (Hauteur As)
+psychoman59 a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [8c 2s Qc 9c 7d]
+Siège 1 : psychoman59 (grosse blind) a montré [Ts Qs] et a gagné (840) avec une paire de Dames
+Siège 3 : valoche34410 (bouton) (petite blind) a montré [Ad 4c] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°236773106105 : Tournoi #3426585464, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 15/06/2022 16:40:24 CET [15/06/2022 10:40:24 ET]
+Table '3426585464 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (840 en jetons) 
+Place 3: valoche34410 (60 en jetons) 
+psychoman59 : met la petite blind. 50
+valoche34410 : met la grosse blind. 60 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Jc]
+psychoman59 : suit. 10
+*** FLOP *** [3h 3d 5s]
+*** TOURNANT *** [3h 3d 5s] [5c]
+*** RIVIÈRE *** [3h 3d 5s 5c] [9d]
+*** ABATTAGE ***
+valoche34410 : montre [7d 6h] (double paire, Cinq et Trois)
+psychoman59 : montre [9s Jc] (double paire, Neuf et Cinq)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3h 3d 5s 5c 9d]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [9s Jc] et a gagné (120) avec double paire, Neuf et Cinq
+Siège 3 : valoche34410 (grosse blind) a montré [7d 6h] et a perdu avec double paire, Cinq et Trois
+
+
+

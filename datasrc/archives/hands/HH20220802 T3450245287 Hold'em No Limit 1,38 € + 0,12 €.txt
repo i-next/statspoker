@@ -1,0 +1,443 @@
+﻿Main PokerStars n°237738680762 : Tournoi #3450245287, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 10:36:10 CET [02/08/2022 4:36:10 ET]
+Table '3450245287 1' 4-max Siège #1 est au bouton.
+Place 1: apioker88 (5000 en jetons) 
+Place 2: picsou684 (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: PEPEGOLDE (5000 en jetons) 
+apioker88 : met l'ante. 10
+picsou684 : met l'ante. 10
+psychoman59 : met l'ante. 10
+PEPEGOLDE : met l'ante. 10
+picsou684 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Ks]
+PEPEGOLDE : suit. 100
+apioker88 : suit. 100
+picsou684 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [7c Jc 6h]
+picsou684 : parole 
+psychoman59 : parole 
+PEPEGOLDE : parole 
+apioker88 : parole 
+*** TOURNANT *** [7c Jc 6h] [Js]
+picsou684 : parole 
+psychoman59 : parole 
+PEPEGOLDE : parole 
+apioker88 : parole 
+*** RIVIÈRE *** [7c Jc 6h Js] [6d]
+picsou684 : parole 
+psychoman59 : parole 
+PEPEGOLDE : parole 
+apioker88 : parole 
+*** ABATTAGE ***
+picsou684 : montre [2h 3h] (double paire, Valets et Six)
+psychoman59 : montre [8d Ks] (double paire, Valets et Six - Roi kicker)
+PEPEGOLDE : montre [Ad Qs] (double paire, Valets et Six - As kicker)
+apioker88 : montre [As 2d] (double paire, Valets et Six)
+PEPEGOLDE a remporté 220  lors du pot .
+apioker88 a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [7c Jc 6h Js 6d]
+Siège 1 : apioker88 (bouton) a montré [As 2d] et a gagné (220) avec double paire, Valets et Six
+Siège 2 : picsou684 (petite blind) a montré [2h 3h] et a perdu avec double paire, Valets et Six
+Siège 3 : psychoman59 (grosse blind) a montré [8d Ks] et a perdu avec double paire, Valets et Six
+Siège 4 : PEPEGOLDE a montré [Ad Qs] et a gagné (220) avec double paire, Valets et Six
+
+
+
+Main PokerStars n°237738690164 : Tournoi #3450245287, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 10:37:22 CET [02/08/2022 4:37:22 ET]
+Table '3450245287 1' 4-max Siège #2 est au bouton.
+Place 1: apioker88 (5110 en jetons) 
+Place 2: picsou684 (4890 en jetons) 
+Place 3: psychoman59 (4890 en jetons) 
+Place 4: PEPEGOLDE (5110 en jetons) 
+apioker88 : met l'ante. 10
+picsou684 : met l'ante. 10
+psychoman59 : met l'ante. 10
+PEPEGOLDE : met l'ante. 10
+psychoman59 : met la petite blind. 50
+PEPEGOLDE : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Ah]
+apioker88 : passe. 
+picsou684 : passe. 
+psychoman59 : suit. 50
+PEPEGOLDE : parole 
+*** FLOP *** [6s 4c 2d]
+psychoman59 : parole 
+PEPEGOLDE : parole 
+*** TOURNANT *** [6s 4c 2d] [3s]
+psychoman59 : parole 
+PEPEGOLDE : mise. 100
+psychoman59 : suit. 100
+*** RIVIÈRE *** [6s 4c 2d 3s] [3c]
+psychoman59 : parole 
+PEPEGOLDE : mise. 220
+psychoman59 : suit. 220
+*** ABATTAGE ***
+PEPEGOLDE : montre [5c Js] (une suite, Deux à Six)
+psychoman59 : cache la main perdante. 
+PEPEGOLDE a remporté 880  lors du pot .
+*** SYNTHÈSE ***
+Pot total 880 | Commission 0 
+Tableau [6s 4c 2d 3s 3c]
+Siège 1 : apioker88 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : picsou684 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a caché la main perdante. [4h Ah]
+Siège 4 : PEPEGOLDE (grosse blind) a montré [5c Js] et a gagné (880) avec une suite, Deux à Six
+
+
+
+Main PokerStars n°237738697505 : Tournoi #3450245287, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 10:38:18 CET [02/08/2022 4:38:18 ET]
+Table '3450245287 1' 4-max Siège #3 est au bouton.
+Place 1: apioker88 (5100 en jetons) 
+Place 2: picsou684 (4880 en jetons) 
+Place 3: psychoman59 (4460 en jetons) 
+Place 4: PEPEGOLDE (5560 en jetons) 
+apioker88 : met l'ante. 10
+picsou684 : met l'ante. 10
+psychoman59 : met l'ante. 10
+PEPEGOLDE : met l'ante. 10
+PEPEGOLDE : met la petite blind. 50
+apioker88 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Js]
+picsou684 : passe. 
+psychoman59 : passe. 
+PEPEGOLDE : suit. 50
+apioker88 : parole 
+*** FLOP *** [8h Qc 7d]
+PEPEGOLDE : parole 
+apioker88 : parole 
+*** TOURNANT *** [8h Qc 7d] [5s]
+PEPEGOLDE : parole 
+apioker88 : parole 
+*** RIVIÈRE *** [8h Qc 7d 5s] [9s]
+PEPEGOLDE : mise. 120
+apioker88 : passe. 
+Personne n'a suivi. (120) sont retournés à PEPEGOLDE.
+PEPEGOLDE a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [8h Qc 7d 5s 9s]
+Siège 1 : apioker88 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : picsou684 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : PEPEGOLDE (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°237738702378 : Tournoi #3450245287, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 10:38:55 CET [02/08/2022 4:38:55 ET]
+Table '3450245287 1' 4-max Siège #4 est au bouton.
+Place 1: apioker88 (4990 en jetons) 
+Place 2: picsou684 (4870 en jetons) 
+Place 3: psychoman59 (4450 en jetons) 
+Place 4: PEPEGOLDE (5690 en jetons) 
+apioker88 : met l'ante. 10
+picsou684 : met l'ante. 10
+psychoman59 : met l'ante. 10
+PEPEGOLDE : met l'ante. 10
+apioker88 : met la petite blind. 50
+picsou684 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Qh]
+psychoman59 : passe. 
+PEPEGOLDE : suit. 100
+apioker88 : suit. 50
+picsou684 : parole 
+*** FLOP *** [6s Th Qd]
+apioker88 : parole 
+picsou684 : parole 
+PEPEGOLDE : mise. 170
+apioker88 : passe. 
+picsou684 : passe. 
+Personne n'a suivi. (170) sont retournés à PEPEGOLDE.
+PEPEGOLDE a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [6s Th Qd]
+Siège 1 : apioker88 (petite blind) s'est couché. sur le Flop
+Siège 2 : picsou684 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : PEPEGOLDE (bouton) a remporté (340)
+
+
+
+Main PokerStars n°237738706562 : Tournoi #3450245287, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 02/08/2022 10:39:26 CET [02/08/2022 4:39:26 ET]
+Table '3450245287 1' 4-max Siège #1 est au bouton.
+Place 1: apioker88 (4880 en jetons) 
+Place 2: picsou684 (4760 en jetons) 
+Place 3: psychoman59 (4440 en jetons) 
+Place 4: PEPEGOLDE (5920 en jetons) 
+apioker88 : met l'ante. 15
+picsou684 : met l'ante. 15
+psychoman59 : met l'ante. 15
+PEPEGOLDE : met l'ante. 15
+picsou684 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 3s]
+PEPEGOLDE : passe. 
+apioker88 : suit. 120
+picsou684 : relance. 4625 à 4745 et est all-in.
+psychoman59 : passe. 
+apioker88 : passe. 
+Personne n'a suivi. (4625) sont retournés à picsou684.
+picsou684 a remporté 420  lors du pot .
+picsou684 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Siège 1 : apioker88 (bouton) s'est couché. avant Flop
+Siège 2 : picsou684 (petite blind) a remporté (420)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : PEPEGOLDE s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237738708794 : Tournoi #3450245287, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 02/08/2022 10:39:43 CET [02/08/2022 4:39:43 ET]
+Table '3450245287 1' 4-max Siège #2 est au bouton.
+Place 1: apioker88 (4745 en jetons) 
+Place 2: picsou684 (5045 en jetons) 
+Place 3: psychoman59 (4305 en jetons) 
+Place 4: PEPEGOLDE (5905 en jetons) 
+apioker88 : met l'ante. 15
+picsou684 : met l'ante. 15
+psychoman59 : met l'ante. 15
+PEPEGOLDE : met l'ante. 15
+psychoman59 : met la petite blind. 60
+PEPEGOLDE : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 4h]
+apioker88 : passe. 
+picsou684 : relance. 120 à 240
+psychoman59 : passe. 
+PEPEGOLDE : passe. 
+Personne n'a suivi. (120) sont retournés à picsou684.
+picsou684 a remporté 360  lors du pot .
+picsou684 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : apioker88 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : picsou684 (bouton) a remporté (360)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : PEPEGOLDE (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237738711057 : Tournoi #3450245287, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 02/08/2022 10:39:59 CET [02/08/2022 4:39:59 ET]
+Table '3450245287 1' 4-max Siège #3 est au bouton.
+Place 1: apioker88 (4730 en jetons) 
+Place 2: picsou684 (5270 en jetons) 
+Place 3: psychoman59 (4230 en jetons) 
+Place 4: PEPEGOLDE (5770 en jetons) 
+apioker88 : met l'ante. 15
+picsou684 : met l'ante. 15
+psychoman59 : met l'ante. 15
+PEPEGOLDE : met l'ante. 15
+PEPEGOLDE : met la petite blind. 60
+apioker88 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 2d]
+picsou684 : passe. 
+psychoman59 : passe. 
+PEPEGOLDE : suit. 60
+apioker88 : relance. 4595 à 4715 et est all-in.
+PEPEGOLDE : passe. 
+Personne n'a suivi. (4595) sont retournés à apioker88.
+apioker88 a remporté 300  lors du pot .
+apioker88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Siège 1 : apioker88 (grosse blind) a remporté (300)
+Siège 2 : picsou684 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : PEPEGOLDE (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237738713996 : Tournoi #3450245287, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 02/08/2022 10:40:21 CET [02/08/2022 4:40:21 ET]
+Table '3450245287 1' 4-max Siège #4 est au bouton.
+Place 1: apioker88 (4895 en jetons) 
+Place 2: picsou684 (5255 en jetons) 
+Place 3: psychoman59 (4215 en jetons) 
+Place 4: PEPEGOLDE (5635 en jetons) 
+apioker88 : met l'ante. 15
+picsou684 : met l'ante. 15
+psychoman59 : met l'ante. 15
+PEPEGOLDE : met l'ante. 15
+apioker88 : met la petite blind. 60
+picsou684 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 3c]
+psychoman59 : passe. 
+PEPEGOLDE : passe. 
+apioker88 : passe. 
+Personne n'a suivi. (60) sont retournés à picsou684.
+picsou684 a remporté 180  lors du pot .
+picsou684 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : apioker88 (petite blind) s'est couché. avant Flop
+Siège 2 : picsou684 (grosse blind) a remporté (180)
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : PEPEGOLDE (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237738715405 : Tournoi #3450245287, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 02/08/2022 10:40:31 CET [02/08/2022 4:40:31 ET]
+Table '3450245287 1' 4-max Siège #1 est au bouton.
+Place 1: apioker88 (4820 en jetons) 
+Place 2: picsou684 (5360 en jetons) 
+Place 3: psychoman59 (4200 en jetons) 
+Place 4: PEPEGOLDE (5620 en jetons) 
+apioker88 : met l'ante. 15
+picsou684 : met l'ante. 15
+psychoman59 : met l'ante. 15
+PEPEGOLDE : met l'ante. 15
+picsou684 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 7h]
+PEPEGOLDE : passe. 
+apioker88 : suit. 120
+picsou684 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [2c 3c Qs]
+picsou684 : parole 
+psychoman59 : parole 
+apioker88 : mise. 210
+picsou684 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (210) sont retournés à apioker88.
+apioker88 a remporté 420  lors du pot .
+apioker88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [2c 3c Qs]
+Siège 1 : apioker88 (bouton) a remporté (420)
+Siège 2 : picsou684 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 4 : PEPEGOLDE s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237738718641 : Tournoi #3450245287, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 02/08/2022 10:40:55 CET [02/08/2022 4:40:55 ET]
+Table '3450245287 1' 4-max Siège #2 est au bouton.
+Place 1: apioker88 (5105 en jetons) 
+Place 2: picsou684 (5225 en jetons) 
+Place 3: psychoman59 (4065 en jetons) 
+Place 4: PEPEGOLDE (5605 en jetons) 
+apioker88 : met l'ante. 15
+picsou684 : met l'ante. 15
+psychoman59 : met l'ante. 15
+PEPEGOLDE : met l'ante. 15
+psychoman59 : met la petite blind. 60
+PEPEGOLDE : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Ts]
+apioker88 : suit. 120
+picsou684 : passe. 
+psychoman59 : passe. 
+PEPEGOLDE : parole 
+*** FLOP *** [3c 5s 4h]
+PEPEGOLDE : parole 
+apioker88 : mise. 120
+PEPEGOLDE : suit. 120
+*** TOURNANT *** [3c 5s 4h] [Qc]
+PEPEGOLDE : parole 
+apioker88 : mise. 4850 et est all-in.
+PEPEGOLDE : passe. 
+Personne n'a suivi. (4850) sont retournés à apioker88.
+apioker88 a remporté 600  lors du pot .
+apioker88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [3c 5s 4h Qc]
+Siège 1 : apioker88 a remporté (600)
+Siège 2 : picsou684 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : PEPEGOLDE (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237738722606 : Tournoi #3450245287, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 02/08/2022 10:41:23 CET [02/08/2022 4:41:23 ET]
+Table '3450245287 1' 4-max Siège #3 est au bouton.
+Place 1: apioker88 (5450 en jetons) 
+Place 2: picsou684 (5210 en jetons) 
+Place 3: psychoman59 (3990 en jetons) 
+Place 4: PEPEGOLDE (5350 en jetons) 
+apioker88 : met l'ante. 15
+picsou684 : met l'ante. 15
+psychoman59 : met l'ante. 15
+PEPEGOLDE : met l'ante. 15
+PEPEGOLDE : met la petite blind. 60
+apioker88 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 2h]
+picsou684 : passe. 
+psychoman59 : passe. 
+PEPEGOLDE : suit. 60
+apioker88 : parole 
+*** FLOP *** [5c Kc 7h]
+PEPEGOLDE : parole 
+apioker88 : mise. 120
+PEPEGOLDE : suit. 120
+*** TOURNANT *** [5c Kc 7h] [6s]
+PEPEGOLDE : parole 
+apioker88 : parole 
+*** RIVIÈRE *** [5c Kc 7h 6s] [Td]
+PEPEGOLDE : mise. 270
+apioker88 : passe. 
+Personne n'a suivi. (270) sont retournés à PEPEGOLDE.
+PEPEGOLDE a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [5c Kc 7h 6s Td]
+Siège 1 : apioker88 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : picsou684 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : PEPEGOLDE (petite blind) a remporté (540)
+
+
+
+Main PokerStars n°237738726858 : Tournoi #3450245287, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 02/08/2022 10:41:53 CET [02/08/2022 4:41:53 ET]
+Table '3450245287 1' 4-max Siège #4 est au bouton.
+Place 1: apioker88 (5195 en jetons) 
+Place 2: picsou684 (5195 en jetons) 
+Place 3: psychoman59 (3975 en jetons) 
+Place 4: PEPEGOLDE (5635 en jetons) 
+apioker88 : met l'ante. 15
+picsou684 : met l'ante. 15
+psychoman59 : met l'ante. 15
+PEPEGOLDE : met l'ante. 15
+apioker88 : met la petite blind. 60
+picsou684 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Ac]
+psychoman59 : suit. 120
+PEPEGOLDE : passe. 
+apioker88 : passe. 
+picsou684 : relance. 5060 à 5180 et est all-in.
+psychoman59 : suit. 3840 et est all-in.
+Personne n'a suivi. (1220) sont retournés à picsou684.
+*** FLOP *** [5s Jc 8s]
+*** TOURNANT *** [5s Jc 8s] [7c]
+*** RIVIÈRE *** [5s Jc 8s 7c] [Th]
+*** ABATTAGE ***
+picsou684 : montre [Kd Ah] (Hauteur As)
+psychoman59 : montre [4s Ac] (Hauteur As - plus basse kicker)
+picsou684 a remporté 8040  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 8040 | Commission 0 
+Tableau [5s Jc 8s 7c Th]
+Siège 1 : apioker88 (petite blind) s'est couché. avant Flop
+Siège 2 : picsou684 (grosse blind) a montré [Kd Ah] et a gagné (8040) avec Hauteur As
+Siège 3 : psychoman59 a montré [4s Ac] et a perdu avec Hauteur As
+Siège 4 : PEPEGOLDE (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+

@@ -1,0 +1,1325 @@
+﻿Main PokerStars n°238106848475 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 17:40:37 CET [20/08/2022 11:40:37 ET]
+Table '3459088189 1' 4-max Siège #1 est au bouton.
+Place 1: carlitros5 (5000 en jetons) 
+Place 2: MeUrFfiZz (5000 en jetons) 
+Place 3: fxs34 (5000 en jetons) 
+Place 4: psychoman59 (5000 en jetons) 
+carlitros5 : met l'ante. 10
+MeUrFfiZz : met l'ante. 10
+fxs34 : met l'ante. 10
+psychoman59 : met l'ante. 10
+MeUrFfiZz : met la petite blind. 50
+fxs34 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Jh]
+psychoman59 : passe. 
+carlitros5 : passe. 
+MeUrFfiZz : relance. 100 à 200
+fxs34 : passe. 
+Personne n'a suivi. (100) sont retournés à MeUrFfiZz.
+MeUrFfiZz a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : carlitros5 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : MeUrFfiZz (petite blind) a remporté (240)
+Siège 3 : fxs34 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238106852579 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 17:40:52 CET [20/08/2022 11:40:52 ET]
+Table '3459088189 1' 4-max Siège #2 est au bouton.
+Place 1: carlitros5 (4990 en jetons) 
+Place 2: MeUrFfiZz (5130 en jetons) 
+Place 3: fxs34 (4890 en jetons) 
+Place 4: psychoman59 (4990 en jetons) 
+carlitros5 : met l'ante. 10
+MeUrFfiZz : met l'ante. 10
+fxs34 : met l'ante. 10
+psychoman59 : met l'ante. 10
+fxs34 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Qc]
+carlitros5 : passe. 
+MeUrFfiZz : relance. 100 à 200
+fxs34 : passe. 
+psychoman59 : suit. 100
+*** FLOP *** [8h Th 2s]
+psychoman59 : parole 
+MeUrFfiZz : parole 
+*** TOURNANT *** [8h Th 2s] [Ah]
+psychoman59 : parole 
+MeUrFfiZz : mise. 245
+psychoman59 : suit. 245
+*** RIVIÈRE *** [8h Th 2s Ah] [9c]
+psychoman59 : parole 
+MeUrFfiZz : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Js Qc] (une suite, Huit à Dame)
+MeUrFfiZz : cache la main perdante. 
+psychoman59 a remporté 980  lors du pot .
+*** SYNTHÈSE ***
+Pot total 980 | Commission 0 
+Tableau [8h Th 2s Ah 9c]
+Siège 1 : carlitros5 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : MeUrFfiZz (bouton) a caché la main perdante. [Ad 6d]
+Siège 3 : fxs34 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a montré [Js Qc] et a gagné (980) avec une suite, Huit à Dame
+
+
+
+Main PokerStars n°238106870929 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 17:41:37 CET [20/08/2022 11:41:37 ET]
+Table '3459088189 1' 4-max Siège #3 est au bouton.
+Place 1: carlitros5 (4980 en jetons) 
+Place 2: MeUrFfiZz (4675 en jetons) 
+Place 3: fxs34 (4830 en jetons) 
+Place 4: psychoman59 (5515 en jetons) 
+carlitros5 : met l'ante. 10
+MeUrFfiZz : met l'ante. 10
+fxs34 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+carlitros5 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 5d]
+MeUrFfiZz : passe. 
+fxs34 : passe. 
+psychoman59 : suit. 50
+carlitros5 : parole 
+*** FLOP *** [Kd 7h Td]
+psychoman59 : parole 
+carlitros5 : parole 
+*** TOURNANT *** [Kd 7h Td] [2s]
+psychoman59 : parole 
+carlitros5 : parole 
+*** RIVIÈRE *** [Kd 7h Td 2s] [8s]
+psychoman59 : parole 
+carlitros5 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6d 5d] (Hauteur Roi)
+carlitros5 : montre [7c 5s] (une paire de Sept)
+carlitros5 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Kd 7h Td 2s 8s]
+Siège 1 : carlitros5 (grosse blind) a montré [7c 5s] et a gagné (240) avec une paire de Sept
+Siège 2 : MeUrFfiZz s'est couché. avant Flop (n'a pas misé)
+Siège 3 : fxs34 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) a montré [6d 5d] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°238106879546 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 17:42:07 CET [20/08/2022 11:42:07 ET]
+Table '3459088189 1' 4-max Siège #4 est au bouton.
+Place 1: carlitros5 (5110 en jetons) 
+Place 2: MeUrFfiZz (4665 en jetons) 
+Place 3: fxs34 (4820 en jetons) 
+Place 4: psychoman59 (5405 en jetons) 
+carlitros5 : met l'ante. 10
+MeUrFfiZz : met l'ante. 10
+fxs34 : met l'ante. 10
+psychoman59 : met l'ante. 10
+carlitros5 : met la petite blind. 50
+MeUrFfiZz : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 9d]
+fxs34 : relance. 100 à 200
+psychoman59 : passe. 
+carlitros5 : suit. 150
+MeUrFfiZz : suit. 100
+*** FLOP *** [6s 4s 4d]
+carlitros5 : parole 
+MeUrFfiZz : parole 
+fxs34 : mise. 640
+carlitros5 : passe. 
+MeUrFfiZz : passe. 
+Personne n'a suivi. (640) sont retournés à fxs34.
+fxs34 a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [6s 4s 4d]
+Siège 1 : carlitros5 (petite blind) s'est couché. sur le Flop
+Siège 2 : MeUrFfiZz (grosse blind) s'est couché. sur le Flop
+Siège 3 : fxs34 a remporté (640)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238106888251 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 17:42:38 CET [20/08/2022 11:42:38 ET]
+Table '3459088189 1' 4-max Siège #1 est au bouton.
+Place 1: carlitros5 (4900 en jetons) 
+Place 2: MeUrFfiZz (4455 en jetons) 
+Place 3: fxs34 (5250 en jetons) 
+Place 4: psychoman59 (5395 en jetons) 
+carlitros5 : met l'ante. 10
+MeUrFfiZz : met l'ante. 10
+fxs34 : met l'ante. 10
+psychoman59 : met l'ante. 10
+MeUrFfiZz : met la petite blind. 50
+fxs34 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c As]
+psychoman59 : suit. 100
+carlitros5 : passe. 
+MeUrFfiZz : relance. 200 à 300
+fxs34 : suit. 200
+psychoman59 : suit. 200
+*** FLOP *** [Ah Jc 4c]
+MeUrFfiZz : mise. 470
+fxs34 : passe. 
+psychoman59 : suit. 470
+*** TOURNANT *** [Ah Jc 4c] [Qd]
+MeUrFfiZz : mise. 440
+psychoman59 : relance. 1380 à 1820
+MeUrFfiZz : suit. 1380
+*** RIVIÈRE *** [Ah Jc 4c Qd] [2d]
+MeUrFfiZz : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+MeUrFfiZz : montre [9h Th] (Hauteur As)
+psychoman59 : montre [6c As] (une paire de As)
+psychoman59 a remporté 5520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5520 | Commission 0 
+Tableau [Ah Jc 4c Qd 2d]
+Siège 1 : carlitros5 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : MeUrFfiZz (petite blind) a montré [9h Th] et a perdu avec Hauteur As
+Siège 3 : fxs34 (grosse blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 a montré [6c As] et a gagné (5520) avec une paire de As
+
+
+
+Main PokerStars n°238106907230 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 17:43:43 CET [20/08/2022 11:43:43 ET]
+Table '3459088189 1' 4-max Siège #2 est au bouton.
+Place 1: carlitros5 (4890 en jetons) 
+Place 2: MeUrFfiZz (1855 en jetons) 
+Place 3: fxs34 (4940 en jetons) 
+Place 4: psychoman59 (8315 en jetons) 
+carlitros5 : met l'ante. 15
+MeUrFfiZz : met l'ante. 15
+fxs34 : met l'ante. 15
+psychoman59 : met l'ante. 15
+fxs34 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h As]
+carlitros5 : relance. 180 à 300
+MeUrFfiZz : passe. 
+fxs34 : suit. 240
+psychoman59 : suit. 180
+*** FLOP *** [Js Kh Jd]
+fxs34 : mise. 120
+psychoman59 : passe. 
+carlitros5 : suit. 120
+*** TOURNANT *** [Js Kh Jd] [Kc]
+fxs34 : parole 
+carlitros5 : mise. 396
+fxs34 : passe. 
+Personne n'a suivi. (396) sont retournés à carlitros5.
+carlitros5 a remporté 1200  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1200 | Commission 0 
+Tableau [Js Kh Jd Kc]
+Siège 1 : carlitros5 a remporté (1200)
+Siège 2 : MeUrFfiZz (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : fxs34 (petite blind) s'est couché. sur le Tournant
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238106919939 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 17:44:27 CET [20/08/2022 11:44:27 ET]
+Table '3459088189 1' 4-max Siège #3 est au bouton.
+Place 1: carlitros5 (5655 en jetons) 
+Place 2: MeUrFfiZz (1840 en jetons) 
+Place 3: fxs34 (4505 en jetons) 
+Place 4: psychoman59 (8000 en jetons) 
+carlitros5 : met l'ante. 15
+MeUrFfiZz : met l'ante. 15
+fxs34 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+carlitros5 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 5c]
+MeUrFfiZz : relance. 120 à 240
+fxs34 : passe. 
+psychoman59 : passe. 
+carlitros5 : passe. 
+Personne n'a suivi. (120) sont retournés à MeUrFfiZz.
+MeUrFfiZz a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : carlitros5 (grosse blind) s'est couché. avant Flop
+Siège 2 : MeUrFfiZz a remporté (360)
+Siège 3 : fxs34 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238106924834 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 17:44:44 CET [20/08/2022 11:44:44 ET]
+Table '3459088189 1' 4-max Siège #4 est au bouton.
+Place 1: carlitros5 (5520 en jetons) 
+Place 2: MeUrFfiZz (2065 en jetons) 
+Place 3: fxs34 (4490 en jetons) 
+Place 4: psychoman59 (7925 en jetons) 
+carlitros5 : met l'ante. 15
+MeUrFfiZz : met l'ante. 15
+fxs34 : met l'ante. 15
+psychoman59 : met l'ante. 15
+carlitros5 : met la petite blind. 60
+MeUrFfiZz : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 9c]
+fxs34 : relance. 360 à 480
+psychoman59 : passe. 
+carlitros5 : relance. 5025 à 5505 et est all-in.
+MeUrFfiZz : passe. 
+fxs34 : suit. 3995 et est all-in.
+Personne n'a suivi. (1030) sont retournés à carlitros5.
+*** FLOP *** [3h 4h As]
+*** TOURNANT *** [3h 4h As] [Jh]
+*** RIVIÈRE *** [3h 4h As Jh] [6c]
+*** ABATTAGE ***
+carlitros5 : montre [Kd Ac] (une paire de As)
+fxs34 : montre [Kh Kc] (une paire de Rois)
+carlitros5 a remporté 9130  lors du pot .
+fxs34 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 9130 | Commission 0 
+Tableau [3h 4h As Jh 6c]
+Siège 1 : carlitros5 (petite blind) a montré [Kd Ac] et a gagné (9130) avec une paire de As
+Siège 2 : MeUrFfiZz (grosse blind) s'est couché. avant Flop
+Siège 3 : fxs34 a montré [Kh Kc] et a perdu avec une paire de Rois
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238106930846 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 17:45:05 CET [20/08/2022 11:45:05 ET]
+Table '3459088189 1' 4-max Siège #1 est au bouton.
+Place 1: carlitros5 (10160 en jetons) 
+Place 2: MeUrFfiZz (1930 en jetons) 
+Place 4: psychoman59 (7910 en jetons) 
+carlitros5 : met l'ante. 15
+MeUrFfiZz : met l'ante. 15
+psychoman59 : met l'ante. 15
+MeUrFfiZz : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc As]
+carlitros5 : relance. 240 à 360
+MeUrFfiZz : passe. 
+psychoman59 : relance. 7535 à 7895 et est all-in.
+carlitros5 : suit. 7535
+*** FLOP *** [Qh 5c 6h]
+*** TOURNANT *** [Qh 5c 6h] [Th]
+*** RIVIÈRE *** [Qh 5c 6h Th] [9s]
+*** ABATTAGE ***
+psychoman59 : montre [Kc As] (Hauteur As)
+carlitros5 : montre [Ks Ac] (Hauteur As)
+psychoman59 a remporté 7948  lors du pot .
+carlitros5 a remporté 7947  lors du pot .
+*** SYNTHÈSE ***
+Pot total 15895 | Commission 0 
+Tableau [Qh 5c 6h Th 9s]
+Siège 1 : carlitros5 (bouton) a montré [Ks Ac] et a gagné (7947) avec Hauteur As
+Siège 2 : MeUrFfiZz (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a montré [Kc As] et a gagné (7948) avec Hauteur As
+
+
+
+Main PokerStars n°238106941108 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 17:45:39 CET [20/08/2022 11:45:39 ET]
+Table '3459088189 1' 4-max Siège #2 est au bouton.
+Place 1: carlitros5 (10197 en jetons) 
+Place 2: MeUrFfiZz (1855 en jetons) 
+Place 4: psychoman59 (7948 en jetons) 
+carlitros5 : met l'ante. 15
+MeUrFfiZz : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+carlitros5 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Ah]
+MeUrFfiZz : passe. 
+psychoman59 : relance. 285 à 405
+carlitros5 : passe. 
+Personne n'a suivi. (285) sont retournés à psychoman59.
+psychoman59 a remporté 285  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Siège 1 : carlitros5 (grosse blind) s'est couché. avant Flop
+Siège 2 : MeUrFfiZz (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) a remporté (285)
+
+
+
+Main PokerStars n°238106946116 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 17:45:56 CET [20/08/2022 11:45:56 ET]
+Table '3459088189 1' 4-max Siège #4 est au bouton.
+Place 1: carlitros5 (10062 en jetons) 
+Place 2: MeUrFfiZz (1840 en jetons) 
+Place 4: psychoman59 (8098 en jetons) 
+carlitros5 : met l'ante. 15
+MeUrFfiZz : met l'ante. 15
+psychoman59 : met l'ante. 15
+carlitros5 : met la petite blind. 60
+MeUrFfiZz : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 2s]
+psychoman59 : passe. 
+carlitros5 : passe. 
+Personne n'a suivi. (60) sont retournés à MeUrFfiZz.
+MeUrFfiZz a remporté 165  lors du pot .
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : carlitros5 (petite blind) s'est couché. avant Flop
+Siège 2 : MeUrFfiZz (grosse blind) a remporté (165)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238106949313 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 17:46:07 CET [20/08/2022 11:46:07 ET]
+Table '3459088189 1' 4-max Siège #1 est au bouton.
+Place 1: carlitros5 (9987 en jetons) 
+Place 2: MeUrFfiZz (1930 en jetons) 
+Place 4: psychoman59 (8083 en jetons) 
+carlitros5 : met l'ante. 15
+MeUrFfiZz : met l'ante. 15
+psychoman59 : met l'ante. 15
+MeUrFfiZz : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ac]
+carlitros5 : passe. 
+MeUrFfiZz : relance. 1795 à 1915 et est all-in.
+psychoman59 : suit. 1795
+*** FLOP *** [Td Tc 7s]
+*** TOURNANT *** [Td Tc 7s] [7c]
+*** RIVIÈRE *** [Td Tc 7s 7c] [Qc]
+*** ABATTAGE ***
+MeUrFfiZz : montre [4s Ad] (double paire, Dix et Sept)
+psychoman59 : montre [3c Ac] (une couleur, hauteur As)
+psychoman59 a remporté 3875  lors du pot .
+MeUrFfiZz a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 3875 | Commission 0 
+Tableau [Td Tc 7s 7c Qc]
+Siège 1 : carlitros5 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : MeUrFfiZz (petite blind) a montré [4s Ad] et a perdu avec double paire, Dix et Sept
+Siège 4 : psychoman59 (grosse blind) a montré [3c Ac] et a gagné (3875) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°238106957186 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 20/08/2022 17:46:33 CET [20/08/2022 11:46:33 ET]
+Table '3459088189 1' 4-max Siège #4 est au bouton.
+Place 1: carlitros5 (9972 en jetons) 
+Place 4: psychoman59 (10028 en jetons) 
+carlitros5 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+carlitros5 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 5s]
+psychoman59 : suit. 60
+carlitros5 : parole 
+*** FLOP *** [Td 2c Ad]
+carlitros5 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Td 2c Ad] [4c]
+carlitros5 : mise. 120
+psychoman59 : suit. 120
+*** RIVIÈRE *** [Td 2c Ad 4c] [2s]
+carlitros5 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+carlitros5 : montre [Tc 6h] (double paire, Dix et Deux)
+psychoman59 : cache la main perdante. 
+carlitros5 a remporté 510  lors du pot .
+*** SYNTHÈSE ***
+Pot total 510 | Commission 0 
+Tableau [Td 2c Ad 4c 2s]
+Siège 1 : carlitros5 (grosse blind) a montré [Tc 6h] et a gagné (510) avec double paire, Dix et Deux
+Siège 4 : psychoman59 (bouton) (petite blind) a caché la main perdante. [Qh 5s]
+
+
+
+Main PokerStars n°238106969257 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 17:47:14 CET [20/08/2022 11:47:14 ET]
+Table '3459088189 1' 4-max Siège #1 est au bouton.
+Place 1: carlitros5 (10227 en jetons) 
+Place 4: psychoman59 (9773 en jetons) 
+carlitros5 : met l'ante. 20
+psychoman59 : met l'ante. 20
+carlitros5 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 9h]
+carlitros5 : suit. 75
+psychoman59 : relance. 150 à 300
+carlitros5 : suit. 150
+*** FLOP *** [Qd Ad 2s]
+psychoman59 : mise. 320
+carlitros5 : suit. 320
+*** TOURNANT *** [Qd Ad 2s] [6s]
+psychoman59 : parole 
+carlitros5 : mise. 422
+psychoman59 : passe. 
+Personne n'a suivi. (422) sont retournés à carlitros5.
+carlitros5 a remporté 1280  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1280 | Commission 0 
+Tableau [Qd Ad 2s 6s]
+Siège 1 : carlitros5 (bouton) (petite blind) a remporté (1280)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238106983142 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 17:48:00 CET [20/08/2022 11:48:00 ET]
+Table '3459088189 1' 4-max Siège #4 est au bouton.
+Place 1: carlitros5 (10867 en jetons) 
+Place 4: psychoman59 (9133 en jetons) 
+carlitros5 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+carlitros5 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 3d]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à carlitros5.
+carlitros5 a remporté 190  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : carlitros5 (grosse blind) a remporté (190)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238106986265 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 17:48:11 CET [20/08/2022 11:48:11 ET]
+Table '3459088189 1' 4-max Siège #1 est au bouton.
+Place 1: carlitros5 (10962 en jetons) 
+Place 4: psychoman59 (9038 en jetons) 
+carlitros5 : met l'ante. 20
+psychoman59 : met l'ante. 20
+carlitros5 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 3h]
+carlitros5 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [5c Td 4c]
+psychoman59 : parole 
+carlitros5 : mise. 150
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à carlitros5.
+carlitros5 a remporté 340  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [5c Td 4c]
+Siège 1 : carlitros5 (bouton) (petite blind) a remporté (340)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238106993253 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 17:48:34 CET [20/08/2022 11:48:34 ET]
+Table '3459088189 1' 4-max Siège #4 est au bouton.
+Place 1: carlitros5 (11132 en jetons) 
+Place 4: psychoman59 (8868 en jetons) 
+carlitros5 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+carlitros5 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 4d]
+psychoman59 : relance. 300 à 450
+carlitros5 : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : carlitros5 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°238106996994 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 17:48:47 CET [20/08/2022 11:48:47 ET]
+Table '3459088189 1' 4-max Siège #1 est au bouton.
+Place 1: carlitros5 (10962 en jetons) 
+Place 4: psychoman59 (9038 en jetons) 
+carlitros5 : met l'ante. 20
+psychoman59 : met l'ante. 20
+carlitros5 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 9s]
+carlitros5 : relance. 225 à 375
+psychoman59 : passe. 
+Personne n'a suivi. (225) sont retournés à carlitros5.
+carlitros5 a remporté 340  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : carlitros5 (bouton) (petite blind) a remporté (340)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238107001054 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 17:49:00 CET [20/08/2022 11:49:00 ET]
+Table '3459088189 1' 4-max Siège #4 est au bouton.
+Place 1: carlitros5 (11132 en jetons) 
+Place 4: psychoman59 (8868 en jetons) 
+carlitros5 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+carlitros5 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Jc]
+psychoman59 : relance. 300 à 450
+carlitros5 : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : carlitros5 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°238107005182 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 17:49:14 CET [20/08/2022 11:49:14 ET]
+Table '3459088189 1' 4-max Siège #1 est au bouton.
+Place 1: carlitros5 (10962 en jetons) 
+Place 4: psychoman59 (9038 en jetons) 
+carlitros5 : met l'ante. 20
+psychoman59 : met l'ante. 20
+carlitros5 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 4c]
+carlitros5 : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 190  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : carlitros5 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°238107007424 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 17:49:22 CET [20/08/2022 11:49:22 ET]
+Table '3459088189 1' 4-max Siège #4 est au bouton.
+Place 1: carlitros5 (10867 en jetons) 
+Place 4: psychoman59 (9133 en jetons) 
+carlitros5 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+carlitros5 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Kd]
+psychoman59 : relance. 8963 à 9113 et est all-in.
+carlitros5 : passe. 
+Personne n'a suivi. (8963) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : carlitros5 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°238107010730 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 20/08/2022 17:49:33 CET [20/08/2022 11:49:33 ET]
+Table '3459088189 1' 4-max Siège #1 est au bouton.
+Place 1: carlitros5 (10697 en jetons) 
+Place 4: psychoman59 (9303 en jetons) 
+carlitros5 : met l'ante. 20
+psychoman59 : met l'ante. 20
+carlitros5 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h As]
+carlitros5 : relance. 225 à 375
+psychoman59 : relance. 8908 à 9283 et est all-in.
+carlitros5 : passe. 
+Personne n'a suivi. (8908) sont retournés à psychoman59.
+psychoman59 a remporté 790  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 790 | Commission 0 
+Siège 1 : carlitros5 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (790)
+
+
+
+Main PokerStars n°238107018846 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 20/08/2022 17:50:00 CET [20/08/2022 11:50:00 ET]
+Table '3459088189 1' 4-max Siège #4 est au bouton.
+Place 1: carlitros5 (10302 en jetons) 
+Place 4: psychoman59 (9698 en jetons) 
+carlitros5 : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+carlitros5 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 9s]
+psychoman59 : relance. 200 à 400
+carlitros5 : suit. 200
+*** FLOP *** [7d Js 6h]
+carlitros5 : parole 
+psychoman59 : mise. 850
+carlitros5 : passe. 
+Personne n'a suivi. (850) sont retournés à psychoman59.
+psychoman59 a remporté 850  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 850 | Commission 0 
+Tableau [7d Js 6h]
+Siège 1 : carlitros5 (grosse blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (850)
+
+
+
+Main PokerStars n°238107027428 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 20/08/2022 17:50:29 CET [20/08/2022 11:50:29 ET]
+Table '3459088189 1' 4-max Siège #1 est au bouton.
+Place 1: carlitros5 (9877 en jetons) 
+Place 4: psychoman59 (10123 en jetons) 
+carlitros5 : met l'ante. 25
+psychoman59 : met l'ante. 25
+carlitros5 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Kh]
+carlitros5 : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 250  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : carlitros5 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (250)
+
+
+
+Main PokerStars n°238107030459 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 20/08/2022 17:50:40 CET [20/08/2022 11:50:40 ET]
+Table '3459088189 1' 4-max Siège #4 est au bouton.
+Place 1: carlitros5 (9752 en jetons) 
+Place 4: psychoman59 (10248 en jetons) 
+carlitros5 : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+carlitros5 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Kh]
+psychoman59 : suit. 100
+carlitros5 : parole 
+*** FLOP *** [6d Tc 8c]
+carlitros5 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6d Tc 8c] [5s]
+carlitros5 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6d Tc 8c 5s] [8s]
+carlitros5 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+carlitros5 : montre [Qh 7s] (une paire de Huit)
+psychoman59 : montre [3h Kh] (une paire de Huit - Roi kicker)
+psychoman59 a remporté 450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [6d Tc 8c 5s 8s]
+Siège 1 : carlitros5 (grosse blind) a montré [Qh 7s] et a perdu avec une paire de Huit
+Siège 4 : psychoman59 (bouton) (petite blind) a montré [3h Kh] et a gagné (450) avec une paire de Huit
+
+
+
+Main PokerStars n°238107041901 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 20/08/2022 17:51:19 CET [20/08/2022 11:51:19 ET]
+Table '3459088189 1' 4-max Siège #1 est au bouton.
+Place 1: carlitros5 (9527 en jetons) 
+Place 4: psychoman59 (10473 en jetons) 
+carlitros5 : met l'ante. 25
+psychoman59 : met l'ante. 25
+carlitros5 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Th]
+carlitros5 : suit. 100
+psychoman59 : parole 
+*** FLOP *** [Kd Ac Tc]
+psychoman59 : parole 
+carlitros5 : parole 
+*** TOURNANT *** [Kd Ac Tc] [7d]
+psychoman59 : mise. 225
+carlitros5 : suit. 225
+*** RIVIÈRE *** [Kd Ac Tc 7d] [8h]
+psychoman59 : mise. 450
+carlitros5 : relance. 1800 à 2250
+psychoman59 : passe. 
+Personne n'a suivi. (1800) sont retournés à carlitros5.
+carlitros5 a remporté 1800  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1800 | Commission 0 
+Tableau [Kd Ac Tc 7d 8h]
+Siège 1 : carlitros5 (bouton) (petite blind) a remporté (1800)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238107063793 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 20/08/2022 17:52:33 CET [20/08/2022 11:52:33 ET]
+Table '3459088189 1' 4-max Siège #4 est au bouton.
+Place 1: carlitros5 (10427 en jetons) 
+Place 4: psychoman59 (9573 en jetons) 
+carlitros5 : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+carlitros5 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 7d]
+psychoman59 : suit. 100
+carlitros5 : parole 
+*** FLOP *** [As 6h 2c]
+carlitros5 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [As 6h 2c] [Jc]
+carlitros5 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [As 6h 2c Jc] [5h]
+carlitros5 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+carlitros5 : montre [5c 7h] (une paire de Cinq)
+psychoman59 : cache la main perdante. 
+carlitros5 a remporté 450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [As 6h 2c Jc 5h]
+Siège 1 : carlitros5 (grosse blind) a montré [5c 7h] et a gagné (450) avec une paire de Cinq
+Siège 4 : psychoman59 (bouton) (petite blind) a caché la main perdante. [Qd 7d]
+
+
+
+Main PokerStars n°238107081665 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 20/08/2022 17:53:34 CET [20/08/2022 11:53:34 ET]
+Table '3459088189 1' 4-max Siège #1 est au bouton.
+Place 1: carlitros5 (10652 en jetons) 
+Place 4: psychoman59 (9348 en jetons) 
+carlitros5 : met l'ante. 30
+psychoman59 : met l'ante. 30
+carlitros5 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 7h]
+carlitros5 : suit. 125
+psychoman59 : relance. 9068 à 9318 et est all-in.
+carlitros5 : passe. 
+Personne n'a suivi. (9068) sont retournés à psychoman59.
+psychoman59 a remporté 560  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : carlitros5 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (560)
+
+
+
+Main PokerStars n°238107089611 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 20/08/2022 17:54:01 CET [20/08/2022 11:54:01 ET]
+Table '3459088189 1' 4-max Siège #4 est au bouton.
+Place 1: carlitros5 (10372 en jetons) 
+Place 4: psychoman59 (9628 en jetons) 
+carlitros5 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+carlitros5 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ah]
+psychoman59 : relance. 9348 à 9598 et est all-in.
+carlitros5 : passe. 
+Personne n'a suivi. (9348) sont retournés à psychoman59.
+psychoman59 a remporté 560  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : carlitros5 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°238107095101 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 20/08/2022 17:54:20 CET [20/08/2022 11:54:20 ET]
+Table '3459088189 1' 4-max Siège #1 est au bouton.
+Place 1: carlitros5 (10092 en jetons) 
+Place 4: psychoman59 (9908 en jetons) 
+carlitros5 : met l'ante. 30
+psychoman59 : met l'ante. 30
+carlitros5 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qc]
+carlitros5 : suit. 125
+psychoman59 : relance. 9628 à 9878 et est all-in.
+carlitros5 : passe. 
+Personne n'a suivi. (9628) sont retournés à psychoman59.
+psychoman59 a remporté 560  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : carlitros5 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (560)
+
+
+
+Main PokerStars n°238107099927 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 20/08/2022 17:54:36 CET [20/08/2022 11:54:36 ET]
+Table '3459088189 1' 4-max Siège #4 est au bouton.
+Place 1: carlitros5 (9812 en jetons) 
+Place 4: psychoman59 (10188 en jetons) 
+carlitros5 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+carlitros5 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Kh]
+psychoman59 : relance. 9908 à 10158 et est all-in.
+carlitros5 : passe. 
+Personne n'a suivi. (9908) sont retournés à psychoman59.
+psychoman59 a remporté 560  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : carlitros5 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°238107103685 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 20/08/2022 17:54:49 CET [20/08/2022 11:54:49 ET]
+Table '3459088189 1' 4-max Siège #1 est au bouton.
+Place 1: carlitros5 (9532 en jetons) 
+Place 4: psychoman59 (10468 en jetons) 
+carlitros5 : met l'ante. 30
+psychoman59 : met l'ante. 30
+carlitros5 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Kd]
+carlitros5 : passe. 
+Personne n'a suivi. (125) sont retournés à psychoman59.
+psychoman59 a remporté 310  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : carlitros5 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (310)
+
+
+
+Main PokerStars n°238107105886 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 20/08/2022 17:54:57 CET [20/08/2022 11:54:57 ET]
+Table '3459088189 1' 4-max Siège #4 est au bouton.
+Place 1: carlitros5 (9377 en jetons) 
+Place 4: psychoman59 (10623 en jetons) 
+carlitros5 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+carlitros5 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à carlitros5.
+carlitros5 a remporté 310  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : carlitros5 (grosse blind) a remporté (310)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238107108141 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 20/08/2022 17:55:05 CET [20/08/2022 11:55:05 ET]
+Table '3459088189 1' 4-max Siège #1 est au bouton.
+Place 1: carlitros5 (9532 en jetons) 
+Place 4: psychoman59 (10468 en jetons) 
+carlitros5 : met l'ante. 30
+psychoman59 : met l'ante. 30
+carlitros5 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 5h]
+carlitros5 : passe. 
+Personne n'a suivi. (125) sont retournés à psychoman59.
+psychoman59 a remporté 310  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : carlitros5 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (310)
+
+
+
+Main PokerStars n°238107112911 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 20/08/2022 17:55:25 CET [20/08/2022 11:55:25 ET]
+Table '3459088189 1' 4-max Siège #4 est au bouton.
+Place 1: carlitros5 (9377 en jetons) 
+Place 4: psychoman59 (10623 en jetons) 
+carlitros5 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+carlitros5 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Kd]
+psychoman59 : relance. 10343 à 10593 et est all-in.
+carlitros5 : passe. 
+Personne n'a suivi. (10343) sont retournés à psychoman59.
+psychoman59 a remporté 560  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : carlitros5 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°238107116974 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 20/08/2022 17:55:43 CET [20/08/2022 11:55:43 ET]
+Table '3459088189 1' 4-max Siège #1 est au bouton.
+Place 1: carlitros5 (9097 en jetons) 
+Place 4: psychoman59 (10903 en jetons) 
+carlitros5 : met l'ante. 40
+psychoman59 : met l'ante. 40
+carlitros5 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 9d]
+carlitros5 : suit. 150
+psychoman59 : parole 
+*** FLOP *** [2c 4d 9h]
+psychoman59 : parole 
+carlitros5 : parole 
+*** TOURNANT *** [2c 4d 9h] [6c]
+psychoman59 : parole 
+carlitros5 : parole 
+*** RIVIÈRE *** [2c 4d 9h 6c] [8s]
+psychoman59 : mise. 300
+carlitros5 : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [2c 4d 9h 6c 8s]
+Siège 1 : carlitros5 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 4 : psychoman59 (grosse blind) a remporté (680)
+
+
+
+Main PokerStars n°238107125224 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 20/08/2022 17:56:20 CET [20/08/2022 11:56:20 ET]
+Table '3459088189 1' 4-max Siège #4 est au bouton.
+Place 1: carlitros5 (8757 en jetons) 
+Place 4: psychoman59 (11243 en jetons) 
+carlitros5 : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+carlitros5 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ah]
+psychoman59 : relance. 10903 à 11203 et est all-in.
+carlitros5 : passe. 
+Personne n'a suivi. (10903) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 1 : carlitros5 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (680)
+
+
+
+Main PokerStars n°238107130129 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 20/08/2022 17:56:42 CET [20/08/2022 11:56:42 ET]
+Table '3459088189 1' 4-max Siège #1 est au bouton.
+Place 1: carlitros5 (8417 en jetons) 
+Place 4: psychoman59 (11583 en jetons) 
+carlitros5 : met l'ante. 40
+psychoman59 : met l'ante. 40
+carlitros5 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 2s]
+carlitros5 : suit. 150
+psychoman59 : parole 
+*** FLOP *** [8c 9d Jc]
+psychoman59 : parole 
+carlitros5 : parole 
+*** TOURNANT *** [8c 9d Jc] [9c]
+psychoman59 : parole 
+carlitros5 : parole 
+*** RIVIÈRE *** [8c 9d Jc 9c] [3h]
+psychoman59 : parole 
+carlitros5 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Jd 2s] (double paire, Valets et Neuf)
+carlitros5 : cache la main perdante. 
+psychoman59 a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [8c 9d Jc 9c 3h]
+Siège 1 : carlitros5 (bouton) (petite blind) a caché la main perdante. [Kh 5d]
+Siège 4 : psychoman59 (grosse blind) a montré [Jd 2s] et a gagné (680) avec double paire, Valets et Neuf
+
+
+
+Main PokerStars n°238107142424 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 20/08/2022 17:57:36 CET [20/08/2022 11:57:36 ET]
+Table '3459088189 1' 4-max Siège #4 est au bouton.
+Place 1: carlitros5 (8077 en jetons) 
+Place 4: psychoman59 (11923 en jetons) 
+carlitros5 : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+carlitros5 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 7d]
+psychoman59 : suit. 150
+carlitros5 : parole 
+*** FLOP *** [Jc Th Qs]
+carlitros5 : parole 
+psychoman59 : mise. 680
+carlitros5 : passe. 
+Personne n'a suivi. (680) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [Jc Th Qs]
+Siège 1 : carlitros5 (grosse blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (680)
+
+
+
+Main PokerStars n°238107149158 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 20/08/2022 17:58:07 CET [20/08/2022 11:58:07 ET]
+Table '3459088189 1' 4-max Siège #1 est au bouton.
+Place 1: carlitros5 (7737 en jetons) 
+Place 4: psychoman59 (12263 en jetons) 
+carlitros5 : met l'ante. 40
+psychoman59 : met l'ante. 40
+carlitros5 : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 2c]
+carlitros5 : suit. 150
+psychoman59 : parole 
+*** FLOP *** [4c 9c 4d]
+psychoman59 : parole 
+carlitros5 : parole 
+*** TOURNANT *** [4c 9c 4d] [6d]
+psychoman59 : parole 
+carlitros5 : mise. 449
+carlitros5 est déconnecté 
+psychoman59 : passe. 
+Personne n'a suivi. (449) sont retournés à carlitros5.
+carlitros5 a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [4c 9c 4d 6d]
+Siège 1 : carlitros5 (bouton) (petite blind) a remporté (680)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238107160284 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 20/08/2022 17:58:56 CET [20/08/2022 11:58:56 ET]
+Table '3459088189 1' 4-max Siège #4 est au bouton.
+Place 1: carlitros5 (8077 en jetons) 
+Place 4: psychoman59 (11923 en jetons) 
+carlitros5 : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+carlitros5 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 8h]
+psychoman59 : relance. 900 à 1300
+carlitros5 est connecté 
+carlitros5 est connecté 
+carlitros5 : relance. 6727 à 8027 et est all-in.
+psychoman59 : suit. 6727
+*** FLOP *** [Qd Qh Jh]
+*** TOURNANT *** [Qd Qh Jh] [6d]
+*** RIVIÈRE *** [Qd Qh Jh 6d] [7h]
+*** ABATTAGE ***
+carlitros5 : montre [7s Ah] (double paire, Dames et Sept)
+psychoman59 : montre [Ac 8h] (une paire de Dames)
+carlitros5 a remporté 16154  lors du pot .
+*** SYNTHÈSE ***
+Pot total 16154 | Commission 0 
+Tableau [Qd Qh Jh 6d 7h]
+Siège 1 : carlitros5 (grosse blind) a montré [7s Ah] et a gagné (16154) avec double paire, Dames et Sept
+Siège 4 : psychoman59 (bouton) (petite blind) a montré [Ac 8h] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°238107170066 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 20/08/2022 17:59:40 CET [20/08/2022 11:59:40 ET]
+Table '3459088189 1' 4-max Siège #1 est au bouton.
+Place 1: carlitros5 (16154 en jetons) 
+Place 4: psychoman59 (3846 en jetons) 
+carlitros5 : met l'ante. 50
+psychoman59 : met l'ante. 50
+carlitros5 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Ts]
+carlitros5 : suit. 200
+psychoman59 : relance. 3396 à 3796 et est all-in.
+carlitros5 : suit. 3396
+*** FLOP *** [8h Jh 2d]
+*** TOURNANT *** [8h Jh 2d] [2c]
+*** RIVIÈRE *** [8h Jh 2d 2c] [Td]
+*** ABATTAGE ***
+psychoman59 : montre [Ks Ts] (double paire, Dix et Deux)
+carlitros5 : montre [Kh 8s] (double paire, Huit et Deux)
+psychoman59 a remporté 7692  lors du pot .
+*** SYNTHÈSE ***
+Pot total 7692 | Commission 0 
+Tableau [8h Jh 2d 2c Td]
+Siège 1 : carlitros5 (bouton) (petite blind) a montré [Kh 8s] et a perdu avec double paire, Huit et Deux
+Siège 4 : psychoman59 (grosse blind) a montré [Ks Ts] et a gagné (7692) avec double paire, Dix et Deux
+
+
+
+Main PokerStars n°238107175273 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 20/08/2022 18:00:03 CET [20/08/2022 12:00:03 ET]
+Table '3459088189 1' 4-max Siège #4 est au bouton.
+Place 1: carlitros5 (12308 en jetons) 
+Place 4: psychoman59 (7692 en jetons) 
+carlitros5 : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+carlitros5 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 7s]
+psychoman59 : suit. 200
+carlitros5 : relance. 11858 à 12258 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (11858) sont retournés à carlitros5.
+carlitros5 a remporté 900  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 1 : carlitros5 (grosse blind) a remporté (900)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238107180795 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 20/08/2022 18:00:27 CET [20/08/2022 12:00:27 ET]
+Table '3459088189 1' 4-max Siège #1 est au bouton.
+Place 1: carlitros5 (12758 en jetons) 
+Place 4: psychoman59 (7242 en jetons) 
+carlitros5 : met l'ante. 50
+psychoman59 : met l'ante. 50
+carlitros5 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 9d]
+carlitros5 : suit. 200
+psychoman59 : parole 
+*** FLOP *** [7d Kd Ts]
+psychoman59 : parole 
+carlitros5 : parole 
+*** TOURNANT *** [7d Kd Ts] [3c]
+psychoman59 : parole 
+carlitros5 : parole 
+*** RIVIÈRE *** [7d Kd Ts 3c] [6s]
+psychoman59 : parole 
+carlitros5 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6c 9d] (une paire de Six)
+carlitros5 : cache la main perdante. 
+psychoman59 a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [7d Kd Ts 3c 6s]
+Siège 1 : carlitros5 (bouton) (petite blind) a caché la main perdante. [Qs 4h]
+Siège 4 : psychoman59 (grosse blind) a montré [6c 9d] et a gagné (900) avec une paire de Six
+
+
+
+Main PokerStars n°238107189762 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 20/08/2022 18:01:01 CET [20/08/2022 12:01:01 ET]
+Table '3459088189 1' 4-max Siège #4 est au bouton.
+Place 1: carlitros5 (12308 en jetons) 
+Place 4: psychoman59 (7692 en jetons) 
+carlitros5 : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+carlitros5 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Ks]
+psychoman59 : relance. 900 à 1300
+carlitros5 : suit. 900
+*** FLOP *** [3c Td 6h]
+carlitros5 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3c Td 6h] [9d]
+carlitros5 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3c Td 6h 9d] [Jd]
+carlitros5 : mise. 2700
+psychoman59 : passe. 
+Personne n'a suivi. (2700) sont retournés à carlitros5.
+carlitros5 a remporté 2700  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2700 | Commission 0 
+Tableau [3c Td 6h 9d Jd]
+Siège 1 : carlitros5 (grosse blind) a remporté (2700)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238107200831 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 20/08/2022 18:01:42 CET [20/08/2022 12:01:42 ET]
+Table '3459088189 1' 4-max Siège #1 est au bouton.
+Place 1: carlitros5 (13658 en jetons) 
+Place 4: psychoman59 (6342 en jetons) 
+carlitros5 : met l'ante. 60
+psychoman59 : met l'ante. 60
+carlitros5 : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 7c]
+carlitros5 : suit. 250
+psychoman59 : parole 
+*** FLOP *** [3d 3h 2c]
+psychoman59 : mise. 5782 et est all-in.
+carlitros5 : passe. 
+Personne n'a suivi. (5782) sont retournés à psychoman59.
+psychoman59 a remporté 1120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1120 | Commission 0 
+Tableau [3d 3h 2c]
+Siège 1 : carlitros5 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (1120)
+
+
+
+Main PokerStars n°238107205578 : Tournoi #3459088189, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 20/08/2022 18:01:59 CET [20/08/2022 12:01:59 ET]
+Table '3459088189 1' 4-max Siège #4 est au bouton.
+Place 1: carlitros5 (13098 en jetons) 
+Place 4: psychoman59 (6902 en jetons) 
+carlitros5 : met l'ante. 60
+psychoman59 : met l'ante. 60
+psychoman59 : met la petite blind. 250
+carlitros5 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Qs]
+psychoman59 : relance. 6342 à 6842 et est all-in.
+carlitros5 : suit. 6342
+*** FLOP *** [5c 2c 5d]
+*** TOURNANT *** [5c 2c 5d] [5s]
+*** RIVIÈRE *** [5c 2c 5d 5s] [9c]
+*** ABATTAGE ***
+carlitros5 : montre [Ac 9h] (un full, full aux Cinq par les Neuf)
+psychoman59 : montre [Ks Qs] (un brelan de Cinq)
+carlitros5 a remporté 13804  lors du pot .
+psychoman59 a fini le tournoi à la 2e place et a reçu 0.34 €.
+carlitros5 gagne le tournoi - félicitations !
+carlitros5 gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 13804 | Commission 0 
+Tableau [5c 2c 5d 5s 9c]
+Siège 1 : carlitros5 (grosse blind) a montré [Ac 9h] et a gagné (13804) avec un full, full aux Cinq par les Neuf
+Siège 4 : psychoman59 (bouton) (petite blind) a montré [Ks Qs] et a perdu avec un brelan de Cinq
+
+
+

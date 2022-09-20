@@ -1,0 +1,297 @@
+﻿Main PokerStars n°238365812612 : Tournoi #3465218961, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/09/2022 14:33:20 CET [02/09/2022 8:33:20 ET]
+Table '3465218961 1' 3-max Siège #1 est au bouton.
+Place 1: Boutch806 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: unforgiven596 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+unforgiven596 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 9h]
+Boutch806 : suit. 20
+psychoman59 : passe. 
+unforgiven596 : parole 
+*** FLOP *** [Tc 6d 9s]
+unforgiven596 : mise. 40
+Boutch806 : suit. 40
+*** TOURNANT *** [Tc 6d 9s] [3c]
+unforgiven596 : mise. 40
+Boutch806 : suit. 40
+*** RIVIÈRE *** [Tc 6d 9s 3c] [Kd]
+unforgiven596 : mise. 80
+Boutch806 : suit. 80
+*** ABATTAGE ***
+unforgiven596 : montre [Th 3h] (double paire, Dix et Trois)
+Boutch806 : cache la main perdante. 
+unforgiven596 a remporté 370  lors du pot .
+*** SYNTHÈSE ***
+Pot total 370 | Commission 0 
+Tableau [Tc 6d 9s 3c Kd]
+Siège 1 : Boutch806 (bouton) a caché la main perdante. [Ts Js]
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : unforgiven596 (grosse blind) a montré [Th 3h] et a gagné (370) avec double paire, Dix et Trois
+
+
+
+Main PokerStars n°238365818529 : Tournoi #3465218961, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/09/2022 14:33:47 CET [02/09/2022 8:33:47 ET]
+Table '3465218961 1' 3-max Siège #2 est au bouton.
+Place 1: Boutch806 (120 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: unforgiven596 (490 en jetons) 
+unforgiven596 : met la petite blind. 10
+Boutch806 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Qh]
+psychoman59 : relance. 270 à 290 et est all-in.
+unforgiven596 : relance. 200 à 490 et est all-in.
+Boutch806 : suit. 100 et est all-in.
+Personne n'a suivi. (200) sont retournés à unforgiven596.
+*** FLOP *** [5c 3c Qc]
+*** TOURNANT *** [5c 3c Qc] [Qs]
+*** RIVIÈRE *** [5c 3c Qc Qs] [8c]
+*** ABATTAGE ***
+unforgiven596 : montre [3d As] (double paire, Dames et Trois)
+psychoman59 : montre [Qd Qh] (un carré de Dames)
+psychoman59 a remporté 340  parallèle lors du pot .
+Boutch806 : montre [5h Ad] (double paire, Dames et Cinq)
+psychoman59 a remporté 360  principal lors du pot .
+Boutch806 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 700 Principal pot 360. Parallèle pot 340. | Commission 0 
+Tableau [5c 3c Qc Qs 8c]
+Siège 1 : Boutch806 (grosse blind) a montré [5h Ad] et a perdu avec double paire, Dames et Cinq
+Siège 2 : psychoman59 (bouton) a montré [Qd Qh] et a gagné (700) avec un carré de Dames
+Siège 3 : unforgiven596 (petite blind) a montré [3d As] et a perdu avec double paire, Dames et Trois
+
+
+
+Main PokerStars n°238365823946 : Tournoi #3465218961, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/09/2022 14:34:12 CET [02/09/2022 8:34:12 ET]
+Table '3465218961 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (700 en jetons) 
+Place 3: unforgiven596 (200 en jetons) 
+unforgiven596 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 2h]
+unforgiven596 : relance. 180 à 200 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (180) sont retournés à unforgiven596.
+unforgiven596 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : unforgiven596 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°238365825929 : Tournoi #3465218961, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/09/2022 14:34:21 CET [02/09/2022 8:34:21 ET]
+Table '3465218961 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (680 en jetons) 
+Place 3: unforgiven596 (220 en jetons) 
+psychoman59 : met la petite blind. 10
+unforgiven596 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à unforgiven596.
+unforgiven596 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : unforgiven596 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°238365827992 : Tournoi #3465218961, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/09/2022 14:34:30 CET [02/09/2022 8:34:30 ET]
+Table '3465218961 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (670 en jetons) 
+Place 3: unforgiven596 (230 en jetons) 
+unforgiven596 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 6d]
+unforgiven596 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : unforgiven596 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238365829022 : Tournoi #3465218961, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/09/2022 14:34:35 CET [02/09/2022 8:34:35 ET]
+Table '3465218961 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (685 en jetons) 
+Place 3: unforgiven596 (215 en jetons) 
+psychoman59 : met la petite blind. 15
+unforgiven596 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Jc]
+psychoman59 : relance. 60 à 90
+unforgiven596 : suit. 60
+*** FLOP *** [Qc 7c 7s]
+unforgiven596 : parole 
+psychoman59 : mise. 180
+unforgiven596 : suit. 125 et est all-in.
+Personne n'a suivi. (55) sont retournés à psychoman59.
+*** TOURNANT *** [Qc 7c 7s] [Ts]
+*** RIVIÈRE *** [Qc 7c 7s Ts] [Qd]
+*** ABATTAGE ***
+unforgiven596 : montre [8s 7h] (un full, full aux Sept par les Dames)
+psychoman59 : montre [Ac Jc] (double paire, Dames et Sept)
+unforgiven596 a remporté 430  lors du pot .
+*** SYNTHÈSE ***
+Pot total 430 | Commission 0 
+Tableau [Qc 7c 7s Ts Qd]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ac Jc] et a perdu avec double paire, Dames et Sept
+Siège 3 : unforgiven596 (grosse blind) a montré [8s 7h] et a gagné (430) avec un full, full aux Sept par les Dames
+
+
+
+Main PokerStars n°238365834614 : Tournoi #3465218961, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/09/2022 14:35:00 CET [02/09/2022 8:35:00 ET]
+Table '3465218961 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (470 en jetons) 
+Place 3: unforgiven596 (430 en jetons) 
+unforgiven596 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 3h]
+unforgiven596 : relance. 400 à 430 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à unforgiven596.
+unforgiven596 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : unforgiven596 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°238365836866 : Tournoi #3465218961, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/09/2022 14:35:10 CET [02/09/2022 8:35:10 ET]
+Table '3465218961 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (440 en jetons) 
+Place 3: unforgiven596 (460 en jetons) 
+psychoman59 : met la petite blind. 15
+unforgiven596 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Td]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à unforgiven596.
+unforgiven596 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : unforgiven596 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°238365838163 : Tournoi #3465218961, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/09/2022 14:35:16 CET [02/09/2022 8:35:16 ET]
+Table '3465218961 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (425 en jetons) 
+Place 3: unforgiven596 (475 en jetons) 
+unforgiven596 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 4h]
+unforgiven596 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [7s 5d Qc]
+psychoman59 : parole 
+unforgiven596 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à unforgiven596.
+unforgiven596 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7s 5d Qc]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : unforgiven596 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°238365844756 : Tournoi #3465218961, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/09/2022 14:35:46 CET [02/09/2022 8:35:46 ET]
+Table '3465218961 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (395 en jetons) 
+Place 3: unforgiven596 (505 en jetons) 
+psychoman59 : met la petite blind. 20
+unforgiven596 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à unforgiven596.
+unforgiven596 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : unforgiven596 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238365846009 : Tournoi #3465218961, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/09/2022 14:35:52 CET [02/09/2022 8:35:52 ET]
+Table '3465218961 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (375 en jetons) 
+Place 3: unforgiven596 (525 en jetons) 
+unforgiven596 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 5s]
+unforgiven596 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : unforgiven596 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238365847310 : Tournoi #3465218961, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/09/2022 14:35:58 CET [02/09/2022 8:35:58 ET]
+Table '3465218961 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (395 en jetons) 
+Place 3: unforgiven596 (505 en jetons) 
+psychoman59 : met la petite blind. 20
+unforgiven596 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ah]
+psychoman59 : relance. 355 à 395 et est all-in.
+unforgiven596 : passe. 
+Personne n'a suivi. (355) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : unforgiven596 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238365851244 : Tournoi #3465218961, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/09/2022 14:36:16 CET [02/09/2022 8:36:16 ET]
+Table '3465218961 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (435 en jetons) 
+Place 3: unforgiven596 (465 en jetons) 
+unforgiven596 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 5h]
+unforgiven596 : relance. 80 à 120
+psychoman59 : relance. 315 à 435 et est all-in.
+unforgiven596 : suit. 315
+*** FLOP *** [Ts 9c Jc]
+*** TOURNANT *** [Ts 9c Jc] [Td]
+*** RIVIÈRE *** [Ts 9c Jc Td] [Jh]
+*** ABATTAGE ***
+psychoman59 : montre [5d 5h] (double paire, Valets et Dix)
+unforgiven596 : montre [8c Ks] (double paire, Valets et Dix - Roi kicker)
+unforgiven596 a remporté 870  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+unforgiven596 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Tableau [Ts 9c Jc Td Jh]
+Siège 2 : psychoman59 (grosse blind) a montré [5d 5h] et a perdu avec double paire, Valets et Dix
+Siège 3 : unforgiven596 (bouton) (petite blind) a montré [8c Ks] et a gagné (870) avec double paire, Valets et Dix
+
+
+

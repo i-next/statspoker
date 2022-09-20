@@ -1,0 +1,221 @@
+﻿Main PokerStars n°238225737536 : Tournoi #3461893672, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 26/08/2022 15:25:01 CET [26/08/2022 9:25:01 ET]
+Table '3461893672 1' 4-max Siège #1 est au bouton.
+Place 1: desyy661 (5000 en jetons) 
+Place 2: pablostar211 (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: tonytonet354 (5000 en jetons) 
+desyy661 : met l'ante. 10
+pablostar211 : met l'ante. 10
+psychoman59 : met l'ante. 10
+tonytonet354 : met l'ante. 10
+pablostar211 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 8d]
+tonytonet354 : suit. 100
+desyy661 : passe. 
+pablostar211 : relance. 4890 à 4990 et est all-in.
+psychoman59 : passe. 
+tonytonet354 : passe. [Ts Jd]
+Personne n'a suivi. (4890) sont retournés à pablostar211.
+pablostar211 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : desyy661 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : pablostar211 (petite blind) a remporté (340)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : tonytonet354 s'est couché. avant Flop
+
+
+
+Main PokerStars n°238225743148 : Tournoi #3461893672, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 26/08/2022 15:25:25 CET [26/08/2022 9:25:25 ET]
+Table '3461893672 1' 4-max Siège #2 est au bouton.
+Place 1: desyy661 (4990 en jetons) 
+Place 2: pablostar211 (5230 en jetons) 
+Place 3: psychoman59 (4890 en jetons) 
+Place 4: tonytonet354 (4890 en jetons) 
+desyy661 : met l'ante. 10
+pablostar211 : met l'ante. 10
+psychoman59 : met l'ante. 10
+tonytonet354 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+tonytonet354 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 3h]
+desyy661 : suit. 100
+pablostar211 : passe. 
+psychoman59 : suit. 50
+tonytonet354 : parole 
+*** FLOP *** [Tc Qd Qh]
+psychoman59 : parole 
+tonytonet354 : mise. 170
+desyy661 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (170) sont retournés à tonytonet354.
+tonytonet354 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [Tc Qd Qh]
+Siège 1 : desyy661 s'est couché. sur le Flop
+Siège 2 : pablostar211 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 4 : tonytonet354 (grosse blind) a remporté (340)
+
+
+
+Main PokerStars n°238225752487 : Tournoi #3461893672, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 26/08/2022 15:26:03 CET [26/08/2022 9:26:03 ET]
+Table '3461893672 1' 4-max Siège #3 est au bouton.
+Place 1: desyy661 (4880 en jetons) 
+Place 2: pablostar211 (5220 en jetons) 
+Place 3: psychoman59 (4780 en jetons) 
+Place 4: tonytonet354 (5120 en jetons) 
+desyy661 : met l'ante. 10
+pablostar211 : met l'ante. 10
+psychoman59 : met l'ante. 10
+tonytonet354 : met l'ante. 10
+tonytonet354 : met la petite blind. 50
+desyy661 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c As]
+pablostar211 : passe. 
+psychoman59 : suit. 100
+tonytonet354 : suit. 50
+desyy661 : parole 
+*** FLOP *** [2s 2h 5c]
+tonytonet354 : parole 
+desyy661 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2s 2h 5c] [6c]
+tonytonet354 : mise. 170
+desyy661 : passe. 
+psychoman59 : suit. 170
+*** RIVIÈRE *** [2s 2h 5c 6c] [7h]
+tonytonet354 : mise. 680
+psychoman59 : suit. 680
+*** ABATTAGE ***
+tonytonet354 : montre [5d 2d] (un full, full aux Deux par les Cinq)
+psychoman59 : cache la main perdante. 
+tonytonet354 a remporté 2040  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2040 | Commission 0 
+Tableau [2s 2h 5c 6c 7h]
+Siège 1 : desyy661 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : pablostar211 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) a caché la main perdante. [2c As]
+Siège 4 : tonytonet354 (petite blind) a montré [5d 2d] et a gagné (2040) avec un full, full aux Deux par les Cinq
+
+
+
+Main PokerStars n°238225760496 : Tournoi #3461893672, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 26/08/2022 15:26:37 CET [26/08/2022 9:26:37 ET]
+Table '3461893672 1' 4-max Siège #4 est au bouton.
+Place 1: desyy661 (4770 en jetons) 
+Place 2: pablostar211 (5210 en jetons) 
+Place 3: psychoman59 (3820 en jetons) 
+Place 4: tonytonet354 (6200 en jetons) 
+desyy661 : met l'ante. 10
+pablostar211 : met l'ante. 10
+psychoman59 : met l'ante. 10
+tonytonet354 : met l'ante. 10
+desyy661 : met la petite blind. 50
+pablostar211 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Qs]
+psychoman59 : passe. 
+tonytonet354 : suit. 100
+desyy661 : suit. 50
+pablostar211 : parole 
+*** FLOP *** [2h Qd Js]
+desyy661 : parole 
+pablostar211 : parole 
+tonytonet354 : mise. 340
+desyy661 : passe. 
+pablostar211 : passe. 
+Personne n'a suivi. (340) sont retournés à tonytonet354.
+tonytonet354 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [2h Qd Js]
+Siège 1 : desyy661 (petite blind) s'est couché. sur le Flop
+Siège 2 : pablostar211 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : tonytonet354 (bouton) a remporté (340)
+
+
+
+Main PokerStars n°238225766243 : Tournoi #3461893672, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 26/08/2022 15:27:01 CET [26/08/2022 9:27:01 ET]
+Table '3461893672 1' 4-max Siège #1 est au bouton.
+Place 1: desyy661 (4660 en jetons) 
+Place 2: pablostar211 (5100 en jetons) 
+Place 3: psychoman59 (3810 en jetons) 
+Place 4: tonytonet354 (6430 en jetons) 
+desyy661 : met l'ante. 10
+pablostar211 : met l'ante. 10
+psychoman59 : met l'ante. 10
+tonytonet354 : met l'ante. 10
+pablostar211 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 5c]
+tonytonet354 : suit. 100
+desyy661 : suit. 100
+pablostar211 : passe. 
+psychoman59 : parole 
+*** FLOP *** [7c 3s 7h]
+psychoman59 : parole 
+tonytonet354 : mise. 390
+desyy661 : passe. 
+psychoman59 : suit. 390
+*** TOURNANT *** [7c 3s 7h] [5s]
+psychoman59 : parole 
+tonytonet354 : mise. 585
+psychoman59 : passe. 
+Personne n'a suivi. (585) sont retournés à tonytonet354.
+tonytonet354 a remporté 1170  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1170 | Commission 0 
+Tableau [7c 3s 7h 5s]
+Siège 1 : desyy661 (bouton) s'est couché. sur le Flop
+Siège 2 : pablostar211 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 4 : tonytonet354 a remporté (1170)
+
+
+
+Main PokerStars n°238225776931 : Tournoi #3461893672, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 26/08/2022 15:27:47 CET [26/08/2022 9:27:47 ET]
+Table '3461893672 1' 4-max Siège #2 est au bouton.
+Place 1: desyy661 (4550 en jetons) 
+Place 2: pablostar211 (5040 en jetons) 
+Place 3: psychoman59 (3310 en jetons) 
+Place 4: tonytonet354 (7100 en jetons) 
+desyy661 : met l'ante. 10
+pablostar211 : met l'ante. 10
+psychoman59 : met l'ante. 10
+tonytonet354 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+tonytonet354 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 5c]
+desyy661 : suit. 100
+pablostar211 : relance. 277 à 377
+psychoman59 : relance. 2923 à 3300 et est all-in.
+tonytonet354 : passe. 
+desyy661 : passe. 
+pablostar211 : suit. 2923
+*** FLOP *** [6s 3h Th]
+*** TOURNANT *** [6s 3h Th] [2c]
+*** RIVIÈRE *** [6s 3h Th 2c] [4h]
+*** ABATTAGE ***
+psychoman59 : montre [5s 5c] (une suite, Deux à Six)
+pablostar211 : montre [5d 7d] (une suite, Trois à Sept)
+pablostar211 a remporté 6840  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 6840 | Commission 0 
+Tableau [6s 3h Th 2c 4h]
+Siège 1 : desyy661 s'est couché. avant Flop
+Siège 2 : pablostar211 (bouton) a montré [5d 7d] et a gagné (6840) avec une suite, Trois à Sept
+Siège 3 : psychoman59 (petite blind) a montré [5s 5c] et a perdu avec une suite, Deux à Six
+Siège 4 : tonytonet354 (grosse blind) s'est couché. avant Flop
+
+
+

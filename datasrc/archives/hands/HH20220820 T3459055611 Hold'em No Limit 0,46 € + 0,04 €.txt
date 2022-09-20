@@ -1,0 +1,36 @@
+﻿Main PokerStars n°238105529172 : Tournoi #3459055611, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 20/08/2022 16:22:07 CET [20/08/2022 10:22:07 ET]
+Table '3459055611 1' 4-max Siège #1 est au bouton.
+Place 1: Marcusantos1995 (5000 en jetons) 
+Place 2: fitillas (5000 en jetons) 
+Place 3: RACON2012 (5000 en jetons) 
+Place 4: psychoman59 (5000 en jetons) 
+Marcusantos1995 : met l'ante. 10
+fitillas : met l'ante. 10
+RACON2012 : met l'ante. 10
+psychoman59 : met l'ante. 10
+fitillas : met la petite blind. 50
+RACON2012 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 9d]
+psychoman59 : relance. 4890 à 4990 et est all-in.
+Marcusantos1995 : passe. 
+fitillas : passe. 
+RACON2012 : suit. 4890 et est all-in.
+*** FLOP *** [5d 4d 4s]
+*** TOURNANT *** [5d 4d 4s] [7c]
+*** RIVIÈRE *** [5d 4d 4s 7c] [Kd]
+*** ABATTAGE ***
+RACON2012 : montre [6d 3d] (une couleur, hauteur Roi)
+psychoman59 : montre [9s 9d] (double paire, Neuf et Quatre)
+RACON2012 a remporté 10070  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10070 | Commission 0 
+Tableau [5d 4d 4s 7c Kd]
+Siège 1 : Marcusantos1995 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : fitillas (petite blind) s'est couché. avant Flop
+Siège 3 : RACON2012 (grosse blind) a montré [6d 3d] et a gagné (10070) avec une couleur, hauteur Roi
+Siège 4 : psychoman59 a montré [9s 9d] et a perdu avec double paire, Neuf et Quatre
+
+
+

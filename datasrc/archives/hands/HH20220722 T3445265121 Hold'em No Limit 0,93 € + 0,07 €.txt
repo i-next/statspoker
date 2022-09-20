@@ -1,0 +1,96 @@
+﻿Main PokerStars n°237522262412 : Tournoi #3445265121, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/07/2022 0:00:55 CET [22/07/2022 18:00:55 ET]
+Table '3445265121 1' 3-max Siège #1 est au bouton.
+Place 1: Capron80 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: haydenryne (300 en jetons) 
+psychoman59 : met la petite blind. 10
+haydenryne : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ad]
+Capron80 : suit. 20
+psychoman59 : suit. 10
+haydenryne : relance. 60 à 80
+Capron80 : suit. 60
+psychoman59 : suit. 60
+*** FLOP *** [7h Jc 5h]
+psychoman59 : parole 
+haydenryne : mise. 220 et est all-in.
+Capron80 : suit. 220 et est all-in.
+psychoman59 : passe. 
+*** TOURNANT *** [7h Jc 5h] [Qd]
+*** RIVIÈRE *** [7h Jc 5h Qd] [5s]
+*** ABATTAGE ***
+haydenryne : montre [Kd Js] (double paire, Valets et Cinq)
+Capron80 : montre [6h 6c] (double paire, Six et Cinq)
+haydenryne a remporté 680  lors du pot .
+Capron80 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [7h Jc 5h Qd 5s]
+Siège 1 : Capron80 (bouton) a montré [6h 6c] et a perdu avec double paire, Six et Cinq
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : haydenryne (grosse blind) a montré [Kd Js] et a gagné (680) avec double paire, Valets et Cinq
+
+
+
+Main PokerStars n°237522272179 : Tournoi #3445265121, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/07/2022 0:01:26 CET [22/07/2022 18:01:26 ET]
+Table '3445265121 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (220 en jetons) 
+Place 3: haydenryne (680 en jetons) 
+haydenryne : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Kh]
+haydenryne : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8h Ah Qs]
+psychoman59 : parole 
+haydenryne : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [8h Ah Qs] [4d]
+psychoman59 : parole 
+haydenryne : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [8h Ah Qs 4d] [9d]
+psychoman59 : parole 
+haydenryne : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à haydenryne.
+haydenryne a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8h Ah Qs 4d 9d]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : haydenryne (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237522280671 : Tournoi #3445265121, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/07/2022 0:01:52 CET [22/07/2022 18:01:52 ET]
+Table '3445265121 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (160 en jetons) 
+Place 3: haydenryne (740 en jetons) 
+psychoman59 : met la petite blind. 10
+haydenryne : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 8d]
+psychoman59 : suit. 10
+haydenryne : relance. 40 à 60
+psychoman59 : suit. 40
+*** FLOP *** [Ad 9c Ts]
+haydenryne : mise. 20
+psychoman59 : relance. 80 à 100 et est all-in.
+haydenryne : suit. 80
+*** TOURNANT *** [Ad 9c Ts] [Tc]
+*** RIVIÈRE *** [Ad 9c Ts Tc] [2s]
+*** ABATTAGE ***
+haydenryne : montre [Qc Kc] (une paire de Dix)
+psychoman59 : montre [7d 8d] (une paire de Dix - plus basse kicker)
+haydenryne a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Ad 9c Ts Tc 2s]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [7d 8d] et a perdu avec une paire de Dix
+Siège 3 : haydenryne (grosse blind) a montré [Qc Kc] et a gagné (320) avec une paire de Dix
+
+
+

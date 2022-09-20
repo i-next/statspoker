@@ -1,0 +1,2341 @@
+﻿Main PokerStars n°238285418021 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/08/2022 11:25:11 CET [29/08/2022 5:25:11 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 2: filou6815 (5000 en jetons) 
+Place 3: ShepOsk (5000 en jetons) 
+Place 4: elivanma (5000 en jetons) 
+psychoman59 : met l'ante. 10
+filou6815 : met l'ante. 10
+ShepOsk : met l'ante. 10
+elivanma : met l'ante. 10
+filou6815 : met la petite blind. 50
+ShepOsk : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ah]
+elivanma : passe. 
+psychoman59 : relance. 100 à 200
+filou6815 : passe. 
+ShepOsk : relance. 100 à 300
+psychoman59 : suit. 100
+*** FLOP *** [4c Kc Ks]
+ShepOsk : mise. 345
+psychoman59 : passe. 
+Personne n'a suivi. (345) sont retournés à ShepOsk.
+ShepOsk a remporté 690  lors du pot .
+ShepOsk : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 690 | Commission 0 
+Tableau [4c Kc Ks]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : filou6815 (petite blind) s'est couché. avant Flop
+Siège 3 : ShepOsk (grosse blind) a remporté (690)
+Siège 4 : elivanma s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238285422721 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/08/2022 11:25:46 CET [29/08/2022 5:25:46 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4690 en jetons) 
+Place 2: filou6815 (4940 en jetons) 
+Place 3: ShepOsk (5380 en jetons) 
+Place 4: elivanma (4990 en jetons) 
+psychoman59 : met l'ante. 10
+filou6815 : met l'ante. 10
+ShepOsk : met l'ante. 10
+elivanma : met l'ante. 10
+ShepOsk : met la petite blind. 50
+elivanma : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7h]
+psychoman59 : passe. 
+filou6815 : suit. 100
+ShepOsk : passe. 
+ShepOsk ne joue pas.
+elivanma : parole 
+*** FLOP *** [Jc 2h 4c]
+elivanma : parole 
+filou6815 : parole 
+*** TOURNANT *** [Jc 2h 4c] [Ac]
+elivanma : parole 
+filou6815 : parole 
+*** RIVIÈRE *** [Jc 2h 4c Ac] [Th]
+elivanma : parole 
+filou6815 : mise. 290
+elivanma : passe. 
+Personne n'a suivi. (290) sont retournés à filou6815.
+filou6815 a remporté 290  lors du pot .
+filou6815 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Tableau [Jc 2h 4c Ac Th]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : filou6815 (bouton) a remporté (290)
+Siège 3 : ShepOsk (petite blind) s'est couché. avant Flop
+Siège 4 : elivanma (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238285433195 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/08/2022 11:27:03 CET [29/08/2022 5:27:03 ET]
+Table '3463271275 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4680 en jetons) 
+Place 2: filou6815 (5120 en jetons) 
+Place 3: ShepOsk (5320 en jetons) ne joue pas.
+Place 4: elivanma (4880 en jetons) 
+psychoman59 : met l'ante. 10
+filou6815 : met l'ante. 10
+ShepOsk : met l'ante. 10
+elivanma : met l'ante. 10
+elivanma : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 7c]
+filou6815 : suit. 100
+ShepOsk : passe. 
+elivanma : suit. 50
+psychoman59 : parole 
+*** FLOP *** [9d 8d Qd]
+elivanma : parole 
+psychoman59 : parole 
+filou6815 : parole 
+*** TOURNANT *** [9d 8d Qd] [2c]
+elivanma : parole 
+psychoman59 : parole 
+filou6815 : parole 
+*** RIVIÈRE *** [9d 8d Qd 2c] [Ah]
+elivanma : parole 
+psychoman59 : parole 
+filou6815 : parole 
+*** ABATTAGE ***
+elivanma : montre [Th 8s] (une paire de Huit)
+psychoman59 : cache la main perdante. 
+filou6815 : montre [9c Jh] (une paire de Neuf)
+filou6815 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [9d 8d Qd 2c Ah]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [6h 7c]
+Siège 2 : filou6815 a montré [9c Jh] et a gagné (340) avec une paire de Neuf
+Siège 3 : ShepOsk (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : elivanma (petite blind) a montré [Th 8s] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°238285438705 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/08/2022 11:27:44 CET [29/08/2022 5:27:44 ET]
+Table '3463271275 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4570 en jetons) 
+Place 2: filou6815 (5350 en jetons) 
+Place 3: ShepOsk (5310 en jetons) ne joue pas.
+Place 4: elivanma (4770 en jetons) 
+psychoman59 : met l'ante. 10
+filou6815 : met l'ante. 10
+ShepOsk : met l'ante. 10
+elivanma : met l'ante. 10
+psychoman59 : met la petite blind. 50
+filou6815 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 2c]
+ShepOsk : passe. 
+elivanma : passe. 
+psychoman59 : suit. 50
+filou6815 : parole 
+*** FLOP *** [Ad 3c Qc]
+psychoman59 : mise. 100
+filou6815 : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Ad 3c Qc]
+Siège 1 : psychoman59 (petite blind) a remporté (240)
+Siège 2 : filou6815 (grosse blind) s'est couché. sur le Flop
+Siège 3 : ShepOsk s'est couché. avant Flop (n'a pas misé)
+Siège 4 : elivanma (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238285441386 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 29/08/2022 11:28:04 CET [29/08/2022 5:28:04 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4700 en jetons) 
+Place 2: filou6815 (5240 en jetons) 
+Place 3: ShepOsk (5300 en jetons) ne joue pas.
+Place 4: elivanma (4760 en jetons) 
+psychoman59 : met l'ante. 10
+filou6815 : met l'ante. 10
+ShepOsk : met l'ante. 10
+elivanma : met l'ante. 10
+filou6815 : met la petite blind. 50
+ShepOsk : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Jc]
+elivanma : passe. 
+psychoman59 : passe. 
+filou6815 : relance. 100 à 200
+ShepOsk : passe. 
+Personne n'a suivi. (100) sont retournés à filou6815.
+filou6815 a remporté 240  lors du pot .
+filou6815 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : filou6815 (petite blind) a remporté (240)
+Siège 3 : ShepOsk (grosse blind) s'est couché. avant Flop
+Siège 4 : elivanma s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238285444150 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/08/2022 11:28:25 CET [29/08/2022 5:28:25 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4690 en jetons) 
+Place 2: filou6815 (5370 en jetons) 
+Place 3: ShepOsk (5190 en jetons) ne joue pas.
+Place 4: elivanma (4750 en jetons) 
+psychoman59 : met l'ante. 15
+filou6815 : met l'ante. 15
+ShepOsk : met l'ante. 15
+elivanma : met l'ante. 15
+ShepOsk : met la petite blind. 60
+elivanma : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Jc]
+psychoman59 : passe. 
+filou6815 : relance. 120 à 240
+ShepOsk : passe. 
+elivanma : suit. 120
+*** FLOP *** [4d Ad 9h]
+elivanma : parole 
+filou6815 : parole 
+*** TOURNANT *** [4d Ad 9h] [Td]
+elivanma : mise. 120
+filou6815 : suit. 120
+*** RIVIÈRE *** [4d Ad 9h Td] [7d]
+elivanma : mise. 120
+filou6815 : suit. 120
+*** ABATTAGE ***
+elivanma : montre [9c Ts] (double paire, Dix et Neuf)
+filou6815 : montre [2h 3d] (une couleur, hauteur As)
+filou6815 a remporté 1080  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1080 | Commission 0 
+Tableau [4d Ad 9h Td 7d]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : filou6815 (bouton) a montré [2h 3d] et a gagné (1080) avec une couleur, hauteur As
+Siège 3 : ShepOsk (petite blind) s'est couché. avant Flop
+Siège 4 : elivanma (grosse blind) a montré [9c Ts] et a perdu avec double paire, Dix et Neuf
+
+
+
+Main PokerStars n°238285448112 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/08/2022 11:28:54 CET [29/08/2022 5:28:54 ET]
+Table '3463271275 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4675 en jetons) 
+Place 2: filou6815 (5955 en jetons) 
+Place 3: ShepOsk (5115 en jetons) ne joue pas.
+Place 4: elivanma (4255 en jetons) 
+psychoman59 : met l'ante. 15
+filou6815 : met l'ante. 15
+ShepOsk : met l'ante. 15
+elivanma : met l'ante. 15
+elivanma : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 2h]
+filou6815 : suit. 120
+ShepOsk : passe. 
+elivanma : suit. 60
+psychoman59 : parole 
+*** FLOP *** [Ks 6d 4c]
+elivanma : parole 
+psychoman59 : parole 
+filou6815 : parole 
+*** TOURNANT *** [Ks 6d 4c] [7c]
+ShepOsk est revenu.
+elivanma : parole 
+psychoman59 : parole 
+filou6815 : mise. 210
+elivanma : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (210) sont retournés à filou6815.
+filou6815 a remporté 420  lors du pot .
+filou6815 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [Ks 6d 4c 7c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : filou6815 a remporté (420)
+Siège 3 : ShepOsk (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : elivanma (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238285452898 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/08/2022 11:29:30 CET [29/08/2022 5:29:30 ET]
+Table '3463271275 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4540 en jetons) 
+Place 2: filou6815 (6240 en jetons) 
+Place 3: ShepOsk (5100 en jetons) 
+Place 4: elivanma (4120 en jetons) 
+psychoman59 : met l'ante. 15
+filou6815 : met l'ante. 15
+ShepOsk : met l'ante. 15
+elivanma : met l'ante. 15
+psychoman59 : met la petite blind. 60
+filou6815 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5s]
+ShepOsk : passe. 
+elivanma : passe. 
+psychoman59 : suit. 60
+filou6815 : parole 
+*** FLOP *** [9h 2c 7s]
+psychoman59 : parole 
+filou6815 : parole 
+*** TOURNANT *** [9h 2c 7s] [6h]
+psychoman59 : parole 
+filou6815 : parole 
+*** RIVIÈRE *** [9h 2c 7s 6h] [Jh]
+psychoman59 : parole 
+filou6815 : mise. 150
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à filou6815.
+filou6815 a remporté 300  lors du pot .
+filou6815 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [9h 2c 7s 6h Jh]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 2 : filou6815 (grosse blind) a remporté (300)
+Siège 3 : ShepOsk s'est couché. avant Flop (n'a pas misé)
+Siège 4 : elivanma (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238285457244 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/08/2022 11:30:03 CET [29/08/2022 5:30:03 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4405 en jetons) 
+Place 2: filou6815 (6405 en jetons) 
+Place 3: ShepOsk (5085 en jetons) 
+Place 4: elivanma (4105 en jetons) 
+psychoman59 : met l'ante. 15
+filou6815 : met l'ante. 15
+ShepOsk : met l'ante. 15
+elivanma : met l'ante. 15
+filou6815 : met la petite blind. 60
+ShepOsk : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 6c]
+elivanma : passe. 
+psychoman59 : passe. 
+filou6815 : suit. 60
+ShepOsk : relance. 240 à 360
+filou6815 : suit. 240
+*** FLOP *** [6d Kh 6s]
+filou6815 : parole 
+ShepOsk : mise. 390
+filou6815 : passe. 
+Personne n'a suivi. (390) sont retournés à ShepOsk.
+ShepOsk a remporté 780  lors du pot .
+ShepOsk : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 780 | Commission 0 
+Tableau [6d Kh 6s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : filou6815 (petite blind) s'est couché. sur le Flop
+Siège 3 : ShepOsk (grosse blind) a remporté (780)
+Siège 4 : elivanma s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238285460750 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/08/2022 11:30:29 CET [29/08/2022 5:30:29 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4390 en jetons) 
+Place 2: filou6815 (6030 en jetons) 
+Place 3: ShepOsk (5490 en jetons) 
+Place 4: elivanma (4090 en jetons) 
+psychoman59 : met l'ante. 15
+filou6815 : met l'ante. 15
+ShepOsk : met l'ante. 15
+elivanma : met l'ante. 15
+ShepOsk : met la petite blind. 60
+elivanma : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Ad]
+psychoman59 : suit. 120
+filou6815 : passe. 
+ShepOsk : passe. 
+elivanma : parole 
+*** FLOP *** [5s 9c 2s]
+elivanma : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5s 9c 2s] [Ts]
+elivanma : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5s 9c 2s Ts] [5h]
+elivanma : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à elivanma.
+elivanma a remporté 360  lors du pot .
+elivanma : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [5s 9c 2s Ts 5h]
+Siège 1 : psychoman59 s'est couché. sur le Rivière
+Siège 2 : filou6815 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ShepOsk (petite blind) s'est couché. avant Flop
+Siège 4 : elivanma (grosse blind) a remporté (360)
+
+
+
+Main PokerStars n°238285464375 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 29/08/2022 11:30:56 CET [29/08/2022 5:30:56 ET]
+Table '3463271275 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4255 en jetons) 
+Place 2: filou6815 (6015 en jetons) 
+Place 3: ShepOsk (5415 en jetons) 
+Place 4: elivanma (4315 en jetons) 
+psychoman59 : met l'ante. 15
+filou6815 : met l'ante. 15
+ShepOsk : met l'ante. 15
+elivanma : met l'ante. 15
+elivanma : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Jh]
+filou6815 : passe. 
+ShepOsk : relance. 240 à 360
+elivanma : passe. 
+psychoman59 : suit. 240
+*** FLOP *** [9c Qd 6c]
+psychoman59 : parole 
+ShepOsk : mise. 252
+psychoman59 : suit. 252
+*** TOURNANT *** [9c Qd 6c] [2c]
+psychoman59 : parole 
+ShepOsk : parole 
+*** RIVIÈRE *** [9c Qd 6c 2c] [9h]
+psychoman59 : mise. 1344
+ShepOsk : passe. 
+Personne n'a suivi. (1344) sont retournés à psychoman59.
+psychoman59 a remporté 1344  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1344 | Commission 0 
+Tableau [9c Qd 6c 2c 9h]
+Siège 1 : psychoman59 (grosse blind) a remporté (1344)
+Siège 2 : filou6815 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ShepOsk (bouton) s'est couché. sur le Rivière
+Siège 4 : elivanma (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238285472319 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/08/2022 11:31:55 CET [29/08/2022 5:31:55 ET]
+Table '3463271275 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4972 en jetons) 
+Place 2: filou6815 (6000 en jetons) 
+Place 3: ShepOsk (4788 en jetons) 
+Place 4: elivanma (4240 en jetons) 
+psychoman59 : met l'ante. 20
+filou6815 : met l'ante. 20
+ShepOsk : met l'ante. 20
+elivanma : met l'ante. 20
+psychoman59 : met la petite blind. 75
+filou6815 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 8d]
+ShepOsk : relance. 300 à 450
+elivanma : passe. 
+psychoman59 : passe. 
+filou6815 : suit. 300
+*** FLOP *** [8h Jd As]
+filou6815 : mise. 527
+ShepOsk : passe. 
+Personne n'a suivi. (527) sont retournés à filou6815.
+filou6815 a remporté 1055  lors du pot .
+filou6815 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1055 | Commission 0 
+Tableau [8h Jd As]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : filou6815 (grosse blind) a remporté (1055)
+Siège 3 : ShepOsk s'est couché. sur le Flop
+Siège 4 : elivanma (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238285475278 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/08/2022 11:32:17 CET [29/08/2022 5:32:17 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4877 en jetons) 
+Place 2: filou6815 (6585 en jetons) 
+Place 3: ShepOsk (4318 en jetons) 
+Place 4: elivanma (4220 en jetons) 
+psychoman59 : met l'ante. 20
+filou6815 : met l'ante. 20
+ShepOsk : met l'ante. 20
+elivanma : met l'ante. 20
+filou6815 : met la petite blind. 75
+ShepOsk : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 4s]
+elivanma : passe. 
+psychoman59 : passe. 
+filou6815 : passe. 
+Personne n'a suivi. (75) sont retournés à ShepOsk.
+ShepOsk a remporté 230  lors du pot .
+ShepOsk : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 230 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : filou6815 (petite blind) s'est couché. avant Flop
+Siège 3 : ShepOsk (grosse blind) a remporté (230)
+Siège 4 : elivanma s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238285476919 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/08/2022 11:32:29 CET [29/08/2022 5:32:29 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4857 en jetons) 
+Place 2: filou6815 (6490 en jetons) 
+Place 3: ShepOsk (4453 en jetons) 
+Place 4: elivanma (4200 en jetons) 
+psychoman59 : met l'ante. 20
+filou6815 : met l'ante. 20
+ShepOsk : met l'ante. 20
+elivanma : met l'ante. 20
+ShepOsk : met la petite blind. 75
+elivanma : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Ac]
+psychoman59 : suit. 150
+filou6815 : relance. 150 à 300
+ShepOsk : suit. 225
+elivanma : passe. 
+psychoman59 : suit. 150
+*** FLOP *** [8d 9d Ks]
+ShepOsk : mise. 540
+psychoman59 : passe. 
+filou6815 : passe. 
+Personne n'a suivi. (540) sont retournés à ShepOsk.
+ShepOsk a remporté 1130  lors du pot .
+ShepOsk : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1130 | Commission 0 
+Tableau [8d 9d Ks]
+Siège 1 : psychoman59 s'est couché. sur le Flop
+Siège 2 : filou6815 (bouton) s'est couché. sur le Flop
+Siège 3 : ShepOsk (petite blind) a remporté (1130)
+Siège 4 : elivanma (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238285481505 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/08/2022 11:33:02 CET [29/08/2022 5:33:02 ET]
+Table '3463271275 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4537 en jetons) 
+Place 2: filou6815 (6170 en jetons) 
+Place 3: ShepOsk (5263 en jetons) 
+Place 4: elivanma (4030 en jetons) 
+psychoman59 : met l'ante. 20
+filou6815 : met l'ante. 20
+ShepOsk : met l'ante. 20
+elivanma : met l'ante. 20
+elivanma : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 3h]
+filou6815 : passe. 
+ShepOsk : relance. 300 à 450
+elivanma : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à ShepOsk.
+ShepOsk a remporté 455  lors du pot .
+ShepOsk : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 455 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : filou6815 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ShepOsk (bouton) a remporté (455)
+Siège 4 : elivanma (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238285484183 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/08/2022 11:33:21 CET [29/08/2022 5:33:21 ET]
+Table '3463271275 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4367 en jetons) 
+Place 2: filou6815 (6150 en jetons) 
+Place 3: ShepOsk (5548 en jetons) 
+Place 4: elivanma (3935 en jetons) 
+psychoman59 : met l'ante. 20
+filou6815 : met l'ante. 20
+ShepOsk : met l'ante. 20
+elivanma : met l'ante. 20
+psychoman59 : met la petite blind. 75
+filou6815 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 5c]
+ShepOsk : passe. 
+elivanma : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à filou6815.
+filou6815 a remporté 230  lors du pot .
+filou6815 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 230 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : filou6815 (grosse blind) a remporté (230)
+Siège 3 : ShepOsk s'est couché. avant Flop (n'a pas misé)
+Siège 4 : elivanma (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238285485565 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/08/2022 11:33:31 CET [29/08/2022 5:33:31 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4272 en jetons) 
+Place 2: filou6815 (6285 en jetons) 
+Place 3: ShepOsk (5528 en jetons) 
+Place 4: elivanma (3915 en jetons) 
+psychoman59 : met l'ante. 20
+filou6815 : met l'ante. 20
+ShepOsk : met l'ante. 20
+elivanma : met l'ante. 20
+filou6815 : met la petite blind. 75
+ShepOsk : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 9c]
+elivanma : relance. 3745 à 3895 et est all-in.
+psychoman59 : passe. 
+filou6815 : passe. 
+ShepOsk : passe. 
+Personne n'a suivi. (3745) sont retournés à elivanma.
+elivanma a remporté 455  lors du pot .
+elivanma : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 455 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : filou6815 (petite blind) s'est couché. avant Flop
+Siège 3 : ShepOsk (grosse blind) s'est couché. avant Flop
+Siège 4 : elivanma a remporté (455)
+
+
+
+Main PokerStars n°238285488192 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/08/2022 11:33:51 CET [29/08/2022 5:33:51 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4252 en jetons) 
+Place 2: filou6815 (6190 en jetons) 
+Place 3: ShepOsk (5358 en jetons) 
+Place 4: elivanma (4200 en jetons) 
+psychoman59 : met l'ante. 20
+filou6815 : met l'ante. 20
+ShepOsk : met l'ante. 20
+elivanma : met l'ante. 20
+ShepOsk : met la petite blind. 75
+elivanma : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Jd]
+psychoman59 : passe. 
+filou6815 : passe. 
+ShepOsk : relance. 300 à 450
+elivanma : passe. 
+Personne n'a suivi. (300) sont retournés à ShepOsk.
+ShepOsk a remporté 380  lors du pot .
+ShepOsk : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : filou6815 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ShepOsk (petite blind) a remporté (380)
+Siège 4 : elivanma (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238285490871 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 29/08/2022 11:34:10 CET [29/08/2022 5:34:10 ET]
+Table '3463271275 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4232 en jetons) 
+Place 2: filou6815 (6170 en jetons) 
+Place 3: ShepOsk (5568 en jetons) 
+Place 4: elivanma (4030 en jetons) 
+psychoman59 : met l'ante. 20
+filou6815 : met l'ante. 20
+ShepOsk : met l'ante. 20
+elivanma : met l'ante. 20
+elivanma : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Qs]
+filou6815 : passe. 
+ShepOsk : passe. 
+elivanma : suit. 75
+psychoman59 : parole 
+*** FLOP *** [Ad Ah 4h]
+elivanma : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ad Ah 4h] [8c]
+elivanma : mise. 150
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à elivanma.
+elivanma a remporté 380  lors du pot .
+elivanma : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [Ad Ah 4h 8c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : filou6815 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ShepOsk (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : elivanma (petite blind) a remporté (380)
+
+
+
+Main PokerStars n°238285494671 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/08/2022 11:34:38 CET [29/08/2022 5:34:38 ET]
+Table '3463271275 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4062 en jetons) 
+Place 2: filou6815 (6150 en jetons) 
+Place 3: ShepOsk (5548 en jetons) 
+Place 4: elivanma (4240 en jetons) 
+psychoman59 : met l'ante. 25
+filou6815 : met l'ante. 25
+ShepOsk : met l'ante. 25
+elivanma : met l'ante. 25
+psychoman59 : met la petite blind. 100
+filou6815 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 6s]
+ShepOsk : passe. 
+elivanma : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à filou6815.
+filou6815 a remporté 300  lors du pot .
+filou6815 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : filou6815 (grosse blind) a remporté (300)
+Siège 3 : ShepOsk s'est couché. avant Flop (n'a pas misé)
+Siège 4 : elivanma (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238285496536 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/08/2022 11:34:51 CET [29/08/2022 5:34:51 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (3937 en jetons) 
+Place 2: filou6815 (6325 en jetons) 
+Place 3: ShepOsk (5523 en jetons) 
+Place 4: elivanma (4215 en jetons) 
+psychoman59 : met l'ante. 25
+filou6815 : met l'ante. 25
+ShepOsk : met l'ante. 25
+elivanma : met l'ante. 25
+filou6815 : met la petite blind. 100
+ShepOsk : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Jh]
+elivanma : passe. 
+psychoman59 : relance. 600 à 800
+filou6815 : suit. 700
+ShepOsk : passe. 
+*** FLOP *** [Kh Qc 4s]
+filou6815 : mise. 950
+psychoman59 : suit. 950
+*** TOURNANT *** [Kh Qc 4s] [9h]
+filou6815 : mise. 600
+psychoman59 : relance. 1562 à 2162 et est all-in.
+filou6815 : passe. 
+Personne n'a suivi. (1562) sont retournés à psychoman59.
+psychoman59 a remporté 5000  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 5000 | Commission 0 
+Tableau [Kh Qc 4s 9h]
+Siège 1 : psychoman59 (bouton) a remporté (5000)
+Siège 2 : filou6815 (petite blind) s'est couché. sur le Tournant
+Siège 3 : ShepOsk (grosse blind) s'est couché. avant Flop
+Siège 4 : elivanma s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238285503720 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/08/2022 11:35:44 CET [29/08/2022 5:35:44 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (6562 en jetons) 
+Place 2: filou6815 (3950 en jetons) 
+Place 3: ShepOsk (5298 en jetons) 
+Place 4: elivanma (4190 en jetons) 
+psychoman59 : met l'ante. 25
+filou6815 : met l'ante. 25
+ShepOsk : met l'ante. 25
+elivanma : met l'ante. 25
+ShepOsk : met la petite blind. 100
+elivanma : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Jh]
+psychoman59 : suit. 200
+filou6815 : passe. 
+ShepOsk : relance. 400 à 600
+elivanma : passe. 
+psychoman59 : suit. 400
+*** FLOP *** [Tc 2s Jd]
+ShepOsk : mise. 580
+psychoman59 : suit. 580
+*** TOURNANT *** [Tc 2s Jd] [As]
+ShepOsk : parole 
+psychoman59 : mise. 1330
+ShepOsk : relance. 2763 à 4093 et est all-in.
+psychoman59 : suit. 2763
+*** RIVIÈRE *** [Tc 2s Jd As] [Jc]
+*** ABATTAGE ***
+ShepOsk : montre [3h 3c] (double paire, Valets et Trois)
+psychoman59 : montre [Kc Jh] (un brelan de Valets)
+psychoman59 a remporté 10846  lors du pot .
+ShepOsk a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10846 | Commission 0 
+Tableau [Tc 2s Jd As Jc]
+Siège 1 : psychoman59 a montré [Kc Jh] et a gagné (10846) avec un brelan de Valets
+Siège 2 : filou6815 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ShepOsk (petite blind) a montré [3h 3c] et a perdu avec double paire, Valets et Trois
+Siège 4 : elivanma (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238285511355 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/08/2022 11:36:39 CET [29/08/2022 5:36:39 ET]
+Table '3463271275 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (12110 en jetons) 
+Place 2: filou6815 (3925 en jetons) 
+Place 4: elivanma (3965 en jetons) 
+psychoman59 : met l'ante. 25
+filou6815 : met l'ante. 25
+elivanma : met l'ante. 25
+psychoman59 : met la petite blind. 100
+filou6815 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Th]
+elivanma : passe. 
+psychoman59 : suit. 100
+filou6815 : parole 
+*** FLOP *** [3h Jh 8d]
+psychoman59 : mise. 237
+filou6815 : passe. 
+Personne n'a suivi. (237) sont retournés à psychoman59.
+psychoman59 a remporté 475  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Tableau [3h Jh 8d]
+Siège 1 : psychoman59 (petite blind) a remporté (475)
+Siège 2 : filou6815 (grosse blind) s'est couché. sur le Flop
+Siège 4 : elivanma (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238285515391 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/08/2022 11:37:09 CET [29/08/2022 5:37:09 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (12360 en jetons) 
+Place 2: filou6815 (3700 en jetons) 
+Place 4: elivanma (3940 en jetons) 
+psychoman59 : met l'ante. 25
+filou6815 : met l'ante. 25
+elivanma : met l'ante. 25
+filou6815 : met la petite blind. 100
+elivanma : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Jh]
+psychoman59 : passe. 
+filou6815 : suit. 100
+elivanma : parole 
+*** FLOP *** [9d 5s Qd]
+filou6815 : mise. 200
+elivanma : suit. 200
+*** TOURNANT *** [9d 5s Qd] [3d]
+filou6815 : mise. 200
+elivanma : suit. 200
+*** RIVIÈRE *** [9d 5s Qd 3d] [3s]
+filou6815 : mise. 200
+elivanma : suit. 200
+*** ABATTAGE ***
+filou6815 : montre [9h Kd] (double paire, Neuf et Trois)
+elivanma : cache la main perdante. 
+filou6815 a remporté 1675  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1675 | Commission 0 
+Tableau [9d 5s Qd 3d 3s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : filou6815 (petite blind) a montré [9h Kd] et a gagné (1675) avec double paire, Neuf et Trois
+Siège 4 : elivanma (grosse blind) a caché la main perdante. [9s 8d]
+
+
+
+Main PokerStars n°238285519278 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 29/08/2022 11:37:36 CET [29/08/2022 5:37:36 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (12335 en jetons) 
+Place 2: filou6815 (4550 en jetons) 
+Place 4: elivanma (3115 en jetons) 
+psychoman59 : met l'ante. 30
+filou6815 : met l'ante. 30
+elivanma : met l'ante. 30
+elivanma : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 4h]
+filou6815 : passe. 
+elivanma : passe. 
+Personne n'a suivi. (125) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (340)
+Siège 2 : filou6815 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : elivanma (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238285520377 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 29/08/2022 11:37:45 CET [29/08/2022 5:37:45 ET]
+Table '3463271275 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (12520 en jetons) 
+Place 2: filou6815 (4520 en jetons) 
+Place 4: elivanma (2960 en jetons) 
+psychoman59 : met l'ante. 30
+filou6815 : met l'ante. 30
+elivanma : met l'ante. 30
+psychoman59 : met la petite blind. 125
+filou6815 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 3d]
+elivanma : suit. 250
+psychoman59 : passe. 
+filou6815 : parole 
+*** FLOP *** [7s Ks 4d]
+filou6815 : mise. 250
+elivanma : passe. 
+Personne n'a suivi. (250) sont retournés à filou6815.
+filou6815 a remporté 715  lors du pot .
+filou6815 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 715 | Commission 0 
+Tableau [7s Ks 4d]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : filou6815 (grosse blind) a remporté (715)
+Siège 4 : elivanma (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238285522308 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 29/08/2022 11:37:59 CET [29/08/2022 5:37:59 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (12365 en jetons) 
+Place 2: filou6815 (4955 en jetons) 
+Place 4: elivanma (2680 en jetons) 
+psychoman59 : met l'ante. 30
+filou6815 : met l'ante. 30
+elivanma : met l'ante. 30
+filou6815 : met la petite blind. 125
+elivanma : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Qc]
+psychoman59 : suit. 250
+filou6815 : passe. 
+elivanma : parole 
+*** FLOP *** [Ac 3c 9s]
+elivanma : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ac 3c 9s] [Jh]
+elivanma : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Ac 3c 9s Jh] [7d]
+elivanma : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+elivanma : montre [6h 4d] (Hauteur As)
+psychoman59 : montre [Td Qc] (Hauteur As - Dame kicker)
+psychoman59 a remporté 715  lors du pot .
+*** SYNTHÈSE ***
+Pot total 715 | Commission 0 
+Tableau [Ac 3c 9s Jh 7d]
+Siège 1 : psychoman59 (bouton) a montré [Td Qc] et a gagné (715) avec Hauteur As
+Siège 2 : filou6815 (petite blind) s'est couché. avant Flop
+Siège 4 : elivanma (grosse blind) a montré [6h 4d] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°238285527050 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 29/08/2022 11:38:32 CET [29/08/2022 5:38:32 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (12800 en jetons) 
+Place 2: filou6815 (4800 en jetons) 
+Place 4: elivanma (2400 en jetons) 
+psychoman59 : met l'ante. 30
+filou6815 : met l'ante. 30
+elivanma : met l'ante. 30
+elivanma : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 3d]
+filou6815 : passe. 
+elivanma : suit. 125
+psychoman59 : parole 
+*** FLOP *** [6h Ts 3h]
+elivanma : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6h Ts 3h] [2s]
+elivanma : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6h Ts 3h 2s] [9s]
+elivanma : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+elivanma : montre [8d Jc] (Hauteur Valet)
+psychoman59 : montre [8h 3d] (une paire de Trois)
+psychoman59 a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [6h Ts 3h 2s 9s]
+Siège 1 : psychoman59 (grosse blind) a montré [8h 3d] et a gagné (590) avec une paire de Trois
+Siège 2 : filou6815 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : elivanma (petite blind) a montré [8d Jc] et a perdu avec Hauteur Valet
+
+
+
+Main PokerStars n°238285531294 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 29/08/2022 11:39:03 CET [29/08/2022 5:39:03 ET]
+Table '3463271275 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (13110 en jetons) 
+Place 2: filou6815 (4770 en jetons) 
+Place 4: elivanma (2120 en jetons) 
+psychoman59 : met l'ante. 30
+filou6815 : met l'ante. 30
+elivanma : met l'ante. 30
+psychoman59 : met la petite blind. 125
+filou6815 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Jd]
+elivanma : passe. 
+psychoman59 : suit. 125
+filou6815 : parole 
+*** FLOP *** [Js 4d Ts]
+psychoman59 : mise. 250
+filou6815 : suit. 250
+*** TOURNANT *** [Js 4d Ts] [2h]
+psychoman59 : mise. 250
+filou6815 : suit. 250
+*** RIVIÈRE *** [Js 4d Ts 2h] [9d]
+psychoman59 : mise. 250
+filou6815 : suit. 250
+*** ABATTAGE ***
+psychoman59 : montre [Qs Jd] (une paire de Valets)
+filou6815 : cache la main perdante. 
+psychoman59 a remporté 2090  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2090 | Commission 0 
+Tableau [Js 4d Ts 2h 9d]
+Siège 1 : psychoman59 (petite blind) a montré [Qs Jd] et a gagné (2090) avec une paire de Valets
+Siège 2 : filou6815 (grosse blind) a caché la main perdante. [Kd Ah]
+Siège 4 : elivanma (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238285535084 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 29/08/2022 11:39:30 CET [29/08/2022 5:39:30 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (14170 en jetons) 
+Place 2: filou6815 (3740 en jetons) 
+Place 4: elivanma (2090 en jetons) 
+psychoman59 : met l'ante. 30
+filou6815 : met l'ante. 30
+elivanma : met l'ante. 30
+filou6815 : met la petite blind. 125
+elivanma : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Ks]
+psychoman59 : passe. 
+filou6815 : passe. 
+Personne n'a suivi. (125) sont retournés à elivanma.
+elivanma a remporté 340  lors du pot .
+elivanma : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : filou6815 (petite blind) s'est couché. avant Flop
+Siège 4 : elivanma (grosse blind) a remporté (340)
+
+
+
+Main PokerStars n°238285536192 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 29/08/2022 11:39:38 CET [29/08/2022 5:39:38 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (14140 en jetons) 
+Place 2: filou6815 (3585 en jetons) 
+Place 4: elivanma (2275 en jetons) 
+psychoman59 : met l'ante. 30
+filou6815 : met l'ante. 30
+elivanma : met l'ante. 30
+elivanma : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Td]
+filou6815 : passe. 
+elivanma : suit. 125
+psychoman59 : parole 
+*** FLOP *** [Ts Jh 8h]
+elivanma : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ts Jh 8h] [Js]
+elivanma : parole 
+psychoman59 : mise. 250
+elivanma : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 590  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [Ts Jh 8h Js]
+Siège 1 : psychoman59 (grosse blind) a remporté (590)
+Siège 2 : filou6815 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : elivanma (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238285539992 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 29/08/2022 11:40:04 CET [29/08/2022 5:40:04 ET]
+Table '3463271275 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (14450 en jetons) 
+Place 2: filou6815 (3555 en jetons) 
+Place 4: elivanma (1995 en jetons) 
+psychoman59 : met l'ante. 30
+filou6815 : met l'ante. 30
+elivanma : met l'ante. 30
+psychoman59 : met la petite blind. 125
+filou6815 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 6c]
+elivanma : suit. 250
+psychoman59 : suit. 125
+filou6815 : relance. 3275 à 3525 et est all-in.
+elivanma : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (3275) sont retournés à filou6815.
+filou6815 a remporté 840  lors du pot .
+filou6815 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : filou6815 (grosse blind) a remporté (840)
+Siège 4 : elivanma (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238285544106 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 29/08/2022 11:40:34 CET [29/08/2022 5:40:34 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (14170 en jetons) 
+Place 2: filou6815 (4115 en jetons) 
+Place 4: elivanma (1715 en jetons) 
+psychoman59 : met l'ante. 40
+filou6815 : met l'ante. 40
+elivanma : met l'ante. 40
+filou6815 : met la petite blind. 150
+elivanma : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 8h]
+psychoman59 : passe. 
+filou6815 : passe. 
+Personne n'a suivi. (150) sont retournés à elivanma.
+elivanma a remporté 420  lors du pot .
+elivanma : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : filou6815 (petite blind) s'est couché. avant Flop
+Siège 4 : elivanma (grosse blind) a remporté (420)
+
+
+
+Main PokerStars n°238285545447 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 29/08/2022 11:40:44 CET [29/08/2022 5:40:44 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (14130 en jetons) 
+Place 2: filou6815 (3925 en jetons) 
+Place 4: elivanma (1945 en jetons) 
+psychoman59 : met l'ante. 40
+filou6815 : met l'ante. 40
+elivanma : met l'ante. 40
+elivanma : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Jd]
+filou6815 : passe. 
+elivanma : suit. 150
+psychoman59 : parole 
+*** FLOP *** [Tc 7h 4h]
+elivanma : mise. 1605 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (1605) sont retournés à elivanma.
+elivanma a remporté 720  lors du pot .
+elivanma : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [Tc 7h 4h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : filou6815 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : elivanma (petite blind) a remporté (720)
+
+
+
+Main PokerStars n°238285547616 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 29/08/2022 11:41:00 CET [29/08/2022 5:41:00 ET]
+Table '3463271275 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (13790 en jetons) 
+Place 2: filou6815 (3885 en jetons) 
+Place 4: elivanma (2325 en jetons) 
+psychoman59 : met l'ante. 40
+filou6815 : met l'ante. 40
+elivanma : met l'ante. 40
+psychoman59 : met la petite blind. 150
+filou6815 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 2d]
+elivanma : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à filou6815.
+filou6815 a remporté 420  lors du pot .
+filou6815 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : filou6815 (grosse blind) a remporté (420)
+Siège 4 : elivanma (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238285549313 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 29/08/2022 11:41:12 CET [29/08/2022 5:41:12 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (13600 en jetons) 
+Place 2: filou6815 (4115 en jetons) 
+Place 4: elivanma (2285 en jetons) 
+psychoman59 : met l'ante. 40
+filou6815 : met l'ante. 40
+elivanma : met l'ante. 40
+filou6815 : met la petite blind. 150
+elivanma : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 4c]
+psychoman59 : passe. 
+filou6815 : passe. 
+Personne n'a suivi. (150) sont retournés à elivanma.
+elivanma a remporté 420  lors du pot .
+elivanma : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : filou6815 (petite blind) s'est couché. avant Flop
+Siège 4 : elivanma (grosse blind) a remporté (420)
+
+
+
+Main PokerStars n°238285550635 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 29/08/2022 11:41:22 CET [29/08/2022 5:41:22 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (13560 en jetons) 
+Place 2: filou6815 (3925 en jetons) 
+Place 4: elivanma (2515 en jetons) 
+psychoman59 : met l'ante. 40
+filou6815 : met l'ante. 40
+elivanma : met l'ante. 40
+elivanma : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 9d]
+filou6815 : suit. 300
+elivanma : passe. 
+psychoman59 : parole 
+*** FLOP *** [3c 7s 4s]
+psychoman59 : parole 
+filou6815 : parole 
+*** TOURNANT *** [3c 7s 4s] [5h]
+psychoman59 : parole 
+filou6815 : parole 
+*** RIVIÈRE *** [3c 7s 4s 5h] [4h]
+psychoman59 : parole 
+filou6815 : mise. 435
+psychoman59 : passe. 
+Personne n'a suivi. (435) sont retournés à filou6815.
+filou6815 a remporté 870  lors du pot .
+filou6815 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Tableau [3c 7s 4s 5h 4h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : filou6815 (bouton) a remporté (870)
+Siège 4 : elivanma (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238285558861 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 29/08/2022 11:42:20 CET [29/08/2022 5:42:20 ET]
+Table '3463271275 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (13220 en jetons) 
+Place 2: filou6815 (4455 en jetons) 
+Place 4: elivanma (2325 en jetons) 
+psychoman59 : met l'ante. 40
+filou6815 : met l'ante. 40
+elivanma : met l'ante. 40
+psychoman59 : met la petite blind. 150
+filou6815 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 8d]
+elivanma : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à filou6815.
+filou6815 a remporté 420  lors du pot .
+filou6815 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : filou6815 (grosse blind) a remporté (420)
+Siège 4 : elivanma (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238285560922 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 29/08/2022 11:42:35 CET [29/08/2022 5:42:35 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (13030 en jetons) 
+Place 2: filou6815 (4685 en jetons) 
+Place 4: elivanma (2285 en jetons) 
+psychoman59 : met l'ante. 40
+filou6815 : met l'ante. 40
+elivanma : met l'ante. 40
+filou6815 : met la petite blind. 150
+elivanma : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Tc]
+psychoman59 : passe. 
+filou6815 : suit. 150
+elivanma : parole 
+*** FLOP *** [4c 5d Qc]
+filou6815 : parole 
+elivanma : mise. 300
+filou6815 : suit. 300
+*** TOURNANT *** [4c 5d Qc] [5s]
+filou6815 : parole 
+elivanma : mise. 1645 et est all-in.
+filou6815 : passe. 
+Personne n'a suivi. (1645) sont retournés à elivanma.
+elivanma a remporté 1320  lors du pot .
+elivanma : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1320 | Commission 0 
+Tableau [4c 5d Qc 5s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : filou6815 (petite blind) s'est couché. sur le Tournant
+Siège 4 : elivanma (grosse blind) a remporté (1320)
+
+
+
+Main PokerStars n°238285564777 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 29/08/2022 11:43:02 CET [29/08/2022 5:43:02 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (12990 en jetons) 
+Place 2: filou6815 (4045 en jetons) 
+Place 4: elivanma (2965 en jetons) 
+psychoman59 : met l'ante. 40
+filou6815 : met l'ante. 40
+elivanma : met l'ante. 40
+elivanma : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Td]
+filou6815 : passe. 
+elivanma : suit. 150
+psychoman59 : relance. 12650 à 12950 et est all-in.
+elivanma : passe. 
+Personne n'a suivi. (12650) sont retournés à psychoman59.
+psychoman59 a remporté 720  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (720)
+Siège 2 : filou6815 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : elivanma (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238285567310 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 29/08/2022 11:43:20 CET [29/08/2022 5:43:20 ET]
+Table '3463271275 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (13370 en jetons) 
+Place 2: filou6815 (4005 en jetons) 
+Place 4: elivanma (2625 en jetons) 
+psychoman59 : met l'ante. 50
+filou6815 : met l'ante. 50
+elivanma : met l'ante. 50
+psychoman59 : met la petite blind. 200
+filou6815 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Kd]
+elivanma : relance. 2175 à 2575 et est all-in.
+psychoman59 : relance. 10745 à 13320 et est all-in.
+filou6815 : passe. 
+Personne n'a suivi. (10745) sont retournés à psychoman59.
+*** FLOP *** [Qh 3d 6h]
+*** TOURNANT *** [Qh 3d 6h] [8h]
+*** RIVIÈRE *** [Qh 3d 6h 8h] [Jd]
+*** ABATTAGE ***
+psychoman59 : montre [Ac Kd] (Hauteur As)
+elivanma : montre [Qs Ad] (une paire de Dames)
+elivanma a remporté 5700  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5700 | Commission 0 
+Tableau [Qh 3d 6h 8h Jd]
+Siège 1 : psychoman59 (petite blind) a montré [Ac Kd] et a perdu avec Hauteur As
+Siège 2 : filou6815 (grosse blind) s'est couché. avant Flop
+Siège 4 : elivanma (bouton) a montré [Qs Ad] et a gagné (5700) avec une paire de Dames
+
+
+
+Main PokerStars n°238285569975 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 29/08/2022 11:43:39 CET [29/08/2022 5:43:39 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (10745 en jetons) 
+Place 2: filou6815 (3555 en jetons) 
+Place 4: elivanma (5700 en jetons) 
+psychoman59 : met l'ante. 50
+filou6815 : met l'ante. 50
+elivanma : met l'ante. 50
+filou6815 : met la petite blind. 200
+elivanma : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Ah]
+psychoman59 : relance. 10295 à 10695 et est all-in.
+filou6815 : passe. 
+elivanma : passe. 
+Personne n'a suivi. (10295) sont retournés à psychoman59.
+psychoman59 a remporté 1150  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1150 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (1150)
+Siège 2 : filou6815 (petite blind) s'est couché. avant Flop
+Siège 4 : elivanma (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238285571856 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 29/08/2022 11:43:53 CET [29/08/2022 5:43:53 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (11445 en jetons) 
+Place 2: filou6815 (3305 en jetons) 
+Place 4: elivanma (5250 en jetons) 
+psychoman59 : met l'ante. 50
+filou6815 : met l'ante. 50
+elivanma : met l'ante. 50
+elivanma : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ac]
+filou6815 : passe. 
+elivanma : suit. 200
+psychoman59 : parole 
+*** FLOP *** [6c 6s 5c]
+elivanma : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6c 6s 5c] [2s]
+elivanma : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6c 6s 5c 2s] [Ks]
+elivanma : mise. 400
+psychoman59 : suit. 400
+*** ABATTAGE ***
+elivanma : montre [Qs Jh] (une paire de Six)
+psychoman59 : montre [9s Ac] (une paire de Six - As kicker)
+psychoman59 a remporté 1750  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1750 | Commission 0 
+Tableau [6c 6s 5c 2s Ks]
+Siège 1 : psychoman59 (grosse blind) a montré [9s Ac] et a gagné (1750) avec une paire de Six
+Siège 2 : filou6815 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : elivanma (petite blind) a montré [Qs Jh] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°238285575148 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 29/08/2022 11:44:16 CET [29/08/2022 5:44:16 ET]
+Table '3463271275 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (12345 en jetons) 
+Place 2: filou6815 (3255 en jetons) 
+Place 4: elivanma (4400 en jetons) 
+psychoman59 : met l'ante. 50
+filou6815 : met l'ante. 50
+elivanma : met l'ante. 50
+psychoman59 : met la petite blind. 200
+filou6815 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 4s]
+elivanma : relance. 3950 à 4350 et est all-in.
+psychoman59 : passe. 
+filou6815 : passe. 
+Personne n'a suivi. (3950) sont retournés à elivanma.
+elivanma a remporté 1150  lors du pot .
+elivanma : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1150 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : filou6815 (grosse blind) s'est couché. avant Flop
+Siège 4 : elivanma (bouton) a remporté (1150)
+
+
+
+Main PokerStars n°238285577282 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 29/08/2022 11:44:31 CET [29/08/2022 5:44:31 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (12095 en jetons) 
+Place 2: filou6815 (2805 en jetons) 
+Place 4: elivanma (5100 en jetons) 
+psychoman59 : met l'ante. 50
+filou6815 : met l'ante. 50
+elivanma : met l'ante. 50
+filou6815 : met la petite blind. 200
+elivanma : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Jc]
+psychoman59 : passe. 
+filou6815 : suit. 200
+elivanma est déconnecté 
+elivanma est connecté 
+elivanma est déconnecté 
+elivanma est connecté 
+elivanma : parole 
+*** FLOP *** [3s Ah 2h]
+filou6815 : mise. 400
+elivanma : passe. 
+Personne n'a suivi. (400) sont retournés à filou6815.
+filou6815 a remporté 950  lors du pot .
+filou6815 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 950 | Commission 0 
+Tableau [3s Ah 2h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : filou6815 (petite blind) a remporté (950)
+Siège 4 : elivanma (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238285583642 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 29/08/2022 11:45:16 CET [29/08/2022 5:45:16 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (12045 en jetons) 
+Place 2: filou6815 (3305 en jetons) 
+Place 4: elivanma (4650 en jetons) 
+psychoman59 : met l'ante. 50
+filou6815 : met l'ante. 50
+elivanma : met l'ante. 50
+elivanma : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ad]
+filou6815 : suit. 400
+elivanma : relance. 4200 à 4600 et est all-in.
+psychoman59 : suit. 4200
+filou6815 : passe. 
+*** FLOP *** [2s Ts 3d]
+*** TOURNANT *** [2s Ts 3d] [6d]
+*** RIVIÈRE *** [2s Ts 3d 6d] [7s]
+*** ABATTAGE ***
+elivanma : montre [Jd Ac] (Hauteur As)
+psychoman59 : montre [9d Ad] (Hauteur As - plus basse kicker)
+elivanma a remporté 9750  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9750 | Commission 0 
+Tableau [2s Ts 3d 6d 7s]
+Siège 1 : psychoman59 (grosse blind) a montré [9d Ad] et a perdu avec Hauteur As
+Siège 2 : filou6815 (bouton) s'est couché. avant Flop
+Siège 4 : elivanma (petite blind) a montré [Jd Ac] et a gagné (9750) avec Hauteur As
+
+
+
+Main PokerStars n°238285588048 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 29/08/2022 11:45:49 CET [29/08/2022 5:45:49 ET]
+Table '3463271275 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (7395 en jetons) 
+Place 2: filou6815 (2855 en jetons) 
+Place 4: elivanma (9750 en jetons) 
+psychoman59 : met l'ante. 50
+filou6815 : met l'ante. 50
+elivanma : met l'ante. 50
+psychoman59 : met la petite blind. 200
+filou6815 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 8h]
+elivanma : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à filou6815.
+filou6815 a remporté 550  lors du pot .
+filou6815 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 550 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : filou6815 (grosse blind) a remporté (550)
+Siège 4 : elivanma (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238285589350 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 29/08/2022 11:45:58 CET [29/08/2022 5:45:58 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (7145 en jetons) 
+Place 2: filou6815 (3155 en jetons) 
+Place 4: elivanma (9700 en jetons) 
+psychoman59 : met l'ante. 50
+filou6815 : met l'ante. 50
+elivanma : met l'ante. 50
+filou6815 : met la petite blind. 200
+elivanma : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 8s]
+psychoman59 : suit. 400
+filou6815 : passe. 
+elivanma : parole 
+*** FLOP *** [9c 2h 9s]
+elivanma : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9c 2h 9s] [Ac]
+elivanma : mise. 400
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à elivanma.
+elivanma a remporté 1150  lors du pot .
+elivanma : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1150 | Commission 0 
+Tableau [9c 2h 9s Ac]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Tournant
+Siège 2 : filou6815 (petite blind) s'est couché. avant Flop
+Siège 4 : elivanma (grosse blind) a remporté (1150)
+
+
+
+Main PokerStars n°238285593305 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 29/08/2022 11:46:27 CET [29/08/2022 5:46:27 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (6695 en jetons) 
+Place 2: filou6815 (2905 en jetons) 
+Place 4: elivanma (10400 en jetons) 
+psychoman59 : met l'ante. 60
+filou6815 : met l'ante. 60
+elivanma : met l'ante. 60
+elivanma : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Td]
+filou6815 : passe. 
+elivanma : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (680)
+Siège 2 : filou6815 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : elivanma (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238285594399 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 29/08/2022 11:46:35 CET [29/08/2022 5:46:35 ET]
+Table '3463271275 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (7065 en jetons) 
+Place 2: filou6815 (2845 en jetons) 
+Place 4: elivanma (10090 en jetons) 
+psychoman59 : met l'ante. 60
+filou6815 : met l'ante. 60
+elivanma : met l'ante. 60
+psychoman59 : met la petite blind. 250
+filou6815 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 8h]
+elivanma : suit. 500
+psychoman59 : passe. 
+filou6815 : parole 
+*** FLOP *** [6d As 8c]
+filou6815 : parole 
+elivanma : parole 
+*** TOURNANT *** [6d As 8c] [9h]
+filou6815 : parole 
+elivanma : mise. 500
+filou6815 : passe. 
+Personne n'a suivi. (500) sont retournés à elivanma.
+elivanma a remporté 1430  lors du pot .
+elivanma : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1430 | Commission 0 
+Tableau [6d As 8c 9h]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : filou6815 (grosse blind) s'est couché. sur le Tournant
+Siège 4 : elivanma (bouton) a remporté (1430)
+
+
+
+Main PokerStars n°238285598056 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 29/08/2022 11:47:01 CET [29/08/2022 5:47:01 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (6755 en jetons) 
+Place 2: filou6815 (2285 en jetons) 
+Place 4: elivanma (10960 en jetons) 
+psychoman59 : met l'ante. 60
+filou6815 : met l'ante. 60
+elivanma : met l'ante. 60
+filou6815 : met la petite blind. 250
+elivanma : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 6d]
+psychoman59 : relance. 500 à 1000
+filou6815 : relance. 1225 à 2225 et est all-in.
+elivanma : passe. 
+psychoman59 : suit. 1225
+*** FLOP *** [7h 8s Kd]
+*** TOURNANT *** [7h 8s Kd] [Ad]
+*** RIVIÈRE *** [7h 8s Kd Ad] [Jc]
+*** ABATTAGE ***
+filou6815 : montre [Jh As] (double paire, As et Valets)
+psychoman59 : montre [Ac 6d] (une paire de As)
+filou6815 a remporté 5130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5130 | Commission 0 
+Tableau [7h 8s Kd Ad Jc]
+Siège 1 : psychoman59 (bouton) a montré [Ac 6d] et a perdu avec une paire de As
+Siège 2 : filou6815 (petite blind) a montré [Jh As] et a gagné (5130) avec double paire, As et Valets
+Siège 4 : elivanma (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238285601658 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 29/08/2022 11:47:26 CET [29/08/2022 5:47:26 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4470 en jetons) 
+Place 2: filou6815 (5130 en jetons) 
+Place 4: elivanma (10400 en jetons) 
+psychoman59 : met l'ante. 60
+filou6815 : met l'ante. 60
+elivanma : met l'ante. 60
+elivanma : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 8s]
+filou6815 : passe. 
+elivanma : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (680)
+Siège 2 : filou6815 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : elivanma (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238285603061 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 29/08/2022 11:47:36 CET [29/08/2022 5:47:36 ET]
+Table '3463271275 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4840 en jetons) 
+Place 2: filou6815 (5070 en jetons) 
+Place 4: elivanma (10090 en jetons) 
+psychoman59 : met l'ante. 60
+filou6815 : met l'ante. 60
+elivanma : met l'ante. 60
+psychoman59 : met la petite blind. 250
+filou6815 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 6s]
+elivanma : relance. 9530 à 10030 et est all-in.
+psychoman59 : passe. 
+filou6815 : suit. 4510 et est all-in.
+Personne n'a suivi. (5020) sont retournés à elivanma.
+*** FLOP *** [Kd Qc 2h]
+*** TOURNANT *** [Kd Qc 2h] [7d]
+*** RIVIÈRE *** [Kd Qc 2h 7d] [3d]
+*** ABATTAGE ***
+filou6815 : montre [Kc 7c] (double paire, Rois et Sept)
+elivanma : montre [5c As] (Hauteur As)
+filou6815 a remporté 10450  lors du pot .
+elivanma est déconnecté 
+*** SYNTHÈSE ***
+Pot total 10450 | Commission 0 
+Tableau [Kd Qc 2h 7d 3d]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : filou6815 (grosse blind) a montré [Kc 7c] et a gagné (10450) avec double paire, Rois et Sept
+Siège 4 : elivanma (bouton) a montré [5c As] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°238285606062 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 29/08/2022 11:47:57 CET [29/08/2022 5:47:57 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4530 en jetons) 
+Place 2: filou6815 (10450 en jetons) 
+Place 4: elivanma (5020 en jetons) 
+psychoman59 : met l'ante. 60
+filou6815 : met l'ante. 60
+elivanma : met l'ante. 60
+filou6815 : met la petite blind. 250
+elivanma : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 9d]
+psychoman59 : passe. 
+filou6815 : suit. 250
+elivanma : parole 
+*** FLOP *** [Th 4s Ad]
+filou6815 : parole 
+elivanma : parole 
+*** TOURNANT *** [Th 4s Ad] [Jh]
+filou6815 : parole 
+elivanma : parole 
+*** RIVIÈRE *** [Th 4s Ad Jh] [Qc]
+filou6815 : mise. 1180
+elivanma : passe. 
+Personne n'a suivi. (1180) sont retournés à filou6815.
+filou6815 a remporté 1180  lors du pot .
+filou6815 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1180 | Commission 0 
+Tableau [Th 4s Ad Jh Qc]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : filou6815 (petite blind) a remporté (1180)
+Siège 4 : elivanma (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238285611118 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 29/08/2022 11:48:34 CET [29/08/2022 5:48:34 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4470 en jetons) 
+Place 2: filou6815 (11070 en jetons) 
+Place 4: elivanma (4460 en jetons) 
+psychoman59 : met l'ante. 60
+filou6815 : met l'ante. 60
+elivanma : met l'ante. 60
+elivanma : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 9d]
+filou6815 : passe. 
+elivanma : relance. 3900 à 4400 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (3900) sont retournés à elivanma.
+elivanma a remporté 1180  lors du pot .
+elivanma : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1180 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : filou6815 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : elivanma (petite blind) a remporté (1180)
+
+
+
+Main PokerStars n°238285613455 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 29/08/2022 11:48:50 CET [29/08/2022 5:48:50 ET]
+Table '3463271275 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (3910 en jetons) 
+Place 2: filou6815 (11010 en jetons) 
+Place 4: elivanma (5080 en jetons) 
+psychoman59 : met l'ante. 60
+filou6815 : met l'ante. 60
+elivanma : met l'ante. 60
+psychoman59 : met la petite blind. 250
+filou6815 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 5c]
+elivanma : relance. 4520 à 5020 et est all-in.
+psychoman59 : passe. 
+filou6815 : passe. 
+Personne n'a suivi. (4520) sont retournés à elivanma.
+elivanma a remporté 1430  lors du pot .
+elivanma : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1430 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : filou6815 (grosse blind) s'est couché. avant Flop
+Siège 4 : elivanma (bouton) a remporté (1430)
+
+
+
+Main PokerStars n°238285614876 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 29/08/2022 11:48:59 CET [29/08/2022 5:48:59 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (3600 en jetons) 
+Place 2: filou6815 (10450 en jetons) 
+Place 4: elivanma (5950 en jetons) 
+psychoman59 : met l'ante. 60
+filou6815 : met l'ante. 60
+elivanma : met l'ante. 60
+filou6815 : met la petite blind. 250
+elivanma : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 2d]
+psychoman59 : passe. 
+filou6815 : suit. 250
+elivanma : relance. 5390 à 5890 et est all-in.
+filou6815 : passe. 
+Personne n'a suivi. (5390) sont retournés à elivanma.
+elivanma a remporté 1180  lors du pot .
+elivanma : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1180 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : filou6815 (petite blind) s'est couché. avant Flop
+Siège 4 : elivanma (grosse blind) a remporté (1180)
+
+
+
+Main PokerStars n°238285616640 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 29/08/2022 11:49:12 CET [29/08/2022 5:49:12 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (3540 en jetons) 
+Place 2: filou6815 (9890 en jetons) 
+Place 4: elivanma (6570 en jetons) 
+psychoman59 : met l'ante. 60
+filou6815 : met l'ante. 60
+elivanma : met l'ante. 60
+elivanma : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 9c]
+filou6815 : passe. 
+elivanma : relance. 6010 à 6510 et est all-in.
+psychoman59 : suit. 2980 et est all-in.
+Personne n'a suivi. (3030) sont retournés à elivanma.
+*** FLOP *** [2h 7c 9d]
+*** TOURNANT *** [2h 7c 9d] [Js]
+*** RIVIÈRE *** [2h 7c 9d Js] [5h]
+*** ABATTAGE ***
+elivanma : montre [5s 5d] (un brelan de Cinq)
+psychoman59 : montre [9s 9c] (un brelan de Neuf)
+psychoman59 a remporté 7140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 7140 | Commission 0 
+Tableau [2h 7c 9d Js 5h]
+Siège 1 : psychoman59 (grosse blind) a montré [9s 9c] et a gagné (7140) avec un brelan de Neuf
+Siège 2 : filou6815 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : elivanma (petite blind) a montré [5s 5d] et a perdu avec un brelan de Cinq
+
+
+
+Main PokerStars n°238285619348 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 29/08/2022 11:49:31 CET [29/08/2022 5:49:31 ET]
+Table '3463271275 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (7140 en jetons) 
+Place 2: filou6815 (9830 en jetons) 
+Place 4: elivanma (3030 en jetons) 
+psychoman59 : met l'ante. 70
+filou6815 : met l'ante. 70
+elivanma : met l'ante. 70
+psychoman59 : met la petite blind. 300
+filou6815 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 6s]
+elivanma : relance. 2360 à 2960 et est all-in.
+psychoman59 : passe. 
+filou6815 : suit. 2360
+*** FLOP *** [8s 9s Jh]
+*** TOURNANT *** [8s 9s Jh] [5h]
+*** RIVIÈRE *** [8s 9s Jh 5h] [As]
+*** ABATTAGE ***
+filou6815 : montre [Kh Ah] (une paire de As)
+elivanma : montre [3d Ac] (une paire de As - plus basse kicker)
+filou6815 a remporté 6430  lors du pot .
+elivanma a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 6430 | Commission 0 
+Tableau [8s 9s Jh 5h As]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : filou6815 (grosse blind) a montré [Kh Ah] et a gagné (6430) avec une paire de As
+Siège 4 : elivanma (bouton) a montré [3d Ac] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°238285622372 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 29/08/2022 11:49:52 CET [29/08/2022 5:49:52 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (6770 en jetons) 
+Place 2: filou6815 (13230 en jetons) 
+psychoman59 : met l'ante. 70
+filou6815 : met l'ante. 70
+filou6815 : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 6d]
+filou6815 : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 740  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (740)
+Siège 2 : filou6815 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238285623449 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 29/08/2022 11:50:00 CET [29/08/2022 5:50:00 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (7140 en jetons) 
+Place 2: filou6815 (12860 en jetons) 
+psychoman59 : met l'ante. 70
+filou6815 : met l'ante. 70
+psychoman59 : met la petite blind. 300
+filou6815 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Qc]
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à filou6815.
+filou6815 a remporté 740  lors du pot .
+filou6815 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : filou6815 (grosse blind) a remporté (740)
+
+
+
+Main PokerStars n°238285624642 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 29/08/2022 11:50:08 CET [29/08/2022 5:50:08 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (6770 en jetons) 
+Place 2: filou6815 (13230 en jetons) 
+psychoman59 : met l'ante. 70
+filou6815 : met l'ante. 70
+filou6815 : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 8h]
+filou6815 : suit. 300
+psychoman59 : relance. 6100 à 6700 et est all-in.
+filou6815 : passe. 
+Personne n'a suivi. (6100) sont retournés à psychoman59.
+psychoman59 a remporté 1340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1340 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (1340)
+Siège 2 : filou6815 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238285626676 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 29/08/2022 11:50:23 CET [29/08/2022 5:50:23 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (7440 en jetons) 
+Place 2: filou6815 (12560 en jetons) 
+psychoman59 : met l'ante. 70
+filou6815 : met l'ante. 70
+psychoman59 : met la petite blind. 300
+filou6815 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 8d]
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à filou6815.
+filou6815 a remporté 740  lors du pot .
+filou6815 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : filou6815 (grosse blind) a remporté (740)
+
+
+
+Main PokerStars n°238285627889 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 29/08/2022 11:50:31 CET [29/08/2022 5:50:31 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (7070 en jetons) 
+Place 2: filou6815 (12930 en jetons) 
+psychoman59 : met l'ante. 70
+filou6815 : met l'ante. 70
+filou6815 : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 7s]
+filou6815 : relance. 600 à 1200
+psychoman59 : relance. 5800 à 7000 et est all-in.
+filou6815 : suit. 5800
+*** FLOP *** [2d 2h 5c]
+*** TOURNANT *** [2d 2h 5c] [3d]
+*** RIVIÈRE *** [2d 2h 5c 3d] [8c]
+*** ABATTAGE ***
+psychoman59 : montre [7c 7s] (double paire, Sept et Deux)
+filou6815 : montre [Js 7d] (une paire de Deux)
+psychoman59 a remporté 14140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 14140 | Commission 0 
+Tableau [2d 2h 5c 3d 8c]
+Siège 1 : psychoman59 (grosse blind) a montré [7c 7s] et a gagné (14140) avec double paire, Sept et Deux
+Siège 2 : filou6815 (bouton) (petite blind) a montré [Js 7d] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°238285631331 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 29/08/2022 11:50:55 CET [29/08/2022 5:50:55 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (14140 en jetons) 
+Place 2: filou6815 (5860 en jetons) 
+psychoman59 : met l'ante. 70
+filou6815 : met l'ante. 70
+psychoman59 : met la petite blind. 300
+filou6815 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Ah]
+psychoman59 : relance. 1200 à 1800
+filou6815 : relance. 3990 à 5790 et est all-in.
+psychoman59 : suit. 3990
+*** FLOP *** [6s Qd 5c]
+*** TOURNANT *** [6s Qd 5c] [2d]
+*** RIVIÈRE *** [6s Qd 5c 2d] [7d]
+*** ABATTAGE ***
+filou6815 : montre [5s Kd] (une paire de Cinq)
+psychoman59 : montre [4h Ah] (Hauteur As)
+filou6815 a remporté 11720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 11720 | Commission 0 
+Tableau [6s Qd 5c 2d 7d]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [4h Ah] et a perdu avec Hauteur As
+Siège 2 : filou6815 (grosse blind) a montré [5s Kd] et a gagné (11720) avec une paire de Cinq
+
+
+
+Main PokerStars n°238285634601 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 29/08/2022 11:51:18 CET [29/08/2022 5:51:18 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (8280 en jetons) 
+Place 2: filou6815 (11720 en jetons) 
+psychoman59 : met l'ante. 70
+filou6815 : met l'ante. 70
+filou6815 : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Tc]
+filou6815 : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 740  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (740)
+Siège 2 : filou6815 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238285635727 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 29/08/2022 11:51:26 CET [29/08/2022 5:51:26 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8650 en jetons) 
+Place 2: filou6815 (11350 en jetons) 
+psychoman59 : met l'ante. 70
+filou6815 : met l'ante. 70
+psychoman59 : met la petite blind. 300
+filou6815 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ac]
+psychoman59 : relance. 7980 à 8580 et est all-in.
+filou6815 : passe. 
+Personne n'a suivi. (7980) sont retournés à psychoman59.
+psychoman59 a remporté 1340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1340 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (1340)
+Siège 2 : filou6815 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238285637100 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 29/08/2022 11:51:36 CET [29/08/2022 5:51:36 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (9320 en jetons) 
+Place 2: filou6815 (10680 en jetons) 
+psychoman59 : met l'ante. 70
+filou6815 : met l'ante. 70
+filou6815 : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Kh]
+filou6815 : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 740  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (740)
+Siège 2 : filou6815 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238285638107 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 29/08/2022 11:51:43 CET [29/08/2022 5:51:43 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (9690 en jetons) 
+Place 2: filou6815 (10310 en jetons) 
+psychoman59 : met l'ante. 70
+filou6815 : met l'ante. 70
+psychoman59 : met la petite blind. 300
+filou6815 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 2c]
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à filou6815.
+filou6815 a remporté 740  lors du pot .
+filou6815 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : filou6815 (grosse blind) a remporté (740)
+
+
+
+Main PokerStars n°238285640219 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 29/08/2022 11:51:58 CET [29/08/2022 5:51:58 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (9320 en jetons) 
+Place 2: filou6815 (10680 en jetons) 
+psychoman59 : met l'ante. 70
+filou6815 : met l'ante. 70
+filou6815 : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 8h]
+filou6815 : relance. 600 à 1200
+psychoman59 : passe. 
+Personne n'a suivi. (600) sont retournés à filou6815.
+filou6815 a remporté 1340  lors du pot .
+filou6815 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1340 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : filou6815 (bouton) (petite blind) a remporté (1340)
+
+
+
+Main PokerStars n°238285642187 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IX (300/600) - 29/08/2022 11:52:12 CET [29/08/2022 5:52:12 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8650 en jetons) 
+Place 2: filou6815 (11350 en jetons) 
+psychoman59 : met l'ante. 70
+filou6815 : met l'ante. 70
+psychoman59 : met la petite blind. 300
+filou6815 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 2h]
+psychoman59 : relance. 7980 à 8580 et est all-in.
+filou6815 : suit. 7980
+*** FLOP *** [Jd As 4s]
+*** TOURNANT *** [Jd As 4s] [Ad]
+*** RIVIÈRE *** [Jd As 4s Ad] [Kd]
+*** ABATTAGE ***
+filou6815 : montre [5h 7c] (une paire de As)
+psychoman59 : montre [2c 2h] (double paire, As et Deux)
+psychoman59 a remporté 17300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 17300 | Commission 0 
+Tableau [Jd As 4s Ad Kd]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [2c 2h] et a gagné (17300) avec double paire, As et Deux
+Siège 2 : filou6815 (grosse blind) a montré [5h 7c] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°238285645804 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 29/08/2022 11:52:38 CET [29/08/2022 5:52:38 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (17300 en jetons) 
+Place 2: filou6815 (2700 en jetons) 
+psychoman59 : met l'ante. 85
+filou6815 : met l'ante. 85
+filou6815 : met la petite blind. 350
+psychoman59 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 3h]
+filou6815 : relance. 1915 à 2615 et est all-in.
+psychoman59 : suit. 1915
+*** FLOP *** [9c 8d Qh]
+*** TOURNANT *** [9c 8d Qh] [5d]
+*** RIVIÈRE *** [9c 8d Qh 5d] [7h]
+*** ABATTAGE ***
+psychoman59 : montre [3s 3h] (une paire de Trois)
+filou6815 : montre [Qs As] (une paire de Dames)
+filou6815 a remporté 5400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5400 | Commission 0 
+Tableau [9c 8d Qh 5d 7h]
+Siège 1 : psychoman59 (grosse blind) a montré [3s 3h] et a perdu avec une paire de Trois
+Siège 2 : filou6815 (bouton) (petite blind) a montré [Qs As] et a gagné (5400) avec une paire de Dames
+
+
+
+Main PokerStars n°238285648190 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 29/08/2022 11:52:54 CET [29/08/2022 5:52:54 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (14600 en jetons) 
+Place 2: filou6815 (5400 en jetons) 
+psychoman59 : met l'ante. 85
+filou6815 : met l'ante. 85
+psychoman59 : met la petite blind. 350
+filou6815 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 8s]
+psychoman59 : relance. 700 à 1400
+filou6815 : passe. 
+Personne n'a suivi. (700) sont retournés à psychoman59.
+psychoman59 a remporté 1570  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1570 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (1570)
+Siège 2 : filou6815 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238285649655 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 29/08/2022 11:53:04 CET [29/08/2022 5:53:04 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (15385 en jetons) 
+Place 2: filou6815 (4615 en jetons) 
+psychoman59 : met l'ante. 85
+filou6815 : met l'ante. 85
+filou6815 : met la petite blind. 350
+psychoman59 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 7d]
+filou6815 : suit. 350
+psychoman59 : relance. 14600 à 15300 et est all-in.
+filou6815 : suit. 3830 et est all-in.
+Personne n'a suivi. (10770) sont retournés à psychoman59.
+*** FLOP *** [3c 6h 7h]
+*** TOURNANT *** [3c 6h 7h] [Tc]
+*** RIVIÈRE *** [3c 6h 7h Tc] [9d]
+*** ABATTAGE ***
+psychoman59 : montre [Ac 7d] (une paire de Sept)
+filou6815 : montre [9s 6s] (double paire, Neuf et Six)
+filou6815 a remporté 9230  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9230 | Commission 0 
+Tableau [3c 6h 7h Tc 9d]
+Siège 1 : psychoman59 (grosse blind) a montré [Ac 7d] et a perdu avec une paire de Sept
+Siège 2 : filou6815 (bouton) (petite blind) a montré [9s 6s] et a gagné (9230) avec double paire, Neuf et Six
+
+
+
+Main PokerStars n°238285652907 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 29/08/2022 11:53:27 CET [29/08/2022 5:53:27 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (10770 en jetons) 
+Place 2: filou6815 (9230 en jetons) 
+psychoman59 : met l'ante. 85
+filou6815 : met l'ante. 85
+psychoman59 : met la petite blind. 350
+filou6815 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (350) sont retournés à filou6815.
+filou6815 a remporté 870  lors du pot .
+filou6815 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : filou6815 (grosse blind) a remporté (870)
+
+
+
+Main PokerStars n°238285654090 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 29/08/2022 11:53:35 CET [29/08/2022 5:53:35 ET]
+Table '3463271275 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (10335 en jetons) 
+Place 2: filou6815 (9665 en jetons) 
+psychoman59 : met l'ante. 85
+filou6815 : met l'ante. 85
+filou6815 : met la petite blind. 350
+psychoman59 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Tc]
+filou6815 : passe. 
+Personne n'a suivi. (350) sont retournés à psychoman59.
+psychoman59 a remporté 870  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (870)
+Siège 2 : filou6815 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238285655239 : Tournoi #3463271275, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau X (350/700) - 29/08/2022 11:53:43 CET [29/08/2022 5:53:43 ET]
+Table '3463271275 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (10770 en jetons) 
+Place 2: filou6815 (9230 en jetons) 
+psychoman59 : met l'ante. 85
+filou6815 : met l'ante. 85
+psychoman59 : met la petite blind. 350
+filou6815 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Ks]
+psychoman59 : relance. 1400 à 2100
+filou6815 : relance. 7045 à 9145 et est all-in.
+psychoman59 : suit. 7045
+*** FLOP *** [Jh 6c Qs]
+*** TOURNANT *** [Jh 6c Qs] [9h]
+*** RIVIÈRE *** [Jh 6c Qs 9h] [Qh]
+*** ABATTAGE ***
+filou6815 : montre [7h 6s] (double paire, Dames et Six)
+psychoman59 : montre [Kh Ks] (double paire, Rois et Dames)
+psychoman59 a remporté 18460  lors du pot .
+filou6815 a fini le tournoi à la 2e place et a reçu 0.34 €.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 18460 | Commission 0 
+Tableau [Jh 6c Qs 9h Qh]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Kh Ks] et a gagné (18460) avec double paire, Rois et Dames
+Siège 2 : filou6815 (grosse blind) a montré [7h 6s] et a perdu avec double paire, Dames et Six
+
+
+

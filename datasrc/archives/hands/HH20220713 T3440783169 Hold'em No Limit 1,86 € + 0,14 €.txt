@@ -1,0 +1,343 @@
+﻿Main PokerStars n°237329798075 : Tournoi #3440783169, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2022 10:10:53 CET [13/07/2022 4:10:53 ET]
+Table '3440783169 1' 3-max Siège #1 est au bouton.
+Place 1: ABLAYE28 (300 en jetons) 
+Place 2: pschotsmans1907 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+pschotsmans1907 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ts]
+ABLAYE28 : passe. 
+pschotsmans1907 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6s 8d Kc]
+pschotsmans1907 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6s 8d Kc] [7s]
+pschotsmans1907 : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [6s 8d Kc 7s] [Kh]
+pschotsmans1907 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+pschotsmans1907 : montre [5s Td] (une paire de Rois)
+psychoman59 : montre [7d Ts] (double paire, Rois et Sept)
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [6s 8d Kc 7s Kh]
+Siège 1 : ABLAYE28 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : pschotsmans1907 (petite blind) a montré [5s Td] et a perdu avec une paire de Rois
+Siège 3 : psychoman59 (grosse blind) a montré [7d Ts] et a gagné (160) avec double paire, Rois et Sept
+
+
+
+Main PokerStars n°237329801522 : Tournoi #3440783169, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2022 10:11:22 CET [13/07/2022 4:11:22 ET]
+Table '3440783169 1' 3-max Siège #2 est au bouton.
+Place 1: ABLAYE28 (300 en jetons) 
+Place 2: pschotsmans1907 (220 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+psychoman59 : met la petite blind. 10
+ABLAYE28 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Qd]
+pschotsmans1907 : passe. 
+psychoman59 : relance. 360 à 380 et est all-in.
+ABLAYE28 : passe. 
+Personne n'a suivi. (360) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : ABLAYE28 (grosse blind) s'est couché. avant Flop
+Siège 2 : pschotsmans1907 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°237329802690 : Tournoi #3440783169, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2022 10:11:32 CET [13/07/2022 4:11:32 ET]
+Table '3440783169 1' 3-max Siège #3 est au bouton.
+Place 1: ABLAYE28 (280 en jetons) 
+Place 2: pschotsmans1907 (220 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+ABLAYE28 : met la petite blind. 10
+pschotsmans1907 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 3c]
+psychoman59 : passe. 
+ABLAYE28 : suit. 10
+pschotsmans1907 : relance. 20 à 40
+ABLAYE28 : suit. 20
+*** FLOP *** [Ad Js 8c]
+ABLAYE28 : parole 
+pschotsmans1907 : mise. 80
+ABLAYE28 : suit. 80
+*** TOURNANT *** [Ad Js 8c] [Ks]
+ABLAYE28 : parole 
+pschotsmans1907 : mise. 100 et est all-in.
+ABLAYE28 : suit. 100
+*** RIVIÈRE *** [Ad Js 8c Ks] [8s]
+*** ABATTAGE ***
+ABLAYE28 : montre [6c Jc] (double paire, Valets et Huit)
+pschotsmans1907 : montre [Qh Ts] (une suite, Dix à As)
+pschotsmans1907 a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [Ad Js 8c Ks 8s]
+Siège 1 : ABLAYE28 (petite blind) a montré [6c Jc] et a perdu avec double paire, Valets et Huit
+Siège 2 : pschotsmans1907 (grosse blind) a montré [Qh Ts] et a gagné (440) avec une suite, Dix à As
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237329806890 : Tournoi #3440783169, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2022 10:12:06 CET [13/07/2022 4:12:06 ET]
+Table '3440783169 1' 3-max Siège #1 est au bouton.
+Place 1: ABLAYE28 (60 en jetons) 
+Place 2: pschotsmans1907 (440 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+pschotsmans1907 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Kc]
+ABLAYE28 : passe. 
+pschotsmans1907 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [3h Qs 2s]
+pschotsmans1907 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3h Qs 2s] [Qc]
+pschotsmans1907 : parole 
+psychoman59 : mise. 60
+pschotsmans1907 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3h Qs 2s Qc]
+Siège 1 : ABLAYE28 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : pschotsmans1907 (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237329809663 : Tournoi #3440783169, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2022 10:12:30 CET [13/07/2022 4:12:30 ET]
+Table '3440783169 1' 3-max Siège #2 est au bouton.
+Place 1: ABLAYE28 (60 en jetons) 
+Place 2: pschotsmans1907 (410 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 15
+ABLAYE28 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 6c]
+pschotsmans1907 : relance. 30 à 60
+psychoman59 : passe. 
+ABLAYE28 : suit. 30 et est all-in.
+*** FLOP *** [4s 7d Jc]
+*** TOURNANT *** [4s 7d Jc] [Td]
+*** RIVIÈRE *** [4s 7d Jc Td] [Ts]
+*** ABATTAGE ***
+ABLAYE28 : montre [8d 4d] (double paire, Dix et Quatre)
+pschotsmans1907 : montre [Ad 9c] (une paire de Dix)
+ABLAYE28 a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [4s 7d Jc Td Ts]
+Siège 1 : ABLAYE28 (grosse blind) a montré [8d 4d] et a gagné (135) avec double paire, Dix et Quatre
+Siège 2 : pschotsmans1907 (bouton) a montré [Ad 9c] et a perdu avec une paire de Dix
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237329811474 : Tournoi #3440783169, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2022 10:12:46 CET [13/07/2022 4:12:46 ET]
+Table '3440783169 1' 3-max Siège #3 est au bouton.
+Place 1: ABLAYE28 (135 en jetons) 
+Place 2: pschotsmans1907 (350 en jetons) 
+Place 3: psychoman59 (415 en jetons) 
+ABLAYE28 : met la petite blind. 15
+pschotsmans1907 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 5c]
+psychoman59 : passe. 
+ABLAYE28 : relance. 105 à 135 et est all-in.
+pschotsmans1907 : suit. 105
+*** FLOP *** [4d Ks 3h]
+*** TOURNANT *** [4d Ks 3h] [8c]
+*** RIVIÈRE *** [4d Ks 3h 8c] [Qd]
+*** ABATTAGE ***
+ABLAYE28 : montre [3c Kd] (double paire, Rois et Trois)
+pschotsmans1907 : montre [8s As] (une paire de Huit)
+ABLAYE28 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [4d Ks 3h 8c Qd]
+Siège 1 : ABLAYE28 (petite blind) a montré [3c Kd] et a gagné (270) avec double paire, Rois et Trois
+Siège 2 : pschotsmans1907 (grosse blind) a montré [8s As] et a perdu avec une paire de Huit
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237329813637 : Tournoi #3440783169, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2022 10:13:04 CET [13/07/2022 4:13:04 ET]
+Table '3440783169 1' 3-max Siège #1 est au bouton.
+Place 1: ABLAYE28 (270 en jetons) 
+Place 2: pschotsmans1907 (215 en jetons) 
+Place 3: psychoman59 (415 en jetons) 
+pschotsmans1907 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Ah]
+ABLAYE28 : passe. 
+pschotsmans1907 : relance. 175 à 215 et est all-in.
+psychoman59 : suit. 175
+*** FLOP *** [5c 7s Kd]
+*** TOURNANT *** [5c 7s Kd] [6s]
+*** RIVIÈRE *** [5c 7s Kd 6s] [Qc]
+*** ABATTAGE ***
+pschotsmans1907 : montre [9d Ad] (Hauteur As)
+psychoman59 : montre [2d Ah] (Hauteur As - plus basse kicker)
+pschotsmans1907 a remporté 430  lors du pot .
+*** SYNTHÈSE ***
+Pot total 430 | Commission 0 
+Tableau [5c 7s Kd 6s Qc]
+Siège 1 : ABLAYE28 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : pschotsmans1907 (petite blind) a montré [9d Ad] et a gagné (430) avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [2d Ah] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237329815605 : Tournoi #3440783169, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2022 10:13:21 CET [13/07/2022 4:13:21 ET]
+Table '3440783169 1' 3-max Siège #2 est au bouton.
+Place 1: ABLAYE28 (270 en jetons) 
+Place 2: pschotsmans1907 (430 en jetons) 
+Place 3: psychoman59 (200 en jetons) 
+psychoman59 : met la petite blind. 20
+ABLAYE28 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Kh]
+pschotsmans1907 : passe. 
+psychoman59 : relance. 160 à 200 et est all-in.
+ABLAYE28 : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : ABLAYE28 (grosse blind) s'est couché. avant Flop
+Siège 2 : pschotsmans1907 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237329816763 : Tournoi #3440783169, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2022 10:13:30 CET [13/07/2022 4:13:30 ET]
+Table '3440783169 1' 3-max Siège #3 est au bouton.
+Place 1: ABLAYE28 (230 en jetons) 
+Place 2: pschotsmans1907 (430 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+ABLAYE28 : met la petite blind. 20
+pschotsmans1907 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Jh]
+psychoman59 : passe. 
+ABLAYE28 : relance. 190 à 230 et est all-in.
+pschotsmans1907 : suit. 190
+*** FLOP *** [Ah Kc Js]
+*** TOURNANT *** [Ah Kc Js] [2c]
+*** RIVIÈRE *** [Ah Kc Js 2c] [5c]
+*** ABATTAGE ***
+ABLAYE28 : montre [Ad 7s] (une paire de As)
+pschotsmans1907 : montre [Qc As] (une paire de As - Roi+Dame kicker)
+pschotsmans1907 a remporté 460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [Ah Kc Js 2c 5c]
+Siège 1 : ABLAYE28 (petite blind) a montré [Ad 7s] et a perdu avec une paire de As
+Siège 2 : pschotsmans1907 (grosse blind) a montré [Qc As] et a gagné (460) avec une paire de As
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237329818909 : Tournoi #3440783169, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2022 10:13:48 CET [13/07/2022 4:13:48 ET]
+Table '3440783169 1' 3-max Siège #2 est au bouton.
+Place 2: pschotsmans1907 (660 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+pschotsmans1907 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 7d]
+pschotsmans1907 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : pschotsmans1907 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237329819624 : Tournoi #3440783169, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2022 10:13:54 CET [13/07/2022 4:13:54 ET]
+Table '3440783169 1' 3-max Siège #3 est au bouton.
+Place 2: pschotsmans1907 (640 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+psychoman59 : met la petite blind. 20
+pschotsmans1907 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à pschotsmans1907.
+pschotsmans1907 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : pschotsmans1907 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237329820490 : Tournoi #3440783169, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/07/2022 10:14:01 CET [13/07/2022 4:14:01 ET]
+Table '3440783169 1' 3-max Siège #2 est au bouton.
+Place 2: pschotsmans1907 (660 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+pschotsmans1907 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 5s]
+pschotsmans1907 : relance. 600 à 660 et est all-in.
+psychoman59 : suit. 180 et est all-in.
+Personne n'a suivi. (420) sont retournés à pschotsmans1907.
+*** FLOP *** [8c 7h 2s]
+*** TOURNANT *** [8c 7h 2s] [6h]
+*** RIVIÈRE *** [8c 7h 2s 6h] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [5c 5s] (double paire, Cinq et Deux)
+pschotsmans1907 : montre [Jc As] (une paire de Deux)
+psychoman59 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [8c 7h 2s 6h 2h]
+Siège 2 : pschotsmans1907 (bouton) (petite blind) a montré [Jc As] et a perdu avec une paire de Deux
+Siège 3 : psychoman59 (grosse blind) a montré [5c 5s] et a gagné (480) avec double paire, Cinq et Deux
+
+
+
+Main PokerStars n°237329822057 : Tournoi #3440783169, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/07/2022 10:14:14 CET [13/07/2022 4:14:14 ET]
+Table '3440783169 1' 3-max Siège #3 est au bouton.
+Place 2: pschotsmans1907 (420 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 30
+pschotsmans1907 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 2s]
+psychoman59 : relance. 420 à 480 et est all-in.
+pschotsmans1907 : suit. 360 et est all-in.
+Personne n'a suivi. (60) sont retournés à psychoman59.
+*** FLOP *** [9c 5d 6d]
+*** TOURNANT *** [9c 5d 6d] [5h]
+*** RIVIÈRE *** [9c 5d 6d 5h] [5s]
+*** ABATTAGE ***
+pschotsmans1907 : montre [Js Ad] (un brelan de Cinq)
+psychoman59 : montre [2d 2s] (un full, full aux Cinq par les Deux)
+psychoman59 a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [9c 5d 6d 5h 5s]
+Siège 2 : pschotsmans1907 (grosse blind) a montré [Js Ad] et a perdu avec un brelan de Cinq
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [2d 2s] et a gagné (840) avec un full, full aux Cinq par les Deux
+
+
+

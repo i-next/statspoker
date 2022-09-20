@@ -1,0 +1,238 @@
+﻿Main PokerStars n°237430253946 : Tournoi #3443125499, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 10:22:36 CET [18/07/2022 4:22:36 ET]
+Table '3443125499 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: castortro118 (300 en jetons) 
+Place 3: leib0910 (300 en jetons) 
+castortro118 : met la petite blind. 10
+leib0910 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 4h]
+psychoman59 : suit. 20
+castortro118 : suit. 10
+leib0910 : parole 
+*** FLOP *** [3s 2c 4s]
+castortro118 : parole 
+leib0910 : mise. 20
+psychoman59 : suit. 20
+castortro118 : suit. 20
+*** TOURNANT *** [3s 2c 4s] [Ah]
+castortro118 : parole 
+leib0910 : mise. 20
+psychoman59 : suit. 20
+castortro118 : suit. 20
+*** RIVIÈRE *** [3s 2c 4s Ah] [Jc]
+castortro118 : parole 
+leib0910 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+castortro118 : montre [5h Qh] (une suite, As à Cinq)
+leib0910 : cache la main perdante. 
+psychoman59 : cache la main perdante. 
+castortro118 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [3s 2c 4s Ah Jc]
+Siège 1 : psychoman59 (bouton) a caché la main perdante. [Ac 4h]
+Siège 2 : castortro118 (petite blind) a montré [5h Qh] et a gagné (180) avec une suite, As à Cinq
+Siège 3 : leib0910 (grosse blind) a caché la main perdante. [6c 2h]
+
+
+
+Main PokerStars n°237430257375 : Tournoi #3443125499, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 10:23:04 CET [18/07/2022 4:23:04 ET]
+Table '3443125499 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (240 en jetons) 
+Place 2: castortro118 (420 en jetons) 
+Place 3: leib0910 (240 en jetons) 
+leib0910 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 6h]
+castortro118 : passe. 
+leib0910 : relance. 20 à 40
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à leib0910.
+leib0910 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : castortro118 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : leib0910 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°237430258380 : Tournoi #3443125499, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 10:23:13 CET [18/07/2022 4:23:13 ET]
+Table '3443125499 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (220 en jetons) 
+Place 2: castortro118 (420 en jetons) 
+Place 3: leib0910 (260 en jetons) 
+psychoman59 : met la petite blind. 10
+castortro118 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Ac]
+leib0910 : relance. 20 à 40
+psychoman59 : suit. 30
+castortro118 : suit. 20
+*** FLOP *** [2d Kd 4h]
+psychoman59 : parole 
+castortro118 : parole 
+leib0910 : parole 
+*** TOURNANT *** [2d Kd 4h] [8h]
+psychoman59 : parole 
+castortro118 : parole 
+leib0910 : parole 
+*** RIVIÈRE *** [2d Kd 4h 8h] [9s]
+psychoman59 : parole 
+castortro118 : parole 
+leib0910 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3h Ac] (Hauteur As)
+castortro118 : cache la main perdante. 
+leib0910 : montre [Ts 8s] (une paire de Huit)
+leib0910 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2d Kd 4h 8h 9s]
+Siège 1 : psychoman59 (petite blind) a montré [3h Ac] et a perdu avec Hauteur As
+Siège 2 : castortro118 (grosse blind) a caché la main perdante. [6h Js]
+Siège 3 : leib0910 (bouton) a montré [Ts 8s] et a gagné (120) avec une paire de Huit
+
+
+
+Main PokerStars n°237430261763 : Tournoi #3443125499, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/07/2022 10:23:40 CET [18/07/2022 4:23:40 ET]
+Table '3443125499 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (180 en jetons) 
+Place 2: castortro118 (380 en jetons) 
+Place 3: leib0910 (340 en jetons) 
+castortro118 : met la petite blind. 15
+leib0910 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 9d]
+psychoman59 : relance. 150 à 180 et est all-in.
+castortro118 : passe. 
+leib0910 : suit. 150
+*** FLOP *** [8h 5c 5h]
+*** TOURNANT *** [8h 5c 5h] [8d]
+*** RIVIÈRE *** [8h 5c 5h 8d] [Ts]
+*** ABATTAGE ***
+leib0910 : montre [6h Kd] (double paire, Huit et Cinq)
+psychoman59 : montre [Kc 9d] (double paire, Huit et Cinq)
+leib0910 a remporté 188  lors du pot .
+psychoman59 a remporté 187  lors du pot .
+*** SYNTHÈSE ***
+Pot total 375 | Commission 0 
+Tableau [8h 5c 5h 8d Ts]
+Siège 1 : psychoman59 (bouton) a montré [Kc 9d] et a gagné (187) avec double paire, Huit et Cinq
+Siège 2 : castortro118 (petite blind) s'est couché. avant Flop
+Siège 3 : leib0910 (grosse blind) a montré [6h Kd] et a gagné (188) avec double paire, Huit et Cinq
+
+
+
+Main PokerStars n°237430263445 : Tournoi #3443125499, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/07/2022 10:23:55 CET [18/07/2022 4:23:55 ET]
+Table '3443125499 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (187 en jetons) 
+Place 2: castortro118 (365 en jetons) 
+Place 3: leib0910 (348 en jetons) 
+leib0910 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Ad]
+castortro118 : passe. 
+leib0910 : relance. 318 à 348 et est all-in.
+psychoman59 : suit. 157 et est all-in.
+Personne n'a suivi. (161) sont retournés à leib0910.
+*** FLOP *** [9d Th 6c]
+*** TOURNANT *** [9d Th 6c] [4d]
+*** RIVIÈRE *** [9d Th 6c 4d] [5h]
+*** ABATTAGE ***
+leib0910 : montre [8h Kd] (Hauteur Roi)
+psychoman59 : montre [8s Ad] (Hauteur As)
+psychoman59 a remporté 374  lors du pot .
+*** SYNTHÈSE ***
+Pot total 374 | Commission 0 
+Tableau [9d Th 6c 4d 5h]
+Siège 1 : psychoman59 (grosse blind) a montré [8s Ad] et a gagné (374) avec Hauteur As
+Siège 2 : castortro118 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : leib0910 (petite blind) a montré [8h Kd] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°237430265677 : Tournoi #3443125499, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/07/2022 10:24:13 CET [18/07/2022 4:24:13 ET]
+Table '3443125499 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (374 en jetons) 
+Place 2: castortro118 (365 en jetons) 
+Place 3: leib0910 (161 en jetons) 
+psychoman59 : met la petite blind. 15
+castortro118 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Ac]
+leib0910 : relance. 131 à 161 et est all-in.
+psychoman59 : passe. 
+castortro118 : suit. 131
+*** FLOP *** [7h 2s 9d]
+*** TOURNANT *** [7h 2s 9d] [Jd]
+*** RIVIÈRE *** [7h 2s 9d Jd] [8c]
+*** ABATTAGE ***
+castortro118 : montre [Qd Ts] (une suite, Huit à Dame)
+leib0910 : montre [Tc Kd] (une suite, Sept à Valet)
+castortro118 a remporté 337  lors du pot .
+*** SYNTHÈSE ***
+Pot total 337 | Commission 0 
+Tableau [7h 2s 9d Jd 8c]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : castortro118 (grosse blind) a montré [Qd Ts] et a gagné (337) avec une suite, Huit à Dame
+Siège 3 : leib0910 (bouton) a montré [Tc Kd] et a perdu avec une suite, Sept à Valet
+
+
+
+Main PokerStars n°237430268345 : Tournoi #3443125499, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/07/2022 10:24:36 CET [18/07/2022 4:24:36 ET]
+Table '3443125499 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (359 en jetons) 
+Place 2: castortro118 (541 en jetons) 
+castortro118 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js As]
+castortro118 : relance. 30 à 60
+psychoman59 : relance. 299 à 359 et est all-in.
+castortro118 : suit. 299
+*** FLOP *** [7h 6c 3c]
+*** TOURNANT *** [7h 6c 3c] [Jd]
+*** RIVIÈRE *** [7h 6c 3c Jd] [4s]
+*** ABATTAGE ***
+psychoman59 : montre [Js As] (une paire de Valets)
+castortro118 : montre [Kh Ah] (Hauteur As)
+psychoman59 a remporté 718  lors du pot .
+*** SYNTHÈSE ***
+Pot total 718 | Commission 0 
+Tableau [7h 6c 3c Jd 4s]
+Siège 1 : psychoman59 (grosse blind) a montré [Js As] et a gagné (718) avec une paire de Valets
+Siège 2 : castortro118 (bouton) (petite blind) a montré [Kh Ah] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237430270688 : Tournoi #3443125499, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/07/2022 10:24:55 CET [18/07/2022 4:24:55 ET]
+Table '3443125499 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (718 en jetons) 
+Place 2: castortro118 (182 en jetons) 
+psychoman59 : met la petite blind. 20
+castortro118 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Js]
+psychoman59 : relance. 80 à 120
+castortro118 : relance. 62 à 182 et est all-in.
+psychoman59 : suit. 62
+*** FLOP *** [5h 6s Qh]
+*** TOURNANT *** [5h 6s Qh] [9s]
+*** RIVIÈRE *** [5h 6s Qh 9s] [2d]
+*** ABATTAGE ***
+castortro118 : montre [Kd 7d] (Hauteur Roi)
+psychoman59 : montre [As Js] (Hauteur As)
+psychoman59 a remporté 364  lors du pot .
+*** SYNTHÈSE ***
+Pot total 364 | Commission 0 
+Tableau [5h 6s Qh 9s 2d]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [As Js] et a gagné (364) avec Hauteur As
+Siège 2 : castortro118 (grosse blind) a montré [Kd 7d] et a perdu avec Hauteur Roi
+
+
+

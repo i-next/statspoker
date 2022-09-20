@@ -1,0 +1,392 @@
+﻿Main PokerStars n°238671592294 : Tournoi #3472291399, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/09/2022 23:45:12 CET [16/09/2022 17:45:12 ET]
+Table '3472291399 1' 3-max Siège #1 est au bouton.
+Place 1: Yomask59 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: MrCroK077 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+MrCroK077 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ac]
+Yomask59 : passe. 
+psychoman59 : relance. 280 à 300 et est all-in.
+MrCroK077 : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Yomask59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : MrCroK077 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238671596298 : Tournoi #3472291399, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/09/2022 23:45:22 CET [16/09/2022 17:45:22 ET]
+Table '3472291399 1' 3-max Siège #2 est au bouton.
+Place 1: Yomask59 (300 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: MrCroK077 (280 en jetons) 
+MrCroK077 : met la petite blind. 10
+Yomask59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Qd]
+psychoman59 : passe. 
+MrCroK077 : suit. 10
+Yomask59 : parole 
+*** FLOP *** [4c 5d 3c]
+MrCroK077 : parole 
+Yomask59 : parole 
+*** TOURNANT *** [4c 5d 3c] [Tc]
+MrCroK077 : mise. 20
+Yomask59 : suit. 20
+*** RIVIÈRE *** [4c 5d 3c Tc] [Jc]
+MrCroK077 : mise. 20
+Yomask59 : passe. 
+Personne n'a suivi. (20) sont retournés à MrCroK077.
+MrCroK077 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4c 5d 3c Tc Jc]
+Siège 1 : Yomask59 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : MrCroK077 (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°238671609656 : Tournoi #3472291399, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/09/2022 23:45:56 CET [16/09/2022 17:45:56 ET]
+Table '3472291399 1' 3-max Siège #3 est au bouton.
+Place 1: Yomask59 (260 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: MrCroK077 (320 en jetons) 
+Yomask59 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Td]
+MrCroK077 : relance. 40 à 60
+Yomask59 : relance. 200 à 260 et est all-in.
+psychoman59 : passe. 
+MrCroK077 : suit. 200
+*** FLOP *** [Kc Th Kh]
+*** TOURNANT *** [Kc Th Kh] [Ks]
+*** RIVIÈRE *** [Kc Th Kh Ks] [3c]
+*** ABATTAGE ***
+Yomask59 : montre [Qc Qh] (un full, full aux Rois par les Dames)
+MrCroK077 : montre [Qd Js] (un brelan de Rois)
+Yomask59 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [Kc Th Kh Ks 3c]
+Siège 1 : Yomask59 (petite blind) a montré [Qc Qh] et a gagné (540) avec un full, full aux Rois par les Dames
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : MrCroK077 (bouton) a montré [Qd Js] et a perdu avec un brelan de Rois
+
+
+
+Main PokerStars n°238671620771 : Tournoi #3472291399, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/09/2022 23:46:24 CET [16/09/2022 17:46:24 ET]
+Table '3472291399 1' 3-max Siège #1 est au bouton.
+Place 1: Yomask59 (540 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: MrCroK077 (60 en jetons) 
+psychoman59 : met la petite blind. 15
+MrCroK077 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 6d]
+Yomask59 : relance. 30 à 60
+psychoman59 : suit. 45
+MrCroK077 : suit. 30 et est all-in.
+*** FLOP *** [3c 4d 2h]
+psychoman59 : parole 
+Yomask59 : mise. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [3c 4d 2h] [Ac]
+psychoman59 : parole 
+Yomask59 : parole 
+*** RIVIÈRE *** [3c 4d 2h Ac] [9d]
+psychoman59 : parole 
+Yomask59 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [As 6d] (une paire de As)
+Yomask59 : cache la main perdante. 
+psychoman59 a remporté 120  parallèle lors du pot .
+MrCroK077 : cache la main perdante. 
+psychoman59 a remporté 180  principal lors du pot .
+MrCroK077 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 300 Principal pot 180. Parallèle pot 120. | Commission 0 
+Tableau [3c 4d 2h Ac 9d]
+Siège 1 : Yomask59 (bouton) a caché la main perdante. [Ks Td]
+Siège 2 : psychoman59 (petite blind) a montré [As 6d] et a gagné (300) avec une paire de As
+Siège 3 : MrCroK077 (grosse blind) a caché la main perdante. [Jh 7h]
+
+
+
+Main PokerStars n°238671637006 : Tournoi #3472291399, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/09/2022 23:47:06 CET [16/09/2022 17:47:06 ET]
+Table '3472291399 1' 3-max Siège #2 est au bouton.
+Place 1: Yomask59 (420 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 15
+Yomask59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 9d]
+psychoman59 : relance. 450 à 480 et est all-in.
+Yomask59 : passe. 
+Personne n'a suivi. (450) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Yomask59 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°238671641173 : Tournoi #3472291399, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/09/2022 23:47:16 CET [16/09/2022 17:47:16 ET]
+Table '3472291399 1' 3-max Siège #1 est au bouton.
+Place 1: Yomask59 (390 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+Yomask59 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 7d]
+Yomask59 : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Yomask59.
+Yomask59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Yomask59 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238671643990 : Tournoi #3472291399, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/09/2022 23:47:24 CET [16/09/2022 17:47:24 ET]
+Table '3472291399 1' 3-max Siège #2 est au bouton.
+Place 1: Yomask59 (430 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+psychoman59 : met la petite blind. 20
+Yomask59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Ad]
+psychoman59 : relance. 80 à 120
+Yomask59 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Yomask59 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°238671647225 : Tournoi #3472291399, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/09/2022 23:47:32 CET [16/09/2022 17:47:32 ET]
+Table '3472291399 1' 3-max Siège #1 est au bouton.
+Place 1: Yomask59 (390 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+Yomask59 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 9h]
+Yomask59 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Yomask59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238671649069 : Tournoi #3472291399, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/09/2022 23:47:37 CET [16/09/2022 17:47:37 ET]
+Table '3472291399 1' 3-max Siège #2 est au bouton.
+Place 1: Yomask59 (370 en jetons) 
+Place 2: psychoman59 (530 en jetons) 
+psychoman59 : met la petite blind. 20
+Yomask59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 6d]
+psychoman59 : relance. 490 à 530 et est all-in.
+Yomask59 : passe. 
+Personne n'a suivi. (490) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Yomask59 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°238671651771 : Tournoi #3472291399, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/09/2022 23:47:44 CET [16/09/2022 17:47:44 ET]
+Table '3472291399 1' 3-max Siège #1 est au bouton.
+Place 1: Yomask59 (330 en jetons) 
+Place 2: psychoman59 (570 en jetons) 
+Yomask59 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 5c]
+Yomask59 : relance. 290 à 330 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (290) sont retournés à Yomask59.
+Yomask59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Yomask59 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238671655933 : Tournoi #3472291399, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/09/2022 23:47:55 CET [16/09/2022 17:47:55 ET]
+Table '3472291399 1' 3-max Siège #2 est au bouton.
+Place 1: Yomask59 (370 en jetons) 
+Place 2: psychoman59 (530 en jetons) 
+psychoman59 : met la petite blind. 20
+Yomask59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 4h]
+psychoman59 : relance. 80 à 120
+Yomask59 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Yomask59 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°238671659340 : Tournoi #3472291399, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/09/2022 23:48:03 CET [16/09/2022 17:48:03 ET]
+Table '3472291399 1' 3-max Siège #1 est au bouton.
+Place 1: Yomask59 (330 en jetons) 
+Place 2: psychoman59 (570 en jetons) 
+Yomask59 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Qs]
+Yomask59 : relance. 290 à 330 et est all-in.
+psychoman59 : suit. 290
+*** FLOP *** [Tc 2h 5h]
+*** TOURNANT *** [Tc 2h 5h] [Ad]
+*** RIVIÈRE *** [Tc 2h 5h Ad] [4s]
+*** ABATTAGE ***
+psychoman59 : montre [Qd Qs] (une paire de Dames)
+Yomask59 : montre [2s 2c] (un brelan de Deux)
+Yomask59 a remporté 660  lors du pot .
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [Tc 2h 5h Ad 4s]
+Siège 1 : Yomask59 (bouton) (petite blind) a montré [2s 2c] et a gagné (660) avec un brelan de Deux
+Siège 2 : psychoman59 (grosse blind) a montré [Qd Qs] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°238671665597 : Tournoi #3472291399, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/09/2022 23:48:19 CET [16/09/2022 17:48:19 ET]
+Table '3472291399 1' 3-max Siège #2 est au bouton.
+Place 1: Yomask59 (660 en jetons) 
+Place 2: psychoman59 (240 en jetons) 
+psychoman59 : met la petite blind. 30
+Yomask59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Kc]
+psychoman59 : relance. 180 à 240 et est all-in.
+Yomask59 : suit. 180
+*** FLOP *** [5c 7s Ts]
+*** TOURNANT *** [5c 7s Ts] [4c]
+*** RIVIÈRE *** [5c 7s Ts 4c] [5d]
+*** ABATTAGE ***
+Yomask59 : montre [2c Kh] (une paire de Cinq)
+psychoman59 : montre [8c Kc] (une paire de Cinq - Roi+Dix+Huit kicker)
+psychoman59 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [5c 7s Ts 4c 5d]
+Siège 1 : Yomask59 (grosse blind) a montré [2c Kh] et a perdu avec une paire de Cinq
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [8c Kc] et a gagné (480) avec une paire de Cinq
+
+
+
+Main PokerStars n°238671672194 : Tournoi #3472291399, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/09/2022 23:48:37 CET [16/09/2022 17:48:37 ET]
+Table '3472291399 1' 3-max Siège #1 est au bouton.
+Place 1: Yomask59 (420 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Yomask59 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 3h]
+Yomask59 : relance. 60 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Yomask59.
+Yomask59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : Yomask59 (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238671675125 : Tournoi #3472291399, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/09/2022 23:48:44 CET [16/09/2022 17:48:44 ET]
+Table '3472291399 1' 3-max Siège #2 est au bouton.
+Place 1: Yomask59 (480 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+psychoman59 : met la petite blind. 30
+Yomask59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Js]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Yomask59.
+Yomask59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Yomask59 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238671677108 : Tournoi #3472291399, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/09/2022 23:48:49 CET [16/09/2022 17:48:49 ET]
+Table '3472291399 1' 3-max Siège #1 est au bouton.
+Place 1: Yomask59 (510 en jetons) 
+Place 2: psychoman59 (390 en jetons) 
+Yomask59 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 8c]
+Yomask59 : relance. 450 à 510 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (450) sont retournés à Yomask59.
+Yomask59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : Yomask59 (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238671680330 : Tournoi #3472291399, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/09/2022 23:48:58 CET [16/09/2022 17:48:58 ET]
+Table '3472291399 1' 3-max Siège #2 est au bouton.
+Place 1: Yomask59 (570 en jetons) 
+Place 2: psychoman59 (330 en jetons) 
+psychoman59 : met la petite blind. 30
+Yomask59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 9c]
+psychoman59 : relance. 270 à 330 et est all-in.
+Yomask59 : suit. 270
+*** FLOP *** [Ac Jc Qh]
+*** TOURNANT *** [Ac Jc Qh] [4s]
+*** RIVIÈRE *** [Ac Jc Qh 4s] [5s]
+*** ABATTAGE ***
+Yomask59 : montre [8s 8h] (une paire de Huit)
+psychoman59 : montre [Td 9c] (Hauteur As)
+Yomask59 a remporté 660  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Yomask59 remporte le tournoi et reçoit 5.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [Ac Jc Qh 4s 5s]
+Siège 1 : Yomask59 (grosse blind) a montré [8s 8h] et a gagné (660) avec une paire de Huit
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Td 9c] et a perdu avec Hauteur As
+
+
+

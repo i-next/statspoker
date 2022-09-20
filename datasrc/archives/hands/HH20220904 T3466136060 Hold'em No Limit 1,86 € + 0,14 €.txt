@@ -1,0 +1,696 @@
+﻿Main PokerStars n°238404521031 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 04/09/2022 10:26:10 CET [04/09/2022 4:26:10 ET]
+Table '3466136060 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: BLAISEO (300 en jetons) 
+Place 3: rehcacor (300 en jetons) 
+BLAISEO : met la petite blind. 10
+rehcacor : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 5d]
+psychoman59 : passe. 
+BLAISEO : suit. 10
+rehcacor : parole 
+*** FLOP *** [7s Jc 3c]
+BLAISEO : parole 
+rehcacor : parole 
+*** TOURNANT *** [7s Jc 3c] [Ah]
+BLAISEO : parole 
+rehcacor : mise. 20
+BLAISEO : suit. 20
+*** RIVIÈRE *** [7s Jc 3c Ah] [2h]
+BLAISEO : parole 
+rehcacor : mise. 80
+BLAISEO : passe. 
+Personne n'a suivi. (80) sont retournés à rehcacor.
+rehcacor a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [7s Jc 3c Ah 2h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : BLAISEO (petite blind) s'est couché. sur le Rivière
+Siège 3 : rehcacor (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°238404524028 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 04/09/2022 10:26:31 CET [04/09/2022 4:26:31 ET]
+Table '3466136060 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: BLAISEO (260 en jetons) 
+Place 3: rehcacor (340 en jetons) 
+rehcacor : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 5h]
+BLAISEO : suit. 20
+rehcacor : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jc 7c 3h]
+rehcacor : parole 
+psychoman59 : parole 
+BLAISEO : parole 
+*** TOURNANT *** [Jc 7c 3h] [Qh]
+rehcacor : parole 
+psychoman59 : parole 
+BLAISEO : parole 
+*** RIVIÈRE *** [Jc 7c 3h Qh] [Jd]
+rehcacor : mise. 20
+psychoman59 : suit. 20
+BLAISEO : suit. 20
+*** ABATTAGE ***
+rehcacor : montre [Qc Th] (double paire, Dames et Valets)
+psychoman59 : cache la main perdante. 
+BLAISEO : cache la main perdante. 
+rehcacor a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jc 7c 3h Qh Jd]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [7h 5h]
+Siège 2 : BLAISEO (bouton) a caché la main perdante. [6d 6h]
+Siège 3 : rehcacor (petite blind) a montré [Qc Th] et a gagné (120) avec double paire, Dames et Valets
+
+
+
+Main PokerStars n°238404527345 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 04/09/2022 10:26:54 CET [04/09/2022 4:26:54 ET]
+Table '3466136060 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: BLAISEO (220 en jetons) 
+Place 3: rehcacor (420 en jetons) 
+psychoman59 : met la petite blind. 10
+BLAISEO : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Jd]
+rehcacor : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à BLAISEO.
+BLAISEO a remporté 20  lors du pot .
+BLAISEO : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : BLAISEO (grosse blind) a remporté (20)
+Siège 3 : rehcacor (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238404528926 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 04/09/2022 10:27:04 CET [04/09/2022 4:27:04 ET]
+Table '3466136060 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 2: BLAISEO (230 en jetons) 
+Place 3: rehcacor (420 en jetons) 
+BLAISEO : met la petite blind. 10
+rehcacor : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Qh]
+psychoman59 : passe. 
+BLAISEO : relance. 210 à 230 et est all-in.
+rehcacor : suit. 210
+*** FLOP *** [Ks 9c 4s]
+*** TOURNANT *** [Ks 9c 4s] [Qc]
+*** RIVIÈRE *** [Ks 9c 4s Qc] [6d]
+*** ABATTAGE ***
+BLAISEO : montre [Ah Qd] (une paire de Dames)
+rehcacor : montre [Ac As] (une paire de As)
+rehcacor a remporté 460  lors du pot .
+BLAISEO a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [Ks 9c 4s Qc 6d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : BLAISEO (petite blind) a montré [Ah Qd] et a perdu avec une paire de Dames
+Siège 3 : rehcacor (grosse blind) a montré [Ac As] et a gagné (460) avec une paire de As
+
+
+
+Main PokerStars n°238404532093 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 04/09/2022 10:27:25 CET [04/09/2022 4:27:25 ET]
+Table '3466136060 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 3: rehcacor (650 en jetons) 
+rehcacor : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Kd]
+rehcacor : suit. 15
+psychoman59 : relance. 220 à 250 et est all-in.
+rehcacor : passe. 
+Personne n'a suivi. (220) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : rehcacor (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238404534314 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 04/09/2022 10:27:40 CET [04/09/2022 4:27:40 ET]
+Table '3466136060 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 3: rehcacor (620 en jetons) 
+psychoman59 : met la petite blind. 15
+rehcacor : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 5d]
+psychoman59 : suit. 15
+rehcacor : parole 
+*** FLOP *** [Tc 3c Ks]
+rehcacor : parole 
+psychoman59 : mise. 60
+rehcacor : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Tc 3c Ks]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : rehcacor (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238404536137 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 04/09/2022 10:27:52 CET [04/09/2022 4:27:52 ET]
+Table '3466136060 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 3: rehcacor (590 en jetons) 
+rehcacor : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Qh]
+rehcacor : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Kd 4c Qc]
+psychoman59 : parole 
+rehcacor : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à rehcacor.
+rehcacor a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Kd 4c Qc]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : rehcacor (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°238404538666 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 04/09/2022 10:28:08 CET [04/09/2022 4:28:08 ET]
+Table '3466136060 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 3: rehcacor (620 en jetons) 
+psychoman59 : met la petite blind. 15
+rehcacor : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 9c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à rehcacor.
+rehcacor a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : rehcacor (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°238404539841 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 04/09/2022 10:28:16 CET [04/09/2022 4:28:16 ET]
+Table '3466136060 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (265 en jetons) 
+Place 3: rehcacor (635 en jetons) 
+rehcacor : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Kc]
+rehcacor : suit. 20
+psychoman59 : relance. 225 à 265 et est all-in.
+rehcacor : suit. 225
+*** FLOP *** [7d Jc 9h]
+*** TOURNANT *** [7d Jc 9h] [Kh]
+*** RIVIÈRE *** [7d Jc 9h Kh] [Ac]
+*** ABATTAGE ***
+psychoman59 : montre [5s Kc] (une paire de Rois)
+rehcacor : montre [Jd Tc] (une paire de Valets)
+psychoman59 a remporté 530  lors du pot .
+*** SYNTHÈSE ***
+Pot total 530 | Commission 0 
+Tableau [7d Jc 9h Kh Ac]
+Siège 1 : psychoman59 (grosse blind) a montré [5s Kc] et a gagné (530) avec une paire de Rois
+Siège 3 : rehcacor (bouton) (petite blind) a montré [Jd Tc] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°238404542522 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 04/09/2022 10:28:33 CET [04/09/2022 4:28:33 ET]
+Table '3466136060 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 3: rehcacor (370 en jetons) 
+psychoman59 : met la petite blind. 20
+rehcacor : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 8c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à rehcacor.
+rehcacor a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : rehcacor (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238404543546 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 04/09/2022 10:28:40 CET [04/09/2022 4:28:40 ET]
+Table '3466136060 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (510 en jetons) 
+Place 3: rehcacor (390 en jetons) 
+rehcacor : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 8s]
+rehcacor : suit. 20
+psychoman59 : parole 
+*** FLOP *** [6s Js 4c]
+psychoman59 : parole 
+rehcacor : parole 
+*** TOURNANT *** [6s Js 4c] [3h]
+psychoman59 : mise. 40
+rehcacor : suit. 40
+*** RIVIÈRE *** [6s Js 4c 3h] [Ac]
+psychoman59 : mise. 40
+rehcacor : suit. 40
+*** ABATTAGE ***
+psychoman59 : montre [3c 8s] (une paire de Trois)
+rehcacor : montre [Kh Jc] (une paire de Valets)
+rehcacor a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6s Js 4c 3h Ac]
+Siège 1 : psychoman59 (grosse blind) a montré [3c 8s] et a perdu avec une paire de Trois
+Siège 3 : rehcacor (bouton) (petite blind) a montré [Kh Jc] et a gagné (240) avec une paire de Valets
+
+
+
+Main PokerStars n°238404546989 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 04/09/2022 10:29:03 CET [04/09/2022 4:29:03 ET]
+Table '3466136060 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (390 en jetons) 
+Place 3: rehcacor (510 en jetons) 
+psychoman59 : met la petite blind. 20
+rehcacor : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à rehcacor.
+rehcacor a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : rehcacor (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238404547761 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 04/09/2022 10:29:08 CET [04/09/2022 4:29:08 ET]
+Table '3466136060 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 3: rehcacor (530 en jetons) 
+rehcacor : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Js]
+rehcacor : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Jd Tc 9h]
+psychoman59 : mise. 330 et est all-in.
+rehcacor : suit. 330
+*** TOURNANT *** [Jd Tc 9h] [Ks]
+*** RIVIÈRE *** [Jd Tc 9h Ks] [Qh]
+*** ABATTAGE ***
+psychoman59 : montre [2c Js] (une suite, Neuf à Roi)
+rehcacor : montre [Qc Kc] (une suite, Neuf à Roi)
+psychoman59 a remporté 370  lors du pot .
+rehcacor a remporté 370  lors du pot .
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Tableau [Jd Tc 9h Ks Qh]
+Siège 1 : psychoman59 (grosse blind) a montré [2c Js] et a gagné (370) avec une suite, Neuf à Roi
+Siège 3 : rehcacor (bouton) (petite blind) a montré [Qc Kc] et a gagné (370) avec une suite, Neuf à Roi
+
+
+
+Main PokerStars n°238404551234 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/09/2022 10:29:30 CET [04/09/2022 4:29:30 ET]
+Table '3466136060 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 3: rehcacor (530 en jetons) 
+psychoman59 : met la petite blind. 30
+rehcacor : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à rehcacor.
+rehcacor a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : rehcacor (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°238404552057 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/09/2022 10:29:35 CET [04/09/2022 4:29:35 ET]
+Table '3466136060 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 3: rehcacor (560 en jetons) 
+rehcacor : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Tc]
+rehcacor : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : rehcacor (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238404552775 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/09/2022 10:29:40 CET [04/09/2022 4:29:40 ET]
+Table '3466136060 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 3: rehcacor (530 en jetons) 
+psychoman59 : met la petite blind. 30
+rehcacor : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Ac]
+psychoman59 : relance. 310 à 370 et est all-in.
+rehcacor : passe. 
+Personne n'a suivi. (310) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : rehcacor (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238404553804 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/09/2022 10:29:47 CET [04/09/2022 4:29:47 ET]
+Table '3466136060 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 3: rehcacor (470 en jetons) 
+rehcacor : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 6s]
+rehcacor : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Ad Kc 5d]
+psychoman59 : parole 
+rehcacor : parole 
+*** TOURNANT *** [Ad Kc 5d] [Ah]
+psychoman59 : parole 
+rehcacor : parole 
+*** RIVIÈRE *** [Ad Kc 5d Ah] [Ac]
+psychoman59 : parole 
+rehcacor : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à rehcacor.
+rehcacor a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ad Kc 5d Ah Ac]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : rehcacor (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°238404557064 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/09/2022 10:30:08 CET [04/09/2022 4:30:08 ET]
+Table '3466136060 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 3: rehcacor (530 en jetons) 
+psychoman59 : met la petite blind. 30
+rehcacor : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à rehcacor.
+rehcacor a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : rehcacor (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°238404558291 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 04/09/2022 10:30:16 CET [04/09/2022 4:30:16 ET]
+Table '3466136060 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 3: rehcacor (560 en jetons) 
+rehcacor : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ts]
+rehcacor : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : rehcacor (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238404559214 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 04/09/2022 10:30:22 CET [04/09/2022 4:30:22 ET]
+Table '3466136060 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 3: rehcacor (520 en jetons) 
+psychoman59 : met la petite blind. 40
+rehcacor : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à rehcacor.
+rehcacor a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : rehcacor (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°238404559979 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 04/09/2022 10:30:27 CET [04/09/2022 4:30:27 ET]
+Table '3466136060 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 3: rehcacor (560 en jetons) 
+rehcacor : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Ah]
+rehcacor : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : rehcacor (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238404560737 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 04/09/2022 10:30:31 CET [04/09/2022 4:30:31 ET]
+Table '3466136060 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 3: rehcacor (520 en jetons) 
+psychoman59 : met la petite blind. 40
+rehcacor : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à rehcacor.
+rehcacor a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : rehcacor (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°238404561517 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 04/09/2022 10:30:36 CET [04/09/2022 4:30:36 ET]
+Table '3466136060 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 3: rehcacor (560 en jetons) 
+rehcacor : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 6s]
+rehcacor : suit. 40
+psychoman59 : parole 
+*** FLOP *** [7s As 2d]
+psychoman59 : mise. 260 et est all-in.
+rehcacor : suit. 260
+*** TOURNANT *** [7s As 2d] [5c]
+*** RIVIÈRE *** [7s As 2d 5c] [8h]
+*** ABATTAGE ***
+psychoman59 : montre [4c 6s] (une suite, Quatre à Huit)
+rehcacor : montre [5s 7h] (double paire, Sept et Cinq)
+psychoman59 a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [7s As 2d 5c 8h]
+Siège 1 : psychoman59 (grosse blind) a montré [4c 6s] et a gagné (680) avec une suite, Quatre à Huit
+Siège 3 : rehcacor (bouton) (petite blind) a montré [5s 7h] et a perdu avec double paire, Sept et Cinq
+
+
+
+Main PokerStars n°238404564583 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 04/09/2022 10:30:56 CET [04/09/2022 4:30:56 ET]
+Table '3466136060 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (680 en jetons) 
+Place 3: rehcacor (220 en jetons) 
+psychoman59 : met la petite blind. 40
+rehcacor : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à rehcacor.
+rehcacor a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : rehcacor (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°238404565221 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 04/09/2022 10:31:00 CET [04/09/2022 4:31:00 ET]
+Table '3466136060 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (640 en jetons) 
+Place 3: rehcacor (260 en jetons) 
+rehcacor : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 5h]
+rehcacor : suit. 40
+psychoman59 : parole 
+*** FLOP *** [8h 2s Kh]
+psychoman59 : parole 
+rehcacor : parole 
+*** TOURNANT *** [8h 2s Kh] [7h]
+psychoman59 : parole 
+rehcacor : parole 
+*** RIVIÈRE *** [8h 2s Kh 7h] [2h]
+psychoman59 : parole 
+rehcacor : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7s 5h] (une couleur, hauteur Roi)
+rehcacor : montre [Jc 6h] (une couleur, hauteur Roi - Six plus haute)
+rehcacor a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [8h 2s Kh 7h 2h]
+Siège 1 : psychoman59 (grosse blind) a montré [7s 5h] et a perdu avec une couleur, hauteur Roi
+Siège 3 : rehcacor (bouton) (petite blind) a montré [Jc 6h] et a gagné (160) avec une couleur, hauteur Roi
+
+
+
+Main PokerStars n°238404568704 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VI (50/100) - 04/09/2022 10:31:23 CET [04/09/2022 4:31:23 ET]
+Table '3466136060 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (560 en jetons) 
+Place 3: rehcacor (340 en jetons) 
+psychoman59 : met la petite blind. 50
+rehcacor : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à rehcacor.
+rehcacor a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : rehcacor (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°238404569453 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VI (50/100) - 04/09/2022 10:31:28 CET [04/09/2022 4:31:28 ET]
+Table '3466136060 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (510 en jetons) 
+Place 3: rehcacor (390 en jetons) 
+rehcacor : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Qh]
+rehcacor : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (100)
+Siège 3 : rehcacor (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238404570185 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VI (50/100) - 04/09/2022 10:31:33 CET [04/09/2022 4:31:33 ET]
+Table '3466136060 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (560 en jetons) 
+Place 3: rehcacor (340 en jetons) 
+psychoman59 : met la petite blind. 50
+rehcacor : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Ac]
+psychoman59 : relance. 200 à 300
+rehcacor : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (200)
+Siège 3 : rehcacor (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238404571444 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VI (50/100) - 04/09/2022 10:31:40 CET [04/09/2022 4:31:40 ET]
+Table '3466136060 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (660 en jetons) 
+Place 3: rehcacor (240 en jetons) 
+rehcacor : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 4d]
+rehcacor : suit. 50
+psychoman59 : parole 
+*** FLOP *** [2h 6s 5c]
+psychoman59 : mise. 560 et est all-in.
+rehcacor : passe. 
+Personne n'a suivi. (560) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [2h 6s 5c]
+Siège 1 : psychoman59 (grosse blind) a remporté (200)
+Siège 3 : rehcacor (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238404573251 : Tournoi #3466136060, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VI (50/100) - 04/09/2022 10:31:53 CET [04/09/2022 4:31:53 ET]
+Table '3466136060 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (760 en jetons) 
+Place 3: rehcacor (140 en jetons) 
+psychoman59 : met la petite blind. 50
+rehcacor : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7c]
+psychoman59 : relance. 100 à 200
+rehcacor : suit. 40 et est all-in.
+Personne n'a suivi. (60) sont retournés à psychoman59.
+*** FLOP *** [5d 2h Ad]
+*** TOURNANT *** [5d 2h Ad] [9s]
+*** RIVIÈRE *** [5d 2h Ad 9s] [5s]
+*** ABATTAGE ***
+rehcacor : montre [Jd 2c] (double paire, Cinq et Deux)
+psychoman59 : montre [9c 7c] (double paire, Neuf et Cinq)
+psychoman59 a remporté 280  lors du pot .
+rehcacor a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 6.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [5d 2h Ad 9s 5s]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [9c 7c] et a gagné (280) avec double paire, Neuf et Cinq
+Siège 3 : rehcacor (grosse blind) a montré [Jd 2c] et a perdu avec double paire, Cinq et Deux
+
+
+

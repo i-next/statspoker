@@ -1,0 +1,144 @@
+﻿Main PokerStars n°237960660646 : Tournoi #3455592022, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 13/08/2022 11:17:55 CET [13/08/2022 5:17:55 ET]
+Table '3455592022 1' 4-max Siège #1 est au bouton.
+Place 1: latraca17 (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: goellette (5000 en jetons) 
+Place 4: PAPArus70 (5000 en jetons) 
+latraca17 : met l'ante. 10
+psychoman59 : met l'ante. 10
+goellette : met l'ante. 10
+PAPArus70 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+goellette : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Jc]
+PAPArus70 : relance. 100 à 200
+latraca17 : suit. 200
+psychoman59 : suit. 150
+goellette : suit. 100
+*** FLOP *** [4c 4s 5s]
+psychoman59 : parole 
+goellette : parole 
+PAPArus70 : parole 
+latraca17 : mise. 200
+psychoman59 : passe. 
+goellette : passe. 
+PAPArus70 : suit. 200
+*** TOURNANT *** [4c 4s 5s] [6h]
+PAPArus70 : parole 
+latraca17 : mise. 100
+PAPArus70 : suit. 100
+*** RIVIÈRE *** [4c 4s 5s 6h] [Qs]
+PAPArus70 : parole 
+latraca17 : mise. 300
+PAPArus70 : suit. 300
+*** ABATTAGE ***
+latraca17 : montre [7d 4h] (un brelan de Quatre)
+PAPArus70 : cache la main perdante. 
+latraca17 a remporté 2040  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2040 | Commission 0 
+Tableau [4c 4s 5s 6h Qs]
+Siège 1 : latraca17 (bouton) a montré [7d 4h] et a gagné (2040) avec un brelan de Quatre
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : goellette (grosse blind) s'est couché. sur le Flop
+Siège 4 : PAPArus70 a caché la main perdante. [Ks Qh]
+
+
+
+Main PokerStars n°237960675098 : Tournoi #3455592022, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 13/08/2022 11:19:27 CET [13/08/2022 5:19:27 ET]
+Table '3455592022 1' 4-max Siège #2 est au bouton.
+Place 1: latraca17 (6230 en jetons) 
+Place 2: psychoman59 (4790 en jetons) 
+Place 3: goellette (4790 en jetons) 
+Place 4: PAPArus70 (4190 en jetons) 
+latraca17 : met l'ante. 10
+psychoman59 : met l'ante. 10
+goellette : met l'ante. 10
+PAPArus70 : met l'ante. 10
+goellette : met la petite blind. 50
+PAPArus70 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Js]
+latraca17 : suit. 100
+psychoman59 : suit. 100
+goellette : passe. 
+PAPArus70 : relance. 390 à 490
+latraca17 : suit. 390
+psychoman59 : suit. 390
+*** FLOP *** [9h Ac Ad]
+PAPArus70 : parole 
+latraca17 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9h Ac Ad] [As]
+PAPArus70 : parole 
+latraca17 : mise. 100
+psychoman59 : suit. 100
+PAPArus70 : suit. 100
+*** RIVIÈRE *** [9h Ac Ad As] [Jd]
+PAPArus70 : parole 
+latraca17 : mise. 200
+psychoman59 : suit. 200
+PAPArus70 : relance. 3390 à 3590 et est all-in.
+latraca17 : passe. 
+psychoman59 : suit. 3390
+*** ABATTAGE ***
+PAPArus70 : montre [Ah Tc] (un carré de As)
+psychoman59 : montre [Kh Js] (un full, full aux As par les Valets)
+PAPArus70 a remporté 9240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9240 | Commission 0 
+Tableau [9h Ac Ad As Jd]
+Siège 1 : latraca17 s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) a montré [Kh Js] et a perdu avec un full, full aux As par les Valets
+Siège 3 : goellette (petite blind) s'est couché. avant Flop
+Siège 4 : PAPArus70 (grosse blind) a montré [Ah Tc] et a gagné (9240) avec un carré de As
+
+
+
+Main PokerStars n°237960693413 : Tournoi #3455592022, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 13/08/2022 11:21:24 CET [13/08/2022 5:21:24 ET]
+Table '3455592022 1' 4-max Siège #3 est au bouton.
+Place 1: latraca17 (5430 en jetons) 
+Place 2: psychoman59 (600 en jetons) 
+Place 3: goellette (4730 en jetons) 
+Place 4: PAPArus70 (9240 en jetons) 
+latraca17 : met l'ante. 15
+psychoman59 : met l'ante. 15
+goellette : met l'ante. 15
+PAPArus70 : met l'ante. 15
+PAPArus70 : met la petite blind. 60
+latraca17 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 5d]
+psychoman59 : relance. 465 à 585 et est all-in.
+goellette : passe. 
+PAPArus70 : suit. 525
+latraca17 : suit. 465
+*** FLOP *** [Qs Jc Qh]
+PAPArus70 : parole 
+latraca17 : parole 
+*** TOURNANT *** [Qs Jc Qh] [2s]
+PAPArus70 : parole 
+latraca17 : mise. 120
+PAPArus70 : suit. 120
+*** RIVIÈRE *** [Qs Jc Qh 2s] [5c]
+PAPArus70 : parole 
+latraca17 : mise. 240
+PAPArus70 : suit. 240
+*** ABATTAGE ***
+latraca17 : montre [7c Qc] (un brelan de Dames)
+PAPArus70 : cache la main perdante. 
+latraca17 a remporté 720  parallèle lors du pot .
+psychoman59 : cache la main perdante. 
+latraca17 a remporté 1815  principal lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 2535 Principal pot 1815. Parallèle pot 720. | Commission 0 
+Tableau [Qs Jc Qh 2s 5c]
+Siège 1 : latraca17 (grosse blind) a montré [7c Qc] et a gagné (2535) avec un brelan de Dames
+Siège 2 : psychoman59 a caché la main perdante. [Ad 5d]
+Siège 3 : goellette (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : PAPArus70 (petite blind) a caché la main perdante. [Ac 8d]
+
+
+

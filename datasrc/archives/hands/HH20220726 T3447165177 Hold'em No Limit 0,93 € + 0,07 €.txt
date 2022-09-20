@@ -1,0 +1,316 @@
+﻿Main PokerStars n°237606198405 : Tournoi #3447165177, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 23:05:19 CET [26/07/2022 17:05:19 ET]
+Table '3447165177 1' 3-max Siège #1 est au bouton.
+Place 1: al3737 (300 en jetons) 
+Place 2: NETITOU (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+NETITOU : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Tc]
+al3737 : passe. 
+NETITOU : relance. 40 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à NETITOU.
+NETITOU a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : al3737 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : NETITOU (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237606204264 : Tournoi #3447165177, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 23:05:34 CET [26/07/2022 17:05:34 ET]
+Table '3447165177 1' 3-max Siège #2 est au bouton.
+Place 1: al3737 (300 en jetons) 
+Place 2: NETITOU (320 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+al3737 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Qs]
+NETITOU : passe. 
+psychoman59 : suit. 10
+al3737 : parole 
+*** FLOP *** [9d Qc 5c]
+psychoman59 : parole 
+al3737 : parole 
+*** TOURNANT *** [9d Qc 5c] [Ad]
+psychoman59 : parole 
+al3737 : parole 
+*** RIVIÈRE *** [9d Qc 5c Ad] [8d]
+psychoman59 : parole 
+al3737 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7s Qs] (une paire de Dames)
+al3737 : cache la main perdante. 
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9d Qc 5c Ad 8d]
+Siège 1 : al3737 (grosse blind) a caché la main perdante. [3s 2c]
+Siège 2 : NETITOU (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [7s Qs] et a gagné (40) avec une paire de Dames
+
+
+
+Main PokerStars n°237606212373 : Tournoi #3447165177, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 23:05:53 CET [26/07/2022 17:05:53 ET]
+Table '3447165177 1' 3-max Siège #3 est au bouton.
+Place 1: al3737 (280 en jetons) 
+Place 2: NETITOU (320 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+al3737 : met la petite blind. 10
+NETITOU : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Jc]
+psychoman59 : passe. 
+al3737 : relance. 40 à 60
+NETITOU : relance. 260 à 320 et est all-in.
+al3737 : suit. 220 et est all-in.
+Personne n'a suivi. (40) sont retournés à NETITOU.
+*** FLOP *** [5d 4s 7d]
+*** TOURNANT *** [5d 4s 7d] [Jh]
+*** RIVIÈRE *** [5d 4s 7d Jh] [3h]
+*** ABATTAGE ***
+al3737 : montre [As 2s] (une suite, As à Cinq)
+NETITOU : montre [5c 5s] (un brelan de Cinq)
+al3737 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [5d 4s 7d Jh 3h]
+Siège 1 : al3737 (petite blind) a montré [As 2s] et a gagné (560) avec une suite, As à Cinq
+Siège 2 : NETITOU (grosse blind) a montré [5c 5s] et a perdu avec un brelan de Cinq
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237606222921 : Tournoi #3447165177, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2022 23:06:19 CET [26/07/2022 17:06:19 ET]
+Table '3447165177 1' 3-max Siège #1 est au bouton.
+Place 1: al3737 (560 en jetons) 
+Place 2: NETITOU (40 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+NETITOU : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ks]
+al3737 : passe. 
+NETITOU : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : al3737 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : NETITOU (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237606226708 : Tournoi #3447165177, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/07/2022 23:06:28 CET [26/07/2022 17:06:28 ET]
+Table '3447165177 1' 3-max Siège #2 est au bouton.
+Place 1: al3737 (560 en jetons) 
+Place 2: NETITOU (30 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 15
+al3737 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 3s]
+NETITOU : suit. 30 et est all-in.
+psychoman59 : passe. 
+*** FLOP *** [9s 5h Qs]
+*** TOURNANT *** [9s 5h Qs] [2c]
+*** RIVIÈRE *** [9s 5h Qs 2c] [6h]
+*** ABATTAGE ***
+al3737 : montre [5d 4h] (une paire de Cinq)
+NETITOU : montre [7d Kd] (Hauteur Roi)
+al3737 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [9s 5h Qs 2c 6h]
+Siège 1 : al3737 (grosse blind) a montré [5d 4h] et a gagné (75) avec une paire de Cinq
+Siège 2 : NETITOU (bouton) a montré [7d Kd] et a perdu avec Hauteur Roi
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237606233582 : Tournoi #3447165177, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/07/2022 23:06:45 CET [26/07/2022 17:06:45 ET]
+Table '3447165177 1' 3-max Siège #1 est au bouton.
+Place 1: al3737 (605 en jetons) 
+Place 3: psychoman59 (295 en jetons) 
+al3737 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8s]
+al3737 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [7d Ts Js]
+psychoman59 : parole 
+al3737 : parole 
+*** TOURNANT *** [7d Ts Js] [9h]
+psychoman59 : parole 
+al3737 : parole 
+*** RIVIÈRE *** [7d Ts Js 9h] [Ad]
+psychoman59 : mise. 30
+al3737 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7d Ts Js 9h Ad]
+Siège 1 : al3737 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237606242650 : Tournoi #3447165177, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/07/2022 23:07:07 CET [26/07/2022 17:07:07 ET]
+Table '3447165177 1' 3-max Siège #3 est au bouton.
+Place 1: al3737 (575 en jetons) 
+Place 3: psychoman59 (325 en jetons) 
+psychoman59 : met la petite blind. 15
+al3737 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 8c]
+psychoman59 : suit. 15
+al3737 : relance. 60 à 90
+psychoman59 : suit. 60
+*** FLOP *** [Ac 7s Ts]
+al3737 : mise. 180
+psychoman59 : passe. 
+Personne n'a suivi. (180) sont retournés à al3737.
+al3737 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Ac 7s Ts]
+Siège 1 : al3737 (grosse blind) a remporté (180)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237606250461 : Tournoi #3447165177, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 23:07:27 CET [26/07/2022 17:07:27 ET]
+Table '3447165177 1' 3-max Siège #1 est au bouton.
+Place 1: al3737 (665 en jetons) 
+Place 3: psychoman59 (235 en jetons) 
+al3737 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 2d]
+al3737 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : al3737 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237606252304 : Tournoi #3447165177, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 23:07:31 CET [26/07/2022 17:07:31 ET]
+Table '3447165177 1' 3-max Siège #3 est au bouton.
+Place 1: al3737 (645 en jetons) 
+Place 3: psychoman59 (255 en jetons) 
+psychoman59 : met la petite blind. 20
+al3737 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 2c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à al3737.
+al3737 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : al3737 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237606254462 : Tournoi #3447165177, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 23:07:36 CET [26/07/2022 17:07:36 ET]
+Table '3447165177 1' 3-max Siège #1 est au bouton.
+Place 1: al3737 (665 en jetons) 
+Place 3: psychoman59 (235 en jetons) 
+al3737 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 8d]
+al3737 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Ks Qc 7d]
+psychoman59 : parole 
+al3737 : mise. 40
+psychoman59 : relance. 80 à 120
+al3737 : relance. 80 à 200
+psychoman59 : suit. 75 et est all-in.
+Personne n'a suivi. (5) sont retournés à al3737.
+*** TOURNANT *** [Ks Qc 7d] [9s]
+*** RIVIÈRE *** [Ks Qc 7d 9s] [Ac]
+*** ABATTAGE ***
+psychoman59 : montre [Kc 8d] (une paire de Rois)
+al3737 : montre [5d Qd] (une paire de Dames)
+psychoman59 a remporté 470  lors du pot .
+*** SYNTHÈSE ***
+Pot total 470 | Commission 0 
+Tableau [Ks Qc 7d 9s Ac]
+Siège 1 : al3737 (bouton) (petite blind) a montré [5d Qd] et a perdu avec une paire de Dames
+Siège 3 : psychoman59 (grosse blind) a montré [Kc 8d] et a gagné (470) avec une paire de Rois
+
+
+
+Main PokerStars n°237606264403 : Tournoi #3447165177, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 23:08:01 CET [26/07/2022 17:08:01 ET]
+Table '3447165177 1' 3-max Siège #3 est au bouton.
+Place 1: al3737 (430 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+psychoman59 : met la petite blind. 20
+al3737 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à al3737.
+al3737 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : al3737 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237606266424 : Tournoi #3447165177, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 23:08:06 CET [26/07/2022 17:08:06 ET]
+Table '3447165177 1' 3-max Siège #1 est au bouton.
+Place 1: al3737 (450 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+al3737 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 8s]
+al3737 : relance. 410 à 450 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (410) sont retournés à al3737.
+al3737 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : al3737 (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237606269181 : Tournoi #3447165177, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/07/2022 23:08:12 CET [26/07/2022 17:08:12 ET]
+Table '3447165177 1' 3-max Siège #3 est au bouton.
+Place 1: al3737 (490 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+psychoman59 : met la petite blind. 20
+al3737 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d As]
+psychoman59 : relance. 370 à 410 et est all-in.
+al3737 : suit. 370
+*** FLOP *** [Th Ks 8s]
+*** TOURNANT *** [Th Ks 8s] [6s]
+*** RIVIÈRE *** [Th Ks 8s 6s] [9h]
+*** ABATTAGE ***
+al3737 : montre [Ts 9s] (une couleur, hauteur Roi)
+psychoman59 : montre [5d As] (Hauteur As)
+al3737 a remporté 820  lors du pot .
+*** SYNTHÈSE ***
+Pot total 820 | Commission 0 
+Tableau [Th Ks 8s 6s 9h]
+Siège 1 : al3737 (grosse blind) a montré [Ts 9s] et a gagné (820) avec une couleur, hauteur Roi
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [5d As] et a perdu avec Hauteur As
+
+
+

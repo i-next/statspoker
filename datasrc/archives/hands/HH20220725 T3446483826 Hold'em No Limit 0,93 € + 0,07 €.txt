@@ -1,0 +1,744 @@
+﻿Main PokerStars n°237576303031 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 16:15:17 CET [25/07/2022 10:15:17 ET]
+Table '3446483826 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: castrescarole11 (300 en jetons) 
+Place 3: hei-hei.987 (300 en jetons) 
+castrescarole11 : met la petite blind. 10
+hei-hei.987 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 9h]
+psychoman59 : passe. 
+castrescarole11 : suit. 10
+hei-hei.987 : parole 
+*** FLOP *** [8c 2s 8s]
+castrescarole11 : parole 
+hei-hei.987 : parole 
+*** TOURNANT *** [8c 2s 8s] [2h]
+castrescarole11 : parole 
+hei-hei.987 : parole 
+*** RIVIÈRE *** [8c 2s 8s 2h] [5s]
+castrescarole11 : mise. 20
+hei-hei.987 : relance. 20 à 40
+castrescarole11 : relance. 20 à 60
+hei-hei.987 : relance. 20 à 80
+castrescarole11 : relance. 20 à 100
+hei-hei.987 : suit. 20
+*** ABATTAGE ***
+castrescarole11 : montre [5d Qd] (double paire, Huit et Cinq)
+hei-hei.987 : montre [9s Js] (une couleur, hauteur Valet)
+hei-hei.987 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [8c 2s 8s 2h 5s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : castrescarole11 (petite blind) a montré [5d Qd] et a perdu avec double paire, Huit et Cinq
+Siège 3 : hei-hei.987 (grosse blind) a montré [9s Js] et a gagné (240) avec une couleur, hauteur Valet
+
+
+
+Main PokerStars n°237576310894 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 16:15:48 CET [25/07/2022 10:15:48 ET]
+Table '3446483826 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: castrescarole11 (180 en jetons) 
+Place 3: hei-hei.987 (420 en jetons) 
+hei-hei.987 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 9c]
+castrescarole11 : relance. 160 à 180 et est all-in.
+hei-hei.987 : passe. 
+psychoman59 : suit. 160
+*** FLOP *** [9s 6s 7h]
+*** TOURNANT *** [9s 6s 7h] [Js]
+*** RIVIÈRE *** [9s 6s 7h Js] [Jc]
+*** ABATTAGE ***
+psychoman59 : montre [As 9c] (double paire, Valets et Neuf)
+castrescarole11 : montre [4c 2c] (une paire de Valets)
+psychoman59 a remporté 370  lors du pot .
+*** SYNTHÈSE ***
+Pot total 370 | Commission 0 
+Tableau [9s 6s 7h Js Jc]
+Siège 1 : psychoman59 (grosse blind) a montré [As 9c] et a gagné (370) avec double paire, Valets et Neuf
+Siège 2 : castrescarole11 (bouton) a montré [4c 2c] et a perdu avec une paire de Valets
+Siège 3 : hei-hei.987 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237576315941 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 16:16:08 CET [25/07/2022 10:16:08 ET]
+Table '3446483826 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (490 en jetons) 
+Place 3: hei-hei.987 (410 en jetons) 
+psychoman59 : met la petite blind. 10
+hei-hei.987 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 4d]
+psychoman59 : relance. 470 à 490 et est all-in.
+hei-hei.987 : passe. 
+Personne n'a suivi. (470) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (40)
+Siège 3 : hei-hei.987 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237576319554 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 16:16:23 CET [25/07/2022 10:16:23 ET]
+Table '3446483826 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (510 en jetons) 
+Place 3: hei-hei.987 (390 en jetons) 
+hei-hei.987 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 7h]
+hei-hei.987 : relance. 60 à 90
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à hei-hei.987.
+hei-hei.987 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : hei-hei.987 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237576322736 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 16:16:36 CET [25/07/2022 10:16:36 ET]
+Table '3446483826 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 3: hei-hei.987 (420 en jetons) 
+psychoman59 : met la petite blind. 15
+hei-hei.987 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Tc]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à hei-hei.987.
+hei-hei.987 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : hei-hei.987 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237576324322 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 16:16:42 CET [25/07/2022 10:16:42 ET]
+Table '3446483826 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (465 en jetons) 
+Place 3: hei-hei.987 (435 en jetons) 
+hei-hei.987 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 7c]
+hei-hei.987 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ks 6d 5h]
+psychoman59 : mise. 60
+hei-hei.987 : suit. 60
+*** TOURNANT *** [Ks 6d 5h] [Th]
+psychoman59 : parole 
+hei-hei.987 : parole 
+*** RIVIÈRE *** [Ks 6d 5h Th] [9s]
+psychoman59 : parole 
+hei-hei.987 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [2h 7c] (Hauteur Roi)
+hei-hei.987 : montre [5s 7d] (une paire de Cinq)
+hei-hei.987 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Ks 6d 5h Th 9s]
+Siège 1 : psychoman59 (grosse blind) a montré [2h 7c] et a perdu avec Hauteur Roi
+Siège 3 : hei-hei.987 (bouton) (petite blind) a montré [5s 7d] et a gagné (180) avec une paire de Cinq
+
+
+
+Main PokerStars n°237576337222 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 25/07/2022 16:17:33 CET [25/07/2022 10:17:33 ET]
+Table '3446483826 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (375 en jetons) 
+Place 3: hei-hei.987 (525 en jetons) 
+psychoman59 : met la petite blind. 20
+hei-hei.987 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Tc]
+psychoman59 : relance. 335 à 375 et est all-in.
+hei-hei.987 : suit. 335
+*** FLOP *** [7s 9s 6s]
+*** TOURNANT *** [7s 9s 6s] [8d]
+*** RIVIÈRE *** [7s 9s 6s 8d] [Jc]
+*** ABATTAGE ***
+hei-hei.987 : montre [Ad 5c] (une suite, Cinq à Neuf)
+psychoman59 : montre [Ks Tc] (une suite, Sept à Valet)
+psychoman59 a remporté 750  lors du pot .
+*** SYNTHÈSE ***
+Pot total 750 | Commission 0 
+Tableau [7s 9s 6s 8d Jc]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Ks Tc] et a gagné (750) avec une suite, Sept à Valet
+Siège 3 : hei-hei.987 (grosse blind) a montré [Ad 5c] et a perdu avec une suite, Cinq à Neuf
+
+
+
+Main PokerStars n°237576340735 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 25/07/2022 16:17:47 CET [25/07/2022 10:17:47 ET]
+Table '3446483826 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (750 en jetons) 
+Place 3: hei-hei.987 (150 en jetons) 
+hei-hei.987 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 5h]
+hei-hei.987 : relance. 110 à 150 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (110) sont retournés à hei-hei.987.
+hei-hei.987 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : hei-hei.987 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237576351259 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 25/07/2022 16:18:10 CET [25/07/2022 10:18:10 ET]
+Table '3446483826 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (710 en jetons) 
+Place 3: hei-hei.987 (190 en jetons) 
+psychoman59 : met la petite blind. 20
+hei-hei.987 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à hei-hei.987.
+hei-hei.987 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : hei-hei.987 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237576352449 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 25/07/2022 16:18:15 CET [25/07/2022 10:18:15 ET]
+Table '3446483826 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (690 en jetons) 
+Place 3: hei-hei.987 (210 en jetons) 
+hei-hei.987 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Qc]
+hei-hei.987 : relance. 170 à 210 et est all-in.
+psychoman59 : suit. 170
+*** FLOP *** [8d 6d 7s]
+*** TOURNANT *** [8d 6d 7s] [As]
+*** RIVIÈRE *** [8d 6d 7s As] [9s]
+*** ABATTAGE ***
+psychoman59 : montre [9c Qc] (une paire de Neuf)
+hei-hei.987 : montre [Ac 5c] (une suite, Cinq à Neuf)
+hei-hei.987 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [8d 6d 7s As 9s]
+Siège 1 : psychoman59 (grosse blind) a montré [9c Qc] et a perdu avec une paire de Neuf
+Siège 3 : hei-hei.987 (bouton) (petite blind) a montré [Ac 5c] et a gagné (420) avec une suite, Cinq à Neuf
+
+
+
+Main PokerStars n°237576359172 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 25/07/2022 16:18:42 CET [25/07/2022 10:18:42 ET]
+Table '3446483826 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 3: hei-hei.987 (420 en jetons) 
+psychoman59 : met la petite blind. 30
+hei-hei.987 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à hei-hei.987.
+hei-hei.987 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : hei-hei.987 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237576360567 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 25/07/2022 16:18:47 CET [25/07/2022 10:18:47 ET]
+Table '3446483826 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 3: hei-hei.987 (450 en jetons) 
+hei-hei.987 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 2s]
+hei-hei.987 : relance. 390 à 450 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (390) sont retournés à hei-hei.987.
+hei-hei.987 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : hei-hei.987 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237576363669 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 25/07/2022 16:18:59 CET [25/07/2022 10:18:59 ET]
+Table '3446483826 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (390 en jetons) 
+Place 3: hei-hei.987 (510 en jetons) 
+psychoman59 : met la petite blind. 30
+hei-hei.987 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à hei-hei.987.
+hei-hei.987 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : hei-hei.987 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237576365121 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 25/07/2022 16:19:05 CET [25/07/2022 10:19:05 ET]
+Table '3446483826 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (360 en jetons) 
+Place 3: hei-hei.987 (540 en jetons) 
+hei-hei.987 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 6s]
+hei-hei.987 : relance. 120 à 180
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à hei-hei.987.
+hei-hei.987 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : hei-hei.987 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237576367746 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 25/07/2022 16:19:16 CET [25/07/2022 10:19:16 ET]
+Table '3446483826 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 3: hei-hei.987 (600 en jetons) 
+psychoman59 : met la petite blind. 30
+hei-hei.987 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à hei-hei.987.
+hei-hei.987 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : hei-hei.987 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237576369589 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 25/07/2022 16:19:23 CET [25/07/2022 10:19:23 ET]
+Table '3446483826 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 3: hei-hei.987 (630 en jetons) 
+hei-hei.987 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 7h]
+hei-hei.987 : suit. 40
+psychoman59 : relance. 190 à 270 et est all-in.
+hei-hei.987 : passe. 
+Personne n'a suivi. (190) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (160)
+Siège 3 : hei-hei.987 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237576373631 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 25/07/2022 16:19:38 CET [25/07/2022 10:19:38 ET]
+Table '3446483826 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (350 en jetons) 
+Place 3: hei-hei.987 (550 en jetons) 
+psychoman59 : met la petite blind. 40
+hei-hei.987 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Jc]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à hei-hei.987.
+hei-hei.987 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : hei-hei.987 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237576374984 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 25/07/2022 16:19:44 CET [25/07/2022 10:19:44 ET]
+Table '3446483826 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 3: hei-hei.987 (590 en jetons) 
+hei-hei.987 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 8h]
+hei-hei.987 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : hei-hei.987 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237576376501 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 25/07/2022 16:19:50 CET [25/07/2022 10:19:50 ET]
+Table '3446483826 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (350 en jetons) 
+Place 3: hei-hei.987 (550 en jetons) 
+psychoman59 : met la petite blind. 40
+hei-hei.987 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à hei-hei.987.
+hei-hei.987 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : hei-hei.987 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237576377743 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 25/07/2022 16:19:55 CET [25/07/2022 10:19:55 ET]
+Table '3446483826 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 3: hei-hei.987 (590 en jetons) 
+hei-hei.987 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ac]
+hei-hei.987 : relance. 160 à 240
+psychoman59 : relance. 70 à 310 et est all-in.
+hei-hei.987 : suit. 70
+*** FLOP *** [9h 6d Jd]
+*** TOURNANT *** [9h 6d Jd] [6h]
+*** RIVIÈRE *** [9h 6d Jd 6h] [3h]
+*** ABATTAGE ***
+psychoman59 : montre [7c Ac] (une paire de Six)
+hei-hei.987 : montre [Ts Kc] (une paire de Six - plus basse kicker)
+psychoman59 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [9h 6d Jd 6h 3h]
+Siège 1 : psychoman59 (grosse blind) a montré [7c Ac] et a gagné (620) avec une paire de Six
+Siège 3 : hei-hei.987 (bouton) (petite blind) a montré [Ts Kc] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°237576382707 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 25/07/2022 16:20:14 CET [25/07/2022 10:20:14 ET]
+Table '3446483826 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (620 en jetons) 
+Place 3: hei-hei.987 (280 en jetons) 
+psychoman59 : met la petite blind. 40
+hei-hei.987 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Th]
+psychoman59 : relance. 160 à 240
+hei-hei.987 : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 3 : hei-hei.987 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237576385870 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 25/07/2022 16:20:27 CET [25/07/2022 10:20:27 ET]
+Table '3446483826 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (700 en jetons) 
+Place 3: hei-hei.987 (200 en jetons) 
+hei-hei.987 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Ad]
+hei-hei.987 : relance. 100 à 200 et est all-in.
+psychoman59 : suit. 100
+*** FLOP *** [2c 5c 8d]
+*** TOURNANT *** [2c 5c 8d] [7c]
+*** RIVIÈRE *** [2c 5c 8d 7c] [4h]
+*** ABATTAGE ***
+psychoman59 : montre [4d Ad] (une paire de Quatre)
+hei-hei.987 : montre [Tc Th] (une paire de Dix)
+hei-hei.987 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [2c 5c 8d 7c 4h]
+Siège 1 : psychoman59 (grosse blind) a montré [4d Ad] et a perdu avec une paire de Quatre
+Siège 3 : hei-hei.987 (bouton) (petite blind) a montré [Tc Th] et a gagné (400) avec une paire de Dix
+
+
+
+Main PokerStars n°237576390237 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 25/07/2022 16:20:44 CET [25/07/2022 10:20:44 ET]
+Table '3446483826 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 3: hei-hei.987 (400 en jetons) 
+psychoman59 : met la petite blind. 50
+hei-hei.987 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à hei-hei.987.
+hei-hei.987 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : hei-hei.987 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°237576391344 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 25/07/2022 16:20:48 CET [25/07/2022 10:20:48 ET]
+Table '3446483826 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 3: hei-hei.987 (450 en jetons) 
+hei-hei.987 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Kc]
+hei-hei.987 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (100)
+Siège 3 : hei-hei.987 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237576392627 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 25/07/2022 16:20:53 CET [25/07/2022 10:20:53 ET]
+Table '3446483826 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 3: hei-hei.987 (400 en jetons) 
+psychoman59 : met la petite blind. 50
+hei-hei.987 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Jh]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à hei-hei.987.
+hei-hei.987 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : hei-hei.987 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°237576393774 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 25/07/2022 16:20:58 CET [25/07/2022 10:20:58 ET]
+Table '3446483826 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 3: hei-hei.987 (450 en jetons) 
+hei-hei.987 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Js]
+hei-hei.987 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (100)
+Siège 3 : hei-hei.987 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237576395702 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 25/07/2022 16:21:05 CET [25/07/2022 10:21:05 ET]
+Table '3446483826 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 3: hei-hei.987 (400 en jetons) 
+psychoman59 : met la petite blind. 50
+hei-hei.987 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à hei-hei.987.
+hei-hei.987 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : hei-hei.987 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°237576396759 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 25/07/2022 16:21:10 CET [25/07/2022 10:21:10 ET]
+Table '3446483826 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 3: hei-hei.987 (450 en jetons) 
+hei-hei.987 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Jc]
+hei-hei.987 : relance. 350 à 450 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (350) sont retournés à hei-hei.987.
+hei-hei.987 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : hei-hei.987 (bouton) (petite blind) a remporté (200)
+
+
+
+Main PokerStars n°237576398757 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 25/07/2022 16:21:18 CET [25/07/2022 10:21:18 ET]
+Table '3446483826 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (350 en jetons) 
+Place 3: hei-hei.987 (550 en jetons) 
+psychoman59 : met la petite blind. 50
+hei-hei.987 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h As]
+psychoman59 : relance. 250 à 350 et est all-in.
+hei-hei.987 : suit. 250
+*** FLOP *** [7c 5d Tc]
+*** TOURNANT *** [7c 5d Tc] [Kh]
+*** RIVIÈRE *** [7c 5d Tc Kh] [8h]
+*** ABATTAGE ***
+hei-hei.987 : montre [9s Qd] (Hauteur Roi)
+psychoman59 : montre [6h As] (Hauteur As)
+psychoman59 a remporté 700  lors du pot .
+*** SYNTHÈSE ***
+Pot total 700 | Commission 0 
+Tableau [7c 5d Tc Kh 8h]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [6h As] et a gagné (700) avec Hauteur As
+Siège 3 : hei-hei.987 (grosse blind) a montré [9s Qd] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°237576403305 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 25/07/2022 16:21:35 CET [25/07/2022 10:21:35 ET]
+Table '3446483826 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (700 en jetons) 
+Place 3: hei-hei.987 (200 en jetons) 
+hei-hei.987 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 2h]
+hei-hei.987 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : hei-hei.987 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237576404803 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 25/07/2022 16:21:41 CET [25/07/2022 10:21:41 ET]
+Table '3446483826 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (760 en jetons) 
+Place 3: hei-hei.987 (140 en jetons) 
+psychoman59 : met la petite blind. 60
+hei-hei.987 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 8s]
+psychoman59 : relance. 120 à 240
+hei-hei.987 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (240)
+Siège 3 : hei-hei.987 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237576406603 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 25/07/2022 16:21:48 CET [25/07/2022 10:21:48 ET]
+Table '3446483826 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (880 en jetons) 
+Place 3: hei-hei.987 (20 en jetons) 
+hei-hei.987 : met la petite blind. 20 et est all-in.
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Qs]
+Personne n'a suivi. (100) sont retournés à psychoman59.
+*** FLOP *** [2s 9d 4c]
+*** TOURNANT *** [2s 9d 4c] [Jh]
+*** RIVIÈRE *** [2s 9d 4c Jh] [6c]
+*** ABATTAGE ***
+psychoman59 : montre [9s Qs] (une paire de Neuf)
+hei-hei.987 : montre [Jd 7c] (une paire de Valets)
+hei-hei.987 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2s 9d 4c Jh 6c]
+Siège 1 : psychoman59 (grosse blind) a montré [9s Qs] et a perdu avec une paire de Neuf
+Siège 3 : hei-hei.987 (bouton) (petite blind) a montré [Jd 7c] et a gagné (40) avec une paire de Valets
+
+
+
+Main PokerStars n°237576408725 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 25/07/2022 16:21:57 CET [25/07/2022 10:21:57 ET]
+Table '3446483826 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (860 en jetons) 
+Place 3: hei-hei.987 (40 en jetons) 
+psychoman59 : met la petite blind. 60
+hei-hei.987 : met la grosse blind. 40 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 5d]
+Personne n'a suivi. (20) sont retournés à psychoman59.
+*** FLOP *** [Kh Ks Qd]
+*** TOURNANT *** [Kh Ks Qd] [6h]
+*** RIVIÈRE *** [Kh Ks Qd 6h] [Qs]
+*** ABATTAGE ***
+hei-hei.987 : montre [2d 4d] (double paire, Rois et Dames)
+psychoman59 : montre [2c 5d] (double paire, Rois et Dames)
+hei-hei.987 a remporté 40  lors du pot .
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Kh Ks Qd 6h Qs]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [2c 5d] et a gagné (40) avec double paire, Rois et Dames
+Siège 3 : hei-hei.987 (grosse blind) a montré [2d 4d] et a gagné (40) avec double paire, Rois et Dames
+
+
+
+Main PokerStars n°237576410906 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 25/07/2022 16:22:05 CET [25/07/2022 10:22:05 ET]
+Table '3446483826 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (860 en jetons) 
+Place 3: hei-hei.987 (40 en jetons) 
+hei-hei.987 : met la petite blind. 40 et est all-in.
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 7h]
+Personne n'a suivi. (80) sont retournés à psychoman59.
+*** FLOP *** [Qs 5s 4c]
+*** TOURNANT *** [Qs 5s 4c] [5h]
+*** RIVIÈRE *** [Qs 5s 4c 5h] [Td]
+*** ABATTAGE ***
+psychoman59 : montre [Js 7h] (une paire de Cinq)
+hei-hei.987 : montre [Th 7s] (double paire, Dix et Cinq)
+hei-hei.987 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Qs 5s 4c 5h Td]
+Siège 1 : psychoman59 (grosse blind) a montré [Js 7h] et a perdu avec une paire de Cinq
+Siège 3 : hei-hei.987 (bouton) (petite blind) a montré [Th 7s] et a gagné (80) avec double paire, Dix et Cinq
+
+
+
+Main PokerStars n°237576413074 : Tournoi #3446483826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 25/07/2022 16:22:14 CET [25/07/2022 10:22:14 ET]
+Table '3446483826 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (820 en jetons) 
+Place 3: hei-hei.987 (80 en jetons) 
+psychoman59 : met la petite blind. 60
+hei-hei.987 : met la grosse blind. 80 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 9c]
+psychoman59 : suit. 20
+*** FLOP *** [Kh Kd 9s]
+*** TOURNANT *** [Kh Kd 9s] [4d]
+*** RIVIÈRE *** [Kh Kd 9s 4d] [As]
+*** ABATTAGE ***
+hei-hei.987 : montre [Ts 2c] (une paire de Rois)
+psychoman59 : montre [6d 9c] (double paire, Rois et Neuf)
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Kh Kd 9s 4d As]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [6d 9c] et a gagné (160) avec double paire, Rois et Neuf
+Siège 3 : hei-hei.987 (grosse blind) a montré [Ts 2c] et a perdu avec une paire de Rois
+
+
+

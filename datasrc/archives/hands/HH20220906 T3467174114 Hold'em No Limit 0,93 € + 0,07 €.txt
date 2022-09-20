@@ -1,0 +1,261 @@
+﻿Main PokerStars n°238450572850 : Tournoi #3467174114, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/09/2022 13:57:18 CET [06/09/2022 7:57:18 ET]
+Table '3467174114 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: cristal1947 (300 en jetons) 
+Place 3: antoto11120 (300 en jetons) 
+cristal1947 : met la petite blind. 10
+antoto11120 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 4c]
+psychoman59 : passe. 
+cristal1947 : suit. 10
+antoto11120 : relance. 20 à 40
+cristal1947 : suit. 20
+*** FLOP *** [4h 4s Tc]
+cristal1947 : parole 
+antoto11120 : mise. 80
+cristal1947 : suit. 80
+*** TOURNANT *** [4h 4s Tc] [Ac]
+cristal1947 : parole 
+antoto11120 : parole 
+*** RIVIÈRE *** [4h 4s Tc Ac] [5c]
+cristal1947 : parole 
+antoto11120 : mise. 140
+cristal1947 : suit. 140
+*** ABATTAGE ***
+antoto11120 : montre [9s 7d] (une paire de Quatre)
+cristal1947 : montre [Kc Ts] (double paire, Dix et Quatre)
+cristal1947 a remporté 520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [4h 4s Tc Ac 5c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : cristal1947 (petite blind) a montré [Kc Ts] et a gagné (520) avec double paire, Dix et Quatre
+Siège 3 : antoto11120 (grosse blind) a montré [9s 7d] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°238450577590 : Tournoi #3467174114, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/09/2022 13:57:46 CET [06/09/2022 7:57:46 ET]
+Table '3467174114 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: cristal1947 (560 en jetons) 
+Place 3: antoto11120 (40 en jetons) 
+antoto11120 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Qd]
+cristal1947 : suit. 20
+antoto11120 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9h Kh Ad]
+antoto11120 : mise. 20 et est all-in.
+psychoman59 : suit. 20
+cristal1947 : suit. 20
+*** TOURNANT *** [9h Kh Ad] [9s]
+psychoman59 : parole 
+cristal1947 : parole 
+*** RIVIÈRE *** [9h Kh Ad 9s] [Qc]
+psychoman59 : parole 
+cristal1947 : parole 
+*** ABATTAGE ***
+antoto11120 : montre [As Kc] (double paire, As et Rois)
+psychoman59 : cache la main perdante. 
+cristal1947 : cache la main perdante. 
+antoto11120 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9h Kh Ad 9s Qc]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [Jh Qd]
+Siège 2 : cristal1947 (bouton) a caché la main perdante. [6h 7h]
+Siège 3 : antoto11120 (petite blind) a montré [As Kc] et a gagné (120) avec double paire, As et Rois
+
+
+
+Main PokerStars n°238450583289 : Tournoi #3467174114, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/09/2022 13:58:19 CET [06/09/2022 7:58:19 ET]
+Table '3467174114 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: cristal1947 (520 en jetons) 
+Place 3: antoto11120 (120 en jetons) 
+psychoman59 : met la petite blind. 10
+cristal1947 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 5s]
+antoto11120 : relance. 20 à 40
+psychoman59 : passe. 
+cristal1947 : suit. 20
+*** FLOP *** [8s 2s 4s]
+cristal1947 : parole 
+antoto11120 : mise. 80 et est all-in.
+cristal1947 : passe. 
+Personne n'a suivi. (80) sont retournés à antoto11120.
+antoto11120 a remporté 90  lors du pot .
+antoto11120 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [8s 2s 4s]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : cristal1947 (grosse blind) s'est couché. sur le Flop
+Siège 3 : antoto11120 (bouton) a remporté (90)
+
+
+
+Main PokerStars n°238450588046 : Tournoi #3467174114, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 06/09/2022 13:58:46 CET [06/09/2022 7:58:46 ET]
+Table '3467174114 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 2: cristal1947 (480 en jetons) 
+Place 3: antoto11120 (170 en jetons) 
+cristal1947 : met la petite blind. 15
+antoto11120 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 9h]
+psychoman59 : suit. 30
+cristal1947 : suit. 15
+antoto11120 : relance. 140 à 170 et est all-in.
+psychoman59 : passe. 
+cristal1947 : passe. 
+Personne n'a suivi. (140) sont retournés à antoto11120.
+antoto11120 a remporté 90  lors du pot .
+antoto11120 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : cristal1947 (petite blind) s'est couché. avant Flop
+Siège 3 : antoto11120 (grosse blind) a remporté (90)
+
+
+
+Main PokerStars n°238450593415 : Tournoi #3467174114, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 06/09/2022 13:59:17 CET [06/09/2022 7:59:17 ET]
+Table '3467174114 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (220 en jetons) 
+Place 2: cristal1947 (450 en jetons) 
+Place 3: antoto11120 (230 en jetons) 
+antoto11120 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Qh]
+cristal1947 : passe. 
+antoto11120 : relance. 200 à 230 et est all-in.
+psychoman59 : suit. 190 et est all-in.
+Personne n'a suivi. (10) sont retournés à antoto11120.
+*** FLOP *** [Kc Td 6c]
+*** TOURNANT *** [Kc Td 6c] [4s]
+*** RIVIÈRE *** [Kc Td 6c 4s] [5c]
+*** ABATTAGE ***
+antoto11120 : montre [3s As] (Hauteur As)
+psychoman59 : montre [Th Qh] (une paire de Dix)
+psychoman59 a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [Kc Td 6c 4s 5c]
+Siège 1 : psychoman59 (grosse blind) a montré [Th Qh] et a gagné (440) avec une paire de Dix
+Siège 2 : cristal1947 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : antoto11120 (petite blind) a montré [3s As] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°238450597107 : Tournoi #3467174114, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 06/09/2022 13:59:38 CET [06/09/2022 7:59:38 ET]
+Table '3467174114 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 2: cristal1947 (450 en jetons) 
+Place 3: antoto11120 (10 en jetons) 
+psychoman59 : met la petite blind. 20
+cristal1947 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 5d]
+antoto11120 : suit. 10 et est all-in.
+psychoman59 : suit. 20
+cristal1947 : parole 
+*** FLOP *** [Jc 6d As]
+psychoman59 : mise. 45
+cristal1947 : passe. 
+Personne n'a suivi. (45) sont retournés à psychoman59.
+*** TOURNANT *** [Jc 6d As] [8d]
+*** RIVIÈRE *** [Jc 6d As 8d] [8c]
+*** ABATTAGE ***
+psychoman59 : montre [Jh 5d] (double paire, Valets et Huit)
+psychoman59 a remporté 60  parallèle lors du pot .
+antoto11120 : montre [7s 3h] (une paire de Huit)
+psychoman59 a remporté 30  principal lors du pot .
+antoto11120 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 90 Principal pot 30. Parallèle pot 60. | Commission 0 
+Tableau [Jc 6d As 8d 8c]
+Siège 1 : psychoman59 (petite blind) a montré [Jh 5d] et a gagné (90) avec double paire, Valets et Huit
+Siège 2 : cristal1947 (grosse blind) s'est couché. sur le Flop
+Siège 3 : antoto11120 (bouton) a montré [7s 3h] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°238450601632 : Tournoi #3467174114, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 06/09/2022 14:00:04 CET [06/09/2022 8:00:04 ET]
+Table '3467174114 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (490 en jetons) 
+Place 2: cristal1947 (410 en jetons) 
+cristal1947 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 7s]
+cristal1947 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [2c 3s 9s]
+psychoman59 : parole 
+cristal1947 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à cristal1947.
+cristal1947 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2c 3s 9s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : cristal1947 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°238450605130 : Tournoi #3467174114, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/09/2022 14:00:24 CET [06/09/2022 8:00:24 ET]
+Table '3467174114 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 2: cristal1947 (450 en jetons) 
+psychoman59 : met la petite blind. 30
+cristal1947 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à cristal1947.
+cristal1947 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : cristal1947 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°238450606132 : Tournoi #3467174114, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/09/2022 14:00:29 CET [06/09/2022 8:00:29 ET]
+Table '3467174114 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: cristal1947 (480 en jetons) 
+cristal1947 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 9h]
+cristal1947 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [5h 6d 6c]
+psychoman59 : parole 
+cristal1947 : mise. 60
+psychoman59 : relance. 300 à 360 et est all-in.
+cristal1947 : suit. 300
+*** TOURNANT *** [5h 6d 6c] [8s]
+*** RIVIÈRE *** [5h 6d 6c 8s] [5s]
+*** ABATTAGE ***
+psychoman59 : montre [8d 9h] (double paire, Huit et Six)
+cristal1947 : montre [Jd 5c] (un full, full aux Cinq par les Six)
+cristal1947 a remporté 840  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+cristal1947 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [5h 6d 6c 8s 5s]
+Siège 1 : psychoman59 (grosse blind) a montré [8d 9h] et a perdu avec double paire, Huit et Six
+Siège 2 : cristal1947 (bouton) (petite blind) a montré [Jd 5c] et a gagné (840) avec un full, full aux Cinq par les Six
+
+
+

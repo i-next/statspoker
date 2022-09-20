@@ -1,0 +1,731 @@
+﻿Main PokerStars n°237449927180 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 7:52:09 CET [19/07/2022 1:52:09 ET]
+Table '3443570275 1' 3-max Siège #1 est au bouton.
+Place 1: sébastien21 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: juliettebm (300 en jetons) 
+psychoman59 : met la petite blind. 10
+juliettebm : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Kd]
+sébastien21 : suit. 20
+psychoman59 : suit. 10
+juliettebm : parole 
+*** FLOP *** [Jd 2d 2c]
+psychoman59 : parole 
+juliettebm : parole 
+sébastien21 : parole 
+*** TOURNANT *** [Jd 2d 2c] [7c]
+psychoman59 : parole 
+juliettebm : parole 
+sébastien21 : parole 
+*** RIVIÈRE *** [Jd 2d 2c 7c] [2h]
+psychoman59 : mise. 20
+juliettebm : passe. 
+sébastien21 : suit. 20
+*** ABATTAGE ***
+psychoman59 : montre [7d Kd] (un full, full aux Deux par les Sept)
+sébastien21 : cache la main perdante. 
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [Jd 2d 2c 7c 2h]
+Siège 1 : sébastien21 (bouton) a caché la main perdante. [Ad Th]
+Siège 2 : psychoman59 (petite blind) a montré [7d Kd] et a gagné (100) avec un full, full aux Deux par les Sept
+Siège 3 : juliettebm (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237449931923 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2022 7:52:56 CET [19/07/2022 1:52:56 ET]
+Table '3443570275 1' 3-max Siège #2 est au bouton.
+Place 1: sébastien21 (260 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+Place 3: juliettebm (280 en jetons) 
+juliettebm : met la petite blind. 10
+sébastien21 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Jh]
+psychoman59 : passe. 
+juliettebm : suit. 10
+sébastien21 : parole 
+*** FLOP *** [2h 9h Jc]
+juliettebm : parole 
+sébastien21 : parole 
+*** TOURNANT *** [2h 9h Jc] [4h]
+juliettebm : mise. 40
+sébastien21 : suit. 40
+*** RIVIÈRE *** [2h 9h Jc 4h] [Ac]
+juliettebm : mise. 20
+sébastien21 : passe. 
+Personne n'a suivi. (20) sont retournés à juliettebm.
+juliettebm a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2h 9h Jc 4h Ac]
+Siège 1 : sébastien21 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : juliettebm (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237449943290 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 7:53:37 CET [19/07/2022 1:53:37 ET]
+Table '3443570275 1' 3-max Siège #3 est au bouton.
+Place 1: sébastien21 (200 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+Place 3: juliettebm (340 en jetons) 
+sébastien21 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ac]
+juliettebm : suit. 30
+sébastien21 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Kh Jh 8s]
+psychoman59 : parole 
+juliettebm : parole 
+*** TOURNANT *** [Kh Jh 8s] [2c]
+psychoman59 : parole 
+juliettebm : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [Kh Jh 8s 2c] [Jc]
+psychoman59 : parole 
+juliettebm : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à juliettebm.
+juliettebm a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [Kh Jh 8s 2c Jc]
+Siège 1 : sébastien21 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : juliettebm (bouton) a remporté (135)
+
+
+
+Main PokerStars n°237449945964 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/07/2022 7:54:03 CET [19/07/2022 1:54:03 ET]
+Table '3443570275 1' 3-max Siège #1 est au bouton.
+Place 1: sébastien21 (185 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: juliettebm (415 en jetons) 
+psychoman59 : met la petite blind. 15
+juliettebm : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Kc]
+sébastien21 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à juliettebm.
+juliettebm a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : sébastien21 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : juliettebm (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237449947389 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 7:54:17 CET [19/07/2022 1:54:17 ET]
+Table '3443570275 1' 3-max Siège #2 est au bouton.
+Place 1: sébastien21 (185 en jetons) 
+Place 2: psychoman59 (285 en jetons) 
+Place 3: juliettebm (430 en jetons) 
+juliettebm : met la petite blind. 20
+sébastien21 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Qs]
+psychoman59 : relance. 80 à 120
+juliettebm : passe. 
+sébastien21 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : sébastien21 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (100)
+Siège 3 : juliettebm (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237449948567 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 7:54:28 CET [19/07/2022 1:54:28 ET]
+Table '3443570275 1' 3-max Siège #3 est au bouton.
+Place 1: sébastien21 (145 en jetons) 
+Place 2: psychoman59 (345 en jetons) 
+Place 3: juliettebm (410 en jetons) 
+sébastien21 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 5h]
+juliettebm : passe. 
+sébastien21 : relance. 105 à 145 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (105) sont retournés à sébastien21.
+sébastien21 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : sébastien21 (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : juliettebm (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237449949763 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 7:54:40 CET [19/07/2022 1:54:40 ET]
+Table '3443570275 1' 3-max Siège #1 est au bouton.
+Place 1: sébastien21 (185 en jetons) 
+Place 2: psychoman59 (305 en jetons) 
+Place 3: juliettebm (410 en jetons) 
+psychoman59 : met la petite blind. 20
+juliettebm : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 7s]
+sébastien21 : relance. 145 à 185 et est all-in.
+psychoman59 : passe. 
+juliettebm : suit. 145
+*** FLOP *** [2h 4s Qc]
+*** TOURNANT *** [2h 4s Qc] [Qd]
+*** RIVIÈRE *** [2h 4s Qc Qd] [Jd]
+*** ABATTAGE ***
+juliettebm : montre [8d 5h] (une paire de Dames)
+sébastien21 : montre [Qh Kc] (un brelan de Dames)
+sébastien21 a remporté 390  lors du pot .
+*** SYNTHÈSE ***
+Pot total 390 | Commission 0 
+Tableau [2h 4s Qc Qd Jd]
+Siège 1 : sébastien21 (bouton) a montré [Qh Kc] et a gagné (390) avec un brelan de Dames
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : juliettebm (grosse blind) a montré [8d 5h] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°237449951582 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/07/2022 7:54:58 CET [19/07/2022 1:54:58 ET]
+Table '3443570275 1' 3-max Siège #2 est au bouton.
+Place 1: sébastien21 (390 en jetons) 
+Place 2: psychoman59 (285 en jetons) 
+Place 3: juliettebm (225 en jetons) 
+juliettebm : met la petite blind. 20
+sébastien21 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 3d]
+psychoman59 : passe. 
+juliettebm : suit. 20
+sébastien21 : parole 
+*** FLOP *** [7h 6c 9c]
+juliettebm : parole 
+sébastien21 : mise. 40
+juliettebm : suit. 40
+*** TOURNANT *** [7h 6c 9c] [Jd]
+juliettebm : parole 
+sébastien21 : mise. 40
+juliettebm : suit. 40
+*** RIVIÈRE *** [7h 6c 9c Jd] [5d]
+juliettebm : parole 
+sébastien21 : mise. 40
+juliettebm : passe. 
+Personne n'a suivi. (40) sont retournés à sébastien21.
+sébastien21 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [7h 6c 9c Jd 5d]
+Siège 1 : sébastien21 (grosse blind) a remporté (240)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : juliettebm (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237449954199 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 7:55:26 CET [19/07/2022 1:55:26 ET]
+Table '3443570275 1' 3-max Siège #3 est au bouton.
+Place 1: sébastien21 (510 en jetons) 
+Place 2: psychoman59 (285 en jetons) 
+Place 3: juliettebm (105 en jetons) 
+sébastien21 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 7c]
+juliettebm : suit. 60
+sébastien21 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Qs 8c 5h]
+sébastien21 : parole 
+psychoman59 : parole 
+juliettebm : parole 
+*** TOURNANT *** [Qs 8c 5h] [Ks]
+sébastien21 : parole 
+psychoman59 : parole 
+juliettebm : parole 
+*** RIVIÈRE *** [Qs 8c 5h Ks] [5s]
+sébastien21 : parole 
+psychoman59 : parole 
+juliettebm : parole 
+*** ABATTAGE ***
+sébastien21 : montre [Ac 8d] (double paire, Huit et Cinq)
+psychoman59 : cache la main perdante. 
+juliettebm : cache la main perdante. 
+sébastien21 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Qs 8c 5h Ks 5s]
+Siège 1 : sébastien21 (petite blind) a montré [Ac 8d] et a gagné (180) avec double paire, Huit et Cinq
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [4d 7c]
+Siège 3 : juliettebm (bouton) a caché la main perdante. [6d 3h]
+
+
+
+Main PokerStars n°237449957623 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/07/2022 7:56:03 CET [19/07/2022 1:56:03 ET]
+Table '3443570275 1' 3-max Siège #1 est au bouton.
+Place 1: sébastien21 (630 en jetons) 
+Place 2: psychoman59 (225 en jetons) 
+Place 3: juliettebm (45 en jetons) 
+psychoman59 : met la petite blind. 30
+juliettebm : met la grosse blind. 45 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 5s]
+sébastien21 : passe. 
+psychoman59 : suit. 15
+*** FLOP *** [8d 3d Ks]
+*** TOURNANT *** [8d 3d Ks] [Th]
+*** RIVIÈRE *** [8d 3d Ks Th] [9h]
+*** ABATTAGE ***
+psychoman59 : montre [9d 5s] (une paire de Neuf)
+juliettebm : montre [Qh Tc] (une paire de Dix)
+juliettebm a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [8d 3d Ks Th 9h]
+Siège 1 : sébastien21 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [9d 5s] et a perdu avec une paire de Neuf
+Siège 3 : juliettebm (grosse blind) a montré [Qh Tc] et a gagné (90) avec une paire de Dix
+
+
+
+Main PokerStars n°237449959194 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 19/07/2022 7:56:20 CET [19/07/2022 1:56:20 ET]
+Table '3443570275 1' 3-max Siège #2 est au bouton.
+Place 1: sébastien21 (630 en jetons) 
+Place 2: psychoman59 (180 en jetons) 
+Place 3: juliettebm (90 en jetons) 
+juliettebm : met la petite blind. 40
+sébastien21 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Jh]
+psychoman59 : relance. 100 à 180 et est all-in.
+juliettebm : suit. 50 et est all-in.
+sébastien21 : suit. 100
+*** FLOP *** [Js 4c Kd]
+*** TOURNANT *** [Js 4c Kd] [Td]
+*** RIVIÈRE *** [Js 4c Kd Td] [2c]
+*** ABATTAGE ***
+sébastien21 : montre [6h 6d] (une paire de Six)
+psychoman59 : montre [Tc Jh] (double paire, Valets et Dix)
+psychoman59 a remporté 180  parallèle lors du pot .
+juliettebm : montre [3c 3s] (une paire de Trois)
+psychoman59 a remporté 270  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 450 Principal pot 270. Parallèle pot 180. | Commission 0 
+Tableau [Js 4c Kd Td 2c]
+Siège 1 : sébastien21 (grosse blind) a montré [6h 6d] et a perdu avec une paire de Six
+Siège 2 : psychoman59 (bouton) a montré [Tc Jh] et a gagné (450) avec double paire, Valets et Dix
+Siège 3 : juliettebm (petite blind) a montré [3c 3s] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°237449960978 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 19/07/2022 7:56:40 CET [19/07/2022 1:56:40 ET]
+Table '3443570275 1' 3-max Siège #1 est au bouton.
+Place 1: sébastien21 (450 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+sébastien21 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 6d]
+sébastien21 : relance. 370 à 450 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (370) sont retournés à sébastien21.
+sébastien21 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : sébastien21 (bouton) (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237449961696 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 19/07/2022 7:56:48 CET [19/07/2022 1:56:48 ET]
+Table '3443570275 1' 3-max Siège #2 est au bouton.
+Place 1: sébastien21 (530 en jetons) 
+Place 2: psychoman59 (370 en jetons) 
+psychoman59 : met la petite blind. 40
+sébastien21 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Qh]
+psychoman59 : relance. 290 à 370 et est all-in.
+sébastien21 : passe. 
+Personne n'a suivi. (290) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : sébastien21 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°237449962360 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 19/07/2022 7:56:55 CET [19/07/2022 1:56:55 ET]
+Table '3443570275 1' 3-max Siège #1 est au bouton.
+Place 1: sébastien21 (450 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+sébastien21 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Js]
+sébastien21 : relance. 370 à 450 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (370) sont retournés à sébastien21.
+sébastien21 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : sébastien21 (bouton) (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237449963237 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 19/07/2022 7:57:04 CET [19/07/2022 1:57:04 ET]
+Table '3443570275 1' 3-max Siège #2 est au bouton.
+Place 1: sébastien21 (530 en jetons) 
+Place 2: psychoman59 (370 en jetons) 
+psychoman59 : met la petite blind. 40
+sébastien21 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à sébastien21.
+sébastien21 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : sébastien21 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237449963692 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 19/07/2022 7:57:09 CET [19/07/2022 1:57:09 ET]
+Table '3443570275 1' 3-max Siège #1 est au bouton.
+Place 1: sébastien21 (570 en jetons) 
+Place 2: psychoman59 (330 en jetons) 
+sébastien21 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Td]
+sébastien21 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : sébastien21 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237449964447 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 19/07/2022 7:57:17 CET [19/07/2022 1:57:17 ET]
+Table '3443570275 1' 3-max Siège #2 est au bouton.
+Place 1: sébastien21 (530 en jetons) 
+Place 2: psychoman59 (370 en jetons) 
+psychoman59 : met la petite blind. 50
+sébastien21 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à sébastien21.
+sébastien21 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : sébastien21 (grosse blind) a remporté (100)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237449964921 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 19/07/2022 7:57:23 CET [19/07/2022 1:57:23 ET]
+Table '3443570275 1' 3-max Siège #1 est au bouton.
+Place 1: sébastien21 (580 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+sébastien21 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Kd]
+sébastien21 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : sébastien21 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°237449965438 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 19/07/2022 7:57:28 CET [19/07/2022 1:57:28 ET]
+Table '3443570275 1' 3-max Siège #2 est au bouton.
+Place 1: sébastien21 (530 en jetons) 
+Place 2: psychoman59 (370 en jetons) 
+psychoman59 : met la petite blind. 50
+sébastien21 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 4s]
+psychoman59 : relance. 270 à 370 et est all-in.
+sébastien21 : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : sébastien21 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (200)
+
+
+
+Main PokerStars n°237449966116 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 19/07/2022 7:57:36 CET [19/07/2022 1:57:36 ET]
+Table '3443570275 1' 3-max Siège #1 est au bouton.
+Place 1: sébastien21 (430 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+sébastien21 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Jh]
+sébastien21 : relance. 330 à 430 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (330) sont retournés à sébastien21.
+sébastien21 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : sébastien21 (bouton) (petite blind) a remporté (200)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237449966932 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 19/07/2022 7:57:44 CET [19/07/2022 1:57:44 ET]
+Table '3443570275 1' 3-max Siège #2 est au bouton.
+Place 1: sébastien21 (530 en jetons) 
+Place 2: psychoman59 (370 en jetons) 
+psychoman59 : met la petite blind. 50
+sébastien21 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à sébastien21.
+sébastien21 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : sébastien21 (grosse blind) a remporté (100)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237449967376 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 19/07/2022 7:57:49 CET [19/07/2022 1:57:49 ET]
+Table '3443570275 1' 3-max Siège #1 est au bouton.
+Place 1: sébastien21 (580 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+sébastien21 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 8c]
+sébastien21 : relance. 480 à 580 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (480) sont retournés à sébastien21.
+sébastien21 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : sébastien21 (bouton) (petite blind) a remporté (200)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237449968050 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 19/07/2022 7:57:56 CET [19/07/2022 1:57:56 ET]
+Table '3443570275 1' 3-max Siège #2 est au bouton.
+Place 1: sébastien21 (680 en jetons) 
+Place 2: psychoman59 (220 en jetons) 
+psychoman59 : met la petite blind. 50
+sébastien21 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 7h]
+psychoman59 : relance. 120 à 220 et est all-in.
+sébastien21 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : sébastien21 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (200)
+
+
+
+Main PokerStars n°237449968771 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 19/07/2022 7:58:04 CET [19/07/2022 1:58:04 ET]
+Table '3443570275 1' 3-max Siège #1 est au bouton.
+Place 1: sébastien21 (580 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+sébastien21 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Ac]
+sébastien21 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : sébastien21 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°237449969269 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 19/07/2022 7:58:10 CET [19/07/2022 1:58:10 ET]
+Table '3443570275 1' 3-max Siège #2 est au bouton.
+Place 1: sébastien21 (530 en jetons) 
+Place 2: psychoman59 (370 en jetons) 
+psychoman59 : met la petite blind. 50
+sébastien21 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Th]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à sébastien21.
+sébastien21 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : sébastien21 (grosse blind) a remporté (100)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237449969993 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 19/07/2022 7:58:18 CET [19/07/2022 1:58:18 ET]
+Table '3443570275 1' 3-max Siège #1 est au bouton.
+Place 1: sébastien21 (580 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+sébastien21 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Tc]
+sébastien21 : relance. 460 à 580 et est all-in.
+psychoman59 : suit. 200 et est all-in.
+Personne n'a suivi. (260) sont retournés à sébastien21.
+*** FLOP *** [8h Ad 8c]
+*** TOURNANT *** [8h Ad 8c] [Kc]
+*** RIVIÈRE *** [8h Ad 8c Kc] [Ks]
+*** ABATTAGE ***
+psychoman59 : montre [Js Tc] (double paire, Rois et Huit)
+sébastien21 : montre [7s Jd] (double paire, Rois et Huit)
+psychoman59 a remporté 320  lors du pot .
+sébastien21 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [8h Ad 8c Kc Ks]
+Siège 1 : sébastien21 (bouton) (petite blind) a montré [7s Jd] et a gagné (320) avec double paire, Rois et Huit
+Siège 2 : psychoman59 (grosse blind) a montré [Js Tc] et a gagné (320) avec double paire, Rois et Huit
+
+
+
+Main PokerStars n°237449971173 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 19/07/2022 7:58:31 CET [19/07/2022 1:58:31 ET]
+Table '3443570275 1' 3-max Siège #2 est au bouton.
+Place 1: sébastien21 (580 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 60
+sébastien21 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 9d]
+psychoman59 : relance. 200 à 320 et est all-in.
+sébastien21 : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : sébastien21 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°237449971879 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 19/07/2022 7:58:39 CET [19/07/2022 1:58:39 ET]
+Table '3443570275 1' 3-max Siège #1 est au bouton.
+Place 1: sébastien21 (460 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+sébastien21 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 3h]
+sébastien21 : relance. 340 à 460 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (340) sont retournés à sébastien21.
+sébastien21 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : sébastien21 (bouton) (petite blind) a remporté (240)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237449972612 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 19/07/2022 7:58:47 CET [19/07/2022 1:58:47 ET]
+Table '3443570275 1' 3-max Siège #2 est au bouton.
+Place 1: sébastien21 (580 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 60
+sébastien21 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 9s]
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à sébastien21.
+sébastien21 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : sébastien21 (grosse blind) a remporté (120)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237449973031 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 19/07/2022 7:58:51 CET [19/07/2022 1:58:51 ET]
+Table '3443570275 1' 3-max Siège #1 est au bouton.
+Place 1: sébastien21 (640 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+sébastien21 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Ac]
+sébastien21 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : sébastien21 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°237449973635 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 19/07/2022 7:58:58 CET [19/07/2022 1:58:58 ET]
+Table '3443570275 1' 3-max Siège #2 est au bouton.
+Place 1: sébastien21 (580 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 60
+sébastien21 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 2h]
+psychoman59 : relance. 200 à 320 et est all-in.
+sébastien21 : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : sébastien21 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°237449974284 : Tournoi #3443570275, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 19/07/2022 7:59:05 CET [19/07/2022 1:59:05 ET]
+Table '3443570275 1' 3-max Siège #1 est au bouton.
+Place 1: sébastien21 (460 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+sébastien21 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Js]
+sébastien21 : relance. 340 à 460 et est all-in.
+psychoman59 : suit. 320 et est all-in.
+Personne n'a suivi. (20) sont retournés à sébastien21.
+*** FLOP *** [5d 2s 8h]
+*** TOURNANT *** [5d 2s 8h] [9d]
+*** RIVIÈRE *** [5d 2s 8h 9d] [6c]
+*** ABATTAGE ***
+psychoman59 : montre [9h Js] (une paire de Neuf)
+sébastien21 : montre [Ad 9s] (une paire de Neuf - As kicker)
+sébastien21 a remporté 880  lors du pot .
+*** SYNTHÈSE ***
+Pot total 880 | Commission 0 
+Tableau [5d 2s 8h 9d 6c]
+Siège 1 : sébastien21 (bouton) (petite blind) a montré [Ad 9s] et a gagné (880) avec une paire de Neuf
+Siège 2 : psychoman59 (grosse blind) a montré [9h Js] et a perdu avec une paire de Neuf
+
+
+

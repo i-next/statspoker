@@ -1,0 +1,230 @@
+﻿Main PokerStars n°237576464783 : Tournoi #3446487638, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 16:25:37 CET [25/07/2022 10:25:37 ET]
+Table '3446487638 1' 3-max Siège #1 est au bouton.
+Place 1: Bizetouflex (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: SDONALD14 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+SDONALD14 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 2s]
+Bizetouflex : suit. 20
+psychoman59 : passe. 
+SDONALD14 : parole 
+*** FLOP *** [7s Jc Qd]
+SDONALD14 : parole 
+Bizetouflex : parole 
+*** TOURNANT *** [7s Jc Qd] [2c]
+SDONALD14 : mise. 20
+Bizetouflex : passe. 
+Personne n'a suivi. (20) sont retournés à SDONALD14.
+SDONALD14 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [7s Jc Qd 2c]
+Siège 1 : Bizetouflex (bouton) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : SDONALD14 (grosse blind) a remporté (50)
+
+
+
+Main PokerStars n°237576468988 : Tournoi #3446487638, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 16:25:54 CET [25/07/2022 10:25:54 ET]
+Table '3446487638 1' 3-max Siège #2 est au bouton.
+Place 1: Bizetouflex (280 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: SDONALD14 (330 en jetons) 
+SDONALD14 : met la petite blind. 10
+Bizetouflex : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 6s]
+psychoman59 : passe. 
+SDONALD14 : relance. 40 à 60
+Bizetouflex : passe. 
+Personne n'a suivi. (40) sont retournés à SDONALD14.
+SDONALD14 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Bizetouflex (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : SDONALD14 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°237576472486 : Tournoi #3446487638, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 16:26:08 CET [25/07/2022 10:26:08 ET]
+Table '3446487638 1' 3-max Siège #3 est au bouton.
+Place 1: Bizetouflex (260 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: SDONALD14 (350 en jetons) 
+Bizetouflex : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 6h]
+SDONALD14 : passe. 
+Bizetouflex : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2d 7c Kc]
+Bizetouflex : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Bizetouflex.
+Bizetouflex a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2d 7c Kc]
+Siège 1 : Bizetouflex (petite blind) a remporté (40)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : SDONALD14 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237576476099 : Tournoi #3446487638, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 16:26:21 CET [25/07/2022 10:26:21 ET]
+Table '3446487638 1' 3-max Siège #1 est au bouton.
+Place 1: Bizetouflex (280 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: SDONALD14 (350 en jetons) 
+psychoman59 : met la petite blind. 10
+SDONALD14 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Kh]
+Bizetouflex : relance. 20 à 40
+psychoman59 : suit. 30
+SDONALD14 : suit. 20
+*** FLOP *** [Ac 7c Qh]
+psychoman59 : parole 
+SDONALD14 : parole 
+Bizetouflex : parole 
+*** TOURNANT *** [Ac 7c Qh] [5d]
+psychoman59 : parole 
+SDONALD14 : parole 
+Bizetouflex : parole 
+*** RIVIÈRE *** [Ac 7c Qh 5d] [As]
+psychoman59 : parole 
+SDONALD14 : parole 
+Bizetouflex : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6h Kh] (une paire de As)
+SDONALD14 : cache la main perdante. 
+Bizetouflex : montre [5s Kc] (double paire, As et Cinq)
+Bizetouflex a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ac 7c Qh 5d As]
+Siège 1 : Bizetouflex (bouton) a montré [5s Kc] et a gagné (120) avec double paire, As et Cinq
+Siège 2 : psychoman59 (petite blind) a montré [6h Kh] et a perdu avec une paire de As
+Siège 3 : SDONALD14 (grosse blind) a caché la main perdante. [Jh 3d]
+
+
+
+Main PokerStars n°237576488356 : Tournoi #3446487638, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 16:27:09 CET [25/07/2022 10:27:09 ET]
+Table '3446487638 1' 3-max Siège #2 est au bouton.
+Place 1: Bizetouflex (360 en jetons) 
+Place 2: psychoman59 (230 en jetons) 
+Place 3: SDONALD14 (310 en jetons) 
+SDONALD14 : met la petite blind. 15
+Bizetouflex : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 2h]
+psychoman59 : passe. 
+SDONALD14 : suit. 15
+Bizetouflex : parole 
+*** FLOP *** [5s Qc 7d]
+SDONALD14 : mise. 60
+Bizetouflex : passe. 
+Personne n'a suivi. (60) sont retournés à SDONALD14.
+SDONALD14 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5s Qc 7d]
+Siège 1 : Bizetouflex (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : SDONALD14 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237576493838 : Tournoi #3446487638, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 16:27:30 CET [25/07/2022 10:27:30 ET]
+Table '3446487638 1' 3-max Siège #3 est au bouton.
+Place 1: Bizetouflex (330 en jetons) 
+Place 2: psychoman59 (230 en jetons) 
+Place 3: SDONALD14 (340 en jetons) 
+Bizetouflex : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 3c]
+SDONALD14 : passe. 
+Bizetouflex : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9d 4c 3d]
+Bizetouflex : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9d 4c 3d] [Ad]
+Bizetouflex : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9d 4c 3d Ad] [As]
+Bizetouflex : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Bizetouflex : montre [Jc 5s] (une paire de As)
+psychoman59 : montre [7s 3c] (double paire, As et Trois)
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9d 4c 3d Ad As]
+Siège 1 : Bizetouflex (petite blind) a montré [Jc 5s] et a perdu avec une paire de As
+Siège 2 : psychoman59 (grosse blind) a montré [7s 3c] et a gagné (60) avec double paire, As et Trois
+Siège 3 : SDONALD14 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237576501811 : Tournoi #3446487638, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 25/07/2022 16:28:01 CET [25/07/2022 10:28:01 ET]
+Table '3446487638 1' 3-max Siège #1 est au bouton.
+Place 1: Bizetouflex (300 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+Place 3: SDONALD14 (340 en jetons) 
+psychoman59 : met la petite blind. 20
+SDONALD14 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Ac]
+Bizetouflex : suit. 40
+psychoman59 : suit. 20
+SDONALD14 : relance. 300 à 340 et est all-in.
+Bizetouflex : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à SDONALD14.
+SDONALD14 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : Bizetouflex (bouton) s'est couché. avant Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : SDONALD14 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°237576506696 : Tournoi #3446487638, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 25/07/2022 16:28:20 CET [25/07/2022 10:28:20 ET]
+Table '3446487638 1' 3-max Siège #2 est au bouton.
+Place 1: Bizetouflex (260 en jetons) 
+Place 2: psychoman59 (220 en jetons) 
+Place 3: SDONALD14 (420 en jetons) 
+SDONALD14 : met la petite blind. 20
+Bizetouflex : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Qh]
+psychoman59 : relance. 100 à 140
+SDONALD14 : passe. 
+Bizetouflex : suit. 100
+*** FLOP *** [Kd 2c 4c]
+Bizetouflex : mise. 120 et est all-in.
+psychoman59 : suit. 80 et est all-in.
+Personne n'a suivi. (40) sont retournés à Bizetouflex.
+*** TOURNANT *** [Kd 2c 4c] [Js]
+*** RIVIÈRE *** [Kd 2c 4c Js] [Kh]
+*** ABATTAGE ***
+Bizetouflex : montre [Kc Jc] (un full, full aux Rois par les Valets)
+psychoman59 : montre [Qd Qh] (double paire, Rois et Dames)
+Bizetouflex a remporté 460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [Kd 2c 4c Js Kh]
+Siège 1 : Bizetouflex (grosse blind) a montré [Kc Jc] et a gagné (460) avec un full, full aux Rois par les Valets
+Siège 2 : psychoman59 (bouton) a montré [Qd Qh] et a perdu avec double paire, Rois et Dames
+Siège 3 : SDONALD14 (petite blind) s'est couché. avant Flop
+
+
+

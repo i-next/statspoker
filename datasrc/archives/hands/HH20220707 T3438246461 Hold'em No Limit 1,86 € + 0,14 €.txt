@@ -1,0 +1,163 @@
+﻿Main PokerStars n°237222078075 : Tournoi #3438246461, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2022 23:20:26 CET [07/07/2022 17:20:26 ET]
+Table '3438246461 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: m.carlos 73 (300 en jetons) 
+Place 3: Viclop7 (300 en jetons) 
+m.carlos 73 : met la petite blind. 10
+Viclop7 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 3h]
+psychoman59 : passe. 
+m.carlos 73 : suit. 10
+Viclop7 : parole 
+*** FLOP *** [5d 6h As]
+m.carlos 73 : parole 
+Viclop7 : mise. 20
+m.carlos 73 : suit. 20
+*** TOURNANT *** [5d 6h As] [8c]
+m.carlos 73 : parole 
+Viclop7 : mise. 20
+m.carlos 73 : suit. 20
+*** RIVIÈRE *** [5d 6h As 8c] [3d]
+m.carlos 73 : parole 
+Viclop7 : mise. 20
+m.carlos 73 : suit. 20
+*** ABATTAGE ***
+Viclop7 : montre [6c Jd] (une paire de Six)
+m.carlos 73 : cache la main perdante. 
+Viclop7 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [5d 6h As 8c 3d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : m.carlos 73 (petite blind) a caché la main perdante. [7h 3s]
+Siège 3 : Viclop7 (grosse blind) a montré [6c Jd] et a gagné (160) avec une paire de Six
+
+
+
+Main PokerStars n°237222086186 : Tournoi #3438246461, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2022 23:20:48 CET [07/07/2022 17:20:48 ET]
+Table '3438246461 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: m.carlos 73 (220 en jetons) 
+Place 3: Viclop7 (380 en jetons) 
+Viclop7 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 3c]
+m.carlos 73 : suit. 20
+Viclop7 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [As 9h 3d]
+Viclop7 : mise. 20
+psychoman59 : passe. 
+m.carlos 73 : passe. 
+Personne n'a suivi. (20) sont retournés à Viclop7.
+Viclop7 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [As 9h 3d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : m.carlos 73 (bouton) s'est couché. sur le Flop
+Siège 3 : Viclop7 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237222090585 : Tournoi #3438246461, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2022 23:20:59 CET [07/07/2022 17:20:59 ET]
+Table '3438246461 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: m.carlos 73 (200 en jetons) 
+Place 3: Viclop7 (420 en jetons) 
+psychoman59 : met la petite blind. 10
+m.carlos 73 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 3c]
+Viclop7 : relance. 20 à 40
+psychoman59 : relance. 240 à 280 et est all-in.
+m.carlos 73 : passe. 
+Viclop7 : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (100)
+Siège 2 : m.carlos 73 (grosse blind) s'est couché. avant Flop
+Siège 3 : Viclop7 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237222094309 : Tournoi #3438246461, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2022 23:21:09 CET [07/07/2022 17:21:09 ET]
+Table '3438246461 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: m.carlos 73 (180 en jetons) 
+Place 3: Viclop7 (380 en jetons) 
+m.carlos 73 : met la petite blind. 10
+Viclop7 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8c]
+psychoman59 : passe. 
+m.carlos 73 : suit. 10
+Viclop7 : parole 
+*** FLOP *** [Td Qd Tc]
+m.carlos 73 : parole 
+Viclop7 : parole 
+*** TOURNANT *** [Td Qd Tc] [6d]
+m.carlos 73 : mise. 160 et est all-in.
+Viclop7 : suit. 160
+*** RIVIÈRE *** [Td Qd Tc 6d] [Jd]
+*** ABATTAGE ***
+m.carlos 73 : montre [6c 4d] (une couleur, hauteur Dame)
+Viclop7 : montre [6s 7d] (une couleur, hauteur Dame - Sept plus haute)
+Viclop7 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Td Qd Tc 6d Jd]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : m.carlos 73 (petite blind) a montré [6c 4d] et a perdu avec une couleur, hauteur Dame
+Siège 3 : Viclop7 (grosse blind) a montré [6s 7d] et a gagné (360) avec une couleur, hauteur Dame
+
+
+
+Main PokerStars n°237222101774 : Tournoi #3438246461, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2022 23:21:30 CET [07/07/2022 17:21:30 ET]
+Table '3438246461 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 3: Viclop7 (560 en jetons) 
+Viclop7 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Qd]
+Viclop7 : relance. 20 à 40
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Viclop7.
+Viclop7 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Viclop7 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°237222105445 : Tournoi #3438246461, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2022 23:21:39 CET [07/07/2022 17:21:39 ET]
+Table '3438246461 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 3: Viclop7 (580 en jetons) 
+psychoman59 : met la petite blind. 15
+Viclop7 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 4s]
+psychoman59 : relance. 290 à 320 et est all-in.
+Viclop7 : suit. 290
+*** FLOP *** [7d 8c Ts]
+*** TOURNANT *** [7d 8c Ts] [4d]
+*** RIVIÈRE *** [7d 8c Ts 4d] [6s]
+*** ABATTAGE ***
+Viclop7 : montre [Jh Jd] (une paire de Valets)
+psychoman59 : montre [Ks 4s] (une paire de Quatre)
+Viclop7 a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [7d 8c Ts 4d 6s]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Ks 4s] et a perdu avec une paire de Quatre
+Siège 3 : Viclop7 (grosse blind) a montré [Jh Jd] et a gagné (640) avec une paire de Valets
+
+
+

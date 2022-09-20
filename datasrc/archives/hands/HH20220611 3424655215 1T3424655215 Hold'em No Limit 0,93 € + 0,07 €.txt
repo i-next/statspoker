@@ -1,0 +1,286 @@
+﻿Main PokerStars n°236690826427 : Tournoi #3424655215, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2022 8:02:39 CET [11/06/2022 2:02:39 ET]
+Table '3424655215 1' 3-max Siège #1 est au bouton.
+Place 1: mollaletty (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: maturin14700 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+maturin14700 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 9s]
+mollaletty : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à maturin14700.
+maturin14700 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : mollaletty (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : maturin14700 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°236690827288 : Tournoi #3424655215, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2022 8:02:47 CET [11/06/2022 2:02:47 ET]
+Table '3424655215 1' 3-max Siège #2 est au bouton.
+Place 1: mollaletty (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: maturin14700 (310 en jetons) 
+maturin14700 : met la petite blind. 10
+mollaletty : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th As]
+psychoman59 : relance. 50 à 70
+maturin14700 : passe. 
+mollaletty : suit. 50
+*** FLOP *** [Ad 3c 9c]
+mollaletty : parole 
+psychoman59 : mise. 75
+mollaletty : suit. 75
+*** TOURNANT *** [Ad 3c 9c] [2s]
+mollaletty : parole 
+psychoman59 : mise. 145 et est all-in.
+mollaletty : suit. 145
+*** RIVIÈRE *** [Ad 3c 9c 2s] [2h]
+*** ABATTAGE ***
+mollaletty : montre [4c 8c] (une paire de Deux)
+psychoman59 : montre [Th As] (double paire, As et Deux)
+psychoman59 a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [Ad 3c 9c 2s 2h]
+Siège 1 : mollaletty (grosse blind) a montré [4c 8c] et a perdu avec une paire de Deux
+Siège 2 : psychoman59 (bouton) a montré [Th As] et a gagné (590) avec double paire, As et Deux
+Siège 3 : maturin14700 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236690831086 : Tournoi #3424655215, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2022 8:03:18 CET [11/06/2022 2:03:18 ET]
+Table '3424655215 1' 3-max Siège #3 est au bouton.
+Place 1: mollaletty (10 en jetons) 
+Place 2: psychoman59 (590 en jetons) 
+Place 3: maturin14700 (300 en jetons) 
+mollaletty : met la petite blind. 10 et est all-in.
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Tc]
+maturin14700 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Jc 7d Ts]
+psychoman59 : parole 
+maturin14700 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [Jc 7d Ts] [5s]
+psychoman59 : parole 
+maturin14700 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Jc 7d Ts 5s] [Jd]
+psychoman59 : parole 
+maturin14700 : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+maturin14700 : montre [Kc Kh] (double paire, Rois et Valets)
+psychoman59 : cache la main perdante. 
+maturin14700 a remporté 140  parallèle lors du pot .
+mollaletty : cache la main perdante. 
+maturin14700 a remporté 30  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 170 Principal pot 30. Parallèle pot 140. | Commission 0 
+Tableau [Jc 7d Ts 5s Jd]
+Siège 1 : mollaletty (petite blind) a caché la main perdante. [3s 9s]
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [6h Tc]
+Siège 3 : maturin14700 (bouton) a montré [Kc Kh] et a gagné (170) avec double paire, Rois et Valets
+
+
+
+Main PokerStars n°236690834355 : Tournoi #3424655215, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/06/2022 8:03:46 CET [11/06/2022 2:03:46 ET]
+Table '3424655215 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (510 en jetons) 
+Place 3: maturin14700 (390 en jetons) 
+psychoman59 : met la petite blind. 15
+maturin14700 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 7s]
+psychoman59 : suit. 15
+maturin14700 : parole 
+*** FLOP *** [8s 3d 3h]
+maturin14700 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8s 3d 3h] [9h]
+maturin14700 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à maturin14700.
+maturin14700 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8s 3d 3h 9h]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : maturin14700 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°236690836028 : Tournoi #3424655215, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/06/2022 8:03:59 CET [11/06/2022 2:03:59 ET]
+Table '3424655215 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (480 en jetons) 
+Place 3: maturin14700 (420 en jetons) 
+maturin14700 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 6s]
+maturin14700 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à maturin14700.
+maturin14700 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : maturin14700 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°236690837106 : Tournoi #3424655215, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/06/2022 8:04:08 CET [11/06/2022 2:04:08 ET]
+Table '3424655215 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (450 en jetons) 
+Place 3: maturin14700 (450 en jetons) 
+psychoman59 : met la petite blind. 15
+maturin14700 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à maturin14700.
+maturin14700 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : maturin14700 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°236690837664 : Tournoi #3424655215, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/06/2022 8:04:13 CET [11/06/2022 2:04:13 ET]
+Table '3424655215 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (435 en jetons) 
+Place 3: maturin14700 (465 en jetons) 
+maturin14700 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 8d]
+maturin14700 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ts 3s Kd]
+psychoman59 : parole 
+maturin14700 : parole 
+*** TOURNANT *** [Ts 3s Kd] [Td]
+psychoman59 : parole 
+maturin14700 : parole 
+*** RIVIÈRE *** [Ts 3s Kd Td] [9h]
+psychoman59 : parole 
+maturin14700 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4s 8d] (une paire de Dix)
+maturin14700 : montre [9s 6s] (double paire, Dix et Neuf)
+maturin14700 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ts 3s Kd Td 9h]
+Siège 2 : psychoman59 (grosse blind) a montré [4s 8d] et a perdu avec une paire de Dix
+Siège 3 : maturin14700 (bouton) (petite blind) a montré [9s 6s] et a gagné (60) avec double paire, Dix et Neuf
+
+
+
+Main PokerStars n°236690840595 : Tournoi #3424655215, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/06/2022 8:04:37 CET [11/06/2022 2:04:37 ET]
+Table '3424655215 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (405 en jetons) 
+Place 3: maturin14700 (495 en jetons) 
+psychoman59 : met la petite blind. 15
+maturin14700 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à maturin14700.
+maturin14700 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : maturin14700 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°236690841552 : Tournoi #3424655215, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/06/2022 8:04:45 CET [11/06/2022 2:04:45 ET]
+Table '3424655215 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (390 en jetons) 
+Place 3: maturin14700 (510 en jetons) 
+maturin14700 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Qh]
+maturin14700 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : maturin14700 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236690850589 : Tournoi #3424655215, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/06/2022 8:04:52 CET [11/06/2022 2:04:52 ET]
+Table '3424655215 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (410 en jetons) 
+Place 3: maturin14700 (490 en jetons) 
+psychoman59 : met la petite blind. 20
+maturin14700 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à maturin14700.
+maturin14700 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : maturin14700 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°236690851416 : Tournoi #3424655215, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/06/2022 8:04:59 CET [11/06/2022 2:04:59 ET]
+Table '3424655215 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (390 en jetons) 
+Place 3: maturin14700 (510 en jetons) 
+maturin14700 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Kc]
+maturin14700 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : maturin14700 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236690851988 : Tournoi #3424655215, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/06/2022 8:05:03 CET [11/06/2022 2:05:03 ET]
+Table '3424655215 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (410 en jetons) 
+Place 3: maturin14700 (490 en jetons) 
+psychoman59 : met la petite blind. 20
+maturin14700 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Qs]
+psychoman59 : relance. 80 à 120
+maturin14700 : relance. 370 à 490 et est all-in.
+psychoman59 : suit. 290 et est all-in.
+Personne n'a suivi. (80) sont retournés à maturin14700.
+*** FLOP *** [7h 2s Kd]
+*** TOURNANT *** [7h 2s Kd] [8d]
+*** RIVIÈRE *** [7h 2s Kd 8d] [9h]
+*** ABATTAGE ***
+maturin14700 : montre [Ad Ac] (une paire de As)
+psychoman59 : montre [4s Qs] (Hauteur Roi)
+maturin14700 a remporté 820  lors du pot .
+*** SYNTHÈSE ***
+Pot total 820 | Commission 0 
+Tableau [7h 2s Kd 8d 9h]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [4s Qs] et a perdu avec Hauteur Roi
+Siège 3 : maturin14700 (grosse blind) a montré [Ad Ac] et a gagné (820) avec une paire de As
+
+
+

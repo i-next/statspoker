@@ -1,0 +1,149 @@
+﻿Main PokerStars n°237408378007 : Tournoi #3442672786, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/07/2022 11:04:29 CET [17/07/2022 5:04:29 ET]
+Table '3442672786 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Unik-Hei (300 en jetons) 
+Place 3: 29nico298 (300 en jetons) 
+Unik-Hei : met la petite blind. 10
+29nico298 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Kh]
+psychoman59 : suit. 20
+Unik-Hei : passe. 
+29nico298 : parole 
+*** FLOP *** [2h As Ac]
+29nico298 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [2h As Ac] [4d]
+29nico298 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à 29nico298.
+29nico298 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [2h As Ac 4d]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Tournant
+Siège 2 : Unik-Hei (petite blind) s'est couché. avant Flop
+Siège 3 : 29nico298 (grosse blind) a remporté (90)
+
+
+
+Main PokerStars n°237408380928 : Tournoi #3442672786, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/07/2022 11:04:47 CET [17/07/2022 5:04:47 ET]
+Table '3442672786 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: Unik-Hei (290 en jetons) 
+Place 3: 29nico298 (350 en jetons) 
+29nico298 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 6c]
+Unik-Hei : passe. 
+29nico298 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (20)
+Siège 2 : Unik-Hei (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : 29nico298 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237408381744 : Tournoi #3442672786, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/07/2022 11:04:53 CET [17/07/2022 5:04:53 ET]
+Table '3442672786 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: Unik-Hei (290 en jetons) 
+Place 3: 29nico298 (340 en jetons) 
+psychoman59 : met la petite blind. 10
+Unik-Hei : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 4s]
+29nico298 : suit. 20
+psychoman59 : suit. 10
+Unik-Hei : parole 
+*** FLOP *** [Ts 7s Qh]
+psychoman59 : parole 
+Unik-Hei : parole 
+29nico298 : mise. 20
+psychoman59 : relance. 230 à 250 et est all-in.
+Unik-Hei : passe. 
+29nico298 : passe. 
+Personne n'a suivi. (230) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [Ts 7s Qh]
+Siège 1 : psychoman59 (petite blind) a remporté (100)
+Siège 2 : Unik-Hei (grosse blind) s'est couché. sur le Flop
+Siège 3 : 29nico298 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237408393860 : Tournoi #3442672786, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/07/2022 11:05:20 CET [17/07/2022 5:05:20 ET]
+Table '3442672786 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: Unik-Hei (270 en jetons) 
+Place 3: 29nico298 (300 en jetons) 
+Unik-Hei : met la petite blind. 10
+29nico298 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 9c]
+psychoman59 : passe. 
+Unik-Hei : relance. 60 à 80
+29nico298 : relance. 220 à 300 et est all-in.
+Unik-Hei : suit. 190 et est all-in.
+Personne n'a suivi. (30) sont retournés à 29nico298.
+*** FLOP *** [6h 6c 4s]
+*** TOURNANT *** [6h 6c 4s] [Jd]
+*** RIVIÈRE *** [6h 6c 4s Jd] [Qs]
+*** ABATTAGE ***
+Unik-Hei : montre [Td Ts] (double paire, Dix et Six)
+29nico298 : montre [As 7c] (une paire de Six)
+Unik-Hei a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [6h 6c 4s Jd Qs]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Unik-Hei (petite blind) a montré [Td Ts] et a gagné (540) avec double paire, Dix et Six
+Siège 3 : 29nico298 (grosse blind) a montré [As 7c] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°237408396933 : Tournoi #3442672786, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/07/2022 11:05:40 CET [17/07/2022 5:05:40 ET]
+Table '3442672786 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: Unik-Hei (540 en jetons) 
+Place 3: 29nico298 (30 en jetons) 
+29nico298 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qh]
+Unik-Hei : suit. 30
+29nico298 : suit. 15 et est all-in.
+psychoman59 : parole 
+*** FLOP *** [Kd Ah Ks]
+psychoman59 : parole 
+Unik-Hei : parole 
+*** TOURNANT *** [Kd Ah Ks] [Kc]
+psychoman59 : parole 
+Unik-Hei : mise. 90
+psychoman59 : suit. 90
+*** RIVIÈRE *** [Kd Ah Ks Kc] [Qd]
+psychoman59 : parole 
+Unik-Hei : mise. 420 et est all-in.
+psychoman59 : suit. 210 et est all-in.
+Personne n'a suivi. (210) sont retournés à Unik-Hei.
+*** ABATTAGE ***
+Unik-Hei : montre [Ac 2d] (un full, full aux Rois par les As)
+psychoman59 : montre [8h Qh] (un full, full aux Rois par les Dames)
+Unik-Hei a remporté 600  parallèle lors du pot .
+29nico298 : montre [9h 5d] (un brelan de Rois)
+Unik-Hei a remporté 90  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 690 Principal pot 90. Parallèle pot 600. | Commission 0 
+Tableau [Kd Ah Ks Kc Qd]
+Siège 1 : psychoman59 (grosse blind) a montré [8h Qh] et a perdu avec un full, full aux Rois par les Dames
+Siège 2 : Unik-Hei (bouton) a montré [Ac 2d] et a gagné (690) avec un full, full aux Rois par les As
+Siège 3 : 29nico298 (petite blind) a montré [9h 5d] et a perdu avec un brelan de Rois
+
+
+

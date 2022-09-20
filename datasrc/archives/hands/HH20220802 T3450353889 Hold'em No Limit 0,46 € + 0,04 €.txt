@@ -1,0 +1,215 @@
+﻿Main PokerStars n°237742573612 : Tournoi #3450353889, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 16:16:58 CET [02/08/2022 10:16:58 ET]
+Table '3450353889 1' 4-max Siège #1 est au bouton.
+Place 1: Schwi00 (5000 en jetons) 
+Place 2: PAYEPASTOUT (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: chema2302 (5000 en jetons) 
+Schwi00 : met l'ante. 10
+PAYEPASTOUT : met l'ante. 10
+psychoman59 : met l'ante. 10
+chema2302 : met l'ante. 10
+PAYEPASTOUT : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 3c]
+chema2302 : passe. 
+Schwi00 : relance. 150 à 250
+PAYEPASTOUT : suit. 200
+psychoman59 : passe. 
+*** FLOP *** [9h 8c Jh]
+PAYEPASTOUT : parole 
+Schwi00 : parole 
+*** TOURNANT *** [9h 8c Jh] [Kh]
+PAYEPASTOUT : mise. 320
+Schwi00 : passe. 
+Personne n'a suivi. (320) sont retournés à PAYEPASTOUT.
+PAYEPASTOUT a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [9h 8c Jh Kh]
+Siège 1 : Schwi00 (bouton) s'est couché. sur le Tournant
+Siège 2 : PAYEPASTOUT (petite blind) a remporté (640)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : chema2302 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237742587408 : Tournoi #3450353889, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 16:17:53 CET [02/08/2022 10:17:53 ET]
+Table '3450353889 1' 4-max Siège #2 est au bouton.
+Place 1: Schwi00 (4740 en jetons) 
+Place 2: PAYEPASTOUT (5380 en jetons) 
+Place 3: psychoman59 (4890 en jetons) 
+Place 4: chema2302 (4990 en jetons) 
+Schwi00 : met l'ante. 10
+PAYEPASTOUT : met l'ante. 10
+psychoman59 : met l'ante. 10
+chema2302 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+chema2302 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Qs]
+Schwi00 : passe. 
+PAYEPASTOUT : suit. 100
+psychoman59 : relance. 100 à 200
+chema2302 : suit. 100
+PAYEPASTOUT : relance. 640 à 840
+psychoman59 : suit. 640
+chema2302 : suit. 640
+*** FLOP *** [Ah Jh Qc]
+psychoman59 : parole 
+chema2302 : parole 
+PAYEPASTOUT : mise. 1100
+psychoman59 : passe. 
+chema2302 : suit. 1100
+*** TOURNANT *** [Ah Jh Qc] [8s]
+chema2302 : mise. 100
+PAYEPASTOUT : relance. 1000 à 1100
+chema2302 : suit. 1000
+*** RIVIÈRE *** [Ah Jh Qc 8s] [8c]
+chema2302 : mise. 1940 et est all-in.
+PAYEPASTOUT : suit. 1940
+*** ABATTAGE ***
+chema2302 : montre [8h Ks] (un brelan de Huit)
+PAYEPASTOUT : montre [8d Kd] (un brelan de Huit)
+chema2302 a remporté 5420  lors du pot .
+PAYEPASTOUT a remporté 5420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 10840 | Commission 0 
+Tableau [Ah Jh Qc 8s 8c]
+Siège 1 : Schwi00 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PAYEPASTOUT (bouton) a montré [8d Kd] et a gagné (5420) avec un brelan de Huit
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 4 : chema2302 (grosse blind) a montré [8h Ks] et a gagné (5420) avec un brelan de Huit
+
+
+
+Main PokerStars n°237742610312 : Tournoi #3450353889, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 16:19:23 CET [02/08/2022 10:19:23 ET]
+Table '3450353889 1' 4-max Siège #3 est au bouton.
+Place 1: Schwi00 (4730 en jetons) 
+Place 2: PAYEPASTOUT (5810 en jetons) 
+Place 3: psychoman59 (4040 en jetons) 
+Place 4: chema2302 (5420 en jetons) 
+Schwi00 : met l'ante. 10
+PAYEPASTOUT : met l'ante. 10
+psychoman59 : met l'ante. 10
+chema2302 : met l'ante. 10
+chema2302 : met la petite blind. 50
+Schwi00 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Td]
+PAYEPASTOUT : suit. 100
+psychoman59 : suit. 100
+chema2302 : suit. 50
+Schwi00 : parole 
+*** FLOP *** [3d Js 3c]
+chema2302 : parole 
+Schwi00 : parole 
+PAYEPASTOUT : mise. 100
+psychoman59 : passe. 
+chema2302 : passe. 
+Schwi00 : suit. 100
+*** TOURNANT *** [3d Js 3c] [Kd]
+Schwi00 : parole 
+PAYEPASTOUT : mise. 640
+Schwi00 : suit. 640
+*** RIVIÈRE *** [3d Js 3c Kd] [Jc]
+Schwi00 : mise. 3880 et est all-in.
+PAYEPASTOUT : passe. 
+Personne n'a suivi. (3880) sont retournés à Schwi00.
+Schwi00 a remporté 1920  lors du pot .
+Schwi00 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1920 | Commission 0 
+Tableau [3d Js 3c Kd Jc]
+Siège 1 : Schwi00 (grosse blind) a remporté (1920)
+Siège 2 : PAYEPASTOUT s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 4 : chema2302 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237742629219 : Tournoi #3450353889, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 02/08/2022 16:20:36 CET [02/08/2022 10:20:36 ET]
+Table '3450353889 1' 4-max Siège #4 est au bouton.
+Place 1: Schwi00 (5800 en jetons) 
+Place 2: PAYEPASTOUT (4960 en jetons) 
+Place 3: psychoman59 (3930 en jetons) 
+Place 4: chema2302 (5310 en jetons) 
+Schwi00 : met l'ante. 15
+PAYEPASTOUT : met l'ante. 15
+psychoman59 : met l'ante. 15
+chema2302 : met l'ante. 15
+Schwi00 : met la petite blind. 60
+PAYEPASTOUT : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 5h]
+psychoman59 : suit. 120
+chema2302 : suit. 120
+Schwi00 : passe. 
+PAYEPASTOUT : parole 
+*** FLOP *** [As 4c Kc]
+PAYEPASTOUT : parole 
+psychoman59 : mise. 240
+chema2302 : suit. 240
+PAYEPASTOUT : relance. 600 à 840
+psychoman59 : passe. 
+chema2302 : suit. 600
+*** TOURNANT *** [As 4c Kc] [Qh]
+PAYEPASTOUT : parole 
+chema2302 : parole 
+*** RIVIÈRE *** [As 4c Kc Qh] [6h]
+PAYEPASTOUT : mise. 2160
+chema2302 : suit. 2160
+*** ABATTAGE ***
+PAYEPASTOUT : montre [Tc Jd] (une suite, Dix à As)
+chema2302 : cache la main perdante. 
+PAYEPASTOUT a remporté 6720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 6720 | Commission 0 
+Tableau [As 4c Kc Qh 6h]
+Siège 1 : Schwi00 (petite blind) s'est couché. avant Flop
+Siège 2 : PAYEPASTOUT (grosse blind) a montré [Tc Jd] et a gagné (6720) avec une suite, Dix à As
+Siège 3 : psychoman59 s'est couché. sur le Flop
+Siège 4 : chema2302 (bouton) a caché la main perdante. [6d Kd]
+
+
+
+Main PokerStars n°237742642400 : Tournoi #3450353889, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 02/08/2022 16:21:27 CET [02/08/2022 10:21:27 ET]
+Table '3450353889 1' 4-max Siège #1 est au bouton.
+Place 1: Schwi00 (5725 en jetons) 
+Place 2: PAYEPASTOUT (8545 en jetons) 
+Place 3: psychoman59 (3555 en jetons) 
+Place 4: chema2302 (2175 en jetons) 
+Schwi00 : met l'ante. 15
+PAYEPASTOUT : met l'ante. 15
+psychoman59 : met l'ante. 15
+chema2302 : met l'ante. 15
+PAYEPASTOUT : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Jc]
+chema2302 : relance. 2040 à 2160 et est all-in.
+Schwi00 : relance. 3550 à 5710 et est all-in.
+PAYEPASTOUT : passe. 
+psychoman59 : suit. 3420 et est all-in.
+Personne n'a suivi. (2170) sont retournés à Schwi00.
+*** FLOP *** [Ks 4h 4d]
+*** TOURNANT *** [Ks 4h 4d] [5d]
+*** RIVIÈRE *** [Ks 4h 4d 5d] [6d]
+*** ABATTAGE ***
+psychoman59 : montre [Js Jc] (double paire, Valets et Quatre)
+Schwi00 : montre [Ah Kc] (double paire, Rois et Quatre)
+Schwi00 a remporté 2760  parallèle lors du pot .
+chema2302 : montre [Td 3s] (une paire de Quatre)
+Schwi00 a remporté 6600  principal lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+chema2302 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 9360 Principal pot 6600. Parallèle pot 2760. | Commission 0 
+Tableau [Ks 4h 4d 5d 6d]
+Siège 1 : Schwi00 (bouton) a montré [Ah Kc] et a gagné (9360) avec double paire, Rois et Quatre
+Siège 2 : PAYEPASTOUT (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Js Jc] et a perdu avec double paire, Valets et Quatre
+Siège 4 : chema2302 a montré [Td 3s] et a perdu avec une paire de Quatre
+
+
+

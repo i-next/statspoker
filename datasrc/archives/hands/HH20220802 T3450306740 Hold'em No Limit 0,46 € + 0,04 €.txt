@@ -1,0 +1,2096 @@
+﻿Main PokerStars n°237740858592 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 14:13:58 CET [02/08/2022 8:13:58 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (5000 en jetons) 
+Place 2: pir265 (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: louping031400 (5000 en jetons) 
+OSCARBRETAGNE : met l'ante. 10
+pir265 : met l'ante. 10
+psychoman59 : met l'ante. 10
+louping031400 : met l'ante. 10
+pir265 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7c]
+louping031400 : relance. 100 à 200
+OSCARBRETAGNE : suit. 200
+pir265 : passe. 
+psychoman59 : suit. 100
+*** FLOP *** [7d Ks 2d]
+psychoman59 : parole 
+louping031400 : mise. 690
+OSCARBRETAGNE : suit. 690
+psychoman59 : passe. 
+*** TOURNANT *** [7d Ks 2d] [Td]
+louping031400 : parole 
+OSCARBRETAGNE : mise. 2070
+louping031400 : passe. 
+Personne n'a suivi. (2070) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 2070  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2070 | Commission 0 
+Tableau [7d Ks 2d Td]
+Siège 1 : OSCARBRETAGNE (bouton) a remporté (2070)
+Siège 2 : pir265 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 4 : louping031400 s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237740864833 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 14:14:28 CET [02/08/2022 8:14:28 ET]
+Table '3450306740 1' 4-max Siège #2 est au bouton.
+Place 1: OSCARBRETAGNE (6170 en jetons) 
+Place 2: pir265 (4940 en jetons) 
+Place 3: psychoman59 (4790 en jetons) 
+Place 4: louping031400 (4100 en jetons) 
+OSCARBRETAGNE : met l'ante. 10
+pir265 : met l'ante. 10
+psychoman59 : met l'ante. 10
+louping031400 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+louping031400 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Qs]
+OSCARBRETAGNE : suit. 100
+pir265 : passe. 
+psychoman59 : passe. 
+louping031400 : relance. 2200 à 2300
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (2200) sont retournés à louping031400.
+louping031400 a remporté 290  lors du pot .
+louping031400 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : OSCARBRETAGNE s'est couché. avant Flop
+Siège 2 : pir265 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : louping031400 (grosse blind) a remporté (290)
+
+
+
+Main PokerStars n°237740868583 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 14:14:47 CET [02/08/2022 8:14:47 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (6060 en jetons) 
+Place 2: pir265 (4930 en jetons) 
+Place 3: psychoman59 (4730 en jetons) 
+Place 4: louping031400 (4280 en jetons) 
+OSCARBRETAGNE : met l'ante. 10
+pir265 : met l'ante. 10
+psychoman59 : met l'ante. 10
+louping031400 : met l'ante. 10
+louping031400 : met la petite blind. 50
+OSCARBRETAGNE : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ac]
+pir265 : relance. 100 à 200
+psychoman59 : suit. 200
+louping031400 : relance. 100 à 300
+OSCARBRETAGNE : suit. 200
+pir265 : suit. 100
+psychoman59 : suit. 100
+*** FLOP *** [5c 2s 5s]
+louping031400 : mise. 3970 et est all-in.
+OSCARBRETAGNE : relance. 1780 à 5750 et est all-in.
+pir265 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (1780) sont retournés à OSCARBRETAGNE.
+*** TOURNANT *** [5c 2s 5s] [Th]
+*** RIVIÈRE *** [5c 2s 5s Th] [Ah]
+*** ABATTAGE ***
+louping031400 : montre [Qs 4c] (une paire de Cinq)
+OSCARBRETAGNE : montre [4h 3d] (une suite, As à Cinq)
+OSCARBRETAGNE a remporté 9180  lors du pot .
+louping031400 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 9180 | Commission 0 
+Tableau [5c 2s 5s Th Ah]
+Siège 1 : OSCARBRETAGNE (grosse blind) a montré [4h 3d] et a gagné (9180) avec une suite, As à Cinq
+Siège 2 : pir265 s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 4 : louping031400 (petite blind) a montré [Qs 4c] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°237740875389 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 14:15:20 CET [02/08/2022 8:15:20 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (10960 en jetons) 
+Place 2: pir265 (4620 en jetons) 
+Place 3: psychoman59 (4420 en jetons) 
+OSCARBRETAGNE : met l'ante. 10
+pir265 : met l'ante. 10
+psychoman59 : met l'ante. 10
+pir265 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 2h]
+OSCARBRETAGNE : relance. 100 à 200
+pir265 : suit. 150
+psychoman59 : suit. 100
+*** FLOP *** [Ah Ks 6h]
+pir265 : parole 
+psychoman59 : parole 
+OSCARBRETAGNE : parole 
+*** TOURNANT *** [Ah Ks 6h] [Kd]
+pir265 : parole 
+psychoman59 : parole 
+OSCARBRETAGNE : mise. 630
+pir265 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (630) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 630  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 630 | Commission 0 
+Tableau [Ah Ks 6h Kd]
+Siège 1 : OSCARBRETAGNE (bouton) a remporté (630)
+Siège 2 : pir265 (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237740879603 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 14:15:41 CET [02/08/2022 8:15:41 ET]
+Table '3450306740 1' 4-max Siège #2 est au bouton.
+Place 1: OSCARBRETAGNE (11380 en jetons) 
+Place 2: pir265 (4410 en jetons) 
+Place 3: psychoman59 (4210 en jetons) 
+OSCARBRETAGNE : met l'ante. 10
+pir265 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+OSCARBRETAGNE : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Qs]
+pir265 : relance. 100 à 200
+psychoman59 : passe. 
+OSCARBRETAGNE : suit. 100
+*** FLOP *** [Jd Tc 7c]
+OSCARBRETAGNE : mise. 200
+pir265 : passe. 
+Personne n'a suivi. (200) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 480  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Jd Tc 7c]
+Siège 1 : OSCARBRETAGNE (grosse blind) a remporté (480)
+Siège 2 : pir265 (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237740882707 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 14:15:56 CET [02/08/2022 8:15:56 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (11650 en jetons) 
+Place 2: pir265 (4200 en jetons) 
+Place 3: psychoman59 (4150 en jetons) 
+OSCARBRETAGNE : met l'ante. 10
+pir265 : met l'ante. 10
+psychoman59 : met l'ante. 10
+OSCARBRETAGNE : met la petite blind. 50
+pir265 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Qd]
+psychoman59 : relance. 100 à 200
+OSCARBRETAGNE : passe. 
+pir265 : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 280  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Siège 1 : OSCARBRETAGNE (petite blind) s'est couché. avant Flop
+Siège 2 : pir265 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (280)
+
+
+
+Main PokerStars n°237740886807 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 14:16:17 CET [02/08/2022 8:16:17 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (11590 en jetons) 
+Place 2: pir265 (4090 en jetons) 
+Place 3: psychoman59 (4320 en jetons) 
+OSCARBRETAGNE : met l'ante. 10
+pir265 : met l'ante. 10
+psychoman59 : met l'ante. 10
+pir265 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 7c]
+OSCARBRETAGNE : relance. 100 à 200
+pir265 : suit. 150
+psychoman59 : suit. 100
+*** FLOP *** [6s 4s Qd]
+pir265 : parole 
+psychoman59 : parole 
+OSCARBRETAGNE : parole 
+*** TOURNANT *** [6s 4s Qd] [9d]
+pir265 : parole 
+psychoman59 : parole 
+OSCARBRETAGNE : parole 
+*** RIVIÈRE *** [6s 4s Qd 9d] [4c]
+pir265 : parole 
+psychoman59 : parole 
+OSCARBRETAGNE : mise. 200
+pir265 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 630  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 630 | Commission 0 
+Tableau [6s 4s Qd 9d 4c]
+Siège 1 : OSCARBRETAGNE (bouton) a remporté (630)
+Siège 2 : pir265 (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237740892120 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 14:16:42 CET [02/08/2022 8:16:42 ET]
+Table '3450306740 1' 4-max Siège #2 est au bouton.
+Place 1: OSCARBRETAGNE (12010 en jetons) 
+Place 2: pir265 (3880 en jetons) 
+Place 3: psychoman59 (4110 en jetons) 
+OSCARBRETAGNE : met l'ante. 10
+pir265 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+OSCARBRETAGNE : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Qs]
+pir265 : relance. 100 à 200
+psychoman59 : passe. 
+OSCARBRETAGNE : suit. 100
+*** FLOP *** [3h 4d Tc]
+OSCARBRETAGNE : parole 
+pir265 : mise. 240
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (240) sont retournés à pir265.
+pir265 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [3h 4d Tc]
+Siège 1 : OSCARBRETAGNE (grosse blind) s'est couché. sur le Flop
+Siège 2 : pir265 (bouton) a remporté (480)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237740895383 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 14:16:58 CET [02/08/2022 8:16:58 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (11800 en jetons) 
+Place 2: pir265 (4150 en jetons) 
+Place 3: psychoman59 (4050 en jetons) 
+OSCARBRETAGNE : met l'ante. 10
+pir265 : met l'ante. 10
+psychoman59 : met l'ante. 10
+OSCARBRETAGNE : met la petite blind. 50
+pir265 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 9c]
+psychoman59 : passe. 
+OSCARBRETAGNE : suit. 50
+pir265 : parole 
+*** FLOP *** [9h Jc 7c]
+OSCARBRETAGNE : mise. 230
+pir265 : passe. 
+Personne n'a suivi. (230) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 230  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 230 | Commission 0 
+Tableau [9h Jc 7c]
+Siège 1 : OSCARBRETAGNE (petite blind) a remporté (230)
+Siège 2 : pir265 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237740899682 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 02/08/2022 14:17:19 CET [02/08/2022 8:17:19 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (11920 en jetons) 
+Place 2: pir265 (4040 en jetons) 
+Place 3: psychoman59 (4040 en jetons) 
+OSCARBRETAGNE : met l'ante. 15
+pir265 : met l'ante. 15
+psychoman59 : met l'ante. 15
+pir265 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ts]
+OSCARBRETAGNE : suit. 120
+pir265 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [7d Js Qs]
+pir265 : parole 
+psychoman59 : parole 
+OSCARBRETAGNE : parole 
+*** TOURNANT *** [7d Js Qs] [Qd]
+pir265 : parole 
+psychoman59 : parole 
+OSCARBRETAGNE : parole 
+*** RIVIÈRE *** [7d Js Qs Qd] [6d]
+pir265 : parole 
+psychoman59 : parole 
+OSCARBRETAGNE : mise. 240
+pir265 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (240) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 405  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 405 | Commission 0 
+Tableau [7d Js Qs Qd 6d]
+Siège 1 : OSCARBRETAGNE (bouton) a remporté (405)
+Siège 2 : pir265 (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237740905860 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 02/08/2022 14:17:48 CET [02/08/2022 8:17:48 ET]
+Table '3450306740 1' 4-max Siège #2 est au bouton.
+Place 1: OSCARBRETAGNE (12190 en jetons) 
+Place 2: pir265 (3905 en jetons) 
+Place 3: psychoman59 (3905 en jetons) 
+OSCARBRETAGNE : met l'ante. 15
+pir265 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+OSCARBRETAGNE : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 7d]
+pir265 : relance. 120 à 240
+psychoman59 : passe. 
+OSCARBRETAGNE : suit. 120
+*** FLOP *** [8d 9c 3c]
+OSCARBRETAGNE : parole 
+pir265 : mise. 585
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (585) sont retournés à pir265.
+pir265 a remporté 585  lors du pot .
+pir265 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 585 | Commission 0 
+Tableau [8d 9c 3c]
+Siège 1 : OSCARBRETAGNE (grosse blind) s'est couché. sur le Flop
+Siège 2 : pir265 (bouton) a remporté (585)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237740909508 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 02/08/2022 14:18:06 CET [02/08/2022 8:18:06 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (11935 en jetons) 
+Place 2: pir265 (4235 en jetons) 
+Place 3: psychoman59 (3830 en jetons) 
+OSCARBRETAGNE : met l'ante. 15
+pir265 : met l'ante. 15
+psychoman59 : met l'ante. 15
+OSCARBRETAGNE : met la petite blind. 60
+pir265 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 4s]
+psychoman59 : passe. 
+OSCARBRETAGNE : suit. 60
+pir265 : parole 
+*** FLOP *** [5s Jh 6s]
+OSCARBRETAGNE : parole 
+pir265 : parole 
+*** TOURNANT *** [5s Jh 6s] [4c]
+OSCARBRETAGNE : mise. 120
+pir265 : suit. 120
+*** RIVIÈRE *** [5s Jh 6s 4c] [2h]
+OSCARBRETAGNE : mise. 120
+pir265 : suit. 120
+*** ABATTAGE ***
+OSCARBRETAGNE : montre [Ad 5c] (une paire de Cinq)
+pir265 : cache la main perdante. 
+OSCARBRETAGNE a remporté 765  lors du pot .
+*** SYNTHÈSE ***
+Pot total 765 | Commission 0 
+Tableau [5s Jh 6s 4c 2h]
+Siège 1 : OSCARBRETAGNE (petite blind) a montré [Ad 5c] et a gagné (765) avec une paire de Cinq
+Siège 2 : pir265 (grosse blind) a caché la main perdante. [4d Tc]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237740913370 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 02/08/2022 14:18:25 CET [02/08/2022 8:18:25 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (12325 en jetons) 
+Place 2: pir265 (3860 en jetons) 
+Place 3: psychoman59 (3815 en jetons) 
+OSCARBRETAGNE : met l'ante. 15
+pir265 : met l'ante. 15
+psychoman59 : met l'ante. 15
+pir265 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Qh]
+OSCARBRETAGNE : suit. 120
+pir265 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Kd Tc Kc]
+psychoman59 : parole 
+OSCARBRETAGNE : parole 
+*** TOURNANT *** [Kd Tc Kc] [9d]
+psychoman59 : parole 
+OSCARBRETAGNE : parole 
+*** RIVIÈRE *** [Kd Tc Kc 9d] [2d]
+psychoman59 : parole 
+OSCARBRETAGNE : mise. 120
+psychoman59 : relance. 585 à 705
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (585) sont retournés à psychoman59.
+psychoman59 a remporté 585  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 585 | Commission 0 
+Tableau [Kd Tc Kc 9d 2d]
+Siège 1 : OSCARBRETAGNE (bouton) s'est couché. sur le Rivière
+Siège 2 : pir265 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (585)
+
+
+
+Main PokerStars n°237740918524 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 02/08/2022 14:18:50 CET [02/08/2022 8:18:50 ET]
+Table '3450306740 1' 4-max Siège #2 est au bouton.
+Place 1: OSCARBRETAGNE (12070 en jetons) 
+Place 2: pir265 (3785 en jetons) 
+Place 3: psychoman59 (4145 en jetons) 
+OSCARBRETAGNE : met l'ante. 15
+pir265 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+OSCARBRETAGNE : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Ks]
+pir265 : suit. 120
+psychoman59 : suit. 60
+OSCARBRETAGNE : parole 
+*** FLOP *** [4c 5c Kd]
+psychoman59 : parole 
+OSCARBRETAGNE : parole 
+pir265 : parole 
+*** TOURNANT *** [4c 5c Kd] [Kh]
+psychoman59 : parole 
+OSCARBRETAGNE : parole 
+pir265 : mise. 120
+psychoman59 : suit. 120
+OSCARBRETAGNE : passe. 
+*** RIVIÈRE *** [4c 5c Kd Kh] [4s]
+psychoman59 : parole 
+pir265 : mise. 322
+psychoman59 : relance. 322 à 644
+pir265 : passe. 
+Personne n'a suivi. (322) sont retournés à psychoman59.
+psychoman59 a remporté 1289  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1289 | Commission 0 
+Tableau [4c 5c Kd Kh 4s]
+Siège 1 : OSCARBRETAGNE (grosse blind) s'est couché. sur le Tournant
+Siège 2 : pir265 (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) a remporté (1289)
+
+
+
+Main PokerStars n°237740925821 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 02/08/2022 14:19:26 CET [02/08/2022 8:19:26 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (11935 en jetons) 
+Place 2: pir265 (3208 en jetons) 
+Place 3: psychoman59 (4857 en jetons) 
+OSCARBRETAGNE : met l'ante. 15
+pir265 : met l'ante. 15
+psychoman59 : met l'ante. 15
+OSCARBRETAGNE : met la petite blind. 60
+pir265 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 8d]
+psychoman59 : passe. 
+OSCARBRETAGNE : suit. 60
+pir265 : relance. 120 à 240
+OSCARBRETAGNE : suit. 120
+*** FLOP *** [3d 2h 6s]
+OSCARBRETAGNE : parole 
+pir265 : mise. 525
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (525) sont retournés à pir265.
+pir265 a remporté 525  lors du pot .
+*** SYNTHÈSE ***
+Pot total 525 | Commission 0 
+Tableau [3d 2h 6s]
+Siège 1 : OSCARBRETAGNE (petite blind) s'est couché. sur le Flop
+Siège 2 : pir265 (grosse blind) a remporté (525)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237740929672 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 02/08/2022 14:19:45 CET [02/08/2022 8:19:45 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (11680 en jetons) 
+Place 2: pir265 (3478 en jetons) 
+Place 3: psychoman59 (4842 en jetons) 
+OSCARBRETAGNE : met l'ante. 15
+pir265 : met l'ante. 15
+psychoman59 : met l'ante. 15
+pir265 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 8c]
+OSCARBRETAGNE : suit. 120
+pir265 : suit. 60
+psychoman59 : relance. 4707 à 4827 et est all-in.
+OSCARBRETAGNE : passe. 
+pir265 : passe. 
+Personne n'a suivi. (4707) sont retournés à psychoman59.
+psychoman59 a remporté 405  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 405 | Commission 0 
+Siège 1 : OSCARBRETAGNE (bouton) s'est couché. avant Flop
+Siège 2 : pir265 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (405)
+
+
+
+Main PokerStars n°237740933267 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 02/08/2022 14:20:02 CET [02/08/2022 8:20:02 ET]
+Table '3450306740 1' 4-max Siège #2 est au bouton.
+Place 1: OSCARBRETAGNE (11545 en jetons) 
+Place 2: pir265 (3343 en jetons) 
+Place 3: psychoman59 (5112 en jetons) 
+OSCARBRETAGNE : met l'ante. 20
+pir265 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+OSCARBRETAGNE : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Jd]
+pir265 : relance. 435 à 585
+psychoman59 : suit. 510
+OSCARBRETAGNE : passe. 
+*** FLOP *** [3d Th 9d]
+psychoman59 : parole 
+pir265 : parole 
+*** TOURNANT *** [3d Th 9d] [Js]
+psychoman59 : parole 
+pir265 : parole 
+*** RIVIÈRE *** [3d Th 9d Js] [9s]
+psychoman59 : mise. 690
+pir265 : suit. 690
+*** ABATTAGE ***
+psychoman59 : montre [Kd Jd] (double paire, Valets et Neuf)
+pir265 : cache la main perdante. 
+psychoman59 a remporté 2760  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2760 | Commission 0 
+Tableau [3d Th 9d Js 9s]
+Siège 1 : OSCARBRETAGNE (grosse blind) s'est couché. avant Flop
+Siège 2 : pir265 (bouton) a caché la main perdante. [Ac Qh]
+Siège 3 : psychoman59 (petite blind) a montré [Kd Jd] et a gagné (2760) avec double paire, Valets et Neuf
+
+
+
+Main PokerStars n°237740938830 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 02/08/2022 14:20:29 CET [02/08/2022 8:20:29 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (11375 en jetons) 
+Place 2: pir265 (2048 en jetons) 
+Place 3: psychoman59 (6577 en jetons) 
+OSCARBRETAGNE : met l'ante. 20
+pir265 : met l'ante. 20
+psychoman59 : met l'ante. 20
+OSCARBRETAGNE : met la petite blind. 75
+pir265 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ah]
+psychoman59 : passe. 
+OSCARBRETAGNE : suit. 75
+pir265 : parole 
+*** FLOP *** [5d 7d 6d]
+OSCARBRETAGNE : parole 
+pir265 : mise. 150
+OSCARBRETAGNE : suit. 150
+*** TOURNANT *** [5d 7d 6d] [8s]
+OSCARBRETAGNE : mise. 150
+pir265 : suit. 150
+*** RIVIÈRE *** [5d 7d 6d 8s] [Js]
+OSCARBRETAGNE : mise. 300
+pir265 : suit. 300
+*** ABATTAGE ***
+OSCARBRETAGNE : montre [2d Th] (Hauteur Valet)
+pir265 : montre [7c Qc] (une paire de Sept)
+pir265 a remporté 1560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1560 | Commission 0 
+Tableau [5d 7d 6d 8s Js]
+Siège 1 : OSCARBRETAGNE (petite blind) a montré [2d Th] et a perdu avec Hauteur Valet
+Siège 2 : pir265 (grosse blind) a montré [7c Qc] et a gagné (1560) avec une paire de Sept
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237740953520 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 02/08/2022 14:20:55 CET [02/08/2022 8:20:55 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (10605 en jetons) 
+Place 2: pir265 (2838 en jetons) 
+Place 3: psychoman59 (6557 en jetons) 
+OSCARBRETAGNE : met l'ante. 20
+pir265 : met l'ante. 20
+psychoman59 : met l'ante. 20
+pir265 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Qh]
+OSCARBRETAGNE : suit. 150
+pir265 : suit. 75
+psychoman59 : relance. 510 à 660
+OSCARBRETAGNE : suit. 510
+pir265 : passe. 
+*** FLOP *** [8d 4c 9d]
+psychoman59 : mise. 1530
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (1530) sont retournés à psychoman59.
+psychoman59 a remporté 1530  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1530 | Commission 0 
+Tableau [8d 4c 9d]
+Siège 1 : OSCARBRETAGNE (bouton) s'est couché. sur le Flop
+Siège 2 : pir265 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (1530)
+
+
+
+Main PokerStars n°237740958633 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 02/08/2022 14:21:19 CET [02/08/2022 8:21:19 ET]
+Table '3450306740 1' 4-max Siège #2 est au bouton.
+Place 1: OSCARBRETAGNE (9925 en jetons) 
+Place 2: pir265 (2668 en jetons) 
+Place 3: psychoman59 (7407 en jetons) 
+OSCARBRETAGNE : met l'ante. 20
+pir265 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+OSCARBRETAGNE : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 5d]
+pir265 : relance. 435 à 585
+psychoman59 : passe. 
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (435) sont retournés à pir265.
+pir265 a remporté 435  lors du pot .
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Siège 1 : OSCARBRETAGNE (grosse blind) s'est couché. avant Flop
+Siège 2 : pir265 (bouton) a remporté (435)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237740961518 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 02/08/2022 14:21:33 CET [02/08/2022 8:21:33 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (9755 en jetons) 
+Place 2: pir265 (2933 en jetons) 
+Place 3: psychoman59 (7312 en jetons) 
+OSCARBRETAGNE : met l'ante. 20
+pir265 : met l'ante. 20
+psychoman59 : met l'ante. 20
+OSCARBRETAGNE : met la petite blind. 75
+pir265 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 9h]
+psychoman59 : relance. 435 à 585
+OSCARBRETAGNE : passe. 
+pir265 : suit. 435
+*** FLOP *** [3h 6d Qh]
+pir265 : parole 
+psychoman59 : mise. 1305
+pir265 : relance. 1023 à 2328 et est all-in.
+psychoman59 : suit. 1023
+*** TOURNANT *** [3h 6d Qh] [8c]
+*** RIVIÈRE *** [3h 6d Qh 8c] [2s]
+*** ABATTAGE ***
+pir265 : montre [6c Ad] (une paire de Six)
+psychoman59 : montre [9c 9h] (une paire de Neuf)
+psychoman59 a remporté 5961  lors du pot .
+pir265 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 5961 | Commission 0 
+Tableau [3h 6d Qh 8c 2s]
+Siège 1 : OSCARBRETAGNE (petite blind) s'est couché. avant Flop
+Siège 2 : pir265 (grosse blind) a montré [6c Ad] et a perdu avec une paire de Six
+Siège 3 : psychoman59 (bouton) a montré [9c 9h] et a gagné (5961) avec une paire de Neuf
+
+
+
+Main PokerStars n°237740967455 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 02/08/2022 14:22:01 CET [02/08/2022 8:22:01 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (9660 en jetons) 
+Place 3: psychoman59 (10340 en jetons) 
+OSCARBRETAGNE : met l'ante. 20
+psychoman59 : met l'ante. 20
+OSCARBRETAGNE : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 2c]
+OSCARBRETAGNE : relance. 150 à 300
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 340  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) a remporté (340)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237740969426 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 02/08/2022 14:22:10 CET [02/08/2022 8:22:10 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (9830 en jetons) 
+Place 3: psychoman59 (10170 en jetons) 
+OSCARBRETAGNE : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+OSCARBRETAGNE : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Qh]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 190  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : OSCARBRETAGNE (grosse blind) a remporté (190)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237740971362 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 02/08/2022 14:22:19 CET [02/08/2022 8:22:19 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (9925 en jetons) 
+Place 3: psychoman59 (10075 en jetons) 
+OSCARBRETAGNE : met l'ante. 20
+psychoman59 : met l'ante. 20
+OSCARBRETAGNE : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 7c]
+OSCARBRETAGNE : suit. 75
+psychoman59 : relance. 9905 à 10055 et est all-in.
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (9905) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (340)
+
+
+
+Main PokerStars n°237740974081 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 02/08/2022 14:22:32 CET [02/08/2022 8:22:32 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (9755 en jetons) 
+Place 3: psychoman59 (10245 en jetons) 
+OSCARBRETAGNE : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+OSCARBRETAGNE : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Td]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 190  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : OSCARBRETAGNE (grosse blind) a remporté (190)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237740975683 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 02/08/2022 14:22:39 CET [02/08/2022 8:22:39 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (9850 en jetons) 
+Place 3: psychoman59 (10150 en jetons) 
+OSCARBRETAGNE : met l'ante. 20
+psychoman59 : met l'ante. 20
+OSCARBRETAGNE : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ac]
+OSCARBRETAGNE : suit. 75
+psychoman59 : relance. 9980 à 10130 et est all-in.
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (9980) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (340)
+
+
+
+Main PokerStars n°237740978132 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 02/08/2022 14:22:51 CET [02/08/2022 8:22:51 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (9680 en jetons) 
+Place 3: psychoman59 (10320 en jetons) 
+OSCARBRETAGNE : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+OSCARBRETAGNE : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Jh]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 190  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 1 : OSCARBRETAGNE (grosse blind) a remporté (190)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237740979890 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 02/08/2022 14:22:59 CET [02/08/2022 8:22:59 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (9775 en jetons) 
+Place 3: psychoman59 (10225 en jetons) 
+OSCARBRETAGNE : met l'ante. 20
+psychoman59 : met l'ante. 20
+OSCARBRETAGNE : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Qh]
+OSCARBRETAGNE : relance. 150 à 300
+psychoman59 : suit. 150
+*** FLOP *** [Td 2s Ah]
+psychoman59 : parole 
+OSCARBRETAGNE : mise. 640
+psychoman59 : suit. 640
+*** TOURNANT *** [Td 2s Ah] [9d]
+psychoman59 : parole 
+OSCARBRETAGNE : parole 
+*** RIVIÈRE *** [Td 2s Ah 9d] [Qc]
+psychoman59 : mise. 1920
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (1920) sont retournés à psychoman59.
+psychoman59 a remporté 1920  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1920 | Commission 0 
+Tableau [Td 2s Ah 9d Qc]
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (1920)
+
+
+
+Main PokerStars n°237740985106 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 02/08/2022 14:23:24 CET [02/08/2022 8:23:24 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (8815 en jetons) 
+Place 3: psychoman59 (11185 en jetons) 
+OSCARBRETAGNE : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+OSCARBRETAGNE : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Kd]
+psychoman59 : relance. 200 à 400
+OSCARBRETAGNE : suit. 200
+*** FLOP *** [2h 4s 8h]
+OSCARBRETAGNE : parole 
+psychoman59 : mise. 850
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (850) sont retournés à psychoman59.
+psychoman59 a remporté 850  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 850 | Commission 0 
+Tableau [2h 4s 8h]
+Siège 1 : OSCARBRETAGNE (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (850)
+
+
+
+Main PokerStars n°237740988639 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 02/08/2022 14:23:41 CET [02/08/2022 8:23:41 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (8390 en jetons) 
+Place 3: psychoman59 (11610 en jetons) 
+OSCARBRETAGNE : met l'ante. 25
+psychoman59 : met l'ante. 25
+OSCARBRETAGNE : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 9s]
+OSCARBRETAGNE : relance. 200 à 400
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 450  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) a remporté (450)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237740990430 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 02/08/2022 14:23:49 CET [02/08/2022 8:23:49 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (8615 en jetons) 
+Place 3: psychoman59 (11385 en jetons) 
+OSCARBRETAGNE : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+OSCARBRETAGNE : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 250  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : OSCARBRETAGNE (grosse blind) a remporté (250)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237740991905 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 02/08/2022 14:23:56 CET [02/08/2022 8:23:56 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (8740 en jetons) 
+Place 3: psychoman59 (11260 en jetons) 
+OSCARBRETAGNE : met l'ante. 25
+psychoman59 : met l'ante. 25
+OSCARBRETAGNE : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Ad]
+OSCARBRETAGNE : relance. 200 à 400
+psychoman59 : relance. 10835 à 11235 et est all-in.
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (10835) sont retournés à psychoman59.
+psychoman59 a remporté 850  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 850 | Commission 0 
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (850)
+
+
+
+Main PokerStars n°237740994213 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 02/08/2022 14:24:07 CET [02/08/2022 8:24:07 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (8315 en jetons) 
+Place 3: psychoman59 (11685 en jetons) 
+OSCARBRETAGNE : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+OSCARBRETAGNE : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 5h]
+psychoman59 : suit. 100
+OSCARBRETAGNE : parole 
+*** FLOP *** [8c Ac Qs]
+OSCARBRETAGNE : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8c Ac Qs] [Ts]
+OSCARBRETAGNE : mise. 200
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 450  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [8c Ac Qs Ts]
+Siège 1 : OSCARBRETAGNE (grosse blind) a remporté (450)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237740997684 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 02/08/2022 14:24:23 CET [02/08/2022 8:24:23 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (8540 en jetons) 
+Place 3: psychoman59 (11460 en jetons) 
+OSCARBRETAGNE : met l'ante. 25
+psychoman59 : met l'ante. 25
+OSCARBRETAGNE : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Kd]
+OSCARBRETAGNE : suit. 100
+psychoman59 : parole 
+*** FLOP *** [3h Ac Qd]
+psychoman59 : parole 
+OSCARBRETAGNE : parole 
+*** TOURNANT *** [3h Ac Qd] [As]
+psychoman59 : parole 
+OSCARBRETAGNE : mise. 450
+psychoman59 : suit. 450
+*** RIVIÈRE *** [3h Ac Qd As] [7d]
+psychoman59 : parole 
+OSCARBRETAGNE : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6d Kd] (une paire de As)
+OSCARBRETAGNE : montre [7c 9d] (double paire, As et Sept)
+OSCARBRETAGNE a remporté 1350  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1350 | Commission 0 
+Tableau [3h Ac Qd As 7d]
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) a montré [7c 9d] et a gagné (1350) avec double paire, As et Sept
+Siège 3 : psychoman59 (grosse blind) a montré [6d Kd] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°237741002145 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 02/08/2022 14:24:44 CET [02/08/2022 8:24:44 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (9215 en jetons) 
+Place 3: psychoman59 (10785 en jetons) 
+OSCARBRETAGNE : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+OSCARBRETAGNE : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 7h]
+psychoman59 : suit. 100
+OSCARBRETAGNE : parole 
+*** FLOP *** [Td Qd Ad]
+OSCARBRETAGNE : parole 
+psychoman59 : mise. 450
+OSCARBRETAGNE : suit. 450
+*** TOURNANT *** [Td Qd Ad] [7s]
+OSCARBRETAGNE : parole 
+psychoman59 : mise. 675
+OSCARBRETAGNE : suit. 675
+*** RIVIÈRE *** [Td Qd Ad 7s] [3c]
+OSCARBRETAGNE : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+OSCARBRETAGNE : montre [9c Jd] (Hauteur As)
+psychoman59 : montre [5h 7h] (une paire de Sept)
+psychoman59 a remporté 2700  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2700 | Commission 0 
+Tableau [Td Qd Ad 7s 3c]
+Siège 1 : OSCARBRETAGNE (grosse blind) a montré [9c Jd] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [5h 7h] et a gagné (2700) avec une paire de Sept
+
+
+
+Main PokerStars n°237741007553 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 02/08/2022 14:25:09 CET [02/08/2022 8:25:09 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (7865 en jetons) 
+Place 3: psychoman59 (12135 en jetons) 
+OSCARBRETAGNE : met l'ante. 25
+psychoman59 : met l'ante. 25
+OSCARBRETAGNE : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Jd]
+OSCARBRETAGNE : suit. 100
+psychoman59 : relance. 11910 à 12110 et est all-in.
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (11910) sont retournés à psychoman59.
+psychoman59 a remporté 450  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (450)
+
+
+
+Main PokerStars n°237741009720 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 02/08/2022 14:25:19 CET [02/08/2022 8:25:19 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (7640 en jetons) 
+Place 3: psychoman59 (12360 en jetons) 
+OSCARBRETAGNE : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+OSCARBRETAGNE : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 250  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : OSCARBRETAGNE (grosse blind) a remporté (250)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237741011296 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 02/08/2022 14:25:26 CET [02/08/2022 8:25:26 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (7765 en jetons) 
+Place 3: psychoman59 (12235 en jetons) 
+OSCARBRETAGNE : met l'ante. 25
+psychoman59 : met l'ante. 25
+OSCARBRETAGNE : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 6d]
+OSCARBRETAGNE : relance. 200 à 400
+psychoman59 : suit. 200
+*** FLOP *** [Td 7h 6c]
+psychoman59 : parole 
+OSCARBRETAGNE : mise. 850
+psychoman59 : passe. 
+Personne n'a suivi. (850) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 850  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 850 | Commission 0 
+Tableau [Td 7h 6c]
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) a remporté (850)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237741014642 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 02/08/2022 14:25:42 CET [02/08/2022 8:25:42 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (8190 en jetons) 
+Place 3: psychoman59 (11810 en jetons) 
+OSCARBRETAGNE : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+OSCARBRETAGNE : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 250  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : OSCARBRETAGNE (grosse blind) a remporté (250)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237741016128 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 02/08/2022 14:25:49 CET [02/08/2022 8:25:49 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (8315 en jetons) 
+Place 3: psychoman59 (11685 en jetons) 
+OSCARBRETAGNE : met l'ante. 25
+psychoman59 : met l'ante. 25
+OSCARBRETAGNE : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 4d]
+OSCARBRETAGNE : relance. 200 à 400
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 450  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) a remporté (450)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237741018424 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 02/08/2022 14:26:00 CET [02/08/2022 8:26:00 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (8540 en jetons) 
+Place 3: psychoman59 (11460 en jetons) 
+OSCARBRETAGNE : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+OSCARBRETAGNE : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 7c]
+psychoman59 : relance. 450 à 650
+OSCARBRETAGNE : suit. 450
+*** FLOP *** [6h 7h Jd]
+OSCARBRETAGNE : parole 
+psychoman59 : mise. 1350
+OSCARBRETAGNE : relance. 6515 à 7865 et est all-in.
+psychoman59 : suit. 6515
+*** TOURNANT *** [6h 7h Jd] [5h]
+*** RIVIÈRE *** [6h 7h Jd 5h] [3h]
+*** ABATTAGE ***
+OSCARBRETAGNE : montre [Ts Jc] (une paire de Valets)
+psychoman59 : montre [Ad 7c] (une paire de Sept)
+OSCARBRETAGNE a remporté 17080  lors du pot .
+*** SYNTHÈSE ***
+Pot total 17080 | Commission 0 
+Tableau [6h 7h Jd 5h 3h]
+Siège 1 : OSCARBRETAGNE (grosse blind) a montré [Ts Jc] et a gagné (17080) avec une paire de Valets
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ad 7c] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°237741024306 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/08/2022 14:26:27 CET [02/08/2022 8:26:27 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (17080 en jetons) 
+Place 3: psychoman59 (2920 en jetons) 
+OSCARBRETAGNE : met l'ante. 30
+psychoman59 : met l'ante. 30
+OSCARBRETAGNE : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 4h]
+OSCARBRETAGNE : suit. 125
+psychoman59 : parole 
+*** FLOP *** [2h 3h 9h]
+psychoman59 : parole 
+OSCARBRETAGNE : mise. 500
+psychoman59 : passe. 
+Personne n'a suivi. (500) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 560  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [2h 3h 9h]
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) a remporté (560)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237741027556 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/08/2022 14:26:42 CET [02/08/2022 8:26:42 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (17360 en jetons) 
+Place 3: psychoman59 (2640 en jetons) 
+OSCARBRETAGNE : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+OSCARBRETAGNE : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 310  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : OSCARBRETAGNE (grosse blind) a remporté (310)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237741029106 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/08/2022 14:26:50 CET [02/08/2022 8:26:50 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (17515 en jetons) 
+Place 3: psychoman59 (2485 en jetons) 
+OSCARBRETAGNE : met l'ante. 30
+psychoman59 : met l'ante. 30
+OSCARBRETAGNE : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 2c]
+OSCARBRETAGNE : relance. 250 à 500
+psychoman59 : relance. 1955 à 2455 et est all-in.
+OSCARBRETAGNE : suit. 1955
+*** FLOP *** [9s 4h 2s]
+*** TOURNANT *** [9s 4h 2s] [6h]
+*** RIVIÈRE *** [9s 4h 2s 6h] [2d]
+*** ABATTAGE ***
+psychoman59 : montre [Ks 2c] (un brelan de Deux)
+OSCARBRETAGNE : montre [8s 9d] (double paire, Neuf et Deux)
+psychoman59 a remporté 4970  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4970 | Commission 0 
+Tableau [9s 4h 2s 6h 2d]
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) a montré [8s 9d] et a perdu avec double paire, Neuf et Deux
+Siège 3 : psychoman59 (grosse blind) a montré [Ks 2c] et a gagné (4970) avec un brelan de Deux
+
+
+
+Main PokerStars n°237741032683 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/08/2022 14:27:06 CET [02/08/2022 8:27:06 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (15030 en jetons) 
+Place 3: psychoman59 (4970 en jetons) 
+OSCARBRETAGNE : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+OSCARBRETAGNE : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 9c]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 310  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : OSCARBRETAGNE (grosse blind) a remporté (310)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237741034257 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/08/2022 14:27:14 CET [02/08/2022 8:27:14 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (15185 en jetons) 
+Place 3: psychoman59 (4815 en jetons) 
+OSCARBRETAGNE : met l'ante. 30
+psychoman59 : met l'ante. 30
+OSCARBRETAGNE : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Kd]
+OSCARBRETAGNE : suit. 125
+psychoman59 : relance. 4535 à 4785 et est all-in.
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (4535) sont retournés à psychoman59.
+psychoman59 a remporté 560  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (560)
+
+
+
+Main PokerStars n°237741036680 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/08/2022 14:27:25 CET [02/08/2022 8:27:25 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (14905 en jetons) 
+Place 3: psychoman59 (5095 en jetons) 
+OSCARBRETAGNE : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+OSCARBRETAGNE : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 6d]
+psychoman59 : suit. 125
+OSCARBRETAGNE : parole 
+*** FLOP *** [Qc 6c As]
+OSCARBRETAGNE : mise. 250
+psychoman59 : suit. 250
+*** TOURNANT *** [Qc 6c As] [4d]
+OSCARBRETAGNE : mise. 250
+psychoman59 : suit. 250
+*** RIVIÈRE *** [Qc 6c As 4d] [Qd]
+OSCARBRETAGNE : mise. 250
+psychoman59 : suit. 250
+*** ABATTAGE ***
+OSCARBRETAGNE : montre [5c Ac] (double paire, As et Dames)
+psychoman59 : cache la main perdante. 
+OSCARBRETAGNE a remporté 2060  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2060 | Commission 0 
+Tableau [Qc 6c As 4d Qd]
+Siège 1 : OSCARBRETAGNE (grosse blind) a montré [5c Ac] et a gagné (2060) avec double paire, As et Dames
+Siège 3 : psychoman59 (bouton) (petite blind) a caché la main perdante. [Td 6d]
+
+
+
+Main PokerStars n°237741041184 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/08/2022 14:27:46 CET [02/08/2022 8:27:46 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (15935 en jetons) 
+Place 3: psychoman59 (4065 en jetons) 
+OSCARBRETAGNE : met l'ante. 30
+psychoman59 : met l'ante. 30
+OSCARBRETAGNE : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 4h]
+OSCARBRETAGNE : suit. 125
+psychoman59 : parole 
+*** FLOP *** [Kc 8d Th]
+psychoman59 : parole 
+OSCARBRETAGNE : mise. 250
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 560  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Kc 8d Th]
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) a remporté (560)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237741044166 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/08/2022 14:28:00 CET [02/08/2022 8:28:00 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (16215 en jetons) 
+Place 3: psychoman59 (3785 en jetons) 
+OSCARBRETAGNE : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+OSCARBRETAGNE : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Kc]
+psychoman59 : relance. 3505 à 3755 et est all-in.
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (3505) sont retournés à psychoman59.
+psychoman59 a remporté 560  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : OSCARBRETAGNE (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°237741046380 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/08/2022 14:28:10 CET [02/08/2022 8:28:10 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (15935 en jetons) 
+Place 3: psychoman59 (4065 en jetons) 
+OSCARBRETAGNE : met l'ante. 30
+psychoman59 : met l'ante. 30
+OSCARBRETAGNE : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 9c]
+OSCARBRETAGNE : suit. 125
+psychoman59 : parole 
+*** FLOP *** [Qc 8h Kc]
+psychoman59 : parole 
+OSCARBRETAGNE : parole 
+*** TOURNANT *** [Qc 8h Kc] [5d]
+psychoman59 : parole 
+OSCARBRETAGNE : parole 
+*** RIVIÈRE *** [Qc 8h Kc 5d] [4h]
+psychoman59 : parole 
+OSCARBRETAGNE : mise. 250
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 560  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Qc 8h Kc 5d 4h]
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) a remporté (560)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237741050741 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/08/2022 14:28:30 CET [02/08/2022 8:28:30 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (16215 en jetons) 
+Place 3: psychoman59 (3785 en jetons) 
+OSCARBRETAGNE : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+OSCARBRETAGNE : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Kh]
+psychoman59 : relance. 3505 à 3755 et est all-in.
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (3505) sont retournés à psychoman59.
+psychoman59 a remporté 560  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : OSCARBRETAGNE (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°237741052880 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/08/2022 14:28:40 CET [02/08/2022 8:28:40 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (15935 en jetons) 
+Place 3: psychoman59 (4065 en jetons) 
+OSCARBRETAGNE : met l'ante. 30
+psychoman59 : met l'ante. 30
+OSCARBRETAGNE : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 2s]
+OSCARBRETAGNE : suit. 125
+psychoman59 : parole 
+*** FLOP *** [Qs Ac 4d]
+psychoman59 : parole 
+OSCARBRETAGNE : mise. 250
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 560  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Qs Ac 4d]
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) a remporté (560)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237741055985 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 02/08/2022 14:28:54 CET [02/08/2022 8:28:54 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (16215 en jetons) 
+Place 3: psychoman59 (3785 en jetons) 
+OSCARBRETAGNE : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+OSCARBRETAGNE : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 6d]
+psychoman59 : suit. 125
+OSCARBRETAGNE : parole 
+*** FLOP *** [Qh Tc 7s]
+OSCARBRETAGNE : parole 
+psychoman59 : mise. 560
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (560) sont retournés à psychoman59.
+psychoman59 a remporté 560  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Qh Tc 7s]
+Siège 1 : OSCARBRETAGNE (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°237741059758 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 02/08/2022 14:29:12 CET [02/08/2022 8:29:12 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (15935 en jetons) 
+Place 3: psychoman59 (4065 en jetons) 
+OSCARBRETAGNE : met l'ante. 40
+psychoman59 : met l'ante. 40
+OSCARBRETAGNE : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Ad]
+OSCARBRETAGNE : suit. 150
+psychoman59 : relance. 600 à 900
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (600) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (680)
+
+
+
+Main PokerStars n°237741062405 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 02/08/2022 14:29:24 CET [02/08/2022 8:29:24 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (15595 en jetons) 
+Place 3: psychoman59 (4405 en jetons) 
+OSCARBRETAGNE : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+OSCARBRETAGNE : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 380  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : OSCARBRETAGNE (grosse blind) a remporté (380)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237741063985 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 02/08/2022 14:29:32 CET [02/08/2022 8:29:32 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (15785 en jetons) 
+Place 3: psychoman59 (4215 en jetons) 
+OSCARBRETAGNE : met l'ante. 40
+psychoman59 : met l'ante. 40
+OSCARBRETAGNE : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Jc]
+OSCARBRETAGNE : relance. 300 à 600
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 680  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) a remporté (680)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237741065830 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 02/08/2022 14:29:41 CET [02/08/2022 8:29:41 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (16125 en jetons) 
+Place 3: psychoman59 (3875 en jetons) 
+OSCARBRETAGNE : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+OSCARBRETAGNE : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 5c]
+psychoman59 : relance. 3535 à 3835 et est all-in.
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (3535) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 1 : OSCARBRETAGNE (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (680)
+
+
+
+Main PokerStars n°237741068132 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 02/08/2022 14:29:51 CET [02/08/2022 8:29:51 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (15785 en jetons) 
+Place 3: psychoman59 (4215 en jetons) 
+OSCARBRETAGNE : met l'ante. 40
+psychoman59 : met l'ante. 40
+OSCARBRETAGNE : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 4h]
+OSCARBRETAGNE : suit. 150
+psychoman59 : relance. 3875 à 4175 et est all-in.
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (3875) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (680)
+
+
+
+Main PokerStars n°237741070559 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 02/08/2022 14:30:03 CET [02/08/2022 8:30:03 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (15445 en jetons) 
+Place 3: psychoman59 (4555 en jetons) 
+OSCARBRETAGNE : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+OSCARBRETAGNE : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Th]
+psychoman59 : suit. 150
+OSCARBRETAGNE : parole 
+*** FLOP *** [6h 3s 3c]
+OSCARBRETAGNE : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6h 3s 3c] [Ah]
+OSCARBRETAGNE : mise. 300
+psychoman59 : suit. 300
+*** RIVIÈRE *** [6h 3s 3c Ah] [4s]
+OSCARBRETAGNE : mise. 300
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 1280  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1280 | Commission 0 
+Tableau [6h 3s 3c Ah 4s]
+Siège 1 : OSCARBRETAGNE (grosse blind) a remporté (1280)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237741074952 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 02/08/2022 14:30:23 CET [02/08/2022 8:30:23 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (16085 en jetons) 
+Place 3: psychoman59 (3915 en jetons) 
+OSCARBRETAGNE : met l'ante. 40
+psychoman59 : met l'ante. 40
+OSCARBRETAGNE : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 9s]
+OSCARBRETAGNE : suit. 150
+psychoman59 : parole 
+*** FLOP *** [4d Qd 4h]
+psychoman59 : parole 
+OSCARBRETAGNE : parole 
+*** TOURNANT *** [4d Qd 4h] [8c]
+psychoman59 : parole 
+OSCARBRETAGNE : parole 
+*** RIVIÈRE *** [4d Qd 4h 8c] [Qs]
+psychoman59 : parole 
+OSCARBRETAGNE : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6h 9s] (double paire, Dames et Quatre)
+OSCARBRETAGNE : montre [9h Kc] (double paire, Dames et Quatre - Roi kicker)
+OSCARBRETAGNE a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [4d Qd 4h 8c Qs]
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) a montré [9h Kc] et a gagné (680) avec double paire, Dames et Quatre
+Siège 3 : psychoman59 (grosse blind) a montré [6h 9s] et a perdu avec double paire, Dames et Quatre
+
+
+
+Main PokerStars n°237741080169 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 02/08/2022 14:30:48 CET [02/08/2022 8:30:48 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (16425 en jetons) 
+Place 3: psychoman59 (3575 en jetons) 
+OSCARBRETAGNE : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+OSCARBRETAGNE : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 5s]
+psychoman59 : suit. 150
+OSCARBRETAGNE : parole 
+*** FLOP *** [Js 3s 3d]
+OSCARBRETAGNE : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Js 3s 3d] [2h]
+OSCARBRETAGNE : mise. 300
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 680  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [Js 3s 3d 2h]
+Siège 1 : OSCARBRETAGNE (grosse blind) a remporté (680)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237741084089 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 02/08/2022 14:31:06 CET [02/08/2022 8:31:06 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (16765 en jetons) 
+Place 3: psychoman59 (3235 en jetons) 
+OSCARBRETAGNE : met l'ante. 40
+psychoman59 : met l'ante. 40
+OSCARBRETAGNE : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 5h]
+OSCARBRETAGNE : suit. 150
+psychoman59 : parole 
+*** FLOP *** [6c 9d Kd]
+psychoman59 : parole 
+OSCARBRETAGNE : parole 
+*** TOURNANT *** [6c 9d Kd] [Ah]
+psychoman59 : parole 
+OSCARBRETAGNE : mise. 300
+psychoman59 : suit. 300
+*** RIVIÈRE *** [6c 9d Kd Ah] [4h]
+psychoman59 : parole 
+OSCARBRETAGNE : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7s 5h] (Hauteur As)
+OSCARBRETAGNE : montre [8d 9h] (une paire de Neuf)
+OSCARBRETAGNE a remporté 1280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1280 | Commission 0 
+Tableau [6c 9d Kd Ah 4h]
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) a montré [8d 9h] et a gagné (1280) avec une paire de Neuf
+Siège 3 : psychoman59 (grosse blind) a montré [7s 5h] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237741089427 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 02/08/2022 14:31:31 CET [02/08/2022 8:31:31 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (17405 en jetons) 
+Place 3: psychoman59 (2595 en jetons) 
+OSCARBRETAGNE : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+OSCARBRETAGNE : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 380  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : OSCARBRETAGNE (grosse blind) a remporté (380)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237741091081 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 02/08/2022 14:31:39 CET [02/08/2022 8:31:39 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (17595 en jetons) 
+Place 3: psychoman59 (2405 en jetons) 
+OSCARBRETAGNE : met l'ante. 40
+psychoman59 : met l'ante. 40
+OSCARBRETAGNE : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 9d]
+OSCARBRETAGNE : suit. 150
+psychoman59 : relance. 2065 à 2365 et est all-in.
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (2065) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (680)
+
+
+
+Main PokerStars n°237741093773 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 02/08/2022 14:31:52 CET [02/08/2022 8:31:52 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (17255 en jetons) 
+Place 3: psychoman59 (2745 en jetons) 
+OSCARBRETAGNE : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+OSCARBRETAGNE : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Kc]
+psychoman59 : relance. 2405 à 2705 et est all-in.
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (2405) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 1 : OSCARBRETAGNE (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (680)
+
+
+
+Main PokerStars n°237741096722 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 02/08/2022 14:32:05 CET [02/08/2022 8:32:05 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (16915 en jetons) 
+Place 3: psychoman59 (3085 en jetons) 
+OSCARBRETAGNE : met l'ante. 50
+psychoman59 : met l'ante. 50
+OSCARBRETAGNE : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 5s]
+OSCARBRETAGNE : suit. 200
+psychoman59 : relance. 2635 à 3035 et est all-in.
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (2635) sont retournés à psychoman59.
+psychoman59 a remporté 900  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (900)
+
+
+
+Main PokerStars n°237741099717 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 02/08/2022 14:32:19 CET [02/08/2022 8:32:19 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (16465 en jetons) 
+Place 3: psychoman59 (3535 en jetons) 
+OSCARBRETAGNE : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+OSCARBRETAGNE : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 2d]
+psychoman59 : relance. 3085 à 3485 et est all-in.
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (3085) sont retournés à psychoman59.
+psychoman59 a remporté 900  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 1 : OSCARBRETAGNE (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (900)
+
+
+
+Main PokerStars n°237741102085 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 02/08/2022 14:32:30 CET [02/08/2022 8:32:30 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (16015 en jetons) 
+Place 3: psychoman59 (3985 en jetons) 
+OSCARBRETAGNE : met l'ante. 50
+psychoman59 : met l'ante. 50
+OSCARBRETAGNE : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Kd]
+OSCARBRETAGNE : relance. 400 à 800
+psychoman59 : suit. 400
+*** FLOP *** [8c Kc 6s]
+psychoman59 : parole 
+OSCARBRETAGNE : parole 
+*** TOURNANT *** [8c Kc 6s] [5c]
+psychoman59 : mise. 850
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (850) sont retournés à psychoman59.
+psychoman59 a remporté 1700  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1700 | Commission 0 
+Tableau [8c Kc 6s 5c]
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a remporté (1700)
+
+
+
+Main PokerStars n°237741107654 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 02/08/2022 14:32:56 CET [02/08/2022 8:32:56 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (15165 en jetons) 
+Place 3: psychoman59 (4835 en jetons) 
+OSCARBRETAGNE : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+OSCARBRETAGNE : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 9c]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 500  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 1 : OSCARBRETAGNE (grosse blind) a remporté (500)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237741109608 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 02/08/2022 14:33:05 CET [02/08/2022 8:33:05 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (15415 en jetons) 
+Place 3: psychoman59 (4585 en jetons) 
+OSCARBRETAGNE : met l'ante. 50
+psychoman59 : met l'ante. 50
+OSCARBRETAGNE : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 4d]
+OSCARBRETAGNE : relance. 400 à 800
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 900  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) a remporté (900)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237741111560 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 02/08/2022 14:33:13 CET [02/08/2022 8:33:13 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (15865 en jetons) 
+Place 3: psychoman59 (4135 en jetons) 
+OSCARBRETAGNE : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+OSCARBRETAGNE : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Jc]
+psychoman59 : relance. 400 à 800
+OSCARBRETAGNE : suit. 400
+*** FLOP *** [Jd Th Jh]
+OSCARBRETAGNE : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jd Th Jh] [8h]
+OSCARBRETAGNE : parole 
+psychoman59 : mise. 1700
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (1700) sont retournés à psychoman59.
+psychoman59 a remporté 1700  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1700 | Commission 0 
+Tableau [Jd Th Jh 8h]
+Siège 1 : OSCARBRETAGNE (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (1700)
+
+
+
+Main PokerStars n°237741116469 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 02/08/2022 14:33:36 CET [02/08/2022 8:33:36 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (15015 en jetons) 
+Place 3: psychoman59 (4985 en jetons) 
+OSCARBRETAGNE : met l'ante. 50
+psychoman59 : met l'ante. 50
+OSCARBRETAGNE : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 8h]
+OSCARBRETAGNE : suit. 200
+psychoman59 : parole 
+*** FLOP *** [6c 6d 6s]
+psychoman59 : parole 
+OSCARBRETAGNE : parole 
+*** TOURNANT *** [6c 6d 6s] [7d]
+psychoman59 : mise. 900
+OSCARBRETAGNE : passe. 
+Personne n'a suivi. (900) sont retournés à psychoman59.
+psychoman59 a remporté 900  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [6c 6d 6s 7d]
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a remporté (900)
+
+
+
+Main PokerStars n°237741120615 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 02/08/2022 14:33:55 CET [02/08/2022 8:33:55 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (14565 en jetons) 
+Place 3: psychoman59 (5435 en jetons) 
+OSCARBRETAGNE : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+OSCARBRETAGNE : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 9h]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 500  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 1 : OSCARBRETAGNE (grosse blind) a remporté (500)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237741122334 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 02/08/2022 14:34:03 CET [02/08/2022 8:34:03 ET]
+Table '3450306740 1' 4-max Siège #1 est au bouton.
+Place 1: OSCARBRETAGNE (14815 en jetons) 
+Place 3: psychoman59 (5185 en jetons) 
+OSCARBRETAGNE : met l'ante. 50
+psychoman59 : met l'ante. 50
+OSCARBRETAGNE : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 2s]
+OSCARBRETAGNE : suit. 200
+psychoman59 : parole 
+*** FLOP *** [2c 4h Ac]
+psychoman59 : parole 
+OSCARBRETAGNE : mise. 800
+psychoman59 : passe. 
+Personne n'a suivi. (800) sont retournés à OSCARBRETAGNE.
+OSCARBRETAGNE a remporté 900  lors du pot .
+OSCARBRETAGNE : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [2c 4h Ac]
+Siège 1 : OSCARBRETAGNE (bouton) (petite blind) a remporté (900)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237741125410 : Tournoi #3450306740, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 02/08/2022 14:34:18 CET [02/08/2022 8:34:18 ET]
+Table '3450306740 1' 4-max Siège #3 est au bouton.
+Place 1: OSCARBRETAGNE (15265 en jetons) 
+Place 3: psychoman59 (4735 en jetons) 
+OSCARBRETAGNE : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+OSCARBRETAGNE : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Ad]
+psychoman59 : relance. 400 à 800
+OSCARBRETAGNE : relance. 1700 à 2500
+psychoman59 : relance. 2185 à 4685 et est all-in.
+OSCARBRETAGNE : suit. 2185
+*** FLOP *** [4c 5s Th]
+*** TOURNANT *** [4c 5s Th] [3d]
+*** RIVIÈRE *** [4c 5s Th 3d] [Td]
+*** ABATTAGE ***
+OSCARBRETAGNE : montre [Kd Ah] (une paire de Dix)
+psychoman59 : montre [Qd Ad] (une paire de Dix - plus basse kicker)
+OSCARBRETAGNE a remporté 9470  lors du pot .
+psychoman59 a fini le tournoi à la 2e place et a reçu 0.34 €.
+OSCARBRETAGNE gagne le tournoi - félicitations !
+OSCARBRETAGNE gagne un ticket " €1.50 PSPC Mega Path Ticket "
+*** SYNTHÈSE ***
+Pot total 9470 | Commission 0 
+Tableau [4c 5s Th 3d Td]
+Siège 1 : OSCARBRETAGNE (grosse blind) a montré [Kd Ah] et a gagné (9470) avec une paire de Dix
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Qd Ad] et a perdu avec une paire de Dix
+
+
+

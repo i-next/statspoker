@@ -1,0 +1,248 @@
+﻿Main PokerStars n°237940919413 : Tournoi #3455109369, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 11:27:32 CET [12/08/2022 5:27:32 ET]
+Table '3455109369 1' 4-max Siège #1 est au bouton.
+Place 1: Economistonez (5000 en jetons) 
+Place 2: jacquie kim jif (5000 en jetons) 
+Place 3: MrGUILPAIN (5000 en jetons) 
+Place 4: psychoman59 (5000 en jetons) 
+Economistonez : met l'ante. 10
+jacquie kim jif : met l'ante. 10
+MrGUILPAIN : met l'ante. 10
+psychoman59 : met l'ante. 10
+jacquie kim jif : met la petite blind. 50
+MrGUILPAIN : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Jc]
+psychoman59 : suit. 100
+Economistonez : passe. 
+jacquie kim jif : relance. 340 à 440
+MrGUILPAIN : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (340) sont retournés à jacquie kim jif.
+jacquie kim jif a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : Economistonez (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jacquie kim jif (petite blind) a remporté (340)
+Siège 3 : MrGUILPAIN (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 s'est couché. avant Flop
+
+
+
+Main PokerStars n°237940922628 : Tournoi #3455109369, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 11:27:53 CET [12/08/2022 5:27:53 ET]
+Table '3455109369 1' 4-max Siège #2 est au bouton.
+Place 1: Economistonez (4990 en jetons) 
+Place 2: jacquie kim jif (5230 en jetons) 
+Place 3: MrGUILPAIN (4890 en jetons) 
+Place 4: psychoman59 (4890 en jetons) 
+Economistonez : met l'ante. 10
+jacquie kim jif : met l'ante. 10
+MrGUILPAIN : met l'ante. 10
+psychoman59 : met l'ante. 10
+MrGUILPAIN : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 7s]
+Economistonez : passe. 
+jacquie kim jif : relance. 290 à 390
+MrGUILPAIN : suit. 340
+psychoman59 : passe. 
+*** FLOP *** [2d Js 5s]
+MrGUILPAIN : parole 
+jacquie kim jif : mise. 460
+MrGUILPAIN : suit. 460
+*** TOURNANT *** [2d Js 5s] [Jd]
+MrGUILPAIN : parole 
+jacquie kim jif : mise. 920
+MrGUILPAIN : suit. 920
+*** RIVIÈRE *** [2d Js 5s Jd] [Ts]
+MrGUILPAIN : parole 
+jacquie kim jif : mise. 1840
+MrGUILPAIN : suit. 1840
+*** ABATTAGE ***
+jacquie kim jif : montre [Qs 6d] (une paire de Valets)
+MrGUILPAIN : montre [7h 7c] (double paire, Valets et Sept)
+MrGUILPAIN a remporté 7360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 7360 | Commission 0 
+Tableau [2d Js 5s Jd Ts]
+Siège 1 : Economistonez s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jacquie kim jif (bouton) a montré [Qs 6d] et a perdu avec une paire de Valets
+Siège 3 : MrGUILPAIN (petite blind) a montré [7h 7c] et a gagné (7360) avec double paire, Valets et Sept
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237940931242 : Tournoi #3455109369, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 11:28:49 CET [12/08/2022 5:28:49 ET]
+Table '3455109369 1' 4-max Siège #3 est au bouton.
+Place 1: Economistonez (4980 en jetons) 
+Place 2: jacquie kim jif (1610 en jetons) 
+Place 3: MrGUILPAIN (8630 en jetons) 
+Place 4: psychoman59 (4780 en jetons) 
+Economistonez : met l'ante. 10
+jacquie kim jif : met l'ante. 10
+MrGUILPAIN : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+Economistonez : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Qs]
+jacquie kim jif : relance. 290 à 390
+MrGUILPAIN : relance. 590 à 980
+psychoman59 : passe. 
+Economistonez : passe. 
+jacquie kim jif : suit. 590
+*** FLOP *** [Kc Jc Qh]
+jacquie kim jif : mise. 620 et est all-in.
+MrGUILPAIN : suit. 620
+*** TOURNANT *** [Kc Jc Qh] [2s]
+*** RIVIÈRE *** [Kc Jc Qh 2s] [7c]
+*** ABATTAGE ***
+jacquie kim jif : montre [Kh 5s] (une paire de Rois)
+MrGUILPAIN : montre [8d 8c] (une paire de Huit)
+jacquie kim jif a remporté 3390  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3390 | Commission 0 
+Tableau [Kc Jc Qh 2s 7c]
+Siège 1 : Economistonez (grosse blind) s'est couché. avant Flop
+Siège 2 : jacquie kim jif a montré [Kh 5s] et a gagné (3390) avec une paire de Rois
+Siège 3 : MrGUILPAIN (bouton) a montré [8d 8c] et a perdu avec une paire de Huit
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237940938743 : Tournoi #3455109369, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 11:29:38 CET [12/08/2022 5:29:38 ET]
+Table '3455109369 1' 4-max Siège #4 est au bouton.
+Place 1: Economistonez (4870 en jetons) 
+Place 2: jacquie kim jif (3390 en jetons) 
+Place 3: MrGUILPAIN (7020 en jetons) 
+Place 4: psychoman59 (4720 en jetons) 
+Economistonez : met l'ante. 10
+jacquie kim jif : met l'ante. 10
+MrGUILPAIN : met l'ante. 10
+psychoman59 : met l'ante. 10
+Economistonez : met la petite blind. 50
+jacquie kim jif : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Jd]
+MrGUILPAIN : passe. 
+psychoman59 : suit. 100
+Economistonez : suit. 50
+jacquie kim jif : relance. 340 à 440
+psychoman59 : suit. 340
+Economistonez : passe. 
+*** FLOP *** [Ad Kh Th]
+jacquie kim jif : mise. 1020
+psychoman59 : suit. 1020
+*** TOURNANT *** [Ad Kh Th] [5c]
+jacquie kim jif : mise. 1530
+psychoman59 : relance. 1530 à 3060
+jacquie kim jif : suit. 390 et est all-in.
+Personne n'a suivi. (1140) sont retournés à psychoman59.
+*** RIVIÈRE *** [Ad Kh Th 5c] [4c]
+*** ABATTAGE ***
+jacquie kim jif : montre [6c As] (une paire de As)
+psychoman59 : montre [Td Jd] (une paire de Dix)
+jacquie kim jif a remporté 6900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 6900 | Commission 0 
+Tableau [Ad Kh Th 5c 4c]
+Siège 1 : Economistonez (petite blind) s'est couché. avant Flop
+Siège 2 : jacquie kim jif (grosse blind) a montré [6c As] et a gagné (6900) avec une paire de As
+Siège 3 : MrGUILPAIN s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (bouton) a montré [Td Jd] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°237940954228 : Tournoi #3455109369, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 11:30:40 CET [12/08/2022 5:30:40 ET]
+Table '3455109369 1' 4-max Siège #1 est au bouton.
+Place 1: Economistonez (4760 en jetons) 
+Place 2: jacquie kim jif (6900 en jetons) 
+Place 3: MrGUILPAIN (7010 en jetons) 
+Place 4: psychoman59 (1330 en jetons) 
+Economistonez : met l'ante. 15
+jacquie kim jif : met l'ante. 15
+MrGUILPAIN : met l'ante. 15
+psychoman59 : met l'ante. 15
+jacquie kim jif : met la petite blind. 60
+MrGUILPAIN : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 5c]
+psychoman59 : passe. 
+Economistonez : passe. 
+jacquie kim jif : passe. 
+Personne n'a suivi. (60) sont retournés à MrGUILPAIN.
+MrGUILPAIN a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : Economistonez (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jacquie kim jif (petite blind) s'est couché. avant Flop
+Siège 3 : MrGUILPAIN (grosse blind) a remporté (180)
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237940957773 : Tournoi #3455109369, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 11:31:03 CET [12/08/2022 5:31:03 ET]
+Table '3455109369 1' 4-max Siège #2 est au bouton.
+Place 1: Economistonez (4745 en jetons) 
+Place 2: jacquie kim jif (6825 en jetons) 
+Place 3: MrGUILPAIN (7115 en jetons) 
+Place 4: psychoman59 (1315 en jetons) 
+Economistonez : met l'ante. 15
+jacquie kim jif : met l'ante. 15
+MrGUILPAIN : met l'ante. 15
+psychoman59 : met l'ante. 15
+MrGUILPAIN : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7s]
+Economistonez : passe. 
+jacquie kim jif : passe. 
+MrGUILPAIN : relance. 6980 à 7100 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (6980) sont retournés à MrGUILPAIN.
+MrGUILPAIN a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Siège 1 : Economistonez s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jacquie kim jif (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : MrGUILPAIN (petite blind) a remporté (300)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237940963685 : Tournoi #3455109369, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 11:31:41 CET [12/08/2022 5:31:41 ET]
+Table '3455109369 1' 4-max Siège #3 est au bouton.
+Place 1: Economistonez (4730 en jetons) 
+Place 2: jacquie kim jif (6810 en jetons) 
+Place 3: MrGUILPAIN (7280 en jetons) 
+Place 4: psychoman59 (1180 en jetons) 
+Economistonez : met l'ante. 15
+jacquie kim jif : met l'ante. 15
+MrGUILPAIN : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+Economistonez : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Qd]
+jacquie kim jif : passe. 
+MrGUILPAIN : passe. 
+psychoman59 : relance. 1045 à 1165 et est all-in.
+Economistonez : suit. 1045
+*** FLOP *** [8s Qs Kh]
+*** TOURNANT *** [8s Qs Kh] [Ts]
+*** RIVIÈRE *** [8s Qs Kh Ts] [Jd]
+*** ABATTAGE ***
+psychoman59 : montre [4s Qd] (une paire de Dames)
+Economistonez : montre [Tc Qc] (double paire, Dames et Dix)
+Economistonez a remporté 2390  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 2390 | Commission 0 
+Tableau [8s Qs Kh Ts Jd]
+Siège 1 : Economistonez (grosse blind) a montré [Tc Qc] et a gagné (2390) avec double paire, Dames et Dix
+Siège 2 : jacquie kim jif s'est couché. avant Flop (n'a pas misé)
+Siège 3 : MrGUILPAIN (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) a montré [4s Qd] et a perdu avec une paire de Dames
+
+
+

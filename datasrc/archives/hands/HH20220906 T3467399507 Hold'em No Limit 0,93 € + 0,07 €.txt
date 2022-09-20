@@ -1,0 +1,76 @@
+﻿Main PokerStars n°238460792261 : Tournoi #3467399507, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/09/2022 22:40:42 CET [06/09/2022 16:40:42 ET]
+Table '3467399507 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Peanuts-0103 (300 en jetons) 
+Place 3: IMar101 (300 en jetons) 
+Peanuts-0103 : met la petite blind. 10
+IMar101 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 8s]
+psychoman59 : relance. 50 à 70
+Peanuts-0103 : passe. 
+IMar101 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (50)
+Siège 2 : Peanuts-0103 (petite blind) s'est couché. avant Flop
+Siège 3 : IMar101 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238460800742 : Tournoi #3467399507, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/09/2022 22:41:03 CET [06/09/2022 16:41:03 ET]
+Table '3467399507 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: Peanuts-0103 (290 en jetons) 
+Place 3: IMar101 (280 en jetons) 
+IMar101 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2d]
+Peanuts-0103 : relance. 50 à 70
+IMar101 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à Peanuts-0103.
+Peanuts-0103 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Peanuts-0103 (bouton) a remporté (50)
+Siège 3 : IMar101 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238460803877 : Tournoi #3467399507, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/09/2022 22:41:11 CET [06/09/2022 16:41:11 ET]
+Table '3467399507 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: Peanuts-0103 (320 en jetons) 
+Place 3: IMar101 (270 en jetons) 
+psychoman59 : met la petite blind. 10
+Peanuts-0103 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Qs]
+IMar101 : relance. 20 à 40
+psychoman59 : passe. 
+Peanuts-0103 : relance. 280 à 320 et est all-in.
+IMar101 : suit. 230 et est all-in.
+Personne n'a suivi. (50) sont retournés à Peanuts-0103.
+*** FLOP *** [Ks 6d Jd]
+*** TOURNANT *** [Ks 6d Jd] [7c]
+*** RIVIÈRE *** [Ks 6d Jd 7c] [9d]
+*** ABATTAGE ***
+Peanuts-0103 : montre [Qd Kd] (une couleur, hauteur Roi)
+IMar101 : montre [7d 7h] (un brelan de Sept)
+Peanuts-0103 a remporté 550  lors du pot .
+IMar101 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 550 | Commission 0 
+Tableau [Ks 6d Jd 7c 9d]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Peanuts-0103 (grosse blind) a montré [Qd Kd] et a gagné (550) avec une couleur, hauteur Roi
+Siège 3 : IMar101 (bouton) a montré [7d 7h] et a perdu avec un brelan de Sept
+
+
+

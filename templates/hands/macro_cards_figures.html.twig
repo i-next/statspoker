@@ -1,0 +1,27 @@
+{% macro macro_cards_figures(card) %}
+    {% set val = card.value %}
+    {% if val == "A" %}
+        {% set val = "ace" %}
+    {% elseif val == "K" %}
+        {% set val = "king" %}
+    {% elseif val == "Q" %}
+        {% set val = "queen" %}
+    {% elseif val == "J" %}
+        {% set val = "jack" %}
+    {% elseif val == "T" %}
+        {% set val = "10" %}
+    {% endif %}
+
+    {% if card.color == "s" %}
+        {% set color = "spades" %}
+    {% elseif card.color == "d" %}
+        {% set color = "diamonds" %}
+    {% elseif card.color == "c" %}
+        {% set color = "clubs" %}
+    {% else %}
+        {% set color = "hearts" %}
+    {% endif %}
+    {% set card_name = 'build/images/'~val~'_of_'~color~'.png' %}
+
+    <img src="{{ asset(card_name) }}"  class="" alt="{{ card_name }}" style="width: 80px;">
+{% endmacro %}

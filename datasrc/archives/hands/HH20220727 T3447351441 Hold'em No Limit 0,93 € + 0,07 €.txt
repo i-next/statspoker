@@ -1,0 +1,257 @@
+﻿Main PokerStars n°237614034577 : Tournoi #3447351441, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/07/2022 9:22:47 CET [27/07/2022 3:22:47 ET]
+Table '3447351441 1' 3-max Siège #1 est au bouton.
+Place 1: Betty130678 (300 en jetons) 
+Place 2: TheMulet (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+TheMulet : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 2s]
+Betty130678 : suit. 20
+TheMulet : passe. 
+psychoman59 : parole 
+*** FLOP *** [Ad 4c As]
+psychoman59 : parole 
+Betty130678 : parole 
+*** TOURNANT *** [Ad 4c As] [8d]
+psychoman59 : parole 
+Betty130678 : parole 
+*** RIVIÈRE *** [Ad 4c As 8d] [8c]
+psychoman59 : parole 
+Betty130678 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Kc 2s] (double paire, As et Huit)
+Betty130678 : cache la main perdante. 
+psychoman59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Ad 4c As 8d 8c]
+Siège 1 : Betty130678 (bouton) a caché la main perdante. [Ts Qd]
+Siège 2 : TheMulet (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Kc 2s] et a gagné (50) avec double paire, As et Huit
+
+
+
+Main PokerStars n°237614036602 : Tournoi #3447351441, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/07/2022 9:23:06 CET [27/07/2022 3:23:06 ET]
+Table '3447351441 1' 3-max Siège #2 est au bouton.
+Place 1: Betty130678 (280 en jetons) 
+Place 2: TheMulet (290 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+psychoman59 : met la petite blind. 10
+Betty130678 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9h]
+TheMulet : passe. 
+psychoman59 : suit. 10
+Betty130678 : parole 
+*** FLOP *** [5s Ad 4s]
+psychoman59 : parole 
+Betty130678 : parole 
+*** TOURNANT *** [5s Ad 4s] [Ah]
+psychoman59 : parole 
+Betty130678 : parole 
+*** RIVIÈRE *** [5s Ad 4s Ah] [2d]
+psychoman59 : parole 
+Betty130678 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Kd 9h] (une paire de As)
+Betty130678 : montre [4d Kh] (double paire, As et Quatre)
+Betty130678 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5s Ad 4s Ah 2d]
+Siège 1 : Betty130678 (grosse blind) a montré [4d Kh] et a gagné (40) avec double paire, As et Quatre
+Siège 2 : TheMulet (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Kd 9h] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°237614038534 : Tournoi #3447351441, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/07/2022 9:23:23 CET [27/07/2022 3:23:23 ET]
+Table '3447351441 1' 3-max Siège #3 est au bouton.
+Place 1: Betty130678 (300 en jetons) 
+Place 2: TheMulet (290 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+Betty130678 : met la petite blind. 10
+TheMulet : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Js]
+psychoman59 : relance. 290 à 310 et est all-in.
+Betty130678 : passe. 
+TheMulet : passe. 
+Personne n'a suivi. (290) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : Betty130678 (petite blind) s'est couché. avant Flop
+Siège 2 : TheMulet (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°237614039678 : Tournoi #3447351441, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/07/2022 9:23:33 CET [27/07/2022 3:23:33 ET]
+Table '3447351441 1' 3-max Siège #1 est au bouton.
+Place 1: Betty130678 (290 en jetons) 
+Place 2: TheMulet (270 en jetons) 
+Place 3: psychoman59 (340 en jetons) 
+TheMulet : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 8c]
+Betty130678 : passe. 
+TheMulet : relance. 26 à 46
+psychoman59 : suit. 26
+*** FLOP *** [5d Ts Ad]
+TheMulet : parole 
+psychoman59 : mise. 46
+TheMulet : suit. 46
+*** TOURNANT *** [5d Ts Ad] [6d]
+TheMulet : parole 
+psychoman59 : mise. 92
+TheMulet : suit. 92
+*** RIVIÈRE *** [5d Ts Ad 6d] [8d]
+TheMulet : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+TheMulet : montre [Js Jc] (une paire de Valets)
+psychoman59 : montre [Th 8c] (double paire, Dix et Huit)
+psychoman59 a remporté 368  lors du pot .
+*** SYNTHÈSE ***
+Pot total 368 | Commission 0 
+Tableau [5d Ts Ad 6d 8d]
+Siège 1 : Betty130678 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : TheMulet (petite blind) a montré [Js Jc] et a perdu avec une paire de Valets
+Siège 3 : psychoman59 (grosse blind) a montré [Th 8c] et a gagné (368) avec double paire, Dix et Huit
+
+
+
+Main PokerStars n°237614043584 : Tournoi #3447351441, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/07/2022 9:24:09 CET [27/07/2022 3:24:09 ET]
+Table '3447351441 1' 3-max Siège #2 est au bouton.
+Place 1: Betty130678 (290 en jetons) 
+Place 2: TheMulet (86 en jetons) 
+Place 3: psychoman59 (524 en jetons) 
+psychoman59 : met la petite blind. 15
+Betty130678 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 4c]
+TheMulet : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Betty130678.
+Betty130678 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Betty130678 (grosse blind) a remporté (30)
+Siège 2 : TheMulet (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237614044238 : Tournoi #3447351441, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/07/2022 9:24:15 CET [27/07/2022 3:24:15 ET]
+Table '3447351441 1' 3-max Siège #3 est au bouton.
+Place 1: Betty130678 (305 en jetons) 
+Place 2: TheMulet (86 en jetons) 
+Place 3: psychoman59 (509 en jetons) 
+Betty130678 : met la petite blind. 15
+TheMulet : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Kc]
+psychoman59 : suit. 30
+Betty130678 : passe. 
+TheMulet : relance. 56 à 86 et est all-in.
+psychoman59 : suit. 56
+*** FLOP *** [Tc 2s 4s]
+*** TOURNANT *** [Tc 2s 4s] [3d]
+*** RIVIÈRE *** [Tc 2s 4s 3d] [Kh]
+*** ABATTAGE ***
+TheMulet : montre [Jd Ks] (une paire de Rois)
+psychoman59 : montre [5h Kc] (une paire de Rois - plus basse kicker)
+TheMulet a remporté 187  lors du pot .
+*** SYNTHÈSE ***
+Pot total 187 | Commission 0 
+Tableau [Tc 2s 4s 3d Kh]
+Siège 1 : Betty130678 (petite blind) s'est couché. avant Flop
+Siège 2 : TheMulet (grosse blind) a montré [Jd Ks] et a gagné (187) avec une paire de Rois
+Siège 3 : psychoman59 (bouton) a montré [5h Kc] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°237614046115 : Tournoi #3447351441, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/07/2022 9:24:31 CET [27/07/2022 3:24:31 ET]
+Table '3447351441 1' 3-max Siège #1 est au bouton.
+Place 1: Betty130678 (290 en jetons) 
+Place 2: TheMulet (187 en jetons) 
+Place 3: psychoman59 (423 en jetons) 
+TheMulet : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Kh]
+Betty130678 : relance. 90 à 120
+TheMulet : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à Betty130678.
+Betty130678 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : Betty130678 (bouton) a remporté (75)
+Siège 2 : TheMulet (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237614047322 : Tournoi #3447351441, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/07/2022 9:24:42 CET [27/07/2022 3:24:42 ET]
+Table '3447351441 1' 3-max Siège #2 est au bouton.
+Place 1: Betty130678 (335 en jetons) 
+Place 2: TheMulet (172 en jetons) 
+Place 3: psychoman59 (393 en jetons) 
+psychoman59 : met la petite blind. 15
+Betty130678 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Kc]
+TheMulet : relance. 142 à 172 et est all-in.
+psychoman59 : suit. 157
+Betty130678 : passe. 
+*** FLOP *** [8h Ac 9h]
+*** TOURNANT *** [8h Ac 9h] [Td]
+*** RIVIÈRE *** [8h Ac 9h Td] [As]
+*** ABATTAGE ***
+psychoman59 : montre [Qc Kc] (une paire de As)
+TheMulet : montre [Tc Jh] (double paire, As et Dix)
+TheMulet a remporté 374  lors du pot .
+*** SYNTHÈSE ***
+Pot total 374 | Commission 0 
+Tableau [8h Ac 9h Td As]
+Siège 1 : Betty130678 (grosse blind) s'est couché. avant Flop
+Siège 2 : TheMulet (bouton) a montré [Tc Jh] et a gagné (374) avec double paire, As et Dix
+Siège 3 : psychoman59 (petite blind) a montré [Qc Kc] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°237614049636 : Tournoi #3447351441, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 27/07/2022 9:25:03 CET [27/07/2022 3:25:03 ET]
+Table '3447351441 1' 3-max Siège #3 est au bouton.
+Place 1: Betty130678 (305 en jetons) 
+Place 2: TheMulet (374 en jetons) 
+Place 3: psychoman59 (221 en jetons) 
+Betty130678 : met la petite blind. 20
+TheMulet : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Qc]
+psychoman59 : relance. 181 à 221 et est all-in.
+Betty130678 : relance. 84 à 305 et est all-in.
+TheMulet : suit. 265
+*** FLOP *** [7d Js 6c]
+*** TOURNANT *** [7d Js 6c] [7h]
+*** RIVIÈRE *** [7d Js 6c 7h] [8c]
+*** ABATTAGE ***
+Betty130678 : montre [As 7c] (un brelan de Sept)
+TheMulet : montre [Td Qd] (une paire de Sept)
+Betty130678 a remporté 168  parallèle lors du pot .
+psychoman59 : montre [Kh Qc] (une paire de Sept)
+Betty130678 a remporté 663  principal lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 831 Principal pot 663. Parallèle pot 168. | Commission 0 
+Tableau [7d Js 6c 7h 8c]
+Siège 1 : Betty130678 (petite blind) a montré [As 7c] et a gagné (831) avec un brelan de Sept
+Siège 2 : TheMulet (grosse blind) a montré [Td Qd] et a perdu avec une paire de Sept
+Siège 3 : psychoman59 (bouton) a montré [Kh Qc] et a perdu avec une paire de Sept
+
+
+

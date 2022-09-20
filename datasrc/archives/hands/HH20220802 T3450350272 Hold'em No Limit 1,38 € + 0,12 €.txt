@@ -1,0 +1,183 @@
+﻿Main PokerStars n°237742474946 : Tournoi #3450350272, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 16:10:27 CET [02/08/2022 10:10:27 ET]
+Table '3450350272 1' 4-max Siège #1 est au bouton.
+Place 1: rccalu880 (5000 en jetons) 
+Place 2: GyroFaldes (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: baseman74 (5000 en jetons) 
+rccalu880 : met l'ante. 10
+GyroFaldes : met l'ante. 10
+psychoman59 : met l'ante. 10
+baseman74 : met l'ante. 10
+GyroFaldes : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 5s]
+baseman74 : relance. 200 à 300
+rccalu880 : suit. 300
+GyroFaldes : passe. 
+psychoman59 : passe. 
+*** FLOP *** [Ks 5c 4c]
+baseman74 : mise. 400
+rccalu880 : suit. 400
+*** TOURNANT *** [Ks 5c 4c] [6d]
+baseman74 : parole 
+rccalu880 : parole 
+*** RIVIÈRE *** [Ks 5c 4c 6d] [8c]
+baseman74 : parole 
+rccalu880 : mise. 1590
+baseman74 : passe. 
+Personne n'a suivi. (1590) sont retournés à rccalu880.
+rccalu880 a remporté 1590  lors du pot .
+rccalu880 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1590 | Commission 0 
+Tableau [Ks 5c 4c 6d 8c]
+Siège 1 : rccalu880 (bouton) a remporté (1590)
+Siège 2 : GyroFaldes (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : baseman74 s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237742485968 : Tournoi #3450350272, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 16:11:11 CET [02/08/2022 10:11:11 ET]
+Table '3450350272 1' 4-max Siège #2 est au bouton.
+Place 1: rccalu880 (5880 en jetons) 
+Place 2: GyroFaldes (4940 en jetons) 
+Place 3: psychoman59 (4890 en jetons) 
+Place 4: baseman74 (4290 en jetons) 
+rccalu880 : met l'ante. 10
+GyroFaldes : met l'ante. 10
+psychoman59 : met l'ante. 10
+baseman74 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+baseman74 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 5d]
+rccalu880 : relance. 300 à 400
+GyroFaldes : passe. 
+psychoman59 : passe. 
+baseman74 : suit. 300
+*** FLOP *** [8s 7c 4s]
+baseman74 : parole 
+rccalu880 : mise. 445
+baseman74 : suit. 445
+*** TOURNANT *** [8s 7c 4s] [Qc]
+baseman74 : parole 
+rccalu880 : mise. 1590
+baseman74 : passe. 
+Personne n'a suivi. (1590) sont retournés à rccalu880.
+rccalu880 a remporté 1780  lors du pot .
+rccalu880 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1780 | Commission 0 
+Tableau [8s 7c 4s Qc]
+Siège 1 : rccalu880 a remporté (1780)
+Siège 2 : GyroFaldes (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : baseman74 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237742503900 : Tournoi #3450350272, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 16:12:23 CET [02/08/2022 10:12:23 ET]
+Table '3450350272 1' 4-max Siège #3 est au bouton.
+Place 1: rccalu880 (6805 en jetons) 
+Place 2: GyroFaldes (4930 en jetons) 
+Place 3: psychoman59 (4830 en jetons) 
+Place 4: baseman74 (3435 en jetons) 
+rccalu880 : met l'ante. 10
+GyroFaldes : met l'ante. 10
+psychoman59 : met l'ante. 10
+baseman74 : met l'ante. 10
+baseman74 : met la petite blind. 50
+rccalu880 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 2d]
+GyroFaldes : passe. 
+psychoman59 : passe. 
+baseman74 : relance. 100 à 200
+rccalu880 : relance. 400 à 600
+baseman74 : suit. 400
+*** FLOP *** [Tc 8s Ac]
+baseman74 : parole 
+rccalu880 : mise. 420
+baseman74 : suit. 420
+*** TOURNANT *** [Tc 8s Ac] [3s]
+baseman74 : parole 
+rccalu880 : mise. 1140
+baseman74 : relance. 1265 à 2405 et est all-in.
+rccalu880 : suit. 1265
+*** RIVIÈRE *** [Tc 8s Ac 3s] [Ts]
+*** ABATTAGE ***
+baseman74 : montre [As 4h] (double paire, As et Dix)
+rccalu880 : montre [Ah Jc] (double paire, As et Dix - Valet kicker)
+rccalu880 a remporté 6890  lors du pot .
+baseman74 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 6890 | Commission 0 
+Tableau [Tc 8s Ac 3s Ts]
+Siège 1 : rccalu880 (grosse blind) a montré [Ah Jc] et a gagné (6890) avec double paire, As et Dix
+Siège 2 : GyroFaldes s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : baseman74 (petite blind) a montré [As 4h] et a perdu avec double paire, As et Dix
+
+
+
+Main PokerStars n°237742512663 : Tournoi #3450350272, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 16:12:58 CET [02/08/2022 10:12:58 ET]
+Table '3450350272 1' 4-max Siège #1 est au bouton.
+Place 1: rccalu880 (10260 en jetons) 
+Place 2: GyroFaldes (4920 en jetons) 
+Place 3: psychoman59 (4820 en jetons) 
+rccalu880 : met l'ante. 10
+GyroFaldes : met l'ante. 10
+psychoman59 : met l'ante. 10
+GyroFaldes : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 5c]
+rccalu880 : relance. 200 à 300
+GyroFaldes : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à rccalu880.
+rccalu880 a remporté 280  lors du pot .
+rccalu880 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Siège 1 : rccalu880 (bouton) a remporté (280)
+Siège 2 : GyroFaldes (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237742515593 : Tournoi #3450350272, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 02/08/2022 16:13:10 CET [02/08/2022 10:13:10 ET]
+Table '3450350272 1' 4-max Siège #2 est au bouton.
+Place 1: rccalu880 (10430 en jetons) 
+Place 2: GyroFaldes (4860 en jetons) 
+Place 3: psychoman59 (4710 en jetons) 
+rccalu880 : met l'ante. 10
+GyroFaldes : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+rccalu880 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Td]
+GyroFaldes : relance. 200 à 300
+psychoman59 : relance. 4400 à 4700 et est all-in.
+rccalu880 : passe. 
+GyroFaldes : suit. 4400
+*** FLOP *** [4c 3c 8d]
+*** TOURNANT *** [4c 3c 8d] [Qd]
+*** RIVIÈRE *** [4c 3c 8d Qd] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [Tc Td] (une paire de Dix)
+GyroFaldes : montre [Ks Kh] (une paire de Rois)
+GyroFaldes a remporté 9530  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 9530 | Commission 0 
+Tableau [4c 3c 8d Qd 2h]
+Siège 1 : rccalu880 (grosse blind) s'est couché. avant Flop
+Siège 2 : GyroFaldes (bouton) a montré [Ks Kh] et a gagné (9530) avec une paire de Rois
+Siège 3 : psychoman59 (petite blind) a montré [Tc Td] et a perdu avec une paire de Dix
+
+
+

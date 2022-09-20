@@ -1,0 +1,135 @@
+﻿Main PokerStars n°237170114205 : Tournoi #3436996931, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/07/2022 8:31:55 CET [05/07/2022 2:31:55 ET]
+Table '3436996931 1' 3-max Siège #1 est au bouton.
+Place 1: ali35200 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: amarandei ion (300 en jetons) 
+psychoman59 : met la petite blind. 10
+amarandei ion : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Qc]
+ali35200 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à amarandei ion.
+amarandei ion a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : ali35200 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : amarandei ion (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237170115213 : Tournoi #3436996931, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/07/2022 8:32:05 CET [05/07/2022 2:32:05 ET]
+Table '3436996931 1' 3-max Siège #2 est au bouton.
+Place 1: ali35200 (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: amarandei ion (310 en jetons) 
+amarandei ion : met la petite blind. 10
+ali35200 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Jd]
+psychoman59 : relance. 20 à 40
+amarandei ion : suit. 30
+ali35200 : suit. 20
+*** FLOP *** [4c 3s 3c]
+amarandei ion : parole 
+ali35200 : mise. 60
+psychoman59 : passe. 
+amarandei ion : suit. 60
+*** TOURNANT *** [4c 3s 3c] [3d]
+amarandei ion : parole 
+ali35200 : parole 
+*** RIVIÈRE *** [4c 3s 3c 3d] [3h]
+amarandei ion : mise. 210 et est all-in.
+ali35200 : suit. 200 et est all-in.
+Personne n'a suivi. (10) sont retournés à amarandei ion.
+*** ABATTAGE ***
+amarandei ion : montre [Td Qs] (un carré de Trois)
+ali35200 : montre [8h Ad] (un carré de Trois - As kicker)
+ali35200 a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [4c 3s 3c 3d 3h]
+Siège 1 : ali35200 (grosse blind) a montré [8h Ad] et a gagné (640) avec un carré de Trois
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 3 : amarandei ion (petite blind) a montré [Td Qs] et a perdu avec un carré de Trois
+
+
+
+Main PokerStars n°237170118622 : Tournoi #3436996931, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/07/2022 8:32:39 CET [05/07/2022 2:32:39 ET]
+Table '3436996931 1' 3-max Siège #3 est au bouton.
+Place 1: ali35200 (640 en jetons) 
+Place 2: psychoman59 (250 en jetons) 
+Place 3: amarandei ion (10 en jetons) 
+ali35200 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Qd]
+amarandei ion : suit. 10 et est all-in.
+ali35200 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7h 9h Qc]
+ali35200 : mise. 25
+psychoman59 : relance. 205 à 230 et est all-in.
+ali35200 : suit. 205
+*** TOURNANT *** [7h 9h Qc] [4h]
+*** RIVIÈRE *** [7h 9h Qc 4h] [Ac]
+*** ABATTAGE ***
+ali35200 : montre [9d Jd] (une paire de Neuf)
+psychoman59 : montre [2h Qd] (une paire de Dames)
+psychoman59 a remporté 480  parallèle lors du pot .
+amarandei ion : montre [9c 8h] (une paire de Neuf)
+psychoman59 a remporté 30  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 510 Principal pot 30. Parallèle pot 480. | Commission 0 
+Tableau [7h 9h Qc 4h Ac]
+Siège 1 : ali35200 (petite blind) a montré [9d Jd] et a perdu avec une paire de Neuf
+Siège 2 : psychoman59 (grosse blind) a montré [2h Qd] et a gagné (510) avec une paire de Dames
+Siège 3 : amarandei ion (bouton) a montré [9c 8h] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°237170121294 : Tournoi #3436996931, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/07/2022 8:33:05 CET [05/07/2022 2:33:05 ET]
+Table '3436996931 1' 3-max Siège #2 est au bouton.
+Place 1: ali35200 (390 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 15
+ali35200 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 7h]
+psychoman59 : relance. 480 à 510 et est all-in.
+ali35200 : passe. 
+Personne n'a suivi. (480) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : ali35200 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237170122365 : Tournoi #3436996931, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/07/2022 8:33:16 CET [05/07/2022 2:33:16 ET]
+Table '3436996931 1' 3-max Siège #1 est au bouton.
+Place 1: ali35200 (360 en jetons) 
+Place 2: psychoman59 (540 en jetons) 
+ali35200 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Ad]
+ali35200 : relance. 330 à 360 et est all-in.
+psychoman59 : suit. 330
+*** FLOP *** [6d 6h Ts]
+*** TOURNANT *** [6d 6h Ts] [As]
+*** RIVIÈRE *** [6d 6h Ts As] [Qh]
+*** ABATTAGE ***
+psychoman59 : montre [8d Ad] (double paire, As et Six)
+ali35200 : montre [5d Kc] (une paire de Six)
+psychoman59 a remporté 720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [6d 6h Ts As Qh]
+Siège 1 : ali35200 (bouton) (petite blind) a montré [5d Kc] et a perdu avec une paire de Six
+Siège 2 : psychoman59 (grosse blind) a montré [8d Ad] et a gagné (720) avec double paire, As et Six
+
+
+

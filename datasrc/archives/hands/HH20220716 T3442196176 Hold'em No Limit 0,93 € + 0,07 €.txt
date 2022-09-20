@@ -1,0 +1,350 @@
+﻿Main PokerStars n°237388056937 : Tournoi #3442196176, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2022 9:36:08 CET [16/07/2022 3:36:08 ET]
+Table '3442196176 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: frantomat (300 en jetons) 
+Place 3: salim93659 (300 en jetons) 
+frantomat : met la petite blind. 10
+salim93659 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 2d]
+psychoman59 : suit. 20
+frantomat : suit. 10
+salim93659 : parole 
+*** FLOP *** [9d Qh 7c]
+frantomat : parole 
+salim93659 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9d Qh 7c] [7h]
+frantomat : parole 
+salim93659 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9d Qh 7c 7h] [Ks]
+frantomat : parole 
+salim93659 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+frantomat : montre [4d 8h] (une paire de Sept)
+salim93659 : montre [Th 5s] (une paire de Sept - Roi+Dame+Dix kicker)
+psychoman59 : montre [Ac 2d] (une paire de Sept - As kicker)
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9d Qh 7c 7h Ks]
+Siège 1 : psychoman59 (bouton) a montré [Ac 2d] et a gagné (60) avec une paire de Sept
+Siège 2 : frantomat (petite blind) a montré [4d 8h] et a perdu avec une paire de Sept
+Siège 3 : salim93659 (grosse blind) a montré [Th 5s] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°237388059782 : Tournoi #3442196176, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2022 9:36:31 CET [16/07/2022 3:36:31 ET]
+Table '3442196176 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: frantomat (280 en jetons) 
+Place 3: salim93659 (280 en jetons) 
+salim93659 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 2c]
+frantomat : suit. 20
+salim93659 : relance. 20 à 40
+psychoman59 : passe. 
+frantomat : suit. 20
+*** FLOP *** [7c 5c 6h]
+salim93659 : mise. 240 et est all-in.
+frantomat : suit. 240 et est all-in.
+*** TOURNANT *** [7c 5c 6h] [Kh]
+*** RIVIÈRE *** [7c 5c 6h Kh] [9h]
+*** ABATTAGE ***
+salim93659 : montre [7h 7d] (un brelan de Sept)
+frantomat : montre [6c 4c] (une paire de Six)
+salim93659 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [7c 5c 6h Kh 9h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : frantomat (bouton) a montré [6c 4c] et a perdu avec une paire de Six
+Siège 3 : salim93659 (petite blind) a montré [7h 7d] et a gagné (580) avec un brelan de Sept
+
+
+
+Main PokerStars n°237388063085 : Tournoi #3442196176, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2022 9:36:57 CET [16/07/2022 3:36:57 ET]
+Table '3442196176 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 3: salim93659 (580 en jetons) 
+psychoman59 : met la petite blind. 10
+salim93659 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h As]
+psychoman59 : relance. 300 à 320 et est all-in.
+salim93659 : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (40)
+Siège 3 : salim93659 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237388064214 : Tournoi #3442196176, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2022 9:37:06 CET [16/07/2022 3:37:06 ET]
+Table '3442196176 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 3: salim93659 (560 en jetons) 
+salim93659 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 2h]
+salim93659 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qs Ks 7h]
+psychoman59 : parole 
+salim93659 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à salim93659.
+salim93659 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qs Ks 7h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : salim93659 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°237388066198 : Tournoi #3442196176, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 9:37:22 CET [16/07/2022 3:37:22 ET]
+Table '3442196176 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 3: salim93659 (580 en jetons) 
+psychoman59 : met la petite blind. 15
+salim93659 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Qd]
+psychoman59 : relance. 290 à 320 et est all-in.
+salim93659 : passe. 
+Personne n'a suivi. (290) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : salim93659 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237388070862 : Tournoi #3442196176, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 9:37:28 CET [16/07/2022 3:37:28 ET]
+Table '3442196176 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (350 en jetons) 
+Place 3: salim93659 (550 en jetons) 
+salim93659 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Js]
+salim93659 : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [3c 4d 8s]
+psychoman59 : parole 
+salim93659 : parole 
+*** TOURNANT *** [3c 4d 8s] [6d]
+psychoman59 : parole 
+salim93659 : parole 
+*** RIVIÈRE *** [3c 4d 8s 6d] [Qc]
+psychoman59 : parole 
+salim93659 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qs Js] (une paire de Dames)
+salim93659 : cache la main perdante. 
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3c 4d 8s 6d Qc]
+Siège 1 : psychoman59 (grosse blind) a montré [Qs Js] et a gagné (120) avec une paire de Dames
+Siège 3 : salim93659 (bouton) (petite blind) a caché la main perdante. [Tc Ks]
+
+
+
+Main PokerStars n°237388073304 : Tournoi #3442196176, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 9:37:47 CET [16/07/2022 3:37:47 ET]
+Table '3442196176 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (410 en jetons) 
+Place 3: salim93659 (490 en jetons) 
+psychoman59 : met la petite blind. 15
+salim93659 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à salim93659.
+salim93659 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : salim93659 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237388073834 : Tournoi #3442196176, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 9:37:52 CET [16/07/2022 3:37:52 ET]
+Table '3442196176 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (395 en jetons) 
+Place 3: salim93659 (505 en jetons) 
+salim93659 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 5c]
+salim93659 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à salim93659.
+salim93659 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : salim93659 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237388074837 : Tournoi #3442196176, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 9:38:00 CET [16/07/2022 3:38:00 ET]
+Table '3442196176 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (365 en jetons) 
+Place 3: salim93659 (535 en jetons) 
+psychoman59 : met la petite blind. 15
+salim93659 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Th]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à salim93659.
+salim93659 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : salim93659 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237388075489 : Tournoi #3442196176, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2022 9:38:05 CET [16/07/2022 3:38:05 ET]
+Table '3442196176 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (350 en jetons) 
+Place 3: salim93659 (550 en jetons) 
+salim93659 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Th]
+salim93659 : suit. 15
+psychoman59 : relance. 320 à 350 et est all-in.
+salim93659 : passe. 
+Personne n'a suivi. (320) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : salim93659 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237388076970 : Tournoi #3442196176, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/07/2022 9:38:17 CET [16/07/2022 3:38:17 ET]
+Table '3442196176 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 3: salim93659 (520 en jetons) 
+psychoman59 : met la petite blind. 20
+salim93659 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Kd]
+psychoman59 : relance. 340 à 380 et est all-in.
+salim93659 : passe. 
+Personne n'a suivi. (340) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : salim93659 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237388077837 : Tournoi #3442196176, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/07/2022 9:38:23 CET [16/07/2022 3:38:23 ET]
+Table '3442196176 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 3: salim93659 (480 en jetons) 
+salim93659 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 2s]
+salim93659 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : salim93659 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237388078484 : Tournoi #3442196176, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/07/2022 9:38:28 CET [16/07/2022 3:38:28 ET]
+Table '3442196176 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 3: salim93659 (460 en jetons) 
+psychoman59 : met la petite blind. 20
+salim93659 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 4s]
+psychoman59 : relance. 80 à 120
+salim93659 : suit. 80
+*** FLOP *** [4d Qs Ac]
+salim93659 : mise. 340 et est all-in.
+psychoman59 : suit. 320 et est all-in.
+Personne n'a suivi. (20) sont retournés à salim93659.
+*** TOURNANT *** [4d Qs Ac] [4h]
+*** RIVIÈRE *** [4d Qs Ac 4h] [9h]
+*** ABATTAGE ***
+salim93659 : montre [5s Qh] (double paire, Dames et Quatre)
+psychoman59 : montre [As 4s] (un full, full aux Quatre par les As)
+psychoman59 a remporté 880  lors du pot .
+*** SYNTHÈSE ***
+Pot total 880 | Commission 0 
+Tableau [4d Qs Ac 4h 9h]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [As 4s] et a gagné (880) avec un full, full aux Quatre par les As
+Siège 3 : salim93659 (grosse blind) a montré [5s Qh] et a perdu avec double paire, Dames et Quatre
+
+
+
+Main PokerStars n°237388080636 : Tournoi #3442196176, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/07/2022 9:38:45 CET [16/07/2022 3:38:45 ET]
+Table '3442196176 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (880 en jetons) 
+Place 3: salim93659 (20 en jetons) 
+salim93659 : met la petite blind. 20 et est all-in.
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 3h]
+Personne n'a suivi. (20) sont retournés à psychoman59.
+*** FLOP *** [Kc Th Kh]
+*** TOURNANT *** [Kc Th Kh] [Jh]
+*** RIVIÈRE *** [Kc Th Kh Jh] [Qd]
+*** ABATTAGE ***
+psychoman59 : montre [3s 3h] (double paire, Rois et Trois)
+salim93659 : montre [Jc Tc] (double paire, Rois et Valets)
+salim93659 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Kc Th Kh Jh Qd]
+Siège 1 : psychoman59 (grosse blind) a montré [3s 3h] et a perdu avec double paire, Rois et Trois
+Siège 3 : salim93659 (bouton) (petite blind) a montré [Jc Tc] et a gagné (40) avec double paire, Rois et Valets
+
+
+
+Main PokerStars n°237388081682 : Tournoi #3442196176, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/07/2022 9:38:54 CET [16/07/2022 3:38:54 ET]
+Table '3442196176 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (860 en jetons) 
+Place 3: salim93659 (40 en jetons) 
+psychoman59 : met la petite blind. 20
+salim93659 : met la grosse blind. 40 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Kh]
+psychoman59 : suit. 20
+*** FLOP *** [5c 3s 8d]
+*** TOURNANT *** [5c 3s 8d] [4h]
+*** RIVIÈRE *** [5c 3s 8d 4h] [Td]
+*** ABATTAGE ***
+salim93659 : montre [Qd As] (Hauteur As)
+psychoman59 : montre [Th Kh] (une paire de Dix)
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5c 3s 8d 4h Td]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Th Kh] et a gagné (80) avec une paire de Dix
+Siège 3 : salim93659 (grosse blind) a montré [Qd As] et a perdu avec Hauteur As
+
+
+

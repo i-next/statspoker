@@ -1,0 +1,201 @@
+﻿Main PokerStars n°237571860420 : Tournoi #3446367330, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 8:59:28 CET [25/07/2022 2:59:28 ET]
+Table '3446367330 1' 3-max Siège #1 est au bouton.
+Place 1: pomlucien71 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: coinflip0713 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+coinflip0713 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Kd]
+pomlucien71 : passe. 
+psychoman59 : relance. 40 à 60
+coinflip0713 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : pomlucien71 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : coinflip0713 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237571861724 : Tournoi #3446367330, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 8:59:43 CET [25/07/2022 2:59:43 ET]
+Table '3446367330 1' 3-max Siège #2 est au bouton.
+Place 1: pomlucien71 (300 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: coinflip0713 (280 en jetons) 
+coinflip0713 : met la petite blind. 10
+pomlucien71 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 2h]
+psychoman59 : passe. 
+coinflip0713 : suit. 10
+pomlucien71 : parole 
+*** FLOP *** [Ts 5s 7c]
+coinflip0713 : mise. 20
+pomlucien71 : suit. 20
+*** TOURNANT *** [Ts 5s 7c] [8d]
+coinflip0713 : mise. 40
+pomlucien71 : suit. 40
+*** RIVIÈRE *** [Ts 5s 7c 8d] [3s]
+coinflip0713 : mise. 80
+pomlucien71 : suit. 80
+*** ABATTAGE ***
+coinflip0713 : montre [4s 6s] (une couleur, hauteur Dix)
+pomlucien71 : cache la main perdante. 
+coinflip0713 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Ts 5s 7c 8d 3s]
+Siège 1 : pomlucien71 (grosse blind) a caché la main perdante. [Td 8s]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : coinflip0713 (petite blind) a montré [4s 6s] et a gagné (320) avec une couleur, hauteur Dix
+
+
+
+Main PokerStars n°237571864696 : Tournoi #3446367330, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 9:00:15 CET [25/07/2022 3:00:15 ET]
+Table '3446367330 1' 3-max Siège #3 est au bouton.
+Place 1: pomlucien71 (140 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: coinflip0713 (440 en jetons) 
+pomlucien71 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 3d]
+coinflip0713 : passe. 
+pomlucien71 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Tc Jc Ah]
+pomlucien71 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Tc Jc Ah] [6c]
+pomlucien71 : parole 
+psychoman59 : mise. 40
+pomlucien71 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Tc Jc Ah 6c]
+Siège 1 : pomlucien71 (petite blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : coinflip0713 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237571867615 : Tournoi #3446367330, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 9:00:46 CET [25/07/2022 3:00:46 ET]
+Table '3446367330 1' 3-max Siège #1 est au bouton.
+Place 1: pomlucien71 (120 en jetons) 
+Place 2: psychoman59 (340 en jetons) 
+Place 3: coinflip0713 (440 en jetons) 
+psychoman59 : met la petite blind. 15
+coinflip0713 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 5d]
+pomlucien71 : suit. 30
+psychoman59 : passe. 
+coinflip0713 : relance. 410 à 440 et est all-in.
+pomlucien71 : suit. 90 et est all-in.
+Personne n'a suivi. (320) sont retournés à coinflip0713.
+*** FLOP *** [5s 7h 4h]
+*** TOURNANT *** [5s 7h 4h] [6c]
+*** RIVIÈRE *** [5s 7h 4h 6c] [4d]
+*** ABATTAGE ***
+coinflip0713 : montre [Td Jd] (une paire de Quatre)
+pomlucien71 : montre [5c Kd] (double paire, Cinq et Quatre)
+pomlucien71 a remporté 255  lors du pot .
+*** SYNTHÈSE ***
+Pot total 255 | Commission 0 
+Tableau [5s 7h 4h 6c 4d]
+Siège 1 : pomlucien71 (bouton) a montré [5c Kd] et a gagné (255) avec double paire, Cinq et Quatre
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : coinflip0713 (grosse blind) a montré [Td Jd] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°237571870085 : Tournoi #3446367330, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 9:01:10 CET [25/07/2022 3:01:10 ET]
+Table '3446367330 1' 3-max Siège #2 est au bouton.
+Place 1: pomlucien71 (255 en jetons) 
+Place 2: psychoman59 (325 en jetons) 
+Place 3: coinflip0713 (320 en jetons) 
+coinflip0713 : met la petite blind. 15
+pomlucien71 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Ts]
+psychoman59 : relance. 295 à 325 et est all-in.
+coinflip0713 : suit. 305 et est all-in.
+pomlucien71 : passe. 
+Personne n'a suivi. (5) sont retournés à psychoman59.
+*** FLOP *** [2d 5h 6d]
+*** TOURNANT *** [2d 5h 6d] [Jh]
+*** RIVIÈRE *** [2d 5h 6d Jh] [3c]
+*** ABATTAGE ***
+coinflip0713 : montre [5s 5d] (un brelan de Cinq)
+psychoman59 : montre [As Ts] (Hauteur As)
+coinflip0713 a remporté 670  lors du pot .
+*** SYNTHÈSE ***
+Pot total 670 | Commission 0 
+Tableau [2d 5h 6d Jh 3c]
+Siège 1 : pomlucien71 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a montré [As Ts] et a perdu avec Hauteur As
+Siège 3 : coinflip0713 (petite blind) a montré [5s 5d] et a gagné (670) avec un brelan de Cinq
+
+
+
+Main PokerStars n°237571871881 : Tournoi #3446367330, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 9:01:29 CET [25/07/2022 3:01:29 ET]
+Table '3446367330 1' 3-max Siège #3 est au bouton.
+Place 1: pomlucien71 (225 en jetons) 
+Place 2: psychoman59 (5 en jetons) 
+Place 3: coinflip0713 (670 en jetons) 
+pomlucien71 : met la petite blind. 15
+psychoman59 : met la grosse blind. 5 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Kh]
+coinflip0713 : passe. 
+Personne n'a suivi. (10) sont retournés à pomlucien71.
+*** FLOP *** [9d Kc Ks]
+*** TOURNANT *** [9d Kc Ks] [6h]
+*** RIVIÈRE *** [9d Kc Ks 6h] [5s]
+*** ABATTAGE ***
+pomlucien71 : montre [Qd 7d] (une paire de Rois)
+psychoman59 : montre [6c Kh] (un full, full aux Rois par les Six)
+psychoman59 a remporté 10  lors du pot .
+*** SYNTHÈSE ***
+Pot total 10 | Commission 0 
+Tableau [9d Kc Ks 6h 5s]
+Siège 1 : pomlucien71 (petite blind) a montré [Qd 7d] et a perdu avec une paire de Rois
+Siège 2 : psychoman59 (grosse blind) a montré [6c Kh] et a gagné (10) avec un full, full aux Rois par les Six
+Siège 3 : coinflip0713 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237571873351 : Tournoi #3446367330, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 25/07/2022 9:01:44 CET [25/07/2022 3:01:44 ET]
+Table '3446367330 1' 3-max Siège #1 est au bouton.
+Place 1: pomlucien71 (220 en jetons) 
+Place 2: psychoman59 (10 en jetons) 
+Place 3: coinflip0713 (670 en jetons) 
+psychoman59 : met la petite blind. 10 et est all-in.
+coinflip0713 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Jh]
+pomlucien71 : relance. 180 à 220 et est all-in.
+coinflip0713 : passe. 
+Personne n'a suivi. (180) sont retournés à pomlucien71.
+*** FLOP *** [Kd Qc 8d]
+*** TOURNANT *** [Kd Qc 8d] [5c]
+*** RIVIÈRE *** [Kd Qc 8d 5c] [2h]
+*** ABATTAGE ***
+pomlucien71 : montre [Ac 6c] (Hauteur As)
+pomlucien71 a remporté 60  parallèle lors du pot .
+psychoman59 : montre [3s Jh] (Hauteur Roi)
+pomlucien71 a remporté 30  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 Principal pot 30. Parallèle pot 60. | Commission 0 
+Tableau [Kd Qc 8d 5c 2h]
+Siège 1 : pomlucien71 (bouton) a montré [Ac 6c] et a gagné (90) avec Hauteur As
+Siège 2 : psychoman59 (petite blind) a montré [3s Jh] et a perdu avec Hauteur Roi
+Siège 3 : coinflip0713 (grosse blind) s'est couché. avant Flop
+
+
+

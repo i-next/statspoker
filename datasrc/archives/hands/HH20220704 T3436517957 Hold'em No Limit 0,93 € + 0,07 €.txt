@@ -1,0 +1,136 @@
+﻿Main PokerStars n°237150144401 : Tournoi #3436517957, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2022 7:58:26 CET [04/07/2022 1:58:26 ET]
+Table '3436517957 1' 3-max Siège #1 est au bouton.
+Place 1: maya114 (300 en jetons) 
+Place 2: jumbo33700 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+jumbo33700 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 2c]
+maya114 : suit. 20
+jumbo33700 : passe. 
+psychoman59 : parole 
+*** FLOP *** [7c As Ah]
+psychoman59 : parole 
+maya114 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à maya114.
+maya114 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [7c As Ah]
+Siège 1 : maya114 (bouton) a remporté (50)
+Siège 2 : jumbo33700 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237150145796 : Tournoi #3436517957, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2022 7:58:42 CET [04/07/2022 1:58:42 ET]
+Table '3436517957 1' 3-max Siège #2 est au bouton.
+Place 1: maya114 (330 en jetons) 
+Place 2: jumbo33700 (290 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+maya114 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Qh]
+jumbo33700 : passe. 
+psychoman59 : relance. 20 à 40
+maya114 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : maya114 (grosse blind) s'est couché. avant Flop
+Siège 2 : jumbo33700 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°237150146726 : Tournoi #3436517957, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2022 7:58:52 CET [04/07/2022 1:58:52 ET]
+Table '3436517957 1' 3-max Siège #3 est au bouton.
+Place 1: maya114 (310 en jetons) 
+Place 2: jumbo33700 (290 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+maya114 : met la petite blind. 10
+jumbo33700 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Ts]
+psychoman59 : relance. 40 à 60
+maya114 : suit. 50
+jumbo33700 : relance. 230 à 290 et est all-in.
+psychoman59 : suit. 230
+maya114 : passe. 
+*** FLOP *** [4h 8h 8c]
+*** TOURNANT *** [4h 8h 8c] [2d]
+*** RIVIÈRE *** [4h 8h 8c 2d] [Qs]
+*** ABATTAGE ***
+jumbo33700 : montre [Jc Ah] (une paire de Huit)
+psychoman59 : montre [Ks Ts] (une paire de Huit - plus basse kicker)
+jumbo33700 a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [4h 8h 8c 2d Qs]
+Siège 1 : maya114 (petite blind) s'est couché. avant Flop
+Siège 2 : jumbo33700 (grosse blind) a montré [Jc Ah] et a gagné (640) avec une paire de Huit
+Siège 3 : psychoman59 (bouton) a montré [Ks Ts] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°237150148828 : Tournoi #3436517957, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2022 7:59:16 CET [04/07/2022 1:59:16 ET]
+Table '3436517957 1' 3-max Siège #1 est au bouton.
+Place 1: maya114 (250 en jetons) 
+Place 2: jumbo33700 (640 en jetons) 
+Place 3: psychoman59 (10 en jetons) 
+jumbo33700 : met la petite blind. 10
+psychoman59 : met la grosse blind. 10 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Kc]
+maya114 : passe. 
+*** FLOP *** [7h Jh Qh]
+*** TOURNANT *** [7h Jh Qh] [Tc]
+*** RIVIÈRE *** [7h Jh Qh Tc] [3h]
+*** ABATTAGE ***
+jumbo33700 : montre [7d Kd] (une paire de Sept)
+psychoman59 : montre [7c Kc] (une paire de Sept)
+jumbo33700 a remporté 10  lors du pot .
+psychoman59 a remporté 10  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Tableau [7h Jh Qh Tc 3h]
+Siège 1 : maya114 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jumbo33700 (petite blind) a montré [7d Kd] et a gagné (10) avec une paire de Sept
+Siège 3 : psychoman59 (grosse blind) a montré [7c Kc] et a gagné (10) avec une paire de Sept
+
+
+
+Main PokerStars n°237150150177 : Tournoi #3436517957, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/07/2022 7:59:32 CET [04/07/2022 1:59:32 ET]
+Table '3436517957 1' 3-max Siège #2 est au bouton.
+Place 1: maya114 (250 en jetons) 
+Place 2: jumbo33700 (640 en jetons) 
+Place 3: psychoman59 (10 en jetons) 
+psychoman59 : met la petite blind. 10 et est all-in.
+maya114 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 8h]
+jumbo33700 : suit. 30
+maya114 : relance. 220 à 250 et est all-in.
+jumbo33700 : suit. 220
+*** FLOP *** [4c 9d 7h]
+*** TOURNANT *** [4c 9d 7h] [6s]
+*** RIVIÈRE *** [4c 9d 7h 6s] [Kc]
+*** ABATTAGE ***
+maya114 : montre [Kh Qd] (une paire de Rois)
+jumbo33700 : montre [Ks Td] (une paire de Rois - plus basse kicker)
+maya114 a remporté 480  parallèle lors du pot .
+psychoman59 : montre [3c 8h] (Hauteur Roi)
+maya114 a remporté 30  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 510 Principal pot 30. Parallèle pot 480. | Commission 0 
+Tableau [4c 9d 7h 6s Kc]
+Siège 1 : maya114 (grosse blind) a montré [Kh Qd] et a gagné (510) avec une paire de Rois
+Siège 2 : jumbo33700 (bouton) a montré [Ks Td] et a perdu avec une paire de Rois
+Siège 3 : psychoman59 (petite blind) a montré [3c 8h] et a perdu avec Hauteur Roi
+
+
+

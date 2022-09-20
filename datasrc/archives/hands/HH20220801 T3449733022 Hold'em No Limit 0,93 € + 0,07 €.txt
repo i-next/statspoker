@@ -1,0 +1,224 @@
+﻿Main PokerStars n°237717254597 : Tournoi #3449733022, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 01/08/2022 7:57:37 CET [01/08/2022 1:57:37 ET]
+Table '3449733022 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: carmat09 (300 en jetons) 
+Place 3: mollaletty (300 en jetons) 
+carmat09 : met la petite blind. 10
+mollaletty : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ts]
+psychoman59 : passe. 
+carmat09 : suit. 10
+mollaletty : parole 
+*** FLOP *** [9s 9d 7c]
+carmat09 : parole 
+mollaletty : parole 
+*** TOURNANT *** [9s 9d 7c] [5c]
+carmat09 : parole 
+mollaletty : parole 
+*** RIVIÈRE *** [9s 9d 7c 5c] [Kd]
+carmat09 : parole 
+mollaletty : parole 
+*** ABATTAGE ***
+carmat09 : montre [Qd Th] (une paire de Neuf)
+mollaletty : cache la main perdante. 
+carmat09 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9s 9d 7c 5c Kd]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : carmat09 (petite blind) a montré [Qd Th] et a gagné (40) avec une paire de Neuf
+Siège 3 : mollaletty (grosse blind) a caché la main perdante. [Js 3s]
+
+
+
+Main PokerStars n°237717256481 : Tournoi #3449733022, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 01/08/2022 7:57:58 CET [01/08/2022 1:57:58 ET]
+Table '3449733022 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: carmat09 (320 en jetons) 
+Place 3: mollaletty (280 en jetons) 
+mollaletty : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 5d]
+carmat09 : passe. 
+mollaletty : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Td 5c Th]
+mollaletty : parole 
+psychoman59 : mise. 60
+mollaletty : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Td 5c Th]
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : carmat09 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : mollaletty (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237717258235 : Tournoi #3449733022, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 01/08/2022 7:58:19 CET [01/08/2022 1:58:19 ET]
+Table '3449733022 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: carmat09 (320 en jetons) 
+Place 3: mollaletty (260 en jetons) 
+psychoman59 : met la petite blind. 10
+carmat09 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9s]
+mollaletty : suit. 20
+psychoman59 : suit. 10
+carmat09 : parole 
+*** FLOP *** [2h 8c Ts]
+psychoman59 : parole 
+carmat09 : parole 
+mollaletty : mise. 40
+psychoman59 : passe. 
+carmat09 : suit. 40
+*** TOURNANT *** [2h 8c Ts] [Ad]
+carmat09 : parole 
+mollaletty : mise. 20
+carmat09 : suit. 20
+*** RIVIÈRE *** [2h 8c Ts Ad] [Jc]
+carmat09 : mise. 90
+mollaletty : suit. 90
+*** ABATTAGE ***
+carmat09 : montre [2d Ah] (double paire, As et Deux)
+mollaletty : cache la main perdante. 
+carmat09 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [2h 8c Ts Ad Jc]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 2 : carmat09 (grosse blind) a montré [2d Ah] et a gagné (360) avec double paire, As et Deux
+Siège 3 : mollaletty (bouton) a caché la main perdante. [Th 5d]
+
+
+
+Main PokerStars n°237717261456 : Tournoi #3449733022, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 01/08/2022 7:58:58 CET [01/08/2022 1:58:58 ET]
+Table '3449733022 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: carmat09 (510 en jetons) 
+Place 3: mollaletty (90 en jetons) 
+carmat09 : met la petite blind. 15
+mollaletty : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 3c]
+psychoman59 : passe. 
+carmat09 : suit. 15
+mollaletty : relance. 30 à 60
+carmat09 : suit. 30
+*** FLOP *** [6h 7s 6d]
+carmat09 : mise. 30
+mollaletty : suit. 30 et est all-in.
+*** TOURNANT *** [6h 7s 6d] [5c]
+*** RIVIÈRE *** [6h 7s 6d 5c] [4h]
+*** ABATTAGE ***
+carmat09 : montre [9c 7d] (double paire, Sept et Six)
+mollaletty : montre [5s Td] (double paire, Six et Cinq)
+carmat09 a remporté 180  lors du pot .
+mollaletty a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [6h 7s 6d 5c 4h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : carmat09 (petite blind) a montré [9c 7d] et a gagné (180) avec double paire, Sept et Six
+Siège 3 : mollaletty (grosse blind) a montré [5s Td] et a perdu avec double paire, Six et Cinq
+
+
+
+Main PokerStars n°237717263371 : Tournoi #3449733022, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 01/08/2022 7:59:20 CET [01/08/2022 1:59:20 ET]
+Table '3449733022 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: carmat09 (600 en jetons) 
+carmat09 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Th]
+carmat09 : relance. 60 à 90
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à carmat09.
+carmat09 a remporté 60  lors du pot .
+carmat09 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : carmat09 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237717263967 : Tournoi #3449733022, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 01/08/2022 7:59:27 CET [01/08/2022 1:59:27 ET]
+Table '3449733022 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: carmat09 (630 en jetons) 
+psychoman59 : met la petite blind. 15
+carmat09 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Ac]
+psychoman59 : relance. 240 à 270 et est all-in.
+carmat09 : suit. 240
+*** FLOP *** [3c 2d Jc]
+*** TOURNANT *** [3c 2d Jc] [3d]
+*** RIVIÈRE *** [3c 2d Jc 3d] [9s]
+*** ABATTAGE ***
+carmat09 : montre [Ad 8d] (une paire de Trois)
+psychoman59 : montre [5s Ac] (une paire de Trois)
+carmat09 a remporté 270  lors du pot .
+psychoman59 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [3c 2d Jc 3d 9s]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [5s Ac] et a gagné (270) avec une paire de Trois
+Siège 2 : carmat09 (grosse blind) a montré [Ad 8d] et a gagné (270) avec une paire de Trois
+
+
+
+Main PokerStars n°237717265384 : Tournoi #3449733022, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 01/08/2022 7:59:44 CET [01/08/2022 1:59:44 ET]
+Table '3449733022 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: carmat09 (630 en jetons) 
+carmat09 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 8s]
+carmat09 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : carmat09 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237717265764 : Tournoi #3449733022, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 01/08/2022 7:59:48 CET [01/08/2022 1:59:48 ET]
+Table '3449733022 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 2: carmat09 (610 en jetons) 
+psychoman59 : met la petite blind. 20
+carmat09 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 9d]
+psychoman59 : relance. 250 à 290 et est all-in.
+carmat09 : suit. 250
+*** FLOP *** [2d 7h Ah]
+*** TOURNANT *** [2d 7h Ah] [Jh]
+*** RIVIÈRE *** [2d 7h Ah Jh] [Qd]
+*** ABATTAGE ***
+carmat09 : montre [As Js] (double paire, As et Valets)
+psychoman59 : montre [Ad 9d] (une paire de As)
+carmat09 a remporté 580  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+carmat09 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [2d 7h Ah Jh Qd]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Ad 9d] et a perdu avec une paire de As
+Siège 2 : carmat09 (grosse blind) a montré [As Js] et a gagné (580) avec double paire, As et Valets
+
+
+

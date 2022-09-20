@@ -1,0 +1,500 @@
+﻿Main PokerStars n°237290216872 : Tournoi #3439837824, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 10:08:04 CET [11/07/2022 4:08:04 ET]
+Table '3439837824 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: mAn0os (300 en jetons) 
+Place 3: chivac123 (300 en jetons) 
+mAn0os : met la petite blind. 10
+chivac123 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 8s]
+psychoman59 : passe. 
+mAn0os : suit. 10
+chivac123 : parole 
+*** FLOP *** [Qh Kc 3h]
+mAn0os : mise. 20
+chivac123 : suit. 20
+*** TOURNANT *** [Qh Kc 3h] [6h]
+mAn0os : mise. 20
+chivac123 : suit. 20
+*** RIVIÈRE *** [Qh Kc 3h 6h] [8d]
+mAn0os : mise. 20
+chivac123 : suit. 20
+*** ABATTAGE ***
+mAn0os : montre [Qd 8c] (double paire, Dames et Huit)
+chivac123 : cache la main perdante. 
+mAn0os a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Qh Kc 3h 6h 8d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : mAn0os (petite blind) a montré [Qd 8c] et a gagné (160) avec double paire, Dames et Huit
+Siège 3 : chivac123 (grosse blind) a caché la main perdante. [Jh 7s]
+
+
+
+Main PokerStars n°237290218903 : Tournoi #3439837824, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 10:08:21 CET [11/07/2022 4:08:21 ET]
+Table '3439837824 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: mAn0os (380 en jetons) 
+Place 3: chivac123 (220 en jetons) 
+chivac123 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 6s]
+mAn0os : suit. 20
+chivac123 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8c 2d Qs]
+chivac123 : parole 
+psychoman59 : parole 
+mAn0os : mise. 20
+chivac123 : suit. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [8c 2d Qs] [5d]
+chivac123 : parole 
+psychoman59 : parole 
+mAn0os : mise. 20
+chivac123 : suit. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [8c 2d Qs 5d] [3s]
+chivac123 : parole 
+psychoman59 : parole 
+mAn0os : mise. 20
+chivac123 : passe. 
+psychoman59 : suit. 20
+*** ABATTAGE ***
+mAn0os : montre [Qc 9d] (une paire de Dames)
+psychoman59 : cache la main perdante. 
+mAn0os a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [8c 2d Qs 5d 3s]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [Qh 6s]
+Siège 2 : mAn0os (bouton) a montré [Qc 9d] et a gagné (220) avec une paire de Dames
+Siège 3 : chivac123 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237290222903 : Tournoi #3439837824, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 10:08:56 CET [11/07/2022 4:08:56 ET]
+Table '3439837824 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (220 en jetons) 
+Place 2: mAn0os (520 en jetons) 
+Place 3: chivac123 (160 en jetons) 
+psychoman59 : met la petite blind. 10
+mAn0os : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Td]
+chivac123 : suit. 20
+psychoman59 : relance. 200 à 220 et est all-in.
+mAn0os : passe. 
+chivac123 : suit. 140 et est all-in.
+Personne n'a suivi. (60) sont retournés à psychoman59.
+*** FLOP *** [5d 2c Qh]
+*** TOURNANT *** [5d 2c Qh] [6c]
+*** RIVIÈRE *** [5d 2c Qh 6c] [2s]
+*** ABATTAGE ***
+psychoman59 : montre [Ts Td] (double paire, Dix et Deux)
+chivac123 : montre [6d Js] (double paire, Six et Deux)
+psychoman59 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [5d 2c Qh 6c 2s]
+Siège 1 : psychoman59 (petite blind) a montré [Ts Td] et a gagné (340) avec double paire, Dix et Deux
+Siège 2 : mAn0os (grosse blind) s'est couché. avant Flop
+Siège 3 : chivac123 (bouton) a montré [6d Js] et a perdu avec double paire, Six et Deux
+
+
+
+Main PokerStars n°237290225380 : Tournoi #3439837824, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 10:09:18 CET [11/07/2022 4:09:18 ET]
+Table '3439837824 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: mAn0os (500 en jetons) 
+mAn0os : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Ah]
+mAn0os : suit. 15
+psychoman59 : relance. 370 à 400 et est all-in.
+mAn0os : passe. 
+Personne n'a suivi. (370) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : mAn0os (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237290226751 : Tournoi #3439837824, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 10:09:29 CET [11/07/2022 4:09:29 ET]
+Table '3439837824 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 2: mAn0os (470 en jetons) 
+psychoman59 : met la petite blind. 15
+mAn0os : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Ts]
+psychoman59 : relance. 400 à 430 et est all-in.
+mAn0os : passe. 
+Personne n'a suivi. (400) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 2 : mAn0os (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237290227629 : Tournoi #3439837824, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 10:09:37 CET [11/07/2022 4:09:37 ET]
+Table '3439837824 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: mAn0os (440 en jetons) 
+mAn0os : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 3s]
+mAn0os : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : mAn0os (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237290228168 : Tournoi #3439837824, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 10:09:42 CET [11/07/2022 4:09:42 ET]
+Table '3439837824 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (475 en jetons) 
+Place 2: mAn0os (425 en jetons) 
+psychoman59 : met la petite blind. 15
+mAn0os : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à mAn0os.
+mAn0os a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : mAn0os (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237290228737 : Tournoi #3439837824, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 10:09:47 CET [11/07/2022 4:09:47 ET]
+Table '3439837824 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: mAn0os (440 en jetons) 
+mAn0os : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Qc]
+mAn0os : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5h 3d 4h]
+psychoman59 : parole 
+mAn0os : parole 
+*** TOURNANT *** [5h 3d 4h] [Jc]
+psychoman59 : parole 
+mAn0os : parole 
+*** RIVIÈRE *** [5h 3d 4h Jc] [Ts]
+psychoman59 : parole 
+mAn0os : mise. 30
+psychoman59 : relance. 60 à 90
+mAn0os : relance. 60 à 150
+psychoman59 : suit. 60
+*** ABATTAGE ***
+mAn0os : montre [5d 4s] (double paire, Cinq et Quatre)
+psychoman59 : cache la main perdante. 
+mAn0os a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [5h 3d 4h Jc Ts]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [Js Qc]
+Siège 2 : mAn0os (bouton) (petite blind) a montré [5d 4s] et a gagné (360) avec double paire, Cinq et Quatre
+
+
+
+Main PokerStars n°237290231652 : Tournoi #3439837824, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 10:10:12 CET [11/07/2022 4:10:12 ET]
+Table '3439837824 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: mAn0os (620 en jetons) 
+psychoman59 : met la petite blind. 20
+mAn0os : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à mAn0os.
+mAn0os a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : mAn0os (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237290232288 : Tournoi #3439837824, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 10:10:18 CET [11/07/2022 4:10:18 ET]
+Table '3439837824 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: mAn0os (640 en jetons) 
+mAn0os : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 7d]
+mAn0os : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Ad Td Kd]
+psychoman59 : parole 
+mAn0os : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à mAn0os.
+mAn0os a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ad Td Kd]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : mAn0os (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237290233867 : Tournoi #3439837824, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 10:10:32 CET [11/07/2022 4:10:32 ET]
+Table '3439837824 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (220 en jetons) 
+Place 2: mAn0os (680 en jetons) 
+psychoman59 : met la petite blind. 20
+mAn0os : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 8c]
+psychoman59 : relance. 180 à 220 et est all-in.
+mAn0os : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : mAn0os (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237290235035 : Tournoi #3439837824, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 10:10:42 CET [11/07/2022 4:10:42 ET]
+Table '3439837824 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: mAn0os (640 en jetons) 
+mAn0os : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 9h]
+mAn0os : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à mAn0os.
+mAn0os a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : mAn0os (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237290235740 : Tournoi #3439837824, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 10:10:48 CET [11/07/2022 4:10:48 ET]
+Table '3439837824 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (220 en jetons) 
+Place 2: mAn0os (680 en jetons) 
+psychoman59 : met la petite blind. 20
+mAn0os : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 3c]
+psychoman59 : relance. 180 à 220 et est all-in.
+mAn0os : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : mAn0os (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237290236855 : Tournoi #3439837824, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 10:10:58 CET [11/07/2022 4:10:58 ET]
+Table '3439837824 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: mAn0os (640 en jetons) 
+mAn0os : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Qh]
+mAn0os : relance. 80 à 120
+psychoman59 : relance. 140 à 260 et est all-in.
+mAn0os : suit. 140
+*** FLOP *** [2c Ks 6c]
+*** TOURNANT *** [2c Ks 6c] [7d]
+*** RIVIÈRE *** [2c Ks 6c 7d] [Kc]
+*** ABATTAGE ***
+psychoman59 : montre [Th Qh] (une paire de Rois)
+mAn0os : montre [5s Qd] (une paire de Rois - plus basse kicker)
+psychoman59 a remporté 520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [2c Ks 6c 7d Kc]
+Siège 1 : psychoman59 (grosse blind) a montré [Th Qh] et a gagné (520) avec une paire de Rois
+Siège 2 : mAn0os (bouton) (petite blind) a montré [5s Qd] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°237290238896 : Tournoi #3439837824, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 10:11:16 CET [11/07/2022 4:11:16 ET]
+Table '3439837824 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: mAn0os (380 en jetons) 
+psychoman59 : met la petite blind. 30
+mAn0os : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Ts]
+psychoman59 : relance. 120 à 180
+mAn0os : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 2 : mAn0os (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237290239744 : Tournoi #3439837824, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 10:11:24 CET [11/07/2022 4:11:24 ET]
+Table '3439837824 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 2: mAn0os (320 en jetons) 
+mAn0os : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 6c]
+mAn0os : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : mAn0os (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237290240282 : Tournoi #3439837824, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 10:11:28 CET [11/07/2022 4:11:28 ET]
+Table '3439837824 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (610 en jetons) 
+Place 2: mAn0os (290 en jetons) 
+psychoman59 : met la petite blind. 30
+mAn0os : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à mAn0os.
+mAn0os a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : mAn0os (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237290240875 : Tournoi #3439837824, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 10:11:33 CET [11/07/2022 4:11:33 ET]
+Table '3439837824 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 2: mAn0os (320 en jetons) 
+mAn0os : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 8h]
+mAn0os : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : mAn0os (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237290241346 : Tournoi #3439837824, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 10:11:38 CET [11/07/2022 4:11:38 ET]
+Table '3439837824 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (610 en jetons) 
+Place 2: mAn0os (290 en jetons) 
+psychoman59 : met la petite blind. 30
+mAn0os : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Th]
+psychoman59 : relance. 60 à 120
+mAn0os : suit. 60
+*** FLOP *** [9s As 3c]
+mAn0os : mise. 170 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (170) sont retournés à mAn0os.
+mAn0os a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [9s As 3c]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 2 : mAn0os (grosse blind) a remporté (240)
+
+
+
+Main PokerStars n°237290242625 : Tournoi #3439837824, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 10:11:48 CET [11/07/2022 4:11:48 ET]
+Table '3439837824 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (490 en jetons) 
+Place 2: mAn0os (410 en jetons) 
+mAn0os : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 8s]
+mAn0os : relance. 350 à 410 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (350) sont retournés à mAn0os.
+mAn0os a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : mAn0os (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237290243413 : Tournoi #3439837824, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 10:11:55 CET [11/07/2022 4:11:55 ET]
+Table '3439837824 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 2: mAn0os (470 en jetons) 
+psychoman59 : met la petite blind. 30
+mAn0os : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 8d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à mAn0os.
+mAn0os a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : mAn0os (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237290243996 : Tournoi #3439837824, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 10:12:00 CET [11/07/2022 4:12:00 ET]
+Table '3439837824 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: mAn0os (500 en jetons) 
+mAn0os : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ks]
+mAn0os : relance. 440 à 500 et est all-in.
+psychoman59 : suit. 340 et est all-in.
+Personne n'a suivi. (100) sont retournés à mAn0os.
+*** FLOP *** [5c 4c 6h]
+*** TOURNANT *** [5c 4c 6h] [6d]
+*** RIVIÈRE *** [5c 4c 6h 6d] [4h]
+*** ABATTAGE ***
+psychoman59 : montre [Qh Ks] (double paire, Six et Quatre)
+mAn0os : montre [5s Kd] (double paire, Six et Cinq)
+mAn0os a remporté 800  lors du pot .
+*** SYNTHÈSE ***
+Pot total 800 | Commission 0 
+Tableau [5c 4c 6h 6d 4h]
+Siège 1 : psychoman59 (grosse blind) a montré [Qh Ks] et a perdu avec double paire, Six et Quatre
+Siège 2 : mAn0os (bouton) (petite blind) a montré [5s Kd] et a gagné (800) avec double paire, Six et Cinq
+
+
+

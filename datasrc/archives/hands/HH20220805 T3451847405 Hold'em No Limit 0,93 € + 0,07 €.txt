@@ -1,0 +1,176 @@
+﻿Main PokerStars n°237804103991 : Tournoi #3451847405, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/08/2022 17:34:40 CET [05/08/2022 11:34:40 ET]
+Table '3451847405 1' 3-max Siège #1 est au bouton.
+Place 1: Elera1313 (300 en jetons) 
+Place 2: menobang69 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+menobang69 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 5c]
+Elera1313 : passe. 
+menobang69 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qh 7d 4c]
+menobang69 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qh 7d 4c] [2d]
+menobang69 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qh 7d 4c 2d] [2s]
+menobang69 : mise. 280 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (280) sont retournés à menobang69.
+menobang69 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qh 7d 4c 2d 2s]
+Siège 1 : Elera1313 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : menobang69 (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237804113424 : Tournoi #3451847405, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/08/2022 17:35:14 CET [05/08/2022 11:35:14 ET]
+Table '3451847405 1' 3-max Siège #2 est au bouton.
+Place 1: Elera1313 (300 en jetons) 
+Place 2: menobang69 (320 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+Elera1313 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 5h]
+menobang69 : suit. 20
+psychoman59 : passe. 
+Elera1313 : relance. 40 à 60
+menobang69 : suit. 40
+*** FLOP *** [4s 5s 2s]
+Elera1313 : parole 
+menobang69 : mise. 130
+Elera1313 : relance. 110 à 240 et est all-in.
+menobang69 : suit. 110
+*** TOURNANT *** [4s 5s 2s] [6h]
+*** RIVIÈRE *** [4s 5s 2s 6h] [2d]
+*** ABATTAGE ***
+Elera1313 : montre [6c Ac] (double paire, Six et Deux)
+menobang69 : montre [Qd 9s] (une paire de Deux)
+Elera1313 a remporté 610  lors du pot .
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [4s 5s 2s 6h 2d]
+Siège 1 : Elera1313 (grosse blind) a montré [6c Ac] et a gagné (610) avec double paire, Six et Deux
+Siège 2 : menobang69 (bouton) a montré [Qd 9s] et a perdu avec une paire de Deux
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237804120287 : Tournoi #3451847405, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/08/2022 17:35:40 CET [05/08/2022 11:35:40 ET]
+Table '3451847405 1' 3-max Siège #3 est au bouton.
+Place 1: Elera1313 (610 en jetons) 
+Place 2: menobang69 (20 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+Elera1313 : met la petite blind. 10
+menobang69 : met la grosse blind. 20 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 5h]
+psychoman59 : relance. 50 à 70
+Elera1313 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+*** FLOP *** [6d 9h Tc]
+*** TOURNANT *** [6d 9h Tc] [8d]
+*** RIVIÈRE *** [6d 9h Tc 8d] [9d]
+*** ABATTAGE ***
+menobang69 : montre [3c 7h] (une suite, Six à Dix)
+psychoman59 : montre [5d 5h] (double paire, Neuf et Cinq)
+menobang69 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [6d 9h Tc 8d 9d]
+Siège 1 : Elera1313 (petite blind) s'est couché. avant Flop
+Siège 2 : menobang69 (grosse blind) a montré [3c 7h] et a gagné (50) avec une suite, Six à Dix
+Siège 3 : psychoman59 (bouton) a montré [5d 5h] et a perdu avec double paire, Neuf et Cinq
+
+
+
+Main PokerStars n°237804125196 : Tournoi #3451847405, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/08/2022 17:35:58 CET [05/08/2022 11:35:58 ET]
+Table '3451847405 1' 3-max Siège #1 est au bouton.
+Place 1: Elera1313 (600 en jetons) 
+Place 2: menobang69 (50 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+menobang69 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Jd]
+Elera1313 : relance. 60 à 90
+menobang69 : suit. 35 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Elera1313.
+*** FLOP *** [3d 6d Qd]
+*** TOURNANT *** [3d 6d Qd] [9s]
+*** RIVIÈRE *** [3d 6d Qd 9s] [4s]
+*** ABATTAGE ***
+menobang69 : montre [7s Th] (Hauteur Dame)
+Elera1313 : montre [Ts Qc] (une paire de Dames)
+Elera1313 a remporté 130  lors du pot .
+menobang69 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [3d 6d Qd 9s 4s]
+Siège 1 : Elera1313 (bouton) a montré [Ts Qc] et a gagné (130) avec une paire de Dames
+Siège 2 : menobang69 (petite blind) a montré [7s Th] et a perdu avec Hauteur Dame
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237804133410 : Tournoi #3451847405, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/08/2022 17:36:19 CET [05/08/2022 11:36:19 ET]
+Table '3451847405 1' 3-max Siège #3 est au bouton.
+Place 1: Elera1313 (680 en jetons) 
+Place 3: psychoman59 (220 en jetons) 
+psychoman59 : met la petite blind. 15
+Elera1313 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Elera1313.
+Elera1313 a remporté 30  lors du pot .
+Elera1313 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Elera1313 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237804135165 : Tournoi #3451847405, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/08/2022 17:36:25 CET [05/08/2022 11:36:25 ET]
+Table '3451847405 1' 3-max Siège #1 est au bouton.
+Place 1: Elera1313 (695 en jetons) 
+Place 3: psychoman59 (205 en jetons) 
+Elera1313 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Kh]
+Elera1313 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [2d Ad Kd]
+psychoman59 : parole 
+Elera1313 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [2d Ad Kd] [8s]
+psychoman59 : parole 
+Elera1313 : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [2d Ad Kd 8s] [Tc]
+psychoman59 : mise. 85 et est all-in.
+Elera1313 : suit. 85
+*** ABATTAGE ***
+psychoman59 : montre [5c Kh] (une paire de Rois)
+Elera1313 : montre [7d 9d] (une couleur, hauteur As)
+Elera1313 a remporté 410  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+*** SYNTHÈSE ***
+Pot total 410 | Commission 0 
+Tableau [2d Ad Kd 8s Tc]
+Siège 1 : Elera1313 (bouton) (petite blind) a montré [7d 9d] et a gagné (410) avec une couleur, hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [5c Kh] et a perdu avec une paire de Rois
+
+
+

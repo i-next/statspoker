@@ -1,0 +1,676 @@
+﻿Main PokerStars n°237720855125 : Tournoi #3449828090, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 01/08/2022 14:55:08 CET [01/08/2022 8:55:08 ET]
+Table '3449828090 1' 4-max Siège #1 est au bouton.
+Place 1: FanaticX0 (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: msieurmilton (5000 en jetons) 
+Place 4: mensin (5000 en jetons) 
+FanaticX0 : met l'ante. 10
+psychoman59 : met l'ante. 10
+msieurmilton : met l'ante. 10
+mensin : met l'ante. 10
+psychoman59 : met la petite blind. 50
+msieurmilton : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Qs]
+mensin : suit. 100
+FanaticX0 : suit. 100
+psychoman59 : suit. 50
+msieurmilton : parole 
+*** FLOP *** [9s 8s 5s]
+psychoman59 : parole 
+msieurmilton : parole 
+mensin : parole 
+FanaticX0 : parole 
+*** TOURNANT *** [9s 8s 5s] [3d]
+psychoman59 : parole 
+msieurmilton : parole 
+mensin : parole 
+FanaticX0 : parole 
+*** RIVIÈRE *** [9s 8s 5s 3d] [6s]
+psychoman59 : parole 
+msieurmilton : parole 
+mensin : parole 
+FanaticX0 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Kd Qs] (une couleur, hauteur Dame)
+msieurmilton : cache la main perdante. 
+mensin : cache la main perdante. 
+FanaticX0 : cache la main perdante. 
+psychoman59 a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [9s 8s 5s 3d 6s]
+Siège 1 : FanaticX0 (bouton) a caché la main perdante. [Qc Td]
+Siège 2 : psychoman59 (petite blind) a montré [Kd Qs] et a gagné (440) avec une couleur, hauteur Dame
+Siège 3 : msieurmilton (grosse blind) a caché la main perdante. [Jc 2s]
+Siège 4 : mensin a caché la main perdante. [6d Ad]
+
+
+
+Main PokerStars n°237720874960 : Tournoi #3449828090, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 01/08/2022 14:55:57 CET [01/08/2022 8:55:57 ET]
+Table '3449828090 1' 4-max Siège #2 est au bouton.
+Place 1: FanaticX0 (4890 en jetons) 
+Place 2: psychoman59 (5330 en jetons) 
+Place 3: msieurmilton (4890 en jetons) 
+Place 4: mensin (4890 en jetons) 
+FanaticX0 : met l'ante. 10
+psychoman59 : met l'ante. 10
+msieurmilton : met l'ante. 10
+mensin : met l'ante. 10
+msieurmilton : met la petite blind. 50
+mensin : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 3s]
+FanaticX0 : suit. 100
+psychoman59 : suit. 100
+msieurmilton : suit. 50
+mensin : parole 
+*** FLOP *** [8c Jh 5s]
+msieurmilton : mise. 440
+mensin : passe. 
+FanaticX0 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (440) sont retournés à msieurmilton.
+msieurmilton a remporté 440  lors du pot .
+msieurmilton : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [8c Jh 5s]
+Siège 1 : FanaticX0 s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 3 : msieurmilton (petite blind) a remporté (440)
+Siège 4 : mensin (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237720879110 : Tournoi #3449828090, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 01/08/2022 14:56:21 CET [01/08/2022 8:56:21 ET]
+Table '3449828090 1' 4-max Siège #3 est au bouton.
+Place 1: FanaticX0 (4780 en jetons) 
+Place 2: psychoman59 (5220 en jetons) 
+Place 3: msieurmilton (5220 en jetons) 
+Place 4: mensin (4780 en jetons) 
+FanaticX0 : met l'ante. 10
+psychoman59 : met l'ante. 10
+msieurmilton : met l'ante. 10
+mensin : met l'ante. 10
+mensin : met la petite blind. 50
+FanaticX0 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 6s]
+psychoman59 : suit. 100
+msieurmilton : passe. 
+mensin : suit. 50
+FanaticX0 : parole 
+*** FLOP *** [Ac 3d Qd]
+mensin : parole 
+FanaticX0 : mise. 300
+psychoman59 : suit. 300
+mensin : suit. 300
+*** TOURNANT *** [Ac 3d Qd] [7s]
+mensin : parole 
+FanaticX0 : mise. 300
+psychoman59 : suit. 300
+mensin : suit. 300
+*** RIVIÈRE *** [Ac 3d Qd 7s] [5c]
+mensin : parole 
+FanaticX0 : mise. 500
+psychoman59 : suit. 500
+mensin : suit. 500
+*** ABATTAGE ***
+FanaticX0 : montre [Ts 5s] (une paire de Cinq)
+psychoman59 : montre [As 6s] (une paire de As)
+mensin : cache la main perdante. 
+psychoman59 a remporté 3640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3640 | Commission 0 
+Tableau [Ac 3d Qd 7s 5c]
+Siège 1 : FanaticX0 (grosse blind) a montré [Ts 5s] et a perdu avec une paire de Cinq
+Siège 2 : psychoman59 a montré [As 6s] et a gagné (3640) avec une paire de As
+Siège 3 : msieurmilton (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : mensin (petite blind) a caché la main perdante. [4c Ad]
+
+
+
+Main PokerStars n°237720886694 : Tournoi #3449828090, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 01/08/2022 14:57:03 CET [01/08/2022 8:57:03 ET]
+Table '3449828090 1' 4-max Siège #4 est au bouton.
+Place 1: FanaticX0 (3570 en jetons) 
+Place 2: psychoman59 (7650 en jetons) 
+Place 3: msieurmilton (5210 en jetons) 
+Place 4: mensin (3570 en jetons) 
+FanaticX0 : met l'ante. 10
+psychoman59 : met l'ante. 10
+msieurmilton : met l'ante. 10
+mensin : met l'ante. 10
+FanaticX0 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Jd]
+msieurmilton : passe. 
+mensin : suit. 100
+FanaticX0 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Ac 9h 7d]
+FanaticX0 : parole 
+psychoman59 : parole 
+mensin : parole 
+*** TOURNANT *** [Ac 9h 7d] [6d]
+FanaticX0 : parole 
+psychoman59 : parole 
+mensin : parole 
+*** RIVIÈRE *** [Ac 9h 7d 6d] [Td]
+FanaticX0 : parole 
+psychoman59 : mise. 340
+mensin : suit. 340
+FanaticX0 : passe. 
+*** ABATTAGE ***
+psychoman59 : montre [8h Jd] (une suite, Sept à Valet)
+mensin : cache la main perdante. 
+psychoman59 a remporté 1020  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [Ac 9h 7d 6d Td]
+Siège 1 : FanaticX0 (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) a montré [8h Jd] et a gagné (1020) avec une suite, Sept à Valet
+Siège 3 : msieurmilton s'est couché. avant Flop (n'a pas misé)
+Siège 4 : mensin (bouton) a caché la main perdante. [8c Kc]
+
+
+
+Main PokerStars n°237720894524 : Tournoi #3449828090, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 01/08/2022 14:57:46 CET [01/08/2022 8:57:46 ET]
+Table '3449828090 1' 4-max Siège #1 est au bouton.
+Place 1: FanaticX0 (3460 en jetons) 
+Place 2: psychoman59 (8220 en jetons) 
+Place 3: msieurmilton (5200 en jetons) 
+Place 4: mensin (3120 en jetons) 
+FanaticX0 : met l'ante. 10
+psychoman59 : met l'ante. 10
+msieurmilton : met l'ante. 10
+mensin : met l'ante. 10
+psychoman59 : met la petite blind. 50
+msieurmilton : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Qc]
+mensin : passe. 
+FanaticX0 : suit. 100
+psychoman59 : suit. 50
+msieurmilton : parole 
+*** FLOP *** [2h Kh Kc]
+psychoman59 : parole 
+msieurmilton : parole 
+FanaticX0 : parole 
+*** TOURNANT *** [2h Kh Kc] [9s]
+psychoman59 : parole 
+msieurmilton : parole 
+FanaticX0 : parole 
+*** RIVIÈRE *** [2h Kh Kc 9s] [Th]
+psychoman59 : parole 
+msieurmilton : parole 
+FanaticX0 : mise. 200
+psychoman59 : passe. 
+msieurmilton : passe. 
+Personne n'a suivi. (200) sont retournés à FanaticX0.
+FanaticX0 a remporté 340  lors du pot .
+FanaticX0 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [2h Kh Kc 9s Th]
+Siège 1 : FanaticX0 (bouton) a remporté (340)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 3 : msieurmilton (grosse blind) s'est couché. sur le Rivière
+Siège 4 : mensin s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237720903162 : Tournoi #3449828090, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 01/08/2022 14:58:34 CET [01/08/2022 8:58:34 ET]
+Table '3449828090 1' 4-max Siège #2 est au bouton.
+Place 1: FanaticX0 (3690 en jetons) 
+Place 2: psychoman59 (8110 en jetons) 
+Place 3: msieurmilton (5090 en jetons) 
+Place 4: mensin (3110 en jetons) 
+FanaticX0 : met l'ante. 15
+psychoman59 : met l'ante. 15
+msieurmilton : met l'ante. 15
+mensin : met l'ante. 15
+msieurmilton : met la petite blind. 60
+mensin : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Jc]
+FanaticX0 : suit. 120
+psychoman59 : passe. 
+msieurmilton : passe. 
+mensin : parole 
+*** FLOP *** [5c Qh Kh]
+mensin : parole 
+FanaticX0 : mise. 240
+mensin : suit. 240
+*** TOURNANT *** [5c Qh Kh] [Jd]
+mensin : parole 
+FanaticX0 : mise. 360
+mensin : suit. 360
+*** RIVIÈRE *** [5c Qh Kh Jd] [Ts]
+mensin : parole 
+FanaticX0 : mise. 960
+mensin : relance. 960 à 1920
+FanaticX0 : relance. 960 à 2880
+mensin : suit. 455 et est all-in.
+Personne n'a suivi. (505) sont retournés à FanaticX0.
+*** ABATTAGE ***
+FanaticX0 : montre [Jh Kc] (double paire, Rois et Valets)
+mensin : montre [8h Ah] (une suite, Dix à As)
+mensin a remporté 6310  lors du pot .
+*** SYNTHÈSE ***
+Pot total 6310 | Commission 0 
+Tableau [5c Qh Kh Jd Ts]
+Siège 1 : FanaticX0 a montré [Jh Kc] et a perdu avec double paire, Rois et Valets
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : msieurmilton (petite blind) s'est couché. avant Flop
+Siège 4 : mensin (grosse blind) a montré [8h Ah] et a gagné (6310) avec une suite, Dix à As
+
+
+
+Main PokerStars n°237720910665 : Tournoi #3449828090, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 01/08/2022 14:59:16 CET [01/08/2022 8:59:16 ET]
+Table '3449828090 1' 4-max Siège #3 est au bouton.
+Place 1: FanaticX0 (580 en jetons) 
+Place 2: psychoman59 (8095 en jetons) 
+Place 3: msieurmilton (5015 en jetons) 
+Place 4: mensin (6310 en jetons) 
+FanaticX0 : met l'ante. 15
+psychoman59 : met l'ante. 15
+msieurmilton : met l'ante. 15
+mensin : met l'ante. 15
+mensin : met la petite blind. 60
+FanaticX0 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 2c]
+psychoman59 : passe. 
+msieurmilton : passe. 
+mensin : suit. 60
+FanaticX0 : parole 
+*** FLOP *** [7h 7s 8c]
+mensin : parole 
+FanaticX0 : parole 
+*** TOURNANT *** [7h 7s 8c] [Ah]
+mensin : parole 
+FanaticX0 : parole 
+*** RIVIÈRE *** [7h 7s 8c Ah] [Js]
+mensin : parole 
+FanaticX0 : mise. 445 et est all-in.
+mensin : suit. 445
+*** ABATTAGE ***
+FanaticX0 : montre [9d Tc] (une suite, Sept à Valet)
+mensin : montre [5d Jd] (double paire, Valets et Sept)
+FanaticX0 a remporté 1190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1190 | Commission 0 
+Tableau [7h 7s 8c Ah Js]
+Siège 1 : FanaticX0 (grosse blind) a montré [9d Tc] et a gagné (1190) avec une suite, Sept à Valet
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : msieurmilton (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : mensin (petite blind) a montré [5d Jd] et a perdu avec double paire, Valets et Sept
+
+
+
+Main PokerStars n°237720916244 : Tournoi #3449828090, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 01/08/2022 14:59:47 CET [01/08/2022 8:59:47 ET]
+Table '3449828090 1' 4-max Siège #4 est au bouton.
+Place 1: FanaticX0 (1190 en jetons) 
+Place 2: psychoman59 (8080 en jetons) 
+Place 3: msieurmilton (5000 en jetons) 
+Place 4: mensin (5730 en jetons) 
+FanaticX0 : met l'ante. 15
+psychoman59 : met l'ante. 15
+msieurmilton : met l'ante. 15
+mensin : met l'ante. 15
+FanaticX0 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Ac]
+msieurmilton : passe. 
+mensin : suit. 120
+FanaticX0 : suit. 60
+psychoman59 : relance. 7945 à 8065 et est all-in.
+mensin : passe. 
+FanaticX0 : passe. 
+Personne n'a suivi. (7945) sont retournés à psychoman59.
+psychoman59 a remporté 420  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Siège 1 : FanaticX0 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (420)
+Siège 3 : msieurmilton s'est couché. avant Flop (n'a pas misé)
+Siège 4 : mensin (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237720919223 : Tournoi #3449828090, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 01/08/2022 15:00:03 CET [01/08/2022 9:00:03 ET]
+Table '3449828090 1' 4-max Siège #1 est au bouton.
+Place 1: FanaticX0 (1055 en jetons) 
+Place 2: psychoman59 (8365 en jetons) 
+Place 3: msieurmilton (4985 en jetons) 
+Place 4: mensin (5595 en jetons) 
+FanaticX0 : met l'ante. 15
+psychoman59 : met l'ante. 15
+msieurmilton : met l'ante. 15
+mensin : met l'ante. 15
+psychoman59 : met la petite blind. 60
+msieurmilton : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 6c]
+mensin : suit. 120
+FanaticX0 : passe. 
+psychoman59 : suit. 60
+msieurmilton : parole 
+*** FLOP *** [Qs 5d Tc]
+psychoman59 : parole 
+msieurmilton : parole 
+mensin : parole 
+*** TOURNANT *** [Qs 5d Tc] [5h]
+psychoman59 : parole 
+msieurmilton : parole 
+mensin : parole 
+*** RIVIÈRE *** [Qs 5d Tc 5h] [3c]
+psychoman59 : mise. 210
+msieurmilton : passe. 
+mensin : passe. 
+Personne n'a suivi. (210) sont retournés à psychoman59.
+psychoman59 a remporté 420  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [Qs 5d Tc 5h 3c]
+Siège 1 : FanaticX0 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (420)
+Siège 3 : msieurmilton (grosse blind) s'est couché. sur le Rivière
+Siège 4 : mensin s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237720927767 : Tournoi #3449828090, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 01/08/2022 15:00:48 CET [01/08/2022 9:00:48 ET]
+Table '3449828090 1' 4-max Siège #2 est au bouton.
+Place 1: FanaticX0 (1040 en jetons) 
+Place 2: psychoman59 (8650 en jetons) 
+Place 3: msieurmilton (4850 en jetons) 
+Place 4: mensin (5460 en jetons) 
+FanaticX0 : met l'ante. 15
+psychoman59 : met l'ante. 15
+msieurmilton : met l'ante. 15
+mensin : met l'ante. 15
+msieurmilton : met la petite blind. 60
+mensin : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 4h]
+FanaticX0 : suit. 120
+psychoman59 : passe. 
+msieurmilton : passe. 
+mensin : parole 
+*** FLOP *** [4d Kh Jd]
+mensin : parole 
+FanaticX0 : mise. 120
+mensin : suit. 120
+*** TOURNANT *** [4d Kh Jd] [Ad]
+mensin : parole 
+FanaticX0 : mise. 240
+mensin : relance. 4965 à 5205 et est all-in.
+FanaticX0 : suit. 545 et est all-in.
+Personne n'a suivi. (4420) sont retournés à mensin.
+*** RIVIÈRE *** [4d Kh Jd Ad] [9s]
+*** ABATTAGE ***
+mensin : montre [3d 9d] (une couleur, hauteur As)
+FanaticX0 : montre [Jh Qd] (une paire de Valets)
+mensin a remporté 2170  lors du pot .
+FanaticX0 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 2170 | Commission 0 
+Tableau [4d Kh Jd Ad 9s]
+Siège 1 : FanaticX0 a montré [Jh Qd] et a perdu avec une paire de Valets
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : msieurmilton (petite blind) s'est couché. avant Flop
+Siège 4 : mensin (grosse blind) a montré [3d 9d] et a gagné (2170) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°237720936596 : Tournoi #3449828090, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 01/08/2022 15:01:30 CET [01/08/2022 9:01:30 ET]
+Table '3449828090 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (8635 en jetons) 
+Place 3: msieurmilton (4775 en jetons) 
+Place 4: mensin (6590 en jetons) 
+psychoman59 : met l'ante. 20
+msieurmilton : met l'ante. 20
+mensin : met l'ante. 20
+mensin : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 6c]
+msieurmilton : passe. 
+mensin : suit. 75
+psychoman59 : parole 
+*** FLOP *** [2d 9d 3h]
+mensin : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2d 9d 3h] [Kc]
+mensin : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [2d 9d 3h Kc] [Qd]
+mensin : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+mensin : montre [4h 8c] (Hauteur Roi)
+psychoman59 : cache la main perdante. 
+mensin a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [2d 9d 3h Kc Qd]
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [5c 6c]
+Siège 3 : msieurmilton (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : mensin (petite blind) a montré [4h 8c] et a gagné (360) avec Hauteur Roi
+
+
+
+Main PokerStars n°237720942991 : Tournoi #3449828090, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 01/08/2022 15:02:00 CET [01/08/2022 9:02:00 ET]
+Table '3449828090 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (8465 en jetons) 
+Place 3: msieurmilton (4755 en jetons) 
+Place 4: mensin (6780 en jetons) 
+psychoman59 : met l'ante. 20
+msieurmilton : met l'ante. 20
+mensin : met l'ante. 20
+psychoman59 : met la petite blind. 75
+msieurmilton : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ah]
+mensin : suit. 150
+psychoman59 : suit. 75
+msieurmilton : relance. 300 à 450
+mensin : passe. 
+psychoman59 : suit. 300
+*** FLOP *** [Tc Jc Kd]
+psychoman59 : parole 
+msieurmilton : parole 
+*** TOURNANT *** [Tc Jc Kd] [7h]
+psychoman59 : parole 
+msieurmilton : mise. 1110
+psychoman59 : passe. 
+Personne n'a suivi. (1110) sont retournés à msieurmilton.
+msieurmilton a remporté 1110  lors du pot .
+msieurmilton : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1110 | Commission 0 
+Tableau [Tc Jc Kd 7h]
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 3 : msieurmilton (grosse blind) a remporté (1110)
+Siège 4 : mensin (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237720952218 : Tournoi #3449828090, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 01/08/2022 15:02:43 CET [01/08/2022 9:02:43 ET]
+Table '3449828090 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (7995 en jetons) 
+Place 3: msieurmilton (5395 en jetons) 
+Place 4: mensin (6610 en jetons) 
+psychoman59 : met l'ante. 20
+msieurmilton : met l'ante. 20
+mensin : met l'ante. 20
+msieurmilton : met la petite blind. 75
+mensin : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ks]
+psychoman59 : passe. 
+msieurmilton : passe. 
+Personne n'a suivi. (75) sont retournés à mensin.
+mensin a remporté 210  lors du pot .
+mensin : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : msieurmilton (petite blind) s'est couché. avant Flop
+Siège 4 : mensin (grosse blind) a remporté (210)
+
+
+
+Main PokerStars n°237720954613 : Tournoi #3449828090, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 01/08/2022 15:02:55 CET [01/08/2022 9:02:55 ET]
+Table '3449828090 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (7975 en jetons) 
+Place 3: msieurmilton (5300 en jetons) 
+Place 4: mensin (6725 en jetons) 
+psychoman59 : met l'ante. 20
+msieurmilton : met l'ante. 20
+mensin : met l'ante. 20
+mensin : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Kd]
+msieurmilton : relance. 300 à 450
+mensin : passe. 
+psychoman59 : relance. 7505 à 7955 et est all-in.
+msieurmilton : suit. 4830 et est all-in.
+Personne n'a suivi. (2675) sont retournés à psychoman59.
+*** FLOP *** [9h Ah Tc]
+*** TOURNANT *** [9h Ah Tc] [8d]
+*** RIVIÈRE *** [9h Ah Tc 8d] [6c]
+*** ABATTAGE ***
+psychoman59 : montre [Ad Kd] (une paire de As)
+msieurmilton : montre [Th Jh] (une paire de Dix)
+psychoman59 a remporté 10695  lors du pot .
+msieurmilton a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 10695 | Commission 0 
+Tableau [9h Ah Tc 8d 6c]
+Siège 2 : psychoman59 (grosse blind) a montré [Ad Kd] et a gagné (10695) avec une paire de As
+Siège 3 : msieurmilton (bouton) a montré [Th Jh] et a perdu avec une paire de Dix
+Siège 4 : mensin (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237720960063 : Tournoi #3449828090, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 01/08/2022 15:03:19 CET [01/08/2022 9:03:19 ET]
+Table '3449828090 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (13370 en jetons) 
+Place 4: mensin (6630 en jetons) 
+psychoman59 : met l'ante. 20
+mensin : met l'ante. 20
+psychoman59 : met la petite blind. 75
+mensin : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 8d]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à mensin.
+mensin a remporté 190  lors du pot .
+mensin : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : mensin (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°237720962248 : Tournoi #3449828090, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 01/08/2022 15:03:29 CET [01/08/2022 9:03:29 ET]
+Table '3449828090 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (13275 en jetons) 
+Place 4: mensin (6725 en jetons) 
+psychoman59 : met l'ante. 20
+mensin : met l'ante. 20
+mensin : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Ts]
+mensin : suit. 75
+psychoman59 : relance. 13105 à 13255 et est all-in.
+mensin : suit. 6555 et est all-in.
+Personne n'a suivi. (6550) sont retournés à psychoman59.
+*** FLOP *** [7h 2c 3h]
+*** TOURNANT *** [7h 2c 3h] [3s]
+*** RIVIÈRE *** [7h 2c 3h 3s] [Kd]
+*** ABATTAGE ***
+psychoman59 : montre [Ad Ts] (une paire de Trois)
+mensin : montre [Ac Qd] (une paire de Trois - As+Roi+Dame kicker)
+mensin a remporté 13450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 13450 | Commission 0 
+Tableau [7h 2c 3h 3s Kd]
+Siège 2 : psychoman59 (grosse blind) a montré [Ad Ts] et a perdu avec une paire de Trois
+Siège 4 : mensin (bouton) (petite blind) a montré [Ac Qd] et a gagné (13450) avec une paire de Trois
+
+
+
+Main PokerStars n°237720966101 : Tournoi #3449828090, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 01/08/2022 15:03:48 CET [01/08/2022 9:03:48 ET]
+Table '3449828090 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (6550 en jetons) 
+Place 4: mensin (13450 en jetons) 
+psychoman59 : met l'ante. 20
+mensin : met l'ante. 20
+psychoman59 : met la petite blind. 75
+mensin : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 9c]
+psychoman59 : suit. 75
+mensin : parole 
+*** FLOP *** [5d 7s 7h]
+mensin : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5d 7s 7h] [8c]
+mensin : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5d 7s 7h 8c] [5h]
+mensin : mise. 1050
+psychoman59 : passe. 
+Personne n'a suivi. (1050) sont retournés à mensin.
+mensin a remporté 340  lors du pot .
+mensin : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [5d 7s 7h 8c 5h]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 4 : mensin (grosse blind) a remporté (340)
+
+
+
+Main PokerStars n°237720972203 : Tournoi #3449828090, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 01/08/2022 15:04:16 CET [01/08/2022 9:04:16 ET]
+Table '3449828090 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (6380 en jetons) 
+Place 4: mensin (13620 en jetons) 
+psychoman59 : met l'ante. 25
+mensin : met l'ante. 25
+mensin : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ah]
+mensin : suit. 100
+psychoman59 : relance. 6155 à 6355 et est all-in.
+mensin : suit. 6155
+*** FLOP *** [7h Qh Td]
+*** TOURNANT *** [7h Qh Td] [Jc]
+*** RIVIÈRE *** [7h Qh Td Jc] [6d]
+*** ABATTAGE ***
+psychoman59 : montre [5c Ah] (Hauteur As)
+mensin : montre [As 8s] (Hauteur As - Dame+Valet+Dix+Huit kicker)
+mensin a remporté 12760  lors du pot .
+psychoman59 a fini le tournoi à la 2e place et a reçu 0.34 €.
+mensin gagne le tournoi - félicitations !
+mensin gagne un ticket " €1.50 PSPC Mega Path Ticket "
+*** SYNTHÈSE ***
+Pot total 12760 | Commission 0 
+Tableau [7h Qh Td Jc 6d]
+Siège 2 : psychoman59 (grosse blind) a montré [5c Ah] et a perdu avec Hauteur As
+Siège 4 : mensin (bouton) (petite blind) a montré [As 8s] et a gagné (12760) avec Hauteur As
+
+
+

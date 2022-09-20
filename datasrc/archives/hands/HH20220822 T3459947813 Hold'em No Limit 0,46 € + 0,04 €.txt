@@ -1,0 +1,813 @@
+﻿Main PokerStars n°238144652172 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 22/08/2022 13:49:21 CET [22/08/2022 7:49:21 ET]
+Table '3459947813 1' 4-max Siège #1 est au bouton.
+Place 1: booLap94 (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: 45sampedro99 (5000 en jetons) 
+Place 4: tominho141218 (5000 en jetons) 
+booLap94 : met l'ante. 10
+psychoman59 : met l'ante. 10
+45sampedro99 : met l'ante. 10
+tominho141218 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+45sampedro99 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 6c]
+tominho141218 : relance. 200 à 300
+booLap94 : suit. 300
+psychoman59 : passe. 
+45sampedro99 : relance. 200 à 500
+tominho141218 : suit. 200
+booLap94 : suit. 200
+*** FLOP *** [4d 2h 7s]
+45sampedro99 : parole 
+tominho141218 : parole 
+booLap94 : parole 
+*** TOURNANT *** [4d 2h 7s] [Kd]
+45sampedro99 : parole 
+tominho141218 : mise. 795
+booLap94 a dépassé le temps imparti.
+booLap94 : passe. 
+booLap94 ne joue pas.
+45sampedro99 : relance. 795 à 1590
+tominho141218 : passe. 
+Personne n'a suivi. (795) sont retournés à 45sampedro99.
+45sampedro99 a remporté 3180  lors du pot .
+45sampedro99 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 3180 | Commission 0 
+Tableau [4d 2h 7s Kd]
+Siège 1 : booLap94 (bouton) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : 45sampedro99 (grosse blind) a remporté (3180)
+Siège 4 : tominho141218 s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238144681025 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 22/08/2022 13:50:45 CET [22/08/2022 7:50:45 ET]
+Table '3459947813 1' 4-max Siège #2 est au bouton.
+Place 1: booLap94 (4490 en jetons) ne joue pas.
+Place 2: psychoman59 (4940 en jetons) 
+Place 3: 45sampedro99 (6875 en jetons) 
+Place 4: tominho141218 (3695 en jetons) 
+booLap94 : met l'ante. 10
+psychoman59 : met l'ante. 10
+45sampedro99 : met l'ante. 10
+tominho141218 : met l'ante. 10
+45sampedro99 : met la petite blind. 50
+tominho141218 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 8d]
+booLap94 : passe. 
+psychoman59 : passe. 
+45sampedro99 : suit. 50
+tominho141218 : parole 
+*** FLOP *** [2s 2h Tc]
+45sampedro99 : mise. 240
+tominho141218 : passe. 
+Personne n'a suivi. (240) sont retournés à 45sampedro99.
+45sampedro99 a remporté 240  lors du pot .
+45sampedro99 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [2s 2h Tc]
+Siège 1 : booLap94 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : 45sampedro99 (petite blind) a remporté (240)
+Siège 4 : tominho141218 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238144686580 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 22/08/2022 13:51:14 CET [22/08/2022 7:51:14 ET]
+Table '3459947813 1' 4-max Siège #3 est au bouton.
+Place 1: booLap94 (4480 en jetons) ne joue pas.
+Place 2: psychoman59 (4930 en jetons) 
+Place 3: 45sampedro99 (7005 en jetons) 
+Place 4: tominho141218 (3585 en jetons) 
+booLap94 : met l'ante. 10
+psychoman59 : met l'ante. 10
+45sampedro99 : met l'ante. 10
+tominho141218 : met l'ante. 10
+tominho141218 : met la petite blind. 50
+booLap94 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 4c]
+psychoman59 : passe. 
+45sampedro99 : suit. 100
+tominho141218 : relance. 3475 à 3575 et est all-in.
+booLap94 : passe. 
+45sampedro99 : suit. 3475
+*** FLOP *** [8h 9d Kh]
+*** TOURNANT *** [8h 9d Kh] [3d]
+*** RIVIÈRE *** [8h 9d Kh 3d] [Qd]
+*** ABATTAGE ***
+tominho141218 : montre [3c Ac] (une paire de Trois)
+45sampedro99 : montre [Ks As] (une paire de Rois)
+45sampedro99 a remporté 7290  lors du pot .
+tominho141218 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 7290 | Commission 0 
+Tableau [8h 9d Kh 3d Qd]
+Siège 1 : booLap94 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : 45sampedro99 (bouton) a montré [Ks As] et a gagné (7290) avec une paire de Rois
+Siège 4 : tominho141218 (petite blind) a montré [3c Ac] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°238144690565 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 22/08/2022 13:51:35 CET [22/08/2022 7:51:35 ET]
+Table '3459947813 1' 4-max Siège #1 est au bouton.
+Place 1: booLap94 (4370 en jetons) ne joue pas.
+Place 2: psychoman59 (4920 en jetons) 
+Place 3: 45sampedro99 (10710 en jetons) 
+booLap94 : met l'ante. 10
+psychoman59 : met l'ante. 10
+45sampedro99 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+45sampedro99 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 4h]
+booLap94 : passe. 
+psychoman59 : suit. 50
+45sampedro99 : parole 
+*** FLOP *** [Ad 5s Ah]
+psychoman59 : mise. 230
+45sampedro99 : passe. 
+Personne n'a suivi. (230) sont retournés à psychoman59.
+psychoman59 a remporté 230  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 230 | Commission 0 
+Tableau [Ad 5s Ah]
+Siège 1 : booLap94 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (230)
+Siège 3 : 45sampedro99 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238144693215 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 22/08/2022 13:51:49 CET [22/08/2022 7:51:49 ET]
+Table '3459947813 1' 4-max Siège #2 est au bouton.
+Place 1: booLap94 (4360 en jetons) ne joue pas.
+Place 2: psychoman59 (5040 en jetons) 
+Place 3: 45sampedro99 (10600 en jetons) 
+booLap94 : met l'ante. 10
+psychoman59 : met l'ante. 10
+45sampedro99 : met l'ante. 10
+45sampedro99 : met la petite blind. 50
+booLap94 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th As]
+psychoman59 : suit. 100
+45sampedro99 : suit. 50
+booLap94 : passe. 
+*** FLOP *** [6c 2s Kc]
+45sampedro99 : parole 
+booLap94 est revenu.
+psychoman59 : parole 
+*** TOURNANT *** [6c 2s Kc] [Ac]
+45sampedro99 : mise. 330
+psychoman59 : suit. 330
+*** RIVIÈRE *** [6c 2s Kc Ac] [8s]
+45sampedro99 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+45sampedro99 : montre [9c 9d] (une paire de Neuf)
+psychoman59 : montre [Th As] (une paire de As)
+psychoman59 a remporté 990  lors du pot .
+*** SYNTHÈSE ***
+Pot total 990 | Commission 0 
+Tableau [6c 2s Kc Ac 8s]
+Siège 1 : booLap94 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a montré [Th As] et a gagné (990) avec une paire de As
+Siège 3 : 45sampedro99 (petite blind) a montré [9c 9d] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°238144696845 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 22/08/2022 13:52:08 CET [22/08/2022 7:52:08 ET]
+Table '3459947813 1' 4-max Siège #3 est au bouton.
+Place 1: booLap94 (4250 en jetons) 
+Place 2: psychoman59 (5590 en jetons) 
+Place 3: 45sampedro99 (10160 en jetons) 
+booLap94 : met l'ante. 10
+psychoman59 : met l'ante. 10
+45sampedro99 : met l'ante. 10
+booLap94 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 9c]
+45sampedro99 : suit. 100
+booLap94 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Ad 5d 8s]
+psychoman59 : parole 
+45sampedro99 : parole 
+*** TOURNANT *** [Ad 5d 8s] [5s]
+psychoman59 : parole 
+45sampedro99 : parole 
+*** RIVIÈRE *** [Ad 5d 8s 5s] [Tc]
+psychoman59 : parole 
+45sampedro99 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6h 9c] (une paire de Cinq)
+45sampedro99 : montre [7h 7c] (double paire, Sept et Cinq)
+45sampedro99 a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [Ad 5d 8s 5s Tc]
+Siège 1 : booLap94 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [6h 9c] et a perdu avec une paire de Cinq
+Siège 3 : 45sampedro99 (bouton) a montré [7h 7c] et a gagné (280) avec double paire, Sept et Cinq
+
+
+
+Main PokerStars n°238144702009 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 22/08/2022 13:52:34 CET [22/08/2022 7:52:34 ET]
+Table '3459947813 1' 4-max Siège #1 est au bouton.
+Place 1: booLap94 (4190 en jetons) 
+Place 2: psychoman59 (5480 en jetons) 
+Place 3: 45sampedro99 (10330 en jetons) 
+booLap94 : met l'ante. 15
+psychoman59 : met l'ante. 15
+45sampedro99 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+45sampedro99 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 4d]
+booLap94 : passe. 
+psychoman59 : relance. 285 à 405
+45sampedro99 : passe. 
+Personne n'a suivi. (285) sont retournés à psychoman59.
+psychoman59 a remporté 285  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Siège 1 : booLap94 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (285)
+Siège 3 : 45sampedro99 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238144704398 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 22/08/2022 13:52:47 CET [22/08/2022 7:52:47 ET]
+Table '3459947813 1' 4-max Siège #2 est au bouton.
+Place 1: booLap94 (4175 en jetons) 
+Place 2: psychoman59 (5630 en jetons) 
+Place 3: 45sampedro99 (10195 en jetons) 
+booLap94 : met l'ante. 15
+psychoman59 : met l'ante. 15
+45sampedro99 : met l'ante. 15
+45sampedro99 : met la petite blind. 60
+booLap94 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Th]
+psychoman59 : passe. 
+45sampedro99 : suit. 60
+booLap94 : parole 
+*** FLOP *** [7c 5h 5s]
+45sampedro99 : mise. 285
+booLap94 : passe. 
+Personne n'a suivi. (285) sont retournés à 45sampedro99.
+45sampedro99 a remporté 285  lors du pot .
+45sampedro99 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Tableau [7c 5h 5s]
+Siège 1 : booLap94 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : 45sampedro99 (petite blind) a remporté (285)
+
+
+
+Main PokerStars n°238144708277 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 22/08/2022 13:53:07 CET [22/08/2022 7:53:07 ET]
+Table '3459947813 1' 4-max Siège #3 est au bouton.
+Place 1: booLap94 (4040 en jetons) 
+Place 2: psychoman59 (5615 en jetons) 
+Place 3: 45sampedro99 (10345 en jetons) 
+booLap94 : met l'ante. 15
+psychoman59 : met l'ante. 15
+45sampedro99 : met l'ante. 15
+booLap94 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ah]
+45sampedro99 : passe. 
+booLap94 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 165  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : booLap94 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (165)
+Siège 3 : 45sampedro99 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238144712416 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 22/08/2022 13:53:28 CET [22/08/2022 7:53:28 ET]
+Table '3459947813 1' 4-max Siège #1 est au bouton.
+Place 1: booLap94 (3965 en jetons) 
+Place 2: psychoman59 (5705 en jetons) 
+Place 3: 45sampedro99 (10330 en jetons) 
+booLap94 : met l'ante. 15
+psychoman59 : met l'ante. 15
+45sampedro99 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+45sampedro99 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 8c]
+booLap94 : suit. 120
+psychoman59 : suit. 60
+45sampedro99 : parole 
+*** FLOP *** [Ah Qh 3c]
+psychoman59 : parole 
+45sampedro99 : parole 
+booLap94 : parole 
+*** TOURNANT *** [Ah Qh 3c] [Jh]
+psychoman59 : parole 
+45sampedro99 : parole 
+booLap94 : parole 
+*** RIVIÈRE *** [Ah Qh 3c Jh] [Ts]
+psychoman59 : parole 
+45sampedro99 : parole 
+booLap94 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7s 8c] (Hauteur As)
+45sampedro99 : montre [5s 3h] (une paire de Trois)
+booLap94 : cache la main perdante. 
+45sampedro99 a remporté 405  lors du pot .
+*** SYNTHÈSE ***
+Pot total 405 | Commission 0 
+Tableau [Ah Qh 3c Jh Ts]
+Siège 1 : booLap94 (bouton) a caché la main perdante. [7c 6c]
+Siège 2 : psychoman59 (petite blind) a montré [7s 8c] et a perdu avec Hauteur As
+Siège 3 : 45sampedro99 (grosse blind) a montré [5s 3h] et a gagné (405) avec une paire de Trois
+
+
+
+Main PokerStars n°238144721976 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 22/08/2022 13:54:17 CET [22/08/2022 7:54:17 ET]
+Table '3459947813 1' 4-max Siège #2 est au bouton.
+Place 1: booLap94 (3830 en jetons) 
+Place 2: psychoman59 (5570 en jetons) 
+Place 3: 45sampedro99 (10600 en jetons) 
+booLap94 : met l'ante. 15
+psychoman59 : met l'ante. 15
+45sampedro99 : met l'ante. 15
+45sampedro99 : met la petite blind. 60
+booLap94 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Qd]
+psychoman59 : passe. 
+45sampedro99 : suit. 60
+booLap94 : parole 
+*** FLOP *** [9d 2d 3d]
+45sampedro99 : parole 
+booLap94 : parole 
+*** TOURNANT *** [9d 2d 3d] [Qc]
+45sampedro99 : mise. 285
+booLap94 : passe. 
+Personne n'a suivi. (285) sont retournés à 45sampedro99.
+45sampedro99 a remporté 285  lors du pot .
+45sampedro99 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Tableau [9d 2d 3d Qc]
+Siège 1 : booLap94 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : 45sampedro99 (petite blind) a remporté (285)
+
+
+
+Main PokerStars n°238144727731 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 22/08/2022 13:54:47 CET [22/08/2022 7:54:47 ET]
+Table '3459947813 1' 4-max Siège #3 est au bouton.
+Place 1: booLap94 (3695 en jetons) 
+Place 2: psychoman59 (5555 en jetons) 
+Place 3: 45sampedro99 (10750 en jetons) 
+booLap94 : met l'ante. 15
+psychoman59 : met l'ante. 15
+45sampedro99 : met l'ante. 15
+booLap94 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 8d]
+45sampedro99 : suit. 120
+booLap94 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [4s 8c 9s]
+booLap94 : parole 
+psychoman59 : parole 
+45sampedro99 : parole 
+*** TOURNANT *** [4s 8c 9s] [Th]
+booLap94 : mise. 405
+psychoman59 : passe. 
+45sampedro99 : passe. 
+Personne n'a suivi. (405) sont retournés à booLap94.
+booLap94 a remporté 405  lors du pot .
+booLap94 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 405 | Commission 0 
+Tableau [4s 8c 9s Th]
+Siège 1 : booLap94 (petite blind) a remporté (405)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : 45sampedro99 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238144735697 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 22/08/2022 13:55:30 CET [22/08/2022 7:55:30 ET]
+Table '3459947813 1' 4-max Siège #1 est au bouton.
+Place 1: booLap94 (3965 en jetons) 
+Place 2: psychoman59 (5420 en jetons) 
+Place 3: 45sampedro99 (10615 en jetons) 
+booLap94 : met l'ante. 20
+psychoman59 : met l'ante. 20
+45sampedro99 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+45sampedro99 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Qh]
+booLap94 : suit. 150
+psychoman59 : suit. 75
+45sampedro99 : parole 
+*** FLOP *** [Ts 2c 8d]
+psychoman59 : parole 
+45sampedro99 : parole 
+booLap94 : parole 
+*** TOURNANT *** [Ts 2c 8d] [Ah]
+psychoman59 : parole 
+45sampedro99 : mise. 510
+booLap94 : suit. 510
+psychoman59 : passe. 
+*** RIVIÈRE *** [Ts 2c 8d Ah] [6s]
+45sampedro99 : parole 
+booLap94 : parole 
+*** ABATTAGE ***
+45sampedro99 : montre [4c 6h] (une paire de Six)
+booLap94 : cache la main perdante. 
+45sampedro99 a remporté 1530  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1530 | Commission 0 
+Tableau [Ts 2c 8d Ah 6s]
+Siège 1 : booLap94 (bouton) a caché la main perdante. [Kc Js]
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 3 : 45sampedro99 (grosse blind) a montré [4c 6h] et a gagné (1530) avec une paire de Six
+
+
+
+Main PokerStars n°238144745608 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 22/08/2022 13:56:28 CET [22/08/2022 7:56:28 ET]
+Table '3459947813 1' 4-max Siège #2 est au bouton.
+Place 1: booLap94 (3285 en jetons) 
+Place 2: psychoman59 (5250 en jetons) 
+Place 3: 45sampedro99 (11465 en jetons) 
+booLap94 : met l'ante. 20
+psychoman59 : met l'ante. 20
+45sampedro99 : met l'ante. 20
+45sampedro99 : met la petite blind. 75
+booLap94 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 3d]
+psychoman59 : passe. 
+45sampedro99 : suit. 75
+booLap94 : parole 
+*** FLOP *** [2c Ts 4d]
+45sampedro99 : mise. 360
+booLap94 : suit. 360
+*** TOURNANT *** [2c Ts 4d] [8c]
+45sampedro99 : mise. 1080
+booLap94 : suit. 1080
+*** RIVIÈRE *** [2c Ts 4d 8c] [8s]
+45sampedro99 : mise. 3240
+booLap94 : suit. 1675 et est all-in.
+Personne n'a suivi. (1565) sont retournés à 45sampedro99.
+*** ABATTAGE ***
+45sampedro99 : montre [Qs Ad] (une paire de Huit)
+booLap94 : montre [2s Js] (double paire, Huit et Deux)
+booLap94 a remporté 6590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 6590 | Commission 0 
+Tableau [2c Ts 4d 8c 8s]
+Siège 1 : booLap94 (grosse blind) a montré [2s Js] et a gagné (6590) avec double paire, Huit et Deux
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : 45sampedro99 (petite blind) a montré [Qs Ad] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°238144749857 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 22/08/2022 13:56:53 CET [22/08/2022 7:56:53 ET]
+Table '3459947813 1' 4-max Siège #3 est au bouton.
+Place 1: booLap94 (6590 en jetons) 
+Place 2: psychoman59 (5230 en jetons) 
+Place 3: 45sampedro99 (8180 en jetons) 
+booLap94 : met l'ante. 20
+psychoman59 : met l'ante. 20
+45sampedro99 : met l'ante. 20
+booLap94 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 7s]
+45sampedro99 : suit. 150
+booLap94 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Js Ks Th]
+psychoman59 : parole 
+45sampedro99 : parole 
+*** TOURNANT *** [Js Ks Th] [Ac]
+psychoman59 : parole 
+45sampedro99 : parole 
+*** RIVIÈRE *** [Js Ks Th Ac] [Tc]
+psychoman59 : parole 
+45sampedro99 : mise. 435
+psychoman59 : passe. 
+Personne n'a suivi. (435) sont retournés à 45sampedro99.
+45sampedro99 a remporté 435  lors du pot .
+45sampedro99 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Tableau [Js Ks Th Ac Tc]
+Siège 1 : booLap94 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : 45sampedro99 (bouton) a remporté (435)
+
+
+
+Main PokerStars n°238144754485 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 22/08/2022 13:57:20 CET [22/08/2022 7:57:20 ET]
+Table '3459947813 1' 4-max Siège #1 est au bouton.
+Place 1: booLap94 (6495 en jetons) 
+Place 2: psychoman59 (5060 en jetons) 
+Place 3: 45sampedro99 (8445 en jetons) 
+booLap94 : met l'ante. 20
+psychoman59 : met l'ante. 20
+45sampedro99 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+45sampedro99 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Ac]
+booLap94 : relance. 150 à 300
+psychoman59 : relance. 150 à 450
+45sampedro99 : suit. 300
+booLap94 : relance. 6025 à 6475 et est all-in.
+psychoman59 : suit. 4590 et est all-in.
+45sampedro99 : passe. 
+Personne n'a suivi. (1435) sont retournés à booLap94.
+*** FLOP *** [5d Td 6h]
+*** TOURNANT *** [5d Td 6h] [Ks]
+*** RIVIÈRE *** [5d Td 6h Ks] [6c]
+*** ABATTAGE ***
+psychoman59 : montre [As Ac] (double paire, As et Six)
+booLap94 : montre [Ah 9d] (une paire de Six)
+psychoman59 a remporté 10590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 10590 | Commission 0 
+Tableau [5d Td 6h Ks 6c]
+Siège 1 : booLap94 (bouton) a montré [Ah 9d] et a perdu avec une paire de Six
+Siège 2 : psychoman59 (petite blind) a montré [As Ac] et a gagné (10590) avec double paire, As et Six
+Siège 3 : 45sampedro99 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238144759654 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 22/08/2022 13:57:50 CET [22/08/2022 7:57:50 ET]
+Table '3459947813 1' 4-max Siège #2 est au bouton.
+Place 1: booLap94 (1435 en jetons) 
+Place 2: psychoman59 (10590 en jetons) 
+Place 3: 45sampedro99 (7975 en jetons) 
+booLap94 : met l'ante. 20
+psychoman59 : met l'ante. 20
+45sampedro99 : met l'ante. 20
+45sampedro99 : met la petite blind. 75
+booLap94 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Qc]
+psychoman59 : passe. 
+45sampedro99 : suit. 75
+booLap94 : relance. 360 à 510
+45sampedro99 : relance. 360 à 870
+booLap94 : relance. 545 à 1415 et est all-in.
+45sampedro99 : suit. 545
+*** FLOP *** [9d 8s Jc]
+*** TOURNANT *** [9d 8s Jc] [9s]
+*** RIVIÈRE *** [9d 8s Jc 9s] [3h]
+*** ABATTAGE ***
+45sampedro99 : montre [Qs As] (une paire de Neuf)
+booLap94 : montre [Ad Kh] (une paire de Neuf - As+Roi kicker)
+booLap94 a remporté 2890  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2890 | Commission 0 
+Tableau [9d 8s Jc 9s 3h]
+Siège 1 : booLap94 (grosse blind) a montré [Ad Kh] et a gagné (2890) avec une paire de Neuf
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : 45sampedro99 (petite blind) a montré [Qs As] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°238144764282 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 22/08/2022 13:58:17 CET [22/08/2022 7:58:17 ET]
+Table '3459947813 1' 4-max Siège #3 est au bouton.
+Place 1: booLap94 (2890 en jetons) 
+Place 2: psychoman59 (10570 en jetons) 
+Place 3: 45sampedro99 (6540 en jetons) 
+booLap94 : met l'ante. 20
+psychoman59 : met l'ante. 20
+45sampedro99 : met l'ante. 20
+booLap94 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Td]
+45sampedro99 : passe. 
+booLap94 : suit. 75
+psychoman59 : relance. 10400 à 10550 et est all-in.
+booLap94 : suit. 2720 et est all-in.
+Personne n'a suivi. (7680) sont retournés à psychoman59.
+*** FLOP *** [4c Tc 2s]
+*** TOURNANT *** [4c Tc 2s] [Jc]
+*** RIVIÈRE *** [4c Tc 2s Jc] [8s]
+*** ABATTAGE ***
+booLap94 : montre [Ks 6h] (Hauteur Roi)
+psychoman59 : montre [Kd Td] (une paire de Dix)
+psychoman59 a remporté 5800  lors du pot .
+booLap94 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 5800 | Commission 0 
+Tableau [4c Tc 2s Jc 8s]
+Siège 1 : booLap94 (petite blind) a montré [Ks 6h] et a perdu avec Hauteur Roi
+Siège 2 : psychoman59 (grosse blind) a montré [Kd Td] et a gagné (5800) avec une paire de Dix
+Siège 3 : 45sampedro99 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238144768879 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 22/08/2022 13:58:44 CET [22/08/2022 7:58:44 ET]
+Table '3459947813 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (13480 en jetons) 
+Place 3: 45sampedro99 (6520 en jetons) 
+psychoman59 : met l'ante. 25
+45sampedro99 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+45sampedro99 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à 45sampedro99.
+45sampedro99 a remporté 250  lors du pot .
+45sampedro99 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : 45sampedro99 (grosse blind) a remporté (250)
+
+
+
+Main PokerStars n°238144770249 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 22/08/2022 13:58:52 CET [22/08/2022 7:58:52 ET]
+Table '3459947813 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (13355 en jetons) 
+Place 3: 45sampedro99 (6645 en jetons) 
+psychoman59 : met l'ante. 25
+45sampedro99 : met l'ante. 25
+45sampedro99 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 9s]
+45sampedro99 : suit. 100
+psychoman59 : parole 
+*** FLOP *** [5s 4d Ad]
+psychoman59 : parole 
+45sampedro99 : mise. 450
+psychoman59 : passe. 
+Personne n'a suivi. (450) sont retournés à 45sampedro99.
+45sampedro99 a remporté 450  lors du pot .
+45sampedro99 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [5s 4d Ad]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : 45sampedro99 (bouton) (petite blind) a remporté (450)
+
+
+
+Main PokerStars n°238144773015 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 22/08/2022 13:59:08 CET [22/08/2022 7:59:08 ET]
+Table '3459947813 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (13130 en jetons) 
+Place 3: 45sampedro99 (6870 en jetons) 
+psychoman59 : met l'ante. 25
+45sampedro99 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+45sampedro99 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Qh]
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à 45sampedro99.
+45sampedro99 a remporté 250  lors du pot .
+45sampedro99 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : 45sampedro99 (grosse blind) a remporté (250)
+
+
+
+Main PokerStars n°238144774276 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 22/08/2022 13:59:15 CET [22/08/2022 7:59:15 ET]
+Table '3459947813 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (13005 en jetons) 
+Place 3: 45sampedro99 (6995 en jetons) 
+psychoman59 : met l'ante. 25
+45sampedro99 : met l'ante. 25
+45sampedro99 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 7c]
+45sampedro99 : suit. 100
+psychoman59 : parole 
+*** FLOP *** [Qs 7d 3c]
+psychoman59 : parole 
+45sampedro99 : parole 
+*** TOURNANT *** [Qs 7d 3c] [4d]
+psychoman59 : mise. 450
+45sampedro99 : passe. 
+Personne n'a suivi. (450) sont retournés à psychoman59.
+psychoman59 a remporté 450  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [Qs 7d 3c 4d]
+Siège 2 : psychoman59 (grosse blind) a remporté (450)
+Siège 3 : 45sampedro99 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238144777028 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 22/08/2022 13:59:31 CET [22/08/2022 7:59:31 ET]
+Table '3459947813 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (13230 en jetons) 
+Place 3: 45sampedro99 (6770 en jetons) 
+psychoman59 : met l'ante. 25
+45sampedro99 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+45sampedro99 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Td]
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à 45sampedro99.
+45sampedro99 a remporté 250  lors du pot .
+45sampedro99 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : 45sampedro99 (grosse blind) a remporté (250)
+
+
+
+Main PokerStars n°238144778357 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 22/08/2022 13:59:39 CET [22/08/2022 7:59:39 ET]
+Table '3459947813 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (13105 en jetons) 
+Place 3: 45sampedro99 (6895 en jetons) 
+psychoman59 : met l'ante. 25
+45sampedro99 : met l'ante. 25
+45sampedro99 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Qc]
+45sampedro99 : suit. 100
+psychoman59 : parole 
+*** FLOP *** [7d Js Tc]
+psychoman59 : parole 
+45sampedro99 : parole 
+*** TOURNANT *** [7d Js Tc] [Jh]
+psychoman59 : parole 
+45sampedro99 : parole 
+*** RIVIÈRE *** [7d Js Tc Jh] [8s]
+psychoman59 : parole 
+45sampedro99 : mise. 450
+psychoman59 : suit. 450
+*** ABATTAGE ***
+45sampedro99 : montre [Jd Ac] (un brelan de Valets)
+psychoman59 : cache la main perdante. 
+45sampedro99 a remporté 1350  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1350 | Commission 0 
+Tableau [7d Js Tc Jh 8s]
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [4s Qc]
+Siège 3 : 45sampedro99 (bouton) (petite blind) a montré [Jd Ac] et a gagné (1350) avec un brelan de Valets
+
+
+
+Main PokerStars n°238144782746 : Tournoi #3459947813, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 22/08/2022 14:00:05 CET [22/08/2022 8:00:05 ET]
+Table '3459947813 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (12430 en jetons) 
+Place 3: 45sampedro99 (7570 en jetons) 
+psychoman59 : met l'ante. 25
+45sampedro99 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+45sampedro99 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Kh]
+psychoman59 : relance. 12205 à 12405 et est all-in.
+45sampedro99 : suit. 7345 et est all-in.
+Personne n'a suivi. (4860) sont retournés à psychoman59.
+*** FLOP *** [5c 8c 6h]
+*** TOURNANT *** [5c 8c 6h] [Td]
+*** RIVIÈRE *** [5c 8c 6h Td] [Qs]
+*** ABATTAGE ***
+45sampedro99 : montre [Ad Jh] (Hauteur As)
+psychoman59 : montre [Qh Kh] (une paire de Dames)
+psychoman59 a remporté 15140  lors du pot .
+45sampedro99 a fini le tournoi à la 2e place et a reçu 0.34 €.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 15140 | Commission 0 
+Tableau [5c 8c 6h Td Qs]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Qh Kh] et a gagné (15140) avec une paire de Dames
+Siège 3 : 45sampedro99 (grosse blind) a montré [Ad Jh] et a perdu avec Hauteur As
+
+
+

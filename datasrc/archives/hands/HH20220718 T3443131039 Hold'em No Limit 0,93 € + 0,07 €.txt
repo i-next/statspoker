@@ -1,0 +1,141 @@
+﻿Main PokerStars n°237430465619 : Tournoi #3443131039, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 10:50:54 CET [18/07/2022 4:50:54 ET]
+Table '3443131039 1' 3-max Siège #1 est au bouton.
+Place 1: yerffoeG30 (300 en jetons) 
+Place 2: Ro9naldo (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Ro9naldo : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Jc]
+yerffoeG30 : relance. 20 à 40
+Ro9naldo : passe. 
+psychoman59 : suit. 20
+*** FLOP *** [9d 5c 6d]
+psychoman59 : parole 
+yerffoeG30 : mise. 45
+psychoman59 : relance. 180 à 225
+yerffoeG30 : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [9d 5c 6d]
+Siège 1 : yerffoeG30 (bouton) s'est couché. sur le Flop
+Siège 2 : Ro9naldo (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (180)
+
+
+
+Main PokerStars n°237430469031 : Tournoi #3443131039, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 10:51:20 CET [18/07/2022 4:51:20 ET]
+Table '3443131039 1' 3-max Siège #2 est au bouton.
+Place 1: yerffoeG30 (215 en jetons) 
+Place 2: Ro9naldo (290 en jetons) 
+Place 3: psychoman59 (395 en jetons) 
+psychoman59 : met la petite blind. 10
+yerffoeG30 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 6c]
+Ro9naldo : relance. 20 à 40
+psychoman59 : passe. 
+yerffoeG30 : passe. 
+Personne n'a suivi. (20) sont retournés à Ro9naldo.
+Ro9naldo a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : yerffoeG30 (grosse blind) s'est couché. avant Flop
+Siège 2 : Ro9naldo (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237430471802 : Tournoi #3443131039, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 10:51:41 CET [18/07/2022 4:51:41 ET]
+Table '3443131039 1' 3-max Siège #3 est au bouton.
+Place 1: yerffoeG30 (195 en jetons) 
+Place 2: Ro9naldo (320 en jetons) 
+Place 3: psychoman59 (385 en jetons) 
+yerffoeG30 : met la petite blind. 10
+Ro9naldo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 7c]
+psychoman59 : passe. 
+yerffoeG30 : suit. 10
+Ro9naldo : parole 
+*** FLOP *** [8d 9s 9c]
+yerffoeG30 : parole 
+Ro9naldo : parole 
+*** TOURNANT *** [8d 9s 9c] [Kc]
+yerffoeG30 : parole 
+Ro9naldo : parole 
+*** RIVIÈRE *** [8d 9s 9c Kc] [Jh]
+yerffoeG30 : parole 
+Ro9naldo : parole 
+*** ABATTAGE ***
+yerffoeG30 : montre [5d 6d] (une paire de Neuf)
+Ro9naldo : montre [7h Qd] (une paire de Neuf - Roi+Dame kicker)
+Ro9naldo a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [8d 9s 9c Kc Jh]
+Siège 1 : yerffoeG30 (petite blind) a montré [5d 6d] et a perdu avec une paire de Neuf
+Siège 2 : Ro9naldo (grosse blind) a montré [7h Qd] et a gagné (40) avec une paire de Neuf
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237430478143 : Tournoi #3443131039, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/07/2022 10:52:29 CET [18/07/2022 4:52:29 ET]
+Table '3443131039 1' 3-max Siège #1 est au bouton.
+Place 1: yerffoeG30 (175 en jetons) 
+Place 2: Ro9naldo (340 en jetons) 
+Place 3: psychoman59 (385 en jetons) 
+Ro9naldo : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ac]
+yerffoeG30 : passe. 
+Ro9naldo : suit. 15
+psychoman59 : relance. 355 à 385 et est all-in.
+Ro9naldo : suit. 310 et est all-in.
+Personne n'a suivi. (45) sont retournés à psychoman59.
+*** FLOP *** [9s 9d Td]
+*** TOURNANT *** [9s 9d Td] [3s]
+*** RIVIÈRE *** [9s 9d Td 3s] [Th]
+*** ABATTAGE ***
+Ro9naldo : montre [Ah 8d] (double paire, Dix et Neuf)
+psychoman59 : montre [9h Ac] (un full, full aux Neuf par les Dix)
+psychoman59 a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [9s 9d Td 3s Th]
+Siège 1 : yerffoeG30 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Ro9naldo (petite blind) a montré [Ah 8d] et a perdu avec double paire, Dix et Neuf
+Siège 3 : psychoman59 (grosse blind) a montré [9h Ac] et a gagné (680) avec un full, full aux Neuf par les Dix
+
+
+
+Main PokerStars n°237430482522 : Tournoi #3443131039, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/07/2022 10:53:02 CET [18/07/2022 4:53:02 ET]
+Table '3443131039 1' 3-max Siège #3 est au bouton.
+Place 1: yerffoeG30 (175 en jetons) 
+Place 3: psychoman59 (725 en jetons) 
+psychoman59 : met la petite blind. 20
+yerffoeG30 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 9d]
+psychoman59 : relance. 40 à 80
+yerffoeG30 : suit. 40
+*** FLOP *** [6d Qh 4h]
+yerffoeG30 : mise. 95 et est all-in.
+psychoman59 : suit. 95
+*** TOURNANT *** [6d Qh 4h] [7s]
+*** RIVIÈRE *** [6d Qh 4h 7s] [Jc]
+*** ABATTAGE ***
+yerffoeG30 : montre [3c Ad] (Hauteur As)
+psychoman59 : montre [Qc 9d] (une paire de Dames)
+psychoman59 a remporté 350  lors du pot .
+*** SYNTHÈSE ***
+Pot total 350 | Commission 0 
+Tableau [6d Qh 4h 7s Jc]
+Siège 1 : yerffoeG30 (grosse blind) a montré [3c Ad] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Qc 9d] et a gagné (350) avec une paire de Dames
+
+
+

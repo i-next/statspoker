@@ -1,0 +1,408 @@
+﻿Main PokerStars n°238450689188 : Tournoi #3467178071, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 06/09/2022 14:07:32 CET [06/09/2022 8:07:32 ET]
+Table '3467178071 1' 3-max Siège #1 est au bouton.
+Place 1: Gameskyk (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Julien 250987. (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Julien 250987. : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Qs]
+Gameskyk : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Julien 250987..
+Julien 250987. a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Gameskyk (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Julien 250987. (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°238450691414 : Tournoi #3467178071, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 06/09/2022 14:07:43 CET [06/09/2022 8:07:43 ET]
+Table '3467178071 1' 3-max Siège #2 est au bouton.
+Place 1: Gameskyk (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: Julien 250987. (310 en jetons) 
+Julien 250987. : met la petite blind. 10
+Gameskyk : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Kd]
+psychoman59 : suit. 20
+Julien 250987. : suit. 10
+Gameskyk : parole 
+*** FLOP *** [Jd 3c Kc]
+Julien 250987. : mise. 60
+Gameskyk : passe. 
+psychoman59 : suit. 60
+*** TOURNANT *** [Jd 3c Kc] [5h]
+Julien 250987. : mise. 230 et est all-in.
+psychoman59 : suit. 210 et est all-in.
+Personne n'a suivi. (20) sont retournés à Julien 250987..
+*** RIVIÈRE *** [Jd 3c Kc 5h] [8h]
+*** ABATTAGE ***
+Julien 250987. : montre [6c 7c] (Hauteur Roi)
+psychoman59 : montre [6s Kd] (une paire de Rois)
+psychoman59 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [Jd 3c Kc 5h 8h]
+Siège 1 : Gameskyk (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) a montré [6s Kd] et a gagné (600) avec une paire de Rois
+Siège 3 : Julien 250987. (petite blind) a montré [6c 7c] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°238450696201 : Tournoi #3467178071, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 06/09/2022 14:08:06 CET [06/09/2022 8:08:06 ET]
+Table '3467178071 1' 3-max Siège #3 est au bouton.
+Place 1: Gameskyk (280 en jetons) 
+Place 2: psychoman59 (600 en jetons) 
+Place 3: Julien 250987. (20 en jetons) 
+Gameskyk : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 7c]
+Julien 250987. : suit. 20 et est all-in.
+Gameskyk : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2d 3s 6d]
+Gameskyk : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [2d 3s 6d] [Ac]
+Gameskyk : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [2d 3s 6d Ac] [Js]
+Gameskyk : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Gameskyk : montre [5d Kd] (Hauteur As)
+psychoman59 : cache la main perdante. 
+Gameskyk a remporté 120  parallèle lors du pot .
+Julien 250987. : montre [Ks Tc] (Hauteur As - Roi+Valet+Dix kicker)
+Julien 250987. a remporté 60  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 Principal pot 60. Parallèle pot 120. | Commission 0 
+Tableau [2d 3s 6d Ac Js]
+Siège 1 : Gameskyk (petite blind) a montré [5d Kd] et a gagné (120) avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [4d 7c]
+Siège 3 : Julien 250987. (bouton) a montré [Ks Tc] et a gagné (60) avec Hauteur As
+
+
+
+Main PokerStars n°238450702774 : Tournoi #3467178071, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 06/09/2022 14:08:39 CET [06/09/2022 8:08:39 ET]
+Table '3467178071 1' 3-max Siège #1 est au bouton.
+Place 1: Gameskyk (320 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: Julien 250987. (60 en jetons) 
+psychoman59 : met la petite blind. 15
+Julien 250987. : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Th]
+Gameskyk : passe. 
+psychoman59 : relance. 30 à 60
+Julien 250987. : suit. 30 et est all-in.
+*** FLOP *** [Ad 4c Ah]
+*** TOURNANT *** [Ad 4c Ah] [As]
+*** RIVIÈRE *** [Ad 4c Ah As] [7d]
+*** ABATTAGE ***
+psychoman59 : montre [Ks Th] (un brelan de As)
+Julien 250987. : montre [9h 4h] (un full, full aux As par les Quatre)
+Julien 250987. a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ad 4c Ah As 7d]
+Siège 1 : Gameskyk (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Ks Th] et a perdu avec un brelan de As
+Siège 3 : Julien 250987. (grosse blind) a montré [9h 4h] et a gagné (120) avec un full, full aux As par les Quatre
+
+
+
+Main PokerStars n°238450705631 : Tournoi #3467178071, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 06/09/2022 14:08:53 CET [06/09/2022 8:08:53 ET]
+Table '3467178071 1' 3-max Siège #2 est au bouton.
+Place 1: Gameskyk (320 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: Julien 250987. (120 en jetons) 
+Julien 250987. : met la petite blind. 15
+Gameskyk : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 7s]
+psychoman59 : passe. 
+Julien 250987. : passe. 
+Personne n'a suivi. (15) sont retournés à Gameskyk.
+Gameskyk a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Gameskyk (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Julien 250987. (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238450706689 : Tournoi #3467178071, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 06/09/2022 14:08:58 CET [06/09/2022 8:08:58 ET]
+Table '3467178071 1' 3-max Siège #3 est au bouton.
+Place 1: Gameskyk (335 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: Julien 250987. (105 en jetons) 
+Gameskyk : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Tc]
+Julien 250987. : passe. 
+Gameskyk : suit. 15
+psychoman59 : parole 
+*** FLOP *** [8s 4d Qh]
+Gameskyk : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8s 4d Qh] [7h]
+Gameskyk : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Gameskyk.
+Gameskyk a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8s 4d Qh 7h]
+Siège 1 : Gameskyk (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : Julien 250987. (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238450712341 : Tournoi #3467178071, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 06/09/2022 14:09:26 CET [06/09/2022 8:09:26 ET]
+Table '3467178071 1' 3-max Siège #1 est au bouton.
+Place 1: Gameskyk (365 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+Place 3: Julien 250987. (105 en jetons) 
+psychoman59 : met la petite blind. 15
+Julien 250987. : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Qh]
+Gameskyk : passe. 
+psychoman59 : relance. 60 à 90
+Julien 250987. : relance. 15 à 105 et est all-in.
+psychoman59 : suit. 15
+*** FLOP *** [Ah Kh Js]
+*** TOURNANT *** [Ah Kh Js] [3s]
+*** RIVIÈRE *** [Ah Kh Js 3s] [Jd]
+*** ABATTAGE ***
+psychoman59 : montre [Qs Qh] (double paire, Dames et Valets)
+Julien 250987. : montre [6d 5h] (une paire de Valets)
+psychoman59 a remporté 210  lors du pot .
+Julien 250987. a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Tableau [Ah Kh Js 3s Jd]
+Siège 1 : Gameskyk (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Qs Qh] et a gagné (210) avec double paire, Dames et Valets
+Siège 3 : Julien 250987. (grosse blind) a montré [6d 5h] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°238450716305 : Tournoi #3467178071, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 06/09/2022 14:09:45 CET [06/09/2022 8:09:45 ET]
+Table '3467178071 1' 3-max Siège #2 est au bouton.
+Place 1: Gameskyk (365 en jetons) 
+Place 2: psychoman59 (535 en jetons) 
+psychoman59 : met la petite blind. 20
+Gameskyk : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Js]
+psychoman59 : suit. 20
+Gameskyk : parole 
+*** FLOP *** [Qs Ts Jh]
+Gameskyk : parole 
+psychoman59 : mise. 80
+Gameskyk : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Qs Ts Jh]
+Siège 1 : Gameskyk (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°238450719838 : Tournoi #3467178071, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 06/09/2022 14:10:03 CET [06/09/2022 8:10:03 ET]
+Table '3467178071 1' 3-max Siège #1 est au bouton.
+Place 1: Gameskyk (325 en jetons) 
+Place 2: psychoman59 (575 en jetons) 
+Gameskyk : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 5d]
+Gameskyk : relance. 285 à 325 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (285) sont retournés à Gameskyk.
+Gameskyk a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Gameskyk (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238450722351 : Tournoi #3467178071, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 06/09/2022 14:10:15 CET [06/09/2022 8:10:15 ET]
+Table '3467178071 1' 3-max Siège #2 est au bouton.
+Place 1: Gameskyk (365 en jetons) 
+Place 2: psychoman59 (535 en jetons) 
+psychoman59 : met la petite blind. 20
+Gameskyk : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Gameskyk.
+Gameskyk a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Gameskyk (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238450723289 : Tournoi #3467178071, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 06/09/2022 14:10:19 CET [06/09/2022 8:10:19 ET]
+Table '3467178071 1' 3-max Siège #1 est au bouton.
+Place 1: Gameskyk (385 en jetons) 
+Place 2: psychoman59 (515 en jetons) 
+Gameskyk : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 8c]
+Gameskyk : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Gameskyk (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238450724757 : Tournoi #3467178071, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 06/09/2022 14:10:26 CET [06/09/2022 8:10:26 ET]
+Table '3467178071 1' 3-max Siège #2 est au bouton.
+Place 1: Gameskyk (365 en jetons) 
+Place 2: psychoman59 (535 en jetons) 
+psychoman59 : met la petite blind. 20
+Gameskyk : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Kc]
+psychoman59 : relance. 495 à 535 et est all-in.
+Gameskyk : passe. 
+Personne n'a suivi. (495) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Gameskyk (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°238450727586 : Tournoi #3467178071, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/09/2022 14:10:40 CET [06/09/2022 8:10:40 ET]
+Table '3467178071 1' 3-max Siège #1 est au bouton.
+Place 1: Gameskyk (325 en jetons) 
+Place 2: psychoman59 (575 en jetons) 
+Gameskyk : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Kh]
+Gameskyk : relance. 265 à 325 et est all-in.
+psychoman59 : suit. 265
+*** FLOP *** [Jc 9c Kc]
+*** TOURNANT *** [Jc 9c Kc] [6c]
+*** RIVIÈRE *** [Jc 9c Kc 6c] [3c]
+*** ABATTAGE ***
+psychoman59 : montre [3h Kh] (une couleur, hauteur Roi)
+Gameskyk : montre [7h Tc] (une couleur, hauteur Roi - Dix plus haute)
+Gameskyk a remporté 650  lors du pot .
+*** SYNTHÈSE ***
+Pot total 650 | Commission 0 
+Tableau [Jc 9c Kc 6c 3c]
+Siège 1 : Gameskyk (bouton) (petite blind) a montré [7h Tc] et a gagné (650) avec une couleur, hauteur Roi
+Siège 2 : psychoman59 (grosse blind) a montré [3h Kh] et a perdu avec une couleur, hauteur Roi
+
+
+
+Main PokerStars n°238450730762 : Tournoi #3467178071, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/09/2022 14:10:56 CET [06/09/2022 8:10:56 ET]
+Table '3467178071 1' 3-max Siège #2 est au bouton.
+Place 1: Gameskyk (650 en jetons) 
+Place 2: psychoman59 (250 en jetons) 
+psychoman59 : met la petite blind. 30
+Gameskyk : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Jc]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Gameskyk.
+Gameskyk a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Gameskyk (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238450731936 : Tournoi #3467178071, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/09/2022 14:11:02 CET [06/09/2022 8:11:02 ET]
+Table '3467178071 1' 3-max Siège #1 est au bouton.
+Place 1: Gameskyk (680 en jetons) 
+Place 2: psychoman59 (220 en jetons) 
+Gameskyk : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Jc]
+Gameskyk : relance. 180 à 240
+psychoman59 : passe. 
+Personne n'a suivi. (180) sont retournés à Gameskyk.
+Gameskyk a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : Gameskyk (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238450734673 : Tournoi #3467178071, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/09/2022 14:11:15 CET [06/09/2022 8:11:15 ET]
+Table '3467178071 1' 3-max Siège #2 est au bouton.
+Place 1: Gameskyk (740 en jetons) 
+Place 2: psychoman59 (160 en jetons) 
+psychoman59 : met la petite blind. 30
+Gameskyk : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 9c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Gameskyk.
+Gameskyk a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Gameskyk (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238450735596 : Tournoi #3467178071, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/09/2022 14:11:20 CET [06/09/2022 8:11:20 ET]
+Table '3467178071 1' 3-max Siège #1 est au bouton.
+Place 1: Gameskyk (770 en jetons) 
+Place 2: psychoman59 (130 en jetons) 
+Gameskyk : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h As]
+Gameskyk : relance. 240 à 300
+psychoman59 : suit. 70 et est all-in.
+Personne n'a suivi. (170) sont retournés à Gameskyk.
+*** FLOP *** [9c 8d Th]
+*** TOURNANT *** [9c 8d Th] [2c]
+*** RIVIÈRE *** [9c 8d Th 2c] [Qh]
+*** ABATTAGE ***
+psychoman59 : montre [5h As] (Hauteur As)
+Gameskyk : montre [8s Qs] (double paire, Dames et Huit)
+Gameskyk a remporté 260  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Gameskyk remporte le tournoi et reçoit 0.50 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [9c 8d Th 2c Qh]
+Siège 1 : Gameskyk (bouton) (petite blind) a montré [8s Qs] et a gagné (260) avec double paire, Dames et Huit
+Siège 2 : psychoman59 (grosse blind) a montré [5h As] et a perdu avec Hauteur As
+
+
+

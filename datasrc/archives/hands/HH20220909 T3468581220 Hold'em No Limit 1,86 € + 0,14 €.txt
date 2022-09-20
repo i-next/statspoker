@@ -1,0 +1,376 @@
+﻿Main PokerStars n°238510964174 : Tournoi #3468581220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 09/09/2022 10:51:59 CET [09/09/2022 4:51:59 ET]
+Table '3468581220 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Skyther69 (300 en jetons) 
+Place 3: dim2508 (300 en jetons) 
+Skyther69 : met la petite blind. 10
+dim2508 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 4s]
+psychoman59 : passe. 
+Skyther69 : passe. 
+Personne n'a suivi. (10) sont retournés à dim2508.
+dim2508 a remporté 20  lors du pot .
+dim2508 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Skyther69 (petite blind) s'est couché. avant Flop
+Siège 3 : dim2508 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°238510965421 : Tournoi #3468581220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 09/09/2022 10:52:08 CET [09/09/2022 4:52:08 ET]
+Table '3468581220 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Skyther69 (290 en jetons) 
+Place 3: dim2508 (310 en jetons) 
+dim2508 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 3h]
+Skyther69 : suit. 20
+dim2508 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7d 4h Ts]
+dim2508 : parole 
+psychoman59 : parole 
+Skyther69 : mise. 40
+dim2508 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Skyther69.
+Skyther69 a remporté 60  lors du pot .
+Skyther69 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7d 4h Ts]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Skyther69 (bouton) a remporté (60)
+Siège 3 : dim2508 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238510970298 : Tournoi #3468581220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 09/09/2022 10:52:41 CET [09/09/2022 4:52:41 ET]
+Table '3468581220 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: Skyther69 (330 en jetons) 
+Place 3: dim2508 (290 en jetons) 
+psychoman59 : met la petite blind. 10
+Skyther69 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Ac]
+dim2508 : suit. 20
+psychoman59 : relance. 260 à 280 et est all-in.
+Skyther69 : passe. 
+dim2508 : suit. 260
+*** FLOP *** [8s 2h 4h]
+*** TOURNANT *** [8s 2h 4h] [6c]
+*** RIVIÈRE *** [8s 2h 4h 6c] [5s]
+*** ABATTAGE ***
+psychoman59 : montre [Kc Ac] (Hauteur As)
+dim2508 : montre [Ah Js] (Hauteur As - plus basse kicker)
+psychoman59 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [8s 2h 4h 6c 5s]
+Siège 1 : psychoman59 (petite blind) a montré [Kc Ac] et a gagné (580) avec Hauteur As
+Siège 2 : Skyther69 (grosse blind) s'est couché. avant Flop
+Siège 3 : dim2508 (bouton) a montré [Ah Js] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°238510973126 : Tournoi #3468581220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 09/09/2022 10:52:59 CET [09/09/2022 4:52:59 ET]
+Table '3468581220 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 2: Skyther69 (310 en jetons) 
+Place 3: dim2508 (10 en jetons) 
+Skyther69 : met la petite blind. 10
+dim2508 : met la grosse blind. 10 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 3d]
+psychoman59 : passe. 
+*** FLOP *** [Ad 7s Js]
+*** TOURNANT *** [Ad 7s Js] [9d]
+*** RIVIÈRE *** [Ad 7s Js 9d] [9c]
+*** ABATTAGE ***
+Skyther69 : montre [5h Jc] (double paire, Valets et Neuf)
+dim2508 : montre [3s 5d] (une paire de Neuf)
+Skyther69 a remporté 20  lors du pot .
+dim2508 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Tableau [Ad 7s Js 9d 9c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Skyther69 (petite blind) a montré [5h Jc] et a gagné (20) avec double paire, Valets et Neuf
+Siège 3 : dim2508 (grosse blind) a montré [3s 5d] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°238510975416 : Tournoi #3468581220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 09/09/2022 10:53:15 CET [09/09/2022 4:53:15 ET]
+Table '3468581220 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 2: Skyther69 (320 en jetons) 
+Skyther69 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 4s]
+Skyther69 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [3s Ks 6c]
+psychoman59 : parole 
+Skyther69 : parole 
+*** TOURNANT *** [3s Ks 6c] [4d]
+psychoman59 : parole 
+Skyther69 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [3s Ks 6c 4d] [Jh]
+psychoman59 : parole 
+Skyther69 : mise. 90
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à Skyther69.
+Skyther69 a remporté 120  lors du pot .
+Skyther69 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3s Ks 6c 4d Jh]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : Skyther69 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°238510978667 : Tournoi #3468581220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 09/09/2022 10:53:37 CET [09/09/2022 4:53:37 ET]
+Table '3468581220 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: Skyther69 (380 en jetons) 
+psychoman59 : met la petite blind. 15
+Skyther69 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Qc]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Skyther69.
+Skyther69 a remporté 30  lors du pot .
+Skyther69 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Skyther69 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°238510979494 : Tournoi #3468581220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 09/09/2022 10:53:43 CET [09/09/2022 4:53:43 ET]
+Table '3468581220 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (505 en jetons) 
+Place 2: Skyther69 (395 en jetons) 
+Skyther69 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Kd]
+Skyther69 : suit. 15
+psychoman59 : relance. 60 à 90
+Skyther69 : suit. 60
+*** FLOP *** [5d 9s 2s]
+psychoman59 : mise. 90
+Skyther69 : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [5d 9s 2s]
+Siège 1 : psychoman59 (grosse blind) a remporté (180)
+Siège 2 : Skyther69 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238510983178 : Tournoi #3468581220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 09/09/2022 10:54:08 CET [09/09/2022 4:54:08 ET]
+Table '3468581220 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (595 en jetons) 
+Place 2: Skyther69 (305 en jetons) 
+psychoman59 : met la petite blind. 20
+Skyther69 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Skyther69.
+Skyther69 a remporté 40  lors du pot .
+Skyther69 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Skyther69 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238510984046 : Tournoi #3468581220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 09/09/2022 10:54:14 CET [09/09/2022 4:54:14 ET]
+Table '3468581220 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (575 en jetons) 
+Place 2: Skyther69 (325 en jetons) 
+Skyther69 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qs]
+Skyther69 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : Skyther69 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238510984476 : Tournoi #3468581220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 09/09/2022 10:54:17 CET [09/09/2022 4:54:17 ET]
+Table '3468581220 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (595 en jetons) 
+Place 2: Skyther69 (305 en jetons) 
+psychoman59 : met la petite blind. 20
+Skyther69 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Skyther69.
+Skyther69 a remporté 40  lors du pot .
+Skyther69 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Skyther69 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238510985156 : Tournoi #3468581220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 09/09/2022 10:54:22 CET [09/09/2022 4:54:22 ET]
+Table '3468581220 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (575 en jetons) 
+Place 2: Skyther69 (325 en jetons) 
+Skyther69 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Js]
+Skyther69 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Ad 2h 8c]
+psychoman59 : parole 
+Skyther69 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Skyther69.
+Skyther69 a remporté 80  lors du pot .
+Skyther69 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ad 2h 8c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Skyther69 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°238510986708 : Tournoi #3468581220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 09/09/2022 10:54:32 CET [09/09/2022 4:54:32 ET]
+Table '3468581220 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (535 en jetons) 
+Place 2: Skyther69 (365 en jetons) 
+psychoman59 : met la petite blind. 20
+Skyther69 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ah]
+psychoman59 : relance. 495 à 535 et est all-in.
+Skyther69 : suit. 325 et est all-in.
+Personne n'a suivi. (170) sont retournés à psychoman59.
+*** FLOP *** [Qc Kd 7c]
+*** TOURNANT *** [Qc Kd 7c] [6h]
+*** RIVIÈRE *** [Qc Kd 7c 6h] [Kh]
+*** ABATTAGE ***
+Skyther69 : montre [Th Qh] (double paire, Rois et Dames)
+psychoman59 : montre [8c Ah] (une paire de Rois)
+Skyther69 a remporté 730  lors du pot .
+*** SYNTHÈSE ***
+Pot total 730 | Commission 0 
+Tableau [Qc Kd 7c 6h Kh]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [8c Ah] et a perdu avec une paire de Rois
+Siège 2 : Skyther69 (grosse blind) a montré [Th Qh] et a gagné (730) avec double paire, Rois et Dames
+
+
+
+Main PokerStars n°238510989195 : Tournoi #3468581220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 09/09/2022 10:54:49 CET [09/09/2022 4:54:49 ET]
+Table '3468581220 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (170 en jetons) 
+Place 2: Skyther69 (730 en jetons) 
+Skyther69 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Ad]
+Skyther69 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : Skyther69 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238510989786 : Tournoi #3468581220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 09/09/2022 10:54:53 CET [09/09/2022 4:54:53 ET]
+Table '3468581220 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (190 en jetons) 
+Place 2: Skyther69 (710 en jetons) 
+psychoman59 : met la petite blind. 20
+Skyther69 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Skyther69.
+Skyther69 a remporté 40  lors du pot .
+Skyther69 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Skyther69 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238510990531 : Tournoi #3468581220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 09/09/2022 10:54:58 CET [09/09/2022 4:54:58 ET]
+Table '3468581220 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (170 en jetons) 
+Place 2: Skyther69 (730 en jetons) 
+Skyther69 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 7d]
+Skyther69 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : Skyther69 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238510991391 : Tournoi #3468581220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/09/2022 10:55:04 CET [09/09/2022 4:55:04 ET]
+Table '3468581220 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (190 en jetons) 
+Place 2: Skyther69 (710 en jetons) 
+psychoman59 : met la petite blind. 30
+Skyther69 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 7h]
+psychoman59 : relance. 130 à 190 et est all-in.
+Skyther69 : suit. 130
+*** FLOP *** [5s 5c Kd]
+*** TOURNANT *** [5s 5c Kd] [9c]
+*** RIVIÈRE *** [5s 5c Kd 9c] [2s]
+*** ABATTAGE ***
+Skyther69 : montre [Ah 9h] (double paire, Neuf et Cinq)
+psychoman59 : montre [Qs 7h] (une paire de Cinq)
+Skyther69 a remporté 380  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Skyther69 remporte le tournoi et reçoit 6.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [5s 5c Kd 9c 2s]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Qs 7h] et a perdu avec une paire de Cinq
+Siège 2 : Skyther69 (grosse blind) a montré [Ah 9h] et a gagné (380) avec double paire, Neuf et Cinq
+
+
+

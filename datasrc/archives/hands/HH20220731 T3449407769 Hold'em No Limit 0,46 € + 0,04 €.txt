@@ -1,0 +1,68 @@
+﻿Main PokerStars n°237700651584 : Tournoi #3449407769, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 31/07/2022 16:52:06 CET [31/07/2022 10:52:06 ET]
+Table '3449407769 1' 4-max Siège #1 est au bouton.
+Place 1: chinotemb (5000 en jetons) 
+Place 2: claudio81211 (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: proaarroyo (5000 en jetons) 
+chinotemb : met l'ante. 10
+claudio81211 : met l'ante. 10
+psychoman59 : met l'ante. 10
+proaarroyo : met l'ante. 10
+claudio81211 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h As]
+proaarroyo : suit. 100
+chinotemb : relance. 390 à 490
+claudio81211 : passe. 
+psychoman59 : passe. 
+proaarroyo : passe. 
+Personne n'a suivi. (390) sont retournés à chinotemb.
+chinotemb a remporté 390  lors du pot .
+chinotemb : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 390 | Commission 0 
+Siège 1 : chinotemb (bouton) a remporté (390)
+Siège 2 : claudio81211 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : proaarroyo s'est couché. avant Flop
+
+
+
+Main PokerStars n°237700661562 : Tournoi #3449407769, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 31/07/2022 16:52:40 CET [31/07/2022 10:52:40 ET]
+Table '3449407769 1' 4-max Siège #2 est au bouton.
+Place 1: chinotemb (5280 en jetons) 
+Place 2: claudio81211 (4940 en jetons) 
+Place 3: psychoman59 (4890 en jetons) 
+Place 4: proaarroyo (4890 en jetons) 
+chinotemb : met l'ante. 10
+claudio81211 : met l'ante. 10
+psychoman59 : met l'ante. 10
+proaarroyo : met l'ante. 10
+psychoman59 : met la petite blind. 50
+proaarroyo : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ad]
+chinotemb : suit. 100
+claudio81211 : passe. 
+psychoman59 : relance. 4780 à 4880 et est all-in.
+proaarroyo : suit. 4780 et est all-in.
+chinotemb : passe. 
+*** FLOP *** [7c 9s Qc]
+*** TOURNANT *** [7c 9s Qc] [Kh]
+*** RIVIÈRE *** [7c 9s Qc Kh] [Qd]
+*** ABATTAGE ***
+psychoman59 : montre [7d Ad] (double paire, Dames et Sept)
+proaarroyo : montre [Ks As] (double paire, Rois et Dames)
+proaarroyo a remporté 9900  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 9900 | Commission 0 
+Tableau [7c 9s Qc Kh Qd]
+Siège 1 : chinotemb s'est couché. avant Flop
+Siège 2 : claudio81211 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [7d Ad] et a perdu avec double paire, Dames et Sept
+Siège 4 : proaarroyo (grosse blind) a montré [Ks As] et a gagné (9900) avec double paire, Rois et Dames
+
+
+

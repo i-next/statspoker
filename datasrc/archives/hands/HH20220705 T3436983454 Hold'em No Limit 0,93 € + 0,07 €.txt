@@ -1,0 +1,294 @@
+﻿Main PokerStars n°237169597828 : Tournoi #3436983454, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/07/2022 7:10:59 CET [05/07/2022 1:10:59 ET]
+Table '3436983454 1' 3-max Siège #1 est au bouton.
+Place 1: michel78941 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: OrcDeadDk (300 en jetons) 
+psychoman59 : met la petite blind. 10
+OrcDeadDk : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3c]
+michel78941 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à OrcDeadDk.
+OrcDeadDk a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : michel78941 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : OrcDeadDk (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237169598518 : Tournoi #3436983454, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/07/2022 7:11:06 CET [05/07/2022 1:11:06 ET]
+Table '3436983454 1' 3-max Siège #2 est au bouton.
+Place 1: michel78941 (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: OrcDeadDk (310 en jetons) 
+OrcDeadDk : met la petite blind. 10
+michel78941 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ad]
+psychoman59 : relance. 50 à 70
+OrcDeadDk : passe. 
+michel78941 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : michel78941 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (50)
+Siège 3 : OrcDeadDk (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237169599495 : Tournoi #3436983454, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/07/2022 7:11:15 CET [05/07/2022 1:11:15 ET]
+Table '3436983454 1' 3-max Siège #3 est au bouton.
+Place 1: michel78941 (280 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: OrcDeadDk (300 en jetons) 
+michel78941 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Jc]
+OrcDeadDk : suit. 20
+michel78941 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Th Qd 3c]
+michel78941 : parole 
+psychoman59 : parole 
+OrcDeadDk : parole 
+*** TOURNANT *** [Th Qd 3c] [8s]
+michel78941 : parole 
+psychoman59 : parole 
+OrcDeadDk : parole 
+*** RIVIÈRE *** [Th Qd 3c 8s] [8d]
+michel78941 : parole 
+psychoman59 : parole 
+OrcDeadDk : parole 
+*** ABATTAGE ***
+michel78941 : montre [3d 9h] (double paire, Huit et Trois)
+psychoman59 : cache la main perdante. 
+OrcDeadDk : cache la main perdante. 
+michel78941 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Th Qd 3c 8s 8d]
+Siège 1 : michel78941 (petite blind) a montré [3d 9h] et a gagné (60) avec double paire, Huit et Trois
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [7h Jc]
+Siège 3 : OrcDeadDk (bouton) a caché la main perdante. [Kh 5h]
+
+
+
+Main PokerStars n°237169603143 : Tournoi #3436983454, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/07/2022 7:11:50 CET [05/07/2022 1:11:50 ET]
+Table '3436983454 1' 3-max Siège #1 est au bouton.
+Place 1: michel78941 (320 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: OrcDeadDk (280 en jetons) 
+psychoman59 : met la petite blind. 10
+OrcDeadDk : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 9s]
+michel78941 : passe. 
+psychoman59 : suit. 10
+OrcDeadDk : parole 
+*** FLOP *** [2s 4h Qd]
+psychoman59 : parole 
+OrcDeadDk : parole 
+*** TOURNANT *** [2s 4h Qd] [2c]
+psychoman59 : parole 
+OrcDeadDk : parole 
+*** RIVIÈRE *** [2s 4h Qd 2c] [7s]
+psychoman59 : parole 
+OrcDeadDk : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à OrcDeadDk.
+OrcDeadDk a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2s 4h Qd 2c 7s]
+Siège 1 : michel78941 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 3 : OrcDeadDk (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237169606479 : Tournoi #3436983454, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/07/2022 7:12:22 CET [05/07/2022 1:12:22 ET]
+Table '3436983454 1' 3-max Siège #2 est au bouton.
+Place 1: michel78941 (320 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+Place 3: OrcDeadDk (300 en jetons) 
+OrcDeadDk : met la petite blind. 15
+michel78941 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 8h]
+psychoman59 : passe. 
+OrcDeadDk : relance. 270 à 300 et est all-in.
+michel78941 : passe. 
+Personne n'a suivi. (270) sont retournés à OrcDeadDk.
+OrcDeadDk a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : michel78941 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : OrcDeadDk (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237169607730 : Tournoi #3436983454, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/07/2022 7:12:33 CET [05/07/2022 1:12:33 ET]
+Table '3436983454 1' 3-max Siège #3 est au bouton.
+Place 1: michel78941 (290 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+Place 3: OrcDeadDk (330 en jetons) 
+michel78941 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 6d]
+OrcDeadDk : passe. 
+michel78941 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6s 3s 2s]
+michel78941 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [6s 3s 2s] [7d]
+michel78941 : parole 
+psychoman59 : mise. 60
+michel78941 : suit. 60
+*** RIVIÈRE *** [6s 3s 2s 7d] [Kd]
+michel78941 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+michel78941 : montre [5s Ad] (Hauteur As)
+psychoman59 : montre [Ts 6d] (une paire de Six)
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6s 3s 2s 7d Kd]
+Siège 1 : michel78941 (petite blind) a montré [5s Ad] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) a montré [Ts 6d] et a gagné (240) avec une paire de Six
+Siège 3 : OrcDeadDk (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237169611225 : Tournoi #3436983454, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/07/2022 7:13:07 CET [05/07/2022 1:13:07 ET]
+Table '3436983454 1' 3-max Siège #1 est au bouton.
+Place 1: michel78941 (170 en jetons) 
+Place 2: psychoman59 (400 en jetons) 
+Place 3: OrcDeadDk (330 en jetons) 
+psychoman59 : met la petite blind. 20
+OrcDeadDk : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Ks]
+michel78941 : relance. 130 à 170 et est all-in.
+psychoman59 : passe. 
+OrcDeadDk : suit. 130
+*** FLOP *** [Ad 3s As]
+*** TOURNANT *** [Ad 3s As] [5d]
+*** RIVIÈRE *** [Ad 3s As 5d] [Qh]
+*** ABATTAGE ***
+OrcDeadDk : montre [Qc Kc] (double paire, As et Dames)
+michel78941 : montre [Th Kd] (une paire de As)
+OrcDeadDk a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Ad 3s As 5d Qh]
+Siège 1 : michel78941 (bouton) a montré [Th Kd] et a perdu avec une paire de As
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : OrcDeadDk (grosse blind) a montré [Qc Kc] et a gagné (360) avec double paire, As et Dames
+
+
+
+Main PokerStars n°237169613404 : Tournoi #3436983454, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/07/2022 7:13:28 CET [05/07/2022 1:13:28 ET]
+Table '3436983454 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (380 en jetons) 
+Place 3: OrcDeadDk (520 en jetons) 
+OrcDeadDk : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ac]
+OrcDeadDk : suit. 20
+psychoman59 : relance. 340 à 380 et est all-in.
+OrcDeadDk : passe. 
+Personne n'a suivi. (340) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : OrcDeadDk (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237169616103 : Tournoi #3436983454, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/07/2022 7:13:54 CET [05/07/2022 1:13:54 ET]
+Table '3436983454 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (420 en jetons) 
+Place 3: OrcDeadDk (480 en jetons) 
+psychoman59 : met la petite blind. 20
+OrcDeadDk : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Jh]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à OrcDeadDk.
+OrcDeadDk a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : OrcDeadDk (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237169616752 : Tournoi #3436983454, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/07/2022 7:14:00 CET [05/07/2022 1:14:00 ET]
+Table '3436983454 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (400 en jetons) 
+Place 3: OrcDeadDk (500 en jetons) 
+OrcDeadDk : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 5c]
+OrcDeadDk : suit. 20
+psychoman59 : parole 
+*** FLOP *** [6d Kd 5s]
+psychoman59 : parole 
+OrcDeadDk : parole 
+*** TOURNANT *** [6d Kd 5s] [Ad]
+psychoman59 : parole 
+OrcDeadDk : parole 
+*** RIVIÈRE *** [6d Kd 5s Ad] [Kc]
+psychoman59 : mise. 40
+OrcDeadDk : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6d Kd 5s Ad Kc]
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : OrcDeadDk (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237169619267 : Tournoi #3436983454, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 05/07/2022 7:14:25 CET [05/07/2022 1:14:25 ET]
+Table '3436983454 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (440 en jetons) 
+Place 3: OrcDeadDk (460 en jetons) 
+psychoman59 : met la petite blind. 30
+OrcDeadDk : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Kh]
+psychoman59 : relance. 120 à 180
+OrcDeadDk : suit. 120
+*** FLOP *** [Jd Jc 3h]
+OrcDeadDk : mise. 280 et est all-in.
+psychoman59 : suit. 260 et est all-in.
+Personne n'a suivi. (20) sont retournés à OrcDeadDk.
+*** TOURNANT *** [Jd Jc 3h] [Jh]
+*** RIVIÈRE *** [Jd Jc 3h Jh] [7h]
+*** ABATTAGE ***
+OrcDeadDk : montre [9c 7c] (un full, full aux Valets par les Sept)
+psychoman59 : montre [Td Kh] (un brelan de Valets)
+OrcDeadDk a remporté 880  lors du pot .
+*** SYNTHÈSE ***
+Pot total 880 | Commission 0 
+Tableau [Jd Jc 3h Jh 7h]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Td Kh] et a perdu avec un brelan de Valets
+Siège 3 : OrcDeadDk (grosse blind) a montré [9c 7c] et a gagné (880) avec un full, full aux Valets par les Sept
+
+
+

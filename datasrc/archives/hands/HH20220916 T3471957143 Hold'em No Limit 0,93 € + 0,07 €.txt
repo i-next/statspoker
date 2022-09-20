@@ -1,0 +1,112 @@
+﻿Main PokerStars n°238657501611 : Tournoi #3471957143, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/09/2022 9:35:11 CET [16/09/2022 3:35:11 ET]
+Table '3471957143 1' 3-max Siège #1 est au bouton.
+Place 1: ZeroZeta1 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: joh743 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+joh743 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 2c]
+ZeroZeta1 : relance. 50 à 70
+psychoman59 : passe. 
+joh743 : suit. 50
+*** FLOP *** [Js Kh 5h]
+joh743 : mise. 230 et est all-in.
+ZeroZeta1 : passe. 
+Personne n'a suivi. (230) sont retournés à joh743.
+joh743 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [Js Kh 5h]
+Siège 1 : ZeroZeta1 (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : joh743 (grosse blind) a remporté (150)
+
+
+
+Main PokerStars n°238657503554 : Tournoi #3471957143, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/09/2022 9:35:28 CET [16/09/2022 3:35:28 ET]
+Table '3471957143 1' 3-max Siège #2 est au bouton.
+Place 1: ZeroZeta1 (230 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: joh743 (380 en jetons) 
+joh743 : met la petite blind. 10
+ZeroZeta1 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 4d]
+psychoman59 : relance. 20 à 40
+joh743 : suit. 30
+ZeroZeta1 : relance. 190 à 230 et est all-in.
+psychoman59 : passe. 
+joh743 : suit. 190
+*** FLOP *** [9d 6c Tc]
+*** TOURNANT *** [9d 6c Tc] [Kh]
+*** RIVIÈRE *** [9d 6c Tc Kh] [5h]
+*** ABATTAGE ***
+joh743 : montre [9c 6s] (double paire, Neuf et Six)
+ZeroZeta1 : montre [As 6h] (une paire de Six)
+joh743 a remporté 500  lors du pot .
+ZeroZeta1 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [9d 6c Tc Kh 5h]
+Siège 1 : ZeroZeta1 (grosse blind) a montré [As 6h] et a perdu avec une paire de Six
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 3 : joh743 (petite blind) a montré [9c 6s] et a gagné (500) avec double paire, Neuf et Six
+
+
+
+Main PokerStars n°238657506728 : Tournoi #3471957143, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/09/2022 9:35:55 CET [16/09/2022 3:35:55 ET]
+Table '3471957143 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (250 en jetons) 
+Place 3: joh743 (650 en jetons) 
+joh743 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 2c]
+joh743 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ks Jd Qs]
+psychoman59 : parole 
+joh743 : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [Ks Jd Qs] [Tc]
+psychoman59 : parole 
+joh743 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à joh743.
+joh743 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ks Jd Qs Tc]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : joh743 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°238657509838 : Tournoi #3471957143, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/09/2022 9:36:21 CET [16/09/2022 3:36:21 ET]
+Table '3471957143 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (190 en jetons) 
+Place 3: joh743 (710 en jetons) 
+psychoman59 : met la petite blind. 15
+joh743 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Qc]
+psychoman59 : relance. 160 à 190 et est all-in.
+joh743 : suit. 160
+*** FLOP *** [8c 8h Td]
+*** TOURNANT *** [8c 8h Td] [7c]
+*** RIVIÈRE *** [8c 8h Td 7c] [6d]
+*** ABATTAGE ***
+joh743 : montre [3c 3s] (double paire, Huit et Trois)
+psychoman59 : montre [Jh Qc] (une paire de Huit)
+joh743 a remporté 380  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+joh743 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [8c 8h Td 7c 6d]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Jh Qc] et a perdu avec une paire de Huit
+Siège 3 : joh743 (grosse blind) a montré [3c 3s] et a gagné (380) avec double paire, Huit et Trois
+
+
+

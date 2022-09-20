@@ -1,0 +1,99 @@
+﻿Main PokerStars n°237313125826 : Tournoi #3440393270, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/07/2022 15:13:21 CET [12/07/2022 9:13:21 ET]
+Table '3440393270 1' 3-max Siège #1 est au bouton.
+Place 1: Choucroute43 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: douglasw129 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+douglasw129 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 3d]
+Choucroute43 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à douglasw129.
+douglasw129 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Choucroute43 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : douglasw129 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237313127580 : Tournoi #3440393270, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/07/2022 15:13:29 CET [12/07/2022 9:13:29 ET]
+Table '3440393270 1' 3-max Siège #2 est au bouton.
+Place 1: Choucroute43 (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: douglasw129 (310 en jetons) 
+douglasw129 : met la petite blind. 10
+Choucroute43 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 8s]
+psychoman59 : passe. 
+douglasw129 : suit. 10
+Choucroute43 : relance. 60 à 80
+douglasw129 : passe. 
+Personne n'a suivi. (60) sont retournés à Choucroute43.
+Choucroute43 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Choucroute43 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : douglasw129 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237313130716 : Tournoi #3440393270, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/07/2022 15:13:44 CET [12/07/2022 9:13:44 ET]
+Table '3440393270 1' 3-max Siège #3 est au bouton.
+Place 1: Choucroute43 (320 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: douglasw129 (290 en jetons) 
+Choucroute43 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 7d]
+douglasw129 : passe. 
+Choucroute43 : relance. 40 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Choucroute43.
+Choucroute43 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Choucroute43 (petite blind) a remporté (40)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : douglasw129 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237313134414 : Tournoi #3440393270, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/07/2022 15:14:01 CET [12/07/2022 9:14:01 ET]
+Table '3440393270 1' 3-max Siège #1 est au bouton.
+Place 1: Choucroute43 (340 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: douglasw129 (290 en jetons) 
+psychoman59 : met la petite blind. 10
+douglasw129 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 4d]
+Choucroute43 : suit. 20
+psychoman59 : relance. 250 à 270 et est all-in.
+douglasw129 : suit. 250
+Choucroute43 : suit. 250
+*** FLOP *** [9s Kh 7h]
+douglasw129 : mise. 20 et est all-in.
+Choucroute43 : suit. 20
+*** TOURNANT *** [9s Kh 7h] [Kd]
+*** RIVIÈRE *** [9s Kh 7h Kd] [6s]
+*** ABATTAGE ***
+douglasw129 : montre [Kc Js] (un brelan de Rois)
+Choucroute43 : montre [Qc Tc] (une paire de Rois)
+douglasw129 a remporté 40  parallèle lors du pot .
+psychoman59 : montre [4s 4d] (double paire, Rois et Quatre)
+douglasw129 a remporté 810  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 850 Principal pot 810. Parallèle pot 40. | Commission 0 
+Tableau [9s Kh 7h Kd 6s]
+Siège 1 : Choucroute43 (bouton) a montré [Qc Tc] et a perdu avec une paire de Rois
+Siège 2 : psychoman59 (petite blind) a montré [4s 4d] et a perdu avec double paire, Rois et Quatre
+Siège 3 : douglasw129 (grosse blind) a montré [Kc Js] et a gagné (850) avec un brelan de Rois
+
+
+

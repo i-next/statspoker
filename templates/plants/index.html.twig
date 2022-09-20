@@ -1,0 +1,71 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Plantes!{% endblock %}
+{% block stylesheets %}
+<link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.20.2/dist/bootstrap-table.min.css">
+    {{ parent() }}
+{% endblock %}
+{% block javascripts %}
+    <script src="https://unpkg.com/bootstrap-table@1.20.2/dist/bootstrap-table.min.js"></script>
+
+<script>
+    function dateFormat(date) {
+        console.log(typeof date);
+        var year = date.getFullYear();
+
+        var month = (1 + date.getMonth()).toString();
+        month = month.length > 1 ? month : '0' + month;
+
+        var day = date.getDate().toString();
+        day = day.length > 1 ? day : '0' + day;
+
+        return month + '/' + day + '/' + year;
+    }
+
+    function ajaxRequest(params) {
+
+    var url = '/plants_list'
+    $.get(url + '?' + $.param(params.data)).then(function (res) {
+    params.success(res)
+    })
+    }
+</script>
+    {{ parent() }}
+{% endblock %}
+{% block body %}
+<style>
+    .example-wrapper { margin: 1em auto; max-width: 800px; width: 95%; font: 18px/1.5 sans-serif; }
+    .example-wrapper code { background: #F5F5F5; padding: 2px 6px; }
+</style>
+<div class="example-wrapper">
+    <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+        Button with data-target
+    </button>
+</div>
+<div class="collapse example-wrapper" id="collapseExample">
+
+    {{ form(form) }}
+
+</div>
+    <div class="example-wrapper">
+        <table style="width: 100%" data-toggle="table"
+               data-search="true"
+               data-side-pagination="server"
+               data-pagination="true"
+               class="" data-url="/plants/list">
+            <thead>
+                <tr>
+                    <th data-field="name">Name</th>
+                    <th data-field="duration">Duration</th>
+                    <th data-field="dateflo">DateFlo</th>
+                    <th data-field="daterec">DateRec</th>
+                    <th data-field="qty">Quantité</th>
+                </tr>
+            </thead>
+
+
+        </table>
+
+    </div>
+
+{% endblock %}

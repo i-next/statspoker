@@ -1,0 +1,303 @@
+﻿Main PokerStars n°237429320389 : Tournoi #3443100941, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 7:54:04 CET [18/07/2022 1:54:04 ET]
+Table '3443100941 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: yellowston09 (300 en jetons) 
+Place 3: agathe3535 (300 en jetons) 
+yellowston09 : met la petite blind. 10
+agathe3535 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 4d]
+psychoman59 : passe. 
+yellowston09 : passe. 
+Personne n'a suivi. (10) sont retournés à agathe3535.
+agathe3535 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : yellowston09 (petite blind) s'est couché. avant Flop
+Siège 3 : agathe3535 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237429320889 : Tournoi #3443100941, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 7:54:09 CET [18/07/2022 1:54:09 ET]
+Table '3443100941 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: yellowston09 (290 en jetons) 
+Place 3: agathe3535 (310 en jetons) 
+agathe3535 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Qc]
+yellowston09 : passe. 
+agathe3535 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ts 5h 4h]
+agathe3535 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à agathe3535.
+agathe3535 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Ts 5h 4h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : yellowston09 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : agathe3535 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°237429323225 : Tournoi #3443100941, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 7:54:33 CET [18/07/2022 1:54:33 ET]
+Table '3443100941 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: yellowston09 (290 en jetons) 
+Place 3: agathe3535 (330 en jetons) 
+psychoman59 : met la petite blind. 10
+yellowston09 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 7s]
+agathe3535 : relance. 20 à 40
+psychoman59 : passe. 
+yellowston09 : relance. 250 à 290 et est all-in.
+agathe3535 : suit. 250
+*** FLOP *** [Td 6s 6c]
+*** TOURNANT *** [Td 6s 6c] [Js]
+*** RIVIÈRE *** [Td 6s 6c Js] [8h]
+*** ABATTAGE ***
+yellowston09 : montre [8d 9d] (double paire, Huit et Six)
+agathe3535 : montre [Ks Ad] (une paire de Six)
+yellowston09 a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [Td 6s 6c Js 8h]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : yellowston09 (grosse blind) a montré [8d 9d] et a gagné (590) avec double paire, Huit et Six
+Siège 3 : agathe3535 (bouton) a montré [Ks Ad] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°237429325829 : Tournoi #3443100941, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/07/2022 7:55:00 CET [18/07/2022 1:55:00 ET]
+Table '3443100941 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: yellowston09 (590 en jetons) 
+Place 3: agathe3535 (40 en jetons) 
+yellowston09 : met la petite blind. 10
+agathe3535 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 6h]
+psychoman59 : passe. 
+yellowston09 : relance. 20 à 40
+agathe3535 : suit. 20 et est all-in.
+*** FLOP *** [Ah Jd Ad]
+*** TOURNANT *** [Ah Jd Ad] [As]
+*** RIVIÈRE *** [Ah Jd Ad As] [Jh]
+*** ABATTAGE ***
+yellowston09 : montre [Qc 2c] (un full, full aux As par les Valets)
+agathe3535 : montre [6d 5c] (un full, full aux As par les Valets)
+yellowston09 a remporté 40  lors du pot .
+agathe3535 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ah Jd Ad As Jh]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : yellowston09 (petite blind) a montré [Qc 2c] et a gagné (40) avec un full, full aux As par les Valets
+Siège 3 : agathe3535 (grosse blind) a montré [6d 5c] et a gagné (40) avec un full, full aux As par les Valets
+
+
+
+Main PokerStars n°237429327467 : Tournoi #3443100941, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/07/2022 7:55:19 CET [18/07/2022 1:55:19 ET]
+Table '3443100941 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: yellowston09 (590 en jetons) 
+Place 3: agathe3535 (40 en jetons) 
+agathe3535 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Ks]
+yellowston09 : passe. 
+agathe3535 : relance. 10 à 40 et est all-in.
+psychoman59 : suit. 10
+*** FLOP *** [Js 5h As]
+*** TOURNANT *** [Js 5h As] [2s]
+*** RIVIÈRE *** [Js 5h As 2s] [6d]
+*** ABATTAGE ***
+agathe3535 : montre [Kc Qh] (Hauteur As)
+psychoman59 : montre [Kh Ks] (une paire de Rois)
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Js 5h As 2s 6d]
+Siège 1 : psychoman59 (grosse blind) a montré [Kh Ks] et a gagné (80) avec une paire de Rois
+Siège 2 : yellowston09 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : agathe3535 (petite blind) a montré [Kc Qh] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237429329476 : Tournoi #3443100941, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/07/2022 7:55:42 CET [18/07/2022 1:55:42 ET]
+Table '3443100941 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: yellowston09 (590 en jetons) 
+psychoman59 : met la petite blind. 15
+yellowston09 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Kc]
+psychoman59 : relance. 280 à 310 et est all-in.
+yellowston09 : suit. 280
+*** FLOP *** [5c 2d Th]
+*** TOURNANT *** [5c 2d Th] [Jd]
+*** RIVIÈRE *** [5c 2d Th Jd] [Kh]
+*** ABATTAGE ***
+yellowston09 : montre [9c 7s] (Hauteur Roi)
+psychoman59 : montre [5s Kc] (double paire, Rois et Cinq)
+psychoman59 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [5c 2d Th Jd Kh]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [5s Kc] et a gagné (620) avec double paire, Rois et Cinq
+Siège 2 : yellowston09 (grosse blind) a montré [9c 7s] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°237429330831 : Tournoi #3443100941, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/07/2022 7:55:58 CET [18/07/2022 1:55:58 ET]
+Table '3443100941 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (620 en jetons) 
+Place 2: yellowston09 (280 en jetons) 
+yellowston09 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 5s]
+yellowston09 : relance. 250 à 280 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à yellowston09.
+yellowston09 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : yellowston09 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237429331359 : Tournoi #3443100941, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/07/2022 7:56:03 CET [18/07/2022 1:56:03 ET]
+Table '3443100941 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (590 en jetons) 
+Place 2: yellowston09 (310 en jetons) 
+psychoman59 : met la petite blind. 15
+yellowston09 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Qd]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à yellowston09.
+yellowston09 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : yellowston09 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237429332032 : Tournoi #3443100941, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/07/2022 7:56:11 CET [18/07/2022 1:56:11 ET]
+Table '3443100941 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (575 en jetons) 
+Place 2: yellowston09 (325 en jetons) 
+yellowston09 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 6s]
+yellowston09 : relance. 285 à 325 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (285) sont retournés à yellowston09.
+yellowston09 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : yellowston09 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237429332675 : Tournoi #3443100941, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/07/2022 7:56:19 CET [18/07/2022 1:56:19 ET]
+Table '3443100941 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (535 en jetons) 
+Place 2: yellowston09 (365 en jetons) 
+psychoman59 : met la petite blind. 20
+yellowston09 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à yellowston09.
+yellowston09 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : yellowston09 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237429333047 : Tournoi #3443100941, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/07/2022 7:56:23 CET [18/07/2022 1:56:23 ET]
+Table '3443100941 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (515 en jetons) 
+Place 2: yellowston09 (385 en jetons) 
+yellowston09 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 8s]
+yellowston09 : relance. 345 à 385 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (345) sont retournés à yellowston09.
+yellowston09 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : yellowston09 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237429333598 : Tournoi #3443100941, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/07/2022 7:56:29 CET [18/07/2022 1:56:29 ET]
+Table '3443100941 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (475 en jetons) 
+Place 2: yellowston09 (425 en jetons) 
+psychoman59 : met la petite blind. 20
+yellowston09 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Jc]
+psychoman59 : relance. 435 à 475 et est all-in.
+yellowston09 : suit. 385 et est all-in.
+Personne n'a suivi. (50) sont retournés à psychoman59.
+*** FLOP *** [8c 5d 9c]
+*** TOURNANT *** [8c 5d 9c] [8s]
+*** RIVIÈRE *** [8c 5d 9c 8s] [3d]
+*** ABATTAGE ***
+yellowston09 : montre [Ah Th] (une paire de Huit)
+psychoman59 : montre [Tc Jc] (une paire de Huit - plus basse kicker)
+yellowston09 a remporté 850  lors du pot .
+*** SYNTHÈSE ***
+Pot total 850 | Commission 0 
+Tableau [8c 5d 9c 8s 3d]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Tc Jc] et a perdu avec une paire de Huit
+Siège 2 : yellowston09 (grosse blind) a montré [Ah Th] et a gagné (850) avec une paire de Huit
+
+
+
+Main PokerStars n°237429334757 : Tournoi #3443100941, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/07/2022 7:56:43 CET [18/07/2022 1:56:43 ET]
+Table '3443100941 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (50 en jetons) 
+Place 2: yellowston09 (850 en jetons) 
+yellowston09 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 5d]
+yellowston09 : suit. 20
+psychoman59 : relance. 10 à 50 et est all-in.
+yellowston09 : suit. 10
+*** FLOP *** [3d 2d 8h]
+*** TOURNANT *** [3d 2d 8h] [8s]
+*** RIVIÈRE *** [3d 2d 8h 8s] [7s]
+*** ABATTAGE ***
+psychoman59 : montre [6s 5d] (une paire de Huit)
+yellowston09 : montre [9c 5s] (une paire de Huit - Neuf kicker)
+yellowston09 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [3d 2d 8h 8s 7s]
+Siège 1 : psychoman59 (grosse blind) a montré [6s 5d] et a perdu avec une paire de Huit
+Siège 2 : yellowston09 (bouton) (petite blind) a montré [9c 5s] et a gagné (100) avec une paire de Huit
+
+
+

@@ -1,0 +1,1206 @@
+﻿Main PokerStars n°237944402700 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 16:19:07 CET [12/08/2022 10:19:07 ET]
+Table '3455206292 1' 4-max Siège #1 est au bouton.
+Place 1: PEPEGOLDE (5000 en jetons) 
+Place 2: 3mecbet (5000 en jetons) 
+Place 3: ethandu84 (5000 en jetons) 
+Place 4: psychoman59 (5000 en jetons) 
+PEPEGOLDE : met l'ante. 10
+3mecbet : met l'ante. 10
+ethandu84 : met l'ante. 10
+psychoman59 : met l'ante. 10
+3mecbet : met la petite blind. 50
+ethandu84 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ad]
+psychoman59 : suit. 100
+PEPEGOLDE : suit. 100
+3mecbet : suit. 50
+ethandu84 : parole 
+*** FLOP *** [2h 9c Td]
+3mecbet : parole 
+ethandu84 : parole 
+psychoman59 : parole 
+PEPEGOLDE : parole 
+*** TOURNANT *** [2h 9c Td] [4d]
+3mecbet : parole 
+ethandu84 : parole 
+psychoman59 : parole 
+PEPEGOLDE : parole 
+*** RIVIÈRE *** [2h 9c Td 4d] [Js]
+3mecbet : parole 
+ethandu84 : parole 
+psychoman59 : parole 
+PEPEGOLDE : parole 
+*** ABATTAGE ***
+3mecbet : montre [Kd 7h] (Hauteur Roi)
+ethandu84 : cache la main perdante. 
+psychoman59 : montre [7s Ad] (Hauteur As)
+PEPEGOLDE : montre [5c 4h] (une paire de Quatre)
+PEPEGOLDE a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [2h 9c Td 4d Js]
+Siège 1 : PEPEGOLDE (bouton) a montré [5c 4h] et a gagné (440) avec une paire de Quatre
+Siège 2 : 3mecbet (petite blind) a montré [Kd 7h] et a perdu avec Hauteur Roi
+Siège 3 : ethandu84 (grosse blind) a caché la main perdante. [6s Qs]
+Siège 4 : psychoman59 a montré [7s Ad] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237944416859 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 16:20:05 CET [12/08/2022 10:20:05 ET]
+Table '3455206292 1' 4-max Siège #2 est au bouton.
+Place 1: PEPEGOLDE (5330 en jetons) 
+Place 2: 3mecbet (4890 en jetons) 
+Place 3: ethandu84 (4890 en jetons) 
+Place 4: psychoman59 (4890 en jetons) 
+PEPEGOLDE : met l'ante. 10
+3mecbet : met l'ante. 10
+ethandu84 : met l'ante. 10
+psychoman59 : met l'ante. 10
+ethandu84 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Jh]
+PEPEGOLDE : suit. 100
+3mecbet : passe. 
+ethandu84 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [3h 3s 5h]
+ethandu84 : parole 
+psychoman59 : parole 
+PEPEGOLDE : parole 
+*** TOURNANT *** [3h 3s 5h] [2c]
+ethandu84 : parole 
+psychoman59 : parole 
+PEPEGOLDE : parole 
+*** RIVIÈRE *** [3h 3s 5h 2c] [6h]
+ethandu84 : mise. 100
+psychoman59 : passe. 
+PEPEGOLDE : passe. 
+Personne n'a suivi. (100) sont retournés à ethandu84.
+ethandu84 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [3h 3s 5h 2c 6h]
+Siège 1 : PEPEGOLDE s'est couché. sur le Rivière
+Siège 2 : 3mecbet (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ethandu84 (petite blind) a remporté (340)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237944433807 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 16:21:12 CET [12/08/2022 10:21:12 ET]
+Table '3455206292 1' 4-max Siège #3 est au bouton.
+Place 1: PEPEGOLDE (5220 en jetons) 
+Place 2: 3mecbet (4880 en jetons) 
+Place 3: ethandu84 (5120 en jetons) 
+Place 4: psychoman59 (4780 en jetons) 
+PEPEGOLDE : met l'ante. 10
+3mecbet : met l'ante. 10
+ethandu84 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+PEPEGOLDE : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Td]
+3mecbet : relance. 120 à 220
+ethandu84 : suit. 220
+psychoman59 : passe. 
+PEPEGOLDE : passe. 
+*** FLOP *** [2c Kh 2s]
+3mecbet : parole 
+ethandu84 : parole 
+*** TOURNANT *** [2c Kh 2s] [5s]
+3mecbet : parole 
+ethandu84 : parole 
+*** RIVIÈRE *** [2c Kh 2s 5s] [4d]
+3mecbet : parole 
+ethandu84 : mise. 100
+3mecbet : suit. 100
+*** ABATTAGE ***
+ethandu84 : montre [Jh As] (une paire de Deux)
+3mecbet : cache la main perdante. 
+ethandu84 a remporté 830  lors du pot .
+*** SYNTHÈSE ***
+Pot total 830 | Commission 0 
+Tableau [2c Kh 2s 5s 4d]
+Siège 1 : PEPEGOLDE (grosse blind) s'est couché. avant Flop
+Siège 2 : 3mecbet a caché la main perdante. [Ah 8d]
+Siège 3 : ethandu84 (bouton) a montré [Jh As] et a gagné (830) avec une paire de Deux
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237944445377 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 16:21:59 CET [12/08/2022 10:21:59 ET]
+Table '3455206292 1' 4-max Siège #4 est au bouton.
+Place 1: PEPEGOLDE (5110 en jetons) 
+Place 2: 3mecbet (4550 en jetons) 
+Place 3: ethandu84 (5620 en jetons) 
+Place 4: psychoman59 (4720 en jetons) 
+PEPEGOLDE : met l'ante. 10
+3mecbet : met l'ante. 10
+ethandu84 : met l'ante. 10
+psychoman59 : met l'ante. 10
+PEPEGOLDE : met la petite blind. 50
+3mecbet : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 4s]
+ethandu84 : suit. 100
+psychoman59 : suit. 100
+PEPEGOLDE : suit. 50
+3mecbet : parole 
+*** FLOP *** [9d 6d Ks]
+PEPEGOLDE : parole 
+3mecbet : parole 
+ethandu84 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9d 6d Ks] [Js]
+PEPEGOLDE : parole 
+3mecbet a dépassé le temps imparti.
+3mecbet : parole 
+ethandu84 : mise. 100
+psychoman59 : suit. 100
+PEPEGOLDE : suit. 100
+3mecbet : passe. 
+*** RIVIÈRE *** [9d 6d Ks Js] [Td]
+PEPEGOLDE : mise. 370
+ethandu84 : suit. 370
+psychoman59 : passe. 
+*** ABATTAGE ***
+PEPEGOLDE : montre [3d Ad] (une couleur, hauteur As)
+ethandu84 : cache la main perdante. 
+PEPEGOLDE a remporté 1480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1480 | Commission 0 
+Tableau [9d 6d Ks Js Td]
+Siège 1 : PEPEGOLDE (petite blind) a montré [3d Ad] et a gagné (1480) avec une couleur, hauteur As
+Siège 2 : 3mecbet (grosse blind) s'est couché. sur le Tournant
+Siège 3 : ethandu84 a caché la main perdante. [Jc 5d]
+Siège 4 : psychoman59 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237944468347 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 16:23:30 CET [12/08/2022 10:23:30 ET]
+Table '3455206292 1' 4-max Siège #1 est au bouton.
+Place 1: PEPEGOLDE (6010 en jetons) 
+Place 2: 3mecbet (4440 en jetons) 
+Place 3: ethandu84 (5040 en jetons) 
+Place 4: psychoman59 (4510 en jetons) 
+PEPEGOLDE : met l'ante. 15
+3mecbet : met l'ante. 15
+ethandu84 : met l'ante. 15
+psychoman59 : met l'ante. 15
+3mecbet : met la petite blind. 60
+ethandu84 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 8d]
+psychoman59 : passe. 
+PEPEGOLDE : suit. 120
+3mecbet : passe. 
+ethandu84 : parole 
+*** FLOP *** [2c 7d 2d]
+ethandu84 : mise. 120
+PEPEGOLDE : passe. 
+Personne n'a suivi. (120) sont retournés à ethandu84.
+ethandu84 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [2c 7d 2d]
+Siège 1 : PEPEGOLDE (bouton) s'est couché. sur le Flop
+Siège 2 : 3mecbet (petite blind) s'est couché. avant Flop
+Siège 3 : ethandu84 (grosse blind) a remporté (360)
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237944473770 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 16:23:52 CET [12/08/2022 10:23:52 ET]
+Table '3455206292 1' 4-max Siège #2 est au bouton.
+Place 1: PEPEGOLDE (5875 en jetons) 
+Place 2: 3mecbet (4365 en jetons) 
+Place 3: ethandu84 (5265 en jetons) 
+Place 4: psychoman59 (4495 en jetons) 
+PEPEGOLDE : met l'ante. 15
+3mecbet : met l'ante. 15
+ethandu84 : met l'ante. 15
+psychoman59 : met l'ante. 15
+ethandu84 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Ac]
+PEPEGOLDE : suit. 120
+3mecbet : passe. 
+ethandu84 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [4d 8d 8c]
+ethandu84 : mise. 120
+psychoman59 : passe. 
+PEPEGOLDE : suit. 120
+*** TOURNANT *** [4d 8d 8c] [Jh]
+ethandu84 : mise. 120
+PEPEGOLDE : passe. 
+Personne n'a suivi. (120) sont retournés à ethandu84.
+ethandu84 a remporté 660  lors du pot .
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [4d 8d 8c Jh]
+Siège 1 : PEPEGOLDE s'est couché. sur le Tournant
+Siège 2 : 3mecbet (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ethandu84 (petite blind) a remporté (660)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237944480912 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 16:24:21 CET [12/08/2022 10:24:21 ET]
+Table '3455206292 1' 4-max Siège #3 est au bouton.
+Place 1: PEPEGOLDE (5620 en jetons) 
+Place 2: 3mecbet (4350 en jetons) 
+Place 3: ethandu84 (5670 en jetons) 
+Place 4: psychoman59 (4360 en jetons) 
+PEPEGOLDE : met l'ante. 15
+3mecbet : met l'ante. 15
+ethandu84 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+PEPEGOLDE : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Ad]
+3mecbet : passe. 
+ethandu84 : suit. 120
+psychoman59 : suit. 60
+PEPEGOLDE : parole 
+*** FLOP *** [Th 3h Qd]
+psychoman59 : parole 
+PEPEGOLDE : parole 
+ethandu84 : mise. 120
+psychoman59 : passe. 
+PEPEGOLDE : passe. 
+Personne n'a suivi. (120) sont retournés à ethandu84.
+ethandu84 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [Th 3h Qd]
+Siège 1 : PEPEGOLDE (grosse blind) s'est couché. sur le Flop
+Siège 2 : 3mecbet s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ethandu84 (bouton) a remporté (420)
+Siège 4 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237944487449 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 16:24:47 CET [12/08/2022 10:24:47 ET]
+Table '3455206292 1' 4-max Siège #4 est au bouton.
+Place 1: PEPEGOLDE (5485 en jetons) 
+Place 2: 3mecbet (4335 en jetons) 
+Place 3: ethandu84 (5955 en jetons) 
+Place 4: psychoman59 (4225 en jetons) 
+PEPEGOLDE : met l'ante. 15
+3mecbet : met l'ante. 15
+ethandu84 : met l'ante. 15
+psychoman59 : met l'ante. 15
+PEPEGOLDE : met la petite blind. 60
+3mecbet : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 5c]
+ethandu84 : relance. 120 à 240
+psychoman59 : passe. 
+PEPEGOLDE : passe. 
+3mecbet : suit. 120
+*** FLOP *** [5d 4h 5s]
+3mecbet : parole 
+ethandu84 : mise. 120
+3mecbet : passe. 
+Personne n'a suivi. (120) sont retournés à ethandu84.
+ethandu84 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [5d 4h 5s]
+Siège 1 : PEPEGOLDE (petite blind) s'est couché. avant Flop
+Siège 2 : 3mecbet (grosse blind) s'est couché. sur le Flop
+Siège 3 : ethandu84 a remporté (600)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237944500569 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:25:40 CET [12/08/2022 10:25:40 ET]
+Table '3455206292 1' 4-max Siège #1 est au bouton.
+Place 1: PEPEGOLDE (5410 en jetons) 
+Place 2: 3mecbet (4080 en jetons) 
+Place 3: ethandu84 (6300 en jetons) 
+Place 4: psychoman59 (4210 en jetons) 
+PEPEGOLDE : met l'ante. 20
+3mecbet : met l'ante. 20
+ethandu84 : met l'ante. 20
+psychoman59 : met l'ante. 20
+3mecbet : met la petite blind. 75
+ethandu84 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 9h]
+psychoman59 : relance. 150 à 300
+PEPEGOLDE : passe. 
+3mecbet : passe. 
+ethandu84 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 455  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 455 | Commission 0 
+Siège 1 : PEPEGOLDE (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 3mecbet (petite blind) s'est couché. avant Flop
+Siège 3 : ethandu84 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 a remporté (455)
+
+
+
+Main PokerStars n°237944505358 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:25:58 CET [12/08/2022 10:25:58 ET]
+Table '3455206292 1' 4-max Siège #2 est au bouton.
+Place 1: PEPEGOLDE (5390 en jetons) 
+Place 2: 3mecbet (3985 en jetons) 
+Place 3: ethandu84 (6130 en jetons) 
+Place 4: psychoman59 (4495 en jetons) 
+PEPEGOLDE : met l'ante. 20
+3mecbet : met l'ante. 20
+ethandu84 : met l'ante. 20
+psychoman59 : met l'ante. 20
+ethandu84 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Tc]
+PEPEGOLDE : passe. 
+3mecbet : passe. 
+ethandu84 : suit. 75
+psychoman59 : relance. 4325 à 4475 et est all-in.
+ethandu84 : passe. 
+Personne n'a suivi. (4325) sont retournés à psychoman59.
+psychoman59 a remporté 380  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : PEPEGOLDE s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 3mecbet (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ethandu84 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°237944511894 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:26:25 CET [12/08/2022 10:26:25 ET]
+Table '3455206292 1' 4-max Siège #3 est au bouton.
+Place 1: PEPEGOLDE (5370 en jetons) 
+Place 2: 3mecbet (3965 en jetons) 
+Place 3: ethandu84 (5960 en jetons) 
+Place 4: psychoman59 (4705 en jetons) 
+PEPEGOLDE : met l'ante. 20
+3mecbet : met l'ante. 20
+ethandu84 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+PEPEGOLDE : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 5h]
+3mecbet : relance. 180 à 330
+ethandu84 : passe. 
+psychoman59 : passe. 
+PEPEGOLDE : passe. 
+Personne n'a suivi. (180) sont retournés à 3mecbet.
+3mecbet a remporté 455  lors du pot .
+3mecbet : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 455 | Commission 0 
+Siège 1 : PEPEGOLDE (grosse blind) s'est couché. avant Flop
+Siège 2 : 3mecbet a remporté (455)
+Siège 3 : ethandu84 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237944515410 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:26:38 CET [12/08/2022 10:26:38 ET]
+Table '3455206292 1' 4-max Siège #4 est au bouton.
+Place 1: PEPEGOLDE (5200 en jetons) 
+Place 2: 3mecbet (4250 en jetons) 
+Place 3: ethandu84 (5940 en jetons) 
+Place 4: psychoman59 (4610 en jetons) 
+PEPEGOLDE : met l'ante. 20
+3mecbet : met l'ante. 20
+ethandu84 : met l'ante. 20
+psychoman59 : met l'ante. 20
+PEPEGOLDE : met la petite blind. 75
+3mecbet : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 3h]
+ethandu84 : passe. 
+psychoman59 : passe. 
+PEPEGOLDE : suit. 75
+3mecbet : relance. 300 à 450
+PEPEGOLDE : suit. 300
+*** FLOP *** [Qd Th 8d]
+PEPEGOLDE : parole 
+3mecbet : mise. 274
+PEPEGOLDE : passe. 
+Personne n'a suivi. (274) sont retournés à 3mecbet.
+3mecbet a remporté 980  lors du pot .
+3mecbet : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 980 | Commission 0 
+Tableau [Qd Th 8d]
+Siège 1 : PEPEGOLDE (petite blind) s'est couché. sur le Flop
+Siège 2 : 3mecbet (grosse blind) a remporté (980)
+Siège 3 : ethandu84 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237944523696 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:27:11 CET [12/08/2022 10:27:11 ET]
+Table '3455206292 1' 4-max Siège #1 est au bouton.
+Place 1: PEPEGOLDE (4730 en jetons) 
+Place 2: 3mecbet (4760 en jetons) 
+Place 3: ethandu84 (5920 en jetons) 
+Place 4: psychoman59 (4590 en jetons) 
+PEPEGOLDE : met l'ante. 20
+3mecbet : met l'ante. 20
+ethandu84 : met l'ante. 20
+psychoman59 : met l'ante. 20
+3mecbet : met la petite blind. 75
+ethandu84 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 7s]
+psychoman59 : passe. 
+PEPEGOLDE : passe. 
+3mecbet a dépassé le temps imparti.
+3mecbet : passe. 
+3mecbet ne joue pas.
+Personne n'a suivi. (75) sont retournés à ethandu84.
+ethandu84 a remporté 230  lors du pot .
+3mecbet est revenu.
+*** SYNTHÈSE ***
+Pot total 230 | Commission 0 
+Siège 1 : PEPEGOLDE (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 3mecbet (petite blind) s'est couché. avant Flop
+Siège 3 : ethandu84 (grosse blind) a remporté (230)
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237944531122 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:27:41 CET [12/08/2022 10:27:41 ET]
+Table '3455206292 1' 4-max Siège #2 est au bouton.
+Place 1: PEPEGOLDE (4710 en jetons) 
+Place 2: 3mecbet (4665 en jetons) 
+Place 3: ethandu84 (6055 en jetons) 
+Place 4: psychoman59 (4570 en jetons) 
+PEPEGOLDE : met l'ante. 20
+3mecbet : met l'ante. 20
+ethandu84 : met l'ante. 20
+psychoman59 : met l'ante. 20
+ethandu84 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 7c]
+PEPEGOLDE : passe. 
+3mecbet : passe. 
+ethandu84 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [Jh 3d 8c]
+ethandu84 : mise. 150
+psychoman59 : suit. 150
+*** TOURNANT *** [Jh 3d 8c] [Th]
+ethandu84 : mise. 150
+psychoman59 : suit. 150
+*** RIVIÈRE *** [Jh 3d 8c Th] [2c]
+ethandu84 : mise. 150
+psychoman59 : suit. 150
+*** ABATTAGE ***
+ethandu84 : montre [3h 6c] (une paire de Trois)
+psychoman59 : montre [8h 7c] (une paire de Huit)
+psychoman59 a remporté 1280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1280 | Commission 0 
+Tableau [Jh 3d 8c Th 2c]
+Siège 1 : PEPEGOLDE s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 3mecbet (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ethandu84 (petite blind) a montré [3h 6c] et a perdu avec une paire de Trois
+Siège 4 : psychoman59 (grosse blind) a montré [8h 7c] et a gagné (1280) avec une paire de Huit
+
+
+
+Main PokerStars n°237944538350 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 16:28:09 CET [12/08/2022 10:28:09 ET]
+Table '3455206292 1' 4-max Siège #3 est au bouton.
+Place 1: PEPEGOLDE (4690 en jetons) 
+Place 2: 3mecbet (4645 en jetons) 
+Place 3: ethandu84 (5435 en jetons) 
+Place 4: psychoman59 (5230 en jetons) 
+PEPEGOLDE : met l'ante. 20
+3mecbet : met l'ante. 20
+ethandu84 : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+PEPEGOLDE : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Qc]
+3mecbet : passe. 
+ethandu84 : passe. 
+psychoman59 : suit. 75
+PEPEGOLDE : parole 
+*** FLOP *** [5c 2h 3c]
+psychoman59 : parole 
+PEPEGOLDE : mise. 190
+psychoman59 : suit. 190
+*** TOURNANT *** [5c 2h 3c] [Kc]
+psychoman59 : parole 
+PEPEGOLDE : parole 
+*** RIVIÈRE *** [5c 2h 3c Kc] [Js]
+psychoman59 : mise. 380
+PEPEGOLDE : passe. 
+Personne n'a suivi. (380) sont retournés à psychoman59.
+psychoman59 a remporté 760  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 760 | Commission 0 
+Tableau [5c 2h 3c Kc Js]
+Siège 1 : PEPEGOLDE (grosse blind) s'est couché. sur le Rivière
+Siège 2 : 3mecbet s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ethandu84 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) a remporté (760)
+
+
+
+Main PokerStars n°237944550238 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 16:28:57 CET [12/08/2022 10:28:57 ET]
+Table '3455206292 1' 4-max Siège #4 est au bouton.
+Place 1: PEPEGOLDE (4330 en jetons) 
+Place 2: 3mecbet (4625 en jetons) 
+Place 3: ethandu84 (5415 en jetons) 
+Place 4: psychoman59 (5630 en jetons) 
+PEPEGOLDE : met l'ante. 25
+3mecbet : met l'ante. 25
+ethandu84 : met l'ante. 25
+psychoman59 : met l'ante. 25
+PEPEGOLDE : met la petite blind. 100
+3mecbet : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 3s]
+ethandu84 : passe. 
+psychoman59 : passe. 
+PEPEGOLDE : suit. 100
+3mecbet : parole 
+*** FLOP *** [Kd Ts 8h]
+PEPEGOLDE : parole 
+3mecbet : mise. 200
+PEPEGOLDE : suit. 200
+*** TOURNANT *** [Kd Ts 8h] [5s]
+PEPEGOLDE : parole 
+3mecbet : mise. 252
+PEPEGOLDE : suit. 252
+*** RIVIÈRE *** [Kd Ts 8h 5s] [Kh]
+PEPEGOLDE : parole 
+3mecbet : mise. 393
+PEPEGOLDE : suit. 393
+*** ABATTAGE ***
+3mecbet : montre [Qh Th] (double paire, Rois et Dix)
+PEPEGOLDE : montre [Ah Tc] (double paire, Rois et Dix - As kicker)
+PEPEGOLDE a remporté 2190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2190 | Commission 0 
+Tableau [Kd Ts 8h 5s Kh]
+Siège 1 : PEPEGOLDE (petite blind) a montré [Ah Tc] et a gagné (2190) avec double paire, Rois et Dix
+Siège 2 : 3mecbet (grosse blind) a montré [Qh Th] et a perdu avec double paire, Rois et Dix
+Siège 3 : ethandu84 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237944570148 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 16:30:16 CET [12/08/2022 10:30:16 ET]
+Table '3455206292 1' 4-max Siège #1 est au bouton.
+Place 1: PEPEGOLDE (5450 en jetons) 
+Place 2: 3mecbet (3555 en jetons) 
+Place 3: ethandu84 (5390 en jetons) 
+Place 4: psychoman59 (5605 en jetons) 
+PEPEGOLDE : met l'ante. 25
+3mecbet : met l'ante. 25
+ethandu84 : met l'ante. 25
+psychoman59 : met l'ante. 25
+3mecbet : met la petite blind. 100
+ethandu84 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Kc]
+psychoman59 : relance. 600 à 800
+PEPEGOLDE : passe. 
+3mecbet : passe. 
+ethandu84 : passe. 
+Personne n'a suivi. (600) sont retournés à psychoman59.
+psychoman59 a remporté 600  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Siège 1 : PEPEGOLDE (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 3mecbet (petite blind) s'est couché. avant Flop
+Siège 3 : ethandu84 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 a remporté (600)
+
+
+
+Main PokerStars n°237944573891 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 16:30:31 CET [12/08/2022 10:30:31 ET]
+Table '3455206292 1' 4-max Siège #2 est au bouton.
+Place 1: PEPEGOLDE (5425 en jetons) 
+Place 2: 3mecbet (3430 en jetons) 
+Place 3: ethandu84 (5165 en jetons) 
+Place 4: psychoman59 (5980 en jetons) 
+PEPEGOLDE : met l'ante. 25
+3mecbet : met l'ante. 25
+ethandu84 : met l'ante. 25
+psychoman59 : met l'ante. 25
+ethandu84 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8c]
+PEPEGOLDE : suit. 200
+3mecbet : relance. 3205 à 3405 et est all-in.
+ethandu84 : passe. 
+psychoman59 : passe. 
+PEPEGOLDE : suit. 3205
+*** FLOP *** [6h 6s 5s]
+*** TOURNANT *** [6h 6s 5s] [Tc]
+*** RIVIÈRE *** [6h 6s 5s Tc] [6c]
+*** ABATTAGE ***
+PEPEGOLDE : montre [8s 8h] (un full, full aux Six par les Huit)
+3mecbet : montre [4d Ah] (un brelan de Six)
+PEPEGOLDE a remporté 7210  lors du pot .
+3mecbet a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 7210 | Commission 0 
+Tableau [6h 6s 5s Tc 6c]
+Siège 1 : PEPEGOLDE a montré [8s 8h] et a gagné (7210) avec un full, full aux Six par les Huit
+Siège 2 : 3mecbet (bouton) a montré [4d Ah] et a perdu avec un brelan de Six
+Siège 3 : ethandu84 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237944581634 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 16:31:02 CET [12/08/2022 10:31:02 ET]
+Table '3455206292 1' 4-max Siège #3 est au bouton.
+Place 1: PEPEGOLDE (9205 en jetons) 
+Place 3: ethandu84 (5040 en jetons) 
+Place 4: psychoman59 (5755 en jetons) 
+PEPEGOLDE : met l'ante. 25
+ethandu84 : met l'ante. 25
+psychoman59 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+PEPEGOLDE : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Kh]
+ethandu84 : relance. 200 à 400
+psychoman59 : suit. 300
+PEPEGOLDE : passe. 
+*** FLOP *** [4d Tc Js]
+psychoman59 : parole 
+ethandu84 : parole 
+*** TOURNANT *** [4d Tc Js] [Jd]
+psychoman59 : parole 
+ethandu84 : parole 
+*** RIVIÈRE *** [4d Tc Js Jd] [3c]
+psychoman59 : parole 
+ethandu84 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qd Kh] (une paire de Valets)
+ethandu84 : montre [Ac 4c] (double paire, Valets et Quatre)
+ethandu84 a remporté 1075  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1075 | Commission 0 
+Tableau [4d Tc Js Jd 3c]
+Siège 1 : PEPEGOLDE (grosse blind) s'est couché. avant Flop
+Siège 3 : ethandu84 (bouton) a montré [Ac 4c] et a gagné (1075) avec double paire, Valets et Quatre
+Siège 4 : psychoman59 (petite blind) a montré [Qd Kh] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°237944588581 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 16:31:29 CET [12/08/2022 10:31:29 ET]
+Table '3455206292 1' 4-max Siège #4 est au bouton.
+Place 1: PEPEGOLDE (8980 en jetons) 
+Place 3: ethandu84 (5690 en jetons) 
+Place 4: psychoman59 (5330 en jetons) 
+PEPEGOLDE : met l'ante. 30
+ethandu84 : met l'ante. 30
+psychoman59 : met l'ante. 30
+PEPEGOLDE : met la petite blind. 125
+ethandu84 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Ac]
+psychoman59 : relance. 5050 à 5300 et est all-in.
+PEPEGOLDE : suit. 5175
+ethandu84 : passe. 
+*** FLOP *** [As Ah 8h]
+*** TOURNANT *** [As Ah 8h] [4c]
+*** RIVIÈRE *** [As Ah 8h 4c] [7c]
+*** ABATTAGE ***
+PEPEGOLDE : montre [Qs Qc] (double paire, As et Dames)
+psychoman59 : montre [Kd Ac] (un brelan de As)
+psychoman59 a remporté 10940  lors du pot .
+*** SYNTHÈSE ***
+Pot total 10940 | Commission 0 
+Tableau [As Ah 8h 4c 7c]
+Siège 1 : PEPEGOLDE (petite blind) a montré [Qs Qc] et a perdu avec double paire, As et Dames
+Siège 3 : ethandu84 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) a montré [Kd Ac] et a gagné (10940) avec un brelan de As
+
+
+
+Main PokerStars n°237944593692 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 16:31:49 CET [12/08/2022 10:31:49 ET]
+Table '3455206292 1' 4-max Siège #1 est au bouton.
+Place 1: PEPEGOLDE (3650 en jetons) 
+Place 3: ethandu84 (5410 en jetons) 
+Place 4: psychoman59 (10940 en jetons) 
+PEPEGOLDE : met l'ante. 30
+ethandu84 : met l'ante. 30
+psychoman59 : met l'ante. 30
+ethandu84 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 5h]
+PEPEGOLDE : relance. 715 à 965
+ethandu84 : suit. 840
+psychoman59 : passe. 
+*** FLOP *** [Qd 4s As]
+ethandu84 : parole 
+PEPEGOLDE : mise. 1135
+ethandu84 : suit. 1135
+*** TOURNANT *** [Qd 4s As] [3d]
+ethandu84 : parole 
+PEPEGOLDE : mise. 1520 et est all-in.
+ethandu84 : passe. 
+Personne n'a suivi. (1520) sont retournés à PEPEGOLDE.
+PEPEGOLDE a remporté 4540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4540 | Commission 0 
+Tableau [Qd 4s As 3d]
+Siège 1 : PEPEGOLDE (bouton) a remporté (4540)
+Siège 3 : ethandu84 (petite blind) s'est couché. sur le Tournant
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237944602073 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 16:32:22 CET [12/08/2022 10:32:22 ET]
+Table '3455206292 1' 4-max Siège #3 est au bouton.
+Place 1: PEPEGOLDE (6060 en jetons) 
+Place 3: ethandu84 (3280 en jetons) 
+Place 4: psychoman59 (10660 en jetons) 
+PEPEGOLDE : met l'ante. 30
+ethandu84 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+PEPEGOLDE : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 5d]
+ethandu84 : suit. 250
+psychoman59 : passe. 
+PEPEGOLDE : parole 
+*** FLOP *** [Qh Ac 5s]
+PEPEGOLDE : parole 
+ethandu84 : parole 
+*** TOURNANT *** [Qh Ac 5s] [9s]
+PEPEGOLDE : mise. 357
+ethandu84 : passe. 
+Personne n'a suivi. (357) sont retournés à PEPEGOLDE.
+PEPEGOLDE a remporté 715  lors du pot .
+*** SYNTHÈSE ***
+Pot total 715 | Commission 0 
+Tableau [Qh Ac 5s 9s]
+Siège 1 : PEPEGOLDE (grosse blind) a remporté (715)
+Siège 3 : ethandu84 (bouton) s'est couché. sur le Tournant
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237944607936 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 16:32:45 CET [12/08/2022 10:32:45 ET]
+Table '3455206292 1' 4-max Siège #4 est au bouton.
+Place 1: PEPEGOLDE (6495 en jetons) 
+Place 3: ethandu84 (3000 en jetons) 
+Place 4: psychoman59 (10505 en jetons) 
+PEPEGOLDE : met l'ante. 30
+ethandu84 : met l'ante. 30
+psychoman59 : met l'ante. 30
+PEPEGOLDE : met la petite blind. 125
+ethandu84 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 7d]
+psychoman59 : suit. 250
+PEPEGOLDE : suit. 125
+ethandu84 : relance. 250 à 500
+psychoman59 : suit. 250
+PEPEGOLDE : suit. 250
+*** FLOP *** [3d Jh 9c]
+PEPEGOLDE : parole 
+ethandu84 : mise. 250
+psychoman59 : suit. 250
+PEPEGOLDE : suit. 250
+*** TOURNANT *** [3d Jh 9c] [4h]
+PEPEGOLDE : parole 
+ethandu84 : mise. 500
+psychoman59 : passe. 
+PEPEGOLDE : suit. 500
+*** RIVIÈRE *** [3d Jh 9c 4h] [5d]
+PEPEGOLDE : parole 
+ethandu84 : mise. 1000
+PEPEGOLDE : suit. 1000
+*** ABATTAGE ***
+ethandu84 : montre [Qh Js] (une paire de Valets)
+PEPEGOLDE : cache la main perdante. 
+ethandu84 a remporté 5340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5340 | Commission 0 
+Tableau [3d Jh 9c 4h 5d]
+Siège 1 : PEPEGOLDE (petite blind) a caché la main perdante. [Kd 9s]
+Siège 3 : ethandu84 (grosse blind) a montré [Qh Js] et a gagné (5340) avec une paire de Valets
+Siège 4 : psychoman59 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237944620852 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 16:33:37 CET [12/08/2022 10:33:37 ET]
+Table '3455206292 1' 4-max Siège #1 est au bouton.
+Place 1: PEPEGOLDE (4215 en jetons) 
+Place 3: ethandu84 (6060 en jetons) 
+Place 4: psychoman59 (9725 en jetons) 
+PEPEGOLDE : met l'ante. 30
+ethandu84 : met l'ante. 30
+psychoman59 : met l'ante. 30
+ethandu84 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 6h]
+PEPEGOLDE : passe. 
+ethandu84 : relance. 250 à 500
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à ethandu84.
+ethandu84 a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Siège 1 : PEPEGOLDE (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ethandu84 (petite blind) a remporté (590)
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237944624454 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 16:33:52 CET [12/08/2022 10:33:52 ET]
+Table '3455206292 1' 4-max Siège #3 est au bouton.
+Place 1: PEPEGOLDE (4185 en jetons) 
+Place 3: ethandu84 (6370 en jetons) 
+Place 4: psychoman59 (9445 en jetons) 
+PEPEGOLDE : met l'ante. 30
+ethandu84 : met l'ante. 30
+psychoman59 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+PEPEGOLDE : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 9c]
+ethandu84 : passe. 
+psychoman59 : relance. 590 à 840
+PEPEGOLDE : relance. 3315 à 4155 et est all-in.
+psychoman59 : suit. 3315
+*** FLOP *** [6s Ks 2h]
+*** TOURNANT *** [6s Ks 2h] [8h]
+*** RIVIÈRE *** [6s Ks 2h 8h] [7d]
+*** ABATTAGE ***
+psychoman59 : montre [Ac 9c] (Hauteur As)
+PEPEGOLDE : montre [Ad 6d] (une paire de Six)
+PEPEGOLDE a remporté 8400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 8400 | Commission 0 
+Tableau [6s Ks 2h 8h 7d]
+Siège 1 : PEPEGOLDE (grosse blind) a montré [Ad 6d] et a gagné (8400) avec une paire de Six
+Siège 3 : ethandu84 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) a montré [Ac 9c] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237944630865 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 12/08/2022 16:34:16 CET [12/08/2022 10:34:16 ET]
+Table '3455206292 1' 4-max Siège #4 est au bouton.
+Place 1: PEPEGOLDE (8400 en jetons) 
+Place 3: ethandu84 (6340 en jetons) 
+Place 4: psychoman59 (5260 en jetons) 
+PEPEGOLDE : met l'ante. 40
+ethandu84 : met l'ante. 40
+psychoman59 : met l'ante. 40
+PEPEGOLDE : met la petite blind. 150
+ethandu84 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Qh]
+psychoman59 : passe. 
+PEPEGOLDE : suit. 150
+ethandu84 : relance. 300 à 600
+PEPEGOLDE : suit. 300
+*** FLOP *** [Kd 6s Qd]
+PEPEGOLDE : parole 
+ethandu84 : mise. 300
+PEPEGOLDE : relance. 980 à 1280
+ethandu84 : suit. 980
+*** TOURNANT *** [Kd 6s Qd] [9d]
+PEPEGOLDE : mise. 2587
+ethandu84 : suit. 2587
+*** RIVIÈRE *** [Kd 6s Qd 9d] [5h]
+PEPEGOLDE : mise. 3893 et est all-in.
+ethandu84 : suit. 1833 et est all-in.
+Personne n'a suivi. (2060) sont retournés à PEPEGOLDE.
+*** ABATTAGE ***
+PEPEGOLDE : montre [Kc Ts] (une paire de Rois)
+ethandu84 : montre [9h Jh] (une paire de Neuf)
+PEPEGOLDE a remporté 12720  lors du pot .
+ethandu84 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 12720 | Commission 0 
+Tableau [Kd 6s Qd 9d 5h]
+Siège 1 : PEPEGOLDE (petite blind) a montré [Kc Ts] et a gagné (12720) avec une paire de Rois
+Siège 3 : ethandu84 (grosse blind) a montré [9h Jh] et a perdu avec une paire de Neuf
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237944642004 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 12/08/2022 16:35:01 CET [12/08/2022 10:35:01 ET]
+Table '3455206292 1' 4-max Siège #1 est au bouton.
+Place 1: PEPEGOLDE (14780 en jetons) 
+Place 4: psychoman59 (5220 en jetons) 
+PEPEGOLDE : met l'ante. 40
+psychoman59 : met l'ante. 40
+PEPEGOLDE : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Qd]
+PEPEGOLDE : relance. 300 à 600
+psychoman59 : relance. 4580 à 5180 et est all-in.
+PEPEGOLDE : passe. 
+Personne n'a suivi. (4580) sont retournés à psychoman59.
+psychoman59 a remporté 1280  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1280 | Commission 0 
+Siège 1 : PEPEGOLDE (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (1280)
+
+
+
+Main PokerStars n°237944650337 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 12/08/2022 16:35:13 CET [12/08/2022 10:35:13 ET]
+Table '3455206292 1' 4-max Siège #4 est au bouton.
+Place 1: PEPEGOLDE (14140 en jetons) 
+Place 4: psychoman59 (5860 en jetons) 
+PEPEGOLDE : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+PEPEGOLDE : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Qh]
+psychoman59 : suit. 150
+PEPEGOLDE : parole 
+*** FLOP *** [4c 9d Js]
+PEPEGOLDE : parole 
+psychoman59 : mise. 340
+PEPEGOLDE : passe. 
+Personne n'a suivi. (340) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [4c 9d Js]
+Siège 1 : PEPEGOLDE (grosse blind) s'est couché. sur le Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (680)
+
+
+
+Main PokerStars n°237944655412 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 12/08/2022 16:35:32 CET [12/08/2022 10:35:32 ET]
+Table '3455206292 1' 4-max Siège #1 est au bouton.
+Place 1: PEPEGOLDE (13800 en jetons) 
+Place 4: psychoman59 (6200 en jetons) 
+PEPEGOLDE : met l'ante. 40
+psychoman59 : met l'ante. 40
+PEPEGOLDE : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 5s]
+PEPEGOLDE : suit. 150
+psychoman59 : parole 
+*** FLOP *** [As Kc 7h]
+psychoman59 : parole 
+PEPEGOLDE : mise. 340
+psychoman59 : passe. 
+Personne n'a suivi. (340) sont retournés à PEPEGOLDE.
+PEPEGOLDE a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [As Kc 7h]
+Siège 1 : PEPEGOLDE (bouton) (petite blind) a remporté (680)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237944661689 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 12/08/2022 16:35:57 CET [12/08/2022 10:35:57 ET]
+Table '3455206292 1' 4-max Siège #4 est au bouton.
+Place 1: PEPEGOLDE (14140 en jetons) 
+Place 4: psychoman59 (5860 en jetons) 
+PEPEGOLDE : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+PEPEGOLDE : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Th]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à PEPEGOLDE.
+PEPEGOLDE a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : PEPEGOLDE (grosse blind) a remporté (380)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237944664209 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 12/08/2022 16:36:07 CET [12/08/2022 10:36:07 ET]
+Table '3455206292 1' 4-max Siège #1 est au bouton.
+Place 1: PEPEGOLDE (14330 en jetons) 
+Place 4: psychoman59 (5670 en jetons) 
+PEPEGOLDE : met l'ante. 40
+psychoman59 : met l'ante. 40
+PEPEGOLDE : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Th]
+PEPEGOLDE : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 380  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : PEPEGOLDE (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°237944665605 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 12/08/2022 16:36:12 CET [12/08/2022 10:36:12 ET]
+Table '3455206292 1' 4-max Siège #4 est au bouton.
+Place 1: PEPEGOLDE (14140 en jetons) 
+Place 4: psychoman59 (5860 en jetons) 
+PEPEGOLDE : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+PEPEGOLDE : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à PEPEGOLDE.
+PEPEGOLDE a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : PEPEGOLDE (grosse blind) a remporté (380)
+Siège 4 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237944667817 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 12/08/2022 16:36:21 CET [12/08/2022 10:36:21 ET]
+Table '3455206292 1' 4-max Siège #1 est au bouton.
+Place 1: PEPEGOLDE (14330 en jetons) 
+Place 4: psychoman59 (5670 en jetons) 
+PEPEGOLDE : met l'ante. 40
+psychoman59 : met l'ante. 40
+PEPEGOLDE : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 4s]
+PEPEGOLDE : suit. 150
+psychoman59 : parole 
+*** FLOP *** [6h 3s Kd]
+psychoman59 : parole 
+PEPEGOLDE : parole 
+*** TOURNANT *** [6h 3s Kd] [5c]
+psychoman59 : parole 
+PEPEGOLDE : parole 
+*** RIVIÈRE *** [6h 3s Kd 5c] [Jh]
+psychoman59 : parole 
+PEPEGOLDE : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3d 4s] (une paire de Trois)
+PEPEGOLDE : cache la main perdante. 
+psychoman59 a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [6h 3s Kd 5c Jh]
+Siège 1 : PEPEGOLDE (bouton) (petite blind) a caché la main perdante. [Th 9d]
+Siège 4 : psychoman59 (grosse blind) a montré [3d 4s] et a gagné (680) avec une paire de Trois
+
+
+
+Main PokerStars n°237944685419 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 12/08/2022 16:36:52 CET [12/08/2022 10:36:52 ET]
+Table '3455206292 1' 4-max Siège #4 est au bouton.
+Place 1: PEPEGOLDE (13990 en jetons) 
+Place 4: psychoman59 (6010 en jetons) 
+PEPEGOLDE : met l'ante. 40
+psychoman59 : met l'ante. 40
+psychoman59 : met la petite blind. 150
+PEPEGOLDE : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 3s]
+psychoman59 : relance. 5670 à 5970 et est all-in.
+PEPEGOLDE : passe. 
+Personne n'a suivi. (5670) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 1 : PEPEGOLDE (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (680)
+
+
+
+Main PokerStars n°237944688290 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 12/08/2022 16:37:03 CET [12/08/2022 10:37:03 ET]
+Table '3455206292 1' 4-max Siège #1 est au bouton.
+Place 1: PEPEGOLDE (13650 en jetons) 
+Place 4: psychoman59 (6350 en jetons) 
+PEPEGOLDE : met l'ante. 40
+psychoman59 : met l'ante. 40
+PEPEGOLDE : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 9d]
+PEPEGOLDE : suit. 150
+psychoman59 : parole 
+*** FLOP *** [7c 4d 7h]
+psychoman59 : parole 
+PEPEGOLDE : parole 
+*** TOURNANT *** [7c 4d 7h] [7s]
+psychoman59 : parole 
+PEPEGOLDE : parole 
+*** RIVIÈRE *** [7c 4d 7h 7s] [Kc]
+psychoman59 : mise. 340
+PEPEGOLDE : passe. 
+Personne n'a suivi. (340) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [7c 4d 7h 7s Kc]
+Siège 1 : PEPEGOLDE (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 4 : psychoman59 (grosse blind) a remporté (680)
+
+
+
+Main PokerStars n°237944695672 : Tournoi #3455206292, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 12/08/2022 16:37:31 CET [12/08/2022 10:37:31 ET]
+Table '3455206292 1' 4-max Siège #4 est au bouton.
+Place 1: PEPEGOLDE (13310 en jetons) 
+Place 4: psychoman59 (6690 en jetons) 
+PEPEGOLDE : met l'ante. 50
+psychoman59 : met l'ante. 50
+psychoman59 : met la petite blind. 200
+PEPEGOLDE : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 6h]
+psychoman59 : relance. 400 à 800
+PEPEGOLDE : relance. 12460 à 13260 et est all-in.
+psychoman59 : suit. 5840 et est all-in.
+Personne n'a suivi. (6620) sont retournés à PEPEGOLDE.
+*** FLOP *** [3d 9h Ah]
+*** TOURNANT *** [3d 9h Ah] [Kh]
+*** RIVIÈRE *** [3d 9h Ah Kh] [4s]
+*** ABATTAGE ***
+PEPEGOLDE : montre [Qh As] (une paire de As)
+psychoman59 : montre [Ac 6h] (une paire de As - plus basse kicker)
+PEPEGOLDE a remporté 13380  lors du pot .
+psychoman59 a fini le tournoi à la 2e place et a reçu 0.34 €.
+PEPEGOLDE gagne le tournoi - félicitations !
+PEPEGOLDE gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 13380 | Commission 0 
+Tableau [3d 9h Ah Kh 4s]
+Siège 1 : PEPEGOLDE (grosse blind) a montré [Qh As] et a gagné (13380) avec une paire de As
+Siège 4 : psychoman59 (bouton) (petite blind) a montré [Ac 6h] et a perdu avec une paire de As
+
+
+

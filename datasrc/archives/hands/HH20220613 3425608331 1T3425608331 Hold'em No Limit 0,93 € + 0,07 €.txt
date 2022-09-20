@@ -1,0 +1,156 @@
+﻿Main PokerStars n°236732649709 : Tournoi #3425608331, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/06/2022 10:18:58 CET [13/06/2022 4:18:58 ET]
+Table '3425608331 1' 3-max Siège #1 est au bouton.
+Place 1: Tureve-AllverT (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: FreddyFrench (300 en jetons) 
+psychoman59 : met la petite blind. 10
+FreddyFrench : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Js]
+Tureve-AllverT : relance. 280 à 300 et est all-in.
+psychoman59 : passe. 
+FreddyFrench : passe. 
+Personne n'a suivi. (280) sont retournés à Tureve-AllverT.
+Tureve-AllverT a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : Tureve-AllverT (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : FreddyFrench (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236732651209 : Tournoi #3425608331, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/06/2022 10:19:11 CET [13/06/2022 4:19:11 ET]
+Table '3425608331 1' 3-max Siège #2 est au bouton.
+Place 1: Tureve-AllverT (330 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: FreddyFrench (280 en jetons) 
+FreddyFrench : met la petite blind. 10
+Tureve-AllverT : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 2c]
+psychoman59 : passe. 
+FreddyFrench : suit. 10
+Tureve-AllverT : parole 
+*** FLOP *** [Td Ah Js]
+FreddyFrench : parole 
+Tureve-AllverT : mise. 20
+FreddyFrench : suit. 20
+*** TOURNANT *** [Td Ah Js] [Jh]
+FreddyFrench : parole 
+Tureve-AllverT : mise. 80
+FreddyFrench : passe. 
+Personne n'a suivi. (80) sont retournés à Tureve-AllverT.
+Tureve-AllverT a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Td Ah Js Jh]
+Siège 1 : Tureve-AllverT (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : FreddyFrench (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°236732654108 : Tournoi #3425608331, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/06/2022 10:19:38 CET [13/06/2022 4:19:38 ET]
+Table '3425608331 1' 3-max Siège #3 est au bouton.
+Place 1: Tureve-AllverT (370 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: FreddyFrench (240 en jetons) 
+Tureve-AllverT : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 3d]
+FreddyFrench : relance. 220 à 240 et est all-in.
+Tureve-AllverT : relance. 130 à 370 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (130) sont retournés à Tureve-AllverT.
+*** FLOP *** [7d 8d Kc]
+*** TOURNANT *** [7d 8d Kc] [Qd]
+*** RIVIÈRE *** [7d 8d Kc Qd] [4c]
+*** ABATTAGE ***
+Tureve-AllverT : montre [Qh Kd] (double paire, Rois et Dames)
+FreddyFrench : montre [Ks Qs] (double paire, Rois et Dames)
+Tureve-AllverT a remporté 250  lors du pot .
+FreddyFrench a remporté 250  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [7d 8d Kc Qd 4c]
+Siège 1 : Tureve-AllverT (petite blind) a montré [Qh Kd] et a gagné (250) avec double paire, Rois et Dames
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : FreddyFrench (bouton) a montré [Ks Qs] et a gagné (250) avec double paire, Rois et Dames
+
+
+
+Main PokerStars n°236732656886 : Tournoi #3425608331, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/06/2022 10:20:02 CET [13/06/2022 4:20:02 ET]
+Table '3425608331 1' 3-max Siège #1 est au bouton.
+Place 1: Tureve-AllverT (380 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: FreddyFrench (250 en jetons) 
+psychoman59 : met la petite blind. 15
+FreddyFrench : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 8h]
+Tureve-AllverT : relance. 30 à 60
+psychoman59 : passe. 
+FreddyFrench : relance. 190 à 250 et est all-in.
+Tureve-AllverT : suit. 190
+*** FLOP *** [Qs 8c 6s]
+*** TOURNANT *** [Qs 8c 6s] [Jh]
+*** RIVIÈRE *** [Qs 8c 6s Jh] [Js]
+*** ABATTAGE ***
+FreddyFrench : montre [9h 9s] (double paire, Valets et Neuf)
+Tureve-AllverT : montre [2d Qh] (double paire, Dames et Valets)
+Tureve-AllverT a remporté 515  lors du pot .
+*** SYNTHÈSE ***
+Pot total 515 | Commission 0 
+Tableau [Qs 8c 6s Jh Js]
+Siège 1 : Tureve-AllverT (bouton) a montré [2d Qh] et a gagné (515) avec double paire, Dames et Valets
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : FreddyFrench (grosse blind) a montré [9h 9s] et a perdu avec double paire, Valets et Neuf
+
+
+
+Main PokerStars n°236732659317 : Tournoi #3425608331, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/06/2022 10:20:24 CET [13/06/2022 4:20:24 ET]
+Table '3425608331 1' 3-max Siège #2 est au bouton.
+Place 1: Tureve-AllverT (645 en jetons) 
+Place 2: psychoman59 (255 en jetons) 
+psychoman59 : met la petite blind. 15
+Tureve-AllverT : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Tureve-AllverT.
+Tureve-AllverT a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Tureve-AllverT (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236732659731 : Tournoi #3425608331, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/06/2022 10:20:28 CET [13/06/2022 4:20:28 ET]
+Table '3425608331 1' 3-max Siège #1 est au bouton.
+Place 1: Tureve-AllverT (660 en jetons) 
+Place 2: psychoman59 (240 en jetons) 
+Tureve-AllverT : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Kh]
+Tureve-AllverT : relance. 30 à 60
+psychoman59 : relance. 180 à 240 et est all-in.
+Tureve-AllverT : suit. 180
+*** FLOP *** [4s Kd 6c]
+*** TOURNANT *** [4s Kd 6c] [Ac]
+*** RIVIÈRE *** [4s Kd 6c Ac] [5s]
+*** ABATTAGE ***
+psychoman59 : montre [Tc Kh] (une paire de Rois)
+Tureve-AllverT : montre [As Jh] (une paire de As)
+Tureve-AllverT a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [4s Kd 6c Ac 5s]
+Siège 1 : Tureve-AllverT (bouton) (petite blind) a montré [As Jh] et a gagné (480) avec une paire de As
+Siège 2 : psychoman59 (grosse blind) a montré [Tc Kh] et a perdu avec une paire de Rois
+
+
+

@@ -1,0 +1,90 @@
+﻿Main PokerStars n°237290368758 : Tournoi #3439841569, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 10:29:39 CET [11/07/2022 4:29:39 ET]
+Table '3439841569 1' 3-max Siège #1 est au bouton.
+Place 1: Mojitoos7 (300 en jetons) 
+Place 2: messizebest (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+messizebest : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Jh]
+Mojitoos7 : passe. 
+messizebest : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ad 4c 4d]
+messizebest : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ad 4c 4d] [3s]
+messizebest : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Ad 4c 4d 3s] [Js]
+messizebest : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+messizebest : montre [7d 6c] (une paire de Quatre)
+psychoman59 : montre [Qd Jh] (double paire, Valets et Quatre)
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Ad 4c 4d 3s Js]
+Siège 1 : Mojitoos7 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : messizebest (petite blind) a montré [7d 6c] et a perdu avec une paire de Quatre
+Siège 3 : psychoman59 (grosse blind) a montré [Qd Jh] et a gagné (40) avec double paire, Valets et Quatre
+
+
+
+Main PokerStars n°237290371466 : Tournoi #3439841569, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 10:30:02 CET [11/07/2022 4:30:02 ET]
+Table '3439841569 1' 3-max Siège #2 est au bouton.
+Place 1: Mojitoos7 (300 en jetons) 
+Place 2: messizebest (280 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 10
+Mojitoos7 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 3h]
+messizebest : relance. 50 à 70
+psychoman59 : passe. 
+Mojitoos7 : relance. 50 à 120
+messizebest : relance. 160 à 280 et est all-in.
+Mojitoos7 : suit. 160
+*** FLOP *** [Tc 6c 7c]
+*** TOURNANT *** [Tc 6c 7c] [5d]
+*** RIVIÈRE *** [Tc 6c 7c 5d] [2c]
+*** ABATTAGE ***
+Mojitoos7 : montre [Ah Td] (une paire de Dix)
+messizebest : montre [As 7d] (une paire de Sept)
+Mojitoos7 a remporté 570  lors du pot .
+*** SYNTHÈSE ***
+Pot total 570 | Commission 0 
+Tableau [Tc 6c 7c 5d 2c]
+Siège 1 : Mojitoos7 (grosse blind) a montré [Ah Td] et a gagné (570) avec une paire de Dix
+Siège 2 : messizebest (bouton) a montré [As 7d] et a perdu avec une paire de Sept
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237290374304 : Tournoi #3439841569, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 10:30:25 CET [11/07/2022 4:30:25 ET]
+Table '3439841569 1' 3-max Siège #1 est au bouton.
+Place 1: Mojitoos7 (590 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+Mojitoos7 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Ac]
+Mojitoos7 : relance. 20 à 40
+psychoman59 : relance. 270 à 310 et est all-in.
+Mojitoos7 : suit. 270
+*** FLOP *** [3s Tc 3h]
+*** TOURNANT *** [3s Tc 3h] [5s]
+*** RIVIÈRE *** [3s Tc 3h 5s] [5d]
+*** ABATTAGE ***
+psychoman59 : montre [Qc Ac] (double paire, Cinq et Trois)
+Mojitoos7 : montre [Ad 3c] (un full, full aux Trois par les Cinq)
+Mojitoos7 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [3s Tc 3h 5s 5d]
+Siège 1 : Mojitoos7 (bouton) (petite blind) a montré [Ad 3c] et a gagné (620) avec un full, full aux Trois par les Cinq
+Siège 3 : psychoman59 (grosse blind) a montré [Qc Ac] et a perdu avec double paire, Cinq et Trois
+
+
+

@@ -1,0 +1,283 @@
+﻿Main PokerStars n°237292838666 : Tournoi #3439906942, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 14:45:09 CET [11/07/2022 8:45:09 ET]
+Table '3439906942 1' 3-max Siège #1 est au bouton.
+Place 1: Cyrille51971 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: justine611 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+justine611 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 4h]
+Cyrille51971 : suit. 20
+psychoman59 : suit. 10
+justine611 : parole 
+*** FLOP *** [6d Jd 7c]
+psychoman59 : parole 
+justine611 : parole 
+Cyrille51971 : parole 
+*** TOURNANT *** [6d Jd 7c] [5s]
+psychoman59 : parole 
+justine611 : mise. 20
+Cyrille51971 : suit. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [6d Jd 7c 5s] [4c]
+psychoman59 : parole 
+justine611 : mise. 60
+Cyrille51971 : passe. 
+psychoman59 : suit. 60
+*** ABATTAGE ***
+justine611 : montre [8s 9d] (une suite, Cinq à Neuf)
+psychoman59 : cache la main perdante. 
+justine611 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6d Jd 7c 5s 4c]
+Siège 1 : Cyrille51971 (bouton) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (petite blind) a caché la main perdante. [6h 4h]
+Siège 3 : justine611 (grosse blind) a montré [8s 9d] et a gagné (240) avec une suite, Cinq à Neuf
+
+
+
+Main PokerStars n°237292846464 : Tournoi #3439906942, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/07/2022 14:45:47 CET [11/07/2022 8:45:47 ET]
+Table '3439906942 1' 3-max Siège #2 est au bouton.
+Place 1: Cyrille51971 (260 en jetons) 
+Place 2: psychoman59 (200 en jetons) 
+Place 3: justine611 (440 en jetons) 
+justine611 : met la petite blind. 10
+Cyrille51971 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 3d]
+psychoman59 : passe. 
+justine611 : suit. 10
+Cyrille51971 : parole 
+*** FLOP *** [6h 7s 5h]
+justine611 : parole 
+Cyrille51971 : mise. 20
+justine611 : suit. 20
+*** TOURNANT *** [6h 7s 5h] [Jh]
+justine611 : parole 
+Cyrille51971 : parole 
+*** RIVIÈRE *** [6h 7s 5h Jh] [Jd]
+justine611 : parole 
+Cyrille51971 : mise. 20
+justine611 : passe. 
+Personne n'a suivi. (20) sont retournés à Cyrille51971.
+Cyrille51971 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6h 7s 5h Jh Jd]
+Siège 1 : Cyrille51971 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : justine611 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237292853988 : Tournoi #3439906942, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 14:46:24 CET [11/07/2022 8:46:24 ET]
+Table '3439906942 1' 3-max Siège #3 est au bouton.
+Place 1: Cyrille51971 (300 en jetons) 
+Place 2: psychoman59 (200 en jetons) 
+Place 3: justine611 (400 en jetons) 
+Cyrille51971 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Qd]
+justine611 : passe. 
+Cyrille51971 : suit. 15
+psychoman59 : relance. 170 à 200 et est all-in.
+Cyrille51971 : suit. 170
+*** FLOP *** [Kc Kd 2d]
+*** TOURNANT *** [Kc Kd 2d] [9c]
+*** RIVIÈRE *** [Kc Kd 2d 9c] [8h]
+*** ABATTAGE ***
+Cyrille51971 : montre [5d Js] (une paire de Rois)
+psychoman59 : montre [Ks Qd] (un brelan de Rois)
+psychoman59 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [Kc Kd 2d 9c 8h]
+Siège 1 : Cyrille51971 (petite blind) a montré [5d Js] et a perdu avec une paire de Rois
+Siège 2 : psychoman59 (grosse blind) a montré [Ks Qd] et a gagné (400) avec un brelan de Rois
+Siège 3 : justine611 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237292858160 : Tournoi #3439906942, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/07/2022 14:46:44 CET [11/07/2022 8:46:44 ET]
+Table '3439906942 1' 3-max Siège #1 est au bouton.
+Place 1: Cyrille51971 (100 en jetons) 
+Place 2: psychoman59 (400 en jetons) 
+Place 3: justine611 (400 en jetons) 
+psychoman59 : met la petite blind. 15
+justine611 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 6s]
+Cyrille51971 : suit. 30
+psychoman59 : passe. 
+justine611 : parole 
+*** FLOP *** [7s 3s 4c]
+justine611 : parole 
+Cyrille51971 : parole 
+*** TOURNANT *** [7s 3s 4c] [9s]
+justine611 : mise. 30
+Cyrille51971 : suit. 30
+*** RIVIÈRE *** [7s 3s 4c 9s] [6d]
+justine611 : parole 
+Cyrille51971 : mise. 40 et est all-in.
+justine611 : suit. 40
+*** ABATTAGE ***
+Cyrille51971 : montre [Tc 8s] (une suite, Six à Dix)
+justine611 : montre [3c 8d] (une paire de Trois)
+Cyrille51971 a remporté 215  lors du pot .
+*** SYNTHÈSE ***
+Pot total 215 | Commission 0 
+Tableau [7s 3s 4c 9s 6d]
+Siège 1 : Cyrille51971 (bouton) a montré [Tc 8s] et a gagné (215) avec une suite, Six à Dix
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : justine611 (grosse blind) a montré [3c 8d] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°237292865338 : Tournoi #3439906942, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 14:47:18 CET [11/07/2022 8:47:18 ET]
+Table '3439906942 1' 3-max Siège #2 est au bouton.
+Place 1: Cyrille51971 (215 en jetons) 
+Place 2: psychoman59 (385 en jetons) 
+Place 3: justine611 (300 en jetons) 
+justine611 : met la petite blind. 20
+Cyrille51971 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 6h]
+psychoman59 : passe. 
+justine611 : suit. 20
+Cyrille51971 : parole 
+*** FLOP *** [8d Th Kh]
+justine611 : parole 
+Cyrille51971 : parole 
+*** TOURNANT *** [8d Th Kh] [Ad]
+justine611 : parole 
+Cyrille51971 : mise. 40
+justine611 : passe. 
+Personne n'a suivi. (40) sont retournés à Cyrille51971.
+Cyrille51971 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8d Th Kh Ad]
+Siège 1 : Cyrille51971 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : justine611 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237292869280 : Tournoi #3439906942, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 14:47:37 CET [11/07/2022 8:47:37 ET]
+Table '3439906942 1' 3-max Siège #3 est au bouton.
+Place 1: Cyrille51971 (255 en jetons) 
+Place 2: psychoman59 (385 en jetons) 
+Place 3: justine611 (260 en jetons) 
+Cyrille51971 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Kd]
+justine611 : passe. 
+Cyrille51971 : suit. 20
+psychoman59 : relance. 345 à 385 et est all-in.
+Cyrille51971 : suit. 215 et est all-in.
+Personne n'a suivi. (130) sont retournés à psychoman59.
+*** FLOP *** [5c 8d 3d]
+*** TOURNANT *** [5c 8d 3d] [2c]
+*** RIVIÈRE *** [5c 8d 3d 2c] [6s]
+*** ABATTAGE ***
+Cyrille51971 : montre [Js Th] (Hauteur Valet)
+psychoman59 : montre [Qd Kd] (Hauteur Roi)
+psychoman59 a remporté 510  lors du pot .
+*** SYNTHÈSE ***
+Pot total 510 | Commission 0 
+Tableau [5c 8d 3d 2c 6s]
+Siège 1 : Cyrille51971 (petite blind) a montré [Js Th] et a perdu avec Hauteur Valet
+Siège 2 : psychoman59 (grosse blind) a montré [Qd Kd] et a gagné (510) avec Hauteur Roi
+Siège 3 : justine611 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237292874940 : Tournoi #3439906942, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 14:48:05 CET [11/07/2022 8:48:05 ET]
+Table '3439906942 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (640 en jetons) 
+Place 3: justine611 (260 en jetons) 
+psychoman59 : met la petite blind. 20
+justine611 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à justine611.
+justine611 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : justine611 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237292876125 : Tournoi #3439906942, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/07/2022 14:48:11 CET [11/07/2022 8:48:11 ET]
+Table '3439906942 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (620 en jetons) 
+Place 3: justine611 (280 en jetons) 
+justine611 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Js]
+justine611 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [4c 8s 7d]
+psychoman59 : mise. 80
+justine611 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4c 8s 7d]
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : justine611 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237292881090 : Tournoi #3439906942, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 14:48:35 CET [11/07/2022 8:48:35 ET]
+Table '3439906942 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (660 en jetons) 
+Place 3: justine611 (240 en jetons) 
+psychoman59 : met la petite blind. 30
+justine611 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à justine611.
+justine611 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : justine611 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237292882187 : Tournoi #3439906942, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/07/2022 14:48:40 CET [11/07/2022 8:48:40 ET]
+Table '3439906942 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (630 en jetons) 
+Place 3: justine611 (270 en jetons) 
+justine611 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Ad]
+justine611 : suit. 30
+psychoman59 : relance. 570 à 630 et est all-in.
+justine611 : suit. 210 et est all-in.
+Personne n'a suivi. (360) sont retournés à psychoman59.
+*** FLOP *** [2d Ks 5h]
+*** TOURNANT *** [2d Ks 5h] [9c]
+*** RIVIÈRE *** [2d Ks 5h 9c] [4c]
+*** ABATTAGE ***
+psychoman59 : montre [Js Ad] (Hauteur As)
+justine611 : montre [Ah 6d] (Hauteur As - plus basse kicker)
+psychoman59 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [2d Ks 5h 9c 4c]
+Siège 2 : psychoman59 (grosse blind) a montré [Js Ad] et a gagné (540) avec Hauteur As
+Siège 3 : justine611 (bouton) (petite blind) a montré [Ah 6d] et a perdu avec Hauteur As
+
+
+

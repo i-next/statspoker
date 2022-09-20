@@ -1,0 +1,224 @@
+﻿Main PokerStars n°237169575836 : Tournoi #3436982823, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/07/2022 7:07:36 CET [05/07/2022 1:07:36 ET]
+Table '3436982823 1' 3-max Siège #1 est au bouton.
+Place 1: migcircus (300 en jetons) 
+Place 2: totocommando (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+totocommando : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 7s]
+migcircus : suit. 20
+totocommando : relance. 280 à 300 et est all-in.
+psychoman59 : passe. 
+migcircus : passe. 
+Personne n'a suivi. (280) sont retournés à totocommando.
+totocommando a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : migcircus (bouton) s'est couché. avant Flop
+Siège 2 : totocommando (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237169578376 : Tournoi #3436982823, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/07/2022 7:07:59 CET [05/07/2022 1:07:59 ET]
+Table '3436982823 1' 3-max Siège #2 est au bouton.
+Place 1: migcircus (280 en jetons) 
+Place 2: totocommando (340 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+migcircus : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 2c]
+totocommando : relance. 20 à 40
+psychoman59 : passe. 
+migcircus : suit. 20
+*** FLOP *** [5c 8s 7s]
+migcircus : parole 
+totocommando : parole 
+*** TOURNANT *** [5c 8s 7s] [Qs]
+migcircus : mise. 20
+totocommando : suit. 20
+*** RIVIÈRE *** [5c 8s 7s Qs] [5h]
+migcircus : mise. 65
+totocommando : passe. 
+Personne n'a suivi. (65) sont retournés à migcircus.
+migcircus a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [5c 8s 7s Qs 5h]
+Siège 1 : migcircus (grosse blind) a remporté (130)
+Siège 2 : totocommando (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237169583026 : Tournoi #3436982823, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/07/2022 7:08:42 CET [05/07/2022 1:08:42 ET]
+Table '3436982823 1' 3-max Siège #3 est au bouton.
+Place 1: migcircus (350 en jetons) 
+Place 2: totocommando (280 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+migcircus : met la petite blind. 15
+totocommando : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 5h]
+psychoman59 : passe. 
+migcircus : suit. 15
+totocommando : relance. 250 à 280 et est all-in.
+migcircus : suit. 250
+*** FLOP *** [7d Ah 4s]
+*** TOURNANT *** [7d Ah 4s] [2d]
+*** RIVIÈRE *** [7d Ah 4s 2d] [As]
+*** ABATTAGE ***
+migcircus : montre [Kd 2c] (double paire, As et Deux)
+totocommando : montre [Kc 6h] (une paire de As)
+migcircus a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [7d Ah 4s 2d As]
+Siège 1 : migcircus (petite blind) a montré [Kd 2c] et a gagné (560) avec double paire, As et Deux
+Siège 2 : totocommando (grosse blind) a montré [Kc 6h] et a perdu avec une paire de As
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237169585786 : Tournoi #3436982823, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/07/2022 7:09:07 CET [05/07/2022 1:09:07 ET]
+Table '3436982823 1' 3-max Siège #1 est au bouton.
+Place 1: migcircus (630 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+migcircus : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 3h]
+migcircus : suit. 15
+psychoman59 : parole 
+*** FLOP *** [2h 6c 5h]
+psychoman59 : parole 
+migcircus : parole 
+*** TOURNANT *** [2h 6c 5h] [5s]
+psychoman59 : parole 
+migcircus : parole 
+*** RIVIÈRE *** [2h 6c 5h 5s] [3c]
+psychoman59 : mise. 30
+migcircus : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2h 6c 5h 5s 3c]
+Siège 1 : migcircus (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237169588233 : Tournoi #3436982823, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/07/2022 7:09:30 CET [05/07/2022 1:09:30 ET]
+Table '3436982823 1' 3-max Siège #3 est au bouton.
+Place 1: migcircus (600 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+psychoman59 : met la petite blind. 15
+migcircus : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Td]
+psychoman59 : suit. 15
+migcircus : parole 
+*** FLOP *** [2h Qc 9h]
+migcircus : parole 
+psychoman59 : mise. 60
+migcircus : suit. 60
+*** TOURNANT *** [2h Qc 9h] [8h]
+migcircus : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [2h Qc 9h 8h] [9s]
+migcircus : mise. 90
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à migcircus.
+migcircus a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [2h Qc 9h 8h 9s]
+Siège 1 : migcircus (grosse blind) a remporté (180)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237169591756 : Tournoi #3436982823, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/07/2022 7:10:03 CET [05/07/2022 1:10:03 ET]
+Table '3436982823 1' 3-max Siège #1 est au bouton.
+Place 1: migcircus (690 en jetons) 
+Place 3: psychoman59 (210 en jetons) 
+migcircus : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 9d]
+migcircus : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : migcircus (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237169592354 : Tournoi #3436982823, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/07/2022 7:10:08 CET [05/07/2022 1:10:08 ET]
+Table '3436982823 1' 3-max Siège #3 est au bouton.
+Place 1: migcircus (670 en jetons) 
+Place 3: psychoman59 (230 en jetons) 
+psychoman59 : met la petite blind. 20
+migcircus : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ah]
+psychoman59 : relance. 190 à 230 et est all-in.
+migcircus : passe. 
+Personne n'a suivi. (190) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : migcircus (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237169593353 : Tournoi #3436982823, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/07/2022 7:10:18 CET [05/07/2022 1:10:18 ET]
+Table '3436982823 1' 3-max Siège #1 est au bouton.
+Place 1: migcircus (630 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+migcircus : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 6c]
+migcircus : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à migcircus.
+migcircus a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : migcircus (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237169594190 : Tournoi #3436982823, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/07/2022 7:10:25 CET [05/07/2022 1:10:25 ET]
+Table '3436982823 1' 3-max Siège #3 est au bouton.
+Place 1: migcircus (670 en jetons) 
+Place 3: psychoman59 (230 en jetons) 
+psychoman59 : met la petite blind. 20
+migcircus : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Th]
+psychoman59 : relance. 190 à 230 et est all-in.
+migcircus : suit. 190
+*** FLOP *** [Qd As 6h]
+*** TOURNANT *** [Qd As 6h] [4s]
+*** RIVIÈRE *** [Qd As 6h 4s] [8d]
+*** ABATTAGE ***
+migcircus : montre [4h Ac] (double paire, As et Quatre)
+psychoman59 : montre [7h Th] (Hauteur As)
+migcircus a remporté 460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [Qd As 6h 4s 8d]
+Siège 1 : migcircus (grosse blind) a montré [4h Ac] et a gagné (460) avec double paire, As et Quatre
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [7h Th] et a perdu avec Hauteur As
+
+
+

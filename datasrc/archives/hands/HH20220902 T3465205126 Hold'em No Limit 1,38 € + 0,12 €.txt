@@ -1,0 +1,298 @@
+﻿Main PokerStars n°238365606396 : Tournoi #3465205126, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 02/09/2022 14:17:27 CET [02/09/2022 8:17:27 ET]
+Table '3465205126 1' 4-max Siège #1 est au bouton.
+Place 1: Milou59128 (5000 en jetons) 
+Place 2: marko170501 (5000 en jetons) 
+Place 3: miski66 (5000 en jetons) 
+Place 4: psychoman59 (5000 en jetons) 
+Milou59128 : met l'ante. 10
+marko170501 : met l'ante. 10
+miski66 : met l'ante. 10
+psychoman59 : met l'ante. 10
+marko170501 : met la petite blind. 50
+miski66 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 8d]
+psychoman59 : passe. 
+Milou59128 : suit. 100
+marko170501 : suit. 50
+miski66 : parole 
+*** FLOP *** [Ts 4s 2d]
+marko170501 : mise. 100
+miski66 : suit. 100
+Milou59128 : relance. 220 à 320
+marko170501 : suit. 220
+miski66 : suit. 220
+*** TOURNANT *** [Ts 4s 2d] [Ac]
+marko170501 : parole 
+miski66 : parole 
+Milou59128 : parole 
+*** RIVIÈRE *** [Ts 4s 2d Ac] [4h]
+marko170501 : parole 
+miski66 : parole 
+Milou59128 : parole 
+*** ABATTAGE ***
+marko170501 : montre [Kc 8c] (une paire de Quatre)
+miski66 : montre [2h 3s] (double paire, Quatre et Deux)
+Milou59128 : cache la main perdante. 
+miski66 a remporté 1300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1300 | Commission 0 
+Tableau [Ts 4s 2d Ac 4h]
+Siège 1 : Milou59128 (bouton) a caché la main perdante. [Qs Js]
+Siège 2 : marko170501 (petite blind) a montré [Kc 8c] et a perdu avec une paire de Quatre
+Siège 3 : miski66 (grosse blind) a montré [2h 3s] et a gagné (1300) avec double paire, Quatre et Deux
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238365618757 : Tournoi #3465205126, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 02/09/2022 14:18:27 CET [02/09/2022 8:18:27 ET]
+Table '3465205126 1' 4-max Siège #2 est au bouton.
+Place 1: Milou59128 (4570 en jetons) 
+Place 2: marko170501 (4570 en jetons) 
+Place 3: miski66 (5870 en jetons) 
+Place 4: psychoman59 (4990 en jetons) 
+Milou59128 : met l'ante. 10
+marko170501 : met l'ante. 10
+miski66 : met l'ante. 10
+psychoman59 : met l'ante. 10
+miski66 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 3s]
+Milou59128 : suit. 100
+marko170501 : suit. 100
+miski66 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [5d 8c 7c]
+miski66 : parole 
+psychoman59 : parole 
+Milou59128 : parole 
+marko170501 : mise. 200
+miski66 : suit. 200
+psychoman59 : passe. 
+Milou59128 : passe. 
+*** TOURNANT *** [5d 8c 7c] [Tc]
+miski66 : parole 
+marko170501 : mise. 500
+miski66 : suit. 500
+*** RIVIÈRE *** [5d 8c 7c Tc] [3c]
+miski66 : mise. 100
+marko170501 : suit. 100
+*** ABATTAGE ***
+miski66 : montre [9h Ad] (Hauteur As)
+marko170501 : montre [8h 5h] (double paire, Huit et Cinq)
+marko170501 a remporté 2040  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2040 | Commission 0 
+Tableau [5d 8c 7c Tc 3c]
+Siège 1 : Milou59128 s'est couché. sur le Flop
+Siège 2 : marko170501 (bouton) a montré [8h 5h] et a gagné (2040) avec double paire, Huit et Cinq
+Siège 3 : miski66 (petite blind) a montré [9h Ad] et a perdu avec Hauteur As
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238365640055 : Tournoi #3465205126, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 02/09/2022 14:20:08 CET [02/09/2022 8:20:08 ET]
+Table '3465205126 1' 4-max Siège #3 est au bouton.
+Place 1: Milou59128 (4460 en jetons) 
+Place 2: marko170501 (5700 en jetons) 
+Place 3: miski66 (4960 en jetons) 
+Place 4: psychoman59 (4880 en jetons) 
+Milou59128 : met l'ante. 10
+marko170501 : met l'ante. 10
+miski66 : met l'ante. 10
+psychoman59 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+Milou59128 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 3s]
+marko170501 : relance. 400 à 500
+miski66 : passe. 
+psychoman59 : passe. 
+Milou59128 : suit. 400
+*** FLOP *** [6c Qh 5d]
+Milou59128 : parole 
+marko170501 : mise. 200
+Milou59128 : suit. 200
+*** TOURNANT *** [6c Qh 5d] [2h]
+Milou59128 : parole 
+marko170501 : parole 
+*** RIVIÈRE *** [6c Qh 5d 2h] [Kh]
+Milou59128 : parole 
+marko170501 : parole 
+*** ABATTAGE ***
+Milou59128 : montre [Jc Th] (Hauteur Roi)
+marko170501 : montre [8c Ah] (Hauteur As)
+marko170501 a remporté 1490  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1490 | Commission 0 
+Tableau [6c Qh 5d 2h Kh]
+Siège 1 : Milou59128 (grosse blind) a montré [Jc Th] et a perdu avec Hauteur Roi
+Siège 2 : marko170501 a montré [8c Ah] et a gagné (1490) avec Hauteur As
+Siège 3 : miski66 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238365651284 : Tournoi #3465205126, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 02/09/2022 14:21:01 CET [02/09/2022 8:21:01 ET]
+Table '3465205126 1' 4-max Siège #4 est au bouton.
+Place 1: Milou59128 (3750 en jetons) 
+Place 2: marko170501 (6480 en jetons) 
+Place 3: miski66 (4950 en jetons) 
+Place 4: psychoman59 (4820 en jetons) 
+Milou59128 : met l'ante. 15
+marko170501 : met l'ante. 15
+miski66 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Milou59128 : met la petite blind. 60
+marko170501 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 9s]
+miski66 : suit. 120
+psychoman59 : passe. 
+Milou59128 : relance. 240 à 360
+marko170501 : relance. 840 à 1200
+miski66 : suit. 1080
+Milou59128 : suit. 840
+*** FLOP *** [Jd 9c 6h]
+Milou59128 : mise. 1830
+marko170501 : suit. 1830
+miski66 : passe. 
+*** TOURNANT *** [Jd 9c 6h] [Ks]
+Milou59128 : mise. 705 et est all-in.
+marko170501 : suit. 705
+*** RIVIÈRE *** [Jd 9c 6h Ks] [7s]
+*** ABATTAGE ***
+Milou59128 : montre [Kd Js] (double paire, Rois et Valets)
+marko170501 : montre [Tc Ah] (Hauteur As)
+Milou59128 a remporté 8730  lors du pot .
+*** SYNTHÈSE ***
+Pot total 8730 | Commission 0 
+Tableau [Jd 9c 6h Ks 7s]
+Siège 1 : Milou59128 (petite blind) a montré [Kd Js] et a gagné (8730) avec double paire, Rois et Valets
+Siège 2 : marko170501 (grosse blind) a montré [Tc Ah] et a perdu avec Hauteur As
+Siège 3 : miski66 s'est couché. sur le Flop
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238365663340 : Tournoi #3465205126, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 02/09/2022 14:21:57 CET [02/09/2022 8:21:57 ET]
+Table '3465205126 1' 4-max Siège #1 est au bouton.
+Place 1: Milou59128 (8730 en jetons) 
+Place 2: marko170501 (2730 en jetons) 
+Place 3: miski66 (3735 en jetons) 
+Place 4: psychoman59 (4805 en jetons) 
+Milou59128 : met l'ante. 15
+marko170501 : met l'ante. 15
+miski66 : met l'ante. 15
+psychoman59 : met l'ante. 15
+marko170501 : met la petite blind. 60
+miski66 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qh]
+psychoman59 : relance. 360 à 480
+Milou59128 : suit. 480
+marko170501 : relance. 2235 à 2715 et est all-in.
+miski66 : relance. 1005 à 3720 et est all-in.
+psychoman59 : suit. 3240
+Milou59128 : passe. 
+*** FLOP *** [As 4d 5c]
+*** TOURNANT *** [As 4d 5c] [Qs]
+*** RIVIÈRE *** [As 4d 5c Qs] [3d]
+*** ABATTAGE ***
+miski66 : montre [Jc Qc] (une paire de Dames)
+psychoman59 : montre [Ac Qh] (double paire, As et Dames)
+psychoman59 a remporté 2010  parallèle lors du pot .
+marko170501 : montre [9c Th] (Hauteur As)
+psychoman59 a remporté 8685  principal lors du pot .
+miski66 a fini le tournoi en 3e position.
+marko170501 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10695 Principal pot 8685. Parallèle pot 2010. | Commission 0 
+Tableau [As 4d 5c Qs 3d]
+Siège 1 : Milou59128 (bouton) s'est couché. avant Flop
+Siège 2 : marko170501 (petite blind) a montré [9c Th] et a perdu avec Hauteur As
+Siège 3 : miski66 (grosse blind) a montré [Jc Qc] et a perdu avec une paire de Dames
+Siège 4 : psychoman59 a montré [Ac Qh] et a gagné (10695) avec double paire, As et Dames
+
+
+
+Main PokerStars n°238365672060 : Tournoi #3465205126, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 02/09/2022 14:22:38 CET [02/09/2022 8:22:38 ET]
+Table '3465205126 1' 4-max Siège #4 est au bouton.
+Place 1: Milou59128 (8235 en jetons) 
+Place 4: psychoman59 (11765 en jetons) 
+Milou59128 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+Milou59128 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 8s]
+psychoman59 : relance. 11630 à 11750 et est all-in.
+Milou59128 : passe. 
+Personne n'a suivi. (11630) sont retournés à psychoman59.
+psychoman59 a remporté 270  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Siège 1 : Milou59128 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (bouton) (petite blind) a remporté (270)
+
+
+
+Main PokerStars n°238365674387 : Tournoi #3465205126, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 02/09/2022 14:22:48 CET [02/09/2022 8:22:48 ET]
+Table '3465205126 1' 4-max Siège #1 est au bouton.
+Place 1: Milou59128 (8100 en jetons) 
+Place 4: psychoman59 (11900 en jetons) 
+Milou59128 : met l'ante. 15
+psychoman59 : met l'ante. 15
+Milou59128 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qs]
+Milou59128 : relance. 240 à 360
+psychoman59 : suit. 240
+*** FLOP *** [2c 6s Tc]
+psychoman59 : parole 
+Milou59128 : mise. 375
+psychoman59 : passe. 
+Personne n'a suivi. (375) sont retournés à Milou59128.
+Milou59128 a remporté 750  lors du pot .
+*** SYNTHÈSE ***
+Pot total 750 | Commission 0 
+Tableau [2c 6s Tc]
+Siège 1 : Milou59128 (bouton) (petite blind) a remporté (750)
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238365678912 : Tournoi #3465205126, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 02/09/2022 14:23:09 CET [02/09/2022 8:23:09 ET]
+Table '3465205126 1' 4-max Siège #4 est au bouton.
+Place 1: Milou59128 (8475 en jetons) 
+Place 4: psychoman59 (11525 en jetons) 
+Milou59128 : met l'ante. 15
+psychoman59 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+Milou59128 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Ac]
+psychoman59 : relance. 11390 à 11510 et est all-in.
+Milou59128 : suit. 8340 et est all-in.
+Personne n'a suivi. (3050) sont retournés à psychoman59.
+*** FLOP *** [7h 4d Qs]
+*** TOURNANT *** [7h 4d Qs] [5d]
+*** RIVIÈRE *** [7h 4d Qs 5d] [8c]
+*** ABATTAGE ***
+Milou59128 : montre [Jc Ks] (Hauteur Roi)
+psychoman59 : montre [Js Ac] (Hauteur As)
+psychoman59 a remporté 16950  lors du pot .
+Milou59128 a fini le tournoi à la 2e place et a reçu 0.52 €.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne les frais d'entrée pour le tournoi #3450746454
+*** SYNTHÈSE ***
+Pot total 16950 | Commission 0 
+Tableau [7h 4d Qs 5d 8c]
+Siège 1 : Milou59128 (grosse blind) a montré [Jc Ks] et a perdu avec Hauteur Roi
+Siège 4 : psychoman59 (bouton) (petite blind) a montré [Js Ac] et a gagné (16950) avec Hauteur As
+
+
+

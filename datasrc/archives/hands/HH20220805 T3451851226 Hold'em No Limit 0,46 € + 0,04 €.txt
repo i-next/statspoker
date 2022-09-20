@@ -1,0 +1,760 @@
+﻿Main PokerStars n°237804287914 : Tournoi #3451851226, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 17:45:27 CET [05/08/2022 11:45:27 ET]
+Table '3451851226 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 2: magiccarpe (5000 en jetons) 
+Place 3: saxzee (5000 en jetons) 
+Place 4: miguel91896 (5000 en jetons) 
+psychoman59 : met l'ante. 10
+magiccarpe : met l'ante. 10
+saxzee : met l'ante. 10
+miguel91896 : met l'ante. 10
+magiccarpe : met la petite blind. 50
+saxzee : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Qs]
+miguel91896 : suit. 100
+psychoman59 : suit. 100
+magiccarpe : passe. 
+saxzee : parole 
+*** FLOP *** [7s Jc 3c]
+saxzee : parole 
+miguel91896 : mise. 200
+psychoman59 : suit. 200
+saxzee : passe. 
+*** TOURNANT *** [7s Jc 3c] [5s]
+miguel91896 : mise. 100
+psychoman59 : suit. 100
+*** RIVIÈRE *** [7s Jc 3c 5s] [Qc]
+miguel91896 : parole 
+psychoman59 : mise. 300
+miguel91896 : suit. 300
+*** ABATTAGE ***
+psychoman59 : montre [Jd Qs] (double paire, Dames et Valets)
+miguel91896 : cache la main perdante. 
+psychoman59 a remporté 1590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1590 | Commission 0 
+Tableau [7s Jc 3c 5s Qc]
+Siège 1 : psychoman59 (bouton) a montré [Jd Qs] et a gagné (1590) avec double paire, Dames et Valets
+Siège 2 : magiccarpe (petite blind) s'est couché. avant Flop
+Siège 3 : saxzee (grosse blind) s'est couché. sur le Flop
+Siège 4 : miguel91896 a caché la main perdante. [Kd Ks]
+
+
+
+Main PokerStars n°237804303691 : Tournoi #3451851226, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 17:46:23 CET [05/08/2022 11:46:23 ET]
+Table '3451851226 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (5880 en jetons) 
+Place 2: magiccarpe (4940 en jetons) 
+Place 3: saxzee (4890 en jetons) 
+Place 4: miguel91896 (4290 en jetons) 
+psychoman59 : met l'ante. 10
+magiccarpe : met l'ante. 10
+saxzee : met l'ante. 10
+miguel91896 : met l'ante. 10
+saxzee : met la petite blind. 50
+miguel91896 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 3s]
+psychoman59 : passe. 
+magiccarpe : relance. 100 à 200
+saxzee : passe. 
+miguel91896 : suit. 100
+*** FLOP *** [Td Qs 4h]
+miguel91896 : parole 
+magiccarpe : mise. 300
+miguel91896 : suit. 300
+*** TOURNANT *** [Td Qs 4h] [7h]
+miguel91896 : parole 
+magiccarpe : mise. 600
+miguel91896 : suit. 600
+*** RIVIÈRE *** [Td Qs 4h 7h] [Qd]
+miguel91896 : parole 
+magiccarpe : mise. 3830 et est all-in.
+miguel91896 : passe. 
+Personne n'a suivi. (3830) sont retournés à magiccarpe.
+magiccarpe a remporté 2290  lors du pot .
+magiccarpe : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2290 | Commission 0 
+Tableau [Td Qs 4h 7h Qd]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : magiccarpe (bouton) a remporté (2290)
+Siège 3 : saxzee (petite blind) s'est couché. avant Flop
+Siège 4 : miguel91896 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237804340226 : Tournoi #3451851226, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 05/08/2022 17:47:56 CET [05/08/2022 11:47:56 ET]
+Table '3451851226 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (5870 en jetons) 
+Place 2: magiccarpe (6120 en jetons) 
+Place 3: saxzee (4830 en jetons) 
+Place 4: miguel91896 (3180 en jetons) 
+psychoman59 : met l'ante. 10
+magiccarpe : met l'ante. 10
+saxzee : met l'ante. 10
+miguel91896 : met l'ante. 10
+miguel91896 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 4c]
+magiccarpe : suit. 100
+saxzee : suit. 100
+miguel91896 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [6s As 4h]
+miguel91896 : parole 
+psychoman59 : parole 
+magiccarpe : parole 
+saxzee : parole 
+*** TOURNANT *** [6s As 4h] [5h]
+miguel91896 : parole 
+psychoman59 : parole 
+magiccarpe : mise. 220
+saxzee : passe. 
+miguel91896 : suit. 220
+psychoman59 : suit. 220
+*** RIVIÈRE *** [6s As 4h 5h] [9d]
+miguel91896 : parole 
+psychoman59 : parole 
+magiccarpe : parole 
+*** ABATTAGE ***
+miguel91896 : montre [Qh 2h] (Hauteur As)
+psychoman59 : montre [7s 4c] (une paire de Quatre)
+magiccarpe : montre [5d Jd] (une paire de Cinq)
+magiccarpe a remporté 1100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1100 | Commission 0 
+Tableau [6s As 4h 5h 9d]
+Siège 1 : psychoman59 (grosse blind) a montré [7s 4c] et a perdu avec une paire de Quatre
+Siège 2 : magiccarpe a montré [5d Jd] et a gagné (1100) avec une paire de Cinq
+Siège 3 : saxzee (bouton) s'est couché. sur le Tournant
+Siège 4 : miguel91896 (petite blind) a montré [Qh 2h] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237804356659 : Tournoi #3451851226, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 17:48:53 CET [05/08/2022 11:48:53 ET]
+Table '3451851226 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (5540 en jetons) 
+Place 2: magiccarpe (6890 en jetons) 
+Place 3: saxzee (4720 en jetons) 
+Place 4: miguel91896 (2850 en jetons) 
+psychoman59 : met l'ante. 15
+magiccarpe : met l'ante. 15
+saxzee : met l'ante. 15
+miguel91896 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+magiccarpe : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 7h]
+saxzee : suit. 120
+miguel91896 : suit. 120
+psychoman59 : passe. 
+magiccarpe : parole 
+*** FLOP *** [Ks Kh Js]
+magiccarpe : mise. 240
+saxzee : passe. 
+miguel91896 : suit. 240
+*** TOURNANT *** [Ks Kh Js] [5d]
+magiccarpe : mise. 480
+miguel91896 : relance. 1995 à 2475 et est all-in.
+magiccarpe : suit. 1995
+*** RIVIÈRE *** [Ks Kh Js 5d] [2c]
+*** ABATTAGE ***
+magiccarpe : montre [7s 9s] (une paire de Rois)
+miguel91896 : montre [5s Kc] (un full, full aux Rois par les Cinq)
+miguel91896 a remporté 5910  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5910 | Commission 0 
+Tableau [Ks Kh Js 5d 2c]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : magiccarpe (grosse blind) a montré [7s 9s] et a perdu avec une paire de Rois
+Siège 3 : saxzee s'est couché. sur le Flop
+Siège 4 : miguel91896 (bouton) a montré [5s Kc] et a gagné (5910) avec un full, full aux Rois par les Cinq
+
+
+
+Main PokerStars n°237804368780 : Tournoi #3451851226, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 17:49:35 CET [05/08/2022 11:49:35 ET]
+Table '3451851226 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5465 en jetons) 
+Place 2: magiccarpe (4040 en jetons) 
+Place 3: saxzee (4585 en jetons) 
+Place 4: miguel91896 (5910 en jetons) 
+psychoman59 : met l'ante. 15
+magiccarpe : met l'ante. 15
+saxzee : met l'ante. 15
+miguel91896 : met l'ante. 15
+magiccarpe : met la petite blind. 60
+saxzee : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 8s]
+miguel91896 : suit. 120
+psychoman59 : passe. 
+magiccarpe : suit. 60
+saxzee : parole 
+*** FLOP *** [5d 4h 6c]
+magiccarpe : parole 
+saxzee : parole 
+miguel91896 : parole 
+*** TOURNANT *** [5d 4h 6c] [Qh]
+magiccarpe : mise. 120
+saxzee : suit. 120
+miguel91896 : suit. 120
+*** RIVIÈRE *** [5d 4h 6c Qh] [7s]
+magiccarpe : mise. 240
+saxzee : passe. 
+miguel91896 : passe. 
+Personne n'a suivi. (240) sont retournés à magiccarpe.
+magiccarpe a remporté 780  lors du pot .
+magiccarpe : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 780 | Commission 0 
+Tableau [5d 4h 6c Qh 7s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : magiccarpe (petite blind) a remporté (780)
+Siège 3 : saxzee (grosse blind) s'est couché. sur le Rivière
+Siège 4 : miguel91896 s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237804379392 : Tournoi #3451851226, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 17:50:12 CET [05/08/2022 11:50:12 ET]
+Table '3451851226 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (5450 en jetons) 
+Place 2: magiccarpe (4565 en jetons) 
+Place 3: saxzee (4330 en jetons) 
+Place 4: miguel91896 (5655 en jetons) 
+psychoman59 : met l'ante. 15
+magiccarpe : met l'ante. 15
+saxzee : met l'ante. 15
+miguel91896 : met l'ante. 15
+saxzee : met la petite blind. 60
+miguel91896 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Jh]
+psychoman59 : relance. 120 à 240
+magiccarpe : passe. 
+saxzee : passe. 
+miguel91896 : suit. 120
+*** FLOP *** [2d 5s Qh]
+miguel91896 : mise. 120
+psychoman59 : relance. 420 à 540
+miguel91896 : suit. 420
+*** TOURNANT *** [2d 5s Qh] [Ts]
+miguel91896 : parole 
+psychoman59 : mise. 840
+miguel91896 : passe. 
+Personne n'a suivi. (840) sont retournés à psychoman59.
+psychoman59 a remporté 1680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1680 | Commission 0 
+Tableau [2d 5s Qh Ts]
+Siège 1 : psychoman59 a remporté (1680)
+Siège 2 : magiccarpe (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : saxzee (petite blind) s'est couché. avant Flop
+Siège 4 : miguel91896 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237804395360 : Tournoi #3451851226, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 05/08/2022 17:51:09 CET [05/08/2022 11:51:09 ET]
+Table '3451851226 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (6335 en jetons) 
+Place 2: magiccarpe (4550 en jetons) 
+Place 3: saxzee (4255 en jetons) 
+Place 4: miguel91896 (4860 en jetons) 
+psychoman59 : met l'ante. 15
+magiccarpe : met l'ante. 15
+saxzee : met l'ante. 15
+miguel91896 : met l'ante. 15
+miguel91896 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 5c]
+magiccarpe : relance. 120 à 240
+saxzee : passe. 
+miguel91896 : suit. 180
+psychoman59 : passe. 
+*** FLOP *** [Ad 8c 8d]
+miguel91896 : parole 
+magiccarpe : mise. 360
+miguel91896 : passe. 
+Personne n'a suivi. (360) sont retournés à magiccarpe.
+magiccarpe a remporté 660  lors du pot .
+magiccarpe : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [Ad 8c 8d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : magiccarpe a remporté (660)
+Siège 3 : saxzee (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : miguel91896 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237804405515 : Tournoi #3451851226, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 17:51:44 CET [05/08/2022 11:51:44 ET]
+Table '3451851226 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (6200 en jetons) 
+Place 2: magiccarpe (4955 en jetons) 
+Place 3: saxzee (4240 en jetons) 
+Place 4: miguel91896 (4605 en jetons) 
+psychoman59 : met l'ante. 20
+magiccarpe : met l'ante. 20
+saxzee : met l'ante. 20
+miguel91896 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+magiccarpe : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2h]
+saxzee : passe. 
+miguel91896 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à magiccarpe.
+magiccarpe a remporté 230  lors du pot .
+magiccarpe : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 230 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : magiccarpe (grosse blind) a remporté (230)
+Siège 3 : saxzee s'est couché. avant Flop (n'a pas misé)
+Siège 4 : miguel91896 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237804409977 : Tournoi #3451851226, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 17:52:00 CET [05/08/2022 11:52:00 ET]
+Table '3451851226 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (6105 en jetons) 
+Place 2: magiccarpe (5090 en jetons) 
+Place 3: saxzee (4220 en jetons) 
+Place 4: miguel91896 (4585 en jetons) 
+psychoman59 : met l'ante. 20
+magiccarpe : met l'ante. 20
+saxzee : met l'ante. 20
+miguel91896 : met l'ante. 20
+magiccarpe : met la petite blind. 75
+saxzee : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 5c]
+miguel91896 : suit. 150
+psychoman59 : passe. 
+magiccarpe : relance. 150 à 300
+saxzee : passe. 
+miguel91896 : suit. 150
+*** FLOP *** [Qd 5h Ks]
+magiccarpe : mise. 415
+miguel91896 : suit. 415
+*** TOURNANT *** [Qd 5h Ks] [Td]
+magiccarpe : mise. 830
+miguel91896 : relance. 3020 à 3850 et est all-in.
+magiccarpe : suit. 3020
+*** RIVIÈRE *** [Qd 5h Ks Td] [Ad]
+*** ABATTAGE ***
+magiccarpe : montre [7s 8s] (Hauteur As)
+miguel91896 : montre [Kd 9h] (une paire de Rois)
+miguel91896 a remporté 9360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9360 | Commission 0 
+Tableau [Qd 5h Ks Td Ad]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : magiccarpe (petite blind) a montré [7s 8s] et a perdu avec Hauteur As
+Siège 3 : saxzee (grosse blind) s'est couché. avant Flop
+Siège 4 : miguel91896 a montré [Kd 9h] et a gagné (9360) avec une paire de Rois
+
+
+
+Main PokerStars n°237804431582 : Tournoi #3451851226, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 17:53:17 CET [05/08/2022 11:53:17 ET]
+Table '3451851226 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (6085 en jetons) 
+Place 2: magiccarpe (505 en jetons) 
+Place 3: saxzee (4050 en jetons) 
+Place 4: miguel91896 (9360 en jetons) 
+psychoman59 : met l'ante. 20
+magiccarpe : met l'ante. 20
+saxzee : met l'ante. 20
+miguel91896 : met l'ante. 20
+saxzee : met la petite blind. 75
+miguel91896 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 9h]
+psychoman59 : passe. 
+magiccarpe : relance. 335 à 485 et est all-in.
+saxzee : passe. 
+miguel91896 : suit. 335
+*** FLOP *** [9s Ac 3s]
+*** TOURNANT *** [9s Ac 3s] [4d]
+*** RIVIÈRE *** [9s Ac 3s 4d] [2h]
+*** ABATTAGE ***
+miguel91896 : montre [Qh 6s] (Hauteur As)
+magiccarpe : montre [Qs Jh] (Hauteur As - Dame+Valet kicker)
+magiccarpe a remporté 1125  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1125 | Commission 0 
+Tableau [9s Ac 3s 4d 2h]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : magiccarpe (bouton) a montré [Qs Jh] et a gagné (1125) avec Hauteur As
+Siège 3 : saxzee (petite blind) s'est couché. avant Flop
+Siège 4 : miguel91896 (grosse blind) a montré [Qh 6s] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237804439107 : Tournoi #3451851226, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 17:53:43 CET [05/08/2022 11:53:43 ET]
+Table '3451851226 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (6065 en jetons) 
+Place 2: magiccarpe (1125 en jetons) 
+Place 3: saxzee (3955 en jetons) 
+Place 4: miguel91896 (8855 en jetons) 
+psychoman59 : met l'ante. 20
+magiccarpe : met l'ante. 20
+saxzee : met l'ante. 20
+miguel91896 : met l'ante. 20
+miguel91896 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 6h]
+magiccarpe : relance. 955 à 1105 et est all-in.
+saxzee : passe. 
+miguel91896 : suit. 1030
+psychoman59 : passe. 
+*** FLOP *** [5c Ts 3c]
+*** TOURNANT *** [5c Ts 3c] [Qs]
+*** RIVIÈRE *** [5c Ts 3c Qs] [5s]
+*** ABATTAGE ***
+miguel91896 : montre [Ac 5d] (un brelan de Cinq)
+magiccarpe : montre [9s Kd] (une paire de Cinq)
+miguel91896 a remporté 2440  lors du pot .
+magiccarpe a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 2440 | Commission 0 
+Tableau [5c Ts 3c Qs 5s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : magiccarpe a montré [9s Kd] et a perdu avec une paire de Cinq
+Siège 3 : saxzee (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : miguel91896 (petite blind) a montré [Ac 5d] et a gagné (2440) avec un brelan de Cinq
+
+
+
+Main PokerStars n°237804444736 : Tournoi #3451851226, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 05/08/2022 17:54:03 CET [05/08/2022 11:54:03 ET]
+Table '3451851226 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (5895 en jetons) 
+Place 3: saxzee (3935 en jetons) 
+Place 4: miguel91896 (10170 en jetons) 
+psychoman59 : met l'ante. 20
+saxzee : met l'ante. 20
+miguel91896 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+saxzee : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 5h]
+miguel91896 : passe. 
+psychoman59 : suit. 75
+saxzee : parole 
+*** FLOP *** [Ts 3s Qh]
+psychoman59 : parole 
+saxzee : parole 
+*** TOURNANT *** [Ts 3s Qh] [5s]
+psychoman59 : parole 
+saxzee : parole 
+*** RIVIÈRE *** [Ts 3s Qh 5s] [7h]
+psychoman59 : parole 
+saxzee : mise. 150
+psychoman59 : suit. 150
+*** ABATTAGE ***
+saxzee : montre [As Th] (une paire de Dix)
+psychoman59 : cache la main perdante. 
+saxzee a remporté 660  lors du pot .
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [Ts 3s Qh 5s 7h]
+Siège 1 : psychoman59 (petite blind) a caché la main perdante. [6h 5h]
+Siège 3 : saxzee (grosse blind) a montré [As Th] et a gagné (660) avec une paire de Dix
+Siège 4 : miguel91896 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237804458094 : Tournoi #3451851226, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 05/08/2022 17:54:50 CET [05/08/2022 11:54:50 ET]
+Table '3451851226 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5575 en jetons) 
+Place 3: saxzee (4275 en jetons) 
+Place 4: miguel91896 (10150 en jetons) 
+psychoman59 : met l'ante. 25
+saxzee : met l'ante. 25
+miguel91896 : met l'ante. 25
+saxzee : met la petite blind. 100
+miguel91896 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 5h]
+psychoman59 : passe. 
+saxzee : suit. 100
+miguel91896 : parole 
+*** FLOP *** [Th 6s Kc]
+saxzee : parole 
+miguel91896 : parole 
+*** TOURNANT *** [Th 6s Kc] [Kd]
+saxzee : parole 
+miguel91896 : parole 
+*** RIVIÈRE *** [Th 6s Kc Kd] [Ac]
+saxzee : parole 
+miguel91896 : mise. 2000
+saxzee : passe. 
+Personne n'a suivi. (2000) sont retournés à miguel91896.
+miguel91896 a remporté 475  lors du pot .
+miguel91896 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Tableau [Th 6s Kc Kd Ac]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : saxzee (petite blind) s'est couché. sur le Rivière
+Siège 4 : miguel91896 (grosse blind) a remporté (475)
+
+
+
+Main PokerStars n°237804467260 : Tournoi #3451851226, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 05/08/2022 17:55:27 CET [05/08/2022 11:55:27 ET]
+Table '3451851226 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (5550 en jetons) 
+Place 3: saxzee (4050 en jetons) 
+Place 4: miguel91896 (10400 en jetons) 
+psychoman59 : met l'ante. 25
+saxzee : met l'ante. 25
+miguel91896 : met l'ante. 25
+miguel91896 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Th]
+saxzee : suit. 200
+miguel91896 : suit. 100
+psychoman59 : parole 
+*** FLOP *** [Kd Jh 4c]
+miguel91896 : parole 
+psychoman59 : parole 
+saxzee : parole 
+*** TOURNANT *** [Kd Jh 4c] [Kh]
+miguel91896 : mise. 200
+psychoman59 : suit. 200
+saxzee : passe. 
+*** RIVIÈRE *** [Kd Jh 4c Kh] [Qs]
+miguel91896 : parole 
+psychoman59 : mise. 537
+miguel91896 : suit. 537
+*** ABATTAGE ***
+psychoman59 : montre [9c Th] (une suite, Neuf à Roi)
+miguel91896 : cache la main perdante. 
+psychoman59 a remporté 2149  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2149 | Commission 0 
+Tableau [Kd Jh 4c Kh Qs]
+Siège 1 : psychoman59 (grosse blind) a montré [9c Th] et a gagné (2149) avec une suite, Neuf à Roi
+Siège 3 : saxzee (bouton) s'est couché. sur le Tournant
+Siège 4 : miguel91896 (petite blind) a caché la main perdante. [Jd 7h]
+
+
+
+Main PokerStars n°237804475038 : Tournoi #3451851226, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 05/08/2022 17:56:02 CET [05/08/2022 11:56:02 ET]
+Table '3451851226 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (6737 en jetons) 
+Place 3: saxzee (3825 en jetons) 
+Place 4: miguel91896 (9438 en jetons) 
+psychoman59 : met l'ante. 25
+saxzee : met l'ante. 25
+miguel91896 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+saxzee : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 6h]
+miguel91896 : suit. 200
+psychoman59 : passe. 
+saxzee : parole 
+*** FLOP *** [Ts 5s 8c]
+saxzee : mise. 200
+miguel91896 : suit. 200
+*** TOURNANT *** [Ts 5s 8c] [Qh]
+saxzee : mise. 200
+miguel91896 : suit. 200
+*** RIVIÈRE *** [Ts 5s 8c Qh] [2c]
+saxzee : mise. 200
+miguel91896 : suit. 200
+*** ABATTAGE ***
+saxzee : montre [Ac Th] (une paire de Dix)
+miguel91896 : cache la main perdante. 
+saxzee a remporté 1775  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1775 | Commission 0 
+Tableau [Ts 5s 8c Qh 2c]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : saxzee (grosse blind) a montré [Ac Th] et a gagné (1775) avec une paire de Dix
+Siège 4 : miguel91896 (bouton) a caché la main perdante. [7h 8d]
+
+
+
+Main PokerStars n°237804481807 : Tournoi #3451851226, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 05/08/2022 17:56:32 CET [05/08/2022 11:56:32 ET]
+Table '3451851226 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (6612 en jetons) 
+Place 3: saxzee (4775 en jetons) 
+Place 4: miguel91896 (8613 en jetons) 
+psychoman59 : met l'ante. 25
+saxzee : met l'ante. 25
+miguel91896 : met l'ante. 25
+saxzee : met la petite blind. 100
+miguel91896 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 7s]
+psychoman59 : relance. 575 à 775
+saxzee : passe. 
+miguel91896 : suit. 575
+*** FLOP *** [Th 2c 9h]
+miguel91896 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Th 2c 9h] [Jd]
+miguel91896 : mise. 600
+psychoman59 : suit. 600
+*** RIVIÈRE *** [Th 2c 9h Jd] [3h]
+miguel91896 : mise. 800
+psychoman59 : passe. 
+Personne n'a suivi. (800) sont retournés à miguel91896.
+miguel91896 a remporté 2925  lors du pot .
+miguel91896 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2925 | Commission 0 
+Tableau [Th 2c 9h Jd 3h]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Rivière
+Siège 3 : saxzee (petite blind) s'est couché. avant Flop
+Siège 4 : miguel91896 (grosse blind) a remporté (2925)
+
+
+
+Main PokerStars n°237804488226 : Tournoi #3451851226, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 05/08/2022 17:57:00 CET [05/08/2022 11:57:00 ET]
+Table '3451851226 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (5212 en jetons) 
+Place 3: saxzee (4650 en jetons) 
+Place 4: miguel91896 (10138 en jetons) 
+psychoman59 : met l'ante. 25
+saxzee : met l'ante. 25
+miguel91896 : met l'ante. 25
+miguel91896 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 3h]
+saxzee : suit. 200
+miguel91896 : suit. 100
+psychoman59 : parole 
+*** FLOP *** [8s 6c Qd]
+miguel91896 : parole 
+psychoman59 : parole 
+saxzee : parole 
+*** TOURNANT *** [8s 6c Qd] [9c]
+miguel91896 : parole 
+psychoman59 : parole 
+saxzee : parole 
+*** RIVIÈRE *** [8s 6c Qd 9c] [5d]
+miguel91896 : mise. 800
+psychoman59 : suit. 800
+saxzee : passe. 
+*** ABATTAGE ***
+miguel91896 : montre [2s 7d] (une suite, Cinq à Neuf)
+psychoman59 : cache la main perdante. 
+miguel91896 a remporté 2275  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2275 | Commission 0 
+Tableau [8s 6c Qd 9c 5d]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [8h 3h]
+Siège 3 : saxzee (bouton) s'est couché. sur le Rivière
+Siège 4 : miguel91896 (petite blind) a montré [2s 7d] et a gagné (2275) avec une suite, Cinq à Neuf
+
+
+
+Main PokerStars n°237804495642 : Tournoi #3451851226, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 05/08/2022 17:57:33 CET [05/08/2022 11:57:33 ET]
+Table '3451851226 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4187 en jetons) 
+Place 3: saxzee (4425 en jetons) 
+Place 4: miguel91896 (11388 en jetons) 
+psychoman59 : met l'ante. 30
+saxzee : met l'ante. 30
+miguel91896 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+saxzee : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 2d]
+miguel91896 : passe. 
+psychoman59 : suit. 125
+saxzee : parole 
+*** FLOP *** [8c Ks Kc]
+psychoman59 : parole 
+saxzee : parole 
+*** TOURNANT *** [8c Ks Kc] [8h]
+psychoman59 : parole 
+saxzee : parole 
+*** RIVIÈRE *** [8c Ks Kc 8h] [Ah]
+psychoman59 : parole 
+saxzee : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3d 2d] (double paire, Rois et Huit)
+saxzee : montre [Jh 3c] (double paire, Rois et Huit)
+psychoman59 a remporté 295  lors du pot .
+saxzee a remporté 295  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [8c Ks Kc 8h Ah]
+Siège 1 : psychoman59 (petite blind) a montré [3d 2d] et a gagné (295) avec double paire, Rois et Huit
+Siège 3 : saxzee (grosse blind) a montré [Jh 3c] et a gagné (295) avec double paire, Rois et Huit
+Siège 4 : miguel91896 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237804499980 : Tournoi #3451851226, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 05/08/2022 17:57:52 CET [05/08/2022 11:57:52 ET]
+Table '3451851226 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4202 en jetons) 
+Place 3: saxzee (4440 en jetons) 
+Place 4: miguel91896 (11358 en jetons) 
+psychoman59 : met l'ante. 30
+saxzee : met l'ante. 30
+miguel91896 : met l'ante. 30
+saxzee : met la petite blind. 125
+miguel91896 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Ac]
+psychoman59 : relance. 3922 à 4172 et est all-in.
+saxzee : passe. 
+miguel91896 : passe. 
+Personne n'a suivi. (3922) sont retournés à psychoman59.
+psychoman59 a remporté 715  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 715 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (715)
+Siège 3 : saxzee (petite blind) s'est couché. avant Flop
+Siège 4 : miguel91896 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237804503863 : Tournoi #3451851226, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 05/08/2022 17:58:09 CET [05/08/2022 11:58:09 ET]
+Table '3451851226 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4637 en jetons) 
+Place 3: saxzee (4285 en jetons) 
+Place 4: miguel91896 (11078 en jetons) 
+psychoman59 : met l'ante. 30
+saxzee : met l'ante. 30
+miguel91896 : met l'ante. 30
+miguel91896 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 6c]
+saxzee : passe. 
+miguel91896 : suit. 125
+psychoman59 : relance. 4357 à 4607 et est all-in.
+miguel91896 : suit. 4357
+*** FLOP *** [5h Ks Ts]
+*** TOURNANT *** [5h Ks Ts] [8h]
+*** RIVIÈRE *** [5h Ks Ts 8h] [4c]
+*** ABATTAGE ***
+miguel91896 : montre [Jc 5c] (une paire de Cinq)
+psychoman59 : montre [Qc 6c] (Hauteur Roi)
+miguel91896 a remporté 9304  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 9304 | Commission 0 
+Tableau [5h Ks Ts 8h 4c]
+Siège 1 : psychoman59 (grosse blind) a montré [Qc 6c] et a perdu avec Hauteur Roi
+Siège 3 : saxzee (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : miguel91896 (petite blind) a montré [Jc 5c] et a gagné (9304) avec une paire de Cinq
+
+
+

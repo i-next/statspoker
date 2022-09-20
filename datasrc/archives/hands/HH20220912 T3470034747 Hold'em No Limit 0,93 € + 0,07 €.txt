@@ -1,0 +1,408 @@
+﻿Main PokerStars n°238575318711 : Tournoi #3470034747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/09/2022 10:18:14 CET [12/09/2022 4:18:14 ET]
+Table '3470034747 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Toro81000 (300 en jetons) 
+Place 3: biggi29241 (300 en jetons) 
+Toro81000 : met la petite blind. 10
+biggi29241 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Kh]
+psychoman59 : relance. 50 à 70
+Toro81000 : passe. 
+biggi29241 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (50)
+Siège 2 : Toro81000 (petite blind) s'est couché. avant Flop
+Siège 3 : biggi29241 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238575320259 : Tournoi #3470034747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/09/2022 10:18:26 CET [12/09/2022 4:18:26 ET]
+Table '3470034747 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: Toro81000 (290 en jetons) 
+Place 3: biggi29241 (280 en jetons) 
+biggi29241 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Td]
+Toro81000 : relance. 20 à 40
+biggi29241 : relance. 40 à 80
+psychoman59 : suit. 60
+Toro81000 : relance. 210 à 290 et est all-in.
+biggi29241 : suit. 200 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Toro81000.
+*** FLOP *** [5c 9d Qh]
+*** TOURNANT *** [5c 9d Qh] [8d]
+*** RIVIÈRE *** [5c 9d Qh 8d] [Kd]
+*** ABATTAGE ***
+biggi29241 : montre [Th As] (Hauteur As)
+Toro81000 : montre [Ac Jh] (Hauteur As - Roi+Dame+Valet kicker)
+Toro81000 a remporté 640  lors du pot .
+biggi29241 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [5c 9d Qh 8d Kd]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Toro81000 (bouton) a montré [Ac Jh] et a gagné (640) avec Hauteur As
+Siège 3 : biggi29241 (petite blind) a montré [Th As] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°238575323820 : Tournoi #3470034747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/09/2022 10:18:55 CET [12/09/2022 4:18:55 ET]
+Table '3470034747 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 2: Toro81000 (650 en jetons) 
+psychoman59 : met la petite blind. 10
+Toro81000 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Toro81000.
+Toro81000 a remporté 20  lors du pot .
+Toro81000 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Toro81000 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°238575324664 : Tournoi #3470034747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/09/2022 10:19:02 CET [12/09/2022 4:19:02 ET]
+Table '3470034747 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (240 en jetons) 
+Place 2: Toro81000 (660 en jetons) 
+Toro81000 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 3d]
+Toro81000 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4h 4d Ah]
+psychoman59 : parole 
+Toro81000 : parole 
+*** TOURNANT *** [4h 4d Ah] [7c]
+psychoman59 : parole 
+Toro81000 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [4h 4d Ah 7c] [As]
+psychoman59 : parole 
+Toro81000 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [2c 3d] (double paire, As et Quatre)
+Toro81000 : montre [Jc Kh] (double paire, As et Quatre - Roi kicker)
+Toro81000 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4h 4d Ah 7c As]
+Siège 1 : psychoman59 (grosse blind) a montré [2c 3d] et a perdu avec double paire, As et Quatre
+Siège 2 : Toro81000 (bouton) (petite blind) a montré [Jc Kh] et a gagné (80) avec double paire, As et Quatre
+
+
+
+Main PokerStars n°238575328849 : Tournoi #3470034747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/09/2022 10:19:37 CET [12/09/2022 4:19:37 ET]
+Table '3470034747 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (200 en jetons) 
+Place 2: Toro81000 (700 en jetons) 
+psychoman59 : met la petite blind. 15
+Toro81000 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Qc]
+psychoman59 : suit. 15
+Toro81000 : parole 
+*** FLOP *** [Tc 4c 2d]
+Toro81000 : mise. 30
+psychoman59 : relance. 140 à 170 et est all-in.
+Toro81000 : suit. 140
+*** TOURNANT *** [Tc 4c 2d] [7c]
+*** RIVIÈRE *** [Tc 4c 2d 7c] [5s]
+*** ABATTAGE ***
+Toro81000 : montre [4s Ts] (double paire, Dix et Quatre)
+psychoman59 : montre [5c Qc] (une couleur, hauteur Dame)
+psychoman59 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [Tc 4c 2d 7c 5s]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [5c Qc] et a gagné (400) avec une couleur, hauteur Dame
+Siège 2 : Toro81000 (grosse blind) a montré [4s Ts] et a perdu avec double paire, Dix et Quatre
+
+
+
+Main PokerStars n°238575331192 : Tournoi #3470034747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/09/2022 10:19:57 CET [12/09/2022 4:19:57 ET]
+Table '3470034747 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: Toro81000 (500 en jetons) 
+Toro81000 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 9d]
+Toro81000 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5s 3d 6c]
+psychoman59 : parole 
+Toro81000 : parole 
+*** TOURNANT *** [5s 3d 6c] [5h]
+psychoman59 : parole 
+Toro81000 : parole 
+*** RIVIÈRE *** [5s 3d 6c 5h] [5d]
+psychoman59 : parole 
+Toro81000 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [8s 9d] (un brelan de Cinq)
+Toro81000 : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5s 3d 6c 5h 5d]
+Siège 1 : psychoman59 (grosse blind) a montré [8s 9d] et a gagné (60) avec un brelan de Cinq
+Siège 2 : Toro81000 (bouton) (petite blind) a caché la main perdante. [9h 7s]
+
+
+
+Main PokerStars n°238575333986 : Tournoi #3470034747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 10:20:20 CET [12/09/2022 4:20:20 ET]
+Table '3470034747 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 2: Toro81000 (470 en jetons) 
+psychoman59 : met la petite blind. 20
+Toro81000 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Toro81000.
+Toro81000 a remporté 40  lors du pot .
+Toro81000 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Toro81000 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238575334673 : Tournoi #3470034747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 10:20:26 CET [12/09/2022 4:20:26 ET]
+Table '3470034747 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (410 en jetons) 
+Place 2: Toro81000 (490 en jetons) 
+Toro81000 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 5c]
+Toro81000 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : Toro81000 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238575335346 : Tournoi #3470034747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 10:20:31 CET [12/09/2022 4:20:31 ET]
+Table '3470034747 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 2: Toro81000 (470 en jetons) 
+psychoman59 : met la petite blind. 20
+Toro81000 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Js]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Toro81000.
+Toro81000 a remporté 40  lors du pot .
+Toro81000 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Toro81000 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238575335967 : Tournoi #3470034747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 10:20:36 CET [12/09/2022 4:20:36 ET]
+Table '3470034747 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (410 en jetons) 
+Place 2: Toro81000 (490 en jetons) 
+Toro81000 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 5d]
+Toro81000 : relance. 450 à 490 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (450) sont retournés à Toro81000.
+Toro81000 a remporté 80  lors du pot .
+Toro81000 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Toro81000 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°238575336826 : Tournoi #3470034747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 10:20:44 CET [12/09/2022 4:20:44 ET]
+Table '3470034747 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 2: Toro81000 (530 en jetons) 
+psychoman59 : met la petite blind. 20
+Toro81000 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Toro81000.
+Toro81000 a remporté 40  lors du pot .
+Toro81000 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Toro81000 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238575337660 : Tournoi #3470034747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 10:20:50 CET [12/09/2022 4:20:50 ET]
+Table '3470034747 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (350 en jetons) 
+Place 2: Toro81000 (550 en jetons) 
+Toro81000 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Kd]
+Toro81000 : relance. 510 à 550 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (510) sont retournés à Toro81000.
+Toro81000 a remporté 80  lors du pot .
+Toro81000 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Toro81000 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°238575338511 : Tournoi #3470034747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 10:20:58 CET [12/09/2022 4:20:58 ET]
+Table '3470034747 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: Toro81000 (590 en jetons) 
+psychoman59 : met la petite blind. 20
+Toro81000 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 9h]
+psychoman59 : relance. 270 à 310 et est all-in.
+Toro81000 : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : Toro81000 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238575340587 : Tournoi #3470034747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/09/2022 10:21:15 CET [12/09/2022 4:21:15 ET]
+Table '3470034747 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (350 en jetons) 
+Place 2: Toro81000 (550 en jetons) 
+Toro81000 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 9d]
+Toro81000 : relance. 510 à 550 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (510) sont retournés à Toro81000.
+Toro81000 a remporté 80  lors du pot .
+Toro81000 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Toro81000 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°238575341812 : Tournoi #3470034747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/09/2022 10:21:25 CET [12/09/2022 4:21:25 ET]
+Table '3470034747 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: Toro81000 (590 en jetons) 
+psychoman59 : met la petite blind. 30
+Toro81000 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Toro81000.
+Toro81000 a remporté 60  lors du pot .
+Toro81000 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Toro81000 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°238575342421 : Tournoi #3470034747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/09/2022 10:21:30 CET [12/09/2022 4:21:30 ET]
+Table '3470034747 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: Toro81000 (620 en jetons) 
+Toro81000 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 2s]
+Toro81000 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : Toro81000 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238575342982 : Tournoi #3470034747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/09/2022 10:21:35 CET [12/09/2022 4:21:35 ET]
+Table '3470034747 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: Toro81000 (590 en jetons) 
+psychoman59 : met la petite blind. 30
+Toro81000 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Td]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Toro81000.
+Toro81000 a remporté 60  lors du pot .
+Toro81000 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Toro81000 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°238575343608 : Tournoi #3470034747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/09/2022 10:21:40 CET [12/09/2022 4:21:40 ET]
+Table '3470034747 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: Toro81000 (620 en jetons) 
+Toro81000 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 9c]
+Toro81000 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Ks 6s 9d]
+psychoman59 : mise. 220 et est all-in.
+Toro81000 : suit. 220
+*** TOURNANT *** [Ks 6s 9d] [Ad]
+*** RIVIÈRE *** [Ks 6s 9d Ad] [6c]
+*** ABATTAGE ***
+psychoman59 : montre [2s 9c] (double paire, Neuf et Six)
+Toro81000 : montre [Qs Qc] (double paire, Dames et Six)
+Toro81000 a remporté 560  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Toro81000 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Ks 6s 9d Ad 6c]
+Siège 1 : psychoman59 (grosse blind) a montré [2s 9c] et a perdu avec double paire, Neuf et Six
+Siège 2 : Toro81000 (bouton) (petite blind) a montré [Qs Qc] et a gagné (560) avec double paire, Dames et Six
+
+
+

@@ -1,0 +1,2057 @@
+﻿Main PokerStars n°238145088245 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 22/08/2022 14:24:53 CET [22/08/2022 8:24:53 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 2: PistoPutin (5000 en jetons) 
+Place 3: titialay (5000 en jetons) 
+Place 4: Paste1608200 (5000 en jetons) 
+psychoman59 : met l'ante. 10
+PistoPutin : met l'ante. 10
+titialay : met l'ante. 10
+Paste1608200 : met l'ante. 10
+PistoPutin : met la petite blind. 50
+titialay : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Qc]
+Paste1608200 : passe. 
+psychoman59 : passe. 
+PistoPutin : relance. 300 à 400
+titialay : passe. 
+Personne n'a suivi. (300) sont retournés à PistoPutin.
+PistoPutin a remporté 240  lors du pot .
+PistoPutin : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PistoPutin (petite blind) a remporté (240)
+Siège 3 : titialay (grosse blind) s'est couché. avant Flop
+Siège 4 : Paste1608200 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238145094259 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 22/08/2022 14:25:21 CET [22/08/2022 8:25:21 ET]
+Table '3459958566 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4990 en jetons) 
+Place 2: PistoPutin (5130 en jetons) 
+Place 3: titialay (4890 en jetons) 
+Place 4: Paste1608200 (4990 en jetons) 
+psychoman59 : met l'ante. 10
+PistoPutin : met l'ante. 10
+titialay : met l'ante. 10
+Paste1608200 : met l'ante. 10
+titialay : met la petite blind. 50
+Paste1608200 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 9c]
+psychoman59 : suit. 100
+PistoPutin : suit. 100
+titialay : suit. 50
+Paste1608200 : parole 
+*** FLOP *** [Jc 8d 5s]
+titialay : parole 
+Paste1608200 : parole 
+psychoman59 : parole 
+PistoPutin : mise. 145
+titialay : suit. 145
+Paste1608200 : passe. 
+psychoman59 : passe. 
+*** TOURNANT *** [Jc 8d 5s] [Jd]
+titialay : parole 
+PistoPutin : mise. 365
+titialay : suit. 365
+*** RIVIÈRE *** [Jc 8d 5s Jd] [5c]
+titialay : parole 
+PistoPutin : parole 
+*** ABATTAGE ***
+titialay : montre [Th 8h] (double paire, Valets et Huit)
+PistoPutin : montre [Ah 8c] (double paire, Valets et Huit - As kicker)
+PistoPutin a remporté 1460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1460 | Commission 0 
+Tableau [Jc 8d 5s Jd 5c]
+Siège 1 : psychoman59 s'est couché. sur le Flop
+Siège 2 : PistoPutin (bouton) a montré [Ah 8c] et a gagné (1460) avec double paire, Valets et Huit
+Siège 3 : titialay (petite blind) a montré [Th 8h] et a perdu avec double paire, Valets et Huit
+Siège 4 : Paste1608200 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238145104653 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 22/08/2022 14:26:09 CET [22/08/2022 8:26:09 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4880 en jetons) 
+Place 2: PistoPutin (5970 en jetons) 
+Place 3: titialay (4270 en jetons) 
+Place 4: Paste1608200 (4880 en jetons) 
+psychoman59 : met l'ante. 10
+PistoPutin : met l'ante. 10
+titialay : met l'ante. 10
+Paste1608200 : met l'ante. 10
+Paste1608200 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 7d]
+PistoPutin : passe. 
+titialay : passe. 
+Paste1608200 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Qd 8d 6c]
+Paste1608200 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qd 8d 6c] [Th]
+Paste1608200 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qd 8d 6c Th] [9c]
+Paste1608200 : mise. 240
+psychoman59 : suit. 240
+*** ABATTAGE ***
+Paste1608200 : montre [3c 7c] (une suite, Six à Dix)
+psychoman59 : montre [Kh 7d] (une suite, Six à Dix)
+Paste1608200 a remporté 360  lors du pot .
+psychoman59 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [Qd 8d 6c Th 9c]
+Siège 1 : psychoman59 (grosse blind) a montré [Kh 7d] et a gagné (360) avec une suite, Six à Dix
+Siège 2 : PistoPutin s'est couché. avant Flop (n'a pas misé)
+Siège 3 : titialay (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Paste1608200 (petite blind) a montré [3c 7c] et a gagné (360) avec une suite, Six à Dix
+
+
+
+Main PokerStars n°238145109451 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 22/08/2022 14:26:31 CET [22/08/2022 8:26:31 ET]
+Table '3459958566 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4890 en jetons) 
+Place 2: PistoPutin (5960 en jetons) 
+Place 3: titialay (4260 en jetons) 
+Place 4: Paste1608200 (4890 en jetons) 
+psychoman59 : met l'ante. 10
+PistoPutin : met l'ante. 10
+titialay : met l'ante. 10
+Paste1608200 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+PistoPutin : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 7s]
+titialay : passe. 
+Paste1608200 : relance. 200 à 300
+psychoman59 : passe. 
+PistoPutin : passe. 
+Personne n'a suivi. (200) sont retournés à Paste1608200.
+Paste1608200 a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : PistoPutin (grosse blind) s'est couché. avant Flop
+Siège 3 : titialay s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Paste1608200 (bouton) a remporté (290)
+
+
+
+Main PokerStars n°238145112664 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 22/08/2022 14:26:46 CET [22/08/2022 8:26:46 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4830 en jetons) 
+Place 2: PistoPutin (5850 en jetons) 
+Place 3: titialay (4250 en jetons) 
+Place 4: Paste1608200 (5070 en jetons) 
+psychoman59 : met l'ante. 10
+PistoPutin : met l'ante. 10
+titialay : met l'ante. 10
+Paste1608200 : met l'ante. 10
+PistoPutin : met la petite blind. 50
+titialay : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Qs]
+Paste1608200 : passe. 
+psychoman59 : relance. 200 à 300
+PistoPutin : passe. 
+titialay : suit. 200
+*** FLOP *** [Kc 5d Ac]
+titialay : mise. 345
+psychoman59 : passe. 
+Personne n'a suivi. (345) sont retournés à titialay.
+titialay a remporté 690  lors du pot .
+*** SYNTHÈSE ***
+Pot total 690 | Commission 0 
+Tableau [Kc 5d Ac]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : PistoPutin (petite blind) s'est couché. avant Flop
+Siège 3 : titialay (grosse blind) a remporté (690)
+Siège 4 : Paste1608200 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238145117757 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 22/08/2022 14:27:10 CET [22/08/2022 8:27:10 ET]
+Table '3459958566 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4520 en jetons) 
+Place 2: PistoPutin (5790 en jetons) 
+Place 3: titialay (4630 en jetons) 
+Place 4: Paste1608200 (5060 en jetons) 
+psychoman59 : met l'ante. 10
+PistoPutin : met l'ante. 10
+titialay : met l'ante. 10
+Paste1608200 : met l'ante. 10
+titialay : met la petite blind. 50
+Paste1608200 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 7c]
+psychoman59 : passe. 
+PistoPutin : relance. 120 à 220
+titialay : passe. 
+Paste1608200 : suit. 120
+*** FLOP *** [Ks Tc 4d]
+Paste1608200 : parole 
+PistoPutin : mise. 265
+Paste1608200 : suit. 265
+*** TOURNANT *** [Ks Tc 4d] [6d]
+Paste1608200 : parole 
+PistoPutin : mise. 530
+Paste1608200 : suit. 530
+*** RIVIÈRE *** [Ks Tc 4d 6d] [6c]
+Paste1608200 : parole 
+PistoPutin : mise. 1590
+Paste1608200 : suit. 1590
+*** ABATTAGE ***
+PistoPutin : montre [Qc Kd] (double paire, Rois et Six)
+Paste1608200 : cache la main perdante. 
+PistoPutin a remporté 5300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5300 | Commission 0 
+Tableau [Ks Tc 4d 6d 6c]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PistoPutin (bouton) a montré [Qc Kd] et a gagné (5300) avec double paire, Rois et Six
+Siège 3 : titialay (petite blind) s'est couché. avant Flop
+Siège 4 : Paste1608200 (grosse blind) a caché la main perdante. [4h 2h]
+
+
+
+Main PokerStars n°238145123891 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 22/08/2022 14:27:38 CET [22/08/2022 8:27:38 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4510 en jetons) 
+Place 2: PistoPutin (8475 en jetons) 
+Place 3: titialay (4570 en jetons) 
+Place 4: Paste1608200 (2445 en jetons) 
+psychoman59 : met l'ante. 10
+PistoPutin : met l'ante. 10
+titialay : met l'ante. 10
+Paste1608200 : met l'ante. 10
+Paste1608200 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Kh]
+PistoPutin : passe. 
+titialay : passe. 
+Paste1608200 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 140  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (140)
+Siège 2 : PistoPutin s'est couché. avant Flop (n'a pas misé)
+Siège 3 : titialay (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Paste1608200 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238145125785 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 22/08/2022 14:27:47 CET [22/08/2022 8:27:47 ET]
+Table '3459958566 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4590 en jetons) 
+Place 2: PistoPutin (8465 en jetons) 
+Place 3: titialay (4560 en jetons) 
+Place 4: Paste1608200 (2385 en jetons) 
+psychoman59 : met l'ante. 10
+PistoPutin : met l'ante. 10
+titialay : met l'ante. 10
+Paste1608200 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+PistoPutin : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Kh]
+titialay : suit. 100
+Paste1608200 : relance. 2275 à 2375 et est all-in.
+psychoman59 : relance. 2205 à 4580 et est all-in.
+PistoPutin : passe. 
+titialay : passe. 
+Personne n'a suivi. (2205) sont retournés à psychoman59.
+*** FLOP *** [2d Kd Jc]
+*** TOURNANT *** [2d Kd Jc] [Qs]
+*** RIVIÈRE *** [2d Kd Jc Qs] [8d]
+*** ABATTAGE ***
+psychoman59 : montre [Ks Kh] (un brelan de Rois)
+Paste1608200 : montre [Js As] (une paire de Valets)
+psychoman59 a remporté 4990  lors du pot .
+Paste1608200 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 4990 | Commission 0 
+Tableau [2d Kd Jc Qs 8d]
+Siège 1 : psychoman59 (petite blind) a montré [Ks Kh] et a gagné (4990) avec un brelan de Rois
+Siège 2 : PistoPutin (grosse blind) s'est couché. avant Flop
+Siège 3 : titialay s'est couché. avant Flop
+Siège 4 : Paste1608200 (bouton) a montré [Js As] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°238145130424 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 22/08/2022 14:28:08 CET [22/08/2022 8:28:08 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (7195 en jetons) 
+Place 2: PistoPutin (8355 en jetons) 
+Place 3: titialay (4450 en jetons) 
+psychoman59 : met l'ante. 15
+PistoPutin : met l'ante. 15
+titialay : met l'ante. 15
+PistoPutin : met la petite blind. 60
+titialay : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 2c]
+psychoman59 : passe. 
+PistoPutin : suit. 60
+titialay : relance. 240 à 360
+PistoPutin : suit. 240
+*** FLOP *** [5s Qs 6c]
+PistoPutin : parole 
+titialay : mise. 765
+PistoPutin : passe. 
+Personne n'a suivi. (765) sont retournés à titialay.
+titialay a remporté 765  lors du pot .
+*** SYNTHÈSE ***
+Pot total 765 | Commission 0 
+Tableau [5s Qs 6c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PistoPutin (petite blind) s'est couché. sur le Flop
+Siège 3 : titialay (grosse blind) a remporté (765)
+
+
+
+Main PokerStars n°238145135241 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 22/08/2022 14:28:31 CET [22/08/2022 8:28:31 ET]
+Table '3459958566 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (7180 en jetons) 
+Place 2: PistoPutin (7980 en jetons) 
+Place 3: titialay (4840 en jetons) 
+psychoman59 : met l'ante. 15
+PistoPutin : met l'ante. 15
+titialay : met l'ante. 15
+titialay : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Kd]
+PistoPutin : relance. 120 à 240
+titialay : suit. 180
+psychoman59 : suit. 120
+*** FLOP *** [As 3c 8c]
+titialay : parole 
+psychoman59 : parole 
+PistoPutin : mise. 252
+titialay : suit. 252
+psychoman59 : passe. 
+*** TOURNANT *** [As 3c 8c] [2h]
+titialay : parole 
+PistoPutin : parole 
+*** RIVIÈRE *** [As 3c 8c 2h] [Ac]
+titialay : mise. 1269
+PistoPutin : passe. 
+Personne n'a suivi. (1269) sont retournés à titialay.
+titialay a remporté 1269  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1269 | Commission 0 
+Tableau [As 3c 8c 2h Ac]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : PistoPutin (bouton) s'est couché. sur le Rivière
+Siège 3 : titialay (petite blind) a remporté (1269)
+
+
+
+Main PokerStars n°238145143104 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 22/08/2022 14:29:07 CET [22/08/2022 8:29:07 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (6925 en jetons) 
+Place 2: PistoPutin (7473 en jetons) 
+Place 3: titialay (5602 en jetons) 
+psychoman59 : met l'ante. 15
+PistoPutin : met l'ante. 15
+titialay : met l'ante. 15
+psychoman59 : met la petite blind. 60
+PistoPutin : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 4h]
+titialay : suit. 120
+psychoman59 : passe. 
+PistoPutin : parole 
+*** FLOP *** [Tc 8c 7s]
+PistoPutin : parole 
+titialay : mise. 120
+PistoPutin : suit. 120
+*** TOURNANT *** [Tc 8c 7s] [4c]
+PistoPutin : parole 
+titialay : mise. 120
+PistoPutin : passe. 
+Personne n'a suivi. (120) sont retournés à titialay.
+titialay a remporté 585  lors du pot .
+*** SYNTHÈSE ***
+Pot total 585 | Commission 0 
+Tableau [Tc 8c 7s 4c]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : PistoPutin (grosse blind) s'est couché. sur le Tournant
+Siège 3 : titialay (bouton) a remporté (585)
+
+
+
+Main PokerStars n°238145148494 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 22/08/2022 14:29:32 CET [22/08/2022 8:29:32 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (6850 en jetons) 
+Place 2: PistoPutin (7218 en jetons) 
+Place 3: titialay (5932 en jetons) 
+psychoman59 : met l'ante. 15
+PistoPutin : met l'ante. 15
+titialay : met l'ante. 15
+PistoPutin : met la petite blind. 60
+titialay : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Kc]
+psychoman59 : relance. 120 à 240
+PistoPutin : relance. 720 à 960
+titialay : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (720) sont retournés à PistoPutin.
+PistoPutin a remporté 645  lors du pot .
+PistoPutin : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 645 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : PistoPutin (petite blind) a remporté (645)
+Siège 3 : titialay (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238145152902 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 22/08/2022 14:29:52 CET [22/08/2022 8:29:52 ET]
+Table '3459958566 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (6595 en jetons) 
+Place 2: PistoPutin (7608 en jetons) 
+Place 3: titialay (5797 en jetons) 
+psychoman59 : met l'ante. 15
+PistoPutin : met l'ante. 15
+titialay : met l'ante. 15
+titialay : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 6s]
+PistoPutin : passe. 
+titialay : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 165  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (165)
+Siège 2 : PistoPutin (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : titialay (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238145158183 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 22/08/2022 14:30:16 CET [22/08/2022 8:30:16 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (6685 en jetons) 
+Place 2: PistoPutin (7593 en jetons) 
+Place 3: titialay (5722 en jetons) 
+psychoman59 : met l'ante. 15
+PistoPutin : met l'ante. 15
+titialay : met l'ante. 15
+psychoman59 : met la petite blind. 60
+PistoPutin : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 4d]
+titialay : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à PistoPutin.
+PistoPutin a remporté 165  lors du pot .
+PistoPutin : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : PistoPutin (grosse blind) a remporté (165)
+Siège 3 : titialay (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238145161348 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 22/08/2022 14:30:31 CET [22/08/2022 8:30:31 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (6610 en jetons) 
+Place 2: PistoPutin (7683 en jetons) 
+Place 3: titialay (5707 en jetons) 
+psychoman59 : met l'ante. 15
+PistoPutin : met l'ante. 15
+titialay : met l'ante. 15
+PistoPutin : met la petite blind. 60
+titialay : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ah]
+psychoman59 : relance. 6475 à 6595 et est all-in.
+PistoPutin : passe. 
+titialay : passe. 
+Personne n'a suivi. (6475) sont retournés à psychoman59.
+psychoman59 a remporté 345  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 345 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (345)
+Siège 2 : PistoPutin (petite blind) s'est couché. avant Flop
+Siège 3 : titialay (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238145164407 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 22/08/2022 14:30:45 CET [22/08/2022 8:30:45 ET]
+Table '3459958566 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (6820 en jetons) 
+Place 2: PistoPutin (7608 en jetons) 
+Place 3: titialay (5572 en jetons) 
+psychoman59 : met l'ante. 15
+PistoPutin : met l'ante. 15
+titialay : met l'ante. 15
+titialay : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 7c]
+PistoPutin : passe. 
+titialay : suit. 60
+psychoman59 : parole 
+*** FLOP *** [7d 8c 3s]
+titialay : mise. 120
+psychoman59 : relance. 263 à 383
+titialay : suit. 263
+*** TOURNANT *** [7d 8c 3s] [Kc]
+titialay : parole 
+psychoman59 : mise. 525
+titialay : passe. 
+Personne n'a suivi. (525) sont retournés à psychoman59.
+psychoman59 a remporté 1051  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1051 | Commission 0 
+Tableau [7d 8c 3s Kc]
+Siège 1 : psychoman59 (grosse blind) a remporté (1051)
+Siège 2 : PistoPutin (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : titialay (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238145175814 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 22/08/2022 14:31:39 CET [22/08/2022 8:31:39 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (7353 en jetons) 
+Place 2: PistoPutin (7593 en jetons) 
+Place 3: titialay (5054 en jetons) 
+psychoman59 : met l'ante. 20
+PistoPutin : met l'ante. 20
+titialay : met l'ante. 20
+psychoman59 : met la petite blind. 75
+PistoPutin : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 6d]
+titialay : relance. 300 à 450
+psychoman59 : passe. 
+PistoPutin : passe. 
+Personne n'a suivi. (300) sont retournés à titialay.
+titialay a remporté 435  lors du pot .
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : PistoPutin (grosse blind) s'est couché. avant Flop
+Siège 3 : titialay (bouton) a remporté (435)
+
+
+
+Main PokerStars n°238145179069 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 22/08/2022 14:31:54 CET [22/08/2022 8:31:54 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (7258 en jetons) 
+Place 2: PistoPutin (7423 en jetons) 
+Place 3: titialay (5319 en jetons) 
+psychoman59 : met l'ante. 20
+PistoPutin : met l'ante. 20
+titialay : met l'ante. 20
+PistoPutin : met la petite blind. 75
+titialay : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Kc]
+psychoman59 : passe. 
+PistoPutin : suit. 75
+titialay : parole 
+*** FLOP *** [2h Tc 9s]
+PistoPutin : parole 
+titialay : mise. 360
+PistoPutin : passe. 
+Personne n'a suivi. (360) sont retournés à titialay.
+titialay a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [2h Tc 9s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PistoPutin (petite blind) s'est couché. sur le Flop
+Siège 3 : titialay (grosse blind) a remporté (360)
+
+
+
+Main PokerStars n°238145184320 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 22/08/2022 14:32:18 CET [22/08/2022 8:32:18 ET]
+Table '3459958566 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (7238 en jetons) 
+Place 2: PistoPutin (7253 en jetons) 
+Place 3: titialay (5509 en jetons) 
+psychoman59 : met l'ante. 20
+PistoPutin : met l'ante. 20
+titialay : met l'ante. 20
+titialay : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 4s]
+PistoPutin : passe. 
+titialay : suit. 75
+psychoman59 : parole 
+*** FLOP *** [8c 2d 7h]
+titialay : mise. 150
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à titialay.
+titialay a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [8c 2d 7h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : PistoPutin (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : titialay (petite blind) a remporté (360)
+
+
+
+Main PokerStars n°238145193903 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 22/08/2022 14:32:41 CET [22/08/2022 8:32:41 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (7068 en jetons) 
+Place 2: PistoPutin (7233 en jetons) 
+Place 3: titialay (5699 en jetons) 
+psychoman59 : met l'ante. 20
+PistoPutin : met l'ante. 20
+titialay : met l'ante. 20
+psychoman59 : met la petite blind. 75
+PistoPutin : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 2s]
+titialay : suit. 150
+psychoman59 : passe. 
+PistoPutin : parole 
+*** FLOP *** [Qc Kh 5s]
+PistoPutin : parole 
+titialay : mise. 150
+PistoPutin : passe. 
+Personne n'a suivi. (150) sont retournés à titialay.
+titialay a remporté 435  lors du pot .
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Tableau [Qc Kh 5s]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : PistoPutin (grosse blind) s'est couché. sur le Flop
+Siège 3 : titialay (bouton) a remporté (435)
+
+
+
+Main PokerStars n°238145198433 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 22/08/2022 14:33:02 CET [22/08/2022 8:33:02 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (6973 en jetons) 
+Place 2: PistoPutin (7063 en jetons) 
+Place 3: titialay (5964 en jetons) 
+psychoman59 : met l'ante. 20
+PistoPutin : met l'ante. 20
+titialay : met l'ante. 20
+PistoPutin : met la petite blind. 75
+titialay : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 2d]
+psychoman59 : relance. 150 à 300
+PistoPutin : passe. 
+titialay : suit. 150
+*** FLOP *** [5d Ac Kc]
+titialay : mise. 367
+psychoman59 : passe. 
+Personne n'a suivi. (367) sont retournés à titialay.
+titialay a remporté 735  lors du pot .
+*** SYNTHÈSE ***
+Pot total 735 | Commission 0 
+Tableau [5d Ac Kc]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : PistoPutin (petite blind) s'est couché. avant Flop
+Siège 3 : titialay (grosse blind) a remporté (735)
+
+
+
+Main PokerStars n°238145203631 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 22/08/2022 14:33:26 CET [22/08/2022 8:33:26 ET]
+Table '3459958566 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (6653 en jetons) 
+Place 2: PistoPutin (6968 en jetons) 
+Place 3: titialay (6379 en jetons) 
+psychoman59 : met l'ante. 20
+PistoPutin : met l'ante. 20
+titialay : met l'ante. 20
+titialay : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 9s]
+PistoPutin : passe. 
+titialay : suit. 75
+psychoman59 : parole 
+*** FLOP *** [2c Jd As]
+titialay : mise. 180
+psychoman59 : passe. 
+Personne n'a suivi. (180) sont retournés à titialay.
+titialay a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [2c Jd As]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : PistoPutin (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : titialay (petite blind) a remporté (360)
+
+
+
+Main PokerStars n°238145207463 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 22/08/2022 14:33:43 CET [22/08/2022 8:33:43 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (6483 en jetons) 
+Place 2: PistoPutin (6948 en jetons) 
+Place 3: titialay (6569 en jetons) 
+psychoman59 : met l'ante. 20
+PistoPutin : met l'ante. 20
+titialay : met l'ante. 20
+psychoman59 : met la petite blind. 75
+PistoPutin : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 9h]
+titialay : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à PistoPutin.
+PistoPutin a remporté 210  lors du pot .
+PistoPutin : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : PistoPutin (grosse blind) a remporté (210)
+Siège 3 : titialay (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238145210047 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 22/08/2022 14:33:55 CET [22/08/2022 8:33:55 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (6388 en jetons) 
+Place 2: PistoPutin (7063 en jetons) 
+Place 3: titialay (6549 en jetons) 
+psychoman59 : met l'ante. 20
+PistoPutin : met l'ante. 20
+titialay : met l'ante. 20
+PistoPutin : met la petite blind. 75
+titialay : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 3d]
+psychoman59 : passe. 
+PistoPutin : passe. 
+Personne n'a suivi. (75) sont retournés à titialay.
+titialay a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PistoPutin (petite blind) s'est couché. avant Flop
+Siège 3 : titialay (grosse blind) a remporté (210)
+
+
+
+Main PokerStars n°238145212435 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 22/08/2022 14:34:06 CET [22/08/2022 8:34:06 ET]
+Table '3459958566 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (6368 en jetons) 
+Place 2: PistoPutin (6968 en jetons) 
+Place 3: titialay (6664 en jetons) 
+psychoman59 : met l'ante. 25
+PistoPutin : met l'ante. 25
+titialay : met l'ante. 25
+titialay : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd As]
+PistoPutin : passe. 
+titialay : suit. 100
+psychoman59 : relance. 6143 à 6343 et est all-in.
+titialay : passe. 
+Personne n'a suivi. (6143) sont retournés à psychoman59.
+psychoman59 a remporté 475  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (475)
+Siège 2 : PistoPutin (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : titialay (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238145216222 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 22/08/2022 14:34:24 CET [22/08/2022 8:34:24 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (6618 en jetons) 
+Place 2: PistoPutin (6943 en jetons) 
+Place 3: titialay (6439 en jetons) 
+psychoman59 : met l'ante. 25
+PistoPutin : met l'ante. 25
+titialay : met l'ante. 25
+psychoman59 : met la petite blind. 100
+PistoPutin : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Kc]
+titialay : passe. 
+psychoman59 : relance. 475 à 675
+PistoPutin : passe. 
+Personne n'a suivi. (475) sont retournés à psychoman59.
+psychoman59 a remporté 475  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (475)
+Siège 2 : PistoPutin (grosse blind) s'est couché. avant Flop
+Siège 3 : titialay (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238145219005 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 22/08/2022 14:34:37 CET [22/08/2022 8:34:37 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (6868 en jetons) 
+Place 2: PistoPutin (6718 en jetons) 
+Place 3: titialay (6414 en jetons) 
+psychoman59 : met l'ante. 25
+PistoPutin : met l'ante. 25
+titialay : met l'ante. 25
+PistoPutin : met la petite blind. 100
+titialay : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 8c]
+psychoman59 : passe. 
+PistoPutin : suit. 100
+titialay : parole 
+*** FLOP *** [5d 8d Kd]
+PistoPutin : parole 
+titialay : mise. 237
+PistoPutin : suit. 237
+*** TOURNANT *** [5d 8d Kd] [3h]
+PistoPutin : parole 
+titialay : parole 
+*** RIVIÈRE *** [5d 8d Kd 3h] [Jh]
+PistoPutin : mise. 712
+titialay : passe. 
+Personne n'a suivi. (712) sont retournés à PistoPutin.
+PistoPutin a remporté 949  lors du pot .
+PistoPutin : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 949 | Commission 0 
+Tableau [5d 8d Kd 3h Jh]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PistoPutin (petite blind) a remporté (949)
+Siège 3 : titialay (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238145224836 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 22/08/2022 14:35:04 CET [22/08/2022 8:35:04 ET]
+Table '3459958566 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (6843 en jetons) 
+Place 2: PistoPutin (7205 en jetons) 
+Place 3: titialay (5952 en jetons) 
+psychoman59 : met l'ante. 25
+PistoPutin : met l'ante. 25
+titialay : met l'ante. 25
+titialay : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Th]
+PistoPutin : passe. 
+titialay : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 275  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 275 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (275)
+Siège 2 : PistoPutin (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : titialay (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238145226453 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 22/08/2022 14:35:11 CET [22/08/2022 8:35:11 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (6993 en jetons) 
+Place 2: PistoPutin (7180 en jetons) 
+Place 3: titialay (5827 en jetons) 
+psychoman59 : met l'ante. 25
+PistoPutin : met l'ante. 25
+titialay : met l'ante. 25
+psychoman59 : met la petite blind. 100
+PistoPutin : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 5d]
+titialay : suit. 200
+psychoman59 : suit. 100
+PistoPutin : parole 
+*** FLOP *** [2h 9d 8h]
+psychoman59 : parole 
+PistoPutin : parole 
+titialay : parole 
+*** TOURNANT *** [2h 9d 8h] [5h]
+psychoman59 : parole 
+PistoPutin : mise. 338
+titialay : suit. 338
+psychoman59 : suit. 338
+*** RIVIÈRE *** [2h 9d 8h 5h] [Th]
+psychoman59 : parole 
+PistoPutin : parole 
+titialay : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ad 5d] (une paire de Cinq)
+PistoPutin : montre [2c 8s] (double paire, Huit et Deux)
+titialay : cache la main perdante. 
+PistoPutin a remporté 1689  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1689 | Commission 0 
+Tableau [2h 9d 8h 5h Th]
+Siège 1 : psychoman59 (petite blind) a montré [Ad 5d] et a perdu avec une paire de Cinq
+Siège 2 : PistoPutin (grosse blind) a montré [2c 8s] et a gagné (1689) avec double paire, Huit et Deux
+Siège 3 : titialay (bouton) a caché la main perdante. [Kd Js]
+
+
+
+Main PokerStars n°238145235520 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 22/08/2022 14:35:53 CET [22/08/2022 8:35:53 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (6430 en jetons) 
+Place 2: PistoPutin (8306 en jetons) 
+Place 3: titialay (5264 en jetons) 
+psychoman59 : met l'ante. 25
+PistoPutin : met l'ante. 25
+titialay : met l'ante. 25
+PistoPutin : met la petite blind. 100
+titialay : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 9c]
+psychoman59 : passe. 
+PistoPutin : passe. 
+Personne n'a suivi. (100) sont retournés à titialay.
+titialay a remporté 275  lors du pot .
+*** SYNTHÈSE ***
+Pot total 275 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PistoPutin (petite blind) s'est couché. avant Flop
+Siège 3 : titialay (grosse blind) a remporté (275)
+
+
+
+Main PokerStars n°238145237365 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 22/08/2022 14:36:01 CET [22/08/2022 8:36:01 ET]
+Table '3459958566 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (6405 en jetons) 
+Place 2: PistoPutin (8181 en jetons) 
+Place 3: titialay (5414 en jetons) 
+psychoman59 : met l'ante. 25
+PistoPutin : met l'ante. 25
+titialay : met l'ante. 25
+titialay : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Jc]
+PistoPutin : passe. 
+titialay : relance. 475 à 675
+psychoman59 : passe. 
+Personne n'a suivi. (475) sont retournés à titialay.
+titialay a remporté 475  lors du pot .
+*** SYNTHÈSE ***
+Pot total 475 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : PistoPutin (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : titialay (petite blind) a remporté (475)
+
+
+
+Main PokerStars n°238145240825 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 22/08/2022 14:36:17 CET [22/08/2022 8:36:17 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (6180 en jetons) 
+Place 2: PistoPutin (8156 en jetons) 
+Place 3: titialay (5664 en jetons) 
+psychoman59 : met l'ante. 25
+PistoPutin : met l'ante. 25
+titialay : met l'ante. 25
+psychoman59 : met la petite blind. 100
+PistoPutin : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 5d]
+titialay : relance. 575 à 775
+psychoman59 : passe. 
+PistoPutin : passe. 
+Personne n'a suivi. (575) sont retournés à titialay.
+titialay a remporté 575  lors du pot .
+*** SYNTHÈSE ***
+Pot total 575 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : PistoPutin (grosse blind) s'est couché. avant Flop
+Siège 3 : titialay (bouton) a remporté (575)
+
+
+
+Main PokerStars n°238145244325 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 22/08/2022 14:36:33 CET [22/08/2022 8:36:33 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (6055 en jetons) 
+Place 2: PistoPutin (7931 en jetons) 
+Place 3: titialay (6014 en jetons) 
+psychoman59 : met l'ante. 25
+PistoPutin : met l'ante. 25
+titialay : met l'ante. 25
+PistoPutin : met la petite blind. 100
+titialay : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 8d]
+psychoman59 : passe. 
+PistoPutin : suit. 100
+titialay : relance. 475 à 675
+PistoPutin : suit. 475
+*** FLOP *** [6h Ts 9c]
+PistoPutin : parole 
+titialay : mise. 712
+PistoPutin : passe. 
+Personne n'a suivi. (712) sont retournés à titialay.
+titialay a remporté 1425  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1425 | Commission 0 
+Tableau [6h Ts 9c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PistoPutin (petite blind) s'est couché. sur le Flop
+Siège 3 : titialay (grosse blind) a remporté (1425)
+
+
+
+Main PokerStars n°238145249984 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 22/08/2022 14:36:58 CET [22/08/2022 8:36:58 ET]
+Table '3459958566 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (6030 en jetons) 
+Place 2: PistoPutin (7231 en jetons) 
+Place 3: titialay (6739 en jetons) 
+psychoman59 : met l'ante. 30
+PistoPutin : met l'ante. 30
+titialay : met l'ante. 30
+titialay : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Ks]
+PistoPutin : passe. 
+titialay : suit. 125
+psychoman59 : parole 
+*** FLOP *** [4s Kc Qs]
+titialay : parole 
+psychoman59 : mise. 590
+titialay : suit. 590
+*** TOURNANT *** [4s Kc Qs] [Ah]
+titialay : parole 
+psychoman59 : mise. 885
+titialay : suit. 885
+*** RIVIÈRE *** [4s Kc Qs Ah] [Jh]
+titialay : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+titialay : montre [4h 3h] (une paire de Quatre)
+psychoman59 : montre [8h Ks] (une paire de Rois)
+psychoman59 a remporté 3540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3540 | Commission 0 
+Tableau [4s Kc Qs Ah Jh]
+Siège 1 : psychoman59 (grosse blind) a montré [8h Ks] et a gagné (3540) avec une paire de Rois
+Siège 2 : PistoPutin (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : titialay (petite blind) a montré [4h 3h] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°238145257327 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 22/08/2022 14:37:32 CET [22/08/2022 8:37:32 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (7815 en jetons) 
+Place 2: PistoPutin (7201 en jetons) 
+Place 3: titialay (4984 en jetons) 
+psychoman59 : met l'ante. 30
+PistoPutin : met l'ante. 30
+titialay : met l'ante. 30
+psychoman59 : met la petite blind. 125
+PistoPutin : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Kc]
+titialay : suit. 250
+psychoman59 : suit. 125
+PistoPutin : parole 
+*** FLOP *** [5h 6c 4s]
+psychoman59 : parole 
+PistoPutin : parole 
+titialay : mise. 840
+psychoman59 : passe. 
+PistoPutin : suit. 840
+*** TOURNANT *** [5h 6c 4s] [3h]
+PistoPutin : parole 
+titialay : mise. 1260
+PistoPutin : relance. 1260 à 2520
+titialay : relance. 1344 à 3864 et est all-in.
+PistoPutin : suit. 1344
+*** RIVIÈRE *** [5h 6c 4s 3h] [5d]
+*** ABATTAGE ***
+PistoPutin : montre [7d Ks] (une suite, Trois à Sept)
+titialay : montre [4d 5c] (un full, full aux Cinq par les Quatre)
+titialay a remporté 10248  lors du pot .
+*** SYNTHÈSE ***
+Pot total 10248 | Commission 0 
+Tableau [5h 6c 4s 3h 5d]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 2 : PistoPutin (grosse blind) a montré [7d Ks] et a perdu avec une suite, Trois à Sept
+Siège 3 : titialay (bouton) a montré [4d 5c] et a gagné (10248) avec un full, full aux Cinq par les Quatre
+
+
+
+Main PokerStars n°238145264777 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 22/08/2022 14:38:06 CET [22/08/2022 8:38:06 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (7535 en jetons) 
+Place 2: PistoPutin (2217 en jetons) 
+Place 3: titialay (10248 en jetons) 
+psychoman59 : met l'ante. 30
+PistoPutin : met l'ante. 30
+titialay : met l'ante. 30
+PistoPutin : met la petite blind. 125
+titialay : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Ah]
+psychoman59 : passe. 
+PistoPutin : passe. 
+Personne n'a suivi. (125) sont retournés à titialay.
+titialay a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PistoPutin (petite blind) s'est couché. avant Flop
+Siège 3 : titialay (grosse blind) a remporté (340)
+
+
+
+Main PokerStars n°238145266482 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 22/08/2022 14:38:14 CET [22/08/2022 8:38:14 ET]
+Table '3459958566 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (7505 en jetons) 
+Place 2: PistoPutin (2062 en jetons) 
+Place 3: titialay (10433 en jetons) 
+psychoman59 : met l'ante. 30
+PistoPutin : met l'ante. 30
+titialay : met l'ante. 30
+titialay : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 2s]
+PistoPutin : passe. 
+titialay est déconnecté 
+titialay est connecté 
+titialay est déconnecté 
+titialay est connecté 
+titialay : suit. 125
+psychoman59 : parole 
+*** FLOP *** [8c 7h Kh]
+titialay : mise. 250
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à titialay.
+titialay a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [8c 7h Kh]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : PistoPutin (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : titialay (petite blind) a remporté (590)
+
+
+
+Main PokerStars n°238145277109 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 22/08/2022 14:39:02 CET [22/08/2022 8:39:02 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (7225 en jetons) 
+Place 2: PistoPutin (2032 en jetons) 
+Place 3: titialay (10743 en jetons) 
+psychoman59 : met l'ante. 30
+PistoPutin : met l'ante. 30
+titialay : met l'ante. 30
+psychoman59 : met la petite blind. 125
+PistoPutin : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 3s]
+titialay : passe. 
+psychoman59 : relance. 250 à 500
+PistoPutin : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 590  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (590)
+Siège 2 : PistoPutin (grosse blind) s'est couché. avant Flop
+Siège 3 : titialay (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238145279599 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 22/08/2022 14:39:13 CET [22/08/2022 8:39:13 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (7535 en jetons) 
+Place 2: PistoPutin (1752 en jetons) 
+Place 3: titialay (10713 en jetons) 
+psychoman59 : met l'ante. 30
+PistoPutin : met l'ante. 30
+titialay : met l'ante. 30
+PistoPutin : met la petite blind. 125
+titialay : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 9h]
+psychoman59 : passe. 
+PistoPutin : relance. 1472 à 1722 et est all-in.
+titialay : suit. 1472
+*** FLOP *** [2h 5d 8d]
+*** TOURNANT *** [2h 5d 8d] [Jc]
+*** RIVIÈRE *** [2h 5d 8d Jc] [4s]
+*** ABATTAGE ***
+PistoPutin : montre [Ah Qh] (Hauteur As)
+titialay : montre [Js Jh] (un brelan de Valets)
+titialay a remporté 3534  lors du pot .
+PistoPutin a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 3534 | Commission 0 
+Tableau [2h 5d 8d Jc 4s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PistoPutin (petite blind) a montré [Ah Qh] et a perdu avec Hauteur As
+Siège 3 : titialay (grosse blind) a montré [Js Jh] et a gagné (3534) avec un brelan de Valets
+
+
+
+Main PokerStars n°238145284082 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 22/08/2022 14:39:34 CET [22/08/2022 8:39:34 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (7505 en jetons) 
+Place 3: titialay (12495 en jetons) 
+psychoman59 : met l'ante. 30
+titialay : met l'ante. 30
+titialay : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 3c]
+titialay : suit. 125
+psychoman59 : parole 
+*** FLOP *** [Qs Tc Qc]
+psychoman59 : parole 
+titialay : mise. 560
+psychoman59 : passe. 
+Personne n'a suivi. (560) sont retournés à titialay.
+titialay a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Qs Tc Qc]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : titialay (bouton) (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°238145290103 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 22/08/2022 14:40:01 CET [22/08/2022 8:40:01 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (7225 en jetons) 
+Place 3: titialay (12775 en jetons) 
+psychoman59 : met l'ante. 30
+titialay : met l'ante. 30
+psychoman59 : met la petite blind. 125
+titialay : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ks]
+psychoman59 : suit. 125
+titialay : parole 
+*** FLOP *** [9c 4c 4d]
+titialay : parole 
+psychoman59 : mise. 250
+titialay : suit. 250
+*** TOURNANT *** [9c 4c 4d] [6h]
+titialay : parole 
+psychoman59 : mise. 250
+titialay : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 1060  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1060 | Commission 0 
+Tableau [9c 4c 4d 6h]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (1060)
+Siège 3 : titialay (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238145297430 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 22/08/2022 14:40:34 CET [22/08/2022 8:40:34 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (7755 en jetons) 
+Place 3: titialay (12245 en jetons) 
+psychoman59 : met l'ante. 40
+titialay : met l'ante. 40
+titialay : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 9h]
+titialay : suit. 150
+psychoman59 : parole 
+*** FLOP *** [Ad Jh Kd]
+psychoman59 : parole 
+titialay : parole 
+*** TOURNANT *** [Ad Jh Kd] [5s]
+psychoman59 : parole 
+titialay : parole 
+*** RIVIÈRE *** [Ad Jh Kd 5s] [2h]
+psychoman59 : parole 
+titialay : mise. 2180
+psychoman59 : passe. 
+Personne n'a suivi. (2180) sont retournés à titialay.
+titialay a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [Ad Jh Kd 5s 2h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : titialay (bouton) (petite blind) a remporté (680)
+
+
+
+Main PokerStars n°238145305395 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 22/08/2022 14:41:10 CET [22/08/2022 8:41:10 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (7415 en jetons) 
+Place 3: titialay (12585 en jetons) 
+psychoman59 : met l'ante. 40
+titialay : met l'ante. 40
+psychoman59 : met la petite blind. 150
+titialay : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à titialay.
+titialay a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : titialay (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°238145306907 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 22/08/2022 14:41:17 CET [22/08/2022 8:41:17 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (7225 en jetons) 
+Place 3: titialay (12775 en jetons) 
+psychoman59 : met l'ante. 40
+titialay : met l'ante. 40
+titialay : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 3d]
+titialay : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 380  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (380)
+Siège 3 : titialay (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238145308580 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 22/08/2022 14:41:25 CET [22/08/2022 8:41:25 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (7415 en jetons) 
+Place 3: titialay (12585 en jetons) 
+psychoman59 : met l'ante. 40
+titialay : met l'ante. 40
+psychoman59 : met la petite blind. 150
+titialay : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à titialay.
+titialay a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : titialay (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°238145310341 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 22/08/2022 14:41:33 CET [22/08/2022 8:41:33 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (7225 en jetons) 
+Place 3: titialay (12775 en jetons) 
+psychoman59 : met l'ante. 40
+titialay : met l'ante. 40
+titialay : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 3h]
+titialay : suit. 150
+psychoman59 : parole 
+*** FLOP *** [Jd Td Qs]
+psychoman59 : parole 
+titialay : parole 
+*** TOURNANT *** [Jd Td Qs] [9c]
+psychoman59 : parole 
+titialay : parole 
+*** RIVIÈRE *** [Jd Td Qs 9c] [Jh]
+psychoman59 : parole 
+titialay : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4c 3h] (une paire de Valets)
+titialay : montre [9s 6d] (double paire, Valets et Neuf)
+titialay a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [Jd Td Qs 9c Jh]
+Siège 1 : psychoman59 (grosse blind) a montré [4c 3h] et a perdu avec une paire de Valets
+Siège 3 : titialay (bouton) (petite blind) a montré [9s 6d] et a gagné (680) avec double paire, Valets et Neuf
+
+
+
+Main PokerStars n°238145315158 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 22/08/2022 14:41:55 CET [22/08/2022 8:41:55 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (6885 en jetons) 
+Place 3: titialay (13115 en jetons) 
+psychoman59 : met l'ante. 40
+titialay : met l'ante. 40
+psychoman59 : met la petite blind. 150
+titialay : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ac]
+psychoman59 : relance. 6545 à 6845 et est all-in.
+titialay : passe. 
+Personne n'a suivi. (6545) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (680)
+Siège 3 : titialay (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238145317629 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 22/08/2022 14:42:06 CET [22/08/2022 8:42:06 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (7225 en jetons) 
+Place 3: titialay (12775 en jetons) 
+psychoman59 : met l'ante. 40
+titialay : met l'ante. 40
+titialay : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Kd]
+titialay : suit. 150
+psychoman59 : parole 
+*** FLOP *** [7h 6s As]
+psychoman59 : parole 
+titialay : parole 
+*** TOURNANT *** [7h 6s As] [3d]
+psychoman59 : mise. 680
+titialay : suit. 680
+*** RIVIÈRE *** [7h 6s As 3d] [9h]
+psychoman59 : mise. 1020
+titialay : passe. 
+Personne n'a suivi. (1020) sont retournés à psychoman59.
+psychoman59 a remporté 2040  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2040 | Commission 0 
+Tableau [7h 6s As 3d 9h]
+Siège 1 : psychoman59 (grosse blind) a remporté (2040)
+Siège 3 : titialay (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238145323431 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 22/08/2022 14:42:32 CET [22/08/2022 8:42:32 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8245 en jetons) 
+Place 3: titialay (11755 en jetons) 
+psychoman59 : met l'ante. 40
+titialay : met l'ante. 40
+psychoman59 : met la petite blind. 150
+titialay : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Td]
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à titialay.
+titialay a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : titialay (grosse blind) a remporté (380)
+
+
+
+Main PokerStars n°238145325128 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 22/08/2022 14:42:40 CET [22/08/2022 8:42:40 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (8055 en jetons) 
+Place 3: titialay (11945 en jetons) 
+psychoman59 : met l'ante. 40
+titialay : met l'ante. 40
+titialay : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Js]
+titialay : suit. 150
+psychoman59 : parole 
+*** FLOP *** [9c 6s 5d]
+psychoman59 : parole 
+titialay : mise. 680
+psychoman59 : passe. 
+Personne n'a suivi. (680) sont retournés à titialay.
+titialay a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [9c 6s 5d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : titialay (bouton) (petite blind) a remporté (680)
+
+
+
+Main PokerStars n°238145328934 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (150/300) - 22/08/2022 14:42:57 CET [22/08/2022 8:42:57 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (7715 en jetons) 
+Place 3: titialay (12285 en jetons) 
+psychoman59 : met l'ante. 40
+titialay : met l'ante. 40
+psychoman59 : met la petite blind. 150
+titialay : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Qh]
+psychoman59 : relance. 680 à 980
+titialay : passe. 
+Personne n'a suivi. (680) sont retournés à psychoman59.
+psychoman59 a remporté 680  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (680)
+Siège 3 : titialay (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238145331919 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 22/08/2022 14:43:11 CET [22/08/2022 8:43:11 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (8055 en jetons) 
+Place 3: titialay (11945 en jetons) 
+psychoman59 : met l'ante. 50
+titialay : met l'ante. 50
+titialay : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 7h]
+titialay : suit. 200
+psychoman59 : parole 
+*** FLOP *** [Ks 4h 8c]
+psychoman59 : parole 
+titialay : parole 
+*** TOURNANT *** [Ks 4h 8c] [5d]
+psychoman59 : parole 
+titialay : mise. 450
+psychoman59 : suit. 450
+*** RIVIÈRE *** [Ks 4h 8c 5d] [6d]
+psychoman59 : mise. 1800
+titialay : passe. 
+Personne n'a suivi. (1800) sont retournés à psychoman59.
+psychoman59 a remporté 1800  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1800 | Commission 0 
+Tableau [Ks 4h 8c 5d 6d]
+Siège 1 : psychoman59 (grosse blind) a remporté (1800)
+Siège 3 : titialay (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238145338850 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 22/08/2022 14:43:42 CET [22/08/2022 8:43:42 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8955 en jetons) 
+Place 3: titialay (11045 en jetons) 
+psychoman59 : met l'ante. 50
+titialay : met l'ante. 50
+psychoman59 : met la petite blind. 200
+titialay : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Th]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à titialay.
+titialay a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : titialay (grosse blind) a remporté (500)
+
+
+
+Main PokerStars n°238145340748 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 22/08/2022 14:43:50 CET [22/08/2022 8:43:50 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (8705 en jetons) 
+Place 3: titialay (11295 en jetons) 
+psychoman59 : met l'ante. 50
+titialay : met l'ante. 50
+titialay : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 5h]
+titialay : suit. 200
+psychoman59 : parole 
+*** FLOP *** [Ah Qd Th]
+psychoman59 : parole 
+titialay : mise. 900
+psychoman59 : passe. 
+Personne n'a suivi. (900) sont retournés à titialay.
+titialay a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [Ah Qd Th]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : titialay (bouton) (petite blind) a remporté (900)
+
+
+
+Main PokerStars n°238145344482 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 22/08/2022 14:44:07 CET [22/08/2022 8:44:07 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8255 en jetons) 
+Place 3: titialay (11745 en jetons) 
+psychoman59 : met l'ante. 50
+titialay : met l'ante. 50
+psychoman59 : met la petite blind. 200
+titialay : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à titialay.
+titialay a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : titialay (grosse blind) a remporté (500)
+
+
+
+Main PokerStars n°238145346581 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 22/08/2022 14:44:17 CET [22/08/2022 8:44:17 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (8005 en jetons) 
+Place 3: titialay (11995 en jetons) 
+psychoman59 : met l'ante. 50
+titialay : met l'ante. 50
+titialay : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Ah]
+titialay : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 500  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (500)
+Siège 3 : titialay (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238145348116 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 22/08/2022 14:44:24 CET [22/08/2022 8:44:24 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8255 en jetons) 
+Place 3: titialay (11745 en jetons) 
+psychoman59 : met l'ante. 50
+titialay : met l'ante. 50
+psychoman59 : met la petite blind. 200
+titialay : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à titialay.
+titialay a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : titialay (grosse blind) a remporté (500)
+
+
+
+Main PokerStars n°238145350657 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 22/08/2022 14:44:36 CET [22/08/2022 8:44:36 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (8005 en jetons) 
+Place 3: titialay (11995 en jetons) 
+psychoman59 : met l'ante. 50
+titialay : met l'ante. 50
+titialay : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 9d]
+titialay : relance. 400 à 800
+psychoman59 : suit. 400
+*** FLOP *** [2s Tc 9s]
+psychoman59 : parole 
+titialay : parole 
+*** TOURNANT *** [2s Tc 9s] [Qd]
+psychoman59 : parole 
+titialay : parole 
+*** RIVIÈRE *** [2s Tc 9s Qd] [Td]
+psychoman59 : parole 
+titialay : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ks 9d] (double paire, Dix et Neuf)
+titialay : cache la main perdante. 
+psychoman59 a remporté 1700  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1700 | Commission 0 
+Tableau [2s Tc 9s Qd Td]
+Siège 1 : psychoman59 (grosse blind) a montré [Ks 9d] et a gagné (1700) avec double paire, Dix et Neuf
+Siège 3 : titialay (bouton) (petite blind) a caché la main perdante. [3d As]
+
+
+
+Main PokerStars n°238145360970 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 22/08/2022 14:45:22 CET [22/08/2022 8:45:22 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8855 en jetons) 
+Place 3: titialay (11145 en jetons) 
+psychoman59 : met l'ante. 50
+titialay : met l'ante. 50
+psychoman59 : met la petite blind. 200
+titialay : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à titialay.
+titialay a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : titialay (grosse blind) a remporté (500)
+
+
+
+Main PokerStars n°238145363014 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 22/08/2022 14:45:32 CET [22/08/2022 8:45:32 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (8605 en jetons) 
+Place 3: titialay (11395 en jetons) 
+psychoman59 : met l'ante. 50
+titialay : met l'ante. 50
+titialay : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 4h]
+titialay : suit. 200
+psychoman59 : parole 
+*** FLOP *** [6c 8c 9d]
+psychoman59 : parole 
+titialay : mise. 900
+psychoman59 : passe. 
+Personne n'a suivi. (900) sont retournés à titialay.
+titialay a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [6c 8c 9d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : titialay (bouton) (petite blind) a remporté (900)
+
+
+
+Main PokerStars n°238145372058 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 22/08/2022 14:45:51 CET [22/08/2022 8:45:51 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8155 en jetons) 
+Place 3: titialay (11845 en jetons) 
+psychoman59 : met l'ante. 50
+titialay : met l'ante. 50
+psychoman59 : met la petite blind. 200
+titialay : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à titialay.
+titialay a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : titialay (grosse blind) a remporté (500)
+
+
+
+Main PokerStars n°238145373945 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VII (200/400) - 22/08/2022 14:45:59 CET [22/08/2022 8:45:59 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (7905 en jetons) 
+Place 3: titialay (12095 en jetons) 
+psychoman59 : met l'ante. 50
+titialay : met l'ante. 50
+titialay : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 4d]
+titialay : suit. 200
+psychoman59 : relance. 7455 à 7855 et est all-in.
+titialay : passe. 
+Personne n'a suivi. (7455) sont retournés à psychoman59.
+psychoman59 a remporté 900  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (900)
+Siège 3 : titialay (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238145376820 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 22/08/2022 14:46:12 CET [22/08/2022 8:46:12 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8355 en jetons) 
+Place 3: titialay (11645 en jetons) 
+psychoman59 : met l'ante. 60
+titialay : met l'ante. 60
+psychoman59 : met la petite blind. 250
+titialay : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à titialay.
+titialay a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : titialay (grosse blind) a remporté (620)
+
+
+
+Main PokerStars n°238145379587 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 22/08/2022 14:46:25 CET [22/08/2022 8:46:25 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (8045 en jetons) 
+Place 3: titialay (11955 en jetons) 
+psychoman59 : met l'ante. 60
+titialay : met l'ante. 60
+titialay : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 4h]
+titialay : suit. 250
+psychoman59 : parole 
+*** FLOP *** [2s 6c Ac]
+psychoman59 : parole 
+titialay : parole 
+*** TOURNANT *** [2s 6c Ac] [6h]
+psychoman59 : parole 
+titialay : parole 
+*** RIVIÈRE *** [2s 6c Ac 6h] [5d]
+psychoman59 : mise. 1120
+titialay : passe. 
+Personne n'a suivi. (1120) sont retournés à psychoman59.
+psychoman59 a remporté 1120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1120 | Commission 0 
+Tableau [2s 6c Ac 6h 5d]
+Siège 1 : psychoman59 (grosse blind) a remporté (1120)
+Siège 3 : titialay (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238145385339 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 22/08/2022 14:46:50 CET [22/08/2022 8:46:50 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8605 en jetons) 
+Place 3: titialay (11395 en jetons) 
+psychoman59 : met l'ante. 60
+titialay : met l'ante. 60
+psychoman59 : met la petite blind. 250
+titialay : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à titialay.
+titialay a remporté 620  lors du pot .
+titialay : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : titialay (grosse blind) a remporté (620)
+
+
+
+Main PokerStars n°238145387156 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 22/08/2022 14:46:58 CET [22/08/2022 8:46:58 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (8295 en jetons) 
+Place 3: titialay (11705 en jetons) 
+psychoman59 : met l'ante. 60
+titialay : met l'ante. 60
+titialay : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Ac]
+titialay : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 620  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (620)
+Siège 3 : titialay (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238145388717 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 22/08/2022 14:47:05 CET [22/08/2022 8:47:05 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8605 en jetons) 
+Place 3: titialay (11395 en jetons) 
+psychoman59 : met l'ante. 60
+titialay : met l'ante. 60
+psychoman59 : met la petite blind. 250
+titialay : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Tc]
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à titialay.
+titialay a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : titialay (grosse blind) a remporté (620)
+
+
+
+Main PokerStars n°238145390346 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 22/08/2022 14:47:13 CET [22/08/2022 8:47:13 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (8295 en jetons) 
+Place 3: titialay (11705 en jetons) 
+psychoman59 : met l'ante. 60
+titialay : met l'ante. 60
+titialay : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 6d]
+titialay : suit. 250
+psychoman59 : parole 
+*** FLOP *** [As 2c Kd]
+psychoman59 : parole 
+titialay : mise. 560
+psychoman59 : passe. 
+Personne n'a suivi. (560) sont retournés à titialay.
+titialay a remporté 1120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1120 | Commission 0 
+Tableau [As 2c Kd]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : titialay (bouton) (petite blind) a remporté (1120)
+
+
+
+Main PokerStars n°238145394544 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 22/08/2022 14:47:32 CET [22/08/2022 8:47:32 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (7735 en jetons) 
+Place 3: titialay (12265 en jetons) 
+psychoman59 : met l'ante. 60
+titialay : met l'ante. 60
+psychoman59 : met la petite blind. 250
+titialay : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à titialay.
+titialay a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : titialay (grosse blind) a remporté (620)
+
+
+
+Main PokerStars n°238145396200 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 22/08/2022 14:47:39 CET [22/08/2022 8:47:39 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (7425 en jetons) 
+Place 3: titialay (12575 en jetons) 
+psychoman59 : met l'ante. 60
+titialay : met l'ante. 60
+titialay : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 7c]
+titialay : suit. 250
+psychoman59 : parole 
+*** FLOP *** [9h 3s 6s]
+psychoman59 : parole 
+titialay : parole 
+*** TOURNANT *** [9h 3s 6s] [Tc]
+psychoman59 : parole 
+titialay : parole 
+*** RIVIÈRE *** [9h 3s 6s Tc] [3c]
+psychoman59 : parole 
+titialay : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4c 7c] (une paire de Trois)
+titialay : montre [Qs 5c] (une paire de Trois - Dame kicker)
+titialay a remporté 1120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1120 | Commission 0 
+Tableau [9h 3s 6s Tc 3c]
+Siège 1 : psychoman59 (grosse blind) a montré [4c 7c] et a perdu avec une paire de Trois
+Siège 3 : titialay (bouton) (petite blind) a montré [Qs 5c] et a gagné (1120) avec une paire de Trois
+
+
+
+Main PokerStars n°238145400897 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 22/08/2022 14:48:00 CET [22/08/2022 8:48:00 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (6865 en jetons) 
+Place 3: titialay (13135 en jetons) 
+psychoman59 : met l'ante. 60
+titialay : met l'ante. 60
+psychoman59 : met la petite blind. 250
+titialay : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à titialay.
+titialay a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : titialay (grosse blind) a remporté (620)
+
+
+
+Main PokerStars n°238145403068 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 22/08/2022 14:48:10 CET [22/08/2022 8:48:10 ET]
+Table '3459958566 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (6555 en jetons) 
+Place 3: titialay (13445 en jetons) 
+psychoman59 : met l'ante. 60
+titialay : met l'ante. 60
+titialay : met la petite blind. 250
+psychoman59 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 8s]
+titialay : suit. 250
+psychoman59 : parole 
+*** FLOP *** [8d Qh 8c]
+psychoman59 : parole 
+titialay : parole 
+*** TOURNANT *** [8d Qh 8c] [Js]
+psychoman59 : parole 
+titialay : mise. 1120
+psychoman59 : relance. 1120 à 2240
+titialay : suit. 1120
+*** RIVIÈRE *** [8d Qh 8c Js] [Qd]
+psychoman59 : mise. 2800
+titialay : suit. 2800
+*** ABATTAGE ***
+psychoman59 : montre [4h 8s] (un full, full aux Huit par les Dames)
+titialay : cache la main perdante. 
+psychoman59 a remporté 11200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 11200 | Commission 0 
+Tableau [8d Qh 8c Js Qd]
+Siège 1 : psychoman59 (grosse blind) a montré [4h 8s] et a gagné (11200) avec un full, full aux Huit par les Dames
+Siège 3 : titialay (bouton) (petite blind) a caché la main perdante. [Jh 3s]
+
+
+
+Main PokerStars n°238145410135 : Tournoi #3459958566, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VIII (250/500) - 22/08/2022 14:48:42 CET [22/08/2022 8:48:42 ET]
+Table '3459958566 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (12155 en jetons) 
+Place 3: titialay (7845 en jetons) 
+psychoman59 : met l'ante. 60
+titialay : met l'ante. 60
+psychoman59 : met la petite blind. 250
+titialay : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 8c]
+psychoman59 : relance. 1120 à 1620
+titialay : relance. 6165 à 7785 et est all-in.
+psychoman59 : suit. 6165
+*** FLOP *** [4h Tc 6d]
+*** TOURNANT *** [4h Tc 6d] [9c]
+*** RIVIÈRE *** [4h Tc 6d 9c] [2c]
+*** ABATTAGE ***
+titialay : montre [Jc Qs] (Hauteur Dame)
+psychoman59 : montre [Ad 8c] (Hauteur As)
+psychoman59 a remporté 15690  lors du pot .
+titialay a fini le tournoi à la 2e place et a reçu 0.34 €.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 15690 | Commission 0 
+Tableau [4h Tc 6d 9c 2c]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Ad 8c] et a gagné (15690) avec Hauteur As
+Siège 3 : titialay (grosse blind) a montré [Jc Qs] et a perdu avec Hauteur Dame
+
+
+

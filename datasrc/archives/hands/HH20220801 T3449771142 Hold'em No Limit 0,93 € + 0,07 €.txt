@@ -1,0 +1,537 @@
+﻿Main PokerStars n°237718701756 : Tournoi #3449771142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 01/08/2022 11:32:28 CET [01/08/2022 5:32:28 ET]
+Table '3449771142 1' 3-max Siège #1 est au bouton.
+Place 1: TheLizardKing25 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: ncilos46 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+ncilos46 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Ac]
+TheLizardKing25 : passe. 
+psychoman59 : relance. 40 à 60
+ncilos46 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : TheLizardKing25 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : ncilos46 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237718704113 : Tournoi #3449771142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 01/08/2022 11:32:45 CET [01/08/2022 5:32:45 ET]
+Table '3449771142 1' 3-max Siège #2 est au bouton.
+Place 1: TheLizardKing25 (300 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: ncilos46 (280 en jetons) 
+ncilos46 : met la petite blind. 10
+TheLizardKing25 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 8d]
+psychoman59 : passe. 
+ncilos46 : suit. 10
+TheLizardKing25 : relance. 30 à 50
+ncilos46 : passe. 
+Personne n'a suivi. (30) sont retournés à TheLizardKing25.
+TheLizardKing25 a remporté 40  lors du pot .
+TheLizardKing25 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : TheLizardKing25 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ncilos46 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237718706643 : Tournoi #3449771142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 01/08/2022 11:33:02 CET [01/08/2022 5:33:02 ET]
+Table '3449771142 1' 3-max Siège #3 est au bouton.
+Place 1: TheLizardKing25 (320 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: ncilos46 (260 en jetons) 
+TheLizardKing25 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Ks]
+ncilos46 : suit. 20
+TheLizardKing25 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Th Tc 6c]
+TheLizardKing25 : parole 
+psychoman59 : parole 
+ncilos46 : parole 
+*** TOURNANT *** [Th Tc 6c] [7c]
+TheLizardKing25 : parole 
+psychoman59 : parole 
+ncilos46 : parole 
+*** RIVIÈRE *** [Th Tc 6c 7c] [9s]
+TheLizardKing25 : parole 
+psychoman59 : parole 
+ncilos46 : parole 
+*** ABATTAGE ***
+TheLizardKing25 : montre [9h Qd] (double paire, Dix et Neuf)
+psychoman59 : cache la main perdante. 
+ncilos46 : cache la main perdante. 
+TheLizardKing25 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Th Tc 6c 7c 9s]
+Siège 1 : TheLizardKing25 (petite blind) a montré [9h Qd] et a gagné (60) avec double paire, Dix et Neuf
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [4d Ks]
+Siège 3 : ncilos46 (bouton) a caché la main perdante. [As 2h]
+
+
+
+Main PokerStars n°237718713501 : Tournoi #3449771142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 01/08/2022 11:33:49 CET [01/08/2022 5:33:49 ET]
+Table '3449771142 1' 3-max Siège #1 est au bouton.
+Place 1: TheLizardKing25 (360 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: ncilos46 (240 en jetons) 
+psychoman59 : met la petite blind. 15
+ncilos46 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 3h]
+TheLizardKing25 : relance. 330 à 360 et est all-in.
+psychoman59 : passe. 
+ncilos46 : passe. 
+Personne n'a suivi. (330) sont retournés à TheLizardKing25.
+TheLizardKing25 a remporté 75  lors du pot .
+TheLizardKing25 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : TheLizardKing25 (bouton) a remporté (75)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : ncilos46 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237718715243 : Tournoi #3449771142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 01/08/2022 11:34:01 CET [01/08/2022 5:34:01 ET]
+Table '3449771142 1' 3-max Siège #2 est au bouton.
+Place 1: TheLizardKing25 (405 en jetons) 
+Place 2: psychoman59 (285 en jetons) 
+Place 3: ncilos46 (210 en jetons) 
+ncilos46 : met la petite blind. 15
+TheLizardKing25 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 2d]
+psychoman59 : passe. 
+ncilos46 : suit. 15
+TheLizardKing25 : relance. 375 à 405 et est all-in.
+ncilos46 : suit. 180 et est all-in.
+Personne n'a suivi. (195) sont retournés à TheLizardKing25.
+*** FLOP *** [9d 6h 8s]
+*** TOURNANT *** [9d 6h 8s] [4c]
+*** RIVIÈRE *** [9d 6h 8s 4c] [Qd]
+*** ABATTAGE ***
+ncilos46 : montre [Ac 5s] (Hauteur As)
+TheLizardKing25 : montre [As 3h] (Hauteur As)
+ncilos46 a remporté 210  lors du pot .
+TheLizardKing25 a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [9d 6h 8s 4c Qd]
+Siège 1 : TheLizardKing25 (grosse blind) a montré [As 3h] et a gagné (210) avec Hauteur As
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ncilos46 (petite blind) a montré [Ac 5s] et a gagné (210) avec Hauteur As
+
+
+
+Main PokerStars n°237718717998 : Tournoi #3449771142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 01/08/2022 11:34:20 CET [01/08/2022 5:34:20 ET]
+Table '3449771142 1' 3-max Siège #3 est au bouton.
+Place 1: TheLizardKing25 (405 en jetons) 
+Place 2: psychoman59 (285 en jetons) 
+Place 3: ncilos46 (210 en jetons) 
+TheLizardKing25 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 4h]
+ncilos46 : passe. 
+TheLizardKing25 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : TheLizardKing25 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : ncilos46 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237718720038 : Tournoi #3449771142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 01/08/2022 11:34:34 CET [01/08/2022 5:34:34 ET]
+Table '3449771142 1' 3-max Siège #1 est au bouton.
+Place 1: TheLizardKing25 (390 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: ncilos46 (210 en jetons) 
+psychoman59 : met la petite blind. 20
+ncilos46 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Td]
+TheLizardKing25 : relance. 350 à 390 et est all-in.
+psychoman59 : passe. 
+ncilos46 : passe. 
+Personne n'a suivi. (350) sont retournés à TheLizardKing25.
+TheLizardKing25 a remporté 100  lors du pot .
+TheLizardKing25 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : TheLizardKing25 (bouton) a remporté (100)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : ncilos46 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237718722199 : Tournoi #3449771142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 01/08/2022 11:34:50 CET [01/08/2022 5:34:50 ET]
+Table '3449771142 1' 3-max Siège #2 est au bouton.
+Place 1: TheLizardKing25 (450 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+Place 3: ncilos46 (170 en jetons) 
+ncilos46 : met la petite blind. 20
+TheLizardKing25 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Qc]
+psychoman59 : passe. 
+ncilos46 : passe. 
+Personne n'a suivi. (20) sont retournés à TheLizardKing25.
+TheLizardKing25 a remporté 40  lors du pot .
+TheLizardKing25 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : TheLizardKing25 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ncilos46 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237718723624 : Tournoi #3449771142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 01/08/2022 11:35:00 CET [01/08/2022 5:35:00 ET]
+Table '3449771142 1' 3-max Siège #3 est au bouton.
+Place 1: TheLizardKing25 (470 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+Place 3: ncilos46 (150 en jetons) 
+TheLizardKing25 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ac]
+ncilos46 : relance. 110 à 150 et est all-in.
+TheLizardKing25 : passe. 
+psychoman59 : suit. 110
+*** FLOP *** [6d Ts 2h]
+*** TOURNANT *** [6d Ts 2h] [Jh]
+*** RIVIÈRE *** [6d Ts 2h Jh] [Qd]
+*** ABATTAGE ***
+psychoman59 : montre [7c Ac] (Hauteur As)
+ncilos46 : montre [As 9s] (Hauteur As - Dame+Valet+Dix+Neuf kicker)
+ncilos46 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [6d Ts 2h Jh Qd]
+Siège 1 : TheLizardKing25 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [7c Ac] et a perdu avec Hauteur As
+Siège 3 : ncilos46 (bouton) a montré [As 9s] et a gagné (320) avec Hauteur As
+
+
+
+Main PokerStars n°237718726581 : Tournoi #3449771142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 01/08/2022 11:35:20 CET [01/08/2022 5:35:20 ET]
+Table '3449771142 1' 3-max Siège #1 est au bouton.
+Place 1: TheLizardKing25 (450 en jetons) 
+Place 2: psychoman59 (130 en jetons) 
+Place 3: ncilos46 (320 en jetons) 
+psychoman59 : met la petite blind. 20
+ncilos46 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 7h]
+TheLizardKing25 : relance. 40 à 80
+psychoman59 : passe. 
+ncilos46 : relance. 240 à 320 et est all-in.
+TheLizardKing25 : passe. 
+Personne n'a suivi. (240) sont retournés à ncilos46.
+ncilos46 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : TheLizardKing25 (bouton) s'est couché. avant Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : ncilos46 (grosse blind) a remporté (180)
+
+
+
+Main PokerStars n°237718729360 : Tournoi #3449771142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/08/2022 11:35:39 CET [01/08/2022 5:35:39 ET]
+Table '3449771142 1' 3-max Siège #2 est au bouton.
+Place 1: TheLizardKing25 (370 en jetons) 
+Place 2: psychoman59 (110 en jetons) 
+Place 3: ncilos46 (420 en jetons) 
+ncilos46 : met la petite blind. 30
+TheLizardKing25 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 8h]
+psychoman59 : passe. 
+ncilos46 : suit. 30
+TheLizardKing25 : relance. 310 à 370 et est all-in.
+ncilos46 : suit. 310
+*** FLOP *** [5d 5h Kd]
+*** TOURNANT *** [5d 5h Kd] [Jd]
+*** RIVIÈRE *** [5d 5h Kd Jd] [Ts]
+*** ABATTAGE ***
+ncilos46 : montre [Qd 3d] (une couleur, hauteur Roi)
+TheLizardKing25 : montre [2s As] (une paire de Cinq)
+ncilos46 a remporté 740  lors du pot .
+TheLizardKing25 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Tableau [5d 5h Kd Jd Ts]
+Siège 1 : TheLizardKing25 (grosse blind) a montré [2s As] et a perdu avec une paire de Cinq
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ncilos46 (petite blind) a montré [Qd 3d] et a gagné (740) avec une couleur, hauteur Roi
+
+
+
+Main PokerStars n°237718732965 : Tournoi #3449771142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/08/2022 11:36:04 CET [01/08/2022 5:36:04 ET]
+Table '3449771142 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (110 en jetons) 
+Place 3: ncilos46 (790 en jetons) 
+ncilos46 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Qd]
+ncilos46 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [6c Js 2s]
+psychoman59 : mise. 50 et est all-in.
+ncilos46 : suit. 50
+*** TOURNANT *** [6c Js 2s] [8c]
+*** RIVIÈRE *** [6c Js 2s 8c] [3h]
+*** ABATTAGE ***
+psychoman59 : montre [7h Qd] (Hauteur Dame)
+ncilos46 : montre [Td 5c] (Hauteur Valet)
+psychoman59 a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [6c Js 2s 8c 3h]
+Siège 2 : psychoman59 (grosse blind) a montré [7h Qd] et a gagné (220) avec Hauteur Dame
+Siège 3 : ncilos46 (bouton) (petite blind) a montré [Td 5c] et a perdu avec Hauteur Valet
+
+
+
+Main PokerStars n°237718736084 : Tournoi #3449771142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/08/2022 11:36:25 CET [01/08/2022 5:36:25 ET]
+Table '3449771142 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (220 en jetons) 
+Place 3: ncilos46 (680 en jetons) 
+psychoman59 : met la petite blind. 30
+ncilos46 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 8h]
+psychoman59 : relance. 160 à 220 et est all-in.
+ncilos46 : suit. 160
+*** FLOP *** [4s Ts As]
+*** TOURNANT *** [4s Ts As] [4c]
+*** RIVIÈRE *** [4s Ts As 4c] [Kd]
+*** ABATTAGE ***
+ncilos46 : montre [Jd 2d] (une paire de Quatre)
+psychoman59 : montre [Jh 8h] (une paire de Quatre)
+ncilos46 a remporté 220  lors du pot .
+psychoman59 a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [4s Ts As 4c Kd]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Jh 8h] et a gagné (220) avec une paire de Quatre
+Siège 3 : ncilos46 (grosse blind) a montré [Jd 2d] et a gagné (220) avec une paire de Quatre
+
+
+
+Main PokerStars n°237718738905 : Tournoi #3449771142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 01/08/2022 11:36:44 CET [01/08/2022 5:36:44 ET]
+Table '3449771142 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (220 en jetons) 
+Place 3: ncilos46 (680 en jetons) 
+ncilos46 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 5c]
+ncilos46 : relance. 80 à 160
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à ncilos46.
+ncilos46 a remporté 160  lors du pot .
+ncilos46 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : ncilos46 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°237718739734 : Tournoi #3449771142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 01/08/2022 11:36:50 CET [01/08/2022 5:36:50 ET]
+Table '3449771142 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (140 en jetons) 
+Place 3: ncilos46 (760 en jetons) 
+psychoman59 : met la petite blind. 40
+ncilos46 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à ncilos46.
+ncilos46 a remporté 80  lors du pot .
+ncilos46 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : ncilos46 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237718740421 : Tournoi #3449771142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 01/08/2022 11:36:55 CET [01/08/2022 5:36:55 ET]
+Table '3449771142 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (100 en jetons) 
+Place 3: ncilos46 (800 en jetons) 
+ncilos46 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Ac]
+ncilos46 : suit. 40
+psychoman59 : relance. 20 à 100 et est all-in.
+ncilos46 : suit. 20
+*** FLOP *** [7h 3c 5s]
+*** TOURNANT *** [7h 3c 5s] [7s]
+*** RIVIÈRE *** [7h 3c 5s 7s] [2s]
+*** ABATTAGE ***
+psychoman59 : montre [8s Ac] (une paire de Sept)
+ncilos46 : montre [6d 9d] (une paire de Sept - plus basse kicker)
+psychoman59 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [7h 3c 5s 7s 2s]
+Siège 2 : psychoman59 (grosse blind) a montré [8s Ac] et a gagné (200) avec une paire de Sept
+Siège 3 : ncilos46 (bouton) (petite blind) a montré [6d 9d] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°237718742777 : Tournoi #3449771142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 01/08/2022 11:37:11 CET [01/08/2022 5:37:11 ET]
+Table '3449771142 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (200 en jetons) 
+Place 3: ncilos46 (700 en jetons) 
+psychoman59 : met la petite blind. 40
+ncilos46 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Ad]
+psychoman59 : relance. 120 à 200 et est all-in.
+ncilos46 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 3 : ncilos46 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237718744403 : Tournoi #3449771142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 01/08/2022 11:37:22 CET [01/08/2022 5:37:22 ET]
+Table '3449771142 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (280 en jetons) 
+Place 3: ncilos46 (620 en jetons) 
+ncilos46 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 7h]
+ncilos46 : relance. 80 à 160
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à ncilos46.
+ncilos46 a remporté 160  lors du pot .
+ncilos46 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : ncilos46 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°237718746037 : Tournoi #3449771142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 01/08/2022 11:37:33 CET [01/08/2022 5:37:33 ET]
+Table '3449771142 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (200 en jetons) 
+Place 3: ncilos46 (700 en jetons) 
+psychoman59 : met la petite blind. 50
+ncilos46 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à ncilos46.
+ncilos46 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : ncilos46 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°237718746856 : Tournoi #3449771142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 01/08/2022 11:37:38 CET [01/08/2022 5:37:38 ET]
+Table '3449771142 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (150 en jetons) 
+Place 3: ncilos46 (750 en jetons) 
+ncilos46 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Kh]
+ncilos46 : suit. 50
+psychoman59 : relance. 50 à 150 et est all-in.
+ncilos46 : suit. 50
+*** FLOP *** [As 7s Tc]
+*** TOURNANT *** [As 7s Tc] [8s]
+*** RIVIÈRE *** [As 7s Tc 8s] [3s]
+*** ABATTAGE ***
+psychoman59 : montre [4s Kh] (une couleur, hauteur As)
+ncilos46 : montre [8h 4h] (une paire de Huit)
+psychoman59 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [As 7s Tc 8s 3s]
+Siège 2 : psychoman59 (grosse blind) a montré [4s Kh] et a gagné (300) avec une couleur, hauteur As
+Siège 3 : ncilos46 (bouton) (petite blind) a montré [8h 4h] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°237718748909 : Tournoi #3449771142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 01/08/2022 11:37:52 CET [01/08/2022 5:37:52 ET]
+Table '3449771142 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (300 en jetons) 
+Place 3: ncilos46 (600 en jetons) 
+psychoman59 : met la petite blind. 50
+ncilos46 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 9h]
+psychoman59 : relance. 200 à 300 et est all-in.
+ncilos46 : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (200)
+Siège 3 : ncilos46 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237718749931 : Tournoi #3449771142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 01/08/2022 11:37:59 CET [01/08/2022 5:37:59 ET]
+Table '3449771142 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (400 en jetons) 
+Place 3: ncilos46 (500 en jetons) 
+ncilos46 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 2d]
+ncilos46 : relance. 400 à 500 et est all-in.
+psychoman59 : suit. 300 et est all-in.
+Personne n'a suivi. (100) sont retournés à ncilos46.
+*** FLOP *** [Ac 8s 8c]
+*** TOURNANT *** [Ac 8s 8c] [Kd]
+*** RIVIÈRE *** [Ac 8s 8c Kd] [Qs]
+*** ABATTAGE ***
+psychoman59 : montre [2s 2d] (double paire, Huit et Deux)
+ncilos46 : montre [4h 4s] (double paire, Huit et Quatre)
+ncilos46 a remporté 800  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+ncilos46 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 800 | Commission 0 
+Tableau [Ac 8s 8c Kd Qs]
+Siège 2 : psychoman59 (grosse blind) a montré [2s 2d] et a perdu avec double paire, Huit et Deux
+Siège 3 : ncilos46 (bouton) (petite blind) a montré [4h 4s] et a gagné (800) avec double paire, Huit et Quatre
+
+
+

@@ -1,0 +1,300 @@
+﻿Main PokerStars n°237348434248 : Tournoi #3441222535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/07/2022 8:26:55 CET [14/07/2022 2:26:55 ET]
+Table '3441222535 1' 3-max Siège #1 est au bouton.
+Place 1: life44566 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Pipoulé (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Pipoulé : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Qs]
+life44566 : passe. 
+psychoman59 : suit. 10
+Pipoulé : parole 
+*** FLOP *** [4c Td 2c]
+psychoman59 : parole 
+Pipoulé : parole 
+*** TOURNANT *** [4c Td 2c] [7c]
+psychoman59 : parole 
+Pipoulé : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Pipoulé.
+Pipoulé a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [4c Td 2c 7c]
+Siège 1 : life44566 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 3 : Pipoulé (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237348436712 : Tournoi #3441222535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/07/2022 8:27:20 CET [14/07/2022 2:27:20 ET]
+Table '3441222535 1' 3-max Siège #2 est au bouton.
+Place 1: life44566 (300 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+Place 3: Pipoulé (320 en jetons) 
+Pipoulé : met la petite blind. 10
+life44566 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 6c]
+psychoman59 : passe. 
+Pipoulé : passe. 
+Personne n'a suivi. (10) sont retournés à life44566.
+life44566 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : life44566 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Pipoulé (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237348437380 : Tournoi #3441222535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/07/2022 8:27:26 CET [14/07/2022 2:27:26 ET]
+Table '3441222535 1' 3-max Siège #3 est au bouton.
+Place 1: life44566 (310 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+Place 3: Pipoulé (310 en jetons) 
+life44566 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Jh]
+Pipoulé : passe. 
+life44566 : relance. 20 à 40
+psychoman59 : relance. 240 à 280 et est all-in.
+life44566 : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : life44566 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : Pipoulé (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237348439453 : Tournoi #3441222535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/07/2022 8:27:46 CET [14/07/2022 2:27:46 ET]
+Table '3441222535 1' 3-max Siège #1 est au bouton.
+Place 1: life44566 (270 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: Pipoulé (310 en jetons) 
+psychoman59 : met la petite blind. 10
+Pipoulé : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 4h]
+life44566 : passe. 
+psychoman59 : suit. 10
+Pipoulé : parole 
+*** FLOP *** [5d 6s 4c]
+psychoman59 : parole 
+Pipoulé : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [5d 6s 4c] [Jh]
+psychoman59 : parole 
+Pipoulé : parole 
+*** RIVIÈRE *** [5d 6s 4c Jh] [4s]
+psychoman59 : mise. 80
+Pipoulé : relance. 190 à 270 et est all-in.
+psychoman59 : suit. 190
+*** ABATTAGE ***
+Pipoulé : montre [4d 3h] (un brelan de Quatre)
+psychoman59 : montre [Ks 4h] (un brelan de Quatre - Roi kicker)
+psychoman59 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [5d 6s 4c Jh 4s]
+Siège 1 : life44566 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Ks 4h] et a gagné (620) avec un brelan de Quatre
+Siège 3 : Pipoulé (grosse blind) a montré [4d 3h] et a perdu avec un brelan de Quatre
+
+
+
+Main PokerStars n°237348443716 : Tournoi #3441222535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 14/07/2022 8:28:27 CET [14/07/2022 2:28:27 ET]
+Table '3441222535 1' 3-max Siège #2 est au bouton.
+Place 1: life44566 (270 en jetons) 
+Place 2: psychoman59 (630 en jetons) 
+psychoman59 : met la petite blind. 15
+life44566 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Js]
+psychoman59 : relance. 60 à 90
+life44566 : suit. 60
+*** FLOP *** [2h 4h Ac]
+life44566 : parole 
+psychoman59 : mise. 90
+life44566 : relance. 90 à 180 et est all-in.
+psychoman59 : suit. 90
+*** TOURNANT *** [2h 4h Ac] [9d]
+*** RIVIÈRE *** [2h 4h Ac 9d] [8s]
+*** ABATTAGE ***
+life44566 : montre [Ad 2s] (double paire, As et Deux)
+psychoman59 : montre [Kd Js] (Hauteur As)
+life44566 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [2h 4h Ac 9d 8s]
+Siège 1 : life44566 (grosse blind) a montré [Ad 2s] et a gagné (540) avec double paire, As et Deux
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Kd Js] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°237348446567 : Tournoi #3441222535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 14/07/2022 8:28:54 CET [14/07/2022 2:28:54 ET]
+Table '3441222535 1' 3-max Siège #1 est au bouton.
+Place 1: life44566 (540 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+life44566 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Qc]
+life44566 : suit. 15
+psychoman59 : relance. 330 à 360 et est all-in.
+life44566 : passe. 
+Personne n'a suivi. (330) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : life44566 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237348448057 : Tournoi #3441222535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 14/07/2022 8:29:08 CET [14/07/2022 2:29:08 ET]
+Table '3441222535 1' 3-max Siège #2 est au bouton.
+Place 1: life44566 (510 en jetons) 
+Place 2: psychoman59 (390 en jetons) 
+psychoman59 : met la petite blind. 20
+life44566 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à life44566.
+life44566 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : life44566 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237348448829 : Tournoi #3441222535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 14/07/2022 8:29:16 CET [14/07/2022 2:29:16 ET]
+Table '3441222535 1' 3-max Siège #1 est au bouton.
+Place 1: life44566 (530 en jetons) 
+Place 2: psychoman59 (370 en jetons) 
+life44566 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 4h]
+life44566 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [6h Jc 8c]
+psychoman59 : parole 
+life44566 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à life44566.
+life44566 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6h Jc 8c]
+Siège 1 : life44566 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237348450969 : Tournoi #3441222535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 14/07/2022 8:29:36 CET [14/07/2022 2:29:36 ET]
+Table '3441222535 1' 3-max Siège #2 est au bouton.
+Place 1: life44566 (570 en jetons) 
+Place 2: psychoman59 (330 en jetons) 
+psychoman59 : met la petite blind. 20
+life44566 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à life44566.
+life44566 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : life44566 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237348451516 : Tournoi #3441222535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 14/07/2022 8:29:41 CET [14/07/2022 2:29:41 ET]
+Table '3441222535 1' 3-max Siège #1 est au bouton.
+Place 1: life44566 (590 en jetons) 
+Place 2: psychoman59 (310 en jetons) 
+life44566 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 7h]
+life44566 : suit. 20
+psychoman59 : relance. 270 à 310 et est all-in.
+life44566 : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : life44566 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°237348452690 : Tournoi #3441222535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 14/07/2022 8:29:53 CET [14/07/2022 2:29:53 ET]
+Table '3441222535 1' 3-max Siège #2 est au bouton.
+Place 1: life44566 (550 en jetons) 
+Place 2: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 20
+life44566 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Jc]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à life44566.
+life44566 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : life44566 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237348453545 : Tournoi #3441222535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/07/2022 8:30:01 CET [14/07/2022 2:30:01 ET]
+Table '3441222535 1' 3-max Siège #1 est au bouton.
+Place 1: life44566 (570 en jetons) 
+Place 2: psychoman59 (330 en jetons) 
+life44566 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 9c]
+life44566 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : life44566 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237348454293 : Tournoi #3441222535, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/07/2022 8:30:08 CET [14/07/2022 2:30:08 ET]
+Table '3441222535 1' 3-max Siège #2 est au bouton.
+Place 1: life44566 (540 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+psychoman59 : met la petite blind. 30
+life44566 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Js]
+psychoman59 : relance. 300 à 360 et est all-in.
+life44566 : suit. 300
+*** FLOP *** [Kd 2s 4d]
+*** TOURNANT *** [Kd 2s 4d] [Qc]
+*** RIVIÈRE *** [Kd 2s 4d Qc] [2h]
+*** ABATTAGE ***
+life44566 : montre [5d 5c] (double paire, Cinq et Deux)
+psychoman59 : montre [As Js] (une paire de Deux)
+life44566 a remporté 720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [Kd 2s 4d Qc 2h]
+Siège 1 : life44566 (grosse blind) a montré [5d 5c] et a gagné (720) avec double paire, Cinq et Deux
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [As Js] et a perdu avec une paire de Deux
+
+
+

@@ -1,0 +1,159 @@
+﻿Main PokerStars n°237508988904 : Tournoi #3444951316, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 10:29:10 CET [22/07/2022 4:29:10 ET]
+Table '3444951316 1' 3-max Siège #1 est au bouton.
+Place 1: fabio01111 (300 en jetons) 
+Place 2: cloitre31 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+cloitre31 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 3h]
+fabio01111 : suit. 20
+cloitre31 : relance. 20 à 40
+psychoman59 : passe. 
+fabio01111 : suit. 20
+*** FLOP *** [7h Qs Ks]
+cloitre31 : parole 
+fabio01111 : mise. 100
+cloitre31 : passe. 
+Personne n'a suivi. (100) sont retournés à fabio01111.
+fabio01111 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [7h Qs Ks]
+Siège 1 : fabio01111 (bouton) a remporté (100)
+Siège 2 : cloitre31 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237508991624 : Tournoi #3444951316, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 10:29:32 CET [22/07/2022 4:29:32 ET]
+Table '3444951316 1' 3-max Siège #2 est au bouton.
+Place 1: fabio01111 (360 en jetons) 
+Place 2: cloitre31 (260 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+fabio01111 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 9d]
+cloitre31 : suit. 20
+psychoman59 : suit. 10
+fabio01111 : relance. 60 à 80
+cloitre31 : suit. 60
+psychoman59 : passe. 
+*** FLOP *** [3s Ts 7d]
+fabio01111 : parole 
+cloitre31 : mise. 100
+fabio01111 : relance. 100 à 200
+cloitre31 : suit. 80 et est all-in.
+Personne n'a suivi. (20) sont retournés à fabio01111.
+*** TOURNANT *** [3s Ts 7d] [5h]
+*** RIVIÈRE *** [3s Ts 7d 5h] [As]
+*** ABATTAGE ***
+fabio01111 : montre [Qh Ac] (une paire de As)
+cloitre31 : montre [Th Qs] (une paire de Dix)
+fabio01111 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [3s Ts 7d 5h As]
+Siège 1 : fabio01111 (grosse blind) a montré [Qh Ac] et a gagné (540) avec une paire de As
+Siège 2 : cloitre31 (bouton) a montré [Th Qs] et a perdu avec une paire de Dix
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237508996109 : Tournoi #3444951316, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 10:30:06 CET [22/07/2022 4:30:06 ET]
+Table '3444951316 1' 3-max Siège #1 est au bouton.
+Place 1: fabio01111 (640 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+fabio01111 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Ad]
+fabio01111 : relance. 40 à 60
+psychoman59 : relance. 200 à 260 et est all-in.
+fabio01111 : suit. 200
+*** FLOP *** [9h Kh 8h]
+*** TOURNANT *** [9h Kh 8h] [7d]
+*** RIVIÈRE *** [9h Kh 8h 7d] [Tc]
+*** ABATTAGE ***
+psychoman59 : montre [8d Ad] (une paire de Huit)
+fabio01111 : montre [Ac 3s] (Hauteur As)
+psychoman59 a remporté 520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [9h Kh 8h 7d Tc]
+Siège 1 : fabio01111 (bouton) (petite blind) a montré [Ac 3s] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [8d Ad] et a gagné (520) avec une paire de Huit
+
+
+
+Main PokerStars n°237508998723 : Tournoi #3444951316, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/07/2022 10:30:27 CET [22/07/2022 4:30:27 ET]
+Table '3444951316 1' 3-max Siège #3 est au bouton.
+Place 1: fabio01111 (380 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+psychoman59 : met la petite blind. 15
+fabio01111 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5s]
+psychoman59 : relance. 60 à 90
+fabio01111 : suit. 60
+*** FLOP *** [2h Ac 4c]
+fabio01111 : mise. 290 et est all-in.
+psychoman59 : suit. 290
+*** TOURNANT *** [2h Ac 4c] [2c]
+*** RIVIÈRE *** [2h Ac 4c 2c] [Qc]
+*** ABATTAGE ***
+fabio01111 : montre [9c Jd] (une couleur, hauteur As)
+psychoman59 : montre [Ah 5s] (double paire, As et Deux)
+fabio01111 a remporté 760  lors du pot .
+*** SYNTHÈSE ***
+Pot total 760 | Commission 0 
+Tableau [2h Ac 4c 2c Qc]
+Siège 1 : fabio01111 (grosse blind) a montré [9c Jd] et a gagné (760) avec une couleur, hauteur As
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ah 5s] et a perdu avec double paire, As et Deux
+
+
+
+Main PokerStars n°237509001311 : Tournoi #3444951316, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/07/2022 10:30:46 CET [22/07/2022 4:30:46 ET]
+Table '3444951316 1' 3-max Siège #1 est au bouton.
+Place 1: fabio01111 (760 en jetons) 
+Place 3: psychoman59 (140 en jetons) 
+fabio01111 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 9d]
+fabio01111 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : fabio01111 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°237509001859 : Tournoi #3444951316, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/07/2022 10:30:51 CET [22/07/2022 4:30:51 ET]
+Table '3444951316 1' 3-max Siège #3 est au bouton.
+Place 1: fabio01111 (745 en jetons) 
+Place 3: psychoman59 (155 en jetons) 
+psychoman59 : met la petite blind. 15
+fabio01111 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 4c]
+psychoman59 : relance. 125 à 155 et est all-in.
+fabio01111 : suit. 125
+*** FLOP *** [6c 2d 8h]
+*** TOURNANT *** [6c 2d 8h] [Kh]
+*** RIVIÈRE *** [6c 2d 8h Kh] [Td]
+*** ABATTAGE ***
+fabio01111 : montre [9c Kd] (une paire de Rois)
+psychoman59 : montre [Ad 4c] (Hauteur As)
+fabio01111 a remporté 310  lors du pot .
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Tableau [6c 2d 8h Kh Td]
+Siège 1 : fabio01111 (grosse blind) a montré [9c Kd] et a gagné (310) avec une paire de Rois
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ad 4c] et a perdu avec Hauteur As
+
+
+

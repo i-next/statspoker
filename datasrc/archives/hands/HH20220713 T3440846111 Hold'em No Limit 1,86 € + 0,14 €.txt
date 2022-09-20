@@ -1,0 +1,33 @@
+﻿Main PokerStars n°237332221283 : Tournoi #3440846111, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2022 14:27:14 CET [13/07/2022 8:27:14 ET]
+Table '3440846111 1' 3-max Siège #1 est au bouton.
+Place 1: AOSB69 (300 en jetons) 
+Place 2: kanekistar1 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+kanekistar1 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Qs]
+AOSB69 : passe. 
+kanekistar1 est déconnecté 
+kanekistar1 est connecté 
+kanekistar1 est déconnecté 
+kanekistar1 est connecté 
+kanekistar1 : suit. 10
+psychoman59 : relance. 280 à 300 et est all-in.
+kanekistar1 : suit. 280 et est all-in.
+*** FLOP *** [6c Th Ad]
+*** TOURNANT *** [6c Th Ad] [8s]
+*** RIVIÈRE *** [6c Th Ad 8s] [5s]
+*** ABATTAGE ***
+kanekistar1 : montre [Tc 9c] (une paire de Dix)
+psychoman59 : montre [Kc Qs] (Hauteur As)
+kanekistar1 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [6c Th Ad 8s 5s]
+Siège 1 : AOSB69 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : kanekistar1 (petite blind) a montré [Tc 9c] et a gagné (600) avec une paire de Dix
+Siège 3 : psychoman59 (grosse blind) a montré [Kc Qs] et a perdu avec Hauteur As
+
+
+

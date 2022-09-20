@@ -1,0 +1,473 @@
+﻿Main PokerStars n°238363534993 : Tournoi #3465150106, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/09/2022 10:51:06 CET [02/09/2022 4:51:06 ET]
+Table '3465150106 1' 4-max Siège #1 est au bouton.
+Place 1: AlTex410 (5000 en jetons) 
+Place 2: EnXMuShU (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: Badluti (5000 en jetons) 
+AlTex410 : met l'ante. 10
+EnXMuShU : met l'ante. 10
+psychoman59 : met l'ante. 10
+Badluti : met l'ante. 10
+EnXMuShU : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Tc]
+Badluti : suit. 100
+AlTex410 : relance. 250 à 350
+EnXMuShU : passe. 
+psychoman59 : suit. 250
+Badluti : suit. 250
+*** FLOP *** [Th Jc 5d]
+psychoman59 : parole 
+Badluti : parole 
+AlTex410 : mise. 570
+psychoman59 : passe. 
+Badluti : suit. 570
+*** TOURNANT *** [Th Jc 5d] [3d]
+Badluti : parole 
+AlTex410 : mise. 1140
+Badluti : suit. 1140
+*** RIVIÈRE *** [Th Jc 5d 3d] [9d]
+Badluti : parole 
+AlTex410 : parole 
+*** ABATTAGE ***
+Badluti : montre [9h Kh] (une paire de Neuf)
+AlTex410 : montre [Td Jh] (double paire, Valets et Dix)
+AlTex410 a remporté 4560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4560 | Commission 0 
+Tableau [Th Jc 5d 3d 9d]
+Siège 1 : AlTex410 (bouton) a montré [Td Jh] et a gagné (4560) avec double paire, Valets et Dix
+Siège 2 : EnXMuShU (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 4 : Badluti a montré [9h Kh] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°238363543724 : Tournoi #3465150106, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/09/2022 10:52:06 CET [02/09/2022 4:52:06 ET]
+Table '3465150106 1' 4-max Siège #2 est au bouton.
+Place 1: AlTex410 (7490 en jetons) 
+Place 2: EnXMuShU (4940 en jetons) 
+Place 3: psychoman59 (4640 en jetons) 
+Place 4: Badluti (2930 en jetons) 
+AlTex410 : met l'ante. 10
+EnXMuShU : met l'ante. 10
+psychoman59 : met l'ante. 10
+Badluti : met l'ante. 10
+psychoman59 : met la petite blind. 50
+Badluti : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 3s]
+AlTex410 : passe. 
+EnXMuShU : relance. 150 à 250
+psychoman59 : passe. 
+Badluti : suit. 150
+*** FLOP *** [Kh 4d 9s]
+Badluti : parole 
+EnXMuShU : mise. 260
+Badluti : suit. 260
+*** TOURNANT *** [Kh 4d 9s] [3c]
+Badluti : parole 
+EnXMuShU : parole 
+*** RIVIÈRE *** [Kh 4d 9s 3c] [8s]
+Badluti : parole 
+EnXMuShU : mise. 410
+Badluti : passe. 
+Personne n'a suivi. (410) sont retournés à EnXMuShU.
+EnXMuShU a remporté 1110  lors du pot .
+EnXMuShU : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1110 | Commission 0 
+Tableau [Kh 4d 9s 3c 8s]
+Siège 1 : AlTex410 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : EnXMuShU (bouton) a remporté (1110)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : Badluti (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238363551281 : Tournoi #3465150106, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/09/2022 10:52:58 CET [02/09/2022 4:52:58 ET]
+Table '3465150106 1' 4-max Siège #3 est au bouton.
+Place 1: AlTex410 (7480 en jetons) 
+Place 2: EnXMuShU (5530 en jetons) 
+Place 3: psychoman59 (4580 en jetons) 
+Place 4: Badluti (2410 en jetons) 
+AlTex410 : met l'ante. 10
+EnXMuShU : met l'ante. 10
+psychoman59 : met l'ante. 10
+Badluti : met l'ante. 10
+Badluti : met la petite blind. 50
+AlTex410 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 3h]
+EnXMuShU : passe. 
+psychoman59 : passe. 
+Badluti : suit. 50
+AlTex410 : parole 
+*** FLOP *** [9d Kh Kc]
+Badluti : parole 
+AlTex410 : parole 
+*** TOURNANT *** [9d Kh Kc] [3d]
+Badluti : parole 
+AlTex410 : parole 
+*** RIVIÈRE *** [9d Kh Kc 3d] [As]
+Badluti : parole 
+AlTex410 : parole 
+*** ABATTAGE ***
+Badluti : montre [6h Qh] (une paire de Rois)
+AlTex410 : cache la main perdante. 
+Badluti a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [9d Kh Kc 3d As]
+Siège 1 : AlTex410 (grosse blind) a caché la main perdante. [6d 7s]
+Siège 2 : EnXMuShU s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Badluti (petite blind) a montré [6h Qh] et a gagné (240) avec une paire de Rois
+
+
+
+Main PokerStars n°238363557407 : Tournoi #3465150106, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/09/2022 10:53:41 CET [02/09/2022 4:53:41 ET]
+Table '3465150106 1' 4-max Siège #4 est au bouton.
+Place 1: AlTex410 (7370 en jetons) 
+Place 2: EnXMuShU (5520 en jetons) 
+Place 3: psychoman59 (4570 en jetons) 
+Place 4: Badluti (2540 en jetons) 
+AlTex410 : met l'ante. 10
+EnXMuShU : met l'ante. 10
+psychoman59 : met l'ante. 10
+Badluti : met l'ante. 10
+AlTex410 : met la petite blind. 50
+EnXMuShU : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 2h]
+psychoman59 : passe. 
+Badluti : relance. 290 à 390
+AlTex410 : passe. 
+EnXMuShU : passe. 
+Personne n'a suivi. (290) sont retournés à Badluti.
+Badluti a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : AlTex410 (petite blind) s'est couché. avant Flop
+Siège 2 : EnXMuShU (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Badluti (bouton) a remporté (290)
+
+
+
+Main PokerStars n°238363560021 : Tournoi #3465150106, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 02/09/2022 10:53:59 CET [02/09/2022 4:53:59 ET]
+Table '3465150106 1' 4-max Siège #1 est au bouton.
+Place 1: AlTex410 (7310 en jetons) 
+Place 2: EnXMuShU (5410 en jetons) 
+Place 3: psychoman59 (4560 en jetons) 
+Place 4: Badluti (2720 en jetons) 
+AlTex410 : met l'ante. 10
+EnXMuShU : met l'ante. 10
+psychoman59 : met l'ante. 10
+Badluti : met l'ante. 10
+EnXMuShU : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 2s]
+Badluti : passe. 
+AlTex410 : relance. 120 à 220
+EnXMuShU : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à AlTex410.
+AlTex410 a remporté 290  lors du pot .
+AlTex410 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Siège 1 : AlTex410 (bouton) a remporté (290)
+Siège 2 : EnXMuShU (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : Badluti s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238363562876 : Tournoi #3465150106, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 02/09/2022 10:54:18 CET [02/09/2022 4:54:18 ET]
+Table '3465150106 1' 4-max Siège #2 est au bouton.
+Place 1: AlTex410 (7490 en jetons) 
+Place 2: EnXMuShU (5350 en jetons) 
+Place 3: psychoman59 (4450 en jetons) 
+Place 4: Badluti (2710 en jetons) 
+AlTex410 : met l'ante. 15
+EnXMuShU : met l'ante. 15
+psychoman59 : met l'ante. 15
+Badluti : met l'ante. 15
+psychoman59 : met la petite blind. 60
+Badluti : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 5c]
+AlTex410 : passe. 
+EnXMuShU : passe. 
+psychoman59 : suit. 60
+Badluti : parole 
+*** FLOP *** [Qd 9s 4c]
+psychoman59 : parole 
+Badluti : parole 
+*** TOURNANT *** [Qd 9s 4c] [Ad]
+psychoman59 : parole 
+Badluti : parole 
+*** RIVIÈRE *** [Qd 9s 4c Ad] [Tc]
+psychoman59 : parole 
+Badluti : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ks 5c] (Hauteur As)
+Badluti : montre [5h 5s] (une paire de Cinq)
+Badluti a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Qd 9s 4c Ad Tc]
+Siège 1 : AlTex410 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : EnXMuShU (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Ks 5c] et a perdu avec Hauteur As
+Siège 4 : Badluti (grosse blind) a montré [5h 5s] et a gagné (300) avec une paire de Cinq
+
+
+
+Main PokerStars n°238363569837 : Tournoi #3465150106, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 02/09/2022 10:55:06 CET [02/09/2022 4:55:06 ET]
+Table '3465150106 1' 4-max Siège #3 est au bouton.
+Place 1: AlTex410 (7475 en jetons) 
+Place 2: EnXMuShU (5335 en jetons) 
+Place 3: psychoman59 (4315 en jetons) 
+Place 4: Badluti (2875 en jetons) 
+AlTex410 : met l'ante. 15
+EnXMuShU : met l'ante. 15
+psychoman59 : met l'ante. 15
+Badluti : met l'ante. 15
+Badluti : met la petite blind. 60
+AlTex410 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 3d]
+EnXMuShU : passe. 
+psychoman59 : relance. 120 à 240
+Badluti : passe. 
+AlTex410 : suit. 120
+*** FLOP *** [Ac Ts Jh]
+AlTex410 : parole 
+psychoman59 : mise. 300
+AlTex410 : suit. 300
+*** TOURNANT *** [Ac Ts Jh] [9s]
+AlTex410 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Ac Ts Jh 9s] [Js]
+AlTex410 : mise. 720
+psychoman59 : suit. 720
+*** ABATTAGE ***
+AlTex410 : montre [7h Ks] (une paire de Valets)
+psychoman59 : montre [3s 3d] (double paire, Valets et Trois)
+psychoman59 a remporté 2640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2640 | Commission 0 
+Tableau [Ac Ts Jh 9s Js]
+Siège 1 : AlTex410 (grosse blind) a montré [7h Ks] et a perdu avec une paire de Valets
+Siège 2 : EnXMuShU s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) a montré [3s 3d] et a gagné (2640) avec double paire, Valets et Trois
+Siège 4 : Badluti (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238363575607 : Tournoi #3465150106, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 02/09/2022 10:55:53 CET [02/09/2022 4:55:53 ET]
+Table '3465150106 1' 4-max Siège #4 est au bouton.
+Place 1: AlTex410 (6200 en jetons) 
+Place 2: EnXMuShU (5320 en jetons) 
+Place 3: psychoman59 (5680 en jetons) 
+Place 4: Badluti (2800 en jetons) 
+AlTex410 : met l'ante. 15
+EnXMuShU : met l'ante. 15
+psychoman59 : met l'ante. 15
+Badluti : met l'ante. 15
+AlTex410 : met la petite blind. 60
+EnXMuShU : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 4h]
+psychoman59 : passe. 
+Badluti : passe. 
+AlTex410 : relance. 300 à 420
+EnXMuShU : suit. 300
+*** FLOP *** [Ks 8c 3h]
+AlTex410 : mise. 297
+EnXMuShU : suit. 297
+*** TOURNANT *** [Ks 8c 3h] [Ts]
+AlTex410 : mise. 493
+EnXMuShU : suit. 493
+*** RIVIÈRE *** [Ks 8c 3h Ts] [Qs]
+AlTex410 : parole 
+EnXMuShU : mise. 1572
+AlTex410 : passe. [Jc Js]
+Personne n'a suivi. (1572) sont retournés à EnXMuShU.
+EnXMuShU a remporté 2480  lors du pot .
+EnXMuShU : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2480 | Commission 0 
+Tableau [Ks 8c 3h Ts Qs]
+Siège 1 : AlTex410 (petite blind) s'est couché. sur le Rivière
+Siège 2 : EnXMuShU (grosse blind) a remporté (2480)
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Badluti (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238363583039 : Tournoi #3465150106, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 02/09/2022 10:56:54 CET [02/09/2022 4:56:54 ET]
+Table '3465150106 1' 4-max Siège #1 est au bouton.
+Place 1: AlTex410 (4975 en jetons) 
+Place 2: EnXMuShU (6575 en jetons) 
+Place 3: psychoman59 (5665 en jetons) 
+Place 4: Badluti (2785 en jetons) 
+AlTex410 : met l'ante. 15
+EnXMuShU : met l'ante. 15
+psychoman59 : met l'ante. 15
+Badluti : met l'ante. 15
+EnXMuShU : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 9c]
+Badluti : suit. 120
+AlTex410 : passe. 
+EnXMuShU : suit. 60
+psychoman59 : parole 
+*** FLOP *** [Jd 7c Qd]
+EnXMuShU : parole 
+psychoman59 : parole 
+Badluti : mise. 120
+EnXMuShU : passe. 
+psychoman59 : suit. 120
+*** TOURNANT *** [Jd 7c Qd] [Ac]
+psychoman59 : parole 
+Badluti : parole 
+*** RIVIÈRE *** [Jd 7c Qd Ac] [5s]
+psychoman59 : parole 
+Badluti : parole 
+*** ABATTAGE ***
+psychoman59 : montre [8c 9c] (Hauteur As)
+Badluti : montre [8s 8d] (une paire de Huit)
+Badluti a remporté 660  lors du pot .
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [Jd 7c Qd Ac 5s]
+Siège 1 : AlTex410 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : EnXMuShU (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a montré [8c 9c] et a perdu avec Hauteur As
+Siège 4 : Badluti a montré [8s 8d] et a gagné (660) avec une paire de Huit
+
+
+
+Main PokerStars n°238363589115 : Tournoi #3465150106, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 02/09/2022 10:57:43 CET [02/09/2022 4:57:43 ET]
+Table '3465150106 1' 4-max Siège #2 est au bouton.
+Place 1: AlTex410 (4960 en jetons) 
+Place 2: EnXMuShU (6440 en jetons) 
+Place 3: psychoman59 (5410 en jetons) 
+Place 4: Badluti (3190 en jetons) 
+AlTex410 : met l'ante. 20
+EnXMuShU : met l'ante. 20
+psychoman59 : met l'ante. 20
+Badluti : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Badluti : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 6h]
+AlTex410 : relance. 180 à 330
+EnXMuShU : passe. 
+psychoman59 : passe. 
+Badluti : suit. 180
+*** FLOP *** [Ks Kc 2c]
+Badluti : parole 
+AlTex410 : mise. 269
+Badluti : suit. 269
+*** TOURNANT *** [Ks Kc 2c] [3d]
+Badluti : parole 
+AlTex410 : parole 
+*** RIVIÈRE *** [Ks Kc 2c 3d] [9s]
+Badluti : mise. 1353
+AlTex410 : suit. 1353
+*** ABATTAGE ***
+Badluti : montre [4d Kd] (un brelan de Rois)
+AlTex410 : cache la main perdante. 
+Badluti a remporté 4059  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4059 | Commission 0 
+Tableau [Ks Kc 2c 3d 9s]
+Siège 1 : AlTex410 a caché la main perdante. [9c Ad]
+Siège 2 : EnXMuShU (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : Badluti (grosse blind) a montré [4d Kd] et a gagné (4059) avec un brelan de Rois
+
+
+
+Main PokerStars n°238363594637 : Tournoi #3465150106, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 02/09/2022 10:58:28 CET [02/09/2022 4:58:28 ET]
+Table '3465150106 1' 4-max Siège #3 est au bouton.
+Place 1: AlTex410 (2988 en jetons) 
+Place 2: EnXMuShU (6420 en jetons) 
+Place 3: psychoman59 (5315 en jetons) 
+Place 4: Badluti (5277 en jetons) 
+AlTex410 : met l'ante. 20
+EnXMuShU : met l'ante. 20
+psychoman59 : met l'ante. 20
+Badluti : met l'ante. 20
+Badluti : met la petite blind. 75
+AlTex410 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 7s]
+EnXMuShU : passe. 
+psychoman59 : passe. 
+Badluti : suit. 75
+AlTex410 : parole 
+*** FLOP *** [4c Td Jc]
+Badluti : mise. 150
+AlTex410 : suit. 150
+*** TOURNANT *** [4c Td Jc] [6c]
+Badluti : mise. 150
+AlTex410 : suit. 150
+*** RIVIÈRE *** [4c Td Jc 6c] [4s]
+Badluti : mise. 150
+AlTex410 : passe. 
+Personne n'a suivi. (150) sont retournés à Badluti.
+Badluti a remporté 980  lors du pot .
+*** SYNTHÈSE ***
+Pot total 980 | Commission 0 
+Tableau [4c Td Jc 6c 4s]
+Siège 1 : AlTex410 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : EnXMuShU s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Badluti (petite blind) a remporté (980)
+
+
+
+Main PokerStars n°238363598564 : Tournoi #3465150106, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 02/09/2022 10:59:00 CET [02/09/2022 4:59:00 ET]
+Table '3465150106 1' 4-max Siège #4 est au bouton.
+Place 1: AlTex410 (2518 en jetons) 
+Place 2: EnXMuShU (6400 en jetons) 
+Place 3: psychoman59 (5295 en jetons) 
+Place 4: Badluti (5787 en jetons) 
+AlTex410 : met l'ante. 20
+EnXMuShU : met l'ante. 20
+psychoman59 : met l'ante. 20
+Badluti : met l'ante. 20
+AlTex410 : met la petite blind. 75
+EnXMuShU : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd As]
+psychoman59 : relance. 5125 à 5275 et est all-in.
+Badluti : suit. 5275
+AlTex410 : passe. 
+EnXMuShU : passe. [6c 6s]
+*** FLOP *** [Jh Js 5c]
+*** TOURNANT *** [Jh Js 5c] [3d]
+*** RIVIÈRE *** [Jh Js 5c 3d] [3c]
+*** ABATTAGE ***
+psychoman59 : montre [Qd As] (double paire, Valets et Trois)
+Badluti : montre [Tc Ts] (double paire, Valets et Dix)
+Badluti a remporté 10855  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 10855 | Commission 0 
+Tableau [Jh Js 5c 3d 3c]
+Siège 1 : AlTex410 (petite blind) s'est couché. avant Flop
+Siège 2 : EnXMuShU (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 a montré [Qd As] et a perdu avec double paire, Valets et Trois
+Siège 4 : Badluti (bouton) a montré [Tc Ts] et a gagné (10855) avec double paire, Valets et Dix
+
+
+

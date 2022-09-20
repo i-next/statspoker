@@ -1,0 +1,152 @@
+﻿Main PokerStars n°238222564008 : Tournoi #3461801712, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/08/2022 10:33:22 CET [26/08/2022 4:33:22 ET]
+Table '3461801712 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: smoke-54ooo (300 en jetons) 
+Place 3: Manu053 (300 en jetons) 
+smoke-54ooo : met la petite blind. 10
+Manu053 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 2d]
+psychoman59 : passe. 
+smoke-54ooo : relance. 280 à 300 et est all-in.
+Manu053 : passe. 
+Personne n'a suivi. (280) sont retournés à smoke-54ooo.
+smoke-54ooo a remporté 40  lors du pot .
+smoke-54ooo : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : smoke-54ooo (petite blind) a remporté (40)
+Siège 3 : Manu053 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238222566306 : Tournoi #3461801712, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/08/2022 10:33:40 CET [26/08/2022 4:33:40 ET]
+Table '3461801712 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: smoke-54ooo (320 en jetons) 
+Place 3: Manu053 (280 en jetons) 
+Manu053 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Qd]
+smoke-54ooo : suit. 20
+Manu053 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6c Kc 2c]
+Manu053 : parole 
+psychoman59 : parole 
+smoke-54ooo : parole 
+*** TOURNANT *** [6c Kc 2c] [6h]
+Manu053 : parole 
+psychoman59 : parole 
+smoke-54ooo : parole 
+*** RIVIÈRE *** [6c Kc 2c 6h] [Ts]
+Manu053 : parole 
+psychoman59 : parole 
+smoke-54ooo : parole 
+*** ABATTAGE ***
+Manu053 : montre [9h 4d] (une paire de Six)
+psychoman59 : montre [3s Qd] (une paire de Six - Roi+Dame kicker)
+smoke-54ooo : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6c Kc 2c 6h Ts]
+Siège 1 : psychoman59 (grosse blind) a montré [3s Qd] et a gagné (60) avec une paire de Six
+Siège 2 : smoke-54ooo (bouton) a caché la main perdante. [3d 7d]
+Siège 3 : Manu053 (petite blind) a montré [9h 4d] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°238222570394 : Tournoi #3461801712, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/08/2022 10:34:12 CET [26/08/2022 4:34:12 ET]
+Table '3461801712 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: smoke-54ooo (300 en jetons) 
+Place 3: Manu053 (260 en jetons) 
+psychoman59 : met la petite blind. 10
+smoke-54ooo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Ks]
+Manu053 : passe. 
+psychoman59 : relance. 320 à 340 et est all-in.
+smoke-54ooo : suit. 280 et est all-in.
+Personne n'a suivi. (40) sont retournés à psychoman59.
+*** FLOP *** [4s 9c 9s]
+*** TOURNANT *** [4s 9c 9s] [Ah]
+*** RIVIÈRE *** [4s 9c 9s Ah] [8h]
+*** ABATTAGE ***
+psychoman59 : montre [Qc Ks] (une paire de Neuf)
+smoke-54ooo : montre [Tc 9d] (un brelan de Neuf)
+smoke-54ooo a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [4s 9c 9s Ah 8h]
+Siège 1 : psychoman59 (petite blind) a montré [Qc Ks] et a perdu avec une paire de Neuf
+Siège 2 : smoke-54ooo (grosse blind) a montré [Tc 9d] et a gagné (600) avec un brelan de Neuf
+Siège 3 : Manu053 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238222573049 : Tournoi #3461801712, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/08/2022 10:34:32 CET [26/08/2022 4:34:32 ET]
+Table '3461801712 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (40 en jetons) 
+Place 2: smoke-54ooo (600 en jetons) 
+Place 3: Manu053 (260 en jetons) 
+smoke-54ooo : met la petite blind. 15
+Manu053 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Jd]
+psychoman59 : relance. 10 à 40 et est all-in.
+smoke-54ooo : suit. 25
+Manu053 : suit. 10
+*** FLOP *** [Ad 9c 6s]
+smoke-54ooo : parole 
+Manu053 : mise. 60
+smoke-54ooo : passe. 
+Personne n'a suivi. (60) sont retournés à Manu053.
+*** TOURNANT *** [Ad 9c 6s] [Qs]
+*** RIVIÈRE *** [Ad 9c 6s Qs] [8c]
+*** ABATTAGE ***
+Manu053 : montre [8s 3d] (une paire de Huit)
+psychoman59 : montre [Qc Jd] (une paire de Dames)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ad 9c 6s Qs 8c]
+Siège 1 : psychoman59 (bouton) a montré [Qc Jd] et a gagné (120) avec une paire de Dames
+Siège 2 : smoke-54ooo (petite blind) s'est couché. sur le Flop
+Siège 3 : Manu053 (grosse blind) a montré [8s 3d] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°238222575922 : Tournoi #3461801712, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/08/2022 10:34:55 CET [26/08/2022 4:34:55 ET]
+Table '3461801712 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (120 en jetons) 
+Place 2: smoke-54ooo (560 en jetons) 
+Place 3: Manu053 (220 en jetons) 
+Manu053 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Qc]
+smoke-54ooo : passe. 
+Manu053 : relance. 190 à 220 et est all-in.
+psychoman59 : suit. 90 et est all-in.
+Personne n'a suivi. (100) sont retournés à Manu053.
+*** FLOP *** [7c 9c 3s]
+*** TOURNANT *** [7c 9c 3s] [9h]
+*** RIVIÈRE *** [7c 9c 3s 9h] [4d]
+*** ABATTAGE ***
+Manu053 : montre [Th Ac] (une paire de Neuf)
+psychoman59 : montre [6s Qc] (une paire de Neuf - plus basse kicker)
+Manu053 a remporté 240  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [7c 9c 3s 9h 4d]
+Siège 1 : psychoman59 (grosse blind) a montré [6s Qc] et a perdu avec une paire de Neuf
+Siège 2 : smoke-54ooo (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Manu053 (petite blind) a montré [Th Ac] et a gagné (240) avec une paire de Neuf
+
+
+

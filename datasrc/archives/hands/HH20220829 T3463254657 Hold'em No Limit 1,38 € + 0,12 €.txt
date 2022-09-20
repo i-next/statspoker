@@ -1,0 +1,706 @@
+﻿Main PokerStars n°238284864605 : Tournoi #3463254657, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 29/08/2022 10:10:42 CET [29/08/2022 4:10:42 ET]
+Table '3463254657 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 2: CLAUDE2355 (5000 en jetons) 
+Place 3: Bouledefeu02 (5000 en jetons) 
+Place 4: Aerrows75 (5000 en jetons) 
+psychoman59 : met l'ante. 10
+CLAUDE2355 : met l'ante. 10
+Bouledefeu02 : met l'ante. 10
+Aerrows75 : met l'ante. 10
+CLAUDE2355 : met la petite blind. 50
+Bouledefeu02 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 2h]
+Aerrows75 : relance. 100 à 200
+psychoman59 : passe. 
+CLAUDE2355 : passe. 
+Bouledefeu02 : suit. 100
+*** FLOP *** [Ts 7s 6c]
+Bouledefeu02 : parole 
+Aerrows75 : mise. 200
+Bouledefeu02 : passe. 
+Personne n'a suivi. (200) sont retournés à Aerrows75.
+Aerrows75 a remporté 490  lors du pot .
+Aerrows75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 490 | Commission 0 
+Tableau [Ts 7s 6c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : CLAUDE2355 (petite blind) s'est couché. avant Flop
+Siège 3 : Bouledefeu02 (grosse blind) s'est couché. sur le Flop
+Siège 4 : Aerrows75 a remporté (490)
+
+
+
+Main PokerStars n°238284867429 : Tournoi #3463254657, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 29/08/2022 10:11:07 CET [29/08/2022 4:11:07 ET]
+Table '3463254657 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4990 en jetons) 
+Place 2: CLAUDE2355 (4940 en jetons) 
+Place 3: Bouledefeu02 (4790 en jetons) 
+Place 4: Aerrows75 (5280 en jetons) 
+psychoman59 : met l'ante. 10
+CLAUDE2355 : met l'ante. 10
+Bouledefeu02 : met l'ante. 10
+Aerrows75 : met l'ante. 10
+Bouledefeu02 : met la petite blind. 50
+Aerrows75 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 9h]
+psychoman59 : passe. 
+CLAUDE2355 : passe. 
+Bouledefeu02 : suit. 50
+Aerrows75 : parole 
+*** FLOP *** [8s 4c 3d]
+Bouledefeu02 : parole 
+Aerrows75 : mise. 100
+Bouledefeu02 : suit. 100
+*** TOURNANT *** [8s 4c 3d] [7h]
+Bouledefeu02 : parole 
+Aerrows75 : mise. 200
+Bouledefeu02 : relance. 200 à 400
+Aerrows75 : suit. 200
+*** RIVIÈRE *** [8s 4c 3d 7h] [Jh]
+Bouledefeu02 : parole 
+Aerrows75 : mise. 300
+Bouledefeu02 : suit. 300
+*** ABATTAGE ***
+Aerrows75 : montre [3c 4h] (double paire, Quatre et Trois)
+Bouledefeu02 : cache la main perdante. 
+Aerrows75 a remporté 1840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1840 | Commission 0 
+Tableau [8s 4c 3d 7h Jh]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : CLAUDE2355 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Bouledefeu02 (petite blind) a caché la main perdante. [5s 7d]
+Siège 4 : Aerrows75 (grosse blind) a montré [3c 4h] et a gagné (1840) avec double paire, Quatre et Trois
+
+
+
+Main PokerStars n°238284870937 : Tournoi #3463254657, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 29/08/2022 10:11:38 CET [29/08/2022 4:11:38 ET]
+Table '3463254657 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4980 en jetons) 
+Place 2: CLAUDE2355 (4930 en jetons) 
+Place 3: Bouledefeu02 (3880 en jetons) 
+Place 4: Aerrows75 (6210 en jetons) 
+psychoman59 : met l'ante. 10
+CLAUDE2355 : met l'ante. 10
+Bouledefeu02 : met l'ante. 10
+Aerrows75 : met l'ante. 10
+Aerrows75 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Kh]
+CLAUDE2355 : passe. 
+Bouledefeu02 : relance. 3770 à 3870 et est all-in.
+Aerrows75 : suit. 3820
+psychoman59 : passe. 
+*** FLOP *** [Ad 2c 6c]
+*** TOURNANT *** [Ad 2c 6c] [Js]
+*** RIVIÈRE *** [Ad 2c 6c Js] [Jc]
+*** ABATTAGE ***
+Aerrows75 : montre [Qh Qc] (double paire, Dames et Valets)
+Bouledefeu02 : montre [8h 6d] (double paire, Valets et Six)
+Aerrows75 a remporté 7880  lors du pot .
+Bouledefeu02 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 7880 | Commission 0 
+Tableau [Ad 2c 6c Js Jc]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : CLAUDE2355 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Bouledefeu02 (bouton) a montré [8h 6d] et a perdu avec double paire, Valets et Six
+Siège 4 : Aerrows75 (petite blind) a montré [Qh Qc] et a gagné (7880) avec double paire, Dames et Valets
+
+
+
+Main PokerStars n°238284873430 : Tournoi #3463254657, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 29/08/2022 10:12:00 CET [29/08/2022 4:12:00 ET]
+Table '3463254657 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4870 en jetons) 
+Place 2: CLAUDE2355 (4920 en jetons) 
+Place 4: Aerrows75 (10210 en jetons) 
+psychoman59 : met l'ante. 10
+CLAUDE2355 : met l'ante. 10
+Aerrows75 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+CLAUDE2355 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 5s]
+Aerrows75 : relance. 100 à 200
+psychoman59 : passe. 
+CLAUDE2355 : passe. 
+Personne n'a suivi. (100) sont retournés à Aerrows75.
+Aerrows75 a remporté 280  lors du pot .
+Aerrows75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : CLAUDE2355 (grosse blind) s'est couché. avant Flop
+Siège 4 : Aerrows75 (bouton) a remporté (280)
+
+
+
+Main PokerStars n°238284877145 : Tournoi #3463254657, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 29/08/2022 10:12:32 CET [29/08/2022 4:12:32 ET]
+Table '3463254657 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4810 en jetons) 
+Place 2: CLAUDE2355 (4810 en jetons) 
+Place 4: Aerrows75 (10380 en jetons) 
+psychoman59 : met l'ante. 10
+CLAUDE2355 : met l'ante. 10
+Aerrows75 : met l'ante. 10
+CLAUDE2355 : met la petite blind. 50
+Aerrows75 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 7h]
+psychoman59 : suit. 100
+CLAUDE2355 : passe. 
+Aerrows75 : relance. 200 à 300
+psychoman59 : suit. 200
+*** FLOP *** [8h 6s 4d]
+Aerrows75 : mise. 300
+psychoman59 : suit. 300
+*** TOURNANT *** [8h 6s 4d] [3d]
+Aerrows75 : mise. 300
+psychoman59 : suit. 300
+*** RIVIÈRE *** [8h 6s 4d 3d] [Kh]
+Aerrows75 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Aerrows75 : montre [Td Ts] (une paire de Dix)
+psychoman59 : cache la main perdante. 
+Aerrows75 a remporté 1880  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1880 | Commission 0 
+Tableau [8h 6s 4d 3d Kh]
+Siège 1 : psychoman59 (bouton) a caché la main perdante. [6h 7h]
+Siège 2 : CLAUDE2355 (petite blind) s'est couché. avant Flop
+Siège 4 : Aerrows75 (grosse blind) a montré [Td Ts] et a gagné (1880) avec une paire de Dix
+
+
+
+Main PokerStars n°238284880767 : Tournoi #3463254657, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 29/08/2022 10:13:04 CET [29/08/2022 4:13:04 ET]
+Table '3463254657 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (3900 en jetons) 
+Place 2: CLAUDE2355 (4750 en jetons) 
+Place 4: Aerrows75 (11350 en jetons) 
+psychoman59 : met l'ante. 10
+CLAUDE2355 : met l'ante. 10
+Aerrows75 : met l'ante. 10
+Aerrows75 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Jd]
+CLAUDE2355 : suit. 100
+Aerrows75 : suit. 50
+psychoman59 : relance. 3790 à 3890 et est all-in.
+CLAUDE2355 : passe. 
+Aerrows75 : passe. 
+Personne n'a suivi. (3790) sont retournés à psychoman59.
+psychoman59 a remporté 330  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 330 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (330)
+Siège 2 : CLAUDE2355 (bouton) s'est couché. avant Flop
+Siège 4 : Aerrows75 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238284882904 : Tournoi #3463254657, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 29/08/2022 10:13:23 CET [29/08/2022 4:13:23 ET]
+Table '3463254657 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4120 en jetons) 
+Place 2: CLAUDE2355 (4640 en jetons) 
+Place 4: Aerrows75 (11240 en jetons) 
+psychoman59 : met l'ante. 10
+CLAUDE2355 : met l'ante. 10
+Aerrows75 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+CLAUDE2355 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 7c]
+Aerrows75 : relance. 100 à 200
+psychoman59 : suit. 150
+CLAUDE2355 : suit. 100
+*** FLOP *** [Kc Kd 3c]
+psychoman59 : parole 
+CLAUDE2355 : parole 
+Aerrows75 : mise. 300
+psychoman59 : passe. 
+CLAUDE2355 : suit. 300
+*** TOURNANT *** [Kc Kd 3c] [4h]
+CLAUDE2355 : parole 
+Aerrows75 : mise. 300
+CLAUDE2355 : passe. 
+Personne n'a suivi. (300) sont retournés à Aerrows75.
+Aerrows75 a remporté 1230  lors du pot .
+Aerrows75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1230 | Commission 0 
+Tableau [Kc Kd 3c 4h]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 2 : CLAUDE2355 (grosse blind) s'est couché. sur le Tournant
+Siège 4 : Aerrows75 (bouton) a remporté (1230)
+
+
+
+Main PokerStars n°238284888042 : Tournoi #3463254657, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 29/08/2022 10:14:06 CET [29/08/2022 4:14:06 ET]
+Table '3463254657 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (3910 en jetons) 
+Place 2: CLAUDE2355 (4130 en jetons) 
+Place 4: Aerrows75 (11960 en jetons) 
+psychoman59 : met l'ante. 15
+CLAUDE2355 : met l'ante. 15
+Aerrows75 : met l'ante. 15
+CLAUDE2355 : met la petite blind. 60
+Aerrows75 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 5s]
+psychoman59 : passe. 
+CLAUDE2355 : passe. 
+Personne n'a suivi. (60) sont retournés à Aerrows75.
+Aerrows75 a remporté 165  lors du pot .
+Aerrows75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : CLAUDE2355 (petite blind) s'est couché. avant Flop
+Siège 4 : Aerrows75 (grosse blind) a remporté (165)
+
+
+
+Main PokerStars n°238284889306 : Tournoi #3463254657, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 29/08/2022 10:14:17 CET [29/08/2022 4:14:17 ET]
+Table '3463254657 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (3895 en jetons) 
+Place 2: CLAUDE2355 (4055 en jetons) 
+Place 4: Aerrows75 (12050 en jetons) 
+psychoman59 : met l'ante. 15
+CLAUDE2355 : met l'ante. 15
+Aerrows75 : met l'ante. 15
+Aerrows75 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s As]
+CLAUDE2355 : passe. 
+Aerrows75 : relance. 120 à 240
+psychoman59 : relance. 3640 à 3880 et est all-in.
+Aerrows75 : passe. 
+Personne n'a suivi. (3640) sont retournés à psychoman59.
+psychoman59 a remporté 525  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 525 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (525)
+Siège 2 : CLAUDE2355 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Aerrows75 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238284893547 : Tournoi #3463254657, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 29/08/2022 10:14:55 CET [29/08/2022 4:14:55 ET]
+Table '3463254657 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4165 en jetons) 
+Place 2: CLAUDE2355 (4040 en jetons) 
+Place 4: Aerrows75 (11795 en jetons) 
+psychoman59 : met l'ante. 15
+CLAUDE2355 : met l'ante. 15
+Aerrows75 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+CLAUDE2355 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 3h]
+Aerrows75 : suit. 120
+psychoman59 : passe. 
+CLAUDE2355 : parole 
+*** FLOP *** [7c 2c Qd]
+CLAUDE2355 : parole 
+Aerrows75 : mise. 240
+CLAUDE2355 : passe. 
+Personne n'a suivi. (240) sont retournés à Aerrows75.
+Aerrows75 a remporté 345  lors du pot .
+Aerrows75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 345 | Commission 0 
+Tableau [7c 2c Qd]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : CLAUDE2355 (grosse blind) s'est couché. sur le Flop
+Siège 4 : Aerrows75 (bouton) a remporté (345)
+
+
+
+Main PokerStars n°238284895840 : Tournoi #3463254657, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 29/08/2022 10:15:15 CET [29/08/2022 4:15:15 ET]
+Table '3463254657 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4090 en jetons) 
+Place 2: CLAUDE2355 (3905 en jetons) 
+Place 4: Aerrows75 (12005 en jetons) 
+psychoman59 : met l'ante. 15
+CLAUDE2355 : met l'ante. 15
+Aerrows75 : met l'ante. 15
+CLAUDE2355 : met la petite blind. 60
+Aerrows75 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 7s]
+psychoman59 : passe. 
+CLAUDE2355 : passe. 
+Personne n'a suivi. (60) sont retournés à Aerrows75.
+Aerrows75 a remporté 165  lors du pot .
+Aerrows75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : CLAUDE2355 (petite blind) s'est couché. avant Flop
+Siège 4 : Aerrows75 (grosse blind) a remporté (165)
+
+
+
+Main PokerStars n°238284897340 : Tournoi #3463254657, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 29/08/2022 10:15:28 CET [29/08/2022 4:15:28 ET]
+Table '3463254657 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4075 en jetons) 
+Place 2: CLAUDE2355 (3830 en jetons) 
+Place 4: Aerrows75 (12095 en jetons) 
+psychoman59 : met l'ante. 15
+CLAUDE2355 : met l'ante. 15
+Aerrows75 : met l'ante. 15
+Aerrows75 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 4d]
+CLAUDE2355 : suit. 120
+Aerrows75 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [3s Th 2c]
+Aerrows75 : mise. 360
+psychoman59 : passe. 
+CLAUDE2355 : suit. 360
+*** TOURNANT *** [3s Th 2c] [8d]
+Aerrows75 : mise. 360
+CLAUDE2355 : suit. 360
+*** RIVIÈRE *** [3s Th 2c 8d] [Qc]
+Aerrows75 : parole 
+CLAUDE2355 : mise. 2975 et est all-in.
+Aerrows75 : passe. 
+Personne n'a suivi. (2975) sont retournés à CLAUDE2355.
+CLAUDE2355 a remporté 1845  lors du pot .
+CLAUDE2355 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1845 | Commission 0 
+Tableau [3s Th 2c 8d Qc]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : CLAUDE2355 (bouton) a remporté (1845)
+Siège 4 : Aerrows75 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238284901443 : Tournoi #3463254657, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 29/08/2022 10:16:04 CET [29/08/2022 4:16:04 ET]
+Table '3463254657 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (3940 en jetons) 
+Place 2: CLAUDE2355 (4820 en jetons) 
+Place 4: Aerrows75 (11240 en jetons) 
+psychoman59 : met l'ante. 15
+CLAUDE2355 : met l'ante. 15
+Aerrows75 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+CLAUDE2355 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 8c]
+Aerrows75 : relance. 240 à 360
+psychoman59 : suit. 300
+CLAUDE2355 : suit. 240
+*** FLOP *** [Tc Kh 4h]
+psychoman59 : parole 
+CLAUDE2355 : parole 
+Aerrows75 : mise. 360
+psychoman59 : passe. 
+CLAUDE2355 : suit. 360
+*** TOURNANT *** [Tc Kh 4h] [4c]
+CLAUDE2355 : parole 
+Aerrows75 : mise. 480
+CLAUDE2355 : suit. 480
+*** RIVIÈRE *** [Tc Kh 4h 4c] [9h]
+CLAUDE2355 : mise. 3605 et est all-in.
+Aerrows75 : suit. 3605
+*** ABATTAGE ***
+CLAUDE2355 : montre [Qh Ah] (une couleur, hauteur As)
+Aerrows75 : montre [Js Ks] (double paire, Rois et Quatre)
+CLAUDE2355 a remporté 10015  lors du pot .
+*** SYNTHÈSE ***
+Pot total 10015 | Commission 0 
+Tableau [Tc Kh 4h 4c 9h]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 2 : CLAUDE2355 (grosse blind) a montré [Qh Ah] et a gagné (10015) avec une couleur, hauteur As
+Siège 4 : Aerrows75 (bouton) a montré [Js Ks] et a perdu avec double paire, Rois et Quatre
+
+
+
+Main PokerStars n°238284906847 : Tournoi #3463254657, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 29/08/2022 10:16:51 CET [29/08/2022 4:16:51 ET]
+Table '3463254657 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (3565 en jetons) 
+Place 2: CLAUDE2355 (10015 en jetons) 
+Place 4: Aerrows75 (6420 en jetons) 
+psychoman59 : met l'ante. 20
+CLAUDE2355 : met l'ante. 20
+Aerrows75 : met l'ante. 20
+CLAUDE2355 : met la petite blind. 75
+Aerrows75 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Ac]
+psychoman59 : relance. 3395 à 3545 et est all-in.
+CLAUDE2355 : passe. 
+Aerrows75 : passe. 
+Personne n'a suivi. (3395) sont retournés à psychoman59.
+psychoman59 a remporté 435  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (435)
+Siège 2 : CLAUDE2355 (petite blind) s'est couché. avant Flop
+Siège 4 : Aerrows75 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238284908634 : Tournoi #3463254657, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 29/08/2022 10:17:06 CET [29/08/2022 4:17:06 ET]
+Table '3463254657 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (3830 en jetons) 
+Place 2: CLAUDE2355 (9920 en jetons) 
+Place 4: Aerrows75 (6250 en jetons) 
+psychoman59 : met l'ante. 20
+CLAUDE2355 : met l'ante. 20
+Aerrows75 : met l'ante. 20
+Aerrows75 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 9h]
+CLAUDE2355 : suit. 150
+Aerrows75 : relance. 150 à 300
+psychoman59 : suit. 150
+CLAUDE2355 : suit. 150
+*** FLOP *** [Kd Ks 5c]
+Aerrows75 : parole 
+psychoman59 : parole 
+CLAUDE2355 : parole 
+*** TOURNANT *** [Kd Ks 5c] [6h]
+Aerrows75 : parole 
+psychoman59 : parole 
+CLAUDE2355 : parole 
+*** RIVIÈRE *** [Kd Ks 5c 6h] [5s]
+Aerrows75 : parole 
+psychoman59 : parole 
+CLAUDE2355 : parole 
+*** ABATTAGE ***
+Aerrows75 : montre [As 7h] (double paire, Rois et Cinq)
+psychoman59 : cache la main perdante. 
+CLAUDE2355 : cache la main perdante. 
+Aerrows75 a remporté 960  lors du pot .
+*** SYNTHÈSE ***
+Pot total 960 | Commission 0 
+Tableau [Kd Ks 5c 6h 5s]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [Ts 9h]
+Siège 2 : CLAUDE2355 (bouton) a caché la main perdante. [Th Qh]
+Siège 4 : Aerrows75 (petite blind) a montré [As 7h] et a gagné (960) avec double paire, Rois et Cinq
+
+
+
+Main PokerStars n°238284914337 : Tournoi #3463254657, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 29/08/2022 10:17:55 CET [29/08/2022 4:17:55 ET]
+Table '3463254657 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (3510 en jetons) 
+Place 2: CLAUDE2355 (9600 en jetons) 
+Place 4: Aerrows75 (6890 en jetons) 
+psychoman59 : met l'ante. 20
+CLAUDE2355 : met l'ante. 20
+Aerrows75 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+CLAUDE2355 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 8d]
+Aerrows75 : suit. 150
+psychoman59 : suit. 75
+CLAUDE2355 : parole 
+*** FLOP *** [Td Qd Jh]
+psychoman59 : parole 
+CLAUDE2355 : parole 
+Aerrows75 : mise. 300
+psychoman59 : suit. 300
+CLAUDE2355 : passe. 
+*** TOURNANT *** [Td Qd Jh] [2c]
+psychoman59 : parole 
+Aerrows75 : parole 
+*** RIVIÈRE *** [Td Qd Jh 2c] [Qc]
+psychoman59 : mise. 555
+Aerrows75 : passe. 
+Personne n'a suivi. (555) sont retournés à psychoman59.
+psychoman59 a remporté 1110  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1110 | Commission 0 
+Tableau [Td Qd Jh 2c Qc]
+Siège 1 : psychoman59 (petite blind) a remporté (1110)
+Siège 2 : CLAUDE2355 (grosse blind) s'est couché. sur le Flop
+Siège 4 : Aerrows75 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238284918946 : Tournoi #3463254657, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 29/08/2022 10:18:35 CET [29/08/2022 4:18:35 ET]
+Table '3463254657 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4150 en jetons) 
+Place 2: CLAUDE2355 (9430 en jetons) 
+Place 4: Aerrows75 (6420 en jetons) 
+psychoman59 : met l'ante. 20
+CLAUDE2355 : met l'ante. 20
+Aerrows75 : met l'ante. 20
+CLAUDE2355 : met la petite blind. 75
+Aerrows75 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3c]
+psychoman59 : passe. 
+CLAUDE2355 : suit. 75
+Aerrows75 : parole 
+*** FLOP *** [4d 7h 6h]
+CLAUDE2355 : parole 
+Aerrows75 : parole 
+*** TOURNANT *** [4d 7h 6h] [7s]
+CLAUDE2355 : parole 
+Aerrows75 : parole 
+*** RIVIÈRE *** [4d 7h 6h 7s] [9s]
+CLAUDE2355 : mise. 150
+Aerrows75 : passe. 
+Personne n'a suivi. (150) sont retournés à CLAUDE2355.
+CLAUDE2355 a remporté 360  lors du pot .
+CLAUDE2355 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [4d 7h 6h 7s 9s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : CLAUDE2355 (petite blind) a remporté (360)
+Siège 4 : Aerrows75 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238284921740 : Tournoi #3463254657, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 29/08/2022 10:18:59 CET [29/08/2022 4:18:59 ET]
+Table '3463254657 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4130 en jetons) 
+Place 2: CLAUDE2355 (9620 en jetons) 
+Place 4: Aerrows75 (6250 en jetons) 
+psychoman59 : met l'ante. 20
+CLAUDE2355 : met l'ante. 20
+Aerrows75 : met l'ante. 20
+Aerrows75 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 8c]
+CLAUDE2355 : passe. 
+Aerrows75 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [8d 9c Ts]
+Aerrows75 : mise. 300
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à Aerrows75.
+Aerrows75 a remporté 360  lors du pot .
+Aerrows75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [8d 9c Ts]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : CLAUDE2355 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Aerrows75 (petite blind) a remporté (360)
+
+
+
+Main PokerStars n°238284924096 : Tournoi #3463254657, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 29/08/2022 10:19:19 CET [29/08/2022 4:19:19 ET]
+Table '3463254657 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (3960 en jetons) 
+Place 2: CLAUDE2355 (9600 en jetons) 
+Place 4: Aerrows75 (6440 en jetons) 
+psychoman59 : met l'ante. 20
+CLAUDE2355 : met l'ante. 20
+Aerrows75 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+CLAUDE2355 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7c]
+Aerrows75 : passe. 
+psychoman59 : relance. 150 à 300
+CLAUDE2355 : suit. 150
+*** FLOP *** [5d As Ks]
+psychoman59 : mise. 660
+CLAUDE2355 : suit. 660
+*** TOURNANT *** [5d As Ks] [Tc]
+psychoman59 : mise. 990
+CLAUDE2355 : suit. 990
+*** RIVIÈRE *** [5d As Ks Tc] [6s]
+psychoman59 : parole 
+CLAUDE2355 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Kc 7c] (une paire de Rois)
+CLAUDE2355 : montre [Kd Qh] (une paire de Rois - As+Dame kicker)
+CLAUDE2355 a remporté 3960  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3960 | Commission 0 
+Tableau [5d As Ks Tc 6s]
+Siège 1 : psychoman59 (petite blind) a montré [Kc 7c] et a perdu avec une paire de Rois
+Siège 2 : CLAUDE2355 (grosse blind) a montré [Kd Qh] et a gagné (3960) avec une paire de Rois
+Siège 4 : Aerrows75 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238284929583 : Tournoi #3463254657, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/08/2022 10:20:07 CET [29/08/2022 4:20:07 ET]
+Table '3463254657 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (1990 en jetons) 
+Place 2: CLAUDE2355 (11590 en jetons) 
+Place 4: Aerrows75 (6420 en jetons) 
+psychoman59 : met l'ante. 25
+CLAUDE2355 : met l'ante. 25
+Aerrows75 : met l'ante. 25
+CLAUDE2355 : met la petite blind. 100
+Aerrows75 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 2h]
+psychoman59 : suit. 200
+CLAUDE2355 : suit. 100
+Aerrows75 : parole 
+*** FLOP *** [Js 3h 8s]
+CLAUDE2355 : mise. 675
+Aerrows75 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (675) sont retournés à CLAUDE2355.
+CLAUDE2355 a remporté 675  lors du pot .
+CLAUDE2355 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 675 | Commission 0 
+Tableau [Js 3h 8s]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : CLAUDE2355 (petite blind) a remporté (675)
+Siège 4 : Aerrows75 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238284932111 : Tournoi #3463254657, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 29/08/2022 10:20:29 CET [29/08/2022 4:20:29 ET]
+Table '3463254657 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (1765 en jetons) 
+Place 2: CLAUDE2355 (12040 en jetons) 
+Place 4: Aerrows75 (6195 en jetons) 
+psychoman59 : met l'ante. 25
+CLAUDE2355 : met l'ante. 25
+Aerrows75 : met l'ante. 25
+Aerrows75 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh As]
+CLAUDE2355 : relance. 575 à 775
+Aerrows75 : passe. 
+psychoman59 : relance. 965 à 1740 et est all-in.
+CLAUDE2355 : suit. 965
+*** FLOP *** [9s Qh 5h]
+*** TOURNANT *** [9s Qh 5h] [Jd]
+*** RIVIÈRE *** [9s Qh 5h Jd] [6c]
+*** ABATTAGE ***
+psychoman59 : montre [Kh As] (Hauteur As)
+CLAUDE2355 : montre [5c 5s] (un brelan de Cinq)
+CLAUDE2355 a remporté 3655  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 3655 | Commission 0 
+Tableau [9s Qh 5h Jd 6c]
+Siège 1 : psychoman59 (grosse blind) a montré [Kh As] et a perdu avec Hauteur As
+Siège 2 : CLAUDE2355 (bouton) a montré [5c 5s] et a gagné (3655) avec un brelan de Cinq
+Siège 4 : Aerrows75 (petite blind) s'est couché. avant Flop
+
+
+

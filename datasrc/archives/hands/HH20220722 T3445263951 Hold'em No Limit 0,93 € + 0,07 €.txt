@@ -1,0 +1,173 @@
+﻿Main PokerStars n°237522217654 : Tournoi #3445263951, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 23:58:17 CET [22/07/2022 17:58:17 ET]
+Table '3445263951 1' 3-max Siège #1 est au bouton.
+Place 1: PnlPoker22 (300 en jetons) 
+Place 2: el mortadelle (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+el mortadelle : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Qs]
+PnlPoker22 : suit. 20
+el mortadelle : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Td 6h Kd]
+el mortadelle : parole 
+psychoman59 : parole 
+PnlPoker22 : mise. 20
+el mortadelle : suit. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [Td 6h Kd] [8h]
+el mortadelle : mise. 120
+psychoman59 : suit. 120
+PnlPoker22 : passe. 
+*** RIVIÈRE *** [Td 6h Kd 8h] [3s]
+el mortadelle : mise. 140 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (140) sont retournés à el mortadelle.
+el mortadelle a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Td 6h Kd 8h 3s]
+Siège 1 : PnlPoker22 (bouton) s'est couché. sur le Tournant
+Siège 2 : el mortadelle (petite blind) a remporté (360)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237522226199 : Tournoi #3445263951, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 23:58:48 CET [22/07/2022 17:58:48 ET]
+Table '3445263951 1' 3-max Siège #2 est au bouton.
+Place 1: PnlPoker22 (260 en jetons) 
+Place 2: el mortadelle (500 en jetons) 
+Place 3: psychoman59 (140 en jetons) 
+psychoman59 : met la petite blind. 10
+PnlPoker22 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 7h]
+el mortadelle : suit. 20
+psychoman59 : suit. 10
+PnlPoker22 : parole 
+*** FLOP *** [9c 5c 3h]
+psychoman59 : parole 
+PnlPoker22 : parole 
+el mortadelle : parole 
+*** TOURNANT *** [9c 5c 3h] [Td]
+psychoman59 : mise. 120 et est all-in.
+PnlPoker22 : passe. 
+el mortadelle : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9c 5c 3h Td]
+Siège 1 : PnlPoker22 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : el mortadelle (bouton) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237522232846 : Tournoi #3445263951, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 23:59:12 CET [22/07/2022 17:59:12 ET]
+Table '3445263951 1' 3-max Siège #3 est au bouton.
+Place 1: PnlPoker22 (240 en jetons) 
+Place 2: el mortadelle (480 en jetons) 
+Place 3: psychoman59 (180 en jetons) 
+PnlPoker22 : met la petite blind. 10
+el mortadelle : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Ac]
+psychoman59 : relance. 20 à 40
+PnlPoker22 : suit. 30
+el mortadelle : suit. 20
+*** FLOP *** [5s Qd 8s]
+PnlPoker22 : parole 
+el mortadelle : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5s Qd 8s] [4c]
+PnlPoker22 : mise. 20
+el mortadelle : suit. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [5s Qd 8s 4c] [8c]
+PnlPoker22 : mise. 80
+el mortadelle : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à PnlPoker22.
+PnlPoker22 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [5s Qd 8s 4c 8c]
+Siège 1 : PnlPoker22 (petite blind) a remporté (180)
+Siège 2 : el mortadelle (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237522243792 : Tournoi #3445263951, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/07/2022 23:59:51 CET [22/07/2022 17:59:51 ET]
+Table '3445263951 1' 3-max Siège #1 est au bouton.
+Place 1: PnlPoker22 (360 en jetons) 
+Place 2: el mortadelle (420 en jetons) 
+Place 3: psychoman59 (120 en jetons) 
+el mortadelle : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Tc]
+PnlPoker22 : passe. 
+el mortadelle : relance. 390 à 420 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (390) sont retournés à el mortadelle.
+el mortadelle a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : PnlPoker22 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : el mortadelle (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237522248023 : Tournoi #3445263951, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 23/07/2022 0:00:06 CET [22/07/2022 18:00:06 ET]
+Table '3445263951 1' 3-max Siège #2 est au bouton.
+Place 1: PnlPoker22 (360 en jetons) 
+Place 2: el mortadelle (450 en jetons) 
+Place 3: psychoman59 (90 en jetons) 
+psychoman59 : met la petite blind. 15
+PnlPoker22 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 8h]
+el mortadelle : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à PnlPoker22.
+PnlPoker22 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : PnlPoker22 (grosse blind) a remporté (30)
+Siège 2 : el mortadelle (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237522250094 : Tournoi #3445263951, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 23/07/2022 0:00:13 CET [22/07/2022 18:00:13 ET]
+Table '3445263951 1' 3-max Siège #3 est au bouton.
+Place 1: PnlPoker22 (375 en jetons) 
+Place 2: el mortadelle (450 en jetons) 
+Place 3: psychoman59 (75 en jetons) 
+PnlPoker22 : met la petite blind. 15
+el mortadelle : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 2d]
+psychoman59 : relance. 45 à 75 et est all-in.
+PnlPoker22 : passe. 
+el mortadelle : suit. 45
+*** FLOP *** [Kc 2h 3h]
+*** TOURNANT *** [Kc 2h 3h] [5h]
+*** RIVIÈRE *** [Kc 2h 3h 5h] [Js]
+*** ABATTAGE ***
+el mortadelle : montre [Td Kh] (une paire de Rois)
+psychoman59 : montre [Qd 2d] (une paire de Deux)
+el mortadelle a remporté 165  lors du pot .
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Tableau [Kc 2h 3h 5h Js]
+Siège 1 : PnlPoker22 (petite blind) s'est couché. avant Flop
+Siège 2 : el mortadelle (grosse blind) a montré [Td Kh] et a gagné (165) avec une paire de Rois
+Siège 3 : psychoman59 (bouton) a montré [Qd 2d] et a perdu avec une paire de Deux
+
+
+

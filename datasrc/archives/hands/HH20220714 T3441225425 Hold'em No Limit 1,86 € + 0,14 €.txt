@@ -1,0 +1,368 @@
+﻿Main PokerStars n°237348541902 : Tournoi #3441225425, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 14/07/2022 8:43:26 CET [14/07/2022 2:43:26 ET]
+Table '3441225425 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: montalegre05 (300 en jetons) 
+Place 3: gaet6161 (300 en jetons) 
+montalegre05 : met la petite blind. 10
+gaet6161 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Qc]
+psychoman59 : passe. 
+montalegre05 : suit. 10
+gaet6161 : parole 
+*** FLOP *** [Ad As 4s]
+montalegre05 : mise. 20
+gaet6161 : relance. 20 à 40
+montalegre05 : suit. 20
+*** TOURNANT *** [Ad As 4s] [9d]
+montalegre05 : mise. 20
+gaet6161 : suit. 20
+*** RIVIÈRE *** [Ad As 4s 9d] [8s]
+montalegre05 : mise. 20
+gaet6161 : suit. 20
+*** ABATTAGE ***
+montalegre05 : montre [Js 7s] (une couleur, hauteur As)
+gaet6161 : cache la main perdante. 
+montalegre05 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Ad As 4s 9d 8s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : montalegre05 (petite blind) a montré [Js 7s] et a gagné (200) avec une couleur, hauteur As
+Siège 3 : gaet6161 (grosse blind) a caché la main perdante. [4h 8d]
+
+
+
+Main PokerStars n°237348544792 : Tournoi #3441225425, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 14/07/2022 8:43:54 CET [14/07/2022 2:43:54 ET]
+Table '3441225425 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: montalegre05 (400 en jetons) 
+Place 3: gaet6161 (200 en jetons) 
+gaet6161 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 8d]
+montalegre05 : suit. 20
+gaet6161 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7s Ah Js]
+gaet6161 : parole 
+psychoman59 : parole 
+montalegre05 : parole 
+*** TOURNANT *** [7s Ah Js] [Qs]
+gaet6161 : parole 
+psychoman59 : parole 
+montalegre05 : mise. 60
+gaet6161 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à montalegre05.
+montalegre05 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7s Ah Js Qs]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : montalegre05 (bouton) a remporté (60)
+Siège 3 : gaet6161 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237348549340 : Tournoi #3441225425, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 14/07/2022 8:44:38 CET [14/07/2022 2:44:38 ET]
+Table '3441225425 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: montalegre05 (440 en jetons) 
+Place 3: gaet6161 (180 en jetons) 
+psychoman59 : met la petite blind. 15
+montalegre05 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 9h]
+gaet6161 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à montalegre05.
+montalegre05 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : montalegre05 (grosse blind) a remporté (30)
+Siège 3 : gaet6161 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237348550141 : Tournoi #3441225425, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 14/07/2022 8:44:46 CET [14/07/2022 2:44:46 ET]
+Table '3441225425 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (265 en jetons) 
+Place 2: montalegre05 (455 en jetons) 
+Place 3: gaet6161 (180 en jetons) 
+montalegre05 : met la petite blind. 15
+gaet6161 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 2s]
+psychoman59 : suit. 30
+montalegre05 : suit. 15
+gaet6161 : parole 
+*** FLOP *** [7d Tc Kc]
+montalegre05 : mise. 425 et est all-in.
+gaet6161 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (425) sont retournés à montalegre05.
+montalegre05 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [7d Tc Kc]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : montalegre05 (petite blind) a remporté (90)
+Siège 3 : gaet6161 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237348551767 : Tournoi #3441225425, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 14/07/2022 8:45:01 CET [14/07/2022 2:45:01 ET]
+Table '3441225425 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (235 en jetons) 
+Place 2: montalegre05 (515 en jetons) 
+Place 3: gaet6161 (150 en jetons) 
+gaet6161 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Jc]
+montalegre05 : passe. 
+gaet6161 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : montalegre05 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : gaet6161 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237348552308 : Tournoi #3441225425, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 14/07/2022 8:45:07 CET [14/07/2022 2:45:07 ET]
+Table '3441225425 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 2: montalegre05 (515 en jetons) 
+Place 3: gaet6161 (135 en jetons) 
+psychoman59 : met la petite blind. 15
+montalegre05 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Js]
+gaet6161 : relance. 105 à 135 et est all-in.
+psychoman59 : passe. 
+montalegre05 : passe. 
+Personne n'a suivi. (105) sont retournés à gaet6161.
+gaet6161 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : montalegre05 (grosse blind) s'est couché. avant Flop
+Siège 3 : gaet6161 (bouton) a remporté (75)
+
+
+
+Main PokerStars n°237348553099 : Tournoi #3441225425, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 14/07/2022 8:45:14 CET [14/07/2022 2:45:14 ET]
+Table '3441225425 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (235 en jetons) 
+Place 2: montalegre05 (485 en jetons) 
+Place 3: gaet6161 (180 en jetons) 
+montalegre05 : met la petite blind. 15
+gaet6161 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 2c]
+psychoman59 : suit. 30
+montalegre05 : suit. 15
+gaet6161 : parole 
+*** FLOP *** [3s 2d 6c]
+montalegre05 : mise. 455 et est all-in.
+gaet6161 : passe. 
+psychoman59 : suit. 205 et est all-in.
+Personne n'a suivi. (250) sont retournés à montalegre05.
+*** TOURNANT *** [3s 2d 6c] [5s]
+*** RIVIÈRE *** [3s 2d 6c 5s] [2h]
+*** ABATTAGE ***
+montalegre05 : montre [6d 7c] (double paire, Six et Deux)
+psychoman59 : montre [Kc 2c] (un brelan de Deux)
+psychoman59 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [3s 2d 6c 5s 2h]
+Siège 1 : psychoman59 (bouton) a montré [Kc 2c] et a gagné (500) avec un brelan de Deux
+Siège 2 : montalegre05 (petite blind) a montré [6d 7c] et a perdu avec double paire, Six et Deux
+Siège 3 : gaet6161 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237348555378 : Tournoi #3441225425, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 14/07/2022 8:45:37 CET [14/07/2022 2:45:37 ET]
+Table '3441225425 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: montalegre05 (250 en jetons) 
+Place 3: gaet6161 (150 en jetons) 
+gaet6161 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Td]
+montalegre05 : passe. 
+gaet6161 : relance. 110 à 150 et est all-in.
+psychoman59 : suit. 110
+*** FLOP *** [Ah 4d Js]
+*** TOURNANT *** [Ah 4d Js] [7d]
+*** RIVIÈRE *** [Ah 4d Js 7d] [Kh]
+*** ABATTAGE ***
+gaet6161 : montre [8c 7s] (une paire de Sept)
+psychoman59 : montre [Ac Td] (une paire de As)
+psychoman59 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Ah 4d Js 7d Kh]
+Siège 1 : psychoman59 (grosse blind) a montré [Ac Td] et a gagné (300) avec une paire de As
+Siège 2 : montalegre05 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : gaet6161 (petite blind) a montré [8c 7s] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°237348557281 : Tournoi #3441225425, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 14/07/2022 8:45:56 CET [14/07/2022 2:45:56 ET]
+Table '3441225425 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (650 en jetons) 
+Place 2: montalegre05 (250 en jetons) 
+psychoman59 : met la petite blind. 20
+montalegre05 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à montalegre05.
+montalegre05 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : montalegre05 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237348557817 : Tournoi #3441225425, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 14/07/2022 8:46:01 CET [14/07/2022 2:46:01 ET]
+Table '3441225425 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (630 en jetons) 
+Place 2: montalegre05 (270 en jetons) 
+montalegre05 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Qs]
+montalegre05 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : montalegre05 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237348558292 : Tournoi #3441225425, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 14/07/2022 8:46:05 CET [14/07/2022 2:46:05 ET]
+Table '3441225425 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (650 en jetons) 
+Place 2: montalegre05 (250 en jetons) 
+psychoman59 : met la petite blind. 20
+montalegre05 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 8d]
+psychoman59 : relance. 40 à 80
+montalegre05 : suit. 40
+*** FLOP *** [8h 2c Ah]
+montalegre05 : parole 
+psychoman59 : mise. 160
+montalegre05 : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [8h 2c Ah]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 2 : montalegre05 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237348559702 : Tournoi #3441225425, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 14/07/2022 8:46:19 CET [14/07/2022 2:46:19 ET]
+Table '3441225425 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (730 en jetons) 
+Place 2: montalegre05 (170 en jetons) 
+montalegre05 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 3c]
+montalegre05 : relance. 130 à 170 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (130) sont retournés à montalegre05.
+montalegre05 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : montalegre05 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237348560359 : Tournoi #3441225425, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 14/07/2022 8:46:25 CET [14/07/2022 2:46:25 ET]
+Table '3441225425 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (690 en jetons) 
+Place 2: montalegre05 (210 en jetons) 
+psychoman59 : met la petite blind. 20
+montalegre05 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 8h]
+psychoman59 : relance. 80 à 120
+montalegre05 : relance. 90 à 210 et est all-in.
+psychoman59 : suit. 90
+*** FLOP *** [9d 4h 7s]
+*** TOURNANT *** [9d 4h 7s] [9c]
+*** RIVIÈRE *** [9d 4h 7s 9c] [7c]
+*** ABATTAGE ***
+montalegre05 : montre [Tc Ah] (double paire, Neuf et Sept)
+psychoman59 : montre [Kh 8h] (double paire, Neuf et Sept - plus basse kicker)
+montalegre05 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [9d 4h 7s 9c 7c]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Kh 8h] et a perdu avec double paire, Neuf et Sept
+Siège 2 : montalegre05 (grosse blind) a montré [Tc Ah] et a gagné (420) avec double paire, Neuf et Sept
+
+
+
+Main PokerStars n°237348562291 : Tournoi #3441225425, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/07/2022 8:46:44 CET [14/07/2022 2:46:44 ET]
+Table '3441225425 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: montalegre05 (420 en jetons) 
+montalegre05 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 8c]
+montalegre05 : relance. 360 à 420 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (360) sont retournés à montalegre05.
+montalegre05 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : montalegre05 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237348562907 : Tournoi #3441225425, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/07/2022 8:46:50 CET [14/07/2022 2:46:50 ET]
+Table '3441225425 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: montalegre05 (480 en jetons) 
+psychoman59 : met la petite blind. 30
+montalegre05 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Kh]
+psychoman59 : relance. 360 à 420 et est all-in.
+montalegre05 : suit. 360
+*** FLOP *** [Qd 3c 3h]
+*** TOURNANT *** [Qd 3c 3h] [3s]
+*** RIVIÈRE *** [Qd 3c 3h 3s] [Ts]
+*** ABATTAGE ***
+montalegre05 : montre [As 2c] (un brelan de Trois)
+psychoman59 : montre [4d Kh] (un brelan de Trois - plus basse kicker)
+montalegre05 a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [Qd 3c 3h 3s Ts]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [4d Kh] et a perdu avec un brelan de Trois
+Siège 2 : montalegre05 (grosse blind) a montré [As 2c] et a gagné (840) avec un brelan de Trois
+
+
+

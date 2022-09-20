@@ -1,0 +1,277 @@
+﻿Main PokerStars n°237508044572 : Tournoi #3444926548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 8:17:19 CET [22/07/2022 2:17:19 ET]
+Table '3444926548 1' 3-max Siège #1 est au bouton.
+Place 1: tete3346078 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: jwel8500 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+jwel8500 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ts]
+tete3346078 : relance. 280 à 300 et est all-in.
+psychoman59 : passe. 
+jwel8500 : passe. 
+Personne n'a suivi. (280) sont retournés à tete3346078.
+tete3346078 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : tete3346078 (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : jwel8500 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237508045468 : Tournoi #3444926548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 8:17:27 CET [22/07/2022 2:17:27 ET]
+Table '3444926548 1' 3-max Siège #2 est au bouton.
+Place 1: tete3346078 (330 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: jwel8500 (280 en jetons) 
+jwel8500 : met la petite blind. 10
+tete3346078 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Qd]
+psychoman59 : passe. 
+jwel8500 : relance. 260 à 280 et est all-in.
+tete3346078 : passe. 
+Personne n'a suivi. (260) sont retournés à jwel8500.
+jwel8500 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : tete3346078 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : jwel8500 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°237508047408 : Tournoi #3444926548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 8:17:45 CET [22/07/2022 2:17:45 ET]
+Table '3444926548 1' 3-max Siège #3 est au bouton.
+Place 1: tete3346078 (310 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: jwel8500 (300 en jetons) 
+tete3346078 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 3c]
+jwel8500 : relance. 20 à 40
+tete3346078 : passe. 
+psychoman59 : suit. 20
+*** FLOP *** [5h Jh 9c]
+psychoman59 : parole 
+jwel8500 : mise. 45
+psychoman59 : suit. 45
+*** TOURNANT *** [5h Jh 9c] [2s]
+psychoman59 : parole 
+jwel8500 : parole 
+*** RIVIÈRE *** [5h Jh 9c 2s] [Jc]
+psychoman59 : mise. 180
+jwel8500 : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [5h Jh 9c 2s Jc]
+Siège 1 : tete3346078 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (180)
+Siège 3 : jwel8500 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237508049899 : Tournoi #3444926548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2022 8:18:07 CET [22/07/2022 2:18:07 ET]
+Table '3444926548 1' 3-max Siège #1 est au bouton.
+Place 1: tete3346078 (300 en jetons) 
+Place 2: psychoman59 (385 en jetons) 
+Place 3: jwel8500 (215 en jetons) 
+psychoman59 : met la petite blind. 10
+jwel8500 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 6d]
+tete3346078 : suit. 20
+psychoman59 : passe. 
+jwel8500 : parole 
+*** FLOP *** [7c 9h 5s]
+jwel8500 : parole 
+tete3346078 : parole 
+*** TOURNANT *** [7c 9h 5s] [8c]
+jwel8500 : parole 
+tete3346078 : mise. 20
+jwel8500 : suit. 20
+*** RIVIÈRE *** [7c 9h 5s 8c] [Tc]
+jwel8500 : parole 
+tete3346078 : parole 
+*** ABATTAGE ***
+jwel8500 : montre [9s 8s] (double paire, Neuf et Huit)
+tete3346078 : cache la main perdante. 
+jwel8500 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [7c 9h 5s 8c Tc]
+Siège 1 : tete3346078 (bouton) a caché la main perdante. [4h 4c]
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : jwel8500 (grosse blind) a montré [9s 8s] et a gagné (90) avec double paire, Neuf et Huit
+
+
+
+Main PokerStars n°237508052078 : Tournoi #3444926548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/07/2022 8:18:27 CET [22/07/2022 2:18:27 ET]
+Table '3444926548 1' 3-max Siège #2 est au bouton.
+Place 1: tete3346078 (260 en jetons) 
+Place 2: psychoman59 (375 en jetons) 
+Place 3: jwel8500 (265 en jetons) 
+jwel8500 : met la petite blind. 15
+tete3346078 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 3d]
+psychoman59 : relance. 345 à 375 et est all-in.
+jwel8500 : passe. 
+tete3346078 : passe. 
+Personne n'a suivi. (345) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : tete3346078 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (75)
+Siège 3 : jwel8500 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237508053155 : Tournoi #3444926548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/07/2022 8:18:37 CET [22/07/2022 2:18:37 ET]
+Table '3444926548 1' 3-max Siège #3 est au bouton.
+Place 1: tete3346078 (230 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+Place 3: jwel8500 (250 en jetons) 
+tete3346078 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 3c]
+jwel8500 : relance. 30 à 60
+tete3346078 : passe. 
+psychoman59 : suit. 30
+*** FLOP *** [4c 7c 2h]
+psychoman59 : parole 
+jwel8500 : mise. 67
+psychoman59 : passe. 
+Personne n'a suivi. (67) sont retournés à jwel8500.
+jwel8500 a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [4c 7c 2h]
+Siège 1 : tete3346078 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : jwel8500 (bouton) a remporté (135)
+
+
+
+Main PokerStars n°237508054822 : Tournoi #3444926548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/07/2022 8:18:52 CET [22/07/2022 2:18:52 ET]
+Table '3444926548 1' 3-max Siège #1 est au bouton.
+Place 1: tete3346078 (215 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+Place 3: jwel8500 (325 en jetons) 
+psychoman59 : met la petite blind. 15
+jwel8500 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 9d]
+tete3346078 : relance. 185 à 215 et est all-in.
+psychoman59 : passe. 
+jwel8500 : suit. 185
+*** FLOP *** [Ts 4c Qd]
+*** TOURNANT *** [Ts 4c Qd] [9s]
+*** RIVIÈRE *** [Ts 4c Qd 9s] [6c]
+*** ABATTAGE ***
+jwel8500 : montre [Jc Th] (une paire de Dix)
+tete3346078 : montre [Jh Ah] (Hauteur As)
+jwel8500 a remporté 445  lors du pot .
+*** SYNTHÈSE ***
+Pot total 445 | Commission 0 
+Tableau [Ts 4c Qd 9s 6c]
+Siège 1 : tete3346078 (bouton) a montré [Jh Ah] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : jwel8500 (grosse blind) a montré [Jc Th] et a gagné (445) avec une paire de Dix
+
+
+
+Main PokerStars n°237508057157 : Tournoi #3444926548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/07/2022 8:19:13 CET [22/07/2022 2:19:13 ET]
+Table '3444926548 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (345 en jetons) 
+Place 3: jwel8500 (555 en jetons) 
+jwel8500 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Qd]
+jwel8500 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [7c Kh Jh]
+psychoman59 : parole 
+jwel8500 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à jwel8500.
+jwel8500 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7c Kh Jh]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : jwel8500 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237508058751 : Tournoi #3444926548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/07/2022 8:19:28 CET [22/07/2022 2:19:28 ET]
+Table '3444926548 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (315 en jetons) 
+Place 3: jwel8500 (585 en jetons) 
+psychoman59 : met la petite blind. 20
+jwel8500 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à jwel8500.
+jwel8500 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : jwel8500 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237508059278 : Tournoi #3444926548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/07/2022 8:19:32 CET [22/07/2022 2:19:32 ET]
+Table '3444926548 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (295 en jetons) 
+Place 3: jwel8500 (605 en jetons) 
+jwel8500 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ah]
+jwel8500 : suit. 20
+psychoman59 : relance. 255 à 295 et est all-in.
+jwel8500 : passe. 
+Personne n'a suivi. (255) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : jwel8500 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237508060166 : Tournoi #3444926548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/07/2022 8:19:40 CET [22/07/2022 2:19:40 ET]
+Table '3444926548 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (335 en jetons) 
+Place 3: jwel8500 (565 en jetons) 
+psychoman59 : met la petite blind. 20
+jwel8500 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Ks]
+psychoman59 : relance. 295 à 335 et est all-in.
+jwel8500 : suit. 295
+*** FLOP *** [3c 8s 2d]
+*** TOURNANT *** [3c 8s 2d] [As]
+*** RIVIÈRE *** [3c 8s 2d As] [Tc]
+*** ABATTAGE ***
+jwel8500 : montre [Td Ah] (double paire, As et Dix)
+psychoman59 : montre [3h Ks] (une paire de Trois)
+jwel8500 a remporté 670  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+*** SYNTHÈSE ***
+Pot total 670 | Commission 0 
+Tableau [3c 8s 2d As Tc]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [3h Ks] et a perdu avec une paire de Trois
+Siège 3 : jwel8500 (grosse blind) a montré [Td Ah] et a gagné (670) avec double paire, As et Dix
+
+
+

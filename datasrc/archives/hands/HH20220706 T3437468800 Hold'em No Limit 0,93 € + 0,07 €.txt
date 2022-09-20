@@ -1,0 +1,29 @@
+﻿Main PokerStars n°237189646388 : Tournoi #3437468800, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/07/2022 8:12:36 CET [06/07/2022 2:12:36 ET]
+Table '3437468800 1' 3-max Siège #1 est au bouton.
+Place 1: BraveBit (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Bboulac25 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Bboulac25 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Ad]
+BraveBit : passe. 
+psychoman59 : relance. 40 à 60
+Bboulac25 : relance. 240 à 300 et est all-in.
+psychoman59 : suit. 240 et est all-in.
+*** FLOP *** [5d 4s Qc]
+*** TOURNANT *** [5d 4s Qc] [7d]
+*** RIVIÈRE *** [5d 4s Qc 7d] [Jh]
+*** ABATTAGE ***
+psychoman59 : montre [3s Ad] (Hauteur As)
+Bboulac25 : montre [6d Ac] (Hauteur As - Dame+Valet+Sept+Six kicker)
+Bboulac25 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [5d 4s Qc 7d Jh]
+Siège 1 : BraveBit (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [3s Ad] et a perdu avec Hauteur As
+Siège 3 : Bboulac25 (grosse blind) a montré [6d Ac] et a gagné (600) avec Hauteur As
+
+
+

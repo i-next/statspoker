@@ -1,0 +1,403 @@
+﻿Main PokerStars n°237548767918 : Tournoi #3445873507, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/07/2022 7:26:59 CET [24/07/2022 1:26:59 ET]
+Table '3445873507 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: faufo13 (300 en jetons) 
+Place 3: bulbiced (300 en jetons) 
+faufo13 : met la petite blind. 10
+bulbiced : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Qh]
+psychoman59 : suit. 20
+faufo13 : relance. 20 à 40
+bulbiced : suit. 20
+psychoman59 : suit. 20
+*** FLOP *** [6c 2s 3h]
+faufo13 : mise. 20
+bulbiced : suit. 20
+psychoman59 : passe. 
+*** TOURNANT *** [6c 2s 3h] [4s]
+faufo13 : mise. 20
+bulbiced : suit. 20
+*** RIVIÈRE *** [6c 2s 3h 4s] [9c]
+faufo13 : mise. 20
+bulbiced : suit. 20
+*** ABATTAGE ***
+faufo13 : montre [Ah Jd] (Hauteur As)
+bulbiced : montre [Ad 3d] (une paire de Trois)
+bulbiced a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6c 2s 3h 4s 9c]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : faufo13 (petite blind) a montré [Ah Jd] et a perdu avec Hauteur As
+Siège 3 : bulbiced (grosse blind) a montré [Ad 3d] et a gagné (240) avec une paire de Trois
+
+
+
+Main PokerStars n°237548771158 : Tournoi #3445873507, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/07/2022 7:27:26 CET [24/07/2022 1:27:26 ET]
+Table '3445873507 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: faufo13 (200 en jetons) 
+Place 3: bulbiced (440 en jetons) 
+bulbiced : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Js]
+faufo13 : passe. 
+bulbiced : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8c Ts 4h]
+bulbiced : parole 
+psychoman59 : mise. 40
+bulbiced : suit. 40
+*** TOURNANT *** [8c Ts 4h] [2s]
+bulbiced : parole 
+psychoman59 : mise. 120
+bulbiced : relance. 120 à 240
+psychoman59 : suit. 80 et est all-in.
+Personne n'a suivi. (40) sont retournés à bulbiced.
+*** RIVIÈRE *** [8c Ts 4h 2s] [Tc]
+*** ABATTAGE ***
+bulbiced : montre [Kd 8d] (double paire, Dix et Huit)
+psychoman59 : montre [Th Js] (un brelan de Dix)
+psychoman59 a remporté 520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [8c Ts 4h 2s Tc]
+Siège 1 : psychoman59 (grosse blind) a montré [Th Js] et a gagné (520) avec un brelan de Dix
+Siège 2 : faufo13 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : bulbiced (petite blind) a montré [Kd 8d] et a perdu avec double paire, Dix et Huit
+
+
+
+Main PokerStars n°237548776072 : Tournoi #3445873507, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/07/2022 7:28:07 CET [24/07/2022 1:28:07 ET]
+Table '3445873507 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: faufo13 (200 en jetons) 
+Place 3: bulbiced (180 en jetons) 
+psychoman59 : met la petite blind. 15
+faufo13 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 3s]
+bulbiced : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à faufo13.
+faufo13 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : faufo13 (grosse blind) a remporté (30)
+Siège 3 : bulbiced (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237548776869 : Tournoi #3445873507, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/07/2022 7:28:14 CET [24/07/2022 1:28:14 ET]
+Table '3445873507 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (505 en jetons) 
+Place 2: faufo13 (215 en jetons) 
+Place 3: bulbiced (180 en jetons) 
+faufo13 : met la petite blind. 15
+bulbiced : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 6d]
+psychoman59 : passe. 
+faufo13 : suit. 15
+bulbiced : parole 
+*** FLOP *** [9s Ah Kh]
+faufo13 : parole 
+bulbiced : parole 
+*** TOURNANT *** [9s Ah Kh] [5h]
+faufo13 : mise. 30
+bulbiced : suit. 30
+*** RIVIÈRE *** [9s Ah Kh 5h] [4c]
+faufo13 : mise. 30
+bulbiced : passe. 
+Personne n'a suivi. (30) sont retournés à faufo13.
+faufo13 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9s Ah Kh 5h 4c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : faufo13 (petite blind) a remporté (120)
+Siège 3 : bulbiced (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°237548779276 : Tournoi #3445873507, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/07/2022 7:28:34 CET [24/07/2022 1:28:34 ET]
+Table '3445873507 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (505 en jetons) 
+Place 2: faufo13 (275 en jetons) 
+Place 3: bulbiced (120 en jetons) 
+bulbiced : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 5d]
+faufo13 : suit. 30
+bulbiced : suit. 15
+psychoman59 : parole 
+*** FLOP *** [7d 8d Tc]
+bulbiced : mise. 90 et est all-in.
+psychoman59 : suit. 90
+faufo13 : relance. 90 à 180
+psychoman59 : suit. 90
+*** TOURNANT *** [7d 8d Tc] [3c]
+psychoman59 : parole 
+faufo13 : mise. 65 et est all-in.
+psychoman59 : suit. 65
+*** RIVIÈRE *** [7d 8d Tc 3c] [Qh]
+*** ABATTAGE ***
+psychoman59 : montre [Kd 5d] (Hauteur Roi)
+faufo13 : montre [8c Ks] (une paire de Huit)
+faufo13 a remporté 310  parallèle lors du pot .
+bulbiced : montre [Td Kh] (une paire de Dix)
+bulbiced a remporté 360  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 670 Principal pot 360. Parallèle pot 310. | Commission 0 
+Tableau [7d 8d Tc 3c Qh]
+Siège 1 : psychoman59 (grosse blind) a montré [Kd 5d] et a perdu avec Hauteur Roi
+Siège 2 : faufo13 (bouton) a montré [8c Ks] et a gagné (310) avec une paire de Huit
+Siège 3 : bulbiced (petite blind) a montré [Td Kh] et a gagné (360) avec une paire de Dix
+
+
+
+Main PokerStars n°237548783168 : Tournoi #3445873507, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/07/2022 7:29:07 CET [24/07/2022 1:29:07 ET]
+Table '3445873507 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (230 en jetons) 
+Place 2: faufo13 (310 en jetons) 
+Place 3: bulbiced (360 en jetons) 
+psychoman59 : met la petite blind. 20
+faufo13 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Kd]
+bulbiced : passe. 
+psychoman59 : relance. 40 à 80
+faufo13 : suit. 40
+*** FLOP *** [Kc 7s Qd]
+psychoman59 : parole 
+faufo13 : mise. 40
+psychoman59 : relance. 60 à 100
+faufo13 : suit. 60
+*** TOURNANT *** [Kc 7s Qd] [2h]
+psychoman59 : mise. 50 et est all-in.
+faufo13 : suit. 50
+*** RIVIÈRE *** [Kc 7s Qd 2h] [3c]
+*** ABATTAGE ***
+psychoman59 : montre [7c Kd] (double paire, Rois et Sept)
+faufo13 : montre [Th 9s] (Hauteur Roi)
+psychoman59 a remporté 460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [Kc 7s Qd 2h 3c]
+Siège 1 : psychoman59 (petite blind) a montré [7c Kd] et a gagné (460) avec double paire, Rois et Sept
+Siège 2 : faufo13 (grosse blind) a montré [Th 9s] et a perdu avec Hauteur Roi
+Siège 3 : bulbiced (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237548786779 : Tournoi #3445873507, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/07/2022 7:29:39 CET [24/07/2022 1:29:39 ET]
+Table '3445873507 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: faufo13 (80 en jetons) 
+Place 3: bulbiced (360 en jetons) 
+faufo13 : met la petite blind. 20
+bulbiced : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 3s]
+psychoman59 : passe. 
+faufo13 : relance. 40 à 80 et est all-in.
+bulbiced : suit. 40
+*** FLOP *** [Th Ad 3c]
+*** TOURNANT *** [Th Ad 3c] [5c]
+*** RIVIÈRE *** [Th Ad 3c 5c] [Kc]
+*** ABATTAGE ***
+faufo13 : montre [5s 9s] (une paire de Cinq)
+bulbiced : montre [7h 7s] (une paire de Sept)
+bulbiced a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Th Ad 3c 5c Kc]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : faufo13 (petite blind) a montré [5s 9s] et a perdu avec une paire de Cinq
+Siège 3 : bulbiced (grosse blind) a montré [7h 7s] et a gagné (160) avec une paire de Sept
+
+
+
+Main PokerStars n°237548789224 : Tournoi #3445873507, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/07/2022 7:30:00 CET [24/07/2022 1:30:00 ET]
+Table '3445873507 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 3: bulbiced (440 en jetons) 
+bulbiced : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 4h]
+bulbiced : suit. 20
+psychoman59 : parole 
+*** FLOP *** [3d Th 8h]
+psychoman59 : parole 
+bulbiced : parole 
+*** TOURNANT *** [3d Th 8h] [Jc]
+psychoman59 : parole 
+bulbiced : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à bulbiced.
+bulbiced a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3d Th 8h Jc]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : bulbiced (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237548792501 : Tournoi #3445873507, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/07/2022 7:30:29 CET [24/07/2022 1:30:29 ET]
+Table '3445873507 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 3: bulbiced (480 en jetons) 
+psychoman59 : met la petite blind. 30
+bulbiced : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 8c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à bulbiced.
+bulbiced a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : bulbiced (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°237548793079 : Tournoi #3445873507, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/07/2022 7:30:34 CET [24/07/2022 1:30:34 ET]
+Table '3445873507 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (390 en jetons) 
+Place 3: bulbiced (510 en jetons) 
+bulbiced : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 7h]
+bulbiced : suit. 30
+psychoman59 : parole 
+*** FLOP *** [5s Kd 3s]
+psychoman59 : parole 
+bulbiced : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à bulbiced.
+bulbiced a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5s Kd 3s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : bulbiced (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°237548795039 : Tournoi #3445873507, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/07/2022 7:30:50 CET [24/07/2022 1:30:50 ET]
+Table '3445873507 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 3: bulbiced (570 en jetons) 
+psychoman59 : met la petite blind. 30
+bulbiced : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Th]
+psychoman59 : relance. 270 à 330 et est all-in.
+bulbiced : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : bulbiced (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237548800084 : Tournoi #3445873507, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/07/2022 7:31:06 CET [24/07/2022 1:31:06 ET]
+Table '3445873507 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (390 en jetons) 
+Place 3: bulbiced (510 en jetons) 
+bulbiced : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 7d]
+bulbiced : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : bulbiced (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237548800759 : Tournoi #3445873507, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/07/2022 7:31:11 CET [24/07/2022 1:31:11 ET]
+Table '3445873507 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 3: bulbiced (470 en jetons) 
+psychoman59 : met la petite blind. 40
+bulbiced : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Ah]
+psychoman59 : relance. 350 à 430 et est all-in.
+bulbiced : passe. 
+Personne n'a suivi. (350) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 3 : bulbiced (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237548801624 : Tournoi #3445873507, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/07/2022 7:31:18 CET [24/07/2022 1:31:18 ET]
+Table '3445873507 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (510 en jetons) 
+Place 3: bulbiced (390 en jetons) 
+bulbiced : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 6h]
+bulbiced : suit. 40
+psychoman59 : parole 
+*** FLOP *** [2c Kd 8d]
+psychoman59 : mise. 160
+bulbiced : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [2c Kd 8d]
+Siège 1 : psychoman59 (grosse blind) a remporté (160)
+Siège 3 : bulbiced (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237548803467 : Tournoi #3445873507, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/07/2022 7:31:34 CET [24/07/2022 1:31:34 ET]
+Table '3445873507 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (590 en jetons) 
+Place 3: bulbiced (310 en jetons) 
+psychoman59 : met la petite blind. 40
+bulbiced : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 4h]
+psychoman59 : suit. 40
+bulbiced : parole 
+*** FLOP *** [Jc 4c 5h]
+bulbiced : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jc 4c 5h] [8h]
+bulbiced : mise. 80
+psychoman59 : suit. 80
+*** RIVIÈRE *** [Jc 4c 5h 8h] [4d]
+bulbiced : mise. 150 et est all-in.
+psychoman59 : suit. 150
+*** ABATTAGE ***
+bulbiced : montre [7s 9c] (une paire de Quatre)
+psychoman59 : montre [Kh 4h] (un brelan de Quatre)
+psychoman59 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Jc 4c 5h 8h 4d]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Kh 4h] et a gagné (620) avec un brelan de Quatre
+Siège 3 : bulbiced (grosse blind) a montré [7s 9c] et a perdu avec une paire de Quatre
+
+
+

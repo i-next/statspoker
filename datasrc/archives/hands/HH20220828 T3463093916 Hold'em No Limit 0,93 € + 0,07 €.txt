@@ -1,0 +1,582 @@
+﻿Main PokerStars n°238277177062 : Tournoi #3463093916, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/08/2022 23:28:36 CET [28/08/2022 17:28:36 ET]
+Table '3463093916 1' 3-max Siège #1 est au bouton.
+Place 1: Audrey732 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: GAULOISDU69 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+GAULOISDU69 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Qh]
+Audrey732 : passe. 
+psychoman59 : relance. 40 à 60
+GAULOISDU69 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Audrey732 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : GAULOISDU69 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238277181279 : Tournoi #3463093916, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/08/2022 23:28:48 CET [28/08/2022 17:28:48 ET]
+Table '3463093916 1' 3-max Siège #2 est au bouton.
+Place 1: Audrey732 (300 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: GAULOISDU69 (280 en jetons) 
+GAULOISDU69 : met la petite blind. 10
+Audrey732 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Qs]
+psychoman59 : relance. 20 à 40
+GAULOISDU69 : passe. 
+Audrey732 : suit. 20
+*** FLOP *** [7s 4s 8h]
+Audrey732 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7s 4s 8h] [Td]
+Audrey732 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7s 4s 8h Td] [7h]
+Audrey732 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Audrey732 : montre [Kh Jh] (une paire de Sept)
+psychoman59 : montre [Kc Qs] (une paire de Sept - Roi+Dame kicker)
+psychoman59 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [7s 4s 8h Td 7h]
+Siège 1 : Audrey732 (grosse blind) a montré [Kh Jh] et a perdu avec une paire de Sept
+Siège 2 : psychoman59 (bouton) a montré [Kc Qs] et a gagné (90) avec une paire de Sept
+Siège 3 : GAULOISDU69 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238277189099 : Tournoi #3463093916, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/08/2022 23:29:09 CET [28/08/2022 17:29:09 ET]
+Table '3463093916 1' 3-max Siège #3 est au bouton.
+Place 1: Audrey732 (260 en jetons) 
+Place 2: psychoman59 (370 en jetons) 
+Place 3: GAULOISDU69 (270 en jetons) 
+Audrey732 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 6s]
+GAULOISDU69 : suit. 20
+Audrey732 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4c 3c 9d]
+Audrey732 : parole 
+psychoman59 : mise. 30
+GAULOISDU69 : suit. 30
+Audrey732 : suit. 30
+*** TOURNANT *** [4c 3c 9d] [Ad]
+Audrey732 : parole 
+psychoman59 : parole 
+GAULOISDU69 : parole 
+*** RIVIÈRE *** [4c 3c 9d Ad] [8c]
+Audrey732 : parole 
+psychoman59 : parole 
+GAULOISDU69 : mise. 20
+Audrey732 : suit. 20
+psychoman59 : passe. 
+*** ABATTAGE ***
+GAULOISDU69 : montre [9s 7s] (une paire de Neuf)
+Audrey732 : montre [3h As] (double paire, As et Trois)
+Audrey732 a remporté 190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Tableau [4c 3c 9d Ad 8c]
+Siège 1 : Audrey732 (petite blind) a montré [3h As] et a gagné (190) avec double paire, As et Trois
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : GAULOISDU69 (bouton) a montré [9s 7s] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°238277211600 : Tournoi #3463093916, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/08/2022 23:30:07 CET [28/08/2022 17:30:07 ET]
+Table '3463093916 1' 3-max Siège #1 est au bouton.
+Place 1: Audrey732 (380 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: GAULOISDU69 (200 en jetons) 
+psychoman59 : met la petite blind. 15
+GAULOISDU69 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 7c]
+Audrey732 : passe. 
+psychoman59 : relance. 90 à 120
+GAULOISDU69 : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Audrey732 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (60)
+Siège 3 : GAULOISDU69 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238277216231 : Tournoi #3463093916, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/08/2022 23:30:20 CET [28/08/2022 17:30:20 ET]
+Table '3463093916 1' 3-max Siège #2 est au bouton.
+Place 1: Audrey732 (380 en jetons) 
+Place 2: psychoman59 (350 en jetons) 
+Place 3: GAULOISDU69 (170 en jetons) 
+GAULOISDU69 : met la petite blind. 15
+Audrey732 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 7d]
+psychoman59 : passe. 
+GAULOISDU69 : passe. 
+Personne n'a suivi. (15) sont retournés à Audrey732.
+Audrey732 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Audrey732 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : GAULOISDU69 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238277218638 : Tournoi #3463093916, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/08/2022 23:30:26 CET [28/08/2022 17:30:26 ET]
+Table '3463093916 1' 3-max Siège #3 est au bouton.
+Place 1: Audrey732 (395 en jetons) 
+Place 2: psychoman59 (350 en jetons) 
+Place 3: GAULOISDU69 (155 en jetons) 
+Audrey732 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 5d]
+GAULOISDU69 : passe. 
+Audrey732 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5c Qd 8h]
+Audrey732 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5c Qd 8h] [8s]
+Audrey732 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5c Qd 8h 8s] [2c]
+Audrey732 : parole 
+psychoman59 : mise. 60
+Audrey732 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5c Qd 8h 8s 2c]
+Siège 1 : Audrey732 (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : GAULOISDU69 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238277230440 : Tournoi #3463093916, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/08/2022 23:30:57 CET [28/08/2022 17:30:57 ET]
+Table '3463093916 1' 3-max Siège #1 est au bouton.
+Place 1: Audrey732 (365 en jetons) 
+Place 2: psychoman59 (380 en jetons) 
+Place 3: GAULOISDU69 (155 en jetons) 
+psychoman59 : met la petite blind. 20
+GAULOISDU69 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 5d]
+Audrey732 : suit. 40
+psychoman59 : passe. 
+GAULOISDU69 : parole 
+*** FLOP *** [6c Td 4s]
+GAULOISDU69 : parole 
+Audrey732 : parole 
+*** TOURNANT *** [6c Td 4s] [Ad]
+GAULOISDU69 : parole 
+Audrey732 : parole 
+*** RIVIÈRE *** [6c Td 4s Ad] [7d]
+GAULOISDU69 : mise. 40
+Audrey732 : passe. 
+Personne n'a suivi. (40) sont retournés à GAULOISDU69.
+GAULOISDU69 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [6c Td 4s Ad 7d]
+Siège 1 : Audrey732 (bouton) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : GAULOISDU69 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°238277239429 : Tournoi #3463093916, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/08/2022 23:31:21 CET [28/08/2022 17:31:21 ET]
+Table '3463093916 1' 3-max Siège #2 est au bouton.
+Place 1: Audrey732 (325 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+Place 3: GAULOISDU69 (215 en jetons) 
+GAULOISDU69 : met la petite blind. 20
+Audrey732 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 5c]
+psychoman59 : passe. 
+GAULOISDU69 : passe. 
+Personne n'a suivi. (20) sont retournés à Audrey732.
+Audrey732 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Audrey732 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : GAULOISDU69 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238277241643 : Tournoi #3463093916, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/08/2022 23:31:27 CET [28/08/2022 17:31:27 ET]
+Table '3463093916 1' 3-max Siège #3 est au bouton.
+Place 1: Audrey732 (345 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+Place 3: GAULOISDU69 (195 en jetons) 
+Audrey732 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 9d]
+GAULOISDU69 : passe. 
+Audrey732 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Jh 7d Jd]
+Audrey732 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jh 7d Jd] [7s]
+Audrey732 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Jh 7d Jd 7s] [Th]
+Audrey732 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Audrey732 : montre [2s Kc] (double paire, Valets et Sept)
+psychoman59 : cache la main perdante. 
+Audrey732 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Jh 7d Jd 7s Th]
+Siège 1 : Audrey732 (petite blind) a montré [2s Kc] et a gagné (80) avec double paire, Valets et Sept
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [4d 9d]
+Siège 3 : GAULOISDU69 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238277250651 : Tournoi #3463093916, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/08/2022 23:31:51 CET [28/08/2022 17:31:51 ET]
+Table '3463093916 1' 3-max Siège #1 est au bouton.
+Place 1: Audrey732 (385 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: GAULOISDU69 (195 en jetons) 
+psychoman59 : met la petite blind. 30
+GAULOISDU69 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Td]
+Audrey732 : suit. 60
+psychoman59 : passe. 
+GAULOISDU69 : parole 
+*** FLOP *** [6s 7d 3d]
+GAULOISDU69 : parole 
+Audrey732 : mise. 60
+GAULOISDU69 : suit. 60
+*** TOURNANT *** [6s 7d 3d] [2d]
+GAULOISDU69 : parole 
+Audrey732 : parole 
+*** RIVIÈRE *** [6s 7d 3d 2d] [4s]
+GAULOISDU69 : parole 
+Audrey732 : mise. 60
+GAULOISDU69 : passe. 
+Personne n'a suivi. (60) sont retournés à Audrey732.
+Audrey732 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [6s 7d 3d 2d 4s]
+Siège 1 : Audrey732 (bouton) a remporté (270)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : GAULOISDU69 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238277262224 : Tournoi #3463093916, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/08/2022 23:32:22 CET [28/08/2022 17:32:22 ET]
+Table '3463093916 1' 3-max Siège #2 est au bouton.
+Place 1: Audrey732 (535 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: GAULOISDU69 (75 en jetons) 
+GAULOISDU69 : met la petite blind. 30
+Audrey732 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 8d]
+psychoman59 : passe. 
+GAULOISDU69 : relance. 15 à 75 et est all-in.
+Audrey732 : suit. 15
+*** FLOP *** [6h 7s 9h]
+*** TOURNANT *** [6h 7s 9h] [6s]
+*** RIVIÈRE *** [6h 7s 9h 6s] [Tc]
+*** ABATTAGE ***
+GAULOISDU69 : montre [Js Ks] (une paire de Six)
+Audrey732 : montre [6c 3c] (un brelan de Six)
+Audrey732 a remporté 150  lors du pot .
+GAULOISDU69 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [6h 7s 9h 6s Tc]
+Siège 1 : Audrey732 (grosse blind) a montré [6c 3c] et a gagné (150) avec un brelan de Six
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : GAULOISDU69 (petite blind) a montré [Js Ks] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°238277269463 : Tournoi #3463093916, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 28/08/2022 23:32:41 CET [28/08/2022 17:32:41 ET]
+Table '3463093916 1' 3-max Siège #1 est au bouton.
+Place 1: Audrey732 (610 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Audrey732 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Ac]
+Audrey732 : suit. 40
+psychoman59 : relance. 210 à 290 et est all-in.
+Audrey732 : suit. 210
+*** FLOP *** [As 2c Qc]
+*** TOURNANT *** [As 2c Qc] [Ah]
+*** RIVIÈRE *** [As 2c Qc Ah] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [Js Ac] (un full, full aux As par les Deux)
+Audrey732 : montre [Qd 9h] (double paire, As et Dames)
+psychoman59 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [As 2c Qc Ah 2h]
+Siège 1 : Audrey732 (bouton) (petite blind) a montré [Qd 9h] et a perdu avec double paire, As et Dames
+Siège 2 : psychoman59 (grosse blind) a montré [Js Ac] et a gagné (580) avec un full, full aux As par les Deux
+
+
+
+Main PokerStars n°238277275436 : Tournoi #3463093916, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 28/08/2022 23:32:57 CET [28/08/2022 17:32:57 ET]
+Table '3463093916 1' 3-max Siège #2 est au bouton.
+Place 1: Audrey732 (320 en jetons) 
+Place 2: psychoman59 (580 en jetons) 
+psychoman59 : met la petite blind. 40
+Audrey732 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 5c]
+psychoman59 : relance. 500 à 580 et est all-in.
+Audrey732 : passe. 
+Personne n'a suivi. (500) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : Audrey732 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°238277278481 : Tournoi #3463093916, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 28/08/2022 23:33:05 CET [28/08/2022 17:33:05 ET]
+Table '3463093916 1' 3-max Siège #1 est au bouton.
+Place 1: Audrey732 (240 en jetons) 
+Place 2: psychoman59 (660 en jetons) 
+Audrey732 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Qc]
+Audrey732 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [7s 5h 6s]
+psychoman59 : parole 
+Audrey732 : parole 
+*** TOURNANT *** [7s 5h 6s] [7d]
+psychoman59 : parole 
+Audrey732 : parole 
+*** RIVIÈRE *** [7s 5h 6s 7d] [Ks]
+psychoman59 : parole 
+Audrey732 : mise. 80
+psychoman59 : suit. 80
+*** ABATTAGE ***
+Audrey732 : montre [Js Kd] (double paire, Rois et Sept)
+psychoman59 : cache la main perdante. 
+Audrey732 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [7s 5h 6s 7d Ks]
+Siège 1 : Audrey732 (bouton) (petite blind) a montré [Js Kd] et a gagné (320) avec double paire, Rois et Sept
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [9c Qc]
+
+
+
+Main PokerStars n°238277286369 : Tournoi #3463093916, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 28/08/2022 23:33:26 CET [28/08/2022 17:33:26 ET]
+Table '3463093916 1' 3-max Siège #2 est au bouton.
+Place 1: Audrey732 (400 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+psychoman59 : met la petite blind. 40
+Audrey732 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Ah]
+psychoman59 : relance. 420 à 500 et est all-in.
+Audrey732 : passe. 
+Personne n'a suivi. (420) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : Audrey732 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°238277289622 : Tournoi #3463093916, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 28/08/2022 23:33:35 CET [28/08/2022 17:33:35 ET]
+Table '3463093916 1' 3-max Siège #1 est au bouton.
+Place 1: Audrey732 (320 en jetons) 
+Place 2: psychoman59 (580 en jetons) 
+Audrey732 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 6c]
+Audrey732 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [6s 2d 7s]
+psychoman59 : mise. 500 et est all-in.
+Audrey732 : suit. 240 et est all-in.
+Personne n'a suivi. (260) sont retournés à psychoman59.
+*** TOURNANT *** [6s 2d 7s] [Td]
+*** RIVIÈRE *** [6s 2d 7s Td] [7h]
+*** ABATTAGE ***
+psychoman59 : montre [4h 6c] (double paire, Sept et Six)
+Audrey732 : montre [Ks 7d] (un brelan de Sept)
+Audrey732 a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [6s 2d 7s Td 7h]
+Siège 1 : Audrey732 (bouton) (petite blind) a montré [Ks 7d] et a gagné (640) avec un brelan de Sept
+Siège 2 : psychoman59 (grosse blind) a montré [4h 6c] et a perdu avec double paire, Sept et Six
+
+
+
+Main PokerStars n°238277297306 : Tournoi #3463093916, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 28/08/2022 23:33:55 CET [28/08/2022 17:33:55 ET]
+Table '3463093916 1' 3-max Siège #2 est au bouton.
+Place 1: Audrey732 (640 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+psychoman59 : met la petite blind. 50
+Audrey732 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Jh]
+psychoman59 : relance. 160 à 260 et est all-in.
+Audrey732 : suit. 160
+*** FLOP *** [Th 9d Qc]
+*** TOURNANT *** [Th 9d Qc] [2c]
+*** RIVIÈRE *** [Th 9d Qc 2c] [Qs]
+*** ABATTAGE ***
+Audrey732 : montre [Ac 8s] (une paire de Dames)
+psychoman59 : montre [Kd Jh] (une suite, Neuf à Roi)
+psychoman59 a remporté 520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [Th 9d Qc 2c Qs]
+Siège 1 : Audrey732 (grosse blind) a montré [Ac 8s] et a perdu avec une paire de Dames
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Kd Jh] et a gagné (520) avec une suite, Neuf à Roi
+
+
+
+Main PokerStars n°238277302718 : Tournoi #3463093916, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 28/08/2022 23:34:09 CET [28/08/2022 17:34:09 ET]
+Table '3463093916 1' 3-max Siège #1 est au bouton.
+Place 1: Audrey732 (380 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Audrey732 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 3c]
+Audrey732 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : Audrey732 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°238277306130 : Tournoi #3463093916, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 28/08/2022 23:34:19 CET [28/08/2022 17:34:19 ET]
+Table '3463093916 1' 3-max Siège #2 est au bouton.
+Place 1: Audrey732 (330 en jetons) 
+Place 2: psychoman59 (570 en jetons) 
+psychoman59 : met la petite blind. 50
+Audrey732 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 5h]
+psychoman59 : suit. 50
+Audrey732 : parole 
+*** FLOP *** [9d 7d 9s]
+Audrey732 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9d 7d 9s] [8s]
+Audrey732 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9d 7d 9s 8s] [6s]
+Audrey732 : mise. 100
+psychoman59 : suit. 100
+*** ABATTAGE ***
+Audrey732 : montre [6d Kd] (double paire, Neuf et Six)
+psychoman59 : montre [4h 5h] (une suite, Cinq à Neuf)
+psychoman59 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [9d 7d 9s 8s 6s]
+Siège 1 : Audrey732 (grosse blind) a montré [6d Kd] et a perdu avec double paire, Neuf et Six
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [4h 5h] et a gagné (400) avec une suite, Cinq à Neuf
+
+
+
+Main PokerStars n°238277316986 : Tournoi #3463093916, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 28/08/2022 23:34:48 CET [28/08/2022 17:34:48 ET]
+Table '3463093916 1' 3-max Siège #1 est au bouton.
+Place 1: Audrey732 (130 en jetons) 
+Place 2: psychoman59 (770 en jetons) 
+Audrey732 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 6d]
+Audrey732 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [Ts Qh 4h]
+psychoman59 : parole 
+Audrey732 : mise. 10 et est all-in.
+psychoman59 : suit. 10
+*** TOURNANT *** [Ts Qh 4h] [4d]
+*** RIVIÈRE *** [Ts Qh 4h 4d] [5c]
+*** ABATTAGE ***
+psychoman59 : montre [Js 6d] (une paire de Quatre)
+Audrey732 : montre [Kc 9s] (une paire de Quatre - Roi kicker)
+Audrey732 a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [Ts Qh 4h 4d 5c]
+Siège 1 : Audrey732 (bouton) (petite blind) a montré [Kc 9s] et a gagné (260) avec une paire de Quatre
+Siège 2 : psychoman59 (grosse blind) a montré [Js 6d] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°238277323984 : Tournoi #3463093916, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 28/08/2022 23:35:07 CET [28/08/2022 17:35:07 ET]
+Table '3463093916 1' 3-max Siège #2 est au bouton.
+Place 1: Audrey732 (260 en jetons) 
+Place 2: psychoman59 (640 en jetons) 
+psychoman59 : met la petite blind. 60
+Audrey732 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Kc]
+psychoman59 : relance. 240 à 360
+Audrey732 : suit. 140 et est all-in.
+Personne n'a suivi. (100) sont retournés à psychoman59.
+*** FLOP *** [6c 3d Th]
+*** TOURNANT *** [6c 3d Th] [Tc]
+*** RIVIÈRE *** [6c 3d Th Tc] [4c]
+*** ABATTAGE ***
+Audrey732 : montre [Qd 8d] (une paire de Dix)
+psychoman59 : montre [9d Kc] (une paire de Dix - Roi kicker)
+psychoman59 a remporté 520  lors du pot .
+Audrey732 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [6c 3d Th Tc 4c]
+Siège 1 : Audrey732 (grosse blind) a montré [Qd 8d] et a perdu avec une paire de Dix
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [9d Kc] et a gagné (520) avec une paire de Dix
+
+
+

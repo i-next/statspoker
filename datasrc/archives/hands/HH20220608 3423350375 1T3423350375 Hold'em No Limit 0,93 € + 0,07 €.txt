@@ -1,0 +1,338 @@
+﻿Main PokerStars n°236637231099 : Tournoi #3423350375, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/06/2022 6:53:01 CET [08/06/2022 0:53:01 ET]
+Table '3423350375 1' 3-max Siège #1 est au bouton.
+Place 1: AAmuerte77 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Anglume (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Anglume : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qc]
+AAmuerte77 : passe. 
+psychoman59 : suit. 10
+Anglume : parole 
+*** FLOP *** [8d Qd Kh]
+psychoman59 : parole 
+Anglume : parole 
+*** TOURNANT *** [8d Qd Kh] [2c]
+psychoman59 : mise. 20
+Anglume : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [8d Qd Kh 2c]
+Siège 1 : AAmuerte77 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : Anglume (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°236637234586 : Tournoi #3423350375, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/06/2022 6:53:30 CET [08/06/2022 0:53:30 ET]
+Table '3423350375 1' 3-max Siège #2 est au bouton.
+Place 1: AAmuerte77 (300 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: Anglume (280 en jetons) 
+Anglume : met la petite blind. 10
+AAmuerte77 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Jc]
+psychoman59 : passe. 
+Anglume : suit. 10
+AAmuerte77 : parole 
+*** FLOP *** [2s 7s 6d]
+Anglume : parole 
+AAmuerte77 : mise. 20
+Anglume : suit. 20
+*** TOURNANT *** [2s 7s 6d] [5h]
+Anglume : parole 
+AAmuerte77 : mise. 60
+Anglume : relance. 60 à 120
+AAmuerte77 : passe. 
+Personne n'a suivi. (60) sont retournés à Anglume.
+Anglume a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [2s 7s 6d 5h]
+Siège 1 : AAmuerte77 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Anglume (petite blind) a remporté (200)
+
+
+
+Main PokerStars n°236637239712 : Tournoi #3423350375, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/06/2022 6:54:13 CET [08/06/2022 0:54:13 ET]
+Table '3423350375 1' 3-max Siège #3 est au bouton.
+Place 1: AAmuerte77 (200 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: Anglume (380 en jetons) 
+AAmuerte77 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 6s]
+Anglume : suit. 30
+AAmuerte77 : passe. 
+psychoman59 : parole 
+*** FLOP *** [6h Qd 9h]
+psychoman59 : parole 
+Anglume : parole 
+*** TOURNANT *** [6h Qd 9h] [4c]
+psychoman59 : mise. 30
+Anglume : suit. 30
+*** RIVIÈRE *** [6h Qd 9h 4c] [3d]
+psychoman59 : mise. 30
+Anglume : suit. 30
+*** ABATTAGE ***
+psychoman59 : montre [2c 6s] (une paire de Six)
+Anglume : montre [9d Kd] (une paire de Neuf)
+Anglume a remporté 195  lors du pot .
+*** SYNTHÈSE ***
+Pot total 195 | Commission 0 
+Tableau [6h Qd 9h 4c 3d]
+Siège 1 : AAmuerte77 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [2c 6s] et a perdu avec une paire de Six
+Siège 3 : Anglume (bouton) a montré [9d Kd] et a gagné (195) avec une paire de Neuf
+
+
+
+Main PokerStars n°236637244842 : Tournoi #3423350375, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/06/2022 6:54:57 CET [08/06/2022 0:54:57 ET]
+Table '3423350375 1' 3-max Siège #1 est au bouton.
+Place 1: AAmuerte77 (185 en jetons) 
+Place 2: psychoman59 (230 en jetons) 
+Place 3: Anglume (485 en jetons) 
+psychoman59 : met la petite blind. 15
+Anglume : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Td]
+AAmuerte77 : relance. 155 à 185 et est all-in.
+psychoman59 : passe. 
+Anglume : passe. 
+Personne n'a suivi. (155) sont retournés à AAmuerte77.
+AAmuerte77 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : AAmuerte77 (bouton) a remporté (75)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Anglume (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236637246044 : Tournoi #3423350375, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/06/2022 6:55:07 CET [08/06/2022 0:55:07 ET]
+Table '3423350375 1' 3-max Siège #2 est au bouton.
+Place 1: AAmuerte77 (230 en jetons) 
+Place 2: psychoman59 (215 en jetons) 
+Place 3: Anglume (455 en jetons) 
+Anglume : met la petite blind. 20
+AAmuerte77 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 2h]
+psychoman59 : passe. 
+Anglume : relance. 40 à 80
+AAmuerte77 : suit. 40
+*** FLOP *** [3c 2d 7d]
+Anglume : mise. 40
+AAmuerte77 : relance. 110 à 150 et est all-in.
+Anglume : suit. 110
+*** TOURNANT *** [3c 2d 7d] [5s]
+*** RIVIÈRE *** [3c 2d 7d 5s] [8d]
+*** ABATTAGE ***
+Anglume : montre [Jc Ad] (Hauteur As)
+AAmuerte77 : montre [8s 9d] (une paire de Huit)
+AAmuerte77 a remporté 460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [3c 2d 7d 5s 8d]
+Siège 1 : AAmuerte77 (grosse blind) a montré [8s 9d] et a gagné (460) avec une paire de Huit
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Anglume (petite blind) a montré [Jc Ad] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°236637248770 : Tournoi #3423350375, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/06/2022 6:55:33 CET [08/06/2022 0:55:33 ET]
+Table '3423350375 1' 3-max Siège #3 est au bouton.
+Place 1: AAmuerte77 (460 en jetons) 
+Place 2: psychoman59 (215 en jetons) 
+Place 3: Anglume (225 en jetons) 
+AAmuerte77 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7h]
+Anglume : suit. 40
+AAmuerte77 : relance. 420 à 460 et est all-in.
+psychoman59 : passe. 
+Anglume : passe. 
+Personne n'a suivi. (420) sont retournés à AAmuerte77.
+AAmuerte77 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : AAmuerte77 (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Anglume (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236637250072 : Tournoi #3423350375, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/06/2022 6:55:45 CET [08/06/2022 0:55:45 ET]
+Table '3423350375 1' 3-max Siège #1 est au bouton.
+Place 1: AAmuerte77 (540 en jetons) 
+Place 2: psychoman59 (175 en jetons) 
+Place 3: Anglume (185 en jetons) 
+psychoman59 : met la petite blind. 20
+Anglume : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 7h]
+AAmuerte77 : passe. 
+psychoman59 : relance. 135 à 175 et est all-in.
+Anglume : passe. 
+Personne n'a suivi. (135) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : AAmuerte77 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (80)
+Siège 3 : Anglume (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236637250822 : Tournoi #3423350375, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/06/2022 6:55:53 CET [08/06/2022 0:55:53 ET]
+Table '3423350375 1' 3-max Siège #2 est au bouton.
+Place 1: AAmuerte77 (540 en jetons) 
+Place 2: psychoman59 (215 en jetons) 
+Place 3: Anglume (145 en jetons) 
+Anglume : met la petite blind. 20
+AAmuerte77 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 4c]
+psychoman59 : relance. 175 à 215 et est all-in.
+Anglume : passe. 
+AAmuerte77 : passe. 
+Personne n'a suivi. (175) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : AAmuerte77 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (100)
+Siège 3 : Anglume (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236637252175 : Tournoi #3423350375, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/06/2022 6:56:05 CET [08/06/2022 0:56:05 ET]
+Table '3423350375 1' 3-max Siège #3 est au bouton.
+Place 1: AAmuerte77 (500 en jetons) 
+Place 2: psychoman59 (275 en jetons) 
+Place 3: Anglume (125 en jetons) 
+AAmuerte77 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Qc]
+Anglume : relance. 60 à 120
+AAmuerte77 : passe. 
+psychoman59 : suit. 60
+*** FLOP *** [Js 2h 3s]
+psychoman59 : mise. 60
+Anglume : suit. 5 et est all-in.
+Personne n'a suivi. (55) sont retournés à psychoman59.
+*** TOURNANT *** [Js 2h 3s] [Ks]
+*** RIVIÈRE *** [Js 2h 3s Ks] [5s]
+*** ABATTAGE ***
+psychoman59 : montre [9d Qc] (Hauteur Roi)
+Anglume : montre [Td 6d] (Hauteur Roi - plus basse kicker)
+psychoman59 a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [Js 2h 3s Ks 5s]
+Siège 1 : AAmuerte77 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [9d Qc] et a gagné (280) avec Hauteur Roi
+Siège 3 : Anglume (bouton) a montré [Td 6d] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°236637255889 : Tournoi #3423350375, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/06/2022 6:56:41 CET [08/06/2022 0:56:41 ET]
+Table '3423350375 1' 3-max Siège #2 est au bouton.
+Place 1: AAmuerte77 (470 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 30
+AAmuerte77 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à AAmuerte77.
+AAmuerte77 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : AAmuerte77 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°236637256621 : Tournoi #3423350375, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/06/2022 6:56:48 CET [08/06/2022 0:56:48 ET]
+Table '3423350375 1' 3-max Siège #1 est au bouton.
+Place 1: AAmuerte77 (500 en jetons) 
+Place 2: psychoman59 (400 en jetons) 
+AAmuerte77 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 4c]
+AAmuerte77 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Qc 9h Ks]
+psychoman59 : parole 
+AAmuerte77 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à AAmuerte77.
+AAmuerte77 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qc 9h Ks]
+Siège 1 : AAmuerte77 (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°236637258853 : Tournoi #3423350375, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 08/06/2022 6:57:09 CET [08/06/2022 0:57:09 ET]
+Table '3423350375 1' 3-max Siège #2 est au bouton.
+Place 1: AAmuerte77 (560 en jetons) 
+Place 2: psychoman59 (340 en jetons) 
+psychoman59 : met la petite blind. 40
+AAmuerte77 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Kc]
+psychoman59 : relance. 260 à 340 et est all-in.
+AAmuerte77 : suit. 260
+*** FLOP *** [6d Th 3s]
+*** TOURNANT *** [6d Th 3s] [3d]
+*** RIVIÈRE *** [6d Th 3s 3d] [8h]
+*** ABATTAGE ***
+AAmuerte77 : montre [Td Kh] (double paire, Dix et Trois)
+psychoman59 : montre [3h Kc] (un brelan de Trois)
+psychoman59 a remporté 680  lors du pot .
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [6d Th 3s 3d 8h]
+Siège 1 : AAmuerte77 (grosse blind) a montré [Td Kh] et a perdu avec double paire, Dix et Trois
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [3h Kc] et a gagné (680) avec un brelan de Trois
+
+
+
+Main PokerStars n°236637260368 : Tournoi #3423350375, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 08/06/2022 6:57:24 CET [08/06/2022 0:57:24 ET]
+Table '3423350375 1' 3-max Siège #1 est au bouton.
+Place 1: AAmuerte77 (220 en jetons) 
+Place 2: psychoman59 (680 en jetons) 
+AAmuerte77 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 7d]
+AAmuerte77 : relance. 140 à 220 et est all-in.
+psychoman59 : suit. 140
+*** FLOP *** [Ad 9d 5d]
+*** TOURNANT *** [Ad 9d 5d] [Td]
+*** RIVIÈRE *** [Ad 9d 5d Td] [Js]
+*** ABATTAGE ***
+psychoman59 : montre [Qh 7d] (une couleur, hauteur As)
+AAmuerte77 : montre [7h 7s] (une paire de Sept)
+psychoman59 a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [Ad 9d 5d Td Js]
+Siège 1 : AAmuerte77 (bouton) (petite blind) a montré [7h 7s] et a perdu avec une paire de Sept
+Siège 2 : psychoman59 (grosse blind) a montré [Qh 7d] et a gagné (440) avec une couleur, hauteur As
+
+
+

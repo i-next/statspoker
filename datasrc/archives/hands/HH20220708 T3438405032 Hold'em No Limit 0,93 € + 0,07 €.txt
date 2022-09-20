@@ -1,0 +1,212 @@
+﻿Main PokerStars n°237228857471 : Tournoi #3438405032, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 8:06:19 CET [08/07/2022 2:06:19 ET]
+Table '3438405032 1' 3-max Siège #1 est au bouton.
+Place 1: baptistej21 (300 en jetons) 
+Place 2: bouel56 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+bouel56 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 6h]
+baptistej21 : passe. 
+bouel56 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : baptistej21 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : bouel56 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°237228858309 : Tournoi #3438405032, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 8:06:27 CET [08/07/2022 2:06:27 ET]
+Table '3438405032 1' 3-max Siège #2 est au bouton.
+Place 1: baptistej21 (300 en jetons) 
+Place 2: bouel56 (290 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 10
+baptistej21 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c As]
+bouel56 : suit. 20
+psychoman59 : suit. 10
+baptistej21 : parole 
+*** FLOP *** [6d 2d Jc]
+psychoman59 : parole 
+baptistej21 : parole 
+bouel56 : parole 
+*** TOURNANT *** [6d 2d Jc] [8h]
+psychoman59 : parole 
+baptistej21 : parole 
+bouel56 : parole 
+*** RIVIÈRE *** [6d 2d Jc 8h] [Ah]
+psychoman59 : mise. 30
+baptistej21 : passe. 
+bouel56 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6d 2d Jc 8h Ah]
+Siège 1 : baptistej21 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : bouel56 (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°237228862691 : Tournoi #3438405032, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2022 8:07:09 CET [08/07/2022 2:07:09 ET]
+Table '3438405032 1' 3-max Siège #3 est au bouton.
+Place 1: baptistej21 (280 en jetons) 
+Place 2: bouel56 (270 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+baptistej21 : met la petite blind. 10
+bouel56 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ah]
+psychoman59 : relance. 50 à 70
+baptistej21 : suit. 60
+bouel56 : suit. 50
+*** FLOP *** [7s 5d 6d]
+baptistej21 : parole 
+bouel56 : mise. 200 et est all-in.
+psychoman59 : passe. 
+baptistej21 : suit. 200
+*** TOURNANT *** [7s 5d 6d] [8d]
+*** RIVIÈRE *** [7s 5d 6d 8d] [3s]
+*** ABATTAGE ***
+baptistej21 : montre [Qh Qs] (une paire de Dames)
+bouel56 : montre [6h 5h] (double paire, Six et Cinq)
+bouel56 a remporté 610  lors du pot .
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [7s 5d 6d 8d 3s]
+Siège 1 : baptistej21 (petite blind) a montré [Qh Qs] et a perdu avec une paire de Dames
+Siège 2 : bouel56 (grosse blind) a montré [6h 5h] et a gagné (610) avec double paire, Six et Cinq
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237228870179 : Tournoi #3438405032, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2022 8:07:42 CET [08/07/2022 2:07:42 ET]
+Table '3438405032 1' 3-max Siège #1 est au bouton.
+Place 1: baptistej21 (10 en jetons) 
+Place 2: bouel56 (610 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+bouel56 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 9h]
+baptistej21 : suit. 10 et est all-in.
+bouel56 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5s 4c 2s]
+bouel56 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5s 4c 2s] [Qd]
+bouel56 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5s 4c 2s Qd] [Qc]
+bouel56 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+bouel56 : montre [3d 3c] (double paire, Dames et Trois)
+psychoman59 : cache la main perdante. 
+bouel56 a remporté 40  parallèle lors du pot .
+baptistej21 : cache la main perdante. 
+bouel56 a remporté 30  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 70 Principal pot 30. Parallèle pot 40. | Commission 0 
+Tableau [5s 4c 2s Qd Qc]
+Siège 1 : baptistej21 (bouton) a caché la main perdante. [8s Th]
+Siège 2 : bouel56 (petite blind) a montré [3d 3c] et a gagné (70) avec double paire, Dames et Trois
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [7h 9h]
+
+
+
+Main PokerStars n°237228873942 : Tournoi #3438405032, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2022 8:08:18 CET [08/07/2022 2:08:18 ET]
+Table '3438405032 1' 3-max Siège #3 est au bouton.
+Place 2: bouel56 (650 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+psychoman59 : met la petite blind. 15
+bouel56 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à bouel56.
+bouel56 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : bouel56 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237228874733 : Tournoi #3438405032, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 8:08:25 CET [08/07/2022 2:08:25 ET]
+Table '3438405032 1' 3-max Siège #2 est au bouton.
+Place 2: bouel56 (665 en jetons) 
+Place 3: psychoman59 (235 en jetons) 
+bouel56 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 9s]
+bouel56 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [3c Qh 4s]
+psychoman59 : parole 
+bouel56 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à bouel56.
+bouel56 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3c Qh 4s]
+Siège 2 : bouel56 (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237228876751 : Tournoi #3438405032, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 8:08:44 CET [08/07/2022 2:08:44 ET]
+Table '3438405032 1' 3-max Siège #3 est au bouton.
+Place 2: bouel56 (705 en jetons) 
+Place 3: psychoman59 (195 en jetons) 
+psychoman59 : met la petite blind. 20
+bouel56 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Kh]
+psychoman59 : relance. 155 à 195 et est all-in.
+bouel56 : passe. 
+Personne n'a suivi. (155) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : bouel56 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°237228877565 : Tournoi #3438405032, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2022 8:08:52 CET [08/07/2022 2:08:52 ET]
+Table '3438405032 1' 3-max Siège #2 est au bouton.
+Place 2: bouel56 (665 en jetons) 
+Place 3: psychoman59 (235 en jetons) 
+bouel56 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Jd]
+bouel56 : relance. 40 à 80
+psychoman59 : suit. 40
+*** FLOP *** [4s Tc Qs]
+psychoman59 : mise. 155 et est all-in.
+bouel56 : suit. 155
+*** TOURNANT *** [4s Tc Qs] [Js]
+*** RIVIÈRE *** [4s Tc Qs Js] [3s]
+*** ABATTAGE ***
+psychoman59 : montre [Th Jd] (double paire, Valets et Dix)
+bouel56 : montre [As 9d] (une couleur, hauteur As)
+bouel56 a remporté 470  lors du pot .
+*** SYNTHÈSE ***
+Pot total 470 | Commission 0 
+Tableau [4s Tc Qs Js 3s]
+Siège 2 : bouel56 (bouton) (petite blind) a montré [As 9d] et a gagné (470) avec une couleur, hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [Th Jd] et a perdu avec double paire, Valets et Dix
+
+
+

@@ -1,0 +1,77 @@
+﻿Main PokerStars n°237634031385 : Tournoi #3447824120, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/07/2022 8:22:36 CET [28/07/2022 2:22:36 ET]
+Table '3447824120 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: elthier4 (300 en jetons) 
+Place 3: José44A (300 en jetons) 
+elthier4 : met la petite blind. 10
+José44A : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 3h]
+psychoman59 : passe. 
+elthier4 : relance. 140 à 160
+José44A : relance. 140 à 300 et est all-in.
+elthier4 : suit. 140 et est all-in.
+*** FLOP *** [Qh Kc 3s]
+*** TOURNANT *** [Qh Kc 3s] [9h]
+*** RIVIÈRE *** [Qh Kc 3s 9h] [Tc]
+*** ABATTAGE ***
+elthier4 : montre [Ad 4h] (Hauteur As)
+José44A : montre [Jd Ah] (une suite, Dix à As)
+José44A a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [Qh Kc 3s 9h Tc]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : elthier4 (petite blind) a montré [Ad 4h] et a perdu avec Hauteur As
+Siège 3 : José44A (grosse blind) a montré [Jd Ah] et a gagné (600) avec une suite, Dix à As
+
+
+
+Main PokerStars n°237634034326 : Tournoi #3447824120, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/07/2022 8:23:04 CET [28/07/2022 2:23:04 ET]
+Table '3447824120 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 3: José44A (600 en jetons) 
+José44A : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Jh]
+José44A : relance. 40 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à José44A.
+José44A a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : José44A (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°237634035414 : Tournoi #3447824120, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/07/2022 8:23:15 CET [28/07/2022 2:23:15 ET]
+Table '3447824120 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 3: José44A (620 en jetons) 
+psychoman59 : met la petite blind. 10
+José44A : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Kh]
+psychoman59 : relance. 40 à 60
+José44A : relance. 120 à 180
+psychoman59 : suit. 120
+*** FLOP *** [3h 8d 2d]
+José44A : mise. 360
+psychoman59 : suit. 100 et est all-in.
+Personne n'a suivi. (260) sont retournés à José44A.
+*** TOURNANT *** [3h 8d 2d] [Qd]
+*** RIVIÈRE *** [3h 8d 2d Qd] [8c]
+*** ABATTAGE ***
+José44A : montre [8h Jc] (un brelan de Huit)
+psychoman59 : montre [7h Kh] (une paire de Huit)
+José44A a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [3h 8d 2d Qd 8c]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [7h Kh] et a perdu avec une paire de Huit
+Siège 3 : José44A (grosse blind) a montré [8h Jc] et a gagné (560) avec un brelan de Huit
+
+
+

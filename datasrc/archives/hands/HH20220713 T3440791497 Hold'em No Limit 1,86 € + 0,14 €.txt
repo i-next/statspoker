@@ -1,0 +1,72 @@
+﻿Main PokerStars n°237330136008 : Tournoi #3440791497, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2022 10:54:05 CET [13/07/2022 4:54:05 ET]
+Table '3440791497 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: phonetel1986 (300 en jetons) 
+Place 3: Winarnax (300 en jetons) 
+phonetel1986 : met la petite blind. 10
+Winarnax : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 8s]
+psychoman59 : passe. 
+phonetel1986 : relance. 40 à 60
+Winarnax : relance. 240 à 300 et est all-in.
+phonetel1986 : suit. 240 et est all-in.
+*** FLOP *** [Kh Js 8d]
+*** TOURNANT *** [Kh Js 8d] [Jh]
+*** RIVIÈRE *** [Kh Js 8d Jh] [7c]
+*** ABATTAGE ***
+phonetel1986 : montre [As Jd] (un brelan de Valets)
+Winarnax : montre [Ac 8h] (double paire, Valets et Huit)
+phonetel1986 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [Kh Js 8d Jh 7c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : phonetel1986 (petite blind) a montré [As Jd] et a gagné (600) avec un brelan de Valets
+Siège 3 : Winarnax (grosse blind) a montré [Ac 8h] et a perdu avec double paire, Valets et Huit
+
+
+
+Main PokerStars n°237330138524 : Tournoi #3440791497, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2022 10:54:23 CET [13/07/2022 4:54:23 ET]
+Table '3440791497 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: phonetel1986 (600 en jetons) 
+phonetel1986 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Th]
+phonetel1986 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (20)
+Siège 2 : phonetel1986 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237330139459 : Tournoi #3440791497, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2022 10:54:30 CET [13/07/2022 4:54:30 ET]
+Table '3440791497 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: phonetel1986 (590 en jetons) 
+psychoman59 : met la petite blind. 10
+phonetel1986 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s As]
+psychoman59 : relance. 290 à 310 et est all-in.
+phonetel1986 : suit. 290
+*** FLOP *** [7h Kc Jh]
+*** TOURNANT *** [7h Kc Jh] [8d]
+*** RIVIÈRE *** [7h Kc Jh 8d] [7s]
+*** ABATTAGE ***
+phonetel1986 : montre [Jc Kh] (double paire, Rois et Valets)
+psychoman59 : montre [8s As] (double paire, Huit et Sept)
+phonetel1986 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [7h Kc Jh 8d 7s]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [8s As] et a perdu avec double paire, Huit et Sept
+Siège 2 : phonetel1986 (grosse blind) a montré [Jc Kh] et a gagné (620) avec double paire, Rois et Valets
+
+
+

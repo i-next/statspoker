@@ -1,0 +1,114 @@
+﻿Main PokerStars n°237574655190 : Tournoi #3446441998, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 14:12:43 CET [25/07/2022 8:12:43 ET]
+Table '3446441998 1' 3-max Siège #1 est au bouton.
+Place 1: crismaldini (300 en jetons) 
+Place 2: chriscoco08 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+chriscoco08 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 4s]
+crismaldini : passe. 
+chriscoco08 : relance. 40 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à chriscoco08.
+chriscoco08 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : crismaldini (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : chriscoco08 (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237574657655 : Tournoi #3446441998, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 14:12:55 CET [25/07/2022 8:12:55 ET]
+Table '3446441998 1' 3-max Siège #2 est au bouton.
+Place 1: crismaldini (300 en jetons) 
+Place 2: chriscoco08 (320 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+crismaldini : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Kd]
+chriscoco08 : relance. 40 à 60
+psychoman59 : passe. 
+crismaldini : suit. 40
+*** FLOP *** [4h 5c Qd]
+crismaldini : parole 
+chriscoco08 : mise. 45
+crismaldini : suit. 45
+*** TOURNANT *** [4h 5c Qd] [2s]
+crismaldini : mise. 195 et est all-in.
+chriscoco08 : suit. 195
+*** RIVIÈRE *** [4h 5c Qd 2s] [6d]
+*** ABATTAGE ***
+crismaldini : montre [7s 8c] (une suite, Quatre à Huit)
+chriscoco08 : montre [Jd Jh] (une paire de Valets)
+crismaldini a remporté 610  lors du pot .
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [4h 5c Qd 2s 6d]
+Siège 1 : crismaldini (grosse blind) a montré [7s 8c] et a gagné (610) avec une suite, Quatre à Huit
+Siège 2 : chriscoco08 (bouton) a montré [Jd Jh] et a perdu avec une paire de Valets
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237574662787 : Tournoi #3446441998, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 14:13:20 CET [25/07/2022 8:13:20 ET]
+Table '3446441998 1' 3-max Siège #3 est au bouton.
+Place 1: crismaldini (610 en jetons) 
+Place 2: chriscoco08 (20 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+crismaldini : met la petite blind. 10
+chriscoco08 : met la grosse blind. 20 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Tc]
+psychoman59 : relance. 20 à 40
+crismaldini : suit. 30
+*** FLOP *** [Qd Td 4c]
+crismaldini : parole 
+psychoman59 : mise. 50
+crismaldini : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+*** TOURNANT *** [Qd Td 4c] [6s]
+*** RIVIÈRE *** [Qd Td 4c 6s] [5d]
+*** ABATTAGE ***
+psychoman59 : montre [Qh Tc] (double paire, Dames et Dix)
+psychoman59 a remporté 40  parallèle lors du pot .
+chriscoco08 : montre [7d 9s] (Hauteur Dame)
+psychoman59 a remporté 60  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 Principal pot 60. Parallèle pot 40. | Commission 0 
+Tableau [Qd Td 4c 6s 5d]
+Siège 1 : crismaldini (petite blind) s'est couché. sur le Flop
+Siège 2 : chriscoco08 (grosse blind) a montré [7d 9s] et a perdu avec Hauteur Dame
+Siège 3 : psychoman59 (bouton) a montré [Qh Tc] et a gagné (100) avec double paire, Dames et Dix
+
+
+
+Main PokerStars n°237574668268 : Tournoi #3446441998, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 14:13:48 CET [25/07/2022 8:13:48 ET]
+Table '3446441998 1' 3-max Siège #1 est au bouton.
+Place 1: crismaldini (570 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+crismaldini : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Kc]
+crismaldini : relance. 60 à 90
+psychoman59 : relance. 240 à 330 et est all-in.
+crismaldini : suit. 240
+*** FLOP *** [7s 3d 8d]
+*** TOURNANT *** [7s 3d 8d] [9c]
+*** RIVIÈRE *** [7s 3d 8d 9c] [6d]
+*** ABATTAGE ***
+psychoman59 : montre [4d Kc] (Hauteur Roi)
+crismaldini : montre [As 7c] (une paire de Sept)
+crismaldini a remporté 660  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [7s 3d 8d 9c 6d]
+Siège 1 : crismaldini (bouton) (petite blind) a montré [As 7c] et a gagné (660) avec une paire de Sept
+Siège 3 : psychoman59 (grosse blind) a montré [4d Kc] et a perdu avec Hauteur Roi
+
+
+

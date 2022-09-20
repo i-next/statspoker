@@ -1,0 +1,79 @@
+﻿Main PokerStars n°238657373149 : Tournoi #3471953530, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/09/2022 9:17:06 CET [16/09/2022 3:17:06 ET]
+Table '3471953530 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: alesios29 (300 en jetons) 
+Place 3: nlvfabien (300 en jetons) 
+alesios29 : met la petite blind. 10
+nlvfabien : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9c]
+psychoman59 : suit. 20
+alesios29 : relance. 60 à 80
+nlvfabien : relance. 220 à 300 et est all-in.
+psychoman59 : passe. 
+alesios29 : suit. 220 et est all-in.
+*** FLOP *** [As 7c 7h]
+*** TOURNANT *** [As 7c 7h] [Jh]
+*** RIVIÈRE *** [As 7c 7h Jh] [9h]
+*** ABATTAGE ***
+alesios29 : montre [Kh Qh] (une couleur, hauteur Roi)
+nlvfabien : montre [Ac 8c] (double paire, As et Sept)
+alesios29 a remporté 620  lors du pot .
+nlvfabien a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [As 7c 7h Jh 9h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : alesios29 (petite blind) a montré [Kh Qh] et a gagné (620) avec une couleur, hauteur Roi
+Siège 3 : nlvfabien (grosse blind) a montré [Ac 8c] et a perdu avec double paire, As et Sept
+
+
+
+Main PokerStars n°238657376153 : Tournoi #3471953530, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/09/2022 9:17:32 CET [16/09/2022 3:17:32 ET]
+Table '3471953530 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: alesios29 (620 en jetons) 
+alesios29 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ac]
+alesios29 : suit. 10
+psychoman59 : relance. 260 à 280 et est all-in.
+alesios29 : passe. 
+Personne n'a suivi. (260) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : alesios29 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238657377767 : Tournoi #3471953530, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/09/2022 9:17:47 CET [16/09/2022 3:17:47 ET]
+Table '3471953530 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: alesios29 (600 en jetons) 
+psychoman59 : met la petite blind. 10
+alesios29 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 2d]
+psychoman59 : relance. 280 à 300 et est all-in.
+alesios29 : suit. 280
+*** FLOP *** [9h 4d 9c]
+*** TOURNANT *** [9h 4d 9c] [6s]
+*** RIVIÈRE *** [9h 4d 9c 6s] [Jh]
+*** ABATTAGE ***
+alesios29 : montre [Jc Ks] (double paire, Valets et Neuf)
+psychoman59 : montre [Ah 2d] (une paire de Neuf)
+alesios29 a remporté 600  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+alesios29 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [9h 4d 9c 6s Jh]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Ah 2d] et a perdu avec une paire de Neuf
+Siège 2 : alesios29 (grosse blind) a montré [Jc Ks] et a gagné (600) avec double paire, Valets et Neuf
+
+
+

@@ -1,0 +1,408 @@
+﻿Main PokerStars n°238019746825 : Tournoi #3456965820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/08/2022 8:57:21 CET [16/08/2022 2:57:21 ET]
+Table '3456965820 1' 3-max Siège #1 est au bouton.
+Place 1: Lucax05 (300 en jetons) 
+Place 2: kevin32j (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+kevin32j : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Js]
+Lucax05 : passe. 
+kevin32j : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Kd 6h Tc]
+kevin32j : parole 
+psychoman59 : mise. 40
+kevin32j : suit. 40
+*** TOURNANT *** [Kd 6h Tc] [Ah]
+kevin32j : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Kd 6h Tc Ah] [4d]
+kevin32j : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+kevin32j : montre [6c 2d] (une paire de Six)
+psychoman59 : montre [Td Js] (une paire de Dix)
+psychoman59 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Kd 6h Tc Ah 4d]
+Siège 1 : Lucax05 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : kevin32j (petite blind) a montré [6c 2d] et a perdu avec une paire de Six
+Siège 3 : psychoman59 (grosse blind) a montré [Td Js] et a gagné (200) avec une paire de Dix
+
+
+
+Main PokerStars n°238019749177 : Tournoi #3456965820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/08/2022 8:57:48 CET [16/08/2022 2:57:48 ET]
+Table '3456965820 1' 3-max Siège #2 est au bouton.
+Place 1: Lucax05 (300 en jetons) 
+Place 2: kevin32j (200 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+psychoman59 : met la petite blind. 10
+Lucax05 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Ts]
+kevin32j : passe. 
+psychoman59 : suit. 10
+Lucax05 : parole 
+*** FLOP *** [Ah 5c Th]
+psychoman59 : mise. 20
+Lucax05 : suit. 20
+*** TOURNANT *** [Ah 5c Th] [Jd]
+psychoman59 : mise. 20
+Lucax05 : suit. 20
+*** RIVIÈRE *** [Ah 5c Th Jd] [9s]
+psychoman59 : mise. 20
+Lucax05 : relance. 80 à 100
+psychoman59 : suit. 80
+*** ABATTAGE ***
+Lucax05 : montre [5s Js] (double paire, Valets et Cinq)
+psychoman59 : cache la main perdante. 
+Lucax05 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Ah 5c Th Jd 9s]
+Siège 1 : Lucax05 (grosse blind) a montré [5s Js] et a gagné (320) avec double paire, Valets et Cinq
+Siège 2 : kevin32j (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a caché la main perdante. [Qs Ts]
+
+
+
+Main PokerStars n°238019752133 : Tournoi #3456965820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/08/2022 8:58:20 CET [16/08/2022 2:58:20 ET]
+Table '3456965820 1' 3-max Siège #3 est au bouton.
+Place 1: Lucax05 (460 en jetons) 
+Place 2: kevin32j (200 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+Lucax05 : met la petite blind. 10
+kevin32j : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 6c]
+psychoman59 : passe. 
+Lucax05 : suit. 10
+kevin32j : parole 
+*** FLOP *** [6s Ah Kc]
+Lucax05 : parole 
+kevin32j : parole 
+*** TOURNANT *** [6s Ah Kc] [Qc]
+Lucax05 : mise. 20
+kevin32j : suit. 20
+*** RIVIÈRE *** [6s Ah Kc Qc] [3s]
+Lucax05 : parole 
+kevin32j : mise. 40
+Lucax05 : passe. 
+Personne n'a suivi. (40) sont retournés à kevin32j.
+kevin32j a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6s Ah Kc Qc 3s]
+Siège 1 : Lucax05 (petite blind) s'est couché. sur le Rivière
+Siège 2 : kevin32j (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238019754468 : Tournoi #3456965820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/08/2022 8:58:45 CET [16/08/2022 2:58:45 ET]
+Table '3456965820 1' 3-max Siège #1 est au bouton.
+Place 1: Lucax05 (420 en jetons) 
+Place 2: kevin32j (240 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+kevin32j : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Jc]
+Lucax05 : relance. 75 à 105
+kevin32j : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à Lucax05.
+Lucax05 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : Lucax05 (bouton) a remporté (75)
+Siège 2 : kevin32j (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238019755364 : Tournoi #3456965820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/08/2022 8:58:55 CET [16/08/2022 2:58:55 ET]
+Table '3456965820 1' 3-max Siège #2 est au bouton.
+Place 1: Lucax05 (465 en jetons) 
+Place 2: kevin32j (225 en jetons) 
+Place 3: psychoman59 (210 en jetons) 
+psychoman59 : met la petite blind. 15
+Lucax05 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Jc]
+kevin32j : passe. 
+psychoman59 : suit. 15
+Lucax05 : relance. 60 à 90
+psychoman59 : suit. 60
+*** FLOP *** [Qc Jh Qs]
+psychoman59 : mise. 120 et est all-in.
+Lucax05 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Qc Jh Qs]
+Siège 1 : Lucax05 (grosse blind) s'est couché. sur le Flop
+Siège 2 : kevin32j (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (180)
+
+
+
+Main PokerStars n°238019757478 : Tournoi #3456965820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/08/2022 8:59:17 CET [16/08/2022 2:59:17 ET]
+Table '3456965820 1' 3-max Siège #3 est au bouton.
+Place 1: Lucax05 (375 en jetons) 
+Place 2: kevin32j (225 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Lucax05 : met la petite blind. 15
+kevin32j : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 6d]
+psychoman59 : passe. 
+Lucax05 : relance. 345 à 375 et est all-in.
+kevin32j : suit. 195 et est all-in.
+Personne n'a suivi. (150) sont retournés à Lucax05.
+*** FLOP *** [8d Kc Qs]
+*** TOURNANT *** [8d Kc Qs] [2c]
+*** RIVIÈRE *** [8d Kc Qs 2c] [9h]
+*** ABATTAGE ***
+Lucax05 : montre [Kd 8h] (double paire, Rois et Huit)
+kevin32j : montre [Qh Th] (une paire de Dames)
+Lucax05 a remporté 450  lors du pot .
+kevin32j a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [8d Kc Qs 2c 9h]
+Siège 1 : Lucax05 (petite blind) a montré [Kd 8h] et a gagné (450) avec double paire, Rois et Huit
+Siège 2 : kevin32j (grosse blind) a montré [Qh Th] et a perdu avec une paire de Dames
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238019759140 : Tournoi #3456965820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/08/2022 8:59:36 CET [16/08/2022 2:59:36 ET]
+Table '3456965820 1' 3-max Siège #1 est au bouton.
+Place 1: Lucax05 (600 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Lucax05 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Kh]
+Lucax05 : relance. 40 à 80
+psychoman59 : relance. 220 à 300 et est all-in.
+Lucax05 : passe. 
+Personne n'a suivi. (220) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : Lucax05 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°238019760030 : Tournoi #3456965820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/08/2022 8:59:45 CET [16/08/2022 2:59:45 ET]
+Table '3456965820 1' 3-max Siège #3 est au bouton.
+Place 1: Lucax05 (520 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+psychoman59 : met la petite blind. 20
+Lucax05 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Jc]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Lucax05.
+Lucax05 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Lucax05 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238019760545 : Tournoi #3456965820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/08/2022 8:59:51 CET [16/08/2022 2:59:51 ET]
+Table '3456965820 1' 3-max Siège #1 est au bouton.
+Place 1: Lucax05 (540 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+Lucax05 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 6s]
+Lucax05 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Lucax05 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238019760896 : Tournoi #3456965820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/08/2022 8:59:55 CET [16/08/2022 2:59:55 ET]
+Table '3456965820 1' 3-max Siège #3 est au bouton.
+Place 1: Lucax05 (520 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+psychoman59 : met la petite blind. 20
+Lucax05 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Lucax05.
+Lucax05 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Lucax05 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238019761371 : Tournoi #3456965820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/08/2022 9:00:00 CET [16/08/2022 3:00:00 ET]
+Table '3456965820 1' 3-max Siège #1 est au bouton.
+Place 1: Lucax05 (540 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+Lucax05 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 7s]
+Lucax05 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Kc 2s 7d]
+psychoman59 : mise. 320 et est all-in.
+Lucax05 : suit. 320
+*** TOURNANT *** [Kc 2s 7d] [Jd]
+*** RIVIÈRE *** [Kc 2s 7d Jd] [6h]
+*** ABATTAGE ***
+psychoman59 : montre [6s 7s] (double paire, Sept et Six)
+Lucax05 : montre [Ts 7h] (une paire de Sept)
+psychoman59 a remporté 720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [Kc 2s 7d Jd 6h]
+Siège 1 : Lucax05 (bouton) (petite blind) a montré [Ts 7h] et a perdu avec une paire de Sept
+Siège 3 : psychoman59 (grosse blind) a montré [6s 7s] et a gagné (720) avec double paire, Sept et Six
+
+
+
+Main PokerStars n°238019762913 : Tournoi #3456965820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/08/2022 9:00:17 CET [16/08/2022 3:00:17 ET]
+Table '3456965820 1' 3-max Siège #3 est au bouton.
+Place 1: Lucax05 (180 en jetons) 
+Place 3: psychoman59 (720 en jetons) 
+psychoman59 : met la petite blind. 20
+Lucax05 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 2c]
+psychoman59 : relance. 80 à 120
+Lucax05 : relance. 60 à 180 et est all-in.
+psychoman59 : suit. 60
+*** FLOP *** [3c Tc Jd]
+*** TOURNANT *** [3c Tc Jd] [Ts]
+*** RIVIÈRE *** [3c Tc Jd Ts] [Ks]
+*** ABATTAGE ***
+Lucax05 : montre [5c Jc] (double paire, Valets et Dix)
+psychoman59 : montre [2s 2c] (double paire, Dix et Deux)
+Lucax05 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [3c Tc Jd Ts Ks]
+Siège 1 : Lucax05 (grosse blind) a montré [5c Jc] et a gagné (360) avec double paire, Valets et Dix
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [2s 2c] et a perdu avec double paire, Dix et Deux
+
+
+
+Main PokerStars n°238019764897 : Tournoi #3456965820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/08/2022 9:00:38 CET [16/08/2022 3:00:38 ET]
+Table '3456965820 1' 3-max Siège #1 est au bouton.
+Place 1: Lucax05 (360 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+Lucax05 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 7h]
+Lucax05 : relance. 300 à 360 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à Lucax05.
+Lucax05 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : Lucax05 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238019765504 : Tournoi #3456965820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/08/2022 9:00:45 CET [16/08/2022 3:00:45 ET]
+Table '3456965820 1' 3-max Siège #3 est au bouton.
+Place 1: Lucax05 (420 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 30
+Lucax05 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 2c]
+psychoman59 : relance. 420 à 480 et est all-in.
+Lucax05 : suit. 360 et est all-in.
+Personne n'a suivi. (60) sont retournés à psychoman59.
+*** FLOP *** [8d Qs Ac]
+*** TOURNANT *** [8d Qs Ac] [6d]
+*** RIVIÈRE *** [8d Qs Ac 6d] [4d]
+*** ABATTAGE ***
+Lucax05 : montre [8c 5s] (une paire de Huit)
+psychoman59 : montre [Kh 2c] (Hauteur As)
+Lucax05 a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [8d Qs Ac 6d 4d]
+Siège 1 : Lucax05 (grosse blind) a montré [8c 5s] et a gagné (840) avec une paire de Huit
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Kh 2c] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°238019766858 : Tournoi #3456965820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/08/2022 9:00:58 CET [16/08/2022 3:00:58 ET]
+Table '3456965820 1' 3-max Siège #1 est au bouton.
+Place 1: Lucax05 (840 en jetons) 
+Place 3: psychoman59 (60 en jetons) 
+Lucax05 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 5h]
+Lucax05 : suit. 30
+*** FLOP *** [7d 2s 8d]
+*** TOURNANT *** [7d 2s 8d] [4h]
+*** RIVIÈRE *** [7d 2s 8d 4h] [7c]
+*** ABATTAGE ***
+psychoman59 : montre [6s 5h] (une suite, Quatre à Huit)
+Lucax05 : montre [5d 5s] (double paire, Sept et Cinq)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7d 2s 8d 4h 7c]
+Siège 1 : Lucax05 (bouton) (petite blind) a montré [5d 5s] et a perdu avec double paire, Sept et Cinq
+Siège 3 : psychoman59 (grosse blind) a montré [6s 5h] et a gagné (120) avec une suite, Quatre à Huit
+
+
+
+Main PokerStars n°238019767972 : Tournoi #3456965820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/08/2022 9:01:09 CET [16/08/2022 3:01:09 ET]
+Table '3456965820 1' 3-max Siège #3 est au bouton.
+Place 1: Lucax05 (780 en jetons) 
+Place 3: psychoman59 (120 en jetons) 
+psychoman59 : met la petite blind. 30
+Lucax05 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 4s]
+psychoman59 : relance. 60 à 120 et est all-in.
+Lucax05 : suit. 60
+*** FLOP *** [2c 8h 8s]
+*** TOURNANT *** [2c 8h 8s] [Ac]
+*** RIVIÈRE *** [2c 8h 8s Ac] [3d]
+*** ABATTAGE ***
+Lucax05 : montre [7h 7d] (double paire, Huit et Sept)
+psychoman59 : montre [Kc 4s] (une paire de Huit)
+Lucax05 a remporté 240  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Lucax05 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [2c 8h 8s Ac 3d]
+Siège 1 : Lucax05 (grosse blind) a montré [7h 7d] et a gagné (240) avec double paire, Huit et Sept
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Kc 4s] et a perdu avec une paire de Huit
+
+
+

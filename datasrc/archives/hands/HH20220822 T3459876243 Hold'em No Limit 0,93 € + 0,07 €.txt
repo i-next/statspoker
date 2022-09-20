@@ -1,0 +1,366 @@
+﻿Main PokerStars n°238142046711 : Tournoi #3459876243, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/08/2022 8:43:05 CET [22/08/2022 2:43:05 ET]
+Table '3459876243 1' 3-max Siège #1 est au bouton.
+Place 1: Nerowh (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: 07132526 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+07132526 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Qc]
+Nerowh : relance. 20 à 40
+psychoman59 : passe. 
+07132526 : suit. 20
+*** FLOP *** [Th 4h 9h]
+07132526 : parole 
+Nerowh : mise. 20
+07132526 : suit. 20
+*** TOURNANT *** [Th 4h 9h] [Ks]
+07132526 : parole 
+Nerowh : parole 
+*** RIVIÈRE *** [Th 4h 9h Ks] [Ac]
+07132526 : mise. 40
+Nerowh : suit. 40
+*** ABATTAGE ***
+07132526 : montre [Kc 8d] (une paire de Rois)
+Nerowh : cache la main perdante. 
+07132526 a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Tableau [Th 4h 9h Ks Ac]
+Siège 1 : Nerowh (bouton) a caché la main perdante. [Ts 7s]
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : 07132526 (grosse blind) a montré [Kc 8d] et a gagné (210) avec une paire de Rois
+
+
+
+Main PokerStars n°238142049062 : Tournoi #3459876243, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/08/2022 8:43:30 CET [22/08/2022 2:43:30 ET]
+Table '3459876243 1' 3-max Siège #2 est au bouton.
+Place 1: Nerowh (200 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: 07132526 (410 en jetons) 
+07132526 : met la petite blind. 10
+Nerowh : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Kh]
+psychoman59 : relance. 50 à 70
+07132526 : suit. 60
+Nerowh : passe. 
+*** FLOP *** [Js 7c 2c]
+07132526 : parole 
+psychoman59 : mise. 160
+07132526 : relance. 180 à 340 et est all-in.
+psychoman59 : suit. 60 et est all-in.
+Personne n'a suivi. (120) sont retournés à 07132526.
+*** TOURNANT *** [Js 7c 2c] [2d]
+*** RIVIÈRE *** [Js 7c 2c 2d] [7d]
+*** ABATTAGE ***
+07132526 : montre [Tc Ah] (double paire, Sept et Deux)
+psychoman59 : montre [Jc Kh] (double paire, Valets et Sept)
+psychoman59 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [Js 7c 2c 2d 7d]
+Siège 1 : Nerowh (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a montré [Jc Kh] et a gagné (600) avec double paire, Valets et Sept
+Siège 3 : 07132526 (petite blind) a montré [Tc Ah] et a perdu avec double paire, Sept et Deux
+
+
+
+Main PokerStars n°238142051972 : Tournoi #3459876243, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/08/2022 8:44:01 CET [22/08/2022 2:44:01 ET]
+Table '3459876243 1' 3-max Siège #3 est au bouton.
+Place 1: Nerowh (180 en jetons) 
+Place 2: psychoman59 (600 en jetons) 
+Place 3: 07132526 (120 en jetons) 
+Nerowh : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 4c]
+07132526 : passe. 
+Nerowh : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Nerowh (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+Siège 3 : 07132526 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238142052812 : Tournoi #3459876243, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/08/2022 8:44:10 CET [22/08/2022 2:44:10 ET]
+Table '3459876243 1' 3-max Siège #1 est au bouton.
+Place 1: Nerowh (170 en jetons) 
+Place 2: psychoman59 (610 en jetons) 
+Place 3: 07132526 (120 en jetons) 
+psychoman59 : met la petite blind. 15
+07132526 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ad]
+Nerowh : suit. 30
+psychoman59 : suit. 15
+07132526 : relance. 90 à 120 et est all-in.
+Nerowh : suit. 90
+psychoman59 : suit. 90
+*** FLOP *** [8c 6s Qs]
+psychoman59 : parole 
+Nerowh : parole 
+*** TOURNANT *** [8c 6s Qs] [6h]
+psychoman59 : parole 
+Nerowh : parole 
+*** RIVIÈRE *** [8c 6s Qs 6h] [3c]
+psychoman59 : parole 
+Nerowh : mise. 30
+psychoman59 : suit. 30
+*** ABATTAGE ***
+Nerowh : montre [3d 3h] (un full, full aux Trois par les Six)
+psychoman59 : cache la main perdante. 
+Nerowh a remporté 60  parallèle lors du pot .
+07132526 : cache la main perdante. 
+Nerowh a remporté 360  principal lors du pot .
+07132526 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 420 Principal pot 360. Parallèle pot 60. | Commission 0 
+Tableau [8c 6s Qs 6h 3c]
+Siège 1 : Nerowh (bouton) a montré [3d 3h] et a gagné (420) avec un full, full aux Trois par les Six
+Siège 2 : psychoman59 (petite blind) a caché la main perdante. [5h Ad]
+Siège 3 : 07132526 (grosse blind) a caché la main perdante. [2h 2s]
+
+
+
+Main PokerStars n°238142055508 : Tournoi #3459876243, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/08/2022 8:44:38 CET [22/08/2022 2:44:38 ET]
+Table '3459876243 1' 3-max Siège #2 est au bouton.
+Place 1: Nerowh (440 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 15
+Nerowh : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 4h]
+psychoman59 : relance. 430 à 460 et est all-in.
+Nerowh : passe. 
+Personne n'a suivi. (430) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Nerowh (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°238142056079 : Tournoi #3459876243, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/08/2022 8:44:44 CET [22/08/2022 2:44:44 ET]
+Table '3459876243 1' 3-max Siège #1 est au bouton.
+Place 1: Nerowh (410 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Nerowh : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 2s]
+Nerowh : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ks Js Qh]
+psychoman59 : parole 
+Nerowh : parole 
+*** TOURNANT *** [Ks Js Qh] [Ac]
+psychoman59 : parole 
+Nerowh : mise. 150
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à Nerowh.
+Nerowh a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ks Js Qh Ac]
+Siège 1 : Nerowh (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238142058995 : Tournoi #3459876243, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/08/2022 8:45:14 CET [22/08/2022 2:45:14 ET]
+Table '3459876243 1' 3-max Siège #2 est au bouton.
+Place 1: Nerowh (440 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 20
+Nerowh : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Nerowh.
+Nerowh a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Nerowh (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238142059504 : Tournoi #3459876243, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/08/2022 8:45:20 CET [22/08/2022 2:45:20 ET]
+Table '3459876243 1' 3-max Siège #1 est au bouton.
+Place 1: Nerowh (460 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+Nerowh : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 3c]
+Nerowh : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Nerowh (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°238142059946 : Tournoi #3459876243, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/08/2022 8:45:25 CET [22/08/2022 2:45:25 ET]
+Table '3459876243 1' 3-max Siège #2 est au bouton.
+Place 1: Nerowh (440 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 20
+Nerowh : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Kc]
+psychoman59 : relance. 40 à 80
+Nerowh : suit. 40
+*** FLOP *** [Qs 7h 9s]
+Nerowh : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qs 7h 9s] [Ac]
+Nerowh : parole 
+psychoman59 : mise. 80
+Nerowh : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Qs 7h 9s Ac]
+Siège 1 : Nerowh (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°238142061499 : Tournoi #3459876243, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/08/2022 8:45:41 CET [22/08/2022 2:45:41 ET]
+Table '3459876243 1' 3-max Siège #1 est au bouton.
+Place 1: Nerowh (360 en jetons) 
+Place 2: psychoman59 (540 en jetons) 
+Nerowh : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Jh]
+Nerowh : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Js 4d 8c]
+psychoman59 : parole 
+Nerowh : parole 
+*** TOURNANT *** [Js 4d 8c] [2h]
+psychoman59 : mise. 80
+Nerowh : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Js 4d 8c 2h]
+Siège 1 : Nerowh (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°238142063163 : Tournoi #3459876243, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/08/2022 8:45:59 CET [22/08/2022 2:45:59 ET]
+Table '3459876243 1' 3-max Siège #2 est au bouton.
+Place 1: Nerowh (320 en jetons) 
+Place 2: psychoman59 (580 en jetons) 
+psychoman59 : met la petite blind. 20
+Nerowh : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Kc]
+psychoman59 : suit. 20
+Nerowh : parole 
+*** FLOP *** [5s Jc 2d]
+Nerowh : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5s Jc 2d] [5h]
+Nerowh : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5s Jc 2d 5h] [3h]
+Nerowh : parole 
+psychoman59 : mise. 80
+Nerowh : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5s Jc 2d 5h 3h]
+Siège 1 : Nerowh (grosse blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°238142065284 : Tournoi #3459876243, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/08/2022 8:46:22 CET [22/08/2022 2:46:22 ET]
+Table '3459876243 1' 3-max Siège #1 est au bouton.
+Place 1: Nerowh (280 en jetons) 
+Place 2: psychoman59 (620 en jetons) 
+Nerowh : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 3c]
+Nerowh : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Nerowh (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°238142065821 : Tournoi #3459876243, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/08/2022 8:46:27 CET [22/08/2022 2:46:27 ET]
+Table '3459876243 1' 3-max Siège #2 est au bouton.
+Place 1: Nerowh (250 en jetons) 
+Place 2: psychoman59 (650 en jetons) 
+psychoman59 : met la petite blind. 30
+Nerowh : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Nerowh.
+Nerowh a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Nerowh (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238142066269 : Tournoi #3459876243, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/08/2022 8:46:32 CET [22/08/2022 2:46:32 ET]
+Table '3459876243 1' 3-max Siège #1 est au bouton.
+Place 1: Nerowh (280 en jetons) 
+Place 2: psychoman59 (620 en jetons) 
+Nerowh : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 2s]
+Nerowh : suit. 30
+psychoman59 : relance. 560 à 620 et est all-in.
+Nerowh : suit. 220 et est all-in.
+Personne n'a suivi. (340) sont retournés à psychoman59.
+*** FLOP *** [Ks 7d Th]
+*** TOURNANT *** [Ks 7d Th] [4h]
+*** RIVIÈRE *** [Ks 7d Th 4h] [Ad]
+*** ABATTAGE ***
+psychoman59 : montre [Ah 2s] (une paire de As)
+Nerowh : montre [Jd 6d] (Hauteur As)
+psychoman59 a remporté 560  lors du pot .
+Nerowh a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Ks 7d Th 4h Ad]
+Siège 1 : Nerowh (bouton) (petite blind) a montré [Jd 6d] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) a montré [Ah 2s] et a gagné (560) avec une paire de As
+
+
+

@@ -1,0 +1,29 @@
+﻿Main PokerStars n°238351058808 : Tournoi #3464842900, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 01/09/2022 19:31:26 CET [01/09/2022 13:31:26 ET]
+Table '3464842900 1' 3-max Siège #1 est au bouton.
+Place 1: sissidubaraye (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: damso34080 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+damso34080 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 6s]
+sissidubaraye : passe. 
+psychoman59 : relance. 280 à 300 et est all-in.
+damso34080 : suit. 280 et est all-in.
+*** FLOP *** [5d 3s 5s]
+*** TOURNANT *** [5d 3s 5s] [4h]
+*** RIVIÈRE *** [5d 3s 5s 4h] [8s]
+*** ABATTAGE ***
+psychoman59 : montre [6d 6s] (double paire, Six et Cinq)
+damso34080 : montre [8d 8c] (un full, full aux Huit par les Cinq)
+damso34080 a remporté 600  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [5d 3s 5s 4h 8s]
+Siège 1 : sissidubaraye (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [6d 6s] et a perdu avec double paire, Six et Cinq
+Siège 3 : damso34080 (grosse blind) a montré [8d 8c] et a gagné (600) avec un full, full aux Huit par les Cinq
+
+
+

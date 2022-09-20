@@ -1,0 +1,1162 @@
+﻿Main PokerStars n°238162874175 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 23/08/2022 10:01:31 CET [23/08/2022 4:01:31 ET]
+Table '3460377990 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (5000 en jetons) 
+Place 2: michto_18 (5000 en jetons) 
+Place 3: levlavince (5000 en jetons) 
+Place 4: apioker88 (5000 en jetons) 
+psychoman59 : met l'ante. 10
+michto_18 : met l'ante. 10
+levlavince : met l'ante. 10
+apioker88 : met l'ante. 10
+michto_18 : met la petite blind. 50
+levlavince : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 9d]
+apioker88 : passe. 
+psychoman59 : passe. 
+michto_18 : relance. 120 à 220
+levlavince : suit. 120
+*** FLOP *** [6c 8h Jh]
+michto_18 : parole 
+levlavince : mise. 300
+michto_18 : passe. 
+Personne n'a suivi. (300) sont retournés à levlavince.
+levlavince a remporté 480  lors du pot .
+levlavince : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [6c 8h Jh]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : michto_18 (petite blind) s'est couché. sur le Flop
+Siège 3 : levlavince (grosse blind) a remporté (480)
+Siège 4 : apioker88 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238162879136 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 23/08/2022 10:02:12 CET [23/08/2022 4:02:12 ET]
+Table '3460377990 1' 4-max Siège #2 est au bouton.
+Place 1: psychoman59 (4990 en jetons) 
+Place 2: michto_18 (4770 en jetons) 
+Place 3: levlavince (5250 en jetons) 
+Place 4: apioker88 (4990 en jetons) 
+psychoman59 : met l'ante. 10
+michto_18 : met l'ante. 10
+levlavince : met l'ante. 10
+apioker88 : met l'ante. 10
+levlavince : met la petite blind. 50
+apioker88 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 4c]
+psychoman59 : passe. 
+michto_18 : suit. 100
+levlavince : passe. 
+apioker88 : parole 
+*** FLOP *** [9d Qs 9s]
+apioker88 : parole 
+michto_18 : parole 
+*** TOURNANT *** [9d Qs 9s] [Qh]
+apioker88 : parole 
+michto_18 : parole 
+*** RIVIÈRE *** [9d Qs 9s Qh] [Js]
+apioker88 : mise. 290
+michto_18 : suit. 290
+*** ABATTAGE ***
+apioker88 : montre [7d Qc] (un full, full aux Dames par les Neuf)
+michto_18 : cache la main perdante. 
+apioker88 a remporté 870  lors du pot .
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Tableau [9d Qs 9s Qh Js]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : michto_18 (bouton) a caché la main perdante. [Ks 5s]
+Siège 3 : levlavince (petite blind) s'est couché. avant Flop
+Siège 4 : apioker88 (grosse blind) a montré [7d Qc] et a gagné (870) avec un full, full aux Dames par les Neuf
+
+
+
+Main PokerStars n°238162886511 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 23/08/2022 10:03:12 CET [23/08/2022 4:03:12 ET]
+Table '3460377990 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4980 en jetons) 
+Place 2: michto_18 (4370 en jetons) 
+Place 3: levlavince (5190 en jetons) 
+Place 4: apioker88 (5460 en jetons) 
+psychoman59 : met l'ante. 10
+michto_18 : met l'ante. 10
+levlavince : met l'ante. 10
+apioker88 : met l'ante. 10
+apioker88 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 5c]
+michto_18 : relance. 120 à 220
+levlavince : suit. 220
+apioker88 : passe. 
+psychoman59 : passe. 
+*** FLOP *** [6s Jc 3d]
+michto_18 : parole 
+levlavince : mise. 200
+michto_18 : relance. 354 à 554
+levlavince : suit. 354
+*** TOURNANT *** [6s Jc 3d] [6h]
+michto_18 : mise. 956
+levlavince : suit. 956
+*** RIVIÈRE *** [6s Jc 3d 6h] [Qh]
+michto_18 : mise. 2630 et est all-in.
+levlavince : suit. 2630
+*** ABATTAGE ***
+michto_18 : montre [8h As] (une paire de Six)
+levlavince : montre [Js Kc] (double paire, Valets et Six)
+levlavince a remporté 8910  lors du pot .
+michto_18 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 8910 | Commission 0 
+Tableau [6s Jc 3d 6h Qh]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : michto_18 a montré [8h As] et a perdu avec une paire de Six
+Siège 3 : levlavince (bouton) a montré [Js Kc] et a gagné (8910) avec double paire, Valets et Six
+Siège 4 : apioker88 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238162892588 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 23/08/2022 10:04:01 CET [23/08/2022 4:04:01 ET]
+Table '3460377990 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4870 en jetons) 
+Place 3: levlavince (9730 en jetons) 
+Place 4: apioker88 (5400 en jetons) 
+psychoman59 : met l'ante. 10
+levlavince : met l'ante. 10
+apioker88 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+levlavince : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 9c]
+apioker88 : passe. 
+psychoman59 : suit. 50
+levlavince : relance. 200 à 300
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à levlavince.
+levlavince a remporté 230  lors du pot .
+levlavince : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 230 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : levlavince (grosse blind) a remporté (230)
+Siège 4 : apioker88 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238162894870 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 23/08/2022 10:04:19 CET [23/08/2022 4:04:19 ET]
+Table '3460377990 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (4760 en jetons) 
+Place 3: levlavince (9850 en jetons) 
+Place 4: apioker88 (5390 en jetons) 
+psychoman59 : met l'ante. 10
+levlavince : met l'ante. 10
+apioker88 : met l'ante. 10
+levlavince : met la petite blind. 50
+apioker88 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 4h]
+psychoman59 : passe. 
+levlavince : passe. 
+Personne n'a suivi. (50) sont retournés à apioker88.
+apioker88 a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : levlavince (petite blind) s'est couché. avant Flop
+Siège 4 : apioker88 (grosse blind) a remporté (130)
+
+
+
+Main PokerStars n°238162896177 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 23/08/2022 10:04:30 CET [23/08/2022 4:04:30 ET]
+Table '3460377990 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4750 en jetons) 
+Place 3: levlavince (9790 en jetons) 
+Place 4: apioker88 (5460 en jetons) 
+psychoman59 : met l'ante. 10
+levlavince : met l'ante. 10
+apioker88 : met l'ante. 10
+apioker88 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 7s]
+levlavince : passe. 
+apioker88 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 130  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (130)
+Siège 3 : levlavince (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : apioker88 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238162897482 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 23/08/2022 10:04:40 CET [23/08/2022 4:04:40 ET]
+Table '3460377990 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4820 en jetons) 
+Place 3: levlavince (9780 en jetons) 
+Place 4: apioker88 (5400 en jetons) 
+psychoman59 : met l'ante. 15
+levlavince : met l'ante. 15
+apioker88 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+levlavince : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 3c]
+apioker88 : passe. 
+psychoman59 : suit. 60
+levlavince : relance. 120 à 240
+psychoman59 : relance. 4565 à 4805 et est all-in.
+levlavince : suit. 4565
+*** FLOP *** [6h 5c 2s]
+*** TOURNANT *** [6h 5c 2s] [2c]
+*** RIVIÈRE *** [6h 5c 2s 2c] [8c]
+*** ABATTAGE ***
+psychoman59 : montre [3s 3c] (double paire, Trois et Deux)
+levlavince : montre [Tc Jd] (une paire de Deux)
+psychoman59 a remporté 9655  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9655 | Commission 0 
+Tableau [6h 5c 2s 2c 8c]
+Siège 1 : psychoman59 (petite blind) a montré [3s 3c] et a gagné (9655) avec double paire, Trois et Deux
+Siège 3 : levlavince (grosse blind) a montré [Tc Jd] et a perdu avec une paire de Deux
+Siège 4 : apioker88 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238162900261 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 23/08/2022 10:05:02 CET [23/08/2022 4:05:02 ET]
+Table '3460377990 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (9655 en jetons) 
+Place 3: levlavince (4960 en jetons) 
+Place 4: apioker88 (5385 en jetons) 
+psychoman59 : met l'ante. 15
+levlavince : met l'ante. 15
+apioker88 : met l'ante. 15
+levlavince : met la petite blind. 60
+apioker88 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Qs]
+psychoman59 : passe. 
+levlavince : relance. 240 à 360
+apioker88 : passe. 
+Personne n'a suivi. (240) sont retournés à levlavince.
+levlavince a remporté 285  lors du pot .
+levlavince : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : levlavince (petite blind) a remporté (285)
+Siège 4 : apioker88 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238162902622 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 23/08/2022 10:05:21 CET [23/08/2022 4:05:21 ET]
+Table '3460377990 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (9640 en jetons) 
+Place 3: levlavince (5110 en jetons) 
+Place 4: apioker88 (5250 en jetons) 
+psychoman59 : met l'ante. 15
+levlavince : met l'ante. 15
+apioker88 : met l'ante. 15
+apioker88 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Qh]
+levlavince : passe. 
+apioker88 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 165  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (165)
+Siège 3 : levlavince (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : apioker88 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238162904215 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 23/08/2022 10:05:34 CET [23/08/2022 4:05:34 ET]
+Table '3460377990 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (9730 en jetons) 
+Place 3: levlavince (5095 en jetons) 
+Place 4: apioker88 (5175 en jetons) 
+psychoman59 : met l'ante. 15
+levlavince : met l'ante. 15
+apioker88 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+levlavince : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 9s]
+apioker88 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à levlavince.
+levlavince a remporté 165  lors du pot .
+levlavince : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : levlavince (grosse blind) a remporté (165)
+Siège 4 : apioker88 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238162905537 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 23/08/2022 10:05:45 CET [23/08/2022 4:05:45 ET]
+Table '3460377990 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (9655 en jetons) 
+Place 3: levlavince (5185 en jetons) 
+Place 4: apioker88 (5160 en jetons) 
+psychoman59 : met l'ante. 15
+levlavince : met l'ante. 15
+apioker88 : met l'ante. 15
+levlavince : met la petite blind. 60
+apioker88 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Td]
+psychoman59 : relance. 240 à 360
+levlavince : passe. 
+apioker88 : relance. 4785 à 5145 et est all-in.
+psychoman59 : suit. 4785
+*** FLOP *** [4c Ac 4s]
+*** TOURNANT *** [4c Ac 4s] [2d]
+*** RIVIÈRE *** [4c Ac 4s 2d] [6d]
+*** ABATTAGE ***
+apioker88 : montre [Kd Ad] (double paire, As et Quatre)
+psychoman59 : montre [Tc Td] (double paire, Dix et Quatre)
+apioker88 a remporté 10395  lors du pot .
+*** SYNTHÈSE ***
+Pot total 10395 | Commission 0 
+Tableau [4c Ac 4s 2d 6d]
+Siège 1 : psychoman59 (bouton) a montré [Tc Td] et a perdu avec double paire, Dix et Quatre
+Siège 3 : levlavince (petite blind) s'est couché. avant Flop
+Siège 4 : apioker88 (grosse blind) a montré [Kd Ad] et a gagné (10395) avec double paire, As et Quatre
+
+
+
+Main PokerStars n°238162908483 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 23/08/2022 10:06:09 CET [23/08/2022 4:06:09 ET]
+Table '3460377990 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (4495 en jetons) 
+Place 3: levlavince (5110 en jetons) 
+Place 4: apioker88 (10395 en jetons) 
+psychoman59 : met l'ante. 15
+levlavince : met l'ante. 15
+apioker88 : met l'ante. 15
+apioker88 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 2h]
+levlavince : passe. 
+apioker88 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 165  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (165)
+Siège 3 : levlavince (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : apioker88 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238162909453 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 23/08/2022 10:06:17 CET [23/08/2022 4:06:17 ET]
+Table '3460377990 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (4585 en jetons) 
+Place 3: levlavince (5095 en jetons) 
+Place 4: apioker88 (10320 en jetons) 
+psychoman59 : met l'ante. 15
+levlavince : met l'ante. 15
+apioker88 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+levlavince : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 5h]
+apioker88 : passe. 
+psychoman59 : relance. 4450 à 4570 et est all-in.
+levlavince : suit. 4450
+*** FLOP *** [4c As Qd]
+*** TOURNANT *** [4c As Qd] [4h]
+*** RIVIÈRE *** [4c As Qd 4h] [Qc]
+*** ABATTAGE ***
+psychoman59 : montre [Ac 5h] (double paire, As et Dames)
+levlavince : montre [3c Kc] (double paire, Dames et Quatre)
+psychoman59 a remporté 9185  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9185 | Commission 0 
+Tableau [4c As Qd 4h Qc]
+Siège 1 : psychoman59 (petite blind) a montré [Ac 5h] et a gagné (9185) avec double paire, As et Dames
+Siège 3 : levlavince (grosse blind) a montré [3c Kc] et a perdu avec double paire, Dames et Quatre
+Siège 4 : apioker88 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238162911738 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 23/08/2022 10:06:35 CET [23/08/2022 4:06:35 ET]
+Table '3460377990 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (9185 en jetons) 
+Place 3: levlavince (510 en jetons) 
+Place 4: apioker88 (10305 en jetons) 
+psychoman59 : met l'ante. 15
+levlavince : met l'ante. 15
+apioker88 : met l'ante. 15
+levlavince : met la petite blind. 60
+apioker88 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td As]
+psychoman59 : relance. 120 à 240
+levlavince : relance. 255 à 495 et est all-in.
+apioker88 : passe. 
+psychoman59 : suit. 255
+*** FLOP *** [8s Js 9h]
+*** TOURNANT *** [8s Js 9h] [7h]
+*** RIVIÈRE *** [8s Js 9h 7h] [Ts]
+*** ABATTAGE ***
+levlavince : montre [Qd 8d] (une suite, Huit à Dame)
+psychoman59 : montre [Td As] (une suite, Sept à Valet)
+levlavince a remporté 1155  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1155 | Commission 0 
+Tableau [8s Js 9h 7h Ts]
+Siège 1 : psychoman59 (bouton) a montré [Td As] et a perdu avec une suite, Sept à Valet
+Siège 3 : levlavince (petite blind) a montré [Qd 8d] et a gagné (1155) avec une suite, Huit à Dame
+Siège 4 : apioker88 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238162914790 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 23/08/2022 10:06:59 CET [23/08/2022 4:06:59 ET]
+Table '3460377990 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (8675 en jetons) 
+Place 3: levlavince (1155 en jetons) 
+Place 4: apioker88 (10170 en jetons) 
+psychoman59 : met l'ante. 15
+levlavince : met l'ante. 15
+apioker88 : met l'ante. 15
+apioker88 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Tc]
+levlavince : passe. 
+apioker88 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 165  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (165)
+Siège 3 : levlavince (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : apioker88 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238162915836 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 23/08/2022 10:07:08 CET [23/08/2022 4:07:08 ET]
+Table '3460377990 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (8765 en jetons) 
+Place 3: levlavince (1140 en jetons) 
+Place 4: apioker88 (10095 en jetons) 
+psychoman59 : met l'ante. 15
+levlavince : met l'ante. 15
+apioker88 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+levlavince : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h As]
+apioker88 : passe. 
+psychoman59 : relance. 285 à 405
+levlavince : passe. 
+Personne n'a suivi. (285) sont retournés à psychoman59.
+psychoman59 a remporté 285  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (285)
+Siège 3 : levlavince (grosse blind) s'est couché. avant Flop
+Siège 4 : apioker88 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238162918068 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 23/08/2022 10:07:26 CET [23/08/2022 4:07:26 ET]
+Table '3460377990 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8915 en jetons) 
+Place 3: levlavince (1005 en jetons) 
+Place 4: apioker88 (10080 en jetons) 
+psychoman59 : met l'ante. 15
+levlavince : met l'ante. 15
+apioker88 : met l'ante. 15
+levlavince : met la petite blind. 60
+apioker88 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Th]
+psychoman59 : passe. 
+levlavince : passe. 
+Personne n'a suivi. (60) sont retournés à apioker88.
+apioker88 a remporté 165  lors du pot .
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : levlavince (petite blind) s'est couché. avant Flop
+Siège 4 : apioker88 (grosse blind) a remporté (165)
+
+
+
+Main PokerStars n°238162920838 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 23/08/2022 10:07:48 CET [23/08/2022 4:07:48 ET]
+Table '3460377990 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (8900 en jetons) 
+Place 3: levlavince (930 en jetons) 
+Place 4: apioker88 (10170 en jetons) 
+psychoman59 : met l'ante. 20
+levlavince : met l'ante. 20
+apioker88 : met l'ante. 20
+apioker88 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 5c]
+levlavince : passe. 
+apioker88 : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 210  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (210)
+Siège 3 : levlavince (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : apioker88 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238162921793 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 23/08/2022 10:07:56 CET [23/08/2022 4:07:56 ET]
+Table '3460377990 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (9015 en jetons) 
+Place 3: levlavince (910 en jetons) 
+Place 4: apioker88 (10075 en jetons) 
+psychoman59 : met l'ante. 20
+levlavince : met l'ante. 20
+apioker88 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+levlavince : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Qh]
+apioker88 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à levlavince.
+levlavince a remporté 210  lors du pot .
+levlavince : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : levlavince (grosse blind) a remporté (210)
+Siège 4 : apioker88 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238162922919 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 23/08/2022 10:08:05 CET [23/08/2022 4:08:05 ET]
+Table '3460377990 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8920 en jetons) 
+Place 3: levlavince (1025 en jetons) 
+Place 4: apioker88 (10055 en jetons) 
+psychoman59 : met l'ante. 20
+levlavince : met l'ante. 20
+apioker88 : met l'ante. 20
+levlavince : met la petite blind. 75
+apioker88 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 4c]
+psychoman59 : passe. 
+levlavince : suit. 75
+apioker88 : parole 
+*** FLOP *** [6c Ad 8s]
+levlavince : parole 
+apioker88 : parole 
+*** TOURNANT *** [6c Ad 8s] [3h]
+levlavince : parole 
+apioker88 : parole 
+*** RIVIÈRE *** [6c Ad 8s 3h] [3s]
+levlavince : mise. 300
+apioker88 : passe. 
+Personne n'a suivi. (300) sont retournés à levlavince.
+levlavince a remporté 360  lors du pot .
+levlavince : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [6c Ad 8s 3h 3s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : levlavince (petite blind) a remporté (360)
+Siège 4 : apioker88 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238162926638 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 23/08/2022 10:08:35 CET [23/08/2022 4:08:35 ET]
+Table '3460377990 1' 4-max Siège #3 est au bouton.
+Place 1: psychoman59 (8900 en jetons) 
+Place 3: levlavince (1215 en jetons) 
+Place 4: apioker88 (9885 en jetons) 
+psychoman59 : met l'ante. 20
+levlavince : met l'ante. 20
+apioker88 : met l'ante. 20
+apioker88 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 7d]
+levlavince : passe. 
+apioker88 : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 210  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (210)
+Siège 3 : levlavince (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : apioker88 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238162928382 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 23/08/2022 10:08:49 CET [23/08/2022 4:08:49 ET]
+Table '3460377990 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (9015 en jetons) 
+Place 3: levlavince (1195 en jetons) 
+Place 4: apioker88 (9790 en jetons) 
+psychoman59 : met l'ante. 20
+levlavince : met l'ante. 20
+apioker88 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+levlavince : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 4s]
+apioker88 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à levlavince.
+levlavince a remporté 210  lors du pot .
+levlavince : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : levlavince (grosse blind) a remporté (210)
+Siège 4 : apioker88 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°238162929479 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 23/08/2022 10:08:57 CET [23/08/2022 4:08:57 ET]
+Table '3460377990 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (8920 en jetons) 
+Place 3: levlavince (1310 en jetons) 
+Place 4: apioker88 (9770 en jetons) 
+psychoman59 : met l'ante. 20
+levlavince : met l'ante. 20
+apioker88 : met l'ante. 20
+levlavince : met la petite blind. 75
+apioker88 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Ac]
+psychoman59 : relance. 300 à 450
+levlavince : relance. 840 à 1290 et est all-in.
+apioker88 : passe. 
+psychoman59 : suit. 840
+*** FLOP *** [6h Jd 7c]
+*** TOURNANT *** [6h Jd 7c] [4c]
+*** RIVIÈRE *** [6h Jd 7c 4c] [Ad]
+*** ABATTAGE ***
+levlavince : montre [As 5h] (une paire de As)
+psychoman59 : montre [7h Ac] (double paire, As et Sept)
+psychoman59 a remporté 2790  lors du pot .
+levlavince a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 2790 | Commission 0 
+Tableau [6h Jd 7c 4c Ad]
+Siège 1 : psychoman59 (bouton) a montré [7h Ac] et a gagné (2790) avec double paire, As et Sept
+Siège 3 : levlavince (petite blind) a montré [As 5h] et a perdu avec une paire de As
+Siège 4 : apioker88 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238162932986 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 23/08/2022 10:09:25 CET [23/08/2022 4:09:25 ET]
+Table '3460377990 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (10400 en jetons) 
+Place 4: apioker88 (9600 en jetons) 
+psychoman59 : met l'ante. 20
+apioker88 : met l'ante. 20
+apioker88 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 6c]
+apioker88 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [Jd 5s 8d]
+psychoman59 : parole 
+apioker88 : parole 
+*** TOURNANT *** [Jd 5s 8d] [3s]
+psychoman59 : parole 
+apioker88 : parole 
+*** RIVIÈRE *** [Jd 5s 8d 3s] [4c]
+psychoman59 : parole 
+apioker88 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5d 6c] (une paire de Cinq)
+apioker88 : cache la main perdante. 
+psychoman59 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [Jd 5s 8d 3s 4c]
+Siège 1 : psychoman59 (grosse blind) a montré [5d 6c] et a gagné (340) avec une paire de Cinq
+Siège 4 : apioker88 (bouton) (petite blind) a caché la main perdante. [Qd 6h]
+
+
+
+Main PokerStars n°238162939677 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 23/08/2022 10:10:18 CET [23/08/2022 4:10:18 ET]
+Table '3460377990 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (10570 en jetons) 
+Place 4: apioker88 (9430 en jetons) 
+psychoman59 : met l'ante. 20
+apioker88 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+apioker88 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Qd]
+psychoman59 : suit. 75
+apioker88 : parole 
+*** FLOP *** [9d Jc 7s]
+apioker88 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9d Jc 7s] [5s]
+apioker88 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9d Jc 7s 5s] [Qh]
+apioker88 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+apioker88 : montre [Th 2d] (Hauteur Dame)
+psychoman59 : montre [8c Qd] (une paire de Dames)
+psychoman59 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [9d Jc 7s 5s Qh]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [8c Qd] et a gagné (340) avec une paire de Dames
+Siège 4 : apioker88 (grosse blind) a montré [Th 2d] et a perdu avec Hauteur Dame
+
+
+
+Main PokerStars n°238162943924 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 23/08/2022 10:10:52 CET [23/08/2022 4:10:52 ET]
+Table '3460377990 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (10740 en jetons) 
+Place 4: apioker88 (9260 en jetons) 
+psychoman59 : met l'ante. 25
+apioker88 : met l'ante. 25
+apioker88 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Jh]
+apioker88 : suit. 100
+psychoman59 : parole 
+*** FLOP *** [8h Jc 2d]
+psychoman59 : parole 
+apioker88 : mise. 200
+psychoman59 : suit. 200
+*** TOURNANT *** [8h Jc 2d] [Ks]
+psychoman59 : parole 
+apioker88 : mise. 400
+psychoman59 : suit. 400
+*** RIVIÈRE *** [8h Jc 2d Ks] [7s]
+psychoman59 : parole 
+apioker88 : mise. 200
+psychoman59 : suit. 200
+*** ABATTAGE ***
+apioker88 : montre [9d Kc] (une paire de Rois)
+psychoman59 : cache la main perdante. 
+apioker88 a remporté 2050  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2050 | Commission 0 
+Tableau [8h Jc 2d Ks 7s]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [5h Jh]
+Siège 4 : apioker88 (bouton) (petite blind) a montré [9d Kc] et a gagné (2050) avec une paire de Rois
+
+
+
+Main PokerStars n°238162948039 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 23/08/2022 10:11:25 CET [23/08/2022 4:11:25 ET]
+Table '3460377990 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (9715 en jetons) 
+Place 4: apioker88 (10285 en jetons) 
+psychoman59 : met l'ante. 25
+apioker88 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+apioker88 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Jc]
+psychoman59 : suit. 100
+apioker88 : relance. 10060 à 10260 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (10060) sont retournés à apioker88.
+apioker88 a remporté 450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : apioker88 (grosse blind) a remporté (450)
+
+
+
+Main PokerStars n°238162950461 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 23/08/2022 10:11:44 CET [23/08/2022 4:11:44 ET]
+Table '3460377990 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (9490 en jetons) 
+Place 4: apioker88 (10510 en jetons) 
+psychoman59 : met l'ante. 25
+apioker88 : met l'ante. 25
+apioker88 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 3s]
+apioker88 : suit. 100
+psychoman59 : parole 
+*** FLOP *** [Qd Ks Kh]
+psychoman59 : parole 
+apioker88 : parole 
+*** TOURNANT *** [Qd Ks Kh] [2c]
+psychoman59 : parole 
+apioker88 : parole 
+*** RIVIÈRE *** [Qd Ks Kh 2c] [As]
+psychoman59 : parole 
+apioker88 : mise. 200
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à apioker88.
+apioker88 a remporté 450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [Qd Ks Kh 2c As]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 4 : apioker88 (bouton) (petite blind) a remporté (450)
+
+
+
+Main PokerStars n°238162955110 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 23/08/2022 10:12:21 CET [23/08/2022 4:12:21 ET]
+Table '3460377990 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (9265 en jetons) 
+Place 4: apioker88 (10735 en jetons) 
+psychoman59 : met l'ante. 25
+apioker88 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+apioker88 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Kh]
+psychoman59 : relance. 200 à 400
+apioker88 : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 450  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (450)
+Siège 4 : apioker88 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238162956358 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 23/08/2022 10:12:30 CET [23/08/2022 4:12:30 ET]
+Table '3460377990 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (9490 en jetons) 
+Place 4: apioker88 (10510 en jetons) 
+psychoman59 : met l'ante. 25
+apioker88 : met l'ante. 25
+apioker88 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Qc]
+apioker88 : suit. 100
+psychoman59 : parole 
+*** FLOP *** [6c Qh 3s]
+psychoman59 : parole 
+apioker88 : parole 
+*** TOURNANT *** [6c Qh 3s] [Th]
+psychoman59 : parole 
+apioker88 : parole 
+*** RIVIÈRE *** [6c Qh 3s Th] [3c]
+psychoman59 : mise. 450
+apioker88 : passe. 
+Personne n'a suivi. (450) sont retournés à psychoman59.
+psychoman59 a remporté 450  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [6c Qh 3s Th 3c]
+Siège 1 : psychoman59 (grosse blind) a remporté (450)
+Siège 4 : apioker88 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°238162959677 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 23/08/2022 10:12:57 CET [23/08/2022 4:12:57 ET]
+Table '3460377990 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (9715 en jetons) 
+Place 4: apioker88 (10285 en jetons) 
+psychoman59 : met l'ante. 25
+apioker88 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+apioker88 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 8s]
+psychoman59 : suit. 100
+apioker88 : parole 
+*** FLOP *** [7h Th As]
+apioker88 : parole 
+psychoman59 : mise. 450
+apioker88 : passe. 
+Personne n'a suivi. (450) sont retournés à psychoman59.
+psychoman59 a remporté 450  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [7h Th As]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (450)
+Siège 4 : apioker88 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238162962734 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 23/08/2022 10:13:21 CET [23/08/2022 4:13:21 ET]
+Table '3460377990 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (9940 en jetons) 
+Place 4: apioker88 (10060 en jetons) 
+psychoman59 : met l'ante. 25
+apioker88 : met l'ante. 25
+apioker88 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Kc]
+apioker88 : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 250  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (250)
+Siège 4 : apioker88 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238162963779 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 23/08/2022 10:13:29 CET [23/08/2022 4:13:29 ET]
+Table '3460377990 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (10065 en jetons) 
+Place 4: apioker88 (9935 en jetons) 
+psychoman59 : met l'ante. 25
+apioker88 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+apioker88 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à apioker88.
+apioker88 a remporté 250  lors du pot .
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : apioker88 (grosse blind) a remporté (250)
+
+
+
+Main PokerStars n°238162965341 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 23/08/2022 10:13:41 CET [23/08/2022 4:13:41 ET]
+Table '3460377990 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (9940 en jetons) 
+Place 4: apioker88 (10060 en jetons) 
+psychoman59 : met l'ante. 30
+apioker88 : met l'ante. 30
+apioker88 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 8c]
+apioker88 : passe. 
+Personne n'a suivi. (125) sont retournés à psychoman59.
+psychoman59 a remporté 310  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (310)
+Siège 4 : apioker88 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238162966304 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 23/08/2022 10:13:48 CET [23/08/2022 4:13:48 ET]
+Table '3460377990 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (10095 en jetons) 
+Place 4: apioker88 (9905 en jetons) 
+psychoman59 : met l'ante. 30
+apioker88 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+apioker88 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 5s]
+psychoman59 : relance. 9815 à 10065 et est all-in.
+apioker88 : passe. 
+Personne n'a suivi. (9815) sont retournés à psychoman59.
+psychoman59 a remporté 560  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (560)
+Siège 4 : apioker88 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238162968487 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 23/08/2022 10:14:05 CET [23/08/2022 4:14:05 ET]
+Table '3460377990 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (10375 en jetons) 
+Place 4: apioker88 (9625 en jetons) 
+psychoman59 : met l'ante. 30
+apioker88 : met l'ante. 30
+apioker88 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 2s]
+apioker88 : passe. 
+Personne n'a suivi. (125) sont retournés à psychoman59.
+psychoman59 a remporté 310  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (310)
+Siège 4 : apioker88 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238162969478 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 23/08/2022 10:14:13 CET [23/08/2022 4:14:13 ET]
+Table '3460377990 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (10530 en jetons) 
+Place 4: apioker88 (9470 en jetons) 
+psychoman59 : met l'ante. 30
+apioker88 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+apioker88 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à apioker88.
+apioker88 a remporté 310  lors du pot .
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : apioker88 (grosse blind) a remporté (310)
+
+
+
+Main PokerStars n°238162970560 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 23/08/2022 10:14:21 CET [23/08/2022 4:14:21 ET]
+Table '3460377990 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (10375 en jetons) 
+Place 4: apioker88 (9625 en jetons) 
+psychoman59 : met l'ante. 30
+apioker88 : met l'ante. 30
+apioker88 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 6s]
+apioker88 : suit. 125
+psychoman59 : parole 
+*** FLOP *** [9c 9s 7c]
+psychoman59 : parole 
+apioker88 : parole 
+*** TOURNANT *** [9c 9s 7c] [3h]
+psychoman59 : parole 
+apioker88 : parole 
+*** RIVIÈRE *** [9c 9s 7c 3h] [9d]
+psychoman59 : parole 
+apioker88 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [2h 6s] (un brelan de Neuf)
+apioker88 : montre [Ad 4c] (un brelan de Neuf - As kicker)
+apioker88 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [9c 9s 7c 3h 9d]
+Siège 1 : psychoman59 (grosse blind) a montré [2h 6s] et a perdu avec un brelan de Neuf
+Siège 4 : apioker88 (bouton) (petite blind) a montré [Ad 4c] et a gagné (560) avec un brelan de Neuf
+
+
+
+Main PokerStars n°238162974004 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 23/08/2022 10:14:48 CET [23/08/2022 4:14:48 ET]
+Table '3460377990 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (10095 en jetons) 
+Place 4: apioker88 (9905 en jetons) 
+psychoman59 : met l'ante. 30
+apioker88 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+apioker88 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 6h]
+psychoman59 : suit. 125
+apioker88 : parole 
+*** FLOP *** [6s As 8d]
+apioker88 : parole 
+psychoman59 : mise. 250
+apioker88 : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 560  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [6s As 8d]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (560)
+Siège 4 : apioker88 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238162976246 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 23/08/2022 10:15:06 CET [23/08/2022 4:15:06 ET]
+Table '3460377990 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (10375 en jetons) 
+Place 4: apioker88 (9625 en jetons) 
+psychoman59 : met l'ante. 30
+apioker88 : met l'ante. 30
+apioker88 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 3s]
+apioker88 : passe. 
+Personne n'a suivi. (125) sont retournés à psychoman59.
+psychoman59 a remporté 310  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (310)
+Siège 4 : apioker88 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238162980972 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 23/08/2022 10:15:13 CET [23/08/2022 4:15:13 ET]
+Table '3460377990 1' 4-max Siège #1 est au bouton.
+Place 1: psychoman59 (10530 en jetons) 
+Place 4: apioker88 (9470 en jetons) 
+psychoman59 : met l'ante. 30
+apioker88 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+apioker88 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à apioker88.
+apioker88 a remporté 310  lors du pot .
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : apioker88 (grosse blind) a remporté (310)
+
+
+
+Main PokerStars n°238162982186 : Tournoi #3460377990, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau V (125/250) - 23/08/2022 10:15:23 CET [23/08/2022 4:15:23 ET]
+Table '3460377990 1' 4-max Siège #4 est au bouton.
+Place 1: psychoman59 (10375 en jetons) 
+Place 4: apioker88 (9625 en jetons) 
+psychoman59 : met l'ante. 30
+apioker88 : met l'ante. 30
+apioker88 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Kc]
+apioker88 : relance. 9345 à 9595 et est all-in.
+psychoman59 : suit. 9345
+*** FLOP *** [2h 4s 9s]
+*** TOURNANT *** [2h 4s 9s] [4h]
+*** RIVIÈRE *** [2h 4s 9s 4h] [Td]
+*** ABATTAGE ***
+psychoman59 : montre [As Kc] (une paire de Quatre)
+apioker88 : montre [Ah 7c] (une paire de Quatre - plus basse kicker)
+psychoman59 a remporté 19250  lors du pot .
+apioker88 a fini le tournoi à la 2e place et a reçu 0.52 €.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne les frais d'entrée pour le tournoi #3450746444
+*** SYNTHÈSE ***
+Pot total 19250 | Commission 0 
+Tableau [2h 4s 9s 4h Td]
+Siège 1 : psychoman59 (grosse blind) a montré [As Kc] et a gagné (19250) avec une paire de Quatre
+Siège 4 : apioker88 (bouton) (petite blind) a montré [Ah 7c] et a perdu avec une paire de Quatre
+
+
+

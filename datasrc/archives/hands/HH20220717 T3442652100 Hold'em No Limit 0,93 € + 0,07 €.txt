@@ -1,0 +1,459 @@
+﻿Main PokerStars n°237407614481 : Tournoi #3442652100, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/07/2022 9:33:19 CET [17/07/2022 3:33:19 ET]
+Table '3442652100 1' 3-max Siège #1 est au bouton.
+Place 1: yosoyGumble (300 en jetons) 
+Place 2: samumu9542 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+samumu9542 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 3c]
+yosoyGumble : passe. 
+samumu9542 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jd 4h Kd]
+samumu9542 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jd 4h Kd] [4c]
+samumu9542 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Jd 4h Kd 4c] [Th]
+samumu9542 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+samumu9542 : montre [8h 7s] (une paire de Quatre)
+psychoman59 : montre [7h 3c] (une paire de Quatre)
+samumu9542 a remporté 20  lors du pot .
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Jd 4h Kd 4c Th]
+Siège 1 : yosoyGumble (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : samumu9542 (petite blind) a montré [8h 7s] et a gagné (20) avec une paire de Quatre
+Siège 3 : psychoman59 (grosse blind) a montré [7h 3c] et a gagné (20) avec une paire de Quatre
+
+
+
+Main PokerStars n°237407616625 : Tournoi #3442652100, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/07/2022 9:33:37 CET [17/07/2022 3:33:37 ET]
+Table '3442652100 1' 3-max Siège #2 est au bouton.
+Place 1: yosoyGumble (300 en jetons) 
+Place 2: samumu9542 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+yosoyGumble : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 6d]
+samumu9542 : relance. 40 à 60
+psychoman59 : passe. 
+yosoyGumble : suit. 40
+*** FLOP *** [7h 7s Kd]
+yosoyGumble : parole 
+samumu9542 : parole 
+*** TOURNANT *** [7h 7s Kd] [9s]
+yosoyGumble : parole 
+samumu9542 : parole 
+*** RIVIÈRE *** [7h 7s Kd 9s] [4h]
+yosoyGumble : mise. 130
+samumu9542 : passe. 
+Personne n'a suivi. (130) sont retournés à yosoyGumble.
+yosoyGumble a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [7h 7s Kd 9s 4h]
+Siège 1 : yosoyGumble (grosse blind) a remporté (130)
+Siège 2 : samumu9542 (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237407621075 : Tournoi #3442652100, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/07/2022 9:34:13 CET [17/07/2022 3:34:13 ET]
+Table '3442652100 1' 3-max Siège #3 est au bouton.
+Place 1: yosoyGumble (370 en jetons) 
+Place 2: samumu9542 (240 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+yosoyGumble : met la petite blind. 10
+samumu9542 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Jd]
+psychoman59 : relance. 70 à 90
+yosoyGumble : passe. 
+samumu9542 : passe. 
+Personne n'a suivi. (70) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : yosoyGumble (petite blind) s'est couché. avant Flop
+Siège 2 : samumu9542 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°237407622919 : Tournoi #3442652100, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/07/2022 9:34:27 CET [17/07/2022 3:34:27 ET]
+Table '3442652100 1' 3-max Siège #1 est au bouton.
+Place 1: yosoyGumble (360 en jetons) 
+Place 2: samumu9542 (220 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+samumu9542 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Jh]
+yosoyGumble : relance. 75 à 105
+samumu9542 : relance. 75 à 180
+psychoman59 : passe. 
+yosoyGumble : suit. 75
+*** FLOP *** [Tc Th 6d]
+samumu9542 : mise. 40 et est all-in.
+yosoyGumble : suit. 40
+*** TOURNANT *** [Tc Th 6d] [Kc]
+*** RIVIÈRE *** [Tc Th 6d Kc] [8d]
+*** ABATTAGE ***
+samumu9542 : montre [Kd Ts] (un full, full aux Dix par les Rois)
+yosoyGumble : montre [9s Jc] (une paire de Dix)
+samumu9542 a remporté 470  lors du pot .
+*** SYNTHÈSE ***
+Pot total 470 | Commission 0 
+Tableau [Tc Th 6d Kc 8d]
+Siège 1 : yosoyGumble (bouton) a montré [9s Jc] et a perdu avec une paire de Dix
+Siège 2 : samumu9542 (petite blind) a montré [Kd Ts] et a gagné (470) avec un full, full aux Dix par les Rois
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237407625321 : Tournoi #3442652100, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/07/2022 9:34:47 CET [17/07/2022 3:34:47 ET]
+Table '3442652100 1' 3-max Siège #2 est au bouton.
+Place 1: yosoyGumble (140 en jetons) 
+Place 2: samumu9542 (470 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+psychoman59 : met la petite blind. 15
+yosoyGumble : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 8s]
+samumu9542 : relance. 60 à 90
+psychoman59 : passe. 
+yosoyGumble : relance. 50 à 140 et est all-in.
+samumu9542 : suit. 50
+*** FLOP *** [Qh 8c 5h]
+*** TOURNANT *** [Qh 8c 5h] [Js]
+*** RIVIÈRE *** [Qh 8c 5h Js] [6h]
+*** ABATTAGE ***
+yosoyGumble : montre [Kh 8h] (une couleur, hauteur Roi)
+samumu9542 : montre [Kd 8d] (une paire de Huit)
+yosoyGumble a remporté 295  lors du pot .
+*** SYNTHÈSE ***
+Pot total 295 | Commission 0 
+Tableau [Qh 8c 5h Js 6h]
+Siège 1 : yosoyGumble (grosse blind) a montré [Kh 8h] et a gagné (295) avec une couleur, hauteur Roi
+Siège 2 : samumu9542 (bouton) a montré [Kd 8d] et a perdu avec une paire de Huit
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237407627222 : Tournoi #3442652100, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/07/2022 9:35:02 CET [17/07/2022 3:35:02 ET]
+Table '3442652100 1' 3-max Siège #3 est au bouton.
+Place 1: yosoyGumble (295 en jetons) 
+Place 2: samumu9542 (330 en jetons) 
+Place 3: psychoman59 (275 en jetons) 
+yosoyGumble : met la petite blind. 15
+samumu9542 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 7s]
+psychoman59 : passe. 
+yosoyGumble : relance. 265 à 295 et est all-in.
+samumu9542 : suit. 265
+*** FLOP *** [8c 4d 7c]
+*** TOURNANT *** [8c 4d 7c] [As]
+*** RIVIÈRE *** [8c 4d 7c As] [5s]
+*** ABATTAGE ***
+yosoyGumble : montre [4s Ad] (double paire, As et Quatre)
+samumu9542 : montre [Kc 5d] (une paire de Cinq)
+yosoyGumble a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [8c 4d 7c As 5s]
+Siège 1 : yosoyGumble (petite blind) a montré [4s Ad] et a gagné (590) avec double paire, As et Quatre
+Siège 2 : samumu9542 (grosse blind) a montré [Kc 5d] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237407628929 : Tournoi #3442652100, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/07/2022 9:35:16 CET [17/07/2022 3:35:16 ET]
+Table '3442652100 1' 3-max Siège #1 est au bouton.
+Place 1: yosoyGumble (590 en jetons) 
+Place 2: samumu9542 (35 en jetons) 
+Place 3: psychoman59 (275 en jetons) 
+samumu9542 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 5d]
+yosoyGumble : relance. 30 à 60
+samumu9542 : suit. 20 et est all-in.
+psychoman59 : suit. 30
+*** FLOP *** [Ah 8h 9s]
+psychoman59 : mise. 215 et est all-in.
+yosoyGumble : passe. 
+Personne n'a suivi. (215) sont retournés à psychoman59.
+*** TOURNANT *** [Ah 8h 9s] [5s]
+*** RIVIÈRE *** [Ah 8h 9s 5s] [Kd]
+*** ABATTAGE ***
+psychoman59 : montre [Ad 5d] (double paire, As et Cinq)
+psychoman59 a remporté 50  parallèle lors du pot .
+samumu9542 : montre [2d 3c] (Hauteur As)
+psychoman59 a remporté 105  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 155 Principal pot 105. Parallèle pot 50. | Commission 0 
+Tableau [Ah 8h 9s 5s Kd]
+Siège 1 : yosoyGumble (bouton) s'est couché. sur le Flop
+Siège 2 : samumu9542 (petite blind) a montré [2d 3c] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [Ad 5d] et a gagné (155) avec double paire, As et Cinq
+
+
+
+Main PokerStars n°237407631998 : Tournoi #3442652100, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/07/2022 9:35:41 CET [17/07/2022 3:35:41 ET]
+Table '3442652100 1' 3-max Siège #3 est au bouton.
+Place 1: yosoyGumble (530 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+psychoman59 : met la petite blind. 20
+yosoyGumble : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Qc]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à yosoyGumble.
+yosoyGumble a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : yosoyGumble (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237407632726 : Tournoi #3442652100, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/07/2022 9:35:47 CET [17/07/2022 3:35:47 ET]
+Table '3442652100 1' 3-max Siège #1 est au bouton.
+Place 1: yosoyGumble (550 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+yosoyGumble : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 6d]
+yosoyGumble : suit. 20
+psychoman59 : parole 
+*** FLOP *** [8c 5d 3s]
+psychoman59 : parole 
+yosoyGumble : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à yosoyGumble.
+yosoyGumble a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8c 5d 3s]
+Siège 1 : yosoyGumble (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237407634658 : Tournoi #3442652100, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/07/2022 9:36:02 CET [17/07/2022 3:36:02 ET]
+Table '3442652100 1' 3-max Siège #3 est au bouton.
+Place 1: yosoyGumble (590 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 20
+yosoyGumble : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à yosoyGumble.
+yosoyGumble a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : yosoyGumble (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237407635175 : Tournoi #3442652100, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/07/2022 9:36:07 CET [17/07/2022 3:36:07 ET]
+Table '3442652100 1' 3-max Siège #1 est au bouton.
+Place 1: yosoyGumble (610 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+yosoyGumble : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 9h]
+yosoyGumble : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : yosoyGumble (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°237407635722 : Tournoi #3442652100, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/07/2022 9:36:11 CET [17/07/2022 3:36:11 ET]
+Table '3442652100 1' 3-max Siège #3 est au bouton.
+Place 1: yosoyGumble (590 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 20
+yosoyGumble : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à yosoyGumble.
+yosoyGumble a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : yosoyGumble (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237407636354 : Tournoi #3442652100, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/07/2022 9:36:16 CET [17/07/2022 3:36:16 ET]
+Table '3442652100 1' 3-max Siège #1 est au bouton.
+Place 1: yosoyGumble (610 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+yosoyGumble : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Jh]
+yosoyGumble : relance. 80 à 120
+psychoman59 : relance. 170 à 290 et est all-in.
+yosoyGumble : suit. 170
+*** FLOP *** [7d 8c Jc]
+*** TOURNANT *** [7d 8c Jc] [4s]
+*** RIVIÈRE *** [7d 8c Jc 4s] [6s]
+*** ABATTAGE ***
+psychoman59 : montre [Ah Jh] (une paire de Valets)
+yosoyGumble : montre [As Kd] (Hauteur As)
+psychoman59 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [7d 8c Jc 4s 6s]
+Siège 1 : yosoyGumble (bouton) (petite blind) a montré [As Kd] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [Ah Jh] et a gagné (580) avec une paire de Valets
+
+
+
+Main PokerStars n°237407638601 : Tournoi #3442652100, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/07/2022 9:36:35 CET [17/07/2022 3:36:35 ET]
+Table '3442652100 1' 3-max Siège #3 est au bouton.
+Place 1: yosoyGumble (320 en jetons) 
+Place 3: psychoman59 (580 en jetons) 
+psychoman59 : met la petite blind. 30
+yosoyGumble : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à yosoyGumble.
+yosoyGumble a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : yosoyGumble (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237407639317 : Tournoi #3442652100, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/07/2022 9:36:40 CET [17/07/2022 3:36:40 ET]
+Table '3442652100 1' 3-max Siège #1 est au bouton.
+Place 1: yosoyGumble (350 en jetons) 
+Place 3: psychoman59 (550 en jetons) 
+yosoyGumble : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 9c]
+yosoyGumble : relance. 290 à 350 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (290) sont retournés à yosoyGumble.
+yosoyGumble a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : yosoyGumble (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237407640244 : Tournoi #3442652100, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/07/2022 9:36:48 CET [17/07/2022 3:36:48 ET]
+Table '3442652100 1' 3-max Siège #3 est au bouton.
+Place 1: yosoyGumble (410 en jetons) 
+Place 3: psychoman59 (490 en jetons) 
+psychoman59 : met la petite blind. 30
+yosoyGumble : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à yosoyGumble.
+yosoyGumble a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : yosoyGumble (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237407641037 : Tournoi #3442652100, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/07/2022 9:36:54 CET [17/07/2022 3:36:54 ET]
+Table '3442652100 1' 3-max Siège #1 est au bouton.
+Place 1: yosoyGumble (440 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+yosoyGumble : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 9h]
+yosoyGumble : relance. 380 à 440 et est all-in.
+psychoman59 : suit. 380
+*** FLOP *** [3s 5s Td]
+*** TOURNANT *** [3s 5s Td] [Jd]
+*** RIVIÈRE *** [3s 5s Td Jd] [4d]
+*** ABATTAGE ***
+psychoman59 : montre [Qs 9h] (Hauteur Dame)
+yosoyGumble : montre [6s Kh] (Hauteur Roi)
+yosoyGumble a remporté 880  lors du pot .
+*** SYNTHÈSE ***
+Pot total 880 | Commission 0 
+Tableau [3s 5s Td Jd 4d]
+Siège 1 : yosoyGumble (bouton) (petite blind) a montré [6s Kh] et a gagné (880) avec Hauteur Roi
+Siège 3 : psychoman59 (grosse blind) a montré [Qs 9h] et a perdu avec Hauteur Dame
+
+
+
+Main PokerStars n°237407642724 : Tournoi #3442652100, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/07/2022 9:37:08 CET [17/07/2022 3:37:08 ET]
+Table '3442652100 1' 3-max Siège #3 est au bouton.
+Place 1: yosoyGumble (880 en jetons) 
+Place 3: psychoman59 (20 en jetons) 
+psychoman59 : met la petite blind. 20 et est all-in.
+yosoyGumble : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c As]
+Personne n'a suivi. (40) sont retournés à yosoyGumble.
+*** FLOP *** [4h 2c 3d]
+*** TOURNANT *** [4h 2c 3d] [9d]
+*** RIVIÈRE *** [4h 2c 3d 9d] [Ah]
+*** ABATTAGE ***
+yosoyGumble : montre [Jc 3c] (une paire de Trois)
+psychoman59 : montre [7c As] (une paire de As)
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [4h 2c 3d 9d Ah]
+Siège 1 : yosoyGumble (grosse blind) a montré [Jc 3c] et a perdu avec une paire de Trois
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [7c As] et a gagné (40) avec une paire de As
+
+
+
+Main PokerStars n°237407643750 : Tournoi #3442652100, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/07/2022 9:37:16 CET [17/07/2022 3:37:16 ET]
+Table '3442652100 1' 3-max Siège #1 est au bouton.
+Place 1: yosoyGumble (860 en jetons) 
+Place 3: psychoman59 (40 en jetons) 
+yosoyGumble : met la petite blind. 30
+psychoman59 : met la grosse blind. 40 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 3s]
+yosoyGumble : suit. 10
+*** FLOP *** [Jc 3c 2s]
+*** TOURNANT *** [Jc 3c 2s] [4h]
+*** RIVIÈRE *** [Jc 3c 2s 4h] [Ks]
+*** ABATTAGE ***
+psychoman59 : montre [Ts 3s] (une paire de Trois)
+yosoyGumble : montre [4d Kh] (double paire, Rois et Quatre)
+yosoyGumble a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Jc 3c 2s 4h Ks]
+Siège 1 : yosoyGumble (bouton) (petite blind) a montré [4d Kh] et a gagné (80) avec double paire, Rois et Quatre
+Siège 3 : psychoman59 (grosse blind) a montré [Ts 3s] et a perdu avec une paire de Trois
+
+
+

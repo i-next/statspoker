@@ -1,0 +1,811 @@
+﻿Main PokerStars n°237943763512 : Tournoi #3455189247, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 15:35:40 CET [12/08/2022 9:35:40 ET]
+Table '3455189247 1' 4-max Siège #1 est au bouton.
+Place 1: 3mecbet (5000 en jetons) 
+Place 2: ELTIGROS1 (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: carlitros5 (5000 en jetons) 
+3mecbet : met l'ante. 10
+ELTIGROS1 : met l'ante. 10
+psychoman59 : met l'ante. 10
+carlitros5 : met l'ante. 10
+ELTIGROS1 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ks]
+carlitros5 : relance. 100 à 200
+3mecbet : suit. 200
+ELTIGROS1 : passe. 
+psychoman59 : suit. 100
+*** FLOP *** [2d 3d Kc]
+psychoman59 : parole 
+carlitros5 : mise. 200
+3mecbet : relance. 522 à 722
+psychoman59 : suit. 722
+carlitros5 : suit. 522
+*** TOURNANT *** [2d 3d Kc] [8d]
+psychoman59 : parole 
+carlitros5 : parole 
+3mecbet : parole 
+*** RIVIÈRE *** [2d 3d Kc 8d] [4s]
+psychoman59 : parole 
+carlitros5 : parole 
+3mecbet : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qh Ks] (une paire de Rois)
+carlitros5 : cache la main perdante. 
+3mecbet : cache la main perdante. 
+psychoman59 a remporté 2856  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2856 | Commission 0 
+Tableau [2d 3d Kc 8d 4s]
+Siège 1 : 3mecbet (bouton) a caché la main perdante. [Kh 9h]
+Siège 2 : ELTIGROS1 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Qh Ks] et a gagné (2856) avec une paire de Rois
+Siège 4 : carlitros5 a caché la main perdante. [6h 6c]
+
+
+
+Main PokerStars n°237943779650 : Tournoi #3455189247, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 15:36:49 CET [12/08/2022 9:36:49 ET]
+Table '3455189247 1' 4-max Siège #2 est au bouton.
+Place 1: 3mecbet (4068 en jetons) 
+Place 2: ELTIGROS1 (4940 en jetons) 
+Place 3: psychoman59 (6924 en jetons) 
+Place 4: carlitros5 (4068 en jetons) 
+3mecbet : met l'ante. 10
+ELTIGROS1 : met l'ante. 10
+psychoman59 : met l'ante. 10
+carlitros5 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+carlitros5 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 7h]
+3mecbet : passe. 
+ELTIGROS1 : suit. 100
+psychoman59 : suit. 50
+carlitros5 : parole 
+*** FLOP *** [4s 2d 3c]
+psychoman59 : parole 
+carlitros5 : parole 
+ELTIGROS1 : parole 
+*** TOURNANT *** [4s 2d 3c] [Ts]
+psychoman59 : parole 
+carlitros5 : parole 
+ELTIGROS1 : parole 
+*** RIVIÈRE *** [4s 2d 3c Ts] [5d]
+psychoman59 : parole 
+carlitros5 : mise. 340
+ELTIGROS1 : relance. 1020 à 1360
+psychoman59 : passe. 
+carlitros5 : suit. 1020
+*** ABATTAGE ***
+ELTIGROS1 : montre [5s 6c] (une suite, Deux à Six)
+carlitros5 : montre [6s 9s] (une suite, Deux à Six)
+carlitros5 a remporté 1530  lors du pot .
+ELTIGROS1 a remporté 1530  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3060 | Commission 0 
+Tableau [4s 2d 3c Ts 5d]
+Siège 1 : 3mecbet s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ELTIGROS1 (bouton) a montré [5s 6c] et a gagné (1530) avec une suite, Deux à Six
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 4 : carlitros5 (grosse blind) a montré [6s 9s] et a gagné (1530) avec une suite, Deux à Six
+
+
+
+Main PokerStars n°237943794440 : Tournoi #3455189247, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 15:37:50 CET [12/08/2022 9:37:50 ET]
+Table '3455189247 1' 4-max Siège #3 est au bouton.
+Place 1: 3mecbet (4058 en jetons) 
+Place 2: ELTIGROS1 (5000 en jetons) 
+Place 3: psychoman59 (6814 en jetons) 
+Place 4: carlitros5 (4128 en jetons) 
+3mecbet : met l'ante. 10
+ELTIGROS1 : met l'ante. 10
+psychoman59 : met l'ante. 10
+carlitros5 : met l'ante. 10
+carlitros5 : met la petite blind. 50
+3mecbet : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ah]
+ELTIGROS1 : relance. 200 à 300
+psychoman59 : suit. 300
+carlitros5 : passe. 
+3mecbet : relance. 990 à 1290
+ELTIGROS1 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (990) sont retournés à 3mecbet.
+3mecbet a remporté 990  lors du pot .
+3mecbet : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 990 | Commission 0 
+Siège 1 : 3mecbet (grosse blind) a remporté (990)
+Siège 2 : ELTIGROS1 s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 4 : carlitros5 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237943802055 : Tournoi #3455189247, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 12/08/2022 15:38:22 CET [12/08/2022 9:38:22 ET]
+Table '3455189247 1' 4-max Siège #4 est au bouton.
+Place 1: 3mecbet (4738 en jetons) 
+Place 2: ELTIGROS1 (4690 en jetons) 
+Place 3: psychoman59 (6504 en jetons) 
+Place 4: carlitros5 (4068 en jetons) 
+3mecbet : met l'ante. 10
+ELTIGROS1 : met l'ante. 10
+psychoman59 : met l'ante. 10
+carlitros5 : met l'ante. 10
+3mecbet : met la petite blind. 50
+ELTIGROS1 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 4c]
+psychoman59 : passe. 
+carlitros5 : suit. 100
+3mecbet : passe. 
+ELTIGROS1 : relance. 200 à 300
+carlitros5 : suit. 200
+*** FLOP *** [5s Qd 9c]
+ELTIGROS1 : mise. 690
+carlitros5 : passe. 
+Personne n'a suivi. (690) sont retournés à ELTIGROS1.
+ELTIGROS1 a remporté 690  lors du pot .
+ELTIGROS1 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 690 | Commission 0 
+Tableau [5s Qd 9c]
+Siège 1 : 3mecbet (petite blind) s'est couché. avant Flop
+Siège 2 : ELTIGROS1 (grosse blind) a remporté (690)
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : carlitros5 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°237943813309 : Tournoi #3455189247, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 15:39:09 CET [12/08/2022 9:39:09 ET]
+Table '3455189247 1' 4-max Siège #1 est au bouton.
+Place 1: 3mecbet (4678 en jetons) 
+Place 2: ELTIGROS1 (5070 en jetons) 
+Place 3: psychoman59 (6494 en jetons) 
+Place 4: carlitros5 (3758 en jetons) 
+3mecbet : met l'ante. 15
+ELTIGROS1 : met l'ante. 15
+psychoman59 : met l'ante. 15
+carlitros5 : met l'ante. 15
+ELTIGROS1 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 9s]
+carlitros5 : passe. 
+3mecbet : passe. 
+ELTIGROS1 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [9d 8h 6d]
+ELTIGROS1 : mise. 240
+psychoman59 : suit. 240
+*** TOURNANT *** [9d 8h 6d] [Qs]
+ELTIGROS1 : parole 
+psychoman59 : mise. 390
+ELTIGROS1 : relance. 390 à 780
+psychoman59 : suit. 390
+*** RIVIÈRE *** [9d 8h 6d Qs] [6h]
+ELTIGROS1 : mise. 2280
+psychoman59 : passe. 
+Personne n'a suivi. (2280) sont retournés à ELTIGROS1.
+ELTIGROS1 a remporté 2340  lors du pot .
+ELTIGROS1 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2340 | Commission 0 
+Tableau [9d 8h 6d Qs 6h]
+Siège 1 : 3mecbet (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ELTIGROS1 (petite blind) a remporté (2340)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 4 : carlitros5 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237943826627 : Tournoi #3455189247, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 15:40:05 CET [12/08/2022 9:40:05 ET]
+Table '3455189247 1' 4-max Siège #2 est au bouton.
+Place 1: 3mecbet (4663 en jetons) 
+Place 2: ELTIGROS1 (6255 en jetons) 
+Place 3: psychoman59 (5339 en jetons) 
+Place 4: carlitros5 (3743 en jetons) 
+3mecbet : met l'ante. 15
+ELTIGROS1 : met l'ante. 15
+psychoman59 : met l'ante. 15
+carlitros5 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+carlitros5 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 9d]
+3mecbet : relance. 144 à 264
+ELTIGROS1 : passe. 
+psychoman59 : suit. 204
+carlitros5 : suit. 144
+*** FLOP *** [Ah Qs 5h]
+psychoman59 : parole 
+carlitros5 : parole 
+3mecbet : mise. 239
+psychoman59 : passe. 
+carlitros5 : suit. 239
+*** TOURNANT *** [Ah Qs 5h] [2s]
+carlitros5 : parole 
+3mecbet : mise. 1080
+carlitros5 : passe. 
+Personne n'a suivi. (1080) sont retournés à 3mecbet.
+3mecbet a remporté 1330  lors du pot .
+3mecbet : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1330 | Commission 0 
+Tableau [Ah Qs 5h 2s]
+Siège 1 : 3mecbet a remporté (1330)
+Siège 2 : ELTIGROS1 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 4 : carlitros5 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237943841637 : Tournoi #3455189247, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 15:41:08 CET [12/08/2022 9:41:08 ET]
+Table '3455189247 1' 4-max Siège #3 est au bouton.
+Place 1: 3mecbet (5475 en jetons) 
+Place 2: ELTIGROS1 (6240 en jetons) 
+Place 3: psychoman59 (5060 en jetons) 
+Place 4: carlitros5 (3225 en jetons) 
+3mecbet : met l'ante. 15
+ELTIGROS1 : met l'ante. 15
+psychoman59 : met l'ante. 15
+carlitros5 : met l'ante. 15
+carlitros5 : met la petite blind. 60
+3mecbet : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Qh]
+ELTIGROS1 : passe. 
+psychoman59 : passe. 
+carlitros5 : suit. 60
+3mecbet : parole 
+*** FLOP *** [Jc 7c 5c]
+carlitros5 : parole 
+3mecbet : parole 
+*** TOURNANT *** [Jc 7c 5c] [2d]
+carlitros5 : parole 
+3mecbet : mise. 240
+carlitros5 : passe. 
+Personne n'a suivi. (240) sont retournés à 3mecbet.
+3mecbet a remporté 300  lors du pot .
+3mecbet : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Jc 7c 5c 2d]
+Siège 1 : 3mecbet (grosse blind) a remporté (300)
+Siège 2 : ELTIGROS1 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : carlitros5 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237943849252 : Tournoi #3455189247, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 12/08/2022 15:41:40 CET [12/08/2022 9:41:40 ET]
+Table '3455189247 1' 4-max Siège #4 est au bouton.
+Place 1: 3mecbet (5640 en jetons) 
+Place 2: ELTIGROS1 (6225 en jetons) 
+Place 3: psychoman59 (5045 en jetons) 
+Place 4: carlitros5 (3090 en jetons) 
+3mecbet : met l'ante. 15
+ELTIGROS1 : met l'ante. 15
+psychoman59 : met l'ante. 15
+carlitros5 : met l'ante. 15
+3mecbet : met la petite blind. 60
+ELTIGROS1 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 7d]
+psychoman59 : passe. 
+carlitros5 : passe. 
+3mecbet : passe. 
+Personne n'a suivi. (60) sont retournés à ELTIGROS1.
+ELTIGROS1 a remporté 180  lors du pot .
+ELTIGROS1 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : 3mecbet (petite blind) s'est couché. avant Flop
+Siège 2 : ELTIGROS1 (grosse blind) a remporté (180)
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : carlitros5 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237943852635 : Tournoi #3455189247, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 15:41:54 CET [12/08/2022 9:41:54 ET]
+Table '3455189247 1' 4-max Siège #1 est au bouton.
+Place 1: 3mecbet (5565 en jetons) 
+Place 2: ELTIGROS1 (6330 en jetons) 
+Place 3: psychoman59 (5030 en jetons) 
+Place 4: carlitros5 (3075 en jetons) 
+3mecbet : met l'ante. 20
+ELTIGROS1 : met l'ante. 20
+psychoman59 : met l'ante. 20
+carlitros5 : met l'ante. 20
+ELTIGROS1 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 6c]
+carlitros5 : relance. 150 à 300
+3mecbet : passe. 
+ELTIGROS1 : passe. 
+psychoman59 : suit. 150
+*** FLOP *** [7c Td Kc]
+psychoman59 : parole 
+carlitros5 : mise. 249
+psychoman59 : suit. 249
+*** TOURNANT *** [7c Td Kc] [Jd]
+psychoman59 : parole 
+carlitros5 : mise. 450
+psychoman59 : passe. 
+Personne n'a suivi. (450) sont retournés à carlitros5.
+carlitros5 a remporté 1253  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1253 | Commission 0 
+Tableau [7c Td Kc Jd]
+Siège 1 : 3mecbet (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ELTIGROS1 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 4 : carlitros5 a remporté (1253)
+
+
+
+Main PokerStars n°237943863816 : Tournoi #3455189247, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 15:42:41 CET [12/08/2022 9:42:41 ET]
+Table '3455189247 1' 4-max Siège #2 est au bouton.
+Place 1: 3mecbet (5545 en jetons) 
+Place 2: ELTIGROS1 (6235 en jetons) 
+Place 3: psychoman59 (4461 en jetons) 
+Place 4: carlitros5 (3759 en jetons) 
+3mecbet : met l'ante. 20
+ELTIGROS1 : met l'ante. 20
+psychoman59 : met l'ante. 20
+carlitros5 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+carlitros5 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Kc]
+3mecbet : passe. 
+ELTIGROS1 : relance. 300 à 450
+psychoman59 : passe. 
+carlitros5 : passe. 
+Personne n'a suivi. (300) sont retournés à ELTIGROS1.
+ELTIGROS1 a remporté 455  lors du pot .
+ELTIGROS1 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 455 | Commission 0 
+Siège 1 : 3mecbet s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ELTIGROS1 (bouton) a remporté (455)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : carlitros5 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237943870946 : Tournoi #3455189247, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 15:43:11 CET [12/08/2022 9:43:11 ET]
+Table '3455189247 1' 4-max Siège #3 est au bouton.
+Place 1: 3mecbet (5525 en jetons) 
+Place 2: ELTIGROS1 (6520 en jetons) 
+Place 3: psychoman59 (4366 en jetons) 
+Place 4: carlitros5 (3589 en jetons) 
+3mecbet : met l'ante. 20
+ELTIGROS1 : met l'ante. 20
+psychoman59 : met l'ante. 20
+carlitros5 : met l'ante. 20
+carlitros5 : met la petite blind. 75
+3mecbet : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 6s]
+ELTIGROS1 : suit. 150
+psychoman59 : passe. 
+carlitros5 : suit. 75
+3mecbet : parole 
+*** FLOP *** [8d 7h 5h]
+carlitros5 : parole 
+3mecbet : parole 
+ELTIGROS1 : parole 
+*** TOURNANT *** [8d 7h 5h] [5d]
+carlitros5 : mise. 350
+3mecbet : suit. 350
+ELTIGROS1 : passe. 
+*** RIVIÈRE *** [8d 7h 5h 5d] [Kh]
+carlitros5 : mise. 406
+3mecbet : passe. 
+Personne n'a suivi. (406) sont retournés à carlitros5.
+carlitros5 a remporté 1230  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1230 | Commission 0 
+Tableau [8d 7h 5h 5d Kh]
+Siège 1 : 3mecbet (grosse blind) s'est couché. sur le Rivière
+Siège 2 : ELTIGROS1 s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : carlitros5 (petite blind) a remporté (1230)
+
+
+
+Main PokerStars n°237943888899 : Tournoi #3455189247, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 12/08/2022 15:44:18 CET [12/08/2022 9:44:18 ET]
+Table '3455189247 1' 4-max Siège #4 est au bouton.
+Place 1: 3mecbet (5005 en jetons) 
+Place 2: ELTIGROS1 (6350 en jetons) 
+Place 3: psychoman59 (4346 en jetons) 
+Place 4: carlitros5 (4299 en jetons) 
+3mecbet : met l'ante. 20
+ELTIGROS1 : met l'ante. 20
+psychoman59 : met l'ante. 20
+carlitros5 : met l'ante. 20
+3mecbet : met la petite blind. 75
+ELTIGROS1 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 5c]
+psychoman59 : passe. 
+carlitros5 : passe. 
+3mecbet : suit. 75
+ELTIGROS1 : relance. 300 à 450
+3mecbet : suit. 300
+*** FLOP *** [4c Qs Kc]
+3mecbet : parole 
+ELTIGROS1 : mise. 980
+3mecbet : passe. 
+Personne n'a suivi. (980) sont retournés à ELTIGROS1.
+ELTIGROS1 a remporté 980  lors du pot .
+ELTIGROS1 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 980 | Commission 0 
+Tableau [4c Qs Kc]
+Siège 1 : 3mecbet (petite blind) s'est couché. sur le Flop
+Siège 2 : ELTIGROS1 (grosse blind) a remporté (980)
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : carlitros5 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237943900442 : Tournoi #3455189247, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 15:45:05 CET [12/08/2022 9:45:05 ET]
+Table '3455189247 1' 4-max Siège #1 est au bouton.
+Place 1: 3mecbet (4535 en jetons) 
+Place 2: ELTIGROS1 (6860 en jetons) 
+Place 3: psychoman59 (4326 en jetons) 
+Place 4: carlitros5 (4279 en jetons) 
+3mecbet : met l'ante. 25
+ELTIGROS1 : met l'ante. 25
+psychoman59 : met l'ante. 25
+carlitros5 : met l'ante. 25
+ELTIGROS1 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 4h]
+carlitros5 : suit. 200
+3mecbet : passe. 
+ELTIGROS1 : suit. 100
+psychoman59 : parole 
+*** FLOP *** [7s 8h 9d]
+ELTIGROS1 : mise. 200
+psychoman59 : passe. 
+carlitros5 : relance. 1100 à 1300
+ELTIGROS1 : passe. 
+Personne n'a suivi. (1100) sont retournés à carlitros5.
+carlitros5 a remporté 1100  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1100 | Commission 0 
+Tableau [7s 8h 9d]
+Siège 1 : 3mecbet (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ELTIGROS1 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 4 : carlitros5 a remporté (1100)
+
+
+
+Main PokerStars n°237943913759 : Tournoi #3455189247, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 15:45:59 CET [12/08/2022 9:45:59 ET]
+Table '3455189247 1' 4-max Siège #2 est au bouton.
+Place 1: 3mecbet (4510 en jetons) 
+Place 2: ELTIGROS1 (6435 en jetons) 
+Place 3: psychoman59 (4101 en jetons) 
+Place 4: carlitros5 (4954 en jetons) 
+3mecbet : met l'ante. 25
+ELTIGROS1 : met l'ante. 25
+psychoman59 : met l'ante. 25
+carlitros5 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+carlitros5 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Ah]
+3mecbet : passe. 
+ELTIGROS1 : passe. 
+psychoman59 : relance. 500 à 700
+carlitros5 : passe. 
+Personne n'a suivi. (500) sont retournés à psychoman59.
+psychoman59 a remporté 500  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Siège 1 : 3mecbet s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ELTIGROS1 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (500)
+Siège 4 : carlitros5 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237943917699 : Tournoi #3455189247, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 15:46:15 CET [12/08/2022 9:46:15 ET]
+Table '3455189247 1' 4-max Siège #3 est au bouton.
+Place 1: 3mecbet (4485 en jetons) 
+Place 2: ELTIGROS1 (6410 en jetons) 
+Place 3: psychoman59 (4376 en jetons) 
+Place 4: carlitros5 (4729 en jetons) 
+3mecbet : met l'ante. 25
+ELTIGROS1 : met l'ante. 25
+psychoman59 : met l'ante. 25
+carlitros5 : met l'ante. 25
+carlitros5 : met la petite blind. 100
+3mecbet : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 4d]
+ELTIGROS1 : relance. 400 à 600
+psychoman59 : passe. 
+carlitros5 : passe. 
+3mecbet : suit. 400
+*** FLOP *** [7c Jc 6c]
+3mecbet : parole 
+ELTIGROS1 : parole 
+*** TOURNANT *** [7c Jc 6c] [4h]
+3mecbet : mise. 392
+ELTIGROS1 : suit. 392
+*** RIVIÈRE *** [7c Jc 6c 4h] [3c]
+3mecbet : mise. 800
+ELTIGROS1 : passe. 
+Personne n'a suivi. (800) sont retournés à 3mecbet.
+3mecbet a remporté 2184  lors du pot .
+3mecbet : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2184 | Commission 0 
+Tableau [7c Jc 6c 4h 3c]
+Siège 1 : 3mecbet (grosse blind) a remporté (2184)
+Siège 2 : ELTIGROS1 s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : carlitros5 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237943928277 : Tournoi #3455189247, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 15:46:59 CET [12/08/2022 9:46:59 ET]
+Table '3455189247 1' 4-max Siège #4 est au bouton.
+Place 1: 3mecbet (5652 en jetons) 
+Place 2: ELTIGROS1 (5393 en jetons) 
+Place 3: psychoman59 (4351 en jetons) 
+Place 4: carlitros5 (4604 en jetons) 
+3mecbet : met l'ante. 25
+ELTIGROS1 : met l'ante. 25
+psychoman59 : met l'ante. 25
+carlitros5 : met l'ante. 25
+3mecbet : met la petite blind. 100
+ELTIGROS1 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Th]
+psychoman59 : suit. 200
+carlitros5 : passe. 
+3mecbet : suit. 100
+ELTIGROS1 : parole 
+*** FLOP *** [4h 9h 5c]
+3mecbet : mise. 392
+ELTIGROS1 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (392) sont retournés à 3mecbet.
+3mecbet a remporté 700  lors du pot .
+3mecbet : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 700 | Commission 0 
+Tableau [4h 9h 5c]
+Siège 1 : 3mecbet (petite blind) a remporté (700)
+Siège 2 : ELTIGROS1 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 s'est couché. sur le Flop
+Siège 4 : carlitros5 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237943936918 : Tournoi #3455189247, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 12/08/2022 15:47:35 CET [12/08/2022 9:47:35 ET]
+Table '3455189247 1' 4-max Siège #1 est au bouton.
+Place 1: 3mecbet (6127 en jetons) 
+Place 2: ELTIGROS1 (5168 en jetons) 
+Place 3: psychoman59 (4126 en jetons) 
+Place 4: carlitros5 (4579 en jetons) 
+3mecbet : met l'ante. 25
+ELTIGROS1 : met l'ante. 25
+psychoman59 : met l'ante. 25
+carlitros5 : met l'ante. 25
+ELTIGROS1 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 7s]
+carlitros5 : passe. 
+3mecbet : relance. 240 à 440
+ELTIGROS1 : suit. 340
+psychoman59 : passe. 
+*** FLOP *** [5d Ad Js]
+ELTIGROS1 : parole 
+3mecbet : mise. 330
+ELTIGROS1 : suit. 330
+*** TOURNANT *** [5d Ad Js] [6s]
+ELTIGROS1 : parole 
+3mecbet : mise. 515
+ELTIGROS1 : relance. 515 à 1030
+3mecbet : suit. 515
+*** RIVIÈRE *** [5d Ad Js 6s] [4h]
+ELTIGROS1 : parole 
+3mecbet : parole 
+*** ABATTAGE ***
+ELTIGROS1 : montre [Jd Kh] (une paire de Valets)
+3mecbet : montre [2h Ac] (une paire de As)
+3mecbet a remporté 3900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3900 | Commission 0 
+Tableau [5d Ad Js 6s 4h]
+Siège 1 : 3mecbet (bouton) a montré [2h Ac] et a gagné (3900) avec une paire de As
+Siège 2 : ELTIGROS1 (petite blind) a montré [Jd Kh] et a perdu avec une paire de Valets
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : carlitros5 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237943949294 : Tournoi #3455189247, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 15:48:26 CET [12/08/2022 9:48:26 ET]
+Table '3455189247 1' 4-max Siège #2 est au bouton.
+Place 1: 3mecbet (8202 en jetons) 
+Place 2: ELTIGROS1 (3343 en jetons) 
+Place 3: psychoman59 (3901 en jetons) 
+Place 4: carlitros5 (4554 en jetons) 
+3mecbet : met l'ante. 30
+ELTIGROS1 : met l'ante. 30
+psychoman59 : met l'ante. 30
+carlitros5 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+carlitros5 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Qs]
+3mecbet : passe. 
+ELTIGROS1 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (125) sont retournés à carlitros5.
+carlitros5 a remporté 370  lors du pot .
+carlitros5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 370 | Commission 0 
+Siège 1 : 3mecbet s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ELTIGROS1 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : carlitros5 (grosse blind) a remporté (370)
+
+
+
+Main PokerStars n°237943960639 : Tournoi #3455189247, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 15:48:36 CET [12/08/2022 9:48:36 ET]
+Table '3455189247 1' 4-max Siège #3 est au bouton.
+Place 1: 3mecbet (8172 en jetons) 
+Place 2: ELTIGROS1 (3313 en jetons) 
+Place 3: psychoman59 (3746 en jetons) 
+Place 4: carlitros5 (4769 en jetons) 
+3mecbet : met l'ante. 30
+ELTIGROS1 : met l'ante. 30
+psychoman59 : met l'ante. 30
+carlitros5 : met l'ante. 30
+carlitros5 : met la petite blind. 125
+3mecbet : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 9s]
+ELTIGROS1 : passe. 
+psychoman59 : passe. 
+carlitros5 : suit. 125
+3mecbet : parole 
+*** FLOP *** [Kh 5s 9c]
+carlitros5 : parole 
+3mecbet : parole 
+*** TOURNANT *** [Kh 5s 9c] [Th]
+carlitros5 : parole 
+3mecbet : mise. 250
+carlitros5 : passe. 
+Personne n'a suivi. (250) sont retournés à 3mecbet.
+3mecbet a remporté 620  lors du pot .
+3mecbet : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Kh 5s 9c Th]
+Siège 1 : 3mecbet (grosse blind) a remporté (620)
+Siège 2 : ELTIGROS1 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : carlitros5 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237943976082 : Tournoi #3455189247, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 15:49:39 CET [12/08/2022 9:49:39 ET]
+Table '3455189247 1' 4-max Siège #4 est au bouton.
+Place 1: 3mecbet (8512 en jetons) 
+Place 2: ELTIGROS1 (3283 en jetons) 
+Place 3: psychoman59 (3716 en jetons) 
+Place 4: carlitros5 (4489 en jetons) 
+3mecbet : met l'ante. 30
+ELTIGROS1 : met l'ante. 30
+psychoman59 : met l'ante. 30
+carlitros5 : met l'ante. 30
+3mecbet : met la petite blind. 125
+ELTIGROS1 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 2s]
+psychoman59 : passe. 
+carlitros5 : passe. 
+3mecbet : relance. 8232 à 8482 et est all-in.
+ELTIGROS1 : passe. 
+Personne n'a suivi. (8232) sont retournés à 3mecbet.
+3mecbet a remporté 620  lors du pot .
+3mecbet : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 1 : 3mecbet (petite blind) a remporté (620)
+Siège 2 : ELTIGROS1 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : carlitros5 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237943982085 : Tournoi #3455189247, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 15:50:04 CET [12/08/2022 9:50:04 ET]
+Table '3455189247 1' 4-max Siège #1 est au bouton.
+Place 1: 3mecbet (8852 en jetons) 
+Place 2: ELTIGROS1 (3003 en jetons) 
+Place 3: psychoman59 (3686 en jetons) 
+Place 4: carlitros5 (4459 en jetons) 
+3mecbet : met l'ante. 30
+ELTIGROS1 : met l'ante. 30
+psychoman59 : met l'ante. 30
+carlitros5 : met l'ante. 30
+ELTIGROS1 : met la petite blind. 125
+psychoman59 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 8d]
+carlitros5 : passe. 
+3mecbet : passe. 
+ELTIGROS1 : relance. 2723 à 2973 et est all-in.
+psychoman59 : suit. 2723
+*** FLOP *** [5s 7c 3s]
+*** TOURNANT *** [5s 7c 3s] [Ad]
+*** RIVIÈRE *** [5s 7c 3s Ad] [9c]
+*** ABATTAGE ***
+ELTIGROS1 : montre [Ac 9d] (double paire, As et Neuf)
+psychoman59 : montre [Ah 8d] (une paire de As)
+ELTIGROS1 a remporté 6066  lors du pot .
+*** SYNTHÈSE ***
+Pot total 6066 | Commission 0 
+Tableau [5s 7c 3s Ad 9c]
+Siège 1 : 3mecbet (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ELTIGROS1 (petite blind) a montré [Ac 9d] et a gagné (6066) avec double paire, As et Neuf
+Siège 3 : psychoman59 (grosse blind) a montré [Ah 8d] et a perdu avec une paire de As
+Siège 4 : carlitros5 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237943987102 : Tournoi #3455189247, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (125/250) - 12/08/2022 15:50:25 CET [12/08/2022 9:50:25 ET]
+Table '3455189247 1' 4-max Siège #2 est au bouton.
+Place 1: 3mecbet (8822 en jetons) 
+Place 2: ELTIGROS1 (6066 en jetons) 
+Place 3: psychoman59 (683 en jetons) 
+Place 4: carlitros5 (4429 en jetons) 
+3mecbet : met l'ante. 30
+ELTIGROS1 : met l'ante. 30
+psychoman59 : met l'ante. 30
+carlitros5 : met l'ante. 30
+psychoman59 : met la petite blind. 125
+carlitros5 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 9s]
+3mecbet : passe. 
+ELTIGROS1 : passe. 
+psychoman59 : relance. 403 à 653 et est all-in.
+carlitros5 : suit. 403
+*** FLOP *** [Tc Ad 4c]
+*** TOURNANT *** [Tc Ad 4c] [Jh]
+*** RIVIÈRE *** [Tc Ad 4c Jh] [6h]
+*** ABATTAGE ***
+psychoman59 : montre [Kc 9s] (Hauteur As)
+carlitros5 : montre [5d 4s] (une paire de Quatre)
+carlitros5 a remporté 1426  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 1426 | Commission 0 
+Tableau [Tc Ad 4c Jh 6h]
+Siège 1 : 3mecbet s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ELTIGROS1 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Kc 9s] et a perdu avec Hauteur As
+Siège 4 : carlitros5 (grosse blind) a montré [5d 4s] et a gagné (1426) avec une paire de Quatre
+
+
+

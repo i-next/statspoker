@@ -1,0 +1,62 @@
+﻿Main PokerStars n°238601061546 : Tournoi #3470653723, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 17:24:20 CET [13/09/2022 11:24:20 ET]
+Table '3470653723 1' 3-max Siège #1 est au bouton.
+Place 1: celiadiaz69 (300 en jetons) 
+Place 2: dédé///M3 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+dédé///M3 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ah]
+celiadiaz69 : passe. 
+dédé///M3 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jc Ks Jh]
+dédé///M3 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jc Ks Jh] [8c]
+dédé///M3 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à dédé///M3.
+dédé///M3 a remporté 40  lors du pot .
+dédé///M3 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Jc Ks Jh 8c]
+Siège 1 : celiadiaz69 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : dédé///M3 (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°238601066978 : Tournoi #3470653723, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/09/2022 17:24:39 CET [13/09/2022 11:24:39 ET]
+Table '3470653723 1' 3-max Siège #2 est au bouton.
+Place 1: celiadiaz69 (300 en jetons) 
+Place 2: dédé///M3 (320 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+celiadiaz69 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Qs]
+dédé///M3 : relance. 20 à 40
+psychoman59 : relance. 240 à 280 et est all-in.
+celiadiaz69 : relance. 20 à 300 et est all-in.
+dédé///M3 : suit. 260
+*** FLOP *** [7h 6s 2h]
+*** TOURNANT *** [7h 6s 2h] [Jh]
+*** RIVIÈRE *** [7h 6s 2h Jh] [7c]
+*** ABATTAGE ***
+celiadiaz69 : montre [Jc Jd] (un full, full aux Valets par les Sept)
+dédé///M3 : montre [5h Ad] (une paire de Sept)
+celiadiaz69 a remporté 40  parallèle lors du pot .
+psychoman59 : montre [Ah Qs] (une paire de Sept)
+celiadiaz69 a remporté 840  principal lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 880 Principal pot 840. Parallèle pot 40. | Commission 0 
+Tableau [7h 6s 2h Jh 7c]
+Siège 1 : celiadiaz69 (grosse blind) a montré [Jc Jd] et a gagné (880) avec un full, full aux Valets par les Sept
+Siège 2 : dédé///M3 (bouton) a montré [5h Ad] et a perdu avec une paire de Sept
+Siège 3 : psychoman59 (petite blind) a montré [Ah Qs] et a perdu avec une paire de Sept
+
+
+

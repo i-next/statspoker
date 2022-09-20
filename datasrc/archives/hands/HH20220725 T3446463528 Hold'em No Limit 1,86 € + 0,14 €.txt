@@ -1,0 +1,158 @@
+﻿Main PokerStars n°237575505920 : Tournoi #3446463528, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 15:18:47 CET [25/07/2022 9:18:47 ET]
+Table '3446463528 1' 3-max Siège #1 est au bouton.
+Place 1: audrey567 (300 en jetons) 
+Place 2: Doninoshark (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Doninoshark : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Qd]
+audrey567 : relance. 20 à 40
+Doninoshark : passe. 
+psychoman59 : suit. 20
+*** FLOP *** [5h 4s 4c]
+psychoman59 : parole 
+audrey567 : parole 
+*** TOURNANT *** [5h 4s 4c] [Js]
+psychoman59 : parole 
+audrey567 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à audrey567.
+audrey567 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [5h 4s 4c Js]
+Siège 1 : audrey567 (bouton) a remporté (90)
+Siège 2 : Doninoshark (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°237575511239 : Tournoi #3446463528, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 15:19:11 CET [25/07/2022 9:19:11 ET]
+Table '3446463528 1' 3-max Siège #2 est au bouton.
+Place 1: audrey567 (350 en jetons) 
+Place 2: Doninoshark (290 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+psychoman59 : met la petite blind. 10
+audrey567 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 9s]
+Doninoshark : relance. 20 à 40
+psychoman59 : passe. 
+audrey567 : suit. 20
+*** FLOP *** [As Tc 5d]
+audrey567 : parole 
+Doninoshark : mise. 45
+audrey567 : passe. 
+Personne n'a suivi. (45) sont retournés à Doninoshark.
+Doninoshark a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [As Tc 5d]
+Siège 1 : audrey567 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Doninoshark (bouton) a remporté (90)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°237575519342 : Tournoi #3446463528, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 25/07/2022 15:19:47 CET [25/07/2022 9:19:47 ET]
+Table '3446463528 1' 3-max Siège #3 est au bouton.
+Place 1: audrey567 (310 en jetons) 
+Place 2: Doninoshark (340 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+audrey567 : met la petite blind. 10
+Doninoshark : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 7s]
+psychoman59 : passe. 
+audrey567 : suit. 10
+Doninoshark : parole 
+*** FLOP *** [5d 8d 9d]
+audrey567 : mise. 20
+Doninoshark : suit. 20
+*** TOURNANT *** [5d 8d 9d] [Ts]
+audrey567 : parole 
+Doninoshark : parole 
+*** RIVIÈRE *** [5d 8d 9d Ts] [4d]
+audrey567 : mise. 80
+Doninoshark : suit. 80
+*** ABATTAGE ***
+audrey567 : montre [Kd 8h] (une couleur, hauteur Roi)
+Doninoshark : cache la main perdante. 
+audrey567 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [5d 8d 9d Ts 4d]
+Siège 1 : audrey567 (petite blind) a montré [Kd 8h] et a gagné (240) avec une couleur, hauteur Roi
+Siège 2 : Doninoshark (grosse blind) a caché la main perdante. [4s Jd]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°237575527505 : Tournoi #3446463528, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 15:20:23 CET [25/07/2022 9:20:23 ET]
+Table '3446463528 1' 3-max Siège #1 est au bouton.
+Place 1: audrey567 (430 en jetons) 
+Place 2: Doninoshark (220 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+Doninoshark : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 3d]
+audrey567 : passe. 
+Doninoshark : suit. 15
+psychoman59 : parole 
+*** FLOP *** [8h Jc Jh]
+Doninoshark : mise. 30
+psychoman59 : relance. 190 à 220 et est all-in.
+Doninoshark : suit. 160 et est all-in.
+Personne n'a suivi. (30) sont retournés à psychoman59.
+*** TOURNANT *** [8h Jc Jh] [5c]
+*** RIVIÈRE *** [8h Jc Jh 5c] [3s]
+*** ABATTAGE ***
+Doninoshark : montre [7d Jd] (un brelan de Valets)
+psychoman59 : montre [8s 3d] (double paire, Valets et Huit)
+Doninoshark a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [8h Jc Jh 5c 3s]
+Siège 1 : audrey567 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Doninoshark (petite blind) a montré [7d Jd] et a gagné (440) avec un brelan de Valets
+Siège 3 : psychoman59 (grosse blind) a montré [8s 3d] et a perdu avec double paire, Valets et Huit
+
+
+
+Main PokerStars n°237575532431 : Tournoi #3446463528, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 25/07/2022 15:20:45 CET [25/07/2022 9:20:45 ET]
+Table '3446463528 1' 3-max Siège #2 est au bouton.
+Place 1: audrey567 (430 en jetons) 
+Place 2: Doninoshark (440 en jetons) 
+Place 3: psychoman59 (30 en jetons) 
+psychoman59 : met la petite blind. 15
+audrey567 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 2h]
+Doninoshark : suit. 30
+psychoman59 : suit. 15 et est all-in.
+audrey567 : parole 
+*** FLOP *** [5h 9s 9h]
+audrey567 : parole 
+Doninoshark : parole 
+*** TOURNANT *** [5h 9s 9h] [Jd]
+audrey567 : parole 
+Doninoshark : parole 
+*** RIVIÈRE *** [5h 9s 9h Jd] [Ad]
+audrey567 : parole 
+Doninoshark : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Th 2h] (une paire de Neuf)
+audrey567 : montre [3c Qs] (une paire de Neuf - As+Dame kicker)
+Doninoshark : montre [2s Kc] (une paire de Neuf - As+Roi kicker)
+Doninoshark a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [5h 9s 9h Jd Ad]
+Siège 1 : audrey567 (grosse blind) a montré [3c Qs] et a perdu avec une paire de Neuf
+Siège 2 : Doninoshark (bouton) a montré [2s Kc] et a gagné (90) avec une paire de Neuf
+Siège 3 : psychoman59 (petite blind) a montré [Th 2h] et a perdu avec une paire de Neuf
+
+
+
