@@ -1,0 +1,46 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Plant{% endblock %}
+
+{% block body %}
+    <div class="container">
+        <section id="main-content">
+            <section class="wrapper">
+                <h1>Plant</h1>
+
+                <table class="table">
+                    <tbody>
+                    <tr>
+                        <th>Name</th>
+                        <td>{{ plant.seed.name }}</td>
+                    </tr>
+                    <tr>
+                        <th>Date_updated</th>
+                        <td>{{ plant.dateUpdated ? plant.dateUpdated|date('Y-m-d') : '' }}</td>
+                    </tr>
+                    <tr>
+                        <th>Status</th>
+                        <td>{{ plant.status }}</td>
+                    </tr>
+                    {% if plant.comment is not null %}
+                        <tr>
+                            <th>Date Récolte</th>
+                            <td>{{ plant.comment }}</td>
+                        </tr>
+                    {% endif %}
+                    <tr>
+                        <th>Qty</th>
+                        <td>{{ plant.qty }}</td>
+                    </tr>
+                    </tbody>
+                </table>
+
+                <a href="{{ path('app_plant_index') }}">back to list</a>
+
+                <a href="{{ path('app_plant_edit', {'id': plant.id}) }}">edit</a>
+
+                {{ include('plant/_delete_form.html.twig') }}
+            </section>
+        </section>
+    </div>
+{% endblock %}

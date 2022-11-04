@@ -63,3 +63,37 @@ fos_elastica:
             settings:
                 index:
                     max_result_window: 5000000
+
+        plants:
+            properties:
+                seed.name: { 'type': 'text',
+                             'fielddata': true }
+                seed.duration: ~
+                seed.quantity: ~
+                qty: ~
+                status: { 'type': 'text',
+                          'fielddata': true }
+                date_updated: ~
+                comment: ~
+            persistence:
+                driver: orm
+                model: App\Entity\Plant
+            finder: ~
+            settings:
+                index:
+                    max_result_window: 5000000
+
+        seeds:
+            properties:
+                name: { 'type': 'text',
+                             'fielddata': true }
+                duration: ~
+                quantity: ~
+                commentaire: ~
+            persistence:
+                driver: orm
+                model: App\Entity\Seed
+            finder: ~
+            settings:
+                index:
+                    max_result_window: 5000000

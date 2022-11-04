@@ -33,3 +33,15 @@ services:
         public: true
         arguments:
             - '@fos_elastica.finder.my_hands'
+
+    App\Controller\PlantController:
+        tags: ['controller.service_arguments']
+        public: true
+        arguments:
+            - '@fos_elastica.finder.plants'
+
+    App\Controller\SeedController:
+        tags: ['controller.service_arguments']
+        public: true
+        arguments:
+            - '@fos_elastica.finder.seeds'

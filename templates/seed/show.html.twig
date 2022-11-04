@@ -1,0 +1,44 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Seed{% endblock %}
+
+{% block body %}
+    <div class="container">
+        <section id="main-content">
+            <section class="wrapper">
+                <h1>Seed</h1>
+
+                <table class="table">
+                    <tbody>
+                    <tr>
+                        <th>Id</th>
+                        <td>{{ seed.id }}</td>
+                    </tr>
+                    <tr>
+                        <th>Name</th>
+                        <td>{{ seed.name }}</td>
+                    </tr>
+                    <tr>
+                        <th>Duration</th>
+                        <td>{{ seed.duration }}</td>
+                    </tr>
+                    <tr>
+                        <th>Quantity</th>
+                        <td>{{ seed.quantity }}</td>
+                    </tr>
+                    <tr>
+                        <th>Commentaire</th>
+                        <td>{{ seed.commentaire }}</td>
+                    </tr>
+                    </tbody>
+                </table>
+
+                <a href="{{ path('app_seed') }}">back to list</a>
+
+                <a href="{{ path('app_seed_edit', {'id': seed.id}) }}">edit</a>
+
+                {{ include('seed/_delete_form.html.twig') }}
+            </section>
+        </section>
+    </div>
+{% endblock %}

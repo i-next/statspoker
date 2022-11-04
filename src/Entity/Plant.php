@@ -13,73 +13,28 @@ class Plant
     #[ORM\Column(type: 'integer')]
     private $id;
 
-    #[ORM\Column(type: 'string', length: 255)]
-    private $name;
-
-    #[ORM\Column(type: 'smallint')]
-    private $duration;
-
-    #[ORM\Column(type: 'date')]
-    private $dateflo;
-
-    #[ORM\Column(type: 'date')]
-    private $daterec;
-
     #[ORM\Column(type: 'smallint', nullable: true)]
     private $qty;
+
+    #[ORM\ManyToOne(targetEntity: Seed::class, inversedBy: 'plants')]
+    #[ORM\JoinColumn(nullable: false)]
+    private $seed;
+
+    #[ORM\Column(type: 'date')]
+    private $date_updated;
+
+    #[ORM\Column(type: 'string', length: 255, nullable: true)]
+    private $status;
+
+    #[ORM\Column(type: 'string', length: 255, nullable: true)]
+    private $comment;
 
     public function getId(): ?int
     {
         return $this->id;
     }
 
-    public function getName(): ?string
-    {
-        return $this->name;
-    }
-
-    public function setName(string $name): self
-    {
-        $this->name = $name;
-
-        return $this;
-    }
-
-    public function getDuration(): ?int
-    {
-        return $this->duration;
-    }
-
-    public function setDuration(int $duration): self
-    {
-        $this->duration = $duration;
-
-        return $this;
-    }
-
-    public function getDateflo(): ?\DateTimeInterface
-    {
-        return $this->dateflo;
-    }
-
-    public function setDateflo(\DateTimeInterface $dateflo): self
-    {
-        $this->dateflo = $dateflo;
-
-        return $this;
-    }
-
-    public function getDaterec(): ?\DateTimeInterface
-    {
-        return $this->daterec;
-    }
-
-    public function setDaterec(\DateTimeInterface $daterec): self
-    {
-        $this->daterec = $daterec;
-
-        return $this;
-    }
+    
 
     public function getQty(): ?int
     {
@@ -92,4 +47,58 @@ class Plant
 
         return $this;
     }
+
+    public function getSeed(): ?Seed
+    {
+        return $this->seed;
+    }
+
+    public function setSeed(?Seed $seed): self
+    {
+        $this->seed = $seed;
+
+        return $this;
+    }
+
+    public function getDateUpdated(): ?\DateTimeInterface
+    {
+        return $this->date_updated;
+    }
+
+    public function setDateUpdated(\DateTimeInterface $date_updated): self
+    {
+        $this->date_updated = $date_updated;
+
+        return $this;
+    }
+
+    public function getStatus(): ?string
+    {
+        return $this->status;
+    }
+
+    public function setStatus(?string $status): self
+    {
+        $this->status = $status;
+
+        return $this;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getComment()
+    {
+        return $this->comment;
+    }
+
+    /**
+     * @param mixed $comment
+     */
+    public function setComment($comment)
+    {
+        $this->comment = $comment;
+    }
+
+
 }

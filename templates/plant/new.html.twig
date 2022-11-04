@@ -1,0 +1,17 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}New Plant{% endblock %}
+
+{% block body %}
+    <div class="container">
+        <section id="main-content">
+            <section class="wrapper">
+                <h1>Create new Plant</h1>
+
+                {{ include('plant/_form.html.twig') }}
+
+                <a href="{{ path('app_plant_index') }}">back to list</a>
+            </section>
+        </section>
+    </div>
+{% endblock %}

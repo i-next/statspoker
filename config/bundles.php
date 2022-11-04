@@ -12,4 +12,5 @@ return [
     Symfony\UX\Chartjs\ChartjsBundle::class => ['all' => true],
     KevinPapst\TablerBundle\TablerBundle::class => ['all' => true],
     FOS\ElasticaBundle\FOSElasticaBundle::class => ['all' => true],
+    Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle::class => ['all' => true],
 ];

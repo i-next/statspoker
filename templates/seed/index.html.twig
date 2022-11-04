@@ -1,0 +1,48 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Seed index{% endblock %}
+{% block javascripts %}
+    {{ parent() }}
+{% endblock %}
+{% block body %}
+    <div class="container">
+        <section id="main-content">
+            <section class="wrapper">
+
+                <table class="table">
+                    <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Name</th>
+                        <th>Duration</th>
+                        <th>Quantity</th>
+                        <th>Commentaire</th>
+                        <th>actions</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {% for seed in seeds %}
+                        <tr>
+                            <td>{{ seed.id }}</td>
+                            <td>{{ seed.name }}</td>
+                            <td>{{ seed.duration }}</td>
+                            <td>{{ seed.quantity }}</td>
+                            <td>{{ seed.commentaire }}</td>
+                            <td>
+                                <a href="{{ path('app_seed_show', {'id': seed.id}) }}">show</a>
+                                <a href="{{ path('app_seed_edit', {'id': seed.id}) }}">edit</a>
+                            </td>
+                        </tr>
+                    {% else %}
+                        <tr>
+                            <td colspan="6">no records found</td>
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+
+                <a href="{{ path('app_seed_new') }}">Create new</a>
+            </section>
+        </section>
+    </div>
+{% endblock %}

@@ -1,0 +1,17 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}New Seed{% endblock %}
+
+{% block body %}
+<div class="container">
+    <section id="main-content">
+        <section class="wrapper">
+    <h1>Create new Seed</h1>
+
+    {{ include('seed/_form.html.twig') }}
+
+    <a href="{{ path('app_seed') }}">back to list</a>
+        </section>
+    </section>
+</div>
+{% endblock %}

@@ -1,0 +1,19 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Edit Seed{% endblock %}
+
+{% block body %}
+    <div class="container">
+        <section id="main-content">
+            <section class="wrapper">
+                <h1>Edit Seed</h1>
+
+                {{ include('seed/_form.html.twig', {'button_label': 'Update'}) }}
+
+                <a href="{{ path('app_seed') }}">back to list</a>
+
+                {{ include('seed/_delete_form.html.twig') }}
+            </section>
+        </section>
+    </div>
+{% endblock %}
