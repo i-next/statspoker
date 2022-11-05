@@ -3,6 +3,9 @@
 namespace App\Form;
 
 use App\Entity\Plant;
+use App\Entity\Seed;
+use Symfony\Bridge\Doctrine\Form\Type\EntityType;
+use Doctrine\ORM\EntityRepository;
 use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\FormBuilderInterface;
 use Symfony\Component\OptionsResolver\OptionsResolver;
@@ -23,7 +26,13 @@ class PlantType extends AbstractType
                     'Recolte'       => 'Recolte'
                 ]
             ])
-            ->add('seed')
+            ->add('seed', EntityType::class,[
+                'class' => Seed::class,
+                'query_builder' => function (EntityRepository $er) {
+                    return $er->createQueryBuilder('s')
+                        ->orderBy('s.name', 'ASC');
+                }
+            ])
         ;
     }
 

@@ -18,6 +18,7 @@ class Plant
 
     #[ORM\ManyToOne(targetEntity: Seed::class, inversedBy: 'plants')]
     #[ORM\JoinColumn(nullable: false)]
+    #[ORM\OrderBy(["name" => "ASC"])]
     private $seed;
 
     #[ORM\Column(type: 'date')]

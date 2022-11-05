@@ -25,7 +25,7 @@ class TournoiController extends AbstractController
     {
         //$results = $tournoiResultRepository->findBy([],['buyin'=>'ASC']);
         $query = new Query();
-        $query->setSort(['buyin' => 'ASC','prizepool' => 'ASC']);
+        $query->setSort(['buyin' => 'ASC','prizepool' => 'asc']);
         $query->setSize(500);
         $boolQuery = new Query\BoolQuery();
         $fieldQuery = new Query\MatchQuery();

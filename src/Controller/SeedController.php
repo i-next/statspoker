@@ -10,14 +10,14 @@ use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Annotation\Route;
-use FOS\ElasticaBundle\Finder\PaginatedFinderInterface;
+use FOS\ElasticaBundle\Finder\FinderInterface;
 
 #[Route('/seeds')]
 class SeedController extends AbstractController
 {
     private $finder;
 
-    public function __construct(PaginatedFinderInterface $finder)
+    public function __construct(FinderInterface $finder)
     {
         $this->finder = $finder;
     }
@@ -26,7 +26,7 @@ class SeedController extends AbstractController
     public function index(SeedRepository $seedRepository): Response
     {
         $query = new Query();
-        $query->setSort(['name' => 'ASC']);
+        $query->addSort(['name' => 'asc']);
         $result = $this->finder->find($query);
         return $this->render('seed/index.html.twig', [
             'seeds' => $result,

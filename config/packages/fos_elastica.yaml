@@ -85,8 +85,7 @@ fos_elastica:
 
         seeds:
             properties:
-                name: { 'type': 'text',
-                             'fielddata': true }
+                name: { 'type': 'keyword' }
                 duration: ~
                 quantity: ~
                 commentaire: ~
