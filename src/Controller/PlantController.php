@@ -5,6 +5,7 @@ namespace App\Controller;
 use App\Entity\Plant;
 use App\Form\PlantType;
 use App\Repository\PlantRepository;
+use App\Repository\SeedRepository;
 use Elastica\Query;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Request;
@@ -16,6 +17,8 @@ use FOS\ElasticaBundle\Finder\PaginatedFinderInterface;
 class PlantController extends AbstractController
 {
     private CONST FLO_STATUS = 'Floraison';
+
+    private CONST GER_STATUS = 'Germination';
 
     private $finder;
 
@@ -38,13 +41,18 @@ class PlantController extends AbstractController
     }
 
     #[Route('/new', name: 'app_plant_new', methods: ['GET', 'POST'])]
-    public function new(Request $request, PlantRepository $plantRepository): Response
+    public function new(Request $request, PlantRepository $plantRepository, SeedRepository $seedRepository): Response
     {
         $plant = new Plant();
         $form = $this->createForm(PlantType::class, $plant);
         $form->handleRequest($request);
 
         if ($form->isSubmitted() && $form->isValid()) {
+            if($form->getData()->getStatus() === self::GER_STATUS){
+                $seed = $form->getData()->getSeed();
+                $seed->setQuantity($seed->getQuantity()-1);
+                $seedRepository->add($seed);
+            }
             $plantRepository->add($plant);
             return $this->redirectToRoute('app_plant_index', [], Response::HTTP_SEE_OTHER);
         }

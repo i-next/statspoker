@@ -7,6 +7,7 @@ use App\Entity\Seed;
 use Symfony\Bridge\Doctrine\Form\Type\EntityType;
 use Doctrine\ORM\EntityRepository;
 use Symfony\Component\Form\AbstractType;
+use Symfony\Component\Form\Extension\Core\Type\DateType;
 use Symfony\Component\Form\FormBuilderInterface;
 use Symfony\Component\OptionsResolver\OptionsResolver;
 use Symfony\Component\Form\Extension\Core\Type\ChoiceType;
@@ -17,8 +18,10 @@ class PlantType extends AbstractType
     {
         $builder
             ->add('qty')
-            ->add('date_updated')
-            ->add('status', ChoiceType::class,[
+            ->add('date_updated', DateType::class, [
+                'data' => new \DateTime(),
+            ])
+            ->add('status', ChoiceType::class, [
                 'choices' => [
                     'Germination'   => 'Germination',
                     'Croissance'    => 'Croissance',
