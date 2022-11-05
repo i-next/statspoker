@@ -21,7 +21,16 @@
                     </thead>
                     <tbody>
                     {% for plant in plants %}
-                        <tr>
+                        {% if plant.status == 'Germination'  %}
+                            {% set state = 'info' %}
+                        {% elseif plant.status == 'Croissance' %}
+                            {% set state = 'success' %}
+                        {% elseif plant.status == 'Floraison' %}
+                            {% set state = 'warning' %}
+                        {% elseif plant.status == 'Recolte' %}
+                            {% set state = 'danger' %}
+                        {% endif %}
+                        <tr class="table-{{ state }}">
                             <td>{{ plant.seed.name }}({{ plant.seed.duration }})</td>
                             <td>{{ plant.status }}</td>
                             <td>{{ plant.dateUpdated ? plant.dateUpdated|date('Y-m-d') : '' }}</td>
