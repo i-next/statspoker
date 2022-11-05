@@ -33,6 +33,7 @@ class PlantController extends AbstractController
     {
         $query = new Query();
         $query->setSort(['status' => 'ASC', 'seed.name' => 'ASC']);
+        $query->setSize(500);
         $result = $this->finder->find($query);
         return $this->render('plant/index.html.twig', [
             'plants' => $result,

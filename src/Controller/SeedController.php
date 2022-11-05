@@ -27,6 +27,7 @@ class SeedController extends AbstractController
     {
         $query = new Query();
         $query->addSort(['name' => 'asc']);
+        $query->setSize(500);
         $result = $this->finder->find($query);
         return $this->render('seed/index.html.twig', [
             'seeds' => $result,
