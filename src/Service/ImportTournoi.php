@@ -111,7 +111,6 @@ class ImportTournoi
         $dateString = $this->dataService->get_string_between($fileData->getFilename(), 'TS', ' T');
         $date = \DateTime::createFromFormat('Ymd', $dateString);
         $tournoi->setDate($date);
-        dump($tournoi);die;
         $this->entityManager->persist($tournoi);
         $this->entityManager->flush();
         return $tournoi;
