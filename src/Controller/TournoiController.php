@@ -45,6 +45,7 @@ class TournoiController extends AbstractController
         }
 
         $queryTournois = new Query();
+        $queryTournois->setSize(500000);
         $queryTournois->setSort(['date'=>'ASC']);
         $tournois =$this->indexManager->getIndex('tournois')->search($queryTournois)->getResults();
         $tournoisGains = [];
