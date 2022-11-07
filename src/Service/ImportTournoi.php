@@ -92,7 +92,11 @@ class ImportTournoi
                     $tournoi->setTicket(false);
                 } elseif(str_contains($data, 'Ticket')) {
                     $tournoi->setTicket(true);
-                    $tournoi->setMoney(str_replace(',', '.', $this->dataService->get_string_between($data, '€', ')')));
+                    $money = str_replace(',', '.', $this->dataService->get_string_between($data, '€', ')'));
+                    if(strlen($money) > 10){
+                        $money = str_replace(',', '.', $this->dataService->get_string_between($data, '(€', ' '));
+                    }
+                    $tournoi->setMoney($money);
                 }else{
                     $tournoi->setMoney(-$tournoi->getBuyin());
                     $tournoi->setTicket(false);
@@ -107,7 +111,6 @@ class ImportTournoi
         $dateString = $this->dataService->get_string_between($fileData->getFilename(), 'TS', ' T');
         $date = \DateTime::createFromFormat('Ymd', $dateString);
         $tournoi->setDate($date);
-
         $this->entityManager->persist($tournoi);
         $this->entityManager->flush();
         return $tournoi;
