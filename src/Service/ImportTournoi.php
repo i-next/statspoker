@@ -51,12 +51,12 @@ class ImportTournoi
             if (str_contains($data, 'Freeroll')) {
                 $tournoi->setBuyin(0);
             }
-            if (str_contains($data, 'Buy-in')) {
+            if (str_contains($data, 'Buy-in') && !str_contains($data, 'cible')) {
                 $buyin1 = $this->dataService->get_string_between($data, '€', '/');
                 $buyin2 = $this->dataService->get_string_between($data, '/€', ' EUR');
                 $buyin = (float)$buyin1 + (float)$buyin2;
                 //$buyin = floatval((float)$buyin1+$buyin2);
-                //dump($buyin);
+                dump($buyin);
                 $tournoi->setBuyin($buyin);
             }
             if (str_contains($data, 'joueurs')) {

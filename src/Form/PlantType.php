@@ -33,7 +33,8 @@ class PlantType extends AbstractType
                 'class' => Seed::class,
                 'query_builder' => function (EntityRepository $er) {
                     return $er->createQueryBuilder('s')
-                        ->orderBy('s.name', 'ASC');
+                        ->orderBy('s.name', 'ASC')
+                        ->Where('s.quantity > 0');
                 }
             ])
         ;

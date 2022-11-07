@@ -71,7 +71,7 @@ class SeedController extends AbstractController
 
         if ($form->isSubmitted() && $form->isValid()) {
             $seedRepository->add($seed);
-            return $this->redirectToRoute('app_seed_index', [], Response::HTTP_SEE_OTHER);
+            return $this->redirectToRoute('app_seed', [], Response::HTTP_SEE_OTHER);
         }
 
         return $this->renderForm('seed/edit.html.twig', [
@@ -88,6 +88,6 @@ class SeedController extends AbstractController
             $seedRepository->remove($seed);
         }
 
-        return $this->redirectToRoute('app_seed_index', [], Response::HTTP_SEE_OTHER);
+        return $this->redirectToRoute('app_seed', [], Response::HTTP_SEE_OTHER);
     }
 }

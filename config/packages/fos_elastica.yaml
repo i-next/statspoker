@@ -51,6 +51,7 @@ fos_elastica:
                          'fielddata': true }
                 prizepool: { 'type': 'text',
                              'fielddata': true }
+                date: { 'type': 'date' }
                 win: ~
                 nbplayer: ~
                 position: ~

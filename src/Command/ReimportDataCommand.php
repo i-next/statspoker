@@ -51,7 +51,7 @@ class ReimportDataCommand extends Command
 
     protected function configure(): void
     {
-//UPDATE `cards` SET `mycard`=0,`flopcard`=0,`turncard`=0,`rivercars`=0 WHERE 1;
+
     }
 
     protected function execute(InputInterface $input, OutputInterface $output): int

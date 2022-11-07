@@ -10,37 +10,43 @@ use Symfony\Component\Routing\Annotation\Route;
 use App\Repository\TournoiRepository;
 use App\Repository\TournoiResultRepository;
 use FOS\ElasticaBundle\Finder\PaginatedFinderInterface;
+use FOS\ElasticaBundle\Index\IndexManager;
+use Symfony\Component\Validator\Constraints\Date;
+use DateTimeInterface;
+
 
 class TournoiController extends AbstractController
 {
     private $finder;
 
-    public function __construct(PaginatedFinderInterface $finder)
+    private $indexManager;
+
+    public function __construct(PaginatedFinderInterface $finder, IndexManager $indexManager)
     {
         $this->finder = $finder;
+        $this->indexManager = $indexManager;
     }
 
     #[Route('/tournoi', name: 'app_tournoi')]
     public function index(TournoiRepository $tournoiRepository, TournoiResultRepository $tournoiResultRepository): Response
     {
-        //$results = $tournoiResultRepository->findBy([],['buyin'=>'ASC']);
+
         $query = new Query();
         $query->setSort(['buyin' => 'ASC','prizepool' => 'asc']);
         $query->setSize(500);
-        $boolQuery = new Query\BoolQuery();
         $fieldQuery = new Query\MatchQuery();
         $fieldQuery->setFieldQuery('ticket', 'false');
-        //$boolQuery->addMust($boolQuery);
         $query->setQuery($fieldQuery);
         $results = $this->finder->find($query);
-        //$results = $this->finder->find('*');
-        //dump($results);die;
         $allRanges = [];
 
         foreach ($results as $result){
             $allRanges[$result->getIdentifiant().'('.$result->getNbtour().')'] = $result->getWin() / $result->getNbtour();
         }
-        $tournois = $tournoiRepository->findBy([],['date'=>'ASC']);
+
+        $queryTournois = new Query();
+        $queryTournois->setSort(['date'=>'ASC']);
+        $tournois =$this->indexManager->getIndex('tournois')->search($queryTournois)->getResults();
         $tournoisGains = [];
         $tournoisWinGame[0] = 0;
         $tournoiWinResult = [];
@@ -48,31 +54,33 @@ class TournoiController extends AbstractController
         $tournoiWinPerMonth = [];
         $gain = 0;
         $i = 1;
-        foreach($tournois as $key=>$tournoi){
-            if(!array_key_exists($tournoi->getDate()->format('d/m/Y'),$tournoiWinPerDay)){
-                $tournoiWinPerDay[$tournoi->getDate()->format('d/m/Y')] = 0;
-            }
-            if(!array_key_exists($tournoi->getDate()->format('m/Y'),$tournoiWinPerMonth)){
-                $tournoiWinPerMonth[$tournoi->getDate()->format('m/Y')] = 0;
-            }
-            $tournoiWinPerMonth[$tournoi->getDate()->format('m/Y')] += $tournoi->getMoney();
+        foreach($tournois as $key=>$tournoiEs){
 
-            if($tournoi->getWin()){
-                $gain += $tournoi->getPrizepool();
-                $tournoiWinPerDay[$tournoi->getDate()->format('d/m/Y')] += $tournoi->getPrizepool();
+            $tournoiData = $tournoiEs->getData();
+            $tournoiDate = new \DateTime();
+            $tournoiDate->createFromFormat(DateTimeInterface::ATOM,$tournoiData['date']);
+            if(!array_key_exists($tournoiDate->format('d/m/Y'),$tournoiWinPerDay)){
+                $tournoiWinPerDay[$tournoiDate->format('d/m/Y')] = 0;
+            }
+            if(!array_key_exists($tournoiDate->format('m/Y'),$tournoiWinPerMonth)){
+                $tournoiWinPerMonth[$tournoiDate->format('m/Y')] = 0;
+            }
+            $tournoiWinPerMonth[$tournoiDate->format('m/Y')] += $tournoiData['money'];
+
+            if($tournoiData['win']){
+                $gain += $tournoiData['money'];
+                $tournoiWinPerDay[$tournoiDate->format('d/m/Y')] += $tournoiData['prizepool'];
 
                 $tournoisWinGame[$i] = $tournoisWinGame[$i-1] + 1;
             }else{
-                $gain -= $tournoi->getBuyin();
-                $tournoiWinPerDay[$tournoi->getDate()->format('d/m/Y')] -= $tournoi->getBuyin();
-                //$tournoiWinPerMonth[$tournoi->getDate()->format('m/Y')] -= $tournoi->getBuyin();
+                $gain -= $tournoiData['buyin'];
+                $tournoiWinPerDay[$tournoiDate->format('d/m/Y')] -=$tournoiData['buyin'];
                 $tournoisWinGame[$i] = $tournoisWinGame[$i-1] - 1;
             }
             $tournoiWinResult['tournoi'.$i] = $tournoisWinGame[$i];
             $i++;
             $tournoisGains['tournoi'.$key] = $gain;
         }
-        //dump($tournoiWinResult);die;
         return $this->render('tournoi/index.html.twig', [
             'controller_name'       => 'TournoiController',
             'menu_active'           => 'tournoi',
