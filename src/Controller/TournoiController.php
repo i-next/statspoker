@@ -34,9 +34,9 @@ class TournoiController extends AbstractController
         $query = new Query();
         $query->setSort(['buyin' => 'ASC','prizepool' => 'asc']);
         $query->setSize(500);
-        $fieldQuery = new Query\MatchQuery();
+        /*$fieldQuery = new Query\MatchQuery();
         $fieldQuery->setFieldQuery('ticket', 'false');
-        $query->setQuery($fieldQuery);
+        $query->setQuery($fieldQuery);*/
         $results = $this->finder->find($query);
         $allRanges = [];
 
@@ -58,7 +58,7 @@ class TournoiController extends AbstractController
 
             $tournoiData = $tournoiEs->getData();
             $tournoiDate = new \DateTime();
-            $tournoiDate->createFromFormat(DateTimeInterface::ATOM,$tournoiData['date']);
+            $tournoiDate->setTimestamp(strtotime($tournoiData['date']));
             if(!array_key_exists($tournoiDate->format('d/m/Y'),$tournoiWinPerDay)){
                 $tournoiWinPerDay[$tournoiDate->format('d/m/Y')] = 0;
             }
@@ -69,7 +69,7 @@ class TournoiController extends AbstractController
 
             if($tournoiData['win']){
                 $gain += $tournoiData['money'];
-                $tournoiWinPerDay[$tournoiDate->format('d/m/Y')] += $tournoiData['prizepool'];
+                $tournoiWinPerDay[$tournoiDate->format('d/m/Y')] += $tournoiData['money'];
 
                 $tournoisWinGame[$i] = $tournoisWinGame[$i-1] + 1;
             }else{

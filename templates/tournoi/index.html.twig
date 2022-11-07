@@ -48,7 +48,7 @@
                 }]
             }
         });
-        {#console.log({{ tournois_gains|json_encode|raw }});#}
+        console.log({{ tournois_gains|json_encode|raw }});
         const tournois_gains = new Chart($('#tournament_gains'),{
             type: 'line',
             data: {

@@ -92,7 +92,7 @@ class ImportTournoi
                     $tournoi->setTicket(false);
                 } elseif(str_contains($data, 'Ticket')) {
                     $tournoi->setTicket(true);
-                    $tournoi->setMoney(0);
+                    $tournoi->setMoney(str_replace(',', '.', $this->dataService->get_string_between($data, '€', ')')));
                 }else{
                     $tournoi->setMoney(-$tournoi->getBuyin());
                     $tournoi->setTicket(false);
