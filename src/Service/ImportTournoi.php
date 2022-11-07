@@ -43,7 +43,7 @@ class ImportTournoi
         while (!$fileData->eof()) {
             $data = $fileData->fgets();
             //dump($data,str_contains($data,'Buy-in'));
-            if (str_contains($data, 'PokerStars')) {
+            if (str_contains($data, 'PokerStars Tournoi')) {
                 $idTour = $this->dataService->get_string_between($data, '#', ',');
                 $tournoi = $this->tournoiRepository->findOneBy(['identifiant' => $idTour]) ?: new Tournoi();
                 $tournoi->setIdentifiant((int)$idTour);
@@ -111,6 +111,7 @@ class ImportTournoi
         $dateString = $this->dataService->get_string_between($fileData->getFilename(), 'TS', ' T');
         $date = \DateTime::createFromFormat('Ymd', $dateString);
         $tournoi->setDate($date);
+        dump($tournoi);die;
         $this->entityManager->persist($tournoi);
         $this->entityManager->flush();
         return $tournoi;
