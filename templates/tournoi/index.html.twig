@@ -7,22 +7,20 @@
     $(document).ready(function() {
         function colorize(opaque) {
             return (ctx) => {
-                console.log(ctx);
-                /*const v = ctx.parsed.y;
+                const v = ctx.parsed.y;
                 const c = v < 0.5 ? '#CF0909' : '#3860BB';
-                return c;*/
-                return '#3860BB';
+                return c;
             };
         }
-        console.log({{ ranges|json_encode|raw }});
+
         const all_range = new Chart($('#tournament_range'),{
             type: 'bar',
             data: {
                 datasets: [{
                     label: 'All range',
                     data: {{ ranges|json_encode|raw }},
-                    /*backgroundColor: colorize(false),
-                    borderColor: colorize(false),*/
+                    backgroundColor: colorize(false),
+                    borderColor: colorize(false),
                 }]
             }
         });
@@ -32,8 +30,8 @@
                 datasets: [{
                     label: 'Win per day',
                     data: {{ tournoi_win_per_day|json_encode|raw }},
-                    /*backgroundColor: colorize(false),
-                    borderColor: colorize(false),*/
+                    backgroundColor: colorize(false),
+                    borderColor: colorize(false),
                 }]
             }
         });
@@ -43,12 +41,12 @@
                 datasets: [{
                     label: 'Win per month',
                     data: {{ tournoi_win_per_month|json_encode|raw }},
-                    /*backgroundColor: colorize(false),
-                    borderColor: colorize(false),*/
+                    backgroundColor: colorize(false),
+                    borderColor: colorize(false),
                 }]
             }
         });
-        console.log({{ tournois_gains|json_encode|raw }});
+
         const tournois_gains = new Chart($('#tournament_gains'),{
             type: 'line',
             data: {
