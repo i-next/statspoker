@@ -22,6 +22,7 @@ Encore
      */
     .addEntry('app', './assets/app.js')
     .addEntry('charts','./assets/js/chartsprocess.js')
+    .addEntry('tournois', './assets/js/tournois.js')
 
 
     // enables the Symfony UX Stimulus bridge (used in assets/bootstrap.js)

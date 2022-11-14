@@ -2,102 +2,9 @@
 
 {% block title %}Pokerstats{% endblock %}
 {% block javascripts %}
+
+    {{ encore_entry_script_tags('tournois') }}
     {{ parent() }}
-<script>
-    $(document).ready(function() {
-        function colorize(opaque) {
-            return (ctx) => {
-                const v = ctx.parsed.y;
-                const c = v < 0.5 ? '#CF0909' : '#3860BB';
-                return c;
-            };
-        }
-
-        const all_range = new Chart($('#tournament_range'),{
-            type: 'bar',
-            data: {
-                datasets: [{
-                    label: 'All range',
-                    data: {{ ranges|json_encode|raw }},
-                    backgroundColor: colorize(false),
-                    borderColor: colorize(false),
-                }]
-            }
-        });
-        const tournoi_win_per_day = new Chart($('#tournament_win_per_day'),{
-            type: 'bar',
-            data: {
-                datasets: [{
-                    label: 'Win per day',
-                    data: {{ tournoi_win_per_day|json_encode|raw }},
-                    backgroundColor: colorize(false),
-                    borderColor: colorize(false),
-                }]
-            }
-        });
-        const tournoi_win_per_month = new Chart($('#tournament_win_per_month'),{
-            type: 'bar',
-            data: {
-                datasets: [{
-                    label: 'Win per month',
-                    data: {{ tournoi_win_per_month|json_encode|raw }},
-                    backgroundColor: colorize(false),
-                    borderColor: colorize(false),
-                }]
-            }
-        });
-
-        const tournois_gains = new Chart($('#tournament_gains'),{
-            type: 'line',
-            data: {
-                showXAxisLabel:false,
-                datasets: [{
-                    label: 'Gains Tournois',
-                    data: {{ tournois_gains|json_encode|raw }},
-                    fill: false,
-                    borderColor: '#3860BB',
-                    borderWidth: 1,
-                    tension: 0,
-                    pointRadius: 0,
-                }]
-            },
-            options: {
-                scales: {
-                    x: {  // <-- object '{' now, instead of array '[{' before in v2.x.x
-                        ticks: {
-                            display: false
-                        }
-                    }
-                }
-            }
-        });
-        {#console.log({{ tournament_win_party|json_encode|raw }});#}
-        const tournois_win_party = new Chart($('#tournament_win_party'),{
-            type: 'line',
-            data: {
-                showXAxisLabel:false,
-                datasets: [{
-                    label: 'Tournois win',
-                    data: {{ tournament_win_party|json_encode|raw }},
-                    fill: false,
-                    borderColor: '#3860BB',
-                    borderWidth: 1,
-                    tension: 0,
-                    pointRadius: 0,
-                }]
-            },
-            options: {
-                scales: {
-                    x: {  // <-- object '{' now, instead of array '[{' before in v2.x.x
-                        ticks: {
-                            display: false
-                        }
-                    }
-                }
-            }
-        });
-    });
-</script>
 {% endblock %}
 {% block body %}
 <style>
@@ -110,21 +17,30 @@
                 <div class="d-flex .align-content-center"><h1>PokerStats</h1></div>
             </div>
             <div class="row">
-                <canvas id="tournament_range" height="350px"><p>Tournoi range</p></canvas>
+                <canvas id="tournament_range" height="350px" data-url="{{ path('app_ranges_tour') }}"><p>Tournoi range</p></canvas>
             </div>
                 <div class="row">
                     <div class="col">
-                        <canvas id="tournament_win_per_month" height="240px"><p>Tournoi Gains par mois</p></canvas>
+                        <canvas id="tournament_win_per_month" height="240px" data-url="{{ path('app_win_per_month_tour') }}"><p>Tournoi Gains par mois</p></canvas>
                     </div>
                     <div class="col">
-                        <canvas id="tournament_win_per_day" height="240px"><p>Tournoi Gains par jour</p></canvas>
+                        <canvas id="tournament_win_per_day" height="240px" data-url="{{ path('app_win_per_day_tour') }}"><p>Tournoi Gains par jour</p></canvas>
                     </div>
                 </div>
             <div class="row">
-                <canvas id="tournament_gains" height="350px"><p>Tournoi Gains</p></canvas>
+                <select id="gainsfilter">
+                    <option value="all">Tous</option>
+                    <option value="thisweek">Cette Semaine</option>
+                    <option value="lastweek">Semaine Dernière</option>
+                    <option value="thismonth">Ce mois</option>
+                    <option value="lastmonth">Mois Dernier</option>
+                    <option value="thisyear">Cette année</option>
+                    <option value="lastyear">Année dernière</option>
+                </select>
+                <canvas id="tournament_gains" height="350px" data-url="{{ path('app_gains_tour') }}"><p>Tournoi Gains</p></canvas>
             </div>
             <div class="row">
-                <canvas id="tournament_win_party" height="350px"><p>tournament_win_party</p></canvas>
+                <canvas id="tournament_win_party" height="350px" data-url="{{ path('app_wins_tour') }}"><p>tournament_win_party</p></canvas>
             </div>
         </section>
     </section>
