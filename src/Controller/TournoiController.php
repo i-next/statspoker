@@ -72,22 +72,40 @@ class TournoiController extends AbstractController
         ]);
     }
 
-    #[Route('/ajaxresumetour', name: 'app_ajax_resume_tour')]
-    public function ajaxResumeTour(TournoiResultRepository $tournoiResultRepository): JsonResponse
+    #[Route('/winpartyfiltered', name: 'app_win_party_filtered_tour')]
+    public function winPartiesFiltered(Request $request): JsonResponse
     {
-        $results = $tournoiResultRepository->findBy([], ['buyin' => 'ASC']);
-        $response = [];
-        foreach ($results as $result) {
-            /*if($result->getWin() <> 0){
-                $response[$result->getIdentifiant()] = $result->getNbtour()/$result->getWin();
-            }else{
-                $response[$result->getIdentifiant()] = 0;
-            }*/
-            $response[$result->getIdentifiant()] = $result->getWin() / $result->getNbtour();
+        $rangeQuery = new \Elastica\Query\Range();
+        $filterDate = $this->getLimiteDate($request->query->get('data'));
+        $rangeQuery->addField('date',$filterDate);
+        $queryTournois = new Query();
+        $queryTournois->setSize(500000);
+        $queryTournois->setSort(['date' => 'ASC']);
+        $boolQuery = new \Elastica\Query\BoolQuery();
+        $boolQuery->addMust($rangeQuery);
+        $queryTournois->setQuery($boolQuery);
+        $result['labels'] = [];
+        $result['result'] = [];
+        $tournoisWinGame[0] = 0;
+        $tournoiWinResult = [];
+        $i = 1;
+        foreach($this->indexManager->getIndex('tournois')->search($queryTournois)->getResults() as $key => $tournoiEs){
+            $tournoiData = $tournoiEs->getData();
+            $tournoiDate = new \DateTime();
+            $tournoiDate->setTimestamp(strtotime($tournoiData['date']));
+            if ($tournoiData['win']) {
+                $tournoisWinGame[$i] = $tournoisWinGame[$i - 1] + 1;
+            } else {
+                $tournoisWinGame[$i] = $tournoisWinGame[$i - 1] - 1;
+            }
+            $tournoiWinResult['tournoi' . $i] = $tournoisWinGame[$i];
+            $i++;
         }
-        dump($response);
-        die;
-        return new JsonResponse($response);
+        foreach ($tournoiWinResult as $key => $value) {
+            $result['labels'][] = $key;
+            $result['result'][] = $value;
+        }
+        return new JsonResponse(json_encode($result));
     }
 
     #[Route('/gainsfiltered', name: 'app_gains_filtered_tour')]

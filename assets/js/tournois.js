@@ -5,6 +5,11 @@ $(document).ready(function () {
         ajax_chart(tournois_gains, $(this).data('url'),{'data': $(this).val()}, '#tournament_gains');
     });
 
+    $("#winpartyfilter").on('change', function(){
+        console.log($(this).val());
+        ajax_chart(tournois_win_party, $(this).data('url'),{'data': $(this).val()}, '#tournament_win_party');
+    });
+
     let all_range_param = {
         type: 'bar',
         data: {
