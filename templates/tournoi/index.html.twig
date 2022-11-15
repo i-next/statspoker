@@ -7,42 +7,50 @@
     {{ parent() }}
 {% endblock %}
 {% block body %}
-<style>
+    <style>
 
-</style>
-<div class="container">
-    <section id="main-content">
-        <section class="wrapper">
-            <div class="row">
-                <div class="d-flex .align-content-center"><h1>PokerStats</h1></div>
-            </div>
-            <div class="row">
-                <canvas id="tournament_range" height="350px" data-url="{{ path('app_ranges_tour') }}"><p>Tournoi range</p></canvas>
-            </div>
+    </style>
+    <div class="container">
+        <section id="main-content">
+            <section class="wrapper">
+                <div class="row">
+                    <div class="d-flex .align-content-center"><h1>PokerStats</h1></div>
+                </div>
+                <div class="row">
+                    <canvas id="tournament_range" height="350px" data-url="{{ path('app_ranges_tour') }}"><p>Tournoi
+                            range</p></canvas>
+                </div>
                 <div class="row">
                     <div class="col">
-                        <canvas id="tournament_win_per_month" height="240px" data-url="{{ path('app_win_per_month_tour') }}"><p>Tournoi Gains par mois</p></canvas>
+                        <canvas id="tournament_win_per_month" height="240px"
+                                data-url="{{ path('app_win_per_month_tour') }}"><p>Tournoi Gains par mois</p></canvas>
                     </div>
                     <div class="col">
-                        <canvas id="tournament_win_per_day" height="240px" data-url="{{ path('app_win_per_day_tour') }}"><p>Tournoi Gains par jour</p></canvas>
+                        <canvas id="tournament_win_per_day" height="240px"
+                                data-url="{{ path('app_win_per_day_tour') }}"><p>Tournoi Gains par jour</p></canvas>
                     </div>
                 </div>
-            <div class="row">
-                <select id="gainsfilter">
-                    <option value="all">Tous</option>
-                    <option value="thisweek">Cette Semaine</option>
-                    <option value="lastweek">Semaine Dernière</option>
-                    <option value="thismonth">Ce mois</option>
-                    <option value="lastmonth">Mois Dernier</option>
-                    <option value="thisyear">Cette année</option>
-                    <option value="lastyear">Année dernière</option>
-                </select>
-                <canvas id="tournament_gains" height="350px" data-url="{{ path('app_gains_tour') }}"><p>Tournoi Gains</p></canvas>
-            </div>
-            <div class="row">
-                <canvas id="tournament_win_party" height="350px" data-url="{{ path('app_wins_tour') }}"><p>tournament_win_party</p></canvas>
-            </div>
+                <div class="row"></div>
+                <div class="row">
+                    <div>
+                        <select id="gainsfilter" data-url="{{ path('app_gains_filtered_tour') }}">
+                            <option value="all">Tous</option>
+                            <option value="thisweek">Cette Semaine</option>
+                            <option value="lastweek">Semaine Dernière</option>
+                            <option value="thismonth">Ce mois</option>
+                            <option value="lastmonth">Mois Dernier</option>
+                            <option value="thisyear">Cette année</option>
+                            <option value="lastyear">Année dernière</option>
+                        </select>
+                    </div>
+                    <canvas id="tournament_gains" height="350px" data-url="{{ path('app_gains_tour') }}"><p>Tournoi
+                            Gains</p></canvas>
+                </div>
+                <div class="row">
+                    <canvas id="tournament_win_party" height="350px" data-url="{{ path('app_wins_tour') }}"><p>
+                            tournament_win_party</p></canvas>
+                </div>
+            </section>
         </section>
-    </section>
-</div>
+    </div>
 {% endblock %}

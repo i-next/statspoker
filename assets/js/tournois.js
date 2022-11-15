@@ -1,13 +1,11 @@
 $(document).ready(function () {
-    function colorize(opaque) {
-        return (ctx) => {
-            const v = ctx.parsed.y;
-            const c = v < 0.5 ? '#CF0909' : '#3860BB';
-            return c;
-        };
-    }
 
-    let all_range = new Chart($('#tournament_range'), {
+    $("#gainsfilter").on('change', function(){
+        console.log($(this).val());
+        ajax_chart(tournois_gains, $(this).data('url'),{'data': $(this).val()}, '#tournament_gains');
+    });
+
+    let all_range_param = {
         type: 'bar',
         data: {
             datasets: [{
@@ -15,8 +13,10 @@ $(document).ready(function () {
                 data: [],
             }]
         }
-    });
-    let tournoi_win_per_day = new Chart($('#tournament_win_per_day'), {
+    };
+    let all_range = new Chart($('#tournament_range'), all_range_param);
+
+    let tournoi_win_per_day_param = {
         type: 'bar',
         data: {
             datasets: [{
@@ -24,8 +24,10 @@ $(document).ready(function () {
                 data: [],
             }]
         }
-    });
-    let tournoi_win_per_month = new Chart($('#tournament_win_per_month'), {
+    }
+    let tournoi_win_per_day = new Chart($('#tournament_win_per_day'),tournoi_win_per_day_param );
+
+    let tournoi_win_per_month_param = {
         type: 'bar',
         data: {
             datasets: [{
@@ -33,9 +35,10 @@ $(document).ready(function () {
                 data: [],
             }]
         }
-    });
+    };
+    let tournoi_win_per_month = new Chart($('#tournament_win_per_month'), tournoi_win_per_month_param);
 
-    let tournois_gains = new Chart($('#tournament_gains'), {
+    let tournois_gains_param = {
         type: 'line',
         data: {
             showXAxisLabel: false,
@@ -58,9 +61,10 @@ $(document).ready(function () {
                 }
             }
         }
-    });
+    }
+    let tournois_gains = new Chart($('#tournament_gains'), tournois_gains_param);
 
-    const tournois_win_party = new Chart($('#tournament_win_party'), {
+    let tournois_win_party_param = {
         type: 'line',
         data: {
             showXAxisLabel: false,
@@ -83,28 +87,50 @@ $(document).ready(function () {
                 }
             }
         }
-    });
-    ajax_chart(all_range, $('#tournament_range').data('url'));
-    ajax_chart(tournoi_win_per_month, $('#tournament_win_per_month').data('url'));
-    ajax_chart(tournoi_win_per_day, $('#tournament_win_per_day').data('url'));
-    ajax_chart(tournois_gains, $('#tournament_gains').data('url'));
-    ajax_chart(tournois_win_party, $('#tournament_win_party').data('url'));
+    };
+    let tournois_win_party = new Chart($('#tournament_win_party'), tournois_win_party_param);
+
+    ajax_chart(all_range, $('#tournament_range').data('url'),{},'#tournament_range',all_range_param);
+    ajax_chart(tournoi_win_per_month, $('#tournament_win_per_month').data('url'),{},'#tournament_win_per_month', tournoi_win_per_month_param);
+    ajax_chart(tournoi_win_per_day, $('#tournament_win_per_day').data('url'),{},'#tournament_win_per_day',tournoi_win_per_day_param);
+    ajax_chart(tournois_gains, $('#tournament_gains').data('url'),{},'#tournament_gains',tournois_gains_param);
+    ajax_chart(tournois_win_party, $('#tournament_win_party').data('url'),{},'#tournament_win_party',tournois_win_party_param);
 
 // function to update our chart
-    function ajax_chart(chart, url, data) {
+    function ajax_chart(chart, url, data, dest, param) {
         var data = data || {};
 
+        console.log($(dest));
         $.getJSON(url, data).done(function(response) {
+            /*chart.destroy();
+            chart.clear();*/
+            console.log(chart);
+           /* let chart2 = new Chart($(dest), param)*/
             const obj = JSON.parse(response);
             chart.data.labels = obj.labels;
+            console.log(obj.labels);
+            console.log(chart.config.type);
             chart.data.datasets[0].data = obj.result; // or you can iterate for multiple datasets
             if(chart.config.type == 'bar'){
                 chart.options.elements.bar.backgroundColor = colorize(false);
                 chart.options.elements.bar.borderColor = colorize(false);
             }
-            chart.update(); // finally update our chart
+            console.log(chart.data.datasets[0].data);
+            console.log(chart.data.labels);
+
+
+            chart.update('show'); // finally update our chart
         });
     }
+
+    function colorize(opaque) {
+        return (ctx) => {
+            const v = ctx.parsed.y;
+            const c = v < 0.5 ? '#CF0909' : '#3860BB';
+            return c;
+        };
+    }
+
 });
 
 /*
