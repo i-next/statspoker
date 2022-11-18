@@ -48,8 +48,7 @@ class TournoiRepository extends ServiceEntityRepository
     public function tournoiTicket()
     {
         return $this->createQueryBuilder('t')
-            ->andWhere('t.ticket = :val')
-            ->setParameter('val', true)
+            ->andWhere('t.prizepool > 3 * t.buyin')
             ->getQuery()
             ->setMaxResults(5000)
             ->getResult();
