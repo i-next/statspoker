@@ -45,6 +45,16 @@ class TournoiRepository extends ServiceEntityRepository
         }
     }
 
+    public function tournoiTicket()
+    {
+        return $this->createQueryBuilder('t')
+            ->andWhere('t.ticket = :val')
+            ->setParameter('val', true)
+            ->getQuery()
+            ->setMaxResults(5000)
+            ->getResult();
+    }
+
     // /**
     //  * @return Tournoi[] Returns an array of Tournoi objects
     //  */

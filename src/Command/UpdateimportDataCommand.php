@@ -12,7 +12,8 @@ use Symfony\Component\Console\Style\SymfonyStyle;
 use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Component\Filesystem\Filesystem;
 use Symfony\Component\Finder\Finder;
-use App\Repository\ResultRepository;
+use App\Repository\TournoiResultRepository;
+use App\Repository\TournoiRepository;
 use App\Service\ImportService;
 use App\Service\ImportTournoi;
 
@@ -25,7 +26,9 @@ class UpdateimportDataCommand extends Command
 {
     private $entityManager;
 
-    private $resultRepository;
+    private $tournoiResultRepository;
+
+    private $tournoiRepository;
 
     private $importService;
 
@@ -33,14 +36,16 @@ class UpdateimportDataCommand extends Command
 
     public function __construct(
         EntityManagerInterface $entityManager,
-        ResultRepository $resultRepository,
+        TournoiResultRepository $tournoiResultRepository,
+        TournoiRepository $tournoiRepository,
         ImportService $importService,
         ImportTournoi $importTournoi)
     {
         $this->entityManager = $entityManager;
-        $this->resultRepository = $resultRepository;
+        $this->tournoiResultRepository = $tournoiResultRepository;
         $this->importService = $importService;
         $this->importTournoi = $importTournoi;
+        $this->tournoiRepository = $tournoiRepository;
         parent::__construct();
     }
 
@@ -55,10 +60,39 @@ class UpdateimportDataCommand extends Command
 
 
 
-        $io->success('Import tournois');
+        $io->success('Import tournois ');
         $this->importTournoi();
         return Command::SUCCESS;
     }
+    private function importTournoi(): void
+    {
+        $tournois = $this->tournoiRepository->tournoiTicket();
+        foreach ($tournois as $tournoi){
+            $finder = new Finder();
+            $finder->files()->in('datasrc/archives/tournois')->name('*'.$tournoi->getIdentifiant().'*.txt');
+            foreach($finder as $file){
+                $fileData = new SplFileObject($file);
+                $this->importTournoi->updateTournoiTicket($fileData,$tournoi);
+                dump($fileData->getFilename());
+            }
 
+        }
+        die;
+        /*$finder = new Finder();
+        $finder->files()->in('datasrc/psychoman59')->depth(0);
+        //dump($finder->count());die;
+        foreach ($finder as $file) {
+            $fileData = new SplFileObject($file);
+            if(str_contains($fileData->getFilename(),'TS')){
+                dump('ok'.$fileData->getFilename());
+                $tournoi = $this->importTournoi->addTournoi($fileData);
+                $tournoiResult = $this->importTournoi->importResult($tournoi);
+                $filesystem = new Filesystem();
+                $path = $fileData->getPath() . '/';
+                $pathArchives = $path . '/../archives/tournois/';
+                $filesystem->rename($path . $fileData->getFilename(), $pathArchives . $fileData->getFilename());
+            }
+        }*/
+    }
 
 }

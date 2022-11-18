@@ -119,6 +119,7 @@ class ImportTournoi
     public function importResult(Tournoi $tournoi): bool
     {
         $result = false;
+        dump("toto");die;
         $tournoiResult = $this->tournoiResultRepository->findOneBy(['buyin' => $tournoi->getBuyin(), 'prizepool' => $tournoi->getPrizepool()]);
         if (!$tournoiResult) {
             $tournoiResult = new TournoiResult();
@@ -138,6 +139,29 @@ class ImportTournoi
         $this->entityManager->persist($tournoiResult);
         $this->entityManager->flush();
         return $result;
+    }
+
+    public function updateTournoiTicket(SplFileObject $fileData, Tournoi $tournoi)
+    {
+        while (!$fileData->eof()) {
+            $data = $fileData->fgets();
+            $money = 0;
+            if (str_contains($data, 'Tournoi cible')) {
+                $money = $this->dataService->get_string_between($data, '€', ' EUR');
+            }
+            if(str_contains($data, 'psychoman59') && str_contains($data,'qualifiés')){
+                $tournoiResult = $this->tournoiResultRepository->findOneBy(['buyin' => $tournoi->getBuyin(),'prizepool' => $tournoi->getPrizepool()]);
+                dump($tournoi,$tournoiResult);
+                $tournoi->setWin(true);
+                $tournoi->setMoney($money);
+                $tournoiResult->setWin($tournoiResult->getWin()+1);
+                $tournoiResult->setMoney($tournoiResult->getMoney()+$money+$tournoi->getBuyin());
+                dump($tournoi,$tournoiResult);die;
+                /*$this->entityManager->persist($tournoiResult);
+                $this->entityManager->persist($tournoi);
+                $this->entityManager->flush();*/
+            }
+        }
     }
 
     public function updateDateTournoi(string $filename): bool
