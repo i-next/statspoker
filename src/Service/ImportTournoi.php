@@ -143,23 +143,22 @@ class ImportTournoi
 
     public function updateTournoiTicket(SplFileObject $fileData, Tournoi $tournoi)
     {
+        $money = 0;
         while (!$fileData->eof()) {
             $data = $fileData->fgets();
-            $money = 0;
+
             if (str_contains($data, 'Tournoi cible')) {
                 $money = $this->dataService->get_string_between($data, '€', ' EUR');
             }
             if(str_contains($data, 'psychoman59') && str_contains($data,'qualifiés')){
                 $tournoiResult = $this->tournoiResultRepository->findOneBy(['buyin' => $tournoi->getBuyin(),'prizepool' => $tournoi->getPrizepool()]);
-                dump($tournoi,$tournoiResult);
                 $tournoi->setWin(true);
                 $tournoi->setMoney($money);
                 $tournoiResult->setWin($tournoiResult->getWin()+1);
                 $tournoiResult->setMoney($tournoiResult->getMoney()+$money+$tournoi->getBuyin());
-                dump($tournoi,$tournoiResult);die;
-                /*$this->entityManager->persist($tournoiResult);
+                $this->entityManager->persist($tournoiResult);
                 $this->entityManager->persist($tournoi);
-                $this->entityManager->flush();*/
+                $this->entityManager->flush();
             }
         }
     }
