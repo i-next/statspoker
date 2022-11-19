@@ -119,7 +119,7 @@ class ImportTournoi
     public function importResult(Tournoi $tournoi): bool
     {
         $result = false;
-        dump("toto");die;
+
         $tournoiResult = $this->tournoiResultRepository->findOneBy(['buyin' => $tournoi->getBuyin(), 'prizepool' => $tournoi->getPrizepool()]);
         if (!$tournoiResult) {
             $tournoiResult = new TournoiResult();

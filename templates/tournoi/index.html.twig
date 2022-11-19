@@ -16,7 +16,16 @@
                 <div class="row">
                     <div class="d-flex .align-content-center"><h1>PokerStats</h1></div>
                 </div>
-                <div class="row">
+                <div class="row" style="padding-top: 15px">
+                    <div>
+
+                        <select id="buyinsfilter" data-url="{{ path('app_buyins_filtered_tour') }}">
+                            <option value="all">Tous</option>
+                            {% for key,value in buyins %}
+                                <option value="{{ value["key"] }}">{{ value["key"] }} ({{ value["doc_count"] }})</option>
+                            {% endfor %}
+                        </select>
+                    </div>
                     <canvas id="tournament_range" height="350px" data-url="{{ path('app_ranges_tour') }}"><p>Tournoi
                             range</p></canvas>
                 </div>

@@ -9,7 +9,10 @@ $(document).ready(function () {
         console.log($(this).val());
         ajax_chart(tournois_win_party, $(this).data('url'),{'data': $(this).val()}, '#tournament_win_party');
     });
-
+    $("#buyinsfilter").on('change', function(){
+        console.log($(this).val());
+        ajax_chart(all_range, $(this).data('url'),{'data': $(this).val()}, '#tournament_range');
+    });
     let all_range_param = {
         type: 'bar',
         data: {

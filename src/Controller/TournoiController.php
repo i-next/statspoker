@@ -12,7 +12,8 @@ use App\Repository\TournoiRepository;
 use App\Repository\TournoiResultRepository;
 use FOS\ElasticaBundle\Finder\PaginatedFinderInterface;
 use FOS\ElasticaBundle\Index\IndexManager;
-use Elastica\Aggregation\Filter;
+use Elastica\Query\Range;
+use Elastica\Aggregation;
 use Symfony\Component\Validator\Constraints\Date;
 use DateTimeInterface;
 use Symfony\Component\Validator\Constraints\Json;
@@ -48,8 +49,18 @@ class TournoiController extends AbstractController
     #[Route('/tournoi', name: 'app_tournoi')]
     public function index(TournoiRepository $tournoiRepository, TournoiResultRepository $tournoiResultRepository): Response
     {
+        $agg = new Aggregation\Terms('uniq_buyin');
+        $agg->setOrder("_term","asc");
+        $agg->setField('buyin');
+        $agg->setSize(500);
+        $query = new Query();
+        $query->setSize(0);
+        $query->addAggregation($agg);
+
+        $buyins = $this->indexManager->getIndex('tournois_result')->search($query)->getAggregations()['uniq_buyin']['buckets'];
         return $this->render('tournoi/index.html.twig', [
-            'menu_active' => 'tournoi'
+            'menu_active'   => 'tournoi',
+            'buyins'        => $buyins
         ]);
     }
 
@@ -75,7 +86,7 @@ class TournoiController extends AbstractController
     #[Route('/winpartyfiltered', name: 'app_win_party_filtered_tour')]
     public function winPartiesFiltered(Request $request): JsonResponse
     {
-        $rangeQuery = new \Elastica\Query\Range();
+        $rangeQuery = new Range();
         $filterDate = $this->getLimiteDate($request->query->get('data'));
         $rangeQuery->addField('date',$filterDate);
         $queryTournois = new Query();
@@ -108,10 +119,36 @@ class TournoiController extends AbstractController
         return new JsonResponse(json_encode($result));
     }
 
+    #[Route('/buyinsfiltered', name: 'app_buyins_filtered_tour')]
+    public function buyinsFiltered(Request $request): JsonResponse
+    {
+        $dataQuery = $request->query->get('data');
+
+        if($dataQuery !== "all"){
+            $queryBuyin = new Query\MatchQuery();
+            $queryBuyin->setField('buyin',$dataQuery);
+        }else{
+            $queryBuyin = new Query();
+            $queryBuyin->setSort(['buyin' => 'ASC', 'prizepool' => 'asc']);
+            $queryBuyin->setSize(500);
+        }
+
+
+        $allRanges = [];
+        $results = $this->indexManager->getIndex('tournois_result')->search($queryBuyin)->getResults();
+
+        foreach ($results as $result) {
+            $data = $result->getData();
+            $allRanges['labels'][] = $data['identifiant'] . '(' . $data['nbtour'] . ')';
+            $allRanges['result'][] = $data['win'] / $data['nbtour'];
+        }
+        return new JsonResponse(json_encode($allRanges));
+    }
+
     #[Route('/gainsfiltered', name: 'app_gains_filtered_tour')]
     public function gainsFiltered(Request $request): JsonResponse
     {
-        $rangeQuery = new \Elastica\Query\Range();
+        $rangeQuery = new Range();
         $filterDate = $this->getLimiteDate($request->query->get('data'));
         $rangeQuery->addField('date',$filterDate);
         $queryTournois = new Query();
