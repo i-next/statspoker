@@ -16,3 +16,28 @@ require('bootstrap');
 // create global $ and jQuery variables
 global.$ = global.jQuery = $;
 import 'bootstrap-table';
+
+// function to update our chart
+window.ajax_chart =function (chart, url, data, dest, param) {
+    var data = data || {};
+
+
+    $.getJSON(url, data).done(function(response) {
+
+        const obj = JSON.parse(response);
+        chart.data.labels = obj.labels;
+        chart.data.datasets[0].data = obj.result; // or you can iterate for multiple datasets
+        if(chart.config.type == 'bar'){
+            chart.options.elements.bar.backgroundColor = colorize(false);
+            chart.options.elements.bar.borderColor = colorize(false);
+        }
+        chart.update('show'); // finally update our chart
+    });
+}
+function colorize(opaque) {
+    return (ctx) => {
+        const v = ctx.parsed.y;
+        const c = v < 0.5 ? '#CF0909' : '#3860BB';
+        return c;
+    };
+}

@@ -2,48 +2,37 @@
 
 namespace App\Controller;
 
-use Elastica\Query;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\JsonResponse;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\Routing\Annotation\Route;
-use App\Repository\TournoiRepository;
-use App\Repository\TournoiResultRepository;
+use Elastica\Query;
 use FOS\ElasticaBundle\Finder\PaginatedFinderInterface;
 use FOS\ElasticaBundle\Index\IndexManager;
 use Elastica\Query\Range;
 use Elastica\Aggregation;
-use Symfony\Component\Validator\Constraints\Date;
-use DateTimeInterface;
-use Symfony\Component\Validator\Constraints\Json;
-use function Doctrine\Common\Cache\Psr6\get;
+use App\Repository\TournoiRepository;
+use App\Repository\TournoiResultRepository;
+
+use App\Service\DataService;
 
 
 class TournoiController extends AbstractController
 {
-    private const LAST_WEEK = "lastweek";
 
-    private const THIS_WEEK = "thisweek";
-
-    private const ALL = "all";
-
-    private const THIS_MONTH = "thismonth";
-
-    private const LAST_MONTH = "lastmonth";
-
-    private const THIS_YEAR = "thisyear";
-
-    private const LAST_YEAR = "lastyear";
 
     private $finder;
 
     private $indexManager;
 
-    public function __construct(PaginatedFinderInterface $finder, IndexManager $indexManager)
+    private $dataService;
+
+    public function __construct(PaginatedFinderInterface $finder, IndexManager $indexManager, DataService $dataService)
     {
         $this->finder = $finder;
         $this->indexManager = $indexManager;
+        $this->dataService = $dataService;
     }
 
     #[Route('/tournoi', name: 'app_tournoi')]
@@ -87,7 +76,7 @@ class TournoiController extends AbstractController
     public function winPartiesFiltered(Request $request): JsonResponse
     {
         $rangeQuery = new Range();
-        $filterDate = $this->getLimiteDate($request->query->get('data'));
+        $filterDate = $this->dataService->getLimiteDate($request->query->get('data'));
         $rangeQuery->addField('date',$filterDate);
         $queryTournois = new Query();
         $queryTournois->setSize(500000);
@@ -125,11 +114,17 @@ class TournoiController extends AbstractController
         $dataQuery = $request->query->get('data');
 
         if($dataQuery !== "all"){
-            $queryBuyin = new Query\MatchQuery();
-            $queryBuyin->setField('buyin',$dataQuery);
+            $queryBuyin = new Query();
+            $queryBuyin->setSort(['buyin' => 'ASC', 'prizepool' => 'ASC']);
+            $queryBuyinMatch = new Query\MatchQuery();
+            $queryBuyinMatch->setField('buyin',$dataQuery);
+            $boolQuery = new \Elastica\Query\BoolQuery();
+            $boolQuery->addMust($queryBuyinMatch);
+            $queryBuyin->setQuery($boolQuery);
+
         }else{
             $queryBuyin = new Query();
-            $queryBuyin->setSort(['buyin' => 'ASC', 'prizepool' => 'asc']);
+            $queryBuyin->setSort(['buyin' => 'ASC', 'prizepool' => 'ASC']);
             $queryBuyin->setSize(500);
         }
 
@@ -149,7 +144,7 @@ class TournoiController extends AbstractController
     public function gainsFiltered(Request $request): JsonResponse
     {
         $rangeQuery = new Range();
-        $filterDate = $this->getLimiteDate($request->query->get('data'));
+        $filterDate = $this->dataService->getLimiteDate($request->query->get('data'));
         $rangeQuery->addField('date',$filterDate);
         $queryTournois = new Query();
         $queryTournois->setSize(500000);
@@ -308,43 +303,5 @@ class TournoiController extends AbstractController
         return new JsonResponse(json_encode($result));
     }
 
-    private function getLimiteDate(string $data): array
-    {
-        $result = [];
-        switch ($data){
-            case self::ALL:
-                $result = ["gte" => "01/01/1970","format" => 'dd/MM/yyyy'];
-                break;
-            case self::THIS_WEEK:
-                $result = ["gte" => date("d/m/Y", strtotime('monday this week')),"format" => 'dd/MM/yyyy'];
-                break;
-            case self::LAST_WEEK:
-                $mondayLastWeek = date("d/m/Y", strtotime('last week sunday'));
-                $sundayLastWeek = date("d/m/Y", strtotime('last week'));
-                $result = ["gte" => $sundayLastWeek,"lte" => $mondayLastWeek,"format" => 'dd/MM/yyyy'];
-                break;
-            case self::THIS_MONTH:
-                $firstDay = date("d/m/Y", strtotime('first day of this month'));
-                $lastDay = date("d/m/Y", strtotime('last day of this month'));
-                $result = ["gte" => $firstDay,"lte" => $lastDay,"format" => 'dd/MM/yyyy'];
-                break;
-            case self::LAST_MONTH:
-                $firstDay = date("d/m/Y", strtotime('first day of last month'));
-                $lastDay = date("d/m/Y", strtotime('last day of last month'));
-                $result = ["gte" => $firstDay,"lte" => $lastDay,"format" => 'dd/MM/yyyy'];
-                break;
-            case self::THIS_YEAR:
-                $firstDay = date("d/m/Y", strtotime('first day of January this year'));
-                $lastDay = date("d/m/Y", strtotime('last day of December this year'));
-                $result = ["gte" => $firstDay,"lte" => $lastDay,"format" => 'dd/MM/yyyy'];
-                break;
-            case self::LAST_YEAR:
-                $firstDay = date("d/m/Y", strtotime('first day of January last year'));
-                $lastDay = date("d/m/Y", strtotime('last day of December last year'));
-                $result = ["gte" => $firstDay,"lte" => $lastDay,"format" => 'dd/MM/yyyy'];
-                break;
-        }
 
-        return $result;
-    }
 }

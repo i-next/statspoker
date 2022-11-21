@@ -14,21 +14,18 @@
     </div>
     <div class="row">
         <div class="col">
-            <div><canvas id="tournament" width="400" height="200" data-url="{{ path('app_ajax_tournament_historic') }}"></canvas></div>
+            <div><canvas id="tournament" width="400" height="200" data-url="{{ path('app_data_7_days_result') }}"></canvas></div>
         </div>
         <div class="col">
-            <div><canvas id="cash" width="400" height="200"></canvas></div>
+            <div><canvas id="cash" width="400" height="200" data-url="{{ path('app_data_7_days_money') }}"></canvas></div>
         </div>
     </div>
     <div class="row">
         <div class="col">
-            <div><canvas id="tournament_position" width="200" height="100" ></canvas></div>
+            <div><canvas id="spinandgoresult" width="400" height="200" data-url="{{ path('app_data_spin_and_go_result') }}"></canvas></div>
         </div>
         <div class="col">
-            <div><canvas id="tournament_month" width="400" height="200" ></canvas></div>
-        </div>
-        <div class="col">
-            <div><canvas id="cash_month" width="400" height="200"></canvas></div>
+            <div><canvas id="spinandgomoney" width="400" height="200" data-url="{{ path('app_data_spin_and_go_money') }}"></canvas></div>
         </div>
     </div>
     <div class="row">

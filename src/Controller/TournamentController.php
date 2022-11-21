@@ -22,6 +22,7 @@ class TournamentController extends AbstractController
     #[Route('/ajax/historicevolution', name: 'app_ajax_tournament_historic')]
     public function historicEvolution(TournamentRepository $tournamentRepository): JsonResponse
     {
+
         $tournamentPositions = [];
         $dataTournamentPositions = $tournamentRepository->countPosition()->getResult();
         foreach ($dataTournamentPositions as $data){
@@ -82,6 +83,7 @@ class TournamentController extends AbstractController
         $return['win_month'] = $resultMonth;
         $return['prizepool_month'] = $resultGainMonth;
         $return['tournament_positions'] = $tournamentPositions;
+        dump($return);die;
         return new JsonResponse($return);
     }
 
