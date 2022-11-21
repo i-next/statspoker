@@ -117,18 +117,16 @@ class HomeController extends AbstractController
         $queryBuyin = new Query();
         $queryBuyin->setSize(500);
         $queryBuyin->setSort(['buyin'=>'DESC']);
-        $queryTerms = new Query\Terms('buyin',[0.25,1.0,2.0,5.0]);
-        $range = new Query\Range();
-        $range->addField('prizepool',["lte" => 50]);
-        $queryBool = new Query\BoolQuery();
-        $queryBool->addMust($queryTerms);
-        $queryBool->addMust($range);
-        $queryBuyin->setQuery($queryBool);
+        $queryTerms = new Query\Terms('buyin',["0.25","1.0","2.0","5.0"]);
+
+        $queryBuyin->setQuery($queryTerms);
 
         foreach($this->indexManager->getIndex('tournois_result')->search($queryBuyin)->getResults() as $result){
             $data = $result->getData();
-            $response['labels'][] = $data['identifiant'];
-            $response['result'][] = $data['win'] / $data['nbtour'];
+            if(50 >= (float)$data['prizepool']){
+                $response['labels'][] = $data['identifiant'];
+                $response['result'][] = $data['win'] / $data['nbtour'];
+            }
         }
         return new JsonResponse(json_encode($response));
     }
@@ -140,19 +138,21 @@ class HomeController extends AbstractController
         $queryBuyin = new Query();
         $queryBuyin->setSort(['buyin'=>'DESC']);
         $queryBuyin->setSize(500);
-        $queryTerms = new Query\Terms('buyin',[0.25,1.0,1.5,5.0]);
-        $range = new Query\Range();
-        $range->addField('prizepool',["lte" => 50]);
+        $queryTerms = new Query\Terms('buyin',["0.25","1.0","2","5.0"]);
+
         $queryBool = new Query\BoolQuery();
         $queryBool->addMust($queryTerms);
-        $queryBool->addMust($range);
+        //$queryBool->addMust($range);
         $queryBuyin->setQuery($queryBool);
 
         foreach($this->indexManager->getIndex('tournois_result')->search($queryBuyin)->getResults() as $result){
             $data = $result->getData();
-            $response['labels'][] = $data['identifiant'];
-            $response['result'][] = $data['money'];
+            if(50 >= (float)$data['prizepool']) {
+                $response['labels'][] = $data['identifiant'];
+                $response['result'][] = $data['money'];
+            }
         }
+
         return new JsonResponse(json_encode($response));
     }
 }
