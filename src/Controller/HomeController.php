@@ -115,6 +115,7 @@ class HomeController extends AbstractController
         $response['labels'] = [];
         $response['result'] = [];
         $queryBuyin = new Query();
+        $queryBuyin->setSize(500);
         $queryBuyin->setSort(['buyin'=>'DESC']);
         $queryTerms = new Query\Terms('buyin',[0.25,1.0,2.0,5.0]);
         $range = new Query\Range();
@@ -138,7 +139,8 @@ class HomeController extends AbstractController
         $response['result'] = [];
         $queryBuyin = new Query();
         $queryBuyin->setSort(['buyin'=>'DESC']);
-        $queryTerms = new Query\Terms('buyin',[0.25,1.0,2.0,5.0]);
+        $queryBuyin->setSize(500);
+        $queryTerms = new Query\Terms('buyin',[0.25,1.0,1.5,5.0]);
         $range = new Query\Range();
         $range->addField('prizepool',["lte" => 50]);
         $queryBool = new Query\BoolQuery();
