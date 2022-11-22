@@ -63,7 +63,7 @@ class ReimportDataCommand extends Command
         $io->success('Import tournois');
         $this->importTournoi();
         $io->success('Import Mains');
-        //$this->importMains();
+        $this->importMains();
         return Command::SUCCESS;
     }
 
