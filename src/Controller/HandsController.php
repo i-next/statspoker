@@ -11,17 +11,17 @@ use FOS\ElasticaBundle\Finder\PaginatedFinderInterface;
 
 class HandsController extends AbstractController
 {
-    private $finder;
 
-    public function __construct(PaginatedFinderInterface $finder)
+
+    public function __construct()
     {
-        $this->finder = $finder;
+
     }
 
     #[Route('/hands', name: 'app_hands')]
     public function index(MesMainsRepository $mesMainsRepository): Response
     {
-        $query = new Query();
+        /*$query = new Query();
         $query->setSort(['win'=>'DESC']);
         $query->setSize(5);
         $bestHands = $this->finder->find($query);
@@ -34,6 +34,6 @@ class HandsController extends AbstractController
             'menu_active' => 'hands',
             'best_hands'    => $bestHands,
             'worst_hands'   => $worstHands
-        ]);
+        ]);*/
     }
 }

@@ -28,12 +28,6 @@ services:
         arguments:
             - '@fos_elastica.finder.tournois_result'
 
-    App\Controller\HandsController:
-        tags: ['controller.service_arguments']
-        public: true
-        arguments:
-            - '@fos_elastica.finder.my_hands'
-
     App\Controller\PlantController:
         tags: ['controller.service_arguments']
         public: true
@@ -45,3 +39,6 @@ services:
         public: true
         arguments:
             - '@fos_elastica.finder.seeds'
+
+    application_convert.index.mains:
+        class: App\Service\ElasticaBundle\PostToElasticaTransformer

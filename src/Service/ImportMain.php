@@ -248,9 +248,11 @@ class ImportMain
                 $pseudoWinner = $this->dataService->convertPseudo($dataPseudoWinner[0]);
                 if($pseudoWinner === 'psychoman59'){
                     $myhand->setWin($myhand->getWin()+1);
+                    $main->setWin(true);
                     unset($winner);
                 }elseif (!str_contains($pseudoWinner,'Siege') && !str_contains($pseudoWinner,'Siège')){
                     $i = 1;
+                    $main->setWin(false);
                     while(!isset($name[$pseudoWinner] )){
                         $pseudoWinner = $pseudoWinner. " " . $this->dataService->convertPseudo($dataPseudoWinner[$i]);
                         $newNameWinner = substr($pseudoWinner,0,-3);
@@ -302,7 +304,7 @@ class ImportMain
                 $river = $this->dataService->get_string_between($riv, '[', ']');
                 $riverCards = explode(' ', $river);
                 $riverCard = $this->cardsRepository->findOneBy(['value' => substr($riverCards[0], 0, 1), 'color' => substr($riverCards[0], 1)]);
-                $riverCard->setFlop($riverCard->getFlop() + 1);
+                $riverCard->setRivercars($riverCard->getRivercars() + 1);
                 $main->setIdRiver($riverCard);
 
             }

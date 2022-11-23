@@ -76,6 +76,9 @@ class Main
     #[ORM\JoinColumn(nullable: true)]
     private $id_player9;
 
+    #[ORM\Column(type: 'boolean', nullable: true)]
+    private $win;
+
     public function getId(): ?int
     {
         return $this->id;
@@ -320,5 +323,22 @@ class Main
     {
         $this->id_player9 = $id_player9;
     }
+
+    /**
+     * @return mixed
+     */
+    public function getWin()
+    {
+        return $this->win;
+    }
+
+    /**
+     * @param mixed $win
+     */
+    public function setWin($win)
+    {
+        $this->win = $win;
+    }
+
 
 }

@@ -144,7 +144,6 @@ class HomeController extends AbstractController
         $queryBool->addMust($queryTerms);
         //$queryBool->addMust($range);
         $queryBuyin->setQuery($queryBool);
-
         foreach($this->indexManager->getIndex('tournois_result')->search($queryBuyin)->getResults() as $result){
             $data = $result->getData();
             if(50 >= (float)$data['prizepool']) {

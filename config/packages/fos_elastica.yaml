@@ -18,32 +18,6 @@ fos_elastica:
                 driver: orm
                 model: App\Entity\TournoiResult
             finder: ~
-        my_hands:
-            properties:
-                id_card1: ~
-                id_card2: ~
-                count: { 'type': 'integer' }
-                win: { 'type': 'integer' }
-            persistence:
-                driver: orm
-                model: App\Entity\MesMains
-            finder: ~
-        hands:
-            properties:
-                card1: ~
-                card2: ~
-                flop: ~
-                turn: ~
-                river: ~
-                win: { 'type': 'text',
-                       "fielddata": true }
-            persistence:
-                driver: orm
-                model: App\Entity\Hands
-            finder: ~
-            settings:
-                index:
-                    max_result_window: 5000000
         tournois:
             properties:
                 identifiant: ~
@@ -97,3 +71,78 @@ fos_elastica:
             settings:
                 index:
                     max_result_window: 5000000
+
+        cards:
+            properties:
+                value: { 'type': 'text',
+                         'fielddata': true }
+                color: { 'type': 'text',
+                         'fielddata': true }
+                count: { 'type': 'integer' }
+                flop: { 'type': 'integer' }
+                turn: { 'type': 'integer' }
+                river: { 'type': 'integer' }
+                mycard: { 'type': 'integer' }
+                flopcard: { 'type': 'integer' }
+                turncard: { 'type': 'integer' }
+                rivercars: { 'type': 'integer' }
+            persistence:
+                driver: orm
+                model: App\Entity\Cards
+            finder: ~
+            settings:
+                index:
+                    max_result_window: 5000000
+
+        joueurs:
+            properties:
+                pseudo: { 'type': 'text',
+                          'fielddata': true }
+                hand_win: { 'type': 'integer' }
+                tour_win: { 'type': 'integer' }
+            persistence:
+                driver: orm
+                model: App\Entity\Joueur
+            finder: ~
+            settings:
+                index:
+                    max_result_window: 5000000
+
+        mains:
+            properties:
+                tournoi: { 'type': 'text',
+                           'fielddata': true }
+                card1: { 'type': 'text' }
+                card2: { 'type': 'text' }
+                flop1: { 'type': 'text' }
+                flop2: { 'type': 'text' }
+                flop3: { 'type': 'text' }
+                turn: { 'type': 'text' }
+                river: { 'type': 'text' }
+                player1: { 'type': 'text' }
+                player2: { 'type': 'text' }
+                player3: { 'type': 'text' }
+                player4: { 'type': 'text' }
+                player5: { 'type': 'text' }
+                player6: { 'type': 'text' }
+                player7: { 'type': 'text' }
+                player8: { 'type': 'text' }
+                player9: { 'type': 'text' }
+                win: { 'type': 'boolean' }
+            persistence:
+                driver: orm
+                model: App\Entity\Main
+                model_to_elastica_transformer:
+                    service: application_convert.index.mains
+
+        mes_mains:
+            properties:
+                card1: { 'type': 'text' }
+                card2: { 'type': 'text' }
+                count: { 'type': 'integer'}
+                win: { 'type': 'integer'}
+            persistence:
+                driver: orm
+                model: App\Entity\MesMains
+                model_to_elastica_transformer:
+                    service: application_convert.index.mains
