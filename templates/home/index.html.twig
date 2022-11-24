@@ -29,7 +29,10 @@
         </div>
     </div>
     <div class="row">
-        {{ render(path('cards_stats')) }}
+        {{ render(path('cards_stats', {'sort': 'mycard', 'size': 5})) }}
+    </div>
+    <div class="row">
+        {{ render(path('app_hands_stats', {'sort': 'count', 'size': 5})) }}
     </div>
 </div>
 {% endblock %}

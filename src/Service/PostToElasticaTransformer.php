@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\Service\ElasticaBundle;
+namespace App\Service;
 
 use Elastica\Document;
 use FOS\ElasticaBundle\Transformer\ModelToElasticaTransformerInterface;

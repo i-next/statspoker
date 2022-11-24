@@ -41,4 +41,6 @@ services:
             - '@fos_elastica.finder.seeds'
 
     application_convert.index.mains:
-        class: App\Service\ElasticaBundle\PostToElasticaTransformer
+        class: App\Service\PostToElasticaTransformer
+
+

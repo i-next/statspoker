@@ -1,0 +1,21 @@
+<div class="row">
+{%  for hand in hands %}
+        <div class="card text-center col-sm-2 point5 d-flex align-content-center flex-wrap" >
+
+                <div class="card-body">
+                    <div class="row">
+                        {% for card in hand.cards %}
+                            <img src="{{ asset(card| cardImage) }}"  class="" alt="{{ card| cardImage }}" style="width: 100px;">
+                        {% endfor %}
+                    </div>
+                    <div class="row">
+                        <h5 class="card-title">{{hand.win }}/{{ hand.count }}</h5>
+                    </div>
+                </div>
+            </div>
+
+    {% if not loop.last and (loop.index%10 == 0) %}
+    </div><div class="row">
+    {% endif %}
+{% endfor %}
+</div>

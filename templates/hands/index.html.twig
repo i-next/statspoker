@@ -1,50 +1,50 @@
 {% extends 'base.html.twig' %}
-{% from 'hands/macro_cards_figures.html.twig' import macro_cards_figures %}
+
 {% block title %}Pokerstats{% endblock %}
+{% block javascripts %}
 
+    {{ encore_entry_script_tags('cards') }}
+    {{ parent() }}
+{% endblock %}
 {% block body %}
+    <style>
+        .example-wrapper { margin: 1em auto; max-width: 800px; width: 95%; font: 18px/1.5 sans-serif; }
+        .example-wrapper code { background: #F5F5F5; padding: 2px 6px; }
+    </style>
+
     <div class="container">
-        <section id="main-content">
-            <section class="wrapper">
-                <div class="row text-center">
-                   <div class="col"><h3> Meilleures Mains</h3></div>
-                </div>
-                <div class="row">
-                {%  for best_hand in best_hands %}
-                    {%  set cards = [best_hand.idCard1,best_hand.idCard2] %}
-
-                    <div class="col">
-                        {%  for card in cards %}
-                            {{ macro_cards_figures(card) }}
-
-                        {% endfor %}
-                        <div class="text-center">
-                            <h5 class="">{{ best_hand.win }}/{{ best_hand.count }}</h5>
-                        </div>
-                    </div>
-
-                {% endfor %}
-                </div>
-                <div class="row text-center">
-                    <div class="col"><h3> Pires Mains</h3></div>
-                </div>
-                <div class="row">
-                    {%  for worst_hand in worst_hands %}
-                        {%  set cards_worst = [worst_hand.idCard1,worst_hand.idCard2] %}
-
-                        <div class="col">
-                            {%  for card_worst in cards_worst %}
-                                {{ macro_cards_figures(card_worst) }}
-
-                            {% endfor %}
-                            <div class="text-center">
-                                <h5 class="">{{ worst_hand.win }}/{{ worst_hand.count }}</h5>
-                            </div>
-                        </div>
-
-                    {% endfor %}
-                </div>
-            </section>
-        </section>
+        <div class="row">
+            <div class="d-flex .align-content-center"><h1>PokerStats</h1></div>
+        </div>
+        <div class="row">
+            <select id="sortcards" name="sortcards" class="filter_cards form-control" style="width:auto;" data-url="{{ path('cards_stats') }}">
+                <option value="mycard" selected>Reçu</option>
+                <option value="flopcard">Flop</option>
+                <option value="turncard">Turn</option>
+                <option value="rivercars">River</option>
+            </select>
+            <select id="sizecards" name="sizecards" class="filter_cards form-control" style="width:auto;">
+                <option value="all" >All</option>
+                <option value="5" selected>5</option>
+                <option value="10">10</option>
+            </select>
+        </div>
+        <div id="cards_stats" class="row">
+            {{ render(path('cards_stats', {'sort': 'mycard', 'size': 5})) }}
+        </div>
+        <div class="row">
+            <select id="sorthands" name="sorthands" class="filter_hands form-control" style="width:auto;" data-url="{{ path('app_hands_stats') }}">
+                <option value="count" selected>Reçu</option>
+                <option value="win">Gagnante</option>
+            </select>
+            <select id="sizehands" name="sizehands" class="filter_hands form-control" style="width:auto;">
+                <option value="all">All</option>
+                <option value="5" selected>5</option>
+                <option value="10">10</option>
+            </select>
+        </div>
+        <div id="hands_stats" class="row">
+            {{ render(path('app_hands_stats', {'sort': 'count', 'size': 5})) }}
+        </div>
     </div>
 {% endblock %}
