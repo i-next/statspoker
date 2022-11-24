@@ -1,0 +1,63 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Pokerstats{% endblock %}
+{% block stylesheets %}
+    <link href="https://unpkg.com/bootstrap-table@1.21.0/dist/bootstrap-table.min.css" rel="stylesheet">
+    {{ parent() }}
+{% endblock %}
+{% block javascripts %}
+
+    {{ encore_entry_script_tags('players') }}
+    {{ parent() }}
+    <script>
+        function ajaxPlayers(params) {
+
+            let url = $("#table").data('url');
+            console.log(url);
+            $.get(url + '?' + $.param(params.data)).then(function (res) {
+                params.success(res);
+                console.log(res);
+            })
+        }
+    </script>
+{% endblock %}
+{% block body %}
+    <style>
+        .example-wrapper {
+            margin: 1em auto;
+            max-width: 800px;
+            width: 95%;
+            font: 18px/1.5 sans-serif;
+        }
+
+        .example-wrapper code {
+            background: #F5F5F5;
+            padding: 2px 6px;
+        }
+    </style>
+
+    <div class="container">
+        <div class="row">
+            <div class="d-flex .align-content-center"><h1>PokerStats</h1></div>
+        </div>
+        <div class="row">
+            <table
+                    id="table"
+                    data-toggle="table"
+                    data-height="460"
+                    data-ajax="ajaxPlayers"
+                    data-search="true"
+                    data-side-pagination="server"
+                    data-pagination="true"
+                    data-url="{{ path('app_ajax_players') }}">
+                <thead>
+                <tr>
+                    <th data-field="pseudo">Pseudo</th>
+                    <th data-field="hand">Hands win</th>
+                    <th data-field="tour">Tours Win</th>
+                </tr>
+                </thead>
+            </table>
+        </div>
+    </div>
+{% endblock %}

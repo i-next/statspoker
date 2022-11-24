@@ -2,7 +2,8 @@
 
 {% block title %}Pokerstats{% endblock %}
 {% block javascripts %}
-
+    {{ encore_entry_script_tags('chartslib') }}
+    {{ encore_entry_script_tags('charts') }}
     {{ encore_entry_script_tags('tournois') }}
     {{ parent() }}
 {% endblock %}
