@@ -8,8 +8,17 @@
 {% endblock %}
 {% block body %}
     <style>
-        .example-wrapper { margin: 1em auto; max-width: 800px; width: 95%; font: 18px/1.5 sans-serif; }
-        .example-wrapper code { background: #F5F5F5; padding: 2px 6px; }
+        .example-wrapper {
+            margin: 1em auto;
+            max-width: 800px;
+            width: 95%;
+            font: 18px/1.5 sans-serif;
+        }
+
+        .example-wrapper code {
+            background: #F5F5F5;
+            padding: 2px 6px;
+        }
     </style>
 
     <div class="container">
@@ -17,35 +26,55 @@
             <div class="d-flex .align-content-center"><h1>PokerStats</h1></div>
         </div>
         <div class="row">
-            <select id="sortcards" name="sortcards" class="filter_cards form-control" style="width:auto;" data-url="{{ path('cards_stats') }}">
-                <option value="mycard" selected>Reçu</option>
-                <option value="flopcard">Flop</option>
-                <option value="turncard">Turn</option>
-                <option value="rivercars">River</option>
-            </select>
-            <select id="sizecards" name="sizecards" class="filter_cards form-control" style="width:auto;">
-                <option value="all" >All</option>
-                <option value="5" selected>5</option>
-                <option value="10">10</option>
-            </select>
-        </div>
-        <div id="cards_stats" class="row">
-            {{ render(path('cards_stats', {'sort': 'mycard', 'size': 5})) }}
-        </div>
-        <div class="row">
-            <select id="sorthands" name="sorthands" class="filter_hands form-control" style="width:auto;" data-url="{{ path('app_hands_stats') }}">
-                <option value="count">Reçu</option>
-                <option value="win">Gagnante</option>
-                <option value="ratio" selected>Best</option>
-            </select>
-            <select id="sizehands" name="sizehands" class="filter_hands form-control" style="width:auto;">
-                <option value="all">All</option>
-                <option value="5" selected>5</option>
-                <option value="10">10</option>
-            </select>
-        </div>
-        <div id="hands_stats" class="row">
-            {{ render(path('app_hands_stats', {'sort': 'ratio', 'size': 5})) }}
+            <nav>
+                <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                    <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home"
+                            type="button" role="tab" aria-controls="nav-home" aria-selected="true">Cards
+                    </button>
+                    <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile"
+                            type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Hands
+                    </button>
+                </div>
+            </nav>
+            <div class="tab-content" id="nav-tabContent">
+                <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                    <div class="row">
+                        <select id="sortcards" name="sortcards" class="filter_cards form-control select_filter" style="width:auto;"
+                                data-url="{{ path('cards_stats') }}">
+                            <option value="mycard" selected>Reçu</option>
+                            <option value="flopcard">Flop</option>
+                            <option value="turncard">Turn</option>
+                            <option value="rivercars">River</option>
+                        </select>
+                        <select id="sizecards" name="sizecards" class="filter_cards form-control select_filter" style="width:auto;">
+                            <option value="all" selected>All</option>
+                            <option value="5">5</option>
+                            <option value="10">10</option>
+                        </select>
+                    </div>
+                    <div id="cards_stats" class="row">
+                        {{ render(path('cards_stats', {'sort': 'mycard', 'size': 'all'})) }}
+                    </div>
+                </div>
+                <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+                    <div class="row">
+                        <select id="sorthands" name="sorthands" class="filter_hands form-control select_filter" style="width:auto;"
+                                data-url="{{ path('app_hands_stats') }}">
+                            <option value="count">Reçu</option>
+                            <option value="win">Gagnante</option>
+                            <option value="ratio" selected>Best</option>
+                        </select>
+                        <select id="sizehands" name="sizehands" class="filter_hands form-control select_filter" style="width:auto;">
+                            <option value="all" selected>All</option>
+                            <option value="5">5</option>
+                            <option value="10">10</option>
+                        </select>
+                    </div>
+                    <div id="hands_stats" class="row">
+                        {{ render(path('app_hands_stats', {'sort': 'ratio', 'size': 'all'})) }}
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 {% endblock %}

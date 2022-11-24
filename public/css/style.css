@@ -2062,7 +2062,7 @@ profile-text p {
 }
 
 .nav-tabs {
-	background: #e0e1e7;
+	background: #ffffff;
 }
 
 .nav-tabs a {
@@ -3487,4 +3487,8 @@ ul.chat-available-user li a:hover {
 
 .row {
     padding-top: 30px;
+}
+
+.select_filter {
+    margin-left: 10px;
 }
