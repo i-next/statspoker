@@ -44,17 +44,18 @@
             <table
                     id="table"
                     data-toggle="table"
-                    data-height="460"
+                    data-height="400"
                     data-ajax="ajaxPlayers"
                     data-search="true"
                     data-side-pagination="server"
                     data-pagination="true"
+                    data-page-size="10"
                     data-url="{{ path('app_ajax_players') }}">
                 <thead>
                 <tr>
-                    <th data-field="pseudo">Pseudo</th>
-                    <th data-field="hand">Hands win</th>
-                    <th data-field="tour">Tours Win</th>
+                    <th data-field="pseudo" data-sortable="true">Pseudo</th>
+                    <th data-field="hand_win" data-sortable="true">Hands win</th>
+                    <th data-field="tour_win" data-sortable="true">Tours Win</th>
                 </tr>
                 </thead>
             </table>
