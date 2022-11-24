@@ -34,14 +34,18 @@ class HandsController extends AbstractController
     #[Route('/hands/stats', name: 'app_hands_stats')]
     public function handsStats(Request $request): Response
     {
-        $sort = $request->query->get('sort')?:'count';
+        $sort = $request->query->get('sort')?:'ratio';
+
         $size = $request->query->get('size')?:10;
-        if($size === "all"){
+        if($size === "all" ){
             $size = 500;
         }
         $query = new Query();
         $query->setSize($size);
-        $query->setSort([$sort => 'DESC']);
+        if($sort !== 'ratio'){
+            $query->setSort([$sort => 'DESC']);
+        }
+
         $hands = $this->indexManager->getIndex('mes_mains')->search($query)->getResults();
         foreach ($hands as $hand){
             $data = $hand->getData();
@@ -51,10 +55,17 @@ class HandsController extends AbstractController
             $card2 = new Cards();
             $card2->setValue($data['card2'][0]);
             $card2->setColor($data['card2'][1]);
+            $win = $data['win']?:0;
             $results[$hand->getId()]['cards']['card1'] = $card1;
             $results[$hand->getId()]['cards']['card2'] = $card2;
             $results[$hand->getId()]['count'] = $data['count'];
-            $results[$hand->getId()]['win'] = $data['win']?:0;
+            $results[$hand->getId()]['win'] = $win;
+            $results[$hand->getId()]['ratio'] = $win/$data['count'];
+        }
+        if($sort === 'ratio'){
+            usort($results,function($a,$b){
+                return $a['ratio'] < $b['ratio'];
+            });
         }
 
         return $this->render('cards/helper/tabledoublecard.html.twig', [

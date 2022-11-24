@@ -34,8 +34,9 @@
         </div>
         <div class="row">
             <select id="sorthands" name="sorthands" class="filter_hands form-control" style="width:auto;" data-url="{{ path('app_hands_stats') }}">
-                <option value="count" selected>Reçu</option>
+                <option value="count">Reçu</option>
                 <option value="win">Gagnante</option>
+                <option value="ratio" selected>Best</option>
             </select>
             <select id="sizehands" name="sizehands" class="filter_hands form-control" style="width:auto;">
                 <option value="all">All</option>
@@ -44,7 +45,7 @@
             </select>
         </div>
         <div id="hands_stats" class="row">
-            {{ render(path('app_hands_stats', {'sort': 'count', 'size': 5})) }}
+            {{ render(path('app_hands_stats', {'sort': 'ratio', 'size': 5})) }}
         </div>
     </div>
 {% endblock %}
