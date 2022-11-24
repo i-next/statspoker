@@ -9,7 +9,7 @@ use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Annotation\Route;
 use FOS\ElasticaBundle\Index\IndexManager;
 use Elastica\Query;
-
+use function Symfony\Config\numberFormat;
 
 
 class HandsController extends AbstractController
@@ -56,7 +56,7 @@ class HandsController extends AbstractController
             $results[$hand->getId()]['cards']['card2'] = $card2;
             $results[$hand->getId()]['count'] = $data['count'];
             $results[$hand->getId()]['win'] = $win;
-            $results[$hand->getId()]['ratio'] = $win/$data['count'];
+            $results[$hand->getId()]['ratio'] = number_format($win/$data['count'],2);
         }
         if($sort === 'ratio'){
             usort($results,function($a,$b){
