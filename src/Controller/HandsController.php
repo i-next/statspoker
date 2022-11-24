@@ -35,11 +35,7 @@ class HandsController extends AbstractController
     public function handsStats(Request $request): Response
     {
         $sort = $request->query->get('sort')?:'ratio';
-
-        $size = $request->query->get('size')?:10;
-        if($size === "all" ){
-            $size = 500;
-        }
+        $size = 500;
         $query = new Query();
         $query->setSize($size);
         if($sort !== 'ratio'){
@@ -66,6 +62,10 @@ class HandsController extends AbstractController
             usort($results,function($a,$b){
                 return $a['ratio'] < $b['ratio'];
             });
+        }
+
+        if($request->query->get('size') !== 'all'){
+            $results = array_slice($results,0,$request->query->get('size')?:500);
         }
 
         return $this->render('cards/helper/tabledoublecard.html.twig', [
