@@ -123,7 +123,7 @@ class HomeController extends AbstractController
 
         foreach($this->indexManager->getIndex('tournois_result')->search($queryBuyin)->getResults() as $result){
             $data = $result->getData();
-            if(50 >= (float)$data['prizepool']){
+            if(50 >= (float)$data['prizepool'] && ((float)$data['prizepool'] % (float)$data['buyin']) == 0){
                 $response['labels'][] = $data['identifiant'];
                 $response['result'][] = $data['win'] / $data['nbtour'];
             }
