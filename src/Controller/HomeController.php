@@ -123,13 +123,17 @@ class HomeController extends AbstractController
 
         foreach($this->indexManager->getIndex('tournois_result')->search($queryBuyin)->getResults() as $result){
             $data = $result->getData();
-            dump($result->getId(),(float)$data['prizepool']);
-            dump((float)$data['buyin'],(float)$data['prizepool'] % (float)$data['buyin']);
-            /*if(50 >= (float)$data['prizepool'] && (float)$data['buyin'] !== 0 && ((float)$data['prizepool'] % (float)$data['buyin']) == 0){
+            $buyin = (float)$data['buyin'];
+            $prizepool = (float)$data['prizepool'];
+            if($buyin < 1){
+                $buyin = $buyin * 100;
+                $prizepool = $prizepool * 100;
+            }
+            if( (float)$data['prizepool'] < 100 && $prizepool % $buyin == 0){
                 $response['labels'][] = $data['identifiant'];
                 $response['result'][] = $data['win'] / $data['nbtour'];
-            }*/
-        }die;
+            }
+        }
         return new JsonResponse(json_encode($response));
     }
     #[Route('/ajaxspinandgomoney', name: 'app_data_spin_and_go_money')]
