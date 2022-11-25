@@ -35,9 +35,24 @@ class PlantController extends AbstractController
         $query->setSort(['status' => 'ASC', 'seed.name' => 'ASC']);
         $query->setSize(500);
         $result = $this->finder->find($query);
+        $queryMatch = new Query\MatchQuery();
+        $queryMatch->setField('status','Germination');
+        $query->setQuery($queryMatch);
+        $count['Germination'] = count($this->finder->find($query));
+        $queryMatch->setField('status','Croissance');
+        $query->setQuery($queryMatch);
+        $count['Croissance'] = count($this->finder->find($query));
+        $queryMatch->setField('status','Floraison');
+        $query->setQuery($queryMatch);
+        $count['Floraison'] = count($this->finder->find($query));
+        $queryMatch->setField('status','Recolte');
+        $query->setQuery($queryMatch);
+        $count['Recolte'] = count($this->finder->find($query));
+
         return $this->render('plant/index.html.twig', [
-            'plants' => $result,
-            'menu_active'       => 'plants',
+            'plants'        => $result,
+            'menu_active'   => 'plants',
+            'count'         => $count
         ]);
     }
 
