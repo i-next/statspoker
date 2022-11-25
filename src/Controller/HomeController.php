@@ -144,7 +144,7 @@ class HomeController extends AbstractController
         $queryBuyin = new Query();
         $queryBuyin->setSort(['buyin'=>'DESC']);
         $queryBuyin->setSize(500);
-        $queryTerms = new Query\Terms('buyin',["0.25","1.0","2","5.0"]);
+        $queryTerms = new Query\Terms('buyin',["0.25","1.0","2.0","5.0"]);
 
         $queryBool = new Query\BoolQuery();
         $queryBool->addMust($queryTerms);
