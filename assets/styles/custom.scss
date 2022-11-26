@@ -63,7 +63,7 @@ div.content {
 }
 
 .doublecard{
-  width: 76px;
+  width: 100px!important;
   height: 110px;
 }
 @media screen and (max-width: 840px) {
@@ -73,8 +73,8 @@ div.content {
   }
 
   .doublecard {
-    width: 59px!important;
-    height: 85px;
+    width: 100px!important;
+    height: 93px;
   }
 
 }
