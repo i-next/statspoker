@@ -1,6 +1,10 @@
 {% extends 'base.html.twig' %}
 
 {% block title %}Seed index{% endblock %}
+{% block stylesheets %}
+    <link href="https://unpkg.com/bootstrap-table@1.21.0/dist/bootstrap-table.min.css" rel="stylesheet">
+    {{ parent() }}
+{% endblock %}
 {% block javascripts %}
     {{ parent() }}
 {% endblock %}
@@ -9,13 +13,21 @@
         <section id="main-content">
             <section class="wrapper">
 
-                <table class="table table-striped table-dark">
+                <table id="table"
+                       data-toggle="table"
+                       data-height="100%"
+                       data-search="true"
+                       data-pagination="true"
+                       data-page-size="25"
+                       data-side-pagination="client"
+                       data-search-accent-neutralise="true"
+                       {#class="table table-striped table-dark"#}>
                     <thead>
                     <tr>
                         <th>Id</th>
-                        <th>Name</th>
-                        <th>Duration</th>
-                        <th>Quantity</th>
+                        <th  data-sortable="true">Name</th>
+                        <th  data-sortable="true">Duration</th>
+                        <th  data-sortable="true">Quantity</th>
                         <th>Commentaire</th>
                         <th>actions</th>
                     </tr>
