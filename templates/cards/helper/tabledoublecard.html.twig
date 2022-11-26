@@ -5,17 +5,17 @@
                 <div class="card-body">
                     <div class="row">
                         {% for card in hand.cards %}
-                            <img src="{{ asset(card| cardImage) }}"  class="" alt="{{ card| cardImage }}" style="width: 100px;">
+                            <img src="{{ asset(card| cardImage) }}"  class="doublecard" alt="{{ card| cardImage }}">
                         {% endfor %}
                     </div>
                     <div class="row">
-                        <h5 class="card-title">{{ hand.ratio }}({{hand.win }}/{{ hand.count }})</h5>
+                        <span class="card-title">{{ hand.ratio }}({{hand.win }}/{{ hand.count }})</span>
                     </div>
                 </div>
             </div>
 
-    {% if not loop.last and (loop.index%10 == 0) %}
+   {# {% if not loop.last and (loop.index%10 == 0) %}
     </div><div class="row">
-    {% endif %}
+    {% endif %}#}
 {% endfor %}
 </div>

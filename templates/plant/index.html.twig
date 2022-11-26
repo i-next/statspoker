@@ -4,150 +4,150 @@
 
 {% block body %}
     <div class="container">
-        <section id="main-content">
-            <section class="wrapper">
-                <h1>Plant index</h1>
-                <nav>
-                    <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                        <button class="nav-link active" id="nav-germ-tab" data-bs-toggle="tab"
-                                data-bs-target="#nav-germ"
-                                type="button" role="tab" aria-controls="nav-germ" aria-selected="true">Germination ({{ count.Germination }})
-                        </button>
-                        <button class="nav-link" id="nav-crois-tab" data-bs-toggle="tab" data-bs-target="#nav-crois"
-                                type="button" role="tab" aria-controls="nav-crois" aria-selected="false">Croissance ({{ count.Croissance }})
-                        </button>
-                        <button class="nav-link" id="nav-flo-tab" data-bs-toggle="tab" data-bs-target="#nav-flo"
-                                type="button" role="tab" aria-controls="nav-flo" aria-selected="false">Floraison ({{ count.Floraison }})
-                        </button>
-                        <button class="nav-link" id="nav-rec-tab" data-bs-toggle="tab" data-bs-target="#nav-rec"
-                                type="button" role="tab" aria-controls="nav-rec" aria-selected="false">Recolte ({{ count.Recolte }})
-                        </button>
-                    </div>
-                </nav>
-                <div class="tab-content" id="nav-tabContent">
-                    <div class="tab-pane fade show active" id="nav-germ" role="tabpanel" aria-labelledby="nav-germ-tab">
-                        <table class="table">
-                            <thead>
-                            <tr>
-                                <th>Name</th>
-                                <th>Status</th>
-                                <th>Date_updated</th>
-                                <th>actions</th>
+        <h1>Plantes</h1>
+        <nav>
+            <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                <button class="nav-link active" id="nav-germ-tab" data-bs-toggle="tab"
+                        data-bs-target="#nav-germ"
+                        type="button" role="tab" aria-controls="nav-germ" aria-selected="true">Germination
+                    ({{ count.Germination }})
+                </button>
+                <button class="nav-link" id="nav-crois-tab" data-bs-toggle="tab" data-bs-target="#nav-crois"
+                        type="button" role="tab" aria-controls="nav-crois" aria-selected="false">Croissance
+                    ({{ count.Croissance }})
+                </button>
+                <button class="nav-link" id="nav-flo-tab" data-bs-toggle="tab" data-bs-target="#nav-flo"
+                        type="button" role="tab" aria-controls="nav-flo" aria-selected="false">Floraison
+                    ({{ count.Floraison }})
+                </button>
+                <button class="nav-link" id="nav-rec-tab" data-bs-toggle="tab" data-bs-target="#nav-rec"
+                        type="button" role="tab" aria-controls="nav-rec" aria-selected="false">Recolte
+                    ({{ count.Recolte }})
+                </button>
+            </div>
+        </nav>
+        <div class="tab-content" id="nav-tabContent">
+            <div class="tab-pane fade show active" id="nav-germ" role="tabpanel" aria-labelledby="nav-germ-tab">
+                <table class="table">
+                    <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Status</th>
+                        <th>Date_updated</th>
+                        <th>actions</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {% for plant in plants %}
+                        {% if plant.status == 'Germination' %}
+                            {% set state = 'info' %}
+                            <tr class="table-{{ state }}">
+                                <td>{{ plant.seed.name }}({{ plant.seed.duration }})</td>
+                                <td>{{ plant.status }}</td>
+                                <td>{{ plant.dateUpdated ? plant.dateUpdated|date('Y-m-d') : '' }}</td>
+                                <td>
+                                    <a href="{{ path('app_plant_show', {'id': plant.id}) }}">show</a>
+                                    <a href="{{ path('app_plant_edit', {'id': plant.id}) }}">edit</a>
+                                </td>
                             </tr>
-                            </thead>
-                            <tbody>
-                            {% for plant in plants %}
-                                {% if plant.status == 'Germination' %}
-                                    {% set state = 'info' %}
-                                    <tr class="table-{{ state }}">
-                                        <td>{{ plant.seed.name }}({{ plant.seed.duration }})</td>
-                                        <td>{{ plant.status }}</td>
-                                        <td>{{ plant.dateUpdated ? plant.dateUpdated|date('Y-m-d') : '' }}</td>
-                                        <td>
-                                            <a href="{{ path('app_plant_show', {'id': plant.id}) }}">show</a>
-                                            <a href="{{ path('app_plant_edit', {'id': plant.id}) }}">edit</a>
-                                        </td>
-                                    </tr>
-                                {% endif %}
-                            {% endfor %}
-                            </tbody>
-                        </table>
-                    </div>
-                    <div class="tab-pane fade" id="nav-crois" role="tabpanel" aria-labelledby="nav-crois-tab">
-                        <table class="table">
-                            <thead>
-                            <tr>
-                                <th>Name</th>
-                                <th>Status</th>
-                                <th>Date_updated</th>
-                                <th>actions</th>
+                        {% endif %}
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            <div class="tab-pane fade" id="nav-crois" role="tabpanel" aria-labelledby="nav-crois-tab">
+                <table class="table">
+                    <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Status</th>
+                        <th>Date_updated</th>
+                        <th>actions</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {% for plant in plants %}
+                        {% if plant.status == 'Croissance' %}
+                            {% set state = 'success' %}
+                            <tr class="table-{{ state }}">
+                                <td>{{ plant.seed.name }}({{ plant.seed.duration }})</td>
+                                <td>{{ plant.status }}</td>
+                                <td>{{ plant.dateUpdated ? plant.dateUpdated|date('Y-m-d') : '' }}</td>
+                                <td>
+                                    <a href="{{ path('app_plant_show', {'id': plant.id}) }}">show</a>
+                                    <a href="{{ path('app_plant_edit', {'id': plant.id}) }}">edit</a>
+                                </td>
                             </tr>
-                            </thead>
-                            <tbody>
-                            {% for plant in plants %}
-                                {% if plant.status == 'Croissance' %}
-                                    {% set state = 'success' %}
-                                    <tr class="table-{{ state }}">
-                                        <td>{{ plant.seed.name }}({{ plant.seed.duration }})</td>
-                                        <td>{{ plant.status }}</td>
-                                        <td>{{ plant.dateUpdated ? plant.dateUpdated|date('Y-m-d') : '' }}</td>
-                                        <td>
-                                            <a href="{{ path('app_plant_show', {'id': plant.id}) }}">show</a>
-                                            <a href="{{ path('app_plant_edit', {'id': plant.id}) }}">edit</a>
-                                        </td>
-                                    </tr>
-                                {% endif %}
-                            {% endfor %}
-                            </tbody>
-                        </table>
-                    </div>
-                    <div class="tab-pane fade show" id="nav-flo" role="tabpanel" aria-labelledby="nav-flo-tab">
-                        <table class="table">
-                            <thead>
-                            <tr>
-                                <th>Name</th>
-                                <th>Status</th>
-                                <th>Date_updated</th>
-                                <th>Date Recolte</th>
-                                <th>actions</th>
+                        {% endif %}
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            <div class="tab-pane fade show" id="nav-flo" role="tabpanel" aria-labelledby="nav-flo-tab">
+                <table class="table">
+                    <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Status</th>
+                        <th>Date_updated</th>
+                        <th>Date Recolte</th>
+                        <th>actions</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {% for plant in plants %}
+                        {% if plant.status == 'Floraison' %}
+                            {% set state = 'warning' %}
+                            <tr class="table-{{ state }}">
+                                <td>{{ plant.seed.name }}({{ plant.seed.duration }})</td>
+                                <td>{{ plant.status }}</td>
+                                <td>{{ plant.dateUpdated ? plant.dateUpdated|date('Y-m-d') : '' }}</td>
+                                <td>{% if plant.status == 'Floraison' %}{{ plant.comment }}{% endif %}</td>
+                                <td>
+                                    <a href="{{ path('app_plant_show', {'id': plant.id}) }}">show</a>
+                                    <a href="{{ path('app_plant_edit', {'id': plant.id}) }}">edit</a>
+                                </td>
                             </tr>
-                            </thead>
-                            <tbody>
-                            {% for plant in plants %}
-                                {% if plant.status == 'Floraison' %}
-                                    {% set state = 'warning' %}
-                                    <tr class="table-{{ state }}">
-                                        <td>{{ plant.seed.name }}({{ plant.seed.duration }})</td>
-                                        <td>{{ plant.status }}</td>
-                                        <td>{{ plant.dateUpdated ? plant.dateUpdated|date('Y-m-d') : '' }}</td>
-                                        <td>{% if plant.status == 'Floraison' %}{{ plant.comment }}{% endif %}</td>
-                                        <td>
-                                            <a href="{{ path('app_plant_show', {'id': plant.id}) }}">show</a>
-                                            <a href="{{ path('app_plant_edit', {'id': plant.id}) }}">edit</a>
-                                        </td>
-                                    </tr>
-                                {% endif %}
-                            {% endfor %}
-                            </tbody>
-                        </table>
-                    </div>
-                    <div class="tab-pane fade" id="nav-rec" role="tabpanel" aria-labelledby="nav-rec-tab">
-                        <table class="table">
-                            <thead>
-                            <tr>
-                                <th>Name</th>
-                                <th>Status</th>
-                                <th>Date_updated</th>
-                                <th>Date Recolte</th>
-                                <th>Qty</th>
-                                <th>actions</th>
+                        {% endif %}
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            <div class="tab-pane fade" id="nav-rec" role="tabpanel" aria-labelledby="nav-rec-tab">
+                <table class="table">
+                    <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Status</th>
+                        <th>Date_updated</th>
+                        <th>Date Recolte</th>
+                        <th>Qty</th>
+                        <th>actions</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {% for plant in plants %}
+                        {% if plant.status == 'Recolte' %}
+                            {% set state = 'danger' %}
+                            <tr class="table-{{ state }}">
+                                <td>{{ plant.seed.name }}({{ plant.seed.duration }})</td>
+                                <td>{{ plant.status }}</td>
+                                <td>{{ plant.dateUpdated ? plant.dateUpdated|date('Y-m-d') : '' }}</td>
+                                <td>{{ plant.qty }}</td>
+                                <td>{% if plant.status == 'Floraison' %}{{ plant.comment }}{% endif %}</td>
+                                <td>
+                                    <a href="{{ path('app_plant_show', {'id': plant.id}) }}">show</a>
+                                    <a href="{{ path('app_plant_edit', {'id': plant.id}) }}">edit</a>
+                                </td>
                             </tr>
-                            </thead>
-                            <tbody>
-                            {% for plant in plants %}
-                                {% if plant.status == 'Recolte' %}
-                                    {% set state = 'danger' %}
-                                    <tr class="table-{{ state }}">
-                                        <td>{{ plant.seed.name }}({{ plant.seed.duration }})</td>
-                                        <td>{{ plant.status }}</td>
-                                        <td>{{ plant.dateUpdated ? plant.dateUpdated|date('Y-m-d') : '' }}</td>
-                                        <td>{{ plant.qty }}</td>
-                                        <td>{% if plant.status == 'Floraison' %}{{ plant.comment }}{% endif %}</td>
-                                        <td>
-                                            <a href="{{ path('app_plant_show', {'id': plant.id}) }}">show</a>
-                                            <a href="{{ path('app_plant_edit', {'id': plant.id}) }}">edit</a>
-                                        </td>
-                                    </tr>
-                                {% endif %}
-                            {% endfor %}
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
+                        {% endif %}
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
 
 
-                <a href="{{ path('app_plant_new') }}">Create new</a>
-            </section>
-        </section>
+        <a href="{{ path('app_plant_new') }}">Create new</a>
     </div>
 {% endblock %}

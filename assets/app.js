@@ -16,7 +16,7 @@ require('bootstrap');
 // create global $ and jQuery variables
 global.$ = global.jQuery = $;
 import 'bootstrap-table';
-
+import '@fortawesome/fontawesome-free/js/all.js'
 // function to update our chart
 window.ajax_chart =function (chart, url, data, dest, param) {
     var data = data || {};
