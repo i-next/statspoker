@@ -156,11 +156,12 @@ class TournoiController extends AbstractController
         $result = [];
         foreach($this->indexManager->getIndex('tournois')->search($queryTournois)->getResults() as $key => $resultSearch){
             $result['labels'][] = 'tournoi'.$key;
-            if ($resultSearch->getData()['win']) {
+            $gain += $resultSearch->getData()['money'];
+            /*if ($resultSearch->getData()['win']) {
                 $gain += $resultSearch->getData()['money'];
             } else {
                 $gain -= $resultSearch->getData()['buyin'];
-            }
+            }*/
             $result['result'][] = $gain;
         }
         return new JsonResponse(json_encode($result));
