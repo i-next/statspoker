@@ -229,11 +229,11 @@ class TournoiController extends AbstractController
             if (!array_key_exists($tournoiDate->format('d/m/Y'), $tournoiWinPerDay)) {
                 $tournoiWinPerDay[$tournoiDate->format('d/m/Y')] = 0;
             }
-            if ($tournoiData['win']) {
+//            if ($tournoiData['win']) {
                 $tournoiWinPerDay[$tournoiDate->format('d/m/Y')] += $tournoiData['money'];
-            } else {
-                $tournoiWinPerDay[$tournoiDate->format('d/m/Y')] -= $tournoiData['buyin'];
-            }
+//            } else {
+//                $tournoiWinPerDay[$tournoiDate->format('d/m/Y')] -= $tournoiData['buyin'];
+//            }
         }
         foreach ($tournoiWinPerDay as $key => $value) {
             $result['labels'][] = $key;
@@ -258,11 +258,11 @@ class TournoiController extends AbstractController
             $tournoiData = $tournoiEs->getData();
             $tournoiDate = new \DateTime();
             $tournoiDate->setTimestamp(strtotime($tournoiData['date']));
-            if ($tournoiData['win']) {
+//            if ($tournoiData['win']) {
                 $gain += $tournoiData['money'];
-            } else {
-                $gain -= $tournoiData['buyin'];
-            }
+//            } else {
+//                $gain -= $tournoiData['buyin'];
+//            }
             $tournoisGains['tournoi' . $key] = $gain;
         }
         foreach ($tournoisGains as $key => $value) {
