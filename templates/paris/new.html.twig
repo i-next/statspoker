@@ -1,0 +1,11 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}New Paris{% endblock %}
+
+{% block body %}
+    <h1>Create new Paris</h1>
+
+    {{ include('paris/_form.html.twig') }}
+
+    <a href="{{ path('app_paris_index') }}">back to list</a>
+{% endblock %}

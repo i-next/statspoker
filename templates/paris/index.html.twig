@@ -1,0 +1,37 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Paris index{% endblock %}
+
+{% block body %}
+    <h1>Paris index</h1>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Date</th>
+                <th>Win</th>
+                <th>actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for pari in paris %}
+            <tr>
+                <td>{{ pari.id }}</td>
+                <td>{{ pari.date ? pari.date|date('Y-m-d') : '' }}</td>
+                <td>{{ pari.win }}</td>
+                <td>
+                    <a href="{{ path('app_paris_show', {'id': pari.id}) }}">show</a>
+                    <a href="{{ path('app_paris_edit', {'id': pari.id}) }}">edit</a>
+                </td>
+            </tr>
+        {% else %}
+            <tr>
+                <td colspan="4">no records found</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <a href="{{ path('app_paris_new') }}">Create new</a>
+{% endblock %}

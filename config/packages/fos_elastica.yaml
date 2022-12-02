@@ -146,3 +146,15 @@ fos_elastica:
                 model: App\Entity\MesMains
                 model_to_elastica_transformer:
                     service: application_convert.index.mains
+
+        paris:
+            properties:
+                date: { 'type': 'date' }
+                win: { 'type': 'short'}
+            persistence:
+                driver: orm
+                model: App\Entity\Paris
+            settings:
+                index:
+                    max_result_window: 5000000
+

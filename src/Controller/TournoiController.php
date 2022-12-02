@@ -154,15 +154,34 @@ class TournoiController extends AbstractController
         $queryTournois->setQuery($boolQuery);
         $gain = 0;
         $result = [];
+        $paris = $this->indexManager->getIndex('paris')->search($queryTournois)->getResults();
+        $resultParis = [];
+        foreach($paris as $pari){
+            $data = $pari->getData();
+            $date = new \DateTime();
+            $date->setTimestamp(strtotime($data['date']));
+            $dateData = $date->format("d/m/Y");
+            if(array_key_exists($dateData,$resultParis)){
+                $resultParis[$dateData] += $data['win'];
+            }else{
+                $resultParis[$dateData] = $data['win'];
+            }
+        }
+        $i = 0;
         foreach($this->indexManager->getIndex('tournois')->search($queryTournois)->getResults() as $key => $resultSearch){
-            $result['labels'][] = 'tournoi'.$key;
+            $tournoiDate = new \DateTime();
+            $tournoiDate->setTimestamp(strtotime($resultSearch->getData()['date']));
+            if(array_key_exists($tournoiDate->format("d/m/Y"),$resultParis)){
+                $gain += $resultParis[$tournoiDate->format("d/m/Y")];
+                $result['labels'][] = 'tournoi'.$i;
+                $result['result'][] = $gain;
+                $i++;
+                unset($resultParis[$tournoiDate->format("d/m/Y")]);
+            }
+            $result['labels'][] = 'tournoi'.$i;
             $gain += $resultSearch->getData()['money'];
-            /*if ($resultSearch->getData()['win']) {
-                $gain += $resultSearch->getData()['money'];
-            } else {
-                $gain -= $resultSearch->getData()['buyin'];
-            }*/
             $result['result'][] = $gain;
+            $i++;
         }
         return new JsonResponse(json_encode($result));
     }
@@ -251,20 +270,37 @@ class TournoiController extends AbstractController
         $queryTournois->setSize(500000);
         $queryTournois->setSort(['date' => 'ASC']);
         $tournois = $this->indexManager->getIndex('tournois')->search($queryTournois)->getResults();
+        $paris = $this->indexManager->getIndex('paris')->search($queryTournois)->getResults();
+        $resultParis = [];
+        foreach($paris as $pari){
+            $data = $pari->getData();
+            $date = new \DateTime();
+            $date->setTimestamp(strtotime($data['date']));
+            $dateData = $date->format("d/m/Y");
+            if(array_key_exists($dateData,$resultParis)){
+                $resultParis[$dateData] += $data['win'];
+            }else{
+                $resultParis[$dateData] = $data['win'];
+            }
+        }
         $result['labels'] = [];
         $result['result'] = [];
         $gain = 0;
         $tournoisGains = [];
+        $i = 0;
         foreach ($tournois as $key => $tournoiEs) {
             $tournoiData = $tournoiEs->getData();
             $tournoiDate = new \DateTime();
             $tournoiDate->setTimestamp(strtotime($tournoiData['date']));
-//            if ($tournoiData['win']) {
-                $gain += $tournoiData['money'];
-//            } else {
-//                $gain -= $tournoiData['buyin'];
-//            }
-            $tournoisGains['tournoi' . $key] = $gain;
+            if(array_key_exists($tournoiDate->format("d/m/Y"),$resultParis)){
+                $gain += $resultParis[$tournoiDate->format("d/m/Y")];
+                $tournoisGains['tournoi' . $i] = $gain;
+                $i++;
+                unset($resultParis[$tournoiDate->format("d/m/Y")]);
+            }
+            $gain += $tournoiData['money'];
+            $tournoisGains['tournoi' . $i] = $gain;
+            $i++;
         }
         foreach ($tournoisGains as $key => $value) {
             $result['labels'][] = $key;

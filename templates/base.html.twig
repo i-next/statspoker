@@ -49,6 +49,12 @@
                     <span>Cards</span>
                 </a>
             </li>
+            <li class="{% if menu_active == 'paris' %} active{% else %}sub-menu {% endif %}">
+                <a href="/paris" class="{% if menu_active == 'paris' %} active{% endif %}">
+                    <i class="fa fa-money-bill"></i>
+                    <span>Paris</span>
+                </a>
+            </li>
             <li class="{% if menu_active == 'players' %} active{% else %}sub-menu {% endif %}">
                 <a href="/players" class="{% if menu_active == 'players' %} active{% endif %}">
                     <i class="fa fa-user"></i>

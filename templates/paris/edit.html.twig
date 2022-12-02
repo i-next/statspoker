@@ -1,0 +1,13 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Edit Paris{% endblock %}
+
+{% block body %}
+    <h1>Edit Paris</h1>
+
+    {{ include('paris/_form.html.twig', {'button_label': 'Update'}) }}
+
+    <a href="{{ path('app_paris_index') }}">back to list</a>
+
+    {{ include('paris/_delete_form.html.twig') }}
+{% endblock %}
