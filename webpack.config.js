@@ -23,6 +23,7 @@ Encore
     .addEntry('app', './assets/app.js')
     .addEntry('charts','./assets/js/chartsprocess.js')
     .addEntry('chartslib','./assets/js/charts.js')
+    .addEntry('dashboard','./assets/js/dashboard.js')
     .addEntry('tournois', './assets/js/tournois.js')
     .addEntry('cards', './assets/js/cards.js')
     .addEntry('players', './assets/js/players.js')

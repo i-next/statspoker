@@ -5,6 +5,7 @@
 
     {{ encore_entry_script_tags('chartslib') }}
     {{ encore_entry_script_tags('charts') }}
+    {{ encore_entry_script_tags('dashboard') }}
     {{ parent() }}
 {% endblock %}
 {% block body %}
@@ -23,6 +24,16 @@
         </div>
         <div class="col">
             <div><canvas id="cash" width="400" height="200" data-url="{{ path('app_data_7_days_money') }}"></canvas></div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <canvas id="tournament_win_per_month" height="240px"
+                    data-url="{{ path('app_win_per_month_tour') }}"><p>Tournoi Gains par mois</p></canvas>
+        </div>
+        <div class="col">
+            <canvas id="tournament_win_per_day" height="240px"
+                    data-url="{{ path('app_win_per_day_tour') }}"><p>Tournoi Gains par jour</p></canvas>
         </div>
     </div>
     <div class="row">

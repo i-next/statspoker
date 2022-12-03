@@ -211,9 +211,11 @@ class TournoiController extends AbstractController
         $queryTournois->setSize(500000);
         $queryTournois->setSort(['date' => 'ASC']);
         $tournois = $this->indexManager->getIndex('tournois')->search($queryTournois)->getResults();
+        $paris = $this->indexManager->getIndex('paris')->search($queryTournois)->getResults();
+        $tournoiWinPerMonth = [];
         $result['labels'] = [];
         $result['result'] = [];
-        $tournoiWinPerMonth = [];
+
         foreach ($tournois as $key => $tournoiEs) {
             $tournoiData = $tournoiEs->getData();
             $tournoiDate = new \DateTime();
@@ -223,6 +225,16 @@ class TournoiController extends AbstractController
             }
             $tournoiWinPerMonth[$tournoiDate->format('m/Y')] += $tournoiData['money'];
 
+        }
+        foreach ($paris as $key => $pari) {
+            $pariData = $pari->getData();
+            $pariDate = new \DateTime();
+            $pariDate->setTimestamp(strtotime($pariData['date']));
+            if (!array_key_exists($pariDate->format('m/Y'), $tournoiWinPerMonth)) {
+                $tournoiWinPerMonth[$pariDate->format('m/Y')] = 0;
+            }
+
+            $tournoiWinPerMonth[$pariDate->format('m/Y')] += $pariData['win'];
         }
         foreach ($tournoiWinPerMonth as $key => $value) {
             $result['labels'][] = $key;
@@ -239,6 +251,7 @@ class TournoiController extends AbstractController
         $queryTournois->setSize(500000);
         $queryTournois->setSort(['date' => 'ASC']);
         $tournois = $this->indexManager->getIndex('tournois')->search($queryTournois)->getResults();
+        $paris = $this->indexManager->getIndex('paris')->search($queryTournois)->getResults();
         $result['labels'] = [];
         $result['result'] = [];
         $tournoiWinPerDay = [];
@@ -249,11 +262,17 @@ class TournoiController extends AbstractController
             if (!array_key_exists($tournoiDate->format('d/m/Y'), $tournoiWinPerDay)) {
                 $tournoiWinPerDay[$tournoiDate->format('d/m/Y')] = 0;
             }
-//            if ($tournoiData['win']) {
                 $tournoiWinPerDay[$tournoiDate->format('d/m/Y')] += $tournoiData['money'];
-//            } else {
-//                $tournoiWinPerDay[$tournoiDate->format('d/m/Y')] -= $tournoiData['buyin'];
-//            }
+        }
+        foreach ($paris as $key => $pari) {
+            $pariData = $pari->getData();
+            $pariDate = new \DateTime();
+            $pariDate->setTimestamp(strtotime($pariData['date']));
+            if (!array_key_exists($pariDate->format('d/m/Y'), $tournoiWinPerDay)) {
+                $tournoiWinPerDay[$pariDate->format('d/m/Y')] = 0;
+            }
+
+            $tournoiWinPerDay[$pariDate->format('d/m/Y')] += $pariData['win'];
         }
         foreach ($tournoiWinPerDay as $key => $value) {
             $result['labels'][] = $key;

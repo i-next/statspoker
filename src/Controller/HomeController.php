@@ -67,6 +67,17 @@ class HomeController extends AbstractController
             $tournoiWinResult[$tournoiDate->format('d/m/Y')] = $tournoisWinGame[$tournoiDate->format('d/m/Y')];
             $oldIdentifiant = $tournoiDate->format('d/m/Y');
         }
+        foreach ($this->indexManager->getIndex('paris')->search($queryTournois)->getResults() as $parisES) {
+            $pariData = $parisES->getData();
+            $pariDate = new \DateTime();
+            $pariDate->setTimestamp(strtotime($pariData['date']));
+            if (!array_key_exists($pariDate->format('d/m/Y'), $tournoiWinResult)) {
+                $tournoiWinResult[$pariDate->format('d/m/Y')] = 1;
+            }
+
+            $tournoiWinResult[$pariDate->format('d/m/Y')] += 1;
+        }
+
         foreach ($tournoiWinResult as $key => $value) {
             $result['labels'][] = $key;
             $result['result'][] = $value;
