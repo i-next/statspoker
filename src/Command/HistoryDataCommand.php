@@ -102,14 +102,15 @@ class HistoryDataCommand extends Command
                             $this->entityManager->flush();
                         }else{
                             $tournoiPs = $this->tournoiRepository->findOneBy(['identifiant' => $tournoi[2]]);
-                            $tournoiPs?:dump($tournoi);
-                            $tournoiPs->setWin(true);
-                            $tournoiPs->setPosition(1);
-                            $tournoiPs->setMoney($win);
-                            $tournoiPs->setPrizepool($win);
-                            $allTournoi[$tournoi[2]] = $tournoiPs;
-                            $this->entityManager->persist($tournoiPs);
-                            $this->entityManager->flush();
+                            if($tournoiPs){
+                                $tournoiPs->setWin(true);
+                                $tournoiPs->setPosition(1);
+                                $tournoiPs->setMoney($win);
+                                $tournoiPs->setPrizepool($win);
+                                $allTournoi[$tournoi[2]] = $tournoiPs;
+                                $this->entityManager->persist($tournoiPs);
+                                $this->entityManager->flush();
+                            }
                         }
                     }
                 }
