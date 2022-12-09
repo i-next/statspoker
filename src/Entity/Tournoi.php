@@ -60,7 +60,7 @@ class Tournoi
         return $this->identifiant;
     }
 
-    public function setIdentifiant(int $identifiant): self
+    public function setIdentifiant($identifiant): self
     {
         $this->identifiant = $identifiant;
 
