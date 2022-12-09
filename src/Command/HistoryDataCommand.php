@@ -26,7 +26,7 @@ use App\Repository\TournoiRepository;
 )]
 class HistoryDataCommand extends Command
 {
-    private const INDEXTOURNOI =[0,2,3,5,9];
+    private const INDEXTOURNOI =[0,2,3,6,9];
 
     private $entityManager;
 
@@ -77,17 +77,17 @@ class HistoryDataCommand extends Command
                 });
                 $allTournoi = [];
                 foreach($table as $tournoi){
-                    if(array_key_exists(0,$tournoi) && $tournoi[0] && $tournoi[5] !== "0,00Â "){
+                    if(array_key_exists(0,$tournoi) && $tournoi[0] && $tournoi[6] !== "0,00Â "){
                         $dateArray = explode(' ',$tournoi[0]);
                         $date = \DateTime::createFromFormat('d/m/Y', $dateArray[0]);
-                        $win = floatval(rtrim(preg_replace('~[(Â) ]~', '',str_replace(',','.',$tournoi[5]))));
+                        $win = floatval(rtrim(preg_replace('~[(Â) ]~', '',str_replace(',','.',$tournoi[6]))));
                         if($tournoi[2][0] === "4"){
                             $pari = new Paris();
                             $pari->setWin($win);
                             $pari->setDate($date);
                             $this->entityManager->persist($pari);
                             $this->entityManager->flush();
-                        }elseif(str_contains($tournoi[5],'(')){
+                        }elseif(str_contains($tournoi[6],'(')){
                             $tournoiPs = new Tournoi();
                             $tournoiPs->setIdentifiant($tournoi[2]);
                             $tournoiPs->setDate($date);
