@@ -60,11 +60,6 @@ class TournoiController extends AbstractController
         $results = $tournoiResultRepository->findBy([], ['buyin' => 'ASC']);
         $response = [];
         foreach ($results as $result) {
-            /*if($result->getWin() <> 0){
-                $response[$result->getIdentifiant()] = $result->getNbtour()/$result->getWin();
-            }else{
-                $response[$result->getIdentifiant()] = 0;
-            }*/
             $response[$result->getIdentifiant()] = $result->getWin() / $result->getNbtour();
         }
         return new JsonResponse([
