@@ -55,7 +55,7 @@ class Tournoi
         return $this->id;
     }
 
-    public function getIdentifiant(): ?int
+    public function getIdentifiant(): void
     {
         return $this->identifiant;
     }
