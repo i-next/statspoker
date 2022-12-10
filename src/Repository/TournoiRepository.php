@@ -7,6 +7,7 @@ use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
 use Doctrine\ORM\OptimisticLockException;
 use Doctrine\ORM\ORMException;
 use Doctrine\Persistence\ManagerRegistry;
+use function Symfony\Component\Form\ChoiceList\groupBy;
 
 /**
  * @method Tournoi|null find($id, $lockMode = null, $lockVersion = null)
@@ -50,6 +51,17 @@ class TournoiRepository extends ServiceEntityRepository
         return $this->createQueryBuilder('t')
             ->andWhere('t.prizepool > 3 * t.buyin')
             ->getQuery()
+            ->setMaxResults(5000)
+            ->getResult();
+    }
+
+    public function getDuplicate()
+    {
+        return $this->createQueryBuilder('t')
+            ->select('t.identifiant')
+            ->addSelect('COUNT(*) as count')
+            ->groupBy('t.identifiant')
+            ->where('count > 1')
             ->setMaxResults(5000)
             ->getResult();
     }

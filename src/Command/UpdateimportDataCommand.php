@@ -60,14 +60,15 @@ class UpdateimportDataCommand extends Command
 
 
 
-        $io->success('Import tournois ');
-        $this->importTournoi();
+        $io->success('Duplicate tournois ');
+        $this->duplicateTournoi();
         return Command::SUCCESS;
     }
-    private function importTournoi(): void
+    private function duplicateTournoi(): void
     {
-        $tournois = $this->tournoiRepository->tournoiTicket();
-        foreach ($tournois as $tournoi){
+        $tournois = $this->tournoiRepository->getDuplicate();
+        dump($tournois);
+        /*foreach ($tournois as $tournoi){
             $finder = new Finder();
             $finder->files()->in('datasrc/archives/tournois')->name('*'.$tournoi->getIdentifiant().'*.txt');
             foreach($finder as $file){
@@ -76,7 +77,7 @@ class UpdateimportDataCommand extends Command
                 dump($fileData->getFilename());
             }
 
-        }
+        }*/
         die;
         /*$finder = new Finder();
         $finder->files()->in('datasrc/psychoman59')->depth(0);
