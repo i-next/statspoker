@@ -67,17 +67,19 @@ class UpdateimportDataCommand extends Command
     private function duplicateTournoi(): void
     {
         $tournois = $this->tournoiRepository->getDuplicate();
-        dump($tournois);
-        /*foreach ($tournois as $tournoi){
-            $finder = new Finder();
-            $finder->files()->in('datasrc/archives/tournois')->name('*'.$tournoi->getIdentifiant().'*.txt');
-            foreach($finder as $file){
-                $fileData = new SplFileObject($file);
-                $this->importTournoi->updateTournoiTicket($fileData,$tournoi);
-                dump($fileData->getFilename());
-            }
 
-        }*/
+        foreach ($tournois as $tournoi){
+            $duplicates = $this->tournoiRepository->findBy(['identifiant' =>$tournoi['identifiant']]);
+            foreach($duplicates as $key => $duplicate){
+                dump($duplicate);die;
+                if ($key === array_key_last($duplicates)) {
+                    break;
+                }
+
+            }
+            dump($tournoi);
+
+        }
         die;
         /*$finder = new Finder();
         $finder->files()->in('datasrc/psychoman59')->depth(0);
