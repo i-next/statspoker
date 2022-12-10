@@ -75,8 +75,8 @@ class UpdateimportDataCommand extends Command
                 if ($key === array_key_last($duplicates)) {
                     break;
                 }
-                dump($tournoi->getId());
-                $tournoiToRemove = $this->tournoiRepository->find($tournoi->getId());
+                dump($duplicate->getId());
+                $tournoiToRemove = $this->tournoiRepository->find($duplicate->getId());
                 $this->entityManager->remove($tournoiToRemove);
                 $this->entityManager->flush();
             }
