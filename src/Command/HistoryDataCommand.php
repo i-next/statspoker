@@ -88,7 +88,10 @@ class HistoryDataCommand extends Command
                             $this->entityManager->persist($pari);
                             $this->entityManager->flush();*/
                         }elseif(str_contains($tournoi[6],'(')){
-                            /*$tournoiPs = new Tournoi();
+                            $tournoiPs = $this->tournoiRepository->findOneBy(['identifiant' => $tournoi[2]]);
+                            if(!$tournoiPs) {
+                                $tournoiPs = new Tournoi();
+                            }
                             $tournoiPs->setIdentifiant($tournoi[2]);
                             $tournoiPs->setDate($date);
                             $tournoiPs->setBuyin($win);
@@ -99,7 +102,7 @@ class HistoryDataCommand extends Command
                             $tournoiPs->setMoney(-$win);
                             $allTournoi[$tournoi[2]] = $tournoiPs;
                             $this->entityManager->persist($tournoiPs);
-                            $this->entityManager->flush();*/
+                            $this->entityManager->flush();
                         }else{
                             $tournoiPs = $this->tournoiRepository->findOneBy(['identifiant' => $tournoi[2]]);
                             if(!$tournoiPs){
