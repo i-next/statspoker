@@ -59,10 +59,11 @@ class TournoiRepository extends ServiceEntityRepository
     {
         return $this->createQueryBuilder('t')
             ->select('t.identifiant')
+            ->addSelect('t.date')
             ->addSelect('COUNT(*) as count')
-            ->groupBy('t.identifiant')
-            ->where('count > 1')
+            ->groupBy('t.identifiant,t.date')
             ->setMaxResults(5000)
+            ->having('COUNT(id) > 1')
             ->getQuery()
             ->getResult();
     }
