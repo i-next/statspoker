@@ -63,6 +63,7 @@ class TournoiRepository extends ServiceEntityRepository
             ->groupBy('t.identifiant')
             ->where('count > 1')
             ->setMaxResults(5000)
+            ->getQuery()
             ->getResult();
     }
 
