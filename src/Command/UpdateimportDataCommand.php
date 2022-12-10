@@ -67,7 +67,7 @@ class UpdateimportDataCommand extends Command
     private function duplicateTournoi(): void
     {
         $tournois = $this->tournoiRepository->getDuplicate();
-        dump($tournois);die;
+
         foreach ($tournois as $tournoi){
             $duplicates = $this->tournoiRepository->findBy(['identifiant' =>$tournoi['identifiant']]);
             foreach($duplicates as $key => $duplicate){
