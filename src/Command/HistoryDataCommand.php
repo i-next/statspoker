@@ -82,13 +82,13 @@ class HistoryDataCommand extends Command
                         $date = \DateTime::createFromFormat('d/m/Y', $dateArray[0]);
                         $win = floatval(rtrim(preg_replace('~[(Â) ]~', '',str_replace(',','.',$tournoi[6]))));
                         if($tournoi[2][0] === "4"){
-                            $pari = new Paris();
+                           /* $pari = new Paris();
                             $pari->setWin($win);
                             $pari->setDate($date);
                             $this->entityManager->persist($pari);
-                            $this->entityManager->flush();
+                            $this->entityManager->flush();*/
                         }elseif(str_contains($tournoi[6],'(')){
-                            $tournoiPs = new Tournoi();
+                            /*$tournoiPs = new Tournoi();
                             $tournoiPs->setIdentifiant($tournoi[2]);
                             $tournoiPs->setDate($date);
                             $tournoiPs->setBuyin($win);
@@ -99,18 +99,24 @@ class HistoryDataCommand extends Command
                             $tournoiPs->setMoney(-$win);
                             $allTournoi[$tournoi[2]] = $tournoiPs;
                             $this->entityManager->persist($tournoiPs);
-                            $this->entityManager->flush();
+                            $this->entityManager->flush();*/
                         }else{
                             $tournoiPs = $this->tournoiRepository->findOneBy(['identifiant' => $tournoi[2]]);
-                            if($tournoiPs){
-                                $tournoiPs->setWin(true);
-                                $tournoiPs->setPosition(1);
-                                $tournoiPs->setMoney($win);
-                                $tournoiPs->setPrizepool($win);
-                                $allTournoi[$tournoi[2]] = $tournoiPs;
-                                $this->entityManager->persist($tournoiPs);
-                                $this->entityManager->flush();
+                            if(!$tournoiPs){
+                                $tournoiPs = new Tournoi();
+                                $tournoiPs->setIdentifiant($tournoi[2]);
+                                $tournoiPs->setDate($date);
+                                $tournoiPs->setBuyin($win);
+                                $tournoiPs->setNbplayer(3);
+                                $tournoiPs->setTicket(false);
                             }
+                            $tournoiPs->setWin(true);
+                            $tournoiPs->setPosition(1);
+                            $tournoiPs->setMoney($win);
+                            $tournoiPs->setPrizepool($win);
+                            $allTournoi[$tournoi[2]] = $tournoiPs;
+                            $this->entityManager->persist($tournoiPs);
+                            $this->entityManager->flush();
                         }
                     }
                 }
