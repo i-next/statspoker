@@ -71,16 +71,19 @@ class UpdateimportDataCommand extends Command
         foreach ($tournois as $tournoi){
             $duplicates = $this->tournoiRepository->findBy(['identifiant' =>$tournoi['identifiant']]);
             foreach($duplicates as $key => $duplicate){
-                dump($duplicate);die;
+
                 if ($key === array_key_last($duplicates)) {
                     break;
                 }
-
+                dump($tournoi->getId());
+                $tournoiToRemove = $this->tournoiRepository->find($tournoi->getId());
+                $this->entityManager->remove($tournoiToRemove);
+                $this->entityManager->flush();
             }
-            dump($tournoi);
+
 
         }
-        die;
+
         /*$finder = new Finder();
         $finder->files()->in('datasrc/psychoman59')->depth(0);
         //dump($finder->count());die;
