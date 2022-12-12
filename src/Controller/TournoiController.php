@@ -273,7 +273,7 @@ class TournoiController extends AbstractController
             $result['labels'][] = $key;
             $result['result'][] = $value;
         }
-
+        dump($result);die;
         return new JsonResponse(json_encode($result));
     }
 

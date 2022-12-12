@@ -1,0 +1,58 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Tournoi{% endblock %}
+
+{% block body %}
+    <h1>Tournoi</h1>
+
+    <table class="table">
+        <tbody>
+            <tr>
+                <th>Id</th>
+                <td>{{ tournoi.id }}</td>
+            </tr>
+            <tr>
+                <th>Identifiant</th>
+                <td>{{ tournoi.identifiant }}</td>
+            </tr>
+            <tr>
+                <th>Buyin</th>
+                <td>{{ tournoi.buyin }}</td>
+            </tr>
+            <tr>
+                <th>Nbplayer</th>
+                <td>{{ tournoi.nbplayer }}</td>
+            </tr>
+            <tr>
+                <th>Prizepool</th>
+                <td>{{ tournoi.prizepool }}</td>
+            </tr>
+            <tr>
+                <th>Win</th>
+                <td>{{ tournoi.win ? 'Yes' : 'No' }}</td>
+            </tr>
+            <tr>
+                <th>Position</th>
+                <td>{{ tournoi.position }}</td>
+            </tr>
+            <tr>
+                <th>Date</th>
+                <td>{{ tournoi.date ? tournoi.date|date('Y-m-d') : '' }}</td>
+            </tr>
+            <tr>
+                <th>Ticket</th>
+                <td>{{ tournoi.ticket ? 'Yes' : 'No' }}</td>
+            </tr>
+            <tr>
+                <th>Money</th>
+                <td>{{ tournoi.money }}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <a href="{{ path('app_back_tournoi_index') }}">back to list</a>
+
+    <a href="{{ path('app_back_tournoi_edit', {'id': tournoi.id}) }}">edit</a>
+
+    {{ include('back_tournoi/_delete_form.html.twig') }}
+{% endblock %}

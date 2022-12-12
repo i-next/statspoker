@@ -82,11 +82,11 @@ class HistoryDataCommand extends Command
                         $date = \DateTime::createFromFormat('d/m/Y', $dateArray[0]);
                         $win = floatval(rtrim(preg_replace('~[(Â) ]~', '',str_replace(',','.',$tournoi[6]))));
                         if($tournoi[2][0] === "4"){
-                           /* $pari = new Paris();
+                            $pari = new Paris();
                             $pari->setWin($win);
                             $pari->setDate($date);
                             $this->entityManager->persist($pari);
-                            $this->entityManager->flush();*/
+                            $this->entityManager->flush();
                         }elseif(str_contains($tournoi[6],'(')){
                             $tournoiPs = $this->tournoiRepository->findOneBy(['identifiant' => $tournoi[2]]);
                             if(!$tournoiPs) {
