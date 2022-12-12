@@ -254,26 +254,29 @@ class TournoiController extends AbstractController
             $tournoiData = $tournoiEs->getData();
             $tournoiDate = new \DateTime();
             $tournoiDate->setTimestamp(strtotime($tournoiData['date']));
-            if (!array_key_exists($tournoiDate->format('d/m/Y'), $tournoiWinPerDay)) {
-                $tournoiWinPerDay[$tournoiDate->format('d/m/Y')] = 0;
+            if (!array_key_exists($tournoiDate->format('Y/m/d'), $tournoiWinPerDay)) {
+                $tournoiWinPerDay[$tournoiDate->format('Y/m/d')] = 0;
             }
-                $tournoiWinPerDay[$tournoiDate->format('d/m/Y')] += $tournoiData['money'];
+                $tournoiWinPerDay[$tournoiDate->format('Y/m/d')] += $tournoiData['money'];
         }
         foreach ($paris as $key => $pari) {
             $pariData = $pari->getData();
             $pariDate = new \DateTime();
             $pariDate->setTimestamp(strtotime($pariData['date']));
-            if (!array_key_exists($pariDate->format('d/m/Y'), $tournoiWinPerDay)) {
-                $tournoiWinPerDay[$pariDate->format('d/m/Y')] = 0;
+            if (!array_key_exists($pariDate->format('Y/m/d'), $tournoiWinPerDay)) {
+                $tournoiWinPerDay[$pariDate->format('Y/m/d')] = 0;
             }
 
-            $tournoiWinPerDay[$pariDate->format('d/m/Y')] += $pariData['win'];
+            $tournoiWinPerDay[$pariDate->format('Y/m/d')] += $pariData['win'];
         }
         foreach ($tournoiWinPerDay as $key => $value) {
             $result['labels'][] = $key;
             $result['result'][] = $value;
         }
-        dump($result);die;
+        dump($result);
+        ksort($result);
+        dump($result);
+        die;
         return new JsonResponse(json_encode($result));
     }
 
