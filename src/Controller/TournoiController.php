@@ -269,12 +269,13 @@ class TournoiController extends AbstractController
 
             $tournoiWinPerDay[$pariDate->format('Y/m/d')] += $pariData['win'];
         }
+
+        ksort($tournoiWinPerDay);
         foreach ($tournoiWinPerDay as $key => $value) {
             $result['labels'][] = $key;
             $result['result'][] = $value;
         }
-        dump($result);
-        ksort($result);
+
         dump($result);
         die;
         return new JsonResponse(json_encode($result));
