@@ -1,27 +1,56 @@
 {% extends 'base.html.twig' %}
 
-{% block title %}Tournoi index{% endblock %}
+{% block title %}Tournois back{% endblock %}
+{% block stylesheets %}
+    <link href="https://unpkg.com/bootstrap-table@1.21.0/dist/bootstrap-table.min.css" rel="stylesheet">
+    {{ parent() }}
+{% endblock %}
+{% block javascripts %}
 
+    {{ encore_entry_script_tags('tournoisback') }}
+    {{ parent() }}
+    <script>
+        function ajaxTournoisBack(params) {
+
+            let url = $("#table").data('url');
+            console.log(url);
+            $.get(url + '?' + $.param(params.data)).then(function (res) {
+                params.success(res);
+                console.log(res);
+            })
+        }
+    </script>
+{% endblock %}
 {% block body %}
-    <h1>Tournoi index</h1>
-
-    <table class="table">
+<div class="container">
+    <div class="row">
+        <div class="d-flex .align-content-center"><h1>PokerStats</h1></div>
+    </div>
+    <div class="row">
+    <table
+            id="table"
+            data-toggle="table"
+            data-height="800"
+            data-ajax="ajaxTournoisBack"
+            data-search="true"
+            data-side-pagination="server"
+            data-pagination="true"
+            data-page-size="25"
+            data-search-accent-neutralise="true"
+            data-url="{{ path('app_ajax_tournois_back') }}">
         <thead>
             <tr>
-                <th>Id</th>
-                <th>Identifiant</th>
-                <th>Buyin</th>
-                <th>Nbplayer</th>
-                <th>Prizepool</th>
-                <th>Win</th>
-                <th>Position</th>
-                <th>Date</th>
-                <th>Ticket</th>
-                <th>Money</th>
-                <th>actions</th>
+                <th data-field="identifiant" data-sortable="true">Identifiant</th>
+                <th data-field="buyin" data-sortable="true">Buyin</th>
+                <th data-field="nbplayer" data-sortable="true">Nbplayer</th>
+                <th data-field="prizepool" data-sortable="true">Prizepool</th>
+                <th data-field="win" data-sortable="true">Win</th>
+                <th data-field="position" data-sortable="true">Position</th>
+                <th data-field="date" data-sortable="true">Date</th>
+                <th data-field="money" data-sortable="true">Money</th>
             </tr>
         </thead>
-        <tbody>
+        {#<tbody>
         {% for tournoi in tournois %}
             <tr>
                 <td>{{ tournoi.id }}</td>
@@ -44,8 +73,10 @@
                 <td colspan="11">no records found</td>
             </tr>
         {% endfor %}
-        </tbody>
+        </tbody>#}
     </table>
 
     <a href="{{ path('app_back_tournoi_new') }}">Create new</a>
+    </div>
+</div>
 {% endblock %}

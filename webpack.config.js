@@ -27,6 +27,7 @@ Encore
     .addEntry('tournois', './assets/js/tournois.js')
     .addEntry('cards', './assets/js/cards.js')
     .addEntry('players', './assets/js/players.js')
+    .addEntry('tournoisback', './assets/js/back/tournois.js')
 
     // enables the Symfony UX Stimulus bridge (used in assets/bootstrap.js)
     .enableStimulusBridge('./assets/controllers.json')

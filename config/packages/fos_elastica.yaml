@@ -20,7 +20,8 @@ fos_elastica:
             finder: ~
         tournois:
             properties:
-                identifiant: ~
+                identifiant: { 'type': 'text',
+                               'fielddata': true }
                 buyin: { 'type': 'text',
                          'fielddata': true }
                 prizepool: { 'type': 'text',
@@ -30,7 +31,8 @@ fos_elastica:
                 nbplayer: ~
                 position: ~
                 ticket: ~
-                money: ~
+                money: { 'type': 'text',
+                         'fielddata': true }
             persistence:
                 driver: orm
                 model: App\Entity\Tournoi
