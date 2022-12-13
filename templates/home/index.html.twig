@@ -27,11 +27,11 @@
         </div>
     </div>
     <div class="row">
-        <div class="col">
-            <canvas id="tournament_win_per_month" height="240px"
-                    data-url="{{ path('app_win_per_month_tour') }}"><p>Tournoi Gains par mois</p></canvas>
+        <div class="col  col-4">
+            <canvas id="tournament_win_per_month" height="400px"
+                    data-url="{{ path('app_win_per_month_tour') }}" ><p>Tournoi Gains par mois</p></canvas>
         </div>
-        <div class="col">
+        <div class="col col-8" style="min-height: 648px!important">
             <canvas id="tournament_win_per_day" height="240px"
                     data-url="{{ path('app_win_per_day_tour') }}"><p>Tournoi Gains par jour</p></canvas>
         </div>
