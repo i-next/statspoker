@@ -200,11 +200,19 @@ class TournoiController extends AbstractController
     }
 
     #[Route('/winpermonthtournois', name: 'app_win_per_month_tour')]
-    public function winsPerMounth(): JsonResponse
+    public function winsPerMounth(Request $request): JsonResponse
     {
         $queryTournois = new Query();
         $queryTournois->setSize(500000);
         $queryTournois->setSort(['date' => 'ASC']);
+        if($request->query->get('data')){
+            $rangeQuery = new Range();
+            $filterDate = $this->dataService->getLimiteDate($request->query->get('data'));
+            $rangeQuery->addField('date',$filterDate);
+            $boolQuery = new \Elastica\Query\BoolQuery();
+            $boolQuery->addMust($rangeQuery);
+            $queryTournois->setQuery($boolQuery);
+        }
         $tournois = $this->indexManager->getIndex('tournois')->search($queryTournois)->getResults();
         $paris = $this->indexManager->getIndex('paris')->search($queryTournois)->getResults();
         $tournoiWinPerMonth = [];
@@ -240,11 +248,20 @@ class TournoiController extends AbstractController
     }
 
     #[Route('/winperdaytournois', name: 'app_win_per_day_tour')]
-    public function winsPerDay(): JsonResponse
+    public function winsPerDay(Request $request): JsonResponse
     {
         $queryTournois = new Query();
         $queryTournois->setSize(500000);
         $queryTournois->setSort(['date' => 'ASC']);
+        if($request->query->get('data')){
+            $rangeQuery = new Range();
+            $filterDate = $this->dataService->getLimiteDate($request->query->get('data'));
+            $rangeQuery->addField('date',$filterDate);
+            $boolQuery = new \Elastica\Query\BoolQuery();
+            $boolQuery->addMust($rangeQuery);
+            $queryTournois->setQuery($boolQuery);
+        }
+
         $tournois = $this->indexManager->getIndex('tournois')->search($queryTournois)->getResults();
         $paris = $this->indexManager->getIndex('paris')->search($queryTournois)->getResults();
         $result['labels'] = [];

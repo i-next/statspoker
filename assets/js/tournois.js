@@ -5,6 +5,16 @@ $(document).ready(function () {
         window.parent.ajax_chart(tournois_gains, $(this).data('url'),{'data': $(this).val()}, '#tournament_gains');
     });
 
+    $("#winpermonthfilter").on('change', function(){
+
+        window.parent.ajax_chart(tournoi_win_per_month, $(this).data('url'),{'data': $(this).val()}, '#tournament_win_per_month');
+    });
+
+    $("#winperdayfilter").on('change', function(){
+
+        window.parent.ajax_chart(tournoi_win_per_day, $(this).data('url'),{'data': $(this).val()}, '#tournament_win_per_day');
+    });
+
     $("#winpartyfilter").on('change', function(){
         window.parent.ajax_chart(tournois_win_party, $(this).data('url'),{'data': $(this).val()}, '#tournament_win_party');
     });

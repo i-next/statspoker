@@ -10,6 +10,8 @@ class DataService
 {
     private const LAST_7_DAYS = "last7days";
 
+    private const TODAY = "today";
+
     private const LAST_WEEK = "lastweek";
 
     private const THIS_WEEK = "thisweek";
@@ -71,6 +73,11 @@ class DataService
         switch ($data){
             case self::ALL:
                 $result = ["gte" => "01/01/1970","format" => 'dd/MM/yyyy'];
+                break;
+            case self::TODAY:
+                $today = date("d/m/Y", strtotime('today'));
+                $tomorrow = date("d/m/Y", strtotime('tomorrow'));
+                $result = ["gte" => $today,"lte" => $tomorrow,"format" => 'dd/MM/yyyy'];
                 break;
             case self::LAST_7_DAYS:
                 $result = ["gte" => date("d/m/Y", strtotime('-7 days')),"format" => 'dd/MM/yyyy'];

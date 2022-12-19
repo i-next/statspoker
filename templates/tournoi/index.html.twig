@@ -30,10 +30,30 @@
         </div>
         <div class="row">
             <div class="col">
+                <div>
+                    <select id="winpermonthfilter" data-url="{{ path('app_win_per_month_tour') }}">
+                        <option value="all">Tous</option>
+                        <option value="thisyear">Cette année</option>
+                        <option value="lastyear">Année dernière</option>
+                    </select>
+                </div>
                 <canvas id="tournament_win_per_month" height="240px"
                         data-url="{{ path('app_win_per_month_tour') }}"><p>Tournoi Gains par mois</p></canvas>
             </div>
             <div class="col">
+                <div>
+                    <select id="winperdayfilter" data-url="{{ path('app_win_per_day_tour') }}">
+                        <option value="all">Tous</option>
+                        <option value="today">Aujourd'hui</option>
+                        <option value="last7days">7 Derniers jours</option>
+                        <option value="thisweek">Cette Semaine</option>
+                        <option value="lastweek">Semaine Dernière</option>
+                        <option value="thismonth">Ce mois</option>
+                        <option value="lastmonth">Mois Dernier</option>
+                        <option value="thisyear">Cette année</option>
+                        <option value="lastyear">Année dernière</option>
+                    </select>
+                </div>
                 <canvas id="tournament_win_per_day" height="240px"
                         data-url="{{ path('app_win_per_day_tour') }}"><p>Tournoi Gains par jour</p></canvas>
             </div>
@@ -43,6 +63,7 @@
             <div>
                 <select id="gainsfilter" data-url="{{ path('app_gains_filtered_tour') }}">
                     <option value="all">Tous</option>
+                    <option value="today">Aujourd'hui</option>
                     <option value="last7days">7 Derniers jours</option>
                     <option value="thisweek">Cette Semaine</option>
                     <option value="lastweek">Semaine Dernière</option>
@@ -59,6 +80,7 @@
             <div>
                 <select id="winpartyfilter" data-url="{{ path('app_win_party_filtered_tour') }}">
                     <option value="all">Tous</option>
+                    <option value="today">Aujourd'hui</option>
                     <option value="last7days">7 Derniers jours</option>
                     <option value="thisweek">Cette Semaine</option>
                     <option value="lastweek">Semaine Dernière</option>
