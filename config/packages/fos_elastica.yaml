@@ -160,3 +160,21 @@ fos_elastica:
                 index:
                     max_result_window: 5000000
 
+        contacts:
+            properties:
+                pseudo: { 'type': 'text',
+                                     'fielddata': true }
+                age: { 'type': 'text',
+                       'fielddata': true}
+                sexe: { 'type': 'boolean'}
+                valid: { 'type': 'boolean'}
+                ville: { 'type': 'text',
+                         'fielddata': true }
+                comment: { 'type': 'text',
+                           'fielddata': true }
+            persistence:
+                driver: orm
+                model: App\Entity\Contact
+            settings:
+                index:
+                    max_result_window: 5000000

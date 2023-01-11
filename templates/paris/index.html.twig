@@ -5,11 +5,19 @@
 {% block body %}
     <h1>Paris index</h1>
 
-    <table class="table">
+    <table id="table"
+           data-toggle="table"
+           data-height="800"
+           data-ajax="ajaxPlayers"
+           data-search="true"
+           data-side-pagination="server"
+           data-pagination="true"
+           data-page-size="25"
+           data-search-accent-neutralise="true"
+           data-url="{{ path('app_ajax_paris') }}">
         <thead>
             <tr>
-                <th>Id</th>
-                <th>Date</th>
+                <th data-field="date">Date</th>
                 <th>Win</th>
                 <th>actions</th>
             </tr>
