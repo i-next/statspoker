@@ -164,7 +164,7 @@ fos_elastica:
             properties:
                 pseudo: { 'type': 'text',
                                      'fielddata': true }
-                age: { 'type': 'text',
+                age: { 'type': 'textfos ',
                        'fielddata': true}
                 sexe: { 'type': 'boolean'}
                 valid: { 'type': 'boolean'}

@@ -73,6 +73,12 @@
                     <span>Plantes</span>
                 </a>
             </li>
+            <li class="{% if menu_active == 'contacts' %} active{% else %}sub-menu {% endif %}" >
+                <a href="/plant" class="{% if menu_active == 'contacts' %} active{% endif %}">
+                    <i class="fa fa-contact-book"></i>
+                    <span>Contact</span>
+                </a>
+            </li>
         </ul>
     </div>
     <div class="content">

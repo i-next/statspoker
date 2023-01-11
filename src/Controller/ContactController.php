@@ -18,6 +18,7 @@ class ContactController extends AbstractController
     {
         return $this->render('contact/index.html.twig', [
             'contacts' => $contactRepository->findAll(),
+            'menu_active' => 'contacts',
         ]);
     }
 
