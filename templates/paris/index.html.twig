@@ -25,7 +25,6 @@
         <tbody>
         {% for pari in paris %}
             <tr>
-                <td>{{ pari.id }}</td>
                 <td>{{ pari.date ? pari.date|date('Y-m-d') : '' }}</td>
                 <td>{{ pari.win }}</td>
                 <td>
