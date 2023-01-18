@@ -2,13 +2,30 @@
 
 {% block title %}Paris index{% endblock %}
 
+{% block javascripts %}
+
+    {{ parent() }}
+<script>
+    function ajaxParis(params) {
+
+        let url = $("#table").data('url');
+        let type = $("#table").data('type');
+        console.log(url);
+        $.get(url + '?' + $.param(params.data) + '&type=' + type).then(function (res) {
+            params.success(res);
+            console.log(res);
+        });
+    }
+</script>
+{% endblock %}
 {% block body %}
     <h1>Paris index</h1>
     <a href="{{ path('app_paris_new') }}">Create new</a>
+
     <table id="table"
            data-toggle="table"
            data-height="800"
-           data-ajax="ajaxPlayers"
+           data-ajax="ajaxParis"
            data-search="true"
            data-side-pagination="server"
            data-pagination="true"
@@ -18,11 +35,11 @@
         <thead>
             <tr>
                 <th data-field="date">Date</th>
-                <th>Win</th>
-                <th>actions</th>
+                <th data-field="win">Win</th>
+                <th data-field="action">actions</th>
             </tr>
         </thead>
-        <tbody>
+        {#<tbody>
         {% for pari in paris %}
             <tr>
                 <td>{{ pari.date ? pari.date|date('Y-m-d') : '' }}</td>
@@ -34,10 +51,10 @@
             </tr>
         {% else %}
             <tr>
-                <td colspan="4">no records found</td>
+                <td colspan="3">no records found</td>
             </tr>
         {% endfor %}
-        </tbody>
+        </tbody>#}
     </table>
 
     <a href="{{ path('app_paris_new') }}">Create new</a>

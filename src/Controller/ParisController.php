@@ -68,10 +68,12 @@ class ParisController extends AbstractController
         foreach($parisES as $key =>$pariES){
 
             $pariData = $pariES->getData();
-            dump($pariData);die;
-            /*$players[$key]['pseudo'] = $playerData['pseudo'];
-            $players[$key]['hand_win'] = $playerData['hand_win'];
-            $players[$key]['tour_win'] = $playerData['tour_win'];*/
+            $date = new \DateTime();
+            $date->setTimestamp(strtotime($pariData['date']));
+            $dateData = $date->format("d/m/Y");
+           $paris[$key]['date'] = $dateData;
+            $paris[$key]['win'] = $pariData['win'];
+            $paris[$key]['action'] = "action";
         }
         return new JsonResponse([
             'rows' => $paris,
