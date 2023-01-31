@@ -34,7 +34,7 @@ class PlantType extends AbstractType
                 'query_builder' => function (EntityRepository $er) {
                     return $er->createQueryBuilder('s')
                         ->orderBy('s.name', 'ASC')
-                        ->Where('s.quantity > 0');
+                        ;
                 }
             ])
         ;
