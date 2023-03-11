@@ -253,6 +253,10 @@ class TournoiController extends AbstractController
         $queryTournois = new Query();
         $queryTournois->setSize(500000);
         $queryTournois->setSort(['date' => 'ASC']);
+
+        if(is_null($request->query->get('data'))){
+            $request->query->set('data','last7days');
+        }
         if($request->query->get('data')){
             $rangeQuery = new Range();
             $filterDate = $this->dataService->getLimiteDate($request->query->get('data'));
