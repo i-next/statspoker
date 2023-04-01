@@ -16,7 +16,6 @@
             console.log(url);
             $.get(url + '?' + $.param(params.data) + '&type=' + type).then(function (res) {
                 params.success(res);
-                console.log(res);
             });
         }
     </script>
@@ -25,14 +24,15 @@
             console.log('test');
             let url = $("#table2").data('url');
             let type = $("#table2").data('type');
-            console.log(url);
             $.get(url + '?' + $.param(params.data) + '&type=' + type).then(function (res) {
                 params.success(res);
-                console.log('test');
             })
         }
         function rowStyle(row, index) {
-            console.log(row.valid,index)
+            console.log(row.valid);
+            if(row.valid){
+                return { classes : 'bg-green', }
+            }
         }
     </script>
 {% endblock %}
