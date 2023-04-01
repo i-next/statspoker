@@ -31,6 +31,9 @@
                 console.log('test');
             })
         }
+        function rowStyle(row, index) {
+            console.log(row,index)
+        }
     </script>
 {% endblock %}
 {% block body %}
@@ -63,10 +66,11 @@
                                data-page-size="1000"
                                data-search-accent-neutralise="true"
                                data-type="true"
+                               data-row-style="rowStyle"
                                data-url="{{ path('app_ajax_contacts') }}">
                             <thead>
                             <tr>
-
+                                <th data-field="valid" data-visible="false"></th>
                                 <th data-field="pseudo" data-sortable="true">Pseudo</th>
                                 <th data-field="age" data-sortable="true">Age</th>
                                 <th data-field="sexe" data-sortable="true">Sexe</th>

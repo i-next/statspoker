@@ -63,6 +63,7 @@ class ContactController extends AbstractController
         foreach($contactsES as $key =>$contactES){
 
             $contactData = $contactES->getData();
+            $contacts[$key]['valid'] = $contactData['valid'];
             $contacts[$key]['pseudo'] = $contactData['pseudo'];
             $contacts[$key]['age'] = $contactData['age'];
             $contacts[$key]['sexe'] = $contactData['sexe']?'H':'F';
