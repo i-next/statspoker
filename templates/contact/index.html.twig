@@ -22,8 +22,8 @@
     </script>
     <script>
         function ajaxContactBack(params) {
-            let url = $("#table2").data('url');
-            let type = $("#table2").data('type');
+            let url = $("#table").data('url');
+            let type = $("#table").data('type');
             $.get(url + '?' + $.param(params.data) + '&type=' + type).then(function (res) {
                 params.success(res);
             })
