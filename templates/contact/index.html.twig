@@ -15,7 +15,6 @@
             let type = $("#table").data('type');
 
             $.get(url + '?' + $.param(params.data) + '&type=' + type).then(function (res) {
-                console.log(res)
                 //params.success(res);
             });
         }
@@ -29,9 +28,7 @@
             })
         }
         function rowStyle(row, index) {
-            console.log(row.valid);
             if (row.valid == true) {
-                console.log(row.pseudo);
                 return {
                     css: {
                         color: 'blue'
@@ -58,9 +55,9 @@
                     <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home"
                             type="button" role="tab" aria-controls="nav-home" aria-selected="true">Validé
                     </button>
-                    <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile"
+                   {# <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile"
                             type="button" role="tab" aria-controls="nav-profile" aria-selected="false">non validé
-                    </button>
+                    </button>#}
                 </div>
             </nav>
             <div class="tab-content" id="nav-tabContent">
@@ -93,7 +90,7 @@
                     </div>
                 </div>
 
-                <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+               {# <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
                     <div class="row">
                         <table id="table2"
                                data-toggle="table"
@@ -119,7 +116,7 @@
                             </thead>
                         </table>
                     </div>
-                </div>
+                </div>#}
             </div>
         </div>
 
