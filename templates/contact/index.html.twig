@@ -29,22 +29,12 @@
             })
         }
         function rowStyle(row, index) {
-            var classes = [
-                'bg-blue',
-                'bg-green',
-                'bg-orange',
-                'bg-yellow',
-                'bg-red'
-            ]
 
-            if (index % 2 === 0 && index / 2 < classes.length) {
+            if (row.valid = 'true') {
                 return {
-                    classes: classes[index / 2]
-                }
-            }
-            return {
-                css: {
-                    color: 'blue'
+                    css: {
+                        color: 'blue'
+                    }
                 }
             }
         }
