@@ -15,6 +15,7 @@
             let type = $("#table").data('type');
 
             $.get(url + '?' + $.param(params.data) + '&type=' + type).then(function (res) {
+                console.log(res)
                 params.success(res);
             });
         }
