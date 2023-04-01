@@ -16,25 +16,24 @@
 
             $.get(url + '?' + $.param(params.data) + '&type=' + type).then(function (res) {
                 console.log(res)
-                params.success(res);
+                //params.success(res);
             });
         }
     </script>
     <script>
         function ajaxContactBack2(params) {
-            console.log('test');
             let url = $("#table2").data('url');
             let type = $("#table2").data('type');
             $.get(url + '?' + $.param(params.data) + '&type=' + type).then(function (res) {
                 params.success(res);
             })
         }
-        function rowStyle(row, index) {
+        /*function rowStyle(row, index) {
             console.log(row.valid);
             if(row.valid){
-                /*return { classes : 'bg-green', }*/
+                return { classes : 'bg-green', }
             }
-        }
+        }*/
     </script>
 {% endblock %}
 {% block body %}
@@ -71,7 +70,7 @@
                                data-url="{{ path('app_ajax_contacts') }}">
                             <thead>
                             <tr>
-                                <th data-field="valid" data-visible="false"></th>
+                                <th data-field="valid" data-visible="false">valid</th>
                                 <th data-field="pseudo" data-sortable="true">Pseudo</th>
                                 <th data-field="age" data-sortable="true">Age</th>
                                 <th data-field="sexe" data-sortable="true">Sexe</th>
