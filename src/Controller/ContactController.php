@@ -47,10 +47,10 @@ class ContactController extends AbstractController
         $queryContacts->setFrom($offset);
         $queryContacts->setSize($size);
         $queryContacts->setSort([$sort=>$order]);
-        $type = $request->query->get('type')?'true':'false';
+       /* $type = $request->query->get('type')?'true':'false';
         $matchQuery = new Query\MatchQuery();
         $matchQuery->setField('valid',$type);
-        $queryContacts->setQuery($matchQuery);
+        $queryContacts->setQuery($matchQuery);*/
 
         if($search){
             $queryString = new Query\QueryString();
