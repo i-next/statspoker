@@ -31,12 +31,14 @@
         function rowStyle(row, index) {
             console.log(row.valid);
             if (row.valid == 'true') {
+                console.log('ok');
                 return {
                     css: {
                         color: 'blue'
                     }
                 }
             }
+            return "";
         }
     </script>
 {% endblock %}
