@@ -9,7 +9,7 @@
 
     {{ parent() }}
     <script>
-        function ajaxContactBack(params) {
+        function ajaxContactBack2(params) {
 
             let url = $("#table").data('url');
             let type = $("#table").data('type');
@@ -21,7 +21,7 @@
         }
     </script>
     <script>
-        function ajaxContactBack2(params) {
+        function ajaxContactBack(params) {
             let url = $("#table2").data('url');
             let type = $("#table2").data('type');
             $.get(url + '?' + $.param(params.data) + '&type=' + type).then(function (res) {
@@ -63,7 +63,7 @@
                                data-search="true"
                                data-side-pagination="server"
                                data-pagination="true"
-                               data-page-size="1000"
+                               data-page-size="50"
                                data-search-accent-neutralise="true"
                                data-type="true"
                                data-row-style="rowStyle"
