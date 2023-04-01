@@ -13,7 +13,7 @@
 
             let url = $("#table").data('url');
             let type = $("#table").data('type');
-            console.log(url);
+
             $.get(url + '?' + $.param(params.data) + '&type=' + type).then(function (res) {
                 params.success(res);
             });
@@ -31,7 +31,7 @@
         function rowStyle(row, index) {
             console.log(row.valid);
             if(row.valid){
-                return { classes : 'bg-green', }
+                /*return { classes : 'bg-green', }*/
             }
         }
     </script>
