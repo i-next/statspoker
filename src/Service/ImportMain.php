@@ -278,15 +278,20 @@ class ImportMain
                 $flop = $this->dataService->get_string_between($data, '[', ']');
                 $flopCards = explode(' ',$flop);
                 $flopCard1 = $this->cardsRepository->findOneBy(['value' => substr($flopCards[0],0,1), 'color' => substr($flopCards[0],1)]);
-                $flopCard1->setFlopcard($flopCard1->getFlopcard()+1);
-                $flopCard2 = $this->cardsRepository->findOneBy(['value' => substr($flopCards[1],0,1), 'color' => substr($flopCards[1],1)]);
-                $flopCard2->setFlopcard($flopCard2->getFlopcard()+1);
+                if($flopCard1->getFlopcard()+1){
+                    $flopCard1->setFlopcard($flopCard1->getFlopcard()+1);
+                    $main->setIdFlop1($flopCard1);
+                }
+                $flopCard2 = $this->cardsRepository->findOneBy(['value' => substr($flopCards[1], 0, 1), 'color' => substr($flopCards[1], 1)]);
+                if($flopCard2->getFlopcard()+1) {
+                    $flopCard2->setFlopcard($flopCard2->getFlopcard()+1);
+                    $main->setIdFlop2($flopCard2);
+                }
                 $flopCard3 = $this->cardsRepository->findOneBy(['value' => substr($flopCards[2],0,1), 'color' => substr($flopCards[2],1)]);
-                $flopCard3->setFlopcard($flopCard3->getFlopcard()+1);
-                $main->setIdFlop1($flopCard1);
-                $main->setIdFlop2($flopCard2);
-                $main->setIdFlop3($flopCard3);
-
+                if($flopCard3->getFlopcard()+1) {
+                    $flopCard3->setFlopcard($flopCard3->getFlopcard() + 1);
+                    $main->setIdFlop3($flopCard3);
+                }
             }
             if(str_contains($data,'TOURNANT')) {
                 $turnFull = substr(trim($data), -4);
